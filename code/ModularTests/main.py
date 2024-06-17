@@ -53,7 +53,7 @@ def generate_response(relevant_content, user_prompt):
     return generated_response
 
 def main():
-    st.title("RAG System for Document Retrieval")
+    st.title("CHLA Chatbot Prototype")
 
     # User query
     user_prompt = st.text_input("Enter your query:")
