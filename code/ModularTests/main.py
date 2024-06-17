@@ -1,5 +1,5 @@
 import streamlit as st
-from DataExtract import DocumentExtractor
+from DataExtract import TextExtractor
 from VectorSearch import FAISS
 from transformers import LlamaForCausalLM, LlamaTokenizer
 from PromptEng import PromptEng
@@ -34,7 +34,7 @@ def create_chain():
 def retrieve_documents(user_prompt, similarity_threshold=0.7):
     # Extract text
     directory = "./sample"
-    extractor = DocumentExtractor(directory)
+    extractor = TextExtractor(directory)
     extracted_texts = extractor.extract_all_texts()
 
     # Initialize faiss
