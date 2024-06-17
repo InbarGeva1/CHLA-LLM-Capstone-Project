@@ -30,13 +30,13 @@ def main():
             extractor = DocumentExtractor(directory)
             extracted_texts = extractor.extract_all_texts()
 
-            # Initialize the document searcher with the extracted texts
+            # Initialize faiss
             searcher = FAISS(extracted_texts)
 
             # Perform the search
             relevant_texts, similarities = searcher.search(user_prompt, similarity_threshold)
 
-            # Display the relevant texts and their similarities
+            # Display relevant texts and their similarities
             st.subheader("Relevant Documents:")
             for text, similarity in zip(relevant_texts, similarities):
                 st.markdown(f"**Similarity:** {similarity}")
