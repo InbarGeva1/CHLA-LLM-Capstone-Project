@@ -4,8 +4,9 @@ from VectorSearch import FAISS
 from transformers import LlamaForCausalLM, LlamaTokenizer
 from PromptEng import PromptEng
 import torch
+from langchain import Chain, Memory, Prompt, LangChain
 
-# Load LLaMA3 
+# Load LLaMA3
 model_name = "meta-llama/Meta-Llama-3-8B"
 tokenizer = LlamaTokenizer.from_pretrained(model_name)
 model = LlamaForCausalLM.from_pretrained(model_name)
@@ -14,8 +15,45 @@ device = torch.device("cuda" if torch.cuda.is_available() else "cpu")
 model.to(device)
 
 
+# Initialize LangChain
+memory = Memory()
+prompt = Prompt()
+
+# function to create langchain
+def create_chain():
+    chain = Chain(
+        steps=[
+            {"type": "input", "name": "user_prompt"},
+            {"type": "custom", "name": "retrieve_documents", "function": retrieve_documents},
+            {"type": "custom", "name": "generate_response", "function": generate_response},
+        ],
+        memory=memory,
+    )
+    return chain
+
+def retrieve_documents(user_prompt, similarity_threshold=0.7):
+    # Extract text
+    directory = "./sample"
+    extractor = DocumentExtractor(directory)
+    extracted_texts = extractor.extract_all_texts()
+
+    # Initialize faiss
+    searcher = FAISS(extracted_texts)
+
+    # Perform the search
+    relevant_texts, similarities = searcher.search(user_prompt, similarity_threshold)
+    relevant_content = " ".join(relevant_texts)
+
+    return relevant_content
+
+def generate_response(relevant_content, user_prompt):
+    # gnerate response with Llama and prompteng
+    prompt_engineer = PromptEng(model, tokenizer, device)
+    generated_response = prompt_engineer.process(relevant_content, user_prompt)
+    return generated_response
+
 def main():
-    st.title("CHLA RAG Prototype")
+    st.title("RAG System for Document Retrieval")
 
     # User query
     user_prompt = st.text_input("Enter your query:")
@@ -25,34 +63,20 @@ def main():
 
     if st.button("Search"):
         if user_prompt:
-            # Extract texts from documents
-            directory = "./sample"
-            extractor = DocumentExtractor(directory)
-            extracted_texts = extractor.extract_all_texts()
+            # start the chain
+            chain = create_chain()
+            result = chain.run({"user_prompt": user_prompt, "similarity_threshold": similarity_threshold})
 
-            # Initialize faiss
-            searcher = FAISS(extracted_texts)
-
-            # Perform the search
-            relevant_texts, similarities = searcher.search(user_prompt, similarity_threshold)
-
-            # Display relevant texts and their similarities
+            # Display relevant documents and the generated response
             st.subheader("Relevant Documents:")
-            for text, similarity in zip(relevant_texts, similarities):
-                st.markdown(f"**Similarity:** {similarity}")
+            for text in result['retrieve_documents']:
                 st.markdown(f"**Document:**\n{text}")
                 st.markdown("---")
 
-            # Generate a response using the LLaMA model with prompt engineering
-            relevant_content = " ".join(relevant_texts)
-            prompt_engineer = PromptEng(model, tokenizer, device)
-            generated_response = prompt_engineer.process(relevant_content, user_prompt)
-
             st.subheader("Generated Response:")
-            st.markdown(generated_response)
+            st.markdown(result['generate_response'])
         else:
             st.error("Please enter a query.")
-
 
 if __name__ == "__main__":
     main()
