@@ -14,7 +14,7 @@ class FAISS:
         self.index.add(self.embeddings_np)
         
     def search(self, user_prompt, similarity_threshold=0.7):
-        query_embedding = self.model.encode([user_prompt], convert_to_tensor=True).cpu().numpy()
+        query_embedding = self.model.encode([user_prompt], convert_to_tensor=True).cuda().numpy()
         D, I = self.index.search(query_embedding, len(self.texts))
         
         # Convert distances to similarities
