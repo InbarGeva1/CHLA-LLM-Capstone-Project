@@ -3,7 +3,7 @@ import docx
 import fitz
 
 
-class DocumentExtractor:
+class TextExtractor:
     def __init__(self, directory):
         self.directory = directory
         self.extracted_texts = {}
