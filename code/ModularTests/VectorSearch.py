@@ -7,7 +7,7 @@ class FAISS:
         self.model = SentenceTransformer(model_name)
         self.texts = list(extracted_texts.values())
         self.embeddings = self.model.encode(self.texts, convert_to_tensor=True)
-        self.embeddings_np = self.embeddings.cpu().numpy()
+        self.embeddings_np = self.embeddings.cuda().numpy()
         
         dimension = self.embeddings_np.shape[1]
         self.index = faiss.IndexFlatL2(dimension)
@@ -18,7 +18,7 @@ class FAISS:
         D, I = self.index.search(query_embedding, len(self.texts))
         
         # Convert distances to similarities
-        similarities = 1 - D[0] / 2  # This is based on the L2 distance to cosine similarity conversion
+        similarities = 1 - D[0] / 2  
         
         # Filter based on similarity threshold
         relevant_indices = [index for index, similarity in enumerate(similarities) if similarity >= similarity_threshold]
