@@ -1,20 +1,33 @@
-
 class PromptEng:
     def __init__(self, model, tokenizer, device):
         self.model = model
         self.tokenizer = tokenizer
         self.device = device
-    
+
     def combine_prompt(self, external_context, user_prompt):
-        combined_prompt = f"{external_context}\n\nUser Question: {user_prompt}\nAnswer:"
+        combined_prompt = f"""
+        Context: {external_context}
+
+        User Question: {user_prompt}
+
+        Please provide a detailed and natural-sounding answer based on the context above. Ensure the response is clear and concise.
+        Answer:
+        """
         return combined_prompt
-    
+
     def generate_output(self, combined_prompt):
         inputs = self.tokenizer(combined_prompt, return_tensors="pt", padding=True).to(self.device)
-        outputs = self.model.generate(inputs.input_ids, attention_mask=inputs.attention_mask, num_return_sequences=1, no_repeat_ngram_size=2)
+        outputs = self.model.generate(
+            inputs.input_ids,
+            attention_mask=inputs.attention_mask,
+            num_return_sequences=1,
+            no_repeat_ngram_size=2,
+            temperature=0.6,
+            top_p=0.85
+        )
         generated_tokens = outputs[0]
         return generated_tokens
-    
+
     def process(self, external_context, user_prompt):
         combined_prompt = self.combine_prompt(external_context, user_prompt)
         generated_tokens = self.generate_output(combined_prompt)
