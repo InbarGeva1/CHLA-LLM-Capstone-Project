@@ -10,7 +10,9 @@ class PromptEng:
 
         User Question: {user_prompt}
 
-        Please provide a detailed and natural-sounding answer based on the context above. Ensure the response is clear and concise.
+        Please provide a detailed and natural-sounding answer based on the context above. 
+        Maintain all medical terminology and ensure the response is clear and concise.
+        
         Answer:
         """
         return combined_prompt
