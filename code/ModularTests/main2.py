@@ -7,6 +7,7 @@ import torch
 from langchain import Chain, Memory, Prompt, LangChain
 
 # Load LLaMA3
+auth_token = "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"
 model_name = "meta-llama/Meta-Llama-3-8B"
 tokenizer = LlamaTokenizer.from_pretrained(model_name)
 model = LlamaForCausalLM.from_pretrained(model_name)
@@ -14,6 +15,8 @@ model = LlamaForCausalLM.from_pretrained(model_name)
 device = torch.device("cuda" if torch.cuda.is_available() else "cpu")
 model.to(device)
 
+if tokenizer.pad_token is None:
+    tokenizer.add_special_tokens({'pad_token': tokenizer.eos_token})
 
 # Initialize LangChain
 memory = Memory()
@@ -40,7 +43,7 @@ def retrieve_documents(user_prompt, similarity_threshold=0.7):
     # Initialize chroma
     searcher = ChromaVectorSearch(extracted_texts)
 
-    # Perform the search
+    # Perform search
     relevant_texts, similarities = searcher.search(user_prompt, similarity_threshold)
     relevant_content = " ".join(relevant_texts)
 
@@ -48,8 +51,8 @@ def retrieve_documents(user_prompt, similarity_threshold=0.7):
 
 def generate_response(relevant_content, user_prompt):
     # gnerate response with Llama and prompteng
-    prompt_engineer = PromptEng(model, tokenizer, device)
-    generated_response = prompt_engineer.process(relevant_content, user_prompt)
+    prompt = PromptEng(model, tokenizer, device)
+    generated_response = prompt.process(relevant_content, user_prompt)
     return generated_response
 
 def main():
