@@ -1,4 +1,3 @@
-import torch
 
 class PromptEng:
     def __init__(self, model, tokenizer, device):
@@ -22,3 +21,4 @@ class PromptEng:
         generated_text = self.tokenizer.decode(generated_tokens, skip_special_tokens=True)
         answer = generated_text.split("Answer:")[1].strip() if "Answer:" in generated_text else generated_text
         return answer
+
