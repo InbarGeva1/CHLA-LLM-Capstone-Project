@@ -66,6 +66,7 @@ class ChromaVectorSearch:
 
         return relevant_texts, relevant_similarities
 
+
     class LlamaIndex:
         def __init__(self, extracted_texts, model_name='paraphrase-MiniLM-L6-v2'):
             self.model = SentenceTransformer(model_name)
