@@ -1,8 +1,1 @@
-fastapi
-uvicorn
-transformers
-sentence-transformers
-llama-index
-torch
-python-docx
-PyMuPDF
+
