@@ -1,16 +1,22 @@
+import sys
+import os
+
+# Add the path to the ModularTests folder
+try:
+    base_dir = os.path.dirname(__file__)
+    sys.path.append(os.path.join(base_dir, "../../ModularTests"))
+except NameError:
+    # Fallback to a direct path specification if __file__ is not available
+    sys.path.append("/Users/andrewmorris/PycharmProjects/CHLA LLM Chatbot/code/ModularTests")
+
+from DataExtract import TextExtractor
+from VectorSearch import ChromaVectorSearch
+from PromptEng import PromptEng
+
 from fastapi import FastAPI, HTTPException
 from pydantic import BaseModel
 from transformers import LlamaForCausalLM, LlamaTokenizer
 import torch
-import os
-import sys
-
-# Add the path to the ModularTests folder
-sys.path.append(os.path.join(os.path.dirname(__file__), "../../ModularTests"))
-
-from DataExtract import TextExtractor
-from VectorSearch import LlamaIndex
-from PromptEng import PromptEng
 
 # Load LLaMA3
 auth_token = "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"
@@ -41,7 +47,7 @@ def query_documents(request: QueryRequest):
     extracted_texts = extractor.extract_all_texts()
 
     # Vector search
-    searcher = LlamaIndex(extracted_texts)
+    searcher = ChromaVectorSearch(extracted_texts)
     relevant_texts, similarities = searcher.search(request.user_prompt, request.similarity_threshold)
     relevant_content = " ".join(relevant_texts)
 
