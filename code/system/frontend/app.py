@@ -19,7 +19,7 @@ if 'input' not in st.session_state:
     st.session_state.input = ""
 
 # display the similarity threshold slider above the conversation
-similarity_threshold = st.slider("Similarity Threshold", 0.0, 1.0, 0.7, key="slider")
+similarity_threshold = st.slider("Similarity Threshold (For Testing Purposes)", 0.0, 1.0, 0.7, key="slider")
 
 # function to send a query to the backend
 def send_query(user_prompt):
@@ -38,7 +38,7 @@ def send_query(user_prompt):
 st.write("### Ask a Question Regarding CHLA Policy!")
 for chat in st.session_state.conversation:
     st.markdown(f"**You:** {chat['user']}")
-    st.markdown(f"**Bot:** {chat['bot']}")
+    st.markdown(f"**IPC Chatbot:** {chat['bot']}")
 
 # User input for the query
 user_input = st.text_input("You:", value=st.session_state.input, key="user_input")
