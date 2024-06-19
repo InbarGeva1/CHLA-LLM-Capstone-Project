@@ -9,8 +9,8 @@ from langchain import Chain, Memory, Prompt, LangChain
 # Load LLaMA3
 auth_token = "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"
 model_name = "meta-llama/Meta-Llama-3-8B"
-tokenizer = LlamaTokenizer.from_pretrained(model_name)
-model = LlamaForCausalLM.from_pretrained(model_name)
+tokenizer = LlamaTokenizer.from_pretrained(model_name, auth_token=auth_token)
+model = LlamaForCausalLM.from_pretrained(model_name, auth_token=auth_token)
 
 device = torch.device("cuda" if torch.cuda.is_available() else "cpu")
 model.to(device)
