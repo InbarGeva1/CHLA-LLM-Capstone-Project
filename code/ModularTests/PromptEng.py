@@ -24,7 +24,7 @@ class PromptEng:
             attention_mask=inputs.attention_mask,
             num_return_sequences=1,
             no_repeat_ngram_size=2,
-            temperature=0.6,
+            temperature=0.35,
             top_p=0.85
         )
         generated_tokens = outputs[0]
