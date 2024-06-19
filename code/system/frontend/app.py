@@ -1,39 +1,51 @@
 import streamlit as st
 import requests
 
+# Define the paths to your image files
+logo_path = "childrens-hospital-la-logo.png"
+icon_path = "childrens-hospital-la-icon.jpg"
 
-def main():
-    st.title("CHLA Chatbot Prototype")
+# Display the logo at the top of the app
+st.image(logo_path, width=300)
 
-    # User query
-    user_prompt = st.text_input("Enter your query:")
+# Add a title and description
+st.title("CHLA Chatbot Prototype")
+st.write("Welcome to the Children's Hospital Los Angeles Chatbot Prototype.")
 
-    # User input for similarity threshold
-    similarity_threshold = st.slider("Similarity Threshold", 0.0, 1.0, 0.6)
+# Initialize session state
+if 'conversation' not in st.session_state:
+    st.session_state.conversation = []
 
-    if st.button("Search"):
-        if user_prompt:
-            # Make a request to the backend API
-            response = requests.post(
-                "http://10.3.8.195:8000/query/",
-                json={"user_prompt": user_prompt, "similarity_threshold": similarity_threshold}
-            )
+# Display the similarity threshold slider above the conversation
+similarity_threshold = st.slider("Similarity Threshold", 0.0, 1.0, 0.7, key="slider")
 
-            if response.status_code == 200:
-                result = response.json()
-                # Display relevant documents and the generated response
-                st.subheader("Relevant Documents:")
-                for text in result['relevant_texts']:
-                    st.markdown(f"**Document:**\n{text}")
-                    st.markdown("---")
+# Function to send a query to the backend
+def send_query(user_prompt):
+    response = requests.post(
+        "http://10.3.8.195:8000/query/",
+        json={"user_prompt": user_prompt, "similarity_threshold": st.session_state.slider}
+    )
+    return response.json() if response.status_code == 200 else None
 
-                st.subheader("Generated Response:")
-                st.markdown(result['generated_response'])
-            else:
-                st.error("Error: Could not retrieve results from the backend.")
-        else:
-            st.error("Please enter a query.")
+# Display the conversation history
+st.write("### Conversation")
+for chat in st.session_state.conversation:
+    st.markdown(f"**You:** {chat['user']}")
+    st.markdown(f"**Bot:** {chat['bot']}")
 
+# User input for the query
+user_input = st.text_input("You:", key="user_input")
 
-if __name__ == "__main__":
-    main()
+if user_input:
+    st.session_state.conversation.append({"user": user_input, "bot": "..."})  # Placeholder for bot response
+    result = send_query(user_input)
+    if result:
+        bot_response = result['generated_response']
+        st.session_state.conversation[-1]['bot'] = bot_response
+    else:
+        st.session_state.conversation[-1]['bot'] = "Error: Could not retrieve results from the backend."
+    st.experimental_rerun()  # Refresh the app to display the new conversation
+
+# Display the icon at the bottom
+st.image(icon_path, width=100)
+
