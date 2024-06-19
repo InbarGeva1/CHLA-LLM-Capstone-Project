@@ -17,8 +17,8 @@ model.to(device)
 
 if tokenizer.pad_token is None:
     tokenizer.add_special_tokens({'pad_token': tokenizer.eos_token})
+    model.resize_token_embeddings(len(tokenizer))
 
-# Initialize LangChain
 memory = Memory()
 prompt = Prompt()
 
