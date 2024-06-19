@@ -2,7 +2,7 @@ from sentence_transformers import SentenceTransformer, util
 import faiss
 import numpy as np
 import chromadb
-from llama_index import GPTSimpleVectorIndex, Document, Query
+from llama_index.core import VectorStoreIndex, Document
 
 class FAISS:
     def __init__(self, extracted_texts, model_name='paraphrase-MiniLM-L6-v2'):
@@ -73,17 +73,20 @@ class ChromaVectorSearch:
             self.embeddings = self.model.encode(self.texts, convert_to_tensor=True)
             self.embeddings_np = self.embeddings.cpu().numpy()
 
-            # convert docs to list
+            # Convert texts to Document objects
             self.documents = [Document(text=text) for text in self.texts]
 
-            # create llamaindex
-            self.index = GPTSimpleVectorIndex(documents=self.documents, embedding_model=self.model)
+            # Create the LlamaIndex
+            self.index = VectorStoreIndex(documents=self.documents, embedding_model=self.model)
 
         def search(self, user_prompt, similarity_threshold=0.7):
             query_embedding = self.model.encode([user_prompt], convert_to_tensor=True).cpu().numpy().tolist()[0]
 
-            # perform search
-            query = Query(text=user_prompt, embedding=query_embedding)
+            # Perform search
+            query = {
+                "text": user_prompt,
+                "embedding": query_embedding
+            }
             results = self.index.query(query, top_k=len(self.texts))
 
             relevant_texts = []
