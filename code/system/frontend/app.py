@@ -9,7 +9,7 @@ def main():
     user_prompt = st.text_input("Enter your query:")
 
     # User input for similarity threshold
-    similarity_threshold = st.slider("Similarity Threshold", 0.0, 1.0, 0.7)
+    similarity_threshold = st.slider("Similarity Threshold", 0.0, 1.0, 0.6)
 
     if st.button("Search"):
         if user_prompt:
