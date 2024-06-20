@@ -17,11 +17,13 @@ from fastapi import FastAPI, HTTPException
 from pydantic import BaseModel
 from transformers import LlamaForCausalLM, LlamaTokenizer
 import torch
+from langchain import Chain, Memory, Prompt
 
 # Load LLaMA3
 auth_token = "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"
-tokenizer = LlamaTokenizer.from_pretrained("meta-llama/Meta-Llama-3-8B", use_auth_token=auth_token)
-model = LlamaForCausalLM.from_pretrained("meta-llama/Meta-Llama-3-8B", use_auth_token=auth_token)
+model_name = "meta-llama/Meta-Llama-3-8B"
+tokenizer = LlamaTokenizer.from_pretrained(model_name, use_auth_token=auth_token)
+model = LlamaForCausalLM.from_pretrained(model_name, use_auth_token=auth_token)
 device = torch.device("cuda" if torch.cuda.is_available() else "cpu")
 model.to(device)
 
@@ -29,35 +31,46 @@ if tokenizer.pad_token is None:
     tokenizer.add_special_tokens({'pad_token': tokenizer.eos_token})
     model.resize_token_embeddings(len(tokenizer))
 
+memory = Memory()
+prompt = Prompt()
 
 class QueryRequest(BaseModel):
     user_prompt: str
     similarity_threshold: float = 0.7
 
-
 app = FastAPI()
 
+def create_chain():
+    chain = Chain(
+        steps=[
+            {"type": "input", "name": "user_prompt"},
+            {"type": "custom", "name": "retrieve_documents", "function": retrieve_documents},
+            {"type": "custom", "name": "generate_response", "function": generate_response},
+        ],
+        memory=memory,
+    )
+    return chain
+
+def retrieve_documents(user_prompt, similarity_threshold=0.7):
+    directory = "../../sample"
+    extractor = TextExtractor(directory)
+    extracted_texts = extractor.extract_all_texts()
+    searcher = ChromaVectorSearch(extracted_texts)
+    relevant_texts, similarities = searcher.search(user_prompt, similarity_threshold)
+    relevant_content = " ".join(relevant_texts)
+    return relevant_content
+
+def generate_response(relevant_content, user_prompt):
+    prompt = PromptEng(model, tokenizer, device)
+    generated_response = prompt.process(relevant_content, user_prompt)
+    return generated_response
 
 @app.post("/query/")
 def query_documents(request: QueryRequest):
-    # Extract texts
-    directory = os.path.join(os.path.dirname(__file__), "../../sample")
-    extractor = TextExtractor(directory)
-    extracted_texts = extractor.extract_all_texts()
-
-    # Vector search
-    searcher = ChromaVectorSearch(extracted_texts)
-    relevant_texts, similarities = searcher.search(request.user_prompt, request.similarity_threshold)
-    relevant_content = " ".join(relevant_texts)
-
-    # Generate response
-    prompt_eng = PromptEng(model, tokenizer, device)
-    generated_response = prompt_eng.process(relevant_content, request.user_prompt)
-
-    return {"relevant_texts": relevant_texts, "similarities": similarities, "generated_response": generated_response}
-
+    chain = create_chain()
+    result = chain.run({"user_prompt": request.user_prompt, "similarity_threshold": request.similarity_threshold})
+    return {"relevant_texts": result["retrieve_documents"], "generated_response": result["generate_response"]}
 
 if __name__ == "__main__":
     import uvicorn
-
     uvicorn.run(app, host="0.0.0.0", port=8000)
