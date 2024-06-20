@@ -17,7 +17,6 @@ from fastapi import FastAPI, HTTPException
 from pydantic import BaseModel
 from transformers import LlamaForCausalLM, LlamaTokenizer
 import torch
-from langchain import Chain, Memory, Prompt
 
 # Load LLaMA3
 auth_token = "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"
@@ -31,8 +30,6 @@ if tokenizer.pad_token is None:
     tokenizer.add_special_tokens({'pad_token': tokenizer.eos_token})
     model.resize_token_embeddings(len(tokenizer))
 
-memory = Memory()
-prompt = Prompt()
 
 class QueryRequest(BaseModel):
     user_prompt: str
@@ -40,16 +37,6 @@ class QueryRequest(BaseModel):
 
 app = FastAPI()
 
-def create_chain():
-    chain = Chain(
-        steps=[
-            {"type": "input", "name": "user_prompt"},
-            {"type": "custom", "name": "retrieve_documents", "function": retrieve_documents},
-            {"type": "custom", "name": "generate_response", "function": generate_response},
-        ],
-        memory=memory,
-    )
-    return chain
 
 def retrieve_documents(user_prompt, similarity_threshold=0.7):
     directory = "../../sample"
@@ -65,12 +52,25 @@ def generate_response(relevant_content, user_prompt):
     generated_response = prompt.process(relevant_content, user_prompt)
     return generated_response
 
+def chain_logic(user_prompt, similarity_threshold):
+    # Step 1: Retrieve documents
+    relevant_content = retrieve_documents(user_prompt, similarity_threshold)
+    # Step 2: Generate response
+    generated_response = generate_response(relevant_content, user_prompt)
+    return relevant_content, generated_response
+
+
 @app.post("/query/")
 def query_documents(request: QueryRequest):
-    chain = create_chain()
-    result = chain.run({"user_prompt": request.user_prompt, "similarity_threshold": request.similarity_threshold})
-    return {"relevant_texts": result["retrieve_documents"], "generated_response": result["generate_response"]}
+    user_prompt = request.user_prompt
+    similarity_threshold = request.similarity_threshold
+
+    relevant_content, generated_response = chain_logic(user_prompt, similarity_threshold)
+
+    return {"relevant_texts": relevant_content, "generated_response": generated_response}
+
 
 if __name__ == "__main__":
     import uvicorn
+
     uvicorn.run(app, host="0.0.0.0", port=8000)
