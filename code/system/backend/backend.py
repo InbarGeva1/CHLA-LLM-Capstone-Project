@@ -7,7 +7,7 @@ try:
     sys.path.append(os.path.join(base_dir, "../../ModularTests"))
 except NameError:
     # Fallback to a direct path specification if __file__ is not available
-    sys.path.append("/Users/andrewmorris/PycharmProjects/CHLA LLM Chatbot/code/ModularTests")
+    sys.path.append("/Users/andrewmorris/PycharmProjects/CHLA-LLM-Capstone-Project/code/ModularTests")
 
 from DataExtract import TextExtractor
 from VectorSearch import ChromaVectorSearch
