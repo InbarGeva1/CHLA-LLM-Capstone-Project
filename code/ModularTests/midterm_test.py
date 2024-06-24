@@ -1,54 +1,53 @@
-import streamlit as st
-import requests
+import chainlit as cl
+import openai
 
-logo_path = "childrens-hospital-la-logo.png"
-icon_path = "childrens-hospital-la-icon.jpg"
 
-# send a query to the backend
-def send_query(user_prompt):
-    try:
-        response = requests.post(
-            "http://10.3.8.195:8000/query/",
-            json={"user_prompt": user_prompt, "similarity_threshold": st.session_state.slider}
-        )
-        response.raise_for_status()  # Raise an HTTPError for bad responses
-        return response.json()
-    except requests.exceptions.RequestException:
-        # Return a static message for any connection-related errors
-        return {"generated_response": "Apologies for the inconvenience. System still in progress. Come back soon!"}
+# Set your API key and base URL
+openai.api_key = "FAKE_API_KEY"
+openai.api_base = "http://157.242.192.217/v1"  # Ensure this points to the correct API version endpoint
 
-# boot chat interface
-def boot():
-    # display logo
-    st.image(logo_path, width=300)
+settings = {
+    "model": "llama3",
+    "temperature": 0.7,
+    "max_tokens": 500,
+}
 
-    # title and description
-    st.title("CHLA Chatbot Prototype")
-    st.write("Welcome to the Children's Hospital Los Angeles Chatbot Prototype. Ask a question regarding CHLA policy!")
+@cl.on_chat_start
+def start_chat():
+    # Initialize message history
+    cl.user_session.set("message_history", [{"role": "system", "content": "You are a helpful chatbot."}])
 
-    # initialize session
-    if "messages" not in st.session_state:
-        st.session_state.messages = []
+@cl.on_message
+async def main(message: cl.Message):
+    # Retrieve the message history from the session
+    message_history = cl.user_session.get("message_history")
+    message_history.append({"role": "user", "content": message.content})
 
-    # similarity threshold for testing
-    st.session_state.slider = st.slider("Similarity Threshold (For Testing Purposes)", 0.0, 1.0, 0.7)
+    # Create an initial empty message to send back to the user
+    msg = cl.Message(content="")
+    await msg.send()
 
-    # display the conversation history
-    for message in st.session_state.messages:
-        st.chat_message("human").write(message[0])
-        st.chat_message("ai").write(message[1])
 
-    # user input for query
-    if query := st.chat_input("Type your message..."):
-        st.session_state.messages.append([query, ""])  # Placeholder for bot response
-        st.chat_message("human").write(query)
-        result = send_query(query)
-        bot_response = result['generated_response']
-        st.session_state.messages[-1][1] = bot_response
-        st.chat_message("ai").write(bot_response)
+    response = openai.ChatCompletion.create(
+        model=settings["model"],
+        messages=message_history,
+        temperature=settings["temperature"],
+        max_tokens=settings["max_tokens"],
+        stream=True
+    )
 
-if __name__ == "__main__":
-    boot()
+    async for part in response:
+        if 'choices' in part and 'delta' in part['choices'][0] and 'content' in part['choices'][0]['delta']:
+            token = part['choices'][0]['delta']['content']
+            await msg.stream_token(token)
 
-# Display the icon at the bottom
-st.image(icon_path, width=100)
+        # Append the assistant's last response to the history
+    message_history.append({"role": "assistant", "content": msg.content})
+    cl.user_session.set("message_history", message_history)
+
+    # Update the message after streaming completion
+    await msg.update()
+
+
+
+
