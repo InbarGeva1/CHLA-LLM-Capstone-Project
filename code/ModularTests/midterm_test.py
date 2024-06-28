@@ -2,7 +2,6 @@ import chainlit as cl
 from langchain.llms import OpenAI
 
 # Set your API key and base URL
-
 server_ip = "http://157.242.192.217/v1"  # Ensure this points to the correct API version endpoint
 
 llm = OpenAI(
