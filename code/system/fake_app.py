@@ -5,6 +5,8 @@ from langchain.prompts import PromptTemplate
 
 # Define the external context
 context = """
+CHLA DOCUMENTATION:
+
 PURPOSE:
 
 To reduce the risk of surgical site infections through the implementation of prevention bundles for patients undergoing identified high risk surgical procedures at Children’s Hospital Los Angeles (CHLA).
@@ -40,15 +42,40 @@ ATTACHMENTS:
 
 POLICY OWNER:
 Manager, Infection Prevention and Control
+
+CDC DOCUMENTATION:
+Findings  Before surgery, patients should shower or bathe (full body) with soap (antimicrobial or nonantimicrobial) or 
+an antiseptic agent on at least the night before the operative day. Antimicrobial prophylaxis should be administered only 
+when indicated based on published clinical practice guidelines and timed such that a bactericidal concentration of the agents is 
+established in the serum and tissues when the incision is made. In cesarean section procedures, antimicrobial prophylaxis should be 
+administered before skin incision. Skin preparation in the operating room should be performed using an alcohol-based agent unless contraindicated. 
+For clean and clean-contaminated procedures, additional prophylactic antimicrobial agent doses should not be administered after the surgical incision 
+is closed in the operating room, even in the presence of a drain. Topical antimicrobial agents should not be applied to the surgical incision. 
+During surgery, glycemic control should be implemented using blood glucose target levels less than 200 mg/dL, and normothermia should be maintained in all patients. 
+Increased fraction of inspired oxygen should be administered during surgery and after extubation in the immediate postoperative period for patients with normal pulmonary 
+function undergoing general anesthesia with endotracheal intubation. Transfusion of blood products should not be withheld from surgical patients as a means to prevent SSI.
 """
 
 # Define the updated prompt template
 prompt_template = PromptTemplate.from_template("""
-Context: {context}
+Documentation: {context}
 
 User Question: {input_text}
 
-Please provide a detailed and natural-sounding answer based on the context above. Maintain all medical terminology and ensure the response is clear and concise.
+Please provide a detailed and natural-sounding answer based on the documentation above. Provide separate paragraphs of summarization for the CHLA DOCUMENTATION and CDC DOCUMENTATION.
+Maintain all medical terminology and ensure the response is clear and concise. Use bullet points and step-by-step instructions for clarity when applicable.
+Only provide the summarizations using the following markdown format and begin by your response by saying:
+
+**CHLA Recommendation:**
+(newline)
+summary based on chla context
+
+**CDC Recommendation:**
+(newline)
+summary based on cdc context
+
+Attach this link at the end of the chla paragraph: https://lmu.app.box.com/file/1562757601538
+Attach this link at the end of the CDC paragraph: https://www.cdc.gov/infection-control/hcp/surgical-site-infection/index.html
 
 Answer:
 """)
