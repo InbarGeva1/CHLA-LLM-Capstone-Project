@@ -1,4 +1,4 @@
-import chainlit as cl
+import streamlit as st
 from langchain_community.llms import Ollama
 from langchain.chains import LLMChain
 from langchain.prompts import PromptTemplate
@@ -59,37 +59,56 @@ ollama_llm = Ollama(model="llama3", base_url="http://localhost:11434")
 # Create the LLMChain
 chain = LLMChain(llm=ollama_llm, prompt=prompt_template)
 
-@cl.on_chat_start
-def start_chat():
-    # Initialize message history
-    cl.user_session.set("message_history", [{"role": "system", "content": "You are a helpful chatbot."}])
+logo_path = "childrens-hospital-la-logo.png"
+icon_path = "childrens-hospital-la-icon.jpg"
 
-@cl.on_message
-async def main(message: cl.Message):
-    # Retrieve the message history from the session
-    message_history = cl.user_session.get("message_history")
-    message_history.append({"role": "user", "content": message.content})
 
-    # Create an initial empty message to send back to the user
-    msg = cl.Message(content="")
-    await msg.send()
+# boot chat interface
+def boot():
+    # Display logo
+    st.image(logo_path, width=300)
 
-    try:
+    # Title and description
+    st.title("CHLA Chatbot Prototype")
+    st.write("Welcome to the Children's Hospital Los Angeles Chatbot Prototype. Ask a question regarding CHLA policy!")
+
+    # Initialize session
+    if "messages" not in st.session_state:
+        st.session_state.messages = []
+
+    # Similarity threshold for testing
+    st.session_state.slider = st.slider("Similarity Threshold (For Testing Purposes)", 0.0, 1.0, 0.7)
+
+    # Display the conversation history
+    for message in st.session_state.messages:
+        if message[0] == "human":
+            st.chat_message("human").write(message[1])
+        else:
+            st.chat_message("ai").write(message[1])
+
+    # User input for query
+    if query := st.chat_input("Type your message..."):
+        st.session_state.messages.append(["human", query])  # Placeholder for bot response
+        st.chat_message("human").write(query)
+
         # Combine context and user message
-        combined_prompt = prompt_template.format(context=context, input_text=message.content)
+        combined_prompt = prompt_template.format(context=context, input_text=query)
 
-        # Run the chain with the combined prompt
-        response = chain.run({"context": context, "input_text": message.content})
+        try:
+            response = chain.run({"context": context, "input_text": query})
+            st.session_state.messages.append(["ai", response])
+        except Exception as e:
+            response = f"An error occurred: {str(e)}"
+            st.session_state.messages.append(["ai", response])
 
-        # Stream the response
-        async for token in response:
-            await msg.stream_token(token)
+        st.chat_message("ai").write(response)
 
-        # Append the assistant's last response to the history
-        message_history.append({"role": "assistant", "content": msg.content})
-        cl.user_session.set("message_history", message_history)
 
-        # Update the message after streaming completion
-        await msg.update()
-    except Exception as e:
-        await cl.Message(content=f"An error occurred: {str(e)}").send()
+if __name__ == "__main__":
+    boot()
+
+# Display the icon at the bottom
+st.image(icon_path, width=100)
+
+
+
