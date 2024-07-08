@@ -30,7 +30,7 @@ app = FastAPI()
 
 
 def retrieve_documents(user_prompt, similarity_threshold=0.7):
-    directory = "sample"
+    directory = "/home/andrew/CHLA-LLM-Capstone-Project/sample"
     extractor = TextExtractor(directory)
     extracted_texts = extractor.extract_all_texts()
     searcher = FAISS(extracted_texts)
