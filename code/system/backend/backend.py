@@ -62,7 +62,6 @@ Answer:
 """)
 
 
-
 @app.post("/query/")
 def query_documents(request: QueryRequest):
     user_prompt = request.user_prompt
