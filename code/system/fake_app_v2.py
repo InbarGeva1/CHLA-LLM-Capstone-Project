@@ -105,16 +105,18 @@ async def main(message: cl.Message):
     combined_prompt = prompt_template.format(context=context, input_text=message.content)
 
     try:
-        # Use streaming to handle partial responses
-        response_stream = chain.stream({"input_text": combined_prompt})
+        # Get the response from the model as a whole text
+        response = chain.run({"input_text": combined_prompt})
 
         full_response = ""
 
-        # Stream response token by token
-        async for token in response_stream:
-            if token_content := token.choices[0].delta.get("content", ""):
-                full_response += token_content
-                await msg.stream_token(token_content)
+        # Simulate token streaming by breaking the response into chunks
+        chunk_size = 10
+        for i in range(0, len(response), chunk_size):
+            token_content = response[i:i + chunk_size]
+            full_response += token_content
+            await msg.stream_token(token_content)
+            await asyncio.sleep(0.1)  # Simulate streaming delay
 
         # Append the assistant's last response to the history
         message_history.append({"role": "assistant", "content": full_response})
