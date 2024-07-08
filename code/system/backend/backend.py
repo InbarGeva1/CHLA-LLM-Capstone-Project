@@ -66,8 +66,8 @@ Answer:
 def query_documents(request: QueryRequest):
     user_prompt = request.user_prompt
     similarity_threshold = request.similarity_threshold
-
-    relevant_content, generated_response = chain_logic(user_prompt, similarity_threshold)
+    relevant_content = retrieve_documents(user_prompt, similarity_threshold)
+    generated_response = model.generate(prompt_template, user_prompt, context=relevant_content)
 
     return {"relevant_texts": relevant_content, "generated_response": generated_response}
 
