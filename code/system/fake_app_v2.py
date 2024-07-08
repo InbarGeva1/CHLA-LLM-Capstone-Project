@@ -2,6 +2,7 @@ import chainlit as cl
 from langchain_community.llms import Ollama
 from langchain.chains import LLMChain
 from langchain.prompts import PromptTemplate
+import asyncio
 
 # Define the external context
 context = """
@@ -101,18 +102,18 @@ async def main(message: str):
     combined_prompt = prompt_template.format(context=context, input_text=message)
 
     try:
-        # Start streaming response
-        response_stream = chain.stream({"context": context, "input_text": message})
+        # Get the complete response
+        response = chain.run({"context": context, "input_text": message})
 
-        # Initialize an empty response
+        # Simulate streaming by sending the response in chunks
+        chunk_size = 10  # Define the size of each chunk
         full_response = ""
-
-        # Display response token by token
-        async for token in response_stream:
-            full_response += token
+        for i in range(0, len(response), chunk_size):
+            chunk = response[i:i + chunk_size]
+            full_response += chunk
             await cl.Message(content=full_response, replace=True).send()
+            await asyncio.sleep(0.1)  # Adding a slight delay to simulate streaming
 
     except Exception as e:
         response = f"An error occurred: {str(e)}"
         await cl.Message(content=response).send()
-
