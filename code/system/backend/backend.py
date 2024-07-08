@@ -10,20 +10,15 @@ except NameError:
     sys.path.append("/Users/andrewmorris/PycharmProjects/CHLA-LLM-Capstone-Project/code/ModularTests")
 
 from DataExtract import TextExtractor
-from VectorSearch import ChromaVectorSearch
+from VectorSearch import FAISS
 
 from fastapi import FastAPI, HTTPException
 from pydantic import BaseModel
 from langchain.prompts import PromptTemplate
-from transformers import LlamaForCausalLM, LlamaTokenizer
-import torch
+
 
 # Load LLaMA3
-model = Ollama(model="llama3", base_url="http://10.3.8.195:11434", temperature=0.3)
-
-if tokenizer.pad_token is None:
-    tokenizer.add_special_tokens({'pad_token': tokenizer.eos_token})
-    model.resize_token_embeddings(len(tokenizer))
+model = Ollama(model="llama3", base_url="http://10.3.8.195", temperature=0.3)
 
 
 class QueryRequest(BaseModel):
@@ -37,7 +32,7 @@ def retrieve_documents(user_prompt, similarity_threshold=0.7):
     directory = "../../sample"
     extractor = TextExtractor(directory)
     extracted_texts = extractor.extract_all_texts()
-    searcher = ChromaVectorSearch(extracted_texts)
+    searcher = FAISS(extracted_texts)
     relevant_texts, similarities = searcher.search(user_prompt, similarity_threshold)
     relevant_content = " ".join(relevant_texts)
     return relevant_content
