@@ -82,7 +82,7 @@ Answer:
 """)
 
 # Initialize the Ollama model
-ollama_llm = Ollama(model="llama3", base_url="http://localhost:11434", temperature=0.3, stream=True)
+ollama_llm = Ollama(model="llama3", base_url="http://localhost:11434", temperature=0.3)
 
 # Create the LLMChain
 chain = LLMChain(llm=ollama_llm, prompt=prompt_template)
