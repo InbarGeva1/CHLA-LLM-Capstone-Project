@@ -5,7 +5,7 @@ from langchain.llms import Ollama
 try:
     base_dir = os.path.dirname(__file__)
     sys.path.append(os.path.join(base_dir, "../../ModularTests"))
-    sys.path.append(os.path.join(base_dir, "../../sample"))
+    #sys.path.append(os.path.join(base_dir, "../../sample"))
 except NameError:
     # Fallback to a direct path specification if __file__ is not available
     sys.path.append("/Users/andrewmorris/PycharmProjects/CHLA-LLM-Capstone-Project/code/ModularTests")
@@ -30,7 +30,7 @@ app = FastAPI()
 
 
 def retrieve_documents(user_prompt, similarity_threshold=0.7):
-    directory = "../../sample"
+    directory = "sample"
     extractor = TextExtractor(directory)
     extracted_texts = extractor.extract_all_texts()
     searcher = FAISS(extracted_texts)
