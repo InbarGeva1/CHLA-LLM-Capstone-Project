@@ -2,7 +2,6 @@ import chainlit as cl
 from langchain_community.llms import Ollama
 from langchain.chains import LLMChain
 from langchain.prompts import PromptTemplate
-import asyncio
 
 # Define the external context
 context = """
@@ -51,11 +50,9 @@ when indicated based on published clinical practice guidelines and timed such th
 established in the serum and tissues when the incision is made. In cesarean section procedures, antimicrobial prophylaxis should be 
 administered before skin incision. Skin preparation in the operating room should be performed using an alcohol-based agent unless contraindicated. 
 For clean and clean-contaminated procedures, additional prophylactic antimicrobial agent doses should not be administered after the surgical incision 
-is closed in the operating room, even in the presence of a drain. Topical antimicrobial agents should not be applied to the surgical incision. 
-During surgery, glycemic control should be implemented using blood glucose target levels less than 200 mg/dL, and normothermia should be maintained in all patients. 
-Increased fraction of inspired oxygen should be administered during surgery and after extubation in the immediate postoperative period for patients with normal pulmonary 
-function undergoing general anesthesia with endotracheal intubation. Transfusion of blood products should not be withheld from surgical patients as a means to prevent SSI.
+is closed in the operating room, even in the presence of a drain. Topical antimicrobial agents should not be applied to the surgical incision.
 """
+
 
 # Define the updated prompt template
 prompt_template = PromptTemplate.from_template("""
@@ -87,36 +84,44 @@ ollama_llm = Ollama(model="llama3", base_url="http://localhost:11434", temperatu
 # Create the LLMChain
 chain = LLMChain(llm=ollama_llm, prompt=prompt_template)
 
-# Chainlit boot function
+
 @cl.on_chat_start
-async def boot():
-    # Display logo
-    await cl.Message(content="![](childrens-hospital-la-logo.png)").send()
+def start_chat():
+    # Initialize message history
+    cl.user_session.set("message_history", [{"role": "system", "content": "You are a helpful chatbot."}])
 
-    # Title and description
-    await cl.Message(content="# CHLA Chatbot Prototype\nWelcome to the Children's Hospital Los Angeles Chatbot Prototype. Ask a question regarding CHLA policy!").send()
 
-# Chainlit main function for handling user inputs
 @cl.on_message
-async def main(message: str):
-    combined_prompt = prompt_template.format(context=context, input_text=message)
+async def main(message: cl.Message):
+    # Retrieve the message history from the session
+    message_history = cl.user_session.get("message_history")
+    message_history.append({"role": "user", "content": message.content})
+
+    # Create an initial empty message to send back to the user
+    msg = cl.Message(content="")
+    await msg.send()
+
+    # Generate the combined prompt
+    combined_prompt = prompt_template.format(context=context, input_text=message.content)
 
     try:
-        # Get the complete response
-        response = chain.run({"context": context, "input_text": message})
+        # Use streaming to handle partial responses
+        response_stream = chain.stream({"input_text": combined_prompt})
 
-        # Simulate streaming by sending the response in chunks
-        chunk_size = 10  # Define the size of each chunk
         full_response = ""
 
-        # Initial message to start the stream
-        msg = await cl.Message(content="").send()
+        # Stream response token by token
+        async for token in response_stream:
+            if token_content := token.choices[0].delta.get("content", ""):
+                full_response += token_content
+                await msg.stream_token(token_content)
 
-        for i in range(0, len(response), chunk_size):
-            chunk = response[i:i + chunk_size]
-            full_response += chunk
-            await msg.update(content=full_response)
-            await asyncio.sleep(0.1)  # Adding a slight delay to simulate streaming
+        # Append the assistant's last response to the history
+        message_history.append({"role": "assistant", "content": full_response})
+        cl.user_session.set("message_history", message_history)
+
+        # Update the message after streaming completion
+        await msg.update(content=full_response)
 
     except Exception as e:
         response = f"An error occurred: {str(e)}"
