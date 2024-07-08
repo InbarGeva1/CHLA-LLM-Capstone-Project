@@ -108,10 +108,14 @@ async def main(message: str):
         # Simulate streaming by sending the response in chunks
         chunk_size = 10  # Define the size of each chunk
         full_response = ""
+
+        # Initial message to start the stream
+        msg = await cl.Message(content="").send()
+
         for i in range(0, len(response), chunk_size):
             chunk = response[i:i + chunk_size]
             full_response += chunk
-            await cl.Message(content=full_response, replace=True).send()
+            await msg.update(content=full_response)
             await asyncio.sleep(0.1)  # Adding a slight delay to simulate streaming
 
     except Exception as e:
