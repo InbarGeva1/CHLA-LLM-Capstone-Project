@@ -81,7 +81,7 @@ Answer:
 """)
 
 # Initialize the Ollama model
-ollama_llm = Ollama(model="llama3", base_url="http://localhost:11434", temperature=0.3)
+ollama_llm = Ollama(model="llama3", base_url="http://localhost:11434", temperature=0.3, stream=True)
 
 # Create the LLMChain
 chain = LLMChain(llm=ollama_llm, prompt=prompt_template)
@@ -101,13 +101,18 @@ async def main(message: str):
     combined_prompt = prompt_template.format(context=context, input_text=message)
 
     try:
-        response = chain.run({"context": context, "input_text": message})
-        await cl.Message(content=response).send()
+        # Start streaming response
+        response_stream = chain.stream({"context": context, "input_text": message})
+
+        # Initialize an empty response
+        full_response = ""
+
+        # Display response token by token
+        async for token in response_stream:
+            full_response += token
+            await cl.Message(content=full_response, replace=True).send()
+
     except Exception as e:
         response = f"An error occurred: {str(e)}"
         await cl.Message(content=response).send()
 
-# Display the icon at the bottom
-@cl.on_chat_end
-async def end():
-    await cl.Message(content="![](childrens-hospital-la-icon.jpg)").send()
