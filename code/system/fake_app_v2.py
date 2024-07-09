@@ -1,7 +1,5 @@
 import chainlit as cl
-from langchain_community.llms import Ollama
-from langchain.chains import LLMChain
-from langchain.prompts import PromptTemplate
+from openai import AsyncOpenAI
 
 # Define the external context
 context = """
@@ -55,7 +53,7 @@ is closed in the operating room, even in the presence of a drain. Topical antimi
 
 
 # Define the updated prompt template
-prompt_template = PromptTemplate.from_template("""
+template = """
 Documentation: {context}
 
 User Question: {input_text}
@@ -76,55 +74,35 @@ Attach this link at the end of the chla paragraph: https://lmu.app.box.com/file/
 Attach this link at the end of the CDC paragraph: https://www.cdc.gov/infection-control/hcp/surgical-site-infection/index.html
 
 Answer:
-""")
-
-# Initialize the Ollama model
-ollama_llm = Ollama(model="llama3", base_url="http://localhost:11434", temperature=0.3)
-
-# Create the LLMChain
-chain = LLMChain(llm=ollama_llm, prompt=prompt_template)
+"""
 
 
-@cl.on_chat_start
-def start_chat():
-    # Initialize message history
-    cl.user_session.set("message_history", [{"role": "system", "content": "You are a helpful chatbot."}])
+client = AsyncOpenAI(api_key="YOUR_API_KEY", base_url="http://localhost:11434")
+
+settings = {
+    "model": "llama3",
+    "temperature": 0.4,
+}
 
 
 @cl.on_message
 async def main(message: cl.Message):
-    # Retrieve the message history from the session
-    message_history = cl.user_session.get("message_history")
-    message_history.append({"role": "user", "content": message.content})
+    # Combine the external context with the user's input
+    combined_input = f"{context}\n\nUser query: {message.content}"
 
-    # Create an initial empty message to send back to the user
-    msg = cl.Message(content="")
-    await msg.send()
+    stream = await client.chat.completions.create(
+        messages=[
+            {
+                "role": "user",
+                "content": template.format(input=combined_input),
+            }
+        ], stream=True, **settings
+    )
 
-    # Generate the combined prompt
-    combined_prompt = prompt_template.format(context=context, input_text=message.content)
+    msg = await cl.Message(content="", language="sql").send()
 
-    try:
-        # Get the response from the model as a whole text
-        response = chain.run({"input_text": combined_prompt})
+    async for part in stream:
+        if token := part.choices.delta.content or "":
+            await msg.stream_token(token)
 
-        full_response = ""
-
-        # Simulate token streaming by breaking the response into chunks
-        chunk_size = 10
-        for i in range(0, len(response), chunk_size):
-            token_content = response[i:i + chunk_size]
-            full_response += token_content
-            await msg.stream_token(token_content)
-            await asyncio.sleep(0.1)  # Simulate streaming delay
-
-        # Append the assistant's last response to the history
-        message_history.append({"role": "assistant", "content": full_response})
-        cl.user_session.set("message_history", message_history)
-
-        # Update the message after streaming completion
-        await msg.update(content=full_response)
-
-    except Exception as e:
-        response = f"An error occurred: {str(e)}"
-        await cl.Message(content=response).send()
+    await msg.update()
