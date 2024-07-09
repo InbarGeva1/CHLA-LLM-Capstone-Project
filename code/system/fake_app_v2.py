@@ -90,16 +90,18 @@ async def start():
     cl.user_session.set("external_context", context)
     cl.user_session.set("template", template)
 
+
 @cl.on_message
 async def main(message: cl.Message):
-    # Combine the external context with the user's input
-    combined_input = f"{context}\n\nUser query: {message.content}"
+    external_context = cl.user_session.get("external_context")
+    combined_input = f"{external_context}\n\nUser query: {message.content}"
+    formatted_message = template.format(input=combined_input)
 
     stream = await client.chat.completions.create(
         messages=[
             {
                 "role": "user",
-                "content": template.format(input=combined_input),
+                "content": formatted_message,
             }
         ], stream=True, **settings
     )
