@@ -93,20 +93,25 @@ async def start():
 
 @cl.on_message
 async def main(message: cl.Message):
+    # Retrieve both the template and external context from the user session
+    template = cl.user_session.get("template")
     external_context = cl.user_session.get("external_context")
-    combined_input = f"{external_context}\n\nUser query: {message.content}"
-    formatted_message = template.format(input=combined_input)
 
+    # Prepare the messages for the OpenAI API
+    messages = [
+        {"role": "system", "content": template},
+        {"role": "user", "content": f"{external_context}\n\nUser query: {message.content}"}
+    ]
+
+    # Create the stream
     stream = await client.chat.completions.create(
-        messages=[
-            {
-                "role": "user",
-                "content": formatted_message,
-            }
-        ], stream=True, **settings
+        messages=messages,
+        stream=True,
+        **settings
     )
 
-    msg = await cl.Message(content="", language="sql").send()
+    # Send and stream the response
+    msg = await cl.Message(content="").send()
 
     async for part in stream:
         if token := part.choices.delta.content or "":
