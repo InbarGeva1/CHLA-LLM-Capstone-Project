@@ -84,6 +84,11 @@ settings = {
     "temperature": 0.4,
 }
 
+@cl.on_chat_start
+async def start():
+    # Store the external context in the user session
+    cl.user_session.set("external_context", context)
+    cl.user_session.set("template", template)
 
 @cl.on_message
 async def main(message: cl.Message):
