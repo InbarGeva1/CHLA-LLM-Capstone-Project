@@ -10,7 +10,6 @@ class DocumentConverter:
         self.destination_directory = destination_directory
         self.exceptions_directory = exceptions_directory
 
-        # Create the destination and exceptions directories if they do not exist
         if not os.path.exists(destination_directory):
             os.makedirs(destination_directory)
         if not os.path.exists(exceptions_directory):

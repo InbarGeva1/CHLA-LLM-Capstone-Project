@@ -17,14 +17,5 @@ vectordb = Chroma.from_documents(documents=docs, embedding=embedding, persist_di
 
 vectordb.persist()
 
-vectordb = Chroma(embedding_function=embedding, persist_directory=persist_dir)
 
-
-retriever = vectordb.as_retriever()
-
-query = "what are the surgical site infection policies?"
-
-docs = retriever.get_relevant_documents(query)
-
-retriever = vectordb.as_retriever(search_kwargs={'k': 2})
 
