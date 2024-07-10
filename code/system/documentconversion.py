@@ -3,6 +3,8 @@ import docx
 import fitz
 import pypandoc
 
+# destination
+file_path = ""
 
 class DocumentConverter:
     def __init__(self, directory):
