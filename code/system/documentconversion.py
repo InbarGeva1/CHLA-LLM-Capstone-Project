@@ -2,36 +2,39 @@ import os
 import docx
 import fitz
 import pypandoc
-
-pypandoc.download_pandoc()
+import shutil
 
 class DocumentConverter:
-    def __init__(self, source_directory, destination_directory):
+    def __init__(self, source_directory, destination_directory, exceptions_directory):
         self.source_directory = source_directory
         self.destination_directory = destination_directory
+        self.exceptions_directory = exceptions_directory
 
+        # Create the destination and exceptions directories if they do not exist
         if not os.path.exists(destination_directory):
             os.makedirs(destination_directory)
+        if not os.path.exists(exceptions_directory):
+            os.makedirs(exceptions_directory)
 
     def convert_docx_to_text(self, file_path):
         try:
             doc = docx.Document(file_path)
+            full_text = [para.text.strip() for para in doc.paragraphs]
+            return "\n".join(full_text)
         except Exception as e:
             print(f"Error reading {file_path}: {e}")
+            self.move_to_exceptions(file_path)
             return ""
-
-        full_text = [para.text.strip() for para in doc.paragraphs]
-        return "\n".join(full_text)
 
     def convert_pdf_to_text(self, file_path):
         try:
             doc = fitz.open(file_path)
+            full_text = [page.get_text() for page in doc]
+            return "\n".join(full_text)
         except Exception as e:
             print(f"Error reading {file_path}: {e}")
+            self.move_to_exceptions(file_path)
             return ""
-
-        full_text = [page.get_text() for page in doc]
-        return "\n".join(full_text)
 
     def convert_doc_to_text(self, file_path):
         try:
@@ -42,6 +45,7 @@ class DocumentConverter:
             return text
         except Exception as e:
             print(f"Error converting {file_path}: {e}")
+            self.move_to_exceptions(file_path)
             return ""
 
     def save_text_to_file(self, filename, text):
@@ -49,6 +53,13 @@ class DocumentConverter:
         with open(text_file_path, 'w', encoding='utf-8') as text_file:
             text_file.write(text)
         return text_file_path
+
+    def move_to_exceptions(self, file_path):
+        try:
+            shutil.move(file_path, self.exceptions_directory)
+            print(f"Moved {file_path} to {self.exceptions_directory}")
+        except Exception as e:
+            print(f"Error moving {file_path} to {self.exceptions_directory}: {e}")
 
     def convert_all_to_text_files(self):
         for filename in os.listdir(self.source_directory):
@@ -69,7 +80,8 @@ class DocumentConverter:
 # Usage
 chla_dir = "data/CHLA"
 chla_destination = "data/CHLA_text"
-converter = DocumentConverter(chla_dir, chla_destination)
+bad_docs = "data/CHLA_exceptions"
+converter = DocumentConverter(chla_dir, chla_destination, bad_docs)
 converter.convert_all_to_text_files()
 
 cdc_dir = "data/CDC"
