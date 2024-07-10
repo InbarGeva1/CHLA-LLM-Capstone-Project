@@ -1,0 +1,440 @@
+A .gov website belongs to an official government organization in the United States. A
+lock (  ) or https:// means you've safely connected to the .gov website. Share sensitive
+information  only  on  official,  secure  websites.  MDRO  Prevention  and  Control  from  the
+Management  of  Multidrug-Resistant  Organisms  in  Healthcare  Settings  (2006).
+Preventing  infections  will  reduce  the  burden  of  MDROs  in  healthcare  settings.
+Prevention  of  antimicrobial  resistance  depends  on  appropriate  clinical  practices  that
+should be incorporated into all routine patient care. These include optimal management
+of  vascular  and  urinary  catheters,  prevention  of  lower  respiratory  tract  infection  in
+intubated  patients,  accurate  diagnosis  of  infectious  etiologies,  and  judicious
+antimicrobial selection and utilization. Guidance for these preventive practices include
+the Campaign to Reduce Antimicrobial Resistance in Healthcare Settings ([This link is
+no
+ longer
+ active:
+ www.cdc.gov/drugresistance/healthcare.]),
+ a
+ multifaceted,
+evidence-based  approach  with  four  parallel  strategies:  infection  prevention;  accurate
+and prompt diagnosis and treatment; prudent use of antimicrobials; and prevention of
+transmission.  Campaign  materials  are  available  for  acute  care  hospitals,  surgical
+settings,  dialysis  units,  LTCFs  and  pediatric  acute  care  units.  To  reduce  rates  of
+central-venous-line
+ associated
+ bloodstream
+ infections
+ (CVL-BSIs)
+ and
+ventilator-associated  pneumonia  (VAP),  a  group  of  bundled  evidence-based  clinical
+practices  have  been  implemented  in  many  U.S.  healthcare  facilities  (118,  141-144).
+One report demonstrated a sustained effect on the reduction in CVL-BSI rates with this
+approach (145). Although the specific effect on MDRO infection and colonization rates
+have
+ not
+ been
+ reported,
+ it
+ is
+ logical
+ that
+ decreasing
+ these
+ and
+ other
+healthcare-associated  infections  will  in  turn  reduce  antimicrobial  use  and  decrease
+opportunities for emergence and transmission of MDROs. Successful control of MDROs
+has  been  documented  in  the  United  States  and  abroad  using  a  variety  of  combined
+interventions. These include improvements in hand hygiene, use of Contact Precautions
+until patients are culture-negative for a target MDRO, active surveillance cultures (ASC),
+
+education,  enhanced  environmental  cleaning,  and  improvements  in  communication
+about  patients  with  MDROs  within  and  between  healthcare  facilities.  Representative
+studies include: These success stories testify to the importance of having dedicated and
+knowledgeable teams of healthcare professionals who are willing to persist for years, if
+necessary,  to  control  MDROs.  Eradication  and  control  of  MDROs,  such  as  those
+reported, frequently required periodic reassessment and the addition of new and more
+stringent  interventions  over  time  (tiered  strategy).  For  example,  interventions  were
+added  in  a  stepwise  fashion  during  a  3-year  effort  that  eventually  eradicated  MRSA
+from an NICU (152). A series of interventions was adopted throughout the course of a
+year
+ to
+ eradicate
+ VRE
+ from
+ a
+ burn
+ unit
+ (154).
+ Similarly,
+ eradication
+ of
+carbapenem-resistant  strains  of  A.  baumannii  from  a  hospital  required  multiple  and
+progressively  more  intense  interventions  over  several  years  (11).  Nearly  all  studies
+reporting successful MDRO control employed a median of 7 to 8 different interventions
+concurrently  or  sequentially  (Table  1).  These  figures  may  underestimate  the  actual
+number  of  control  measures  used,  because  authors  of  these  reports  may  have
+considered  their  earliest  efforts  routine  (e.g.,  added  emphasis  on  handwashing),  and
+did  not  include  them  as  interventions,  and  some  "single  measures"  are,  in  fact,  a
+complex  combination  of  several  interventions.  The  use  of  multiple  concurrent  control
+measures  in  these  reports  underscores  the  need  for  a  comprehensive  approach  for
+controlling  MDROs.  Several  factors  affect  the  ability  to  generalize  the  results  of  the
+various  studies  reviewed,  including  differences  in  definition,  study  design,  endpoints
+and  variables  measured,  and  period  of  follow-up.  Two-thirds  of  the  reports  cited  in
+Tables 1 and 2 involved perceived outbreaks, and one-third described efforts to reduce
+endemic transmission. Few reports described preemptive efforts or prospective studies
+to  control  MDROs  before  they  had  reached  high  levels  within  a  unit  or  facility.  With
+these  and  other  factors,  it  has  not  been  possible  to  determine  the  effectiveness  of
+individual  interventions,  or  a  specific  combination  of  interventions,  that  would  be
+
+appropriate  for  all  healthcare  facilities  to  implement  in  order  to  control  their  target
+MDROs. Randomized controlled trials are necessary to acquire this level of evidence. An
+NIH-sponsored,  randomized  controlled  trial  on  the  prevention  of  MRSA  and  VRE
+transmission  in  adult  ICUs  is  ongoing  and  may  provide  further  insight  into  optimal
+control  measures  ([Current  version  of  this  document  may  differ  from  original.]
+Strategies to Reduce Transmission of Antimicrobial Resistant Bacteria in Intensive Care
+Units (STAR*ICU) Trial). This trial compares the use of education (to improve adherence
+to hand hygiene) and Standard Precautions to the use of ASC and Contact Precautions.
+The various types of interventions used to control or eradicate MDROs may be grouped
+into  seven  categories.  These  include  administrative  support,  judicious  use  of
+antimicrobials, surveillance (routine and enhanced), Standard and Contact Precautions,
+environmental  measures,  education  and  decolonization.  These  interventions  provide
+the  basis  for  the  recommendations  for  control  of  MDROs  in  healthcare  settings  that
+follow  this  review  and  as  summarized  in  Table  3.  In  the  studies  reviewed,  these
+interventions  were  applied  in  various  combinations  and  degrees  of  intensity,  with
+differences  in  outcome.  In  several  reports,  administrative  support  and  involvement
+were  important  for  the  successful  control  of  the  target  MDRO  (3,  152,  182-185),  and
+authorities in infection control have strongly recommended such support (2, 106, 107,
+186).  There  are  several  examples  of  MDRO  control  interventions  that  require
+administrative commitment of fiscal and human resources. One is the use of ASC (8, 38,
+68, 107, 114, 151, 152, 167, 168, 183, 184, 187-192). Other interventions that require
+administrative  support  include:  Other  measures  that  have  been  associated  with  a
+positive  impact  on  prevention  efforts,  that  require  administrative  support,  are  direct
+observation  with  feedback  to  HCP  on  adherence  to  recommended  precautions  and
+keeping HCP informed about changes in transmission rates (3, 152, 182, 203-205). A
+"How-to  guide"  for  implementing  change  in  ICUs,  including  analysis  of  structure,
+process,  and  outcomes  when  designing  interventions,  can  assist  in  identification  of
+
+needed  administrative  interventions  (195).  Lastly,  participation  in  existing,  or  the
+creation  of  new,  city-wide,  state-wide,  regional  or  national  coalitions,  to  combat
+emerging  or  growing  MDRO  problems  is  an  effective  strategy  that  requires
+administrative support (146, 151, 167, 188, 206, 207). Facility-wide, unit-targeted, and
+informal, educational interventions were included in several successful studies (3, 189,
+193,  208-211).  The  focus  of  the  interventions  was  to  encourage  a  behavior  change
+through  improved  understanding  of  the  problem  MDRO  that  the  facility  was  trying  to
+control. Whether the desired change involved hand hygiene, antimicrobial prescribing
+patterns,  or  other  outcomes,  enhancing  understanding  and  creating  a  culture  that
+supported and promoted the desired behavior, were viewed as essential to the success
+of  the  intervention.  Educational  campaigns  to  enhance  adherence  to  hand  hygiene
+practices in conjunction with other control measures have been associated temporally
+with decreases in MDRO transmission in various healthcare settings (3, 106, 163). While
+a  comprehensive  review  of  antimicrobial  stewardship  is  beyond  the  scope  of  this
+guideline,  recommendations  for  control  of  MDROs  must  include  attention  to  judicious
+antimicrobial  use.  A  temporal  association  between  formulary  changes  and  decreased
+occurrence  of  a  target  MDRO  was  found  in  several  studies,  especially  in  those  that
+focused  on  MDR-GNBs  (98,  177,  209,  212-218).  Occurrence  of  C.  difficile-associated
+disease  has  also  been  associated  with  changes  in  antimicrobial  use  (219).  Although
+some  MRSA  and  VRE  control  efforts  have  attempted  to  limit  antimicrobial  use,  the
+relative importance of this measure for controlling these MDROs remains unclear (193,
+220).  Limiting  antimicrobial  use  alone  may  fail  to  control  resistance  due  to  a
+combination of factors; including With the intent of addressing #2 and #3 above in the
+study design, one study demonstrated a decrease in the prevalence of VRE associated
+with a formulary switch from ticarcillin-clavulanate to piperacillin-tazobactam (221). The
+CDC Campaign to Prevent Antimicrobial Resistance that was launched in 2002 provides
+evidence-based
+ principles
+ for
+ judicious
+ use
+ of
+ antimicrobials
+ and
+ tools
+ for
+
+implementation
+ (222)
+ [This
+ link
+ is
+ no
+ longer
+ active:
+www.cdc.gov/drugresistance/healthcare.]. This effort targets all healthcare settings and
+focuses  on  effective  antimicrobial  treatment  of  infections,  use  of  narrow  spectrum
+agents,  treatment  of  infections  and  not  contaminants,  avoiding  excessive  duration  of
+therapy,  and  restricting  use  of  broad-spectrum  or  more  potent  antimicrobials  to
+treatment of serious infections when the pathogen is not known or when other effective
+agents are unavailable. Achieving these objectives would likely diminish the selective
+pressure  that  favors  proliferation  of  MDROs.  Strategies  for  influencing  antimicrobial
+prescribing patterns within healthcare facilities include education; formulary restriction;
+prior-approval  programs,  including  pre-approved  indications;  automatic  stop  orders;
+academic  interventions  to  counteract  pharmaceutical  influences  on  prescribing
+patterns;  antimicrobial  cycling  (223-226);  computer-assisted  management  programs
+(227-229); and active efforts to remove redundant antimicrobial combinations (230). A
+systematic  review  of  controlled  studies  identified  several  successful  practices.  These
+include  social  marketing  (i.e.  consumer  education),  practice  guidelines,  authorization
+systems, formulary restriction, mandatory consultation, and peer review and feedback.
+It  further  suggested  that  online  systems  that  provide  clinical  information,  structured
+order  entry,  and  decision  support  are  promising  strategies  (231).  These  changes  are
+best
+ accomplished
+ through
+ an
+ organizational,
+ multidisciplinary,
+ antimicrobial
+management  program  (232).  Surveillance  is  a  critically  important  component  of  any
+MDRO  control  program,  allowing  detection  of  newly  emerging  pathogens,  monitoring
+epidemiologic trends, and measuring the effectiveness of interventions. Multiple MDRO
+surveillance  strategies  have  been  employed,  ranging  from  surveillance  of  clinical
+microbiology laboratory results obtained as part of routine clinical care, to use of ASC to
+detect  asymptomatic  colonization.  Antibiograms  The  simplest  form  of  MDRO
+surveillance is monitoring of clinical microbiology isolates resulting from tests ordered
+as part of routine clinical care. This method is particularly useful to detect emergence of
+
+new  MDROs  not  previously  detected,  either  within  an  individual  healthcare  facility  or
+community-wide.  In  addition,  this  information  can  be  used  to  prepare  facility-  or
+unit-specific
+ summary
+ antimicrobial
+ susceptibility
+ reports
+ that
+ describe
+pathogen-specific prevalence of resistance among clinical isolates. Such reports may be
+useful  to  monitor  for  changes  in  known  resistance  patterns  that  might  signal
+emergence or transmission of MDROs, and also to provide clinicians with information to
+guide  antimicrobial  prescribing  practices  (233  –  235).  Some  investigators  have  used
+clinical  microbiology  results  to  calculate  measures  of  incidence  of  MDRO  isolates  in
+specific  populations  or  patient  care  locations  (e.g.  new  MDRO  isolates/1,000  patient
+days, new MDRO isolates per month) (205, 236, 237). Such measures may be useful for
+monitoring  MDRO  trends  and  assessing  the  impact  of  prevention  programs,  although
+they have limitations. Because they are based solely on positive culture results without
+accompanying clinical information, they do not distinguish colonization from infection,
+and may not fully demonstrate the burden of MDRO-associated disease. Furthermore,
+these measures do not precisely measure acquisition of MDRO colonization in a given
+population or location. Isolating an MDRO from a clinical culture obtained from a patient
+several  days  after  admission  to  a  given  unit  or  facility  does  not  establish  that  the
+patient  acquired  colonization  in  that  unit.  On  the  other  hand,  patients  who  acquire
+MDRO  colonization  may  remain  undetected  by  clinical  cultures  (107).  Despite  these
+limitations,  incidence  measures  based  on  clinical  culture  results  may  be  highly
+correlated with actual MDRO transmission rates derived from information using ASC, as
+demonstrated in a recent multicenter study (237). These results suggest that incidence
+measures  based  on  clinical  cultures  alone  might  be  useful  surrogates  for  monitoring
+changes  in  MDRO  transmission  rates.  Clinical  cultures  can  also  be  used  to  identify
+targeted  MDRO  infections  in  certain  patient  populations  or  units  (238,  239).  This
+strategy requires investigation of clinical circumstances surrounding a positive culture
+to distinguish colonization from infection, but it can be particularly helpful in defining
+
+the clinical impact of MDROs within a facility. Many investigators have used molecular
+typing of selected isolates to confirm clonal transmission to enhance understanding of
+MDRO transmission and the effect of interventions within their facility (38, 68, 89, 92,
+138, 152, 190, 193, 236, 240). Another form of MDRO surveillance is the use of active
+surveillance cultures (ASC) to identify patients who are colonized with a targeted MDRO
+(38,  107,  241).  This  approach  is  based  upon  the  observation  that,  for  some  MDROs,
+detection  of  colonization  may  be  delayed  or  missed  completely  if  culture  results
+obtained  in  the  course  of  routine  clinical  care  are  the  primary  means  of  identifying
+colonized patients (8, 38, 107, 114, 151, 153, 167, 168, 183, 184, 187, 189, 191-193,
+242-244).  Several  authors  report  having  used  ASC  when  new  pathogens  emerge  in
+order to define the epidemiology of the particular agent (22, 23, 107, 190). In addition,
+the  authors  of  several  reports  have  concluded  that  ASC,  in  combination  with  use  of
+Contact  Precautions  for  colonized  patients,  contributed  directly  to  the  decline  or
+eradication of the target MDRO (38, 68, 107, 151, 153, 184, 217, 242). However, not all
+studies have reached the same conclusion. Poor control of MRSA despite use of ASC has
+been described (245). A recent study failed to identify cross-transmission of MRSA or
+MSSA in a MICU during a 10 week period when ASC were obtained, despite the fact that
+culture results were not reported to the staff (246). The investigators suggest that the
+degree  of  cohorting  and  adherence  to  Standard  Precautions  might  have  been  the
+important  determinants  of  transmission  prevention,  rather  than  the  use  of  ASC  and
+Contact Precautions for MRSA-colonized patients. The authors of a systematic review of
+the literature on the use of isolation measures to control healthcare-associated MRSA
+concluded that there is evidence that concerted efforts that include ASC and isolation
+can  reduce  MRSA  even  in  endemic  settings.  However,  the  authors  also  noted  that
+methodological  weaknesses  and  inadequate  reporting  in  published  research  make  it
+difficult to rule out plausible alternative explanations for reductions in MRSA acquisition
+associated  with  these  interventions,  and  therefore  concluded  that  the  precise
+
+contribution  of  active  surveillance  and  isolation  alone  is  difficult  to  assess  (247).
+Mathematical modeling studies have been used to estimate the impact of ASC use in
+control  of  MDROs.  One  such  study  evaluating  interventions  to  decrease  VRE
+transmission indicated that use of ASC (versus no cultures) could potentially decrease
+transmission 39% and that with pre-emptive isolation plus ASC, transmission could be
+decreased  65%  (248).  Another  mathematical  model  examining  the  use  of  ASC  and
+isolation for control of MRSA predicted that isolating colonized or infected patients on
+the  basis  of  clinical  culture  results  is  unlikely  to  be  successful  at  controlling  MRSA,
+whereas use of active surveillance and isolation can lead to successful control, even in
+settings where MRSA is highly endemic. (249) There is less literature on the use of ASC
+in controlling MDR-GNBs. Active surveillance cultures have been used as part of efforts
+to  successful  control  of  MDR-GNBs  in  outbreak  settings.  The  experience  with  ASC  as
+part  of  successful  control  efforts  in  endemic  settings  is  mixed.  One  study  reported
+successful
+ reduction
+ of
+ extended-
+ spectrum
+ beta-lactamase
+ –producing
+Enterobacteriaceae  over  a  six  year  period  using  a  multifaceted  control  program  that
+included use of ASC (245). Other reports suggest that use of ASC is not necessary to
+control  endemic  MDR-GNBs.  (250,  251).  More  research  is  needed  to  determine  the
+circumstances  under  which  ASC  are  most  beneficial  (252),  but  their  use  should  be
+considered in some settings, especially if other control measures have been ineffective.
+When use of ASC is incorporated into MDRO prevention programs, the following should
+be  considered:  Since  1996  CDC  has  recommended  the  use  of  Standard  and  Contact
+Precautions for MDROs "judged by an infection control program...to be of special clinical
+and epidemiologic significance." This recommendation was based on general consensus
+and  was  not  necessarily  evidence-based.  No  studies  have  directly  compared  the
+efficacy  of  Standard  Precautions  alone  versus  Standard  Precautions  and  Contact
+Precautions, with or without ASC, for control of MDROs. Some reports mention the use
+of one or both sets of precautions as part of successful MDRO control efforts; however,
+
+the precautions were not the primary focus of the study intervention (164, 190, 205,
+269- 271). The NIH-sponsored study mentioned earlier (Section: Overview of the MDRO
+control  literature)  may  provide  some  answers  (Strategies  to  Reduce  Transmission  of
+Antimicrobial  Resistant  Bacteria  in  Intensive  Care  Units  (STAR*ICU)  Trial)  [Current
+version  of  this  document  may  differ  from  original.].  Standard  precautions  have  an
+essential  role  in  preventing  MDRO  transmission,  even  in  facilities  that  use  Contact
+Precautions for patients with an identified MDRO. Colonization with MDROs is frequently
+undetected;  even  surveillance  cultures  may  fail  to  identify  colonized  persons  due  to
+lack  of  sensitivity,  laboratory  deficiencies,  or  intermittent  colonization  due  to
+antimicrobial therapy (262). Therefore, Standard Precautions must be used in order to
+prevent transmission from potentially colonized patients. Hand hygiene is an important
+component of Standard Precautions. The authors of the Guideline for Hand Hygiene in
+Healthcare Settings (106) cited nine studies that demonstrated a temporal relationship
+between improved adherence to recommended hand hygiene practices and control of
+MDROs.  It  is  noteworthy  that  in  one  report  the  frequency  of  hand  hygiene  did  not
+improve with use of Contact Precautions but did improve when gloves were used (per
+Standard  Precautions)  for  contact  with  MDRO  patients  (272).  MDRO  control  efforts
+frequently  involved  changes  in  isolation  practices,  especially  during  outbreaks.  In  the
+majority of reports, Contact Precautions were implemented for all patients found to be
+colonized  or  infected  with  the  target  MDRO  (See  Table  2).  Some  facilities  also
+preemptively used Contact Precautions, in conjunction with ASC, for all new admissions
+or for all patients admitted to a specific unit, until a negative screening culture for the
+target MDRO was reported (30, 184, 273). Contact precautions are intended to prevent
+transmission
+ of
+ infectious
+ agents,
+ including
+ epidemiologically
+ important
+microorganisms, which are transmitted by direct or indirect contact with the patient or
+the patient's environment. A single-patient room is preferred for patients who require
+Contact  Precautions.  When  a  single-patient  room  is  not  available,  consultation  with
+
+infection control is necessary to assess the various risks associated with other patient
+placement  options  (e.g.,  cohorting,  keeping  the  patient  with  an  existing  roommate).
+HCP caring for patients on Contact Precautions should wear a gown and gloves for all
+interactions that may involve contact with the patient or potentially contaminated areas
+in the patient's environment. Donning gown and gloves upon room entry and discarding
+before  exiting  the  patient  room  is  done  to  contain  pathogens,  especially  those  that
+have been implicated in transmission through environmental contamination (e.g., VRE,
+C. difficile, noroviruses and other intestinal tract agents; RSV) (109, 111, 274-277). In
+several  reports,  cohorting  of  patients  (152,  153,  167,  183,  184,  188,  189,  217,  242),
+cohorting of staff (184, 217, 242, 278), use of designated beds or units (183, 184), and
+even unit closure (38, 146, 159, 161, 279, 280) were necessary to control transmission.
+Some  authors  indicated  that  implementation  of  the  latter  two  strategies  were  the
+turning points in their control efforts; however, these measures usually followed many
+other actions to prevent transmission. In one, two-center study, moving MRSA-positive
+patients  into  single  rooms  or  cohorting  these  patients  in  designated  bays  failed  to
+reduce transmission in ICUs. However, in this study adherence to recommendations for
+hand hygiene between patient contacts was only 21% (281). Other published studies,
+including  one  commissioned  by  the  American  Institute  of  Architects  and  the  Facility
+Guidelines  Institute  ([This  link  is  no  longer  active:  www.aia.org/aah_gd_hospcons.]),
+have documented a beneficial relationship between private rooms and reduction in risk
+of  acquiring  MDROs  (282).  Additional  studies  are  needed  to  define  the  specific
+contribution of using single-patient rooms and/or cohorting on preventing transmission
+of  MDROs.  The  necessary  duration  of  Contact  Precautions  for  patients  treated  for
+infection  with  an  MDRO,  but  who  may  continue  to  be  colonized  with  the  organism  at
+one or more body sites, remains an unresolved issue. Patients may remain colonized
+with MDROs for prolonged periods; shedding of these organisms may be intermittent,
+and  surveillance  cultures  may  fail  to  detect  their  presence  (84,  250,  283).  The  1995
+
+HICPAC  guideline  for  preventing  the  transmission  of  VRE  suggested  three  negative
+stool/perianal cultures obtained at weekly intervals as a criterion for discontinuation of
+Contact  Precautions  (274).  One  study  found  these  criteria  generally  reliable  (284).
+However,  this  and  other  studies  have  noted  a  recurrence  of  VRE  positive  cultures  in
+persons who subsequently receive antimicrobial therapy and persistent or intermittent
+carriage  of  VRE  for  more  than  1  year  has  been  reported  (284-286).  Similarly,
+colonization  with  MRSA  can  be  prolonged  (287,  288).  Studies  demonstrating  initial
+clearance of MRSA following decolonization therapy have reported a high frequency of
+subsequent carriage (289, 290). There is a paucity of information in the literature on
+when  to  discontinue  Contact  Precautions  for  patients  colonized  with  a  MDR-GNB,
+possibly because infection and colonization with these MDROs are often associated with
+outbreaks. Despite the uncertainty about when to discontinue Contact Precautions, the
+studies offer some guidance. In the context of an outbreak, prudence would dictate that
+Contact Precautions be used indefinitely for all previously infected and known colonized
+patients. Likewise, if ASC are used to detect and isolate patients colonized with MRSA or
+VRE,  and  there  is  no  decolonization  of  these  patients,  it  is  logical  to  assume  that
+Contact Precautions would be used for the duration of stay in the setting where they
+were  first  implemented.  In  general,  it  seems  reasonable  to  discontinue  Contact
+Precautions  when  three  or  more  surveillance  cultures  for  the  target  MDRO  are
+repeatedly negative over the course of a week or two in a patient who has not received
+antimicrobial therapy for several weeks, especially in the absence of a draining wound,
+profuse respiratory secretions, or evidence implicating the specific patient in ongoing
+transmission of the MDRO within the facility. Three studies evaluated the use of gloves
+with or without gowns for all patient contacts to prevent VRE acquisition in ICU settings
+(30, 105, 273). Two of the studies showed that use of both gloves and gowns reduced
+VRE transmission (30, 105) while the third showed no difference in transmission based
+on the barriers used (273). One study in a LTCF compared the use of gloves only, with
+
+gloves  plus  contact  isolation,  for  patients  with  four  MDROs,  including  VRE  and  MRSA,
+and found no difference (86). However, patients on contact isolation were more likely to
+acquire MDR-K. pneumoniae strains that were prevalent in the facility; reasons for this
+were  not  specifically  known.  In  addition  to  differences  in  outcome,  differing
+methodologies  make  comparisons  difficult.  Specifically,  HCP  adherence  to  the
+recommended  protocol,  the  influence  of  added  precautions  on  the  number  of
+HCP-patient  interactions,  and  colonization  pressure  were  not  consistently  assessed.
+There  are  limited  data  regarding  the  impact  of  Contact  Precautions  on  patients.  Two
+studies found that HCP, including attending physicians, were half as likely to enter the
+rooms of (291), or examine (292), patients on Contact Precautions. Other investigators
+have reported similar observations on surgical wards (293). Two studies reported that
+patients in private rooms and on barrier precautions for an MDRO had increased anxiety
+and depression scores (294, 295). Another study found that patients placed on Contact
+Precautions  for  MRSA  had  significantly  more  preventable  adverse  events,  expressed
+greater dissatisfaction with their treatment, and had less documented care than control
+patients  who  were  not  in  isolation  (296).  Therefore,  when  patients  are  placed  on
+Contact Precautions, efforts must be made by the healthcare team to counteract these
+potential  adverse  effects.  The  potential  role  of  environmental  reservoirs,  such  as
+surfaces and medical equipment, in the transmission of VRE and other MDROs has been
+the subject of several reports (109-111, 297, 298). While environmental cultures are not
+routinely recommended (299), environmental cultures were used in several studies to
+document  contamination,  and  led  to  interventions  that  included  the  use  of  dedicated
+noncritical medical equipment (217, 300), assignment of dedicated cleaning personnel
+to  the  affected  patient  care  unit  (154),  and  increased  cleaning  and  disinfection  of
+frequently-touched  surfaces  (e.g.,  bedrails,  charts,  bedside  commodes,  doorknobs).  A
+common reason given for finding environmental contamination with an MDRO was the
+lack of adherence to facility procedures for cleaning and disinfection. In an educational
+
+and  observational  intervention,  which  targeted  a  defined  group  of  housekeeping
+personnel, there was a persistent decrease in the acquisition of VRE in a medical ICU
+(301).  Therefore,  monitoring  for  adherence  to  recommended  environmental  cleaning
+practices is an important determinant for success in controlling transmission of MDROs
+and  other  pathogens  in  the  environment  (274,  302).  In  the  MDRO  reports  reviewed,
+enhanced environmental cleaning was frequently undertaken when there was evidence
+of environmental contamination and ongoing transmission. Rarely, control of the target
+MDRO required vacating a patient care unit for complete environmental cleaning and
+assessment  (175,  279).  Decolonization  entails  treatment  of  persons  colonized  with  a
+specific  MDRO,  usually  MRSA,  to  eradicate  carriage  of  that  organism.  Although  some
+investigators  have  attempted  to  decolonize  patients  harboring  VRE  (220),  few  have
+achieved success. However, decolonization of persons carrying MRSA in their nares has
+proved  possible  with  several  regimens  that  include  topical  mupirocin  alone  or  in
+combination  with  orally  administered  antibiotics  (e.g.,  rifampin  in  combination  with
+trimethoprim- sulfamethoxazole or ciprofloxacin) plus the use of an antimicrobial soap
+for  bathing  (303).  In  one  report,  a  3-day  regimen  of  baths  with  povidone-iodine  and
+nasal therapy with mupirocin resulted in eradication of nasal MRSA colonization (304).
+These  and  other  methods  of  MRSA  decolonization  have  been  thoroughly  reviewed.
+(303, 305-307). Decolonization regimens are not sufficiently effective to warrant routine
+use.  Therefore,  most  healthcare  facilities  have  limited  the  use  of  decolonization  to
+MRSA  outbreaks,  or  other  high  prevalence  situations,  especially  those  affecting
+special-care  units.  Several  factors  limit  the  utility  of  this  control  measure  on  a
+widespread  basis:  HCP  implicated  in  transmission  of  MRSA  are  candidates  for
+decolonization  and  should  be  treated  and  culture  negative  before  returning  to  direct
+patient care. In contrast, HCP who are colonized with MRSA, but are asymptomatic, and
+have not been linked epidemiologically to transmission, do not require decolonization.
+CDC provides information on infection control and clinical safety to help reduce the risk
+
+of  infections  among  healthcare  workers,  patients,  and  visitors.  Languages  Language
+Assistance Languages  Language Assistance 
+
+Source URL: https://www.cdc.gov/infection-control/hcp/mdro-management/prevention-control.html

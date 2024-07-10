@@ -1,0 +1,305 @@
+A .gov website belongs to an official government organization in the United States. A
+lock (  ) or https:// means you've safely connected to the .gov website. Share sensitive
+information only on official, secure websites. 
+Related Topics:
+ Frequently  asked  questions  about  using  enhanced  barrier  precautions  in  nursing
+homes  to  prevent  MDROs.  These  FAQs  were  created  to  address  questions  about
+Enhanced  Barrier  Precautions  as  defined  in  the  CDC  guidance  Implementation  of
+Personal  Protective  Equipment  (PPE)  in  Nursing  Homes  to  Prevent  Spread  of
+Multidrug-resistant Organisms (MDROs). Enhanced Barrier Precautions are an infection
+control intervention designed to reduce transmission of multidrug-resistant organisms
+(MDROs) in nursing homes. Enhanced Barrier Precautions involve gown and glove use
+during  high-contact  resident  care  activities  for  residents  known  to  be  colonized  or
+infected  with  a  MDRO  as  well  as  those  at  increased  risk  of  MDRO  acquisition  (e.g.,
+residents with wounds or indwelling medical devices). As part of Standard Precautions,
+which  apply  to  the  care  of  all  residents,  the  use  of  PPE  is  based  on  the  "anticipated
+exposure"  to  blood,  body  fluids,  secretions,  or  excretions.  For  example,  gloves  are
+recommended  when  contact  with  blood  or  other  potentially  infectious  materials,
+mucous membranes, non-intact skin, or contaminated equipment could occur. A gown
+is recommended to protect skin and prevent soiling of clothing during procedures and
+activities  that  could  cause  contact  with  blood,  body  fluids,  secretions,  or  excretions.
+Enhanced Barrier Precautions expand the use of gown and gloves beyond anticipated
+blood  and  body  fluid  exposures.  They  focus  on  use  of  gown  and  gloves  during
+high-contact resident care activities that have been demonstrated to result in transfer
+of MDROs to hands and clothing of healthcare personnel, even if blood and body fluid
+exposure  is  not  anticipated.  Enhanced  Barrier  Precautions  are  recommended  for
+
+residents known to be colonized or infected with a MDRO as well as those at increased
+risk  of  MDRO  acquisition  (e.g.,  residents  with  wounds  or  indwelling  medical  devices).
+Standard Precautions still apply while using Enhanced Barrier Precautions. For example,
+if  splashes  and  sprays  are  anticipated  during  the  high-contact  care  activity,  face
+protection  should  be  used  in  addition  to  the  gown  and  gloves.  Contact  Precautions
+require the use of gown and gloves on every entry into a resident's room, regardless of
+the  level  of  care  being  provided  to  the  resident.  The  resident  is  given  dedicated
+equipment (e.g., stethoscope and blood pressure cuff) and is placed in a private room.
+When  private  rooms  are  not  available,  some  residents  (e.g.,  residents  with  the  same
+pathogen)  may  be  roomed  together.  Residents  on  Contact  Precautions  are
+recommended  to  be  restricted  to  their  rooms  except  for  medically  necessary  care,
+including  restriction  from  participation  in  group  activities.  Contact  Precautions  are
+generally intended to be time limited and, when implemented, should include a plan for
+discontinuation or de-escalation. Enhanced Barrier Precautions require the use of gown
+and gloves only for high-contact resident care activities (unless otherwise indicated as
+part of Standard Precautions). Residents are not restricted to their rooms and do not
+require placement in a private room. Enhanced Barrier Precautions also allow residents
+to participate in group activities. Because Enhanced Barrier Precautions do not impose
+the  same  activity  and  room  placement  restrictions  as  Contact  Precautions,  they  are
+intended  to  be  in  place  for  the  duration  of  a  resident's  stay  in  the  facility  or  until
+resolution of the wound or discontinuation of the indwelling medical device that placed
+them at higher risk.
+ Contact  Precautions  are  recommended  if  the  resident  has  acute  diarrhea,  draining
+wounds,  or  other  sites  of  secretions  or  excretions  that  are  unable  to  be  covered  or
+contained  or  for  a  limited  period  of  time  during  a  suspected  or  confirmed  MDRO
+outbreak  investigation.  If  neither  criteria  are  met  and  the  resident  does  not  have
+another  indication  for  Contact  Precautions  (See  Question  5),  then  Enhanced  Barrier
+
+Precautions could be used, unless otherwise directed by public health authorities.
+ No.  Enhanced  Barrier  Precautions  are  intended  for  MDROs  (other  than  Clostridioides
+difficile) and do not replace existing guidance regarding use of Contact Precautions for
+other  pathogens  (e.g.,  Clostridioides  difficile,  scabies,  norovirus)  and  conditions  in
+nursing homes. Refer to Appendix A – Type and Duration of Precautions Recommended
+for Selected Infections and Conditions of the CDC Guideline for Isolation Precautions for
+a list of infections and other conditions where Contact Precautions is recommended.
+ No,  at  this  time,  CDC  has  not  recommended  implementation  of  Enhanced  Barrier
+Precautions  (EBP)  in  other  healthcare  settings.  All  healthcare  facilities  should  have
+practices  in  place  to  prevent  transmission  of  multidrug-resistant  organisms  (MDROs).
+Acute care facilities routinely use Contact Precautions as one strategy to prevent MDRO
+transmission. Contact Precautions has created challenges for nursing homes trying to
+balance interventions to prevent MDRO transmission with residents' quality of life. EBP
+is  a  less  restrictive  approach  to  MDRO  prevention  that  places  fewer  limitations  on
+resident activities than Contact Precautions.  The studies that informed EBP, including
+defining which care activities most commonly result in transfer of MDROs to staff hands
+and  clothing,  were  conducted  in  adult  nursing  home  populations.  Such  activities  and
+risks  might  be  different  among  pediatric  nursing  home  populations  and  additional
+consideration is needed when implementing EBP in these settings. Nursing homes with
+pediatric  residents  who  implement  EBP  for  their  pediatric  population  as  part  of  their
+MDRO prevention plan may need to redefine high-contact resident care activities based
+on the anticipated degree of contact and developmental abilities of pediatric residents
+(e.g., repositioning an infant compared to a young adult may require different levels of
+assistance). The evidence that Enhanced Barrier Precautions are effective at preventing
+MDRO transmission is summarized in the document, Consideration for Use of Enhanced
+Barrier Precautions in Skilled Nursing Facilities.
+ The high-contact resident care activities described in the guidance were chosen based
+
+on hundreds of observations of care in nursing homes that evaluated the potential for
+antibiotic-resistant  bacteria  to  contaminate  the  hands  and  clothing  of  healthcare
+personnel. Those activities that demonstrated the highest risk for transfer to hands and
+clothing were included in the CDC guidance. Further information is summarized in the
+document,  Consideration  for  Use  of  Enhanced  Barrier  Precautions  in  Skilled  Nursing
+Facilities.  This  list  may  not  be  fully  exhaustive;  facilities  could  consider  adding  other
+activities specific to their residents.
+ While this guidance focuses on gown and glove use, prevention of MDRO transmission
+in  nursing  homes  requires  much  more  than  just  proper  use  of  personal  protective
+equipment  (PPE).  Adherence  to  other  recommended  infection  prevention  practices
+including performing hand hygiene, cleaning and disinfection of environmental surfaces
+and resident care equipment, proper handling of indwelling medical devices, and care
+of  wounds  is  also  critical.  CDC  and  health  departments  continue  to  identify  gaps  in
+recommended  infection  prevention  practices  as  part  of  on-site  infection  control
+assessments in nursing homes. Examples include lack of access to alcohol-based hand
+sanitizer  in  resident  rooms  and  other  care  areas;  lack  of  access  to  EPA-registered
+disinfectants at the point of use; and failure to clean and disinfect shared resident care
+equipment after each use. During public health outbreak responses and as a part of a
+Containment  Strategy,  facilities  are  provided  guidance  and  support  to  improve  all
+aspects  of  their  infection  prevention  practices,  in  addition  to  implementing  EBP.  CDC
+has created a comprehensive, free, online training course for nursing homes addressing
+development and implementation of an infection prevention program. Nursing homes
+are  encouraged  to  have  staff  review  relevant  modules  and  to  use  the  resources
+provided  in  the  training  (e.g.,  policy  and  procedure  templates,  auditing  checklists)  to
+assess  and  improve  practices  in  their  facility.  Communicating  infection  prevention
+expectations  to  staff,  ensuring  access  to  necessary  supplies,  and  initial  as  well  as
+refresher trainings are essential. Assuming Contact Precautions do not otherwise apply,
+
+Enhanced Barrier Precautions are recommended for residents with any of the following:
+1) infection or colonization with a MDRO or 2) a wound or indwelling medical device,
+even if the resident is not known to be infected or colonized with a MDRO. While prior
+iterations  of  the  Enhanced  Barrier  Precautions  guidance  were  intended  for  use  solely
+during  public  health  response  activities,  Enhanced  Barrier  Precautions  are  currently
+recommended  to  be  used  broadly,  in  all  units  across  the  whole  facility,  for  residents
+who meet the above criteria. This broader application includes facilities where targeted
+MDROs  have  not  yet  been  identified  and  is  intended  to  minimize  the  transmission  of
+MDROs in nursing homes.
+ Even if the resident colonized with a MDRO is placed on Contact Precautions (e.g., for
+uncontained  secretions  or  excretions,  acute  diarrhea,  draining  wounds,  or  ongoing
+transmission within the unit or facility is suspected), Enhanced Barrier Precautions are
+still recommended for other at-risk residents (i.e., those with indwelling medical devices
+or wounds) in the facility.
+ There  may  be  circumstances  when  performing  screening  cultures  for  presence  of
+certain MDROs could be appropriate, especially as part of public health prevention or
+response  measures  to  address  antimicrobial  resistance.  However,  pre-emptive
+screening  to  determine  a  resident's  MDRO  status  solely  for  the  purpose  of
+implementing  Enhanced  Barrier  Precautions  is  not  recommended.  Enhanced  Barrier
+Precautions are intended to provide an approach for gown and glove use that is based
+on resident risk factors and type of care being provided, rather than solely based on
+MDRO  status,  especially  for  residents  at  risk  for  MDRO  acquisition  (i.e.,  presence  of
+indwelling medical devices or wounds).
+ Yes.  Enhanced  Barrier  Precautions  are  recommended  for  residents  with  indwelling
+medical  devices  or  wounds,  who  do  not  otherwise  meet  the  criteria  for  Contact
+Precautions,  even  if  they  have  no  history  of  MDRO  colonization  or  infection  and
+regardless of whether others in the facility are known to have MDRO colonization. This
+
+is because devices and wounds are risk factors that place these residents at higher risk
+for  carrying  or  acquiring  a  MDRO  and  many  residents  colonized  with  a  MDRO  are
+asymptomatic or not presently known to be colonized.
+ Indwelling medical devices and wounds are risk factors for colonization with a MDRO.
+Once colonized, these residents can serve as sources of transmission within the facility.
+The  expansion  of  EBP  for  all  residents  with  wounds  or  indwelling  medical  devices  is
+intended to protect these high-risk individuals both from acquisition and from serving
+as a source of transmission if they have already become colonized. Additional resources
+are  summarized  in  the  document,  Consideration  for  Use  of  Enhanced  Barrier
+Precautions in Skilled Nursing Facilities.
+ At  a  minimum,  Enhanced  Barrier  Precautions  are  intended  to  be  used  for  residents
+colonized or infected with novel (e.g., those newly introduced or emerging in a locality
+or  region)  MDROs  or  MDROs  targeted  by  CDC.  The  Enhanced  Barrier  Precautions
+guidance also provides facilities and jurisdictions the flexibility to implement Enhanced
+Barrier Precautions for residents colonized or infected with additional MDROs that may
+be  epidemiologically  important  locally.  Determinations  about  an  organism  being
+epidemiologically  important  may  be  influenced  by  factors  that  include:  local
+epidemiology,  presence  of  ongoing  or  past  outbreaks,  propensity  for  transmission  in
+healthcare facilities, association with severe outcomes, or targeting for local prevention
+efforts.  No. Single-person rooms (if available) should be prioritized for residents who
+have  acute  infection  with  a  communicable  disease  (such  as  influenza,  SARS-CoV-2,
+hepatitis  A)  or  for  residents  placed  on  Contact  Precautions  for  presence  of  acute
+diarrhea, draining wounds, or other sites of secretions or excretions that are unable to
+be covered or contained. Residents on Enhanced Barrier Precautions may share rooms
+with  other  residents;  however,  facilities  with  capacity  to  offer  single-person  rooms  or
+create  roommate  pairs  based  on  MDRO  colonization  may  choose  to  do  so.  Further,  if
+there  are  multiple  residents  with  a  novel  or  targeted  MDRO  in  the  same  facility,
+
+consider cohorting them together in one wing or unit to decrease the direct movement
+of  healthcare  personnel  from  colonized  or  infected  residents  to  those  who  are  not
+known  to  be  colonized.  When  residents  are  placed  in  shared  rooms,  facilities  must
+implement strategies to help minimize transmission of pathogens between roommates
+including:  maintaining  spatial  separation  of  at  least  3  feet  between  beds  to  reduce
+opportunities  for  inadvertent  sharing  of  items  between  the  residents,  use  of  privacy
+curtains  to  limit  direct  contact,  cleaning  and  disinfecting  any  shared  reusable
+equipment,  cleaning  and  disinfecting  environmental  surfaces  on  a  more  frequent
+schedule, and changing personal protective equipment (if worn) and performing hand
+hygiene when switching care from one roommate to another.
+ Enhanced Barrier Precautions are intended to be used for the duration of a resident's
+stay in a facility. A transition back to Standard Precautions, alone, might be appropriate
+for residents placed on Enhanced Barrier Precautions solely because of the presence of
+a wound or indwelling medical device when the wound heals or the device is removed.
+ Residents  colonized  with  a  novel  or  targeted  MDRO  are  intended  to  remain  on
+Enhanced Barrier Precautions for the duration of their stay in a facility. Because MDRO
+colonization  is  typically  prolonged  and  follow-up  testing  to  determine  clearance  may
+yield  false  negatives,  CDC  does  not  recommend  routine  retesting  of  residents  with  a
+history of colonization or infection with a MDRO or discontinuation of Enhanced Barrier
+Precautions  after  a  subsequent  negative  test.  The  resident  should  be  maintained  on
+Contact  Precautions  in  the  nursing  home  if  he  or  she  has  acute  diarrhea,  draining
+wounds,  or  other  sites  of  secretions  or  excretions  that  are  unable  to  be  covered  or
+contained  or  for  a  limited  period  of  time  during  a  suspected  or  confirmed  MDRO
+outbreak  investigation.  If  none  of  these  are  present,  Enhanced  Barrier  Precautions
+would typically be appropriate for the management of this resident, unless otherwise
+directed by public health authorities.
+ Not  necessarily.  Gowns  and  gloves  are  the  minimum  level  of  PPE  required  for  these
+
+high-contact  resident  care  activities.  However,  as  part  of  Standard  Precautions,
+additional PPE may be required depending on the resident. For example, face protection
+would also be required for activities where splashes and sprays are likely (e.g., wound
+irrigation, tracheostomy care).
+ Providing  hygiene  refers  to  practices  such  as  brushing  teeth,  combing  hair,  and
+shaving.  Many  of  the  high-contact  resident  care  activities  listed  in  the  guidance  are
+commonly  bundled  as  part  of  morning  and  evening  care  for  the  resident  rather  than
+occurring  as  multiple  isolated  interactions  with  the  resident  throughout  the  day.
+Isolated  combing  of  a  resident's  hair  that  is  not  otherwise  bundled  with  other
+high-contact resident care activities would not generally necessitate use of a gown and
+gloves.
+ An  indwelling  medical  device  provides  a  direct  pathway  for  pathogens  in  the
+environment  to  enter  the  body  and  cause  infection.  Examples  of  indwelling  medical
+devices  include,  but  are  not  limited  to,  central  vascular  catheters  (including
+hemodialysis  catheters,  peripherally-inserted  central  catheters  (PICCs)),  indwelling
+urinary  catheters,  feeding  tubes,  and  tracheostomy  tubes.  Devices  that  are  fully
+embedded in the body, without components that communicate with the outside, such
+as  pacemakers,  would  not  be  considered  an  indication  for  Enhanced  Barrier
+Precautions. Although the data are limited, CDC does not currently consider peripheral
+I.V.s (except for midline catheters), continuous glucose monitors, and insulin pumps as
+indications  for  Enhanced  Barrier  Precautions.  An  ostomy  in  a  resident  without  an
+associated  indwelling  medical  device,  would  not  be  considered  an  indication  for
+Enhanced  Barrier  Precautions.  In  the  guidance,  wound  care  is  included  as  a
+high-contact  resident  care  activity  and  is  generally  defined  as  the  care  of  any  skin
+opening requiring a dressing. However, the intent of Enhanced Barrier Precautions is to
+focus on residents with a higher risk of acquiring an MDRO over a prolonged period of
+time.  This  generally  includes  residents  with  chronic  wounds,  and  not  those  with  only
+
+shorter-lasting  wounds,  such  as  skin  breaks  or  skin  tears  covered  with  a  Band-aid  or
+similar dressing. Examples of chronic wounds include, but are not limited to, pressure
+ulcers,  diabetic  foot  ulcers,  and  chronic  venous  stasis  ulcers.  Ostomies,  such  as
+colostomies  or  ileostomies,  are  not  defined  as  a  wound  for  Enhanced  Barrier
+Precautions.  The  presence  of  an  indwelling  device  is  a  major  risk  factor  for  being
+colonized with or acquiring a MDRO. Therefore, the safest practice would be to wear a
+gown and gloves for any care (e.g., dressing changes) or use (e.g., injecting or infusing
+medications or tube feeds) of the indwelling medical device. It may be acceptable to
+use gloves, alone, for some uses of a medical device that involve only limited physical
+contact  between  the  healthcare  worker  and  the  resident  (e.g.,  passing  medications
+through a feeding tube). This is only appropriate if the activity is not bundled together
+with other high-contact care activities and there is no evidence of ongoing transmission
+in  the  facility.  Facilities  should  define  these  limited  contact  activities  in  their  policies
+and procedures and educate healthcare personnel to ensure consistent application of
+Enhanced Barrier Precautions.
+ In general, gowns and gloves would not be recommended when performing transfers in
+common  areas  such  as  dining  or  activity  rooms,  where  contact  is  anticipated  to  be
+shorter in duration. Enhanced Barrier Precautions is primarily intended to apply to care
+that  occurs  within  a  resident's  room  where  high-contact  resident  care  activities,
+including transfers, are bundled together with other high-contact activity, such as part
+of  morning  or  evening  care.  This  extended  contact  with  the  resident  and  their
+environment increases the risk of MDRO spreading to staff hands and clothes. Outside
+the  resident's  rooms,  Enhanced  Barrier  Precautions  should  be  followed  when
+performing  transfers  and  assisting  during  bathing  in  a  shared/common  shower  room
+and  when  working  with  residents  in  the  therapy  gym,  specifically  when  anticipating
+close  physical  contact  while  assisting  with  transfers  and  mobility.  Hand  hygiene  is
+recommended before and after resident contact.
+
+ Depending  on  the  activity,  therapy  may  be  considered  "high-contact"  resident  care.
+Therapists  should  use  gowns  and  gloves  when  working  with  residents  on  Enhanced
+Barrier  Precautions  in  the  therapy  gym  or  in  the  resident's  room  if  they  anticipate
+prolonged, close body contact where transmission of MDROs to the therapist's clothes is
+possible. EBP should not limit a resident's ability to continue their medical therapy, so
+while  the  use  of  a  gown  and  gloves  is  generally  discouraged  in  hallways  and  other
+common areas, there may be individual circumstances (e.g., therapy that has to occur
+outside of the resident's room or therapy gym) that prompt an evaluation for the need
+to use PPE outside of the room or gym, depending on the degree of assist/close contact.
+As  part  of  Standard  Precautions,  gowns  and  gloves  should  be  removed  and  hand
+hygiene performed when moving to work with another resident. Therapists should also
+ensure  reusable  therapy  equipment  is  cleaned  and  disinfected  after  each  use  and
+surfaces in the therapy gym receive routine cleaning and disinfection.
+ The  research  that  was  the  basis  for  the  current  guidance  evaluated  high-contact
+resident care activities, not specifically the risk of transmission of MDROs to the hands
+or  clothing  of  Environmental  Services  (EVS)  or  housekeeping  personnel.  However,
+changing  linen  is  considered  a  high  contact  resident  care  activity;  gowns  and  gloves
+should  be  worn  by  EVS  personnel  if  they  are  changing  the  linen  of  residents  on
+Enhanced  Barrier  Precautions  and  could  be  considered  for  additional  environmental
+services  or  housekeeping  responsibilities  that  involve  extensive  contact  with  the
+resident or the resident's environment. Gown and glove use by EVS should be based on
+facility policy and for anticipated exposures to body fluids, chemicals, or contaminated
+surfaces.  It  is  important  to  remember,  gowns  and  gloves  should  be  worn  by  EVS
+personnel  when  cleaning  and  disinfecting  the  rooms  of  residents  on  Contact
+Precautions.
+ No. Signs are intended to signal to individuals entering the room the specific actions
+they should take to protect themselves and the resident. To do this effectively, the sign
+
+must contain information about the type of Precautions and the recommended PPE to
+be worn when caring for the resident. Generic signs that instruct individuals to speak to
+the nurse are not adequate to ensure Precautions are followed. Signs should not include
+information  about  the  resident's  diagnosis  or  the  reason  for  the  Precautions  (e.g.,
+presence of a resistant pathogen); inclusion of that information would violate HIPAA and
+resident dignity. CDC has created examples of signs that can be used by facilities to
+communicate information about Transmission-Based and Enhanced Barrier Precautions.
+Facilities can use these signs or modify them to create signs that work for their facility.
+ You should refer to local and state regulations regarding disposal of medical waste. The
+OSHA Bloodborne Pathogen Standard uses the term "regulated waste" to refer to the
+following  categories  of  waste  which  require  special  handling,  at  a  minimum:  liquid  or
+semi-liquid blood or other potentially infectious materials (OPIM); contaminated items
+that would release blood or OPIM in a liquid or semi-liquid state if compressed; items
+that are caked with dried blood or OPIM and are capable of releasing these materials
+during  handling;  contaminated  sharps;  pathological  and  microbiological  wastes
+containing blood or OPIM. Based on this definition, most PPE used during resident care,
+including  care  of  residents  placed  in  Enhanced  Barrier  or  Transmission-Based
+Precautions,  would  not  fall  into  the  category  of  regulated  medical  waste  requiring
+disposal  in  a  biohazard  bag,  and  could  be  discarded  as  routine  non-infectious  waste.
+Facilities should remember to have an appropriate disposal container available in the
+resident  room  to  allow  for  removal  of  PPE  inside  the  room.  However,  local  or  state
+regulations may be more restrictive than this federal standard, so you should refer to
+those when making decisions. This website provides resources for patients, families and
+caregivers on the prevention of infections in nursing homes and assisted living facilities.
+Languages Language Assistance Languages  Language Assistance 
+
+Source URL: https://www.cdc.gov/long-term-care-facilities/hcp/prevent-mdro/faqs.html

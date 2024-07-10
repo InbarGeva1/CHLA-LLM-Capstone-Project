@@ -1,0 +1,83 @@
+Official websites use .gov A .gov website belongs to an official government organization
+in  the  United  States.  Secure  .gov  websites  use  HTTPS  A  lock  (   )  or  https://  means
+you've  safely  connected  to  the  .gov  website.  Share  sensitive  information  only  on
+official, secure websites. Emergency response employees (EREs) are at risk of exposure
+to  potentially  life-threatening  infectious  diseases  through  contact  with  victims  during
+emergencies.  Part  G  of  the  Ryan  White  HIV/AIDS  Treatment  Extension  Act  of  2009
+requires  that  medical  facilities  provide  EREs  with  notification  of  when  they  may  have
+been  exposed  to  potentially  life-threatening  infectious  diseases  while  transporting  or
+serving victims of an emergency. Knowing this information allows EREs the opportunity
+to seek timely medical care and to make informed decisions about addressing potential
+health  issues  arising  from  their  exposures.  NIOSH  has  developed  a  list  of  potentially
+life-threatening diseases, including emerging infectious diseases, to which EREs may be
+exposed  while  transporting  or  serving  emergency  victims  taken  to  a  medical  facility.
+Along  with  the  list,  NIOSH  has  also  developed  guidelines  describing  circumstances  in
+which  EREs  may  be  exposed  to  a  listed  disease  and  the  manner  in  which  a
+determination of an exposure shall be made by a medical facility. Medical facilities that
+receive  and  treat  the  victims  of  an  emergency  or  ascertain  the  cause  of  death  are
+responsible  for  routinely  notifying  and  responding  to  requests  pertaining  to  any
+determinations that a victim of an emergency has a listed potentially life-threatening
+infectious  disease,  as  described  in  the  NIOSH  guidelines.  When  a  medical  facility
+determines that a victim of an emergency has a potentially life-threatening airborne or
+aerosolized  infectious  disease,  the  medical  facility  is  responsible  for  initiating
+notification  to  the  ERE  who  transported  the  victim.  If  an  ERE  believes  he  or  she  has
+been  exposed  to  any  potentially  life-threatening  disease  on  the  NIOSH  list,  and  has
+transported, attended, treated, or assisted the victim pursuant to the emergency, the
+ERE may initiate a request for notification from the medical facility to which the victim
+of the emergency was transported. To learn more about the guidelines describing ways
+
+employees may be exposed to these diseases and the guidelines describing the manner
+in  which  medical  facilities  should  make  determinations  about  exposures,  visit  the
+Guidelines page. To learn more about how EREs who believe they have been exposed
+to a disease on the list can request notification or about how medical facilities should
+initiate  notification  if  an  ERE  may  have  been  exposed  to  an  airborne  or  aerosolized
+infectious disease on the list, visit the Notification Process page. Diseases often have
+multiple transmission  pathways.  However,  for purposes  of  this  classification,  diseases
+routinely  transmitted  via  the  aerosol  airborne  and  aerosol  droplet  routes  are  so
+classified,  even  if  other  routes,  such  as  contact  transmission,  also  occur.  CDC  will
+continue  to  monitor  the  scientific  literature  on  these  and  other  infectious  diseases.  If
+CDC determines that a newly emerged infectious disease fits criteria for inclusion in the
+List  of  Potentially  Life-Threatening  Infectious  Diseases  to  Which  Emergency  Response
+Employees May Be Exposed required by the Ryan White HIV/AIDS Treatment Extension
+Act of 2009, CDC will amend the list and add the disease. These diseases include those
+caused by any transmissible agent included in the HHS Select Agents List. [5] Many are
+not  routinely  transmitted  human  to  human  but  may  be  transmitted  via  exposure  to
+contaminated environments. The HHS Select Agents List is updated regularly and can
+be found on the National Select Agent Registry Web site: http://www.selectagents.gov/
+These diseases include those caused by any transmissible agent included in the HHS
+Select Agents List. [5] Many are not routinely transmitted human to human but may be
+transmitted via exposure to contaminated environments. The HHS Select Agents List is
+updated  regularly  and  can  be  found  on  the  National  Select  Agent  Registry  Web  site:
+http://www.selectagents.gov/ [1] Section 2695(b) [42 U.S.C. § 300ff–131(b)].
+[2] Section 2695(b) [42 U.S.C. § 300ff–131(b)].
+[3]  For  most  viral  hemorrhagic  fevers  (VHFs),  routine  transmission  is  limited  to
+transmission from a zoonotic reservoir or direct contact with an infected person (e.g.
+Ebola virus, Marburg virus) or through arthropod-borne transmission (Rift Valley fever,
+
+Crimean-Congo  hemorrhagic  fever).  For  a  small  number  of  VHF  viruses,  transmission
+may  occur  through  droplet  transmission  (e.g.  Nipah  virus),  however  prolonged  close
+contact  is  likely  necessary.  Aerosol  transmission  does  not  occur  in  natural
+(non-laboratory) settings.
+[4]  Council  of  State  and  Territorial  Epidemiologists,  Position  Statement  Number:
+09–ID–43.
+ Available
+ at
+https://c.ymcdn.com/sites/www.cste.org/resource/resmgr/PS/09-ID-43.pdf.
+ Accessed
+January 15, 2019.
+[5]  42  C.F.R.  §§  73.3,  73.4.  If  you  have  any  questions  about  the  list  of  potentially
+life-threatening  infectious  diseases  to  which  emergency  response  employees  may  be
+exposed and accompanying guidelines, contact CDC/NIOSH Ryan White Coordinator via
+email or mail. Please provide your return contact information, if seeking a reply. Please
+do  not  provide  information  of  a  sensitive  nature  in  this  email,  such  as  any  disease
+status for yourself or another person. Email: NIOSHRyanWhiteAct@cdc.gov Mail: Ryan
+White Act Coordinator
+Centers for Disease Control and Prevention
+National Institute for Occupational Safety and Health
+1600 Clifton Road, NE
+MS E20
+Atlanta, GA 30329 If you have questions on other sections of Part G, please contact the
+call  center  of  U.S.  Department  of  Health  and  Human  Services  headquarters  at
+1-877-696-6775.
+
+Source URL: https://www.cdc.gov/niosh/topics/ryanwhite/default.html

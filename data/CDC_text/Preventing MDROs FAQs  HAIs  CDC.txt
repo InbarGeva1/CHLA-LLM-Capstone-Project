@@ -1,0 +1,623 @@
+A .gov website belongs to an official government organization in the United States. A
+lock (  ) or https:// means you've safely connected to the .gov website. Share sensitive
+information only on official, secure websites. 
+Related Topics:
+ Frequently  asked  questions  about  the  prevention  and  response  to  novel  &  targeted
+multidrug-resistant  organisms  (MDROs).  Several  reports,  summarized  below,  describe
+decreases  in  MDROs  following  implementation  of  prevention  strategies  in  healthcare
+facilities across a region. These prevention interventions targeted different MDROs and
+were  applied  in  regions  with  different  health  systems  and  epidemiology  but  had
+common elements that include enhanced surveillance, education, communication, and
+improving infection prevention and control practices. In 1997, following a rapid increase
+in  vancomycin-resistant  enterococci  (VRE)  in  the  Siouxland  region  of  Iowa,  Nebraska,
+and  South  Dakota,  Siouxland  health  officials  created  a  task  force  to  prevent  further
+spread. In collaboration with CDC, the task force assessed the regional prevalence of
+VRE  and  implemented  a  coordinated  response  with  a  bundle  of  interventions  that
+included  colonization  screening,  infection  control  assessments,  use  of  isolation  and
+Transmission-Based Precautions for VRE carriers, and education, across 32 healthcare
+facilities in the region. The overall VRE prevalence at participating facilities decreased
+from 2.2% in 1997 to 1.4% in 1998, and to 0.5% in 1999 (p = 0.001). The results of the
+study  show  that  comprehensive  efforts  to  identify  and  isolate  patients  with  VRE  can
+reduce  transmission.1  In  2006,  Israeli  acute-care  hospitals  (ACHs)  faced  clonal
+outbreaks  of  Klebsiella  pneumoniae  carbapenemase-producing  Klebsiella  pneumoniae
+that were not controlled by individual hospital measures. The Israeli Ministry of Health
+launched  a  nationwide  intervention  to  limit  further  spread  of  antimicrobial-resistant
+bacteria  in  hospitals  through  creation  of  a  national  task  force  on  antimicrobial
+
+resistance  and  infection  control  and  targeted  interventions  for  carbapenem-resistant
+Enterobacterales  (CRE),  which  included  centralized  reporting,  isolation  and  Contact
+Precautions for known carriers, geographic separation for hospitalized carriers of CRE,
+and ACH site visits to assess infection control policies and laboratory methods for CRE
+identification.  The  national  monthly  incidence  of  CRE  decreased  from  55.5  cases  per
+100,000 patient-days prior to the intervention to 11.7 cases per 100,000 patient-days
+(p< .001) in just over a year but did not return to pre-intervention baseline2. In 2008,
+after  identifying  that  approximately  40%  of  CRE  carriers  in  ACHs  were  discharged  to
+long-term care facilities (LTCFs), the intervention was expanded to LTCFs, where similar
+interventions  to  those  used  in  ACHs  and  early  detection  of  carriers  by  serial  point
+prevalence surveys (PPS) were implemented. The intervention decreased the incidence
+of CRE acquisition by approximately 50% across all LTCF types combined (p< 0.001).3
+In response to an outbreak of Verona integron-encoded metallo-β-lactamase–producing
+carbapenem-resistant Pseudomonas aeruginosa (VIM-CRPA) across multiple healthcare
+facilities  in  West  Texas  in  2017-2018,  CDC  and  state  and  local  health  department
+partners implemented a regional prevention plan to slow the spread of VIM-CRPA in the
+area.4  The  prevention  plan  included  (1)  a  baseline  assessment  of  facility  infection
+prevention and control (IPC) practices and point prevalence surveys (PPS) (baseline PPS
+conducted at 2 ACHs in medical and burn intensive care units [ICUs], a long-term acute
+care  hospital  [LTACH],  a  ventilator-capable  skilled  nursing  facility  [vSNF],  a  skilled
+nursing  facility  that  does  not  care  for  ventilated  residents  [SNF],  and  an  inpatient
+rehabilitation  facility  [IRF]);  (2)  a  regional  meeting  of  healthcare  facilities  to  provide
+information  and  education;  (3)  periodic  PPS  and  targeted  admission  screening;  (4)
+recurring onsite facility IPC assessments; (5) mandating use of an interfacility transfer
+form; and (6) a monthly educational webinar series on MDRO prevention topics. Of the
+16  ACHs,  long-term  care  facilities,  and  IRFs  in  West  Texas  that  were  targeted  for
+prevention  activities  based  on  patient  transfer  networks,  10  attended  the  regional
+
+meeting,  9  had  an  initial  onsite  IPC  assessment,  and  5  agreed  to  participate  in  the
+prevention  plan  of  which  all  5  had  cared  for  VIM-CRPA  patients.  One  additional
+long-term care facility agreed to participate after the regional meeting and baseline IPC
+assessments  were  completed.  Objective  improvements  in  hand  hygiene  and
+thoroughness of environmental cleaning were observed at each facility during follow up
+IPC assessments, and PPS were successful in identifying multiple colonized individuals.
+Following  implementation  of  the  prevention  plan  in  2018,  healthcare-associated
+VIM-CRPA infections per hospital admission declined by 9.8% per month (95% CI -0.156
+to -0.0399, P=0.001) through November 2019. Lee et al. (2016) modeled the impact of
+implementing the 2012 CDC CRE toolkit interventions on the spread of CRE throughout
+Orange  County,  California  healthcare  facilities.5  Using  an  agent-based  simulation
+model, the researchers predicted the spread of CRE under three scenarios: no specific
+control  measures,  uncoordinated  facility-level  infection  control  measures,  and  a
+coordinated regional effort. Control measures evaluated included admission screening
+and Contact Precautions for CRE carriers. Coordinated regional efforts were consistently
+more  effective  than  uncoordinated  facility-level  interventions,  which  were  more
+effective  than  scenarios  with  no  infection  control  intervention.  Slayton  et  al.  (2015)
+demonstrated that a coordinated response to reduce CRE transmission, in which CRE
+carrier status was shared with a centralized public health authority and communicated
+to facilities upon patient transfer, resulted in a 74% reduction in CRE acquisitions over 5
+years  compared  to  an  independent  approach  using  an  agent-based  model  in  10
+inter-connected  healthcare  facilities.6  Other  modeling  studies  have  assessed  the
+impact of interventions targeted to specific facility types. Lee et al. (2021) evaluated
+the impact of a prevention bundle targeted to ACHs and LTACHs on the prevalence of
+CRE  in  the  Chicago  area  using  an  agent-based  model.7  The  prevention  bundle
+consisted  of  admission  screening,  isolation  or  cohorting,  and  Contact  Precautions  for
+CRE carriers, a hand hygiene campaign, and daily chlorhexidine bathing. Results from
+
+this study demonstrated a 5% reduction in CRE prevalence at 3 years when intervening
+in ACH ICUs compared to no intervention; a 4.6%– 17.1% reduction when intervening in
+LTACHs;  and  a  21%  reduction  when  intervening  in  ACH  ICUs  and  LTACHs.  Using  a
+similar  model  and  bundle  of  interventions,  Lee  et  al.  (2021)  concluded  that  targeting
+vSNFs and LTACHs resulted in the largest reductions in CRE prevalence (21% reduction
+compared to no intervention).8 CDC performed modeling studies to assess the relative
+impact of different bundles of prevention interventions, implemented in different facility
+types
+ and
+ at
+ different
+ time
+ points
+ in
+ a
+ regional
+ outbreak,
+ on
+ regional
+carbapenem-resistant  Enterobacterales  (CRE)  prevalence.  We  adapted  a  previously
+published  compartmental,  regional  transmission  mode9l  to  estimate  the  impact  of
+interventions  on  total  CRE  prevalence  across  networks  of  connected  healthcare
+facilities. Findings are described in a published abstract and online pre-print.10 Briefly,
+we  assessed  the  effect  of  combinations  of  interventions  to  detect  colonization  (point
+prevalence  surveys  [PPS]  and  admission  screening)  and  prevent  transmission
+(enhanced
+ infection
+ prevention
+ and
+ control
+ [IPC]
+ practices
+ and
+ interfacility
+communication) at different facility types (acute care hospitals [ACH], long-term acute
+care hospitals [LTACHs], ventilator-capable skilled nursing facilities [vSNFs], and skilled
+nursing  facilities  that  do  not  care  for  ventilated  residents  [SNFs])  and  at  time  points
+before  and  after  the  importation  of  CRE.  By  evaluating  the  relative  impact  of
+combinations  of  interventions  at  different  points  in  the  epidemic  we  developed
+evidence-based  recommendations,  with  the  strongest  recommendations  for  those
+interventions  associated  with  the  greatest  reductions  in  regional  prevalence.  We  also
+assessed  implementation  tradeoffs  in  our  model  by  estimating  the  testing  efficiency
+(i.e., screening tests per positive) of identifying new positives with admission screening
+compared to PPS screening and quantifying the relative benefit of admission screening
+at  many  facilities  vs  PPS  at  fewer  facilities.  We  found  that  bundles  with  PPS  and
+enhanced infection prevention and control practices in LTACHs and vSNFs had a greater
+
+effect  on  network  prevalence  than  admission  screening  in  ACHs,  LTACHs,  and  vSNFs
+and interfacility communication. Improving detection, through PPS and enhanced IPC in
+vSNFs  and  LTACHs,  reduced  transmission  at  all  facility  types  in  the  region.
+Implementing prevention interventions after CRE introduction decreased transmissions
+and  regional  prevalence  relative  to  no  intervention  but  was  less  impactful  than  if
+interventions were in place before introduction. These findings informed the prevention
+strategy's  focus  on  improving  detection  and  infection  control  in  influential  facilities
+(LTACHs and vSNFs) and initiating activities before an MDRO spread widely in a region.
+While CRE was used to model the impact of prevention interventions on transmission
+and  regional  prevalence  due  to  the  availability  of  robust  data,  these  general  findings
+likely also apply to other emerging MDROs primarily transmitted in healthcare settings,
+such  Candida  auris,  although  there  may  be  some  pathogen-specific  differences.
+Facilities  with  longer  lengths  of  stay  that  care  for  high-acuity  individuals  often
+disproportionately  influence  regional  MDRO  prevalence  relative  to  their  facility
+populations.  LTACHs  and  vSNFs  are  facilities  that  often  have  these  traits;  however,
+other  facility  types  and  units  may  share  these  characteristics.  Health  departments  in
+jurisdictions  without  vSNFs  or  LTACHs  should  consider  which  facility  types  in  their
+jurisdiction care for high-acuity patients with long average lengths of stay, or if there
+are  other  facilities  that  could  be  considered  influential  facilities  in  the  region  (e.g.,
+based  on  frequent  MDRO  outbreaks).  Examples  of  approaches  to  strengthen
+jurisdictional  clinical  laboratory  surveillance  include:  *Note:  The  Council  of  State  and
+Territorial  Epidemiologists  (CSTE)  has  recommended  that  all  States  and  Territories
+enact policies to make carbapenemase-producing organisms (CPOs) reportable in their
+jurisdiction  CSTE  CPO  Position  Statement.  The  clinical  laboratory  evaluation  ideally
+identifies  topics  or  laboratories  for  targeted  education  or  recommends  strategic
+improvements.  Examples  of  evaluation  questions  include:  A  PPS  performed  for
+multidrug-resistant organism (MDRO) prevention and in accordance with "Public Health
+
+Strategies  to  Prevent  the  Spread  of  Novel  and  Targeted  MDROs"  is  a  public  health
+intervention and is not generally considered to be human subjects research; therefore,
+IRB  approval  is  not  required  under  human  research  regulations.  However,  individual
+institutional policies may vary. Before testing, we recommend that verbal consent for
+screening be obtained from the patient/resident, unless facility policy requires written
+consent.
+ This
+ process
+ should
+ include
+ explaining
+ colonization
+ screening
+ to
+patients/residents (or their legal medical proxy) in a manner that they can understand,
+describe  the  process  of  collecting  a  swab,  and  convey  possible  risks,  benefits,  and
+actions  that  might  result  from  their  decision  to  either  agree  to  or  decline  screening.
+Provide the patient/resident with enough time to ask questions and a written copy of
+the  "Patient  Screening  FAQs"  (Patient  Screening  FAQ  and  example  verbal  consent
+script: Public Health Departments | CRE | HAI | CDC; C. auris screening FAQ: Frequently
+asked Questions about Screening for Candida auris | Candida auris | Fungal Diseases |
+CDC). Admission screening is the use of colonization screening to identify an individual
+with  a  multidrug-resistant  organism  (MDRO)  at  the  time  of  admission  to  a  new
+healthcare facility or unit within the same facility to ensure timely infection prevention
+and control (IPC) action. Admission screening for carbapenemase-producing organisms
+(CPOs):  CDC  recommends  that  individuals  with  a  history  of  an  overnight  stay  in  a
+healthcare facility or invasive procedure outside the United States in at least the past 6
+months at minimum are screened for CPOs (rectal swab).111213 Ideally, these patients
+should be placed in Contact Precautions (or Enhanced Barrier Precautions, for nursing
+home residents when Contact Precautions do not otherwise apply) while awaiting the
+results of screening tests, however this should not preclude screening. Identification of
+any  CPO  (including  the  presence  of  a  carbapenemase-encoding  gene,  without  an
+organism identified) during admission screening should result the patient being placed
+in Contact Precautions. Admission screening for Candida auris: CDC recommends that
+individuals  with  a  history  of  an  overnight  stay  in  a  healthcare  facility  or  invasive
+
+procedure  outside  the  United  States  in  the  past  12  months  are  screened  for  C.  auris
+(axilla/groin composite swab) (Screening for Candida auris Colonization | Candida auris |
+Fungal Diseases | CDC). Ideally, these patients should be placed in Contact Precautions
+(or Enhanced Barrier Precautions, for nursing home residents when Contact Precautions
+do  not  otherwise  apply)  while  awaiting  the  results  of  screening  tests,  however  this
+should  not  preclude  screening.  For  patients  with  a  history  of  an  overnight  stay  in  a
+healthcare facility or invasive procedures outside the United States in the last 6 months
+(for  carbapenemase-producing  organisms  [CPO]  admission  screening)  or  the  last  12
+months  (for  Candida  auris  admission  screening),  CDC  recommends  using  Contact
+Precautions (or Enhanced Barrier Precautions, for nursing home residents when Contact
+Precautions do not otherwise apply) and placing the patient/resident in a private room
+when available while awaiting admission screening results. When performing admission
+screening for other indications, Contact Precautions (or Enhanced Barrier Precautions,
+for  nursing  home  residents  when  Contact  Precautions  do  not  otherwise  apply)  and  a
+private room are not required while awaiting test results. However, in certain situations
+facilities  may  decide  to  implement  these  measures  due  to  the  high  probability  of  a
+positive test result. For instance, an acute care hospital may use Contact Precautions
+and private room placement for patients transferred from a facility or unit with a known
+outbreak  or  high  baseline  multidrug-resistant  organism  (MDRO)  prevalence  while
+awaiting  laboratory  results.  If  preemptive  Contact  Precautions  (or  Enhanced  Barrier
+Precautions) are not used, take steps to limit the risk of possible transmission to others,
+such as avoiding frequent room transfers and maintaining high levels of adherence to
+hand  hygiene,  environmental  cleaning  and  disinfection,  and  Standard  Precautions.
+Whenever  individuals  are  roomed  together,  precautions  should  be  taken  to  prevent
+transmission  of  infectious  organisms  between  them,  regardless  of  known  MDRO
+colonization or infection status. These include: CLIA-validated screening tests for CPOs
+and C. auris are available through CDC's Antimicrobial Resistance Laboratory Network
+
+(AR Lab Network) and include Screening for C. auris colonization should be conducted
+using  a  composite  swab  of  the  patient's  bilateral  axilla  and  groin.  The  preferred
+specimen source for CPO colonization screening is a rectal swab. When screening for
+carbapenemase-producing  carbapenem-resistant  Acinetobacter  baumannii  (CRAB)  or
+carbapenem-resistant Pseudomonas aeruginosa (CRPA), health departments may wish
+to  sample  additional  body  sites  to  increase  sensitivity;  these  sites  can  include
+respiratory  specimens,  wounds,  and  the  skin  (e.g.  axilla/groin;  for  CRAB  only).  The
+epidemiology of known cases and the performance characteristics of the available tests
+should  inform  the  selection  of  additional  sites.  For  example,  if  several  clinical  cases
+were identified from respiratory cultures from patients on a ventilator unit, the addition
+of respiratory screening cultures could be considered. While the sensitivity of different
+specimen  sources  for  CRAB  colonization  screening  varies  in  the  literature,  one  study
+demonstrated that culture-based screening of the skin using sponge swabs to sample
+large  surface  areas  had  the  highest  yield  for  A.  baumanii  (92%)  compared  to  other
+anatomic sites alone; where testing skin using sponge swabs is available, this site may
+be  used  alone  or  in  combination  with  rectal  swabs.[i]  When  considering  colonization
+screening for CPOs at non-rectal sites, consult with the laboratory that will conduct the
+screening  to  determine  what  specimen  types  are  validated  and  the  recommended
+approach  based  on  the  context  for  screening  (e.g.,  acute  outbreak  vs  prevention,
+setting in which screening will be performed). [i] Nutman A, Temkin E, Lellouche J, Ben
+David  D,  Schwartz  D,  Carmeli  Y.  Detecting  carbapenem-resistant  Acinetobacter
+baumannii  (CRAB)  carriage:  Which  body  site  should  be  cultured?  Infect  Control  Hosp
+Epidemiol. 2020 Aug;41(8):965-967. The primary method of CPO colonization screening
+available  through  CDC’s  Antimicrobial  Resistance  Laboratory  Network  utilizes
+culture-independent diagnostic testing, which identifies targeted carbapenemase genes
+but  does  not  identify  the  organism(s)  harboring  these  genes.  To  identify  associated
+organisms, laboratories must culture the carbapenemase gene-positive swab, a process
+
+known as organism recovery.  Organism recovery may be useful in a variety of different
+circumstances,  including  for  surveillance  and  outbreak  purposes  to  ascertain  which
+organisms
+ are
+ associated
+ with
+ carbapenemase-production
+ and,
+ if
+ further
+characterization  is  performed,  to  understand  the  molecular  epidemiology  of  those
+organisms  (e.g.,  MLST,  carbapenemase  gene  variants,  and  relatedness).  Decisions  to
+perform organism recovery should be made through discussion with epidemiology and
+laboratory  partners.  When  resources  are  limited,  screening  additional  individuals  for
+prevention  and  response  activities  should  be  prioritized  over  organism  recovery.  In
+general,  CDC  does  not  recommend  screening  individuals  with  a  history  of  CPO
+colonization  or  infection  to  assess  for  decolonization  to  inform  discontinuation  of
+vertical infection control measures (e.g., Isolation and Contact Precautions in acute care
+settings  and  Enhanced  Barrier  Precautions  in  long  term  care  settings).  Among  CPO
+carriers,  colonization  rates  generally  decrease  over  time  following  hospital  discharge,
+but can be prolonged, especially among individuals with repeated hospitalizations.[i] In
+a
+ meta-analysis
+ evaluating
+ the
+ natural
+ history
+ of
+ carbapenem-resistant
+Enterobacterales (CRE) colonization, the pooled colonization proportion of patients with
+CRE  was  74%  and  55%  one-  and  six-months  following  initial  identification,
+respectively.[ii]  Among  individuals  in  long-term  care  settings,  duration  of  colonization
+may  be  even  longer,  with  half  of  colonized  long-term  acute  care  hospital  (LTACH)
+patients  still  colonized  when  readmitted  after  9  months.[iii]  Across  multiple  studies,
+predictors  of  prolonged  CRE  carriage  have  been  found  to  include  exposure  to
+antimicrobials,  presence  of  an  invasive  device,  higher  Charlson  Comorbidity  Index
+scores, number of hospital admissions, and admission from or discharge to a long-term
+care facility.14,[iv],[v] Presence of these predictors should be considered when deciding
+whether  to  rescreen  an  individual.  The  rare  situations  when  assessing  for  CPO
+colonization  clearance  could  be  considered  should  be  limited  to  those  in  which  the
+patient has improved clinically and moved to progressively lower levels of care or has
+
+resided  in  the  community  without  hospitalization  or  long-term  care  for  an  extended
+period  (>6  months)  since  a  CPO  was  identified  (e.g.,  a  recovered  trauma  patient).  In
+these situations, a decision to assess for decolonization should be made in consultation
+with public health. Generally, the minimum criteria for assessing for decolonization are:
+6 months have elapsed since the individual's last positive culture, negative screening
+results from all relevant body sites (i.e., commonly colonized body sites and the original
+site of infection), collected when the patient has been off antibiotics at least 7-10 days,
+on  at  least  two  separate  occasions  a  minimum  of  7  days  apart.  [i]  Zimmerman  FS,
+Assous MV, Bdolah-Abram T, Lachish T, Yinnon AM, Wiener-Well Y. Duration of carriage
+of  carbapenem-resistant  Enterobacteriaceae  following  hospital  discharge.  Am  J  Infect
+Control. 2013;41(3):190-4. [ii] Bar-Yoseph H, Hussein K, Braun E, Paul M. Natural history
+and  decolonization  strategies  for  ESBL/carbapenem-resistant  Enterobacteriaceae
+carriage:
+ systematic
+ review
+ and
+ meta-analysis.
+ J
+ Antimicrob
+ Chemother.
+2016;71(10):2729-39. doi: 10.1093/jac/dkw221 [iii] Haverkate MR, Weiner S, Lolans K,
+Moore  NM,  Weinstein  RA,  Bonten  MJ,  et  al.  Duration  of  Colonization  With  Klebsiella
+pneumoniae Carbapenemase-Producing Bacteria at Long-Term Acute Care Hospitals in
+Chicago,  Illinois.  Open  Forum  Infect  Dis.  2016;3(4):ofw178.  [iv]  Feldman  N,  Adler  A,
+Molshatzki  N,  Navon-Venezia  S,  Khabra  E,  Cohen  D,  Carmeli  Y.  Gastrointestinal
+colonization  by  KPC-producing  Klebsiella  pneumoniae  following  hospital  discharge:
+duration  of  carriage  and  risk  factors  for  persistent  carriage.  Clin  Microbiol  Infect.
+2013;19(4):E190-6  [v]  Schechner  V,  Kotlovsky  T,  Tarabeia  J,  Kazma  M,  Schwartz  D,
+Navon-Venezia  S,  et  al.  Predictors  of  rectal  carriage  of  carbapenem-resistant
+Enterobacteriaceae  (CRE)  among  patients  with  known  CRE  carriage  at  their  next
+hospital  encounter.  Infect  Control  Hosp  Epidemiol.  2011;32(5):497-503  CDC  does  not
+recommend  rescreening  of  C.  auris  carriers  to  assess  for  clearance.  For  C.  auris,
+long-term  follow-up  of  colonized  patients  in  healthcare  facilities,  especially  those
+patients  who  continue  to  require  complex  medical  care,  such  as  ventilator  support,
+
+suggests colonization persists for a prolonged period. Repeat colonization swabs have
+shown  intermittent  C.  auris  positivity;  in  a  publication  by  Pacilli  et  al.  (2020),  among
+patients who had a positive C. auris screening result followed by one or more negative
+screening  results,  more  than  50%  had  a  subsequent  positive  screening  result.[i]
+Colonization is prolonged; surveillance has identified patients who remained colonized
+for longer than 2 years.in [i] Pacilli M, Kerins JL, Clegg WJ, Walblay KA, Adil H, Kemble
+SK, et al. Regional Emergence of Candida auris in Chicago and Lessons Learned From
+Intensive  Follow-up  at  1  Ventilator-Capable  Skilled  Nursing  Facility.  Clin  Infect  Dis.
+2020;71(11):e718-e725.  A  patient  should  generally  not  be  re-screened  if  they  have
+prior colonization or infection with the organism that is the focus of the response (e.g.,
+a patient with a history of C. auris bloodstream infection should not be screened for C.
+auris  as  part  of  a  point  prevalence  survey;  a  patient  colonized  with  NDM  [organism
+genus  unknown]  should  not  be  rescreened  during  contact  screening  in  response  to
+detection of NDM-producing Escherichia coli). An individual with known colonization or
+infection with a CPO or C. auris may be rescreened as part of a public health response
+to identification of a targeted multidrug-resistant organism (MDRO) if the organism or
+mechanism that is the focus of the response differs from the organism and mechanism
+they are known to be colonized or infected with (e.g., a patient known to be colonized
+with  a  KPC-producing  Klebsiella  pneumoniae  may  be  screened  as  part  of  a
+VIM-producing  Pseudomonas  aeruginosa  outbreak).  If  an  individual  with  a  history  of
+CPO  or  C.  auris  colonization  or  infection  is  re-screened  as  part  of  a  public  health
+prevention  or  response  activity  and  is  found  to  be  negative  for  all  organisms  or
+mechanisms,
+ this
+ result
+ should
+ generally
+ not
+ be
+ used
+ to
+ discontinue
+Transmission-Based  Precautions  or  initiate  assessment  of  decolonization,  due  to  the
+potential  for  a  false  negative  result  (see  FAQ  11  and  12  for  more  information).
+Chlorhexidine  gluconate  (CHG)  is  the  most  commonly  used  topical  antiseptic  in
+decolonization*  and  source  control**  regimens,  and  CHG  bathing  in  combination  with
+
+use of anti-staphylococcal intranasal agents has been demonstrated to be effective at
+preventing  methicillin-resistant  Staphylococcus  aureus  (MRSA)  infections  and  central
+line-associated bloodstream infections (CLABSIs) in large clinical trials.[i],[ii],[iii] Several
+studies have examined the impact of CHG bathing on skin concentrations of C. auris,
+carbapenemase-producing  organisms  (CPOs),  and  Gram-negative  bacteria.  In  vitro,
+CHG has been shown to be effective against CPOs and Candida auris; however, the skin
+concentrations  needed  to  effectively  suppress  CPOs  and  C.  auris  appear  to  be  much
+higher  than  those  required  for  S.  aureus,  128  ug/mL  and  625  ug/mL,  respectively,
+compared  to  18.75  ug/mL  for  MRSA,  although  it  can  be  difficult  to  compare  across
+studies.[iv],[v],[vi]  Another  study  from  Nadimpalli  et  al.  (2019)  found  no  association
+between  CHG  skin  concentration  and  bacterial  bioburden  of  MDROs.[vii]  Skin
+concentrations needed for suppression of CPOs and C. auris may be difficult to achieve
+in clinical practice. In a study of routine CHG bathing among ventilator-capable skilled
+nursing  facility  residents  to  control  C.  auris  transmission,  only  7.3%  of  skin  sites
+sampled had a concentration of 625 ug/mL or higher.25 In a second study of routine
+CHG  bathing  to  control  CPOs  among  long-term  acute  care  hospital  (LTACH)  patients,
+74%  of  skin  sites  sampled  achieved  a  concentration  of  128  ug/mL  immediately
+following  a  CHG  bath;  however,  that  number  decreased  to  40%  immediately  prior  to
+their  next  CHG  bath.23  High  skin  concentrations  of  CHG  were  not  associated  with
+deleterious  disruptions  of  commensal  skin  organisms.  Several  studies  have  assessed
+the  impact  of  CHG  bathing  on  colonization  and  infection  by  multidrug-resistant
+Gram-negative bacteria. In a single center interventional cohort study among patients
+admitted  to  an  intensive  care  unit  with  endemic  levels  of  multidrug-resistant
+Gram-negative  bacteria  in  Spain,  researchers  added  routine  CHG  bathing  for  all
+mechanically ventilated patients and patients colonized with MDROs. The intervention
+reduced the incidence of MDRO colonization by Gram-negative bacteria from 19.9% to
+16.8% (p=0.02), however there were no reductions in hospital-onset infections caused
+
+by MDROs.[viii] In a multicenter stepped wedge interventional study by Hayden et al.
+(2015), researchers implemented a bundled intervention that included universal daily
+CHG bathing, admission screening, serial point prevalence surveys, Contact Precautions
+and  geographic  isolation,  healthcare-worker  education,  and  adherence  monitoring  to
+determine  the  effect  on  colonization  by  Klebsiella  pneumoniae  carbapenemase
+(KPC)-producing Enterobacterales in LTACHs.[ix] The primary outcome of KPC-producing
+Enterobacterales  rectal  colonization  prevalence  declined  from  45.8%,  during  the
+preintervention  period,  to  34.3%  postintervention  (P  <  0.001);  however,  it  is  not
+possible to estimate the impact that CHG bathing alone had on this decline. In addition,
+preliminary  results  from  two  interventional  studies  of  universal  CHG  bathing  in
+combination with nasal iodophor (povidone-iodine) compared to routine care in multiple
+LTACHs  and  nursing  homes  without  bundled  interventions  did  not  show  significant
+reductions  in  carbapenem-resistant  Enterobacterales  (CRE)  colonization  prevalence,
+although  the  number  of  CRE  carriers  identified  was  too  small  to  draw  meaningful
+conclusions.[x],[xi]  Furthermore,  two  recent  meta-analyses  assessing  the  impact  of
+CHG  bathing  on  Gram-negative  bacteria  did  not  identify  any  significant  reductions  in
+infections  caused  by  these  organisms.[xii],[xiii]  Finally,  while  in  vitro  studies  suggest
+that CHG bathing has the potential to reduce colonization burden by C. auris and CPOs,
+there are examples of continued C. auris and CPO outbreaks in ACH and vSNF settings
+despite enhanced infection prevention and control (IPC) practices that included the use
+of  chlorhexidine  bathing.19,[xiv],[xv]  Considering  the  evidence  above,  CHG  bathing
+may be considered for the prevention and control of CPOs or C. auris; however, it is not
+routinely recommended solely for this purpose alone and should be implemented with
+other  infection  control  interventions.  Healthcare  facilities  that  choose  to  incorporate
+CHG  bathing  for  CPO  or  C.  auris  prevention  should  provide  ongoing  training  and
+adherence  monitoring  to  ensure  appropriate  application.  Healthcare  facilities  that
+routinely conduct CHG bathing as part of prevention programs for other HAIs such as
+
+MRSA and CLABSI should continue to do so; however, if severe outbreaks of CPOs or C.
+auris occur, facilities should review these practices as part of a comprehensive review
+of  IPC  practices  to  ensure  suboptimal  application  is  not  contributing  to  transmission.
+When conducting colonization screening of skin sites, samples should be collected as
+long  as  possible  after  a  patient's  last  CHG  bath  to  avoid  false  negative  screening
+results. ** Source control is the use of antimicrobials and/or antiseptics to reduce the
+burden  of  colonization  in  individuals  without  complete  elimination  the  organism.  [i]
+Climo MW, Yokoe DS, Warren DK, Perl TM, Bolon M, Herwaldt LA, et al. Effect of daily
+chlorhexidine bathing on hospital-acquired infection. N Engl J Med. 2013;368(6):533-42.
+[ii]  Huang  SS,  Septimus  E,  Kleinman  K,  Moody  J,  Hickok  J,  Avery  TR,  et  al.  Targeted
+versus
+ universal
+ decolonization
+ to
+ prevent
+ ICU
+ infection.
+ N
+ Engl
+ J
+ Med.
+2013;368(24):2255-65. [iii] Huang SS, Singh R, McKinnell JA, Park S, Gombosev A, Eells
+SJ, et al. Decolonization to Reduce Postdischarge Infection Risk among MRSA Carriers. N
+Engl J Med. 2019;380(7):638-650. [iv] Lin MY, Lolans K, Blom DW, Lyles RD, Weiner S,
+Poluru  KB,  et  al;  Centers  for  Disease  Control  and  Prevention  Epicenter  Program.  The
+effectiveness  of  routine  daily  chlorhexidine  gluconate  bathing  in  reducing  Klebsiella
+pneumoniae
+ carbapenemase-producing
+ Enterobacteriaceae
+ skin
+ burden
+ among
+long-term
+ acute
+ care
+ hospital
+ patients.
+ Infect
+ Control
+ Hosp
+ Epidemiol.
+2014;35(4):440-2. [v] Popovich KJ, Lyles R, Hayes R, Hota B, Trick W, Weinstein RA, et
+al.  Relationship  between  chlorhexidine  gluconate  skin  concentration  and  microbial
+density  on  the  skin  of  critically  ill  patients  bathed  daily  with  chlorhexidine  gluconate.
+Infect Control Hosp Epidemiol. 2012;33(9):889-96. [vi] Proctor DM, Dangana T, Sexton
+DJ,  Fukuda  C,  Yelin  RD,  Stanley  M,  et  al.  Integrated  genomic,  epidemiologic
+investigation  of  Candida  auris  skin  colonization  in  a  skilled  nursing  facility.  Nat  Med.
+2021  ;27(8):1401-1409  [vii]  Nadimpalli  G,  O'Hara  LM,  Leekha  S,  Calfee  DP,  Miller  LG,
+Pineles  L,  et  al.  Association  between  chlorhexidine  gluconate  concentrations  and
+resistant
+ bacterial
+ bioburden
+ on
+ skin.
+ Infect
+ Control
+ Hosp
+ Epidemiol.
+
+2019;40(12):1430-1432.  [viii]  Ruiz  J,  Ramirez  P,  Villarreal  E,  Gordon  M,  Saez  I,
+Rodríguez
+ A,
+ et
+ al.
+ Daily
+ bathing
+ strategies
+ and
+ cross-transmission
+ of
+multidrug-resistant  organisms:  Impact  of  chlorhexidine-impregnated  wipes  in  a
+multidrug-resistant  gram-negative  bacteria  endemic  intensive  care  unit.  American
+Journal  of  Infection  Control.  2017;45(10):1069-73.  [ix]  Hayden  MK,  Lin  MY,  Lolans  K,
+Weiner  S,  Blom  D,  Moore  NM,  et  al.  Prevention  of  Colonization  and  Infection  by
+Klebsiella  pneumoniae  Carbapenemase–Producing  Enterobacteriaceae  in  Long-term
+Acute-Care Hospitals. Clinical Infectious Diseases. 2015;60(8):1153-61 [x] McKinnell JA,
+Singh R, Miller LG, Saavedra R, Heim L, Gussin G, et al. 893. The SHIELD Orange County
+Project:  A  Decolonization  Strategy  in  35  Hospitals  and  Nursing  Homes  Reduces
+Multi-Drug-Resistant  Organism  (MDRO)  Prevalence  in  a  Southern  California  Region.
+Open  Forum  Infect  Dis.  2019;6(Suppl  2):S23-S4.  [xi]  Miller  LG,  McKinnell  JA,  Singh  R,
+Gussin  G,  Kleinman  K,  Saavedra  R,  et  al.  894.  Universal  Decolonization  in  Nursing
+Homes:  Effect  of  Chlorhexidine  and  Nasal  Povidone–Iodine  on  Prevalence  of
+Multi-Drug-Resistant Organisms (MDROs) in the PROTECT Trial. Open Forum Infect Dis.
+2019;6(Supplement_2):S24-S.
+ [xii]
+ Afonso
+ E,
+ Blot
+ K,
+ Blot
+ S.
+ Prevention
+ of
+hospital-acquired bloodstream infections through chlorhexidine gluconate-impregnated
+washcloth  bathing  in  intensive  care  units:  a  systematic  review  and  meta-analysis  of
+randomised  crossover  trials.  Euro  Surveill.  2016;21(46):30400.  [xiii]  Patel  A,  Parikh  P,
+Dunn AN, Otter JA, Thota P, Fraser TG, Donskey CJ, Deshpande A. Effectiveness of daily
+chlorhexidine  bathing  for  reducing  gram-negative  infections:  A  meta-analysis.  Infect
+Control  Hosp  Epidemiol.  2019;40(4):392-399.  [xiv]  Schelenz  S,  Hagen  F,  Rhodes  JL,
+Abdolrasouli  A,  Chowdhary  A,  Hall  A,  et  al.  First  hospital  outbreak  of  the  globally
+emerging  Candida  auris  in  a  European  hospital.  Antimicrobial  Resistance  &  Infection
+Control. 2016;5(1):35. [xv] Stein C, Vincze S, Kipp F, Makarewicz O, Al Dahouk S, Pletz
+MW. Carbapenem-resistant Klebsiella pneumoniae with low chlorhexidine susceptibility.
+Lancet  Infect  Dis.  2019;19(9):932-933.  doi:  10.1016/S1473-3099(19)30427-X.  PMID:
+
+31478517. The impact of antimicrobial stewardship on the prevention of colonization or
+infection by multidrug-resistant Gram-negative bacteria has been assessed in multiple
+studies,  primarily  at  acute  care  hospitals.  Several  demonstrated  reductions  in  the
+incidence of colonization or infection following antimicrobial stewardship interventions;
+however,  many  of  these  were  smaller  quasi-experimental  "before  and  after"  studies
+and/or  ecological  analyses  that  included  antimicrobial  stewardship  as  part  of  larger
+prevention
+ bundles.[i],[ii],[iii],[iv],[v],[vi]
+ Specific
+ antimicrobial
+ stewardship
+interventions associated with reductions in multidrug-resistant Gram-negative bacteria
+include  antibiotic  preauthorization,  prospective  audits  and  feedback,  clinical  decision
+support,  treatment  recommendations,  and  education  and  training;  the  magnitude  of
+reductions  in  colonization  and  infections  reported  was  highly  variable.  In  a  2017
+systematic review and meta-analysis, Baur et al. evaluated the effect of antimicrobial
+stewardship
+ on
+ antimicrobial-resistant
+ bacteria
+ and
+ C.
+ difficile,
+ finding
+ that
+antimicrobial stewardship programs were associated with a 51% reduction (p<0.0001)
+in  the  incidence  of  multidrug-resistant  Gram-negative  bacteria  infections  and
+colonization.34  Many  studies  included  in  this  meta-analysis  implemented  stewardship
+activities as part of prevention bundles that included infection prevention and control
+interventions; studies which included stewardship as part of a larger infection control
+bundles had a greater impact on the incidence of antimicrobial-resistant bacteria and C.
+difficile  than  those  with  antimicrobial  stewardship  interventions  alone  (31%  vs  19%).
+There  is  little  to  no  evidence  on  the  impact  of  stewardship  interventions  for  the
+prevention  of  Candida  auris  infections  or  colonization,  however  one  study  found  that
+exposure  to  carbapenems  and  systemic  antifungals  was  associated  with  C.  auris
+colonization.[vii]  More  research  is  needed  to  clarify  the  direct  impact  and  the  most
+effective
+ antimicrobial
+ stewardship
+ interventions
+ for
+ carbapenemase-producing
+organism and C. auris prevention. Based on current evidence, antimicrobial stewardship
+remains  a  critical  part  of  healthcare  patient  safety  efforts.  Antimicrobial  stewardship
+
+practices  should  be  assessed  during  MDRO  prevention  or  response-focused  infection
+control  assessment  and  response  consultations  at  healthcare  facilities.  [i]  Baur  D,
+Gladstone  BP,  Burkert  F,  Carrara  E,  Foschi  F,  Döbele  S,  et  al.  Effect  of  antibiotic
+stewardship  on  the  incidence  of  infection  and  colonisation  with  antibiotic-resistant
+bacteria and Clostridium difficile infection: a systematic review and meta-analysis. The
+Lancet Infectious Diseases. 2017;17(9):990-1001. [ii] Carrara E, Conti M, Meschiari M,
+Mussini C. The role of antimicrobial stewardship in preventing KPC-producing Klebsiella
+pneumoniae. J Antimicrob Chemother. 2021;76(Suppl 1):i12-i18. [iii] Cipko K, Cuenca J,
+Wales  E,  Harris  J,  Bond  S,  Newton  P,  Miyakis  S.  Implementation  of  an  antimicrobial
+stewardship  programme  and  reduction  in  carbapenemase-producing  Enterobacterales
+in  an  Australian  local  health  district.  JAC  Antimicrob  Resist.  2020;2(3):dlaa041.  [iv]
+Giacobbe DR, Del Bono V, Mikulska M, Gustinetti G, Marchese A, Mina F, et al. Impact of
+a  mixed  educational  and  semi-restrictive  antimicrobial  stewardship  project  in  a  large
+teaching  hospital  in  Northern  Italy.  Infection.  2017;45(6):849-856.  [v]  Giacobbe  DR,
+Salsano  A,  Del  Puente  F,  Campanini  F,  Mariscalco  G,  Marchese  A,  et  al.  Reduced
+Incidence of Carbapenem-Resistant Klebsiella pneumoniae Infections in Cardiac Surgery
+Patients  after  Implementation  of  an  Antimicrobial  Stewardship  Project.  Antibiotics
+(Basel).  2019  Aug  28;8(3):132.  [vi]  Rodríguez-Baño  J,  Pérez-Moreno  MA,  Peñalva  G,
+Garnacho-Montero J, Pinto C, Salcedo I, et al. Outcomes of the PIRASOA programme, an
+antimicrobial  stewardship  programme  implemented  in  hospitals  of  the  Public  Health
+System  of  Andalusia,  Spain:  an  ecologic  study  of  time-trend  analysis.  Clin  Microbiol
+Infect. 2020;26(3):358-365. [vii] Rossow J, Ostrowsky B, Adams E, Greenko J, McDonald
+R, Vallabhaneni S. Factors Associated With Candida auris Colonization and Transmission
+in Skilled Nursing Facilities With Ventilator Units, New York, 2016-2018. Clin Infect Dis.
+2021;72(11):e753-e760. Tier 1 organisms or mechanisms are those that have never (or
+very rarely) been identified in the United States and for which experience is extremely
+limited.  For  these  organisms,  environmental  sampling  can  inform  the  extent  of
+
+environmental contamination and the role the environment plays in transmission. For
+this  reason,  the  threshold  to  perform  environmental  sampling  for  Tier  1  responses  is
+lower than for organisms and mechanisms in Tiers 2-4. The role of the environment in
+transmission of organisms in Tiers 2-4 is generally well-understood, and environmental
+sampling during public health responses to these MDROs is most often conducted when
+there  is  a  suspected  point  source  (e.g.,  a  persistently  contaminated  device)  or  when
+transmission  continues  despite  improvements  in  infection  control  practices  and  the
+underlying  epidemiology  suggests  an  environmental  point  source.  When  performed
+during public health responses to MDROs in Tiers 2-4, environmental sampling should
+be  hypothesis  driven.  When  considering  whether  to  pursue  environmental  sampling,
+consult  with  a  laboratory  that  has  experience  processing  environmental  samples.
+Environmental testing methods differ from standard clinical microbiology practices and
+require specialized expertise. Consult with the laboratory prior to sampling to plan an
+informative  environmental  sampling  strategy.  Design  the  sampling  strategy  to  test
+specific  hypotheses  and/or  to  inform  specific  infection  prevention  and  control
+recommendations. Upon completion of environmental sampling, consult with experts to
+interpret results. Negative results may reflect the limitations of the sampling or testing
+approach rather than the true absence of environmental contamination, and this should
+be  communicated  with  the  healthcare  facility  prior  to  sampling.  HAIs  are  associated
+with  medical  devices,  complications  following  surgery,  transmission  between  patients
+and healthcare workers, antibiotic overuse, and more. Languages Language Assistance
+Languages  Language Assistance 
+
+Source
+ URL:
+https://www.cdc.gov/healthcare-associated-infections/php/preventing-mdros/preventing-mdros-faqs.html

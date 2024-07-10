@@ -1,0 +1,1430 @@
+Persons using assistive technology might not be able to fully access information in this
+file. For assistance, please send e-mail to: mmwrq@cdc.gov. Type 508 Accommodation
+and  the  title  of  the  report  in  the  subject  line  of  e-mail.  Advisory  Council  for  the
+Elimination of Tuberculosis  January 1995  CHAIRMAN
+Charles M. Nolan, M.D.
+Director, Tuberculosis Control
+Seattle-King County Department of Public Health
+Seattle, WA  ACTING EXECUTIVE SECRETARY
+Samuel W. Dooley, Jr., M.D.
+Acting Associate Director for Science
+National Center for Prevention Services
+Centers for Disease Control and Prevention
+Atlanta, GA  MEMBERS  Paul T. Davidson, M.D.
+Los Angeles County Department of Health Services
+Los Angeles, CA  Miguel A. Escobedo, M.D.
+El Paso City/County Health District
+El Paso, TX  Sue C. Etkind, R.N., M.S. *
+Massachusetts Department of Public Health
+Jamaica Plain, MA  Charles P. Felton, M.D.
+Harlem Hospital Center
+New York, NY  Kathleen F. Gensheimer, M.D.
+Maine Department of Human Services
+Augusta, ME  Jeffrey Glassroth, M.D.
+Northwestern University Medical School
+Chicago, IL  Kathleen S. Moser, M.D.
+San Diego County Department of Health Services
+San Diego, CA  Gisela F. Schecter, M.D., M.P.H. *
+
+San Francisco Tuberculosis Control Program
+San Francisco, CA  Jeffrey R. Starke, M.D.
+Baylor College of Medicine
+Houston, TX  Lillian J. Tom-Orme, Ph.D.
+Utah Department of Health
+Salt Lake City, UT  Betti Jo Warren, M.D.
+King-Drew Medical Center
+Los Angeles, CA  EX OFFICIO MEMBERS  G. Stephen Bowen, M.D.
+Health Resources and Services Administration
+Rockville, MD  Michael J. Brennan, Ph.D.
+Food and Drug Administration
+Bethesda, MD  Georgia S. Buggs
+Office of Minority Health
+Public Health Service
+Rockville, MD  Warren Hewitt, Jr.
+Substance Abuse and Mental Health Services Administration
+Rockville, MD  J. Terrell Hoffeld, D.D.S.
+Agency for Health Care Policy and Research
+Rockville, MD  Gary A. Roselle, M.D.
+Department of Veterans Affairs
+Cincinnati, OH  Zeda Rosenberg, Sc.D.
+National Institutes of Health
+Bethesda, MD  Bruce Tempest, M.D.
+Indian Health Service
+Gallup, NM  Basil P. Vareldzis, M.D.
+Agency for International Development
+Washington, DC  LIAISON REPRESENTATIVES  John B. Bass, Jr., M.D.
+
+American Thoracic Society
+University of South Alabama
+Mobile, AL  Nancy Dunlap, M.D.
+American College of Chest Physicians
+University of Alabama at Birmingham
+Birmingham, AL  Wafaa El-Sadr, M.D., M.P.H.
+Infectious Disease Society of America
+Harlem Hospital Center
+New York, NY  Alice McIntosh
+American Lung Association
+New York, NY  Norbert P. Rapoza, Ph.D.
+American Medical Association
+Chicago, IL  Michael L. Tapper, M.D.
+Society for Hospital Epidemiology of America
+Lenox Hill Hospital
+New York, NY  COMMITTEE REPRESENTATIVES  Advisory Committee on the Prevention
+of HIV Infection
+Walter F. Schlech, M.D.
+Victoria General Hospital
+Halifax, Nova Scotia, Canada  Hospital Infection Control Practices Advisory Committee
+Susan Forlenza, M.D.
+Nassau County Medical Center
+East Meadows, NY  
+    These members who made substantive contributions to this report
+ rotated
+    off  the  Council  in  1994.   The  following  CDC  staff  member  prepared  this  report:  
+Patricia M. Simone, M.D.
+
+Division of Tuberculosis Elimination
+National Center for Prevention Services  in collaboration with the  Advisory Council for
+the Elimination of Tuberculosis  Summary  Tuberculosis (TB) rates declined steadily for
+decades in the
+ United
+States, but several complex social and medical factors caused TB
+ morbidity
+to increase 14% from 1985 through 1993. The recent increases in TB
+morbidity have placed additional demands on state and local TB
+ control
+programs, which already had been substantially weakened by
+ inadequate
+staffing and funding support. TB programs throughout the nation
+ must be
+revitalized if they are to provide core TB control activities that
+ enable
+effective responses to this public health challenge. This report
+ describes
+a model for TB control programs and the essential components of a
+successful TB control program, including three priority strategies
+ for TB
+prevention and control: a) identifying and treating persons who
+ have active
+TB, b) finding and screening persons who have had contact with TB
+ patients
+to determine whether they are infected with Mycobacterium
+ tuberculosis or
+
+have active TB and providing appropriate treatment, and c)
+ screening
+populations at high risk for TB infection and the development of TB
+ disease
+to detect infected persons and providing therapy to prevent
+ progression to
+active TB.  State and local health departments have primary responsibility
+ for
+preventing and controlling TB. To meet this challenge successfully,
+ TB
+control programs should be able to administer activities that
+ include the
+following core components:  
+    conducting overall planning and development of policy,  
+    identifying persons who have clinically active TB,  
+    managing persons who have or who are suspected of having
+ disease,  
+    identifying and managing persons infected with M.
+ tuberculosis,  
+    providing laboratory and diagnostic services,  
+    collecting and analyzing data, and  
+    providing  training  and  education.   The  Advisory  Council  for  the  Elimination  of
+Tuberculosis has
+ prepared  this report to provide a national standard by which policymakers,
+ TB
+control program managers, and others evaluating TB programs can
+ assess
+
+individual TB control programs. The report may also help local
+ programs to
+obtain and maintain adequate resources for TB control activities.  In addition to defining
+the essential components of a TB
+ control
+program, this report emphasizes the importance of a) prioritizing
+ TB
+control activities; b) coordinating care with other health-care
+ providers,
+facilities, and community organizations; c) using alternative
+ approaches to
+TB control (e.g., the expanded use of directly observed therapy);
+ d)
+targeting screening and prevention programs to high-risk
+ populations; and
+e) following current recommendations for the treatment of TB. TB
+ control
+program managers should make every effort to incorporate each of
+ these
+components into their program activities. TB programs may perform
+ these
+activities directly, or programs may coordinate with other
+ providers to
+ensure the implementation of these activities. Failure to meet
+ these core
+standards can decrease a TB program's effectiveness in controlling
+ this
+
+reemergent public health risk.  INTRODUCTION  The incidence of tuberculosis (TB) was
+declining in the United
+ States
+until recently, and in 1989, goals were set to eliminate the
+ disease by the
+year 2010 (1). However, instead of continuing to decline, TB
+ morbidity
+increased 14% from 1985 through 1993 (2). This recent trend has
+ been
+attributed to several factors, including the human immunodeficiency
+ virus
+(HIV) epidemic, the occurrence of TB in foreign-born persons from
+ countries
+that have a high prevalence of TB, and the transmission of
+ Mycobacterium
+tuberculosis in congregate settings (e.g., health-care facilities,
+correctional facilities, drug-treatment centers, and homeless
+ shelters).
+The increase in TB and the complexity of factors associated with
+ this
+increase have placed additional demands on public health TB control
+programs, yet many of these programs lack adequate support for
+ services
+necessary for TB control. In particular, funding for TB control
+ programs
+has been reduced markedly because of the increased competition for
+
+ public
+health funds; the decrease in government services at federal,
+ state, and
+local levels; and the decline in TB cases reported before 1985 (3).
+ The
+public health-care infrastructure must be rebuilt to meet the
+ challenge of
+the  recent  resurgence  of  TB  cases  (4).   In  the  United  States,  state  and  local  health
+departments have
+ legal
+responsibility for the prevention and control of TB in communities.
+ Three
+strategies are fundamental to the prevention and control of TB. The
+ first
+priority is identifying and treating persons who have active TB;
+ this
+priority entails identifying persons who have TB, ensuring that
+ they
+complete appropriate therapy, and, in exceptional circumstances,
+ using
+confinement measures. The second priority is finding and screening
+ persons
+who have been in contact with TB patients to determine whether they
+ have TB
+infection or disease and providing them with appropriate treatment.
+ The
+third priority is screening high-risk populations to detect persons
+
+ who are
+infected with M. tuberculosis and who could benefit from therapy to
+ prevent
+the  infection  from  progressing  to  TB  disease.   To  implement  these  three  strategies,
+public health TB control
+ programs
+should coordinate with health-care providers from several community
+organizations to ensure the provision of direct services for TB
+ patients.
+Health departments are responsible for providing centralized,
+ coordinated
+systems for many activities extending beyond individual patient
+ care (e.g.,
+identifying TB cases; ensuring that patients complete therapy;
+ performing
+contact investigations; screening high-risk groups; and collecting,
+analyzing, and publishing epidemiologic and surveillance data).  PURPOSE  The Advisory
+Council for the Elimination of Tuberculosis
+ (ACET) has
+prepared this report to provide a national standard ** for the
+ assessment
+of individual TB control programs by TB control program managers,
+policymakers, and other persons evaluating TB programs. This report
+ also
+may be used to assist local programs in obtaining and maintaining
+
+ adequate
+resources for TB control activities. In addition to defining the
+ essential
+components of a TB control program, these recommendations emphasize
+ the
+importance of prioritizing TB control activities; coordinating care
+ with
+other health-care providers, facilities, and community
+ organizations; and
+using alternative approaches to TB control (e.g., the expanded use
+ of
+directly observed therapy, targeted screening and prevention
+ programs to
+high-risk populations, and adoption of current recommendations for
+ the
+treatment of TB) (5-7). Although the size and structure of TB
+ control
+programs vary according to each community's specific needs, TB
+ control
+program managers should attempt to incorporate each of these core
+components  into  program  activities.   OVERALL  PLANNING  AND  POLICY   To  achieve
+effective TB control and progress toward TB
+ elimination, TB
+control programs should develop an overall TB control strategy,
+ including
+written policies and procedures, and should be able to provide
+ guidance and
+
+oversight to local facilities and practitioners involved in TB
+ control
+activities. TB control programs should ensure that appropriate laws
+ and
+adequate staff and funding are available to support TB control
+ activities.
+These programs also should form networks and coalitions with
+ community
+groups to assist with implementing TB control activities.  An Overall TB Control Strategy
+and Written Policies and Procedures  TB control programs should develop an overall TB
+control
+ strategy in
+collaboration with local health-care providers, professional
+ societies, and
+voluntary organizations. To determine specific needs, the program
+ should
+use local TB morbidity data and standard indicators of program
+ performance
+(e.g., the rate of completion of therapy). The plan should be
+ developed by
+the state or local ACET in conjunction with community TB coalition
+representatives. The TB control strategy should outline program
+ priorities
+and objectives reflecting the specific needs of the community and
+ the roles
+of the various agencies, organizations, and providers. TB control
+ programs
+
+should also have written policies and procedures that clearly
+ define the
+standard of practice for TB treatment and prevention in the
+ community (1,5-18).
+periodically  and  revised  as  needed.   Advising  Local  Institutions  and  Practitioners   TB
+control programs should provide consultation and oversight
+ for the
+TB control activities of local facilities and practitioners (and
+ local
+health departments where appropriate) to ensure that these efforts
+ reflect
+current standards of care and public health practice. The
+ consultation may
+be provided by either health department staff or local or regional
+ medical
+experts who have agreed to act as consultants for the health
+ department.
+Consultants should be available to advise local practitioners about
+ patient
+management problems (e.g., monitoring treatment adherence); at
+ least one
+consultant should be experienced in treating patients having
+ drug-resistant
+TB. Information on the latest laboratory techniques and technology,
+guidance about appropriate laboratory methods for local facilities
+ and
+
+laboratories, and assistance in conducting contact or outbreak
+investigations should be available from TB control programs or
+ their
+consultants. TB programs should seek opportunities to inform
+ persons or
+facilities about activities and technologies that can improve TB
+ services.  Appropriate Laws and Regulations to Support TB Control Activities  TB control
+programs periodically should review applicable
+ laws,
+regulations, and policies to ensure their consistency with
+ currently
+recommended medical and public health practices (8). States and
+municipalities should create laws, regulations, and policies that
+ provide
+support and a legal basis for the following TB control activities:  
+    ensuring the prompt, mandatory reporting of each confirmed and
+    suspected case of TB;  
+    observing state and local laws and regulations protecting
+ patient
+    confidentiality;  
+    examining persons at high risk for TB infection and disease
+ and
+    prescribing and monitoring appropriate treatment for these
+ persons;  
+    ensuring that a treatment plan is devised for all hospitalized
+
+    patients before their discharge;  
+    ensuring rapid laboratory examination of specimens and
+ reporting of
+    results (including susceptibility-test results) to the
+ appropriate
+    health department and the requesting clinician;  
+    ensuring that patients who have TB receive appropriate
+ treatment
+    until they are cured;  
+    protecting the health of the public by isolating and treating
+    persons who have infectious TB;  
+    detaining persons who, though not infectious, are unwilling or
+    unable to complete treatment and who are at risk for becoming
+    infectious again and acquiring drug-resistant TB; and  
+    treating patients without consideration of their ability to
+ pay.  States also should require health-care facilities and
+ congregate-living  settings (e.g., correctional facilities) to apply recommended
+ measures for
+infection control.  Adequate and Appropriate Staff to Conduct TB Control Activities  TB
+control programs should have adequate and appropriate staff
+ to
+ensure the fulfillment of TB control activities outlined in this
+ report.
+The number and type of staff for these programs may vary, depending
+ on the
+local TB morbidity and the specific needs of the community. Staff
+
+ are
+necessary for program planning, program funding, record-keeping,
+ education,
+and coordination of health department activities with other TB
+ control
+activities in the community. All TB control programs should have a
+designated program manager. These programs should have access to,
+ or have
+on staff, epidemiologists qualified to conduct data-based
+ evaluation and
+surveillance activities.  Community outreach workers are needed to deliver directly
+ observed TB
+therapy, thereby ensuring continuity and completion of treatment.
+ Outreach
+workers may also be involved in other activities (e.g., educating
+ patients,
+observing preventive therapy, conducting contact investigations,
+ arranging
+or providing transportation, assisting patients with social
+ services,
+serving as interpreters, and assisting clinicians with clinical
+ services).
+These outreach workers may be nurses or lay persons specifically
+ trained
+for these activities. The TB program should ensure that outreach
+ workers
+have  adequate  clinical  and  administrative  supervision.   Depending  on  clinic  needs,
+
+clinic staff may be composed of
+ various
+combinations of nurses, physicians, physician assistants, and other
+workers. In many areas, clinics have nurse managers responsible for
+providing most of the education, treatment, clinical monitoring,
+ prevention
+services, and supervisory needs of the clinic. A physician who is
+ qualified
+and trained in the diagnosis, management, and clinical monitoring
+ of TB
+should be available on staff or employed on a contract basis.
+ Clinic staff
+should have characteristics appropriate to the community's cultural
+ and
+language  needs.   Adequate  Funding  to  Conduct  TB  Control  Activities   TB  control
+programs should seek funding for TB control
+ activities from
+federal, state, local, and private sources. They should work with
+ local
+organizations (e.g., state and local medical societies, lung
+ associations,
+and TB coalition members) to educate policymakers about the local
+ TB
+problem and local program priorities, needs, and objectives.  Networks with Community
+Groups  Optimal TB prevention and control activities require a
+
+multidisciplinary approach. Thus, TB control programs in
+ communities having
+a high prevalence of TB should form networks and coalitions with
+ local
+groups (e.g., cultural and ethnic organizations, community clinics,
+ places
+of worship, professional societies, lung associations, and medical
+ and
+nursing schools). In collaborating with these community groups, the
+ TB
+control program should a) ensure that community leaders,
+ health-care
+providers, and policymakers are knowledgeable about TB; b) help
+ educate the
+public about TB; and c) provide guidance and assistance for local
+ screening
+and prevention services. Coalitions with community groups help TB
+ control
+programs reach high-risk groups more effectively and provide
+ culturally
+appropriate services. TB control programs should educate and advise
+community groups to ensure the quality and appropriateness of TB
+ control
+activities in accordance with the community's needs. The National
+ Coalition
+to Eliminate Tuberculosis exemplifies a national coalition involved
+
+ in
+educating health-care providers and the public about TB.  MANAGING PERSONS WHO
+HAVE DISEASE OR WHO ARE SUSPECTED OF HAVING
+ DISEASE  TB control programs should ensure that the services needed to
+ evaluate,
+treat, and monitor TB patients are readily available in each
+ community. In
+many areas, these services may be provided directly by the state TB
+ control
+program. In other areas, local TB control programs or health-care
+professionals, with supervision and consultation from the state TB
+ control
+program, provide treatment services to patients. Although some
+ patients may
+undergo most of their evaluation and treatment in settings other
+ than the
+health department, the major responsibility for monitoring and
+ ensuring the
+quality of all TB-related activities in the community should be
+ undertaken
+by the health department as part of its duties to protect the
+ public
+health.  The public health goals of TB patient management are to
+ initiate
+treatment promptly and ensure the completion of effective therapy
+ to cure
+illness, reduce transmission, and prevent the development of
+
+ drug-resistant
+TB.   Clinical  Services   Developing  a  Treatment  Plan   A  specific  health  department
+employee (case manager) should be
+ assigned
+primary responsibility and held accountable for ensuring that each
+ patient
+is educated about TB and its treatment, that therapy is continuous,
+ and
+that contacts are examined. Some specific responsibilities also may
+ be
+assigned to other persons (e.g., clinical supervisors {nurses,
+ physicians,
+or physician assistants}, outreach workers, health educators, and
+ social
+workers).  As soon as TB is diagnosed or suspected, treatment should be
+ started,
+and the TB case should be reported to the health department. Within
+ 3
+working days after the case is reported, a health department worker
+ should
+visit the patient in the hospital or home to initiate patient
+ education,
+identify contacts, make appropriate referrals for medical
+ evaluation, and
+detect possible problems related to adherence to therapy. In
+ cooperation
+with the other medical, nursing, and outreach staff providing care
+
+ to the
+patient, the case manager should develop an initial treatment and
+monitoring plan based on the initial visit, the medical and nursing
+assessment, and other available information (Table_1). The
+ initial
+treatment plan should be developed within 1 week of diagnosis
+ (i.e., within
+1 week of initiation of therapy for a person suspected to have TB
+ or within
+1 week of identification of a person having a positive culture).
+ This
+treatment plan should be reviewed regularly and modified as needed
+ when
+additional relevant information becomes available (e.g.,
+susceptibility-test results) or when the care of the patient is
+ transferred
+from one provider to another.  The treatment plan should include the specifics of the
+medical
+ regimen,
+a monitoring plan for toxicity and for clinical and bacteriologic
+ response,
+and an assessment of the patient's social, behavioral, and
+ additional
+medical needs that may affect continuity or completion of therapy
+ (19). The
+health department employee responsible for monitoring treatment
+
+ adherence
+should identify and implement methods that promote adherence and
+ that are
+appropriate to the patient's needs and desires. A treatment plan
+ should be
+designed for efficiency and economy of services and convenience to
+ the
+patient.  When developing and implementing a treatment plan, TB control
+ programs
+should work closely with health-care providers from local
+ hospitals,
+drug-treatment centers, HIV clinics, correctional facilities,
+ health
+maintenance organizations, private physicians' offices, and other
+facilities where TB patients receive medical care. TB control
+ programs
+should fulfill their mandated responsibilities and also respect the
+relationship between patient and primary health-care provider.  Clinic Services  Clinic
+services provided by TB control programs should be
+ accessible
+and acceptable to the members of the community served by the
+ clinic. Clinic
+hours should be convenient and preferably should include some
+ evening hours
+for persons who work or attend school during the day. The clinic
+ should be
+
+easily accessible by public transportation, or transportation
+ should be
+provided. Intervals between the time of referral and the time of
+appointment and waiting times in the clinic should be kept to a
+ minimum. In
+busy TB clinics or multipurpose clinics, priority should be given
+ to
+persons having TB or suspected of having TB and to persons
+ receiving TB
+medications. Clinic services, including diagnostic evaluation,
+ medications,
+and transportation, should be provided without consideration of the
+patient's ability to pay. The clinic should have staff members who
+ speak
+the same language and have similar cultural and socioeconomic
+ backgrounds
+as the community served by the clinic, or the clinic should employ
+ persons
+trained to work in cross-cultural settings.  Promoting Adherence  Methods for promoting
+adherence to therapy should be tailored
+ to the
+patient's needs, life-style, social support system, and beliefs
+ about
+health. An assessment of these factors should be included in the
+development of a treatment plan (19,20). Patients should be
+ educated about
+
+the causes and effects of TB, the dosing and possible adverse
+ reactions of
+their medication, and the importance of taking their medication
+ according
+to the treatment plan. To facilitate adherence, the plan should use
+short-course treatment regimens and, for patients whose therapy is
+ not
+directly observed, fixed-dose combination tablets. Providing
+ transportation
+to the clinic also is important for promoting adherence. A
+ welcoming and
+respectful atmosphere within the clinic setting is fundamental to
+maintaining adherence.  Consideration should be given to treating all patients with
+ directly
+observed therapy (DOT) (6,7). With DOT, a health-care provider or
+ other
+responsible person observes the patient swallowing each dose of
+ anti-TB
+medication. DOT may be administered with daily or intermittent
+ regimens and
+may be given to patients in an office or clinic setting or by an
+ outreach
+worker in the patient's home, place of employment, school, or other
+mutually agreed-upon place. In some instances, DOT may be
+ administered by
+
+the staff of correctional facilities or drug-treatment programs,
+ home
+health-care workers, staff of maternal and child health facilities,
+ or a
+responsible community or family member.  Incentives and enablers should be available
+to enhance
+ adherence to
+therapy. These incentives range from simple approaches (e.g.,
+ offering a
+cup of coffee or food discount coupons and talking with a patient
+ while he
+or she is waiting in the clinic) to complex approaches (e.g.,
+ obtaining
+food and housing for a homeless patient).  Health-care professionals, including private
+practitioners,
+ who become
+aware of a TB patient who has demonstrated an inability or
+ unwillingness to
+adhere to a prescribed treatment regimen should consult the health
+department. The TB control program should assist in evaluating the
+ patient
+for the causes of nonadherence to therapy and provide assistance
+ (e.g.,
+outreach-worker services) to enable the patient to complete the
+ recommended
+therapy. If the patient still fails to adhere to treatment, the
+ health
+
+department should take appropriate action based on local laws and
+regulations. This action could entail seeking court-ordered DOT or
+detention for those patients who are unwilling or unable to
+ complete their
+treatment and who are infectious or who are at risk for becoming
+ infectious
+or  developing  drug-resistant  TB.   Additional  services  may  be  necessary  to  facilitate
+continuity
+ and
+completion of therapy. Social workers, translators, and referral
+ sources
+for drug-treatment services should be available in the clinic or
+ easily
+accessible  to  the  patients.   Referral  System  for  Other  Medical  Problems   A  system
+should be in place to facilitate referral of TB
+ patients for
+evaluation and treatment of other medical problems, including those
+conditions (e.g., HIV infection, underlying malignancy, diabetes
+ mellitus,
+and substance abuse) that may affect the course or outcome of TB
+ treatment.
+Consultants should see referred patients in a timely fashion, and
+ the
+assessment and recommendations of the consultant should be made
+ available
+promptly to the referring health-care provider. If patients receive
+
+ care in
+more than one setting, treatment should be coordinated with the
+ other
+health-care providers to ensure continuity and completion of
+ therapy,
+minimize drug interactions, and avoid duplication of efforts. The
+ TB
+program should take primary responsibility for ensuring TB
+ treatment and
+monitoring for adherence.  Clinical Consultative Services  Expert medical consultation
+should be available for management
+ of all
+TB patients, including those who have drug-resistant TB. These
+ consultative
+services should be available to the TB control program and
+ health-care
+providers in the community. The consultation may be provided by a
+ staff
+member of the TB control program or by a local or regional
+ consultant
+collaborating with the health department.  Inpatient Care  Regardless of the patient's
+ability to pay, appropriate
+ accommodations
+should be available for any TB patient requiring inpatient hospital
+ care
+for TB or other conditions. The facility should have effective
+ infection
+
+control measures in place to prevent transmission of TB infection
+ in the
+hospital (12). Medical staff knowledgeable about the management of
+ TB
+patients should be available to assist in the care of the patient
+ while
+hospitalized. In addition, appropriate medications should be
+ available in
+the facility so that the patient can continue therapy in the
+ hospital.
+Appropriate diagnostic services (e.g., radiology and
+ mycobacteriology)
+should be available to monitor the patient for adverse reactions,
+ the
+progress of treatment, and other medical conditions. The local TB
+ program
+and the facility should develop and implement protocols to ensure
+ rapid
+reporting of known or suspected TB cases to the local health
+ department.  Confinement Capability  To ensure that patients receive treatment until
+they are
+ cured, TB
+control programs should have adequate legal authority and
+ appropriate
+facilities available to isolate and treat patients who have
+ infectious TB.
+When all less restrictive measures have failed, TB control programs
+
+ also
+should have the authority to detain patients unwilling or unable to
+complete their treatment. This authority also should apply to
+ nonadherent
+patients who are no longer infectious, but who are at risk for
+ again
+becoming infectious or for the development of drug-resistant TB.  Infection Control  TB
+control programs should serve the medical community as
+ sources of
+information and consultation regarding appropriate infection
+ control
+practices (12). During interactions with the medical community, TB
+ control
+programs should emphasize the need to maintain a high level of
+ suspicion
+for TB in evaluating patients who have TB symptoms and also the
+ importance
+of early diagnosis and isolation and prompt initiation of therapy.
+ The
+programs should give expert advice or provide referrals to experts
+ for
+information about appropriate infection control measures for
+ different
+settings (e.g., hospitals, clinics, nursing homes, correctional
+ facilities,
+homeless shelters, and drug-treatment centers).  TB control programs should provide
+
+guidance to local
+ facilities and the
+community to ensure the availability of an appropriate number of TB
+isolation rooms to meet community needs. Because local needs may
+ change,
+the adequacy of the number of isolation rooms should be reassessed
+ each
+year as part of the evaluation of the TB control program.  TB control programs should
+educate the staff of facilities
+ providing
+care for TB patients about the need for routine periodic evaluation
+ of
+infection control practices and may also assist in the evaluation
+ process.
+Assistance may include providing current recommendations and
+ regulations to
+the facility, providing names of experts in infection control, or
+ providing
+access  to  personnel  involved  in  programmatic  evaluations.   Coordinating  Care  with
+Other  Health-Care  Providers  and  Facilities   TB  patients  often  receive  care  in  multiple
+settings, including
+ HIV
+clinics, drug-treatment centers, correctional facilities,
+ hospitals,
+nursing homes, or primary care clinics. When patients move among
+ these
+
+various settings, continuity and completion of therapy may be
+ compromised
+unless a system for the coordination of care exists. Discharge
+ planning for
+hospitalized patients should begin as soon as TB is diagnosed
+ (i.e., at the
+time of initiation of therapy in a suspected case or identification
+ of a
+positive culture in a confirmed case). A representative from the TB
+ control
+program should visit the patient in the hospital to identify
+ contacts,
+collect information for the initial treatment plan, and ensure that
+ no
+obstacles to the patient's follow-up care exist (see Managing
+ Persons Who
+Have Disease or Who Are Suspected of Having Disease). To provide
+ and
+coordinate continuous TB treatment and to facilitate transfers of
+ care, TB
+control programs should communicate regularly with providers and
+ facilities
+involved in TB patient care, including hospitals, infection-control
+practitioners, private practitioners, community clinics,
+ correctional
+facilities, homeless shelters, and drug-treatment centers. TB
+
+ control
+programs should consider using a computerized system for
+ coordinating the
+care  of  TB  patients.   IDENTIFYING  PERSONS  WHO  HAVE  CLINICALLY  ACTIVE  TB  
+Diagnostic Methods  Clinics providing services for TB patients should have access
+ to the
+basic methods necessary for the diagnosis of TB, including
+ tuberculin skin
+testing, chest radiography, sputum induction, and mycobacteriology
+ services
+for smears, cultures, and drug-susceptibility testing (see
+ Laboratory and
+Diagnostic Services). TB control programs should provide guidance
+ to
+facilities about appropriate diagnostic methods for different
+circumstances. Sputum smear examinations and cultures for
+ mycobacteria
+should be performed on persons suspected of having active pulmonary
+ or
+laryngeal TB. Tuberculin testing is the standard method for
+ screening
+asymptomatic populations for infection with M. tuberculosis.
+ However,
+screening initially for disease rather than infection may be more
+appropriate in some circumstances (e.g., when tuberculin skin-test
+ results
+may be unreliable, when application and reading of the test may be
+
+impractical, or when the consequences of an undiagnosed case may be
+severe). For example, because elderly persons living in long-term
+ care
+facilities are at high risk for the development of TB and may be
+ anergic,
+all patients admitted to these facilities should have an initial
+ screening
+chest radiograph. Chest radiography also may be the preferable
+ screening
+method for persons incarcerated in jails or residing in other
+ settings
+where TB is common and where diagnostic delays may result in large
+ numbers
+of  persons  being  exposed  to  TB.   Case  Finding   Most  persons  who  have  TB  are
+diagnosed when they seek medical
+ care for
+symptoms caused by TB or other medical conditions. Therefore, for
+ early
+identification of TB cases, health-care providers in the community
+ must
+have an awareness of TB. Conducting contact investigations is
+ another
+important way to find TB cases and may yield approximately 700
+ cases per
+100,000 persons evaluated (CDC Program Management Reports
+ 1990-1992,
+
+unpublished data). Health departments should seek cases of TB
+ through
+active  surveillance  of  mycobacteriology  laboratories.   Routine  screening  with  chest
+radiographs to identify persons
+ who have
+disease is justifiable in certain situations, particularly when the
+prevalence of TB is extremely high (e.g., among homeless
+ populations or
+certain immigrant or refugee populations from areas that have a
+ high
+prevalence of TB) or when the consequences of an undiagnosed case
+ of TB are
+severe (e.g., in residential facilities for HIV-infected persons,
+correctional facilities, homeless shelters {21,22}, or nursing
+ homes).
+Using local epidemiologic data, TB programs should identify these
+ high-risk
+groups  and  settings  and  determine  whether  screening  is  indicated.   Contact
+Investigation  Staff of TB control programs should begin a contact
+ investigation as
+soon as they are notified of a suspected or confirmed case of TB.
+ TB
+control programs should educate health-care providers in the
+ community
+about the need for prompt reporting of suspected cases. Contact
+investigations are important for identifying persons who have TB
+
+ infection
+and who are at high risk for the development of active disease.
+ Contact
+investigations are also important for detecting cases of active TB
+ (5).  The priority, speed, and extent of a contact investigation
+ should be
+influenced by the likelihood of transmission (based on the
+ characteristics
+of the source patient, environment, and contacts) and the possible
+consequences of infection (especially for HIV-infected contacts or
+ contacts
+who  are  young  children).   IDENTIFYING  AND  MANAGING  PERSONS  INFECTED  WITH  M.
+TUBERCULOSIS   TB  Skin  Testing  of  High-Risk  Groups   TB  control  programs  should
+assess the prevalence and incidence
+ of TB
+and the sociodemographic characteristics of TB patients and
+ infected
+persons in each community. On the basis of these data, TB control
+ programs
+should design tuberculin screening programs to reach the
+ community's
+high-risk groups (13,16). Regular evaluation of the usefulness of
+ these
+screening programs is extremely important because, in general,
+ screening
+should not be given preference over higher priority activities
+ (e.g.,
+
+treatment of TB patients and contact investigation). The practice
+ of
+screening low-risk groups should be discontinued.  TB control programs should identify
+and establish working
+ relationships
+with persons, facilities, and agencies providing health-care
+ services to
+high-risk populations and should assist them in developing and
+ implementing
+screening programs appropriate for various situations. Decisions to
+initiate programs to skin test high-risk groups should be based on
+ the
+ability of the TB control program and these community groups to
+ provide
+adequate preventive therapy services. For appropriate
+ implementation of
+screening programs, the TB control program and local facilities
+ should be
+able to perform tuberculin skin tests, read and interpret the
+ tests,
+evaluate those persons who have positive results, initiate
+ preventive
+therapy when appropriate, monitor patients for adverse reactions,
+ and
+ensure that patients complete preventive therapy. The plan for
+ evaluation
+
+and treatment of patients should be developed before testing
+ begins.  Health-care providers serving high-risk groups should receive
+assistance from TB control programs in planning and providing these
+services, including training staff and evaluating screening
+ programs to
+determine their effectiveness. Members of high-risk groups should
+ be
+educated about the problem of TB in their community and should be
+ involved
+in  the  implementation  of  screening  and  prevention  programs.   LABORATORY  AND
+DIAGNOSTIC SERVICES  Chest Radiograph and Interpretation  Outpatient and inpatient
+facilities offering TB treatment
+ should have
+ready access to a sufficient quantity of radiology equipment and
+ enough
+trained radiology technicians so that chest radiographs can be
+ obtained
+each day during clinic hours for all patients needing them.
+ Furthermore,
+the chest radiograph should be interpreted by a qualified person,
+ and the
+report of the chest radiograph findings should be available within
+ 24
+hours.  Mycobacteriology Laboratory  To ensure that results of acid-fast examinations of
+specimens
+ are
+
+available promptly (ideally, within 24 hours of specimen
+ collection), TB
+control programs should have access to adequate mycobacteriology
+ laboratory
+services. Reports of isolation and identification of M.
+ tuberculosis should
+be available within 10-14 days, and reports of drug-susceptibility
+ tests
+should be available within 15-30 days of specimen collection. The
+ TB
+control program should work closely with the laboratory to ensure
+ rapid
+delivery of specimens to the laboratory and prompt laboratory
+ reporting of
+acid-fast bacilli smears, culture results, and results of
+drug-susceptibility tests to the clinician and health department.
+ The
+laboratory should use rapid laboratory methods, including
+ fluorescent
+acid-fast staining procedures, inoculation of a liquid medium as
+ primary
+culture, nucleic acid probes to identify M. tuberculosis, and,
+ using
+radiometric (e.g., BACTEC (R)) or similar systems, testing of M.
+tuberculosis isolates for susceptibility to the first-line drugs
+ (23).
+These mycobacteriology laboratory services also should be available
+
+ to TB
+control programs for monitoring bacteriologic response to therapy.  Diagnostic Services
+to Assess Drug Toxicity  The outpatient and inpatient facilities where TB treatment is
+ offered
+should provide, or have access to, diagnostic services for
+ monitoring
+patients for potential adverse reactions to anti-TB medications. At
+ least
+monthly during therapy, patients receiving anti-TB medications
+ should be
+evaluated by a health-care professional (e.g., nurse, physician, or
+physician assistant) and questioned about possible adverse
+ reactions. The
+facilities offering TB treatment should be able to perform visual
+ acuity
+and color vision evaluations on site. Blood tests for liver
+ enzymes, blood
+urea nitrogen, creatinine, uric acid, complete blood count, and
+ platelets
+may be performed at an outside laboratory; however, phlebotomy
+ services
+should be available on site. Audiometry should be available on site
+ or at
+another accessible location. In geographic areas that have a high
+prevalence of drug-resistant TB, testing of serum levels for
+ anti-TB
+
+medications, especially cycloserine, should be available through a
+reference laboratory.  HIV Testing and Counseling  All persons who have confirmed or
+suspected TB should be
+ offered HIV
+counseling and antibody testing. If TB clinics are unable to
+ perform
+on-site counseling and testing, they should coordinate with
+ HIV-testing
+programs to make these services available. In geographic areas that
+ have a
+high prevalence of HIV-infected persons, TB prevention and control
+ staff
+should be trained and qualified to provide routine HIV counseling
+ and
+antibody  testing.   DATA  COLLECTION  AND  ANALYSIS   Case  Reporting   TB  control
+programs should ensure and facilitate TB case
+ reporting from
+various community sources (e.g., physicians, laboratories,
+ hospitals, and
+pharmacies) and routinely monitor the completeness of reporting and
+ the
+duration of time between diagnosis and reporting. TB control
+ programs also
+should communicate regularly with infection-control practitioners
+ in
+hospitals and other facilities that frequently diagnose TB. Case
+ reporting
+
+is essential to the compilation of national, state, and local
+ morbidity
+reports and to program planning and evaluation, and prompt
+ reporting is
+necessary  for  effective  contact  tracing.   TB  Registry   To  carry  out  mandatory
+community public health
+ responsibilities, health
+department TB control programs should maintain a computerized
+ record system
+(case registry) with up-to-date information on all current
+ clinically
+active and suspected TB cases in the community. To ensure follow-up
+ of all
+TB patients and those persons suspected of having TB, registry
+ information
+(e.g., smear, culture, and susceptibility results; clinical status;
+ chest
+radiograph results; and doses of medications being administered)
+ should be
+obtained and updated on a continuing basis. A specific health
+ department
+staff member should review detailed registry information for TB
+ cases at
+least monthly to identify patients who have potential problems with
+adherence or response to therapy (e.g., patients who have
+ persistently
+
+positive sputum or who are taking medications to which their TB
+ organisms
+are resistant) and to ensure follow-up (e.g., initiating field
+ follow-up
+visits or arranging medical consultation with providers). TB
+ control
+programs also should maintain records on the examination and
+ treatment
+status of the contacts of infectious TB patients and other groups
+ of
+high-risk infected persons (e.g., persons coinfected with M.
+ tuberculosis
+and HIV).  Protection of Confidentiality  TB control programs should devise policies to
+ensure the data
+ security
+and confidentiality of TB records. Strategies should be in place to
+ protect
+all TB reports, records, and files containing patient names or
+ other
+identifying information. Local policies regarding the security and
+confidentiality of such information, including HIV test results,
+ must
+adhere to all laws applicable in state and local jurisdictions
+ (8,24). TB
+control programs should collaborate with HIV programs to develop
+ and
+implement  such  policies.   Drug  Resistance  Surveillance   TB  control  programs  should
+
+ensure that drug-susceptibility
+ tests are
+performed on all initial isolates of M. tuberculosis and that the
+ results
+are reported promptly to the primary care provider and the local
+ health
+department. TB control programs should monitor local drug
+ resistance rates
+to assess the effectiveness of local TB control efforts and to
+ determine
+the appropriateness of the currently recommended initial TB
+ treatment
+regimen for the area.  Data Analysis and Program Evaluation  To determine morbidity
+rates, trends, and demographic
+ characteristics
+of the TB patient population in the area, TB control programs
+ should
+analyze the data collected each year. Local health departments
+ should
+rapidly report cases, including the necessary demographic
+ information, to
+state health departments, and states should regularly forward the
+ reports
+to CDC. Timely and complete reporting is essential for local,
+ state, and
+national  public  health  planning  and  assessment.   TB  control  programs  should  assess
+program performance by
+
+ determining
+the rates for completion of therapy, contact identification, and
+ initiation
+and completion of preventive therapy. At least annually, TB control
+ program
+staff should assess progress toward achievement of program
+ objectives. To
+facilitate the monitoring of TB morbidity and program performance,
+ programs
+should implement computerized systems for data collection and
+ analysis.
+Program evaluation reports should be shared with the appropriate
+ public,
+private,  and  community  groups.   TB  control  programs  should  periodically  review
+screening
+ activities to
+assess their effectiveness in identifying infected persons and in
+ ensuring
+that these persons are completing courses of preventive therapy
+ when
+appropriate. If reviews demonstrate that few or no new cases are
+ being
+identified by particular screening activities, these activities
+ should be
+discontinued.  Programs also should conduct periodic reviews of selected
+ records
+systems (e.g., laboratory reports, pharmacy reports, AIDS
+
+ registries, and
+death certificates) to validate the surveillance system and to
+ detect any
+failure to report cases.  TB control programs should analyze each new TB case and each
+ death
+caused by TB to determine whether the case or death could have been
+prevented. Based on such a review, new policies should be developed
+ and
+implemented to reduce the number of preventable cases and deaths.  In collaboration
+with community-based organizations and
+ professional
+societies, health departments should prepare annual reports based
+ on these
+assessments. These reports should document the extent and nature of
+ the TB
+problem in the area, assess the adequacy of prevention and control
+measures, and provide recommendations for program improvements.
+ Some TB
+programs may determine that an outside review by experts from the
+ state
+health department, CDC, local lung associations, or other TB
+ experts may be
+helpful to determine methods for improving program performance and
+community TB control and for providing support for major changes
+ (e.g.,
+significant restructuring or acquisition of new resources).  TRAINING AND EDUCATION 
+
+Staff Training  TB control programs should provide appropriate training and
+ evaluation
+for all program staff at time of employment and at regular
+ intervals so
+that staff can maintain an accurate, up-to-date level of knowledge
+ about
+TB, public health practice, management and evaluation skills, and
+ other
+related topics.  Education for Health-Care Providers and Members of the Community  TB
+control programs should provide leadership in TB education
+ in the
+community. To determine needs for training and education, TB
+ control
+programs should monitor the level of knowledge about TB among
+ health-care
+providers, policymakers, and other community members who provide
+ services
+to TB patients (e.g., the staff of social services departments,
+correctional services departments, mental health offices, and legal
+ service
+offices). TB control programs should work closely with medical and
+ nursing
+schools, schools of public health, community-based organizations,
+professional societies, minority advocacy groups, and others to
+ meet the
+training and education needs of the community.  References  
+    CDC. A strategic plan for the elimination of tuberculosis in
+
+ the United
+    States. MMWR 1989; 38(No. S-3).  
+    CDC. Expanded tuberculosis surveillance and tuberculosis
+ morbidity --
+    United States, 1993. MMWR 1994;43:361-6.  
+    Brudney K, Dobkin J. Resurgent tuberculosis in New York City:
+ human
+    immunodeficiency virus, homelessness, and the decline of the
+    tuberculosis control programs. Am Rev Respir Dis
+ 1991;144:745-9.  
+    Snider DE Jr, Roper WL. The new tuberculosis. N Engl J Med
+    1992;326:703-5.  
+    American Thoracic Society/CDC. Control of tuberculosis in the
+ United
+    States. Am Rev Respir Dis 1992;146:1623-33.  
+    CDC. Initial therapy for tuberculosis in the era of multidrug
+    resistance: recommendations of the Advisory Council for the
+ Elimination
+    of Tuberculosis. MMWR 1993;42(No. RR-7).  
+    American Thoracic Society/CDC. Treatment of tuberculosis and
+    tuberculosis infection in adults and children. Am J Respir
+ Crit Care
+    Med 1994;149:1359-74.  
+    CDC. Tuberculosis control laws -- United States, 1993:
+ recommendations
+    of the Advisory Council for the Elimination of Tuberculosis
+ (ACET).
+
+    MMWR 1993;42(No. RR-15).  
+    American Thoracic Society/CDC. Diagnostic standards and
+ classification
+    of tuberculosis. Am Rev Respir Dis 1990;142:725-35.  
+    CDC. Tuberculosis and human immunodeficiency virus infection:
+    recommendations of the Advisory Committee for the Elimination
+ of
+    Tuberculosis (ACET). MMWR 1989;38:236-8,243-50.  
+    CDC. Prevention and control of tuberculosis in correctional
+    institutions: recommendations of the Advisory Committee for
+ the
+    Elimination of Tuberculosis. MMWR 1989;38:313-20,325.  
+    CDC. Guidelines for preventing the transmission of
+ Mycobacterium
+    tuberculosis in health-care facilities, 1994. MMWR 1994;43(No.
+ RR-13).  
+    CDC. Screening for tuberculosis and tuberculous infection in
+ high-risk
+    populations: recommendations of the Advisory Committee for
+ Elimination
+    of Tuberculosis. MMWR 1995;44(No. RR-11):19-34.  
+    CDC. Prevention and control of tuberculosis in facilities
+ providing
+    long-term care to the elderly: recommendations of the Advisory
+    Committee for Elimination of Tuberculosis. MMWR 1990; 39(No.
+ RR-10):
+
+    7-20.  
+    CDC. Tuberculosis among foreign-born persons entering the
+ United
+    States: recommendations of the Advisory Committee for
+ Elimination of
+    Tuberculosis. MMWR 1990;39(No. RR-18):1-21.  
+    CDC. The use of preventive therapy for tuberculous infection
+ in the
+    United States: recommendations of the Advisory Committee for
+    Elimination of Tuberculosis. MMWR 1990;39 (No. RR-8):8-12.  
+    CDC. Prevention and control of tuberculosis in migrant farm
+ workers:
+    recommendations of the Advisory Council for the Elimination of
+    Tuberculosis. MMWR 1992;41(No. RR-10):1-15.  
+    CDC. Prevention and control of tuberculosis among homeless
+ persons:
+    recommendations of the Advisory Council for the Elimination of
+    Tuberculosis. MMWR 1992;41(No. RR-5):13-23.  
+    CDC. Improving patient adherence to tuberculosis treatment.
+ Atlanta: US
+    Department of Health and Human Services, Public Health
+ Service, CDC,
+    1994.  
+    Sumartojo E. When tuberculosis treatment fails: a social
+ behavioral
+
+    account of patient adherence. Am Rev Respir Dis
+ 1993;147:1311-20.  
+    McAdam J, Brickner PW, Glicksman R, Edwards D, Fallon B,
+ Yanowitch P.
+    Tuberculosis in the SRO/homeless population. In: Brickner PW,
+ Scharer
+    LK, Conanan B, Elvy A, Savarese M, eds. Health care of
+ homeless people.
+    New York: Springer, 1985:155-75.  
+    Barry MA, Wall C, Shirley L, et al. Tuberculosis screening in
+ Boston's
+    homeless shelters. Public Health Rep 1986;101:487-98.  
+    Tenover FC, Crawford JT, Huebner RE, Geiter LJ, Horsburgh CR,
+ Good RC.
+    The resurgence of tuberculosis: is your laboratory ready? J
+ Clin
+    Microbiol 1993;31:767-70.  
+    Gostin LO. Controlling the resurgent tuberculosis epidemic: a
+ 50-state
+    survey of TB statutes and proposals for reform. JAMA
+ 1993;269:255-61.  ** The word "standard" is being used to indicate a prototype
+ established by
+authority, custom, or general consent. Table_1
+Note:
+ To  print  large  tables  and  graphs  users  may  have  to  change  their  printer  settings  to
+landscape and use a small font size.
+TABLE 1. Elements of a treatment plan for TB patients
+
+====================================================
+======================================
+   I. Assignment of responsibility
+      A. Case manager (i.e., person assigned primary responsibility)
+      B. Clinical supervisor (e.g., nurse, physician, physician assistant)
+      C. Other caregivers (e.g., outreach worker, nurse, physician, physician assis-
+         tant)
+      D. Person responsible for completing the contact investigation
+  II. Medical evaluation
+      A. Tests for initial evaluation (e.g., tuberculin skin test, chest radiograph,
+         smear, culture, susceptibility tests, HIV test), including results of each test
+         and date completed
+      B. Important medical history (e.g., previous treatment, other risk factors for
+         drug resistance, known drug intolerances, and other medical problems)
+      C. Potential adverse reactions
+         1. Appropriate baseline laboratory tests to monitor toxicity (e.g., liver en-
+            zymes, visual acuity, color vision, complete blood count, audiogram,
+            BUN, and creatinine), including results of each test and date com-
+            pleted
+         2. Potential drug interactions
+      D. Obstacles to adherence
+ III. TB treatment
+      A. Medications, including dosage, frequency, route, date started, and date
+         to be completed for each medication
+      B. Administration
+
+         1. Method (directly observed or self-administered)
+         2. Site(s) for directly observed therapy
+  IV. Monitoring
+      A. Tests for response to therapy (e.g., chest radiograph, smear, and culture),
+         including planned frequency of tests and results
+      B. Tests for toxicity, including planned frequency of tests and results
+   V. Adherence plan
+      A. Proposed interventions for obstacles to adherence
+      B. Plan for monitoring adherence
+      C. Incentives and enablers
+ VII. TB education
+      A. Person assigned for culturally appropriate education
+      B. Steps of education process and date to be completed
+VIII. Social services
+      A. Needs identified
+      B. Referrals, including date initiated and results
+  IX. Follow-up plan
+      A. Parts of treatment plan to be carried out at TB clinic
+      B. Parts of treatment plan to be carried out at other sites and person(s) con-
+         ducting activities
+====================================================
+======================================
+
+Return to top.
+Disclaimer
+   All MMWR HTML versions of articles are electronic conversions from ASCII text into
+HTML.  This conversion may have resulted in character translation or format errors in
+the HTML version.  Users should not rely on this HTML document, but are referred to the
+electronic  PDF  version  and/or  the  original  MMWR  paper  copy  for  the  official  text,
+figures,  and  tables.   An  original  paper  copy  of  this  issue  can  be  obtained  from  the
+Superintendent of Documents, U.S. Government Printing Office (GPO), Washington, DC
+20402-9371; telephone: (202) 512-1800. Contact GPO for current prices.**Questions or
+messages regarding errors in formatting should be addressed to mmwrq@cdc.gov.  
+Disclaimer
+   All MMWR HTML versions of articles are electronic conversions from ASCII text into
+HTML.  This conversion may have resulted in character translation or format errors in
+the HTML version.  Users should not rely on this HTML document, but are referred to the
+electronic  PDF  version  and/or  the  original  MMWR  paper  copy  for  the  official  text,
+figures,  and  tables.   An  original  paper  copy  of  this  issue  can  be  obtained  from  the
+Superintendent of Documents, U.S. Government Printing Office (GPO), Washington, DC
+20402-9371;  telephone:  (202)  512-1800.  Contact  GPO  for  current  prices.  Page
+converted: 09/19/98 
+    HOME  |  
+    ABOUT MMWR  | 
+    MMWR SEARCH  | 
+    DOWNLOADS  | 
+    RSS 
+    |  
+
+    CONTACT
+POLICY  |  
+    DISCLAIMER  |  
+    ACCESSIBILITY 
+Morbidity and Mortality Weekly Report
+                Centers for Disease Control and Prevention
+                1600 Clifton Rd, MailStop E-90, Atlanta, GA 
+                  30333, U.S.A 
+Department of Healthand Human Services This page last reviewed 5/2/01 
+ 
+
+Source URL: https://www.cdc.gov/mmwr/preview/mmwrhtml/00038823.htm

@@ -1,0 +1,237 @@
+Official websites use .gov A .gov website belongs to an official government organization
+in  the  United  States.  Secure  .gov  websites  use  HTTPS  A  lock  (   )  or  https://  means
+you've  safely  connected  to  the  .gov  website.  Share  sensitive  information  only  on
+official,  secure  websites.  Two  vaccines  may  be  used  to  prevent  mpox:  JYNNEOS  is  a
+third-generation  vaccine based  on  a  live,  attenuated  orthopoxvirus,  Modified  Vaccinia
+Ankara (MVA). MVA is a live virus that does not replicate efficiently in humans. JYNNEOS
+is known internationally as Imvamune® or Imvanex®; it is manufactured by Bavarian
+Nordic. It is fully licensed in the U.S. for subcutaneous administration in individuals 18
+years of age and older. As of April 1, 2024, JYNNEOS is commercially available in the
+U.S. In addition, the U.S. Food and Drug Administration (FDA) issued an Emergency Use
+Authorization (EUA) in August 2022 to allow JYNNEOS vaccine to be used: ACAM2000 is
+a second-generation vaccine that contains a live vaccinia virus that replicates efficiently
+in  humans.  It  is  manufactured  by  Emergent  Bio  Solutions  and  is  indicated  for  the
+prevention of smallpox. It has been made available for use against mpox in the current
+outbreak under an Expanded Access Investigational New Drug (EA-IND) protocol, which
+requires informed consent along with completing additional forms. Available evidence
+supporting the use of smallpox vaccine for mpox prevention is derived from experience
+with  Dryvax®,  the  vaccine  used  during  smallpox  eradication.  Dryvax  was  a
+first-generation smallpox vaccine manufactured by Wyeth Laboratories. Routine use of
+this vaccine ended in the United States in 1972, and smallpox was declared eradicated
+globally in 1980 by the World Health Assembly. The license for Dryvax was withdrawn
+in 2008 and no supplies of this vaccine remain. Although the United States has a large
+supply  of  ACAM2000,  this  vaccine  has  more  side  effects  and  contraindications  than
+JYNNEOS.  *Public  health  authorities  determine  whether  there  is  an  mpox  outbreak;  a
+single  case  may  be  considered  an  mpox  outbreak  at  the  discretion  of  public  health
+authorities.  Other  circumstances  in  which  a  public  health  response  may  be  indicated
+include ongoing risk of introduction of mpox into a community due to disease activity in
+
+another geographic area. The mpox outbreak that started in 2022 is still ongoing. †This
+recommendation is on the CDC’s Adult Immunization Schedule (for people 19 years of
+age and older) and Child & Adolescent Immunization Schedule (for people 18 years of
+age). Currently, CDC does not recommend routine immunization against mpox for the
+general  public.  JYNNEOS  is  not  recommended  as  a  routine  vaccination  for  healthcare
+personnel  unless  sexual  risk  factors  are  present.  Recommendations  by  the  Advisory
+Committee on Immunization Practices (ACIP) are available for laboratory personnel and
+health care worker response teams who may be at risk for exposure to orthopoxviruses.
+Evaluating and counseling patients who could benefit from mpox vaccination is critical.
+To do so, healthcare professionals should perform a comprehensive social and sexual
+history. Attention should be paid to sexual behaviors (e.g. frequency and types of sex)
+and  partners  (e.g.  number  and  frequency),  due  to  the  populations  that  have  been
+disproportionately affected by the current mpox outbreak. Such evaluation should have
+health  equity  principles  as  a  foundation  and  allow  individuals  to  self-attest  vaccine
+eligibility (i.e., providing mpox vaccination without requiring individuals to specify which
+criterion they meet). A Guide to Taking a Sexual History National Coalition for Sexual
+Health (NCSH) Tools for Educating Patients Mpox vaccine can be given as post-exposure
+prophylaxis (PEP) both to people with known or presumed exposure to monkeypox virus
+(MPXV). Mpox vaccine can also be given to people with certain risk factors and recent
+experiences that might make them more likely to have been exposed to mpox. As PEP,
+vaccine  should  be  given  as  soon  as  possible,  ideally  within  four  days  of  exposure;
+administration  4  through  14  days  after  exposure  may  still  provide  some  protection
+against mpox. After 14 days, clinicians should consider the benefits of receiving vaccine
+on a case-by-case basis; benefits might still outweigh risks when administering vaccine
+in some clinical situations (e.g., for a severely immunosuppressed person with a recent
+sex partner confirmed to have mpox). Any person with ongoing risk of mpox exposure
+should be offered vaccination, even if previously exposed, and regardless of time since
+
+exposure,  as  long  as  they  have  not  yet  developed  signs  or  symptoms  of  mpox.
+Vaccination given after the onset of signs or symptoms of mpox, after a diagnosis of
+mpox,  or  after  recovery  from  mpox  is  not  expected  to  provide  benefit.  At  this  time,
+naturally acquired mpox is believed to confer immune protection, although duration of
+immunity  is  unknown.  JYNNEOS  vaccine  is  licensed  as  a  series  of  two  doses
+administered 28 days (4 weeks) apart. The standard regimen involves a subcutaneous
+(Subcut)  route  of  administration  with  an  injection  volume  of  0.5mL.  The  standard
+regimen  is  the  FDA-approved  dosing  regimen.  Since  August  9,  2022,  the  standard
+regimen has also been authorized for people aged <18 years under an Emergency Use
+Authorization. An alternative regimen may be used for people age ≥18 years under an
+Emergency Use Authorization which was issued on August 9, 2022, to make more doses
+available  at  a  time  when  vaccine  supply  was  limited.  The  authorized  alternative
+regimen involves an intradermal (ID) route of administration with an injection volume of
+0.1mL.  Results  from  a  clinical  study  showed  that  the  lower  intradermal  dose  was
+immunologically  non-inferior  to  the  standard  subcutaneous  dose  [Frey  SE  et  al.,
+Vaccine,  2015;  33(39):5225-5234].  Recently  published  studies  show  similar  vaccine
+effectiveness  for  vaccines  administered  subcutaneously  or  intradermally.  Either  the
+standard  (0.5mL  subcutaneous)  or  the  alternative  (0.1mL  ID)  regimen  may  be  used.
+There  is  currently  adequate  supply  of  JYNNEOS  vaccine.  Therefore,  clinicians  can
+preferentially administer JYNNEOS via the subcutaneous route. 1For patients less than 6
+months of age, Vaccinia Immune Globulin Intravenous (VIGIV) should be considered in
+lieu  of  JYNNEOS  vaccine.  Clinicians  should  first  contact  their  jurisdictional  health
+department  (Jurisdictional  Contacts).  Jurisdictional  health  departments  can  facilitate
+consultation with CDC and access to VIGIV. Peak immunity is expected to be reached
+14 days after the second dose of JYNNEOS vaccine. Administration of additional vaccine
+doses (more than 2 doses) is currently not recommended for most people. For people at
+risk
+ for
+ occupational
+ exposure
+ to
+ orthopoxviruses
+ (e.g.,
+ certain
+ research
+
+laboratorians§), booster doses are recommended at 2-10 years depending on the type
+of work being performed. (ACIP Smallpox and Mpox Vaccine Recommendations | CDC).
+§Research  laboratory  personnel  are  those  who  directly  handle  cultures  or  animals
+contaminated  or  infected  with  monkeypox  virus  (MPXV).  Vaccination  is  not  routinely
+recommended  for  clinical  laboratory  personnel  who  perform  routine  chemistry,
+hematology, and urinalysis testing, including for patients with suspected or confirmed
+MPXV  infection,  healthcare  personnel  who  care  for  patients  with  mpox  or  administer
+ACAM2000.  Recommended  infection  prevention  and  control  practices  are  effective  in
+minimizing transmission. Vaccination can be offered based on site- and activity- specific
+biosafety  risk  assessments  (e.g.,  identification  of  laboratory  procedures  with  a  high
+likelihood  of  generating  aerosols  or  inadequate  PPE  availability).  Recommended
+interval: The second dose of JYNNEOS vaccine should be given 28 days (4 weeks) after
+the  first  dose.  Based  on  available  clinical  study  data  [13  MB,  93  pages],  the  second
+dose may be given up to 7 days later than the minimum interval of 28 days (i.e., up to
+35 days after the first dose). Maximum interval: If the second dose is not administered
+during the recommended interval, it should be administered as soon as possible based
+on ACIP’s general best practices. There is no need to restart or add doses to the series
+if  there  is  an  extended  interval  between  doses.  Minimum  interval:  The  vaccine
+manufacturer advises against giving the second dose before the minimum interval of
+28 days. However, based on ACIP’s general best practices, a dose may be administered
+up  to  4  days  before  the  minimum  interval  of  28  days  (known  as  the  “grace  period,”
+which would be a minimum of 24 days after the first dose). Vaccine doses should not be
+administered before the minimum interval (i.e., 28 days). Nevertheless, if the second
+dose is inadvertently administered before the minimum interval, the dose may not need
+to be repeated. Please refer to “Table 7. Vaccine Administration Errors and Deviations.”
+Subcutaneous  administration  involves  injecting  the  vaccine  into  the  fatty  tissue,
+typically over the triceps in people aged 12 months and older, or in the anterolateral
+
+thigh for people younger than age 12 months. CDC offers a short training video about
+subcutaneous vaccine administration and job aid [PDF – 1 page, 200KB]. Learn about
+intradermal administration of JYNNEOS. In eligible individuals, the dosing regimens are
+interchangeable.  For  example,  a  person  aged  18  years  or  older  who  received  one
+JYNNEOS vaccine dose intradermally may receive a second dose subcutaneously at the
+recommended  interval  (i.e.,  28  days)  to  complete  the  vaccination  series.  There  is
+currently adequate supply of JYNNEOS vaccine. Therefore, clinicians can preferentially
+administer  JYNNEOS  via  the  subcutaneous  route.  Doses  that  were  previously
+administered intradermally are equally effective as doses administered subcutaneously
+and do not need to be repeated.
+ Currently, there are no data on administering JYNNEOS vaccine at the same time as
+other  vaccines.  Because  JYNNEOS  is  based  on  a  live,  attenuated  non-replicating
+orthopoxvirus, JYNNEOS typically may be administered without regard to timing of most
+other  vaccines.  This  includes  simultaneous  administration  of  JYNNEOS  and  other
+vaccines, including influenza vaccine, on the same day, but at different anatomic sites
+if  possible.  There  is  no  required  minimum  interval  between  receiving  any  COVID-19
+vaccine (i.e., Moderna, Novavax, or Pfizer-BioNTech) and JYNNEOS vaccine, regardless
+of  which  vaccine  is  administered  first.  People,  particularly  adolescent  or  young  adult
+males, who are recommended to receive both vaccines might consider waiting 4 weeks
+between vaccines. This is because of the observed risk for myocarditis and pericarditis
+after  receipt  of  ACAM2000  orthopoxvirus  vaccine  and  COVID-19  vaccines,  and  the
+hypothetical risk for myocarditis and pericarditis after JYNNEOS vaccine. However, if a
+patient  is  at  increased  risk  for  mpox  or  severe  disease  due  to  COVID-19  disease,
+administration  of  JYNNEOS  and  COVID-19  vaccines  should  not  be  delayed.  There  is
+currently adequate supply of JYNNEOS vaccine. Therefore, clinicians can preferentially
+administer  JYNNEOS  via  the  subcutaneous  route.  Adolescents  at  risk  for  mpox  may
+receive the JYNNEOS vaccine before an exposure. JYNNEOS is available for use as post
+
+exposure prophylaxis (PEP) for children and adolescents under 18 years determined to
+be at high risk for mpox under the Emergency Use Authorization (EUA) issued by the US
+Food and Drug Administration. Vaccination with JYNNEOS for children and adolescents
+aged  <18  years  should  be  administered  via  subcutaneous  injection.  For  patients  <6
+months of age, Vaccinia Immune Globulin Intravenous (VIGIV) should be considered in
+lieu  of  JYNNEOS  vaccine.  Clinicians  should  first  contact  their  jurisdictional  health
+department  (Jurisdictional  Contacts).  Jurisdictional  health  departments  can  facilitate
+consultation  with  CDC  and  access  to  VIGIV.  Available  human  data  on  JYNNEOS
+administered to people who are pregnant are insufficient to determine if there are any
+vaccine-associated  risks  in  pregnancy.  Studies  of  JYNNEOS  vaccine  in  animals  have
+shown no evidence of harm to a developing fetus. While there are no data for people
+who  are  breastfeeding,  animal  data  do  not  show  evidence  of  reproductive  harm;
+breastfeeding is not a contraindication to receiving JYNNEOS. It is not known whether
+JYNNEOS  is  excreted  in  human  milk.  Data  are  not  available  to  assess  the  impact  of
+JYNNEOS  on  milk  production  or  the  safety  of  JYNNEOS  in  breastfed  infants.  However,
+because  JYNNEOS  vaccine  is  replication-deficient,  it  likely  does  not  present  a  risk  of
+transmission to breastfed infants. JYNNEOS can be offered to people who are pregnant
+or breastfeeding who are otherwise eligible. The risks and benefits of JYNNEOS should
+be discussed with the patient using shared clinical decision-making. Studies evaluating
+JYNNEOS  in  people  with  atopic  dermatitis  have  demonstrated  immunogenicity  in
+eliciting a neutralizing antibody response. No concerning safety signals were revealed.
+Administer 0.5mL subcutaneously. Administer as indicated based on age and history of
+keloids.  Previous  smallpox  vaccination  probably  does  provide  some  protection,  but  it
+may not necessarily be lifelong. During the 2003 mpox outbreak and during the current
+outbreak, several people who were infected with mpox had previously been vaccinated
+against smallpox decades prior. In response to the current outbreak, vaccines and other
+medical measures should be given to eligible people who were previously vaccinated
+
+against  smallpox.  In  the  context  of  the  current  mpox  outbreak  the  following  are
+exceptions to the recommended two-dose series: Recipients should be informed of the
+risks  and  benefits  of  JYNNEOS  prior  to  vaccination.  Healthcare  providers  should
+determine the medical history of recipients to appropriately decide whether intradermal
+administration  would  be  appropriate  if  it  is  being  considered.  Recipients  should  be
+counseled about possible side effects from vaccination and be provided with a JYNNEOS
+vaccine  information  statement  (VIS)  or  FDA  JYNNEOS  EUA  Fact  Sheet,  as  applicable.
+Side effects after vaccination can vary from person to person. Before vaccination, each
+recipient  should  be  counselled  on  the  possibility  of  experiencing  the  following  side
+effects: Local Side Effects: Systemic Side Effects: Local side effects may be more severe
+with  intradermal  administration  compared  with  subcutaneous  administration.  Side
+effects  may  appear  soon  after  vaccination,  and  some  local  reactions,  such  as
+hyperpigmentation,  may  persist  for  several  weeks  or  months.  One  study  noted  mild
+injection  site  skin  discoloration  lasting  greater  than  six  months  for  some  individuals
+receiving  intradermal  administration.  Recipients  should  be  counseled  that  such
+long-lasting  local  reactions  are  expected  and  may  be  part  of  the  normal  immune
+response to vaccination. Patients should also be counseled that these side effects are
+usually self-limiting and will generally resolve over time. While the presence of local or
+systemic side effects may indicate the development of a robust immune response, the
+absence of such reactions should not be construed as not mounting adequate immune
+protection, as the severity and duration of side effects can vary from person to person.
+Local  and  systemic  reactions  experienced  after  vaccination  may  be  managed
+conservatively. Evidence does not support the use of antipyretics before or at the time
+of  vaccination.  However,  they  can  be  used  for  the  treatment  of  fever  and  local
+discomfort that might occur following vaccination. Topical emollients, cold compresses,
+and  oral  antihistamines  may  be  used  to  treat  local  side  effects  as  needed.  Do  NOT
+apply  topical  corticosteroids  or  antihistamines  to  local  reactions.  Weeping  or  open
+
+wounds should be covered by a sterile gauze or bandage. People who are vaccinated
+should continue to take steps to protect themselves from infection by avoiding close,
+skin-to-skin contact, including intimate contact, with someone who has mpox. JYNNEOS
+is  contraindicated  in  patients  with  severe  allergic  reaction  (e.g.,  anaphylaxis)  after  a
+previous dose, or to a vaccine component. JYNNEOS vaccine contains small amounts of
+gentamicin and ciprofloxacin and is produced using chicken embryo fibroblast cells. See
+package insert [PDF – 11 pages, 301 KB] for a full list of vaccine ingredients. Vaccine
+providers  should  be  familiar  with  identifying  immediate-type  allergic  reactions,
+including anaphylaxis, and be competent in treating these events at the time of vaccine
+administration.  Providers  should  also  have  a  plan  in  place  to  contact  emergency
+medical  services  immediately  in  the  event  of  a  severe  acute  vaccine  reaction.  (ACIP
+Adverse Reactions Guidelines for Immunization). People presenting with minor illnesses,
+such as a cold, may be vaccinated. People who are moderately or severely ill with or
+without  fever  should  usually  wait  until  they  have  recovered  to  their  baseline  state  of
+health  before  routine  vaccination;  waiting  might  not  be  appropriate  if  vaccination  is
+used  for  post  exposure  prophylaxis.  CDC’s  Clinical  Immunization  Safety  Assessment
+(CISA)  Project  is  available  to  provide  consultation  to  U.S.  healthcare  providers  and
+health  departments  about  complex  mpox  vaccine  safety  questions  for  their  patients.
+See Clinical Immunization Safety Assessment (CISA) Project. The Vaccine Adverse Event
+Reporting System (VAERS) is the nation’s early warning system that monitors the safety
+of  vaccines  after  they  are  authorized  or  licensed  for  use  by  the  U.S.  Food  and  Drug
+Administration.  VAERS  accepts  and  analyzes  reports  of  adverse  events  following
+vaccination. The following requirements are stipulated as part of the HHS mpox vaccine
+provider agreement: *Serious adverse events are defined as: On August 9, 2022, FDA
+issued an EUA for JYNNEOS mpox vaccine. It authorizes the vaccine to be administered
+in  one  of  two  ways:  These  are  considered  routes  of  vaccination.  When  submitting  a
+VAERS report, ensure that you document the Route in Section 17 of the VAERS form, by
+
+choosing “intradermal” or “subcutaneous” from the selection menu. For information on
+how to submit a report to VAERS, visit VAERS—Report an Adverse Event (hhs.gov) or
+call 1-800-822-7967.
+
+Source URL: https://www.cdc.gov/poxvirus/mpox/interim-considerations/overview.html

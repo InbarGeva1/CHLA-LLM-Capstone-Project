@@ -1,0 +1,516 @@
+Official websites use .gov A .gov website belongs to an official government organization
+in  the  United  States.  Secure  .gov  websites  use  HTTPS  A  lock  (   )  or  https://  means
+you've  safely  connected  to  the  .gov  website.  Share  sensitive  information  only  on
+official,  secure  websites.  Sarah  Mbaeyi,  MD;  Jonathan  Duffy,  MD,  MPH;  Lucy  A.
+McNamara,  PhD  The  14th  edition  of  the  “Pink  Book”  was  published  August  2021.
+Vaccine-specific recommendations may be outdated. Refer to the Advisory Committee
+on  Immunization  Practices  Vaccine  Recommendations  and  Guidelines  for  the  most
+updated  vaccine-specific  recommendations.  Printer  friendly  version  [18  pages]
+Meningococcal  disease  is  an  acute,  severe  illness  caused  by  the  bacterium  Neisseria
+meningitidis. A leading cause of bacterial meningitis and sepsis in the United States, N.
+meningitidis can also cause pneumonia and focal disease, such as septic arthritis. As of
+August  2020,  five  meningococcal  vaccines  are  licensed  and  available  in  the  United
+States:  three  quadrivalent  (serogroups  A,  C,  W,  and  Y)  conjugate  meningococcal
+vaccines
+ and
+ two
+ recombinant
+ serogroup
+ B
+ vaccines.
+ N.
+ meningitidis,
+ or
+meningococcus,  is  an  aerobic,  gram-negative  bacterium,  closely  related  to  N.
+gonorrhoeae  and  to  several  typically  nonpathogenic  Neisseria  species,  such  as  N.
+lactamica. The outer membrane of N. meningitidis is surrounded by a polysaccharide
+capsule  that  is  important  for  pathogenicity  because  it  helps  the  bacterium  resist
+phagocytosis  and  complement-mediated  lysis.  The  outer  membrane  proteins  and  the
+capsular  polysaccharide  make  up  the  main  surface  antigens  of  the  organism.
+Meningococci  are  classified  into  serogroups  based  on  the  structure  of  the
+polysaccharide  capsule.  Twelve  antigenically  and  chemically  distinct  polysaccharide
+capsules  have  been  described  and  the  polysaccharide  capsule  determines  the
+serogroup labeling. Almost all reported cases of invasive disease worldwide are caused
+by  one  of  six  serogroups:  A,  B,  C,  W,  X,  and  Y.  The  relative  importance  of  each
+serogroup  depends  on  factors  such  as  geographic  location  and  patient  age.  Some
+strains are nongroupable and do not express capsule; these strains are most commonly
+
+associated  with  asymptomatic  nasopharyngeal  carriage  rather  than  invasive  disease.
+Meningococci  are  transmitted  person-to-person  by  respiratory  droplets  or  secretions
+from persons with asymptomatic colonization or meningococcal disease. The bacteria
+attach to and multiply in the mucosal cells of the nasopharynx and oropharynx and, in a
+small proportion (much less than 1%) of persons, penetrate the mucosal cells and enter
+the  bloodstream.  The  bacteria  can  then  spread  through  the  blood  to  cause  systemic
+disease  and  cross  the  blood-brain  barrier  into  the  cerebrospinal  fluid  (CSF)  to  cause
+meningitis. The incubation period of meningococcal disease is typically 3 to 4 days, with
+a  range  of  1  to  10  days.  Meningitis  is  the  most  common  presentation  of  invasive
+meningococcal  disease  and  is  found  in  about  50%  of  cases  in  the  United  States.
+Symptoms are similar to those seen in other forms of bacterial meningitis, and typically
+include sudden onset of fever, headache, and stiff neck, often accompanied by other
+symptoms, such as nausea, vomiting, photophobia (eye sensitivity to light), and altered
+mental  status.  Meningococci  can  be  isolated  from  the  blood  in  up  to  75%  of  persons
+with meningitis. Meningococcal septicemia (bloodstream infection or meningococcemia)
+occurs  without  meningitis  in  about  30%  of  invasive  meningococcal  infections.  This
+condition is characterized by abrupt onset of fever; chills; cold hands and feet; severe
+aches  or  pain  in  the  muscles,  joints,  chest,  or  abdomen;  vomiting;  diarrhea;  and  a
+petechial  or  purpuric  rash,  often  associated  with  hypotension,  shock,  acute  adrenal
+hemorrhage,  and  multiorgan  failure.  An  additional  15%  of  U.S.  cases  present  with
+bacteremic pneumonia; this is the most common presentation in adults over 65 years of
+age.  Other  syndromes  involving  isolation  of  meningococci  from  normally  sterile  body
+sites,  such  as  septic  arthritis,  can  also  occur.  Meningococci  also  occasionally  cause
+noninvasive  infections  such  as  conjunctivitis  or  urethritis.  Noninvasive  illness  due  to
+meningococci is not nationally notifiable and the incidence is unclear. Throughout this
+chapter,  risk  factors  and  demographics  described  apply  only  to  invasive,  reportable
+meningococcal  disease  cases  and  the  term  meningococcal  disease  refers  to  invasive
+
+meningococcal disease. The overall case-fatality ratio of meningococcal disease is 10%
+to  15%,  even  with  appropriate  antibiotic  therapy,  and  can  be  higher  in  persons  with
+meningococcemia.  As  many  as  20%  of  survivors  have  permanent  sequelae,  such  as
+hearing  loss,  neurologic  damage,  or  loss  of  a  limb.  In  the  United  States,  incidence  of
+meningococcal disease is highest among infants younger than age 1 year, followed by
+children age 1 through 4 years. A second peak of disease incidence is found in young
+adults 17 through 21 years of age. Incidence increases again in adults older than 85
+years  of  age.  Risk  factors  for  the  development  of  meningococcal  disease  include
+persistent  complement  component  deficiencies  (including  use  of  a  complement
+component inhibitor, eculizumab [Soliris®] or ravulizumab-cwvz [Ultomiris]), functional
+or  anatomic  asplenia,  HIV  infection,  travel  to  or  residence  in  a  country  where
+meningococcal disease is hyperendemic or epidemic, and exposure during an outbreak
+of  meningococcal  disease.  Microbiologists  who  routinely  work  with  isolates  of  N.
+meningitidis  are  also  at  risk.  In  addition,  household  crowding,  active  and  passive
+smoking,  and  antecedent  viral  upper  respiratory  infection  have  been  associated  with
+meningococcal disease transmission. Meningococcal disease is diagnosed by culture of
+N.  meningitidis  from  a  normally  sterile  site  (e.g.,  blood,  CSF)  or  purpuric  lesions.
+Meningococcal
+ disease
+ may
+ also
+ be
+ diagnosed
+ through
+ detection
+ of
+ N.
+meningitidis-specific  nucleic  acid  in  a  specimen  obtained  from  a  normally  sterile  site
+using a validated polymerase chain reaction (PCR) assay. Although culture remains the
+gold standard for diagnosis of meningococcal disease, PCR is useful for detection of N.
+meningitidis  from  clinical  samples,  particularly  when  a  patient  was  treated  with
+antibiotics  prior  to  specimen  collection.  Identification  of  gram-negative  diplococci
+identified  in  a  sterile  site  specimen  strongly  suggests  N.  meningitidis  but  is  not
+confirmatory.  Once  the  diagnosis  of  meningococcal  disease  has  been  confirmed,  the
+serogroup  should  be  identified  through  slide  agglutination  or  real-time  PCR.
+Laboratories that cannot perform serogrouping should transfer the isolate or specimen
+
+to  a  reference  laboratory,  such  as  their  state  public  health  laboratory.  Several  new
+commercial multiplex PCR assays capable of simultaneously testing a single specimen
+for  an  array  of  pathogens  have  become  available  (e.g.,  FilmArray®  Blood  Culture
+Identification  Panel  and  FilmArray®  Meningitis/Encephalitis  Panel  by  PCR  from  ARUP
+Laboratories). While these assays can rapidly identify N. meningitidis species, most do
+not determine serogroup. Thus, laboratories should continue to perform simultaneous
+culture  and  use  validated,  specific,  real-time  PCR  assays  capable  of  detecting  and
+differentiating meningococcal serogroups. Otherwise, additional steps need to be taken,
+including performing a reflex culture or, at a minimum, retaining a clinical specimen for
+further  testing  at  a  public  health  laboratory.  Molecular  typing  using  whole  genome
+sequencing  (WGS)  can  provide  useful  epidemiologic  information,  particularly  if  an
+outbreak  of  meningococcal  disease  is  suspected.  Serologic  testing  (e.g.,  enzyme
+immunoassay) for antibodies to meningococcal antigens is not validated for clinical use
+in the United States. Serologic testing should not be used to establish the diagnosis of
+meningococcal  disease  or  to  determine  whether  a  patient  should  receive  a
+meningococcal vaccination. Empiric therapy with broad-spectrum antibiotics (including
+a  third-generation  cephalosporin)  should  be  started  promptly  when  meningococcal
+disease  is  suspected,  ideally  after  appropriate  cultures  are  obtained.  Once  N.
+meningitidis infection has been confirmed, treatment may be continued with penicillin,
+ampicillin,  cefotaxime,  or  ceftriaxone.  However,  because  there  have  been  recent
+reports of penicillin-resistant, β-lactamase-producing N. meningitidis serogroup Y cases
+in  the  United  States,  healthcare  providers  should  ascertain  susceptibility  of
+meningococcal isolates to penicillin before using penicillin or ampicillin for treatment. In
+the United States, the primary means for prevention of sporadic meningococcal disease
+is antimicrobial chemoprophylaxis of close contacts of infected persons. Close contacts
+include household members, childcare center contacts, and anyone directly exposed to
+the  patient’s  oral  secretions  (e.g.,  through  kissing,  mouth-to-mouth  resuscitation,
+
+endotracheal intubation, or endotracheal tube management) during the 7 days before
+symptom  onset.  Healthcare  personnel  should  receive  chemoprophylaxis  if  they  were
+managing  an  airway  or  were  exposed  to  respiratory  secretions  of  a  patient  with
+meningococcal  disease.  For  travelers,  antimicrobial  chemoprophylaxis  should  be
+considered for any passenger who had direct contact with respiratory secretions from
+an index patient or for anyone seated directly next to an index patient on a prolonged
+flight (i.e., one lasting more than 8 hours), or within one seat in any direction on a flight
+of any duration if the index patient was coughing or vomiting on the flight. Any case of
+meningococcal disease in a person who has recently traveled should be reported to the
+local  quarantine  station  to  determine  whether  an  air  travel  contact  investigation  is
+indicated.  Chemoprophylaxis  is  not  recommended  for  close  contacts  of  patients  with
+evidence of N. meningitidis only in nonsterile sites (e.g., oropharyngeal, endotracheal,
+conjunctival).   Reports  of  secondary  cases  after  close  contact  with  persons  with
+noninvasive pneumonia or conjunctivitis are rare; there is no evidence of substantive
+excess risk. Furthermore, there is no indication to treat persons who are asymptomatic
+nasopharyngeal  carriers.  Because  the  rate  of  secondary  disease  for  close  contacts  is
+highest  immediately  after  onset  of  disease  in  the  index  patient,  antimicrobial
+chemoprophylaxis  should  be  administered  as  soon  as  possible,  ideally  less  than  24
+hours  after  identification  of  the  index  patient.  Conversely,  chemoprophylaxis
+administered more than 14 days after onset of illness in the index patient is probably of
+limited  or  no  value.  Oropharyngeal  or  nasopharyngeal  cultures  are  not  helpful  in
+determining the need for chemoprophylaxis and might unnecessarily delay institution
+of  this  preventive  measure.  Rifampin,  ciprofloxacin,  and  ceftriaxone  are  90%  to  95%
+effective in reducing nasopharyngeal carriage of N. meningitidis and are all acceptable
+antimicrobial agents for chemoprophylaxis. Because there have been recent reports of
+ciprofloxacin-resistant, β-lactamase-producing N. meningitidis serogroup Y cases in the
+United States, clinicians and public health staff should consider obtaining antimicrobial
+
+susceptibility testing of meningococcal isolates to inform prophylaxis decisions if their
+state has reported a case of meningococcal disease caused by ciprofloxacin-resistant
+strains  within  the  past  2  years.  Clinicians  should  report  suspected  chemoprophylaxis
+failures  to  their  public  health  departments.   Systemic  antimicrobial  therapy  for
+meningococcal  disease  with  agents  other  than  ceftriaxone  or  other  third-generation
+cephalosporins might not reliably eradicate nasopharyngeal carriage of N. meningitidis.
+If  other  agents  have  been  used  for  treatment,  the  patient  should  receive
+chemoprophylactic antibiotics for eradication of nasopharyngeal carriage before being
+discharged from the hospital. Meningococcal disease occurs worldwide. Incidence rates
+vary  by  serogroup  and  geography.  Humans  are  the  only  natural  reservoir  of
+meningococcus.  At  any  given  time,  about  10%  of  adolescents  and  adults  are
+asymptomatic nasopharyngeal carriers of N. meningitidis. Many of these carried strains
+are  nongroupable  (not  encapsulated)  and  unlikely  to  cause  disease  in  most  people.
+Primary  mode  is  by  respiratory  droplet  spread  or  by  direct  contact  with  respiratory
+secretions. Meningococcal disease occurs throughout the year; however, the incidence
+is highest in the late winter and early spring. The communicability of N. meningitidis is
+generally  limited.  In  studies  of  households  in  which  a  case  of  meningococcal  disease
+has occurred, only 3% to 4% of households had secondary cases. Most households had
+only one secondary case. Estimates of the risk of secondary transmission are generally
+2–4 cases per 1,000 household members at risk. However, this risk is 500 to 800 times
+greater  than  in  the  general  population.  Incidence  of  meningococcal  disease  in  the
+United  States  has  declined  annually  following  a  peak  in  the  late  1990s.  In  2018,  329
+total cases were reported in the United States, representing an incidence of 0.10 per
+100,000  population.  Serogroups  B  and  C  are  the  major  causes  of  meningococcal
+disease in the United States, each being responsible for approximately 25% to 40% of
+cases;  serogroups  W  and  Y,  along  with  nongroupable  meningococci,  are  each
+responsible for another 5% to 15%. The proportion of cases caused by each serogroup
+
+varies by age group. Approximately 60% of disease among children and young adults
+under 24 years of age is caused by serogroup B. In particular, among individuals 18 to
+24 years of age, college students have more than three times the risk of serogroup B
+meningococcal  disease  as  similarly  aged  people  not  attending  college.  Meanwhile,
+serogroups C, W, or Y cause about 60% of all cases of meningococcal disease among
+persons  24  years  of  age  and  older.  In  the  United  States,  meningococcal  outbreaks
+account for about 5% of reported cases (i.e., 95% of cases are sporadic). An outbreak is
+defined  as  2–3  outbreak-associated  cases  (e.g.,  cases  of  the  same  serogroup  unless
+found to be genetically unrelated by molecular typing methods) in an organization (e.g.,
+school,  college,  correctional  facility)  during  a  three-month  period,  or  multiple
+outbreak-associated  cases  with  an  incidence  of  meningococcal  disease  that  is  above
+the  expected  incidence  in  a  community  during  a  three-month  period.  During  2010
+through  2018,  multiple  serogroup  B  outbreaks  among  university  students  and
+serogroup  C  outbreaks  among  men  who  have  sex  with  men  were  reported.  Other
+communities and organizations, including populations experiencing homelessness and
+correctional  facilities,  also  experienced  outbreaks  during  this  time.  As  of  2017,
+meningococcal polysaccharide vaccine (Menomune) is no longer available in the United
+States.  Three  quadrivalent  meningococcal  conjugate  vaccines  are  licensed  for  use  in
+the United States: MenACWY-D (Menactra), MenACWY-CRM (Menveo), and MenACWY-TT
+(MenQuadfi).  The  combination  Hib  and  bivalent  meningococcal  conjugate  vaccine,
+Hib-MenCY  (MenHibrix),  is  no  longer  available  in  the  United  States.  Menactra  is
+approved for use in persons age 9 months through 55 years, Menveo is approved for
+use in persons age 2 months through 55 years, and MenQuadfi is approved for use in
+persons  age  2  years  or  older.  Menveo  is  prepared  using  media  containing  yeast
+extracts.  Quadrivalent  meningococcal  conjugate  vaccines  are  administered  by
+intramuscular  injection  and  do  not  contain  an  adjuvant,  antibiotic,  or  preservative,
+although  formaldehyde  is  added  during  the  manufacturing  process.  Two  recombinant
+
+serogroup B meningococcal (MenB) vaccines are licensed for use in the United States:
+MenB-FHbp (Trumenba) and MenB-4C (Bexsero). Trumenba and Bexsero are approved
+for  use  in  persons  age  10  through  25  years  and  are  administered  by  intramuscular
+injection.  Each  dose  of  Trumenba  and  Bexsero  contain  aluminum  as  an  adjuvant.
+Bexsero contains kanamycin as an antibiotic.  Neither Trumenba nor Bexsero contain a
+preservative. The tip caps of prefilled syringes of Bexsero contain latex. The Advisory
+Committee  on  Immunization  Practices  (ACIP)  recommends  routine  vaccination  with
+MenACWY vaccine for all adolescents at age 11 through 18 years, with the first dose at
+age 11 or 12 years and a booster dose at age 16 years. For adolescents who receive
+the  first  dose  at  age  13  through  15  years,  a  one-time  booster  dose  should  be
+administered, preferably at age 16 through 18 years. Healthy persons who receive their
+first routine dose of MenACWY vaccine at or after age 16 years do not need a booster
+dose  unless  they  become  at  increased  risk  for  meningococcal  disease.  Routine
+vaccination of healthy persons who are not at increased risk for meningococcal disease
+is not recommended after age 21 years. ACIP also recommends vaccination for persons
+age 2 months or older at increased risk for meningococcal disease due to serogroups A,
+C, W, or Y. This recommendation includes: Infants and children who received Hib-MenCY
+and are traveling to areas with high endemic rates of meningococcal disease are not
+protected against serogroups A and W and should receive age-appropriate MenACWY
+vaccine. MenQuadfi, but not Menactra or Menveo, is licensed for use in adults age 56
+years or older. However, any of these vaccines can be used to vaccinate people in this
+age  group  who  are  recommended  to  receive  quadrivalent  meningococcal  vaccine
+because of increased risk for meningococcal disease. In children at increased risk for
+meningococcal disease, Menactra should be given either before or at the same time as
+DTaP  to  avoid  interference  with  the  immune  response  to  meningococcal  vaccine.  In
+addition,  because  of  the  high  risk  for  invasive  pneumococcal  disease,  children  with
+functional or anatomic asplenia or HIV infection should not be vaccinated with Menactra
+
+before age 2 years to avoid interference with the immune response to pneumococcal
+conjugate vaccine (PCV13). If Menactra is used in persons of any age with asplenia or
+HIV, it should not be administered until at least 4 weeks after completion of all PCV13
+doses.
+ There
+ are
+ no
+ similar
+ constraints
+ on
+ Menveo
+ or
+ MenQuadfi
+administration.  Booster  vaccination  is  recommended  for  persons  who  remain  at
+increased  risk  of  meningococcal  disease.  If  the  most  recent  dose  was  received  at
+younger than 7 years, a booster dose should be given after 3 years. If the most recent
+dose was received at age 7 years or older, a booster dose should be administered after
+5 years and every 5 years thereafter as long as the person remains at increased risk for
+meningococcal  disease.  Menactra,  Menveo,  or  MenQuadfi  can  be  administered  at  the
+same visit as other indicated vaccines with one exception. In persons with anatomic or
+functional asplenia and/or HIV infection, Menactra and pneumococcal conjugate vaccine
+(PCV13) should not be administered simultaneously. If the liquid C-W-Y component of
+Menveo  is  administered  alone  (without  using  it  to  reconstitute  the  lyophilized  A
+component),  revaccination  may  not  be  needed.  Serogroup  A  disease  is  rare  in  the
+United States, so revaccination is not necessary if the person does not plan to travel
+outside the United States. However, the person should be revaccinated with a properly
+reconstituted dose of Menveo, or a dose of Menactra or MenQuadfi if they are traveling
+internationally, especially if traveling to Africa. There is no minimum interval between
+the  incomplete  dose  given  in  error  and  the  repeat  dose.  ACIP  recommends  MenB
+vaccine for persons 10 years of age or older who are at increased risk of serogroup B
+meningococcal  disease.  This  recommendation  includes  persons  with  persistent
+complement
+ component
+ deficiencies,
+ including
+ persons
+ taking
+ eculizumab
+ or
+ravulizumab;  persons  who  have  anatomic  or  functional  asplenia,  including  sickle  cell
+disease;  microbiologists  who  are  routinely  exposed  to  isolates  of  N.  meningitidis;  or
+anyone  identified  by  public  health  officials  to  be  at  increased  risk  because  of  a
+serogroup  B  meningococcal  disease  outbreak.  In  persons  at  increased  risk  for
+
+serogroup  B  meningococcal  disease,  ACIP  recommends  either  a  2-dose  series  of
+Bexsero at 0 and 1 month (or longer), or a 3-dose series of Trumenba at 0, 1 to 2, and 6
+months. See the table for details on ACIP MenB vaccine recommendations for persons
+at increased risk for meningococcal disease. If the second dose of Bexsero or Trumenba
+dose is given earlier than the recommended interval, then the dose should be repeated
+at  least  4  weeks  after  the  last  dose.  However,  if  the  second  dose  of  Trumenba  is
+administered  at  an  interval  of  6  months  or  more,  a  third  dose  does  not  need  to  be
+administered. If the third dose of Trumenba is administered earlier than 4 months after
+the  second  dose,  the  dose  should  be  repeated  at  least  4  months  after  the  last  dose.
+ACIP also recommends adolescents age 16 through 23 years receive MenB vaccine for
+short-term protection against most strains of serogroup B meningococcal disease based
+on shared clinical decision-making. The preferred age for vaccination is 16 through 18
+years. In healthy adolescents, either a 2-dose series of Bexsero at 0 and 1 month (or
+longer) or a 2-dose series of Trumenba at 0 and 6 months may be used. If the second
+dose  of  Bexsero  is  given  earlier  than  the  recommended  interval,  the  dose  should  be
+repeated  at  least  4  weeks  after  the  last  dose.  If  the  second  dose  of  Trumenba  is
+administered  earlier  than  6  months  after  the  first  dose,  a  third  dose  should  be
+administered at least 4 months after the second dose. Persons who have completed a
+MenB  primary  series  and  who  become  or  remain  at  increased  risk  for  meningococcal
+disease are recommended to receive booster vaccination. For persons 10 years of age
+or  older  with  complement  deficiency,  complement  inhibitor  use,  asplenia,  or  who  are
+microbiologists  routinely  exposed  to  isolates,  ACIP  recommends  a  booster  dose  one
+year following completion of a MenB primary series followed by booster doses every 2
+to 3 years thereafter, for as long as increased risk remains. For persons 10 years of age
+or older determined by public health officials to be at increased risk during a serogroup
+B outbreak, ACIP recommends a one-time booster dose if it has been at least one year
+since completion of the primary series. (A booster interval of at least six months may be
+
+considered  by  public  health  officials  depending  on  the  specific  outbreak,  vaccination
+strategy, and projected duration of elevated risk). Serogroup B meningococcal vaccine
+may  be  administered  simultaneously  or  at  any  interval  with  other  live  or  inactivated
+vaccines, including meningococcal conjugate vaccines. Trumenba and Bexsero are not
+interchangeable. The same serogroup B meningococcal vaccine brand must be used for
+all  doses  of  the  series.  If  doses  of  both  brands  have  been  administered  to  the  same
+patient, the provider should ensure that the patient receives a complete series of either
+brand and ignore any doses of the other brand. The next dose of the selected brand
+should be given no sooner than the recommended interval after the previous dose of
+the same brand AND at least 4 weeks after the last (or only) dose of the other brand.
+ACIP  meningococcal  vaccine  recommendations  for  persons  at  increased  risk  for
+meningococcal disease (age 2 through 23 months) Age  Risk group MenACWY primary
+series MenACWY booster dose MenB vaccine recommendation* MenB booster dose*   or
+Menveo:  *Note  that  MenB-FHbp  and  MenB-4C  are  not  interchangeable;  the  same
+vaccine  should  be  used  for  all  doses,  including  booster  doses.  †Revaccination  with
+meningococcal  conjugate  vaccine  is  recommended  after  3  years  for  children  who
+received  their  last  dose  at  <7  years  of  age.  Revaccination  is  recommended  after  5
+years  for  people  who  received  their  last  dose  at  ≥7  years  of  age,  and  every  5  years
+thereafter for people at continued risk. ACIP meningococcal vaccine recommendations
+for persons at increased risk for meningococcal disease (age 2 through 9 years) Age 
+Risk  group  MenACWY  primary  series  MenACWY  booster  dose  MenB  vaccine
+recommendation* MenB booster dose*   *Note that MenB-FHbp and MenB-4C are not
+interchangeable;  the  same  vaccine  should  be  used  for  all  doses,  including  booster
+doses.  †Menactra  must  be  administered  at  least  4  weeks  after  completion  of  PCV13
+series. §Revaccination with meningococcal conjugate vaccine is recommended after 3
+years  for  children  who  received  their  last  dose  at  <7  years  of  age.  Revaccination  is
+recommended after 5 years for people who received their last dose at ≥7 years of age,
+
+and every 5 years thereafter for people at continued risk. ACIP meningococcal vaccine
+recommendations  for  persons  at  increased  risk  for  meningococcal  disease  (age  10
+years or older) Age  Risk group MenACWY primary series MenACWY booster dose MenB
+vaccine recommendation* MenB booster dose* *Note that MenB-FHbp and MenB-4C are
+not interchangeable; the same vaccine should be used for all doses, including booster
+doses.  †Menactra  must  be  administered  at  least  4  weeks  after  completion  of  PCV13
+series. §Revaccination with meningococcal conjugate vaccine is recommended after 3
+years  for  children  who  received  their  last  dose  at  <7  years  of  age.  Revaccination  is
+recommended after 5 years for people who received their last dose at ≥7 years of age,
+and  every  5  years  thereafter  for  people  at  continued  risk.  In  clinical  trials,  the
+immunogenicity of MenACWY vaccines was assessed as seroconversion rates, defined
+as achieving a seroresponse at a predefined serum bactericidal antibody level for each
+serogroup,  or  the  proportion  of  participants  with  a  fourfold  or  greater  increase  in
+bactericidal  antibody  to  each  serogroup.  An  evaluation  of  MenACWY-D  effectiveness
+(VE)  in  U.S.  adolescents  demonstrated  that  the  overall  effectiveness  is  69%  (51  to
+80%).  Effectiveness  was  77%  (57  to  88%)  for  serogroup  C  and  51%  (1  to  76%)  for
+serogroup Y. Effectiveness waned over time; VE was 79% (49 to 91%) within 1 year of
+vaccination, 69% (44 to 83%) 1 to 2 years after vaccination, and 61% (25 to 79%) 3 to
+8 years after vaccination. These results, along with antibody persistence data showing
+waning  immunity  3  to  5  years  following  a  single  dose,  informed  the  ACIP
+recommendation for a booster dose in adolescents at age 16 years following a primary
+dose at age 11 or 12 years. For both Trumenba and Bexsero, antibody responses were
+measured  by  serum  bactericidal  activity  using  human  complement  against  selected
+meningococcal serogroup B strains. Immunogenicity was assessed as the proportion of
+subjects who achieved a fourfold or greater increase in serum bactericidal activity using
+human  complement  (hSBA)  titer  for  each  of  the  serogroup  B  strains  tested,  and  the
+proportion of subjects who achieved a titer greater than or equal to the lower limit of
+
+quantification of the assay for all strains (composite response). In a multicenter study
+conducted among adolescents age 11 to 17 years in the United States, 81% of subjects
+who  received  Trumenba  and  concomitant  quadrivalent  HPV  vaccine  (4vHPV)  had  a
+composite  response,  and  84%  of  subjects  who  received  Trumenba  with  saline  had  a
+composite  response.  In  a  randomized,  controlled  trial  in  the  United  Kingdom  among
+college students age 18 to 24 years, 88% of recipients of both doses of Bexsero had a
+composite response at one month following the second dose. At 11 months after the
+second dose, 66% of recipients had a composite response. In a randomized, controlled
+trial in Australia and Canada among adolescents age 11 to 17 years, 63% of recipients
+had  a  composite  response  one  month  after  the  second  dose.  *Contraindication  for
+MenACWY  vaccines  As  with  other  vaccines,  a  history  of  a  severe  allergic  reaction
+(anaphylaxis) to a vaccine component or following a prior dose is a contraindication to
+further doses.  Moderate or severe acute illness (with or without fever) in a patient is
+considered  a  precaution  to  vaccination,  although  persons  with  minor  illness  may  be
+vaccinated. Vaccination with MenACWY vaccine is contraindicated for persons who have
+had  a  severe  allergic  reaction  (e.g.,  anaphylaxis)  after  any  the  following:  After
+reviewing  safety  studies,  ACIP  voted  in  2010  to  remove  a  history  of  Guillain-Barré
+syndrome (GBS) as a precaution for vaccination with any MenACWY vaccine including
+Menactra.  However,  a  history  of  GBS  continues  to  be  listed  as  a  precaution  in  the
+package insert for Menactra. For both Bexsero and Trumenba, severe allergic reaction
+(e.g.,  anaphylaxis)  after  a  previous  dose  or  to  any  vaccine  component  is  a
+contraindication for vaccination. Latex sensitivity is listed as a precaution for Bexsero
+because the tip caps of the prefilled syringes contain natural rubber latex. Menveo is
+prepared using media containing yeast extracts. To date, no randomized clinical trials
+have  been  conducted  to  evaluate  use  of  MenACWY  or  MenB  vaccines  in  pregnant  or
+lactating  women.  MenACWY  vaccines  are  recommended  for  lactating  women  if
+otherwise  indicated.  ACIP  recommends  that  Bexsero  or  Trumenba  vaccination  of
+
+pregnant women should be deferred unless the woman is at increased risk and, after
+consultation with her health care provider, the benefits of vaccination are considered to
+outweigh  the  potential  risks.  In  clinical  trials  of  Menactra,  the  most  common
+injection-site reactions were pain (31% to 69%) and erythema (3% to 43%). The most
+common systemic reactions in infants and children were irritability and drowsiness; in
+adolescents and adults the most common were myalgia, headache, and fatigue. Most
+symptoms were mild-to-moderate and resolved within three days. The Vaccine Adverse
+Event  Reporting  System  (VAERS)  received  13,075  reports  for  Menactra  from  2005
+through June 2016, during which time over 70 million Menactra doses were distributed.
+The most commonly reported adverse events were injection site erythema, fever, and
+headache.  Reported  adverse  events  were  consistent  with  the  findings  from
+pre-licensure  studies,  and  no  new  safety  concerns  were  identified.  A  cohort  study  in
+which 1.4 million doses of Menactra were administered found that Menactra vaccination
+was associated with a small risk of syncope and medically-attended fever but identified
+no  new  safety  concerns.  In  clinical  trials  of  Menveo,  the  most  common  injection-site
+reactions  were  pain  (8%  to  54%)  and  erythema  (12%  to  39%).  The  most  common
+systemic  reactions  in  infants  and  toddlers  were  irritability  and  sleepiness.  The  most
+common in children were irritability, myalgia, headache, and sleepiness. In adolescents
+and  adults,  myalgia,  headache,  and  fatigue  were  the  most  common.  Most  symptoms
+were mild-to-moderate and resolved within three days. VAERS received 2,614 reports
+for Menveo from 2010 through 2015, during which time 8.2 million Menveo doses were
+distributed.  The  most  commonly  reported  adverse  events  were  consistent  with  the
+findings  from  pre-licensure  studies,  and  no  new  safety  concerns  were  identified.  In  a
+postlicensure  cohort  study  in  which  approximately  49,000  individuals  aged  11  to  21
+years received Menveo, an increased risk of Bell’s palsy during the 84 days following
+vaccination  was  observed  when  Menveo  was  administered  simultaneously  with  other
+vaccines  but  not  when  Menveo  was  administered  alone.  However,  this  finding  was
+
+based on only eight patients, several of whom had other conditions or infections that
+might precede Bell’s palsy. The importance of this finding is uncertain. In clinical trials
+of MenQuadfi, the most common injection-site reaction after the primary dose in all age
+groups  was  pain  (26%  to  45%).  The  most  common  systemic  reactions  were  myalgia,
+headache,  and  malaise.   Solicited  adverse  reactions  following  a  booster  dose  in
+adolescents  and  adults  were  comparable  to  those  observed  following  primary
+vaccination.  MenQuadfi  was  not  yet  in  use  at  the  time  of  this  publication  and
+postlicensure  vaccine  safety  evaluations  will  be  performed.  In  clinical  trials  of
+Trumenba,  the  most  common  local  reactions  were  injection  site  pain  (72%  to  93%),
+induration  (21%  to  37%),  and  erythema  (10%  to  24%).  The  most  common  systemic
+reactions were headache (27% to 67%), fatigue (30% to 66%), myalgia (21% to 40%),
+and  arthralgia  (11%  to  33%).  Most  symptoms  were  mild-to-moderate  and  resolved
+within five days. VAERS received 1,719 reports for Trumenba from 2014 through June
+2018. The most commonly reported adverse events were fever, headache, and injection
+site pain. Reported adverse events were consistent with the findings from pre-licensure
+studies,  and  no  new  safety  concerns  were  identified.  Adverse  events  following
+Trumenba  were  also  evaluated  during  a  mass  vaccination  campaign  on  a  university
+campus  in  which  over  10,000  doses  were  administered;  rates  of  injection  site  pain,
+fatigue, myalgia, fevers, and chills were similar to those reported during clinical trials.
+In clinical trials of Bexsero, the most common local reactions were injection site pain
+(82% to 98%), erythema (35% to 68%), swelling (26% to 47%), and induration (10% to
+48%).  The  most  common  systemic  reactions  were  headache  (21%  to  65%),  fatigue
+(18%  to  73%),  myalgia  (17%  to  75%),  and  arthralgia  (8%  to  42%).  VAERS  received
+1,470 reports for Bexsero from 2015 through June 2018. The most commonly reported
+adverse  events  were  injection  site  pain,  fever,  and  headache;  transient  decreased
+mobility of the arm where Bexsero was injected was also disproportionately reported.
+Otherwise,  reported  adverse  events  were  consistent  with  the  findings  from
+
+pre-licensure  studies,  and  no  new  safety  concerns  were  identified.  Adverse  events
+following  Bexsero  were  also  evaluated  during  several  mass  vaccination  campaigns  in
+the  United  States  and  Canada.  The  most  commonly  reported  adverse  events  were
+consistent with findings based on clinical trial data (e.g., fever, injection site pain, arm
+pain),  and  0.88  syncopal  events  per  1,000  persons  were  observed  in  the  U.S.
+evaluation.  MenACWY  (Menactra,  Menveo  and  MenQuadfi)  and  MenB  (Bexsero  and
+Trumenba)  should  be  maintained  at  refrigerator  temperature  between  2°C  and  8°C
+(36°F and 46°F).  Whenever possible, the lyophilized and liquid components of Menveo
+should be stored together. The MenA (lyophilized) component of Menveo should only be
+reconstituted using the liquid C-W-Y component of Menveo. No other vaccine or diluent
+can  be  used  for  this  purpose.  The  reconstituted  vaccine  should  be  used  immediately
+but  may  be  held  at  or  below  25°C  (77°F)  for  up  to  8  hours.  Manufacturer  package
+inserts  contain  additional  information.  For  complete  information  on  storage  and
+handling best practices and recommendations, please refer to CDC’s Vaccine Storage
+and Handling Toolkit [65 pages]. Meningococcal disease is a reportable condition in all
+states.  Healthcare  personnel  should  immediately  report  any  case  of  invasive
+meningococcal disease to local and state health departments. This is essential so that
+antimicrobial  chemoprophylaxis  can  be  rapidly  administered  to  close  contacts  of  the
+case.  For  guidance  for  state  and  local  health  department  staff  who  are  involved  in
+surveillance activities for vaccine-preventable diseases, please consult the Manual for
+the  Surveillance  of  Vaccine-Preventable  Diseases.  The  editors  wish  to  acknowledge
+Jennifer  Hamborsky,  Susan  Hariri,  and  Andrew  Kroger  for  their  contributions  to  this
+chapter. CDC. Guidance for the Evaluation and Public Health Management of Suspected
+Outbreaks  of  Meningococcal  Disease  [16  pages].  Version  2.0.  2019.   Accessed
+September 1, 2020. CDC.  Meningococcal Disease – Surveillance. Accessed September
+13,  2020.  CDC.  Meningococcal  Vaccination:  Recommendations  of  the  Advisory
+Committee  on  Immunization  Practices,  United  States,  2020.  MMWR  2020;69(9):1–41.
+
+CDC.  Recommendations  for  Use  of  Meningococcal  Conjugtae  Vaccines  in  HIV-Infected
+Persons—Advisory  Committee  on  Immunization  Practices,  2016.  MMWR  Morb  Mortal
+Wkly Rep 2016;65(43):1189-94. CDC. Updated Recommendations for Use of MenB-FHbp
+Serogroup  B  Meningococcal  Vaccine—Advisory  Committee  on  Immunization  Practices,
+2016.  MMWR  Morb  Mortal  Wkly  Rep  2017;66(19):509-13.  CDC.  Use  of  Serogroup  B
+Meningococcal  Vaccines  in  Adolescents  and  Young  Adults:  Recommendations  of  the
+Advisory  Committee  on  Immunization  Practices,  2015.  MMWR  Morb  Mortal  Wkly  Rep
+2015;64:1171–6.  CDC.  Use  of  Serogroup  B  Meningococcal  Vaccines  in  Persons  Aged
+≥10 Years at Increased Risk for Serogroup B Meningococcal Disease: Recommendations
+of the Advisory Committee on Immunization Practices, 2015. MMWR Morb Mortal Wkly
+Rep  2015;64(22):608–12.  Harrison  L,  Granoff  D,  Pollard  A.  Meningococcal  Capsular
+Group  A,  C,  W,  and  Y  Conjugate  Vaccines.   In:  Plotkin  S,  Orenstein  W,  Offit  P,  eds.
+Plotkin’s  Vaccines.  7th  ed.  Elsevier;  2018:619–43.  Granoff  D,  Pollard  A,  Harrison  L.
+Meningococcal Capsular Group B Vaccines. In: Plotkin SA, Orenstein WA, Offit PA, eds.
+Plotkin’s  Vaccines.  7th  ed.  Elsevier;  2018:644–62.  McNamara  L,  Blain.  Meningococcal
+Disease.  In:  Roush  S,  Baldy  L,  Kirkconnell  Hall  M,  eds.  Manual  for  the  Surveillance  of
+Vaccine-Preventable  Diseases.  Page  last  reviewed  December  2019.  Accessed
+September
+ 1,
+ 2020.
+ McNamara
+ L,
+ Potts
+ C,
+ Blain
+ A,
+ et
+ al.
+ Detection
+ of
+Ciprofloxacin-Resistant,  β-Lactamase–Producing  Neisseria  meningitidis  Serogroup  Y
+Isolates — United States, 2019–2020. MMWR 2020;69(24):735–9.
+
+Source URL: https://www.cdc.gov/vaccines/pubs/pinkbook/mening.html

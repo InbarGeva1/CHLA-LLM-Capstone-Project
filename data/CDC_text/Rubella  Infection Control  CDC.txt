@@ -1,0 +1,82 @@
+A .gov website belongs to an official government organization in the United States. A
+lock (  ) or https:// means you've safely connected to the .gov website. Share sensitive
+information  only  on  official,  secure  websites.  Rubella  from  the  Infection  Control  in
+Healthcare  Personnel:  Epidemiology  and  Control  of  Selected  Infections  Transmitted
+Among  Healthcare  Personnel  and  Patients  (2024)  guideline.  Recommendations  For
+recommendations  about  healthcare  personnel  who  are  pregnant  or  intending  to
+become  pregnant,  please  see  the  Pregnant  HCP  section.  Rubella  (German  Measles,
+Three-Day  Measles)  is  a  viral  rash  illness  that  is  typically  mild,  but  that  can  lead  to
+complications  and  death1.  Although  endemic  in  many  countries  in  the  world,  rubella
+was  declared  eliminated  in  the  US  in  2004.2  The  US  elimination  of  rubella  was
+reconfirmed  in  2011,  and  maintenance  of  elimination  was  reported  in  2014.34  No
+documented  transmission  of  rubella  to  healthcare  personnel  (HCP)  or  others  in  US
+healthcare  facilities  has  occurred  since  elimination  was  declared;  however,  imported
+cases of rubella and congenital rubella syndrome (CRS) have been reported, and HCP
+exposures  have  occurred.5  Rubella  transmission  in  US  medical  settings  was
+documented extensively in the decades before elimination, with serious consequences,
+including  pregnancy  terminations,  disruption  of  hospital  routine,  absenteeism  from
+work,  and  expensive  containment  measures.67891011121314151617  Prevention  of
+transmission of the rubella virus in healthcare settings involves (a) ensuring healthcare
+personnel  have  presumptive  evidence  of  immunity18;  (b)  using  infection  prevention
+and
+ control
+ practices
+ as
+ recommended
+ by
+ CDC
+(https://www.cdc.gov/infectioncontrol/guidelines/isolation/appendix/type-durationprecau
+tions.html#R)19;  and  (c)  excluding  potentially  infectious  HCP  from  work.220
+Recommendations  for  rubella  vaccination  of  HCP  are  maintained  by  CDC  and  ACIP
+(https://www.cdc.gov/vaccines/hcp/acip-recs/vaccspecific/mmr.html).21 Transmission of
+rubella  occurs  through  deposition  of  respiratory,  oral,  or  nasal  secretions  from  an
+infected source person on the mucus membranes of a susceptible host. An exposure to
+
+rubella  is  generally  defined  as  being  within  close  proximity  of  an  infectious  source
+person  (e.g.,  within  approximately  6  feet  of  the  patient)  while  unprotected  (i.e.,  not
+wearing  recommended  personal  protective  equipment)  or  having  mucous  membrane
+contact with their secretions.2 The risk of virus transmission may increase depending
+on  a  number  of  factors  (e.g.,  decreased  room  ventilation,  increased  exposure  time,
+closer  proximity  to  an  infectious  source  person).  Rubella  is  characterized  by  a  mild,
+maculopapular rash; lymphadenopathy; and fever.1 The rash occurs in 50% to 80% of
+infected people and usually starts on the face, becomes generalized within 24 hours,
+and lasts a median of 3 days.1 Many rubella infections are not recognized because the
+rash resembles other rash illnesses.1 When rubella infection occurs during pregnancy,
+especially during the first trimester, congenital infection and serious consequences can
+result,  including  miscarriages,  stillbirths  and  fetal  deaths,  and  severe  birth  defects.2
+Additional complications of rubella include arthralgia or arthritis, which may occur in up
+to  70%  of  adult  women  with  rubella,  and  rarely  thrombocytopenic  purpura  and
+encephalitis.1 The average incubation period of rubella virus is 17 days, with a range of
+12 to 23 days.1 Persons with rubella are most infectious when the rash is erupting, but
+they  can  shed  virus  from  7  days  before  to  7  days  after  rash  onset.12  Certain
+populations  infected  with  rubella,  such  as  infants  with  Congenital  Rubella  Syndrome,
+may excrete virus for prolonged periods, which may extend their infectious period.522
+Approximately 25% - 50% of rubella infections are asymptomatic.1 Clinical diagnosis of
+rubella  is  unreliable;  therefore,  cases  are  laboratory  confirmed.2  Options  for  rubella
+testing include detection of the virus by Polymerase Chain Reaction (PCR), the presence
+of rubella-specific IgM antibody, or demonstration of a significant rise in IgG antibody
+from  paired  acute-  and  convalescent-phase  sera.22  Virus  detection  and  serologic
+testing  can  be  used  to  confirm  acute  or  recent  rubella  infection.2  Information  on
+laboratory
+ testing
+ for
+ rubella
+ is
+ available
+ on
+ the
+ CDC
+ website
+(https://www.cdc.gov/rubella/lab/index.html).23  No  evidence  exists  that  postexposure
+
+vaccination  is  effective  in  preventing  rubella  infection622.  and  PEP  after  exposure  to
+rubella  is  not  typically  offered.  Due  to  the  lack  of  evidence,  even  if  HCP  receive
+postexposure  vaccination,  they  are  still  excluded  from  work  as  is  recommended  for
+those without presumptive evidence of immunity to rubella.  CDC provides information
+on  infection  control  and  clinical  safety  to  help  reduce  the  risk  of  infections  among
+healthcare workers, patients, and visitors. Languages Language Assistance Languages 
+Language Assistance 
+
+Source
+ URL:
+https://www.cdc.gov/infection-control/hcp/healthcare-personnel-epidemiology-control/rubella.html

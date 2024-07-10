@@ -1,0 +1,167 @@
+A .gov website belongs to an official government organization in the United States. A
+lock (  ) or https:// means you've safely connected to the .gov website. Share sensitive
+information only on official, secure websites. 
+Related Topics:
+ Best practices for cleaning supplies and equipment in global healthcare settings.  The
+selection  and  appropriate  use  of  supplies  and  equipment  is  critical  for  effective
+environmental  cleaning.  This  chapter  provides  overall  best  practices  for  selection,
+preparation,  and  care  of  environmental  cleaning  supplies  and  cleaning  equipment,
+including:  These  are  the  best  practices  for  environmental  cleaning  products  (e.g.,
+detergents,  disinfectants):  Cleaning  products  include  liquid  soap,  enzymatic  cleaners,
+and  detergents.  They  remove  organic  material  (e.g.,  dirt,  body  fluids)  and  suspend
+grease  or  oil.  This  is  done  by  combining  the  cleaning  product  with  water  and  using
+mechanical  action  (i.e.,  scrubbing  and  friction).  For  most  environmental  cleaning
+procedures, select neutral detergents (pH between 6 and 8) that are easily soluble (in
+warm and cold water). There are also specialized cleaning products, which may provide
+advantages  for  specific  areas  or  materials  within  the  healthcare  facility  (e.g.,
+bathroom/toilet cleaners, floor polishers, glass cleaners). However, consider specialized
+products  on  a  case-by-case  basis,  weighing  the  advantages  and  disadvantages  (e.g.,
+additional cost) and ability of the facility to ensure the correct storage, preparation, and
+use.  Disinfectants  are  only  for  disinfecting  after  cleaning  and  are  not  substitutes  for
+cleaning,  unless  they  are  a  combined  detergent-disinfectant  product.  See  3.1.3.
+Combined  detergent-disinfectants.  Before  disinfecting,  use  a  cleaning  product  to
+remove  all  organic  material  and  soil.  Low-level  disinfection  is  generally  adequate  for
+environmental
+ cleaning
+ procedures,
+ but
+ there
+ are
+ specific
+ cases
+ where
+intermediate-level  disinfection  with  sporicidal  properties  (e.g.,  C.  difficile)  is  required.
+
+See
+ 4.6.8
+ Transmission-based
+ precaution/Isolation
+ wards.
+ Common
+ low-
+ and
+intermediate-level  disinfectants  that  can  be  used  for  environmental  surfaces  in
+healthcare  settings  include:  Table  4  (below)  shows  the  main  advantages  and
+disadvantages  of  each  of  these  disinfectants.  In  practice,  the  advantages  and
+disadvantages  of  each  product  will  have  to  be  weighed  with  other  factors,  including
+availability  and  cost.  Do  not  use  these  products  for  disinfection  of  environmental
+surfaces  and  noncritical  patient  care  equipment:  Quaternary  ammonium  compounds
+such as:  Wide material compatibility: Detergent properties, with good cleaning ability
+Low cost Narrow microbiocidal spectrum: Affected by environmental factors:  Alcohols
+(60-80%)  such  as:   Rapid  action  Nontoxic  Non-staining,  no  residue  Noncorrosive  Low
+cost Good for disinfecting small equipment or devices that can be immersed Does not
+remain  wet.  Affected  by  environmental  factors:  Material  compatibility:  Flammable   
+Chlorine  releasing  agents  such  as:   Rapid  action  Nonflammable  Low  cost  Widely
+available  Can  reduce  biofilms  High  toxicity:  Material  compatibility:  Leaves  residue,
+requires  rinsing  or  neutralization.  Offensive  odors  Poor  stability:   Improved  hydrogen
+peroxide  such  as:   Nontoxic  Detergent  properties,  with  good  cleaning  ability  Not
+affected by environmental factors Safe for environment Can reduce biofilms High cost
+Combined (one-step) detergent-disinfectant products can generally be used in place of
+a two-step (separate detergent and disinfectant product) process when disinfection is
+indicated  for  specific  environmental  cleaning  procedures.  See  4.  Environmental
+Cleaning Procedures. Do not use a combined (one-step) detergent-disinfectant product
+(instead  use  a  two-step  process)  when  performing  environmental  cleaning  for:  When
+using a combined product for environmental cleaning, it is recommended to periodically
+(i.e.,  on  a  scheduled  basis)  use  a  rinse  step  to  remove  residues  from  surfaces.
+Additionally, care should be taken to ensure that the combined product stays wetted on
+the surface for the required contact time (to complete the disinfection process). Consult
+the product label to get the correct contact time. Environmental cleaning products are
+
+often  sold  as  concentrated  formulas  that  are  diluted  (i.e.,  combined  with  water)  to
+make a solution. If feasible, it is highly recommended to: Solutions are generally batch
+prepared in large containers, which are then transferred to smaller, portable containers
+(e.g., bottles, buckets) for daily cleaning procedures. See 3.3 Supplies and equipment
+for  environmental  cleaning.  Solutions  can  also  be  prepared  directly  into  buckets  for
+environmental cleaning of floors if a standard-sized bucket is available. All containers
+used for storing solutions of environmental cleaning products should: Do not use these
+cleaning  supplies  and  equipment  for  disinfection  of  environmental  surfaces  and
+noncritical patient care equipment: In general, all the essential environmental cleaning
+supplies and equipment are reusable, but facilities can also choose to use disposable
+supplies  (e.g.,  cloths)  for  certain  cleaning  tasks  or  where  resources  allow.  Cleaning
+equipment should be: Consider purchasing supplemental supplies and equipment such
+as toilet brushes or abrasive pads for cleaning certain surfaces or areas. Some facilities
+might  also  have  access  to  more  sophisticated  equipment  such  as  floor  scrubbers  or
+vacuum  cleaners  with  high-efficiency  particulate  air  (HEPA)  filters.  If  the  use  of  HEPA
+filters  is  part  of  the  facility  policy,  provide  an  SOP  on  its  cleaning  and  maintenance.
+Portable containers for environmental cleaning products (or solutions) should be clean,
+dry, appropriately-sized, labelled, and dated. Surface cleaning cloths should be cotton
+or  microfiber  (disposable  wipes  can  be  used  if  resources  allow).  Have  a  supply  of
+different colored cloths to allow color-coding: for example, one color for cleaning and a
+second color for disinfecting. Color-coding also prevents cross-contamination between
+areas, like from toilets to patient areas, or isolation areas to general patient areas. For
+example, red cloths could be used specifically for toilet areas, blue for general patient
+areas,  and  yellow  for  isolation  areas.  Mop  heads  or  floor  cloths  should  be  cotton  or
+microfiber. Microfiber cloths are often preferred over cotton for both cleaning cloths and
+mop  heads  because  microfiber  absorb  more  dirt  and  microorganisms  than  cotton.
+However,  microfiber  cloths  can  be  damaged  by  high  pH  and  therefore  are  not
+
+compatible with all disinfectant products (especially chlorine-based). They need to be
+laundered  separately  from  cotton  cloths/linens,  which  could  be  expensive.  Prepared
+(ready-to-use)  wipes  that  are  saturated  with  an  appropriate  disinfectant  or
+detergent-disinfectant  product  can  be  used  as  an  alternative  to  cotton  or  microfiber
+cleaning cloths. Take care to evaluate the appropriateness of the product, considering
+the  recommended  properties.  It  is  also  important  to  ensure  that  they  are  stored
+appropriately with the lid closed so the wipes remain wet. Discard wipes if they are no
+longer saturated. Follow manufacturer's instructions for storing wipes and reprocessing
+containers,  as  well  as  instructions  for  use  (e.g.,  recommended  contact  times).  Daily
+preparation  of  supplies  and  equipment  for  a  given  cleaning  staff  member  or  location
+will depend on local factors, including the size of patient care areas and number and
+type  of  patient  zones  to  be  cleaned.  Portable  containers  of  environmental  cleaning
+products (or solutions) and cleaning cloths can be carried directly on the cleaning cart
+or on a caddie kit, if a full cleaning cart is not available. The cart should have enough
+cleaning cloths to complete the required cleaning session, with a clean cloth for each
+patient  zone  to  prevent  cross-contamination.  Keep  clean  and  soiled  cloths  separate.
+Place  clean  clothes  in  one  container  or  section  of  the  caddie  and  soiled  cloths  in
+another. It is best practice to use a two- or three-bucket system for mopping. This can
+be facilitated on the cleaning cart or on a separate trolley if a full cleaning cart is not
+available. The rinse water bucket allows the mop to be rinsed and wrung out before it is
+re-dipped  into  the  prepared  solution.  This  extends  the  life  of  the  solution  (i.e.,  fewer
+changes are required), which saves both time and material costs. Appropriate PPE for
+the cleaning staff for all environmental cleaning procedures should always be available
+and  used  appropriately  to  reduce  risk  to  both  patients  and  staff.  PPE  is  required  to
+prevent:  The  PPE  required  should  be  visibly  marked  or  verbally  communicated  to
+cleaning  staff  by  IPC  staff  by  cleaning  supervisors  before  starting  every  cleaning
+session.  IPC staff should  either visibly  mark or verbally  communicate required  PPE  to
+
+staff
+ or
+ cleaning
+ supervisors
+ before
+ starting
+ every
+ cleaning
+ session.
+ Use
+chemical-resistant  gloves  (e.g.,  nitrile,  latex)  for  preparation  of  cleaning  chemicals.
+Reusable rubber gloves Face mask with either goggles or face shield (if splash risk or
+large  spill)  Reusable  rubber  gloves  Face  mask  with  either  goggles  or  face  shield  (if
+splash  risk  or  large  spill)  Reusable  rubber  gloves  Reusable  rubber  gloves  If  SDS  not
+available,  then:  Environmental  cleaning  supplies  and  equipment  quickly  become
+contaminated during their use. Regularly reprocess all reusable items (i.e., thoroughly
+clean,  disinfect,  and  dry).  If  manufacturer's  instructions  are  not  available,  use  this
+general process to manually reprocess reusable supplies, equipment, and PPE: Do not
+use chlorine-based disinfectants to disinfect microfiber cloths. Use laundry services with
+hot water (70–80°C x 10 min) [158–176°F] to reprocess cloths and mop heads if they
+are available. Similarly, a commercial dryer can be used for these items if available (if
+not, these items are reprocessed as above). Always launder mop heads and cleaning
+cloths  separately  from  other  soiled  hospital  textiles.  All  reusable  supplies  and
+equipment should be well maintained, clean, and in good repair. Regularly inspect and
+replace  or  repair  all  reusable  equipment  when  needed.  Develop  a  facility  monitoring
+and  maintenance  schedule  that  clearly  documents  reusable  supplies  and  equipment,
+frequency  of  inspection,  and  responsible  staff.  Certain  equipment,  such  as  floor
+polishers,  might  require  maintenance  checks  by  qualified  people  according  to  the
+manufacturer's instructions. Keep a service record and make it available for inspection
+by  the  cleaning  program  manager  and  the  IPC  Team.  Designate  at  least  one
+environmental  cleaning  services  area  within  the  facility  for  preparation,  storage,  and
+reprocessing of reusable cleaning equipment and supplies. This area should not be used
+for any other purposes. For multistory facilities, it is best practice to have one of these
+areas on each floor. The designated environmental cleaning services area should: HAIs
+are  associated  with  medical  devices,  complications  following  surgery,  transmission
+between  patients  and  healthcare  workers,  antibiotic  overuse,  and  more.  Languages
+
+Language Assistance Languages  Language Assistance 
+
+Source
+ URL:
+https://www.cdc.gov/healthcare-associated-infections/hcp/cleaning-global/supplies-and-equipment.html

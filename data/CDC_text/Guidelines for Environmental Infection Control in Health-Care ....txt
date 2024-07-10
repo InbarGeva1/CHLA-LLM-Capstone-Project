@@ -1,0 +1,429 @@
+Please note: 
+An 
+      erratum has been published for this article. To view the erratum, please 
+      click  here.  Persons  using  assistive  technology  might  not  be  able  to  fully  access
+information  in  this  file.  For  assistance,  please  send  e-mail  to:  mmwrq@cdc.gov.  Type
+508 Accommodation and the title of the report in the subject line of e-mail. Prepared by
+      Lynne Sehulster, Ph.D.1 
+      Raymond Y.W. Chinn, M.D.2 
+1Division of Healthcare Quality Promotion 
+      National Center for Infectious Diseases 
+2HICPAC member 
+      Sharp Memorial Hospital 
+      San Diego, California
+ The  material  in  this  report  originated  in  the  National  Center  for  Infectious  Diseases,
+James  M.  Hughes,  M.D.,  Director;  and  the  Division  of  Healthcare  Quality  Promotion,
+Steven L. Solomon, M.D., Acting Director.
+Summary
+ The  health-care  facility  environment  is  rarely  implicated  in  disease  transmission,
+except among patients who 
+are  immunocompromised.  Nonetheless,  inadvertent  exposures  to  environmental
+
+pathogens (e.g., 
+Aspergillus spp. and Legionella spp.) or airborne pathogens (e.g., 
+Mycobacterium tuberculosis and varicella-zoster virus) can result in adverse 
+patient  outcomes  and  cause  illness  among  health-care  workers.  Environmental
+infection-control  strategies  and  engineering  controls  can  effectively  prevent  these
+infections.  The  incidence  of  health-care--associated  infections  and  pseudo-outbreaks
+can be minimized by 1) appropriate use of cleaners and disinfectants; 2) appropriate
+maintenance of medical equipment (e.g., 
+automated  endoscope  reprocessors  or  hydrotherapy  equipment);  3)  adherence  to
+water-quality  standards  for  hemodialysis,  and  to  ventilation  standards  for  specialized
+care environments (e.g., airborne infection isolation rooms, protective environments, or
+operating  rooms);  and  4)  prompt  management  of  water  intrusion  into  the  facility.
+Routine environmental sampling is not 
+usually advised, except for water quality determinations in hemodialysis settings and
+other situations where sampling is directed by epidemiologic principles, and results can
+be applied directly to infection-control decisions.
+ This
+ report
+ reviews
+ previous
+ guidelines
+ and
+ strategies
+ for
+ preventing
+environment-associated infections in health-care facilities and offers recommendations.
+These  include  1)  evidence-based  recommendations  supported  by  studies;  2)
+requirements  of  federal  agencies  (e.g.,  Food  and  Drug  Administration,  U.S.
+Environmental Protection Agency, U.S. Department of 
+Labor, Occupational Safety and Health Administration, and U.S. Department of Justice);
+3) guidelines and standards from 
+building  and  equipment  professional  organizations  (e.g.,  American  Institute  of
+
+Architects, Association for the Advancement of 
+Medical  Instrumentation,  and  American  Society  of  Heating,  Refrigeration,  and
+Air-Conditioning Engineers); 4) 
+recommendations  derived  from  scientific  theory  or  rationale;  and  5)  experienced
+opinions  based  upon  infection-control  and  engineering  practices.  The  report  also
+suggests  a  series  of  performance  measurements  as  a  means  to  evaluate
+infection-control efforts.
+Introduction
+Parameters of the Report
+ This  report,  which  contains  the  complete  list  of  recommendations  with  pertinent
+references,  is  Part  II  of  Guidelines  for  Environmental  Infection  Control  in  Health-Care
+Facilities. 
+The full four-part guidelines will be available on CDC's Division 
+of Healthcare Quality Promotion (DHQP) website. Relative to previous CDC guidelines,
+this report
+ In the full guidelines, Part I, Background Information: Environmental Infection Control in
+Health-Care Facilities, provides 
+a  comprehensive  review  of  the  relevant  scientific  literature.  Attention  is  given  to
+engineering and infection-control 
+concerns  during  construction,  demolition,  renovation,  and  repair  of  health-care
+facilities. Use of an infection-control risk assessment is strongly supported before the
+start of these or any other activities expected to generate dust or water aerosols. Also
+
+reviewed 
+in Part I are infection-control measures used to recover from catastrophic events (e.g.,
+flooding, sewage spills, loss of electricity and ventilation, or disruption of water supply)
+and the limited effects of environmental surfaces, laundry, plants, 
+animals,  medical  wastes,  cloth  furnishings,  and  carpeting  on  disease  transmission  in
+health-care facilities. Part III and Part IV of the full guidelines provide references (for the
+complete guideline) and appendices, respectively.
+ Part  II  (this  report)  contains  recommendations  for  environmental  infection  control  in
+health-care facilities, 
+describing  control  measures  for  preventing  infections  associated  with  air,  water,  or
+other  elements  of  the  environment.  These  recommendations  represent  the  views  of
+different  divisions  within  CDC's  National  Center  for  Infectious  Diseases  and  the
+Healthcare  Infection  Control  Practices  Advisory  Committee  (HICPAC),  a  12-member
+group that advises CDC on 
+concerns related to the surveillance, prevention, and control of health-care--associated
+infections,  primarily  in  U.S.  health-care  facilities.  In  1999,  HICPAC's  infection-control
+focus was expanded from acute-care hospitals to all venues where health care is 
+provided  (e.g.,  outpatient  surgical  centers,  urgent  care  centers,  clinics,  outpatient
+dialysis centers, physicians' offices, and skilled nursing facilities). The topics addressed
+in this report are applicable to the majority of health-care facilities in the United States.
+This
+ report
+ is
+ intended
+ for
+ use
+ primarily
+ by
+ infection-control
+ practitioners,
+epidemiologists, employee health and safety 
+personnel,
+ engineers,
+ facility
+ managers,
+ information
+ systems
+ professionals,
+administrators,
+ environmental
+ service
+ professionals,
+ and
+ architects.
+ Key
+
+recommendations include
+ Topics outside the scope of this report include 1) noninfectious adverse events (e.g.,
+sick building syndrome), 
+2)  environmental  concerns  in  the  home,  3)  home  health  care,  4)  terrorism,  and  5)
+health-care--associated foodborne illness.  Wherever possible, the recommendations in
+this report are based on data from well-designed scientific studies. 
+However,  certain  of  these  studies  were  conducted  by  using  narrowly  defined  patient
+populations  or  specific  health-care  settings  (e.g.,  hospitals  versus  long-term  care
+facilities), making generalization of findings potentially problematic. Construction 
+standards  for  hospitals  or  other  health-care  facilities  may  not  apply  to  residential
+home-care units. Similarly, infection-control measures indicated for immunosuppressed
+patient  care  are  usually  not  necessary  in  those  facilities  where  such  patients  are  not
+present. 
+ Other recommendations were derived from knowledge gained during infectious disease
+investigations in 
+health-care facilities, where successful termination of the outbreak was often the result
+of multiple interventions, the majority of which cannot be independently and rigorously
+evaluated.  This  is  especially  true  for  construction  situations  involving  air  or  water.  
+Other  recommendations  were  derived  from  empiric  engineering  concepts  and  may
+reflect industry standards rather 
+than evidence-based conclusions. Where recommendations refer to guidance from the
+American Institute of Architects (AIA), 
+the statements reflect standards intended for new construction or renovation. Existing
+structures  and  engineered  systems  are  expected  to  be  in  continued  compliance  with
+those standards in effect at the time of construction or renovation. 
+
+ Also,
+ in
+ the
+ absence
+ of
+ scientific
+ confirmation,
+ certain
+ infection-control
+recommendations that cannot be 
+rigorously evaluated are based on strong theoretic rationale and suggestive evidence.
+Finally, certain recommendations are derived from existing federal regulations. 
+Performance Measurements
+ Infections caused by the microorganisms described in this guideline are rare events,
+and the effect of these 
+recommendations  on  infection  rates  in  a  facility  may  not  be  readily  measurable.
+Therefore, the following steps to measure performance are suggested to evaluate these
+recommendations:
+ Contributors to this report reviewed primarily English-language manuscripts identified
+from reference searches using 
+the  National  Library  of  Medicine's  MEDLINE,  bibliographies  of  published  articles,  and
+infection-control textbooks. All 
+the recommendations may not reflect the opinions of all reviewers. This report updates
+the following published guidelines and recommendations:
+ CDC.  Guideline  for  handwashing  and  hospital  environmental  control.  MMWR
+1998;37(No. 24). Replaces sections 
+on microbiologic sampling, laundry, infective waste, and housekeeping.
+ Tablan OC, Anderson LJ, Arden NH, et al., Hospital Infection Control Practices Advisory
+Committee. Guideline 
+for
+ prevention
+ of
+ nosocomial
+ pneumonia.
+ Infect
+ Control
+ Hosp
+ Epidemiol
+1994;15:587--627. Updates and 
+
+expands environmental infection-control information for aspergillosis and Legionnaires 
+disease; online version incorporates Appendices B, C, and D addressing environmental
+control  and  detection  of  Legionella  spp.   CDC.  Guidelines  for  preventing  the
+transmission of 
+mycobacterium tuberculosis in health-care facilities. 
+MMWR 1994;43(No. RR13). Provides supplemental information on engineering controls.
+ CDC.  Recommendations  for  preventing  the  spread  of  vancomycin  resistance:
+recommendations  of  the  Hospital  Infection  Control  Practices  Advisory  Committee
+(HICPAC).  MMWR  1995;44(No.  RR12).  Supplements  environmental  infection-control
+information  from  the  section,  Hospitals  with  Endemic  VRE  or  Continued  VRE
+Transmission. 
+ Garner  JS,  Hospital  Infection  Control  Practices  Advisory  Committee.  Guideline  for
+isolation  precautions  in  hospitals.  Infect  Control  Hosp  Epidemiol  1996;17:53--80.
+Supplements  and  updates  topics  in  Part  II  ---  Recommendations  for  Isolation
+Precautions  in  Hospitals  (linen  and  laundry,  routine  and  terminal  cleaning,  airborne
+precautions).
+ Mangram  AJ,  Horan  TC,  Pearson  ML,  Silver  LC,  Jarvis  WR,  Hospital  Infection  Control
+Practices Advisory 
+Committee.  Guideline  for  prevention  of  surgical  site  infection.  Infect  Control  Hosp
+Epidemiol
+ 1999;4:250--78.
+ Updates
+ operating
+ room
+ ventilation
+ and
+ surface
+cleaning/disinfection  recommendations  from  the  section,  Intraoperative  Issues:
+Operating 
+Room Environment.
+ U.S.  Public  Health  Service,  Infectious  Diseases  Society  of  America,  Prevention  of
+Opportunistic Infections Working 
+
+Group. USPHS/IDSA guidelines for the prevention of opportunistic infections in persons
+infected with human 
+immunodeficiency  virus.  Infect  Dis  Obstet  Gynecol  2002;  10:3--64.  Supplements
+information regarding patient interaction with pets and animals in the home.
+ CDC,  Infectious  Diseases  Society  of  America,  American  Society  of  Blood  and  Marrow
+Transplantation. Guidelines 
+for  preventing  opportunistic  infections  among  hematopoietic  stem  cell  transplant
+recipients. Cytotherapy 
+2001;3:41--54. Supplements and updates the section, Hospital Infection Control.
+Key Terms
+ Airborne  infection  isolation  (AII)   refers  to  the  isolation  of  patients  infected  with
+organisms spread via airborne 
+droplet  nuclei  <5  µm  in  diameter.  This  isolation  area  receives  numerous  air  changes
+per hour (ACH) (>12 ACH for new construction as of 2001; 
+>6 ACH for construction before 2001), and is under negative pressure, such that the
+direction of the air flow is from the outside adjacent space (e.g., the corridor) into the
+room. The air in an AII room is preferably exhausted to 
+the outside, but may be recirculated provided that the return air is filtered through a
+high-efficiency particulate air (HEPA) filter. The use of personal respiratory protection is
+also indicated for persons entering these rooms when caring for TB or 
+smallpox  patients  and  for  staff  who  lack  immunity  to  airborne  viral  diseases  (e.g.,
+measles  or  varicella  zoster  virus  [VZV]  infection).   Protective  environment  (PE)
+Immunocompromised  patients    AAMIAssociation  for  the  Advancement  of  Medical
+Instrumentation
+
+ ACHair changes per hour
+ AERautomated endoscope reprocessor
+ AHJauthority having jurisdiction
+ AIAAmerican Institute of Architects
+ AIIairborne infection isolation
+ ANSIAmerican National Standards Institute
+ ASHRAE  American Society of Heating, Refrigeration, and Air-Conditioning Engineers
+ BMBLBiosafety  in  Microbiological  and  Biomedical  Laboratories  (CDC/National
+Institutes of Health) 
+ CFRCode of Federal Regulations
+ CJDCreutzfeldt-Jakob disease
+ CPLcompliance document (OSHA)
+ DFAdirect fluorescence assay
+ DHHSU.S. Department of Health and Human Services
+ DOTU.S. Department of Transportation
+ EC environment of care
+ EPAU. S. Environmental Protection Agency
+ FDAU.S. Food and Drug Administration
+ HBVhepatitis B virus
+ HEPAhigh efficiency particulate air
+ HIVhuman immunodeficiency virus
+ HSCThematopoietic stem cell transplant
+
+ HVACheating, ventilation, air conditioning
+ ICRAinfection-control risk assessment
+ JCAHO Joint Commission on Accreditation of Healthcare Organizations
+ NaOHsodium hydroxide
+ NTMnontuberculous mycobacteria
+ OSHAOccupational Safety and Health Administration
+ PE protective environment
+ PPEpersonal protective equipment
+ TB tuberculosis
+ USCUnited States Code
+ USDAU.S. Department of Agriculture
+ UV ultraviolet
+ UVGIultraviolet germicidal irradiation
+ VHFviral hemorrhagic fever
+ VREvancomycin-resistant Enterococcus
+ VRSAvancomycin-resistant Staphylococcus aureus
+ VZVvaricella zoster virus
+Recommendations for Environmental Infection Control in Health-Care Facilities
+Rationale for Recommendations
+ As  in  previous  CDC  guidelines,  each  recommendation  is  categorized  on  the  basis  of
+
+existing scientific data, 
+theoretic  rationale,  applicability,  and  possible  economic  effect.  The  recommendations
+are evidence-based wherever possible. However, certain recommendations are derived
+from  empiric  infection-control  or  engineering  principles,  theoretic  rationale,  or  from
+experience gained from events that cannot be readily studied (e.g., floods).
+ The HICPAC system for categorizing recommendations has been modified to include a
+category for engineering 
+standards  and  actions  required  by  state  or  federal  regulations.  Guidelines  and
+standards  published  by  the  AIA,  American  Society  of  Heating,  Refrigeration,  and
+Air-Conditioning Engineers (ASHRAE), and the Association for the Advancement of 
+Medical  Instrumentation  (AAMI)  form  the  basis  of  certain  recommendations.  These
+standards  reflect  a  consensus  of  expert  opinions  and  extensive  consultation  with
+agencies of the U.S. Department of Health and Human Services. Compliance with 
+these  standards  is  usually  voluntary.  However,  state  and  federal  governments  often
+adopt these standards as regulations. For example, the standards from AIA regarding
+construction and design of new or renovated health-care facilities, have been adopted
+by reference by >40 states. Certain recommendations have two category ratings (e.g.,
+Categories  IA  and  IC  or  Categories  IB  and  IC),  indicating  the  recommendation  is
+evidence-based as well as a standard or regulation.
+Rating Categories
+ Recommendations are rated according to the following categories:
+ Category  IA.    Category  IB.    Category  IC.    Category  II.   Unresolved  issue.     I.
+Air-Handling Systems in Health-Care Facilities 
+  II. Construction, Renovation, Remediation, Repair, and Demolition
+
+  III. Infection Control and Ventilation Requirements for PE rooms
+  IV. Infection-Control and Ventilation Requirements for AII Rooms
+  V.  Infection-Control and Ventilation Requirements for Operating Rooms
+  VI. Other Potential Infectious Aerosol Hazards in Health-Care Facilities
+  I. Controlling the Spread of Waterborne Microorganisms
+  II. Routine Prevention of Waterborne Microbial 
+Contamination Within the Distribution System
+  III. Remediation Strategies for Distribution System Repair or Emergencies
+  IV.  Additional Engineering Measures as Indicated by Epidemiologic Investigation for
+Controlling Waterborne, Health-Care--Associated Legionnaires Disease
+  V.  General Infection-Control Strategies for Preventing Legionnaires Disease
+  VI. Preventing Legionnaires Disease in Protective Environments and Transplant Units
+  VII.  Cooling Towers and Evaporative Condensers
+  VIII.  Dialysis Water Quality and Dialysate
+  IX.  Ice Machines and Ice
+  X.  Hydrotherapy Tanks and Pools
+  XI.  Miscellaneous Medical Equipment Connected to Water Systems
+  I.   Cleaning  and  Disinfecting  Strategies  for  Environmental  Surfaces  in  Patient-Care
+Areas
+  II.  Cleaning Spills of Blood and Body Substances
+  III.  Carpeting and Cloth Furnishings
+  IV.  Flowers and Plants in Patient-Care Areas
+  V.  Pest Control
+  VI.  Special Pathogens
+  I.  General Information
+  II.  Air, Water, and Environmental Surface Sampling
+
+  I.  Employer Responsibilities
+  II.  Laundry Facilities and Equipment
+  III.  Routine Handling of Contaminated Laundry
+  IV.  Laundry Process
+  V.  Microbiologic Sampling of Textiles 
+  VI.  Special Laundry Situations
+  VII.  Mattresses and Pillows
+  VIII.  Air-Fluidized Beds
+  I.  General Infection-Control Measures for Animal Encounters
+  II.  Animal-Assisted Activities and Resident Animal Programs
+  III.  Protective Measures for Immunocompromised Patients
+  IV.  Service Animals
+  V.  Animals as Patients in Human Health-Care Facilities
+  VI.  Research Animals in Health-Care Facilities
+  I.  Categories of Regulated Medical Waste
+  II.  Disposal Plan for Regulated Medical Wastes
+  III.  Handling, Transporting, and Storing Regulated Medical Wastes
+  IV.  Treatment and Disposal of Regulated Medical Wastes
+  V.   Special  Precautions  for  Wastes  Generated  During  Care  of  Patients  with  Rare
+Diseases
+              
+ Use  of  trade  names  and  commercial  sources  is  for  identification  only  and  does  not
+imply endorsement by the U.S. Department of 
+Health and Human Services.References to non-CDC sites on the Internet are 
+provided as a service to MMWR readers and do not constitute or imply 
+endorsement of these organizations or their programs by CDC or the U.S. 
+
+Department of Health and Human Services. CDC is not responsible for the content 
+of pages found at these sites. URL addresses listed in MMWR were current as of 
+the date of publication.
+Disclaimer
+  
+All MMWR HTML versions of articles are electronic conversions from ASCII text 
+into HTML.  This conversion may have resulted in character translation or format errors
+in the HTML version.  
+Users  should  not  rely  on  this  HTML  document,  but  are  referred  to  the  electronic  PDF
+version and/or 
+the original MMWR paper copy for the official text, figures, and tables.  
+An  original  paper  copy  of  this  issue  can  be  obtained  from  the  Superintendent  of
+Documents, 
+U.S. Government Printing Office (GPO), Washington, DC 20402-9371; telephone: (202)
+512-1800. 
+Contact GPO for current prices.
+**Questions or messages regarding errors in formatting should be addressed to 
+mmwrq@cdc.gov. 
+ Use  of  trade  names  and  commercial  sources  is  for  identification  only  and  does  not
+imply endorsement by the U.S. Department of 
+Health and Human Services.References to non-CDC sites on the Internet are 
+provided as a service to MMWR readers and do not constitute or imply 
+endorsement of these organizations or their programs by CDC or the U.S. 
+Department of Health and Human Services. CDC is not responsible for the content 
+of pages found at these sites. URL addresses listed in MMWR were current as of 
+the date of publication. 
+
+Disclaimer
+  
+All MMWR HTML versions of articles are electronic conversions from ASCII text 
+into HTML.  This conversion may have resulted in character translation or format errors
+in the HTML version.  
+Users  should  not  rely  on  this  HTML  document,  but  are  referred  to  the  electronic  PDF
+version and/or 
+the original MMWR paper copy for the official text, figures, and tables.  
+An  original  paper  copy  of  this  issue  can  be  obtained  from  the  Superintendent  of
+Documents, 
+U.S. Government Printing Office (GPO), Washington, DC 20402-9371; telephone: (202)
+512-1800. 
+Contact GPO for current prices. Page converted: 5/27/2003 
+    HOME  |  
+    ABOUT MMWR  | 
+    MMWR SEARCH  | 
+    DOWNLOADS  | 
+    RSS 
+    |  
+    CONTACT
+POLICY  |  
+    DISCLAIMER  |  
+    ACCESSIBILITY 
+
+Morbidity and Mortality Weekly Report
+                Centers for Disease Control and Prevention
+                1600 Clifton Rd, MailStop E-90, Atlanta, GA 
+                  30333, U.S.A 
+Department of Healthand Human Services This page last reviewed 5/27/2003
+ 
+
+Source URL: https://www.cdc.gov/mmwr/preview/mmwrhtml/rr5210a1.htm

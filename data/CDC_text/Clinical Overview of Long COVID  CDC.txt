@@ -1,0 +1,71 @@
+Official websites use .gov A .gov website belongs to an official government organization
+in  the  United  States.  Secure  .gov  websites  use  HTTPS  A  lock  (   )  or  https://  means
+you've  safely  connected  to  the  .gov  website.  Share  sensitive  information  only  on
+official, secure websites. Long COVID, also known as “Post-COVID Conditions (PCC)”, is
+an infection-associated chronic condition that can occur after SARS-CoV-2 infection, the
+virus  that  causes  COVID-19,  and  is  present  for  at  least  3  months  as  a  continuous,
+relapsing  and  remitting,  or  progressive  disease  state  that  affects  one  or  more  organ
+systems.  The  definition  for  Long  COVID  will  continue  to  be  evaluated  as  data  are
+collected,  analyzed,  and  reported  and  our  understanding  of  the  chronic  condition
+improves.  Most  patients  appear  to  recover  from  their  initial  acute  COVID-19  illness
+within  4  weeks,  even  though  many  patients  continue  to  recover  between  4  and  12
+weeks.  Long  COVID  is  associated  with:  It  can  be  difficult  to  distinguish  symptoms
+caused by Long COVID from symptoms that occur for alternative reasons. Long COVID
+is  heterogeneous  and  may  be  attributed  to  different  underlying  pathophysiologic
+processes.  Possible  etiologies  include:  Researchers  are  actively  studying  the
+prevalence,  mechanism,  duration,  and  severity  of  symptoms  following  acute
+SARS-CoV-2  infection,  as  well  as  risk  factors  associated  with  developing  Long  COVID.
+Research  shows  certain  groups  of  people  are  more  likely  to  develop  Long  COVID,
+including:  A  wide  range  of  symptoms  and  clinical  findings  can  occur  in  people  with
+varying degrees of illness from acute SARS-CoV-2 infection. These effects can overlap
+with multiorgan complications, or with effects of treatment or hospitalization and can
+persist after the acute COVID-19 illness has resolved. While more than 200 Long COVID
+symptoms
+ have
+ been
+ identified,
+ commonly
+ reported
+ symptoms
+ include:
+*Post-exertional  malaise  (PEM)  is  the  worsening  of  symptoms  following  even  minor
+physical  or  mental  exertion,  with  symptoms  typically  worsening  12  to  48  hours  after
+activity and lasting for days or even weeks. Some patients may feel embarrassed about
+their symptoms, have experienced stigma or experienced difficulty in being believed. It
+
+is important for healthcare providers to: Different onset patterns for Long COVID have
+been identified, including symptoms and conditions that can: Documenting SARS-CoV-2
+infection  and  Long  COVID,  also  referred  to  as  “Post-COVID  Conditions,”  is  critical  for
+accurate  public  health  surveillance.  Post-COVID  Condition  was  incorporated  into  the
+International  Classification  of  Diseases,  ICD-10-CM  as  of  October  1,  2021.  U09.9  Post
+COVID-19 Condition, unspecified– to establish a link with COVID-19; not to be used in
+cases  that  still  are  presenting  with  acute  COVID-19.  The  code  should  be  used  for
+patients  with  a  history  of  probable  or  confirmed  SARS-CoV-2  infection  and  who  are
+identified  with  a  Post-COVID  Condition.  Keep  reading:  Additional  assign  codes  for
+specific  conditions  and  symptoms  can  be  found  at  2022  ICD-10-CM  Guidelines.
+Preventing  severe  outcomes  of  COVID-19  illness  reduces  people’s  risk  of  developing
+Long COVID. These severe outcomes include hospitalization, admission to the intensive
+care  unit,  or  intubation.  Healthcare  providers  can  advise  their  patients  on  protecting
+themselves  against  severe  COVID-19  by:  Research  shows  COVID-19  vaccination  is  an
+effective tool in helping to prevent Long COVID. Healthcare providers should encourage
+their  patients  to  get  an  updated  COVID-19  vaccine.  Clinicians  may  clinically  evaluate
+and  diagnose  Long  COVID  based  on  patient  history  and  findings  from  a  physical
+examination,  while  others  might  require  directed  diagnostic  testing.  Currently,  no
+laboratory test can be used to definitively diagnose Long COVID or to distinguish Long
+COVID  from  conditions  with  different  etiologies.  A  positive  SARS-CoV-2  viral  test  or
+serologic (antibody) test are not required to establish a diagnosis of Long COVID, but
+can help assess for current or previous infection. For most patients, the goal of medical
+management  of  Long  COVID  is  to  optimize  function  and  quality  of  life  through
+established symptom management approaches, which may include: Patients with Long
+COVID  may  experience  some  of  the  symptoms  that  occur  in  other  disorders.  These
+patients  may  benefit  from  symptom  management  approaches  used  to  manage
+symptoms  of:  Treatment  of  Long  COVID  should  be  tailored  to  a  patient’s  specific
+
+symptoms  or  conditions,  including  FDA-approved  or  over-the-counter  medications.
+Holistic  support  for  the  patient  throughout  their  illness  can  also  be  beneficial.
+Healthcare providers play a significant role in supporting their patients and can further
+help  patients  with  Long  COVID  by:  General  Diagnosis  and  management  Symptom
+inventory  and  condition  assessment   Echo  Program  Federal  reports  Support  for
+Caregivers To receive email updates about COVID-19, enter your email address:
+
+Source URL: https://www.cdc.gov/coronavirus/2019-ncov/hcp/clinical-care/post-covid-conditions.html

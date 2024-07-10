@@ -1,0 +1,292 @@
+A .gov website belongs to an official government organization in the United States. A
+lock (  ) or https:// means you've safely connected to the .gov website. Share sensitive
+information only on official, secure websites. 
+Related Topics:
+ A  model  for  a  basic  infection  control  and  prevention  plan  for  outpatient  oncology
+facilities.  Download  the  complete  Basic  Infection  Control  and  Prevention  Plan  for
+Outpatient  Oncology  Settings.   A  pocket-sized  quick  reference  guide  to  the  Basic
+Infection Control and Prevention Plan for Outpatient Oncology Settings is also available
+to  order  free  of  charge  from  CDC-INFO  on  Demand  –  Publications  (select  “Preventing
+Infections in Cancer Patients” from the drop-down programs button). An estimated 1.5
+million  new  cases  of  cancer  were  diagnosed  in  the  United  States  in  2010  [1].  With
+improvements in survivorship and the growth and aging of the U.S. population, the total
+number of persons living with cancer will continue to increase [2]. Despite advances in
+oncology  care,  infections  remain  a  major  cause  of  morbidity  and  mortality  among
+cancer  patients  [3-5].  Increased  risks  for  infection  are  attributed,  in  part,  to
+immunosuppression  caused  by  the  underlying  malignancy  and  chemotherapy.  In
+addition patients with cancer come into frequent contact with healthcare settings and
+can  be  exposed  to  other  patients  in  these  settings  with  transmissible  infections.
+Likewise, patients with cancer often require the placement of indwelling intravascular
+access  devices  or  undergo  surgical  procedures  that  increase  their  risk  for  infectious
+complications. Given their vulnerable condition, great attention to infection prevention
+is  warranted  in  the  care  of  these  patients.  In  recent  decades,  the  vast  majority  of
+oncology  services  have  shifted  to  outpatient  settings,  such  as  physician  offices,
+hospital-based  outpatient  clinics,  and  nonhospital-based  cancer  centers.  Currently,
+more  than  one  million  cancer  patients  receive  outpatient  chemotherapy  or  radiation
+
+therapy each year [6]. Acute care hospitals continue to specialize in the treatment of
+many patients with cancer who are at increased risk for infection (e.g., hematopoietic
+stem  cell  transplant  recipients,  patients  with  febrile  neutropenia),  with  programs  and
+policies that promote adherence to infection control standards. In contrast, outpatient
+oncology  facilities  vary  greatly  in  their  attention  to  and  oversight  of  infection  control
+and  prevention.  This  is  reflected  in  a  number  of  outbreaks  of  viral  hepatitis  and
+bacterial  bloodstream  infections  that  resulted  from  breaches  in  basic  infection
+prevention  practices  (e.g.,  syringe  reuse,  mishandling  of  intravenous  administration
+sets)  [7-10].  In  some  of  these  incidents,  the  implicated  facility  did  not  have  written
+infection  control  policies  and  procedures  for  patient  protection  or  regular  access  to
+infection  prevention  expertise.  This  document  has  been  developed  for  outpatient
+oncology facilities to serve as a model for a basic infection control and prevention plan.
+It  contains  policies  and  procedures  tailored  to  these  settings  to  meet  minimal
+expectations  of  patient  protections  as  described  in  the  CDC  Guide  to  Infection
+Prevention in Outpatient Settings. The elements in this document are based on CDC's
+evidence-based  guidelines  and  guidelines  from  professional  societies  (e.g.,  Oncology
+Nursing Society). This plan is intended to be used by all outpatient oncology facilities.
+Those facilities that do not have an existing plan should use this plan as a starting point
+to  develop  a  facility-specific  plan  that  will  be  updated  and  further  supplemented  as
+needed  based  on  the  types  of  services  provided.  Facilities  that  have  a  plan  should
+ensure  that  their  current  infection  prevention  policies  and  procedures  include  the
+elements outlined in this document. While this plan may essentially be used exactly "as
+is," facilities are encouraged to personalize the plan to make it more relevant to their
+setting  (e.g.,  adding  facility  name  and  names  of  specific  rooms/locations;  inserting
+titles/positions  of  designated  personnel;  and  providing  detailed  instructions  where
+applicable). This plan does not replace the need for an outpatient oncology facility to
+have regular access to an individual with training in infection prevention and for that
+
+individual to perform on-site evaluation and to directly observe and interact regularly
+with staff. Facilities may wish to consult with an individual with training and expertise in
+infection prevention early on to assist with their infection control plan development and
+implementation and to ensure that facility design and work flow is conducive to optimal
+infection  prevention  practices.  This  model  plan  focuses  on  the  core  measures  to
+prevent  the  spread  of  infectious  diseases  in  outpatient  oncology  settings.  It  is  not
+intended to address facility-specific issues or other aspects of patient care such as: For
+more information on these topics, refer to the list of resources provided in Appendix D
+of  the  plan.  ANC  Absolute  neutrophil  count  APIC  Association  for  Professionals  in
+Infection  Control  and  Epidemiology,  Inc.  CDC  Centers  for  Disease  Control  and
+Prevention DEA Drug Enforcement Administration EPA Environmental Protection Agency
+FDA Food and Drug Administration HAI Healthcare-associated infection HBV Hepatitis B
+virus HCV Hepatitis C virus HIV Human immunodeficiency virus IDSA Infectious Diseases
+Society  of  America  INS  Infusion  Nursing  Society  ONS  Oncology  Nursing  Society  OSHA
+Occupational
+ Safety
+ and
+ Health
+ Administration
+ NIOSH
+ National
+ Institute
+ for
+Occupational  Safety  PPE  Personal  protective  equipment  SHEA  Society  for  Healthcare
+Epidemiology  of  America  USP  United  States  Pharmacopeia  WHO  World  Health
+Organization  Standard  Precautions  represent  the  minimum  infection  prevention
+measures that apply to all patient care, regardless of suspected or confirmed infection
+status  of  the  patient,  in  any  setting  where  healthcare  is  delivered.  These
+evidence-based  practices  are  designed  to  both  protect  healthcare  personnel  and
+prevent the spread of infections among patients. Standard Precautions replaces earlier
+guidance  relating  to  Universal  Precautions  and  Body  Substance  Isolation.  Standard
+Precautions  include:  1)  hand  hygiene,  2)  use  of  personal  protective  equipment  (e.g.,
+gloves,  gowns,  facemasks),  depending  on  the  anticipated  exposure,  3)  respiratory
+hygiene  and  cough  etiquette,  4)  safe  injection  practices,  and  5)  safe  handling  of
+potentially  contaminated  equipment  or  surfaces  in  the  patient  environment.
+
+Transmission-Based  Precautions  are  intended  to  supplement  Standard  Precautions  in
+patients  with  known  or  suspected  colonization  or  infection  of  highly  transmissible  or
+epidemiologically  important  pathogens.  These  additional  precautions  are  used  when
+the route of transmission is not completely interrupted using Standard Precautions. The
+three categories of Transmission-Based Precautions include: 1) Contact Precautions, 2)
+Droplet  Precautions,  and  3)  Airborne  Precautions.  For  diseases  that  have  multiple
+routes of transmission, a combination of Transmission-Based Precautions may be used.
+Whether used singly or in combination, they are always used in addition to Standard
+Precautions. The risk of infection transmission and the ability to implement elements of
+Transmission-Based  Precautions  may  differ  between  outpatient  and  inpatient  settings
+(e.g.,  facility  design  characteristics).  However,  because  patients  with  infections  are
+routinely encountered in outpatient settings, ambulatory care facilities need to develop
+specific  strategies  to  control  the  spread  of  transmissible  diseases  pertinent  to  their
+setting.  This  includes  developing  and  implementing  systems  for  early  detection  and
+management of potentially infectious patients at initial points of entry to the facility. For
+detailed  information  on  Standard  and  Transmission-Based  Precautions,  and  summary
+guidance for outpatient settings, refer to the following documents: Ongoing education
+and  training  of  facility  staff  are  required  to  maintain  competency  and  ensure  that
+infection  prevention  policies  and  procedures  are  understood  and  followed.  A  list  of
+names  of  designated  personnel  and  their  specific  roles  and  tasks  and  contact
+information is provided in Appendix A. Routine performance of surveillance activities is
+important  to  case-finding,  outbreak  detection,  and  improvement  of  healthcare
+practices. This includes the surveillance of infections associated with the care provided
+by  the  facility  (defined  as  healthcare-associated  infections)  and  process  measures
+related  to  infection  prevention  practices  (e.g.,  hand  hygiene).  Hand  hygiene  policies
+promote  preferential  use  of  alcohol-based  hand  rub  (ABHR)  over  soap  and  water  in
+most  clinical  situations.  Alcohol-based  hand  rub  is  the  preferred  method  for
+
+decontaminating  hands,  except  when  hands  are  visibly  soiled  (e.g.,  dirt,  blood,  body
+fluids),  or  after  caring  for  patients  with  known  or  suspected  C.  difficile  or  norovirus
+during  an  outbreak,  in  which  case  soap  and  water  should  be  used.  Hand  hygiene
+stations  should  be  strategically  placed  to  ensure  easy  access.  Using  Alcohol-based
+Hand  Rub  (follow  manufacturer's  directions):  Handwashing  with  Soap  and  Water:
+Always perform hand hygiene in the following situations: Personal Protective Equipment
+(PPE) use involves specialized clothing or equipment worn by facility staff for protection
+against infectious materials. The selection of PPE is based on the nature of the patient
+interaction  and  potential  for  exposure  to  blood,  body  fluids  or  infectious  agents.  A
+review  of  available  PPE  should  be  performed  periodically  (e.g.,  annually)  due  to  new
+product  developments  and  improvements.  Please  note  that  this  section  does  not
+address  issues  related  to  PPE  for  the  preparation  and  handling  of  antineoplastic  and
+hazardous drugs. The recommended PPE for those procedures should be determined in
+accordance with OSHA and NIOSH. Gloves Wear gloves when there is potential contact
+with blood (e.g., during phlebotomy), body fluids, mucous membranes, nonintact skin or
+contaminated  equipment.  Gowns  Wear  a  gown  to  protect  skin  and  clothing  during
+procedures  or  activities  where  contact  with  blood  or  body  fluids  is  anticipated.
+Facemasks  (Procedure  or  Surgical  Masks)  Wear  a  facemask:  Goggles,  Face  Shields
+Wear  eye  protection  for  potential  splash  or  spray  of  blood,  respiratory  secretions,  or
+other body fluids. Respirators If available, wear N95-or higher respirators for potential
+exposure to infectious agents transmitted via the airborne route (e.g., tuberculosis). 2.
+Recommendations  for  Donning  PPE  To  prevent  the  transmission  of  respiratory
+infections in the facility, the following infection prevention measures are implemented
+for all potentially infected persons at the point of entry and continuing throughout the
+duration of the visit. This applies to any person (e.g., patients and accompanying family
+members,  caregivers,  and  visitors)  with  signs  and  symptoms  of  respiratory  illness,
+including  cough,  congestion,  rhinorrhea,  or  increased  production  of  respiratory
+
+secretions. Additional precautions (e.g., Transmission-Based Precautions) can be found
+in  Section  V.  The  following  supplies  are  provided  in  the  reception  area  and  other
+common waiting areas: All persons with signs and symptoms of a respiratory infection
+(including  facility  staff)  are  instructed  to:  In  addition  to  the  aforementioned  infection
+prevention  measures,  the  following  enhanced  screening  measures  are  implemented:
+Injection  safety  refers  to  the  proper  use  and  handling  of  supplies  for  administering
+injections and infusions (e.g., syringes, needles, fingerstick devices, intravenous tubing,
+medication  vials,  and  parenteral  solutions).  These  practices  are  intended  to  prevent
+transmission  of  infectious  diseases  between  one  patient  and  another,  or  between  a
+patient  and  healthcare  personnel  during  preparation  and  administration  of  parenteral
+medications.  To  the  extent  possible,  medication  preparation  should  take  place  in
+pharmacy  settings  and  dedicated  medication  rooms.  All  staff  personnel  who  use  or
+handle  parenteral  medications  and  related  supplies  should  be  aware  of  labeling  and
+storage  requirements  and  pharmacy  standards.  Additional  recommendations  for  safe
+injection  practices,  including  the  appropriate  use  of  single-dose  (or  single-use)  and
+multi-dose vials and the proper technique for accessing intravascular devices, can be
+found in Section IV.E. (Medication Storage and Handling), in Section VI (Central Venous
+Catheters), respectively, as well as in Appendix D. CDC Injection Safety The measures
+outlined  in  this  section  pertain  to  the  general  storage  and  handling  of  parenteral
+medications  outside  of  the  pharmacy  setting.  The  appropriate  storage  and  handling
+(e.g., reconstituting, mixing, diluting, compounding) of antineoplastic drugs and other
+sterile  medications  that  typically  require  preparation  in  pharmacy  settings  should  be
+determined in accordance with established official and enforceable standards for these
+activities  (e.g.,  ensuring  appropriate  environmental  and  engineering  controls  such  as
+biological  safety  cabinets  and  laminar  airflow  hoods,  and  proper  use  of  aseptic
+technique), including those of the United States Pharmacopeia and the Food and Drug
+Administration. These functions are performed by personnel who have the appropriate
+
+qualifications and training as determined in accordance with the state pharmacy board.
+Consultation  with  the  state  pharmacy  board  and  oncology  pharmacy  specialists  is
+recommended. In general, parenteral medication storage, handling, and administration
+should  adhere  to  injection  safety  measures  as  outlined  in  Section  IV.D.  (Injection
+Safety).  Parenteral  medications  include  single-dose  and  multi-dose  vials,  ampoules,
+bags or bottles of intravenous fluids. Single-dose vials (or single-use vials) are intended
+for  use  in  a  single  patient  for  a  single  case/procedure/injection.  Single-dose  or
+single-use  vials  are  labeled  as  such  by  the  manufacturer  and  typically  lack  an
+antimicrobial preservative. Multi-dose vials contain more than one dose of medication.
+They  are  labeled  as  such  by  the  manufacturer  and  typically  contain  an  antimicrobial
+preservative to help prevent the growth of bacteria. However, this preservative has no
+effect on viruses and does not fully protect against contamination when safe injection
+practices are not followed. CDC 2007 Guideline for Isolation Precautions CDC Injection
+Safety  CDC  Vaccine  Storage  and  Handling  Toolkit  The  procedures  outlined  in  this
+section pertain to the cleaning and disinfection of noncritical patient-care devices (e.g.,
+blood  pressure  cuff)  and  environmental  surfaces  in  patient-care  areas  (e.g.,  exam
+rooms)  and  certain  common-use  areas  (e.g.,  bathrooms).  Standard  procedures  and
+recommended  practices  for  cleaning  and  disinfecting  compounding  areas  (e.g.,
+pharmacy  settings)  and  the  handling,  transporting,  and  disposing  of  antineoplastic
+agents  should  be  determined  in  accordance  with  local,  state,  and  federal  authorities,
+including state board of pharmacy, USP, FDA, and DEA. Patient-care areas, medication
+preparation areas (outside pharmacy/compounding areas), and bathrooms are cleaned
+at  least  daily,  with  the  following  exceptions:  General  cleaning  and  disinfection
+measures that apply to any patient-care area: Cleaning and disinfection measures for
+specific patient-care areas: Exam Rooms Chemotherapy Suites Triage Stations and/or
+Locations for Performing Vital Signs (if not done in exam rooms) Phlebotomy Stations
+CDC  Guidelines  for  Environmental  Infection  Control  in  Health-Care  Facilities  CDC
+
+Guideline for Disinfection and Sterilization in Healthcare Facilities, 2008 CDC Guideline
+for  the  Prevention  and  Control  of  Norovirus  Gastroenteritis  Outbreaks  in  Healthcare
+Settings  CDC  Infection  Prevention  during  Blood  Glucose  Monitoring  and  Insulin
+Administration APIC Infection Prevention Manual for Ambulatory Care, 2009 In addition
+to consistent use of Standard Precautions, additional precautions may be warranted in
+certain  situations  as  described  below.  *Francis  J.  Curry  National  Tuberculosis  Center,
+FAQ: "How long does it take to clear the air in an isolation or high-risk procedure room?"
+CDC  2007  Guideline  for  Isolation  Precautions  CDC  Guidelines  for  Preventing  the
+Transmission  of  Mycobacterium  tuberculosis  in  Health-Care  Settings,  2005  The
+procedures outlined below pertain to the access and maintenance of long-term central
+venous  catheters  (e.g.,  vascular  access  devices).  These  include  peripherally  inserted
+central  catheters  (PICCs),  tunneled  catheters  (e.g.,  Broviac®,  Hickman®,  and
+Groshong®  catheters),  including  tunneled  apheresis  catheters,  and  implanted  ports.
+For other types of access devices, such as intraperitoneal ports, refer to guidelines from
+relevant
+ professional
+ societies
+ (e.g.,
+ Oncology
+ Nursing
+ Society).
+ Several
+recommendations in this section have been adapted directly from the Oncology Nursing
+Society  Access  Devices  Guidelines  and  the  Infusion  Nursing  Society  Standards  of
+Practice.  There  is  not  a  consensus  over  the  use  of  clean  versus  sterile  gloves  when
+accessing  certain  vascular  access  devices,  such  as  implanted  ports;  where  indicated,
+recommendations
+ by
+ specific
+ professional
+ societies
+ are
+ provided.
+ While
+ the
+recommendations  below  apply  generally,  healthcare  personnel  are  to  follow
+manufacturers'  instructions  and  labeled  use  for  specific  care  and  maintenance.  Only
+healthcare  personnel  who  have  attained  and  maintained  competency  should  perform
+these  procedures.  This  procedure  applies  only  to  PICCs  and  tunneled  catheters,
+including apheresis catheters. Refer to Part D.1. below for accessing implanted ports. In
+general,  closed  catheter  access  systems  should  be  used  preferentially  over  open
+systems.  Refer  to  the  manufacturer's  instructions  of  the  catheter  and  the  needleless
+
+connector for the appropriate technique to use; unless otherwise specified, perform the
+following:  This  procedure  applies  only  to  PICCs  and  tunneled  catheters,  including
+apheresis  catheters.  This  procedure  applies  only  to  PICCs  and  tunneled  catheters,
+including apheresis catheters. Refer to manufacturer's instructions for how frequently
+to  change  the  injection  cap;  if  information  is  not  available,  in  general,  change  every
+week or when there are signs of blood, precipitate, cracks, leaks, or other defects, or
+when the septum is no longer intact. Refer to steps 1-5 in Section VI.A. above for PICC
+access and common maintenance procedures. Additional recommendations for routine
+maintenance  and  care:  Tunneled  catheters  include  Broviac®,  Hickman®,  and
+Groshong® catheters, as well as apheresis catheters. Refer to steps 1-5 in Section VI.A.
+above  for  catheter  access  and  common  maintenance  procedures.  Additional
+recommendations  for  routine  maintenance  and  care:  Adapted  with  permission  from
+Access  Device  Guidelines:  Recommendations  for  Nursing  Practice  and  Education  (3rd
+Ed.),  by  D.  Camp-Sorrell  (Ed.),  2011,  Pittsburgh,  PA:  Oncology  Nursing  Society.
+Copyright  2011  by  ONS.  INS  2011  Infusion  Nursing  Standards  of  Practice  CDC
+Guidelines  for  the  Prevention  of  Intravascular  Catheter-Related  Infections,  2011  [a]
+Several  roles/tasks  may  be  performed  by  the  same  person,  e.g.,  Infection  Prevention
+personnel,  or  by  more  than  one  person.  [b]  Cleaning/disinfection  of  spills  of  blood  or
+other potentially infectious materials should be assigned to personnel trained to handle
+such  situation;  this  may  include  facility  staff  other  than  ES/housekeeping  staff.  [c]
+Ensure  this  task  is  assigned  to  personnel  who  are  available  to  respond  in  a  timely
+manner; in some facilities, ES/housekeeping staff may be better equipped to handle this
+type  of  cleaning/disinfection.  [Insert  a  list  of  reportable  disease/conditions  specific  to
+your  state  and  the  appropriate  contact  information  for  your  local  and  state  health
+authorities. This information may be found at your state department of health website
+and/or  at  the  Council  of  State  and  Territorial  Epidemiologists  State  Reportable
+Conditions  Websites  The  Infection  Prevention  Checklist  for  Outpatient  Settings  is  a
+
+companion to the CDC Guide to Infection Prevention for Outpatient Settings: Minimum
+Expectations  for  Safe  Care.  There  are  two  sections  to  the  checklist:  I)  Administration
+Policies and Facility Practices, and II) Personnel and Patient-Care Observations. For the
+purpose of evaluating personnel competency and adherence to recommended infection
+prevention  practices,  oncology  facilities  should  use  Section  II  of  the  checklist  (i.e,
+Personnel  and  Patient-Care  Observations)  and  modify  and/or  further  supplement,  as
+needed,  to  include  specific  practices  and  procedures  relevant  to  their  setting.  These
+may  include,  but  are  not  limited  to,  assessing  personnel  adherence  to  donning
+appropriate  PPE  and  using  aseptic  technique  (e.g.,  performing  hand  hygiene)  when
+accessing  central  venous  catheters.  Detailed  information  about  each  of  the  topics
+below can be found in the accompanying resources. HAIs are associated with medical
+devices, complications following surgery, transmission between patients and healthcare
+workers,  antibiotic  overuse,  and  more.  Languages  Language  Assistance  Languages  
+Language Assistance 
+
+Source
+ URL:
+https://www.cdc.gov/healthcare-associated-infections/hcp/prevention-healthcare/infection-control-outpati
+ent-oncology.html

@@ -1,0 +1,66 @@
+
+
+
+
+
+
+
+No	Give second dose of MMR if first dose was received more than one month ago
+
+
+Patients
+
+
+
+Yes
+
+MMR within 3 days of exposure (≥12 months) note: MMR should not be administered to severely immunocompromised patients
+IGIV (within 6 days of exposure)
+
+
+
+
+
+
+
+
+
+IC - 303.1 Measles Flowchart
+Algorithm for Management of Measles Exposure
+Identify Index Case:
+Confirmed:
+If Measles IgM is detected in oral fluid or blood, then confirm measles.
+If isolation of measles virus or detection of RNA in clinical samples (e.g., blood, urine, conjunctival, or nasopharyngeal secretions) is achieved, then confirm measles.
+If there is a fourfold or greater rise in Measles IgG in blood or a single high level, then confirm measles.
+Probable:
+If there is a high index of suspicion characterized by:
+Fever ≥ 101.0°F,
+Cough, coryza, or conjunctivitis followed by a generalized rash ≥ 3 days,
+Unvaccinated or delayed vaccination history,
+History of international travel,
+Contact with foreign visitors,
+Possible exposure to a measles patient in the past 3 weeks,
+Then consider measles probable.
+Is the Index Case Infectious?
+If the index case is within the infectious period (4 days prior to and 4 days after the onset of rash), then the case is infectious.
+If the patient is immunocompromised, then consider them infectious for the entire course of illness.
+Identify Exposed Contacts:
+If contacts include patients, employees, students, or visitors, then identify who among them is susceptible.
+If contacts are <1 year old, immunocompromised, or non-immunized against measles, then consider them susceptible.
+Actions for Susceptible Contacts:
+If contacts are susceptible, then monitor for symptoms and isolate in Airborne Precautions from day 5-21 after the last exposure.
+If active disease is present, then impose appropriate work restrictions.
+CHLA Team Members:
+If exposed and not given vaccine within 72 hours following exposure, then remain off work for the incubation period (5-21 days).
+If returning to work, then employee contacts EHS for clearance.
+Visitors:
+If exposed, then limit or restrict hospital visitation for the incubation period.
+Notifications:
+If a measles case is identified, then notify Infection Control at Ext 15510.
+If after hours/holidays/weekends, then contact ID physician on call and leave a message on the IC voicemail.
+If a measles case is identified, then begin collecting names of exposed contacts.
+If after hours, then contact LACDPH to report the case at (213) 240-7941.
+Administer MMR or IGIV:
+If the first dose of MMR was received more than one month ago, then give the second dose.
+If within 3 days of exposure (≥12 months), then administer MMR unless severely immunocompromised.
+If within 6 days of exposure, then administer IGIV.

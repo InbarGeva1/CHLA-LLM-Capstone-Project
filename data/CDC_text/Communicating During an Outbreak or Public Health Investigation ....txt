@@ -1,0 +1,222 @@
+Official websites use .gov A .gov website belongs to an official government organization
+in  the  United  States.  Secure  .gov  websites  use  HTTPS  A  lock  (   )  or  https://  means
+you've  safely  connected  to  the  .gov  website.  Share  sensitive  information  only  on
+official, secure websites. Abbigail J. Tumpey, David Daigle, and Glen Nowak Before an
+outbreak is recognized and an investigation begins, limited numbers of persons might
+be  exposed  to  health  risks  without  experiencing  illness.  As  increasing  numbers  of
+persons are exposed to the risk or become ill, healthcare providers and others might
+become aware of the higher than expected number of illnesses and begin reporting the
+unusually high occurrences to local and state health authorities. This situation is often
+what prompts an outbreak investigation, and as that outbreak evolves, communications
+about  it  must  evolve  as  well  (1,2).  In  today’s  24-hour  news  and  digital  media
+environment, people constantly receive information from many sources, ranging from
+print  media  to  television  to  alerts  and  social  media  on  mobile  devices.  Immediately
+after  the  news  media  or  community  learns  of  a  public  health–related  outbreak
+investigation,  they  want  to  know  what  is  happening  and  who  is  affected.  When  the
+cause is rare but might cause substantial harm, news outlets often treat the event as
+breaking  news  and  begin  sustained  coverage.  From  the  beginning  of  an  event  to  its
+resolution  and  follow-up,  public  health  authorities  are  expected  to  provide  the  news
+media  with  timely,  accurate  information  and  answers  about  the  outbreak’s  effects.
+Because the ways in which receipt of news is evolving, the ways in which public health
+authorities communicate with the media and public needs to adapt in similar ways. In
+2016,  the  Pew  Research  Center  reported  that  approximately  4  in  10  US  residents
+received their news from online sources, and 6 in 10 received their news through social
+media  channels  (3).  Today,  communications  strategies  during  an  outbreak  response
+should include a mix of media outreach, partner and stakeholder outreach, and social
+media  engagement  (2).  Knowing  how  the  public  or  members  of  affected  groups
+perceive a risk affects what you, as a field investigator, might communicate and how
+
+you frame the key messages. Many times, persons most affected by a disease outbreak
+or health threat perceive the risk differently from the experts who mitigate or prevent
+the  risk.  Additionally,  persons  perceive  their  own  risks  differently,  depending  on  how
+likely  they  think  the  actual  hazard  will  affect  them  personally  and  their  beliefs  about
+how severe the harm might be. Perceptions of health risks also are tied to the degree to
+which persons feel alarmed or outraged—when the event causes a high level of worry
+or anxiety, the risk is perceived to be at a similarly high level (4). Persons are usually
+more accepting of risks or feel less outrage when the risks are voluntary, under their
+control,  have  clear  benefits,  are  naturally  occurring,  are  generated  from  a  trusted
+source, or are familiar (Table 12.1). Conversely, persons are less accepting of risks or
+have  greater  concern  or  anxiety  when  risks  are  imposed  or  created  by  others,
+controlled by others, have no clear benefit, are human-made, come from an untrusted
+source, or seem exotic. For example, many persons are more worried about flying in an
+airplane than driving a car, despite the fact that more car crashes than airplane crashes
+occur  each  year  in  the  United  States.  Flying  in  an  airplane  is  an  event  controlled  by
+others  and  aligns  with  a  risk  perceived  as  less  acceptable.  The  same  is  true  for
+outbreaks  and  public  health  crises.  Before  communicating  during  an  outbreak,  think
+through how risk perceptions might influence the affected populations and, therefore,
+how  you  communicate  about  those  risks.  Also,  keep  in  mind  that  persons  will  view
+public health recommendations and advice through a risk–benefit lens, with the same
+factors affecting whether they adopt a public health recommendation. Source: Adapted
+from References 4, 5. Trust and credibility can greatly influence your ability to persuade
+affected  persons  to  follow  public  health  authorities’  recommendations  during  an
+outbreak or public health response. The ability to contain and stop the outbreak might
+hinge on established relationships and coordination with key partners and stakeholders.
+Risk  communication  literature  identifies  four  factors  that  determine  whether  an
+audience,  including  journalists,  will  perceive  a  messenger  as  trusted  and  credible,
+
+including  Organizations  and  spokespersons  who  issue  messages  and  information  that
+convey  these  four  factors  are  more  likely  to  maintain  and  even  build  trust  during  a
+crisis. Examples of messages used in outbreak responses or public health investigations
+are provided in Box 12.1. These quotations encompass the four factors that foster trust
+and credibility. We realize that you turn to our medical facility to get better. This event
+is intolerable to us as well, and we want to work with you to resolve the situation and
+ensure your safety and well-being. We are taking steps to ensure that this event never
+occurs again in our facility. — Broward Health Medical Center Patient Notification Letter
+(October 2009) (8) We want to ensure that every patient who might be at risk is tested.
+Thanks to the diligent work of our team [. . . . ], we are confident that we are at a point
+where we’ve identified the vast majority of patients who were put at risk. Mayo Clinic
+will  do  whatever  is  necessary  to  support  the  needs  of  its  patients.  Patient  safety  is
+central to the trust the organization shares with its patients. Mayo Clinic is working to
+ensure  that  this  doesn’t  happen  again.  —  Media  quotation  from  Mayo  Clinic’s  chief
+executive  officer  (Jacksonville,  FL,  September  2010)  (9)  I  want  to  acknowledge  the
+importance  of  uncertainty.  At  the  early  stages  of  an  outbreak,  there’s  much
+uncertainty,  and  probably  more  than  everyone  would  like.  Our  guidelines  and  advice
+are likely to be interim and fluid, subject to change as we learn more. We’re moving
+quickly  to  learn  as  much  as  possible  and  working  with  many  local,  state,  and
+international  partners  to  do  so.  I  want  to  recognize  that  while  we’re  moving  fast,  it’s
+very likely that this will be more of a marathon than a sprint. I want to acknowledge
+change. Our recommendations, advice, and approaches will likely change as we learn
+more about the virus and we learn more about its transmission. I want to acknowledge
+that  we’re  likely  to  see  local  approaches  to  controlling  the  spread  of  this  virus,  and
+that’s important; that can be beneficial; that can teach us things that we want to use in
+other  parts  of  the  country  and  that  other  people  in  other  places  may  find  useful.
+Because things are changing, because flu viruses are unpredictable, and because there
+
+will  be  local  adaptation,  it’s  likely  that  [at]  any  given  moment  there  will  be
+confusing—or  may  be  confusing  or  conflicting  information  available.  We  are  very
+committed to minimizing where we find that, clearing up any of that misconception. —
+Press  briefing  by  the  Centers  for  Disease  Control  and  Prevention’s  Acting  Director
+Richard  Besser,  MD,  during  the  early  stages  of  the  influenza  A(H1N1)  outbreak  (April
+2009)  (10)  The  early  stages  of  an  outbreak  investigation  can  be  a  seemingly
+overwhelming  challenge  of  tasks,  long  hours,  and  concerns.  Will  the  situation  evolve
+into  a  broader  public  health  crisis?  Will  the  outbreak  be  short  or  long  term?  Which
+population  groups  will  be  most  at  risk?  To  communicate  effectively  in  this  time  of
+uncertainty,  multiple  components  need  to  be  in  place.  Early  in  a  public  health
+investigation,  the  roles  and  responsibilities  of  the  persons  and  organizations  involved
+should  be  defined  clearly;  it  is  particularly  important  to  determine  who  has  primary
+responsibility  and  authority  for  communicating  each  aspect  of  the  investigation  to
+healthcare  providers,  the  media,  and  the  general  public.  Each  entity’s  domain  of
+expertise should be stipulated, including who will speak with the public and news media
+about  each  topic.  If  the  outbreak  response  is  domestic,  the  roles  and  responsibilities
+among  the  entities  involved  (e.g.,  federal,  state,  or  local)  should  be  clarified.  If  the
+response
+ is
+ international,
+ that
+ country’s
+ ministry
+ of
+ health
+ will
+ determine
+communication plans and responsibilities and serve as the communication lead within
+that  country.  The  field  investigator  and,  if  part  of  the  investigation  team,  the  health
+communication specialist should foster effective collaboration and coordination among
+all of the agencies and organizations involved. At the start of an investigation, you will
+need  to  assess  the  situation  (11).  The  following  steps  will  help  you  perform  this  task
+quickly: During an outbreak response, you might work with a team of communications
+experts,  possibly  including  public  affairs  (media)  specialists,  risk  communication
+experts,  digital  or  social  media  experts,  and  other  health  communication  staff.  The
+communications  team  will  solidify  the  communications  strategy  and  develop
+
+communication  resources  aimed  at  reaching  the  affected  (target)  populations  and
+partners who might influence them (e.g., healthcare providers or community leaders).
+These health-related messages should focus on behaviors that can contain or stop the
+outbreak.  Box  12.2  lists  communication  resources  often  used  during  outbreak
+responses.  Depending  on  where  the  outbreak  is  located  and  what  populations  are
+affected,  the  communications  team  might  tailor  additional  resources  to  the
+investigation needs (e.g., posters for low-literacy readers or text-messaging alerts). The
+communication strategy most likely will evolve and adapt as the situation evolves and
+more  is  learned  about  the  perceptions  of  your  targeted  audience  and  scope  of  the
+outbreak  (1).  Source:  Adapted  from  Reference  13.  Messages  must  resonate  with
+affected populations before those persons will follow prevention recommendations. Box
+12.3  outlines  these  key  messaging  development  components  in  seven  steps.
+Emphasize a commitment to the situation. Convey a sense of urgency for bringing the
+situation under control. Let the audience know where it can access more information
+(e.g., an Internet site or call center) and when more information will be provided; for
+example, “Our next update will be tomorrow at noon.” Source: Adapted from Reference
+14. Remember to follow risk communication best practices as outlined previously (e.g.,
+recognize the affected populations are worried, concerned, and seeking guidance). Box
+12.4  provides  examples  of  how  to  convey  risk  communications  messaging  when
+speaking  with  an  audience  about  an  outbreak.  box12-4  Source:  Adapted  from
+Reference 14. Being a spokesperson is challenging, especially during investigations or a
+response  that  involves  considerable  media  attention.  If  you  are  asked  to  be  a
+spokesperson,  take  time  to  prepare  and  practice.  Media  interviews  are  the  principal
+way in which reporters obtain their information from subject-matter experts and other
+sources. Learning how to navigate an interview is crucial. You often can determine the
+overall communication objectives by answering the following two questions: For most
+news reports, you will have only one direct quotation; therefore, make it count. Write
+
+down  your  primary  message  point,  often  called  the  Single  Overriding  Health
+Communication Objective, or SOHCO (pronounced sock-O). You want your audience to
+remember this one key point because it is the most important message about the topic.
+A communications expert can help you refine the SOHCO and make sure it resonates.
+Say  the  SOHCO  at  the  beginning  of  the  interview.  At  the  end  of  the  interview,  the
+reporter most likely will ask you if you have anything else that you have not covered.
+Take  that  opportunity  to  repeat  the  SOHCO;  say,  for  example,  “Thank  you  for  your
+interest  in  this  topic.  The  most  important  thing  for  your  audience  to  remember  is
+[repeat  the  SOHCO].”  Never  provide  an  interview  when  first  contacted  by  the  media.
+When a reporter calls you directly, ask him or her for five pieces of information—name,
+contact  information,  a  list  of  topics  planned  for  discussion,  how  the  interview  will  be
+conducted,  and  the  deadline.  Tell  the  reporter  you  will  call  back  within  a  specific
+timeframe. Even if the reporter says the information is needed urgently, tell him or her
+you will call back promptly (e.g., in 5– 10 minutes). A 5-or 10-minute delay will give you
+time  to  gather  your  thoughts,  locate  helpful  or  needed  information,  and  identify  key
+messages. Reviewing the common questions asked during a media interview will help
+you prepare your response (14,15). You will need permission from the health authorities
+in the jurisdiction where the outbreak is occurring before you speak directly with any
+media.  Unless  you  have  that  permission,  you  should  direct  anyone  requesting  an
+interview to the health authority in charge. Also, ensure you know your organization’s
+policies  regarding  communications  with  the  media  (e.g.,  how  to  frame  statements
+related to your organization’s policies or official recommendations) and stay within the
+scope  of  your  responsibilities  when  talking  with  reporters.  Consult  a  communications
+expert  assigned  to  the  outbreak  investigation  about  policies  and  prior  clearances
+needed. Know your boundaries. If questions come up during an interview that fall under
+the purview or responsibility of other agencies or authorities, refer reporters to those
+entities  or  their  spokespersons.  Including  a  member  of  the  communications  team
+
+during  the  interview  can  help  with  obtaining  follow-up  information  for  the  media.
+Challenging  situations  and  questions  often  occur  during  interactions  with  the  news
+media or the public about an outbreak response or a public health investigation. Table
+12.2 provides Do’s and Don’ts for being a media spokesperson and avoiding possible
+communication traps. Source: Adapted from References 1, 6. Multiple techniques can
+help  you  handle  difficult  questions.  The  two  that  most  likely  will  be  most  helpful  are
+bridging  and  hooking  and  flagging.  When  you  flag  messaging,  you  verbally  cue  the
+reporter and audience to the key public health information they need to remember; for
+example, Additional tips are included here for managing media interviews; these tips
+can vary on the basis of the type of media and format of the interview (Table 12.3). Tips
+for mastering media interviews  a Bridging: Acknowledge the reporter’s question and
+then use a bridging phrase to transition to the crucial information you need to convey.
+Hooking and flagging: A hook provides the messaging in bite-sized chunks that help the
+audience retain more information, and a flag verbally cues the reporter and audience to
+the  key  public  health  information  they  need  to  remember.  SOHCO,  Single  Overriding
+Health Communication Objective. Source: Adapted from References 1, 6. To the extent
+possible, try to assess the effectiveness of media interactions. Review news stories and
+media coverage to learn how reporters are using the information you provided. Assess
+whether  the  key  messages  (SOHCO)  are  being  used  and  how—and  whether  the
+headlines approximate the ones that you were striving to convey. Each interview is an
+opportunity to learn and improve. If a reporter publishes inaccurate information, or the
+information you provided to reporters changes, work with a communications or media
+specialist  to  call  the  reporters  back  and  update  them  with  the  new  or  corrected
+information. In an ideal situation, the story will be published, and you will be satisfied
+with the headline and messages conveyed. As technology and media evolve, the public
+will  continue  to  adapt  and  get  information  in  new  ways.  Public  health  officials
+communicating about risks must evolve as well so that they can reach target audiences
+
+with important and timely health-related information by using the audience’s preferred
+communication  mechanisms.  The  communication  strategies  outlined  in  this  chapter
+have proved effective during outbreak responses and risk communication events and
+can be tailored and adapted to fit any public health event. During an outbreak, public
+health  officials  must  quickly  determine  the  communication  purpose,  the  persons  and
+populations  most  in  need  of  information  and  guidance,  ways  to  engage  with  news
+media  and  the  public,  and  ways  to  gauge  the  effects  of  messages  and  materials.
+Knowledge of how the news media and journalists operate, as well as the ability to use
+risk  communication  principles  and  best  practices,  increases  the  likelihood  of  success
+during  public  health  events.  Katherine  Lyon-Daniel  and  Sue  Swenson,  Centers  for
+Disease  Control  and  Prevention,  provided  assistance  and  technical  review  of  the
+chapter.  <  Previous  Chapter  11:  Developing  Interventions  Next  Chapter  13:  Legal
+Considerations > The fellowship application period and host site application period are
+closed.  For  questions  about  the  EIS  program,  please  contact  us  directly  at
+EISApplication@cdc.gov.
+
+Source URL: https://www.cdc.gov/eis/field-epi-manual/chapters/Communicating-Investigation.html

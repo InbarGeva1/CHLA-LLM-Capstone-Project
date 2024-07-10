@@ -1,0 +1,957 @@
+A .gov website belongs to an official government organization in the United States. A
+lock (  ) or https:// means you've safely connected to the .gov website. Share sensitive
+information  only  on  official,  secure  websites.  Through  these  investments,  CDC  is
+transforming how the nation and world combat antimicrobial resistance. For example,
+CDC  is:  Visit  the  AR  Investment  Map  The  map  currently  shows  fiscal  year  2023
+extramural funds that support CDC's antimicrobial resistance activities. CDC distributed
+the  largest  extramural  portion  of  funding  to  support  all  50  state  health  departments,
+several local health departments, and Puerto Rico, Guam, and the U.S. Virgin Islands.
+The map also includes fact sheets highlighting CDC's innovation work with partners to
+combat antimicrobial resistance. The information is updated yearly. CDC's investments
+in  innovation  to  combat  AR  since  2016  include:  CDC  supports  innovations  and
+collaborations  with  investigators  to  identify  and  implement  new  ways  to  prevent
+antimicrobial-resistant infections and their spread. CDC supports innovative research to
+slow antimicrobial resistance through various funding mechanisms. In fiscal years 2016
+through  2023,  CDC  awarded  more  than  $52  million  through  Broad  Agency
+Announcements  to  fight  antimicrobial  resistance.  CDC  funds  awardees  through  a
+competitive  selection  process  based  on  scientific  needs  and  funds  available  and  the
+awardees are typically announced each fall. The projects complement additional CDC
+antimicrobial  resistance  investments,  collectively  known  as  CDC's  AR  Solutions
+Initiative.  Through  these  investments,  CDC  is  transforming  how  the  nation  combats
+antimicrobial  resistance  at  all  levels.   Development  and  Application  of  a  National
+Pediatric Sepsis Event Surveillance Definition In this project, investigators will leverage
+their  earlier  experiences  in  developing  and  applying  a  national  approach  to  sepsis
+surveillance  in  adults,  as  well  as  preliminary  work  developing  pediatric  sepsis
+surveillance  definitions  at  the  Children's  Hospital  of  Philadelphia,  to  develop  and
+validate  an  optimized  pediatric  surveillance  definition  and  then  apply  it  to  electronic
+health  record  data  from  hundreds  of  U.S.  hospitals  to  estimate  total  annual  pediatric
+
+sepsis cases and deaths in infants and children who are more than 30 days old. They
+will also develop a toolkit that hospitals can use to implement this definition to track
+sepsis cases in children.  This work builds on the research priorities identified in 2019
+by a CDC-convened group of pediatric sepsis experts and will be led by investigators at
+Harvard  Medical  School  /  Harvard  Pilgrim  Health  Care  Institute  and  the  Children's
+Hospital of Philadelphia. The project team will partner with the Society for Critical Care
+Medicine Pediatric Sepsis Definition Task Force and include collaborators from Nemours
+Children's  Hospital,  HCA  Healthcare,  the  Clinical  Center  at  the  National  Institutes  of
+Health,  the  University  of  Colorado,  and  Lurie  Children's  Hospital  of  Chicago.
+Development of a curated, international, antibiotic-resistant gonorrhea specimen bank
+Researchers  will  establish  a  CDC  International  Antibiotic-Resistant  Gonorrhea  Isolate
+Bank,  which  will  include  a  diverse  set  of  Neisseria  gonorrhoeae  strains  based  on
+geography,  genomics,  and  antibiotic  susceptibility  profiles.  Gonorrhea  is  a  common
+sexually  transmitted  disease  that  can  spread  easily.  N.  gonorrhoeae  has  quickly
+developed  resistance  to  each  recommended  treatment  over  time  and  gonorrhea  is
+classified as an Urgent Threat in CDC's 2019 Antibiotic Resistance Threats Report. The
+CDC
+ International
+ Antibiotic-Resistant
+ Gonorrhea
+ Isolate
+ Bank
+ will
+ provide
+complementary  data  to  CDC's  domestic  specimens  available  through  the  Antibiotic
+Resistance  Laboratory  Network.  These  data  will  help  experts  understand  the
+emergence
+ and
+ spread
+ of
+ antibiotic-resistant
+ gonorrhea
+ domestically
+ and
+internationally  and  will  be  valuable  in  the  development  of  treatment  regimens,
+therapeutics,  diagnostics,  and  prevention  activities  needed  to  combat  this  threat.
+Improving prevention, detection, and response to antibiotic resistant bacteria in Kenyan
+hospitals  ICAP  at  Columbia  University  is  being  funded  to  develop  a  network  of  four
+hospitals  in  Kenya  to  improve  their  ability  to  detect  bacterial  infections,  determine
+antibiotic  resistance  in  the  infections,  assess  antibiotic  use  and  the  prevalence  of
+healthcare-acquired  infections,  and  develop  an  antibiotic  stewardship  collaborative  to
+
+improve  the  use  of  antimicrobials  at  the  hospitals.  These  activities  are  based  on
+principles  of  quality  improvement  and  use  a  variety  of  methods  including  laboratory
+evaluation, mentorship, and point prevalence surveys. ICAP will also support capacity of
+the  National  Public  Health  Laboratory  in  Kenya  to  detect  and  test  for  antimicrobial
+resistance.  Current  state  of  infection  prevention  and  control  (IPC)  programs  in  Latin
+American  hospitals  Researchers  will  assess  how  national  and  healthcare  facility  IPC
+policies  and  guidelines  are  being  adopted  and  implemented  in  hospitals  across
+Guatemala,  Panama,  Ecuador,  and  Argentina.  Latin  American  countries  are  facing  a
+high  burden  of  healthcare-associated  and  antibiotic-resistant  infections.  Findings  will
+inform  the  development  of  a  toolkit  that  other  countries  or  facilities  facing  similar
+challenges can use to improve their IPC efforts and reduce the spread of infections. This
+research  will  build  upon  the  latest  knowledge  by  assessing  current  IPC  practices,
+evaluating  the  healthcare  worker  perspective  on  IPC,  and  identifying  challenges  to
+implementing  effective  IPC  in  Latin  American  hospitals.  Assessing  Antibiotic
+Stewardship  Practices  in  Non-US  Healthcare  Settings  to  Guide  Implementation  Efforts
+Investigators  will  develop  a  context-specific  healthcare  facility  assessment  tool  to
+evaluate current antibiotic stewardship practices and needs across multiple institutions
+in various countries and regions globally. They will also perform qualitative interviews
+with key stakeholders to understand factors associated with successes and challenges
+in implementing antibiotic stewardship programs. Each of the three investigator groups,
+in  collaboration  with  their  partners  and  stakeholders,  will  focus  on  a  different  global
+region: Johns Hopkins University will work with partners in Latin America (Guatemala,
+Colombia, Panama, Ecuador and Argentina), University of Oxford and Duke University
+consultants will work with partners in South and South East Asia (Vietnam, Indonesia,
+Nepal  and  Thailand),  and  University  of  Pennsylvania  will  work  with  partners  in
+Southeast Africa (Botswana, South Africa and Zimbabwe). This project will identify gaps
+in  antibiotic  stewardship  programs  and  determine  context-specific  factors  associated
+
+with  successful  implementation  of  these  programs  to  improve  antibiotic  use  globally.
+Latin American A. fumigatus Azole Resistance Survey in 12 countries, 20 laboratories
+Researchers will conduct a survey of azole-resistant Aspergillus fumigatus throughout
+Latin  America  using  the  existing  Latin  American  Medical  Mycology  Network  (LAMMN).
+This survey will include air sampling using a citizen science approach—the involvement
+of  the  public  in  scientific  research—with  20  coordinating  LAMMN  laboratories  sending
+out and receiving specimen plates from the public. Researchers will isolate A. fumigatus
+and  screen  for  resistance.  The  extent  of  resistance  that  is  uncovered  will  help  guide
+treatment and appropriate prevention measures. The genetic background of resistant
+strains  will  be  determined  and  will  help  establish  how  resistance  is  spread.  This
+information  will  build  the  basis  of  early  and  appropriate  interventions  to  improve
+patient  outcomes,  reduce  death,  and  lower  health  care  costs,  which  are  of  special
+concern in countries with limited resources. Regional and global risk estimates for the
+emergence  and  persistence  of  MDR  and  XDR  strains  of  enterobacterial  human
+pathogens  Researchers  will  determine  the  mobile  genetic  elements  involved  in  the
+emergence of multi-drug resistant (MDR) Shigella sonnei and extensively drug-resistant
+(XDR) Salmonella Typhi. They will also look at the risk of spread for relevant antibiotic
+resistance genes. Researchers aim to develop bioinformatic pipelines (technology that
+helps store, analyze, and share biological data). This work will help understand when
+and where drug-resistant bacteria that are harmful to human health might emerge in
+the  future.  This  study  builds  upon  work  supported  by  a  previous  BAA.  Assessing
+Antibiotic Stewardship Practices in Non-US Healthcare Settings to Guide Implementation
+Efforts Collaborative project among Johns Hopkins University, University of Oxford with
+Duke  University  consultants,  and  University  of  Pennsylvania.  See  description  under
+Johns Hopkins University. Investigating prevalence of multidrug resistance in Botswana
+–  assessing  relatedness  using  whole  genome  sequencing  (IMPALA-TWO)  Researchers
+will add to their work from a previous BAA award on multidrug-resistant Gram-negative
+
+extended-spectrum
+ cephalosporin-resistant
+ Enterobacterales
+ (ESCrE)
+ and
+carbapenem-resistant  Enterobacterales  (CRE)  to  determine  the  genetic  diversity  of
+ESCrE and CRE in three regions of Botswana. Researchers will perform whole-genome
+sequencing on ESCrE and CRE isolates in order to describe the genetic mechanisms of
+resistance  and  evaluate  relatedness  between  organisms.  This  study  allows  continued
+research  to  understand  and  compare  colonization  of  ESCrE  and  CRE  and  lay  the
+groundwork  for  the  development  of  test  strategies  to  decrease  these  drug-resistant
+bacteria in the area, and possibly globally. Assessing Antibiotic Stewardship Practices in
+Non-US  Healthcare  Settings  to  Guide  Implementation  Efforts  Collaborative  project
+among Johns Hopkins University, University of Oxford with Duke University consultants,
+and  University  of  Pennsylvania.  See  description  under  Johns  Hopkins  University.
+Understanding  co-infection  with  multidrug-resistant  organisms  among  hospitalized
+patients  with  COVID-19  in  U.S.  Department  of  Veterans  Affairs  (VA)  hospitals
+Researchers will develop a better understanding of the relationship between COVID-19
+and  antibiotic  resistance  among  hospitalized  patients  to  inform  future  care  plans  for
+patients.
+ Researchers
+ will
+ focus
+ on
+ and
+ identify:
+ Carbapenem-resistant
+Enterobacterales  surveillance  in  two  intensive  care  units  in  India  Globally,  CRE  is
+associated  with  a  high  death  rate.  In  low-  and  middle-income  countries,  there  are
+barriers in healthcare access, diagnostic testing, and treatment options, which lead to
+negative health outcomes for patients with CRE infections. In India, CRE is commonly
+found  in  healthcare  facilities,  but  it  is  resource-intensive  for  healthcare  facilities  to
+monitor this threat. Researchers aim to find effective, feasible and sustainable way to
+implement  screening  for  carbapenem-resistant  Enterbacterales  (CRE)  in  hospital
+systems in low- and middle-income countries where resources are limited. This research
+is important because creating a robust way to screen for CRE in low- and middle-income
+countries  will  provide  data  needed  to  inform  infection  prevention  efforts  and  help
+healthcare  facilities  reduce  death  rates  caused  by  CRE  infections.  Interrogating  the
+
+phylogenomics  and  mobilome  of  colonizing  multidrug-resistant  organisms  (MDROs)  in
+hospitalized patients and community-dwellers in Pakistan In this study, researchers will
+collect  fecal  waste  (poop)  samples  and  nostril  and  armpit  swabs  from  seriously  ill
+patients  in  hospitals  in  Pakistan.  They  will  also  collect  samples  from  non-hospitalized
+people  who  live  in  the  patient's  home.  Researchers  will  compare  MDROs—including
+carbapenem-resistant
+ Enterobacterales
+ (CRE),
+ extended-spectrum
+ β-lactamase
+(ESBL)-producing Enterobacterales, methicillin-resistant Staphylococcus aureus (MRSA),
+and  vancomycin-resistant  Enterococcus  (VRE)—to  determine  if  there  is  a  connection
+between the germs in patients and the germs found in household members. MDROs are
+often found in healthcare settings (e.g., surfaces and hospital plumbing systems), but it
+is  not  known  if  there  is  a  link  between  these  healthcare  MDROs  and  MDROs  in  the
+community. By comparing the genetic relatedness of hospital MDROs with community
+MDROs,  researchers  will  determine  the  inter-connectedness  of  spread  between
+healthcare  facilities  and  the  community.  This  information  is  critical  to  direct  and
+improve  infection  prevention  strategies  in  the  region  to  prevent  spread.   Integrated
+Food  Safety  Centers  of  Excellence  One  Health  and  Antimicrobial  Resistance  Projects
+CDC-designated  Food  Safety  Centers  of  Excellence  will  lead  collaborative  One  Health
+projects  across  states  to  explore  antibiotic  stewardship  (improving  antibiotic  use),
+animal  health,  and  animal  ownership  and  their  impact  on  antibiotic-resistant  enteric
+(gut)  infections  in  humans.  These  efforts  will  guide  the  development  of  educational
+interventions and materials for animal owners, caretakers, and veterinarians to prevent
+the spread of infections. Projects include: Effective treatments for chronic polymicrobial
+infections:  Drug,  dose  &  duration  Researchers  will  use  experimental  model  systems
+based  on  lungs  that  are  infected  by  cystic  fibrosis  (CF)  to  test  the  effects  of  certain
+antibiotic drugs and their dosage and duration on antibiotic resistance (AR). People with
+CF suffer from life-long lung infections. Sometimes these infections can be caused by
+antibiotic-resistant germs, which are difficult to treat. Findings from this study will help
+
+inform  clinical  decisions  that  balance  CF  treatment  benefits  with  the  risks  of
+contributing  to  AR.  This  project  builds  on  similar  work  Georgia  Tech  accomplished  in
+2017. Read about some of the first project's outcomes. Multicenter Impact of COVID-19
+on  Secondary  Infections  and  Incidence  of  Hospital-onset  Antimicrobial-Resistant  (AR)
+and Fungal Organisms Researchers will describe the epidemiology and risk factors for
+secondary  bacterial  or  fungal  co-infections,  and  the  subset  associated  with  resistant
+organisms, in COVID-19 patients in intensive care units at three health systems in the
+Chicago  area.  These  data  will  enhance  current  understanding  of  risk  factors  for
+secondary co-infections in COVID-19 patients as well as determine drivers of AR among
+these  infections  to  support  disease  control  and  prevention  strategies.  introduction  of
+antimicrobial  resistant  Salmonella  species  and  bacterial  reservoirs  of  transmissible
+antibiotic resistance genes into food animal populations through livestock and poultry
+feed,  pet  food  and  treats  Researchers  will  examine  livestock  and  poultry  feed
+components,  and  pet  treats  of  animal  origin  (e.g.,  pig  ears)  for  potential  presence  of
+Salmonella species and other bacteria with antibiotic resistance genes. Researchers will
+compare  any  identified  contamination  of  imported  and  domestically  produced  feed
+components and pet treats. Based on the study results, researchers will create livestock
+feed and pet treat biosecurity recommendations for specific imported and domestically
+produced feed components intended to prevent the introduction of Salmonella species
+and  other  bacteria  with  antibiotic  resistance  genes.  Determining  the  Incidence  of
+Secondary Aspergillus Infections in Influenza positive patients Researchers will establish
+a  facility-level  surveillance  system  for  influenza-associated  invasive  pulmonary
+aspergillosis  (IAPA),  a  concerning  infection  that  can  be  caused  by  multidrug-resistant
+Aspergillus.  This  system  will  track  laboratory  and  clinical  data  from  patient  medical
+charts. Analysis will determine the incidence of IAPA and other invasive mold infections
+among patients with influenza, and the associated patient characteristics, risk factors,
+and  clinical  outcomes.  These  infections  are  often  reported  as  secondary  infections  in
+
+patients with influenza but little is known about them. Prevalence of and risk factors for
+community-associated antibiotic-resistant Enterobacterales and genes Researchers will
+identify generally healthy people (no inpatient healthcare stay in previous year and no
+current  antibiotic  use)  in  a  community  to  measure  how  commonly  they  carry  certain
+germs in their gut and the risk factors that may have exposed them to those germs.
+Healthy  people  can  carry  antibiotic-resistant  germs  in  their  gut  without  being  ill,  but
+these  germs  can  also  cause  serious  infections  in  some  circumstances  or  spread  to
+others who are more vulnerable to serious infection. Researchers will ask participants to
+answer questions about a wide variety of possible exposures and collect stool samples
+to  identify  resistant  bacteria.  They  will  determine  the  full  profile  of  all  antibiotic
+resistance genes present in the stool samples and compare them to genes observed in
+healthcare,
+ agricultural,
+ and
+ environmental
+ settings.
+ The
+ germs
+ include
+extended-spectrum
+ beta-lactamase
+ (ESBL)-producing
+ Enterobacterales,
+carbapenem-resistant  Enterobacterales  (CRE),  and  antibiotic-resistant  Escherichia  coli
+(E.  coli).  Researchers  will  evaluate  risk  factors  including  use  of  antibiotics  and  other
+prescription pharmaceuticals, age, housing, water source, lifestyle factors (e.g., travel,
+companion  animals),  bacteria  spread  within  households,  and  diet.  Evaluating  the
+targeted  use  of  gown  and  gloves  to  prevent  transmission  of  pathogens,  including
+antibiotic-resistant organisms, within ventilator units in nursing homes Researchers will
+test  the  feasibility  and  impact  of  a  new  gown  and  glove  strategy  for  healthcare
+providers in two nursing homes in Maryland to help prevent residents in ventilator units
+from
+ getting
+ Staphylococcus
+ aureus,
+ including
+ both
+ methicillin-resistant
+ and
+methicillin-susceptible  S.  aureus  (MRSA/MSSA),  and  carbapenem-resistant  Gram
+negative
+ bacteria,
+ including
+ Enterobacterales,
+ Pseudomonas
+ aeruginosa,
+ and
+Acinetobacter  species.  Residents  in  ventilator  units  are  at  a  higher  risk  of  getting
+infections, including those caused by antibiotic-resistant germs. Healthcare workers in
+nursing  homes  care  for  many  residents  across  different  areas  of  the  facility  and  can
+
+spread germs from resident to resident, including high-risk residents within ventilator
+units,  if  not  using  personal  protective  equipment  consistently  and  correctly  and  not
+cleaning  their  hands.  This  pilot  study  will  help  determine  if  a  new  gown  and  glove
+strategy  can  help  prevent  spread  of  germs.  Secondary  Infections  and  Antibiotic
+Resistance in Post-acute Care Patients with Recent COVID-19 Infection Researchers will
+determine  the  epidemiology  and  outcomes  associated  with  COVID-19  infection
+encountered in the post-acute care setting. The focus will be on secondary infections,
+colonization  (germs  are  present  but  no  signs  of  infection),  or  infection  with
+multidrug-resistant  germs.  Researchers  will  assess  risk  factors  among  patients  with
+recent COVID-19 infection admitted to a long-term acute care hospital. This work will
+help  answer  questions  regarding  the  long-term  infectious  outcomes  associated  with
+COVID-19.  Clinical  and  molecular  determinants  of  transmission  of  extended-spectrum
+beta-lactamase  (ESBLs)  in  the  community  Researchers  will  study  people  with  ESBL
+infections in the community to determine how often the germs spread within household
+settings  and  possible  reasons  for  spread.  Patients  included  in  this  study  will  have
+previously tested positive for an ESBL-producing Escherichia coli or Klebsiella species
+during a recent visit to an emergency department or outpatient practice. Researchers
+will evaluate the entire household over a two-month period starting as soon as possible
+after the patient is identified. They will collect stool samples from household members
+and pets and swab samples of common touch sites around the household. Other data
+collected  will  include:  Examining  the  relationship  between  SARS-CoV-2  and  antibiotic
+resistance  genes  within  municipal  sewage  treatment  facilities  and  the  possible
+transmission to their employees Researchers will examine wastewater treatment plant
+(WWTP)  systems  to  monitor  for  the  presence  of  SARS-CoV-2  (the  virus  that  causes
+COVID-19)  and  antibiotic  resistance  to  better  understand  community  spread  of
+COVID-19 and antibiotic resistance. The COVID-19 pandemic has resulted in increased
+antibiotic prescribing to prevent and treat secondary bacterial infections, which could
+
+drive significant changes in antibiotic resistance. WWTP systems have been identified
+as  critical  hubs  for  antibiotic  resistance  and  may  expose  treatment  plant  workers  to
+pathogens (germs). The results of the study will help CDC evaluate the performance of
+existing  AR  monitoring  systems,  inform  guidance  to  protect  utility  workers,  and
+establish a foundation for using municipal sewage as an indicator of community-wide
+viral  infection  burden.  Evaluation  of  risk  factors  for  the  development  of  secondary
+bacterial and fungal co-infections, including antibiotic-resistant organisms, in COVID-19
+patients in a regional healthcare system Researchers will describe the epidemiology of
+secondary resistant bacterial and fungal infections in hospitalized patients before and
+during  the  COVID-19  pandemic  across  socio-demographically  diverse  hospitals  in  the
+St. Louis area. The main objective of this work is to identify independent risk factors for
+secondary  infections  in  patients  with  COVID-19,  including  socioeconomic  status  and
+race. These findings will offer insights on how best to protect and care for higher risk
+populations.  Clostridioides  difficile  in  the  community  setting:  Identification  of
+epidemiologic  and  microbiome-related  risk  factors  for  colonization  and  household
+transmission Researchers will study C. difficile among previous patients who have been
+discharged  to  their  home.  Data  from  this  study  will  help  identify  epidemiologic  and
+microbiome-specific  risk  factors  for  spread  from  the  index  case  (first  individual  with
+infection)  to  their  household  contacts,  including  infection  or  colonization  (germs  are
+present but no signs of infection) of those contacts. The patients in this study tested
+positive for C. difficile in a specific healthcare facility during 2019 and were discharged
+home. Researchers will collect stool samples, as well as epidemiologic and behavioral
+risk factor data through interviews. Improving Environmental Control of Candida auris
+(C.  auris)  Contaminated  surfaces  and  equipment  in  hospitals  and  long-term  care
+facilities  are  a  major  source  of  C.  auris  transmission  (spread)  and  outbreaks.
+Researchers evaluated the effectiveness of different products and methods used for C.
+auris disinfection, including commonly used liquid disinfectants and applications of UV
+
+light for decontamination. Microbial bioburden of inpatient and outpatient areas beyond
+hospital patient rooms Contaminated environmental surfaces are an important potential
+source  for  spread  of  healthcare-associated  pathogens  (germs).  Researchers  will
+determine  the  frequency  of  environmental  contamination  in  inpatient  and  outpatient
+areas beyond hospital patient rooms and investigate the potential for hands to acquire
+and  transfer  pathogens  from  contaminated  surfaces  and  examine  shedding  of
+pathogens  by  patients  in  outpatient  settings.  Surveillance  for  Non-Ventilator
+Hospital-Acquired Pneumonia using Structured Electronic Clinical Data Researchers will
+provide  valuable  insights  into  the  feasibility  of  widescale  automated  surveillance  for
+non-ventilator  hospital-acquired  pneumonia  (NV-HAP)  using  routine  electronic  health
+record  data,  deepening  our  understanding  of  treatment  patterns  and  outcomes  for
+NV-HAP,  and  allowing  researchers  to  evaluate  emerging  NV-HAP  prevention
+interventions. Structure and dynamics of Salmonella plasmids and their involvement in
+the  dissemination  of  antibiotic  resistance  Researchers  will  identify  and  evaluate
+different  structures  and  dynamics  of  Salmonella  plasmids  and  how  they  spread
+antibiotic  resistance.  Group  A  Streptococcus  Molecular  Epidemiology  and  Ecology  An
+active surveillance system for Group A Streptococci (GAS) pharyngitis has not existed in
+the U.S. since 2007. Researchers will develop an outpatient GAS surveillance network in
+five  geographically  distinct  areas  to  better  understand  GAS  burden  and  trends  in  the
+U.S.  The  Need  for  Epidemiology  and  Antibacterial  Susceptibility  Assessment  of
+Otopathogens (infections in ears) causing Acute Otitis Media (AOM) in Children AOM is
+among  the  most  common  infectious  diseases  in  children  and  is  the  most  common
+bacterial infection in children for which antibiotics are prescribed. The researchers will
+examine effect of PCV13 (vaccine that protects against 13 pneumococcal bacteria) use
+on  incidence  of  antibiotic-resistant  pathogens  causing  otitis  media  in  children.
+Evaluating  Emergence  of  Resistance  and  Changes  in  Clinical  Pathogens  Following
+Introduction
+ of
+ Chlorhexidine
+ Bathing
+ Chlorhexidine
+ gluconate
+ (CHG)
+ is
+ a
+
+broad-spectrum,  topical  antiseptic  that  is  widely  used  in  healthcare.  Researchers  will
+evaluate potential unintended adverse consequences of long-term CHG use, including
+emergence of CHG resistance, emergence of co-resistance to antibiotics, and shifts in
+frequency  and  distribution  of  microbial  pathogens  producing  disease.  Evaluating
+Changes in Skin Cultures and Skin Microbiome Due to Chlorhexidine vs. Soap Bathing in
+Patients  Requiring  Acute  or  Long-Term  Care  in  Healthcare  Facilities  Previous  studies
+and clinical trials of CHG bathing have demonstrated large reductions in infections and
+multidrug-resistant  organisms.  However,  concerns  exist  about  the  unintended
+consequences  of  CHG  bathing  on  the  skin  microbiome.  Researchers  will  evaluate
+changes  to  the  skin  microbiome  in  patients  in  healthcare  facilities  following  CHG  use
+compared to soap bathing. Assessing human exposure to multidrug-resistant organisms
+in  environmental  waters  in  a  Chilean  community  Researchers  will  examine  what
+happens to humans when they are exposed to antibiotic-resistant pathogens in water
+from  a  Chilean  community.  Metabolomic  validation  of  an  intestinal  microbiome
+disruption model Researchers at Washington University in St. Louis will be using a small
+laboratory  system  that  resembles  the  human  gut  microbiome  to  look  for  markers  of
+microbiome  disruption  from  antibiotics.  Using  this  information,  they  will  develop  and
+test a panel of markers that may be able to help clinicians understand their patients'
+risk  for  infection  and  may  support  development  of  new  therapies  and  microbiome
+disruption diagnostics. The Leadership in Epidemiology, Antimicrobial Stewardship and
+Public Health (LEAP) Fellowship The LEAP Fellowship is a joint program of the Infectious
+Diseases  Society  of  America,  Society  for  Healthcare  Epidemiology  of  America,  and
+Pediatric  Infectious  Diseases  Society.  It  is  designed  to  provide  select  Fellows  at
+infectious  diseases  training  programs  across  the  nation  an  opportunity  for  immersive
+experiences  in  healthcare  leadership,  antimicrobial  stewardship  and  infection
+prevention, and the inner workings of public health departments. Assessing risk factors,
+clinical  course,  and  microbiologic  outcomes  in  patients  infected  with  Shigella  with
+
+elevated  ciprofloxacin  MIC  values  using  a  population-based  survey  in  California  This
+project will provide needed information about the proportion of Shigella infections with
+decreased susceptibility to first line antibiotics such as ciprofloxacin and azithromycin.
+This  project  aims  to  assess  the  severity  of  illness  and  outcomes  of  those  patients
+infected with Shigella with decreased susceptibility to these important antibiotics. The
+results of this project can may help inform treatment and prevention recommendations.
+Evaluation  of  barrier  precautions  for  prevention  of  patient-to-patient  transfer  of
+healthcare-associated pathogens This study will identify routes by which germs spread
+and examine the effectiveness of different barrier precautions to prevent the spread of
+healthcare-associated  infections  from  patient  to  patient.  Predictors  of  antimicrobial
+exposure  for  application  in  the  standardized  antimicrobial  administration  ratio  risk
+adjustment  strategy  Researchers  will  identify  patient  and  facility  level  factors
+associated with antibiotic use that can be captured in electronic health records and can
+be  used  for  benchmarking  antibiotic  use.  Improving  antimicrobial  use  at  hospital
+discharge  through  a  collaborative  pharmacist-led  transition-of-care  intervention
+Patients are often prescribed antibiotics when they are discharged (when they are sent
+home  from  the  hospital).  This  study  aims  to  improve  antibiotic  selection  and  reduce
+excess length of antibiotic therapy by facilitating a team antibiotic prescription review
+supported  by  pharmacists  at  the  time  of  discharge.  Electronic  direct-from-sample
+phenotypic antimicrobial susceptibility testing diagnostic for Neisseria gonorrhoeae The
+best approach to countering the spread of antibiotic resistant Neisseria gonorrhoeae is
+to treat patients quickly with effective antibiotics. ImpeDx Diagnostics, Inc. will develop
+a  rapid  system  to  provide  phenotypic  antibiotic  susceptibility  testing  results  for
+Neisseria gonorrhoeae directly from clinical samples in order to identify the preferred
+antibiotic  for  treatment  of  the  individual,  potentially  reducing  the  time  of  infection,
+improving public health response, and reducing the incidence of antibiotic resistance.
+Campylobacter  burden  testing  in  dogs  Researchers  will  determine  the  burden  of
+
+Campylobacter  in  dogs  by  sampling  commercial  breeding  colonies  and  collecting
+information  on  antibiotic  use  to  help  better  understand  risks  associated  with  the
+emergence  of  multidrug-resistant  Campylobacter.  Find  out  more  about  this  project,
+including information about Campylobacter occurrence, antibiotic resistance, and use of
+antibiotics in breeding kennels. Barriers and facilitators for implementation of infection
+prevention  practices  for  device  care  in  high-acuity  skilled  nursing  facilities:  A  human
+factors and systems engineering approach This study will evaluate how nursing home
+staff handle medical devices used during the care of residents, in order to identify best
+and  most  effective  practices  for  minimizing  harms  from  these  devices.  This  research
+will  identify  implementation  strategies  to  reduce  infections  and  transmission  of
+multidrug-resistant organisms among residents in skilled nursing facilities. A toolkit to
+enhance  nursing  antibiotic  stewardship  activities  Researchers  will  develop  and
+implement  an  antibiotic  stewardship  toolkit  for  nurses  that  focuses  on  improving
+assessment  of  penicillin  allergy  and  culturing  practices  (urine  and  respiratory)  based
+upon  algorithms.  Investigation  of  short  and  long  term  interventions  to  improve
+antibiotic  prescribing  in  dentistry  To  improve  antibiotic  prescribing  in  dentistry,
+researchers  will  analyze  insurance  claim  data  to  better  understand  prescribing  by
+dentists, test a customized peer comparison message to the most frequent prescribers,
+and promote existing guidelines for prophylactic prescribing in dentistry. Development
+of  reproducible,  quantitative  methods  based  on  shotgun  metagenome  sequencing  for
+assessment of risk of microbial transmission Using samples collected from a hospital,
+researchers  will  develop  methods  that  will  help  others  study  the  microbiome  of  the
+healthcare environment. This project will help healthcare providers ensure that facilities
+are safe. Candida auris, an emerging fungal pathogen of high concern Candida auris (C.
+auris) is an emerging, drug-resistant fungus that causes outbreaks of serious infections
+in healthcare settings. Patients who are colonized but not infected can transmit C. auris
+to  others  and  are  at  risk  of  infection  themselves.  This  study  will  help  us  better
+
+understand  factors  that  are  associated  with  C.  auris  colonization  in  high-risk  patients
+and  the  effectiveness  of  chlorhexidine  bathing  as  a  possible  decolonization  method.
+Genomic  epidemiology  of  community-onset  invasive  USA300  MRSA  infections
+Researchers  will  use  whole  genome  sequencing  (WGS)  to  examine  historical
+methicillin-resistant  Staphylococcus  aureus  (MRSA)  clinical  isolates  from  the  Cook
+County Health and Hospitals System in Chicago, IL. The objective of this study is to use
+WGS along with epidemiologic data to better understand the spread of MRSA between
+healthcare  and  community  settings,  with  an  ultimate  goal  to  identify  potential
+interventions  that  can  prevent  infections.  Metagenomic  analyses  study  through
+simulated  direct  and  indirect  healthcare-related  pathogen  transmission  events  This
+project  will  evaluate  and  develop  tools  which  can  detect  and  follow  the  spread  of
+specific  bacteria  and  microbial  communities  between  people  and  across  surfaces  in
+healthcare
+ settings.
+ Tracking
+ hospital
+ acquired
+ infections
+ using
+ advanced
+metagenomics  tools  Researchers  are  working  to  streamline  an  existing  sequencing
+method  and  develop  new  methods  to  track  healthcare-associated  infections  as  they
+spread  in  the  healthcare  setting.  Prevalence  of  mcr-harboring  Salmonella  and
+Escherichia coli in food products, food-producing animals, and their environments in the
+Dominican Republic Researchers will collect samples from food, food animals, and the
+environment  in  the  Dominican  Republic  and  test  for  mcr  genes,  which  can  confer
+resistance  against  colistin,  a  critically  important  antibiotic.  Researchers  will  examine
+the factors that contribute to the spread of these genes in the Dominican Republic to
+inform public health recommendations. A novel metric for benchmarking antibiotic use
+to  inform  outpatient  stewardship  Researchers  will  develop  an  evidence-based
+benchmark  rate  of  antibiotic  prescribing  for  children  with  acute  respiratory  tract
+infections. This metric will be applied to estimate how many adverse drug effects are
+associated  with  unnecessary  antibiotic  treatment.  This  study  will  also  design  an
+intervention  to  improve  antibiotic  prescribing  for  acute  respiratory  tract  infections.
+
+Antimicrobial use on crops and effects on antimicrobial resistant organisms and genes
+in  the  environment  Researchers  will  establish  field  plots  of  tomatoes  and  treat  these
+plots with organic fertilizers, herbicides, and antimicrobials. Following these treatments,
+samples from the plots will be analyzed to determine the kinds of antibiotic-resistant
+bacteria  and  genes  that  are  present  in  these  environments.  Mitigating  zoonotic
+transmission  of  Salmonella  Heidelberg  in  the  dairy  calf  production  chain  Researchers
+will  assess  the  effectiveness  of  cleaning  and  disinfection  methods  to  prevent  the
+transmission  of  Salmonella  Heidelberg  through  the  dairy  calf  production  chain.
+Researchers  will  develop  and  disseminate  educational  materials  on  cleaning  and
+disinfection to livestock markets and veal calf production facilities to reduce the spread
+of  Salmonella  Heidelberg.  Find  out  more  about  this  project  and  how  it  informed
+mitigation strategies to reduce the spread of antibiotic-resistant bacteria among calves,
+people,  and  the  environment.  Antimicrobial  stewardship  education  for  calf  producers
+Ohio  State  University  will  partner  with  calf  producers  to  assess  the  impact  of  a  farm
+antimicrobial  stewardship  plan  on  the  quantity  of  antimicrobials  used  for  disease
+treatment.  The  study  will  also  measure  changes  in  the  presence  and  diversity  of
+antimicrobial  resistant  genes  in  the  environment  before  and  after  implementation  of
+the  stewardship  plan.  Find  out  more  about  this  project,  including  how  the  project
+informed  mitigation  strategies  to  reduce  the  spread  of  antibiotic-resistant  bacteria
+among  calves,  people,  and  the  environment.  Hospital  and  community  burden  of
+colonization due to multidrug-resistant gram-negative bacteria in Chile This project will
+determine  the  prevalence  of  and  risk  factors  for  carriage  of  multidrug-resistant
+gram-negative  bacteria  in  communities  and  hospitals  in  Chile.  This  research  will
+demonstrate  how  resistant  bacteria  spread  and  will  help  identify  potential  strategies
+that  can  help  stop  spread  in  South  America.  Comparison  of  commercial  methods  for
+molecular  detection  of  Mycoplasma  pneumoniae  This  study  will  evaluate  the
+performance  of  commercially  available  diagnostic  tests  to  detect  Mycoplasma
+
+pneumoniae, a common cause of respiratory disease, and to identify antibiotic-resistant
+infections. Rapid lateral flow assay for rapid diagnosis of coccidioidomycosis to reduce
+the unnecessary use of antibacterial drugs This project will study the impact of a newly
+developed  rapid  test  to  diagnose  Valley  fever  (coccidioidomycosis),  a  fungal  lung
+infection,  in  patients  visiting  Tucson,  Arizona,  emergency  departments.  A  faster
+diagnosis  can  improve  patient  outcomes  and  reduce  unnecessary  antibiotic  use.
+Combined  surface  sampling  and  quantitative  microbial  risk  assessment  modeling  to
+optimize surface cleaning for targeted healthcare-associated infection reduction Germs
+can  spread  in  healthcare  settings  on  environmental  surfaces.  Researchers  will  use  a
+combination  of  surface  sampling  and  risk  assessment  modeling  to  characterize  the
+effectiveness  of  different  surface  decontamination  strategies  to  reduce  the  spread  of
+germs  and  healthcare-associated  infections.  Strategies  to  reduce  post-discharge
+invasive  Staphylococcus  aureus  infection  This  study  will  evaluate  what  percent  of
+Methicillin-resistant  Staphylococcus  aureus  (MRSA)  carriers  being  discharged  from
+hospitals  have  a  community-associated  strain.  Patients  sometimes  carry  the  germ
+without showing signs of it (colonization) and suffer infections from the strain later. This
+study will also assess what percent of patients carrying the community MRSA variant
+develop  later  infection  within  a  year  of  discharge.  Finally,  this  project  will  assess
+whether a repeated decolonization treatment can reduce post-discharge infections due
+to  this  strain.  Design  of  a  highly  multiplexed  targeted  sequencing  panel  for  the
+detection and characterization of antimicrobial resistance determinants from complex
+metagenomic samples This project will expand an approach that can analyze genetic
+data  directly  from  stool  samples  to  identify  known  antibiotic-resistant  genes,  a  faster
+way  than  other  testing  methods.  An  efficient  testing  panel  like  this  could  improve
+outbreak detection and patient outcomes. Azole-resistant Aspergillus fumigatus strains
+from  agricultural  sites  on  the  east  and  west  coasts  of  the  U.S.  Aspergillus  fumigatus
+causes deadly infections in immunocompromised patients, and strains have emerged in
+
+the  U.S.  that  are  resistant  to  all  azoles,  which  are  the  main  antifungals  used  for
+treatment.  Similar  azole  chemicals  are  used  as  agricultural  fungicides  to  treat  crops.
+Researchers  will  identify  and  isolate  Aspergillus  fumigatus  samples  from  agricultural
+sites in multiple U.S. regions to better understand the emergence and sources of azole
+resistance. This study builds upon work supported by a previous BAA. New approaches
+to improve the efficiency, sensitivity, specificity and standardization of sampling, DNA
+isolation, shotgun library preparation, and microbiome DNA enrichment and analysis in
+healthcare  settings  Understanding  what  bacteria,  viruses,  and  fungi  (which  together
+form a microbiome) exist in a healthcare environment and how they interact with each
+other  and  their  immediate  environment  can  help  prevent  and  control  infections.
+Researchers  will  develop  protocols  to  detect  microbes  and  characterize  the
+microbiomes  in  healthcare  settings  using  next-generation  DNA  sequencing.  These
+methods will improve the sensitivity and efficiency of detection, while providing more
+information about the microbes than current methods. A novel metric for benchmarking
+antibiotic use to inform outpatient stewardship Researchers will validate a human gut
+model  of  healthy  and  'disrupted'  human  microbiomes.  These  models  will  be  used  to
+determine  how  certain  bacterial  population  can  prevent  infection  by  C.  difficile  and
+other  multidrug-resistant  organisms,  and  reestablish  healthy  gut  microbiome  function
+after
+ receiving
+ antibiotics.
+ Transmission
+ of
+ antibiotic-resistant
+ bacteria
+ from
+patient-to-patient  in  the  healthcare  setting  and  the  impact  of  contact  precautions
+Researchers  will  study  how  antibiotic-resistant  bacteria  spread  from  patient  to
+healthcare provider and from healthcare provider to patient. They will also evaluate the
+effectiveness of barrier precautions such as gloves and gowns. Longitudinal impact of
+prophylactic  antibiotic  use  on  the  gut  microbiota  in  healthy  human  populations  This
+study will assess changes over time in the human gut microbiome in healthy patients
+undergoing elective surgery. Their ultimate goal is to develop measures that can assess
+microbiome  health  status  that  associate  with  important  clinical  outcomes,  such  as
+
+acquisition of an antibiotic-resistant organism. Using complimentary in vitro and in vivo
+models of the human microbiome to study antibiotic-mediated disruption Researchers
+are testing more cost effective models that will look at the effects antibiotics have on
+the  gastrointestinal  microbiome.  Enhancement  and  evaluation  of  metagenomics  tools
+to identify and sequence whole genomes of Neisseria gonorrhea from clinical samples
+Researchers will develop improved laboratory methods to better detect drug-resistant
+gonorrhea directly from patient samples and create publicly available tools to analyze
+genetic antibiotic resistance data. Colonization with multidrug-resistant gram negative
+bacteria  in  Botswana  This  project  will  measure  the  prevalence  of  and  risk  factors  for
+carriage  of  extended-spectrum  beta-lactamase  producing  Enterobacterales  (ESBL-EB)
+and  "nightmare  bacteria"  carbapenem-resistant  Enterobacterales  (CRE)  in  inpatients,
+outpatients,  and  households  in  Botswana.  This  research  will  help  us  understand  how
+these bacteria spread in healthcare facilities and communities and inform containment
+efforts in a country in Southern Africa. Metagenomic and whole-genome sequencing to
+define  resistome  evolution  during  antibiotic  exposure  and  long-term  acute  care
+Researchers will characterize how antibiotics change the microbial communities living
+in patients' lungs and guts, as well as investigate the evolution of antibiotic resistance
+in  Pseudomonas  aeruginosa  (a  type  of  bacteria  often  found  in  the  healthcare
+environment)  during  antibiotic  treatment.  Socio-ecological  coupling  of  antibiotic
+resistance and the potential risk of human exposure to antibiotic-resistant pathogens in
+bioaerosols  generated  during  wastewater  treatment  This  study  will  measure  the
+variability  of  antibiotic-resistant  bacteria  in  bioaerosols  (tiny  liquid  droplets  in  the  air
+that  can  contain  bacteria  and  viruses)  generated  during  waste  water  treatment  and
+evaluate  the  risk  of  exposure,  colonization  and  infection  to  treatment  plant  workers.
+The  study  will  compare  antibiotic  resistant  bacteria  found  in  employees  working  in
+wastewater treatment plants to those found in workers from drinking water treatment
+plants  where  exposure  to  antibiotic  resistant  bacteria  is  expected  to  be  much  lower.
+
+Clinical and microbiologic outcomes in patients treated for multidrug-resistant Shigella
+infections  in  Dhaka,  Bangladesh  This  study  will  look  at  clinical  and  microbiologic
+outcomes  in  patients  treated  for  drug-resistant  Shigella  infections  at  a  hospital  in
+Dhaka,  Bangladesh.  Data  from  this  study  can  be  used  to  help  determine  antibiotic
+breakpoints (which help determine if an antibiotic will be effective on an infection) for
+drug-resistant
+ Shigella.
+ Novel
+ interventions
+ and
+ approaches
+ to
+ mitigating
+carbapenemase-producing  Gammaproteobacteria  in  healthcare  premise  plumbing
+Carbapenemase-producing Gammaproteobacteria, a class of bacteria that can be highly
+resistant to today's strongest antibiotics, may colonize (or live in) the premise plumbing
+systems  of  healthcare  facilities.  This  project  will  investigate  those  factors  that  may
+influence  colonization  and  growth  of  these  organisms  in  sink  drains  and  use  a
+multifaceted approach to assess interventions designed to prevent the spread of these
+organisms  from  plumbing  to  patients.  Critical  barriers  to  antibiotic  resistance  during
+water  reclamation  and  reuse  Water  reclamation  and  reuse  uses  advanced  treatment
+methods to make treated wastewater safe for a variety of uses, like irrigation, cooling
+towers, reservoir augmentation, and aquifer recharge. This study will identify specific
+waste  water  reuse  treatment  methods  that  reduce  antibiotic-resistant  bacteria  and
+genes by comparing wastewater samples throughout the treatment train of two distinct
+advanced treatment facilities. Identifying treatment approaches that reduce antibiotic
+resistance  is  important  as  water  reuse  becomes  more  widely  adopted.  Optimizing
+in-building  disinfection  of  antibiotic-resistant  opportunistic  pathogens  This  study  will
+evaluate  the  effectiveness  of  a  variety  of  disinfection  methods  used  in  hospital
+plumbing systems to kill antibiotic-resistant bacteria and prevent evolution and spread
+of  new  resistant  strains.  The  findings  will  provide  helpful  guidance  to  hospitals  and
+similar facilities where disinfection is important to protect high-risk populations. Impact
+of early life antibiotic treatment in preterm infants on subsequent multidrug-resistant
+colonization and infection Researchers will use a mouse model to study the effects of
+
+antibiotics on the microbiomes of infants C. difficile nucleic acid amplification test cycle
+threshold  value  associated  environmental  contamination  (CONTAM  Study)  This  study
+will look at the shedding of C. difficile by asymptomatic C. difficile carriers (patients who
+may  carry  C.  difficile  but  do  not  show  symptoms)  and  symptomatic  patients  with  C.
+difficile  infection  among  cancer  (hematopoietic  cell  transplant  and  leukemia)  patients
+admitted to the Siteman Cancer Center. In addition, the immediate surrounding patient
+care  environments  associated  with  these  patients  in  the  facility  will  be  sampled  to
+understand environmental contamination. This study will help determine if additional C.
+difficile infection prevention measures are needed for these patients. Cross-validation
+of
+ human
+ fecal
+ minibioreactor
+ arrays
+ and
+ humanized
+ microbiota
+ mice
+ as
+complementary pre-clinical models of the gastrointestinal microbiome This project will
+evaluate  in  vitro  and  mouse  models  of  human  gut  microbiomes  to  help  create  a
+pre-screening  tool  to  evaluate  potential  therapies.  Rapid  assays  to  detect  Neisseria
+gonorrhea  antibiotic  resistance  at  the  point  of  care  Investigators  will  develop  and
+evaluate new diagnostics tools that can determine the antibiotics to which a patient's
+strain  of  gonorrhea  is  susceptible  (slowed  or  killed).  This  fast  and  efficient  test,  once
+available,  will  help  guide  individual  patient  management  and  can  be  used  to  identify
+antibiotic-resistant  strains  of  gonorrhea.  It  can  also  be  used  to  support  outbreak
+investigations  of  resistant  gonorrhea  in  the  community.  Natural  history  of  C.  difficile
+colonization  Researchers  will  use  data  to  show  how  C.  difficile  germs  spread  and  to
+develop more effective control measures. This project will grow our understanding of C.
+difficile colonization and infection. Prenatal antibiotic use and body weight in children
+The goal of this study is to examine the potential relationship between antibiotic use
+during  pregnancy  and  pediatric  weight  problems.  Computational  methods  for
+culture-independent  disambiguation  of  wgMLST  types  in  biological  samples  with
+multiple  related  bacterial  strains  Investigators  will  develop  computational  tools  to
+differentiate and analyze different types of DNA mixed in one sample. This project will
+
+help  laboratories  better  understand  the  make-up  of  a  mixture  and  its  threat  level.
+Antibiotic  resistance  in  concentrated  poultry  feeding  operations:  Impacts  on
+environmental waters This project will assess the types of antibiotic-resistant organisms
+in poultry houses, in addition to the amount of these organisms in a poultry house and
+further  downstream  in  environmental  waters.  Researchers  will  also  measure  the
+amount  of  veterinary  antibiotic  residues  in  downstream  environmental  waters.
+Optimization  of  therapeutic  strategies  to  manage  polymicrobial  CF  lung  infections:
+Clinical  assessment  Researchers  will  continue  this  project  from  last  year  to  identify
+novel  probiotic  and  antibiotic  intervention  strategies  for  patients  with  cystic  fibrosis.
+The project will validate and improve new treatment strategies by implementing them
+in  a  small  group  of  patients.  The  Leaders  in  Epidemiology,  Antimicrobial  stewardship
+and  Public  health,  or  LEAP,  Fellowship  are  Infectious  Diseases  Fellowships  to  drive
+innovative  education  and  approaches  in  antibiotic  resistance,  antibiotic  stewardship
+and public health This project establishes a fellowship for infectious disease physicians
+to  bridge  clinical  infectious  disease  and  public  health  work  in  the  areas  of  antibiotic
+resistance and antibiotic stewardship. Improved bioinformatics tools for detection and
+characterization of antimicrobial resistance in public health Researchers will develop a
+comprehensive gene and protein database and web-based resource that public health
+experts  can  use  to  quickly  detect  and  identify  antibiotic  resistance  genes  as  they
+emerge. Highly accessible system for infection control and antimicrobial stewardship in
+resource limited settings This project will modify a commercial cloud and mobile-based
+software  platform,  which  integrates  electronic  patient  data  and  local  treatment
+guidelines,  to  support  antibiotic  stewardship  and  infection  control  in  low-  and
+middle-income countries. Investigators will translate the software to Spanish and use it
+in  up  to  three  medical  sites  internationally.  Implementers  will  assess  factors  such  as
+cost,  clinical  impact,  and  feasibility.  Microbiome  disruption  and  Enterobacterales
+dominance as a risk factor for sepsis in intensive care patients Antibiotics can change
+
+the  intestinal  microbiome,  which  may  increase  the  risk  of  sepsis.  Researchers  will
+extend  previous  CDC-funded  work  to  assess  intestinal  microbiome  disruption  and
+dominance by the Enterobacterales order of bacteria as risk factors for sepsis.  Rapid
+identification  and  analysis  of  transmission  of  the  emerging  pathogen  Candida  auris
+Researchers  will  validate  a  new  rapid  diagnostic  platform  to  detect  the  multidrug
+resistant  fungal  pathogen  Candida  auris,  and  they  will  analyze  C.  auris  transmission
+patterns  in  healthcare  facilities  by  applying  advanced  genetic  fingerprint  methods.
+Perinatal antibiotics and weight gain in childhood Researchers will examine if antibiotics
+given  to  mothers  immediately  before  birth,  or  to  newborns  right  after  birth,  can
+increase  the  weight  gain  of  children  in  the  first  5  years  of  life.  Preventing  the
+dissemination  of  CRE  from  healthcare  facilities  into  surface  waters  in  the  US
+(continuation request) The study will evaluate potential discharge of antibiotic resistant
+bacteria from hospital sewage and test a technology to prevent it. Understanding the
+microbiologic dynamics of Carbapenemase-producing organisms in hospital wastewater
+premise  plumbing  This  project  will  track  carbapenemase-producing  organisms  in
+healthcare  facilities,  in  part  by  using  a  controlled  sink  lab  to  recreate  a  healthcare
+facility setting, to help guide facilities experiencing the transmission of these organisms
+from  the  healthcare  environment  or  plumbing.  The  prevalence  and  diversity  of
+antibiotic resistant bacteria in a mixed-use watershed Investigators will sample surface
+water to analyze it for human and agricultural waste and antibiotic-resistant bacteria.
+This project will help to determine how antibiotics, pathogens, and resistance elements
+move across environments and potentially pose a risk to human health.  Considering
+homologous and non-homologous recombination in outbreak analysis Researchers are
+developing  computational  tool  to  improve  analysis  of  bacterial  DNA  sequences,
+particularly from pathogen samples that are very closely related. Sentinel surveillance
+for  Macrolide-resistant  Mycoplasma  pneumoniae  at  select  sites  in  the  U.S.  Using
+samples  from eight hospitals,  researchers  will  determine the prevalence of  macrolide
+
+antibiotic  resistance  in  Mycoplasma  pneumoniae,  how  it  spreads,  and  how  it  affects
+patients. Reducing antibacterial use in patients with coccidioidomycosis This project will
+study  the  delay  in  diagnosis  of  Valley  Fever  (coccidioidomycosis)  in  Tucson,  Arizona
+where this disease is endemic (very common). To some clinicians, Valley Fever looks
+like  community  acquired  pneumonia.  The  University  of  Arizona  will  collect  the
+diagnostic codes for Valley Fever in its hospital computer system. Researchers will also
+analyze the health care cost due to delay in diagnosis and determine the unnecessary
+antibiotic  usage  for  better  antibiotic  stewardship  practices.  Azole  resistance  in
+agricultural  settings  Researchers  will  collect  and  characterize  azole-resistant  fungal
+strains from agricultural and horticultural sites. Azoles are used to protect crops from
+fungi, but azole-resistant fungi can infect people and cause disease that is difficult to
+treat  and  can  lead  to  death.  Implementation  of  a  novel  strategy  to  prevent
+Staphylococcus aureus (SA) acquisition in community-based nursing homes to prevent
+invasive SA infection: Feasibility and pilot to guide a multicenter stepped wedge cluster
+trial Researchers will conduct a pilot study (small-scale study that helps design larger
+studies)  on  the  use  of  additional  gowns  and  gloves  in  nursing  homes  to  prevent  the
+spread  of  Staphylococcus  aureus  infections.  Comparison  of  methods  for  detecting
+recombination  in  bacterial  whole  genome  sequences  Investigators  will  compare
+genome analysis methods that determine the source of genetic material. This project
+will
+ help
+ researchers
+ to
+ understand
+ the
+ relationships
+ and
+ transmission
+ of
+antibiotic-resistant  bacteria.  Double  blinded,  randomized  controlled  Trial  of  Oral
+vancomycin  versus  placebo  in  hospitalized  patients  with  diarrhea  and  stool  toXin
+NEGative but nucleic acid amplification test positive for toxigenic C. difficile (TOX NEG
+trial)  Researchers will assess the risks and benefits of C. difficile treatment compared
+to a placebo treatment. Researchers will determine the impact of oral antibiotics on the
+microbiome, antibiotic resistance, C. difficile, and colonization of a multi-drug resistant
+organism, healthcare environment contamination, duration of diarrhea, and outcomes.
+
+Rectal microbiome disruption indices associated with acquisition of multidrug-resistant
+organism  among  subjects  exposed  to  antimicrobials  The  project  will  identify
+characteristics of the microbiome that can predict which patients are at highest risk of
+acquiring  multidrug-resistant  organisms  to  develop  novel  strategies  that  can  prevent
+people  from  acquiring  drug-resistant  bacteria.  Barriers  and  facilitators  for  NHSN
+adoption  in  nursing  homes  The  national  study  will  determine  the  barriers  of  nursing
+homes  to  tracking  C.  difficile  and  multidrug-resistant  organisms  using  CDC's  National
+Healthcare Safety Network (NHSN), and what resources are needed to overcome these
+barriers.  Surveillance  of  resistance  gene  carriage  in  patients  with  hematologic
+malignancies: A taxonomy-focused approach Researchers will work to understand the
+transfer  of  antibiotic  resistance  genes  in  Leukemia  patients  and  what  role  the
+microbiome  is  playing.  Evaluating  the  use  of  an  adenosine  triphosphate  (ATP)
+bioluminescence assay to optimize hospital cleaning The study will evaluate the use of
+a  new  technology  to  measure  and  thereby  optimize  hospital  room  cleaning.
+Optimization  of  therapeutic  strategies  to  manage  polymicrobial  cystic  fibrosis  lung
+infections The project aims to reduce the risk of lung infections in patients with cystic
+fibrosis by determining what protective alterations can be made to their microbiome. 
+Preventing
+ the
+ dissemination
+ of
+ carbapenem-resistant
+ Enterobacterales
+ from
+healthcare  facilities  into  surface  waters  in  the  U.S.  The  study  will  evaluate  potential
+discharge of antibiotic-resistant bacteria from hospital sewage and test a technology to
+prevent  it.  Randomized  controlled  trial  of  Autologous  microbiome  reconstitution  to
+prevent  colonization  by  antibiotic-resistant  bacteria  A  study  in  which  stool  will  be
+collected  from  patients  before  they  go  to  nursing  homes.  The  stool  will  be
+re-administered  to  the  patients  after  they  receive  antibiotics  to  restore  their
+microbiomes  and  prevent  drug-resistant  infection.  A  randomized  controlled  trial  of
+encapsulated fecal microbiota for vancomycin-resistant Enterococcus decolonization A
+study  of  fecal  microbiota  transplantation  administered  as  a  capsule  to  decolonize
+
+patients with Vancomycin-resistant Enterococcus (VRE). Doctor-patient communication
+Researchers  will  study  doctor-patient  communication  in  acute  care  visits,  including
+communications
+ that
+ may
+ include
+ educating
+ patients
+ about
+ antibiotics.
+ A
+comprehensive  study  of  multidrug-resistant  determinants  and  drivers  in  the  fungal
+pathogen  Candida  glabrata  A  study  to  better  define  the  genetic  mechanisms  and
+drivers  fueling  the  emergence  of  drug-resistant  fungal  infections  and  validate  a  new
+diagnostic platform to rapidly identify resistant strains of Candida glabratra in the clinic
+and community. Unlocking the microbial ecology of environmental antibiotic resistance
+Researchers will target adapting molecular tools to improve understanding of the role
+of  microbial  communities  in  antibiotic  resistance  in  the  environment.  A  longitudinal
+assessment  of  the  resistome  among  patients  treated  with  intravenous-administered
+ceftriaxone  The  project  will  explore  how  selective  pressure  in  the  form  of
+intravenous-administered ceftriaxone excreted into the gastrointestinal tract may lead
+to the emergence of antibiotic resistance in the gut microbiome, and whether specific
+intervention from SYN-004 (ribaxamase), the Company's clinical-stage beta-lactamase
+designed
+ to
+ protect
+ the
+ gut
+ microbiome,
+ may
+ prevent
+ the
+ emergence
+ of
+antibiotic-resistant  organisms  in  the  gut  microbiome.  Challenges  and  facilitators  to
+standardized  measurement  of  infections  related  to  C.  difficile  and  multidrug-resistant
+organisms  in  nursing  homes  The  project  will  identify  challenges  and  facilitators  to
+implementing  standardized  measurement  of  C.  difficile  and  other  multidrug-resistant
+organism  events  in  nursing  homes.  Resistance  and  genetics  of  community-acquired
+foodborne  urinary  tract  infections  The  project  will  study  the  role  of  retail  food  as  a
+potential source of multidrug-resistant Escherichia coli that cause community-acquired
+urinary  tract  infections  among  college-age  women.  A  multifaceted  intervention  to
+improve prescribing for acute respiratory infection The project will evaluate behavioral
+approaches, audit and feedback, and peer-to-peer comparisons to reduce unnecessary
+antibiotic  prescribing  among  physicians  for  adult  and  pediatric  patients  who  come  to
+
+emergency
+ departments
+ and
+ urgent-care
+ centers
+ with
+ respiratory
+ infections.
+Metagenomic shotgun sequencing to detect colonization, invasion, and transmission of
+multidrug-resistant  organisms  Investigators  at  Cincinnati  Children's  Hospital  will  use
+new  methods  to  analyze  the  microbiome  to  precisely  monitor  colonization,  infection,
+and  transmission  of  multi-drug  resistant  bacteria.  Improving  antibiotic  stewardship  in
+long-term  care  through  the  UTIDecide  Electronic  Clinical  Decision  Support  A  project
+studying  the  use  of  an  electronic  clinician  decision  support  tool  to  improve  antibiotic
+use for urinary tract infections in nursing home patients. Nitric oxide releasing ultra-low
+fouling
+ antibacterial
+ intravascular
+ catheters
+ Researchers
+ will
+ be
+ developing
+next-generation  coatings  to  combat  antibiotic-resistant  bacteria  in  medical  devices.
+Implementation  of  a  C.  difficile  infection  reduction  bundle  in  acute  care  hospitals:
+Feasibility  and  pilot  to  guide  a  multicenter  stepped  wedge  cluster  trial  A  project  to
+implement  and  assess  a  prevention  bundle  for  C.  difficile  infection  in  acute  care
+hospitals.  Longitudinal impact of prophylactic antibiotic use on the gut microbiota in
+human  populations  The  study  will  work  to  determine  how  the  microbiome  of  surgery
+patients are impacted by antibiotics used before, during, and after orthopedic surgery.
+Detection and prognosis of colonization by Extended-spectrum Beta-lactamase (ESBL)
+producing  Enterobacterales  The  project  will  develop  of  a  diagnostic  test  to  detect
+colonization and domination of the microbiome with ESBL-producing bacteria. Genomic
+insights into the origin and spread of antibiotic resistance in nursing homes The project
+seeks  to  apply  genome  sequencing  to  understand  how  antibiotic  resistance  spreads
+within and between healthcare facilities. Patient hand hygiene initiative A study on how
+improving hand hygiene of patients could prevent patients from becoming colonized or
+infected  with  drug-resistant  bacteria.  Preventing  spread  of  carbapenem-resistant
+Enterobacterales among veterans through an automated tracking system An effort to
+develop  and  use  a  carbapenem-resistant  Enterobacterales  patient  registry  in  the
+Veterans Affairs hospital system. Stool microbiome features to discriminate C. difficile
+
+colonization  and  infection  The  study  will  apply  microbiome  analysis  to  define  stool
+bacterial community types in patients who are colonized or infected with C. difficile in
+order  to  better  understand  non-C.  difficile  microbes,  with  the  hope  of  improving  our
+ability to diagnose, treat, and prevent C. difficile infection. Respiratory tract microbiome
+composition and risk for antibiotic-resistant lower respiratory infection during long-term
+acute  care  The  study  will  comprehensively  characterize  respiratory  tract  microbiome
+composition and change during the course of prolonged mechanical ventilation in order
+to  define  bacterial  community  features  associated  with  hazard  for  lower  respiratory
+tract  infection,  particularly  lower  respiratory  tract  infection  due  to  antibiotic-resistant
+pathogens. Targeted Reduction of Antimicrobials for Prevention of C. difficile Infection
+(TRAP-CDI)  The  study  aims  to  compare  the  effectiveness  of  two  antimicrobial  use
+strategies  for  prevention  of  C.  difficile  infection  in  the  hospital  setting  and  to  better
+understand  the  attitudes,  social  norms  and  beliefs  of  healthcare  providers  about  C.
+difficile  infection  and  antimicrobial  stewardship.  Impact  of  human  and  food  animal
+wastes on antimicrobial gene abundance and Escherichia coli susceptibility patterns: A
+watershed  approach  The  use  of  advanced  genetic  analyses  to  investigate  how  the
+spread  of  antibiotic-resistant  genes  in  a  river  system  is  influenced  by  discharges  of
+antimicrobials  and  human  and  animal  wastes.  Assessing  the  risk  of  acquisition  of
+Carbapenemase-producing
+ Enterobacterales
+ from
+ exposure
+ to
+ contaminated
+wastewater premise plumbing The study aims to understand the risk to patients posed
+by sink drains contaminated with drug resistant bacteria. Development of NHSN's AUR
+data  and  SAAR  to  support  antibiotic  benchmarking  program  among  Vizient  members
+The  project  will  identify  how  to  create  and  deliver  antibiotic  use  data  reports  to
+hospitals. It will identify aspects of compelling reports that best help hospitals address
+inappropriate prescription practices. Enduring effects of early life antibiotic therapy on
+microbiota development and antibiotic resistance gene carriage in the preterm infant
+gut Investigators will research the long-term effects of early-life antibiotic therapy on
+
+microbiota  development  and  how  that  affects  the  mobility  of  antibiotic-resistances
+genes  in  the  preterm  infant  gut.  Prospective  study  characterizing  fecal  microbiome
+disruptions  during  and  after  receipt  of  antimicrobials  The  study  will  characterize  the
+extent and duration of microbiome disruptions observed during and after usual courses
+of antimicrobials used to treat community-acquired pneumonia. Intestinal Metabolomic
+Factors  affecting  Clostridium  difficile  Colonization  and  Infection  The  study  will  lead  a
+group of clinicians, chemists, and mathematicians to identify how diet, metabolism, and
+intestinal  microbes  interact  to  protect  against  C.  difficile  infection.  Identification  of
+microbial
+ disruption
+ indices
+ predictive
+ of
+ colonization
+ by
+ multidrug-resistant
+Pseudomonas aeruginosa  The study will track the microbiome of patients in intensive
+care  units  over  time  to  predict  risk  of  infection  of  multidrug-resistant  Pseudomonas
+aeruginosa. CDC supports activities carried out by state and local health departments,
+partners,  and  investigators  to  combat  antimicrobial  resistance.  CDC  supports  most  of
+these  activities  through  the  Antimicrobial  Resistance  (AR)  Solutions  Initiative,  and
+leverages  investments  from  successful  programs  across  the  agency  for  maximum
+efficiency. These activities are funded through different mechanisms, some of which are
+listed below. CDC funding solicitation and award announcements change from year to
+year. Visit FedBizOpps to find current opportunities and exact deadlines throughout the
+Federal Government. Find the latest CDC antimicrobial resistance activities by state on
+the AR Investment Map. Antimicrobial resistance happens when germs like bacteria and
+fungi  can  defeat  the  drugs  designed  to  kill  them.  Languages  Language  Assistance
+Languages  Language Assistance 
+
+Source URL: https://www.cdc.gov/antimicrobial-resistance/programs/AR-investment-map.html

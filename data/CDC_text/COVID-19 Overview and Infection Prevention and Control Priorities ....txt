@@ -1,0 +1,136 @@
+Official websites use .gov A .gov website belongs to an official government organization
+in  the  United  States.  Secure  .gov  websites  use  HTTPS  A  lock  (   )  or  https://  means
+you've  safely  connected  to  the  .gov  website.  Share  sensitive  information  only  on
+official,  secure  websites.  COVID-19  Overview  and  Infection  Prevention  and  Control
+Priorities  in  non-US  Healthcare  Settings  [PPT  –  5  MB]  This  overview  was  created  for
+healthcare  workers  in  non-U.S.  healthcare  settings  and  government  officials  at
+ministries of health working on the Coronavirus Disease 2019 (COVID-19) response. The
+information  in  this  document  draws  from  the  Centers  for  Disease  Control  and
+Prevention  (CDC)  and  World  Health  Organization  (WHO)  guidance  documents  and
+Infection  Prevention  and  Control  (IPC)  priorities  for  the  response  to  COVID-19  in
+healthcare settings and includes information that can be used in non-U.S. contexts. This
+overview is organized by first presenting a background on coronaviruses. It then briefly
+describes  the  emergence,  transmission,  symptoms,  prevention,  and  treatment  of
+COVID-19.  The  rest  of  the  document  reviews  COVID-19  IPC  priorities,  in  non-U.S.
+healthcare settings. Coronaviruses are a large family of viruses that can cause illness in
+animals  or  humans.  In  humans  there  are  several  known  coronaviruses  that  cause
+respiratory  infections.  These  coronaviruses  range  from  the  common  cold  to  more
+severe  diseases  such  as  severe  acute  respiratory  syndrome  (SARS),  Middle  East
+respiratory syndrome (MERS), and COVID-19. COVID-19 was identified in Wuhan, China
+in December 2019. COVID-19 is caused by the virus severe acute respiratory syndrome
+coronavirus  2  (SARS-CoV-2),  a  new  virus  in  humans  causing  respiratory  illness  which
+can  be  spread  from  person-to-person.  Early  in  the  outbreak,  many  patients  were
+reported to have a link to a large seafood and live animal market; however, later cases
+with  no  link  to  the  market  confirmed  person-to-person  transmission  of  the  disease.
+Additionally,  travel-related  exportation  of  cases  occurred.  There  are  three  main  ways
+that COVID-19 can spread: The droplets that contain the SARS-CoV-2 virus are released
+when someone with COVID-19 sneezes, coughs, or talks. Infectious droplets can land in
+
+the mouths or noses of people who are nearby or possibly be inhaled into the lungs. A
+physical  distance  of  at  least  1  meter  (3  ft)  between  persons  is  recommended  by  the
+WHO to avoid infection,1 whereas CDC recommends maintaining a physical distance of
+at  least  1.8  meters  (6ft)  between  persons.  Respiratory  droplets  can  land  on  hands,
+objects, or surfaces around the person when they cough or talk, and people can then
+become infected with COVID-19 from touching hands, objects or surfaces with droplets
+and then touching their eyes, nose, or mouth. Additionally, transmission can occur from
+those  with  mild  symptoms  or  from  those  who  do  not  feel  ill.  There  are  certain
+circumstances  that  can  increase  the  risk  of  infection  for  COVID-19  such  as  poorly
+ventilated  space.  In  indoor  spaces  with  poor  ventilation,  the  concentration  of  virus
+particles  is  often  higher  than  outdoors.2,3  Other  factors  that  are  associated  with
+increased COVID-19 risk include prolonged exposure to those infected with COVID-19,
+close contact with infected persons, and any other activity that leads to exposure to a
+greater  amount  of  respiratory  droplets  and  particles.  A  wide  range  of  symptoms  for
+COVID-19  have  been  reported.4  These  symptoms  include:  The  estimated  incubation
+period is between 2 and 14 days with a median of 5 days. It is important to note that
+some people become infected and do not develop any symptoms or feel ill. COVID-19 is
+a  relatively  new  disease;  therefore,  additional  risk  factors  for  severe  COVID-19  may
+continue to be identified. In some cases, people who get COVID-19 can develop severe
+complications,  including  difficulty  breathing,  causing  a  need  for  hospitalization  and
+intensive  care.  5  These  severe  complications  often  lead  to  death.  The  risk  of  severe
+disease increases steadily as people age. Additionally, those of all ages with underlying
+medical conditions, including but not limited to heart disease, diabetes or lung disease,
+are   at  higher  risk  to  develop  severe  COVID-19  compared  to  those  without  these
+conditions.5  Those  at  higher  risk  for  severe  illness  should  be  prioritized  for
+vaccination.6  COVID-19  can  be  prevented  through  pharmaceutical  (i.e.,  vaccination)
+and  non-pharmaceutical  interventions  (e.g.,  masking,  physical  distancing,  hand
+
+hygiene). All of these preventative measures are important to protect individuals from
+acquiring and transmitting the SARS-CoV-2 virus and should be done in conjunction with
+one  another.  Getting  vaccinated  is  a  preventative  measure  that  people  can  take  to
+avoid getting sick with COVID-19 and to avoid infecting others. While safe and effective
+vaccines are a great tool for prevention, it is important to continue other preventative
+actions  such  as  wearing  masks,  performing  hand  hygiene,  physically  distancing  from
+others,  and  avoiding  crowded  spaces  and  spaces  with  poor  ventilation.7   There  are
+several vaccine candidates, and many have been listed under WHO’s emergency use.
+Wearing  masks  is  another  important  preventative  action  for  COVID-19  that  should
+continue to be performed. When selecting a mask, there are many factors to consider.8
+Masks should It is also important to choose and wear the proper type of mask based on
+your  setting.  For  example,  in  a  community  setting,  cloth  masks  should  be  worn,
+whereas during aerosol generating procedures in a healthcare setting, should be worn.
+Even  with  the  introduction  of  vaccinations  as  a  tool  for  prevention  against  COVID-19
+and  the  proper  use  of  masks,  CDC  recommends  the  following  key  COVID-19
+preventative  activities:  7—  avoiding  crowded  spaces  or  spaces  that  have  poor
+ventilation or wear a mask in these spaces; performing proper hand hygiene; keeping
+high  touch  surfaces  clean;  monitoring  symptoms;  and  getting  tested  if  ill.  Infection
+prevention  and  control  (IPC)  is  the  practice  of  preventing  or  stopping  the  spread  of
+infections from the delivery of healthcare services in facilities like hospitals, outpatient
+clinics,  dialysis  centers,  long-term  care  facilities,  or  traditional  practitioners.  IPC  is  a
+critical part of health system strengthening and must be a priority to protect patients
+and  healthcare  workers.  In  the  context  of  COVID-19,  the  IPC  goal  is  to  support  the
+maintenance  of  essential  healthcare  services  by  containing  and  preventing  COVID-19
+transmission  within  healthcare  facilities  to  keep  patients  and  healthcare  workers
+healthy  and  safe.  As  safe  and  effective  COVID-19  vaccines  continue  to  be  delivered,
+there  are  certain  recommendations  and  principles  that  should  be  implemented  and
+
+considered for vaccine administration. Consultations and consensus between WHO, the
+United Nations Children’s Fund (UNICEF), and the ad hoc WHO COVID-19 IPC Guidance
+Development Group have led to the development of a document that outlines key IPC
+principles  and  recommended  proper  precautions  for  safe  administration  of  COVID-19
+vaccines. Consult the Infection prevention and control (IPC) principles and procedures
+for COVID-19 vaccination activities document when preparing for vaccine deployment.
+10  The  key  IPC  principles  for  COVID-19  vaccine  deployment  set  out  in  the  document
+include: Standard precautions are a set of practices that apply to the care of patients in
+all  healthcare  settings  at  all  times.  Standard  precautions  remain  the  cornerstone  of
+infection  prevention  and  control.  Application  of  these  precautions  depends  on  the
+nature of the healthcare worker-patient interaction and the anticipated exposure to a
+known infectious agent. Standard precautions include: Transmission-based precautions
+are a set of practices specific for patients with known or suspected infectious agents
+that require additional control measures to prevent transmission. These precautions are
+used in addition to standard precautions. Current WHO guidance for healthcare workers
+caring for suspected or confirmed COVID-19 patients recommends the use of contact
+and  droplet  precautions  in  addition  to  standard  precautions  unless  an  aerosol
+generated  procedure  is  being  performed,  in  which  case  airborne  precautions  are
+needed.1 Disposable or dedicated patient care equipment, such as stethoscopes, blood
+pressure  cuffs,  should  be  used.  If  equipment  needs  to  be  shared  among  patients,  it
+should  be  cleaned  and  disinfected  between  use  for  each  patient  using  products
+containing  ethyl  alcohol  of  at  least  70%.  Also,  adequately  ventilated  single  rooms  or
+wards  are  suggested.  For  general  ward  rooms  with  natural  ventilation,  adequate
+ventilation  for  COVID-19  patients  is  considered  to  be  60  L/s  per  patient.  When  single
+rooms are not available, suspected COVID-19 patients should be grouped together with
+beds  at  least  1  meter  (3ft)  apart  based  on  WHO’s  recommendations,  although  some
+member  states,  including  the  United  States,  have  recommended  maintaining  greater
+
+distances whenever possible. COVID-19 isolation rooms or wards should have dedicated
+bathrooms, which should be cleaned and disinfected at least twice daily. Additionally,
+healthcare  facilities  can  also  consider  designating  healthcare  workers  to  care  for
+patients  with  COVID-19  and  restricting  the  number  of  visitors  allowed  in  the  facility.
+Transportation  of  patients  with  COVID-19  should  be  avoided  unless  medically
+necessary. If transportation is deemed medically necessary, a mask should be placed
+on the suspected or confirmed COVID-19 patient. Healthcare workers should also wear
+the appropriate PPE when transporting patients. Contact and droplet precaution PPE are
+recommended  for  healthcare  workers  before  entering  the  room  of  suspected  or
+confirmed COVID-19 patients. Healthcare workers should be trained on the correct use
+of PPE, including how to put it on and remove it. Extended use and re-use of certain PPE
+items  such  as  masks  and  gowns  can  be  considered  when  there  are  supply
+shortages. Healthcare workers should: There is a higher risk of self-contamination when
+removing  PPE.  Please  see  instructions  for  putting  on  and  removing  PPE  [2.9  MB,  3
+pages]  for  guidance.  For  healthcare  workers  performing  any  of  the  following  aerosol
+generating  procedures  on  patients  with  COVID-19,  it  is  recommended  that  a  fitted
+respirator  mask  (surgical  N95  respirators,  FFP2  or  equivalent)  is  used  as  opposed  to
+surgical/medical  masks.  In  addition  to  wearing  a  fitted  respirator  mask,  healthcare
+workers should also wear appropriate PPE, including gloves, a gown and eye protection.
+Although there is a difference in determination on which procedures generate infectious
+aerosol,  the  current  WHO  list  of  Aerosol  Generating  Procedures  includes:1  To  receive
+email updates about COVID-19, enter your email address:
+
+Source URL: https://www.cdc.gov/coronavirus/2019-ncov/hcp/non-us-settings/overview/index.html

@@ -1,0 +1,189 @@
+A .gov website belongs to an official government organization in the United States. A
+lock (  ) or https:// means you've safely connected to the .gov website. Share sensitive
+information only on official, secure websites. 
+Related Topics:
+ Similar  to  other  multidrug-resistant  organisms  (MDROs),  C.  auris  spreads  easily  in
+healthcare settings and can cause outbreaks. C. auris can colonize patients for many
+months,  persist  on  surfaces,  and  is  not  killed  by  some  commonly  used  healthcare
+facility  disinfectants.   Hand  hygiene,  appropriate  precautions,  and  environmental
+disinfection prevent and control outbreaks. The primary infection control measures for
+prevention  of  C.  auris  transmission  in  healthcare  settings  are:  In  most  instances,
+facilities  equipped  to  care  for  patients  with  other  multidrug-resistant  organisms
+(MDROs) or Clostridioides difficile can also care for patients with C. auris. C. auris can
+persist  on  surfaces  in  healthcare  settings.  C.  auris  has  been  cultured  from  multiple
+locations  in  patient  rooms.  The  fungus  has  been  found  on  both  high-touch  surfaces,
+such as bedside tables and bedrails, and surfaces farther away from the patient, such
+as windowsills. Several common hospital disinfectants are not effective against C. auris.
+ Some  products  with  C.  albicans  or  fungicidal  claims  may  not  be  effective  against  C.
+auris.  Accumulating  data  indicate  that  products  solely  dependent  on  quaternary
+ammonia  compounds  (QACs)  are  NOT  effective.  CDC  recommends  using  an
+Environmental Protection Agency (EPA)–registered hospital-grade disinfectant effective
+against C. auris. See EPA's List P for a current list of EPA-approved products for C. auris.
+ If the products on List P are not accessible or otherwise suitable, facilities may use an
+EPA-registered hospital-grade disinfectant effective against C. difficile spores (List K).  It
+is  important  to  follow  all  manufacturer's  directions  for  use,  including  applying  the
+product  for  the  correct  contact  time  for  all  products.  Research  about  disinfection
+
+effective against C. auris is ongoing. Data on "no-touch" devices, such as germicidal UV
+irradiation and vaporized hydrogen peroxide, are limited. The parameters required for
+effective disinfection are not yet well understood. These methods should only be used
+as  a  supplement  to  standard  cleaning  and  disinfection  methods.  Perform  thorough
+routine  (at  least  daily)  and  terminal  cleaning  and  disinfection  of  patients'  rooms  and
+areas where patients receive care. Appropriately disinfect radiology, physical therapy,
+and  other  areas  of  the  hospital  patients  may  have  visited.  Medical  equipment  that  is
+shared between patients can spread C. auris. Clean and disinfect equipment after each
+use.  Label  disinfected  equipment  and  separate  it  from  dirty  equipment.   Examples
+include:  CDC  and  health  department  outbreak  investigations  have  found  that
+healthcare personnel are not always aware of ftheir responsibilities for cleaning mobile
+and shared equipment. Responsibilities for cleaning all mobile and reusable equipment
+should be well-established. Healthcare personnel should be aware of which equipment
+they  are  responsible  to  clean  and  trained  in  disinfection  methods.  When  caring  for
+patients  with  C.  auris,  healthcare  providers  should  follow  standard  hand  hygiene
+practices.  Alcohol-based  hand  sanitizer  is  preferred  for  C.  auris  when  hands  are  not
+visibly soiled. If hands are visibly soiled, wash with soap and water. Wearing gloves is
+not a substitute for hand hygiene. The Transmission-Based Precautions and Enhanced
+Barrier Precautions for C. auris are similar to those used for other multidrug-resistant
+organisms  (MDROs).  In  most  instances,  facilities  equipped  to  care  for  patients  with
+other MDROs or Clostridioides difficile can also care for patients with C. auris.  In acute
+care  and  long-term  acute  care  hospitals,  healthcare  providers  should  use  Contact
+Precautions. In nursing homes and skilled nursing facilities, healthcare providers should
+use  either  Contact  Precautions  or  Enhanced  Barrier  Precautions  (EBP),  based  on  the
+situation and local or state jurisdiction recommendations.   Refer to the CDC Guidance
+on  Enhanced  Barrier  Precautions  for  more  details  about  when  Contact  Precautions
+versus Enhanced Barrier Precautions would apply. Hospitals and nursing homes Patients
+
+on Contact Precautions should be placed in a single-patient room whenever possible. In
+situations  where  limited  single-rooms  are  available,  prioritize  placing  patients  with
+higher  likelihood  of  transmission  (such  as  those  with  uncontained  secretions  or
+excretions,  diarrhea,  and  draining  wounds).  Facilities  can  group  C.  auris  patients
+together in a dedicated unit or part of a unit. This decreases movement of healthcare
+personnel  and  equipment  to  non-affected  areas.  Facilities  could  also  consider
+dedicating healthcare personnel (e.g., nurses, nursing assistants) who provide regular
+care to these patients during a shift. In nursing homes, facilities with the capacity may
+consider placing patients with C. auris in single-patient rooms. Healthcare providers can
+find  recommendations  about  patient  placement  in  nursing  homes  using  Enhanced
+Barrier Precautions (EBP) in CDC's FAQs about Enhanced Barrier Precautions in Nursing
+Homes. When single rooms are not available, facilities may choose to cohort patients
+with  C.  auris  together  in  the  same  room.  It  is  preferable  to  cohort  patients  with  the
+same  MDROs  together.  However,  facilities  may  assign  rooms  based  on  single  (or  a
+limited  number  of)  high-concern  MDROs  (e.g.,  C.  auris  or  carbapenemase-producing
+Enterobacterales) without regard to co-colonizing organisms. Reducing transmission in
+cohort  settings  Facilities  must  implement  strategies  to  help  minimize  transmission
+between  roommates  when  patients  are  placed  in  shared  rooms.  The  following
+strategies  apply  for  all  shared  rooms,  regardless  of  patient  colonization  or  infection
+status:  Before  making  decisions  to  cohort  patients  according  to  C.  auris  or  other
+high-concern MDROs, consider the benefits and drawbacks. Ensure these practices are
+implemented without increasing the risk of pathogen spread in dedicated units or areas
+in  a  facility.  Placing  patients  with  C.  auris  or  other  high-concern  MDROs  in  the  same
+room,  or  in  a  dedicated  unit,  wing,  or  area  (even  if  in  single-patient  rooms)  with
+dedicated  staff  can  help  prevent  the  transfer  of  healthcare  personnel  and  equipment
+between those colonized or infected with C. auris and those who are not.  This strategy
+may  be  best  used  for  initial  room  assignments  in  facilities  performing  admission
+
+screening for select MDROs or for a single MDRO in facilities with an acute outbreak.
+Moving  patients  to  the  same  room,  unit,  or  areas  based  on  MDROs  increases  patient
+movement,  and  in  some  circumstances,  increases  C.  auris  transmission.  This  risk
+increases if there are gaps in environmental cleaning. Facilities choosing to implement
+this  strategy  should  do  so  in  a  way  that  reduces  overall  exposures  throughout  the
+facility.  This  includes  avoiding  frequent  room  changes  that  lead  to  environmental
+contamination  in  more  areas  and  more  healthcare  contacts  that  could  be  exposed.
+Patient transfer Notify the receiving facility or unit of the patients C. auris infection or
+colonization  status  when  transferring  a  patient.  This  includes  recommended
+Transmission-Based Precautions. An example of an infection control transfer form to aid
+this  communication  can  be  found  at  the  top  of  the  Healthcare-Associated  Infections
+Prevention  Toolkits  web  page.  Ensuring  that  all  healthcare  personnel  adhere  to
+infection  control  recommendations  is  critical  to  preventing  transmission  of  C.  auris,
+other MDROs, and communicable diseases. Consider taking the steps outlined below to
+enhance  adherence.  The  following  is  interim  guidance  for  patients  with  C.  auris  who
+require  dialysis  care.  Further  updates  will  be  provided  as  additional  information
+becomes available. In addition to following Standard Precautions and infection control
+practices routinely recommended for the care of all hemodialysis patients, facilities and
+healthcare  personnel  at  dialysis  centers  should  follow  the  guidance  outlined  below.
+Inform and educate appropriate personnel about the presence of a patient with C. auris
+and the need for specific infection control measures. Use alcohol-based hand sanitizer
+as the preferred method for cleaning hands when they are not visibly soiled. If hands
+are visibly soiled, wash with soap and water. Wearing gloves is not a substitute for hand
+hygiene.  Wear  gowns  and  gloves  using  proper  donning  and  doffing  techniques  when
+caring for patients with C. auris or touching items at the dialysis station. Remove gowns
+and  gloves,  dispose  of  them  carefully,  and  perform  hand  hygiene  when  leaving  the
+patient's  station.  Minimize  exposure  to  other  patients  by  dialyzing  the  patient  at  a
+
+station with as few adjacent stations as possible (e.g., at the end or corner of the unit),
+and  consider  dialyzing  the  patient  on  the  last  shift  of  the  day.   Properly  clean  and
+disinfect reusable equipment brought to the dialysis station after each use. Thoroughly
+clean  and  disinfect  the  dialysis  station  (e.g.,  chairs,  side  tables,  machines)  between
+patients  by  using  products  approved  for  use  against  C.  auris  (see  above  for  more
+information about these disinfectant products and List P). If the patient is transferred to
+another healthcare facility, inform the receiving facility of the patient's C. auris status.
+Communication  tools  can  be  found  in  Healthcare-Associated  Infections  Prevention
+Toolkits.  In  addition  to  following  Standard  Precautions  and  infection  control  practices
+routinely  recommended  for  care  of  all  patients  in  outpatient  settings,  facilities  and
+healthcare  personnel  should  follow  the  guidance  outlined  below.  Inform  and  educate
+appropriate healthcare personnel about the presence of a patient with C. auris and the
+need for infection control measures outlined below. Use alcohol-based hand sanitizer as
+the preferred method for cleaning hands when they are not visibly soiled. If hands are
+visibly soiled, wash with soap and water. Wearing gloves is not a substitute for hand
+hygiene.  As  always,  perform  hand  hygiene  when  entering  and  leaving  the  patient's
+room. Wear gown and gloves using proper donning and doffing techniques if extensive
+patient  contact  is  anticipated  or  contact  with  infected  areas  is  planned  (e.g.,
+debridement or dressing of colonized or infected wound). Remove gowns and gloves,
+dispose of them carefully, and perform hand hygiene when leaving the patient's room.
+Thoroughly clean and disinfect the areas in the facility the patient came into contact
+with (e.g., chairs, exam tables) by using products with EPA-registered claims for C. auris
+(List  P).  Properly  clean  and  disinfect  reusable  equipment  (e.g.,  blood  pressure  cuffs)
+used in the care of the patient after each use. If the patient needs to be admitted or
+referred to another facility, inform the receiving facility of the patient's C. auris status.
+In  addition  to  following  Standard  Precautions  and  infection  control  practices  routinely
+recommended  in  home  healthcare  settings,  personnel  should  follow  the  guidance
+
+outlined below. If possible, schedule patients with C. auris as the last visit of the day.
+Use alcohol-based hand sanitizer as the preferred method for cleaning hands when they
+are  not  visibly  soiled.  If  hands  are  visibly  soiled,  wash  with  soap  and  water.  Wearing
+gloves  is  not  a  substitute  for  hand  hygiene.  As  always,  perform  hand  hygiene  when
+entering and leaving the patient care area. Wear gown and gloves using proper donning
+and  doffing  techniques  when  entering  the  area  of  the  house  where  providing  patient
+care. Remove gowns and gloves and dispose of them carefully when leaving the area.
+Properly clean any reusable equipment (e.g., blood pressure cuffs) brought to the home
+after each use. If the patient needs to be admitted or referred to another facility, inform
+the  receiving  facility  of  the  patient's  C.  auris  status.  The  risk  of  C.  auris  infection  for
+otherwise  healthy  household  members,  even  those  with  extensive  contact  with  the
+patient, is believed to be low. Nearly all cases of C. auris colonization detected to date
+have  been  associated  with  admission  to  a  healthcare  facility.  Household  members
+should  practice  good  hand  hygiene  (i.e.,  use  of  alcohol-based  hand  sanitizers  or
+frequent  handwashing  with  soap  and  water).  Household  members  could  consider
+wearing  disposable  gloves  while  providing  high-touch  care  to  a  person  with  C.  auris,
+such as changing the dressing on an infected wound, and perform hand hygiene after
+glove  removal.  Although  the  risk  of  C.  auris  colonization  among  healthy  household
+members  is  thought  to  be  very  low,  household  members  who  require  admission  to  a
+healthcare  facility  can  inform  healthcare  providers  that  they  live  with  someone
+colonized  with  C.  auris  so  that  colonization  testing  can  be  considered.  Patients  in
+healthcare  facilities  often  remain  colonized  with  C.  auris  for  many  months,  perhaps
+indefinitely,  even  after  an  acute  infection  (if  present)  has  been  treated  and  resolves.
+CDC  recommends  continuing  Contact  Precautions  or  Enhanced  Barrier  Precautions,
+depending on the healthcare setting, for the entire duration of all inpatient healthcare
+stays.  This  includes  patients  in  long-term  healthcare  facilities.  Surveillance  has
+identified patients that remained colonized for longer than 4 years and it is likely that
+
+colonization  may  even  persist  longer.  Repeat  colonization  swabs  may  alternate
+between detecting and not detecting C. auris. A considerable number of patients have
+had  a  positive  C.  auris  specimen  after  multiple  negative  swabs.  CDC  does  not
+recommend  routine  reassessments  for  C.  auris  colonization.  Long-term  follow-up  of
+colonized  patients  in  healthcare  facilities,  especially  those  patients  who  continue  to
+require complex medical care, such as ventilator support, suggests colonization persists
+for a prolonged period of time.  In a publication by Pacilli et al. (Clin Infect Dis 2020),
+among patients who had a positive C. auris screening result followed by one or more
+negative screening results, more than 50% had a subsequent positive screening result.
+Additional information is being collected to understand the duration of colonization and
+the role of colonization in spread of C. auris. The decision to discharge a patient from
+one level of care to another should be based on clinical criteria and the ability of the
+accepting  facility  to  provide  care—not  on  the  presence  or  absence  of  infection  or
+colonization.  At  this  time,  no  specific  intervention  is  known  to  reduce  or  eliminate  C.
+auris  colonization.  Laboratory  evidence suggests  that high  levels  of  chlorhexidine are
+active against C. auris. However, the effects of chlorhexidine on reducing C. auris skin
+burden  or  infection  have  not  been  systematically  assessed.  C.  auris  outbreaks  and
+transmission have been observed in facilities routinely using chlorhexidine bathing. C.
+auris is an emerging fungus that can cause severe, often multidrug-resistant, infections.
+It  spreads  easily  among  patients  in  healthcare  facilities.  Languages  Language
+Assistance Languages  Language Assistance 
+
+Source URL: https://www.cdc.gov/candida-auris/hcp/infection-control/index.html

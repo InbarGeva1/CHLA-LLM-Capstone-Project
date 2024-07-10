@@ -1,0 +1,163 @@
+Official websites use .gov A .gov website belongs to an official government organization
+in  the  United  States.  Secure  .gov  websites  use  HTTPS  A  lock  (   )  or  https://  means
+you've  safely  connected  to  the  .gov  website.  Share  sensitive  information  only  on
+official,  secure  websites.  The  following  practices  should  be  considered  when
+SARS-CoV-2 and Influenza viruses are found to be co-circulating based upon local public
+health  surveillance  data  and  testing  at  local  healthcare  facilities.  While  these
+considerations  are  specific  to  care  of  residents  residing  in  nursing  homes,  some
+practices could be adapted for use in other long-term care settings (e.g. assisted living
+communities). Place symptomatic residents in Transmission-Based Precautions using all
+recommended  PPE  for  care  of  a  resident  with  suspected  SARS-CoV-2  infection.1
+Because some of the signs and symptoms of influenza and COVID-19 are similar, it may
+be  difficult  to  tell  the  difference  between  these  two  respiratory  diseases  based  on
+symptoms  alone.  Residents  in  the  facility  who  develop  symptoms  of  acute  illness
+consistent with influenza or COVID-19 should be moved to a single room, if available, or
+remain in their current room, pending results of viral testing. They should not be placed
+in a room with new roommates, nor should they be moved to a COVID-19 care unit (if
+one  exists),  unless  they  are  confirmed  to  have  COVID-19  by  SARS-CoV-2  testing.
+Nursing  home  residents,  including  older  adults,  those  who  are  medically  fragile  and
+those with neurological or neurocognitive conditions, may manifest atypical signs and
+symptoms  of  SARS-CoV-2  or  influenza  virus  infection  and  may  not  have  fever.  Older
+adults  with  COVID-19  may  not  always  manifest  fever  or  respiratory  symptoms.  Less
+common symptoms can include new or worsening malaise, headache, or new dizziness,
+nausea, vomiting, diarrhea, and loss of taste or smell. Test any resident with symptoms
+of  COVID-19  or  influenza  for  both  viruses.  Because  SARS-CoV-2  and  influenza  virus
+co-infection can occur, a positive influenza test result without SARS-CoV-2 testing does
+not  exclude  SARS-CoV-2  infection,  and  a  positive  SARS-CoV-2  test  result  without
+influenza  testing  does  not  exclude  influenza  virus  infection.  Stay  connected  with
+
+the healthcare-associated infection program in your state health department, as well as
+your  local  health  department,  and  their  notification  requirements.  The  local  public
+health and state health departments should be notified of every suspected or confirmed
+influenza  or  SARS-CoV-2  outbreak  in  a  long-term  care  facility,  especially  if  a  resident
+develops  influenza  while  on  or  after  receiving  antiviral  chemoprophylaxis.  A)  Obtain
+respiratory
+ specimens
+ for
+ influenza
+ and
+ SARS-CoV-2
+ testing.2,3
+ Check
+ the
+manufacturer’s  package  insert  for  approved  respiratory  specimens.  There  are  no
+FDA-cleared  influenza  diagnostic  assays  that  utilize  saliva  specimens.  If  available,
+multiplex nucleic acid detection assay for SARS-CoV-2, influenza A and B viruses can be
+performed onsite, or at an offsite clinical laboratory.4,5 Two different specimens may
+need to be collected if a multiplex nucleic acid detection assay including both influenza
+viruses  and  SARS-CoV-2  is  unavailable.2,3  B)  Test  for  SARS-CoV-2  by  nucleic  acid
+detection5  OR  by  SARS-CoV-2  antigen  detection  assay.6  Because  antigen  detection
+assays  have  lower  sensitivity  than  nucleic  acid  detection  assays  for  detecting
+SARS-CoV-2  in  upper  respiratory  tract  specimens,  a  negative  SARS-CoV-2  antigen
+detection assay result in a symptomatic person does not exclude SARS-CoV-2 infection
+and  should  be  confirmed  by  either  a  negative  result  from  a  SARS-CoV-2  nucleic  acid
+detection assay or a second negative antigen test result on an upper respiratory tract
+specimen collected 48 hours after the first negative test result. 7 If the second antigen
+test is negative, per FDA guidance, a third antigen test could be considered if there is a
+high  clinical  suspicion  of  COVID-19.  New  SARS-CoV-2  infection  identified  in  HCP  or
+nursing  home-onset  infection  in  a  resident  should  prompt  additional  testing  of  other
+residents and staff in the facility.1 C) Test for influenza by rapid influenza nucleic acid
+detection  assay;8  if  a  rapid  influenza  nucleic  acid  detection  assay  is  not  available,
+perform  rapid  influenza  antigen  detection  assay.9  Because  of  lower  sensitivities  to
+detect influenza viruses, confirm negative rapid influenza antigen detection test results
+in  a  symptomatic  person  by  influenza  nucleic  acid  detection  assay.  D)  Test  for  other
+
+respiratory pathogens; if residents with acute respiratory illness test negative for both
+influenza and SARS-CoV-2 per the above testing recommendations, consider additional
+viral (e.g., RSV) or bacterial testing based on respiratory pathogens known or suspected
+of circulating in the community. Placement Decisions A) Residents confirmed to have
+SARS-CoV-2  infection  should  be  placed  in  a  single  room,  if  available,  or  housed  with
+other residents with only SARS-CoV-2 infection. If unable to move a resident, he or she
+could  remain  in  the  current  room  with  measures  in  place  to  reduce  transmission  to
+roommates  (e.g.,  optimizing  ventilation).  Residents  found  to  have  SARS-CoV-2  and
+influenza  virus  co-infection  should  be  placed  in  a  single  room  or  housed  with  other
+co-infected  residents.  These  residents  should  continue  to  be  cared  for  using  all
+recommended PPE for the care of a resident with SARS-CoV-2 infection.1 If single room
+isolation  or  cohorting  of  residents  with  SARS-CoV-2  and  influenza  virus  co-infection  is
+not possible, consult with public health authorities for guidance on other management
+options  (e.g.,  transferring  the  resident;  placing  physical  barriers  between  beds  in
+shared rooms and initiating antiviral chemoprophylaxis for roommates to reduce their
+risk of acquiring influenza, improving ventilation by adding HEPA filters). B) Residents
+confirmed to have influenza virus infection only should be placed in a single room, if
+available, or housed with other residents with only influenza virus infection. If unable to
+move a resident, he or she could remain in the current room with measures in place to
+reduce
+ transmission
+ to
+ roommates
+ (e.g.,
+ optimizing
+ ventilation,
+ antiviral
+chemoprophylaxis for exposed roommates). Residents with influenza should be placed
+in  Droplet  Precautions,  in  addition  to  Standard  Precautions.  As  part  of  Standard
+Precautions, eye protection should be worn if splashes or sprays are anticipated (e.g.,
+the resident is coughing or sneezing). Because it can be difficult to anticipate potential
+for coughs and sneezes, facilities might consider having healthcare personnel routinely
+wear  eye  protection  for  the  care  of  residents  with  influenza.  C)  Residents  with
+symptoms of acute respiratory illness who are determined to have neither SARS-CoV-2
+
+nor  influenza  virus  infection  should  be  cared  for  using  Standard  Precautions  and  any
+additional  Transmission-Based  Precautions  based  on  their  suspected  or  confirmed
+diagnosis.10  Clinical  Management11  A)  Prescribe  antiviral  treatment  as  soon  as
+possible if influenza testing is positive OR prescribe empiric antiviral treatment based
+upon  a  clinical  suspicion  of  influenza  while  test  results  are  pending  for  symptomatic
+residents.11-13  Antiviral  treatment  for  influenza  should  be  administered  as  soon  as
+possible  following  clinical  diagnosis.  B)  Properly  manage  residents  with  SARS-CoV-2
+infection. Recommendations for treatment of persons with COVID-19 are available from
+the  National  Institutes  of  Health  COVID-19  Treatment  Guidelines  Panel.  Treatment
+should  be  administered  as  soon  as  possible  for  nursing  home  residents  with
+mild-to-moderate  COVID-19  who  are  at  high  risk  of  progression  to  severe  COVID-19.
+See the latest recommendations on Therapeutic Management of Nonhospitalized Adults
+With  COVID-19.  C)  For  adult  patients  with  suspected  community-acquired  pneumonia
+who do not require hospitalization, see antibiotic treatment recommendations from the
+American
+ Thoracic
+ Society-Infectious
+ Diseases
+ Society
+ of
+ America
+ Adult
+Community-acquired Pneumonia Guidelines.14
+D)  Influenza  antiviral  chemoprophylaxis  considerations.11,12,15  The  facility  should
+promptly  initiate  antiviral  chemoprophylaxis  with  oral  oseltamivir  to  all  exposed
+individuals  (e.g.,  roommates)  of  residents  with  confirmed  influenza.  When  at  least  2
+residents are ill within 72 hours of each other with laboratory-confirmed influenza, the
+facility should expand antiviral chemoprophylaxis to non-ill residents living on the same
+unit  as  the  residents  with  influenza  (outbreak  affected  units),  regardless  of  influenza
+vaccination status. Persons receiving antiviral chemoprophylaxis who develop signs or
+symptoms  should  be  tested  (see  above)  and  switched  to  antiviral  treatment  doses
+pending  results.  E)  Encourage  influenza  vaccination  for  unvaccinated  residents  and
+HCP.  The  facility  should  encourage  influenza  vaccination  of  all  residents  and  staff.  F)
+
+Encourage  residents  and  HCP  to  remain  up  to  date  with  recommended  COVID-19
+vaccine  doses.  The  facility  should  encourage  all  individuals  to  be  up  to  date  with  all
+recommended  COVID-19  vaccine  doses,  based  upon  the  latest  recommendations.  G)
+Encourage RSV vaccination for unvaccinated residents aged 60 years and older, based
+upon  shared  decision-making.   The  facility  should  encourage  RSV  vaccination  based
+upon discussions between the patient, the patient’s family or guardian, and healthcare
+provider. H) Encourage pneumococcal vaccination for unvaccinated residents aged 65
+years  and  older,  and  for  younger  high-risk  individuals.  The  facility  should  encourage
+eligible  high-risk  residents  to  receive  pneumococcal  vaccination.  I)  Simultaneously
+administer  the  vaccines  for  which  residents  and  HCP  are  eligible.   In  general,
+simultaneous  administration  of  vaccines  remains  a  best  practice.  Providers  should
+continue  to  simultaneously  administer  the  vaccines  for  which  a  patient  is  eligible,
+including
+ COVID-19,
+ influenza,
+ and
+ pneumococcal
+ vaccines.
+ Simultaneous
+administration of RSV vaccine with other vaccines for older adults is also acceptable.
+When deciding whether to simultaneously administer other vaccines with RSV vaccine
+on  the  same  day,  providers  should  consider  whether  the  patient  is  up  to  date  with
+recommendations for currently recommended vaccines, the feasibility of administering
+additional vaccine doses later, risk for acquiring vaccine-preventable disease, vaccine
+reactogenicity profiles, and patient preferences. To receive weekly email updates about
+Seasonal Flu, enter your email address:
+
+Source
+ URL:
+https://www.cdc.gov/flu/professionals/diagnosis/testing-management-considerations-nursinghomes.htm

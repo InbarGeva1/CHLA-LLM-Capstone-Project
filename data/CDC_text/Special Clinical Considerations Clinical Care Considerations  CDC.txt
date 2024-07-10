@@ -1,0 +1,142 @@
+Official websites use .gov A .gov website belongs to an official government organization
+in  the  United  States.  Secure  .gov  websites  use  HTTPS  A  lock  (   )  or  https://  means
+you've  safely  connected  to  the  .gov  website.  Share  sensitive  information  only  on
+official, secure websites. ‹  View Table of Contents  People with immunocompromising
+conditions  and  people  who  take  immunosuppressive  medications  or  therapies  are  at
+increased risk for severe outcomes with COVID-19, including hospitalization, intensive
+care unit admission, mechanical ventilation, and death.30,31 Studies show that people
+with  a  hematologic  or  solid  organ  cancer,  hematopoietic  stem  cell  or  solid  organ
+transplant,  or  who  are  taking  immunosuppressive  medications  can  experience  lower
+vaccine  effectiveness  than  those  who  are  immunocompetent.32-34  However,  studies
+suggest that administration of a third vaccine dose as part of the primary series and
+additional doses of updated vaccine increases immune response and protection against
+severe  illness.35-37  Pre-exposure  prophylaxis  (prevention)  medication  is  available  for
+some  people  who  are  moderately  or  severely  immunocompromised  for  additional
+protection  against  COVID-19.  Pemivibart  (Pemgarda™)  is  a  monoclonal  antibody  for
+COVID-19  pre-exposure  prophylaxis  in  people  who  are  moderately  or  severely
+immunocompromised  and  unlikely  to  mount  an  adequate  immune  response  to
+COVID-19 vaccination and who meet the FDA-authorized conditions for use. Pemivibart
+may provide another layer of protection against COVID-19 in addition to the protection
+provided  through  vaccination  and  can  be  given  at  least  2  weeks  after  receiving  a
+COVID-19 vaccine. Pemivibart is administered as a single intravenous infusion, over 60
+minutes  at  a  doctor’s  office  or  healthcare  facility.  If  continued  protection  is  needed,
+additional  doses  should  be  administered  every  3  months.  Pemivibart  is  still  being
+studied  and  there  is  limited  information  about  the  safety  and  effectiveness  of
+pemivibart in preventing COVID-19.   Pre-exposure prophylaxis helps prevent COVID-19
+but  does  not  take  the  place  of  vaccination  in  people  who  are  eligible  to  receive  an
+updated COVID-19 vaccine. Everyone ages 6 months and older should stay up-to-date
+
+with  COVID-19  vaccine.  For  more  information,  please  see  the  FDA  Fact  Sheet  for
+Providers. Several therapeutics, including the oral antiviral medication ritonavir-boosted
+nirmatrelvir  (Paxlovid),  the  intravenous  antiviral  remdesivir,  and  the  oral  antiviral
+molnupiravir  (Lagevrio),  are  beneficial  in  this  population  for  early  treatment  of
+COVID-19. Treatment is best if initiated as soon as possible after diagnosis and within 5
+to  7  days  after  illness  onset.  The  FDA  has  issued  an  emergency  use  authorization  to
+permit  the  emergency  use  of  COVID-19  convalescent  plasma  with  high  titers  of
+anti-SARS-CoV-2  antibodies  for  the  treatment  of  COVID-19  in  patients  with
+immunosuppressive  disease  or  receiving  immunosuppressive  treatment,  in  either  the
+outpatient or inpatient setting. For more information, please see the FDA Fact Sheet for
+Providers. The Infectious Diseases Society of America Guidelines on the Treatment and
+Management of Patients with COVID-19 also provides recommendations on who should
+be considered for this treatment. Clinical information on the treatment of patients with
+immunocompromising  conditions  can  be  found  on  the  Infectious  Diseases  Society  of
+America  Guidelines  on  the  Treatment  and  Management  of  Patients  with  COVID-19.
+There  are  additional  guidelines  about  COVID-19  vaccines,  and  prioritization  for
+therapies specific to this population. See related pages  Pregnant and recently pregnant
+people  (for  at  least  42  days  following  the  end  of  pregnancy)  are  at  increased  risk  of
+severe  illness  from  COVID-19,  including  hospital  admission,  intensive  care  unit
+admission,  receipt  of  invasive  mechanical  ventilation,  extracorporeal  membrane
+oxygenation,  and  death,  compared  to  people  who  are  not  pregnant.3,4  Race  and
+ethnicity,4-6  older  maternal  age,  occupation  in  healthcare,  and  number  and  type  of
+underlying  conditions  are  associated  with  severe  COVID-19  illness  among  pregnant
+people.4,7,8  Data  from  meta-analyses9-12  and  observational  studies2,8,13  suggest
+that pregnant people with COVID-19 (compared to pregnant people without COVID-19)
+are  at  increased  risk  of  preterm  birth  and  stillbirth  and  might  be  at  increased  risk  of
+pregnancy  complications,  including  pre-eclampsia.  Increased  risk  for  postpartum
+
+complications,  including  hospital  readmission,  has  been  observed  among  recently
+pregnant  people  with  COVID-19  compared  to  recently  pregnant  people  without
+COVID-19.14,15  However,  methods  for  defining  the  period  of  recent  pregnancy  vary
+from  study  to  study.  While  some  studies  include  people  with  COVID-19  immediately
+after  delivery,  others  include  people  with  COVID-19  up  to  at  least  42  days  (6  weeks)
+after  a  live  birth  or  pregnancy  loss.  The  COVID-19  Treatment  Guidelines  Panel
+recommends  against  withholding  treatment  for  COVID-19  from  pregnant  or  lactating
+individuals  because  of  theoretical  safety  concerns.  For  more  information  on  the
+treatment  of  COVID-19  in  pregnant  people,  see  the  NIH  Treatment  Guidelines
+on  Special  Considerations  in  Pregnancy.  In  general,  the  therapeutic  management  of
+pregnant  people  with  COVID-19  is  the  same  as  management  of  people  who  are  not
+pregnant.   Multisystem  inflammatory  syndrome  (MIS)  is  a  rare  but  serious  condition
+usually  occurring  2-6  weeks  after  SARS-CoV-2  infection.  MIS  is  characterized  by
+systemic  inflammation  that  may  affect  the  heart,  lungs,  kidneys,  brain,  skin,  eyes,
+gastrointestinal,  or  other  organ  systems.  MIS  can  occur  in  children  (MIS-C)  or  adults
+(MIS-A). The Council for State and Territorial Epidemiologists and CDC have developed
+surveillance case definitions for MIS-C, with an updated CDC case definition [PDF – 13
+pages] for MIS-C effective January 1, 2023.47 CDC provides a case definition for MIS-A.
+Patients with MIS-A are often young adults who present with fever, elevated laboratory
+markers  of  inflammation,  hypotension  or  shock,  cardiac  dysfunction,  shortness  of
+breath,  and  gastrointestinal  symptoms.40-42  Diagnosing  MIS-A  can  be  challenging  as
+patients  may  have  experienced  an  unrecognized  asymptomatic  or  mild  initial
+SARS-CoV-2  infection.  Additionally,  the  signs  and  symptoms  of  MIS-A  overlap
+substantially  with  other  conditions  such  as  acute  COVID-19  in  adults.41,42  When
+evaluating  for  MIS-A  it  is  important  to  consider  alternative  diagnoses.  Treatment
+recommendations  have  not  yet  been  developed  for  MIS-A;  however,  studies  have
+reported
+ the
+ use
+ of
+ steroids,
+ intravenous
+ immunoglobulins
+ (IVIG),
+ other
+
+immunomodulatory medications, and supportive care for treatment.40-42 Vaccination
+is also considered beneficial for patients who have had MIS-A. For more information on
+vaccination  recommendations  for  patients  with  a  history  of  MIS-A,  see  CDC’s  Interim
+Clinical Considerations for Use of COVID-19 Vaccines Currently Approved or Authorized
+in the United States. Consider reporting cases of MIS-A to your local, state, or territorial
+health department. For more information, see CDC’s MIS-A Information for Healthcare
+Providers.   The  initial  clinical  presentation  of  COVID-19  in  children  can  include  fever,
+cough, or other respiratory symptoms; many children also experience gastrointestinal
+symptoms, including nausea, vomiting, or diarrhea.16,17 Viral tests are recommended
+for diagnosing COVID-19 in children. Children who develop severe illness can develop
+abnormal vital signs and markers of severe inflammation once hospitalized.18 A study
+of over 10,000 hospitalized children found that lower blood pressure, higher heart and
+respiratory  rates,  and  abnormal  markers  of  inflammation,  including  D-dimers  and
+ferritin,  were  associated  with  severe  illness  in  children.18  Studies  suggest  that  many
+children  experience  asymptomatic  or  mild  illness,  but  some  children  can  experience
+severe COVID-19 illness requiring admission to the hospital or ICU, or use of invasive
+mechanical  ventilation,  and  some  die.19,20  Like  adults,  children  with  underlying
+medical  conditions,  including  obesity,  diabetes,  and  cardiac,  lung,  and  neurologic
+disorders, have increased risk of severe COVID-19.18,19,21,22 Studies of hospitalized
+children with COVID-19 found that having more than one comorbidity is associated with
+an increased risk of severe illness.22,23 While increasing age is the strongest risk factor
+for  severe  COVID-19  illness  among  adults,1  among  children,  infants  (<12  months  of
+age)  may  be  at  increased  risk  for  severe  illness.24,25  In  addition  to  individual  risk
+factors, the COVID-19 variant that is circulating at the time of infection could have an
+impact  on  disease  severity.  Compared  to  prior  periods,  studies  of  COVID-19  in  the
+pediatric  population  during  the  Delta  predominant  period  found  increased  rates  of
+hospitalization.26,27
+ Further
+ increases
+ in
+ overall
+ number
+ of
+ pediatric
+
+hospitalizations were observed during the Omicron predominant period, particularly for
+children  under  the  age  of  5  years.  Despite  this,  pediatric  patients  experienced  less
+severe disease during the Omicron period than in previous waves.25,28,29 Some of the
+medications authorized for the treatment of COVID-19 in adults have been authorized
+for  use  in  children.  For  information  on  medications  that  are  authorized  for  use  in
+children in ambulatory and hospital settings, see Infectious Diseases Society of America
+Guidelines  on  the  Treatment  and  Management  of  Patients  with  COVID-19.  For
+information on recommendations for clinical management, see the American Academy
+of Pediatrics Management Strategies in Children and Adolescents with Mild to Moderate
+COVID-19.  Pregnancy  Children  Immunocompromising  Conditions  MIS  To  receive  email
+updates about COVID-19, enter your email address:
+
+Source
+ URL:
+https://www.cdc.gov/coronavirus/2019-ncov/hcp/clinical-care/clinical-considerations-special-groups.html

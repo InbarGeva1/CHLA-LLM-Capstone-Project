@@ -1,0 +1,596 @@
+Infection Control Risk Assessment  
+Matrix of Precautions for Construction & Renovation 
+Step One:  
+Using the following table, identify the Type of Construction Project Activity (Type A-D) 
+TYPE A 
+Inspection and Non-Invasive Activities.   
+Includes, but is not limited to: 
+
+removal of ceiling tiles for visual inspection only, e.g., limited to 1 tile per 50
+square feet
+
+painting (but not sanding)
+
+wallcovering, electrical trim work, minor plumbing, and activities which do not
+generate dust or require cutting of walls or access to ceilings other than for
+visual inspection.
+TYPE B 
+Small scale, short duration activities which create minimal dust 
+Includes, but is not limited to: 
+
+installation of telephone and computer cabling
+
+access to chase spaces
+
+cutting of walls or ceiling where dust migration can be controlled.
+TYPE C 
+Work that generates a moderate to high level of dust or requires demolition or 
+removal of any fixed building components or assemblies 
+Includes, but is not limited to: 
+
+sanding of walls for painting or wall covering
+
+removal of floorcoverings, ceiling tiles and casework
+
+new wall construction
+
+minor duct work or electrical work above ceilings
+
+major cabling activities
+
+any activity which cannot be completed within a single workshift.
+TYPE D 
+Major demolition and construction projects 
+Includes, but is not limited to:  
+
+activities which require consecutive work shifts
+
+requires heavy demolition or removal of a complete cabling system
+
+new construction.
+Step 1: _________________________________________________________ 
+Last modified 7/1/19
+
+Step Two: 
+Using the following table, identify the Patient Risk Groups that will be affected.   
+If more than one risk group will be affected, select the higher risk group: 
+Low Risk 
+Medium Risk 
+High Risk 
+Highest Risk 
+
+Office
+areas
+
+Medium Risk
+Outpatient Clinics
+(Refer to IC-828B)
+
+Physical Therapy
+
+Radiology/Imaging
+
+Laboratory
+
+Blood Donor Center
+
+High Risk Outpatient
+Clinics (Refer to IC-828B)
+
+Dialysis
+
+Emergency Room
+
+Medical/Surgical 
+Units
+
+Pharmacy
+
+Post Anesthesia Care
+Unit
+
+Duque 6 North
+
+Highest Risk Outpatient
+Clinics (Refer to IC-828B)
+
+BMT
+
+4 East/4 West
+
+Cardiac Cath Lab
+
+Sterile Processing Dept.
+
+Intensive Care Units
+
+ASC
+
+Sedation Unit
+
+Radiation Oncology
+
+Operating Rooms
+Step 2__________________________________________________________ 
+Step Three:  Match the  
+Patient Risk Group (Low, Medium, High, Highest) with the planned … 
+Construction Project Type (A, B, C, D) on the following matrix, to find the … 
+Class of Precautions (I, II, III or IV) or level of infection control activities required.   
+Class I-IV or Color-Coded Precautions are delineated on the following page. 
+IC Matrix - Class of Precautions: Construction Project by Patient Risk 
+Construction Project Type 
+Patient Risk Group 
+T
+TY
+YP
+PE
+E 
+ A
+A 
+ 
+T
+TY
+YP
+PE
+E 
+ B
+B 
+ 
+T
+TY
+YP
+PE
+E 
+ C
+C 
+ 
+T
+TY
+YP
+PE
+E 
+ D
+D 
+ 
+L
+LO
+OW
+W Risk Group 
+I
+I 
+ 
+I
+II
+I 
+ 
+I
+II
+I 
+ 
+I
+II
+II
+I/
+/I
+IV
+V 
+ 
+M
+ME
+ED
+DI
+IU
+UM
+M Risk Group  
+I
+I 
+ 
+I
+II
+I 
+ 
+I
+II
+II
+I 
+ 
+I
+IV
+V 
+ 
+H
+HI
+IG
+GH
+H Risk Group 
+I
+I 
+ 
+I
+II
+I 
+ 
+I
+II
+II
+I/
+/I
+IV
+V 
+ 
+I
+IV
+V 
+ 
+H
+HI
+IG
+GH
+HE
+ES
+ST
+T Risk Group  
+I
+II
+I 
+ 
+I
+II
+II
+I/
+/I
+IV
+V 
+ 
+I
+II
+II
+I/
+/I
+IV
+V 
+ 
+I
+IV
+V 
+ 
+Note: Infection Control approval will be required when the Construction Activity and Risk Level indicate 
+that C
+Cl
+la
+as
+ss
+s  I
+II
+II
+I or C
+Cl
+la
+as
+ss
+s  I
+IV
+V control procedures are necessary.
+Step 3 ______________________________________________________
+Last modified 7/1/19
+
+Description of Required Infection Control Precautions by Class 
+During Construction Project 
+Upon Completion of Project 
+CLASS I 
+1.
+Execute work by methods to minimize raising dust from
+construction operations.
+2.
+Immediately replace a ceiling tile displaced for visual
+inspection
+1. Clean work area upon completion of task.
+CLASS II 
+1.
+Provide active means to prevent airborne dust from
+dispersing into atmosphere.
+2.
+Water mist work surfaces to control dust while cutting.
+3.
+Seal unused doors with duct tape.
+4.
+Block off and seal air vents.
+5.
+Place dust mat at entrance and exit of work area
+6.
+Isolate HVAC system in areas where work is being
+performed.
+1.
+Wipe work surfaces with cleaner/disinfectant.
+2.
+Contain construction waste before transport in
+tightly covered containers.
+3.
+Clean and/or vacuum with HEPA filtered vacuum
+before leaving work area.
+4.
+Upon completion, restore HVAC system where
+work was performed.
+CLASS III 
+1.
+Remove or Isolate HVAC system in area where work is
+being done to prevent contamination of duct system.
+2.
+Complete all critical barriers i.e. sheetrock, plywood,
+plastic, to seal area from non work area or implement
+control cube method (cart with plastic covering and sealed
+connection to work site with HEPA vacuum for
+vacuuming prior to exit) before construction begins.
+3.
+Maintain negative air pressure within work site utilizing
+HEPA equipped air filtration units or by other means.
+4.
+Contain construction waste before transport in tightly
+covered containers.
+5.
+Cover transport receptacles or carts.  Tape covering
+unless solid lid.
+1.
+Do not remove barriers from work area until
+completed project is thoroughly cleaned.
+2.
+Remove barrier materials carefully to minimize
+spreading of dirt and debris associated with
+construction.
+3.
+Vacuum work area with HEPA filtered vacuums.
+4.
+Clean/Dust area.
+5.
+Upon completion, restore HVAC system where work
+was performed.
+CLASS IV 
+1.
+Isolate HVAC system in area where work is being done
+to prevent contamination of duct system.
+2.
+Complete all critical barriers i.e. sheetrock, plywood,
+plastic, to seal area from non work area or implement
+control cube method (cart with plastic covering and
+sealed connection to work site with HEPA vacuum for
+vacuuming prior to exit) before construction begins.
+3.
+Maintain negative air pressure within work site utilizing
+HEPA equipped air filtration units or by other means.
+4.
+Seal holes, pipes, conduits, and punctures.
+5.
+Construct anteroom and require all personnel to pass
+through this room so they can be vacuumed using a
+HEPA vacuum cleaner before leaving work site or they
+can wear cloth or paper coveralls that are removed each
+time they leave work site.
+6.
+All personnel entering work site are required to wear
+shoe covers.  Shoe covers must be changed each time the
+worker exits the work area.
+1.
+Do not remove barriers from work area until
+completed project is thoroughly cleaned.
+2.
+Remove barrier material carefully to minimize
+spreading of dirt and debris associated with
+construction.
+3.
+Contain construction waste before transport in tightly
+covered containers.
+4.
+Cover transport receptacles or carts.  Tape covering
+unless solid lid.
+5.
+Vacuum work area with HEPA filtered vacuums.
+6.
+Clean/Dust area.
+7.
+Upon completion, restore HVAC system where work
+was performed.
+* For each CLASS - Infection Prevention approved hand wipes should be available at the site during the construction project.
+Last modified 7/1/19
+
+Step 4. Identify the areas surrounding the project area, assessing potential impact 
+Unit Below 
+Unit Above 
+Lateral 
+Lateral 
+Behind 
+Front 
+Risk Group 
+Risk Group
+Risk Group
+Risk Group
+Risk Group
+Risk Group
+Step 5. Identify specific site of activity e.g., patient rooms, medication room, etc. 
+__________________________________________________________________ 
+Step 6. Identify issues related to: ventilation, plumbing, electrical in terms of the occurrence 
+of probable outages. 
+__________________________________________________________________ 
+Step 7. Identify containment measures, using prior assessment.  What types of barriers? 
+(E.g., solids wall barriers); Will HEPA filtration be required? 
+_________________________________________________________________ 
+(Note: Renovation/construction area shall be isolated from the occupied areas during construction and shall be 
+negative with respect to surrounding areas) 
+Step 8.  Consider potential risk of water damage. Is there a risk due to compromising 
+structural integrity?  (e.g., wall, ceiling, roof) 
+Step 9.  Work hours: Can or will the work be done during non-patient care hours? 
+Step 10. Plan to discuss the following containment issues with the project team.
+E.g., traffic flow, housekeeping, debris removal (how and when),
+ New Construction:
+Step 1. Do plans allow for adequate number of isolation/negative airflow rooms? 
+Step 2. Do the plans allow for the required number & type of handwashing sinks? 
+Step 3. Does the infection prevention & control staff agree with the minimum number of 
+sinks for this project 
+Step 4. Does the infection prevention & control staff agree with the plans relative to clean 
+and soiled utility rooms?
+_________________________________________________________________ 
+_________________________________________________________________ 
+_________________________________________________________________ 
+ Identify and communicate the responsibility for project monitoring that includes infection 
+prevention & control concerns and risks.  The ICRA may be modified throughout the project.  
+Revisions must be communicated to the Project Manager.
+Last modified 7/1/19
+
+5
+Infection Prevention and Control Construction Permit 
+Project Name:
+Location of Construction: 
+Project Start Date: 
+Project Coordinator: 
+Permit Expiration Date:
+Contractor Performing Work 
+Supervisor:
+Telephone:
+YES 
+NO 
+CONSTRUCTION ACTIVITY 
+YES 
+NO 
+INFECTION CONTROL RISK GROUP 
+ 
+TYPE A: Inspection, non-invasive activity 
+ 
+GROUP 1: Low  Risk 
+ 
+TYPE B: Small scale, short duration, 
+  moderate to high levels 
+ 
+GROUP 2: Medium Risk 
+ 
+TYPE C: Activity generates moderate to high levels of  
+  dust, requires greater 1  work shift for completion 
+ 
+GROUP 3: Medium/High Risk 
+ 
+TYPE D: Major duration and construction activities  
+        Requiring consecutive work shifts 
+ 
+GROUP 4: Highest Risk 
+CLASS I 
+1.
+Execute work by methods to minimize raising dust from 
+construction operations. 
+2.
+Immediately replace any ceiling tile displaced for visual 
+inspection.
+3.
+Clean work area upon completion of task. 
+CLASS II 
+1.
+Provides active means to prevent air-borne dust from 
+dispersing into atmosphere 
+2.
+Water mist work surfaces to control dust while cutting. 
+3.
+Seal unused doors with duct tape. 
+4.
+Block off and seal air vents. 
+5.
+Wipe surfaces with cleaner/disinfectant.
+6.
+Contain construction waste before transport in tightly 
+covered containers. 
+7.
+Clean and/or vacuum with HEPA filtered vacuum 
+before leaving work area. 
+8.
+Place sticky mat at entrance and exit of work area. 
+9.
+Isolate HVAC system in areas where work is being 
+performed; restore when work completed.
+CLASS III 
+Date 
+Initial 
+1.
+Obtain infection control permit before construction begins.
+2.
+Remove or Isolate HVAC system in area where work is
+being done to prevent contamination of the duct system.
+3.
+Complete all critical barriers or implement control cube
+(cart with plastic covering and sealed connection to work
+site with HEPA vacuum for vacuuming prior to exit) 
+method before construction begins.
+4.
+Maintain negative air pressure within work site utilizing 
+HEPA equipped air filtration units or by other means. 
+5.
+Do not remove barriers from work area until completed 
+project is thoroughly cleaned .
+6.
+Vacuum worksite with HEPA filtered vacuums. 
+7.
+Thoroughly clean floors to remove dust. 
+8.
+Remove barrier materials carefully to minimize 
+spreading of dirt and debris associated with 
+construction. Clean/Dust area.
+9.
+Contain construction waste before transport in tightly 
+covered containers. 
+10.
+Cover transport receptacles or carts. Tape coverings
+unless solid lid. 
+11.
+Upon completion, restore HVAC system where work
+was performed.
+CLASS IV 
+Date 
+Initial 
+1.
+Obtain infection control permit before construction begins. 
+2.
+Isolate HVAC system in area where work is being done to
+prevent contamination of duct system.
+3.
+Complete all critical barriers or implement control cube 
+method before construction begins. 
+4.
+Maintain negative air pressure within work site utilizing 
+HEPA equipped air filtration units or by other means. 
+5.
+Seal holes, pipes, conduits, and punctures appropriately.
+6.
+Construct anteroom and require all personnel to pass through
+this room so they can be vacuumed using a HEPA vacuum 
+cleaner before leaving work site or they can wear bunny suits 
+that are removed each time they leave the work site. 
+7.
+All personnel entering work site are required to wear shoe 
+covers. Shoe covers must be changed each time the worker 
+exits the work area.
+8.
+Do not remove barriers from work area until 
+completed project is thoroughly cleaned.
+9.
+Vacuum work area with HEPA filtered vacuums. 
+10.
+11.
+Thoroughly clean floors to remove dust. 
+Remove barrier materials carefully to minimize 
+spreading of dirt and debris associated with 
+construction. Clean/Dust area.
+12.
+Contain construction waste before transport in tightly 
+covered containers. 
+13.
+Cover transport receptacles or carts. Tape covering. 
+Wipe down wheels of carts.
+14.
+Upon completion, restore HVAC system where work
+was performed.
+Additional Requirements: *Infection Prevention approved hand wipes should be available at the site during the construction project.
+Permit Request By: 
+Signature: 
+Date: 
+Date:  
+Date
+Initial
+Date
+Initial
+ Permit Authorized by Infection Preventionist (Print Name):
+Last modified 7/1/19

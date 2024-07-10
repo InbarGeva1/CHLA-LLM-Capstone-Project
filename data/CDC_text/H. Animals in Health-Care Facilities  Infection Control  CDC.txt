@@ -1,0 +1,328 @@
+A .gov website belongs to an official government organization in the United States. A
+lock (  ) or https:// means you've safely connected to the .gov website. Share sensitive
+information  only  on  official,  secure  websites.  Guidelines  for  animals  in  healthcare
+facilities  from  the  Guidelines  for  Environmental  Infection  Control  in  Health-Care
+Facilities  (2003).  Animals  in  health-care  facilities  traditionally  have  been  limited  to
+laboratories and research areas. However, their presence in patient-care areas is now
+more frequent, both in acute-care and long-term care settings, prompting consideration
+for the potential transmission of zoonotic pathogens from animals to humans in these
+settings.  Although  dogs  and  cats  may  be  commonly  encountered  in  health-care
+settings,  other  animals  (e.g.,  fish,  birds,  non-human  primates,  rabbits,  rodents,  and
+reptiles) also can be present as research, resident, or service animals. These animals
+can serve as sources of zoonotic pathogens that could potentially infect patients and
+health-care workers (Table 26).1327–1340 Animals potentially can serve as reservoirs
+for  antibiotic-resistant  microorganisms,  which  can  be  introduced  to  the  health-care
+setting while the animal is present. VRE have been isolated from both farm animals and
+pets,1341  and  a  cat  in  a  geriatric  care  center  was  found  to  be  colonized  with
+MRSA.1342  *  Material  in  this  table  is  adapted  from  reference  1331  and  used  with
+permission of the publisher (Lippincott Williams and Wilkins). § Reptiles include lizards,
+snakes,  and  turtles.  Rodents  include  hamsters,  mice,  and  rats.  +  Indicates  that  the
+pathogen  associated  with  the  infection  has  been  isolated  from  animals  and  is
+considered to pose potential risk to humans. Zoonoses can be transmitted from animals
+to  humans  either  directly  or  indirectly  via  bites,  scratches,  aerosols,  ectoparasites,
+accidental ingestion, or contact with contaminated soil, food, water, or unpasteurized
+milk.1331,  1332,  1343–1345  Colonization  and  hand  transferral  of  pathogens  acquired
+from  pets  in  health-care  workers'  homes  represent  potential  sources  and  modes  of
+transmission  of  zoonotic  pathogens  in  health-care  settings.  An  outbreak  of  infections
+caused by a yeast (Malassezia pachydermatis) among newborns was traced to transfer
+
+of  the  yeast  from  the  hands  of  health-care  workers  with  pet  dogs  at  home.1346  In
+addition,  an  outbreak  of  ringworm  in  a  NICU  caused  by  Microsporum  canis  was
+associated with a nurse and her cat,1347 and an outbreak of Rhodococcus (Gordona)
+bronchialis sternal SSIs after coronary-artery bypass surgery was traced to a colonized
+nurse whose dogs were culture-positive for the organism.1348 In the latter outbreak,
+whether  the  dogs  were  the  sole  source  of  the  organism  and  whether  other
+environmental  reservoirs  contributed  to  the  outbreak  are  unknown.  Nonetheless,
+limited data indicate that outbreaks of infectious disease have occurred as a result of
+contact  with  animals  in  areas  housing  immunocompetent  patients.  However,  the  low
+frequency of outbreaks may result from Formal scientific studies to evaluate potential
+risks of transmission of zoonoses in health-care settings outside of the laboratory are
+lacking. Animal-Assisted Activities (AAA) are those programs that enhance the patients'
+quality  of  life.  These  programs  allow  patients  to  visit  animals  in  either  a  common,
+central location in the facility or in individual patient rooms. A group session with the
+animals  enhances  opportunities  for  ambulatory  patients  and  facility  residents  to
+interact  with  caregivers,  family  members,  and  volunteers.1349–1351  Alternatively,
+allowing  the  animals  access  to  individual  rooms  provides  the  same  opportunity  to
+non-ambulatory  patients  and  patients  for  whom  privacy  or  dignity  issues  are  a
+consideration. The decision to allow this access to patients' rooms should be made on a
+case-by-case  basis,  with  the  consultation  and  consent  of  the  attending  physician  and
+nursing  staff.  Animal-Assisted  Therapy  (AAT)  is  a  goal-directed  intervention  that
+incorporates  an  animal  into  the  treatment  process  provided  by  a  credentialed
+therapist.1330,  1331  The  concept  for  AAT  arose  from  the  observation  that  some
+patients with pets at home recover from surgical and medical procedures more rapidly
+than patients without pets.1352, 1353 Contact with animals is considered beneficial for
+enhancing  wellness  in  certain  patient  populations  (e.g.,  children,  the  elderly,  and
+extended-care  hospitalized  patients).1349,  1354–1357  However,  evidence  supporting
+
+this benefit is largely derived from anecdotal reports and observations of patient/animal
+interactions.1357–1359  Guidelines  for  establishing  AAT  programs  are  available  for
+facilities considering this option.1360 The incorporation of non-human primates into an
+AAA or AAT program is not encouraged because of concerns regarding potential disease
+transmission  from  and  unpredictable  behavior  of  these  animals.1361,  1362  Animals
+participating in either AAA or AAT sessions should be in good health and up-to-date with
+recommended
+ immunizations
+ and
+ prophylactic
+ medications
+ (e.g.,
+ heartworm
+prevention)  as  determined  by  a  licensed  veterinarian  based  on  local  needs  and
+recommendations. Regular re-evaluation of the animal's health and behavior status is
+essential.1360 Animals should be routinely screened for enteric parasites and/or have
+evidence of a recently completed antihelminthic regimen.1363 They should also be free
+of  ectoparasites  (e.g.,  fleas  and  ticks)  and  should  have  no  sutures,  open  wounds,  or
+obvious  dermatologic  lesions  that  could  be  associated  with  bacterial,  fungal,  or  viral
+infections  or  parasitic  infestations.  Incorporating  young  animals  (i.e.,  those  aged  <1
+year) into these programs is not encouraged because of issues regarding unpredictable
+behavior and elimination control. Additionally, health of these animals at risk. Animals
+should be clean and well-groomed. The visits must be supervised by persons who know
+the  animals  and  their  behavior.  Animal  handlers  should  be  trained  in  these  activities
+and receive site-specific orientation to ensure that they work efficiently with the staff in
+the  specific  health-care  environment.1360  Additionally,  animal  handlers  should  be  in
+good  health.1360  The  most  important  infection-control  measure  to  prevent  potential
+disease transmission is strict enforcement of hand-hygiene measures (e.g., using either
+soap and water or an alcohol-based hand rub) for all patients, staff, and residents after
+handling the animals.1355, 1364 Care should also be taken to avoid direct contact with
+animal  urine  or  feces.  Clean-up  of  these  substances  from  environmental  surfaces
+requires gloves and the use of leak-resistant plastic bags to discard absorbent material
+used  in  the  process.2  The  area  must  be  cleaned  after  visits  according  to  standard
+
+cleaning  procedures.  The  American  Academy  of  Allergy,  Asthma,  and  Immunology
+estimates that dog or cat allergies occur in approximately 15% of the population.1365
+Minimizing  contact  with  animal  saliva,  dander,  and/or  urine  helps  to  mitigate  allergic
+responses.1365–1367 Some facilities may not allow animal visitation for patients with
+Hair shedding can be minimized by processes that remove dead hair (e.g., grooming)
+and that prevent the shedding of dead hair (e.g., therapy capes for dogs). Allergens can
+be minimized by bathing therapy animals within 24 hours of a visit.1333, 1368 Animal
+therapists  and  handlers  must  take  precautions  to  prevent  animal  bites.  Common
+pathogens  associated  with  animal  bites  include  Capnocytophaga  canimorsus,
+Pasteurella  spp.,  Staphylococcus  spp.,  and  Streptococcus  spp.  Selecting  well-behaved
+and well-trained animals for these programs greatly decreases the incidence of bites.
+Rodents, exotic species, wild/domestic animals (i.e., wolf-dog hybrids), and wild animals
+whose  behavior  is  unpredictable  should  be  excluded  from  AAA  or  AAT  programs.  A
+well-trained  animal  handler  should  be  able  to  recognize  stress  in  the  animal  and  to
+determine when to terminate a session to minimize risk. When an animal bites a person
+during AAA or AAT, the animal is to be permanently removed from the program. If a bite
+does  occur,  the  wound  must  be  cleansed  immediately  and  monitored  for  subsequent
+infection.  Most  infections  can  be  treated  with  antibiotics,  and  antibiotics  often  are
+prescribed
+ prophylactically
+ in
+ these
+ situations.
+ The
+ health-care
+ facility's
+infection-control staff should participate actively in planning for and coordinating AAA
+and  AAT  sessions.  Many  facilities  do  not  offer  AAA  or  AAT  programs  for  severely
+immunocompromised  patients  (e.g.,  HSCT  patients  and  patients  on  corticosteroid
+therapy).1339  The  question  of  whether  family  pets  or  companion  animals  can  visit
+terminally-ill  HSCT  patients  or  other  severely  immunosuppressed  patients  is  best
+handled on a case-by-case basis, although animals should not be brought into the HSCT
+unit  or  any  other  unit  housing  severely  immunosuppressed  patients.  An  in-depth
+discussion of this issue is presented elsewhere.1366 Immunocompromised patients who
+
+have  been  discharged  from  a  health-care  facility  may  be  at  higher  risk  for  acquiring
+some pet-related zoonoses. Although guidelines have been developed to minimize the
+risk of disease transmission to HIV-infected patients,8 these recommendations may be
+applicable  for  patients  with  other  immunosuppressive  disorders.  In  addition  to
+handwashing  or  hand  hygiene,  these  recommendations  include  avoiding  contact  with
+Pets or companion animals with diarrhea should receive veterinary care to resolve their
+condition.  Many  health-care  facilities  are  adopting  more  home-like  environments  for
+residential-care or extended-stay patients in acute-care settings, and resident animals
+are  one  element  of  this  approach.1369  One  concept,  the  "Eden  Alternative,"
+incorporates  children,  plants,  and  animals  (e.g.,  dogs,  cats,  fish,  birds,  rabbits,  and
+rodents)  into  the  daily  care  setting.1370,  1371  The  concept  of  working  with  resident
+animals  has  not  been  scientifically  evaluated.  Several  issues  beyond  the  benefits  of
+therapy must be considered before embarking on such a program, including Few data
+document a link between health-care acquired infection rates and frequency of cleaning
+fish  tanks  or  rodent  cages.  Skin  infections  caused  by  Mycobacterium  marinum  have
+been  described  among  persons  who  have  fish  aquariums  at  home.1374,  1375
+Nevertheless, immunocompromised patients should avoid direct contact with fish tanks
+and cages and the aerosols that these items produce. Further, fish tanks should be kept
+clean  on  a  regular  basis  as  determined  by  facility  policy,  and  this  task  should  be
+performed by gloved staff members who are not responsible for patient care. The use
+of the infection-control risk assessment can help determine whether a fish tank poses a
+risk for patient or resident safety and health in these situations. No evidence, however,
+links  the  incidence  of  health-care  acquired  infections  among  immunocompetent
+patients or residents with the presence of a properly cleaned and maintained fish tank,
+even in dining areas. As a general preventive measure, resident animal programs are
+advised  to  restrict  animals  from  Resident-animal  programs  in  acute-care  facilities
+should not allow the animals into the isolation areas, protective environments, ORs, or
+
+any area where immunocompromised patients are housed. Patients and staff routinely
+should wash their hands or use waterless, alcohol-based hand-hygiene products after
+contact with animals. Although this section provides an overview about service animals
+in  health-care  settings,  it  cannot  address  every  situation  or  question  that  may  arise
+(see Appendix E – Information Resources). A service animal is any animal individually
+trained to do work or perform tasks for the benefit of a person with a disability.1366,
+1376 A service animal is not considered a pet but rather an animal trained to provide
+assistance to a person because of a disability. Title III of the "Americans with Disabilities
+Act"  (ADA)  of  1990  mandates  that  persons  with  disabilities  accompanied  by  service
+animals  be  allowed  access  with  their  service  animals  into  places  of  public
+accommodation,  including  restaurants,  public  transportation,  schools,  and  health-care
+facilities.1366,  1376  In  health-care  facilities,  a  person  with  a  disability  requiring  a
+service animal may be an employee, a visitor, or a patient. An overview of the subject
+of service animals and their presence in health-care facilities has been published.1366
+No evidence suggests that animals pose a more significant risk of transmitting infection
+than people; therefore, service animals should not be excluded from such areas, unless
+an individual patient's situation or a particular animal poses greater risk that cannot be
+mitigated through reasonable measures. If health-care personnel, visitors, and patients
+are permitted to enter care areas (e.g., inpatient rooms, some ICUs, and public areas)
+without taking additional precautions to prevent transmission of infectious agents (e.g.,
+donning gloves, gowns, or masks), a clean, healthy, well-behaved service animal should
+be allowed access with its handler.1366 Similarly, if immunocompromised patients are
+able to receive visitors without using protective garments or equipment, an exclusion of
+service animals from this area would not be justified.1366 Because health-care facilities
+are  covered  by  the  ADA  or  the  Rehabilitation  Act,  a  person  with  a  disability  may  be
+accompanied  by  a  service  animal  within  the  facility  unless  the  animal's  presence  or
+behavior  creates  a  fundamental  alteration  in  the  nature  of  a  facility's  services  in  a
+
+particular  area  or  a  direct  threat  to  other  persons  in  a  particular  area.1366  A  "direct
+threat" is defined as a significant risk to the health or safety of others that cannot be
+mitigated  or  eliminated  by  modifying  policies,  practices,  or  procedures.1376  The
+determination that a service animal poses a direct threat in any particular healthcare
+setting  must  be  based  on  an  individualized  assessment  of  the  service  animal,  the
+patient,  and  the  health-care  situation.  When  evaluating  risk  in  such  situations,
+health-care  personnel  should  consider  the  nature  of  the  risk  (including  duration  and
+severity); the probability that injury will occur; and whether reasonable modifications of
+policies, practices, or procedures will mitigate the risk (J. Wodatch, U.S. Department of
+Justice,  2000).  The  person  with  a  disability  should  contribute  to  the  risk-assessment
+process as part of a pre-procedure health-care provider/patient conference. Excluding a
+service animal from an OR or similar special care areas (e.g., burn units, some ICUs, PE
+units, and any other area containing equipment critical for life support) is appropriate if
+these  areas  are  considered  to  have  "restricted  access"  with  regards  to  the  general
+public. General infection-control measures that dictate such limited access include No
+infection-control measures regarding the use of barrier precautions could be reasonably
+imposed on the service animal. Excluding a service animal that becomes threatening
+because  of  a  perceived  danger  to  its  handler  during  treatment  also  is  appropriate;
+however,  exclusion  of  such  an  animal  must  be  based  on  the  actual  behavior  of  the
+particular  animal,  not  on  speculation  about  how  the  animal  might  behave.  Another
+issue  regarding  service  animals  is  whether  to  permit  persons  with  disabilities  to  be
+accompanied by their service animals during all phases of their stay in the health-care
+facility.  Healthcare  personnel  should  discuss  all  aspects  of  anticipatory  care  with  the
+patient  who  uses  a  service  animal.  Health-care  personnel  may  not  exclude  a  service
+animal  because  health-care  staff  may  be  able  to  perform  the  same  services  that  the
+service  animal  does  (e.g.,  retrieving  dropped  items  and  guiding  an  otherwise
+ambulatory person to the restroom). Similarly, health-care personnel can not exclude
+
+service  animals  because  the  health-care  staff  perceive  a  lack  of  need  for  the  service
+animal during the person's stay in the health-care facility. A person with a disability is
+entitled to independent access (i.e., to be accompanied by a service animal unless the
+animal  poses  a  direct  threat  or  a  fundamental  alteration  in  the  nature  of  services);
+"need"  for  the  animal  is  not  a  valid  factor  in  either  analysis.  For  some  forms  of  care
+(e.g.,  ambulation  as  physical  therapy  following  total  hip  replacement  or  knee
+replacement),  the  service  animal  should  not  be  used  in  place  of  a  credentialed
+health-care worker who directly provides therapy. However, service animals need not
+be  restricted  from  being  in  the  presence  of  its  handler  during  this  time;  in  addition,
+rehabilitation and discharge planning should incorporate the patient's future use of the
+animal. The health-care personnel and the patient with a disability should discuss both
+the possible need for the service animal to be separated from its handler for a period of
+time during non-emergency care and an alternate plan of care for the service animal in
+the event the patient is unable or unwilling to provide that care. This plan might include
+family members taking the animal out of the facility several times a day for exercise
+and  elimination,  the  animal  staying  with  relatives,  or  boarding  off-site.  Care  of  the
+service animal, however, remains the obligation of the person with the disability, not
+the  health-care  staff.  Although  animals  potentially  carry  zoonotic  pathogens
+transmissible  to  man,  the  risk  is  minimal  with  a  healthy,  clean,  vaccinated,
+well-behaved, and well-trained service animal, the most common of which are dogs and
+cats. No reports have been published regarding infectious disease that affects humans
+originating  in  service  dogs.  Standard  cleaning  procedures  are  sufficient  following
+occupation of an area by a service animal.1366 Clean-up of spills of animal urine, feces,
+or other body substances can be accomplished with blood/body substance procedures
+outlined  in  the  Environmental  Services  section  of  this  guideline.  No  special  bathing
+procedures  are  required  prior  to  a  service  animal  accompanying  its  handler  into  a
+health-care  facility.  Providing  access  to  exotic  animals  (e.g.,  reptiles  and  non-human
+
+primates)  that  are  used  as  service  animals  is  problematic.  Concerns  about  these
+animals  are  discussed  in  two  published  reviews.1331,  1366  Because  some  of  these
+animals exhibit high-risk behaviors that may increase the potential for zoonotic disease
+transmission  (e.g.,  herpes  B  infection),  providing  health-care  facility  access  to
+nonhuman primates used as service animals is discouraged, especially if these animals
+might come into contact with the general public.1361, 1362 Health-care administrators
+should  consult  the  Americans  with  Disabilities  Act  for  guidance  when  developing
+policies about service animals in their facilities.1366, 1376 Requiring documentation for
+access of a service animal to an area generally accessible to the public would impose a
+burden on a person with a disability. When health-care workers are not certain that an
+animal is a service animal, they may ask the person who has the animal if it is a service
+animal  required  because  of  a  disability;  however,  no  certification  or  other
+documentation of service animal status can be required.1377 The potential for direct
+and indirect transmission of zoonoses must be considered when rooms and equipment
+in  human  health-care  facilities  are  used  for  the  medical  or  surgical  treatment  or
+diagnosis of animals.1378 Inquiries should be made to veterinary medical professionals
+to determine an appropriate facility and equipment to care for an animal. The central
+issue  associated  with  providing  medical  or  surgical  care  to  animals  in  human
+health-care facilities is whether cross-contamination occurs between the animal patient
+and the human health-care workers and/or human patients. The fundamental principles
+of infection control and aseptic practice should differ only minimally, if at all, between
+veterinary medicine and human medicine. Health-care– associated infections can and
+have occurred in both patients and workers in veterinary medical facilities when lapses
+in infection-control procedures are evident.1379–1384 Further, veterinary patients can
+be  at  risk  for  acquiring  infection  from  veterinary  health-care  workers  if  proper
+precautions  are  not  taken.1385  The  issue  of  providing  care  to  veterinary  patients  in
+human  health-care  facilities  can  be  divided  into  the  following  three  areas  of
+
+infection-control  concerns:  Studies  addressing  these  concerns  are  lacking.  However,
+with respect to disinfection or sterilization in veterinary settings, only minimal evidence
+suggests  that  zoonotic  microbial  pathogens  are  unusually  resistant  to  inactivation  by
+chemical or physical agents (with the exception of prions). Ample evidence supports the
+contrary observation (i.e., that pathogens from human- and animal sources are similar
+in  their  relative  instrinsic  resistance  to  inactivation).1386–1391  Further,  no  evidence
+suggests  that  zoonotic  pathogens  behave  differently  from  human  pathogens  with
+respect to ventilation. Despite this knowledge, an aesthetic and sociologic perception
+that animal care must remain separate from human care persists. Health-care facilities,
+however, are increasingly faced with requests from the veterinary medical community
+for access to human health-care facilities for reasons that are largely economical (e.g.,
+costs  of  acquiring  sophisticated  diagnostic  technology  and  complex  medical
+instruments).  If  hospital  guidelines  allow  treatment  of  animals,  alternate  veterinary
+resources (including veterinary hospitals, clinics, and universities) should be exhausted
+before  using  human  health-care  settings.  Additionally,  the  hospital's  public/media
+relations  should  be  notified  of  the  situation.  The  goal  is  to  develop  policies  and
+procedures to proactively and positively discuss and disclose this activity to the general
+public. An infection-control risk assessment (ICRA) must be undertaken to evaluate the
+circumstances  specific  to  providing  care  to  animals  in  a  human  health-care  facility.
+Individual  hospital  policies  and  guidelines  should  be  reviewed  before  any  animal
+treatment  is  considered  in  such  facilities.  Animals  treated  in  human  health-care
+facilities  should  be  under  the  direct  care  and  supervision  of  a  licensed  veterinarian;
+they also should be free of known infectious diseases, ectoparasites, and other external
+contaminants (e.g., soil, urine, and feces). Measures should be taken to avoid treating
+animals  with  a  known  or  suspected  zoonotic  disease  in  a  human  health-care  setting
+(e.g., lambs being treated for Q fever). If human health-care facilities must be used for
+animal  treatment  or  diagnostics,  the  following  general  infection-control  actions  are
+
+suggested:  The  risk  of  acquiring  a  zoonotic  infection  from  research  animals  has
+decreased in recent years because many small laboratory animals (e.g., mice, rats, and
+rabbits)  come  from  quality  stock  and  have  defined  microbiologic  profiles.1392  Larger
+animals (e.g., nonhuman primates) are still obtained frequently from the wild and may
+harbor  pathogens  transmissible  to  humans.  Primates,  in  particular,  benefit  from
+vaccinations to protect their health during the research period provided the vaccination
+does not interfere with the study of the particular agent. Animals serving as models for
+human  disease  studies  pose  some  risk  for  transmission  of  infection  to  laboratory  or
+health-care  workers  from  percutaneous  or  mucosal  exposure.  Exposures  can  occur
+either through Uncontained aerosols generated during laboratory procedures can also
+transmit  infection.  Infection-control  measures  to  prevent  transmission  of  zoonotic
+infections from research animals are largely derived from the following basic laboratory
+safety principles: An excellent resource for detailed discussion of these safety measures
+has been published.1013 The animal research unit within a health-care facility should
+be  engineered  to  provide  To  ensure  adequate  security  and  containment,  no  through
+traffic  to  other  areas  of  the  health-care  facility  should  flow  through  this  unit;  access
+should  be  restricted  to  animal-care  staff,  researchers,  environmental  services,
+maintenance,  and  security  personnel.  Occupational  health  programs  for  animal-care
+staff,  researchers,  and  maintenance  staff  should  take  into  consideration  the  animals'
+natural  pathogens  and  research  pathogens.  Components  of  such  programs  include
+Work  practices,  PPE,  and  engineering  controls  specific  for  each  of  the  four  animal
+biosafety  levels  have  been  published.1013,  1393  The  facility's  occupational  or
+employee  health  clinic  should  be  aware  of  the  appropriate  post-exposure  procedures
+involving  zoonoses  and  have  available  the  appropriate  post-exposure  biologicals  and
+medications.  Animal-research-area  staff  should  also  develop  standard  operating
+procedures for The federal Animal Welfare Act of 1966 and its amendments serve as
+the regulatory basis for ensuring animal welfare in research.1394, 1395 CDC provides
+
+information on infection control and clinical safety to help reduce the risk of infections
+among  healthcare  workers,  patients,  and  visitors.  Languages  Language  Assistance
+Languages  Language Assistance 
+
+Source
+ URL:
+https://www.cdc.gov/infection-control/hcp/environmental-control/animals-in-healthcare-facilities.html

@@ -1,0 +1,101 @@
+A .gov website belongs to an official government organization in the United States. A
+lock (  ) or https:// means you've safely connected to the .gov website. Share sensitive
+information  only  on  official,  secure  websites.  Executive  summary  of  the  Guideline  for
+Isolation  Precautions:  Preventing  Transmission  of  Infectious  Agents  in  Healthcare
+Settings  (2007).  The  Guideline  for  Isolation  Precautions:  Preventing  Transmission  of
+Infectious Agents in Healthcare Settings 2007 updates and expands the 1996 Guideline
+for Isolation Precautions in Hospitals. The following developments led to revision of the
+1996 guideline: This document is intended for use by infection control staff, healthcare
+epidemiologists,  healthcare  administrators,  nurses,  other  healthcare  providers,  and
+persons  responsible  for  developing,  implementing,  and  evaluating  infection  control
+programs for healthcare settings across the continuum of care. The reader is referred to
+other guidelines and websites for more detailed information and for recommendations
+concerning specialized infection control problems. Part I reviews the relevant scientific
+literature that supports the recommended prevention and control practices. As with the
+1996 guideline, the modes and factors that influence transmission risks are described in
+detail.  New  to  the  section  on  transmission  are  discussions  of  bioaerosols  and  of  how
+droplet  and  airborne  transmission  may  contribute  to  infection  transmission.  This
+became a concern during the SARS outbreaks of 2003, when transmission associated
+with  aerosol-generating  procedures  was  observed.  Also  new  is  a  definition  of
+"epidemiologically  important  organisms"  that  was  developed  to  assist  in  the
+identification of clusters of infections that require investigation (i.e. multidrug-resistant
+organisms,  C.  difficile).  Several  other  pathogens  that  hold  special  infection  control
+interest (i.e., norovirus, SARS, Category A bioterrorist agents, prions, monkeypox, and
+the  hemorrhagic  fever  viruses)  also  are  discussed  to  present  new  information  and
+infection control lessons learned from experience with these agents. This section of the
+guideline  also  presents  information  on  infection  risks  associated  with  specific
+healthcare  settings  and  patient  populations.  Part  II  updates  information  on  the  basic
+
+principles  of  hand  hygiene,  barrier  precautions,  safe  work  practices  and  isolation
+practices that were included in previous guidelines. However, new to this guideline, is
+important  information  on  healthcare  system  components  that  influence  transmission
+risks,  including  those  under  the  influence  of  healthcare  administrators.  An  important
+administrative  priority  that  is  described  is  the  need  for  appropriate  infection  control
+staffing  to  meet  the  ever-expanding  role  of  infection  control  professionals  in  the
+modern,  complex  healthcare  system.  Evidence  presented  also  demonstrates  another
+administrative  concern,  the  importance  of  nurse  staffing  levels,  including  numbers  of
+appropriately  trained  nurses  in  ICUs  for  preventing  HAIs.  The  role  of  the  clinical
+microbiology  laboratory  in  supporting  infection  control  is  described  to  emphasize  the
+need  for  this  service  in  healthcare  facilites.  Other  factors  that  influence  transmission
+risks are discussed i.e., healthcare worker adherence to recommended infection control
+practices, organizational safety culture or climate, education and training. Discussed for
+the first time in an isolation guideline is surveillance of healthcare-associated infections.
+The information presented will be useful to new infection control professionals as well
+as persons involved in designing or responding to state programs for public reporting of
+HAI  rates.  Part  III  describes  each  of  the  categories  of  precautions  developed  by  the
+Healthcare Infection Control Practices Advisory Committee (HICPAC) and the Centers for
+Disease  Control  and  Prevention  (CDC)  and  provides  guidance  for  their  application  in
+various  healthcare  settings.  The  categories  of  Transmission-Based  Precautions  are
+unchanged  from  those  in  the  1996  guideline:  Contact,  Droplet,  and  Airborne.  One
+important  change  is  the  recommendation  to  don  the  indicated  personal  protective
+equipment (gowns, gloves, mask) upon entry into the patient's room for patients who
+are on Contact and/or Droplet Precautions since the nature of the interaction with the
+patient  cannot  be  predicted  with  certainty  and  contaminated  environmental  surfaces
+are  important  sources  for  transmission  of  pathogens.  In  addition,  the  Protective
+Environment (PE) for allogeneic hematopoietic stem cell transplant patients, described
+
+in  previous  guidelines,  has  been  updated.  There  are  several  tables  that  summarize
+important  information:  New  in  this  guideline  is  a  figure  that  shows  a  recommended
+sequence  for  donning  and  removing  personal  protective  equipment  used  for  isolation
+precautions  to  optimize  safety  and  prevent  self-contamination  during  removal.
+Appendix  A  consists  of  an  updated  alphabetical  list  of  most  infectious  agents  and
+clinical conditions for which isolation precautions are recommended. A preamble to the
+Appendix  provides  a  rationale  for  recommending  the  use  of  one  or  more
+Transmission-Based Precautions, in addition to Standard Precautions, based on a review
+of  the  literature  and  evidence  demonstrating  a  real  or  potential  risk  for
+person-to-person  transmission  in  healthcare  settings.  The  type  and  duration  of
+recommended precautions are presented with additional comments concerning the use
+of adjunctive measures or other relevant considerations to prevent transmission of the
+specific  agent.  Relevant  citations  are  included.  New  to  this  guideline  is  a
+comprehensive review and detailed recommendations for prevention of transmission of
+MDROs. This portion of the guideline was published electronically in October 2006 and
+updated in November, 2006 (Siegel JD, Rhinehart E, Jackson M, Chiarello L and HICPAC.
+Management  of  Multidrug-Resistant  Organisms  in  Healthcare  Settings  2006),  and  is
+considered  a  part  of  the  Guideline  for  Isolation  Precautions.  This  section  provides  a
+detailed  review  of  the  complex  topic  of  MDRO  control  in  healthcare  settings  and  is
+intended to provide a context for evaluation of MDRO at individual healthcare settings.
+A  rationale  and  institutional  requirements  for  developing  an  effective  MDRO  control
+program  are  summarized.  Although  the  focus  of  this  guideline  is  on  measures  to
+prevent  transmission  of  MDROs  in  healthcare  settings,  information  concerning  the
+judicious  use  of  antimicrobial  agents  is  presented  since  such  practices  are  intricately
+related to the size of the reservoir of MDROs which in turn influences transmission (e.g.,
+colonization pressure). There are two tables that summarize recommended prevention
+and  control  practices  using  the  following  seven  categories  of  interventions  to  control
+
+MDROs:  administrative  measures,  education  of  healthcare  personnel,  judicious
+antimicrobial use, surveillance, infection control precautions, environmental measures,
+and decolonization. Recommendations for each category apply to and are adapted for
+the  various  healthcare  settings.  With  the  increasing  incidence  and  prevalence  of
+MDROs, all healthcare facilities must prioritize effective control of MDRO transmission.
+Facilities should identify prevalent MDROs at the facility, implement control measures,
+assess the effectiveness of control programs, and demonstrate decreasing MDRO rates.
+A  set  of  intensified  MDRO  prevention  interventions  is  presented  to  be  added  This
+updated  guideline  responds  to  changes  in  healthcare  delivery  and  addresses  new
+concerns about transmission of infectious agents to patients and healthcare workers in
+the  United  States  and  infection  control.  The  primary  objective  of  the  guideline  is  to
+improve the safety of the nation’s healthcare delivery system by reducing the rates of
+HAIs. CDC provides information on infection control and clinical safety to help reduce
+the  risk  of  infections  among  healthcare  workers,  patients,  and  visitors.  Languages
+Language Assistance Languages  Language Assistance 
+
+Source URL: https://www.cdc.gov/infection-control/hcp/isolation-precautions/executive-summary.html

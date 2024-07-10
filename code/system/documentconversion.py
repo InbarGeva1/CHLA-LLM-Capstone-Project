@@ -3,12 +3,15 @@ import docx
 import fitz
 import pypandoc
 
-# destination
-file_path = ""
+pypandoc.download_pandoc()
 
 class DocumentConverter:
-    def __init__(self, directory):
-        self.directory = directory
+    def __init__(self, source_directory, destination_directory):
+        self.source_directory = source_directory
+        self.destination_directory = destination_directory
+
+        if not os.path.exists(destination_directory):
+            os.makedirs(destination_directory)
 
     def convert_docx_to_text(self, file_path):
         try:
@@ -41,15 +44,15 @@ class DocumentConverter:
             print(f"Error converting {file_path}: {e}")
             return ""
 
-    def save_text_to_file(self, file_path, text):
-        text_file_path = file_path + ".txt"
+    def save_text_to_file(self, filename, text):
+        text_file_path = os.path.join(self.destination_directory, filename + ".txt")
         with open(text_file_path, 'w', encoding='utf-8') as text_file:
             text_file.write(text)
         return text_file_path
 
     def convert_all_to_text_files(self):
-        for filename in os.listdir(self.directory):
-            file_path = os.path.join(self.directory, filename)
+        for filename in os.listdir(self.source_directory):
+            file_path = os.path.join(self.source_directory, filename)
             text = ""
             if filename.endswith(".docx"):
                 text = self.convert_docx_to_text(file_path)
@@ -59,10 +62,17 @@ class DocumentConverter:
                 text = self.convert_doc_to_text(file_path)
 
             if text:
-                self.save_text_to_file(file_path, text)
+                base_filename = os.path.splitext(filename)[0]
+                self.save_text_to_file(base_filename, text)
 
 
+# Usage
+chla_dir = "data/CHLA"
+chla_destination = "data/CHLA_text"
+converter = DocumentConverter(chla_dir, chla_destination)
+converter.convert_all_to_text_files()
 
-directory = "/Users/andrewmorris/PycharmProjects/CHLA-LLM-Capstone-Project/sample"
-converter = DocumentConverter(directory)
+cdc_dir = "data/CDC"
+cdc_destination = "data/CDC_text"
+converter = DocumentConverter(cdc_dir, cdc_destination)
 converter.convert_all_to_text_files()

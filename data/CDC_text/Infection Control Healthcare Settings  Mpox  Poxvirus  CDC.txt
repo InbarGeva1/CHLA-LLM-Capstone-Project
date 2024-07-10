@@ -1,0 +1,200 @@
+Official websites use .gov A .gov website belongs to an official government organization
+in  the  United  States.  Secure  .gov  websites  use  HTTPS  A  lock  (   )  or  https://  means
+you've  safely  connected  to  the  .gov  website.  Share  sensitive  information  only  on
+official, secure websites. These recommendations are intended for healthcare settings.
+Non-healthcare  settings  such  as  correctional  facilities  and  homeless  shelters  should
+continue to follow CDC’s Preventing Mpox Spread in Congregate Settings. On 4/5/2024:
+Infection prevention and control recommendations for healthcare settings are provided
+in the Guideline for Isolation Precautions: Preventing Transmission of Infectious Agents
+in Healthcare Settings (2007). Recommendations and practices described in this 2007
+guideline are intended to be used when providing care for any patient in a healthcare
+setting, including those with mpox infection. Additional supporting infection prevention
+and  control  information  is  provided  below.  Guidance  addressing  isolation  for  people
+with mpox infection outside of healthcare settings is available at Isolation and Infection
+Control  at  Home.  In  addition  to  Standard  Precautions,  if  a  patient  seeking  care  is
+suspected to have mpox infection, additional infection control precautions (as described
+below)  should  be  implemented.  Infection  prevention  and  control  personnel  should  be
+notified immediately. Activities that could resuspend dried material from lesions (e.g.,
+use of portable fans, dry dusting, sweeping, vacuuming) should be avoided. A patient
+with suspected or confirmed mpox infection should be placed in a single-person room;
+special air handling is not required. The door should be kept closed (if safe to do so).
+The patient should have a dedicated bathroom. Transport and movement of the patient
+outside of the room should be limited to medically essential purposes.  If the patient is
+transported  outside  of  their  room,  they  should  use  well-fitting  source  control  (e.g.,
+medical  mask)  and  have  any  exposed  skin  lesions  covered  with  a  sheet  or  gown.
+Intubation,  extubation,  and  any  procedures  likely  to  spread  oral  secretions  should  be
+performed  in  an  airborne  infection  isolation  room.  PPE  used  by  healthcare  personnel
+who  enter  the  patient’s  room  should  include:  Waste  management  (i.e.,  handling,
+
+storage,  treatment,  and  disposal  of  soiled  PPE,  patient  dressings,  etc.)  should  be
+performed  in  accordance  with  U.S.  Department  of  Transportation  (DOT)  Hazardous
+Materials  Regulations  (HMR;  49  CFR  parts  171-180.)  Updated  U.S.  guidance  for
+diagnostic samples and clinical waste advises that waste contaminated with Clade I or
+Clade II of mpox is designated as Category B infectious substances except when they
+contain or are contaminated with laboratory cultures of Clade I mpox virus. Refer to the
+current DOT Safety Advisory Notice for details. Facilities should also comply with state
+and local regulations for handling, storage, treatment, and disposal of waste, including
+Regulated  Medical  Waste.  Standard  cleaning  and  disinfection  procedures  should  be
+performed  using  an  EPA-registered  hospital-grade  disinfectant  with  an  emerging  viral
+pathogen claim. Products with Emerging Viral Pathogens claims may be found on EPA’s
+List Q. Follow the manufacturer’s directions for concentration, contact time, and care
+and  handling.  Soiled  laundry  (e.g.,  bedding,  towels,  personal  clothing)  should  be
+handled  in  accordance  with  recommended  [2.47  MB,  241  pages]  standard  practices,
+avoiding  contact  with  lesion  material  that  may  be  present  on  the  laundry.   Soiled
+laundry  should  be  gently  and  promptly  contained  in  an  appropriate  laundry  bag  and
+never be shaken or handled in manner that may disperse infectious material. Activities
+such as dry dusting, sweeping, or vacuuming should be avoided. Wet cleaning methods
+are  preferred.  Management  of  food  service  items  should  also  be  performed  in
+accordance  with  routine  procedures.  Detailed  information  on  environmental  infection
+control  in  healthcare  settings  can  be  found  in  CDC’s  Guidelines  for  Environmental
+Infection  Control  in  Health-Care  Facilities  and  Guideline  for  Isolation  Precautions:
+Preventing Transmission of Infectious Agents in Healthcare Settings [section IV.F. Care
+of  the  environment].  For  patients  with  suspected  or  confirmed  mpox  infection  in  a
+healthcare  setting:  Decisions  regarding  discontinuation  of  isolation  precautions  in  a
+healthcare facility may need to be made in consultation with the local or state health
+department, depending on the jurisdiction. In general, patients in healthcare facilities
+
+who  have  had  an  mpox  virus  exposure  and  are  asymptomatic  do  not  need  to  be
+isolated, but they should be monitored. Monitoring should include assessing the patient
+for signs and symptoms of mpox, including a thorough skin exam, at least daily, for 21
+days  after  their  last  exposure.  Postexposure  risk  assessment  and  management  for
+patients  should  be  adapted  from  community  guidance  or  healthcare  guidance,
+depending  on  the  nature  and  location  of  a  patient’s  exposure.  During  the  21-day
+monitoring  period:  Be  placed  on  empiric  isolation  precautions  for  mpox  until  (1)  the
+rash is evaluated, (2) testing is performed, if indicated, and (3) the results of testing are
+available  and  are  negative.  Some  patients  may  be  unable  to  communicate  onset  of
+symptoms  (e.g.  a  newborn,  patients  with  delirium).  Decisions  on  whether  to  isolate
+exposed patients who are unable to communicate about onset of symptoms should be
+informed  by  the risk of their exposure incident (how  likely  they  are to  develop  mpox
+infection),  risk  that  transmission  would  pose  to  other  patients  on  their  unit  (e.g.,
+immunocompromised  patients),  and  other  factors.  To  date,  there  have  been  no
+confirmed  reports  of  mpox  virus  transmission  from  medical  products  of  human  origin
+(MPHO)
+ including
+ blood
+ transfusion,
+ organ
+ transplantation,
+ or
+ implantation,
+transplantation, infusion, or transfer of human cells, tissues, or cellular or tissue-based
+products  (HCT/Ps).  As  a  precaution,  people  who  have  a  high-  or  intermediate-risk
+exposure  (Monitoring  and  Risk  Assessment  for  Persons  Exposed  in  the  Community  |
+Mpox  |  Poxvirus  |  CDC)  should  not  donate  blood,  cells,  tissue,  breast  milk,  or  semen
+while  they  are  being  monitored  for  symptoms.  Given  the  morbidity  and  mortality
+among individuals awaiting organ transplantation, potential deceased donors who have
+been  exposed  and  have  no  evidence  of  mpox  virus  infection,  based  on  a  physical
+examination, could be considered for organ donation following appropriate risk-benefit
+considerations. Potential living donors who have been exposed to mpox could consider
+deferring donation until 21 days following their last exposure. The risk of such wait time
+should  be  weighed  against  the  morbidity  and  mortality  risk  for  individuals  awaiting
+
+organ  transplantation.  All  decisions  should  be  based  on  appropriate  risk-benefit
+considerations, recognizing that mpox virus has been detected in some samples taken
+from people who reported no symptoms. CDC will continue to monitor case data and
+available  science  for  new  or  changing  information  about  transmission.  Additional
+information  on  safety  considerations  for  blood  and  plasma  donation  is  available  at
+FDA’s  Information  for  Blood  Establishments  Regarding  the  Mpox  Virus  and  Blood
+Donation and from the Association for the Advancement of Blood & Biotherapies (AABB)
+[251  KB,  9  pages].  The  Organ  Procurement  and  Transplantation  Network  (OPTN)
+Disease  Transmission  Advisory  Committee  is  evaluating  the  implications  for  organ
+transplantation:  OPTN/HRSA’s  Mpox  and  Solid  Organ  Donation  For  further  questions
+please contact CDC: eocreport@cdc.gov Visitors to patients with mpox infection should
+be  limited  to  those  essential  for  the  patient’s  care  and  wellbeing  (e.g.,  parents  of  a
+child, spouse). Decisions about who might visit, including whether the visitor stays or
+sleeps in the room with the patient, typically take into consideration the patient’s age,
+the  patient’s  ability  to  advocate  for  themselves,  ability  of  the  visitor  to  adhere  to
+infection  prevention  and  control  recommendations,  whether  the  visitor  already  had
+higher  risk  exposure  to  the  patient,  and  other  aspects.  In  general,  visitors  with
+contagious diseases should not be visiting patients in healthcare settings to minimize
+the risk of transmission to others. Each risk level category in the table below is intended
+to  highlight  the  need  for  monitoring  and  assist  with  determining  the  need  for
+postexposure  prophylaxis  (PEP).  The  exposure  risk  level  of  any  incident  may  be
+recategorized to another risk level at the discretion of occupational health services or
+public  health  authorities  due  to  the  unique  circumstances  of  each  exposure  incident.
+Correct  and  consistent  use  of  PPE  when  caring  for  a  patient  with  mpox  infection  is
+highly  protective  and  prevents  transmission  to  HCP.   However,  unrecognized  errors
+during the use of PPE (e.g., self-contaminating when removing contaminated PPE) may
+create opportunities for transmission to HCP. Therefore, in the absence of an exposure
+
+described  below,  HCP  who  enter  a  contaminated  patient  room  or  care  area  while
+wearing recommended PPE, should be aware of the signs and symptoms of mpox; if any
+signs or symptoms of mpox occur, HCP should notify occupational health services for
+further  evaluation  and  should  not  report  to  work  (or  should  leave  work,  if  signs  or
+symptoms develop while at work).   ¶ ACAM2000 and JYNNEOS are available for PEP. ¶¶
+Factors that may increase the risk of mpox transmission include (but are not limited to):
+the  person  with  mpox  infection  had  clothes  that  were  soiled  with  bodily  fluids  or
+secretions (e.g., discharge, skin flakes on clothes) or was coughing while not wearing a
+mask  or  respirator,  or  the  exposed  individual  is  not  previously  vaccinated  against
+smallpox or mpox. People who may be at increased risk for severe disease include (but
+are not limited to): young children (e.g., children <1 year of age), individuals who are
+pregnant or immunocompromised, and individuals with a history of atopic dermatitis or
+eczema.  Decisions  on  how  to  monitor  exposed  HCP  are  at  the  discretion  of  the
+occupational  health  program  and  public  health  authorities.  In  general,  the  type  of
+monitoring
+ employed
+ often
+ reflects
+ the
+ risk
+ for
+ transmission
+ with
+ more
+active-monitoring  approaches  used  for  higher  risk  exposures.  Self-monitoring
+approaches are usually sufficient for exposures that carry a lesser risk for transmission.
+Even  higher  risk  exposures  may  be  appropriate  for  a  self-monitoring  strategy  if
+occupational  health  services  or  public  health  authorities  determine  that  it  is
+appropriate.  Ultimately,  the  person’s  exposure  risk  level,  their  reliability  in  reporting
+symptoms that might develop, the number of persons needing monitoring, time since
+exposure, receipt of PEP, and available resources, are all factors when determining the
+type of monitoring to be used. Asymptomatic HCP with exposures to mpox virus do not
+need  to  be  excluded  from  work,  but  should  be  monitored  (e.g.,  at  least  a  daily
+assessment conducted by the exposed HCP for signs and symptoms of mpox infection)
+for 21 days after their last exposure. If symptoms develop, HCP should be managed as
+described  below.  If  pox  infection  is  ruled  out,  they  may  still  have  work  restrictions
+
+recommended  if  their  diagnosis  is  one  where  restriction  from  work  is  recommended
+(e.g.,  varicella).  During  the  21-day  monitoring  period:  As  a  precaution,  HCP  with
+exposures categorized higher than ‘No risk’ in the above table should not donate blood,
+cells, tissue, breast milk, or semen while they are being monitored for symptoms. Given
+the morbidity and mortality among individuals awaiting organ transplantation, HCP who
+have  been  exposed,  but  who  are  asymptomatic  and  without  evidence  of  mpox  virus
+infection,  could  be  considered  for  organ  donation  following  appropriate  risk-benefit
+considerations. HCP with confirmed mpox infection should be excluded from work until
+all lesions have crusted, those crusts have separated, and a fresh layer of healthy skin
+has formed underneath. Ultimately, the decision on when to return to work will be made
+with  their  occupational  health  program,  and  potentially  with  input  from  public  health
+authorities. Healthcare personnel (HCP) refers to all paid and unpaid persons serving in
+healthcare settings who have the potential for direct or indirect exposure to patients or
+infectious  materials,  including  body  substances  (e.g.,  blood,  tissue,  and  specific  body
+fluids);  contaminated  medical  supplies,  devices,  and  equipment;  contaminated
+environmental surfaces; or contaminated air. These HCP include, but are not limited to,
+emergency  medical  service  personnel,  nurses,  nursing  assistants,  physicians,
+technicians, therapists, phlebotomists, pharmacists, students and trainees, contractual
+staff  not  employed  by  the  healthcare  facility,  and  persons  not  directly  involved  in
+patient care, but who could be exposed to infectious agents that can be transmitted in
+the healthcare setting (e.g., clerical, dietary, environmental services, laundry, security,
+engineering
+ and
+ facilities
+ management,
+ administrative,
+ billing,
+ and
+ volunteer
+personnel).  Healthcare  settings  refers  to  places  where  healthcare  is  delivered  and
+includes,  but  is  not  limited  to,  acute  care  facilities,  long-term  acute-care  facilities,
+inpatient  rehabilitation  facilities,  nursing  homes,  home  healthcare,  vehicles  where
+healthcare is delivered (e.g., mobile clinics), and outpatient facilities, such as dialysis
+centers,  physician  offices,  dental  offices,  and  others.  Active  monitoring  typically
+
+involves in-person visits, regular communications (e.g., phone calls, video conferences)
+between  occupational  health  services,  public  health  representatives,  and  the  person
+being monitored. Self-monitoring typically involves persons self-reporting symptoms to
+occupational  health  programs  or  health  departments  if  symptoms  appear.  On
+10/31/2022:  Information  about  human-to-human  transmission  of  mpox  virus  is
+described  in  How  it  Spreads  |  Mpox  |  Poxvirus  |  CDC.   Transmission  in  healthcare
+settings has been rarely described. On 8/11/2022: On 7/01/2022:
+
+Source URL: https://www.cdc.gov/poxvirus/mpox/clinicians/infection-control-healthcare.html

@@ -1,0 +1,442 @@
+Persons using assistive technology might not be able to fully access information in this
+file. For assistance, please send e-mail to: mmwrq@cdc.gov. Type 508 Accommodation
+and  the  title  of  the  report  in  the  subject  line  of  e-mail.  The  following  statement
+supplements and updates certain
+ sections of two
+previous statements on hepatitis B virus prophylaxis (MMWR
+ 1981;30:423-35 and
+MMWR 1982;31:317-28 {1,2}). Those statements should be consulted
+ regarding
+preexposure use of hepatitis B vaccine and prophylaxis of hepatitis
+ A.  INTRODUCTION  Prophylactic treatment to prevent hepatitis B (HB) infection
+ after
+exposure to hepatitis B virus (HBV) should be considered in several
+situations: perinatal exposure of an infant born to a hepatitis B
+ surface
+antigen (HBsAg)-positive mother, accidental percutaneous or
+ permucosal
+exposure to HBsAg-positive blood, or sexual exposure to an
+ HBsAg-positive
+person. In each of these settings, the risk of HB infection is
+ known to be
+high and justifies preventive measures. Previous recommendations
+ for
+postexposure prophylaxis have relied on passive immunization with
+ specific
+hepatitis B immune globulin (HBIG) (1). However, the recent
+
+ demonstration of
+high efficacy of HB vaccine combined with HBIG in preventing
+ chronic HB
+infection in infants of HBsAg-positive mothers requires the
+ revision of
+recommendations  for  postexposure  prophylaxis  (3)  (Table  1).   Passive  immunization
+with HBIG alone has been partially
+ effective in
+preventing clinical HB in studies of medical personnel after
+ needlestick
+accidents (4) and sexual exposure to partners with acute HB (5). In
+ addition,
+HBIG prophylaxis has been shown to significantly reduce the
+ percentage of
+infants who become chronic HBV carriers after perinatal exposure to
+ HBsAg-
+positive mothers (6). For perinatal and needlestick exposures,
+ however, HBIG
+alone is only about 75% effective even when given very soon after
+ exposure,
+may provide only temporary protection, and is costly (over $150 per
+ adult
+dose).  With the development of HB vaccine, the possibility arose that
+ HB
+vaccine, alone or in combination with HBIG, might be useful for
+ postexposure
+prophylaxis. Studies have shown that response to HB vaccine is not
+
+ impaired
+by concurrent administration of HBIG and that the combination of HB
+ vaccine
+and one dose of HBIG produces immediate and sustained high levels
+ of
+protective antibody to the hepatitis B surface antigen (anti-HBs)
+ (7). A
+recent study examining the efficacy of HB vaccine combined with a
+ single dose
+of HBIG in preventing perinatal transmission from HBsAg carrier
+ mothers who
+were also positive for hepatitis B "e" antigen (HBeAg) showed this
+combination to be highly effective in preventing the HBV carrier
+ state in
+infants and significantly more effective than multiple doses of
+ HBIG alone
+(3).  PERINATAL TRANSMISSION  Transmission from mother to infant during birth is one
+of the
+ most
+efficient modes of HBV transmission. If the mother is positive for
+ both HBsAg
+and HBeAg, about 80%-90% of infants will become infected. Although
+ infection
+is rarely symptomatic in the acute phase, approximately 90% of
+ these infected
+infants will become chronic HBV carriers. It has been estimated
+ that 25% of
+
+these chronic carriers may die of cirrhosis or primary
+ hepatocellular
+carcinoma (3). In addition, such persons are infectious, and female
+ carriers
+may subsequently perpetuate the cycle of perinatal transmission. If
+ the
+HBsAg-positive carrier mother is HBeAg-negative or if anti-HBe is
+ present,
+transmission occurs in less than 25% and 12% of cases,
+ respectively. Such
+transmission rarely leads to chronic HBV carriage; however, severe
+ acute
+disease, including fatal fulminant hepatitis in the neonate, has
+ been
+reported (8,9). Even if perinatal infection does not occur, the
+ infant may be
+at risk of subsequent infection from other family contacts. For
+ these
+reasons, prophylaxis of infants from all HBsAg-positive mothers is
+ recom-
+mended,  regardless  of  the  mother's  HBeAg  or  anti-HBe  status.   The  primary  goal  of
+postexposure prophylaxis for exposed
+ infants is
+prevention of HBV carrier state. In addition, there is a need to
+ prevent the
+rare occurrence of severe clinical hepatitis in some of these
+ infants. Admin-
+
+istration of 0.5 ml HBIG to an infant of an HBsAg, HBeAg-positive
+ mother soon
+after birth and repeated at 3 months and 6 months reduces the
+ probability of
+chronic infection from about 90% to about 25% (efficacy about 75%).
+ The con-
+current use of HB vaccine and various combinations of HBIG
+ increases the
+efficacy to close to 90%. Since approximately 5% of perinatal
+ infection may
+occur in utero, it appears likely that no form of postnatal
+ prophylaxis will
+be 100% effective in this circumstance.  Concurrent HBIG and vaccine administration
+does not appear to
+ interfere
+with vaccine efficacy. HB vaccine has been shown to be equally
+ immunogenic in
+neonates, whether given in 10-ug or 20-ug doses. The use of HB
+ vaccine in
+combination with HBIG in the perinatal setting has the advantages
+ of
+increasing efficacy, eliminating the need for the second and third
+ doses of
+HBIG, and providing long-term immunity to those who are not
+ infected during
+the  perinatal  period.   Maternal  Screening   Since  efficacy  of  this  regimen  depends  on
+administering HBIG on
+
+ the day
+of birth, it is vital that HBsAg-positive mothers be identified
+ before
+delivery. Mothers belonging to groups known to be at high risk of
+ HB
+infection (Table 2) should be tested routinely for HBsAg during a
+ prenatal
+visit. If a mother belonging to a high-risk group has not been
+ screened
+prenatally, HBsAg screening should be done at the time of delivery
+ or as soon
+as  possible  thereafter.   Management  of  HBsAg-Positive  Mothers  and  Their  Newborns  
+The appropriate obstetric and pediatric staff should be
+ notified directly
+of HBsAg-positive mothers, so the staff may take appropriate
+ precautions to
+protect themselves and other patients from infectious material,
+ blood, and
+secretions, and so the neonate may receive therapy without delay
+ after birth.  Recent studies in Taiwan and the United States have confirmed
+ the
+efficacy of the following regimen (Table 3). Other schedules have
+ also been
+effective (3,10,11). The major consideration for all these regimens
+ is the
+need to give HBIG as soon as possible after the infant has
+ physiologically
+
+stablized  after  delivery.   HBIG  (0.5  ml)  should  be  administered  intramuscularly  (IM)
+after
+physiologic stabilization of the infant and preferably within 12
+ hours of
+birth. HBIG efficacy decreases markedly if treatment is delayed
+ beyond 48
+hours. HB vaccine should be administered IM in three doses of 0.5
+ ml of
+vaccine (10 ug) each. The first dose should be given within 7 days
+ of birth
+and may be given concurrently with HBIG but at a separate site. The
+ second
+and third doses should be given 1 month and 6 months, respectively,
+ after the
+first (Table 1). HBsAg testing at 6 months may be done for
+ counseling
+purposes, since HBsAg-positivity at 6 months indicates a
+ therapeutic failure,
+and the third vaccine dose need not be given if HBsAg-positivity is
+ found. If
+a mother's HBsAg-positive status is not discovered until after
+ delivery,
+prophylaxis should still be administered if a venous (not cord)
+ blood sample
+from the infant is HBsAg-negative. Testing for HBsAg and anti-HBs
+ is recom-
+
+mended at 12-15 months to monitor the final success or failure of
+ therapy. If
+HBsAg is found, it is likely the child is a chronic carrier. If
+ HBsAg is not
+detectible, and anti-HBs is present, the child has been protected.
+ Since
+maternal antibody to the core antigen (anti-HBc) may persist for
+ more than 1
+year, testing for anti-HBc may be difficult to interpret during
+ this period.
+HB vaccine is an inactivated product, and it is presumed that it
+ will not
+interfere with other simultaneously administered childhood vaccines
+ (12).
+HBIG administered at birth should not interfere with oral polio and
+diphtheria-tetanus-pertussis vaccines administered at about 2
+ months of age
+(Table 3).  ACUTE EXPOSURE TO BLOOD CONTAINING HBsAg  There are no prospective
+studies directly testing the efficacy
+ of a
+combination of HBIG and HB vaccine in preventing clinical HB
+ following
+percutaneous or mucous-membrane exposure to HBV. However, since
+ health-care
+workers at risk to such accidents are candidates for HB vaccine and
+ since
+
+combined HBIG plus vaccine is more effective than HBIG alone in
+ perinatal
+exposures, it is reasonable to recommend both HB vaccine and HBIG
+ after such
+exposure. This combination will provide prolonged immunity to
+ subsequent
+exposures and may also increase efficacy in preventing HB in such
+ post-
+exposure situations. In addition, because the second dose of HBIG
+ is not
+considered necessary if the vaccine is used, the cost of
+ combination treat-
+ment is usually less than that of two HBIG doses alone. If exposure
+ to blood
+occurs in situations where the HBsAg status of the blood is
+ unknown, refer to
+"Immune Globulins for Protection against Viral Hepatitis" (1). If
+ HBsAg
+testing reveals the source of the blood to be positive, the
+ following
+treatment  schedule  should  be  instituted  as  soon  as  possible.   For  percutaneous
+(needlestick), ocular, or mucous-membrane
+ exposure to
+blood known to contain HBsAg and for human bites from HBsAg
+ carriers that
+penetrate the skin, a single dose of HBIG (0.06 ml/kg or 5.0 ml for
+ adults)
+
+should be given as soon as possible after exposure and within 24
+ hours if
+possible. HB vaccine 1 ml (20 ug) should be given IM at a separate
+ site as
+soon as possible, but within 7 days of exposure, with the second
+ and third
+doses given 1 month and 6 months, respectively, after the first
+ (Table 1). If
+HBIG is unavailable, immunoglobulin (IG {formerly ISG or "gamma
+ globulin"})
+may be given in an equivalent dosage (0.06 ml/kg or 5.0 ml for
+ adults). If an
+individual has received at least two doses of HB vaccine before an
+ accidental
+exposure, no treatment is necessary if serologic tests show
+ adequate levels
+(> 10 S/N by RIA) of anti-HBs. For persons who choose not to
+ receive HB
+vaccine, the previously recommended two-dose HBIG regimen may be
+ used  (1).   HBIG  FOR  SEXUAL  CONTACTS  OF  PERSONS  WITH  ACUTE  HBV  INFECTION  
+Sexual contacts of persons with acute HB infection are at
+ increased risk
+of acquiring HB infection. Two published studies have assessed the
+ value of
+postexposure prophylaxis for regular sexual contacts of persons
+ with acute HB
+infection. One showed that HBIG was significantly more effective
+
+ than IG that
+contained no measureable anti-HBs in preventing both HB infection
+ and
+clinical illness (5). The second study, however, showed comparable
+ disease
+rates in persons receiving HBIG and IG containing the increased
+ levels of
+anti-HBs found in currently available lots (13). Because data are
+ limited,
+the period after sexual exposure during which HBIG is effective is
+ unknown,
+but extrapolation from other settings makes it unlikely that this
+ period
+would exceed 14 days. The value of HB vaccine alone in this setting
+ is
+unknown. However, since about 90% of persons with acute HB
+ infections become
+HBsAg-negative within 15 weeks of diagnosis, the potential for
+ repeated
+exposure is usually self-limited. HB vaccine is not routinely
+ recommended for
+such exposures.  Prescreening sexual partners for susceptibility before HBIG
+ treatment is
+recommended if it does not delay HBIG administration beyond 14 days
+ after
+last exposure. In one study, 27% of regular sexual partners
+ (heterosexual)
+
+were positive for HBsAg or anti-HBs at the time they presented for
+ evaluation
+(5). Among homosexually active males, over 50% have markers
+ indicating prior
+infection, and 5%-6% are HBsAg positive (2). Testing for anti-HBc
+ is the most
+efficient prescreening test to use in this population group.  A single dose of HBIG (0.06
+ml/kg or 5 ml for adults) is
+ recommended for
+susceptible individuals who have had sexual contact with an
+ HBsAg-positive
+persons if HBIG can be given within 14 days of the last sexual
+ contact, and
+for persons who will continue to have sexual contact with an
+ individual with
+acute HB before loss of HBsAg in that individual (Table 1). In
+ exposures
+between heterosexuals, a second HBIG dose should be given if the
+ index
+patient remains HBsAg-positive 3 months after detection. If the
+ index patient
+is a known HBV carrier or remains HBsAg-positive for 6 months, HB
+ vaccine
+should be offered to regular sexual contacts. For exposures among
+ homosexual
+men, the HB vaccine series should be initiated at the time HBIG is
+ given
+
+following a sexual exposure, since HB vaccine is recommended for
+ all sus-
+ceptible homosexual men (2). Additional doses of HBIG are
+ unnecessary if
+vaccine is given. Because current lots of IG contain anti-HBs, it
+ remains an
+important alternative to HBIG when HBIG is unavailable.  References  
+    ACIP. Immune globulins for protection against viral hepatitis.
+ MMWR
+    1981;30:423-8, 433-5.  
+    ACIP. Inactivated hepatitis B virus vaccine. MMWR
+ 1982;31:317-22, 327-8.  
+    Beasley RP, Hwang L-Y, Lee GC, et al. Prevention of perinatally
+    transmitted hepatitis B virus infections with hepatitis B
+ immune globulin
+    and hepatitis B vaccine. Lancet 1983;II:1099-102.  
+    Seeff LB, Wright EC, Zimmerman HJ, et al. Type B hepatitis
+ after needle-
+    stick exposure: prevention with hepatitis B immune globulin.
+ Final report
+    of the Veterans Administration Cooperative Study. Ann Intern
+ Med
+    1978;88:285-93.  
+    Redeker AG, Mosley JW, Gocke DJ, McKee AP, Pollack W. Hepatitis
+ B immune
+    globulin as a prophylactic measure for spouses exposed to acute
+
+ type B
+    hepatitis. N Engl J Med 1975;293:1055-9.  
+    Beasley RP, Hwang LY, Stevens CE, et al. Efficacy of hepatitis
+ B immune
+    globulin for prevention of perinatal transmission of the
+ hepatitis B
+    virus carrier state: final report of a randomized double-blind,
+ placebo-
+    controlled trial. Hepatology 1983;3:135-41.  
+    Szmuness W, Stevens CE, Oleszko WR, Goodman A. Passive-active
+ immuni-
+    sation against hepatitis B: immunogenicity studies in adult
+ Americans.
+    Lancet 1981;I:575-7.  
+    Sinatra FR, Shah P, Weissman JY, Thomas DW, Merritt RJ, Tong
+ MJ. Peri-
+    natal transmitted acute icteric hepatitis B in infants born to
+ hepatitis
+    B surface antigen-positive and anti-hepatitis Be-positive
+ carrier
+    mothers. Pediatrics 1982;70:557-9.  
+    Delaplane D, Yogev R, Crussi F, Schulman ST. Fatal hepatitis B
+ in early
+    infancy: the importance of identifying HBsAg-positive pregnant
+ women and
+    providing immunoprophylaxis to their newborns. Pediatrics
+ 1983;72:176-80.  
+
+    Stevens CE, Toy P, Tong MJ, et al. Perinatal hepatitis B virus
+ treatment
+    in the U.S.: prevention by passive-active immunization.
+ Submitted for
+    publication.  
+    Wong VCW, Ip HMH, Reesink HW, et al. Prevention of the HBsAg
+ carrier
+    status in newborn infants in mothers who are chronic carriers
+ of HBsAg
+    and HBeAg by administration of hepatitis B vaccine and
+ hepatitis B immune
+    globulin: double-blind randomized placebo-controlled study.
+ Lancet
+    1984;I:921-6.  
+    Chiron JP, Coursaget P, Yvonnet B, et al. Simultaneous
+ administration of
+    hepatitis B and diphtheria/tetanus/polio vaccines {Letter}.
+ Lancet
+    1984;I:623-4.  
+    Perrillo RP, Campbell CR, Strang S, Bodicky CJ, Costigan DJ.
+ Immune
+    globulin and hepatitis B immune globulin: prophylactic measures
+ for
+    intimate contacts exposed to acute type B hepatitis. Arch
+ Intern Med
+    1984;144:81-5.  
+Disclaimer
+
+   All MMWR HTML documents published before January 1993 are electronic conversions
+from ASCII text into HTML.  This conversion may have resulted in character translation
+or format errors in the HTML version.  Users should not rely on this HTML document, but
+are referred to the original MMWR paper copy for the official text, figures, and tables. 
+An  original  paper  copy  of  this  issue  can  be  obtained  from  the  Superintendent  of
+Documents,  U.S.  Government  Printing  Office  (GPO),  Washington,  DC  20402-9371;
+telephone: (202) 512-1800. Contact GPO for current prices. Page converted: 08/05/98 
+    HOME  |  
+    ABOUT MMWR  | 
+    MMWR SEARCH  | 
+    DOWNLOADS  | 
+    RSS 
+    |  
+    CONTACT
+POLICY  |  
+    DISCLAIMER  |  
+    ACCESSIBILITY 
+Morbidity and Mortality Weekly Report
+                Centers for Disease Control and Prevention
+                1600 Clifton Rd, MailStop E-90, Atlanta, GA 
+                  30333, U.S.A 
+Department of Healthand Human Services This page last reviewed 5/2/01 
+
+ 
+
+Source URL: https://www.cdc.gov/mmwr/preview/mmwrhtml/00022736.htm

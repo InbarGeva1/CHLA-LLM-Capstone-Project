@@ -1,0 +1,91 @@
+
+
+
+
+
+
+
+
+4	2
+6	2	4
+3
+1
+1
+5
+3
+
+
+
+
+
+
+
+
+
+
+NURSES STATION
+
+Equipment Approved to Clean with PDI Super-Sani Wipe: 2-Minute Contact Time
+Desks and hard surfaces of chairs
+Desk phones
+Computer keyboards
+Computer monitors
+Clean only if visibly soiled
+After contact time is elapsed—MUST clean touch-screen with water and wipe dry
+Filing cabinets
+Intercom system
+Glucometer or Epoque Laboratory Handheld Device
+Equipment Approved to Clean with Dispatch Bleach Wipe: 5-Minute Contact Time for Clostridium Difficile, 1-Minute Contact Time for all other Organisms
+Polycom phones
+
+
+
+
+
+8
+14	1
+1
+7
+
+15
+2
+2
+
+
+10	12	9
+3
+1
+11	13
+4	6
+
+
+
+
+STANDARD  PATIENT  ROOM –  INTENSIVE CARE UNIT
+
+Equipment Approved to Clean with PDI Super-Sani Wipe: 2-Minute Contact Time
+
+
+Boom
+Syringe pump
+Large-volume IV pump/ IV pole
+Over-bed table
+Bed/crib (not pictured)
+Warmer  or isolette
+Patient monitor with touchscreen
+After contact time is elapsed—MUST clean touch-screen with water and wipe dry
+GetWellNetwork console
+Clean only as needed if visibly soiled
+After contact time is elapsed—MUST clean touch-screen with water and wipe dry
+Ventilator
+Parent chair and sleeping area
+Supply  cart—hard  surfaces only
+Computer on wheels
+For Screens—After contact time is elapsed— MUST clean screen with water and wipe dry
+Computer keyboard and mouse
+Exam light
+Privacy curtain
+If patient is on Contact, Combined-Droplet,  or Combined-Airborne Isolation, curtain must be  changed  during  discharge cleaning
+If patient is on Standard Precautions, curtain must be changed every six months
+
+If patient isolated for infection with Clostridium Difficile, Norovirus or Vancomycin-Resistant Enterococcus please use Dispatch wipe as cleaning agent.

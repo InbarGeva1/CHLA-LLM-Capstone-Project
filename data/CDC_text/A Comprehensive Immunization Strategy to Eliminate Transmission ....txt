@@ -1,0 +1,1086 @@
+Recommendations of the Advisory Committee on Immunization 
+Practices (ACIP) Part 1: Immunization of Infants, Children, and Adolescents 
+ Persons using assistive technology might not be able to fully access information in this
+file. For assistance, please send e-mail to: mmwrq@cdc.gov. Type 508 Accommodation
+and the title of the report in the subject line of e-mail. Prepared by
+Eric E. Mast, MD1, Harold S. Margolis, 
+MD,1 Anthony E. Fiore, MD,1 Edward W. Brink, 
+MD,2 Susan T. Goldstein, 
+MD,1 Susan A. Wang, MD,1 Linda A. 
+Moyer,1 Beth P. Bell, MD,1 Miriam J. Alter, 
+PhD1
+1Division of Viral Hepatitis, National Center for Infectious Diseases, 
+2Immunization Services Division, National Immunization Program
+ The  material  in  this  report  originated  in  the  National  Center  for  Infectious  Diseases,
+Rima F. Khabbaz, MD, Director, Division of Viral Hepatitis, 
+John W. Ward, MD, Director;  and the National Immunization Program, Anne Schuchat,
+MD, Director, Immunization Services Division, Lance 
+E. Rodewald, MD, Director. 
+ Corresponding preparer: Eric E. Mast, MD, Division of Viral Hepatitis, National Center
+for Infectious Diseases, 1600 Clifton Road, NE, MS 
+G-37,  Atlanta,  GA  30333.  Telephone:  404-371-5460;  Fax:  404-371-5221;  E-mail:
+emast@cdc.gov.
+
+Summary
+ This  report  is  the  first  of  a  two-part  statement  from  the  Advisory  Committee  on
+Immunization Practices (ACIP) 
+that updates the strategy to eliminate hepatitis B virus (HBV) transmission in the United
+States. The report provides 
+updated recommendations to improve prevention of perinatal and early childhood HBV
+transmission, including implementation 
+of  universal  infant  vaccination  beginning  at  birth,  and  to  increase  vaccine  coverage
+among previously unvaccinated children 
+and  adolescents.  Strategies  to  enhance  implementation  of  the  recommendations
+include 1) establishing standing orders 
+for  administration  of  hepatitis  B  vaccination  beginning  at  birth;  2)  instituting  delivery
+hospital policies and procedures and 
+case  management  programs  to  improve  identification  of  and  administration  of
+immunoprophylaxis to infants born to mothers 
+who 
+are hepatitis B surface antigen (HBsAg) positive and to mothers with unknown HBsAg
+status at the time of delivery; and 
+3)  implementing  vaccination  record  reviews  for  all  children  aged  11--12  years  and
+children and adolescents aged <19 years 
+who  were  born  in  countries  with  intermediate  and  high  levels  of  HBV  endemicity,
+adopting hepatitis B vaccine requirements 
+for school entry, and integrating hepatitis B vaccination services into settings that serve
+adolescents. The second part of the 
+ACIP  statement,  which  will  include  updated  recommendations  and  strategies  to
+increase hepatitis B vaccination of adults, will 
+
+be published separately.
+Strategy to Eliminate Hepatitis B Virus Transmission
+  Hepatitis B virus (HBV) is a bloodborne and sexually transmitted virus. Rates of new
+infection and acute disease are 
+highest among adults, but chronic infection is more likely to occur in persons infected
+as infants or young children. Before hepatitis 
+B vaccination programs became routine in the United States, an estimated 30%--40% of
+chronic 
+infections are believed to have resulted from perinatal or early childhood transmission,
+even though <10% of reported cases of hepatitis B occurred 
+in children aged <10 years (1). Chronically infected persons are at increased lifetime
+risk for cirrhosis and 
+hepatocellular carcinoma (HCC) and also serve as the main reservoir for continued HBV
+transmission.
+ Hepatitis B vaccination is the most effective measure to prevent HBV infection and its
+consequences. Since they were 
+first issued in 1982, recommendations for hepatitis B vaccination have evolved into a
+comprehensive strategy to eliminate 
+HBV transmission in the United States (2--6) 
+(Box 1). A primary focus of this strategy is universal vaccination of 
+infants to prevent early childhood HBV infection and to eventually protect adolescents
+and adults from infection. Other components 
+include routine screening of all pregnant women for hepatitis B surface antigen (HBsAg)
+and postexposure immunoprophylaxis 
+of infants born to HBsAg-positive women, vaccination of children and adolescents who
+
+were not previously vaccinated, 
+and vaccination of unvaccinated adults at increased risk for infection.
+ To date, the immunization strategy has been implemented with considerable success.
+Recent estimates indicate that >95% 
+of pregnant women are tested for HBsAg, and case management has been effective in
+ensuring high levels of initiation 
+and 
+ 
+ 
+completion  of  postexposure  immunoprophylaxis  among  identified  infants  born  to
+HBsAg-positive women 
+(7).  Hepatitis  B  vaccine  has  been  successfully  integrated  into  the  childhood  vaccine
+schedule, and infant vaccine coverage levels are 
+now  equivalent  to  those  of  other  vaccines  in  the  childhood  schedule.  During
+1990--2004, incidence of acute hepatitis B in 
+the United States declined 75%. The greatest decline (94%) occurred among children
+and adolescents, coincident with an 
+increase in hepatitis B vaccine coverage. As of 2004, among U.S. children aged 19--35
+months, >92% had been fully vaccinated with 
+3  doses  of  hepatitis  B  vaccine  (8).  This  success  can  be  attributed  in  part  to  the
+established infrastructure for vaccine delivery 
+to children and to federal support for perinatal hepatitis B prevention programs.
+ Vaccine  coverage  among  adolescents  has  also  increased  substantially.  Preliminary
+data demonstrate that 50%--60% 
+of  adolescents  aged  13--15  years  have  records  indicating  vaccination  (with  3  doses)
+against hepatitis B (CDC, unpublished 
+data,  2003).  As  of  November  2005,  a  total  of  34  states  require  vaccination  for
+
+middle-school entry 
+(9).  Certain  programs  provide  hepatitis  B  vaccine  to  youth  who  engage  in  behaviors
+that place them at high risk for HBV infection (i.e., injection-drug 
+use, having more than one sex partner, and male sexual activity with other males), and
+adolescent hepatitis B vaccination 
+is included as a Health Plan Employer Data Information Set (HEDIS) measure 
+(10).
+ Despite these successes, challenges remain. Even with 
+improvements in the management of pregnant women, 
+only approximately 50% of expected births to HBsAg-positive women are identified (on
+the basis of application of 
+racial/ethnic-specific  HBsAg  prevalence  estimates  to  U.S.  natality  data)  for  case
+management, which maximizes timely delivery 
+of postexposure immunoprophylaxis (11; CDC, unpublished data, 2004). The need for
+proper management of women 
+without prenatal care, including HBsAg testing at the time of admission for delivery and
+administration of the first dose of vaccine 
+to  infants  <12  hours  of  birth,  is  underscored  by  the  higher  prevalence  of  HBsAg
+seropositivity among these women than 
+among women who are screened prenatally (12). Even when maternal HBsAg testing
+does occur, certain infants of 
+HBsAg-positive  mothers  do  not  receive  postexposure  immunoprophylaxis  because  of
+testing errors and lapses in reporting of test results 
+(13), and infants of women with unknown HBsAg status at the time of delivery often do
+not receive a birth dose of vaccine 
+(14).  Birth  dose  coverage  in  2004  was  only  46%  (National  Immunization  Survey,
+unpublished data, 2004), and coverage has 
+
+not returned to levels from before July 1999 (54%), when recommendations were made
+to temporarily suspend administration 
+of  hepatitis  B  vaccines  at  birth  until  vaccines  that  do  not  contain  thimerosal  as  a
+preservative became available 
+(15). Among adolescents, efforts to prevent HBV transmission are hampered by the low
+rate of health-care visits in this age group 
+compared  with  that  of  young  children  and  the  frequency  of  initiation  of  high-risk
+behaviors.
+ To address these remaining challenges and accelerate progress toward elimination of
+HBV transmission in the United States, 
+the  ACIP  has  updated  the  hepatitis  B  immunization  recommendations  for  infants,
+children, and adolescents and supplemented 
+the  recommendations  with  strategies  for  implementation.  The  recommendations  and
+implementation strategies address prevention 
+of  perinatal  and  early  childhood  transmission  and  routine  vaccination  of  children  and
+adolescents. A main focus is on 
+universal  infant  vaccination  beginning  at  birth,  which  provides  a  "safety  net"  for
+prevention of perinatal infection, prevents early 
+childhood
+ infections,
+ facilitates
+ implementation
+ of
+ universal
+ vaccination
+recommendations, and prevents infections in adolescents 
+and  adults.  The  second  part  of  the  ACIP  statement,  which  includes  updated
+recommendations and implementation strategies 
+to  increase  hepatitis  B  vaccination  among  unvaccinated  adults,  will  be  published
+separately 
+(16).
+Major Updates to the Recommendations
+
+ This report provides updated recommendations and 
+approaches to address challenges in implementing the strategy 
+to  eliminate  HBV  transmission  in  the  United  States.  These  include  the  following
+measures:
+ HBV is a 42-nm DNA virus classified in the 
+Hepadnaviridae family. The liver is the primary site of HBV replication. After 
+a  susceptible  person  is  exposed,  the  virus  enters  the  liver  via  the  bloodstream;  no
+evidence exists indicating that the 
+virus replicates at mucosal surfaces. HBV infection can produce either asymptomatic or
+symptomatic infection. The 
+average incubation period is 90 days (range: 60--150 days) from 
+exposure to onset of jaundice and 60 days (range: 40--90 days) 
+from exposure to onset of abnormal serum alanine aminotransferase (ALT) levels 
+(17,18).
+ The onset of acute disease is usually insidious. Infants and young children (aged <10
+years) are typically asymptomatic 
+(19). When present, clinical symptoms and signs might 
+include anorexia, malaise, nausea, vomiting, abdominal pain, and 
+jaundice.  Extrahepatic  manifestations  of  disease  (e.g.,  skin  rashes,  arthralgias,  and
+arthritis) also can occur 
+(20).  The  fatality  rate  among  persons  with  reported  acute  hepatitis  B  is  0.5%--1.5%,
+with highest rates in adults aged >60 years 
+(21).
+ Although the consequences of acute hepatitis B can be 
+severe, the majority of serious sequelae associated with HBV 
+disease  occur  in  persons  who  are  chronically  infected.  Persons  with  chronic  infection
+
+also serve as the major reservoir for 
+continued HBV transmission. Chronic infection occurs in approximately 90% of infected
+infants, 30% of infected children aged 
+<5 years, and <5% of infected persons aged 
+>5 years, with continuing viral replication in the liver and persistent viremia 
+(19,22--24).
+ Primary
+ infections
+ also
+ become
+ chronic
+ more
+ frequently
+ in
+immunosuppressed persons (e.g., hemodialysis patients 
+and persons with human immunodeficiency virus [HIV] infection) 
+(23,25,26). On the basis of data from follow-up studies 
+of persons infected with HBV as infants or young children, approximately 25% of those
+with chronic infection die 
+prematurely  from  cirrhosis  or  liver  cancer;  the  majority  remain  asymptomatic  until
+onset of cirrhosis or end-stage liver disease 
+(27--29).
+ No  specific  treatment  exists  for  acute  hepatitis  B.  Persons  who  have  chronic  HBV
+infection require medical evaluation 
+and  regular  monitoring  (30,31).  Therapeutic  agents  approved  by  the  Food  and  Drug
+Administration (FDA) for treatment 
+of  chronic  hepatitis  B  can  achieve  sustained  suppression  of  HBV  replication  and
+remission of liver disease in certain persons 
+(31). Periodic screening with alfa fetoprotein or imaging studies has been demonstrated
+to enhance early detection of HCC 
+(31).  Chronically  infected  persons  with  HCC  have  been  reported  to  have  experienced
+long-term survival after resection or 
+ablation  of  small  HCCs,  and  persons  who  were  screened  had  a  substantial  survival
+advantage compared with historic controls 
+(31).
+
+ Reinfection  or  reactivation  of  latent  HBV  infection  has  been  reported  among  certain
+groups of immunosuppressed 
+persons,  including  renal  transplant  recipients,  HIV-infected  patients,  bone  marrow
+transplant recipients, and patients 
+receiving chemotherapy (32--35). The frequency with which this phenomenon occurs is
+unknown.
+Interpretation of Serologic Markers of HBV Infection
+ The antigens and antibodies associated with HBV infection include HBsAg and antibody
+to HBsAg (anti-HBs), hepatitis 
+B  core  antigen  (HBcAg)  and  antibody  to  HBcAg  (anti-HBc),  and  hepatitis  B  e  antigen
+(HBeAg) and antibody to HBeAg 
+(anti-HBe). At least one serologic marker is present during the different phases of HBV
+infection 
+(Table 1) (18,36). Serologic assays are commercially available for all markers 
+except HBcAg because no free HBcAg circulates in blood.
+ The presence of a confirmed HBsAg result is indicative of ongoing HBV infection. All
+HBsAg-positive persons should 
+be considered infectious. In newly infected persons, HBsAg is the only serologic marker
+detected during the first 3--5 weeks 
+after infection, and it persists for variable periods at very low levels. The average time
+from exposure to detection of HBsAg is 
+30  days  (range:  6--60  days)  (17,18).  Highly  sensitive  single-sample  nucleic  acid  tests
+can detect HBV DNA in the serum of 
+an infected person 10--20 days before detection of HBsAg 
+(37). Transient HBsAg positivity has been reported for up to 18 
+
+days after vaccination and is clinically insignificant 
+(38,39).
+ Anti-HBc  appears  at  the  onset  of  symptoms  or  liver  test  abnormalities  in  acute  HBV
+infection and persists for life. Acute 
+or recently acquired infection can be distinguished by the presence of the IgM class of
+anti-HBc, which is detected at the onset 
+of acute hepatitis B and persists for up to 6 months if the disease resolves. In patients
+who develop chronic hepatitis B, IgM 
+anti-HBc can persist at low levels during viral replication and can result in positive tests
+for IgM anti-HBc 
+(40). In addition, false-positive IgM anti-HBc test results can occur. Because the positive
+predictive value is low in asymptomatic persons, 
+for diagnosis of acute hepatitis B, testing for IgM anti-HBc should be limited to persons
+with clinical evidence of acute 
+hepatitis or an epidemiologic link to a case.
+ In persons who recover from HBV infection, HBsAg is eliminated from the blood, usually
+within 3--4 months, and 
+anti-HBs  develops  during  convalescence.  The  presence  of  anti-HBs  typically  indicates
+immunity from HBV infection. Infection 
+or  immunization  with  one  genotype  of  HBV  confers  immunity  to  all  genotypes.  In
+addition, anti-HBs can be detected for 
+several months after hepatitis B immune globulin (HBIG) administration. The majority of
+persons who recover from 
+natural infection will be positive for both anti-HBs and anti-HBc, whereas persons who
+respond to hepatitis B vaccine have only 
+anti-HBs.  In  persons  who  become  chronically  infected,  HBsAg  and  anti-HBc  persist,
+typically for life. HBsAg will 
+
+become undetectable in approximately 0.5%--2% of chronically infected persons yearly,
+and anti-HBs will occur in the majority 
+of these persons (41--44).
+ In  certain  persons,  the  only  HBV  serologic  marker  detected  in  serum  is  anti-HBc.
+Isolated anti-HBc can occur after 
+HBV  infection  among  persons  who  have  recovered  but  whose  anti-HBs  levels  have
+waned or among persons in whom 
+anti-HBs  failed  to  occur.  Persons  in  the  latter  category  include  those  with  circulating
+HBsAg levels not detectable by commercial 
+assays. These persons are unlikely to be infectious except 
+under circumstances in which they are the source for direct 
+percutaneous exposure of susceptible recipients to substantial quantities of virus (e.g.,
+through blood transfusion or following 
+liver transplantation) (45). HBV DNA has been detected in the blood of <5% of persons
+with isolated anti-HBc 
+(46). Typically, the frequency of isolated anti-HBc relates directly to the prevalence of
+HBV infection in the population. In populations with 
+a high prevalence of HBV infection, isolated anti-HBc likely indicates previous infection,
+with loss of anti-HBs. For persons 
+in populations with a low prevalence of HBV infection, an isolated anti-HBc result often
+represents a false-positive reaction. 
+The majority of these persons have a primary anti-HBs response after a 3-dose series of
+hepatitis B vaccine 
+(47,48).  Infants  who  are  born  to  HBsAg-positive  mothers  and  who  do  not  become
+infected might have detectable anti-HBc for 
+<24 months after birth from passively transferred maternal antibody.
+ HBeAg can be detected in the serum of persons with acute or chronic HBV infection.
+
+The presence of HBeAg 
+correlates with viral replication and high levels of virus (i.e., high infectivity) 
+(49,50). Anti-HBe correlates with the loss of 
+replicating virus and with lower levels of virus, although reversion to HBeAg positivity
+has been observed 
+(44).
+Epidemiology of HBV Infection
+ 
+Transmission
+ HBV is transmitted by percutaneous (i.e., puncture through the skin) or mucosal (i.e.,
+direct contact with 
+mucous membranes) exposure to infectious blood or to body fluids that contain blood.
+All HBsAg-positive persons are infectious, 
+but those who are also HBeAg positive are more infectious 
+because their blood contains high titers of HBV (typically 
+107--109 virions/mL) 
+(49,50). Although HBsAg has been detected in multiple body fluids, only serum, semen,
+and saliva have 
+been  demonstrated  to  be  infectious  (51,52).  HBV  is  comparatively  stable  in  the
+environment and remains viable for 
+>7 days on environmental surfaces at room temperature 
+(53). HBV at concentrations of 
+102--3  virions/mL  can  be  present  on  environmental  surfaces  in  the  absence  of  any
+visible blood and still cause transmission 
+(53,54).
+
+ For  infants  and  children,  the  two  primary  sources  of  HBV  infection  are  perinatal
+transmission from infected mothers 
+and horizontal transmission from infected household contacts. Adolescents are at risk
+for HBV infection primarily through 
+high-risk sexual activity (i.e., sex with more than one partner and male sexual activity
+with other males) and injection-drug use 
+(21). Transmission of HBV via transfusion of blood and plasma-derived products is rare
+because of donor screening for HBsAg 
+and viral inactivation procedures.
+ For a newborn infant whose mother is positive for both HBsAg and HBeAg, the risk for
+chronic HBV infection is 
+70%--90% by age 6 months in the absence of postexposure immunoprophylaxis 
+(55--57). For infants of women who are 
+HBsAg positive but HBeAg negative, the risk for chronic 
+infection is <10% in the absence of postexposure immunoprophylaxis 
+(58--60).  Rare  cases  of  fulminant  hepatitis  B  among  perinatally  infected  infants  also
+have been reported 
+(61,62). Studies suggest that breastfeeding by an 
+HBsAg-positive mother does not increase the risk for acquisition of HBV infection in the
+infant 
+(63).
+ Children  who  are  not  infected  at  birth  remain  at  risk  from  long-term  interpersonal
+contact with their infected mothers. 
+In one study, 38% of infants who were born to 
+HBsAg-positive mothers and who were not infected perinatally 
+became infected by age 4 years (64). In addition, children living with any chronically
+infected persons are at risk for 
+
+becoming infected through percutaneous or mucosal exposures to blood or infectious
+body fluids (e.g., sharing a toothbrush, contact with exudates 
+from
+ dermatologic
+ lesions,
+ contact
+ with
+ HBsAg-contaminated
+ surfaces).
+ HBV
+transmission rates to susceptible household 
+contacts 
+of chronically infected persons have varied (range: 14%--60%) 
+(65,66). High rates of infection also have been reported 
+among unvaccinated long-term residents of institutions for the mentally handicapped 
+(67,68),  and,  in  rare  instances,  person-to-person  transmission  has  been  reported  in
+child care settings 
+(69,70).
+ 
+Incidence
+ During 1990--2004, overall incidence of reported acute hepatitis B declined 75%, from
+8.5 to 2.1 per 100,000 
+population.  The  most  dramatic  declines  occurred  in  the  cohort  of  children  to  whom
+recommendations for routine infant and 
+adolescent  vaccination  have  applied.  Incidence  among  children  aged  <12  years  and
+adolescents aged 12--19 years 
+declined 94%, from 1.1 to 0.36 and 6.1 to 2.8 per 100,000 population, respectively 
+(Figure 2). Since implementation of routine 
+childhood  immunization,  an  estimated  6,800  perinatal  infections  and  an  additional
+18,700 infections during the first 10 years of 
+life have been prevented annually in the United States 
+(71).
+ Although  infections  in  infants  and  children  aged  <10  years  represented  <10%  of  all
+
+HBV infections before 
+implementation  of  childhood  immunization  programs,  childhood  infections  resulted  in
+an estimated 30%--40% of the chronic 
+HBV infections among persons who acquired their infections in the United States 
+(1). In two population-based studies 
+conducted  among  Asian/Pacific  Islander  children  who  were  born  in  the  United  States
+before perinatal hepatitis B prevention 
+programs were widely implemented, 61%--66% of the chronic HBV infections occurred
+in children born to HBsAg-negative 
+mothers  (72,73).  A  substantial  proportion  of  these  chronic  infections  would  not  have
+been prevented by a selective program 
+of identification and immunization of only infants born to HBsAg-positive mothers.
+ In addition to declines in incidence among all age groups, racial disparities in hepatitis
+B incidence among children 
+have  been  substantially  reduced  (Figure  3).  The  reduction  of  the  disparity  between
+Asian/Pacific Islander and other children 
+is  consistent  with  recent  observations  noting  a  decline  in  seroprevalence  of  HBV
+infection after successful implementation 
+of routine hepatitis B vaccination among Asians who have recently immigrated to the
+United States 
+(74,75).  However,  as  hepatitis  B  incidence  has  declined  among  U.S.-born  children,
+unvaccinated foreign-born children account for a 
+high proportion of infections. During 2001--2002, of 
+19 children born after 1991 in whom acute hepatitis B had been 
+verified, eight (42%) were foreign born (76).
+ 
+Prevalence
+
+ In the U.S. population, the overall age-adjusted prevalence of HBV infection (including
+persons with chronic infection 
+and those with previous infection) was 4.9% in the third 
+National Health and Nutrition Examination Survey (NHANES 
+III,  1988--1994)  (77).  Foreign-born  persons  (particularly  Asian/Pacific  Islanders)  who
+have emigrated from countries in 
+which HBV is endemic (Figure 1 and Box 2) contribute disproportionately to the burden
+of chronic HBV infection in the 
+United  States.  The  prevalence  of  chronic  HBV  infection  among  foreign-born  persons
+immigrating to the United States from 
+Central  and  Southeast  Asia,  the  Middle  East,  and  Africa  varies  (range:  5%--15%)  and
+reflects the patterns of HBV infection in 
+the countries and regions of origin for these persons. During 1994--2003, approximately
+40,000 immigrants with chronic 
+HBV infection were admitted annually to the United States for permanent residence 
+(78; CDC, unpublished data, 2005).
+Prophylaxis Against HBV Infection
+Hepatitis B Vaccine
+ HBsAg is the antigen used for hepatitis B vaccination 
+(79,80). Vaccine antigen can be purified from the plasma of 
+persons  with  chronic  HBV  infection  or  produced  by  recombinant  DNA  technology.
+Vaccines available in the United States 
+use recombinant DNA technology to express HBsAg in yeast, which is then purified from
+
+the cells by biochemical and 
+biophysical separation techniques (81,82). Hepatitis B vaccines licensed in the United
+States are formulated to contain 
+10--40  µg  of  HBsAg  protein/mL.  Since  March  2000,  hepatitis  B  vaccines  produced  for
+distribution in the United States do not 
+contain  thimerosal  as  a  preservative  or  contain  only  a  trace  amount  (<1.0  mcg
+mercury/mL) from the manufacturing process 
+(83,84).
+ Hepatitis  B  vaccine  is  available  as  a  single-antigen  formulation  and  also  in  fixed
+combination with other vaccines. 
+Two single-antigen vaccines are available in the United States: Recombivax 
+HB® (Merck & Co., Inc., Whitehouse Station, 
+New Jersey) and Engerix-B® (GlaxoSmithKline Biologicals, Rixensart, Belgium). Of the
+three licensed combination vaccines, 
+one (Twinrix® [GlaxoSmithKline Biologicals, Rixensart, Belgium]) is used for vaccination
+of adults, and two 
+(Comvax® [Merck & 
+Co., Inc., Whitehouse Station, New Jersey] and 
+Pediarix® [GlaxoSmithKline Biologicals, Rixensart, Belgium]) are used 
+for vaccination of infants and young children. Twinrix contains recombinant HBsAg and
+inactivated hepatitis A 
+virus. Comvax contains recombinant HBsAg and Haemophilus 
+influenzae type b (Hib) polyribosylribitol phosphate conjugated to 
+Neisseria meningitidis outer membrane protein complex. Pediarix contains recombinant
+HBsAg, diphtheria and tetanus toxoids 
+and acellular pertussis adsorbed (DTaP), and inactivated poliovirus (IPV).
+
+HBIG
+ HBIG provides passively acquired anti-HBs and temporary protection (i.e., 3--6 months)
+when administered in 
+standard  doses.  HBIG  is  typically  used  as  an  adjunct  to  hepatitis  B  vaccine  for
+postexposure immunoprophylaxis to prevent 
+HBV infection. HBIG administered alone is the primary means of protection after an HBV
+exposure for nonresponders to 
+hepatitis B vaccination.
+ HBIG is prepared from the plasma of donors with high concentrations of anti-HBs. The
+plasma is screened to 
+eliminate  donors  who  are  positive  for  HBsAg,  antibodies  to  HIV  and  hepatitis  C  virus
+(HCV), and HCV RNA. In addition, 
+proper manufacturing techniques for HBIG inactivate viruses (e.g., HBV, HCV, and HIV)
+from the final product 
+(85,86). No evidence exists that HBV, HCV, or HIV ever has been transmitted by HBIG
+commercially available in the United 
+States.  HBIG  that  is  commercially  available  in  the  United  States  does  not  contain
+thimerosal.
+Vaccination Schedules and Results of Vaccination
+Preexposure Vaccination
+ 
+
+Infants and Children
+ Primary vaccination consists of >3 intramuscular doses of hepatitis B vaccine 
+(Table 2). Vaccine schedules for infants and children 
+(Tables 3--5) are determined on the basis of immunogenicity 
+data and the need to integrate hepatitis B vaccine into 
+a harmonized childhood vaccination schedule. Although not all possible schedules for
+each product have been evaluated 
+in  clinical  trials,  available  licensed  formulations  for  both  single-antigen  vaccines
+produce high (>95%) levels of 
+seroprotection among infants and children when administered 
+in multiple schedules (87--91).
+ The immunogenicity of the combined hepatitis B-Hib conjugate vaccine (Comvax) and
+the combined hepatitis 
+B-DTaP-IPV  vaccine  (Pediarix)  is  equivalent  to  that  of  their  individual  antigens
+administered separately. However, these 
+vaccines  cannot  be  administered  to  infants  aged  <6  weeks;  only  single-antigen
+hepatitis B vaccine may be used for the birth dose. 
+Use of 4-dose hepatitis B vaccine schedules, including schedules with a birth dose, has
+not increased vaccine reactogenicity 
+(92,93). Anti-HBs responses after a 3-dose series of hepatitis B-containing combination
+vaccines among infants who were 
+previously vaccinated at birth with single-antigen hepatitis B vaccine are comparable to
+those observed after a 3-dose series 
+of combination vaccine without a birth dose 
+(93).
+ 
+Birth Dose
+
+ Hepatitis B vaccine can be administered soon after birth with only minimal decrease in
+immunogenicity, compared 
+with administration at older ages, and no decrease in protective efficacy 
+(87). Administration of a birth dose of hepatitis B 
+vaccine is required for effective postexposure 
+immuno-prophylaxis to prevent perinatal HBV infection. Although 
+infants who require postexposure immunoprophylaxis should be identified by maternal
+HBsAg testing, administering a birth dose to infants 
+even without HBIG serves as a "safety net" to prevent perinatal infection among infants
+born to HBsAg-positive mothers who 
+are not identified because of errors in maternal HBsAg testing or failures in reporting of
+test results 
+(13). The birth dose also provides early protection to infants at risk for infection after
+the perinatal period. Administration of a birth dose has 
+been  associated  with  higher  rates  of  on-time  completion  of  the  hepatitis  B  vaccine
+series 
+(15,94).  In  certain  populations,  the  birth  dose  has  been  associated  with  improved
+completion rates for all other infant vaccines 
+(95), although findings have not been consistent 
+(15,94).
+ 
+Adolescents
+ Recommended
+ vaccination
+ schedules
+ for
+ adolescents
+ balance
+ available
+immunogenicity data with the need to 
+achieve compliance with vaccination in this age group (Tables 2 and 
+5). Both licensed single-antigen hepatitis B vaccines 
+administered  intramuscularly  at  0,  1,  and  6  months  produce  a  >95%  sero-protection
+
+rate in adolescents. Equivalent seroprotection rates 
+are achieved among adolescents vaccinated at 0, 1--2, and 4 months and 0, 12, and 24
+months. The adult (10 
+µg)  dose  of  Recombivax-HB  administered  in  a  2-dose  schedule  to  children  and
+adolescents aged 11--15 years at 0 and 4--6 
+months produces antibody levels equivalent to those obtained with the 
+5-µg dose administered on a 3-dose schedule 
+(96,97). However, no data on long-term antibody persistence or protection are available
+for 2-dose schedules. No combination 
+vaccines  containing  hepatitis  B  vaccine  antigen  are  approved  for  use  in  adolescents
+aged 11--17 years.
+ 
+Nonstandard Vaccine Schedules
+ No apparent effect on immunogenicity has been documented when minimum spacing
+of doses is not achieved 
+precisely.  Increasing  the  interval  between  the  first  2  doses  has  little  effect  on
+immunogenicity or final antibody concentration 
+(98--100).  The  third  dose  confers  the  maximum  level  of  seroprotection  but  acts
+primarily as a booster and appears to provide optimal 
+long-term protection (101). Longer intervals between the last 2 doses result in higher
+final antibody levels but might increase the 
+risk  for  acquisition  of  HBV  infection  among  persons  who  have  a  delayed  response  to
+vaccination. No differences 
+in  immunogenicity  have  been  observed  when  1  or  2  doses  of  hepatitis  B  vaccine
+produced by one manufacturer are followed 
+by doses from a different manufacturer (102).
+ 
+
+Response to Revaccination
+ A study of infants born to HBsAg-positive mothers who did not respond to a primary
+vaccine series indicated that all 
+those not infected with HBV responded satisfactorily to a 
+repeat 3-dose revaccination series (103). No data suggest that 
+children who have no detectable antibody after 6 doses of vaccine would benefit from
+additional doses.
+ 
+Groups Requiring Different Vaccination Doses or Schedules
+ Preterm infants. Preterm infants weighing <2,000 g at birth have a decreased response
+to hepatitis B vaccine 
+administered before age 1 month (104--106). By age 1 month, medically stable preterm
+infants, regardless of initial birth weight 
+or  gestational  age,  have  a  response  to  vaccination  that  is  comparable  to  that  of
+full-term infants 
+(107--110).
+ Hemodialysis patients and other immunocompromised persons. 
+Although  data  concerning  the  response  of  pediatric  hemodialysis  patients  to
+vaccination  with  standard  pediatric  doses  are  lacking,  protective  levels  of  antibody
+occur in 
+75%--97% of those who receive higher dosages 
+(20-µg) on either the 3- or the 4-dose 
+schedule  (111--114).  Humoral  response  to  hepatitis  B  vaccination  is  also  reduced  in
+other children and adolescents who are immunocompromised 
+(e.g., hematopoietic stem cell transplant recipients, patients undergoing chemotherapy,
+and HIV-infected persons) 
+(115--119).  Modified  dosing  regimens,  including  a  doubling  of  the  standard  antigen
+
+dose or administration of additional doses, 
+might increase response rates (120). However, data on response to these alternative
+vaccination schedules are limited 
+(121).
+ 
+Immune Memory
+ Anti-HBs  is  the  only  easily  measurable  correlate  of  vaccine-induced  protection.
+Immunocompetent persons who achieve 
+anti-HBs  concentrations  >10  mIU/mL  after  preexposure  vaccination  have  virtually
+complete protection against both acute disease 
+and chronic infection even if anti-HBs concentrations 
+subsequently decline to <10 mIU/mL 
+(122--125).  Although  immunogenicity  is  lower  among  immunocompromised  persons,
+those who achieve and maintain a protective antibody response before 
+exposure to HBV have a high level of protection from infection.
+ After primary immunization with hepatitis B vaccine, anti-HBs 
+concentrations decline rapidly within the first year and 
+more slowly thereafter. Among children who respond to a primary vaccine series with
+antibody levels 
+>10 mIU/mL, 15%--50% have low or undetectable 
+concentrations of anti-HBs (anti-HBs loss) 5--15 years after vaccination 
+(126--130). The persistence of detectable anti-HBs after vaccination, in the 
+absence of exposure to HBV, depends on the level of postvaccination 
+antibody concentration.
+ Despite  declines  in  anti-HBs  to  <10  mIU/mL,  nearly  all  vaccinated  persons  are  still
+protected against HBV infection. 
+The  mechanism  for  continued  vaccine-induced  protection  is  thought  to  be  the
+
+preservation of immune memory through 
+selective  expansion  and  differentiation  of  clones  of  antigen-specific  B  and  T
+lymphocytes 
+(131). Persistence of vaccine-induced 
+immune 
+memory among persons who responded to a primary childhood vaccine series 13--23
+years earlier but then had levels of 
+anti-HBs  below  10  mIU/mL  has  been  demonstrated  by  an  anamnestic  increase  in
+anti-HBs levels in 67%--76% of these persons 
+2--4 weeks after administration of an additional vaccine dose 
+(132,133). Although direct measurement of immune memory 
+is not yet possible, these data indicate that a high proportion of vaccine recipients 
+retain immune memory and would develop an anti-HBs 
+response upon exposure to HBV.
+ Studies of cohorts of immunocompetent persons vaccinated as children or infants also
+indicate that, despite anti-HBs 
+loss years after immunization, nearly all vaccinated persons who respond to a primary
+series remain protected from HBV 
+infection.  No  clinical  cases  of  hepatitis  B  have  been  observed  in  follow-up  studies
+conducted 15--20 years after vaccination 
+among immunocompetent vaccinated persons with antibody levels 
+>10 mIU/mL. Certain studies have documented 
+breakthrough infections (detected by the presence of anti-HBc or HBV DNA) in a limited
+percentage of vaccinated persons 
+(130,131), but these infections are usually transient and 
+asymptomatic; chronic infections have been documented only rarely 
+
+(134). Breakthrough infections resulting in chronic 
+infection have been observed only among vaccinated infants born to 
+HBsAg-positive women.
+ Limited  data  are  available  on  the  duration  of  immune  memory  after  hepatitis  B
+vaccination in 
+immunocompromised  persons  (e.g.,  HIV-infected  patients,  dialysis  patients,  patients
+undergoing chemotherapy, or hematopoietic stem 
+cell transplant patients). No clinically important HBV infections have been documented
+among immunocompromised 
+persons who maintain protective levels of anti-HBs. In studies of long-term protection
+among HIV-infected persons, 
+breakthrough  infections  occurring  after  a  decline  in  anti-HBs  concentrations  to  <10
+mIU/mL have been transient and asymptomatic 
+(135).  However,  among  hemodialysis  patients  who  respond  to  the  vaccine,  clinically
+significant HBV infection has been 
+documented in persons who have not maintained anti-HBs concentrations of 
+>10 mIU/mL (136).
+Postexposure Prophylaxis
+ Both passive-active postexposure prophylaxis (PEP) with HBIG and hepatitis B vaccine
+and active PEP with hepatitis 
+B  vaccine  alone  have  been  demonstrated  to  be  highly  effective  in  preventing
+transmission after exposure to HBV 
+(137--140). HBIG alone has also been demonstrated to be effective in preventing HBV
+transmission 
+(141--144), but with the availability of hepatitis B vaccine, HBIG typically is used as an
+
+adjunct to vaccination.
+ The major determinant of the effectiveness of PEP is early administration of the initial
+dose of vaccine. The effectiveness 
+of PEP diminishes the longer it is initiated after exposure 
+(17,145,146). Studies are limited on the maximum interval 
+after  exposure  during  which  PEP  is  effective,  but  the  interval  is  unlikely  to  exceed  7
+days for perinatal 
+(147) and needlestick (140--142) exposures and 14 days for sexual exposures 
+(122, 138,139,143,144).
+ No data are available on the efficacy of HBsAg-containing combination vaccines when
+used to complete the vaccine series 
+for  PEP,  but  the  efficacy  of  combination  vaccines  is  expected  to  be  similar  to  that  of
+single-antigen vaccines because the 
+HBsAg component induces a comparable anti-HBs response.
+ 
+Perinatal HBV Exposure
+ Passive-active PEP. PEP with hepatitis B vaccine and HBIG administered 12--24 hours
+after birth, followed by 
+completion  of  a  3-dose  vaccine  series,  has  been  demonstrated  to  be  85%--95%
+effective in preventing acute and chronic HBV infection 
+in infants born to women who are positive for both HBsAg and HBeAg 
+(137). Although clinical trials have evaluated the 
+efficacy  of  passive-active  PEP  with  hepatitis  B  vaccine  and  HBIG  administered  only
+within 24 hours of birth, studies of 
+passive  immunoprophylaxis  have  demonstrated  that  HBIG  provided  protection  when
+administered as late as 72 hours after 
+exposure.  The  majority  of  clinical  trials  have  evaluated  the  efficacy  of  passive-active
+
+PEP when the second vaccine dose was 
+administered  at  age  1  month  (137).  Administration  of  HBIG  plus  vaccine  at  birth,  1
+month, and 6 months and at birth, 2 months, and 
+6  months  has  demonstrated  comparable  efficacy  in  prevention  of  acute  and  chronic
+infection among infants born to 
+women  who  were  both  HBsAg  and  HBeAg  positive  (Cladd  E.  Stevens,  MD,  New  York
+Blood Center, personal 
+communication, 1994).
+ Infants  born  to  HBsAg-positive/HBeAg-negative  mothers  who  receive  passive-active
+PEP with HBIG and hepatitis 
+B vaccine should have the same high degree of protection as infants born to women
+who are HBsAg positive/HBeAg 
+positive.  However,  the  efficacy  of  this  regimen  has  not  been  examined  in  controlled
+clinical trials because the low infection rate 
+would require an unattainable sample size.
+ Active PEP. Active PEP with hepatitis B vaccine alone (i.e., without HBIG) is frequently
+used in certain remote areas 
+(e.g., Alaska and the Pacific Islands) where implementation of 
+maternal HBsAg testing is difficult because no access exists to 
+a laboratory. In randomized, placebo-controlled clinical trials, administration of hepatitis
+B vaccine in a 3- or 4-dose 
+schedule  without  HBIG  beginning  <12  hours  after  birth  has  been  demonstrated  to
+prevent 70%--95% of perinatal HBV 
+infections among infants born to women who are positive for both HBsAg and HBeAg 
+(58,148--152). Population-based studies in 
+areas  with  a  high  endemicity  of  HBV  infection  have  demonstrated  that  active
+postexposure vaccination is highly effective 
+
+in preventing infection when the first dose is administered soon after birth, the second
+at age 1--2 months, and the third at 
+age 6--8 months (153--155).
+Vaccine Safety
+ Hepatitis B vaccines have been demonstrated to be safe when administered to infants,
+children, adolescents, and 
+adults. Since 1982, an estimated >60 million adolescents and adults and >40 million
+infants and children have been vaccinated in 
+the United States.
+Vaccine Reactogenicity
+ The most frequently reported side effects among persons receiving hepatitis B vaccine
+are pain at the injection 
+site (3%--29%) and fever >99.9° F (>37.7° C) (1%--6%) 
+(156,157). However, in placebo-controlled studies, these side 
+effects were reported no more frequently among persons 
+receiving hepatitis B vaccine than among persons receiving placebo 
+(87). Administration of hepatitis B vaccine soon after birth has not been associated with
+an increased rate of elevated 
+temperatures or microbiologic evaluations for possible sepsis in the first 21 days of life 
+(158).
+Adverse Events
+
+ A causal association has been established between receipt of hepatitis B vaccine and
+anaphylaxis 
+(159). On the basis of data from the Vaccine Safety Datalink (VSD) project, the 
+estimated incidence of anaphylaxis among children and adolescents 
+who received hepatitis B vaccine is one case per 1.1 million vaccine doses distributed
+(95% confidence interval = 0.1--3.9) 
+(160).
+ Early  postlicensure  surveillance  of  adverse  events  suggested  a  possible  association
+between Guillain-Barré syndrome 
+and receipt of the first dose of plasma-derived hepatitis B vaccine among U.S. adults 
+(161). However, in a subsequent analysis of Guillain-Barré syndrome cases reported to
+CDC, FDA, and vaccine manufacturers, among an estimated 2.5 million 
+adults who received >1 dose of recombinant hepatitis B vaccine during 1986--1990, the
+rate of Guillain-Barré 
+syndrome occurring after hepatitis B vaccination did not exceed the background rate
+among unvaccinated persons (CDC, 
+unpublished  data,  1992).  A  review  by  persons  with  clinical  expertise  concluded  that
+evidence was insufficient to reject or accept a 
+causal association between Guillain-Barré syndrome and hepatitis B vaccination 
+(159,162).
+ Multiple  sclerosis  (MS)  has  not  been  reported  after  hepatitis  B  vaccination  among
+children. However, one retrospective 
+case-control study (163,164) reported an association between hepatitis B vaccine and
+MS among adults. Multiple other 
+studies (165--168) have demonstrated no association between hepatitis B vaccine and
+MS. Reviews of these data by panels of 
+persons with clinical expertise have favored rejection of a causal association between
+
+hepatitis B vaccination and MS 
+(169,170).
+ Chronic  illnesses  that  have  been  reported  in  rare  instances  after  hepatitis  B
+vaccination include chronic fatigue 
+syndrome  (171),  neurologic  disorders  (e.g.,  leukoencephalitis,  optic  neuritis,  and
+transverse myelitis) 
+(172--174), rheumatoid arthritis 
+(175,176), type 1 diabetes (177), and autoimmune disease 
+(178). No evidence of a causal association between these 
+conditions or other chronic illnesses and hepatitis B vaccine has been demonstrated 
+(159,169,170,179--182).
+ Reported  episodes  of  alopecia  (hair  loss)  after  rechallenge  with  hepatitis  B  vaccine
+suggest that vaccination might, in 
+rare cases, trigger episodes of alopecia 
+(183). However, a population-based study determined no statistically 
+significant association between alopecia and hepatitis B vaccine 
+(184).
+ No evidence exists of a causal association between hepatitis B vaccination, including
+administration of the birth dose, 
+and sudden infant death syndrome (SIDS) or other causes of death during the first year
+of life 
+(185--187).  Infant  death  rates,  including  rates  of  SIDS,  declined  substantially  in  the
+United States during the 1990s, coincident with an increase in 
+infant 
+hepatitis B vaccination coverage from <1% to >90% and implementation of efforts to
+reduce SIDS through infant 
+
+sleep positioning and separation from other persons in bed 
+(188).
+ The safety of hepatitis B vaccine and other vaccines is 
+assessed continuously through ongoing monitoring of data from VSD, 
+the Vaccine Adverse Events Reporting System (VAERS), and other surveillance systems.
+Any adverse events after vaccination should 
+be reported to VAERS; report forms and assistance are available from CDC at telephone
+1-800-822-7967 or at
+http://www.vaers.hhs.gov.
+Contraindications and Precautions
+ Hepatitis B vaccination is contraindicated for persons with a history of hypersensitivity
+to yeast or to any 
+vaccine  component  (92,189--191).  Despite  a  theoretic  risk  for  allergic  reaction  to
+vaccination in persons with allergy to 
+Saccharomyces cerevisiae (baker's yeast), no evidence exists that documents adverse
+reactions after vaccination of persons with a history of 
+yeast allergy.
+ Persons  with  a  history  of  serious  adverse  events  (e.g.,  anaphylaxis)  after  receipt  of
+hepatitis B vaccine should 
+not  receive  additional  doses.  As  with  other  vaccines,  vaccination  of  persons  with
+moderate or severe acute illness, with or 
+without fever, should be deferred until the acute phase of the illness resolves 
+(192). Vaccination is not contraindicated in persons with a history of 
+MS, Guillain-Barré syndrome, autoimmune disease (e.g., systemic lupus erythematosis
+or rheumatoid arthritis), or other 
+
+chronic diseases.
+ Pregnancy is not a contraindication to vaccination. Limited data indicate no apparent
+risk for adverse events to 
+developing fetuses when hepatitis B vaccine is administered to pregnant women 
+(193). Current vaccines contain noninfectious 
+HBsAg and should cause no risk to the fetus.
+Future Considerations
+ Implementation  of  the  recommendations  and  strategies  in  this  document  should
+ultimately lead to the elimination of 
+HBV transmission in the United States. New information will have implications for this
+effort, and adjustments and changes 
+are expected to occur.
+Long-Term Protection and Booster Doses 
+ Studies are needed to assess long-term protection after vaccination and the possible
+need for booster doses of vaccine. 
+The longest follow-up studies of vaccine protection have been conducted in populations
+with an initially high endemicity of 
+HBV infection (i.e., >8% prevalence of chronic infection) 
+(130). Implementation of hepatitis B vaccination programs in 
+populations with a high endemicity of HBV infection has resulted in virtual elimination
+of new HBV infections by providing 
+vaccine-induced  immunity  to  susceptible  persons.  In  these  populations,  ongoing
+exposure of vaccinated persons to persons with chronic HBV infection might complicate
+
+future efforts to assess long-term hepatitis B vaccine efficacy. Assessment of efficacy
+provided 
+by hepatitis B immunization after 15--20 years will require studies among populations
+that continue to have exposures to 
+HBsAg-positive  persons  (e.g.,  communities  of  immigrants  from  highly  endemic
+countries, populations of 
+injection-drug users, or health-care workers) and studies among populations with a low
+prevalence of infection.
+Immunization Escape Mutants
+ Mutations in the S gene of HBV can lead to conformational changes in the 
+a determinant of the HBsAg protein, which 
+is  the  major  target  for  neutralizing  anti-HBs.  These  variants  have  been  detected  in
+humans infected with HBV, and concern 
+has  been  expressed  that  these  variants  might  replicate  in  the  presence  of
+vaccine-induced anti-HBs or anti-HBs contained 
+in  HBIG  (194,195).  Although  no  evidence  suggests  that  S  gene  immunization  escape
+mutants pose a threat to existing 
+programs using hepatitis B vaccines (196), further studies and enhanced surveillance to
+detect the emergence of these variants are 
+high priorities for monitoring the effectiveness of current vaccination strategies.
+Recommendations for Hepatitis B Vaccination of Infants, Children, 
+and Adolescents
+ This section outlines updated ACIP recommendations and associated implementation
+
+strategies for hepatitis B 
+vaccination  of  infants,  children,  and  adolescents.  These  recommendations  have  been
+summarized 
+(Box 3).
+Prevention of Perinatal HBV Infection and Management of Pregnant Women
+ 
+Recommendations
+ Prenatal HBsAg Testing
+ 
+Management of Infants Born to Women Who Are HBsAg Positive
+ 
+Management of Infants Born to Women with Unknown HBsAg Status
+ 
+Vaccination of Pregnant Women
+ 
+Implementation
+ Delivery Hospital Policies and Procedures
+ 
+Case-Management Programs to Prevent Perinatal HBV Infection
+ 
+Recommendations
+ 
+Implementation
+ 
+Recommendations
+
+ 
+Implementation
+ Acknowledgments
+ Review of this report was provided by the following persons: R. Palmer Beasley, MD,
+School of Public Health, University of 
+Texas  Health  Science  Center  at  Houston,  Houston,  Texas;  F.  Blaine  Hollinger,  MD,
+Baylor College of Medicine, Houston, Texas; Neal 
+A.  Halsey,  MD,  Johns  Hopkins  Bloomberg  School  of  Public  Health  and  Johns  Hopkins
+School of Medicine, Baltimore, Maryland; 
+and Craig N. Shapiro, MD, Office of Global Health Affairs, U.S. Department of Health and
+Human Services, Washington, DC. 
+Allison  Greenspan,  MPH,  Division  of  Viral  Hepatitis,  National  Center  for  Infectious
+Diseases, CDC, provided vital assistance in the 
+preparation of this report. 
+References
+ Terms and Abbreviations Used in This Report    
+ Advisory Committee on Immunization Practices 
+Membership List, June 2005
+ Chairman:  Myron  J.  Levin,  MD,  Professor  of  Pediatrics  and  Medicine,  University  of
+Colorado Health Sciences Center, Denver, Colorado.
+ Executive  Secretary:  Larry  Pickering,  MD,  National  Immunization  Program,  CDC,
+Atlanta, Georgia.
+ Members:  Jon  S.  Abramson,  MD,  Wake  Forest  University  School  of  Medicine,
+Winston-Salem, North Carolina; Ban Mishu Allos, MD, 
+Vanderbilt  University  School  of  Medicine,  Nashville,  Tennessee;  Guthrie  S.  Birkhead,
+MD, New York State Department of Health, Albany, New York; 
+Judith Campbell, MD, Baylor College of Medicine, Houston, Texas; Reginald Finger, MD,
+
+Focus on the Family, Colorado Springs, Colorado; Janet 
+Gildsdorf,  MD,  University  of  Michigan,  Ann  Arbor,  Michigan;  Tracy  Lieu,  MD,  Harvard
+Pilgrim Health Care and Harvard Medical School, 
+Boston,  Massachusetts;  Edgar  Marcuse,  MD,  Children's  Hospital  and  Regional  Medical
+Center, Seattle, Washington; Julia Morita, MD, Chicago Department 
+of  Health,  Chicago,  Illinois;  Gregory  Poland,  MD,  Mayo  Clinic  College  of  Medicine,
+Rochester, Minnesota; John B. Salamone, National Italian 
+American  Foundation,  Washington,  DC;  Patricia  Stinchfield,  Children's  Hospital  and
+Clinics, St. Paul, Minnesota; John J. Treanor, MD, University of 
+Rochester School of Medicine and Dentistry, Rochester, New York; Robin Womeodu, MD,
+University of Tennessee Health Sciences Center, Memphis, Tennessee.
+ Ex-Officio  Members:  James  E.  Cheek,  MD,  Indian  Health  Service,  Albuquerque,  New
+Mexico; Wayne Hachey, DO, Department of Defense, 
+Falls  Church,  Virginia;  Geoffrey  S.  Evans,  MD,  Health  Resources  and  Services
+Administration, Rockville, Maryland; Bruce Gellin, MD, National 
+Vaccine  Program  Office,  Washington,  DC;  Linda  Murphy,  Centers  for  Medicare  and
+Medicaid Services, Baltimore, Maryland; George T. Curlin, MD, 
+National Institutes of Health, Bethesda, Maryland; Norman Baylor, MD, Food and Drug
+Administration, Bethesda, Maryland; Kristin Lee Nichol, 
+MD, Department of Veterans Affairs, Minneapolis, Minnesota.
+ Liaison Representatives: American Academy of Family Physicians, Jonathan Temte, MD,
+Clarence, New York, and Richard Clover, MD, 
+Louisville, Kentucky; American Academy of Pediatrics, Margaret Rennels, MD, Baltimore,
+Maryland, and Carol Baker, MD, Houston, Texas; America's 
+Health  Insurance  Plans,  Andrea  Gelzer,  MD,  Hartford,  Connecticut;  American  College
+Health Association, James C. Turner, MD, Charlottesville, 
+Virginia;  American  College  of  Obstetricians  and  Gynecologists,  Stanley  Gall,  MD,
+
+Louisville, Kentucky; American College of Physicians, Kathleen Neuzil, 
+MD,  Seattle,  Washington;  American  Medical  Association,  Litjen  Tan,  PhD,  Chicago,
+Illinois; American Pharmacists Association, Stephan L. Foster, 
+PharmD, Memphis, Tennessee; Association of Teachers of Preventive Medicine, W. Paul
+McKinney, MD, Louisville, Kentucky; Biotechnology 
+Industry  Organization,  Clement  Lewin,  PhD,  Cambridge,  Massachusetts;  Canadian
+National Advisory Committee on Immunization, Monica Naus, 
+MD,  Vancouver,  British  Columbia;  Health-Care  Infection  Control  Practices  Advisory
+Committee, Steve Gordon, MD, Cleveland, Ohio; Infectious 
+Diseases Society of America, Samuel L. Katz, MD, Durham, North Carolina, and William
+Schaffner, MD, Nashville, Tennessee; London Department of 
+Health,  David  M.  Salisbury,  MD,  London,  United  Kingdom;  National  Association  of
+County and City Health Officials, Nancy Bennett, MD, Rochester, 
+New York; National Coalition for Adult Immunization, David A. Neumann, PhD, Bethesda,
+Maryland; National Immunization Council and Child 
+Health  Program,  Mexico,  Romeo  Rodriguez,  Mexico  City,  Mexico;  National  Medical
+Association, Dennis A. Brooks, MD, Baltimore, Maryland; 
+National  Vaccine  Advisory  Committee,  Charles  Helms,  MD,  PhD,  Iowa  City,  Iowa;
+Pharmaceutical Research and Manufacturers of America, Damian A. 
+Braga,  Swiftwater,  Pennsylvania,  and  Peter  Paradiso,  PhD,  Collegeville,  Pennsylvania;
+and Society for Adolescent Medicine, Amy Middleman, MD, 
+Houston, Texas.
+ 
+ ACIP Hepatitis Vaccines Working Group
+ Chair: Tracy Lieu, MD, Boston, Massachusetts.
+ Members: Jon Abramson, MD, Winston-Salem, North Carolina; Beth Bell, MD, Atlanta,
+Georgia; James E. Cheek, MD, Albuquerque, New 
+
+Mexico;  Anthony  Fiore,  MD,  Atlanta,  Georgia;  Stephen  Feinstone,  MD,  Bethesda,
+Maryland; Robert Frenck, MD, Torrance, California; Stanley Gall, 
+MD, Louisville, Kentucky; Janet Gildsdorf, MD, Ann Arbor, Michigan; Steve Gordon, MD,
+Cleveland, Ohio; Samuel L. Katz, MD, Durham, 
+North  Carolina;  Edgar  Marcuse,  MD,  Seattle,  Washington;  Ban  Mishu  Allos,  MD,
+Nashville, Tennessee; Eric Mast, MD, Atlanta, Georgia; Julia Morita, 
+MD, Chicago, Illinois; William Schaffner, MD, Nashville, Tennessee; Deborah Wexler, MD,
+St. Paul, Minnesota.
+ Use  of  trade  names  and  commercial  sources  is  for  identification  only  and  does  not
+imply endorsement by the U.S. Department of 
+Health and Human Services.References to non-CDC sites on the Internet are 
+provided as a service to MMWR readers and do not constitute or imply 
+endorsement of these organizations or their programs by CDC or the U.S. 
+Department of Health and Human Services. CDC is not responsible for the content 
+of pages found at these sites. URL addresses listed in MMWR were current as of 
+the date of publication.
+Disclaimer
+  
+All MMWR HTML versions of articles are electronic conversions from ASCII text 
+into HTML.  This conversion may have resulted in character translation or format errors
+in the HTML version.  
+Users  should  not  rely  on  this  HTML  document,  but  are  referred  to  the  electronic  PDF
+version and/or 
+the original MMWR paper copy for the official text, figures, and tables.  
+
+An  original  paper  copy  of  this  issue  can  be  obtained  from  the  Superintendent  of
+Documents, 
+U.S. Government Printing Office (GPO), Washington, DC 20402-9371; telephone: (202)
+512-1800. 
+Contact GPO for current prices.
+**Questions or messages regarding errors in formatting should be addressed to 
+mmwrq@cdc.gov.  Use of trade names and commercial sources is for identification only
+and does not imply endorsement by the U.S. Department of 
+Health and Human Services.References to non-CDC sites on the Internet are 
+provided as a service to MMWR readers and do not constitute or imply 
+endorsement of these organizations or their programs by CDC or the U.S. 
+Department of Health and Human Services. CDC is not responsible for the content 
+of pages found at these sites. URL addresses listed in MMWR were current as of 
+the date of publication. 
+Disclaimer
+  
+All MMWR HTML versions of articles are electronic conversions from ASCII text 
+into HTML.  This conversion may have resulted in character translation or format errors
+in the HTML version.  
+Users  should  not  rely  on  this  HTML  document,  but  are  referred  to  the  electronic  PDF
+version and/or 
+the original MMWR paper copy for the official text, figures, and tables.  
+An  original  paper  copy  of  this  issue  can  be  obtained  from  the  Superintendent  of
+Documents, 
+U.S. Government Printing Office (GPO), Washington, DC 20402-9371; telephone: (202)
+512-1800. 
+Contact GPO for current prices. Date last reviewed: 12/15/2005
+
+ 
+    HOME  |  
+    ABOUT MMWR  | 
+    MMWR SEARCH  | 
+    DOWNLOADS  | 
+    RSS 
+    |  
+    CONTACT
+POLICY  |  
+    DISCLAIMER  |  
+    ACCESSIBILITY 
+Morbidity and Mortality Weekly Report
+                Centers for Disease Control and Prevention
+                1600 Clifton Rd, MailStop E-90, Atlanta, GA 
+                  30333, U.S.A 
+Department of Healthand Human Services 
+
+Source URL: https://www.cdc.gov/mmwr/preview/mmwrhtml/rr5416a1.htm

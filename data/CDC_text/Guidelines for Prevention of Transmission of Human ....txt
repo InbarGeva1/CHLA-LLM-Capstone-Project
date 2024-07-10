@@ -1,0 +1,1644 @@
+Persons using assistive technology might not be able to fully access information in this
+file. For assistance, please send e-mail to: mmwrq@cdc.gov. Type 508 Accommodation
+and the title of the report in the subject line of e-mail. The material in this report was
+developed by the National Institute
+ for
+Occupational Safety and Health in collaboration with the Center for
+ Infe
+ctious Diseases, Centers for Disease Control.  Introduction  
+    Background
+    This document is a response to recently enacted legislation, Public
+    Law 100-607, The Health Omnibus Programs Extension Act of 1988,
+ Title
+    II, Programs with Respect to Acquired Immune Deficiency Syndrome
+ ("AIDS
+    Amendments of 1988"). Subtitle E, General Provisions, Section
+ 253(a) of
+    Title II specifies that "the Secretary of Health and Human
+ Services,
+    acting through the Director of the Centers for Disease Control,
+ shall
+    develop, issue, and disseminate guidelines to all health workers,
+    public safety workers (including emergency response employees) in
+ the
+    United States concerning--
+    (1)   methods  to  reduce  the  risk  in  the  workplace  of   becoming  infected  with  the
+etiologic agent for
+
+acquired immune deficiency syndrome; and
+(2)  circumstances under which exposure to such  etiologic agent may occur."
+It is further noted that "The Secretary Õof Health and Human
+ Serviceså
+shall transmit the guidelines issued under subsection (a) to the
+Secretary of Labor for use by the Secretary of Labor in the
+ development
+of standards to be issued under the Occupational Safety and Health
+ Act
+of 1970," and that "the Secretary, acting through the Director of
+ the
+Centers for Disease Control, shall develop a model curriculum for
+emergency response employees with respect to the prevention of
+ exposure
+to the etiologic agent for acquired immune deficiency syndrome
+ during
+the process of responding to emergencies."
+Following development of these guidelines and curriculum, "Õtåhe
+Secretary shall--
+(A)  transmit to State public health officers copies of the
+ guidelines
+and the model curriculum developed under paragraph (1) with the
+ request
+that such officers disseminate such copies as appropriate
+ throughout
+the State; and
+(B)  make such copies available to the public."
+
+B.   Purpose and Organization of Document
+The purpose of this document is to provide an overview of the modes
+ of
+transmission of human immunodeficiency virus (HIV) in the
+ workplace, an
+assessment of the risk of transmission under various assumptions,
+principles underlying the control of risk, and specific
+ risk-control
+recommendations for employers and workers.  This document also
+ includes
+information on medical management of persons who have sustained an
+exposure at the workplace to these viruses (e.g., an emergency
+ medical
+technicians who incur a needle-stick injury while performing
+professional duties). These guidelines are intended for use by a
+technically informed audience.  As noted above, a separate model
+curriculum based on the principles and practices discussed in this
+document is being developed for use in training workers and will
+contain less technical wording.
+Information concerning the protection of workers against
+ acquisition
+of the human immunodeficiency virus (HIV) while performing job
+ duties,
+the virus that causes AIDS, is presented here.  Information on
+hepatitis B virus (HBV) is also presented in this document on the
+ basis
+of the following assumptions:
+
+the modes of transmission for hepatitis B virus (HBV) are similar
+ to
+those of HIV,
+the potential for HBV transmission in the occupational setting is
+greater than for HIV,
+there is a larger body of experience relating to controlling
+transmission of HBV in the workplace, and
+general practices to prevent the transmission of HBV will also
+ minimize  the risk of transmission of HIV.
+Blood-borne transmission of other pathogens not specifically
+ addressed
+here will be interrupted by adherence to the precautions noted
+ below.
+It is important to note that the implementation of control measures
+ for
+HIV and HBV does not obviate the need for continued adherence to
+general infection-control principles and general hygiene measures
+(e.g., hand washing) for preventing transmission of other
+ infectious
+diseases to both worker and client.  General guidelines for control
+ of
+these diseases have been published (1,2,3).
+This document was developed primarily to provide guidelines for
+fire-service personnel, emergency medical technicians, paramedics,
+ and
+law-enforcement and correctional-facility personnel.  Throughout
+ the
+
+report, paramedics and emergency medical technicians are called
+"emergency medical workers" and fire-service, law-enforcement, and
+correctional-facility personnel, "public-safety workers."
+  Previously
+issued guidelines address the needs of hospital-, laboratory-, and
+clinic-based health-care workers (4,5).  A condensation of general
+guidelines for protection of workers from transmission of
+ blood-borne
+pathogens, derived from the Joint Advisory Notice of the
+ Departments of
+Labor and Health and Human Services (6), is provided in section
+ III.
+C.   Modes and Risk of Virus Transmission in the Workplace
+Although the potential for HBV transmission in the workplace
+ setting
+is greater than for HIV, the modes of transmission for these two
+viruses are similar.  Both have been transmitted in occupational
+settings only by percutaneous inoculation or contact with an open
+wound, nonintact (e.g., chapped, abraded, weeping, or dermatitic)
+ skin,
+or mucous membranes to blood, blood-contaminated body fluids, or
+concentrated virus.  Blood is the single most important source of
+ HIV
+and HBV in the workplace setting.  Protection measures against HIV
+ and
+HBV for workers should focus primarily on preventing these types of
+
+exposures to blood as well as on delivery of HBV vaccination.
+The risk of hepatitis B infection following a parenteral (i.e.,
+ needle
+stick or cut) exposure to blood is directly proportional to the
+probability that the blood contains hepatitis B surface antigen
+(HBsAg), the immunity status of the recipient, and on the
+ efficiency of
+transmission (7).The probability of the source of the blood being
+ HBsAg
+positive from 1 to 3 per thousand in the general population to
+ 5%-15%
+in groups at high risk for HBV infection, such as immigrants from
+ areas
+of high endemicity (China and Southeast Asia, sub-Saharan Africa,
+ most
+Pacific islands, and the Amazon Basin); clients in institutions for
+ the
+mentally retarded; intravenous drug users; homosexually active
+ males;
+and household (sexual and non-sexual) contacts of HBV carriers.  Of
+persons who have not had prior hepatitis B vaccination or
+ postexposure
+prophylaxis, 6%-30% of persons who receive a needle-stick exposure
+ from
+an HBsAg-positive individual will become infected (7).
+
+The risk of infection with HIV following one needle-stick exposure
+ to
+blood from a patient known to be infected with HIV is approximately
+0.5% (4,5).  This rate of transmission is considerably lower than
+ that
+for HBV, probably as a result of the significantly lower
+ concentrations
+of virus in the blood of HIV-infected persons.  Table 1 presents
+theoretical data concerning the likelihood of infection given
+ repeated
+needle-stick injuries involving patients whose HIV serostatus is
+unknown.  Though inadequately quantified, the risk from exposure of
+nonintact skin or mucous membranes is likely to be far less than
+ that
+from percutaneous inoculation.
+D.   Transmission of Hepatitis B Virus to Workers  
+    Health-care workers
+    In 1987, the CDC estimated the total number of HBV infections in
+ the
+    United States to be 300,000 per year, with approximately 75,000
+ (25%)
+    of infected persons developing acute hepatitis.  Of these infected
+    individuals, 18,000-30,000 (6%-10%) will become HBV carriers, at
+ risk
+    of developing chronic liver disease (chronic active hepatitis,
+
+    cirrhosis, and primary liver cancer), and infectious to others.
+    CDC has estimated that 12,000 health-care workers whose jobs entail
+    exposure to blood become infected with HBV each year, that 500-600
+ of
+    them are hospitalized as a result of that infection, and that
+ 700-1,200
+    of those infected become HBV carriers.  Of the infected workers,
+    approximately 250 will die (12-15 from fulminant hepatitis, 170-200
+    from cirrhosis, and 40-50 from liver cancer).  Studies indicate
+ that
+    10%-30% of health-care or dental workers show serologic evidence of
+    past or present HBV infection.
+    
+          2.   Emergency medical and public-safety workers
+    Emergency medical workers have an increased risk for hepatitis B
+    infection (8,9,10).  The degree of risk correlates with the
+ frequency
+    and extent of blood exposure during the conduct of work activities.
+  A
+    few studies are available concerning risk of HBV infection for
+ other
+    groups of public-safety workers (law-enforcement personnel and
+    correctional-facility workers), but reports that have been
+ published do
+
+    not document any increased risk for HBV infection (11,12,13).
+    Nevertheless, in occupational settings in which workers may be
+    routinely exposed to blood or other body fluids as described below,
+ an
+    increased risk for occupational acquisition of HBV infection must
+ be
+    assumed to be present.  
+    Vaccination for hepatitis B virus
+    A safe and effective vaccine to prevent hepatitis B has been
+ available
+    since 1982.  Vaccination has been recommended for health-care
+ workers
+    regularly exposed to blood and other body fluids potentially
+    contaminated with HBV (7,14,15).  In 1987, the Department of Health
+ and
+    Human Services and the Department of Labor stated that hepatitis B
+    vaccine should be provided to all such workers at no charge to the
+    worker (6).
+    Available vaccines stimulate active immunity against HBV infection
+ and
+    provide over 90% protection against hepatitis B for 7 or more years
+    following vaccination (7).  Hepatitis B vaccines also are 70%-88%
+    effective when given within 1 week after HBV exposure.  Hepatitis B
+    immune globulin (HBIG), a preparation of immunoglobulin with high
+    levels of antibody to HBV (anti-HBs), provides temporary passive
+
+    protection following exposure to HBV.  Combination treatment with
+    hepatitis B vaccine and HBIG is over 90% effective in preventing
+    hepatitis B following a documented exposure (7).
+    E. Transmission of Human Immunodeficiency Virus to Workers  
+    Health-care workers with AIDS
+    As of September 19, 1988, a total of 3,182 (5.1%) of 61,929 adults
+    with AIDS, who had been reported to the CDC national surveillance
+    system and for whom occupational information was available,
+ reported
+    being employed in a health-care setting.  Of the health-care
+ workers
+    with AIDS, 95% reported high-risk behavior; for the remaining 5%
+ (169
+    workers), the means of HIV acquisition was undetermined.
+    
+Of these 169 health-care workers with AIDS with undetermined risk,
+    information is incomplete for 28 (17%) because of death or refusal
+ to
+    be interviewed; 97 (57%) are still being investigated.  The
+ remaining
+    44 (26%) health-care workers were interviewed directly or had other
+    follow-up information available. The occupations of these 44 were
+ nine
+    nursing assistants (20%); eight physicians (18%), four of whom were
+
+    surgeons; eight housekeeping or maintenance workers (18%); six
+ nurses
+    (14%); four clinical laboratory technicians (9%); two respiratory
+    therapists (5%); one dentist (2%); one paramedic (2%); one embalmer
+    (2%); and four others who did not have contact with patients (9%).
+    Eighteen of these 44 health-care workers reported parenteral and/or
+    other non-needle-stick exposure to blood or other body fluids from
+    patients in the 10 years preceding their diagnosis of AIDS.  None
+ of
+    these exposures involved a patient with AIDS or known HIV
+ infection,
+    and HIV seroconversion of the health-care worker was not documented
+    following a specific exposure.
+    2.Human immunodeficiency virus transmission in the workplace
+    As of July 31, 1988, 1,201 health-care workers had been enrolled
+ and
+    tested for HIV antibody in ongoing CDC surveillance of health-care
+    workers exposed via needle stick or splashes to skin or mucous
+    membranes to blood from patients known to be HIV-infected (16).  Of
+ 860
+    workers who had received needle-stick injuries or cuts with sharp
+    objects (i.e., parenteral exposures) and whose serum had been
+ tested
+    for HIV antibody at least 180 days after exposure, 4 were positive,
+
+    yielding a seroprevalence rate of 0.47%.  Three of these
+ individuals
+    experienced an acute retroviral syndrome associated with documented
+    seroconversion. Investigation revealed no nonoccupational risk
+ factors
+    for these three workers.  Serum collected within 30 days of
+ exposure
+    was not available from the fourth person.  This worker had an
+    HIV-seropositive sexual partner, and heterosexual acquisition of
+    infection cannot be excluded.  None of the 103 workers who had
+    contamination of mucous membranes or nonintact skin and whose serum
+ had
+    been tested at least 180 days after exposure developed serologic
+    evidence of HIV infection.
+    Two other ongoing prospective studies assess the risk of nosocomial
+    acquisition of HIV infection among health-care workers in the
+ United
+    States.  As of April 1988, the National Institutes of Health had
+ tested
+    983 health-care workers,  137 with documented needle-stick injuries
+ and
+    345 health-care workers who had sustained mucousmembrane exposures
+ to
+    blood or other body fluids of HIV-infected patients; none had
+
+    seroconverted (17) (one health-care worker who subsequently
+ experienced
+    an occupational HIV seroconversion has since been reported from NIH
+    Õ18å).  As of March 15, 1988, a similar study at the University of
+    California of 212 health-care workers with 625 documented
+ accidental
+    parenteral exposures involving HIV-infected patients had
+    
+identified one seroconversion following a needle stick (19).
+    Prospective studies in the United Kingdom and Canada show no
+ evidence
+    of HIV transmission among 220 health-care workers with parenteral,
+    mucous-membrane, or cutaneous exposures (20,21).
+    In addition to the health-care workers enrolled in these
+ longitudinal
+    surveillance studies, case histories have been published in the
+    scientific literature for 19 HIV-infected health-care workers (13
+ with
+    documented seroconversion and 6 without documented seroconversion).
+    None of these workers reported nonoccupational risk factors.  
+    Emergency medical service and public-safety workers
+    In addition to the one paramedic with undetermined risk discussed
+    above, three public-safety workers (law-enforcement officers) are
+    classified in the undetermined risk group.  Follow-up
+ investigations of
+
+    these workers could not determine conclusively if HIV infection was
+    acquired during the performance of job duties.
+    II.Principles of Infection Control and Their Application to
+ Emergency
+    and Public-Safety Workers  
+    General Infection Control
+    Within the health-care setting, general infection control
+ procedures
+    have been developed to minimize the risk of patient acquisition of
+    infection from contact with contaminated devices, objects, or
+ surfaces
+    or of transmission of an infectious agent from health-care workers
+ to
+    patients (1,2,3).  Such procedures also protect workers from the
+ risk
+    of becoming infected.  General infection-control procedures are
+    designed to prevent transmission of a wide range of microbiological
+    agents and to provide a wide margin of safety in the varied
+ situations
+    encountered in the health-care environment.
+    General infection-control principles are applicable to other work
+    environments where workers contact other individuals and where
+    transmission of infectious agents may occur.  The modes of
+ transmission
+    noted in the hospital and medical office environment are observed
+
+ in
+    the work situations of emergency and public-safety workers, as
+ well.
+    Therefore, the principles of infection control developed for
+ hospital
+    and other health-care settings are also applicable to these work
+    situations.  Use of general infection control measures, as adapted
+ to
+    the work environments of emergency and public-safety workers, is
+    important to protect both workers and individuals with whom they
+ work
+    from a variety of infectious agents, not just HIV and HBV.
+    Because emergency and public-safety workers work in environments
+ that
+    provide inherently unpredictable risks of exposures, general
+    infection-control procedures should be adapted to these work
+    situations.  Exposures are unpredictable, and protective measures
+ may
+    often be used in situations that do not appear to present risk.
+    Emergency and public-safety workers perform their duties in the
+    community under extremely variable conditions; thus, control
+ measures
+    that are simple and uniform across all situations have the greatest
+    likelihood of worker compliance. Administrative procedures to
+ ensure
+    compliance also can be more readily developed than when procedures
+
+ are
+    complex and highly variable.
+    B.Universal Blood and Body Fluid Precautions to Prevent
+ Occupational
+    HIV and HBV Transmission
+    In 1985, CDC developed the strategy of "universal blood and body
+ fluid
+    precautions" to address concerns regarding transmission of HIV in
+ the
+    health-care setting (4).  The concept, now referred to simply as
+    "universal precautions" stresses that all patients should be
+ assumed to
+    be infectious for HIV and other blood-borne pathogens.  In the
+ hospital
+    and other health-care setting, "universal precautions" should be
+    followed when workers are exposed to blood, certain other body
+ fluids
+    (amniotic fluid, pericardial fluid, peritoneal fluid, pleural
+ fluid,
+    synovial fluid, cerebrospinal fluid, semen, and vaginal
+ secretions), or
+    any body fluid visibly contaminated with blood.  Since HIV and HBV
+    transmission has not been documented from exposure to other body
+ fluids
+    (feces, nasal secretions, sputum, sweat, tears, urine, and
+ vomitus),
+    "universal precautions" do not apply to these fluids.  Universal
+
+    precautions also do not apply to saliva, except in the dental
+ setting,
+    where saliva is likely to be contaminated with blood (7).
+    For the purpose of this document, human "exposure" is defined as
+    contact with blood or other body fluids to which universal
+ precautions
+    apply through percutaneous inoculation or contact with an open
+ wound,
+    nonintact skin, or mucous membrane during the performance of normal
+ job
+    duties.  An "exposed worker" is defined, for the purposes of this
+    document, as an individual exposed, as described above, while
+    performing normal job duties.
+    The unpredictable and emergent nature of exposures encountered by
+    emergency and public-safety workers may make differentiation
+ between
+    hazardous body fluids and those which are not hazardous very
+ difficult
+    and often impossible.  For example, poor lighting may limit the
+    worker's ability to detect visible blood in vomitus or feces.
+    Therefore, when emergency medical and public-safety workers
+ encounter
+    body fluids under uncontrolled, emergency circumstances in which
+    differentiation between fluid types is difficult, if not
+ impossible,
+    they should treat all body fluids as potentially hazardous.
+    The application of the principles of universal precautions to the
+
+    situations encountered by these workers results in the development
+ of
+    guidelines (listed below) for work practices, use of personal
+    protective equipment, and other protective measures.  To minimize
+ the
+    risks of acquiring HIV and HBV during performance of job duties,
+    emergency and public-safety workers should be protected from
+ exposure
+    to blood and other body fluids as circumstances dictate. Protection
+ can
+    be achieved through adherence to work ractices designed to minimize
+ or
+    eliminate exposure and through use of personal protective equipment
+    (i.e., gloves, masks, and protective clothing), which provide a
+ barrier
+    between the worker and the exposure source.  In some situations,
+    redesign of selected aspects of the job through equipment
+ modifications
+    or environmental control can further reduce risk.  These approaches
+ to
+    primary prevention should be used together to achieve maximal
+ reduction
+    of the risk of exposure.
+    If exposure of an individual worker occurs, medical management,
+    consisting of collection of pertinent medical and occupational
+ history,
+
+    provision of treatment, and counseling regarding future work and
+    personal behaviors, may reduce risk of developing disease as a
+ result
+    of the exposure episode (22).  Following episodic (or continuous)
+    exposure, decontamination and disinfection of the work environment,
+    devices, equipment, and clothing or other forms of personal
+ protective
+    equipment can reduce subsequent risk of exposures.  Proper disposal
+ of
+    contaminated waste has similar benefits.
+    III. Employer Responsibilities  
+    General
+    Detailed recommendations for employer responsibilities in
+ protecting
+    workers from acquisition of blood-borne diseases in the workplace
+ have
+    been published in the Department of Labor and Department of Health
+ and
+    Human Services Joint Advisory Notice and are summarized here (6).
+  In
+    developing programs to protect workers, employers should follow a
+    series of steps:  1) classification of work activity, 2)
+ development of
+    standard operating procedures, 3) provision of training and
+ education,
+    4) development of procedures to ensure and monitor compliance, and
+
+ 5)
+    workplace redesign. As a first step, every employer should classify
+    work activities into one of three categories of potential exposure
+    (Table 3).  Employers should make protective equipment available to
+ all
+    workers when they are engaged in Category I or II activities.
+    Employers should ensure that the appropriate protective equipment
+ is
+    used by workers when they perform Category I activities.
+    
+     As a second step, employers should establish a detailed work
+    practices program that includes standard operating procedures
+ (SOPs)
+    for all activities having the potential for exposure.  Once these
+ SOPs
+    are developed, an initial and periodic worker education program to
+    assure familiarity with work practices should be provided to
+    potentially exposed workers.  No worker should engage in such tasks
+ or
+    activities before receiving training pertaining to the SOPs, work
+    practices, and protective equipment required for that task.
+  Examples
+    of personal protective equipment for the prehospital setting
+ (defined
+    as a setting where delivery of emergency health care takes place
+ away
+
+    from a hospital or other health-care setting) are provided in Table
+ 4.
+    (A curriculum for such training programs is being developed in
+    conjunction with these guidelines and should be consulted for
+ further
+    information concerning such training programs.)
+    To facilitate and monitor compliance with SOPs, administrative
+    procedures should be developed and records kept as described in the
+    Joint Advisory Notice (6). Employers should monitor the workplace
+ to
+    ensure that required work practices are observed and that
+ protective
+    clothing and equipment are provided and properly used.  The
+ employer
+    should maintain records documenting the administrative procedures
+ used
+    to classify job activities and copies of all SOPs for tasks or
+    activities involving predictable or unpredictable exposure to blood
+ or
+    other body fluids to which universal precautions apply.  In
+ addition,
+    training records, indicating the dates of training sessions, the
+    content of those training sessions along with the names of all
+ persons
+    conducting the training, and the names of all those receiving
+ training
+
+    should also be maintained.
+    Whenever possible, the employer should identify devices and other
+    approaches to modifying the work environment which will reduce
+ exposure
+    risk.  Such approaches are desirable, since they don't require
+    individual worker action or management activity.  For example,
+ jails
+    and correctional facilities should have classification procedures
+ that
+    require the segregation of offenders who indicate through their
+ actions
+    or words that they intend to attack correctional-facility staff
+ with
+    the intent of transmitting HIV or HBV.  
+    Medical
+    In addition to the general responsibilities noted above, the
+ employer
+    has the specific responsibility to make available to the worker a
+    program of medical management.  This program is designed to provide
+ for
+    the reduction of risk of infection by HBV and for counseling
+ workers
+    concerning issues regarding HIV and HBV.  These services should be
+    provided by a licensed health professional.  All phases of
+    
+medical management and counseling should ensure that the
+    confidentiality of the worker's and client's medical data is
+
+    protected.  
+        Hepatitis B vaccination
+        All workers whose jobs involve participation in tasks or activities
+        with exposure to blood or other body fluids to which universal
+        precautions apply (as defined above on page ) should be vaccinated
+ with
+        hepatitis B vaccine.
+        2.Management of percutaneous exposure to blood and other infectious
+        body fluids
+        Once an exposure has occurred (as defined above), a blood sample
+        should be drawn after consent is obtained from the individual from
+ whom
+        exposure occurred and tested for hepatitis B surface antigen
+ (HBsAg)
+        and antibody to human immunodeficiency virus (HIV antibody).  Local
+        laws regarding consent for testing source individuals should be
+        followed.  Policies should be available for testing source
+ individuals
+        in situations where consent cannot be obtained (e.g., an
+ unconscious
+        patient).  Testing of the source individual should be done at a
+        location where appropriate pretest counseling is available;
+ posttest
+        counseling and referral for treatment should be provided.  It is
+
+        extremely important that all individuals who seek consultation for
+ any
+        HIV-related concerns receive counseling as outlined in the "Public
+        Health Service Guidelines for Counseling and Antibody Testing to
+        Prevent HIV Infection and AIDS" (22).  
+            Hepatitis  B  virus  postexposure  management   For  an  exposure  to  a  source
+individual found to be positive for
+ HBsAg,
+        the worker who has not previously been given hepatitis B vaccine
+ should
+        receive the vaccine series.  A single dose of hepatitis B immune
+        globulin (HBIG) is also recommended, if this can be given within 7
+ days
+        of exposure.  For exposures from an HBsAg-positive source to
+ workers
+        who have previously received vaccine, the exposed worker should be
+        tested for antibody to hepatitis B surface antigen (anti-HBs), and
+        given one dose of vaccine and one dose of HBIG if the antibody
+ level in
+        the worker's blood sample is inadequate (i.e., 10 SRU by RIA,
+ negative
+        by EIA) (7).
+        If the source individual is negative for HBsAg and the worker has
+ not
+        been vaccinated, this opportunity should be taken to provide
+ hepatitis
+        B vaccination.
+
+        
+If the source individual refuses testing or he/she cannot be
+        identified, the unvaccinated worker should receive the hepatitis B
+        vaccine series. HBIG administration should be considered on an
+        individual basis when the source individual is known or suspected
+ to be
+        at high risk of HBV infection.  Management and treatment, if any,
+ of
+        previously vaccinated workers who receive an exposure from a source
+ who
+        refuses testing or is not identifiable should be individualized
+ (7).
+        b.Human immunodeficiency virus postexposure management
+        For any exposure to a source individual who has AIDS, who is found
+ to
+        be positive for HIV infection (4), or who refuses testing, the
+ worker
+        should be counseled regarding the risk of infection and evaluated
+        clinically and serologically for evidence of HIV infection as soon
+ as
+        possible after the exposure.  In view of the evolving nature of HIV
+        postexposure management, the health-care provider should be well
+        informed of current PHS guidelines on this subject.  The worker
+ should
+        be advised to report and seek medical evaluation for any acute
+ febrile
+
+        illness that occurs within 12 weeks after the exposure.  Such an
+        illness, particularly one characterized by fever, rash, or
+        lymphadenopathy, may be indicative of recent HIV infection.
+ Following
+        the initial test at the time of exposure, seronegative workers
+ should
+        be retested 6 weeks, 12 weeks, and 6 months after exposure to
+ determine
+        whether transmission has occurred. During this follow-up period
+        (especially the first 6-12 weeks after exposure, when most infected
+        persons are expected to seroconvert), exposed workers should follow
+        U.S. Public Health Service (PHS) recommendations for preventing
+        transmission of HIV (22).  These include refraining from blood
+ donation
+        and using appropriate protection during sexual intercourse (23).
+        During all phases of follow-up, it is vital that worker
+ confidentiality
+        be protected.
+        If the source individual was tested and found to be seronegative,
+        baseline testing of the exposed worker with follow-up testing 12
+ weeks
+        later may be performed if desired by the worker or
+        recommended by the health-care provider.
+        If the source individual cannot be identified, decisions regarding
+        appropriate follow-up should be individualized.  Serologic testing
+
+        should be made available by the employer to all workers who may
+        
+be concerned they have been infected with HIV through an
+ occupational
+        exposure as defined above.  
+        Management of human bites
+        On occasion, police and correctional-facility officers are
+        intentionally bitten by suspects or prisoners. When such bites
+ occur,
+        routine medical and surgical therapy (including an assessment of
+        tetanus vaccination status) should be implemented as soon as
+ possible,
+        since such bites frequently result in infection with organisms
+ other
+        than HIV and HBV.  Victims of bites should be evaluated as
+ described
+        above for exposure to blood or other infectious body fluids.
+        Saliva of some persons infected with HBV has been shown to contain
+        HBV-DNA at concentrations 1/1,000 to 1/10,000 of that found in the
+        infected person's serum (5,24).  HbsAg-positive saliva has been
+ shown
+        to be infectious when injected into experimental animals and in
+ human
+        bite exposures (25-27).  However, HBsAg-positive saliva has not
+ been
+        shown to be infectious when applied to oral mucous membranes in
+        experimental primate studies (27) or through contamination of
+
+ musical
+        instruments or cardiopulmonary resuscitation dummies used by HBV
+        carriers (28,29). Epidemiologic studies of nonsexual household
+ contacts
+        of HIV-infected patients, including several small series in which
+ HIV
+        transmission failed to occur after bites or after percutaneous
+        inoculation or contamination of cuts and open wounds with saliva
+ from
+        HIV-infected patients, suggest that the potential for salivary
+        transmission of HIV is remote (5,30-33).  One case report from
+ Germany
+        has suggested the possibility of transmission of HIV in a household
+        setting from an infected child to a sibling through a human bite
+ (34).
+        The bite did not break the skin or result in bleeding. Since the
+ date
+        of seroconversion to HIV was not known for either child in this
+ case,
+        evidence for the role of saliva in the transmission of virus is
+ unclear
+        (34).)  
+        Documentation of exposure and reporting
+        As part of the confidential medical record, the circumstances of
+        exposure should be recorded.  Relevant information includes the
+        activity in which the worker was engaged at the time of exposure,
+
+ the
+        extent to which appropriate work practices and protective equipment
+        were used, and a description of the source of exposure.
+        Employers have a responsibility under various federal and state
+ laws
+        and regulations to report occupational illnesses and injuries.
+        Existing programs in the
+        
+National Institute for Occupational Safety and Health
+        (NIOSH), Department of Health and Human Services; the Bureau of
+ Labor
+        Statistics, Department of Labor (DOL); and the Occupational Safety
+ and
+        Health Administration (DOL) receive such information for the
+ purposes
+        of surveillance and other objectives.  Cases of infectious disease,
+        including AIDS and HBV infection, are reported to the Centers for
+        Disease Control through State health departments.  
+        Management of HBV- or HIV-infected workers
+        Transmission of HBV from health-care workers to patients has been
+        documented.  Such transmission has occurred during certain types of
+        invasive procedures (e.g., oral and gynecologic surgery) in which
+        health-care workers, when tested, had very high concentrations of
+ HBV
+
+        in their blood (at least 100 million infectious virus particles per
+        milliliter, a concentration much higher than occurs with HIV
+        infection), and the health-care workers sustained a puncture wound
+        while performing invasive procedures or had exudative or weeping
+        lesions or microlacerations that allowed virus to contaminate
+        instruments or open wounds of patients (35,36).  A worker who is
+ HBsAg
+        positive and who has transmitted hepatitis B virus to another
+        individual during the performance of his or her job duties should
+ be
+        excluded from the performance of those job duties which place other
+ indi
+        viduals at risk for acquisition of hepatitis B infection.
+        Workers with impaired immune systems resulting from HIV infection
+ or
+        other causes are at increased risk of acquiring or experiencing
+ serious
+        complications of infectious disease.  Of particular concern is the
+ risk
+        of severe infection following exposure to other persons with
+ infectious
+        diseases that are easily transmitted if appropriate precautions are
+ not
+        taken (e.g., measles, varicella).  Any worker with an impaired
+ immune
+        system should be counseled about the potential risk associated with
+
+        providing health care to persons with any transmissible infection
+ and
+        should continue to follow existing recommendations for infection
+        control to minimize risk of exposure to other infectious agents
+ (2,3).
+        Recommendations of the Immunization Practices Advisory Committee
+ (ACIP)
+        and institutional policies concerning requirements for vaccinating
+        workers with live-virus vaccines (e.g., measles, rubella) should
+ also
+        be considered.
+        The question of whether workers infected with HIV can adequately
+ and
+        safely be allowed to perform patient-care duties or whether their
+ work
+        assignments should be changed must be determined on an individual
+        basis.  These decisions should be made by the worker's
+        
+personal physician(s) in conjunction with the employer's medical
+        advisors.
+        C.   Disinfection, Decontamination, and Disposal
+        As described in Section I.C., the only documented occupational
+ risks
+        of HIV and HBV infection are associated with parenteral (including
+ open
+        wound) and mucous membrane exposure to blood and other potentially
+
+        infectious body fluids.  Nevertheless, the precautions described
+ below
+        should be routinely followed.  
+        Needle and sharps disposal
+        All workers should take precautions to prevent injuries caused by
+        needles, scalpel blades, and other sharp instruments or devices
+ during
+        procedures; when cleaning used instruments; during disposal of used
+        needles; and when handling sharp instruments after procedures.  To
+        prevent needle-stick injuries, needles should not be recapped,
+        purposely bent or broken by hand, removed from disposable syringes,
+ or
+        otherwise manipulated by hand.  After they are used, disposable
+        syringes and needles, scalpel blades, and other sharp items should
+ be
+        placed in puncture-resistant containers for disposal; the
+        puncture-resistant containers should be located as close as
+ practical
+        to the use area (e.g., in the ambulance or, if sharps are carried
+ to
+        the scene of victim assistance from the ambulance, a small
+        puncture-resistant container should be carried to the scene, as
+ well).
+        Reusable needles should be left on the syringe body and should be
+        placed in a puncture-resistant container for transport to the
+        reprocessing area.  
+
+        Hand washing
+        Hands and other skin surfaces should be washed immediately and
+        thoroughly if contaminated with blood, other body fluids to which
+        universal precautions apply, or potentially contaminated articles.
+        Hands should always be washed after gloves are removed, even if the
+        gloves appear to be intact.  Hand washing should be completed using
+ the
+        appropriate facilities, such as utility or restroom sinks.
+  Waterless
+        antiseptic hand cleanser should be provided on responding units to
+ use
+        when hand-washing facilities are not available.  When hand-washing
+        facilities are available, wash hands with warm water and soap.
+  When
+        hand-washing facilities are not available, use a waterless
+ antiseptic
+        hand cleanser.  The manufacturer's recommendations for the product
+        should be followed.  3.   Cleaning, disinfecting, and sterilizing
+  Table 5 presents the methods and applications for cleaning,
+disinfecting, and sterilizing equipment and surfaces in the
+ prehospital
+setting.  These methods also apply to housekeeping and other
+ cleaning
+tasks. Previously issued guidelines for health-care workers contain
+ more  detailed descriptions (4).
+
+4.   Cleaning and decontaminating spills of blood
+All spills of blood and blood-contaminated fluids should be
+ promptly
+cleaned up using an EPA-approved germicide or a 1:100 solution of
+household bleach in the following manner while wearing gloves.
+  Visible
+material should first be removed with disposable towels or other
+appropriate means that will ensure against direct contact with
+ blood.
+If splashing is anticipated, protective eyewear should be worn
+ along
+with an impervious gown or apron which provides an effective
+ barrier to
+splashes.  The area should then be decontaminated with an
+ appropriate
+germicide.  Hands should be washed following removal of gloves.
+  Soiled
+cleaning equipment should be cleaned and decontaminated or placed
+ in an
+appropriate container and disposed of according to agency policy.
+Plastic bags should be available for removal of contaminated items
+ from
+the site of the spill.
+Shoes and boots can become contaminated with blood in certain
+instances.  Where there is massive blood contamination on floors,
+ the
+use of disposable impervious shoe coverings should be considered.
+
+Protective gloves should be worn to remove contaminated shoe
+coverings.  The coverings and gloves should be disposed of in
+ plastic
+bags.  A plastic bag should be included in the crime scene kit or
+ the
+car which is to be used for the disposal of contaminated items.
+  Extra
+plastic bags should be stored in the police cruiser or emergency
+vehicle.
+5.   Laundry
+Although soiled linen may be contaminated with pathogenic
+microorganisms, the risk of actual disease transmission is
+ negligible.
+Rather than rigid procedures and specifications, hygienic storage
+ and
+processing of clean and soiled linen are recommended. Laundry
+facilities and/or services should be made routinely available by
+ the
+employer.  Soiled linen should be handled as little as possible and
+with minimum agitation to prevent gross microbial contamination of
+ the
+air and of persons handling the linen.  All soiled linen should be
+bagged at the location where it was used.  Linen soiled with blood
+should be placed and transported in bags that prevent leakage.
+  Normal
+laundry cycles should be used according to the washer and detergent
+
+manufacturers' recommendations.
+6.   Decontamination and laundering of protective clothing
+Protective work clothing contaminated with blood or other body
+ fluids
+to which universal precautions apply should be placed and
+ transported
+in bags or containers that prevent leakage.  Personnel involved in
+ the
+bagging, transport, and laundering of contaminated clothing should
+ wear
+gloves.  Protective clothing and station and work uniforms should
+ be
+washed and dried according to the manufacturer's instructions.
+  Boots
+and leather goods may be brush-scrubbed with soap and hot water to
+remove contamination.
+7.   Infective waste
+The selection of procedures for disposal of infective waste is
+determined by the relative risk of disease transmission and
+ application
+of local regulations, which vary widely.  In all cases, local
+regulations should be consulted prior to disposal procedures and
+followed.  Infective waste, in general, should either be
+ incinerated or
+should be decontaminated before disposal in a sanitary landfill.
+  Bulk
+
+blood, suctioned fluids, excretions, and secretions may be
+ carefully
+poured down a drain connected to a sanitary sewer, where permitted.
+Sanitary sewers may also be used to dispose of other infectious
+ wastes
+capable of being ground and flushed into the sewer, where
+ permitted.
+Sharp items should be placed in puncture-proof containers and other
+blood-contaminated items should be placed in leak-proof plastic
+ bags
+for transport to an appropriate disposal location.
+Prior to the removal of protective equipment, personnel remaining
+ on
+the scene after the patient has been cared for should carefully
+ search
+for and remove contaminated materials.  Debris should be disposed
+ of as
+noted above.
+IV.  Fire and Emergency Medical Services
+The guidelines that appear in this section apply to fire and
+ emergency
+medical services.  This includes structural fire fighters,
+ paramedics,
+emergency medical technicians, and advanced life support personnel.
+
+Fire fighters often provide emergency medical services and
+ therefore
+encounter the exposures common to paramedics and emergency medical
+technicians.  Job duties are often performed in uncontrolled
+environments, which, due to a lack of time and other factors, do
+ not
+allow for application of a complex decision-making process to the
+emergency at hand.
+The general principles presented here have been developed from
+ existing
+principles of occupational safety and health in Šconjunction with
+ data
+from studies of health-care workers in hospital settings.  The
+ basic
+premise is that workers must be protected from exposure to blood
+ and
+other potentially infectious body fluids in the course of their
+ work
+activities.  There is a paucity of data concerning the risks these
+worker groups face, however, which complicates development of
+ control
+principles. Thus, the guidelines presented below are based on
+principles of prudent public health practice.
+Fire and emergency medical service personnel are engaged in
+ delivery of
+medical care in the prehospital setting.  The following guidelines
+
+ are
+intended to assist these personnel in making decisions concerning
+ use
+of personal protective equipment and resuscitation equipment, as
+ well
+as for decontamination, disinfection, and disposal procedures.  
+    Personal Protective Equipment
+    Appropriate personal protective equipment should be made available
+    routinely by the employer to reduce the risk of exposure as defined
+    above.  For many situations, the chance that the rescuer will be
+    exposed to blood and other body fluids to which universal
+ precautions
+    apply can be determined in advance.  Therefore, if the chances of
+ being
+    exposed to blood is high (e.g., CPR, IV insertion, trauma,
+ delivering
+    babies), the worker should put on protective attire before
+ beginning
+    patient care.  Table 4 sets forth examples of recommendations for
+    personal protective equipment in the prehospital setting; the list
+ is
+    not intended to be all-inclusive.  
+        Gloves
+        Disposable gloves should be a standard component of emergency
+ response
+        equipment, and should be donned by all personnel prior to
+
+ initiating
+        any emergency patient care tasks involving exposure to blood or
+ other
+        body fluids to which universal precautions apply.  Extra pairs
+ should
+        always be available.  Considerations in the choice of disposable
+ gloves
+        should include dexterity, durability, fit, and the task being
+        performed.  Thus, there is no single type or thickness of glove
+        appropriate for protection in all situations. For situations where
+        large amounts of blood are likely to be encountered, it is
+ important
+        that gloves fit tightly at the wrist to prevent blood contamination
+ of
+        hands around the cuff.  For multiple trauma victims, gloves should
+ be
+        changed between patient contacts, if the emergency situation
+ allows.
+        Greater personal protective equipment measures are indicated for
+        situations where broken glass and sharp edges are likely to be
+        encountered, such as extricating a person from an automobile wreck.
+        Structural fire-fighting gloves that meet the Federal OSHA
+        
+requirements for fire-fighters gloves (as contained in 29 CFR
+ 1910.156
+        or National Fire Protection Association Standard 1973, Gloves for
+
+        Structural Fire Fighters) should be worn in any situation where
+ sharp
+        or rough surfaces are likely to be encountered (37).
+        While wearing gloves, avoid handling personal items, such as combs
+ and
+        pens, that could become soiled or contaminated.  Gloves that have
+        become contaminated with blood or other body fluids to which
+ universal
+        precautions apply should be removed as soon as possible, taking
+ care to
+        avoid skin contact with the exterior surface.  Contaminated gloves
+        should be placed and transported in bags that prevent leakage and
+        should be disposed of or, in the case of reusable gloves, cleaned
+ and
+        disinfected properly.  
+        Masks, eyewear, and gowns
+        Masks, eyewear, and gowns should be present on all emergency
+ vehicles
+        that respond or potentially respond to medical emergencies or
+ victim
+        rescues.  These protective barriers should be used in accordance
+ with
+        the level of exposure encountered.  Minor lacerations or small
+ amounts
+        of blood do not merit the same extent of barrier use as required
+ for
+        exsanguinating victims or massive arterial bleeding.  Management of
+
+ the
+        patient who is not bleeding, and who has no bloody body fluids
+ present,
+        should not routinely require use of barrier precautions.  Masks and
+        eyewear (e.g., safety glasses) should be worn together, or a
+ faceshield
+        should be used by all personnel prior to any situation where
+ splashes
+        of blood or other body fluids to which universal precautions apply
+ are
+        likely to occur.  Gowns or aprons should be worn to protect
+ clothing
+        from splashes with blood.  If large splashes or quantities of blood
+ are
+        present or anticipated, impervious gowns or aprons should be worn.
+  An e
+        xtra change of work clothing should be available at all times.  
+        Resuscitation equipment
+        No transmission of HBV or HIV infection during mouth-to-mouth
+        resuscitation has been documented. However, because of the risk of
+        salivary transmission of other infectious diseases (e.g., herpes
+        simplex and Neisseria meningitidis) and the theoretical risk of HIV
+ and
+        HBV transmission during artificial ventilation of trauma victims,
+        disposable airway equipment or resuscitation bags should be used.
+        Disposable resuscitation equipment and devices should be used once
+
+ and
+        disposed of or, if reusable,thoroughly cleaned and disinfected
+ after
+        each use according to the manufacturer's recommendations.
+        
+Mechanical respiratory assist devices (e.g., bag-valve masks,
+ oxygen
+        demand valve resuscitators) should be available on all emergency
+        vehicles and to all emergency response personnel that respond or
+        potentially respond to medical emergencies or victim rescues.
+        Pocket mouth-to-mouth resuscitation masks designed to isolate
+ emergency
+        response personnel (i.e., double lumen systems) from contact with
+        victims' blood and blood-contaminated saliva, respiratory
+ secretions,
+        and vomitus should be provided to all personnel who provide or
+ potential
+        ly provide emergency treatment.
+        V.   Law-Enforcement and Correctional-Facility Officers
+        Law-enforcement and correctional-facility officers may face the
+ risk of
+        exposure to blood during the conduct of their duties. For example,
+ at
+        the crime scene or during processing of suspects, law-enforcement
+        officers may encounter blood-contaminated hypodermic needles or
+        weapons, or be called upon to assist with body removal.
+        Correctional-facility officers may similarly be required to search
+
+        prisoners or their cells for hypodermic needles or weapons, or
+ subdue
+        violent and combative inmates.
+        The following section presents information for reducing the risk of
+        acquiring HIV and HBV infection by law-enforcement and
+        correctional-facility officers as a consequence of carrying out
+ their
+        duties.  However, there is an extremely diverse range of potential
+        situations which may occur in the control of persons with
+        unpredictable, violent, or psychotic behavior.  Therefore, informed
+        judgment of the individual officer is paramount when unusual
+        circumstances or events arise.  These recommendations should serve
+ as
+        an adjunct to rational decision making in those situations where
+        specific guidelines do not exist, particularly where immediate
+ action
+        is required to preserve life or prevent significant injury.
+        The following guidelines are arranged into three sections:  a
+ section
+        addressing concerns shared by both law-enforcement and
+        correctional-facility officers, and two sections dealing separately
+        with law-enforcement officers and correctional-facility officers,
+        respectively.  Table 4 contains selected examples of personal
+        protective equipment that may be employed by law-enforcement and
+
+        correctional-facility officers.  
+        Law-Enforcement and Correctional-Facilities Considerations  
+            Fights and assaults
+            Law-enforcement and correctional-facility officers are exposed to a
+            range of assaultive and disruptive behavior through which they may
+            potentially become exposed to blood or other body fluids containing
+            blood.  Behaviors of particular concern are biting,
+            attacks resulting in blood exposure, and attacks with sharp
+ objects.
+            Such behaviors may occur in a range of law-enforcement situations
+            including arrests, routine interrogations, domestic disputes, and
+            lockup operations, as well as in correctional-facility activities.
+            Hand-to-hand combat may result in bleeding and may thus incur a
+ greater
+            chance for blood-to-blood exposure, which increases the chances for
+            blood-borne disease transmission.
+            Whenever the possibility for exposure to blood or
+ blood-contaminated
+            body fluids exists, the appropriate protection should be worn, if
+            feasible under the circumstances.  In all cases, extreme caution
+ must
+            be used in dealing with the suspect or prisoner if there is any
+            indication of assaultive or combative behavior. When blood is
+ present
+
+            and a suspect or an inmate is combative or threatening to staff,
+ gloves
+            should always be put on as soon as conditions permit.  In case of
+ blood
+            contamination of clothing, an extra change of clothing should be
+            available at all times.  
+            Cardiopulmonary resuscitation
+            Law-enforcement and correctional personnel are also concerned about
+            infection with HIV and HBV through administration of
+ cardiopulmonary
+            resuscitation (CPR). Although there have been no documented cases
+ of
+            HIV transmission through this mechanism, the possibility of
+            transmission of other infectious diseases exists. Therefore,
+ agencies
+            should make protective masks or airways available to officers and
+            provide training in their proper use.  Devices with one-way valves
+ to
+            prevent the patients' saliva or vomitus from entering the
+ caregiver's
+            mouth are preferable.
+            B.   Law-Enforcement Considerations  
+            Searches and evidence handling
+            Criminal justice personnel have potential risks of acquiring HBV or
+            HIV infection through exposures which occur during searches and
+
+            evidence handling. Penetrating injuries are known to occur, and
+            puncture wounds or needle sticks in particular pose a hazard during
+            searches of persons, vehicles, or cells, and during evidence
+ handling.
+            The following precautionary measures will help to reduce the risk
+ of
+            infection:
+            An officer should use great caution in searching the clothing of
+            suspects.  Individual discretion, based on the circumstances at
+ hand,
+            should determine if a suspect or prisoner should empty his own
+ pockets
+            or if the officer should use his
+            
+own skills in determining the contents of a suspect's clothing.
+            A safe distance should always be maintained between the officer and
+ the  suspect.
+Wear protective gloves if exposure to blood is likely to be
+encountered.
+Wear protective gloves for all body cavity searches.
+If cotton gloves are to be worn when working with evidence of
+potential latent fingerprint value at the crime scene, they can be
+ worn
+over protective disposable gloves when exposure to blood may occur.
+Always carry a flashlight, even during daylight shifts, to search
+
+hidden areas.  Whenever possible, use long-handled mirrors and
+flashlights to search such areas (e.g., under car seats).
+If searching a purse, carefully empty contents directly from purse,
+ by
+turning it upside down over a table.
+Use puncture-proof containers to store sharp instruments and
+ clearly
+marked plastic bags to store other possibly contaminated items.
+To avoid tearing gloves, use evidence tape instead of metal staples
+ to
+seal evidence.Local procedures for evidence handling should be
+followed.  In general, items should be air dried before sealing in
+plastic.
+Not all types of gloves are suitable for conducting searches.
+  Vinyl
+or latex rubber gloves provide little protection against sharp
+instruments, and they are not puncture-proof.  There is a direct
+trade-off between level of protection and manipulability.  In other
+words, the thicker the gloves, the more protection they provide,
+ but
+the less effective they are in locating objects.  Thus, there is no
+single type or thickness of glove appropriate for protection in all
+situations. Officers should select the type and thickness of glove
+which provides the best balance of protection and search
+
+ efficiency.
+Officers and crime scene technicians may confront unusual hazards,
+especially when the crime scene involves violent behavior, such as
+ a
+homicide where large amounts of blood are present.  Protective
+ gloves
+should be available and worn in this setting.  In addition, for
+ very
+large spills, consideration should be given to other protective
+clothing, such as overalls, aprons, boots, or protective shoe
+ covers.
+They should be changed if torn or soiled, and always removed prior
+ to
+leaving the scene.  While wearing gloves, avoid handling personal
+ items,  such as combs and pens, that could become soiled or contaminated.
+ Face
+masks and eye protection or a face shield are required for
+ laboratory
+and evidence technicians whose jobs which entail potential
+ exposures to
+blood via a splash to the face, mouth, nose, or eyes. Airborne
+ particles  of dried blood may be generated when a stain is scraped. It is
+recommended that protective masks and eyewear or face shields be
+ worn
+by laboratory or evidence technicians when removing the blood stain
+ for
+
+laboratory analyses.
+While processing the crime scene, personnel should be alert for the
+presence of sharp objects such as hypodermic needles, knives,
+ razors,
+broken glass, nails, or other sharp objects.
+2.   Handling deceased persons and body removal
+For detectives, investigators, evidence technicians, and others who
+may have to touch or remove a body, the response should be the same
+ as
+for situations requiring CPR or first aid:  wear gloves and cover
+ all
+cuts and abrasions to create a barrier and carefully wash all
+ exposed
+areas after any contact with blood.  The precautions to be used
+ with
+blood and deceased persons should also be used when handling
+ amputated
+limbs, hands, or other body parts.  Such procedures should be
+ followed
+after contact with the blood of anyone, regardless of whether they
+ are
+known or suspected to be infected with HIV or HBV.
+3.   Autopsies
+Protective masks and eyewear (or face shields), laboratory coats,
+gloves, and waterproof aprons should be worn when performing or
+
+attending all autopsies. All autopsy material should be considered
+infectious for both HIV and HBV.  Onlookers with an opportunity for
+exposure to blood splashes should be similarly protected.
+  Instruments
+and surfaces contaminated during postmortem procedures should be
+decontaminated with an appropriate chemical germicide (4).  Many
+laboratories have more detailed standard operating procedures for
+conducting autopsies; where available, these should be followed.
+  More
+detailed recommendations for health-care workers in this setting
+ have
+been published (4).
+4.   Forensic laboratories
+Blood from all individuals should be considered infective.  To
+supplement other worksite precautions, the following precautions
+ are
+recommended for workers in forensic laboratories.
+a.All specimens of blood should be put in a well-constructed,
+appropriately labelled container with a secure lid to prevent
+ leaking
+during transport.  Care should be taken when collecting each
+ specimen
+to avoid contaminating the outside of the container and of the
+laboratory form accompanying the specimen.
+b.All persons processing blood specimens should wear gloves.  Masks
+
+and protective eyewear or face shields should be worn if
+mucous-membrane contact with blood is anticipated (e.g., removing
+ tops
+from vacuum tubes).  Hands should be washed after completion of
+ specimen  processing.
+c.For routine procedures, such as histologic and pathologic studies
+or microbiological culturing, a biological safety cabinet is not
+necessary. However, biological safety cabinets (Class I or II)
+ should
+be used whenever procedures are conducted that have a high
+ potential
+for generating droplets.  These include activities such as
+ blending,
+sonicating, and vigorous mixing.
+d.Mechanical pipetting devices should be used for manipulating all
+liquids in the laboratory.  Mouth pipetting must not be done.
+e.Use of needles and syringes should be limited to situations in
+which there is no alternative, and the recommendations for
+ preventing
+injuries with needles outlined under universal precautions should
+ be
+followed.
+f.Laboratory work surfaces should be cleaned of visible materials
+ and
+then decontaminated with an appropriate chemical germicide after a
+spill of blood, semen, or blood-contaminated body fluid and when
+
+ work
+activities are completed.
+g.Contaminated materials used in laboratory tests should be
+decontaminated  before reprocessing or be placed in bags and
+ disposed
+of in accordance with institutional and local regulatory policies
+ for
+disposal of infective waste.
+ h.   Scientific equipment that has been contaminated
+with blood should be cleaned and then decontaminated before being
+repaired in the laboratory or transported to the manufacturer.
+i.All persons should wash their hands after completing laboratory
+activities and should remove protective clothing before leaving the
+laboratory.
+j.Area posting of warning signs should be considered to remind
+employees of continuing hazard of infectious disease transmission
+ in
+the laboratory setting.
+C.   Correctional-Facility Considerations  
+    Searches
+    Penetrating injuries are known to occur in the
+ correctional-facility
+    setting, and puncture wounds or needle sticks in particular pose a
+    hazard during searches of prisoners or their cells.  The following
+    precautionary measures will help to reduce the risk of infection:
+
+    A correctional-facility officer should use great caution in
+ searching
+    the clothing of prisoners. Individual discretion, based on the
+    circumstances at hand, should determine if a prisoner should empty
+ his
+    own pockets or if the officer should use his own skills in
+ determining
+    the contents of a prisoner's clothing.
+    A safe distance should always be maintained between the officer and
+    the prisoner.
+    Always carry a flashlight, even during daylight shifts, to search
+    hidden areas.  Whenever possible, use long-handled mirrors and
+    flashlights to search such areas (e.g., under commodes, bunks, and
+ in
+    vents in jail cells).
+    Wear protective gloves if exposure to blood is likely to be
+    encountered.
+    Wear protective gloves for all body cavity searches.
+    Not all types of gloves are suitable for conducting searches.
+  Vinyl
+    or latex rubber gloves can provide little, if any, protection
+ against
+    sharp instruments, and they are not puncture-proof.  There is a
+ direct
+    trade-off between level of protection and manipulability.  In other
+
+    words, the thicker the gloves, the more protection they provide,
+ but
+    the less effective they are in locating objects.  Thus, there is
+    
+no single type or thickness of glove appropriate for
+    protection in all situations.  Officers should select the type and
+    thickness of glove which provides the best balance of protection
+ and sea
+    rch efficiency.  
+    Decontamination and disposal
+    Prisoners may spit at officers and throw feces; sometimes these
+    substances have been purposefully contaminated with blood.
+  Although
+    there are no documented cases of HIV or HBV transmission in this
+ manner
+    and transmission by this route would not be expected to occur,
+ other
+    diseases could be transmitted.  These materials should be removed
+ with
+    a paper towel after donning gloves, and the area then
+ decontaminated
+    with an appropriate germicide. Following clean-up, soiled towels
+ and
+    gloves should be disposed of properly.
+    VI.  References
+    1.Garner JS, Favero MS.  Guideline for handwashing and hospital
+    environmental control, 1985.  Atlanta:  Public Health Service,
+
+ Centers
+    for Disease Control, 1985.  HHS publication no. 99-1117.
+    2.Garner JS, Simmons BP.  Guideline for isolation precautions in
+    hospitals.  Infect Control 1983; 4 (suppl):245-325.
+    3.Williams WW.  Guideline for infection control in hospital
+    personnel.  Infect Control 1983; 4(suppl):326-49.
+    4.Centers for Disease Control.  Recommendations for prevention of
+ HIV
+    transmission in health-care settings.  MMWR 1987; 36 (suppl 2S).
+    5.Centers for Disease Control.  Update:  Universal precautions for
+    prevention of transmission of human immunodeficiency virus,
+ hepatitis B
+    virus, and other bloodborne pathogens in health-care settings.
+  MMWR
+    1988; 37:377-382,387-88.
+    6.U.S. Department of Labor, U.S. Department of Health and Human
+    Services.  Joint Advisory Notice:  protection against occupational
+    exposure to hepatitis B virus (HBV) and human immunodeficiency
+ virus
+    (HIV).  Federal Register 1987; 52:41818-24.
+    7.Centers for Disease Control.  Recommendations for protection
+ against
+    viral hepatitis.  MMWR 1985; 34:313-324, 329-335.
+    8.Kunches LM, Craven DE, Werner BG, Jacobs LM.  Hepatitis B
+ exposure
+    in emergency medical personnel:  prevalence of serologic markers
+ and
+
+    need for immunization.  Amer J Med 1983; 75:269-272.
+    
+9.  Pepe PE, Hollinger FB, Troisi CL, Heiberg D.  Viral hepatitis
+ risk
+    in urban emergency medical services personnel.  Annals Emergency
+ Med
+    1986; 15(4):454-457.
+    10.Valenzuela TD, Hook EW, Copass MK, Corey L.  Occupational
+ exposure
+    to hepatitis B in paramedics.  Arch Intern Med 1985; 145:1976-1977.
+    11.Morgan-Capner P, Hudson P.  Hepatitis B markers in Lancashire
+    police officers.  Epidemiol Inf 1988; 100:145-151.
+    12.Peterkin M, Crawford RJ.  Hepatitis B vaccine for police forces
+    ÕLetterå?  Lancet 1986; 2:1458-59.
+    13.Radvan GH, Hewson EG, Berenger S, Brookman DJ.  The Newcastle
+    hepatitis B outbreak:  observations on cause, management, and
+    prevention.  Med J Australia 1986; 144:461-464.
+    14.Centers for Disease Control.  Inactivated hepatitis B virus
+    vaccine.  MMWR 1982; 26:317-322, 327-328.
+    15.Centers for Disease Control.  Update on hepatitis B prevention.
+    MMWR 1987; 36:353-360, 366.
+    16.Marcus R, and the CDC Cooperative Needlestick Surveillance
+ Group.
+    Surveillance of health care workers exposed to blood from patients
+    infected with the human immunodeficiency virus.  N Engl J Med 1988;
+
+    319:1118-23.
+    17.Henderson DK, Fahey BJ, Saah AJ, Schmitt JM, Lane HC.
+ Longitudinal
+    assessment of risk for occupational/nosocomial transmission of
+ human
+    immunodeficiency virus, type 1 in health care workers.  Abstract
+ #634;
+    presented at the 1988 ICAAC Conference, New Orleans.
+    18.Barnes DM.  Health workers and AIDS:  Questions persist. Science
+    1988; 241:161-2.
+    19.Gerberding JL, Littell CG, Chambers HF, Moss AR, Carlson J, Drew
+ W,
+    Levy J, Sande MA.  Risk of occupational HIV transmission in
+ intensively
+    exposed health-care workers: Follow-up.  Abstract #343; presented
+ at
+    the 1988 ICAAC Conference, New Orleans.
+    20.Health and Welfare Canada.  National surveillance program on
+    occupational exposures to HIV among health-care workers in Canada.
+    Canada Dis Weekly Rep 1987; 13-37:163-6.
+    21.McEvoy M, Porter K, Mortimer P, Simmons N, Shanson D.
+ Prospective
+    study of clinical, laboratory, and ancillary staff with accidental
+    exposures to blood or body fluids from patients infected with HIV.
+  Br
+    Med J 1987; 294:1595-7.
+
+    
+22.  Centers for Disease Control.  Public Health Service
+ guidelines for
+    counseling and antibody testing to prevent HIV infection and AIDS.
+  MMWR
+    1987; 36:;509-515.
+    23.Centers for Disease Control.  Additional recommendations to
+ reduce
+    sexual and drug abuse-related transmission of human T-lymphotropic
+ virus
+    type III/lymphadenopathy-associated virus.  MMWR 1986; 35:152-55.
+    24.Jenison SA, Lemon SM, Baker LN, Newbold JE.  Quantitative
+ analysis
+    of hepatitis B virus DNA in saliva and semen of chronically
+ infected
+    homosexual men.  J Infect Dis 1987; 156:299-306.
+    25.Cancio-Bello TP, de Medina M, Shorey J, Valledor MD, Schiff ER.
+  An
+    institutional outbreak of hepatitis B related to a human biting
+    carrier.  J Infect Dis 1982; 146:652-6.
+    26.MacQuarrie MB, Forghani B, Wolochow DA.  Hepatitis B transmitted
+ by
+    a human bite.  JAMA 1974; 230:723-4.
+    27.Scott RM, Snitbhan R, Bancroft WH, Alter HJ, Tingpalapong M.
+    Experimental transmission of hepatitis B virus by semen and saliva.
+  J
+    Infect Dis 1980; 142:67-71.
+
+    28.Glaser JB, Nadler JP.  Hepatitis B virus in a cardiopulmonary
+    resuscitation training course:  Risk of transmission from a surface
+    antigen-positive participant. Arch Intern Med 1985; 145:1653-5.
+    29.Osterholm MT, Bravo ER, Crosson JT, et al.  Lack of transmission
+ of
+    viral hepatitis type B after oral exposure to HBsAg-positive
+ saliva.  Br
+    Med J 1979; 2:1263-4.
+    30.Lifson AR.  Do alternate modes for transmission of human
+    immunodeficiency virus exist?  A review.  JAMA 1988; 259:1353-6.
+    31.Friedland GH, Saltzman BR, Rogers MF, et al.  Lack of
+ transmission
+    of HTLV-III/LAV infection to household contacts of patients with
+ AIDS or
+    AIDS-related complex with oral candidiasis.  N Engl J Med 1986;
+    314:344-9.
+    32.Curran JW, Jaffe HW, Hardy AM, et al.  Epidemiology of HIV
+ infection
+    and AIDS in the United States.  Science 1988; 239:610-6.
+    33.Jason JM, McDougal JS, Dixon G, et al.  HTLV-III/LAV antibody
+ and
+    immune status of household contacts and sexual partners of persons
+ with
+    hemophilia.  JAMA 1986; 255:212-5.
+    34.Wahn V, Kramer HH, Voit T, Brster HT, Scrampical B, Scheid A.
+    Horizontal transmission of HIV infection between two siblings
+
+ ÕLetterå.
+    Lancet 1986; 2:694.
+    
+35.  Kane MA, Lettau LA.  Transmission of HBV from dental
+ personnel to
+    patients.  J Am Dent Assoc 1985; 110:634-6.
+    36.Lettau LA, Smith JD, Williams D, et al.  Transmission of
+ hepatitis
+    B virus with resultant restriction of surgical practice.  JAMA
+ 1986;
+    255:934-7.
+    37.International Association of Fire Fighters.  Guidelines to
+ prevent
+    transmission of communicable disease during emergency care for fire
+    fighters, paramedics, and emergency medical technicians.
+  International
+    Association of Fire Fighters, New York City, New York, 1988.  
+Disclaimer
+   All MMWR HTML documents published before January 1993 are electronic conversions
+from ASCII text into HTML.  This conversion may have resulted in character translation
+or format errors in the HTML version.  Users should not rely on this HTML document, but
+are referred to the original MMWR paper copy for the official text, figures, and tables. 
+An  original  paper  copy  of  this  issue  can  be  obtained  from  the  Superintendent  of
+Documents,  U.S.  Government  Printing  Office  (GPO),  Washington,  DC  20402-9371;
+telephone: (202) 512-1800. Contact GPO for current prices. Page converted: 08/05/98 
+
+    HOME  |  
+    ABOUT MMWR  | 
+    MMWR SEARCH  | 
+    DOWNLOADS  | 
+    RSS 
+    |  
+    CONTACT
+POLICY  |  
+    DISCLAIMER  |  
+    ACCESSIBILITY 
+Morbidity and Mortality Weekly Report
+                Centers for Disease Control and Prevention
+                1600 Clifton Rd, MailStop E-90, Atlanta, GA 
+                  30333, U.S.A 
+Department of Healthand Human Services This page last reviewed 5/2/01 
+ 
+
+Source URL: https://www.cdc.gov/mmwr/preview/mmwrhtml/00001450.htm

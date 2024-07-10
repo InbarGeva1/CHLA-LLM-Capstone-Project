@@ -1,0 +1,97 @@
+A .gov website belongs to an official government organization in the United States. A
+lock (  ) or https:// means you've safely connected to the .gov website. Share sensitive
+information  only  on  official,  secure  websites.  Management  of  Potentially  Infectious
+Exposures  and  Illnesses  from  the  Infection  Control  in  Healthcare  Personnel:
+Infrastructure and Routine Practices for Occupational Infection Prevention and Control
+Services (2019) guideline. HCP can be exposed to potentially infectious blood, tissues,
+secretions, other body fluids, contaminated medical supplies, devices, and equipment,
+environmental  surfaces,  or  air  in  healthcare  settings.  Mechanisms  of  occupational
+exposures  include  percutaneous  injuries  such  as  needlesticks,  mucous  membrane  or
+non-intact skin contact via splashes or sprays, and inhalation of aerosols. HCP can also
+be  exposed  to  infectious  diseases  in  the  community  and  risk  transmitting  them  to
+others  at  work.  Appropriate  management  of  potentially  infectious  exposures  and
+illnesses  among  HCP  can  prevent  the  development  and  transmission  of  infections.
+Effective  management  of  exposures  and  illnesses  includes  promptly  assessing
+exposures  and  diagnosing  illness,  monitoring  for  the  development  of  signs  and
+symptoms of disease, and providing appropriate postexposure or illness management.
+Providing  exposure  and  illness  management  services  also  affords  the  opportunity  for
+counseling to address HCP concerns about issues such as potential infection, adverse
+effects  of  postexposure  prophylaxis,  and  work  restrictions.  A  substantial  number  of
+potentially  infectious  exposures  occur  in  the  workplace,  despite  longstanding
+regulations and guidelines in place for their prevention1234, and providing timely and
+effective  exposure  management  services  can  be  challenging.  Bloodborne  pathogen
+exposures  among  HCP  subpopulations,  including  trainees,  technicians,  surgeons,
+medical staff, and nurses, are significantly underreported567. Time constraints, fear of
+reprimand,  lack  of  information  on  how  to  report  exposures,  and  cost  coverage  of
+exposure  management  have  been  identified  as  factors  in  not  reporting  exposures6.
+While many HCP may be guaranteed cost coverage for job-related exposure and illness
+
+by workers' compensation laws, not all HCP, such as volunteers and trainees, may have
+this  benefit.  Off-site  services  can  be  a  barrier  to  accessing  care  if  they  are
+inconveniently located. When timeliness is critical for provision of prophylaxis or expert
+consultation  and  management  (see  Expert  consultation  and  management  services),
+such as after a needlestick injury from an HIV-infected source, off-site services may not
+be sufficient. Identifying whether an exposure to an infectious disease has occurred can
+be  challenging  and  depends  upon  eliciting  the  circumstances  of  the  (sometimes
+remote) exposure incident, including where, when, and how the exposure occurred, the
+duration  and  extent  of  the  exposure,  and  whether  appropriate  PPE  was  used  and
+functioned  correctly.  Some  guidelines  provide  disease-specific  guidance  on  how  to
+determine  if  an  occupational  exposure  has  occurred89.  Efficient  management  of  HCP
+exposures  can  benefit  from  procedures  that  streamline  and  enable  HCP  exposure
+reporting  and  service  access.  Patient  care  processes  are  an  important  aspect  of  HCP
+exposure management. For example, some HCO request patients to sign an advance
+release  that  allows  for  bloodborne  pathogen  testing  should  an  HCP  exposure  occur
+during  the  course  of  their  care.  Treatment  and  containment  of  infectious  illnesses  in
+HCP  can  protect  patients  and  coworkers  from  infection10.  Occupationally-  and
+community-acquired  infections  can  both  be  of  concern.  A  prominent  issue  is
+"presenteeism;"  that  is,  HCP  reporting  to  work  when  sick11.  Whether  because  of
+individual  work  ethic,  local  culture  (e.g.,  unwillingness  to  disappoint  colleagues),  or
+financial pressures such as a lack of paid sick leave or policies that combine sick leave
+and  vacation  days,  presenteeism  puts  others  at  risk.  Eliciting  reasons  for  HCP
+presenteeism  may  inform  methods  to  reduce  the  problem.  Developing  policies  that
+discourage  presenteeism  can  be  challenging,  as  contractual  staff  employers  and
+self-employed HCP may have different rules about missing work. Federal requirements
+affect  the  delivery  of  exposure  or  illness  management  services.  Affected  services
+include: Additional state and local requirements may also apply to exposure and illness
+
+management  services.  The  capacity  for  providing  exposure  and  illness  management
+services  varies  by  OHS.  Depending  upon  clinical  circumstances,  expert  consultation
+may be appropriate for managing exposures to infections or illnesses such as HIV 8and
+hepatitis  C1516.  OHS  locations  and  healthcare  settings  may  not  have  such  experts
+available  on-site,  and  arranging  for  consultation  can  require  advanced  planning.
+Methods  to  facilitate  expert  consultation  include  standing  agreements  with  on-site  or
+contracted  experts  and  the  use  of  decision  support  resources,  such  as  telemedicine
+services  and  accessing  exposure  and  illness  management  guidelines  or  protocols
+electronically1718.  Work  restrictions  exclude  potentially  infectious  HCP  from  the
+workplace  or  specifically  from  patient  contact  to  prevent  transmission  of  infectious
+diseases. Work restrictions may also be implemented when HCP are at increased risk
+for  infection,  such  as  restricting  susceptible  HCP  contact  with  patients  with  varicella
+zoster  when  immune  HCP  are  available19.  Exclusion  can  be  based  on  time,  or
+evaluation for clearance to return to work, depending on the infection. Reluctance to
+report  exposures  and  illnesses  and  concerns  regarding  missed  work  can  make  work
+restrictions difficult to implement. Staffing limitations can also affect implementation of
+work restrictions. Alternative work options that minimize risk to others (e.g., telework
+for infectious workers), and utilizing paid sick leave days or job-protected leave (e.g.,
+provided by the FMLA14) may reduce the negative impacts of work restrictions. When
+OHS  detects  an  outbreak  among  HCP,  internal  coordination  with  other  HCO
+departments,  such  as  IPC  services,  is  essential,  as  is  notification  of  the  appropriate
+public health authorities20. When HCP testing is required, clinical laboratory personnel
+are  part  of  the  response  planning  process1121.  OHS  can  also  inform  post-outbreak
+assessments  to  identify  options  for  preventing  future  outbreaks22.  All  states  and
+territories have requirements for reporting selected infections or infectious conditions in
+persons  to  health  departments2324.  Reporting  of  notifiable  infections  can  hasten
+identification of chains of transmission and outbreaks and facilitate health department
+
+assistance with notifying contacts. Adverse events due to medical devices or equipment
+can  result  in  HCP  exposure  to  infectious  diseases  (e.g.,  sharps  injuries),  and  devices
+involved in such exposures due to a quality problem or other issues can be reported to
+the U.S. Food and Drug Administration (FDA) MedWatch database25. Reporting to the
+FDA MedWatch Database is voluntary, but serves to identify device-related hazards that
+might warrant review. CDC provides information on infection control and clinical safety
+to help reduce the risk of infections among healthcare workers, patients, and visitors.
+Languages Language Assistance Languages  Language Assistance 
+
+Source
+ URL:
+https://www.cdc.gov/infection-control/hcp/healthcare-personnel-infrastructure-routine-practices/exposure
+-managment.html

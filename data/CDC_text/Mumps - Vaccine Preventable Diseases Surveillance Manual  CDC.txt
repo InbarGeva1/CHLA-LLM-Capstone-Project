@@ -1,0 +1,313 @@
+Official websites use .gov A .gov website belongs to an official government organization
+in  the  United  States.  Secure  .gov  websites  use  HTTPS  A  lock  (   )  or  https://  means
+you've  safely  connected  to  the  .gov  website.  Share  sensitive  information  only  on
+official,  secure  websites.  Authors:  Nina  B.  Masters,  PhD;  Jessica  Leung,  MPH;  Jamie
+Tappe,  MPH;  Mona  Marin,  MD;  Stephen  N.  Crooke,  PhD;  Bettina  Bankamp,  PhD;  Sara
+Oliver, MD; Paul Rota, PhD Mumps is an acute viral illness caused by a paramyxovirus
+and  typically  presents  as  swelling  of  the  parotid  (parotitis)  or  other  salivary  gland[s].
+Mumps  parotitis  may  be  unilateral  or  bilateral  and  usually  lasts  about  3  to  7  days
+(average 5 days); most cases of parotitis resolve within 10 days of onset. Nonspecific
+prodromal symptoms may precede parotitis by several days, including low-grade fever,
+which  may  last  3–4  days,  myalgia,  anorexia,  malaise,  and  headache.  The  incubation
+period  for  mumps  ranges  from  12–25  days,  but  parotitis  typically  develops  16  to  18
+days after exposure to mumps virus.[1] Fully vaccinated persons can get infected with
+mumps  virus  but  are  at  much  lower  risk  for  mumps  illness  and  its  complications.
+Mumps reinfection in patients who previously had natural infection or recurrent mumps
+(parotid swelling resolves and then weeks to months later occurs on the same or other
+side)  can  also  occur.  [2–4]  Mumps  infection  may  present  only  with  nonspecific  or
+primarily  respiratory  symptoms  or  may  be  asymptomatic.[5]  Among  unvaccinated
+people,  approximately  20%  of  infections  can  be  asymptomatic;[6–8]  the  frequency  of
+asymptomatic  infection  among  vaccinated  people  is  unknown.  The  most  common
+complications of mumps include orchitis, oophoritis, mastitis, pancreatitis, hearing loss,
+meningitis, and encephalitis. Complications may occur in the absence of parotitis.[9,10]
+The  frequency  of  complications  is  lower  in  vaccinated  patients  compared  with
+unvaccinated  patients  (Table  1).[11-14]  Among  vaccinated  patients,  complications  of
+mumps are uncommon but occur more frequently among adults than children, mainly
+due to higher rates of orchitis among post-pubertal males.[8] Up to half of patients with
+mumps  orchitis  develop  atrophy  of  the  affected  testicle(s).[15,16]  While  there  is  a
+
+theoretical risk for temporary sterility or subfertility from oligospermia, azoospermia, or
+asthenospermia among men with mumps orchitis,[15] no studies have assessed risk for
+permanent  infertility.  Nephritis,  myocarditis,  and  other  sequelae,  including  paralysis,
+seizures, cranial nerve palsies, and hydrocephalus have also been reported in mumps
+patients  but  are  uncommon.  Death  due  to  mumps  is  exceedingly  rare.  Table  1.
+Frequency of complications among unvaccinated and vaccinated patients with mumps
+Mumps  virus  is  transmitted  person  to  person  through  direct  contact  with  saliva  or
+respiratory  droplets  of  a  person  infected  with  mumps  (i.e.,  droplet  transmission).
+Mumps  is  not  as  easily  transmitted  as  measles  or  varicella,  viruses  that  spread  via
+predominately airborne transmission. Mumps typically requires close contact to spread,
+especially  among  vaccinated  populations.  Close  contact*  is  defined  for  mumps  as:  A
+person with mumps is considered infectious from 2 days before through 5 days after
+parotitis  onset.[22]  Although  mumps  virus  has  been  isolated  from  7  days  before
+through  11–14  days  after  parotitis  onset,[22–24]  the  highest  percentage  of  rRT-PCR
+positive results and the highest virus loads occur closest to parotitis onset and decrease
+rapidly thereafter.[22,25,26] As a result, specimens for PCR testing should be collected
+within 10 days, ideally within 0–3 days, of parotitis onset (specimen collection details
+can  be  found  in  the  mumps  chapter  of  the  Laboratory  Support  for  Surveillance  of
+Vaccine-Preventable  Diseases).   Transmission  may  also  occur  from  persons  with
+asymptomatic  infections  or  only  prodromal  symptoms.[27]  No  studies  have  assessed
+peak  infectiousness  in  mumps  patients  who  do  not  have  parotitis  (e.g.,  patients  who
+only have nonspecific respiratory symptoms or only have complications like orchitis). In
+lab-confirmed patients without parotitis, onset of first symptom can be used in place of
+onset  of  parotitis  to  estimate  a  patient’s  infectious  period.  Mumps  virus  has  been
+isolated up to 14 days in urine[28] and semen[29], but for optimal specimen collection
+and interpretability of results, specimens for PCR testing should be collected within 10
+days of parotitis onset (specimen collection details can be found in the mumps chapter
+
+of the Laboratory Support for Surveillance of Vaccine-Preventable Diseases).  No studies
+have assessed if mumps virus can be transmitted through either of these fluids. Mumps
+infection that occurs in pregnant women is generally benign and not more severe than
+in  women  who  are  not  pregnant.  Few  studies  have  been  conducted  to  determine  if
+there  is  a  risk  that  mumps  infection  in  pregnant  women  may  cause  complications
+during  pregnancy.  One  study  from  1966  reported  an  association  between  maternal
+mumps infection during the first trimester of pregnancy and an increase in the rate of
+spontaneous abortion or intrauterine fetal death,[30] but this association was not found
+in another study.[31] Another study did not find a significant association between low
+birth weight and mumps infection during pregnancy.[32] While there are case reports of
+congenital  malformations  in  newborns  born  to  mothers  who  had  mumps  during
+pregnancy,[33]  the  only  prospective,  controlled  study  found  rates  of  malformations
+were similar between newborns of mothers who had mumps and those of mothers who
+did  not  have  mumps  during  pregnancy.[34]  Not  all  cases  of  parotitis—especially
+sporadic ones—are due to mumps infection. Parotitis can be caused by parainfluenza
+virus  types  1‒3,  Epstein  Barr  virus,  influenza  A  virus  (H3N2),  human  herpes  virus  6A
+and  6B,  herpes  simplex  viruses  1  and  2,  Coxsackie  A  virus,  echovirus,  adenoviruses,
+lymphocytic  choriomeningitis  virus,  and  human  immunodeficiency  virus.[35]  There
+have also been limited case reports of parotitis associated with COVID-19. Parotitis can
+also result from noninfectious causes such as drugs, tumors, immunologic diseases, and
+obstruction of the salivary duct. However, other causes do not produce parotitis on an
+epidemic scale.[36,37] Top of Page In the prevaccine era, mumps was a notable cause
+of  morbidity  in  the  United  States,  with  well  over  100,000  cases  reported  each  year.
+During  that  time,  mumps  was  a  universal  childhood  disease,  with  highest  incidence
+among  children  5–9  years  of  age.[38,39]  Permanent  unilateral  deafness  caused  by
+mumps occurred in 1 of 20,000 infected persons. Bilateral, severe hearing loss was very
+rare.[19] Before 1967, mumps accounted for approximately 10% of all cases of aseptic
+
+meningitis.[40]  In  1967,  mumps  encephalitis  accounted  for  36%  of  all  reported
+encephalitis  cases.[38]   During  1962–1967,  there  were  3  deaths  per  10,000  reported
+mumps
+ cases.[38]
+ Mumps
+ also
+ substantially
+ affected
+ US
+ armies
+ during
+mobilization.[41]  The  average  annual  rate  of  hospitalization  resulting  from  mumps
+during  World  War  I  was  55.8  per  1,000,  which  was  exceeded  only  by  the  rates  for
+influenza  and  gonorrhea.[41]  Mumps  vaccine  was  licensed  in  the  United  States  in
+1967.[38] In 1977, the Advisory Committee on Immunization Practices (ACIP) made a
+recommendation  for  1  dose  of  mumps  vaccine  for  all  children  at  any  age  after  12
+months.[42] In 1989, children began receiving 2 doses of mumps vaccine because of
+implementation  of  a  2-dose  measles  vaccination  policy  using  the  combined  measles,
+mumps, and rubella vaccine (MMR).[43] In 2006, ACIP recommended a 2-dose mumps
+vaccine  policy  routinely  for  school-aged  children,  students  at  post-high  school
+educational  institutions,  health-care  personnel,  and  international  travelers,  and
+recommended that a second dose be considered in outbreak settings for children aged
+1-4 years and adults who had received 1 dose.[44] Following mumps vaccine licensure
+and  ACIP  recommendations  for  its  use,  reported  cases  of  mumps  steadily  decreased
+from  >152,000  cases  in  1968  to  2,982  cases  in  1985.[45]  During  1986–1987,  a
+resurgence occurred with more than 20,000 reported mumps cases. The primary cause
+of this resurgence was low vaccination levels among adolescents and young adults.[45]
+In  the  late  1980s  and  early  1990s,  outbreaks  were  reported  among  primary  and
+secondary  school  children  who  had  previously  received  1  dose  of  mumps-containing
+vaccine. [46,47] The second dose of MMR vaccine recommended in 1989 subsequently
+improved mumps control as well. The launch of the Vaccines for Children’s program in
+1994 further expanded access to routine childhood immunizations, including MMR. By
+the early 2000s, reported mumps cases declined to an average of less than 300 cases
+annually.[48]  Starting  in  2006,  there  has  been  an  increase  in  the  number  of  mumps
+cases  and  outbreaks  reported  in  the  United  States,  with  several  peak  years.  The
+
+epidemiology  has  shifted  from  the  majority  of  cases  occurring  among  unvaccinated
+children  during  the  pre-vaccine  era  to  most  cases  occurring  in  fully  vaccinated
+adolescents  and  young  adults,  mainly  driven  by  outbreaks  on  college  campuses,
+close-knit communities, and other congregate settings. Although this resurgence began
+with geographically localized large outbreaks, it has since transitioned to outbreaks of
+varying  sizes  and  settings  across  most  US  states.  In  2006,  the  first  peak  year,  6,584
+cases were reported, predominately among midwestern college students.[12] In the 6
+states  where  most  cases  were  reported,  approximately  63%  of  patients  with  known
+vaccination  status  had  received  2  doses  of  MMR  vaccine.[12]  In  2007  and  2008,  the
+number of annual cases nationwide declined to 800 and 454 cases, respectively.[49,50]
+From  2009  to  2010,  2  large  outbreaks  occurred,  the  first  among  Orthodox  Jewish
+communities in the Northeast (3502 cases)[13] and the second in the U.S. Territory of
+Guam (505 cases).[14] Cases in these outbreaks were mainly among fully vaccinated
+children  and  adolescents.[13,14]  Between  July  2010  and  December  2015,  at  least  23
+large outbreaks (20–485 cases per outbreak) were reported in 18 states, most of which
+occurred among fully vaccinated young adults of college age.[51] Following a relative
+decline in cases from 2011–2013 (~200–500 cases reported annually), cases began to
+increase  again  in  2016  and  2017,  peaking  with  >6,000  cases  reported  in  both
+years.[52,53] From January 2016 through June 2017, 39 health departments (37 states,
+New  York  City,  Washington  DC)  reported  150  outbreaks,  accounting  for  >9,000
+cases.[54,55]  Median  outbreak  size  was  10  cases  (range:  3–2,954  cases).  Outbreaks
+occurred in many different settings, including universities, schools, athletics teams and
+facilities, church groups, workplaces, large parties or events, and households. Of 7,187
+(78%) patients with known vaccination status, 75% had ≥2 doses of MMR vaccine.[55]
+Since  2007,  patients  aged  <18  years  account  for  approximately  1/3  of  all  reported
+mumps cases, with the majority being vaccinated (among patients aged ≥1 year with
+known  vaccination  status,  74%  of  1–4-year-olds  had  received  ≥1  MMR  and  86%  of
+
+5–17-year-olds had received ≥2 MMR doses).[56]  In 2019, there were approximately
+3,800 cases reported, occurring in a range of different outbreak settings[57] with 898
+cases  reported  in  detention  facilities  across  several  states,  primarily  among  adult
+migrants.[58]  During  2020–2022,  there  has  been  a  large  reduction  in  mumps  cases
+likely  due  to  social  distancing  and  the  other  COVID-19  prevention  measures,  with
+150–700  reported  annually.[57]  A  Cochrane  review  and  meta-analysis  published  in
+2021  found  a  pooled  estimate  of  vaccine  effectiveness  of  two  doses  of  MMR  vaccine
+against clinical mumps disease of 86% (RR 0.12, CI: 0.04-0.35), and 1 dose of 72% (RR
+0.24, CI: 0.07-0.76),[59] lower than for the other two components of the MMR vaccine
+(97% for measles after two doses and 97% for rubella after one dose). While evidence is
+limited, experts believe that several factors contribute to some vaccinated people being
+at  risk  for  mumps  infection,  including:  Introduction  of  mumps  virus  into  settings  with
+intense  or  frequent  close  contact  exposures  that  facilitate  transmission  can  lead  to
+outbreaks  among  highly  vaccinated  people.  Examples  of  intense  close  contact
+exposures include physical contact, such as attendance at a crowded party, or during
+dancing,  contact  sports,  kissing  or  sexual  activity  and  sharing  of  gym  equipment  or
+drinks. Examples of frequent close contact exposures include prolonged contact such as
+living  in  confined  or  shared  spaces;  repeated  contact  such  as  meeting  regularly,  or
+sharing a daily routine. In 2012, CDC issued interim guidance on consideration of the
+use  of  a  third  dose  of  MMR  vaccine  during  mumps  outbreaks  for  specific  target
+populations.  One  study  conducted  during  a  large  university  outbreak  in  2015–2016
+found that students who received a third MMR vaccine dose had a 78% lower risk of
+mumps than those with 2 doses.[60] The increased burden of mumps and results from
+this  study,  led  the  Advisory  Committee  on  Immunization  Practices  (ACIP)  to  examine
+the evidence on use of a third dose of MMR vaccine during mumps outbreaks.[61] In
+October  2017,  ACIP  recommended  a  third  dose  of  a  mumps-containing  vaccine₸  for
+people  who  are  identified  by  public  health  authorities  as  being  part  of  a  group  or
+
+population  at  increased  risk  for  mumps  because  of  an  outbreak.   Subsequently,  CDC
+developed guidance for health departments on implementation of the recommendation.
+The duration of protection from a third dose of MMR vaccine is unknown. Immunological
+studies  suggest  the  added  protection  from  a  third  MMR  dose  may  be  short  term,  as
+people  who  received  a  third  dose  were  observed  to  have  a  boost  in  neutralizing
+antibodies one month after vaccination that then declined to near-baseline levels after
+one year [62]. More studies are needed to assess vaccine effectiveness over time and if
+other  mechanisms  of  the  immune  response  may  provide  longer  term  protection.
+Therefore, a third dose of MMR vaccine is recommended only for additional individual
+protection against mumps during outbreaks, as demonstrated by vaccine effectiveness
+studies  conducted  during  outbreaks.  ACIP  currently  recommends  two  doses  of  MMR
+vaccine  for  routine  vaccination;  there  is  no  recommendation  for  routine  vaccination
+with a third dose. Worldwide, mumps is not as well controlled as measles and rubella.
+From 1999–2019, on average, about 500,000 mumps cases were reported to the World
+Health Organization annually [63]; however, global mumps incidence is challenging to
+estimate as mumps is not a notifiable disease in many countries. As of 2021, mumps
+vaccine  is  routinely  used  in  123  of  194  (63%)  countries.[64]  Since  the  mid-2000s,
+mumps outbreaks have also been reported among populations with high 2-dose MMR
+coverage  in  other  countries,  including  United  Kingdom,[65]  Ireland,[66]  New
+Zealand,[67] Canada,[68] Netherlands,[69] Spain,[70] and Norway.[71] Most sequenced
+mumps  specimens  in  these  recent  outbreaks  were  genotype  G  [68,  69,  71].  Despite
+these  outbreaks,  mumps  incidence  is  still  much  higher  in  countries  that  do  not  have
+routine  mumps  vaccination.  Top  of  Page  For  specific  information  about  mumps
+vaccination, refer to the Pink Book, which provides general recommendations, including
+vaccine  use  and  scheduling,  immunization  strategies  for  providers,  vaccine  content,
+adverse events and reactions, vaccine storage and handling, and contraindications and
+precautions.  Top  of  Page  The  following  case  definition  for  mumps  was  updated  and
+
+approved by the Council of State and Territorial Epidemiologists in 2023.[72] to improve
+the specificity of the case definition for mumps, particularly for sporadic cases. In the
+absence  of  a  more  likely  alternative  diagnosis,  an  acute  illness  characterized  by:
+Confirmed:  Probable:  Suspect:  Top  of  Page  If  mumps  is  suspected,  laboratory  testing
+should  be  performed.  rRT-PCR  testing  is  preferred  to  serologic  testing  for  mumps
+whenever  possible.  This  is  because  rRT-PCR  testing  allows  for  opportunities  for
+molecular  characterization  of  circulating  mumps  viruses.  Additionally,  in  vaccinated
+persons,  the  IgM  response  may  not  be  detectable,  and  there  are  also  concerns  with
+cross-reactivity  to  other  viruses.   All  specimens  sent  to  CDC  or  Association  of  Public
+Health  Laboratories  (APHL)-Vaccine  Preventable  Diseases  (VPD)  Reference  Centers
+should  be  accompanied  by  complete  information  on  the  case’s  symptom  onset  date
+and  vaccination  status.  Refer  to  Chapter  22,  “Laboratory  Support  for  Surveillance  of
+Vaccine-Preventable Diseases” for detailed information on laboratory testing for mumps
+and specific information on specimen collection and shipment. To help local and state
+health departments conserve public health resources during mumps outbreaks, CDC, in
+collaboration  with  CSTE  and  APHL,  developed  guidance  to  optimize  mumps  testing
+practices.  This  guidance  is  intended  to  reduce  the  testing  burden  during  outbreaks.
+CDC Guidance for Optimizing Mumps Testing can be found on the CDC website. Health
+departments can also distribute the CDC Mumps Testing Job-Aid Flow Charts to educate
+providers  on  scenarios  where  specimen  collection  is  appropriate.  Public  health
+laboratories are encouraged to send select specimens (Guidance on mumps testing can
+be found in the Laboratory Testing Chapter in the CDC Manual for the Surveillance of
+Vaccine-Preventable  Diseases  and  on  the  CDC  Mumps  Laboratory  Testing  website)  to
+CDC or the APHL VPD Reference Center laboratories for routine molecular surveillance
+(e.g.,  sequencing  the  small  hydrophobic  (SH)  gene  to  determine  the  mumps  virus
+genotype). Molecular surveillance is important to monitor any changes in the genotype
+or strain prevalence over time and to trace pathways of transmission. Since 2006, over
+
+98%  of  sequenced  mumps  isolates  in  the  United  States  are  from  the  same  genotype
+(genotype G), with limited sequence diversity within the genotype [73]. The high level
+of similarity among US sequences limits the usefulness of routine genotyping to inform
+the  epidemiologic  investigation  during  outbreak(s).  However,  if  the  epidemiology
+suggests  a  case(s)  may  not  be  related  to  an  outbreak,  a  notable  difference  (i.e.,
+different  genotype  or  strain)  can  help  identify  sporadic  cases  and  inform  outbreak
+response efforts. More research is needed to evaluate the minimum difference needed
+between  sequences  to  determine  if  cases  are  epidemiologically  related.  With  wide
+global distribution of genotype G viruses, and the same circulating Sheffield reference
+strain endemic in Canada,[74] sequencing larger segments of the mumps genome may
+be useful to identify sources and epidemiologic linkages.[75] However, information on
+the  distribution  of  mumps  lineages  around  the  world  is  currently  limited  and  not
+sufficient  to  identify  country  of  origin  for  imported  cases.  Specimen  collection  and
+shipping are important steps in obtaining laboratory diagnosis or disease confirmation.
+Guidelines  have  been  published  for  specimen  collection  and  handling  for  viral  and
+microbiologic agents. Information is also available on using CDC laboratories as support
+for reference and disease surveillance; this includes: Specific instructions for specimen
+collection  may  be  obtained  via  the  Specimen  Collection,  Storage,  and  Shipment  site.
+For questions regarding laboratory testing, Mumps contacts are listed in Table 1 of the
+Laboratory  Support  for  Surveillance  of  Vaccine-Preventable  Diseases.  Top  of  Page
+Mumps is currently a reportable condition in all US states. Each state and US territory
+has  regulations  or  laws  governing  the  reporting  of  diseases  and  conditions  of  public
+health  importance.[76]  These  regulations  and  laws  list  the  diseases  that  are  to  be
+reported  and  describe  those  persons  or  groups  responsible  for  reporting,  such  as
+healthcare  providers,  hospitals,  laboratories,  schools,  daycare  and  childcare  facilities,
+and  other  institutions  (e.g.,  correctional  and  detention  facilities).  Persons  reporting
+these  conditions  should  contact  their  Local  or  State  Health  Department  for
+
+state-specific  reporting  requirements.  Provisional  notifications  of  all  probable  and
+confirmed mumps cases should be sent by the State Health Department to CDC using
+event  code  10180  via  the  National  Notifiable  Diseases  Surveillance  System
+(NNDSS)  within  7  days  (i.e.,  the  next  reporting  cycle).  Electronic  reporting  of  case
+records  should  not  be  delayed  because  of  incomplete  information  or  lack  of
+confirmation.  Following  completion  of  case  investigations,  case  records  should  be
+updated with any new information and resubmitted to CDC. Final laboratory results may
+not  be  available  for  the  initial  report  but  should  be  submitted  via  NNDSS  when
+available. The state in which the patient resides at the time of diagnosis should submit
+the  case  notification  to  CDC.  For  people  who  may  be  under  the  custody  of  a  law
+enforcement agency, the state of the facility in which the patient was housed at onset
+of  parotitis,  or  onset  of  first  symptom  in  the  absence  of  parotitis,  should  submit  the
+case notification to CDC. For further inquiries, please email: ncirddvdmmrhp@cdc.gov
+The  following  data  should  be  collected  during  mumps  case  investigation.  Additional
+information may be collected at the direction of the Local or State Health Department.
+Demographic information  Reporting source  Clinical information  Outcome Laboratory 
+*CDC  currently  only  accepts  buccal  swabs  for  rRT-PCR,  check  with  your  local
+laboratory/VPD  reference  center  to  see  what  sample  types  are  acceptable.  Vaccine
+information   Epidemiologic   *Internationally  imported  cases  would  be  those  with
+international travel within 25 days of symptom onset and no known exposure to mumps
+virus  in  the  U.S.  during  that  time.  Top  of  Page  Information  obtained  through
+surveillance  is  used  to  monitor  disease  trends  in  the  population  and  to  characterize
+populations  requiring  additional  disease  control  measures.  Regular  monitoring  of
+surveillance indicators can help identify specific areas of the surveillance and reporting
+system  that  need  improvement.  The  following  indicators  should  be  monitored  by  the
+state health department.   Top of Page All persons with suspected mumps should be
+investigated.  Identification  and  investigation  of  mumps  cases  is  important  in  the
+
+initiation of control measures to prevent the spread of the disease. In settings with high
+risk  for  transmission,  such  as  schools,  universities,  close-knit  communities,  and
+correctional/detention facilities, health departments may want to be more proactive. In
+these settings, health departments should consider conducting case investigations and
+providing  recommendations  before  laboratory  results  are  known  or  before  additional
+cases are identified. Implementation of control measures may be contingent on setting,
+likelihood  of  ongoing  transmission,  and  available  resources.  The  Mumps  Surveillance
+Worksheet  (Appendix  10)  provides  key  information  to  be  collected  during  a  case
+investigation.  Additional  guidance  on  case  investigation  can  be  found  in  the
+section Investigate and confirm suspected mumps in the Strategies for the Control and
+Investigation of Mumps Outbreaks web page.  Top of Page A mumps outbreak is defined
+as 3 or more cases linked by time and place. Every suspect case of mumps should be
+investigated  to  determine  if  they  are  part  of  an  outbreak.  A  critical  part  of  case
+investigation during an outbreak is to determine if the case and their close contacts are
+part of a group or population at increased risk for mumps. All people in the group at
+increased  risk  should  be  recommended  to  receive  an  additional  dose  (“outbreak”  or
+third  dose)  of  MMR  vaccine  for  added  personal  protection.  Guidance  on  mumps
+outbreak response and control, including use of a third dose of MMR vaccine, can be
+found on the CDC Strategies for the Control and Investigation of Mumps Outbreaks web
+page.  Setting  specific  guidance  is  also  provided  on  the  Strategies  for  the  Control  of
+Outbreaks  page,  including  responding  to  mumps  in  healthcare  settings,  universities,
+and  correctional/detention  facilities.  Top  of  Page  To  receive  email  updates  about  this
+page, enter your email address:
+
+Source URL: https://www.cdc.gov/vaccines/pubs/surv-manual/chpt09-mumps.html

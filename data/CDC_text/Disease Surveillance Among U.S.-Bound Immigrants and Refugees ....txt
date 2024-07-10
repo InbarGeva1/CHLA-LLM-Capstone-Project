@@ -1,0 +1,906 @@
+Official websites use .gov A .gov website belongs to an official government organization
+in  the  United  States.  Secure  .gov  websites  use  HTTPS  A  lock  (   )  or  https://  means
+you've  safely  connected  to  the  .gov  website.  Share  sensitive  information  only  on
+official,  secure  websites.  Surveillance  Summaries  /  January  21,  2022  /  71(2);1–21
+Christina  R.  Phares,  PhD1;  Yecai  Liu,  MS1;  Zanju  Wang,  MS1;  Drew  L.  Posey,  MD1;
+Deborah Lee, MPH1; Emily S. Jentes, PhD1; Michelle Weinberg, MD1; Tarissa Mitchell,
+MD1;  William  Stauffer,  MD1,2;  Julie  L.  Self,  PhD3;  Nina  Marano,  DVM1  (View  author
+affiliations) Views equals page views plus PDF downloads Box 1 Box 2 Figure 1 Figure 2
+Figure  3  Figure  4  Table  1  Table  2  Table  3  Table  4  Problem/Condition:  Each  year,
+approximately  500,000  immigrants  and  tens  of  thousands  of  refugees  (range:
+12,000–85,000  during  2001–2020)  move  to  the  United  States.  While  still  abroad,
+immigrants,  refugees,  and  others  who  apply  for  admission  to  live  permanently  in  the
+United States must undergo a medical examination. This examination identifies persons
+with  class  A  or  B  conditions.  Applicants  with  class  A  conditions  are  inadmissible.
+Infectious  conditions  that  cause  an  applicant  to  be  inadmissible  include  infectious
+tuberculosis  (TB)  disease  (class  A  TB),  infectious  syphilis,  gonorrhea,  and  infectious
+Hansen’s disease. Applicants with class B conditions are admissible but might require
+treatment  or  follow-up.  Class  B  TB  includes  persons  who  completed  successful
+treatment overseas for TB disease (class B0), those with signs or symptoms suggestive
+of TB but whose overseas laboratory tests and clinical examinations ruled out current
+infectious  TB  disease  (class  B1),  those  with  a  diagnosis  of  latent  TB  infection  (LTBI)
+(class  B2),  and  the  close  contacts  of  persons  known  to  have  TB  disease  (class  B3).
+Voluntary  public  health  interventions  might  also  be  offered  during  the  overseas
+examination.  After  arriving  in  the  United  States,  a  follow-up  TB  examination  is
+recommended  for  persons  with  class  B  TB.  Period  Covered:  This  report  summarizes
+health  information  that  was  reported  to  CDC’s  Electronic  Disease  Notification  (EDN)
+system for refugees, immigrants, and eligible others who arrived in the United States
+
+during 2014–2019. Eligible others are persons who although not classified as refugees
+(e.g.,  certain  parolees,  special  immigrant  visa  holders,  and  follow-to-join  asylees)  are
+eligible for the same services and benefits as refugees. Description of System: The EDN
+system  has  both  surveillance  and  programmatic  components.  The  surveillance
+component  is  a  centralized  database  that  collects  1)  health-related  data  from  the
+overseas medical examination for immigrants with class A or B conditions and for all
+refugees  and  eligible  others  and  2)  TB-related  data  from  the  postarrival  TB
+examination.  The  programmatic  component  is  a  reporting  system  that  sends  arrival
+notifications to state and local health agencies in the jurisdiction where newly arriving
+persons  have  reported  intending  to  live  and  provides  state  and  local  health  agencies
+and  other  authorized  users  with  medical  data  from  overseas  examinations.  Results:
+During 2014–2019, approximately 3.5 million persons moved to the United States from
+abroad, including 3.2 million immigrants, 313,890 refugees, and 95,993 eligible others.
+Among these, the overseas examination identified 139,683 persons (3,903 per 100,000
+persons  examined)  with  class  B  TB,  54  with  primary  or  secondary  syphilis  (30  per
+100,000  persons  tested),  761  with  latent  syphilis  (415  per  100,000  persons  tested),
+and,  after  laboratory  testing  for  gonorrhea  was  added  in  2016,  a  total  of  131  with
+gonorrhea  (374  per  100,000  persons  tested).  Refugees  were  offered  additional,
+voluntary  interventions,  including  vaccinations  and  presumptive  treatment  for
+parasites.  By  2019,  first-  and  second-dose  coverage  with  measles-containing  vaccine
+were  96%  and  80%,  respectively.  In  refugee  populations  for  whom  presumptive
+treatment is recommended, up to 96% of refugees, depending on the specific regimen,
+were offered and accepted treatment. For the 139,683 persons identified overseas with
+class B TB, EDN sent arrival notifications and overseas medical data to the appropriate
+state or local health agency to facilitate postarrival TB examinations. Among 101,119
+persons  identified  overseas  as  having  class  B0  TB  (6,586)  or  class  B1  TB  (94,533),  a
+total of 67,432 (67%) had a complete postarrival examination reported to EDN. Among
+
+35,814  children  aged  2–14  years  identified  overseas  with  class  B2  TB,  20,758  (58%)
+had  a  complete  postarrival  examination  reported  to  EDN.  (Adults  are  not  routinely
+tested  for  immune  reactivity  to  Mycobacterium  tuberculosis  during  the  overseas
+medical examination.) Among those with a complete postarrival examination reported
+to EDN, the number with a diagnosis of culture-positive TB disease within the first year
+of arrival was 464 (688 cases per 100,000 persons examined) for those with class B0 or
+B1 TB and was 11 (53 cases per 100,000 persons examined) for children with class B2
+TB.  Interpretation:  During  2014–2019,  the  overseas  medical  examination  system
+prevented importation of 6,586 cases of infectious TB, 815 cases of syphilis, and 131
+cases of gonorrhea. When the examination is used to offer public health interventions,
+most refugees (up to 96%) accept the intervention. Postarrival follow-up examinations,
+which were completed for 88,190 persons and identified 475 cases of culture-positive
+TB,  represent  an  important  opportunity  to  further  limit  spread  of  TB  disease  in  the
+United  States  by  identifying  and  providing,  if  needed,  preventive  care  for  those  with
+LTBI or treatment for those with disease. Public Health Action: Federal, state, and local
+health  departments  and  agencies  should  continue  to  use  EDN  data  to  monitor,
+evaluate,  and  improve  health-related  programs  and  policies  aimed  at  U.S.-bound  or
+recently  arrived  immigrants,  refugees,  and  eligible  others.  Additional  public  health
+interventions that could be offered during the overseas medical examination should be
+considered  (e.g.,  treatment  for  LTBI).  Finally,  for  persons  with  class  B  TB,  measures
+should be taken to identify and remove barriers to completing postarrival examinations
+to  reduce  risk  for  TB  disease  and  community  transmission,  along  with  measures  to
+encourage reporting of completed examinations for better data-driven decision-making.
+Top Each year, approximately 500,000 immigrants and tens of thousands of refugees
+and  eligible  others  move  to  the  United  States  after  applying  for  admission  while
+overseas (any country other than the United States and its territories). Eligible others
+are  persons  who  although  not  classified  as  refugees  (e.g.,  certain  parolees,  special
+
+immigrant  visa  holders,  and  follow-to-join  asylees)  are  eligible  for  the  same  services
+and benefits as refugees. As part of the admission process, these immigrants, refugees,
+and  eligible  others  undergo  an  overseas  medical  examination  to  determine  medical
+admissibility.  The  U.S.  Department  of  Health  and  Human  Services  (HHS)  has  the
+regulatory authority to require this examination (1–4) and describes these requirements
+in technical instructions issued by CDC. As of 2019, the examinations were conducted
+by approximately 600 licensed panel physicians appointed by the U.S. Department of
+State (DOS), working in 350 clinics in 160 countries. The overseas medical examination
+identifies  applicants  with  class  A  and  class  B  conditions  (Box  1).  An  applicant  with  a
+class  A  communicable  disease  cannot  be  admitted  to  the  United  States  until  the
+disease  has  been  successfully  treated  or  the  U.S.  Department  of  Homeland  Security
+(DHS) grants a waiver. When a class A condition resolves, the applicant is reclassified
+as  having  a  class  B  condition  and  is  allowed  to  travel  to  the  United  States.  The  U.S.
+Code  of  Federal  Regulations  specifies  four  class  A  communicable  diseases  of  public
+health  significance:  tuberculosis  (TB)  disease,  infectious  syphilis,  gonorrhea,  and
+infectious Hansen’s disease. Persons with class B conditions can be admitted; however,
+the  condition  might  require  treatment  or  follow-up.  Persons  with  class  B  TB  include
+those who have successfully completed treatment overseas for TB disease (class B0),
+those with signs or symptoms suggestive of TB disease but whose overseas laboratory
+tests and clinical examinations ruled out current infectious TB disease (class B1), those
+with  a  diagnosis  of  latent  TB  infection  (LTBI)  (class  B2),  and  the  close  contacts  of
+persons  known  to  have  TB  disease  (class  B3).  In  addition  to  the  four  specified
+conditions, other class A communicable diseases include quarantinable communicable
+diseases;  these  diseases  are  designated  by  a  presidential  executive  order  and  are,
+currently,  infectious  TB,  cholera,  diphtheria,  measles,  plague,  smallpox,  yellow  fever,
+viral  hemorrhagic  fevers,  severe  acute  respiratory  syndromes  (COVID-19,  Middle  East
+respiratory  syndrome,  and  severe  acute  respiratory  syndrome  [SARS],  and  influenza
+
+caused  by  novel  or  reemergent  influenza)  (5),  and  communicable  diseases  posing  a
+public  health  emergency  of  international  concern  (PHEIC)  (6)  that  could  be  imported
+into  the  United  States  and  affect  U.S.  residents.  With  the  exception  of  infectious  TB,
+data about quarantinable and PHEIC conditions are not systematically captured by the
+routine  overseas  medical  examination  data  collection  process;  when  such  conditions
+are present, routine processes give way to emergency response measures, which might
+include  requirements  for  predeparture  vaccinations,  additional  testing,  isolation  and
+quarantine, or suspension of processing and travel. This report focuses on TB, syphilis,
+gonorrhea, and Hansen’s disease. The overseas examinations are used as opportunities
+to offer additional, voluntary public health interventions. Major interventions offered to
+refugees  include  a  vaccination  program  for  most  vaccine-preventable  diseases  and  a
+presumptive  treatment  program  for  soil-transmitted  helminthiasis,  strongyloidiasis,
+schistosomiasis,  and  malaria  infection.  A  postarrival  TB  examination  is  recommended
+by CDC for immigrants who have class A TB (and are admitted with a waiver) or class B
+TB.  A  comprehensive  postarrival  examination  that  includes  a  TB  examination  is
+recommended  by  CDC  for  all  refugees  and  eligible  others.  In  accordance  with  CDC
+Technical Instructions for Panel Physicians (7), the overseas medical examination for all
+applicants must include a medical history and physical examination. Additional required
+procedures and tests to further screen for TB, syphilis, gonorrhea, and Hansen’s disease
+depend on age and location (Box 2). Panel physicians document their findings on the
+following DOS forms: DS-2054 Medical Examination for Immigrant or Refugee Applicant,
+DS-3030 TB Worksheet, DS-3025 Vaccination Documentation Worksheet, and DS-3026
+Medical  History  and  Physical  Examination  Worksheet.  Medical  examinations  are  valid
+for  no  more  than  6  months.  CDC  ensures  that  these  examinations  fulfill  the
+requirements  through  a  robust  quality  assurance  program  that  includes  site  visits,
+evaluations,  and  trainings.  Unlike  immigrants,  refugees  are  not  required  to  receive
+vaccinations  for  admission  to  the  United  States,  and  many  refugees  might  be
+
+undervaccinated when they receive their overseas medical examination, leaving them
+at  risk  for  vaccine-preventable  diseases.  Refugees  are  required  to  demonstrate
+documentation  of  vaccinations  when  they  adjust  their  status  from  refugee  to
+immigrant,  and  they  are  required  to  apply  for  immigrant  status  after  1  year  in  the
+United States. To address this gap, CDC launched a voluntary vaccination program for
+U.S.-bound refugees in 2012 (8). The vaccination program is cofunded by CDC and DOS;
+the  major  implementing  partner  is  the  International  Organization  for  Migration  (IOM).
+The  program  provides  refugees  with  the  following  vaccines,  depending  on  age  and
+eligibility:  measles;  mumps;  rubella;  hepatitis  B;  Haemophilus  influenzae  type  B;
+pneumococcal  conjugate  vaccine;  meningococcal  conjugate  vaccine  with  protection
+against serogroups A, C, W, and Y; diphtheria; tetanus; pertussis; and polio. Refugees
+typically  receive  these  scheduled  or  catch-up  vaccinations  as  recommended  by  the
+Advisory  Committee  on  Immunization  Practices  at  their  initial  overseas  examination
+and, when logistically feasible, receive additional doses in each vaccine series before
+departure for the United States (8). Except when contraindicated, refugees who receive
+their  overseas  examination  in  sub-Saharan  Africa  are  offered  albendazole  for
+soil-transmitted helminth infections, ivermectin for Strongyloides stercoralis infection in
+countries  where  Loa  loa  is  not  endemic,  praziquantel  for  schistosomiasis,  and
+artemether-lumefantrine for Plasmodium falciparum in areas where malaria is endemic.
+In  countries  where  L.  loa  is  endemic,  management  of  S.  stercoralis  is  deferred  until
+after arrival in the United States because of the risk for encephalopathy that might be
+associated  with  ivermectin  treatment  when  L.  loa  infection  is  present.  Refugees  who
+receive their examinations in the Middle East, Asia, North Africa, Latin America, and the
+Caribbean are offered albendazole (for soil-transmitted helminths) and ivermectin (for
+strongyloidiasis)  only.  Refugees  outside  these  areas,  such  as  European  countries  and
+countries formerly in the Union of Soviet Socialist Republics, or those in areas with high
+infection  rates  for  other  parasitic  infections  (e.g.,  Plasmodium  vivax),  are  offered
+
+specific  treatment  on  a  case-by-case  basis.  CDC  recommends  a  TB  examination  for
+immigrants  who  have  class  A  or  B  TB  according  to  the  overseas  examination  and
+recommends  a  comprehensive  assessment  that  includes  a  TB  examination  for  all
+refugees  and  eligible  others  (9).  Appropriate  follow-up  care  in  the  United  States  can
+prevent progression from infection to disease or, if the disease has already developed
+or  recurred  since  the  overseas  examination,  allow  rapid  diagnosis  and  treatment,
+ultimately  limiting  spread  within  the  United  States.  To  facilitate  outreach  for  the
+postarrival  examination,  CDC  notifies  state  and  local  health  departments  whenever
+such  persons  arrive  in  the  United  States,  typically  within  1–9  days.  U.S.  clinicians
+affiliated with health departments conduct the postarrival examination, typically within
+30–90  days.  These  voluntary  follow-up  examinations  for  newly  arrived  immigrants,
+refugees,  and  eligible  others  should  not  be  confused  with  the  required  examination
+conducted by civil surgeons for adjustment-of-status immigrants who apply for lawful
+permanent  residence  status  from  within  the  United  States.  This  report  summarizes
+health information reported to CDC’s Electronic Disease Notification (EDN) system from
+overseas  medical  examinations  conducted  by  panel  physicians  and  postarrival  TB
+examinations  overseen  by  U.S.  health  departments  and  describes  the  number  and
+demographics  of  immigrants,  refugees,  and  eligible  others  who  arrived  in  the  United
+States  during  2014–2019.  The  health-related  findings  from  medical  examinations
+conducted  overseas  and  domestically  are  summarized,  with  a  focus  on  TB,  syphilis,
+gonorrhea, and Hansen’s disease. Public health interventions among refugees also are
+described.  These  findings  will  help  federal,  state,  and  local  health  departments  and
+other  agencies  that  serve  U.S.-bound  or  recently  arrived  immigrants,  refugees,  and
+eligible others to guide health-related priorities, programming, and policies. Top EDN,
+which  has  been  described  previously  (10),  has  both  surveillance  and  programmatic
+components. The surveillance component is the systematic collection of data from 1)
+the overseas medical examination as documented by panel physicians for immigrants
+
+with  class  A  or  B  conditions  and  for  all  refugees  and  eligible  others  and  2)  the
+recommended postarrival TB examination as reported by U.S. health departments for
+immigrants,  refugees,  and  eligible  others  with  class  A  or  B  TB  (Figure  1).  The
+programmatic component of EDN is a centralized reporting system. When an immigrant
+with class A or B TB, a refugee, or an eligible other arrives in the United States, EDN
+notifies the U.S. health department in the jurisdiction where the newly arriving person
+reports  intending  to  live.  EDN  provides  a  portal  for  health  authorities  and  other
+authorized  users,  such  as  U.S.  clinicians  who  conduct  the  recommended  follow-up
+examinations,  to  access  the  person’s  overseas  medical  examination  record.  Health
+departments  can  update  individual  EDN  records  with  results  from  the  postarrival  TB
+examination. This postarrival information is transmitted back to CDC and, if needed, to
+other  health  departments  when  a  person  moves  from  one  jurisdiction  to  another.
+Immigrants,  also  known  as  lawful  permanent  residents  or  green  card  holders,  are
+persons who have been granted lawful permanent residence in the United States (11).
+New-arrival immigrants complete the application process overseas and enter the United
+States  as  lawful  permanent  residents,  whereas  adjustment-of-status  immigrants
+complete the application process within the United States, having initially entered with
+a  nonimmigrant  status  and  later  adjusting  to  an  immigrant  status.  Refugees  and
+asylees are persons unable or unwilling to return to their country of nationality because
+of persecution, or a well-founded fear of persecution, resulting from their race, religion,
+nationality,  membership  in  a  particular  social  group,  or  political  opinion  (12,13).
+Parolees are persons granted parole into the United States for humanitarian reasons or
+substantial  public  benefit.  Refugees  and  certain  parolees  complete  the  admission
+process  overseas.  Asylees  and  other  parolees  complete  the  admission  process  within
+the United States. This report includes persons who completed the admission process
+overseas  (new-arrival  immigrants,  refugees  and  follow-to-join  refugees,  and  eligible
+others) and then entered the United States during 2014–2019. The analysis does not
+
+include  persons  who  completed  the  admission  process  inside  the  United  States
+(adjustment-of-status  immigrants,  asylees,  and  some  parolees)  and  persons  who  did
+not  complete  the  admission  process  (irregular  migrants).  The  population  categories
+used  for  this  analysis  included  the  following:  EDN  data  for  2014–2019  were  used  to
+describe the number and demographics of newly arrived refugees and eligible others.
+Because  EDN  does  not  collect  data  for  immigrants  who  do  not  have  a  class  A  or  B
+condition identified overseas, publicly available DHS data were used to determine the
+number and demographics of immigrants who arrived in the United States during the
+study period (14). EDN also does not collect nationality data. For immigrants, country of
+birth was used as a proxy for nationality. For refugees, country of birth is a poor proxy
+for nationality. (Many refugees are born in a host country to refugee parents who fled
+their  home  country.)  Instead,  nationality  data  extracted  from  the  DOS  Worldwide
+Refugee Admissions Processing System (15) were used. For all groups, EDN data were
+used  to  determine  the  number  and  type  of  class  A  or  B  TB,  syphilis,  gonorrhea,  and
+Hansen’s disease cases identified overseas (Box 2) and the number of notifications sent
+to each U.S. state. Because refugees were offered additional, voluntary interventions,
+including vaccinations and presumptive treatment for parasites, first- and second-dose
+coverage  with  measles-containing  vaccine  among  refugees  were  determined;
+pregnancy  status,  contraindications,  and  other  barriers  were  examined;  and  the
+proportion  who  received  presumptive  treatment  for  parasites  was  calculated.  Top
+During  2014–2019,  approximately  3.5  million  persons  entered  the  United  States  as
+new-arrival immigrants, refugees, or eligible others (Figures 2 and 3). Most (3.2 million)
+entered
+ as
+ new-arrival
+ immigrants,
+ averaging
+ 528,252
+ annually
+ (range:
+457,930–619,100)  (Figure  2).  Each  year,  the  largest  proportions  of  immigrants  were
+nationals  of  Mexico,  the  Dominican  Republic,  the  People’s  Republic  of  China,  the
+Philippines,  Vietnam,  India,  Bangladesh,  El  Salvador,  Haiti,  and  Pakistan,  and  the
+distribution  of  nationalities  remained  relatively  constant  over  time  (Supplementary
+
+Figure  1,  https://stacks.cdc.gov/view/cdc/113063).  Among  all  immigrants,  56%  were
+nationals of these 10 countries. During the same period, 313,890 persons entered as
+refugees and 95,993 as eligible others (Figure 3). The number of refugees and eligible
+others who arrived each year declined from an average of 95,715 during 2014–2016 to
+an  average  of  40,912  during  2017–2019.  Among  refugees  and  eligible  others,  the
+largest proportions were nationals of Democratic Republic of Congo, Burma, Iraq, Cuba,
+Somalia,  Bhutan,  Syria,  Ukraine,  Iran,  and  Eritrea;  however,  the  distribution  of
+nationalities
+ shifted
+ markedly
+ over
+ time
+ (Supplementary
+ Figure
+ 2,
+https://stacks.cdc.gov/view/cdc/113063).  Among  all  3.5  million  immigrants,  refugees,
+and  eligible  others  who  arrived  in  the  United  States  during  2014–2019,  the  overseas
+examination  identified  139,688  (3.9%)  persons  with  class  A  or  B  TB,  including  five
+persons (0.0001% of entrants) with class A TB admitted with a waiver; 6,586 (0.2% of
+entrants)  with  class  B0  TB,  pulmonary;  94,533  (2.6%  of  entrants)  with  class  B1  TB,
+pulmonary;  and  38,023,  mostly  children,  with  class  B2  TB,  LTBI  evaluation  (Table  1).
+(Because  testing  for  immune  reactivity  to  M.  tuberculosis  is  not  required  for  most
+entrants, this report does not present the proportion of all entrants with class B2, LTBI
+evaluation.) The proportion of entrants with class A or B TB ranged from 3.7% to 4.1%
+by year and from 3.7% for immigrants, to 7.1% for refugees, to 1.4% for eligible others.
+Notifications were sent for all 139,688 persons with class A or B TB to the relevant state
+or  local  health  agency  (Figure  4).  This  process  facilitates  a  postarrival  domestic
+follow-up  examination.  California  received  the most notifications (26.8%),  followed  by
+New  York  (8.7%)  and  Texas  (8.3%).  Among  persons  with  class  B0  TB,  pulmonary,  or
+with class B1 TB, pulmonary, the proportion with a complete postarrival TB examination
+reported to EDN within 1 year of arrival and ever, respectively, were 65.2% (first year)
+and 67.0% (ever) for immigrants, 74.8% and 75.7% for refugees, and 52.7% and 54.0%
+for  eligible  others  (Table  2);  the  proportion  reporting  a  complete  postarrival
+examination  within  1  year  of  arrival  varied  by  state,  with  an  overall  proportion  for
+
+immigrants,  refugees,  and  eligible  others  ranging  from  23.0%  to  92.7%  (Table  2).
+Among children aged 2–14 years with class B2, LTBI evaluation, the proportion with a
+complete  postarrival  examination  reported  to  EDN  within  1  year  of  arrival  and  ever,
+respectively,  were  55.9%  (first  year)  and  58.4%  (ever)  for  immigrants,  70.8%  and
+72.0% for refugees, and 45.9% and 47.9% for eligible others. The overall proportion for
+completion within 1 year of arrival by state ranged from 8.8% to 91.4% (Table 3). For all
+persons with class B TB, the proportion with a complete postarrival TB examination in
+EDN within 1 year of arrival was lowest in 2019 (Tables 2 and 3). Among persons with a
+complete postarrival examination, culture-positive TB was diagnosed domestically in six
+persons  (0.1%)  identified  overseas  with  class  B0  TB,  pulmonary,  and  for  458  (0.7%)
+persons  identified  with  class  B1  TB,  pulmonary;  among  both  groups  together,  the
+proportion  with  culture-positive  TB  diagnosed  domestically  remained  constant  over
+time, ranging from 0.6% to 0.8% during 2014–2019 (Table 2). Among children who were
+identified  overseas  with  class  B2,  LTBI  evaluation,  and  had  a  complete  postarrival
+examination,  culture-positive  TB  was  diagnosed  domestically  among  11  children
+(0.05%),  and  LTBI  was  diagnosed  among  10,223  (49.3%)  (Table  3).  During  the  study
+period,  overseas  evaluations  for  syphilis  and  gonorrhea  were  required  for  all  persons
+aged ≥15 years. For children aged <15 years, evaluations were required when infection
+was suspected or a child had a history of infection. For syphilis, overseas laboratory test
+results were recorded for 94.9% of the 260,345 refugees and eligible others aged ≥15
+years who arrived during 2014–2019. The proportion with results increased over time,
+reaching >99% among those examined in 2018–2019. A total of 1,025 syphilis cases
+were  identified,  a  rate  of  414.9  per  100,000  persons  with  recorded  test  results.  A
+reporting  requirement  for  syphilis  stage  was  introduced  in  2014.  For  refugees  and
+eligible others who arrived after 2014, 54 primary or secondary syphilis cases (29.5 per
+100,000  persons  with  test  results)  and  761  latent  syphilis  cases  (415.3  per  100,000
+persons  with  test  results)  were  identified  overseas;  the  latter  included  248  cases  of
+
+unknown  duration.  Rates  for  primary  and  secondary  syphilis  were  highest  among
+persons  aged  ≥30  years,  and  rates  for  latent  syphilis  increased  with  each  age  group
+(Table 4). For gonorrhea, a requirement for laboratory testing was introduced in 2016,
+and reliable data are only available for those examined in 2018 or later. Among 35,653
+refugees and eligible others aged ≥15 years examined in 2018–2019, a gonorrhea test
+result was documented for 98.3%; 131 cases of gonorrhea were identified (373.7 per
+100,000 persons with test results), and rates were highest among persons aged 15–34
+years.  Persons  of  all  ages  are  screened  for  Hansen’s  disease  during  their  overseas
+medical  examination;  among  all  409,883  refugees  and  eligible  others  who  arrived
+during 2014–2019, a total of 25 had a diagnosis of Hansen’s disease (6.1 per 100,000
+persons examined). CDC’s vaccination program for refugees began in December 2012
+in  two  countries,  Thailand  and  Nepal.  By  2014,  the  program  operated  in  39  of  89
+countries where overseas medical examinations for refugees were performed. Among
+all  refugees  who  arrived  that  year,  EDN  data  showed  that  first-  and  second-dose
+coverage with measles-containing vaccine for 66,727 eligible refugees (those born after
+1956, who were aged at least 1 year before departing for the United States, and titers,
+if available, do not indicate immunity) were 49% and 41%, respectively. By 2019, the
+vaccination program had expanded to all 73 countries where examinations for 22,142
+refugees  were  performed  and  for  that  calendar  year  achieved  first-dose  coverage  of
+96%  and  second-dose  coverage  of  80%.  Among  846  eligible  refugees  who  did  not
+receive a first dose overseas, 17% were pregnant, 15% had another contraindication,
+31% were subject to local vaccine shortages, and 6% did not have enough time to get
+vaccinated.  Live  virus  vaccines,  such  as  measles  vaccine,  are  not  routinely
+administered  within  28  days  of  departure  for  the  United  States  to  avoid  interference
+with any live vaccines or tests of immune response for M. tuberculosis antigen testing
+administered  shortly  after  arrival  in  the  United  States  (16).  CDC’s  presumptive
+treatment program for soil-transmitted helminthiasis, strongyloidiasis, schistosomiasis,
+
+and  malaria  infection  varies  by  country.  In  populations  for  whom  treatment  was
+recommended,  the  proportion  with  documented  treatment  was  96%  for  albendazole,
+79%  for  ivermectin  (increasing  to  84%  when  countries  in  which  ivermectin  is  not
+licensed were excluded), 87% for praziquantel, and 93% for artemether-lumefantrine.
+Top During 2014–2019, approximately 3.5 million persons moved to the United States
+as  an  immigrant,  a  refugee,  or  an  eligible  other.  Among  immigrants,  the  number  of
+arrivals and distribution of nationalities changed little over time. Among refugees and
+eligible  others,  both  the  number  of  arrivals  and  distribution  of  nationalities  changed
+substantially  from  year  to  year;  this  variability  follows  U.S.  policy  decisions.  The
+maximum  number  of  refugees  admitted  for  resettlement  is  determined  by  the  U.S.
+president each year. Historically, the actual number of arrivals is equal to or just below
+that maximum, with some recent exceptions. For fiscal year 2017, the maximum was
+initially  set  at  110,000  by  President  Barack  Obama  (17)  and  was  then  decreased  to
+50,000  by  a  presidential  executive  order  issued  by  President  Donald  Trump  (18);  the
+actual  number  of  resettled  refugees  totaled  53,716  for  that  year  (15).  In  fiscal  year
+2018,  although  the  maximum  was  set  at  45,000  (19),  approximately  one  half  this
+number of refugees were resettled after security enhancements were enacted by DHS,
+resulting  in  the  lowest  number  of  refugee  admissions  since  fiscal  year  1977  (15).
+Among eligible others, such as parolees or special immigrant visa holders, numbers and
+nationalities  increase  and  decrease  as  programs  start  and  stop.  For  example,  the
+ending  in  2017  of  the  so-called  “wet-foot/dry-foot”  policy  (which  allowed  Cuban
+migrants  who  arrived  in  the  United  States  [“dry  foot”]  without  a  visa  to  pursue
+residency a year later, whereas those intercepted at sea [“wet foot”] were returned to
+Cuba  or  resettled  in  a  third  country)  (20)  is  reflected  in  the  sharp  decrease  in  the
+number of Cuban parolees in subsequent years. Because health profiles of refugees and
+eligible  others  differ  by  country  of  origin,  country  of  residence,  and  local  conditions
+before,  during,  and  after  leaving  their  home  country,  substantial  changes  in  number
+
+and  nationality  can  result  in  considerable  changes  in  health  and  public  health  needs
+from year to year, posing significant operational challenges for optimizing, or even just
+preserving, public health programs and infrastructure for these populations, especially
+at the local level. CDC provides health profiles for each of the largest refugee groups
+resettling  to  the  United  States  that  describe  the  demographic,  cultural,  and  health
+characteristics  for  each  population  and  are  intended  to  provide  clinicians  with
+knowledge  needed  to  better  serve  these  refugees  (21).  Statutes  to  exclude
+non–U.S.-born persons from admission to the United States have been in place for more
+than a century. These statutes were codified to exclude those with “tuberculosis in any
+form, or with leprosy, or any contagious disease” in the Immigration and Nationality Act
+of 1952 and were recodified to exclude those with “a communicable disease of public
+health significance” (4) in accordance with regulations prescribed by the Secretary of
+HHS  in  the  Immigration  of  Act  of  1990.  In  1991,  the  definition  of  a  communicable
+disease  of  public  health  significance  was  limited  to  eight  specified  conditions:
+chancroid, gonorrhea, granuloma inguinale, HIV infection, infectious Hansen’s disease,
+lymphogranuloma venereum, infectious syphilis, and infectious TB (22). To allow for a
+more  flexible,  risk-based,  and  responsive  approach  grounded  by  medical  and
+epidemiologic  factors,  this  list  was  expanded  in  2009  to  include  quarantinable
+communicable  diseases,  which  are  designated  by  a  presidential  executive  order,  and
+communicable PHEIC diseases that could be imported into the United States and affect
+U.S.  residents  (23).  Finally,  the  list  of  eight  specified  conditions  was  reduced  to  four
+with the removal of HIV infection in 2010 (24), followed by the removal of chancroid,
+granuloma  inguinale,  and  lymphogranuloma  venereum  in  2016  (25),  leaving  only
+infectious  TB,  infectious  syphilis,  gonorrhea,  and  infectious  Hansen’s  disease  as  the
+remaining  specified  conditions  and  the  subjects  of  this  report.  Eliminating  TB  in  the
+United States, defined by the Advisory Committee for Elimination of Tuberculosis as a
+case rate of <1 per 1 million population, remains a major public health objective (26).
+
+Despite a historic low in U.S. TB incidence in 2019 of 2.7 cases per 100,000 population,
+the  rate  of  decline  has  slowed  in  recent  years  (27).  Persons  not  born  in  the  United
+States  account  for  more  than  two  thirds  of  U.S.  cases  (27),  and  this  proportion  is
+increasing. Genotype studies suggest that most U.S. TB cases in non–U.S.-born persons
+are  due  to  reactivation  of  LTBI,  likely  acquired  abroad  (28,29).  CDC’s  technical
+instructions  are  designed  to  1)  prevent  importation  of  the  disease  by  detecting  and
+treating  infectious  TB  disease  (class  A  TB)  before  persons  move  to  the  United  States
+and  2)  reduce  community  transmission  in  the  general  U.S.  population  by  identifying
+persons with conditions associated with increased risk for disease (class B TB) so that
+they can quickly receive testing and, if needed, preventive or curative treatment after
+moving.  EDN  data  are  critical  for  monitoring  implementation  of  the  technical
+instructions  and  for  evaluating  the  impact  for  continuous  improvement.  Before  2007,
+U.S.-bound  immigrants,  refugees,  and  eligible  others  were  screened  for  TB  by  an
+algorithm  based  on  sputum  smear  results.  This  algorithm  was  unable  to  identify
+persons entering the United States with TB disease with negative sputum smears but
+positive  cultures,  and  a  large  proportion  (one  half  to  two  thirds)  of  cases  were  likely
+being missed (30,31). To address this gap, CDC updated the technical instructions to
+require  culture  in  addition  to  sputum  smears  and,  for  those  with  positive  smear  or
+culture  test  results,  completion  of  a  course  of  treatment  administered  by  direct
+observation
+ supervised
+ by
+ a
+ panel
+ physician.
+ Started
+ in
+ 2007,
+ full
+ global
+implementation was achieved in 2013. A previous analysis of EDN data found that the
+annual number of smear-negative but culture-positive TB cases diagnosed during the
+overseas medical examination increased monotonically from four cases in 2007 to 629
+in  2012,  whereas  annual  TB  cases  detected  among  non–U.S.–born  persons  within  the
+first year of arrival in the United States decreased from 1,511 to 940 cases, concurrent
+with  overall  decreases  in  the  U.S.  TB  rates  (27,30).  In  other  words,  by  2012,
+approximately  600  more  cases  were  detected  overseas  at  the  same  time  600  fewer
+
+were  detected  in  the  United  States.  This  finding  suggests  that  the  culture-based
+algorithm detects substantially more cases, resulting in subsequent treatment, during
+the  overseas  medical  examination  process,  thus  reducing  importation.  However,  the
+findings in this report indicate that during 2014–2019, among persons with an overseas
+classification of class B0 TB, pulmonary, or class B1 TB, pulmonary, the proportion with
+a  subsequent  postarrival  diagnosis  of  culture-positive  TB  disease  during  their  U.S.  TB
+examination  remained  steady  over  time,  suggesting  that  new  gains  will  require  new
+strategies. Finally, during this same period, the proportion of persons with class B TB for
+whom a postarrival TB examination was reported to EDN as completed was lowest in
+2019,  a  particularly  concerning  finding  because  of  the  subsequent  spread  of
+SARS-CoV-2, the virus that causes COVID-19, which diverted focus and resources away
+from TB control and other routine public health measures at the local, state, and federal
+levels  beginning  in  2020  (32).  In  October  2018,  updates  to  the  technical  instructions
+introduced refinements to the TB classification schema for the overseas examination.
+After  the  update,  persons  with  an  initial  diagnosis  of  TB  disease  who  subsequently
+completed directly observed therapy under the supervision of a panel physician (class
+B0 TB, pulmonary) are distinguished from those who, during their initial examination,
+had signs, symptoms, or chest radiography suggestive of TB but negative results from
+smear  and  culture  tests  (class  B1  TB,  pulmonary).  Before  the  change,  the  technical
+instructions aggregated both groups together (previously class B1 TB, pulmonary, for
+both). This report and others (33) show that persons who meet current criteria for class
+B1 TB, pulmonary, are more likely to receive a diagnosis of culture-positive TB disease
+at their postarrival follow-up examination than those meeting criteria for class B0 TB,
+pulmonary.  Changes  to  the  classification  schema  to  reflect  this  risk  difference  might
+help U.S. health departments better stratify risk for improved patient management. The
+technical instructions mandate testing for immune reactivity to M. tuberculosis by an
+interferon-gamma  release  assay  (IGRA)  or,  before  October  2018,  by  a  tuberculin  skin
+
+test  (TST),  for  children  aged  2–14  years  in  countries  with  ≥20  TB  disease  cases  per
+100,000  population  and  for  persons  (of  any  age  in  any  country)  known  to  have  had
+contact for a prolonged period with a person with smear- or culture-positive TB disease.
+A  person  who  has  a  positive  TST  or  IGRA  result  but  chest  radiographs  that  do  not
+suggest TB disease and no other signs or symptoms of disease or known HIV infection
+meets  criteria  for  class  B2  TB,  LTBI  evaluation.  As  such,  EDN  notifies  the  health
+department in the jurisdiction where the newly arriving person reports intending to live
+to  facilitate  a  postarrival  follow-up  evaluation.  A  previous  analysis  of  EDN  data
+demonstrated that children who had a positive TST during their overseas examination
+were frequently (64%) retested during their postarrival evaluations and often received
+negative results; when retested by TST in the United States, 37% had a negative TST
+result, and when retested by IGRA in the United States, 74% had a negative IGRA result
+(Z Wang, MS, CDC, personal communication, November 2021). The high proportion of
+negative  results  when  retested  by  IGRA  likely  reflects  cross-reactivity  to  bacille
+Calmette-Guerin  (BCG)  vaccination  (common  in  many  immigrant  and  refugee
+populations)  producing  false-positive  results  in  the  initial  overseas  TST.  That  analysis
+also  showed  that  the  proportion  who  accepted  treatment  was  higher  after  a  positive
+IGRA  retest  (76%)  than  a  positive  TST  retest  (61%)  (Z  Wang,  MS,  CDC,  personal
+communication,  November  2021).  In  response,  the  2018  technical  instructions  were
+changed from allowing testing by TST or IGRA overseas to allowing IGRA only (except in
+countries  where  no  IGRAs  are  licensed).  This  report  shows  that,  among  children  who
+met  criteria  for  class  B2  TB,  LTBI  evaluation,  and  completed  a  postarrival  domestic
+evaluation,  the  proportion  who  received  a  domestic  diagnosis  of  LTBI  increased  from
+53%  (or  lower)  for  each  of  the  previous  5  years  to  62%  in  2019,  consistent  with  the
+change  to  IGRA  only  overseas.  This  change  is  expected  to  reduce  the  amount  of
+unnecessary follow-up care required by state health departments while increasing the
+number of persons treated. Syphilis remains a major public health threat, and infection
+
+rates  are  increasing  in  the  United  States  (34).  Screening  overseas  has  remained
+consistent since the early 1990s, requiring first a nontreponemal serologic test (either
+the rapid plasma reagin or Venereal Disease Research Laboratory test) and, if positive,
+a  treponemal  test  performed  on  the  same  blood  specimen  for  confirmation.  A  2014
+update to the technical instructions required panel physicians to identify the stage of
+disease, and a 2017 update expanded the available list of confirmatory tests that panel
+physicians may use. Compared with primary and secondary syphilis rates reported by
+age  group  for  the  U.S.  general  population  in  2018  (34),  the  findings  in  this  report
+indicate that rates were lower for refugees and eligible others aged 15–19, 20–24, and
+25–29 years, similar to rates among those aged 30–34 years; more than twice as high
+as rates among those aged 35–39 and 40–44 years; and more than five times as high as
+rates among those aged 45–54, 55–64, and ≥65 years. In other words, among younger
+adults,  primary  and  secondary  syphilis  rates  were  lower  among  refugees  and  eligible
+others than among similarly aged persons in the U.S. general population; among older
+adults, the opposite was observed. This phenomenon could reflect a bias in the United
+States  toward  selecting  for  testing  those  perceived  as  most  at  risk  (younger  adults),
+leaving  older  adults  undertested,  whereas  all  refugees  and  eligible  others  are  tested
+regardless  of  age.  However,  the  absolute  number  of  primary  and  secondary  syphilis
+cases detected annually by universal overseas screening of refugees and eligible others
+aged >14 years is small, ranging from one case in 2019 to 24 cases in 2015. Gonorrhea
+is  the  second  most  common  sexually  transmitted  infection  in  the  United  States  (34).
+Historically,  panel  physicians  relied  on  the  medical  history  and  physical  examination
+findings to diagnose gonorrhea. However, because many infections are asymptomatic,
+in  2016,  CDC  issued  technical  instructions  that  require  laboratory  testing.  Panel
+physicians  perform  a  nucleic  acid  amplification  test,  typically  with  a  urine  sample.
+Compared with gonorrhea rates reported by age group for the U.S. general population
+in  2018  (34),  rates  for  refugees  and  eligible  others  were  lower  or  similar  for  every
+
+5-year age group among persons aged 15–44 years, three times higher among those
+aged 45–54 years, and six times higher among those aged 55–64 years, similar to the
+pattern observed for primary and secondary syphilis. However, even among refugees
+and  eligible  others,  rates  were  highest  among  younger  adults  (15–34  years),  ranging
+from 289 to 668 cases per 100,000 persons with test results, and lowest among adults
+aged  ≥35  years,  ranging  from  0  to  234  cases  per  100,000  persons  with  test  results.
+Young adults remain at greatest risk for gonorrhea. Overall, the number of gonorrhea
+cases identified by the addition of laboratory testing is small, with 58 cases detected in
+2018  and  73  cases  in  2019.  Hansen’s  disease  is  rare  among  refugees  and  eligible
+others. However, this disease still occurs in many places, including within pockets of the
+United States (35). In 2014, the technical instructions clarified the need to follow World
+Health  Organization  (WHO)  treatment  regimens  for  infected  persons.  In  addition,
+because  patients  are  considered  noninfectious  after  at  least  7  days  of  therapy,
+according  to  the  WHO  protocol  (36),  immigrants,  refugees,  and  eligible  others  are
+allowed to travel while receiving therapy to the United States. EDN sends a separate
+notification to the U.S. Hansen’s Disease Center in Louisiana for the small number of
+new  arrivals  (25  cases  in  6  years)  admitted  with  Hansen’s  disease.  The  overseas
+medical  examination  exists  to  satisfy  statutory  requirements  (4).  However,  these
+required  medical  encounters  also  offer  an  opportunity  to  introduce  voluntary  public
+health interventions. Refugees, unlike immigrants, are not required to receive vaccines
+before  arriving  in  the  United  States.  When  unvaccinated  or  undervaccinated  persons
+are  concentrated  together,  outbreaks  of  vaccine-preventable  diseases  are  likely.
+Outbreaks  affecting  U.S.-bound  refugees  overseas  have  caused  preventable  illnesses
+and deaths, led to disease importation and spread in the United States, created costly
+operational  disruptions  for  the  U.S.  government  resettlement  programs,  and
+necessitated  costly  public  health  responses  by  U.S.  health  agencies  (8,37).  The
+vaccination  program  for  U.S.-bound  refugees  offers  11  vaccines  that  help  prevent  14
+
+diseases.  An  important  priority,  as  measles  cases  increase  worldwide,  is  to  offer  all
+refugees at least 1 dose of measles-containing vaccine before they arrive in the United
+States.  First-dose  coverage  with  measles-containing  vaccine  increased  from  49%  in
+2014  to  96%  in  2019,  and  the  majority  of  those  not  vaccinated  in  2019  had  a
+contraindication  that  precluded  vaccination.  The  advantages  of  administering
+vaccinations  before  instead  of  after  resettlement  include  providing  protection  in
+settings  of  higher  risk,  when  it  is  most  needed;  avoiding  costly  disruptions  to
+resettlement;  reducing  the  risk  for  disease  importation;  reducing  the  number  of
+vaccinations  state  health  departments  and  resettlement  agencies  must  provide  (38);
+and  reducing  the  number  of  vaccinations  needed  by  refugees  during  the  immediate,
+and  often  challenging,  postarrival  period.  A  critical  component  of  the  vaccination
+program for refugees is ensuring that the EDN record of vaccines received overseas is
+available when needed in the United States. A previous analysis showed that the EDN
+record  is  routinely  available  at  the  follow-up  evaluation  conducted  by  state  health
+departments shortly after a refugee arrives but might not be available beyond this point
+(39). In 2015, CDC began working with states to add EDN records to state immunization
+information  systems  (IIS),  which  combine  vaccination  information  from  different
+providers into a single consolidated record. As of 2019, EDN records are transferred to
+IIS  in  Colorado,  Connecticut,  Iowa,  Kentucky,  Maryland,  Massachusetts,  Minnesota,
+Nebraska, New York, Tennessee, and Wisconsin. Supplementing IIS with data from EDN
+allows states to calculate coverage statistics for refugees more easily and provides a
+more  accurate  vaccination  history.  Parasitic  infections  are  among  the  most  common
+infections  worldwide,  especially  in  areas  with  inadequate  sanitation  (40,41).  CDC
+recommends  numerous  presumptive  antiparasitic  treatments  for  refugees,  including
+albendazole  for  soil-transmitted  helminthiases,  ivermectin  for  strongyloidiasis  (in
+countries where L. loa is not endemic), and praziquantel for schistosomiasis (42). CDC
+also
+ recommends
+ presumptive
+ treatment
+ for
+ P.
+ falciparum
+ infection
+ with
+
+artemether-lumefantrine  for  U.S.-bound  refugees  from  parts  of  sub-Saharan  Africa
+where  malaria  is  endemic.  Refugees  originating  from  areas  where  malaria  is  not
+endemic  are  unlikely  to  have  asymptomatic  or  subclinical  P.  falciparum  infection  and
+can therefore receive directed treatment, if needed, overseas or in the United States
+(43). Although the risk for spread from imported infections in the United States is low,
+untreated helminth infections can persist for decades and cause significant harm to the
+infected  persons.  Strongyloidiasis  can  become  serious  or  fatal  when  disseminated
+disease occurs (44). Chronic schistosomiasis can have significant clinical consequences,
+including infertility, liver and kidney failure, and bladder cancer (45). Untreated malaria
+can  lead  to  severe  illness  and  death  (46).  This  report  shows  that  the  presumptive
+treatment  program  provides  adequate  coverage;  other  analyses  have  shown  that
+presumptive  treatment  of  U.S.-bound  refugees  during  the  overseas  medical
+examination  reduces  or  eliminates  parasitic  infections  for  most  U.S.-bound  refugees
+(47–49)  and  is  cost-effective  (50).  Unlike  the  vaccination  program,  which  offers
+vaccination to all refugees, presumptive treatment is only offered in certain countries
+when the benefit outweighs the risk, considering such factors as the epidemiologic risk
+for  infection,  severity  of  outcomes  if  untreated,  adverse  event  profile  of  the
+chemotherapeutic agent, availability and accuracy of testing after arrival, and access to
+affordable  treatment  in  the  United  States.  Beginning  in  1995,  notifications  of  newly
+arrived  immigrants  and  refugees  were  sent  to  state  health  departments  via  the  U.S.
+Postal Service. With the inception of the EDN system in 2008, notifications began to be
+sent  electronically.  For  refugees  and  most  Iraqi  and  Afghan  special  immigrant  visa
+holders,  EDN  receives  overseas  medical  examination  data  electronically  directly  from
+IOM, the agency that conducts examinations and coordinates travel for most refugees
+and special immigrant visa holders. For immigrants, collection of overseas medical data
+historically  has  involved  transferring  paper  records  from  immigrants  with  a  medical
+classification to DHS and then to CDC at U.S. ports of entry and then shipping the paper
+
+records  to  CDC  headquarters  for  manual  data  entry.  This  process  has  taken  up  to  4
+weeks,  resulting  in  delays  in  the  notifications  sent  to  state  and  local  health
+departments,  causing  losses  to  follow-up.  In  2018,  CDC,  in  collaboration  with  DOS,
+launched  the  U.S.  version  of  eMedical,  a  system  for  processing  overseas  medical
+examination data for immigrants. Panel physicians enter data directly into the eMedical
+system,  and  the  data  are  transferred  to  the  EDN  system  within  2  days  of  the
+immigrant’s arrival in the United States. The substantial reduction in record-processing
+time  increases  the  likelihood  that  health  departments  will  be  able  to  initiate  timely
+follow-up  with  new-arrival  immigrants.  Finally,  eMedical  is  used  to  collect  data  for  all
+new-arrival  immigrants,  rather  than  just  for  those  who  arrive  with  a  medical
+classification. Top The findings in this report are subject to at least five limitations. First,
+by  design,  the  EDN  system  only  collects  information  for  the  approximately  10%  of
+immigrants who have an overseas medical classification; thus, DHS data were used to
+approximate  the  immigrant  denominators.  Second,  because  data  transfer  for
+immigrants during the study period primarily relied on staff at ports of entry to correctly
+review, retain, and route paper forms for each immigrant with a medical classification,
+human  error  likely  caused  some  losses,  resulting  in  possible  underestimates  of
+immigrants  with  medical  classifications.  These  two  limitations  apply  only  to  data  for
+immigrants,  not  data  for  refugees  or  eligible  others,  and  will  be  remediated  once
+eMedical is fully implemented. Third, although state and local health departments are
+encouraged and provided incentives to report postarrival examination results to EDN,
+underreporting might occur; the proportion of immigrants, refugees, and eligible others
+who completed a postarrival examination might be higher than indicated in this report.
+Fourth, among U.S.-bound populations, testing for immune reactivity to M. tuberculosis
+is  not  routinely  required  for  persons  aged  ≥15  years  or  for  children  aged  <15  years
+living in countries where TB incidence is <20 cases per 100,000 population. Thus, some
+children,  many  adolescents,  and  most  adults  with  LTBI  are  not  identified  overseas.
+
+Immigrants, refugees, and eligible others who are categorized overseas as having no TB
+classification should not be assumed to have received an LTBI evaluation. Likewise, the
+overall  proportion  of  persons  categorized  as  class  B2,  LTBI  evaluation,  should  not  be
+used  as  a  proxy  for  LTBI  prevalence.  Finally,  persons  who  choose  to  emigrate  likely
+differ in many ways from those who choose to stay in their country of origin, whereas
+refugees typically differ profoundly from fellow citizens in their countries of origin and
+citizens in their new countries of asylum or resettlement. Thus, caution should be used
+when extrapolating from data collected for U.S.-bound immigrants in a given country to
+that country’s general population, and such extrapolations should not be attempted for
+refugees.  Top  Rigorous  diagnostic  testing,  data  collection,  and  data  transfer  from
+overseas  to  local  public  health  officials  for  U.S.-bound  mobile  populations  can  be
+performed on a worldwide scale. The EDN system plays a critical role in meeting CDC’s
+mission to reduce illness and deaths among immigrants, refugees, and other globally
+mobile  populations  and  to  prevent  the  introduction,  transmission,  and  spread  of
+communicable  diseases  into  the  United  States.  The  surveillance  component  of  EDN
+provides  data  to  evaluate  outcomes  from  overseas  and  postarrival  medical
+examinations,
+ identify
+ areas
+ for
+ improvement,
+ and
+ guide
+ evidence-based
+recommendations. The findings also demonstrate that the overseas medical encounter
+can be used to successfully provide new public health interventions. The programmatic
+component of EDN provides the framework to ensure continuity of care for new arrivals
+and  facilitates  domestic  public  health  programming.  Finally,  EDN  provides  the  means
+for new or urgent overseas interventions to be quickly documented and communicated
+transnationally; for example, although not included during the period covered by this
+report, documentation of testing for and vaccination against SARS-CoV-2 in U.S.-bound
+populations  could  be  readily  achieved.  Top  International  Organization  for  Migration;
+panel  physicians;  Refugee  Processing  Center,  Bureau  of  Population,  Refugees,  and
+Migration, U.S. Department of State; Customs and Border Protection, U.S. Department
+
+of Homeland Security; CDC quarantine stations; state and local tuberculosis prevention
+and control officers; state refugee health coordinators; Yoni Haber, Wei-Lun Juang, and
+Charlie Miller, Division of Global Migration and Quarantine Informatics Team, CDC. Top
+Corresponding author: Christina R. Phares, Division of Global Migration and Quarantine,
+National  Center  for  Emerging  and  Zoonotic  Infectious  Diseases,  CDC.  Telephone:
+404-639-4350;  Email:  cphares@cdc.gov.  Top  1Division  of  Global  Migration  and
+Quarantine,  National  Center  for  Emerging  and  Zoonotic  Infectious  Diseases,  CDC;
+2Departments  of  Medicine  and  Pediatrics,  Center  for  Global  Health  and  Social
+Responsibility, University of Minnesota; 3Division of Tuberculosis Elimination, National
+Center  for  HIV,  Viral  Hepatitis,  STD,  and  TB  Prevention,  CDC  Top  All  authors  have
+completed and submitted the International Committee of Medical Journal Editors form
+for  disclosure  of  potential  conflicts  of  interest.  No  potential  conflicts  of  interest  were
+disclosed. Top Top   No tuberculosis (TB) classification* This class includes applicants
+without current clinical findings of TB disease, without known HIV infection, and with a
+normal  chest  radiograph  (and  for  applicants  who  require  it,  a  negative  interferon
+gamma-release assay [IGRA]) with normal TB disease screening examinations. Class A
+TB  disease  This  class  includes  all  applicants  who  have  TB  disease.  This  class  also
+includes applicants with extrapulmonary TB who have a chest radiograph suggestive of
+pulmonary  TB  disease,  regardless  of  sputum  smear  and  culture  results.  Class  B0  TB,
+pulmonary† This class includes applicants with TB diagnosed by the panel physician or
+who  were  seen  by  the  panel  physician  while  receiving  TB  treatment  and  successfully
+completed CDC-defined directly observed treatment (DOT) under the supervision of a
+panel  physician  before  immigration.  Class  B1  TB,  pulmonary†  This  class  includes
+applicants  who  have  signs  or  symptoms,  physical  examination,  or  chest  radiograph
+findings  suggestive  of  TB  disease  or  who  have  known  HIV  infection  but  negative
+acid-fast bacillus sputum smears and negative cultures and do not have diagnosed TB
+disease. This classification also includes applicants who have TB disease diagnosed by
+
+the  panel  physician,  have  refused  DOT  treatment,  and  are  returning  after  treatment
+and  completion  of  1-year  wait.  Class  B1  TB,  extrapulmonary  This  class  includes
+applicants with diagnosed extrapulmonary TB who have a normal chest radiograph and
+negative sputum smears and negative cultures. Class B2 TB, latent TB infection (LTBI)
+evaluation  This  class  includes  applicants  who  have  a  positive  IGRA  or  tuberculin  skin
+test  (TST)  but  otherwise  have  a  negative  evaluation  for  TB.  Contacts  with  a  positive
+IGRA  or  TST  of  ≥5  mm  induration  must  receive  this  classification  in  addition  to  a
+classification of class B3, contact evaluation (if they are not already classified as class
+B0 TB, pulmonary; class B1 TB, pulmonary; class B1 TB, extrapulmonary; or class A TB).
+Class B3 TB, contact evaluation This class includes applicants who are a recent contact
+of a person with known TB disease, regardless of IGRA or TST results. If the IGRA or TST
+results  are  positive  and  no  evidence  of  TB  disease  exists,  the  applicant  has  two
+classifications: class B2 and class B3; if results are negative, only class B3 applies. Class
+A  for  syphilis,  gonorrhea,  or  Hansen’s  disease  This  class  includes  applicants  with
+untreated syphilis, gonorrhea, or Hansen’s disease. Class B for syphilis, gonorrhea, or
+Hansen’s disease This class includes applicants who completed treatment for syphilis
+and  gonorrhea  or  at  least  1  week  of  therapy  for  Hansen’s  disease.  Source:  CDC.
+Tuberculosis technical instructions for panel physicians. Atlanta, GA: US Department of
+Health
+ and
+ Human
+ Services,
+CDC. https://www.cdc.gov/immigrantrefugeehealth/exams/ti/panel/tuberculosis-panel-te
+chnical-instructions.html * No TB classification means that TB disease was ruled out at
+the time of the examination but does not necessarily mean that LTBI has been ruled out
+because testing for immune reactivity to Mycobacterium tuberculosis is not required for
+most adults. On the basis of LTBI prevalence in their countries of origin, many adults
+who  meet  criteria  for  no  TB  classification  likely  have  LTBI.  †  Before  October  1,  2018,
+applicants  who  met  criteria  for  class  B0  or  B1  TB,  pulmonary,  were  aggregated,  with
+both  referred  to  as  class  B1  TB,  pulmonary.  This  report  uses  the  disaggregated
+
+classifications,  determined  retroactively,  throughout.  Top    Tuberculosis  (TB)  In
+countries with a World Health Organization (WHO)-estimated TB incidence of ≥20 cases
+per 100,000 population, applicants aged 2–14 years must receive an interferon-gamma
+release assay (IGRA) and, if the result is positive, chest radiography. In countries with
+<20  cases  per  100,000  population,  applicants  aged  <15  years  who  have  signs  or
+symptoms suggestive of TB disease and those who disclose HIV infection must receive
+an  IGRA  and  chest  radiography.  (Testing  for  HIV  infection  is  not  required.)  Before
+October 1, 2018, tuberculin skin tests were also allowed as an alternative to IGRAs. In
+all countries, regardless of TB incidence, applicants aged ≥15 years must have chest
+radiography,  and  applicants  of  any  age  who  have  signs,  symptoms,  or  chest
+radiographs suggestive of TB or known HIV infection must provide sputum specimens
+on 3 consecutive days for acid-fast bacilli smear microscopy, culture (solid and liquid)
+for  Mycobacterium  tuberculosis,  and,  if  culture-positive,  drug  susceptibility  testing.
+Syphilis  and  gonorrhea  During  the  study  period,  applicants  aged  ≥15  years  were
+required to receive testing for syphilis and gonorrhea, and those aged <15 years were
+required to receive testing if infection was suspected or if they had a history of syphilis
+or gonorrhea. For syphilis, a nontreponemal serologic test must be used first. Positive or
+reactive  results  must  be  confirmed  by  a  treponemal  test.  For  gonorrhea,  beginning
+October 1, 2016, applicants must receive a nucleic acid amplification test or gonococcal
+culture; in 2017, the use of culture as a screening option was discontinued. Laboratory
+testing for gonorrhea was not required before 2016. In 2021, after the study period, the
+age requirements for testing were narrowed to 18–44 years for syphilis and 18–24 years
+for  gonorrhea.  Applicants  of  any  age  must  still  be  tested  if  infection  is  suspected.
+Hansen’s disease All applicants must receive a clinical evaluation for Hansen’s disease.
+Diagnoses follow the WHO categorization scheme.* Source: CDC. Tuberculosis technical
+instructions  for  panel  physicians.  Atlanta,  GA:  US  Department  of  Health  and  Human
+Services,
+
+CDC. https://www.cdc.gov/immigrantrefugeehealth/exams/ti/panel/tuberculosis-panel-te
+chnical-instructions.html * World Health Organization. Classification of leprosy. Geneva,
+Switzerland:
+ World
+ Health
+ Organization;
+ 2018.
+https://www.who.int/news-room/fact-sheets/detail/leprosy  Top  Abbreviations:  EDN  =
+Electronic Disease Notification; IOM = International Organization for Migration. * Data
+for  immigrants  who  arrived  before  2018  follow  the  left  pathway.  In  2018,  CDC  in
+collaboration  with  U.S.  Department  of  State  launched  the  U.S.  version  of  a  system
+called  eMedical  for  processing  overseas  medical  examination  data  for  immigrants.
+Panel  physicians  enter  data  directly  into  the  eMedical  system,  which  are  then
+transferred  to  the  EDN  system  within  2  days  of  the  immigrant’s  arrival  in  the  United
+States.  From  2018  onward,  data  for  most  immigrants  are  transferred  to  EDN  via
+eMedical. Data for refugees and most eligible others follow the pathway on the right;
+however, data for certain eligible others follow the left pathway. New-arrival immigrants
+are persons who, while abroad, completed the application process for lawful permanent
+residency in the United States. Refugees are persons unable or unwilling to return to
+their  country  of  nationality  because  of  persecution,  or  a  well-founded  fear  of
+persecution, resulting from their race, religion, nationality, membership in a particular
+social  group,  or  political  opinion.  Eligible  others  are  persons  admitted  from  abroad,
+other  than  refugees,  who  are  eligible  for  services  from  the  Office  of  Refugee
+Resettlement (primarily parolees, Iraqi and Afghan special immigrant visa holders, and
+follow-to-join  asylees).  IOM,  an  intergovernmental  organization,  has  a  special  role  in
+resettlement.  For  refugees  and  many  eligible  others,  IOM  organizes  safe  travel
+(departure  and  arrival  in  the  United  States)  and  transmits  overseas  medical
+examination  data  to  CDC  including,  in  certain  instances,  data  collected  by  non-IOM
+panels.  Top  Abbreviation:  EDN  =  Electronic  Disease  Notification.  *  New-arrival
+immigrants are persons who, while abroad, completed the application process for lawful
+permanent  residency  in  the  United  States.  Publicly  available  U.S.  Department  of
+
+Homeland  Security  data  were  used  to  determine  the  number  new-arrival  immigrants
+without  EDN  data  (US  Department  of  Homeland  Security.  Legal  immigration  and
+adjustment  of  status  report  quarterly  data.  Washington,  DC:  US  Department  of
+Homeland
+ Security;
+ 2020.
+https://www.dhs.gov/immigration-statistics/readingroom/special/LIASR). Top * Refugees
+are  persons  unable  or  unwilling  to  return  to  their  country  of  nationality  because  of
+persecution,  or  a  well-founded  fear  of  persecution,  resulting  from  their  race,  religion,
+nationality, membership in a particular social group, or political opinion. Eligible others
+are  persons  admitted  from  abroad,  other  than  refugees,  who  are  eligible  for  services
+from the Office of Refugee Resettlement (primarily parolees, Iraqi and Afghan special
+immigrant visa holders, and follow-to-join asylees). The Electronic Disease Notification
+system  collects  data  for  all  refugees  and  eligible  others.  Top  Abbreviations:  LTBI  =
+latent tuberculosis infection; TB = tuberculosis.
+*  Eligible  others  are  persons  admitted  from  abroad,  other  than  refugees,  who  are
+eligible for services from the Office of Refugee Resettlement (primarily parolees, Iraqi
+and Afghan special immigrant visa holders, and follow-to-join asylees).
+† See Box 1 for classification criteria.
+§ Final TB classifications are mutually exclusive with two exceptions: 1) applicants may
+be  simultaneously  categorized  as  class  B1  TB,  pulmonary,  and  class  B1  TB,
+extrapulmonary, and 2) applicants may be simultaneously categorized as class B3 TB,
+contact  evaluation,  and  any  other  classifications.  Therefore,  the  number  of
+classifications might be greater than the number of persons with classifications.
+¶  Nationalities  are  listed  in  order  of  the  top  30  birth  countries  (excluding  the  United
+States  and  its  territories)  for  TB  cases  reported  to  the  U.S.  National  TB  Surveillance
+System  in  2019.  Top  *  U.S.  territories  and  freely  associated  states  are  not  shown.  †
+New-arrival  immigrants  are  persons  who,  while  abroad,  completed  the  application
+process  for  lawful  permanent  residency  in  the  United  States.  Refugees  are  persons
+
+unable or unwilling to return to their country of nationality because of persecution, or a
+well-founded  fear  of  persecution,  resulting  from  their  race,  religion,  nationality,
+membership in a particular social group, or political opinion. Eligible others are persons
+admitted from abroad, other than refugees, who are eligible for services from the Office
+of  Refugee  Resettlement  (primarily  parolees,  Iraqi  and  Afghan  special  immigrant  visa
+holders,  and  follow-to-join  asylees).  §  See  Box  1  for  classification  criteria.  Top
+Abbreviations: LTBI = latent tuberculosis infection; TB = tuberculosis.
+*  Eligible  others  are  persons  admitted  from  abroad,  other  than  refugees,  who  are
+eligible for services from the Office of Refugee Resettlement (primarily parolees, Iraqi
+and Afghan special immigrant visa holders, and follow-to-join asylees).
+† See Box 1 for classification criteria.
+§ Persons who completed a U.S. examination within the first year of arrival.
+¶ U.S. territories and freely associated states are not shown.
+**  In  2014  and  2015,  notifications  were  substantially  delayed  for  newly  arriving
+immigrants with class B TB who reported intending to live in New York. These delays
+might have resulted in losses to follow-up and decreased the proportion of persons who
+completed  a  U.S.  examination  in  this  state.  Top  Abbreviations:  LTBI  =  latent
+tuberculosis infection; TB = tuberculosis.
+*  Eligible  others  are  persons  admitted  from  abroad,  other  than  refugees,  who  are
+eligible for services from the Office of Refugee Resettlement (primarily parolees, Iraqi
+and Afghan special immigrant visa holders, and follow-to-join asylees).
+† See Box 1 for classification criteria.
+§ Persons who completed a U.S. examination within the first year of arrival.
+¶ U.S. territories and freely associated states are not shown.
+**  In  2014  and  2015,  notifications  were  substantially  delayed  for  newly  arriving
+immigrants with class B TB who reported intending to live in New York. These delays
+might have resulted in losses to follow-up and decreased the proportion of persons who
+
+completed a U.S. examination in this state. Top * Eligible others are persons admitted
+from  abroad,  other  than  refugees,  who  are  eligible  for  services  from  the  Office  of
+Refugee  Resettlement  (primarily  parolees,  Iraqi  and  Afghan  special  immigrant  visa
+holders, and follow-to-join asylees).
+†  Requirement  for  reporting  syphilis  stage  was  introduced  in  2014.  For  persons  who
+arrived before 2015, data on syphilis stage are incomplete, and this group is excluded
+from  counts  and  rate  calculations  for  primary,  secondary,  and  latent  syphilis  but
+included in counts and rate calculations for all syphilis.
+§ Requirement for laboratory testing for gonorrhea was introduced in 2016. For persons
+who were examined before 2018, data for laboratory-confirmed gonorrhea infection are
+incomplete, and this group is excluded from counts and rate calculations for gonorrhea.
+¶  Includes  48  syphilis  cases  staged  as  primary,  six  as  secondary,  761  as  latent  or
+missing, 205 as unstaged in 2014, four as tertiary, and one as neurosyphilis.
+** Per 100,000 persons. Syphilis testing was not documented for 5.1% of persons aged
+≥15 years. Persons not tested are excluded from all rate calculations.
+††  Per  100,000  persons.  Gonorrhea  testing  was  not  documented  for  1.7%  of  persons
+aged ≥15 years examined during 2018–2019. Persons not tested are excluded from all
+rate calculations.
+§§ Includes 513 syphilis cases staged as latent and 248 of unknown duration.
+¶¶  Testing  for  syphilis  and  gonorrhea  are  not  required  for  children  aged  <15  years
+unless  infection  is  suspected  or  the  child  has  a  history  of  syphilis  or  gonorrhea.  Top
+Suggested citation for this article: Phares CR, Liu Y, Wang Z, et al. Disease Surveillance
+Among U.S.-Bound Immigrants and Refugees — Electronic Disease Notification System,
+United  States,  2014–2019.  MMWR  Surveill  Summ  2022;71(No.  SS-2):1–21.  DOI:
+http://dx.doi.org/10.15585/mmwr.ss7102a1. 
+MMWR  and  Morbidity  and  Mortality  Weekly  Report  are  service  marks  of  the  U.S.
+Department of Health and Human Services.
+
+Use of trade names and commercial sources is for identification only and does not imply
+endorsement by the U.S. Department of 
+Health and Human Services. References to non-CDC sites on the Internet are 
+provided as a service to MMWR readers and do not constitute or imply 
+endorsement of these organizations or their programs by CDC or the U.S. 
+Department of Health and Human Services. CDC is not responsible for the content 
+of pages found at these sites. URL addresses listed in MMWR were current as of 
+the  date  of  publication.  All  HTML  versions  of  MMWR  articles  are  generated  from  final
+proofs through an automated process. 
+This  conversion  might  result  in  character  translation  or  format  errors  in  the  HTML
+version. 
+Users are referred to the electronic PDF version (https://www.cdc.gov/mmwr) 
+and/or the original MMWR paper copy for printable versions of official text, figures, and
+tables. 
+ Questions or messages regarding errors in formatting should be addressed to 
+mmwrq@cdc.gov.
+
+Source URL: https://www.cdc.gov/mmwr/volumes/71/ss/ss7102a1.htm

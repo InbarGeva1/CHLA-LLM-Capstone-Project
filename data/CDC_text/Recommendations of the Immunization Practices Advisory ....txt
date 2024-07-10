@@ -1,0 +1,536 @@
+Persons using assistive technology might not be able to fully access information in this
+file. For assistance, please send e-mail to: mmwrq@cdc.gov. Type 508 Accommodation
+and the title of the report in the subject line of e-mail. Transmission of hepatitis B virus
+(HBV) from mother to infant
+during the perinatal period represents one of the most efficient
+ modes
+of HBV infection and often leads to severe long-term sequelae.
+ Infants
+born to mothers positive for hepatitis B surface antigen (HBsAg)
+ and
+hepatitis B "e" antigen (HBeAg) have a 70%-90% chance of acquiring
+perinatal HBV infection, and 85%-90% of infected infants will
+ become
+chronic HBV carriers (1,2). It has been estimated that more than
+ 25%
+of these carriers will die from primary hepatocellular carcinoma
+ or
+cirrhosis of the liver (3). These deaths usually occur during
+adulthood, when familial and financial responsibilities make them
+particularly devastating. In the United States, an estimated
+ 16,500
+births occur to HBsAg-positive women each year (about 4,300 of
+ whom
+are also HBeAg- positive), and approximately 3,500 of these
+ infants
+become chronic HBV carriers. Prenatal screening of all pregnant
+
+ women
+would identify those who are HBsAg- positive and thus would allow
+treatment of their newborns with hepatitis B immune globulin
+ (HBIG)
+and hepatitis B (HB) vaccine, a regimen that is 85%-95% effective
+ in
+preventing the development of the HBV chronic carrier state
+ (2,4-6).  In 1984, the Immunization Practices Advisory Committee (ACIP)
+recommended that pregnant women in certain groups at high risk for
+ HBV
+infection be screened for HBsAg during a prenatal visit and, if
+ found
+to be HBsAg-positive, that their newborns receive HBIG and HB
+ vaccine
+at birth (7). No data are available regarding the proportion of
+high-risk women currently being screened in clinical practice, but
+several studies and the experience of public health workers
+ indicate
+that major problems have been encountered in implementing these
+recommendations (8-12). These include 1) concerns about the
+sensitivity, specificity, and practicality of the current ACIP
+guidelines for identifying HBV carrier mothers; 2) lack of
+ knowledge
+among prenatal health-care providers about the risks of perinatal
+transmission of HBV and about recommended screening and treatment
+procedures; 3) poor coordination among medical-care workers who
+
+provide treatment and follow-up of mothers and infants; and 4)
+ refusal
+of some public and private third-party payers to reimburse for HBV
+screening of pregnant women and treatment of their infants. In
+addition, concern has been expressed that these recommendations
+ may
+not be practical or applicable in some U.S. jurisdictions where
+ HBV
+infection is highly endemic, such as parts of Alaska and certain
+Pacific Islands.  The problems encountered in implementing the currently
+ recommended
+strategy of screening high-risk women have been examined by a
+ number
+of investigators. Recent studies in several large inner-city
+hospitals, where all pregnant women were tested for HBsAg, have
+ found
+that only about 35%-65% of HBsAg-positive mothers would have been
+identified by following the current ACIP guidelines (8-12). In
+ these
+studies, the prevalence of HBsAg in inner-city black (0.4%-1.5%)
+ and
+Hispanic women was higher than expected. Several investigators
+expressed concern that many health-care providers are too busy or
+ may
+be reluctant to obtain the sexual and drug-use history necessary
+ to
+
+identify high-risk patients for screening. In addition, persons
+providing health care to pregnant women often are not aware of the
+risks of perinatal transmission of HBV and of the recommended
+screening and treatment guidelines. In one study, 40% of
+ obstetricians
+could name no more than two groups at high risk for HBV infection,
+ and
+only 28% knew the recommended treatment for infants born to HBV
+carrier mothers (CDC, unpublished data).  Given these limitations, it is now evident that
+routine
+ screening
+of all pregnant women is the only strategy that will provide
+acceptable control of perinatal transmission of HBV infection in
+ the
+United States. Screening the approximately 3.5 million pregnant
+ women
+per year for HBsAg would identify 16,500 positive women and allow
+treatment that would prevent about 3,500 infants from becoming HBV
+carriers. Recent studies also indicate that the costs and benefits
+ of
+universal testing of mothers are comparable to those encountered
+ in
+other widely implemented programs of prenatal and blood-donor
+screening (13,14). The cost of an HBsAg test ranges from an
+ estimated
+
+$3.50 per test in blood-bank laboratories to $21.00 per test in
+private commercial laboratories. If one assumes an average
+ screening
+cost ranging from $12.00 to $20.00 per test plus $150.00 for the
+ HBIG
+and vaccine needed to treat each infant of an HBsAg-positive
+ mother,
+the cost to prevent one newborn infant from becoming a chronic HBV
+carrier would be between $12,700 and $20,700.  HBsAg testing should be done early in
+pregnancy when other
+ routine
+prenatal testing is done. The HBsAg test is widely available and
+ can
+be added to the routine prenatal "panel" of tests without
+ requiring
+additional patient visits. The advantages of making HBsAg testing
+routine during early pregnancy include 1) the ability to identify
+ HBV
+carrier mothers that is not dependent on the health-care
+ provider's
+identifying high-risk women or ordering HBsAg as a special test;
+ 2)
+the availability of test results before delivery so that infants
+ can
+receive HBIG and vaccine without delay after birth; and 3)
+ appropriate
+
+counseling of families before delivery (15).  Because more than 90% of women found to
+be HBsAg-positive on
+routine screening will be HBV carriers, routine follow-up testing
+later in pregnancy is not necessary for the purpose of screening.
+ In
+special situations, such as when the mother is thought to have
+ acute
+hepatitis, when there has been a history of exposure to hepatitis,
+ or
+when particularly high-risk behavior such as parenteral drug abuse
+ has
+occurred during the pregnancy, an additional HBsAg test can be
+ ordered
+during the third trimester. Few women in populations at low risk
+ for
+HBV infection will have a change in HBsAg status during subsequent
+pregnancies. However, because of the expected benefits of making
+ HBsAg
+testing a routine part of each prenatal panel, testing should be
+ done
+during each pregnancy.  Women who present for delivery without prenatal care or
+ without
+medical records documenting the results of HBsAg screening should
+ have
+the HBsAg test done as soon as possible after admission, since
+ delay
+
+in administration of HBIG to infants of carrier mothers will
+ decrease
+the efficacy of therapy. In the studies that demonstrated the
+ highest
+efficacy (85%-95%) of combined HBIG and HB vaccine prophylaxis,
+ HBIG
+was administered within 2-12 hours after birth (2,4-6). In one
+ study
+in which only HBIG was used for prophylaxis, no efficacy was found
+ if
+HBIG was given more than 7 days after birth, and a significant
+decrease in efficacy was observed if it was given more than 48
+ hours
+after birth (16). Only one-third of U.S. hospitals currently
+ perform
+the HBsAg test as an in-house procedure, and many of these have
+technicians who are trained to do the test available on only one
+shift. Hospitals that cannot rapidly test for HBsAg should either
+develop this capability or arrange for testing to be done at a
+ local
+laboratory or blood bank where test results can be obtained within
+ 24
+hours.  The commercially available HBsAg tests have an extremely high
+sensitivity and specificity if positive tests are repeated and
+confirmed by neutralization as recommended by the manufacturers of
+ the
+reagent kits. Testing for other markers of HBV infection, such as
+
+HBeAg, is not necessary for maternal screening. Mothers who are
+positive for both HBsAg and HBeAg have the highest likelihood of
+transmitting HBV to their newborns. However, infants of mothers
+ who
+are HBsAg-positive but HBeAg- negative may become infected and
+ develop
+severe, even fatal, fulminant hepatitis B during infancy (17,18).
+ For
+this reason, HBIG and HB vaccine treatment of all babies born to
+HBsAg-positive  women  is  recommended.   HBsAg-positive  mothers  identified  during
+screening may have
+HBV-related acute or chronic liver disease and should be evaluated
+ by
+a physician. Identification of women who are HBV carriers through
+prenatal screening presents an opportunity to vaccinate
+ susceptible
+household members and sexual partners of HBV carriers, as
+ previously
+recommended (19). Screening and vaccination of susceptible
+ contacts
+should be done by the family's pediatrician, primary health-care
+provider, or the physician evaluating the clinical status of the
+HBsAg-positive pregnant women.  Implementation of the recommendations to prevent
+perinatal
+transmission requires maternal screening, treatment of the newborn
+ in
+the hospital, and administration of subsequent doses of HB vaccine
+
+ to
+the infant during pediatric visits at 1 and 6 months of age. This
+multistep process requires effective transfer of information among
+several groups of health-care providers, knowledge of recommended
+treatment, and availability of HBIG and vaccine at separate
+facilities. Treatment failures due to lack of communication among
+health-care providers can occur, especially in situations where
+prenatal, obstetric, and pediatric care are provided in different
+facilities (20). Central coordination of the treatment of these
+infants by city, county, or state health departments would improve
+ the
+education of the health-care providers involved and increase the
+likelihood  that  proper  treatment  is  provided.   In  certain  populations  under  U.S.
+jurisdiction, including
+ Alaskan
+Natives and Pacific Islanders, as well as in many other parts of
+ the
+world, HBV infection is highly endemic in the general population,
+ and
+transmission occurs primarily during childhood (21). In such
+ groups,
+universal vaccination of newborns with HB vaccine is recommended
+ to
+prevent disease transmission both during the perinatal period and
+during childhood. Several studies have shown that HB vaccine given
+
+without HBIG will prevent 70%-85% of perinatal HBV infections and
+ 95%
+of early childhood infections (22,23). In many of these areas with
+highly endemic HBV infection, prenatal screening is impractical
+because the population is isolated, laboratory facilities are not
+available, and/or health-care budgets and personnel are limited.
+ In
+these areas, control of HBV infection can be better achieved by
+directing available resources into programs to vaccinate all
+ children
+with HB vaccine. Programs for screening all mothers for HBsAg and
+providing HBIG to infants born to carrier mothers are costly and
+ will
+add only modestly to disease prevention. They should be considered
+only after the program for universal vaccination of children has
+ been
+implemented.  RECOMMENDATIONS  All pregnant women should be routinely tested for
+HBsAg during
+ an
+early prenatal visit in each pregnancy. This testing should be
+ done at
+the same time that other routine prenatal screening tests are
+ ordered.
+In special situations, such as when acute hepatitis is suspected,
+ when
+
+there has been a history of exposure to hepatitis, or when the
+ mother
+has a particularly high-risk behavior such as intravenous drug
+ abuse,
+an additional HBsAg test can be ordered later in the pregnancy.  If a woman has not
+been screened prenatally or if test results
+ are
+not available at the time of admission for delivery, HBsAg testing
+should be done at the time of admission, or as soon as possible
+thereafter. If the mother is identified as HBsAg- positive more
+ than 1
+month after giving birth, the infant should first be tested for
+ HBsAg;
+if negative, the infant should be treated with HBIG and HB
+ vaccine.
+Hospitals where infants are delivered should have HBsAg testing
+capabilities or should be able to obtain HBsAg results within 24
+ hours
+from a local laboratory.  If a serum specimen is positive for HBsAg, the same specimen
+should be tested again, and then the test results should be
+ confirmed
+by neutralization. It is unnecessary to test for other HBV markers
+during maternal screening, although HBsAg- positive mothers
+ identified
+during screening may have HBV-related acute or chronic liver
+
+ disease
+and  should  be  evaluated  by  their  physician.   Infants  born  to  HBsAg-positive  mothers
+should receive HBIG
+ (0.5
+mL) intramuscularly (IM) once they are physiologically stable,
+preferably within 12 hours after birth. HB vaccine, either
+plasma-derived (10 *gmg per dose) or recombinant (5 *gmg per
+ dose),
+should be administered IM in three doses of 0.5 mL each. The first
+dose should be given concurrently with HBIG but at a different
+ site.
+If vaccine is not immediately available, the first dose can be
+ given
+within 7 days after birth. The second and third doses should be
+ given
+1 month and 6 months after the first. Testing the infant for HBsAg
+ and
+its antibody (anti-HBs) is recommended at 12-15 months of age to
+monitor the effectiveness of therapy. If HBsAg is not detectable
+ and
+anti-HBs is present, the child can be considered protected.
+ Testing
+for antibody to hepatitis B core antigen (anti-HBc) is not useful,
+since maternal anti-HBc can persist for more than a year. HBIG and
+ HB
+
+vaccination do not interfere with the routine childhood
+ immunizations.  Household members and sexual partners of HBV carriers
+ identified
+through prenatal screening should be tested to determine
+susceptibility to HBV infection and, if susceptible, should
+ receive HB
+vaccine. Screening and vaccination of susceptible contacts should
+ be
+done by the family's pediatrician, primary health-care provider,
+ or
+the physician evaluating the clinical status of the HBsAg-positive
+pregnant women.  Obstetric and pediatric staff should be notified directly
+ about
+HBsAg-positive mothers so that the neonate can receive therapy
+ without
+delay after birth and follow-up doses of vaccine can be given.
+Hospitals, as well as state, county, and city health departments,
+should establish programs to educate appropriate health-care
+ providers
+about perinatal transmission of HBV and its control through
+ maternal
+screening, treatment of infants, and vaccination of susceptible
+household  and  sexual  contacts  of  HBV  carrier  women.   Programs  to  coordinate  the
+activities of those providing
+ prenatal
+care, hospital- based obstetrical services, and pediatric
+
+ well-baby
+care must be established to assure proper follow-up and treatment
+ of
+infants born to HBsAg-positive mothers and other susceptible
+ household
+and sexual contacts.  In populations under U.S. jurisdiction in which hepatitis B
+infection is highly endemic, including certain Alaskan Native and
+Pacific Island groups, vaccination of all newborns with HB vaccine
+ is
+the most effective strategy for HB control. In these populations,
+ such
+vaccination programs should be given highest priority. In areas
+ where
+HBsAg screening of mothers and use of HBIG in infants born to HBV
+carrier mothers are not practical, the vaccination of all newborns
+with HB vaccine should be considered the appropriate treatment.
+Editorial Note:   Hepatitis B vaccine is the first human vaccine
+ that
+can prevent both serious chronic disease and a uniformly fatal
+ type of
+cancer. These recommendations, developed in consultation with
+representatives of the American College of Obstetricians and
+Gynecologists and the American Academy of Pediatrics, represent a
+major step toward control of perinatal hepatitis B transmission in
+ the
+United States. Programs for universal screening of pregnant women
+
+ are
+currently in progress in Hawaii, certain Canadian provinces,
+ Italy,
+West Germany, New Zealand, Australia, and Japan. More extensive
+ infant
+HB vaccination programs are in progress in Alaska, American Samoa,
+Korea, Taiwan, Singapore, and the People's Republic of China. A
+ number
+of U.S. health-care facilities have already begun to screen all
+pregnant women for HBsAg.  State and local health departments can facilitate
+ implementation
+of these recommendations by 1) working to assure that all women
+receiving prenatal care in both public and private sector programs
+ are
+offered screening and appropriate treatment; 2) working to assure
+ that
+costs of screening and treatment are covered by public and private
+third-party payers; 3) establishing programs to coordinate the
+transfer of information between prenatal, obstetric, and pediatric
+health-care providers; and 4) providing health education about
+hepatitis B to the public and to health-care providers. CDC will
+continue to work with state and local health agencies and
+ professional
+associations in hepatitis B prevention and control.
+
+References  
+    Stevens CE, Beasley RP, Tsui J, Lee W-C. Vertical transmission
+ of
+    hepatitis B antigen in Taiwan. N Engl J Med 1975;292:771-4.  
+    Stevens CE, Toy PT, Tong MJ, et al. Perinatal hepatitis B
+ virus
+    transmission in the United States: prevention by
+ passive-active
+    immunization. JAMA 1985;253:1740-5.  
+    Beasley RP, Hwang L-Y. Epidemiology of hepatocellular
+ carcinoma.
+    In: Vyas GN, Dienstag JL, Hoofnagle JH, eds. Viral hepatitis
+ and
+    liver disease. Orlando, Florida: Grune & Stratton,
+ 1984:209-24.  
+    Beasley RP, Hwang L-Y, Lee GC-Y, et al. Prevention of
+ perinatally
+    transmitted hepatitis B virus infections with hepatitis B
+ immune
+    globulin and hepatitis B vaccine. Lancet 1983;2:1099-102.  
+    Wong VCW, Ip HMH, Reesink HW, et al. Prevention of the HBsAg
+    carrier state in newborn infants of mothers who are chronic
+    carriers of HBsAg and HBeAg by administration of hepatitis-B
+    vaccine and hepatitis-B immunoglobulin: double-blind
+ randomised
+    placebo- controlled study. Lancet 1984;1:921-6.  
+    Stevens CE, Taylor PE, Tong MJ, et al. Yeast-recombinant
+
+ hepatitis
+    B vaccine: efficacy with hepatitis B immune globulin in
+ prevention
+    of perinatal hepatitis B virus transmission. JAMA
+ 1987;257:2612-6.  
+    Immunization Practices Advisory Committee. Postexposure
+    prophylaxis of hepatitis B. MMWR 1984;33:285-90.  
+    Kumar ML, Dawson NV, McCullough AJ, et al. Should all pregnant
+    women be screened for hepatitis B? Ann Intern Med
+ 1987;107:273-7.  
+    Jonas MM, Schiff ER, O'Sullivan MJ, et al. Failure of Centers
+ for
+    Disease Control criteria to identify hepatitis B infection in
+ a
+    large municipal obstetrical population. Ann Intern Med
+    1987;107:335-7.  
+    Summers PR, Biswas MK, Pastorek JG II, Pernoll ML, Smith LG,
+ Bean
+    BE. The pregnant hepatitis B carrier: evidence favoring
+    comprehensive antepartum screening. Obstet Gynecol
+ 1987;69:701-4.  
+    Wetzel AM, Kirz DS. Routine hepatitis screening in adolescent
+    pregnancies: is it cost effective? Am J Obstet Gynecol
+    1987;156:166-9.  
+    Delage G, Montplaisir S, Raemy-Prince S, Pierri E. Hepatitis B
+
+    Virus Immunization Study Group. Prevalence of hepatitis B
+ virus
+    infection in pregnant women in the Montreal area. Can Med
+ Assoc J
+    1986;134:897-901.  
+    Arevalo JA, Washington AE. Cost-effectiveness of prenatal
+    screening and immunization for hepatitis B virus. JAMA
+    1988;259:365-9.  
+    Kane MA, Hadler SC, Margolis HS, Maynard JE. Routine prenatal
+    screening for hepatitis B surface antigen. JAMA
+ 1988;259:408-9.  
+    Hershow RC, Hadler SC, Kane MA. Adoption of children from
+    countries with endemic hepatitis B: transmission risks and
+ medical
+    issues. Pediatr Infect Dis 1987;6:431-7.  
+    Beasley RP, Stevens CE. Vertical transmission of HBV and
+    interruption with globulin. In: Vyas GN, Cohen SN, Schmid R,
+ eds.
+    Viral hepatitis: a contemporary assessment of etiology,
+    epidemiology, pathogenesis and prevention. Philadelphia:
+ Franklin
+    Institute Press, 1978:333-45.  
+    Sinatra FR, Shah P, Weissman JY, Thomas DW, Merritt RJ, Tong
+ MJ.
+    Perinatal transmitted acute icteric hepatitis B in infants
+ born to
+    hepatitis B surface antigen-positive and anti- hepatitis
+
+    Be-positive carrier mothers. Pediatrics 1982;70:557-9.  
+    Delaplane D, Yogev R, Crussi F, Shulman ST. Fatal hepatitis B
+ in
+    early infancy: the importance of identifying HBsAg-positive
+    pregnant women and providing immunoprophylaxis to their
+ newborns.
+    Pediatrics 1983;72:176-80.  
+    Immunization Practices Advisory Committee. Recommendations for
+    protection against viral hepatitis. MMWR
+ 1985;34:313-24,329-35.  
+    Klontz KC. A program to provide hepatitis B immunoprophylaxis
+ to
+    infants born to HBsAg-positive Asian and Pacific Island women.
+    West J Med 1987;146:195-9.  
+    McMahon BJ, Rhoades ER, Heyward WL, et al. A comprehensive
+    programme to reduce the incidence of hepatitis B virus
+ infection
+    and its sequelae in Alaskan Natives. Lancet 1987;2:1134-6.  
+    Xu Z-Y, Liu C-B, Francis DP, et al. Prevention of perinatal
+    acquisition of hepatitis B virus carriage using vaccine:
+    preliminary report of a randomized, double-blind
+    placebo-controlled and comparative trial. Pediatrics
+    1985;76:713-8.  
+    Coursaget P, Yvonnet B, Chotard J, et al. Seven-year study of
+    hepatitis B vaccine efficacy in infants from an endemic area
+
+    (Senegal). Lancet 1986;2:1143-5.  
+Disclaimer
+   All MMWR HTML documents published before January 1993 are electronic conversions
+from ASCII text into HTML.  This conversion may have resulted in character translation
+or format errors in the HTML version.  Users should not rely on this HTML document, but
+are referred to the original MMWR paper copy for the official text, figures, and tables. 
+An  original  paper  copy  of  this  issue  can  be  obtained  from  the  Superintendent  of
+Documents,  U.S.  Government  Printing  Office  (GPO),  Washington,  DC  20402-9371;
+telephone: (202) 512-1800. Contact GPO for current prices. Page converted: 08/05/98 
+    HOME  |  
+    ABOUT MMWR  | 
+    MMWR SEARCH  | 
+    DOWNLOADS  | 
+    RSS 
+    |  
+    CONTACT
+POLICY  |  
+    DISCLAIMER  |  
+    ACCESSIBILITY 
+Morbidity and Mortality Weekly Report
+                Centers for Disease Control and Prevention
+                1600 Clifton Rd, MailStop E-90, Atlanta, GA 
+                  30333, U.S.A 
+
+Department of Healthand Human Services This page last reviewed 5/2/01 
+ 
+
+Source URL: https://www.cdc.gov/mmwr/preview/mmwrhtml/00000036.htm

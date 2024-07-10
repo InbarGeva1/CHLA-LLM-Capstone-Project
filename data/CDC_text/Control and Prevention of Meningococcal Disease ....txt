@@ -1,0 +1,544 @@
+Persons using assistive technology might not be able to fully access information in this
+file. For assistance, please send e-mail to: mmwrq@cdc.gov. Type 508 Accommodation
+and  the  title  of  the  report  in  the  subject  line  of  e-mail.  Summary   These
+recommendations update information regarding the
+polysaccharide vaccine licensed in the United States for use
+against disease caused by Neisseria meningitidis serogroups A, C,
+Y, and W-135, as well as antimicrobial agents for chemoprophylaxis
+against meningococcal disease (superseding MMWR 1985;34:255-9).
+This report provides additional information regarding
+meningococcal vaccines and the addition of ciprofloxacin and
+ceftriaxone as acceptable alternatives to rifampin for
+chemoprophylaxis  in  selected  populations.   INTRODUCTION   Neisseria  meningitidis
+causes both endemic and epidemic
+disease, principally meningitis and meningococcemia (1). As a
+result of the control of Haemophilus influenzae type b infections,
+N. meningitidis has become the leading cause of bacterial
+meningitis in children and young adults in the United States, with
+an estimated 2,600 cases each year (2). The case-fatality rate is
+13% for meningitic disease (defined as the isolation of N.
+meningitidis from cerebrospinal fluid) and 11.5% for persons who
+have N. meningitidis isolated from blood (2), despite therapy with
+antimicrobial agents (e.g., penicillin) to which U.S. strains
+remain  clinically  sensitive  (3).   The  incidence  of  meningococcal  disease  peaks  in  late
+winter
+to early spring. Attack rates are highest among children 3-12
+months of age and then steadily decline among older age groups
+(Figure_1). Based on multistate surveillance conducted during
+
+1989-1991, serogroup B organisms accounted for 46% of all cases
+and serogroup C for 45%; serogroups W-135 and Y and strains that
+could not be serotyped accounted for most of the remaining cases
+(2). Recent data indicate that the proportion of cases caused by
+serogroup Y strains is increasing (4). Serogroup A, which rarely
+causes disease in the United States, is the most common cause of
+epidemics in Africa and Asia. In the United States, localized
+community outbreaks of serogroup C disease and a statewide
+serogroup  B  epidemic  have  recently  been  reported  (5,6).   Persons  who  have  certain
+medical conditions are at increased
+risk for developing meningococcal infection. Meningococcal disease
+is particularly common among persons who have component
+deficiencies in the terminal common complement pathway (C3, C5-C9);
+many of these persons experience multiple episodes of
+infection (6). Asplenic persons also may be at increased risk for
+acquiring meningococcal disease with particularly severe
+infections (8). Persons who have other diseases associated with
+immunosuppression (e.g., human immunodeficiency virus {HIV} and
+Streptococcus pneumoniae) may be at higher risk for acquiring
+meningococcal disease and for disease caused by some other
+encapsulated bacteria. Evidence suggests that HIV-infected persons
+are not at substantially increased risk for epidemic serogroup A
+meningococcal disease (9); however, such patients may be at
+increased risk for sporadic meningococcal disease or disease
+caused by other meningococcal serogroups (10). Previously,
+military recruits had high rates of meningococcal disease,
+
+particularly serogroup C disease; however, since the initiation of
+routine vaccination of recruits with the bivalent A/C
+meningococcal vaccine in 1971, the high rates of meningococcal
+disease caused by those serogroups have decreased substantially
+and cases occur infrequently (11). Military recruits now routinely
+receive  the  quadrivalent  A,C,Y,  W-135  meningococcal  vaccine.   MENINGOCOCCAL
+POLYSACCHARIDE  VACCINE   The  quadrivalent  A,C,Y,W-135  vaccine  (Menomune
+-A,C,Y,W-135,
+manufactured by Connaught Laboratories, Inc.) is the formulation
+currently available in the United States. The recommended dose of
+vaccine is a single 0.5-mL subcutaneous injection. Each vaccine
+dose consists of 50 ug each of the purified bacterial capsular
+polysaccharides. Menomune is available in single-dose, 10-dose,
+and  50-dose  vials.   Vaccine  Efficacy   The  immunogenicity  and  clinical  efficacy  of  the
+serogroups A
+and C meningococcal vaccines have been well established. The
+serogroup A polysaccharide induces antibody in some children as
+young as 3 months of age, although a response comparable with that
+among adults is not achieved until 4 or 5 years of age; the
+serogroup C component is poorly immunogenic in recipients who are
+less than 18-24 months of age (12,13). The serogroups A and C
+vaccines have demonstrated estimated clinical efficacies of
+ 85%-100%
+in older children and adults and are useful in controlling
+epidemics (9,14-17). Serogroups Y and W-135 polysaccharides are
+safe and immunogenic in adults and in children greater than 2
+years of age (18-21); although clinical protection has not been
+
+documented, vaccination with these polysaccharides induces
+bactericidal antibody. The antibody responses to each of the four
+polysaccharides in the quadrivalent vaccine are serogroup-specific
+and  independent.   Duration  of  Efficacy   Measurable  levels  of  antibodies  against  the
+group A and C
+polysaccharides decrease markedly during the first 3 years
+following a single dose of vaccine (13,22-25). This decrease in
+antibody occurs more rapidly in infants and young children than in
+adults. Similarly, although vaccine-induced clinical protection
+probably persists in schoolchildren and adults for at least 3
+years, the efficacy of the group A vaccine in young children may
+decrease markedly with the passage of time: in a 3-year study,
+efficacy declined from greater than 90% to less than 10% among
+children who were less than 4 years of age at the time of
+vaccination, whereas among children who were greater than or equal
+to 4 years of age when vaccinated, efficacy was 67% 3 years later
+(26).   RECOMMENDATIONS  FOR  USE  OF  MENINGOCOCCAL  VACCINE   Routine
+vaccination of civilians with the quadrivalent
+meningococcal polysaccharide vaccine is not recommended because of
+its relative ineffectiveness in children less than 2 years of age
+(among whom risk for endemic disease is highest) and its
+relatively short duration of protection. However, the
+polysaccharide meningococcal vaccine is useful for controlling
+serogroup  C  meningococcal  outbreaks  (27).   Indications  for  Use   In  general,  use  of
+polysaccharide meningococcal vaccine
+should be restricted to persons greater than or equal to 2 years
+of age; however, children as young as 3 months of age may be
+
+vaccinated to elicit short-term protection against serogroup A
+meningococcal disease (two doses administered 3 months apart
+should be considered for children 3-18 months of age) (28).  Routine vaccination with
+the quadrivalent vaccine is
+recommended for certain high-risk groups, including persons who
+have terminal complement component deficiencies and those who have
+anatomic or functional asplenia. Persons whose spleens have been
+removed because of trauma or nonlymphoid tumors and persons who
+have inherited complement deficiencies have acceptable antibody
+responses to meningococcal vaccine; however, the clinical efficacy
+of vaccination has not been documented for these persons, and they
+may not be protected by vaccination (7,29). Research, industrial,
+and clinical laboratory personnel who routinely are exposed to N.
+meningitidis in solutions that may be aerosolized should be
+considered for vaccination.  Vaccination with the quadrivalent vaccine may benefit
+travelers to and U.S. citizens residing in countries in which N.
+meningitidis is hyperendemic or epidemic, particularly if contact
+with the local populace will be prolonged. Single-dose vials of
+the quadrivalent vaccine are now available and may be more
+convenient than multidose vials for use in international health
+clinics for travelers (30). Epidemics of meningococcal disease are
+recurrent in that part of sub-Saharan Africa known as the
+"meningitis belt," which extends from Senegal in the west to
+Ethiopia in the east (Figure_2) (31). Epidemics in the
+ meningitis
+belt usually occur during the dry season (i.e., from December to
+June); thus, vaccination is recommended for travelers visiting
+
+this region during that time. Epidemics occasionally are
+identified in other parts of the world and recently have occurred
+in Saudi Arabia (during a Haj pilgrimage), Kenya, Tanzania,
+Burundi, and Mongolia. Information concerning geographic areas for
+which vaccination is recommended can be obtained from
+international health clinics for travelers, state health
+departments,  and  CDC  (telephone:  {404}  332-4559).   Primary  Vaccination   For  both
+adults and children, vaccine is administered
+subcutaneously as a single 0.5-mL dose. The vaccine can be
+administered at the same time as other vaccines but at a different
+anatomic site (i.e., deltoid muscle or buttocks). Protective
+levels of antibody are usually achieved within 7-10 days after
+vaccination.  Revaccination  Revaccination may be indicated for persons at high risk for
+infection (e.g., persons remaining in areas in which disease is
+epidemic), particularly for children who were first vaccinated
+when they were less than 4 years of age; such children should be
+considered for revaccination after 2-3 years if they remain at
+high risk. Although the need for revaccination of older children
+and adults has not been determined, antibody levels decline
+rapidly over 2-3 years, and if indications still exist for
+immunization, revaccination may be considered within 3-5 years.  PRECAUTIONS AND
+CONTRAINDICATIONS
+Reactions to Vaccination  Adverse reactions to meningococcal vaccine are mild and
+consist principally of pain and redness at the injection site, for
+1-2 days. Estimates of incidence of mild-to-moderate local
+reactions have varied, ranging from infrequent to greater than 40%
+among vaccine recipients (32,33). Pain at the site of injection is
+
+the most commonly reported adverse reaction, and a transient fever
+might  develop  in  less  than  or  equal  to  2%  of  young  children.   Vaccination  During
+Pregnancy  Studies of vaccination during pregnancy have not documented
+adverse effects among either pregnant women or newborns (34,35).
+In addition, these studies have documented high antibody levels in
+maternal and umbilical cord blood following vaccination during
+pregnancy. Antibody levels in the infants decreased during the
+first few months after birth; subsequent response to meningococcal
+vaccination was not affected (35). These observations have been
+confirmed in more recent studies of other polysaccharide vaccines
+administered during pregnancy (36). Based on data from studies
+involving use of meningococcal vaccines and other polysaccharide
+vaccines administered during pregnancy, altering meningococcal
+vaccination recommendations during pregnancy is unnecessary.  PROSPECTS FOR NEW
+MENINGOCOCCAL VACCINES  To enhance the immunogenicity and protective efficacy of
+A
+and C polysaccharides in infants and young children, methods
+similar to those used for H. influenzae type b conjugate vaccines
+have been applied to produce conjugate serogroups A and C vaccines
+(37,38). Capsular polysaccharides are being covalently linked to
+carrier proteins to convert the T-cell-independent polysaccharide
+to a T-cell-dependent antigen. The efficacy of these vaccines has
+not been evaluated.  Because the serogroup B capsular polysaccharide is poorly
+immunogenic in humans, vaccine development for serogroup B
+meningococci has focused on the outer membrane proteins as
+potential immunogens. The immunogenicity and protective efficacy
+of several outer membrane protein vaccines against several
+
+serogroup B meningococci have been evaluated recently. Evaluation
+of those vaccines documented estimated efficacies ranging from 57%
+to 83% in older children and adults (39-41). However, a subsequent
+study of one of these vaccines did not document efficacy in
+children less than 4 years of age, the group often at highest risk
+for disease (42). None of the currently available serogroup B
+meningococcal  vaccines  are  licensed  for  use  in  the  United  States.   ANTIMICROBIAL
+CHEMOPROPHYLAXIS  Antimicrobial chemoprophylaxis of close contacts of sporadic
+cases of meningococcal disease is the primary means for prevention
+of meningococcal disease in the United States (Table_1). Close
+contacts include a) household members, b) day care center
+contacts, and c) anyone directly exposed to the patient's oral
+secretions (e.g., through kissing, mouth-to-mouth resuscitation,
+endotracheal intubation, or endotracheal tube management). The
+attack rate for household contacts exposed to patients who have
+sporadic meningococcal disease has been estimated to be four cases
+per 1,000 persons exposed, which is 500-800 times greater than for
+the total population (43). Because the rate of secondary disease
+for close contacts is highest during the first few days after
+onset of disease in the primary patient, antimicrobial
+chemoprophylaxis should be administered as soon as possible
+(ideally within 24 hours after the case is identified).
+Conversely, chemoprophylaxis administered greater than 14 days
+after onset of illness in the index case-patient is probably of
+limited or no value. Oropharyngeal or nasopharyngeal cultures are
+not helpful in determining the need for chemoprophylaxis and may
+unnecessarily  delay  institution  of  this  preventive  measure.   Rifampin  is  administered
+
+twice daily for 2 days (600 mg every
+12 hours for adults, 10 mg/kg of body weight every 12 hours for
+children greater than or equal to 1 month of age, and 5 mg/kg
+every 12 hours for infants less than 1 month of age). Rifampin is
+effective in eradicating nasopharyngeal carriage of N.
+meningitidis (44). Rifampin is not recommended for pregnant women,
+because the drug is teratogenic in laboratory animals. Rifampin
+changes the color of urine to reddish-orange and is excreted in
+tears and other body fluids; it may cause permanent discoloration
+of soft contact lenses. Because the reliability of oral
+contraceptives may be affected by rifampin therapy, consideration
+should be given to using alternate contraceptive measures while
+rifampin is being administered.  In addition to rifampin, other antimicrobial agents are
+effective in reducing nasopharyngeal carriage of N. meningitidis.
+Ciprofloxacin in various dosage regimens is greater than 90%
+effective in eradicating nasopharyngeal carriage (45,46). A single
+500-mg oral dose of ciprofloxacin is a reasonable alternative to
+the multidose rifampin regimen. Ciprofloxacin levels in nasal
+secretions far exceed the MIC90 for N. meningitidis following oral
+dosing (47). Ciprofloxacin is not generally recommended for
+persons less than 18 years of age or for pregnant and lactating
+women because the drug causes cartilage damage in immature
+laboratory animals. However, a recent international consensus
+report has concluded that ciprofloxacin can be used for
+chemoprophylaxis of children when no acceptable alternative
+therapy  is  available  (48).   When  ceftriaxone  was  administered  in  a  single  parenteral
+dose
+
+(an intramuscular dose of 125 mg for children and 250 mg for
+adults), it was 97%-100% effective in eradicating pharyngeal
+carriage of N. meningitidis (49,50). Thus, ceftriaxone (diluted in
+1% lidocaine to reduce local pain after injection) is also a
+reasonable  alternative  for  chemoprophylaxis.   Systemic  antimicrobial  therapy  of
+meningococcal disease with
+agents other than ceftriaxone or other third-generation
+cephalosporins may not reliably eradicate nasopharyngeal carriage
+of N. meningitidis. If other agents have been used for treatment,
+the index patient should receive chemoprophylactic antibiotics for
+eradication of nasopharyngeal carriage before being discharged
+from the hospital (51).  CONCLUSIONS  N. meningitidis is the leading cause of bacterial
+meningitis
+in older children and young adults in the United States. The
+quadrivalent A, C, Y, and W-135 meningococcal vaccine available in
+the United States is recommended for control of serogroup C
+meningococcal disease outbreaks and for use among certain
+high-risk groups, including a) persons who have terminal
+complement deficiencies, b) persons who have anatomic or
+functional asplenia, and c) laboratory personnel who routinely are
+exposed to N. meningitidis in solutions that may be aerosolized.
+Vaccination also may benefit travelers to countries in which
+disease is hyperendemic or epidemic. Conjugate serogroup A and C
+meningococcal vaccines are being developed by using methods
+similar to those used for H. influenzae type b conjugate vaccines,
+and the efficacies of several experimental serogroup B
+meningococcal vaccines have been documented in older children and
+
+young adults.  Antimicrobial chemoprophylaxis of close contacts of patients
+who have sporadic cases of meningococcal disease is the primary
+means for prevention of meningococcal disease in the United
+States. Rifampin has been the drug of choice for chemoprophylaxis;
+however, data from recent studies document that single doses of
+ciprofloxacin or ceftriaxone are reasonable alternatives to the
+multidose rifampin regimen for chemoprophylaxis.  References  
+    CDC. Meningococcal vaccines. MMWR 1985;34:255-9.  
+    CDC. Surveillance for diabetes mellitus -- United States,
+ 1980-1989,
+    and laboratory-based surveillance for meningococcal disease
+    in selected areas -- United States, 1989-1991. MMWR 1993;42(No.
+    SS-2):21-30.  
+    Jackson LA, Tenover FC, Baker C, et al. Prevalence of Neisseria
+    meningitidis relatively resistant to penicillin in the United
+    States, 1991. J Infect Dis 1994;169:438-41.  
+    CDC. Serogroup Y meningococcal disease -- Illinois,
+ Connecticut,
+    and selected areas, United States, 1989-1996. 1996;45:1010-13.  
+    Jackson LA, Schuchat A, Reeves MW, Wenger JD. Serogroup C
+    meningococcal outbreaks in the United States: an emerging
+ threat.
+    JAMA 1995;273:383-9.  
+    CDC. Serogroup B meningococcal disease -- Oregon, 1994. MMWR
+    1995;44:121-4.  
+
+    Figueroa JE, Densen P. Infectious diseases associated with
+    complement deficiencies. Clin Microbiol Rev 1991;4:359-95.  
+    Francke EL, Neu HC. Postsplenectomy infection. Surg Clin North
+    Am 1981;61:135-55.  
+    Pinner RW, Onyango F, Perkins BA, et al. Epidemic meningococcal
+    disease in Nairobi, Kenya, 1989. J Infect Dis 1992;166:359-64.  
+    Stephens DS, Hajjeh RA, Baughman WS, Harvey C, Wenger JD,
+    Farley MM. Sporadic meningococcal disease in adults: results of
+ a
+    5-year population-based study. Ann Int Med 1995;123:937-40.  
+    Brundage JF, Zollinger WD. Evolution of meningococcal disease
+    epidemiology in the U.S. Army. In: Vedros NA, ed. Evolution of
+    meningococcal disease. 1st ed. vol I. Boca Raton, FL: CRC
+ Press,
+    1987:5-25.  
+    Peltola H, Kayhty H, Kuronen T, Haque N, Sarna S, Makela PH.
+    Meningococcus group A vaccine in children three months to five
+    years of age: adverse reactions and immunogenicity related to
+    endotoxin content and molecular weight of the polysaccharide. J
+    Pediatr 1978;92:818-22.  
+    Gold R, Lepow ML, Goldschneider I, Draper TF, Gotschlich EC.
+    Kinetics of antibody production to group A and group C
+    meningococcal polysaccharide vaccines administered during the
+    first six years of life: prospects for routine immunization of
+    infants and children. J Infect Dis 1979;140:690-7.  
+
+    Sippel JE. Meningococci. Crit Rev Microbiol 1981;8:267-302.  
+    Taunay AE, Feldman RA, Bastos CO, Galvao PAA, Morais JS,
+    Castro IO. Avalia§ o do efeito protetor de vacina
+ polissacaridica
+    antimeningocìcica do grupo C, em crian§as de 6 a 36 meses. Rev
+    Inst Adolfo Lutz 1978;38:77-82.  
+    Cochi SL, Markowitz LE, Joshi DD, et al. Control of epidemic
+    group A meningococcal meningitis in Nepal. Int J Epidemiol
+    1987;16:91-7.  
+    Rosenstein N, Levine O, Taylor J, et al. Persistent serogroup
+    C meningococcal disease outbreak in a vaccinated population,
+ Gregg
+    County, Texas {Abstract G84}. In: 1996 Interscience Conference
+ on
+    Antimicrobial Agents and Chemotherapy (ICAAC). American Society
+    for Microbiology, 1996:185.  
+    Griffiss JM, Brandt BL, Broud DD. Human immune response to
+    various doses of group Y and W135 meningococcal polysaccharide
+    vaccines. Infect Immun 1982;37:205-8.  
+    Armand J, Arminjon F, Mynard MC, Lafaix C. Tetravalent
+    meningococcal polysaccharide vaccine groups A, C, Y, W 135:
+    clinical and serologic evaluation. J Biol Stand 1982;10:335-9.  
+    Ambrosch F, Wiedermann G, Crooy P, George AM. Immunogenicity
+    and side-effects of a new tetravalent meningococcal
+ polysaccharide
+    vaccine. Bull World Health Organ 1983;61:317-23.  
+
+    Vodopija I, Baklaic Z, Hauser P, Roelants P, Andre FE, Safary  
+        Reactivity and immunogenicity of bivalent (AC) and
+ tetravalent
+        (ACW135Y) meningococcal vaccines containing O-acetyl-negative
+ or
+        O-acetyl-positive group C polysaccharide. Infect Immun
+        1983;42:599-604.  
+    Artenstein MS. Meningococcal infections. 5. Duration of
+    polysaccharide-vaccine-induced antibody. Bull World Health
+ Organ
+    1971;45:291-3.  
+    Lepow ML, Goldschneider I, Gold R, Randolph M, Gotschlich EC.
+    Persistence of antibody following immunization of children with
+    groups A and C meningococcal polysaccharide vaccines.
+ Pediatrics
+    1977;60:673-80.  
+    Kayhty H, Karanko V, Peltola H, Sarna S, Makela PH. Serum
+    antibodies to capsular polysaccharide vaccine of group A
+ Neisseria
+    meningitidis followed for three years in infants and children.
+ J
+    Infect Dis 1980;142:861-8.  
+    Zangwill KM, Stout RW, Carlone GM, et al. Duration of antibody
+    response after meningococcal polysaccharide vaccination in US
+ Air
+    Force personnel. J Infect Dis 1994;169:847-52.  
+
+    Reingold AL, Broome CV, Hightower AW, et al. Age-specific
+    differences in duration of clinical protection after
+ vaccination
+    with meningococcal polysaccharide A vaccine. Lancet 1985;2:
+ 114-8.  
+    CDC. Control and prevention of meningococcal disease and
+    Control and prevention of serogroup C meningococcal disease:
+    evaluation and management of suspected outbreaks:
+ recommendations
+    of the Advisory Committee on Immunization Practices (ACIP).
+ MMWR
+    1997;46(No. RR-5).  
+    Peltola H, Makela PH, Kayhty H, et al. Clinical efficacy of
+    meningococcus group A capsular polysaccharide vaccine in
+ children
+    three months to five years of age. N Engl J Med
+ 1977;297:686-91.  
+    Ruben FL, Hankins WA, Zeigler Z, et al. Antibody responses to
+    meningococcal polysaccharide vaccine in adults without a
+ spleen.
+    Am J Med 1984;76:115-21.  
+    CDC. Meningococcal vaccine in single-dose vials for travelers
+    and high-risk persons. MMWR 1990;39:763.  
+    Riedo FX, Plikaytis BD, Broome CV. Epidemiology and prevention
+    of meningococcal disease. Pediatr Infect Dis J 1995;14:643-57.  
+    Lepow ML, Beeler J, Randolph M, Samuelson JS, Hankins WA.
+    Reactogenicity and immunogenicity of a quadrivalent combined
+
+    meningococcal polysaccharide vaccine in children. J Infect Dis
+    1986;154:1033-6.  
+    Scheifele DW, Bjornson G, Boraston S. Local adverse effects of
+    meningococcal vaccine. Can Med Assoc J 1994;150:14-5.  
+    de Andrade Carvalho A, Giampaglia CM, Kimura H, et al.
+    Maternal and infant antibody response to meningococcal
+ vaccination
+    in pregnancy. Lancet 1977;2:809-11.  
+    McCormick JB, Gusm o HH, Nakamura S, et al. Antibody response
+    to serogroup A and C meningococcal polysaccharide vaccines in
+    infants born of mothers vaccinated during pregnancy. J Clin
+ Invest
+    1980;65:1141-4.  
+    Englund JA, Glezen WP, Turner C, Harvey J, Thompson C, Siber
+    GR. Transplacental antibody transfer following maternal
+    immunization with polysaccharide and conjugate Haemophilus
+    influenzae type b vaccines. J Infect Dis 1995;171:99-105.  
+    Anderson EL, Bowers T, Mink CM, et al. Safety and
+    immunogenicity of meningococcal A and C polysaccharide
+ conjugate
+    vaccine in adults. Infect Immun 1994;62:3391-5.  
+    Twumasi PA, Kumah S, Leach A, et al. A trial of a group A plus
+    group C meningococcal polysaccharide-protein conjugate vaccine
+ in
+    African infants. J Infect Dis 1995;171:632-8.  
+    Sierra GVG, Campa HC, Varcacel NM, et al. Vaccine against
+    group B Neisseria meningitidis: protection trial and mass
+
+    vaccination results in Cuba. NIPH Ann 1991;14:195-207.  
+    Bjune G, H iby EA, Gronnesby JK, et al. Effect of outer
+    membrane vesicle vaccine against group B meningococcal disease
+ in
+    Norway. Lancet 1991;338:1093-6.  
+    Boslego JB, Garcia J, Cruz C. Efficacy, safety, and
+    immunogenicity of a meningococcal vaccine group B (15:P1.3)
+ outer
+    membrane protein vaccine in Iquique, Chile. Vaccine
+ 1995;13:821-9.  
+    de Moraes JC, Perkins BA, Camargo MCC, et al. Protective
+    efficacy of a serogroup B meningococcal vaccine in Sao Paulo,
+    Brazil. Lancet 1992;340:1074-8.  
+    The Meningococcal Disease Surveillance Group. Analysis of
+    endemic meningococcal disease by serogroup and evaluation of
+    chemoprophylaxis. J Infect Dis 1976;134:201-4.  
+    Broome CV. The carrier state: Neisseria meningitidis. J
+    Antimicrob Chemother 1986;18(suppl A):25-34.  
+    Gaunt PN, Lambert BE. Single dose ciprofloxacin for the
+    eradication of pharyngeal carriage of Neisseria meningitidis. J
+    Antimicrob Chemother 1988;21:489-96.  
+    Dworzack DL, Sanders CC, Horowitz EA, et al. Evaluation of
+    single-dose ciprofloxacin in the eradication of Neisseria
+    meningitidis from nasopharyngeal carriers. Antimicrob Agents
+    Chemother 1988;32:1740-1.  
+    Darouiche R, Perkins B, Musher D, Hamill R, Tsai S. Levels of
+
+    rifampin and ciprofloxacin in nasal secretions: correlation
+ with
+    MIC90 and eradication of nasopharyngeal carriage of bacteria. J
+    Infect Dis 1990;162:1124-7.  
+    Schaad UB, Salam MA, Aujard Y, et al. Use of fluoroquinolones
+    in pediatrics: consensus report of an International Society of
+    Chemotherapy commission. Pediatr Infect Dis J 1995;14:1-9.  
+    Schwartz B, Al-Tobaiqi A, Al-Ruwais A, et al. Comparative
+    efficacy of ceftriaxone and rifampicin in eradicating
+ pharyngeal
+    carriage of group A Neisseria meningitidis. Lancet
+ 1988;1:1239-42.  
+    Judson FN, Ehret JM. Single-dose ceftriaxone to eradicate
+    pharyngeal Neisseria meningitidis. Lancet 1984;2:1462-3.  
+    Abramson JS, Spika JS. Persistence of Neisseria meningitidis
+    in the upper respiratory tract after intravenous antibiotic
+    therapy for systemic meningococcal disease. J Infect Dis
+    1985;151:370-1. Figure_1Return to top.
+Figure_2Return to top.
+Table_1
+Note:
+ To  print  large  tables  and  graphs  users  may  have  to  change  their  printer  settings  to
+landscape and use a small font size.
+TABLE. Schedule for administering chemoprophylaxis against meningococcal disease
+====================================================
+==================================================
+
+Drug                 Age group                Dosage          Duration and route of administration *
+------------------------------------------------------------------------------------------------------
+Rifampin           Children <1 mo 5 mg/kg every 12 hrs 2 days Children>= mo     10
+mg/kg every 12 hrs                   2 days
+                       Adults          600 mg every 12 hrs                    2 days
+Ciprofloxacin          Adults                 500 mg                       Single dose
+Ceftriaxone       Children <15 yrs 125 mg Single IM + dose Ceftriaxone Adults 250 mg
+Single
+ IM
+ dose
+ *
+ Oral
+ administration
+ unless
+ indicated
+ otherwise.
+ +
+Intramuscular.="==========================================
+====================================================
+=======" 
+Return to top. 
+Disclaimer
+   All MMWR HTML versions of articles are electronic conversions from ASCII text into
+HTML.  This conversion may have resulted in character translation or format errors in
+the HTML version.  Users should not rely on this HTML document, but are referred to the
+electronic  PDF  version  and/or  the  original  MMWR  paper  copy  for  the  official  text,
+figures,  and  tables.   An  original  paper  copy  of  this  issue  can  be  obtained  from  the
+Superintendent of Documents, U.S. Government Printing Office (GPO), Washington, DC
+20402-9371;  telephone:  (202)  512-1800.  Contact  GPO  for  current  prices.  Page
+converted: 09/19/98 
+    HOME  |  
+    ABOUT MMWR  | 
+    MMWR SEARCH  | 
+
+    DOWNLOADS  | 
+    RSS 
+    |  
+    CONTACT
+POLICY  |  
+    DISCLAIMER  |  
+    ACCESSIBILITY 
+Morbidity and Mortality Weekly Report
+                Centers for Disease Control and Prevention
+                1600 Clifton Rd, MailStop E-90, Atlanta, GA 
+                  30333, U.S.A 
+Department of Healthand Human Services This page last reviewed 5/2/01 
+ 
+
+Source URL: https://www.cdc.gov/mmwr/preview/mmwrhtml/00046263.htm

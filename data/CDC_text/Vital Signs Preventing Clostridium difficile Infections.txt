@@ -1,0 +1,354 @@
+  Persons using assistive technology might not be able to fully access information in this
+file. For assistance, please send e-mail to: mmwrq@cdc.gov. Type 508 Accommodation
+and  the  title  of  the  report  in  the  subject  line  of  e-mail.  Please  note:  An  erratum  has
+been  published  for  this  article.  To  view  the  erratum,  please  click  here.  On  March  6,
+2012,  this  report  was  posted  as  an  MMWR  Early  Release  on  the  MMWR  website
+(http://www.cdc.gov/mmwr).  Background:  Clostridium  difficile  infection  (CDI)  is  a
+common and sometimes fatal health-care–associated infection; the incidence, deaths,
+and  excess  health-care  costs  resulting  from  CDIs  in  hospitalized  patients  are  all  at
+historic highs. Meanwhile, the contribution of nonhospital health-care exposures to the
+overall burden of CDI, and the ability of programs to prevent CDIs by implementing CDC
+recommendations across a range of hospitals, have not been demonstrated previously. 
+Methods: Population-based data from the Emerging Infections Program were analyzed
+by  location  and  antecedent  health-care  exposures.  Present-on-admission  and
+hospital-onset,  laboratory-identified  CDIs  reported  to  the  National  Healthcare  Safety
+Network (NHSN) were analyzed. Rates of hospital-onset CDIs were compared between
+two 8-month periods near the beginning and end of three CDI prevention programs that
+focused  primarily  on  measures  to  prevent  intrahospital  transmission  of  C.  difficile  in
+three states (Illinois, Massachusetts, and New York).  Results: Among CDIs identified in
+Emerging Infections Program data in 2010, 94% were associated with receiving health
+care;  of  these,  75%  had  onset  among  persons  not  currently  hospitalized,  including
+recently  discharged  patients,  outpatients,  and  nursing  home  residents.  Among  CDIs
+reported to NHSN in 2010, 52% were already present on hospital admission, although
+they  were  largely  health-care  related.  The  pooled  CDI  rate  declined  20%  among  71
+hospitals participating in the CDI prevention programs.  Conclusions: Nearly all CDIs are
+related  to  various  health-care  settings  where  predisposing  antibiotics  are  prescribed
+and  C.  difficile  transmission  occurs.  Hospital-onset  CDIs  were  prevented  through  an
+emphasis on infection control.  Implications for Public Health: More needs to be done to
+
+prevent CDIs; major reductions will require antibiotic stewardship along with infection
+control  applied  to  nursing  homes  and  ambulatory-care  settings  as  well  as  hospitals.
+State  health  departments  and  partner  organizations  have  shown  leadership  in
+preventing CDIs in hospitals and can prevent more CDIs by extending their programs to
+cover  other  health-care  settings.  Introduction  Clostridium  difficile  is  an  anaerobic,
+spore-forming bacillus that causes pseudomembranous colitis, manifesting as diarrhea
+that often recurs and can progress to toxic megacolon, sepsis, and death. Infection is
+spread  by  the  fecal-oral  route;  spores,  the  infective  form,  can  persist  on  fomites  and
+environmental surfaces for months. Clostridium difficile infection (CDI) often occurs in
+patients  in  health-care  settings,  where  antibiotics  are  prescribed  and  symptomatic
+patients, an important source for transmission, are concentrated. From 2000 to 2009,
+the  number  of  hospitalized  patients  with  any  CDI  discharge  diagnoses  more  than
+doubled, from approximately 139,000 to 336,600, and the number with a primary CDI
+diagnosis  more  than  tripled,  from  33,000  to  111,000  (1).  Although  the  incidence  of
+other health-care–associated infections has declined (2), CDIs have increased and only
+recently  plateaued  (1).  Evidence-based  guidelines  for  the  prevention  of  CDIs  in
+hospitals have been published (3). However, because the evidence for many of these
+recommendations  is  weak  (4)  the  degree  to  which  they  can  prevent  CDIs  effectively
+across a range of hospitals is unknown, as is the relative burden of CDIs in nonhospital
+and  hospital  health-care  settings.  Methods  In  this  investigation,  three  data  sources
+were used to identify health-care exposures for CDIs, determine the proportion of CDIs
+occurring  outside  hospital  settings,  and  assess  whether  prevention  programs  can
+effectively  reduce  CDIs.  CDC's  Emerging  Infections  Program  conducted  active,
+population-based surveillance for CDIs from eight diverse geographic areas in 2010 (5).
+Program  surveillance  coordinators  received  laboratory  reports  of  positive  stool  C.
+difficile tests from residents of catchment areas. Cases were defined by a positive C.
+difficile  test  in  a  person  without  a  positive  test  during  the  previous  8  weeks  (repeat
+
+positive tests during this period suggest recurrence) (6). Medical records were reviewed
+to confirm the presence of symptoms consistent with CDI and to record all health-care
+exposures during the 12 weeks preceding specimen collection (i.e., minimum duration
+of antibiotic-induced susceptibility to CDI). CDIs were classified by the patient's location
+at the time of stool specimen collection and divided into three groups: 1) hospital-onset
+CDI, occurring in a hospitalized patient with a positive stool specimen collected more
+than 3 days after admission; 2) nursing home–onset CDI, occurring in a nursing home
+resident with a positive stool specimen collected at any time during their stay; and 3)
+community-onset  CDI,  occurring  in  an  outpatient  or  an  inpatient  of  any  health-care
+facility with a positive stool specimen collected within 3 days (the median incubation
+period of C. difficile) after admission. Community-onset CDI cases were subcategorized
+based  on  previous  health-care  exposures  during  the  12  weeks  preceding  specimen
+collection;  previous  inpatient  exposures  took  precedence  over  outpatient  exposures
+when  classifying  cases.   A  second  data  source  was  the  National  Healthcare  Safety
+Network (NHSN) Multidrug-Resistant Organism and Clostridium difficile Infection module
+for laboratory-identified (LabID)-CDI events, which became available in March 2009 (7).
+Incident  LabID-CDI  events  in  NHSN  are  based  on  positive  C.  difficile  test  results  from
+hospital patients who did not have a previous positive test result reported within that
+facility  during  the  preceding  8  weeks.  LabID-CDI  events  present  on  admission  were
+defined by a positive stool specimen collected within the first 3 days of admission; a
+subset was delineated further if patients were discharged from the reporting hospital in
+the  preceding  4  weeks,  during  which  time  previous  hospitalization  is  most  likely  to
+influence the risk for CDI (6,7). Rates of hospital-onset CDI cases were calculated per
+10,000  patient-days.  The  third  set  of  data  included  early  results  from  three  state-led
+programs  (Illinois,  Massachusetts,  and  New  York)  similar  to  other  programs  in  which
+hospitals collaborated with one another to prevent health-care–associated infections (8)
+(in this case, hospital-onset CDIs). The three programs included a total of 71 hospitals
+
+focused  on  preventing  CDIs  during  three  different  periods  ranging  from  19  to  22
+months.*  Although  the  systems  for  data  collection  and  behavioral  change  strategies
+varied  among  programs,  all  three  used  CDC  surveillance  definitions  (6)  and  focused
+primarily  on  infection  control  interventions  to  prevent  transmission  of  C.  difficile;  the
+Massachusetts program did include antibiotic stewardship as a minor component. Using
+a  negative  binomial  model,  rates  of  hospital-onset  CDI  from  hospitals  participating  in
+the  three  programs  were  compared  between  two  same-calendar-month,  8-month
+periods (to control for seasonal variation in rates), one earlier and the other later in the
+conduct of each program.  Results The Emerging Infections Program population under
+surveillance included persons in the catchment areas of 111 acute-care hospitals and
+310 nursing homes. A total of 10,342 CDIs were identified; 44% of patients were aged
+<65  years.  CDIs  were  classified  by  inpatient  or  outpatient  status  at  time  of  stool
+collection  and  type/location  of  exposures  (Figure  1).  Overall,  94%  of  all  CDIs  were
+related to various precedent and concurrent health-care exposures; of these, 75% had
+their onset outside of hospitals. In addition, some cases occurred in patients who were
+exposed  to  multiple  settings.  For  example,  20%  of  hospital-onset  CDIs  occurred  in
+recent (i.e., <12 weeks) residents of a nursing home, and 67% of nursing home–onset
+CDI cases occurred in patients recently discharged from an acute-care hospital.  A total
+of  711  acute  care  hospitals  in  28  states  conducted  facility-wide  inpatient  LabID-CDI
+event reporting to NHSN in 2010 (Table 1). A total of 42,157 incident LabID-CDI events
+were  reported  (Figure  2).  Overall,  52%  of  LabID-CDI  events  were  already  present  on
+admission  to  hospitals.  The  pooled  rate  of  hospital-onset  CDI  was  7.4  per  10,000
+patient-days, with a median hospital rate of 5.4 per 10,000 and an interquartile range
+of  6.2.   The  pooled  hospital-onset  CDI  rate  across  the  three  prevention  programs
+declined 20%, from 9.3 per 10,000 patient-days during the early comparison period to
+7.5  during  the  later  comparison  period  (rate  ratio:  0.80)  (Table  2).   Conclusions  and
+Comment   The  incidence,  mortality,  and  medical  care  costs  of  CDIs  have  reached
+
+historic highs (1,3,9,10). The estimated number of deaths attributed to CDI, based on
+multiple  cause-of-death  mortality  data,  increased  from  3,000  deaths  per  year  during
+1999–2000 to 14,000 during 2006–2007, with more than 90% of deaths in persons aged
+≥65 years (10). Recent excess health-care costs of hospital-onset CDI are estimated to
+be  $5,042–$7,179  per  case  with  a  national  annual  estimate  (limited  to  the  subset  of
+hospital-onset  CDIs  only)  of  $897  million  to  $1.3  billion  (11).  Much  of  the  recent
+increase  in  the  incidence  and  mortality  of  CDIs  is  attributed  to  the  emergence  and
+spread of a hypervirulent, resistant strain of C. difficile that produces greater quantities
+of principal virulence toxins A and B and has additional factors enhancing its virulence
+(9,12).  Nonetheless,  many  of  these  infections  can  be  prevented,  as  demonstrated  by
+the  20%  reduction  in  incidence  of  hospital-onset  CDI  among  three  state  prevention
+programs  conducted  over  approximately  21  months.  In  England,  where  a  national
+campaign  to  publicly  report  and  prevent  CDIs  was  implemented  in  2007  through  an
+emphasis  on  antibiotic  stewardship  as  well  as  infection  control  (13),  pooled
+hospital-onset CDI rates declined 56% during a 3-year period (2008–2011) (14). In the
+United  States,  the  National  Action  Plan  for  Prevention  of  HAIs  has  targeted  a  30%
+reduction  of  CDIs  in  acute-care  hospitals  by  2015  (15).  Principal  recommendations  to
+prevent  CDI  include  improving  antibiotic  use,  early  and  reliable  detection  of  CDI,
+isolation of symptomatic patients, and reducing C. difficile contamination of health-care
+environmental  surfaces  (3).  Good  antibiotic  stewardship  is  an  important  aspect  of
+quality health care that prevents CDI. Antibiotic use increases the risk for developing
+CDI by seven- to 10-fold while the patient is taking the antibiotic and for 1 month after
+discontinuation,  and  by  approximately  three-fold  for  the  subsequent  2  months  (16).
+CDC  provides  tools  for  facilities  to  develop  antibiotic  stewardship  programs.†   To
+prevent transmission of C. difficile, early detection and isolation of patients with CDI is
+essential.  Nucleic  acid  amplification  tests  can  be  as  much  as  twice  as  sensitive  as
+enzyme immunoassays and can detect CDI more accurately when used in populations
+
+with  an  appropriate  pretest  probability  (i.e.,  patients  with  more  than  three  unformed
+stools  in  a  24-hour  period  without  an  identified  cause)  (3,17).  Because  of  their
+increased sensitivity, nucleic acid amplification tests will yield higher hospital-onset CDI
+rates. Currently, 35% of NHSN hospitals are using nucleic acid amplification tests (Table
+1);  risk  adjustment  will  be  necessary  to  compare  rates  accurately  where  diagnostic
+testing practices vary.  C. difficile frequently is transmitted between patients via hands
+of  health-care  personnel  transiently  contaminated  after  contact  with  symptomatic
+patients or their surrounding environment. Glove use, with strict adherence to changing
+between  patient  contacts,  is  the  best  proven  method  for  preventing  hand
+contamination
+ with
+ C.
+ difficile
+ from
+ symptomatic
+ patients
+ (3,4).
+ Health-care
+environmental  services  have  a  key  role  in  reducing  contamination  that  can  directly
+transmit  to  patients  or  contaminate  the  hands  of  health-care  personnel.§  Because  C.
+difficile spores resist killing by usual hospital disinfectants, an Environmental Protection
+Agency–registered disinfectant with a C. difficile sporicidal label claim¶ should be used
+to augment thorough physical cleaning. These findings emphasize how the risk for CDI
+from  antibiotic  exposure  and  transmission  moves  with  patients  across  multiple
+health-care settings, leading to the interdependence of health-care settings in a region
+to  lower  their  CDI  rates.  Because  antibiotics  disrupt  the  normally  protective  bacterial
+populations of the lower intestine in a manner that increases risk for CDI for 3 or more
+months, antibiotics received in one setting often predispose a patient to develop CDI in
+another. In contrast, because the incubation period is a median of only 2–3 days (3),
+acquisition  of  C.  difficile  is  overall  more  likely  to  have  occurred  in  the  setting  where
+symptoms have their onset and CDI is diagnosed. Meanwhile, CDIs present on hospital
+admission are most often related to the care delivered in other inpatient or outpatient
+facilities;  because  they  are  an  important  source  for  intrahospital  transmission,  CDIs
+present  on  admission  are  a  risk  factor  for  higher  hospital-onset  CDI  rates  (18).   The
+findings  of  this  report  are  subject  to  at  least  six  limitations.  First,  data  on  antibiotic
+
+exposure, which are important for targeting prevention efforts, were not available. An
+NHSN  option  designed  to  address  this  problem  is  undergoing  piloting  with  electronic
+health  record  vendors.**  Second,  data  on  potential  underlying  temporal  trends  in
+prevention  program  hospitals  were  not  available.  Third,  the  various  methods  used  to
+implement prevention strategies in the prevention hospitals were not described (e.g.,
+staff  training,  assessment  and  feedback  of  compliance  with  isolation  precautions,  or
+adequacy of environmental cleaning). Although the pooled rate toward the end of these
+programs  (7.5  per  10,000  patient-days)  was  similar  to  the  rate  across  all  NHSN
+hospitals  in  2010  (7.4),  the  three  programs  started  and  ended  at  different  rates,
+suggesting  that locally tailored  approaches to prevention might be beneficial. Fourth,
+the impact of ongoing CDI prevention initiatives under way during the early phase of
+evaluation  also  was  not  assessed.  Fifth,  the  potential  impact  of  any  shifts  in  test
+sensitivity  between  different  methods  used  (e.g.,  nucleic  acid  amplification  versus
+enzyme  immunoassay)  was  not  assessed.  Finally,  in  both  the  Emerging  Infections
+Program and NHSN, the setting of onset was based on where the patient was located at
+the
+ time
+ of
+ stool
+ specimen
+ collection;
+ therefore,
+ there
+ might
+ have
+ been
+misclassification of cases if a marked delay occurred between onset of symptoms and
+stool  specimen  collection.  Because  nearly  75%  of  all  CDIs  related  to  U.S.  health  care
+have their onset outside of hospitals, more needs to be done to prevent CDIs across all
+health-care  settings.  For  its  part,  CDC  is  working  to  improve  NHSN  LabID-CDI  event
+reporting  for  nursing  homes  as  well  as  hospitals.  Clinical  document  architecture
+specifications  are  available  for  electronic  health  record  system  vendors  to  use  in
+enabling their systems to serve as electronic data sources for LabID-CDI event reporting
+to  NHSN.††  The  option  to  report  electronically  will  take  on  greater  importance  as
+increasing  numbers  of  hospitals  are  required  to  report  LabID-CDI  events  to  NHSN.
+Currently,  six  states  (California,  Illinois,  New  York,  Oregon,  Tennessee,  and  Utah)
+mandate  public  reporting  of  facility-wide  LabID-CDI  events.  Beginning  in  2013,  all
+
+hospitals  participating  in  the  Centers  for  Medicare  and  Medicaid  Services'  Inpatient
+Prospective  Payment  System  Quality  Reporting  Program  will  be  required  to  report
+facility-wide  LabID-CDI  events  using  NHSN  to  qualify  for  their  2015  annual  payment
+update;  public  reporting  of  hospital  rates  will  begin  in  2014  at  the  Hospital  Compare
+website  (19).   Clinicians  and  other  health-care  providers,  as  well  as  inpatient  and
+outpatient  health-care  facilities,  state  and  federal  public  health  officials  (e.g.,  the
+Partnership for Patients), and partner patient safety organizations, could benefit from
+increased  collaboration  in  preventing  CDIs.  Such  collaborations  could  broaden  and
+enhance the use of prevention strategies and do so across the entire spectrum of U.S.
+health-care  delivery.  State  health  departments,  working  with  regional  quality
+improvement organizations, hospital associations, and other nongovernmental patient
+safety partners, are positioned uniquely to work across these multiple settings.§§ Given
+the  emphasis  of  current  health-care  reform  efforts  to  improve  patient  safety  while
+reducing costs, now is an opportune time to begin to eliminate health-care–associated
+CDIs.   L.  Clifford  McDonald,  MD,  Fernanda  Lessa,  MD,  Dawn  Sievert,  PhD,  Matt  Wise,
+PhD, Rosa Herrera, Carolyn Gould, MD, Paul Malpiedi, MPH, Maggie Dudeck, MPH, Arjun
+Srinivasan,  MD,  Scott  Fridkin,  MD,  Denise  Cardo,  MD,  Div  of  Healthcare  Quality
+Promotion,  National  Center  for  Emerging  and  Zoonotic  Infectious  Diseases,  CDC.
+Corresponding contributor: L. Clifford McDonald, cmcdonald1@cdc.gov, 404-639-3833.
+Iowa  Foundation  for  Medical  Care–Illinois,  Oakbrook;  Illinois  Dept  of  Public  Health.
+Massachusetts Coalition for the Prevention of Medical Errors; the Massachusetts Dept of
+Public Health. Greater New York Hospital Association; United Hospital Fund; New York
+State Dept of Health. Hospitals and staff members reporting to the National Healthcare
+Safety  Network.  Amit  Chitnis,  MD,  EIS  Officer;  principal  investigators  and  surveillance
+staff members, Emerging Infections Program, CDC.  * The Illinois prevention program,
+led  by  the  Department  of  Public  Health  and  the  Iowa  Foundation  for  Medical
+Care–Illinois  (a  health-care  quality  improvement  organization  headquartered  in  West
+
+Des  Moines,  Iowa),  included  11  hospitals  with  complete  data  from  the  beginning  of
+March  2010  through  October  2011.  The  Massachusetts  program,  led  by  the
+Massachusetts  Coalition  for  the  Prevention  of  Medical  Errors  and  the  Massachusetts
+Department  of  Public  Health,  included  27  hospitals  with  complete  data  from  January
+2010 through September 2011. The New York program, led by the Greater New York
+Hospital  Association  and  the  United  Hospital  Fund  in  collaboration  with  the  New  York
+State Department of Health, included 33 hospitals with complete data from March 2008
+through
+ December
+ 2009.
+ †
+ Additional
+ information
+ available
+ at
+http://www.cdc.gov/getsmart/healthcare/improve-efforts/clinicians.html.   §  Additional
+information
+ available
+ at
+http://www.cdc.gov/hai/toolkits/evaluating-environmental-cleaning.html.   ¶  Additional
+information
+ available
+ at
+ http://www.epa.gov/oppad001/cdif-guidance.html.
+ 
+ 
+ **
+Additional  information  available  at  http://www.cdc.gov/nhsn/psc_ma.html.    ††
+Additional information available at http://www.cdc.gov/nhsn/cda_esurveillance.html.  §§
+Additional
+ information
+ available
+ at
+http://www.cdc.gov/hai/stateplans/haistateplans-map.html.  
+Key  Points  FIGURE  1.  Percentage  of  Clostridium  difficile  infection  (CDI)  cases  (N  =
+10,342), by inpatient or outpatient status at time of stool collection and type/location of
+exposures* — United States, Emerging Infections Program, 2010 * CDIs were classified
+by the patient's location at the time of stool specimen collection and divided into three
+groups: 1) hospital-onset CDI, occurring in a hospitalized patient with a positive stool
+specimen  collected  more  than  3  days  after  admission;  2)  nursing  home–onset  CDI,
+occurring  in  a  nursing  home  resident  with  a  positive  stool  specimen  collected  at  any
+time during their stay; and 3) community-onset CDI, occurring in an outpatient or an
+inpatient  of  any  health-care  facility  with  a  positive  stool  specimen  collected  within  3
+days  (the  median  incubation  period  of  C.  difficile)  after  admission.  Community-onset
+CDI cases were subcategorized based on previous health-care exposures during the 12
+
+weeks  preceding  specimen  collection;  previous  inpatient  exposures  took  precedence
+over  outpatient  exposures  when  classifying  cases.  Alternate  Text:  The  figure  above
+shows  the  percentage  of  Clostridium  difficile  infection  (CDI)  cases  (N  =  10,342),  by
+inpatient or outpatient status at time of stool collection and type/location of exposures,
+in the United States during 2010, based on data from the Emerging Infections Program.
+The  population  under  surveillance  included  persons  in  the  catchment  areas  of  111
+acute-care  hospitals  and  310  nursing  homes.  A  total  of  10,342  CDIs  were  identified.
+CDIs  were  classified  by  inpatient  or  outpatient  status  at  time  of  stool  collection  and
+type/location of exposures. Overall, 94% of all CDIs were related to various antecedent
+and  concurrent  health-care  exposures;  of  these,  75%  had  their  onset  outside  of
+hospitals. In addition, some cases occurred in patients who were exposed to multiple
+settings. For example, 20% of hospital-onset CDIs occurred in recent (i.e., <12 weeks)
+residents  of  a  nursing  home,  and  67%  of  nursing  home-onset  CDI  cases  occurred  in
+patients recently discharged from an acute-care hospital.
+                     TABLE  1.  Number  and  percentage  of  hospitals  reporting
+laboratory-identified Clostridium difficile infections, by selected characteristics — United
+States,  National  Healthcare  Safety  Network,  2010  Characteristic  No.   (%)  Total  711
+(100)  Bed  size  ≤200  429  (61)  201–500  232  (33)  501–1000  46  (6)  >1000  1   (<0.5)
+Medical  school  affiliation  226  (31)  Primary  diagnostic  assay  used   Enzyme
+immunoassay  for  toxin  A  and/or  B  364  (51)  Nucleic  acid  amplification  test  238  (33)
+Other   88  (12)  Missing  data   21  (3)  FIGURE  2.  Percentage  of  laboratory-identified
+Clostridium  difficile  infections  (N  =  42,157),  by  hospitalization  status  at  time  of  stool
+collection  and  type/location  of  exposure  —  United  States,  National  Healthcare  Safety
+Network, 2010 * From reporting hospital during the preceding 4 weeks. Alternate Text:
+The  figure  above  shows  the  percentage  of  laboratory-identified  Clostridium  difficile
+infections (LabID-CDIs) (N = 42,157), by hospitalization status at time of stool collection
+and type/location of exposure in the United States, during 2010, based on data from the
+
+National  Healthcare  Safety  Network.  Surveillance  was  conducted  over  approximately
+27.6 million patient days. A total of 42,157 incident LabID-CDIs were reported. Overall,
+52% of LabID-CDIs events were already present on admission to hospitals. The pooled
+rate of hospital onset CDI was 7.4 per 10,000 patient-days, with a median hospital rate
+of 5.4 per 10,000 and an interquartile range of 6.2.
+                     TABLE 2. Reductions in hospital-onset Clostridium difficile infection rates
+— Illinois, Massachusetts, and New York, May 2008–October 2011* State Period Patient
+days  Rate   (95%  CI*)  Rate  ratio  (95%  CI)  Illinois  Mar  2010–Oct  2010  637,135  11.6
+(10.3–13.0) 0.84 (0.70–1.00) Mar 2011–Oct 2011 578,121 9.9 (8.4–11.4) Massachusetts
+Feb 2010–Sep 2010 823,939 7.6 (6.7–8.5) 0.75 (0.63–0.90) Feb 2011–Sep 2011 830,023
+5.7  (4.9–6.5)  New  York  May  2008–Dec  2008  2,607,464  9.2  (8.5–9.9)  0.81  (0.73–0.89)
+May  2009–Dec  2009  2,575,514  7.5  (7.0–8.0)  Overall  Pooled  baseline  4,068,538  9.3
+(8.7–9.8)  0.80  (0.73–0.86)  Pooled  post  3,983,658  7.5  (7.0–7.9)  Abbreviation:  CI  =
+confidence interval. * Study periods vary by state. Use of trade names and commercial
+sources  is  for  identification  only  and  does  not  imply  endorsement  by  the  U.S.
+Department of 
+Health and Human Services. References to non-CDC sites on the Internet are 
+provided as a service to MMWR readers and do not constitute or imply 
+endorsement of these organizations or their programs by CDC or the U.S. 
+Department of Health and Human Services. CDC is not responsible for the content 
+of pages found at these sites. URL addresses listed in MMWR were current as of 
+the date of publication. All MMWR HTML versions of articles are electronic conversions
+from typeset documents. 
+This  conversion  might  result  in  character  translation  or  format  errors  in  the  HTML
+version. 
+Users are referred to the electronic PDF version (http://www.cdc.gov/mmwr) 
+and/or the original MMWR paper copy for printable versions of official text, figures, and
+
+tables. 
+An  original  paper  copy  of  this  issue  can  be  obtained  from  the  Superintendent  of
+Documents, U.S. 
+Government Printing Office (GPO), Washington, DC 20402-9371; 
+telephone: (202) 512-1800. Contact GPO for current prices.
+**Questions or messages regarding errors in formatting should be addressed to 
+mmwrq@cdc.gov. How do I view different file formats (PDF, DOC, PPT, MPEG) on this
+site? 
+
+Source URL: https://www.cdc.gov/mmwr/preview/mmwrhtml/mm6109a3.htm

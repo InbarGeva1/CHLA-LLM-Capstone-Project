@@ -1,0 +1,2327 @@
+A Practical Guide for Physicians and Other Health-Care and Public 
+Health Professionals 
+ 
+Persons using assistive technology might not be able to fully access information in this
+file. For assistance, please send e-mail to: mmwrq@cdc.gov. Type 508 Accommodation
+and the title of the report in the subject line of e-mail.
+Diagnosis and Management of Tickborne Rickettsial 
+Diseases: Rocky Mountain Spotted Fever, Ehrlichioses, and Anaplasmosis 
+--- United States
+ Persons using assistive technology might not be able to fully access information in this
+file. For assistance, please send e-mail to: mmwrq@cdc.gov. Type 508 Accommodation
+and the title of the report in the subject line of e-mail. Prepared by
+Alice S. Chapman, DVM1
+in collaboration with the
+Tickborne Rickettsial Diseases Working Group 
+Johan S. Bakken, MD, PhD2 Scott M. Folk, 
+MD6 Christopher D. Paddock, MD1 
+Karen C. Bloch, MD3 Allan Krusell, 
+
+MD7  Daniel J. Sexton, 
+MD10
+Steven C. Buckingham, MD4  Gary S. Marshall, 
+MD8 Gregory A. Storch, MD11 
+Gregory A. Dasch, PhD1  Jennifer H. McQuiston, 
+DVM1 David L. Swerdlow, 
+MD1
+J. Stephen Dumler, MD5 William L. Nicholson, 
+PhD1 David H. Walker, MD12 
+Marina E. Eremeeva, MD, PhD, ScD1 Christopher A. Ohl, 
+MD9 
+1National Center for Infectious Diseases, CDC; 
+2St. Luke's Infectious Disease Associates, Duluth, Minnesota; 
+3Vanderbilt University Medical School, Nashville, Tennessee; 
+4University of Tennessee Health Science Center, Memphis, Tennessee; 
+5Johns Hopkins Medical Institutions, Baltimore, Maryland; 
+6Heartland Regional Medical Center, St. Joseph, Missouri; 
+7Northeast Medical Center, Concord, North Carolina; 
+8University of Louisville Medical School, Louisville, Kentucky; 
+9Wake Forest University Medical School, Winston-Salem, North 
+Carolina; 10Duke University Medical School, Durham, North Carolina; 
+11Washington University Medical School, St. Louis, Missouri; 
+12University of Texas Medical Branch, Galveston, Texas
+ 
+
+ The  material  in  this  report  originated  in  the  National  Center  for  Infectious  Diseases,
+Rima Khabbaz, MD, Director; and the Division of Viral 
+and Rickettsial Diseases, Steve Monroe, PhD, Acting Director. 
+ Corresponding  preparer:  David  L.  Swerdlow,  MD,  Division  of  Viral  and  Rickettsial
+Diseases, National Center for Infectious Diseases, 1600 
+Clifton  Rd.,  NE,  MS  G-13,  Atlanta,  GA  30333.  Telephone:  404-639-1329;  Fax:
+404-639-4436; E-mail: DSwerdlow@cdc.gov.
+Summary
+ Tickborne  rickettsial  diseases  (TBRD)  continue  to  cause  severe  illness  and  death  in
+otherwise healthy adults 
+and  children,  despite  the  availability  of  low  cost,  effective  antimicrobial  therapy.  The
+greatest challenge to clinicians is 
+the difficult diagnostic dilemma posed by these infections early in their clinical course,
+when antibiotic therapy is most 
+effective.  Early  signs  and  symptoms  of  these  illnesses  are  notoriously  nonspecific  or
+mimic benign viral illnesses, making 
+diagnosis  difficult.  In  October  2004,  CDC's  Viral  and  Rickettsial  Zoonoses  Branch,  in
+consultation with 11 clinical and 
+academic  specialists  of  Rocky  Mountain  spotted  fever,  human  granulocytotropic
+anaplasmosis, and human 
+monocytotropic  ehrlichiosis,  developed  guidelines  to  address  the  need  for  a
+consolidated source for the diagnosis and management of 
+TBRD.  The  preparers  focused  on  the  practical  aspects  of  epidemiology,  clinical
+assessment, treatment, and laboratory diagnosis 
+of  TBRD.  This  report  will  assist  clinicians  and  other  health-care  and  public  health
+
+professionals to 1) 
+recognize  epidemiologic  features  and  clinical  manifestations  of  TBRD,  2)  develop  a
+differential diagnosis that includes and 
+ranks  TBRD,  3)  understand  that  the  recommendations  for  doxycycline  are  the
+treatment of choice for both adults and 
+children,  4)  understand  that  early  empiric  antibiotic  therapy  can  prevent  severe
+morbidity and death, and 
+5) report suspect or confirmed cases of TBRD to local public health authorities to assist
+them with control measures and public 
+health education efforts.
+Introduction
+ Tickborne  rickettsial  diseases  (TBRD)  are  clinically  similar,  yet  epidemiologically  and
+etiologically distinct illnesses. 
+In the United States, these diseases include 1) Rocky Mountain spotted fever (RMSF), 2)
+human monocytotropic 
+(or monocytic) ehrlichiosis (HME), 3) human 
+granulocytotropic (or granulocytic) anaplasmosis (HGA, formerly known 
+as human granulocytotropic ehrlichiosis or HGE) 
+(1), 4) Ehrlichia ewingii infection, and 5) other emerging TBRD. 
+The  reported  incidence  of  these  diseases  has  increased  during  the  previous  decade.
+Despite the availability of low-cost 
+and  effective  antibiotic  therapy,  which  may  be  used  empirically  for  suspected  cases,
+TBRD continue to cause severe 
+illness  and  death  in  otherwise  healthy  adults  and  children.  The  greatest  challenge  to
+clinicians is diagnosing these 
+
+infections early in their clinical course, when antibiotic therapy is most effective 
+(2,3). The majority of patients with TBRD 
+seek medical care within 2--4 days of onset of illness 
+(4--7). In general, these patients are first evaluated by 
+family practitioners, pediatricians, internists, emergency department (ED) physicians, or
+physician 
+extenders. Early signs and symptoms of these illnesses are notoriously nonspecific, or
+they might mimic benign viral illnesses, making 
+diagnosis  difficult.  For  example,  even  in  areas  where  awareness  of  RMSF  is  high,
+approximately 60%--75% of 
+patients  with  this  TBRD  receive  an  alternate  diagnosis  on  their  first  visit  for  medical
+care 
+(8,9). Moreover, the earlier patients seek care 
+in the course of their illness, the more likely an alternate diagnosis will be made 
+(4). The lack of a specific initial 
+syndrome, however, does not imply that the course of these diseases will be benign.
+ In October 2004, to address the need for a consolidated resource for the diagnosis and
+management of TBRD, 
+CDC's Viral and Rickettsial Zoonoses Branch collaborated with 11 clinical and academic
+specialists of RMSF, HGA, and 
+HME.  These  external  contributors  were  invited  by  CDC  subject  matter  specialists  to
+participate among clinicians 
+and  researchers  in  the  field  of  TBRD,  based  on  direct  working  interactions  related  to
+case consultation and 
+recognized  expertise  from  peer-reviewed  publications.  In  December  2004,  the
+framework of this report was developed by 
+CDC's Viral and Rickettsial Zoonoses Branch, based on a summary of the peer-reviewed
+
+published reports on the 
+epidemiology  and  clinical  aspects  of  TBRD.  External  contributors  further  developed
+recommendations for the diagnosis and 
+treatment  of  TBRD  based  on  their  clinical  research  and  experience.  All  work  group
+collaborators reviewed and provided input 
+and approved the final content of this report.
+ The  primary  goal  of  this  report  is  to  provide  primary  care  physicians  and  physician
+extenders with 
+practical information to assist with the diagnosis and care of 
+patients with TBRD. This report provides a framework 
+for recognizing suggestive symptoms, considering likely alternative diagnoses, eliciting
+relevant history, 
+requesting  appropriate  diagnostic  tests,  and  initiating  prompt,  effective  treatment.
+Information in this guide is designed to 
+assist clinicians to
+ This  report  also  provides  resources  on  TBRD  for  health-care  and  public  health
+professionals. Clinical cases 
+are included for self-evaluation and to reinforce the information presented in this guide.
+Additional information 
+concerning  TBRD  in  this  report  is  available  from  medical  specialists,  various  medical
+societies, CDC, and state and local 
+health authorities.
+Epidemiology of TBRD
+ RMSF, HME, and HGA are tickborne zoonoses caused by 
+Rickettsia rickettsii, Ehrlichia 
+
+chaffeensis, and Anaplasma 
+phagocytophilum,  respectively.  These  pathogens  are  maintained  in  natural  cycles
+involving wild mammals and 
+hard-bodied (ixodid) ticks. The epidemiologies of these diseases reflect the geographic
+distribution and seasonal activities of the 
+vectors  and  reservoirs  and  the  human  behaviors  that  place  persons  at  risk  for  tick
+attachment and subsequent infection. 
+Selected epidemiologic and clinical features of TBRD have been summarized 
+(Table  1).  RMSF,  HME,  and  HGA  are  reported  each  month  of  the  year  in  the  United
+States, 
+although 90%--93% of reported cases occur during April--September 
+(6,10--12), coincident with peak levels of tick feeding activity on 
+humans. Travelers outside of the United States might also be 
+exposed to other tick vectors in other countries that transmit related agents that result
+in disease after they return to the 
+United States.
+Males  appear  to  be  at  higher  risk  for  infection  with  all  TBRD,  possibly  because  of
+greater recreational or 
+occupational exposures to tick habitats. Although previous studies have indicated that
+the highest incidences of RMSF have 
+occurred in children aged <10 years, surveillance during 2003 demonstrates a higher
+age-specific incidence for RMSF 
+among persons aged 40--64 years, compared with other age groups 
+(13). For HME and HGA, the highest 
+age-specific incidences occurred among persons aged 
+>70 and 60--69 years, respectively 
+
+(14).  The  higher  frequency  of  disease  reporting  in  adults  might  reflect  greater
+susceptibility to recognizable disease rather than higher infection rates. 
+Two recent cross-sectional studies in the southeastern and south central United 
+States* have indicated that up to 22% of children have serologic evidence of previous
+exposure to antigens of both 
+E. chaffeensis (15) and R. rickettsii 
+(16), suggesting that rickettsial and ehrlichial 
+infection might be more common than previously recognized.
+RMSF
+In the United States, R. rickettsii is transmitted to 
+humans by several tick species. However, the species that 
+transmit R. rickettsii most frequently include the American dog tick 
+(Dermacentor variabilis; Figure 1) in the eastern, central, 
+and Pacific coastal United States and the Rocky Mountain wood tick 
+(Dermacentor andersoni; Figure 2) in the western 
+United States. In 2005, the brown dog tick (Rhipicephalus 
+sanguineus; Figure 3), a vector of RMSF in Mexico 
+(17), was implicated as a vector of this disease in a confined geographic area in Arizona
+(18). The cayenne tick (Amblyomma 
+cajennense; Figure 4) is a common vector for RMSF in Central and South America, and
+its range 
+extends into the United States in Texas (19). During 1997--2002, the estimated average
+annual incidence of RMSF, based on 
+passive  surveillance,  was  2.2  cases  per  million  persons.  More  than  half  (56%)  of
+
+reported cases of RMSF were from only 
+five states: North Carolina, South Carolina, Tennessee, Oklahoma, and Arkansas (CDC,
+unpublished data, 2005). 
+However,  cases  have  been  reported  from  each  of  the  contiguous  48  states,  except
+Vermont and Maine 
+(10,11). Average reported annual incidence of RMSF per 
+1 million population, based on cases reported to CDC during 1997--2002, has 
+been  reported  (Figure  5).  Incidence  varies  considerably  by  geographic  area.  RMSF  is
+also 
+endemic  throughout  several  countries  in  Central  and  South  America,  including
+Argentina, Brazil, Columbia, Costa Rica, Mexico, and 
+Panama  (17,19,20).  Household  clusters  of  disease  and  hyperendemic  foci  of  infected
+ticks have been 
+reported (3,21). Dogs are susceptible to RMSF, and they might frequently develop the
+disease concurrently with other household members in 
+an endemic focus (22,23).
+HME
+E. chaffeensis is transmitted to humans by the lone star tick, 
+A. americanum (Figure 6), and possibly other ticks. 
+The white-tailed deer is a major host of all stages of lone star ticks and is an important
+natural reservoir 
+for  E.  chaffeensis.  Natural  infections  of  coyotes,  dogs,  and  goats  have  been
+documented. The lone star tick is among the 
+most  commonly  encountered  ticks  in  the  southeastern  United  States,  with  range
+extensions into areas of the South 
+
+Central and New England states (Figure 7). Cases of HME are most commonly reported
+to CDC from Missouri, 
+Oklahoma,  Tennessee,  Arkansas,  and  Maryland,  although  the  disease  is  found
+throughout the range of the lone star tick. The 
+average  reported  annual  incidence  of  HME  was  0.7  cases  per  million  population,  but
+incidence varied by state, based on 
+cases  reported  to  CDC  from  2001  to  2002  (Figure  8).  In  a  prospective  study  among
+febrile patients with a history of a 
+recent  tick  bite  in  central  North  Carolina,  the  incidence  of  ehrlichial  infection  was
+approximately twice that of RMSF 
+(24). The reported incidence probably represents an underestimate of the true burden
+of disease in areas where 
+E. chaffeensis is endemic (24,25). Clusters of HME have been reported, suggesting that
+foci of ticks 
+infected with E. chaffeensis do 
+occur (21,26).
+HGA
+The blacklegged tick (Ixodes scapularis; 
+Figure 9) is the vector of A. 
+phagocytophilum in New England and North 
+Central United States, whereas the western blacklegged tick 
+(Ixodes pacificus; Figure 10) is the principal vector in northern 
+California.  Deer,  elk,  and  wild  rodents  are  thought  to  be  reservoirs.  HGA  is  more
+frequently reported than HME, resulting in an 
+average reported annual incidence of 1.6 cases per million during 2001--2002. States
+
+that reported the highest 
+incidence during this period were Rhode Island (36.5 cases per million), Minnesota (12.3
+cases per million), Connecticut (8.1 cases per 
+million), New York (2.3 cases per million), and Maryland (1.6 cases per million) 
+(Figure 11). HGA has been identified as a 
+substantial cause of unexplained fever during the tick season in Wisconsin 
+(27). Evidence suggests that the incidence of HGA 
+in Wisconsin might be much higher than that in Minnesota 
+(7). Because these Ixodes species ticks also transmit 
+Borrelia burgdorferi (the causative agent of Lyme disease) and various 
+Babesia species (agents of human babesiosis), the preponderance 
+of cases of HGA occur in the same states that report high incidences of Lyme disease
+and human babesiosis. 
+Simultaneous infection with A. 
+phagocytophilum and B. burgdorferi has been reported 
+(28), and discerning such a mixed infection is 
+vital because it might affect antimicrobial choice. For example, amoxicillin can be used
+to treat early stage Lyme disease, but it is 
+not effective for HGA.
+Ehrlichia ewingii Infection
+Amblyomma americanum also is the principal vector of the ehrlichial pathogen, 
+E. ewingii. The ecologic features of E. ewingii 
+are not completely known; however, dogs and deer have been naturally infected. Cases
+of 
+granulocytotropic ehrlichiosis caused by E. 
+
+ewingii have been reported primarily in immunocompromised patients from 
+Missouri, Oklahoma, and Tennessee (29,30). 
+E. ewingii infections in dogs or ticks also have been described in these states and 
+in  Arkansas,  Texas,  Florida,  Georgia,  Mississippi,  North  Carolina,  and  Virginia,
+suggesting that human infections with 
+this pathogen might be expected to occur throughout the range of the lone star tick 
+(31,32).
+The following is a summary of the salient epidemiologic features of TBRD:
+Occurrence  is  seasonal,  with  the  majority  of  illness  onset  during  warmer  spring  and
+summer months, but cases 
+might develop throughout the year.
+RMSF has been reported in all of the contiguous 48 states, except Vermont and Maine.
+RMSF  and  HME  are  most  commonly  reported  in  the  southeastern  and  south  central
+United States.
+HGA is reported most frequently in New England, the north central states, and in focal
+areas along the West Coast.
+Pathogen Tropisms and Clinical Presentation
+ Males  appear  to  be  at  higher  risk  for  infection  with  all  TBRD,  possibly  because  of
+greater recreational or 
+occupational exposures to tick habitats. Although previous studies have indicated that
+the highest incidences of RMSF have 
+
+occurred in children aged <10 years, surveillance during 2003 demonstrates a higher
+age-specific incidence for RMSF 
+among persons aged 40--64 years, compared with other age groups 
+(13). For HME and HGA, the highest 
+age-specific incidences occurred among persons aged 
+>70 and 60--69 years, respectively 
+(14).  The  higher  frequency  of  disease  reporting  in  adults  might  reflect  greater
+susceptibility to recognizable disease rather than higher infection rates. 
+Two recent cross-sectional studies in the southeastern and south central United 
+States* have indicated that up to 22% of children have serologic evidence of previous
+exposure to antigens of both 
+E. chaffeensis (15) and R. rickettsii 
+(16), suggesting that rickettsial and ehrlichial 
+infection might be more common than previously recognized.
+RMSF
+ In the United States, R. rickettsii is transmitted to 
+humans by several tick species. However, the species that 
+transmit R. rickettsii most frequently include the American dog tick 
+(Dermacentor variabilis; Figure 1) in the eastern, central, 
+and Pacific coastal United States and the Rocky Mountain wood tick 
+(Dermacentor andersoni; Figure 2) in the western 
+United States. In 2005, the brown dog tick (Rhipicephalus 
+sanguineus; Figure 3), a vector of RMSF in Mexico 
+(17), was implicated as a vector of this disease in a confined geographic area in Arizona
+
+(18). The cayenne tick (Amblyomma 
+cajennense; Figure 4) is a common vector for RMSF in Central and South America, and
+its range 
+extends into the United States in Texas (19). During 1997--2002, the estimated average
+annual incidence of RMSF, based on 
+passive  surveillance,  was  2.2  cases  per  million  persons.  More  than  half  (56%)  of
+reported cases of RMSF were from only 
+five states: North Carolina, South Carolina, Tennessee, Oklahoma, and Arkansas (CDC,
+unpublished data, 2005). 
+However,  cases  have  been  reported  from  each  of  the  contiguous  48  states,  except
+Vermont and Maine 
+(10,11). Average reported annual incidence of RMSF per 
+1 million population, based on cases reported to CDC during 1997--2002, has 
+been  reported  (Figure  5).  Incidence  varies  considerably  by  geographic  area.  RMSF  is
+also 
+endemic  throughout  several  countries  in  Central  and  South  America,  including
+Argentina, Brazil, Columbia, Costa Rica, Mexico, and 
+Panama  (17,19,20).  Household  clusters  of  disease  and  hyperendemic  foci  of  infected
+ticks have been 
+reported (3,21). Dogs are susceptible to RMSF, and they might frequently develop the
+disease concurrently with other household members in 
+an endemic focus (22,23).
+HME
+ E. chaffeensis is transmitted to humans by the lone star tick, 
+A. americanum (Figure 6), and possibly other ticks. 
+
+The white-tailed deer is a major host of all stages of lone star ticks and is an important
+natural reservoir 
+for  E.  chaffeensis.  Natural  infections  of  coyotes,  dogs,  and  goats  have  been
+documented. The lone star tick is among the 
+most  commonly  encountered  ticks  in  the  southeastern  United  States,  with  range
+extensions into areas of the South 
+Central and New England states (Figure 7). Cases of HME are most commonly reported
+to CDC from Missouri, 
+Oklahoma,  Tennessee,  Arkansas,  and  Maryland,  although  the  disease  is  found
+throughout the range of the lone star tick. The 
+average  reported  annual  incidence  of  HME  was  0.7  cases  per  million  population,  but
+incidence varied by state, based on 
+cases  reported  to  CDC  from  2001  to  2002  (Figure  8).  In  a  prospective  study  among
+febrile patients with a history of a 
+recent  tick  bite  in  central  North  Carolina,  the  incidence  of  ehrlichial  infection  was
+approximately twice that of RMSF 
+(24). The reported incidence probably represents an underestimate of the true burden
+of disease in areas where 
+E. chaffeensis is endemic (24,25). Clusters of HME have been reported, suggesting that
+foci of ticks 
+infected with E. chaffeensis do 
+occur (21,26).
+HGA
+ The blacklegged tick (Ixodes scapularis; 
+Figure 9) is the vector of A. 
+
+phagocytophilum in New England and North 
+Central United States, whereas the western blacklegged tick 
+(Ixodes pacificus; Figure 10) is the principal vector in northern 
+California.  Deer,  elk,  and  wild  rodents  are  thought  to  be  reservoirs.  HGA  is  more
+frequently reported than HME, resulting in an 
+average reported annual incidence of 1.6 cases per million during 2001--2002. States
+that reported the highest 
+incidence during this period were Rhode Island (36.5 cases per million), Minnesota (12.3
+cases per million), Connecticut (8.1 cases per 
+million), New York (2.3 cases per million), and Maryland (1.6 cases per million) 
+(Figure 11). HGA has been identified as a 
+substantial cause of unexplained fever during the tick season in Wisconsin 
+(27). Evidence suggests that the incidence of HGA 
+in Wisconsin might be much higher than that in Minnesota 
+(7). Because these Ixodes species ticks also transmit 
+Borrelia burgdorferi (the causative agent of Lyme disease) and various 
+Babesia species (agents of human babesiosis), the preponderance 
+of cases of HGA occur in the same states that report high incidences of Lyme disease
+and human babesiosis. 
+Simultaneous infection with A. 
+phagocytophilum and B. burgdorferi has been reported 
+(28), and discerning such a mixed infection is 
+vital because it might affect antimicrobial choice. For example, amoxicillin can be used
+to treat early stage Lyme disease, but it is 
+not effective for HGA.
+Ehrlichia ewingii Infection
+
+ Amblyomma americanum also is the principal vector of the ehrlichial pathogen, 
+E. ewingii. The ecologic features of E. ewingii 
+are not completely known; however, dogs and deer have been naturally infected. Cases
+of 
+granulocytotropic ehrlichiosis caused by E. 
+ewingii have been reported primarily in immunocompromised patients from 
+Missouri, Oklahoma, and Tennessee (29,30). 
+E. ewingii infections in dogs or ticks also have been described in these states and 
+in  Arkansas,  Texas,  Florida,  Georgia,  Mississippi,  North  Carolina,  and  Virginia,
+suggesting that human infections with 
+this pathogen might be expected to occur throughout the range of the lone star tick 
+(31,32).
+ The following is a summary of the salient epidemiologic features of TBRD:
+ 
+Pathogen Tropisms and Clinical Presentation
+ R. rickettsii, E. chaffeensis, 
+E. ewingii, and A. phagocytophilum have specific and distinct cell tropisms. 
+R. rickettsii infects endothelial cells and more rarely infects underlying smooth muscle
+cells, where rickettsiae multiply freely in 
+the cytoplasm. The rickettsiae cause a small-vessel vasculitis, 
+resulting in a maculopapular or petechial rash in the 
+majority of patients. Vasculitis occurring in organs (e.g., the brain or lungs) can result in
+life-threatening complications. 
+R. rickettsii does not stain with the majority of routine histopathologic stains and is not
+detected by blood smear evaluation 
+because of limited numbers of circulating bacteria. Ehrlichioses and anaplasmosis are
+
+characterized by infection of 
+leukocytes,  where  the  causative  agents  multiply  in  cytoplasmic  membrane-bound
+vacuoles as microcolonies called morulae. 
+E. chaffeensis most frequently infects monocytes, whereas 
+A. phagocytophilum and E. ewingii demonstrate 
+a predilection for granulocytes. Morulae may be stained with conventional Wright or 
+Giemsa stains and are occasionally observed in leukocytes in smears of 
+peripheral  blood,  buffy  coat  preparations,  or  cerebrospinal  fluid.  In  this  context,  a
+routine 
+blood  smear  can  provide  a  presumptive  clue  for  early  diagnosis;  however,  the
+visualization of morulae still requires 
+confirmatory testing for Ehrlichia or Anaplasma 
+species by serology, polymerase chain reaction (PCR), or immunostaining methods 
+(33). The demonstration of morulae is also not sensitive, and a case of ehrlichiosis or
+anaplasmosis might be missed if 
+the diagnosis relies solely on detection of morulae on blood smears. Although the 
+diagnostic sensitivity of a blood smear is greater for HGA than for HME, blood smears
+might only be positive in up to 60% of patients with HGA 
+(34).
+ The following is a summary of salient features of pathogen tropisms:
+ A  thorough  clinical  history  that  elicits  recent  tick  exposure,  specific  recreational  or
+occupational exposures to 
+tick-infested habitats, recent travel to areas where TBRD might be endemic, or similar
+illnesses in family 
+members, coworkers, or pet dogs can provide critical information that can be used to
+make a presumptive diagnosis of TBRD 
+and  help  guide  subsequent  therapeutic  actions.  However,  the  absence  of  certain
+
+features does not exclude a diagnosis 
+of TBRD. These features include 1) history of tick bite or exposure, 2) recent travel to
+areas endemic for TBRD, and 
+3) similar illness in family members, coworkers, or pets.
+History of Tick Bite or Exposure
+ A  detailed  medical  history  might  reveal  activities  that  suggest  potential  exposure  to
+ticks. Outdoor activities 
+during  April--September,  particularly  in  areas  with  high  uncut  grass,  weeds,  and  low
+brush can increase the risk for tick 
+bites (35). These activities include recreational pursuits (e.g., camping, hiking, fishing,
+hunting, gardening, and 
+walking dogs) as well as occupational activities that involve persons being in brushy or
+grassy areas that might be inhabited 
+by ticks. Vegetation that borders roads, trails, yards, or fields also are potential areas
+that might be inhabited by ticks. 
+In endemic areas (where the agents causing TBRD are present at all times), even adults
+or children who play in grassy 
+areas in their backyard are at risk. Queries concerning frequency of contact with family
+pets, especially dogs, and findings 
+of tick attachment to animals or removal can be useful. The majority of patients will not
+recall or recognize an attached 
+tick because the location of the tick might be obscure; the bite is typically painless; and
+bites from smaller immature 
+stages of ticks (e.g., nymphs are approximately 1--2 mm 
+or the size of the head of a pin; Figure 12) might not be 
+
+readily detected but might still result in infection. A specific history of a tick bite within
+14 days of illness onset is 
+typically only reported in 60% of RMSF cases 
+(10,11) and has been reported in only 68% of ehrlichiosis cases 
+(6).  Therefore,  the  absence  of  definite  tick  attachment  should  never  dissuade  a
+physician from considering the 
+diagnosis of a TBRD. Finally, certain patients do not specifically recall tick exposure but
+might describe other pruritic, erythematous, or 
+ulcerated cutaneous lesions that they call a mosquito bite, spider bite, chigger bite, or
+bug bite, which can be 
+indistinguishable from an actual tick bite.
+Recent Travel to Areas Endemic for TBRD
+ Clinicians in areas of the United States where the incidence of TBRD is historically low
+are typically at a 
+disadvantage  in  distinguishing  these  diseases  among  multiple  other  infectious  and
+noninfectious syndromes that they 
+resemble.  Because  TBRD  are  typically  sporadic,  identifying  these  infections  requires
+high clinical acumen, especially in 
+an  environment  in  which  TBRD  have  not  previously  been  recognized  as  occurring
+frequently.
+ Knowledge of the epidemiology of these illnesses, including regions of the country with
+a high incidence (number 
+of  reported  cases  per  million  persons  per  year)  of  TBRD  (e.g.,  south  Atlantic,  north
+central, and south central and 
+New England states), is important. A history of recent travel from an endemic area of
+
+TBRD (e.g., within 2 weeks 
+preceding illness), especially if the patient had participated in an outdoor activity, might
+support a suspicion of tickborne 
+illness. Physicians should also consider the possibility that changes in tick vector range
+can influence the distribution of 
+TBRD. In addition, in 2004, a total of 13 cases of RMSF occurred in eastern Arizona, a
+state in which the disease was 
+previously rarely diagnosed (18).
+ Clinicians  should  also  consider  that  TBRD  occur  worldwide  and  might  have
+epidemiologic, seasonal, and 
+clinical features distinct from those observed in the United States. International travel
+to destinations (e.g., 
+southern Mediterranean, Central and South America, Africa, Asia, and the Middle East)
+might result in tick vector 
+exposure, particularly if the patient participated in rural or outdoor 
+activities. For example, African tick-bite fever (ATBF), 
+an increasingly reported travel-related rickettsiosis caused by 
+R. africae, has an estimated incidence of 4%--5.3% 
+among international travelers to sub-Saharan Africa and has been identified in clusters
+of 
+infection among group travelers (e.g., game hunters, safari tourists 
+[36], and humanitarian workers; 37). A related rickettsial organism, 
+R. conorii, endemic in the Mediterranean basin, Middle East, and parts of 
+Africa and the Indian subcontinent causes Mediterranean 
+spotted fever (MSF; 38). ATBF and MSF are characterized by fever, malaise, headache,
+and myalgia, which are typical 
+symptoms for other TBRD. However, a distinguishing clinical feature of both 
+
+travel-related diseases is the development of one 
+or  more  eschars  (a  dark,  scab-like  plaque  overlying  a  shallow  ulcer  with  surrounding
+erythema or scaling) at the site of 
+tick attachment that is noted coincident with or shortly after the 
+onset of fever in 30%--50% of patients 
+(36,39).
+Emerging TBRD
+ Similarly, considering TBRD as a diagnosis is essential 
+because of new, previously unrecognized rickettsial 
+pathogens that have been observed in tick vectors in the United States. For example, in
+2002, 
+R. parkeri was identified as a new cause of spotted fever rickettsiosis in a patient living
+in the southeastern coastal United States 
+(40). This agent is present in A. 
+maculatum (the Gulf Coast tick; Figure 13), which is found in the southeastern United
+States. A 
+clinical presentation, similar to ATBF and MSF (i.e., fever, headache, eschars, and 
+regional lymphadenopathy), was observed in a patient with no substantial travel history
+(Figure 14). The diagnosis of spotted fever rickettsiosis was confirmed by 
+using  rickettsial  culture  from  an  eschar  skin  biopsy  and  serologic  and  molecular
+methods 
+(40).  Other  spotted  fever  group  rickettsiae  might  also  cause  mild  febrile  illness  in
+certain persons exposed to ticks in highly endemic areas 
+(41). The common observation of antibodies to rickettsiae and ehrlichiae in persons and
+
+dogs might indicate exposure to 
+other rickettsial agents of varying pathogenicity 
+(15,16,24).
+Similar Illness in Family Members, Coworkers, or Pets
+ Clinicians might be inclined to offer diagnoses of a communicable viral infection when
+more than one family 
+member  is  affected  by  an  illness.  However,  clustering  of  certain  TBRD  is  a
+well-recognized epidemiologic phenomenon 
+and  might  occur  after  exposure  to  natural  foci  of  infected  ticks.  Temporally  and
+geographically related clusters 
+occurring  among  family  members,  coworkers,  or  persons  frequenting  a  particular
+common area have been observed. These 
+clusters include family clusters of RMSF (3), clusters of ehrlichiosis among residents of a
+golfing community 
+(26), and soldiers on field maneuvers 
+(21).  Common  exposures  to  tick-infested  habitats  or  outdoor  activities  might  place
+certain or 
+all  members  of  a  family  or  group,  including  pet  dogs,  at  risk  for  TBRD.  Concurrent
+infections with 
+R. rickettsii and Ehrlichia species also have been observed in humans and dogs 
+(22,24,29). Therefore, clinicians should query 
+patients  concerning  similar  illnesses  among  family  members,  close  coworkers,  or
+community residents, and even 
+among household dogs.
+ The following is a summary of salient features of clues from the clinical history:
+
+ 
+Clinical Assessment
+ The early signs and symptoms of HME, HGA, RMSF, and 
+E. ewingii infection might resemble nonspecific findings 
+of other infectious and noninfectious diseases. The 
+majority of patients with TBRD visit a physician during the first 
+2--4 days of illness, after an incubation period of approximately 5--10 days after a tick
+bite 
+(5). Patients with HGA might seek medical care later (4--8 days after fever onset) 
+(7). Substantial overlap occurs in the initial clinical presentation 
+of  the  three  diseases.  Initial  symptoms  commonly  include  a  sudden  onset  of  fever,
+chills, and headache, 
+commonly  associated  with  malaise  and  myalgia.  In  adults,  photophobia  might  be
+observed. Headache is nearly always reported 
+by adults who seek medical care and can be severe. Patients also might report nausea,
+vomiting, and anorexia early in 
+the course of their illness, especially with RMSF 
+(35) and HME in children. Diarrhea might occasionally 
+occur. Other frequently observed signs and symptoms in children with either RMSF or
+HME are 
+abdominal pain, altered mental status, and conjunctival injection. Abdominal pain might
+be severe enough to mimic appendicitis or other causes 
+of acute abdominal pain (42). Certain findings described in medical textbooks are less
+commonly observed by 
+clinicians and include bilateral periorbital 
+edema, edema of the dorsum of hands and feet, and calf pain and tenderness. 
+Because the signs and symptoms that persons have when they first seek medical care
+
+are nonspecific, clinicians frequently 
+must incorporate clues from the clinical and epidemiologic history and consider other
+features (e.g., the presence of rash 
+or abnormalities of routine laboratory tests).
+ In RMSF, a rash typically appears 2--4 days after onset of fever; however, the majority
+of patients will seek medical 
+care  before  this  period.  For  adults  and  children  with  RMSF,  rash  frequently  occurs
+earlier in children than in adults 
+(43)  and  is  eventually  observed  in  approximately  90%  of  children.  The  exanthem
+typically begins as small, blanching, 
+pink macules on the ankles, wrists, or forearms that evolve to maculopapules 
+(Figure 15). In half of cases, the rash might evolve to petechiae over the next several
+days of illness. The classic centripetal spread of rash is typically not noticed 
+by  the  patient  and  might  be  difficult  to  elicit  from  the  clinical  history.  The  rash  can
+expand to involve the entire 
+body,  including  the  palms  and  soles,  but  its  presence  on  the  face  is  usually  limited.
+Discerning the rash in 
+darker-skinned persons might be difficult. The classic spotted or generalized petechial
+rash of RMSF is usually not apparent until 
+the fifth or sixth day of the illness and signifies progression of the disease, 
+although the progression is considerably variable 
+(Figure 16). Patients with petechial rash are often severely ill, and 
+although fever and organ dysfunction might resolve quickly with treatment, complete
+recovery can take longer to 
+occur. The rash progression of RMSF includes 
+several critical exceptions and considerations.
+ Rash is observed in approximately one third of all 
+
+patients with HME (although rash is described in up to 66% 
+of children) and is rare in patients with HGA or 
+E. ewingii infection (45,46). For children with HME and a 
+rash,  distinguishing  the  condition  from  RMSF  might  be  difficult.  Rash  patterns
+occasionally associated with HME vary 
+in character from petechial or maculopapular 
+(Figure 17; 47) to diffuse erythema 
+(48) and typically occur later in the course of disease 
+(median: 5 days after onset; 6).The rash patterns might involve the extremities, trunk,
+face or, 
+rarely, the palms and soles (49).
+ In certain cases, patients with RMSF or ehrlichiosis might seek medical attention for a
+febrile illness that mimics 
+viral  meningoencephalitis.  Focal  neurologic  deficits,  including  cranial  or  peripheral
+motor nerve paralysis or sudden 
+transient deafness, might also be observed 
+(50).
+Differential Diagnosis of Febrile Patients with Rash
+ The differential diagnosis of febrile patients with rash is broad. The onset of TBRD is
+frequently rapid, and 
+the majority of patients experience high fever, shaking chills, 
+severe headache, and generalized myalgias, in contrast to 
+other tickborne diseases (e.g., Lyme disease). Tickborne viral fevers (e.g., Colorado tick
+fever) infrequently cause rash but 
+should be included in the differential diagnoses of TBRD, particularly when leukopenia
+
+and thrombocytopenia are present in 
+a patient who has recently traveled to the western United States. Clinically, TBRD might
+be essentially 
+indistinguishable from the majority of viral infections, particularly those in children. The
+dermatologic classification of the rash, 
+its distribution, pattern of progression and timing relative to onset of fever, and other
+systemic signs provide clues that 
+help the clinician rule out other exanthemata. Maculopapular rashes might 
+occur in association with multiple conditions, including human herpesvirus 6 infection
+(i.e., roseola), human parvovirus B19, enteroviral infection (e.g., 
+coxsackievirus  and  echovirus),  Epstein-Barr  virus  infection,  disseminated  gonococcal
+infection, 
+Mycoplasma pneumoniae infection, leptospirosis, secondary syphilis, Kawasaki disease,
+thrombotic thrombocytopenic purpura 
+(TTP), drug reactions, and immune complex-mediated illness 
+(51). A petechial rash can occur in association with meningococcal infection, 
+enteroviral  infection,  immune  thrombocytopenic  purpura,  and  after  group  A
+streptococcal pharyngitis. 
+R. rickettsii infection is noted for causing a rash on the soles and palms, although this
+distribution typically occurs late in RMSF and in only half of 
+cases, whereas in the majority of other bacterial or viral infections rash has not been 
+observed. Initially, clinicians might experience difficulty distinguishing 
+N. meningitidis infection from RMSF because both can 
+begin as a maculopapular rash and progress to a petechial rash, but the rash and other
+clinical features progress more rapidly in meningococcemia than in 
+RMSF. 
+
+Selected infectious causes and features of maculopapular and petechial rash illnesses
+have been reported 
+(Table 2). Other exanthematous diseases that can occasionally be confused with TBRD
+include toxic-shock syndrome, erythema 
+multiforme, and Stevens-Johnson syndrome.
+Laboratory Findings
+Obtaining  a  complete  blood  cell  count  (CBC),  comprehensive  metabolic  panel,  and
+examination of peripheral 
+blood smear are essential when considering a diagnosis of TBRD. The total white blood
+cell (WBC) count is typically 
+normal in patients with RMSF, but increased numbers of immature bands are generally
+observed. Thrombocytopenia, 
+mild  elevations  in  hepatic  transaminases,  and  hyponatremia  might  be  observed  with
+RMSF 
+(35),  whereas  leukopenia  (up  to  53%  of  patients),  thrombocytopenia  (up  to  94%  of
+patients), and modest elevations of liver transaminase levels 
+are particularly suggestive of HME and HGA 
+(52,53). An inverse relation has been reported between the mean WBC 
+and platelet count and the probability that HGA is the cause of nonspecific fever 
+(53). Blood smears might be useful in identifying patients with HGA 
+(34) or E. ewingii infection. Nonspecific changes 
+in  the  concentrations  of  routine  laboratory  parameters  that  have  been  observed  for
+patients infected with 
+E. chaffeensis (52) or A. 
+phagocytophilum have been reported 
+
+(53; Table 3).
+Cerebrospinal fluid (CSF) analysis might be a useful 
+adjunct to laboratory diagnosis of TBRD. When CSF is 
+evaluated in patients with RMSF or HME, a pleocytosis (usually <100 cells/microliter) is
+typically observed (with either 
+a polymorphonuclear or lymphocytic predominance), whereas CSF evaluated in 
+E. ewingii infection is characterized by a neutrophilic pleocytosis 
+(29). Moderately elevated protein (100--200 mg/dL) and normal glucose levels also 
+are commonly observed in patients with RMSF 
+(54,55). A Gram stain indicating gram-negative diplococci, very low 
+glucose  (i.e.,  <20--30  mg/dL),  or  neutrophilic  pleocytosis  is  more  suggestive  of
+meningococcal meningitis. Clinicians 
+should distinguish TBRD-related CNS involvement from other infections (e.g., 
+N. meningitidis); however, in the majority 
+of  patients,  reliably  distinguishing  between  RMSF,  HME,  and  meningococcal  infection
+based on laboratory testing is 
+difficult  (unless  a  pathogen  is  cultured).  Therefore,  empiric  treatment  for  both  TBRD
+and meningococcemia is necessary for 
+ill patients with fever and rash and for patients in whom neither disease can be ruled
+out.
+The following is a summary of salient clinical assessment features:
+Early clinical presentations of HME, HGA, RMSF, and 
+E. ewingii infection include fever, headache, myalgia, 
+and  malaise  and  are  difficult  to  distinguish  from  other  infectious  and  noninfectious
+diseases.
+Patients with RMSF typically do not have a spotted or petechial rash when they initially
+
+seek medical care during 
+the first 2--4 days of illness.
+A CBC, metabolic panel, and peripheral blood smear 
+examination are helpful in developing both a 
+differential diagnosis and treatment approach to TBRD.
+CSF analysis might reveal neutrophilic or lymphocytic pleocytosis and elevated protein
+but might not 
+reliably distinguish TBRD and meningococcal disease, 
+necessitating empiric antibiotic therapy for both conditions 
+when indicated.
+Leukopenia,  thrombocytopenia,  mild  hyponatremia,  and  mildly  elevated  hepatic
+transaminase levels are common 
+and particularly useful clinical features of TBRD, although the absence of these features
+does not exclude a diagnosis 
+of TBRD.
+Infrequent features of TBRD include severe abdominal pain and meningoencephalitis.
+Rash is observed frequently in RMSF, occasionally in HME, and rarely in HGA or 
+E. ewingii infection.
+Treatment and Management
+ Selected infectious causes and features of maculopapular and petechial rash illnesses
+have been reported 
+(Table 2). Other exanthematous diseases that can occasionally be confused with TBRD
+include toxic-shock syndrome, erythema 
+
+multiforme, and Stevens-Johnson syndrome.
+Laboratory Findings
+ Obtaining  a  complete  blood  cell  count  (CBC),  comprehensive  metabolic  panel,  and
+examination of peripheral 
+blood smear are essential when considering a diagnosis of TBRD. The total white blood
+cell (WBC) count is typically 
+normal in patients with RMSF, but increased numbers of immature bands are generally
+observed. Thrombocytopenia, 
+mild  elevations  in  hepatic  transaminases,  and  hyponatremia  might  be  observed  with
+RMSF 
+(35),  whereas  leukopenia  (up  to  53%  of  patients),  thrombocytopenia  (up  to  94%  of
+patients), and modest elevations of liver transaminase levels 
+are particularly suggestive of HME and HGA 
+(52,53). An inverse relation has been reported between the mean WBC 
+and platelet count and the probability that HGA is the cause of nonspecific fever 
+(53). Blood smears might be useful in identifying patients with HGA 
+(34) or E. ewingii infection. Nonspecific changes 
+in  the  concentrations  of  routine  laboratory  parameters  that  have  been  observed  for
+patients infected with 
+E. chaffeensis (52) or A. 
+phagocytophilum have been reported 
+(53; Table 3).
+ Cerebrospinal fluid (CSF) analysis might be a useful 
+adjunct to laboratory diagnosis of TBRD. When CSF is 
+evaluated in patients with RMSF or HME, a pleocytosis (usually <100 cells/microliter) is
+
+typically observed (with either 
+a polymorphonuclear or lymphocytic predominance), whereas CSF evaluated in 
+E. ewingii infection is characterized by a neutrophilic pleocytosis 
+(29). Moderately elevated protein (100--200 mg/dL) and normal glucose levels also 
+are commonly observed in patients with RMSF 
+(54,55). A Gram stain indicating gram-negative diplococci, very low 
+glucose  (i.e.,  <20--30  mg/dL),  or  neutrophilic  pleocytosis  is  more  suggestive  of
+meningococcal meningitis. Clinicians 
+should distinguish TBRD-related CNS involvement from other infections (e.g., 
+N. meningitidis); however, in the majority 
+of  patients,  reliably  distinguishing  between  RMSF,  HME,  and  meningococcal  infection
+based on laboratory testing is 
+difficult  (unless  a  pathogen  is  cultured).  Therefore,  empiric  treatment  for  both  TBRD
+and meningococcemia is necessary for 
+ill patients with fever and rash and for patients in whom neither disease can be ruled
+out.
+ The following is a summary of salient clinical assessment features:
+ 
+Treatment and Management
+ An assessment of clinical signs and symptoms, along with laboratory diagnostic tests
+and a thorough clinical 
+history,  will  help  guide  clinicians  in  developing  a  differential  diagnosis  and  treatment
+plan. At least 50% of patients with 
+TBRD might need to be hospitalized. Patients with evidence of organ dysfunction and
+severe thrombocytopenia, mental 
+status changes, and the need for supportive therapy should be hospitalized. Essential
+considerations include social factors, 
+
+the  likelihood  that  the  patient  can  and  will  take  oral  medications,  and  existing
+comorbidities. For 
+example,  a  patient  who  appears  well,  has  acute  febrile  illness  and  an  unrevealing
+history and physical examination, and whose laboratory 
+indices are within normal limits might warrant a "wait and watch" approach for 24 hours
+with reassessment if the 
+patient fails to improve. If laboratory testing of a patient with a history compatible with
+TBRD reveals leukopenia 
+or thrombocytopenia, or metabolic abnormalities, the 
+clinician should consider obtaining blood cultures for other 
+likely  pathogens  and  specific  laboratory  tests  and  initiating  empiric  oral  antimicrobial
+therapy that will 
+effectively  treat  TBRD.  Certain  patients  with  TBRD  can  be  treated  on  an  outpatient
+basis with oral medication, particularly if a 
+reliable caregiver is available in the home and the patient is compliant with follow-up
+medical care. When other diagnoses 
+are  under  consideration,  empiric  treatment  for  these  conditions  can  be  incorporated
+into the therapeutic plan. For 
+example, for a patient's condition in which meningococcal disease cannot be ruled out, 
+intramuscular  ceftriaxone  should  be  administered  in  addition  to  oral  doxycycline  to
+provide activity against possible meningococcal infection, 
+pending  culture  results.  Inpatient  observation  and  assessment  of  the  blood  cultures
+after 24 hours of incubation should 
+be considered for such patients. A critical step is for clinicians to keep in close contact
+with patients who are treated in 
+the outpatient setting to ensure that they are responding to therapy as 
+expected.
+
+ Appropriate antibiotic treatment should be initiated 
+immediately when a clinician suspects that the diagnosis 
+could  be  RMSF,  HME,  HGA,  or  E.  ewingii  infection,  based  on  clinical,  laboratory,  or
+epidemiologic findings. Delay 
+in treatment can lead to severe disease and fatal outcome for TBRD 
+(2--4). Because each of the agents causing TBRD 
+is susceptible to tetracycline-class antibiotics, these drugs, particularly doxycycline, are
+considered the therapy of choice 
+in  nearly  all  clinical  situations.  Fever  typically  subsides  within  24--48  hours  after
+treatment when the patient 
+receives  doxycycline  or  another  tetracycline  during  the  first  4--5  days  of  illness.  If  a
+patient fails to respond to early 
+treatment with a tetracycline antibiotic (i.e., within 48 hours), this response might be an
+indication that their condition is not 
+a TBRD. Severely ill patients might require longer periods before clinical 
+improvement is noted, especially if they have multiple organ dysfunction.
+ Doxycycline is the drug of choice for treatment of all TBRD in children and adults. This
+drug is bacteriostatic in 
+its activity against rickettsial organisms. The recommended dose is 100 mg per dose
+administered twice daily (orally 
+or intravenously) for adults or 2.2 mg/kg body weight per dose administered twice daily
+(orally or intravenously) 
+for children weighing <100 lbs. (45.4 kg). Intravenous 
+therapy is frequently indicated for hospitalized patients, and 
+oral therapy is acceptable for patients considered to be early in the disease and who
+can be managed as outpatients. 
+Oral  therapy  also  can  be  used  for  inpatients  who  are  not  vomiting  or  obtunded.  The
+
+optimal duration of therapy has not 
+been  established,  but  current  recommendations  for  RMSF  and  HME  are  for  treatment
+for at least 3 days after the 
+fever subsides and until evidence of clinical improvement is noted, which is typically for
+a minimum total course of 5--7 
+days. Severe or complicated disease might require longer treatment courses. 
+Patients  with  HGA  should  be  treated  with  doxycycline  for  10--14  days  to  provide
+appropriate length of therapy for possible incubating coinfection with 
+Lyme disease (45).
+ The  use  of  tetracyclines  to  treat  children  with  TBRD  is  no  longer  a  subject  of
+controversy 
+(56--58). Concerns regarding dental staining after tetracycline therapy have been based
+primarily on studies conducted during the 
+1960s that involved children receiving multiple courses of the drug for recurrent otitis
+media 
+(59,60).  The  propensity  of  tetracyclines  to  bind  calcium  can  lead  to  darkening  of  the
+teeth if the antibiotic is ingested during the period of 
+tooth  crown  formation.  More  recent  studies  in  1971  and  1998,  however,  have
+demonstrated that although multiple 
+exposures to tetracycline increase the risk for tooth staining, limited use of this drug in
+children during the first 6--7 years of 
+life has a negligible effect on the color of permanent incisors 
+(56,57). Beyond ages 6--7 years, the risk for 
+tetracycline  staining  is  of  minimal  consequence  because  visible  tooth  formation  is
+complete. Moreover, a prospective study 
+of children treated with doxycycline for RMSF demonstrated that these children did not
+have substantial discoloration 
+
+of permanent teeth compared with those who had never received the drug 
+(56). Because TBRD can be life-threatening 
+and  limited  courses  of  therapy  with  tetracycline-class  antibiotics  do  not  pose  a
+substantial risk for tooth staining, 
+the  American  Academy  of  Pediatrics  Committee  on  Infectious  Diseases  revised  its
+recommendations in 1997 and 
+has  identified  doxycycline  as  the  drug  of  choice  for  treating  presumed  or  confirmed
+RMSF and ehrlichial 
+infections in children of any age (61,62).
+ Chloramphenicol is an alternative drug that has been used to treat RMSF 
+(50);  however,  this  drug  is  associated  with  various  side  effects  and  might  require
+monitoring of blood indices. Chloramphenicol is no longer available in the oral 
+form  in  the  United  States.  Moreover,  epidemiologic  studies  in  which  CDC  case  report
+data have been used suggested 
+that patients with RMSF treated with 
+chloramphenicol have a higher risk of dying than persons who received a 
+tetracycline (11,63). In vitro evidence also indicates that chloramphenicol might not be
+an effective antibiotic for HME or 
+HGA  (64,65).  Clinicians  who  suspect  a  TBRD  and  are  considering  empiric  antibiotic
+therapy before laboratory 
+confirmation should be aware that doxycycline provides therapeutic coverage for RMSF,
+HME, HGA, and 
+E. ewingii infection.
+ Tetracyclines are generally contraindicated for use in pregnant women because of risks
+associated with malformation 
+of teeth and bones in the fetus and hepatotoxicity and pancreatitis in the mother 
+(66). However, tetracycline has been used successfully to treat HME in pregnant women
+
+(67), and the use of tetracyclines might be warranted during 
+pregnancy  in  life-threatening  situations  where  clinical  suspicion  of  TBRD  is  high.
+Whereas chloramphenicol is typically 
+the  preferred  treatment  for  RMSF  during  pregnancy,  care  must  be  used  when
+administering chloramphenicol late 
+during  the  third  trimester  of  pregnancy  because  of  risks  associated  with  grey  baby
+syndrome 
+(66). Substantially limited clinical data exist that support the use of other antimicrobials
+during pregnancy, although rifampin has been used successfully 
+in  several  pregnant  women  with  HGA  (68).  In  vitro  studies  have  demonstrated  that
+rifamycins provide effective 
+activity against Ehrlichia and Anaplasma 
+species (64,65), and therapy with rifampin may be considered for patients with 
+HGA who are unsuited for tetracycline treatment because of pregnancy or a history of
+drug allergy 
+(45).  Clinicians  should  use  caution,  however,  in  ensuring  that  RMSF  can  be  ruled  out
+because the clinical presentations of RMSF and 
+anaplasmosis  are  similar,  and  the  comparative  effectiveness  of  rifampin  and
+doxycycline is unknown at this time.
+ Because certain patients with TBRD might initially 
+receive an alternative diagnosis, they might be empirically 
+treated
+ with
+ antibiotics
+ inactive
+ against
+ rickettsiae,
+ including
+ penicillins,
+cephalosporins, aminoglycosides, erythromycin, 
+or sulfonamides. This situation presents both diagnostic and therapeutic challenges. In
+certain cases, 
+patients treated with beta-lactam antibiotics or 
+
+sulfa-containing drugs are mistakenly thought to have drug 
+eruptions when they later manifest a rash 
+(66),  further  postponing  a  correct  diagnosis  and  appropriate  treatment.  Because  the
+physician might conclude 
+that the prescribed treatment will take time to work, a delay in obtaining 
+critical additional laboratory or clinical 
+information  also  might  be  a  result.  In  addition,  sulfa-containing  antimicrobials  have
+been associated with increased severity of 
+TBRD, although whether disease severity is directly related to the use of 
+sulfa-containing drugs or the delayed administration of 
+more effective antimicrobials is not clear. Cases of severe ehrlichiosis complicated by
+acute respiratory distress syndrome have been 
+associated with the use of trimethoprim-sulfamethoxazole 
+(69,70).
+ In  addition,  clinicians  should  note  the  overlap  between  early  symptoms  of  invasive
+meningococcal infection 
+and TBRD. These conditions are difficult to distinguish early in the course of illness. In
+patients for whom both 
+conditions  are  included  in  the  initial  differential  diagnoses,  after  performing  blood
+cultures and a lumbar puncture, 
+empirically  treating  for  both  diseases  is  appropriate.  This  treatment  can  be
+accomplished by adding an appropriate 
+parenteral penicillin or cephalosporin that has activity against 
+N. meningitidis to doxycycline therapy.
+ Preventive antibiotic therapy for rickettsial infection is not indicated for patients who
+have had recent tick bites 
+and are not ill. Limited numbers of ticks in areas where tickborne diseases are endemic
+
+are infected with 
+pathogenic rickettsiae. Approximately 1%--3% of vector ticks are 
+infected with spotted fever group rickettsiae 
+(71). However, less than 1% of these rickettsiae usually have been confirmed to be 
+R. rickettsii (72,73). Approximately 
+5%--15% of lone star ticks are infected with E. chaffeensis 
+(47), and 10%--50% of I. 
+scapularis ticks are reported to be infected 
+with A. phagocytophilum (74,75) in endemic areas. Therefore, the risk for such infection
+after a tick bite is low. Moreover, for 
+RMSF, preventive therapy has been demonstrated to delay but not prevent the onset of
+symptoms 
+(76).
+ The following is a summary of salient features of treatment and management:
+ 
+Considerations for Management of Patients with Severe Manifestations 
+of TBRD
+ A substantial number of patients with TBRD require hospitalization 
+(6,7,10). Severe manifestations of TBRD 
+might  include  prolonged  fever,  renal  failure,  disseminated  intravascular  coagulopathy
+(DIC), hemophagocytic 
+syndrome, meningoencephalitis, and acute respiratory distress syndrome. 
+A notable exception is that HGA has not been 
+associated with meningoencephalitis.
+ RMSF is frequently a severe illness, and patients commonly require hospitalization. Up
+to 20% of untreated cases 
+and 5% of treated cases have fatal outcome, making RMSF the most commonly fatal
+
+rickettsial disease in the United 
+States (5,10). However, assessment of passive reporting of RMSF-associated death has
+suggested that only one third of 
+fatal cases of RMSF were reported to CDC during 1983--1998 
+(77). Therefore, the actual case-fatality rate of RMSF 
+might be closer to 5%--10%. Host factors associated with severe or fatal RMSF 
+include  advanced  age,  male  gender,  black  race,  chronic  alcohol  abuse,  and
+glucose-6-phosphate-dehydrogenase (G6PD) deficiency 
+(50). Deficiency of G6PD is a sex-linked genetic condition affecting approximately 12%
+of the U.S. black male population; deficiency of this enzyme 
+is associated with a high proportion of fulminant cases of RMSF 
+(50,78). Fulminant cases follow a clinical course that 
+is  fatal  within  5  days  of  onset.  Long-term  health  effects  persisting  for  >1  year  after
+acute RMSF infection include 
+partial  paralysis  of  the  lower  extremities;  gangrene  requiring  amputation  of  fingers,
+toes, arms, or legs; hearing loss; 
+blindness; loss of bowel or bladder control; movement disorders; and speech disorders 
+(79). These complications are observed most frequently in persons 
+recovering  from  severe,  life-threatening  disease,  often  after  lengthy  hospitalizations.
+Digital 
+necrosis in a patient occurring late in the course of RMSF has been illustrated 
+(Figure 18).
+ Similarly, HME and HGA can cause serious or fatal disease as well, although at lower
+rates than are observed 
+for RMSF. At least 50% of patients with HGA and HME are hospitalized to rule out other
+potentially 
+life-threatening conditions and to manage the illness 
+
+(34,47). Clinical indications for admission might include 
+immunocompromised  state,  pain  management  (i.e.,  headache  and  myalgias),  mental
+confusion, cough, infiltrate in chest radiograph, 
+abnormal spinal fluid findings, or specific acute organ failure. Approximately 3% of HME
+patients and less than 1% of 
+HGA patients with symptoms severe enough to seek medical attention will die from the
+infection 
+(25,34,47). The severity of ehrlichiosis might be related, in part, to the immune status
+of the patient. Persons with compromised immune 
+systems  caused  by  immunosuppressive  therapies  (e.g.,  corticosteroids  or  cancer
+chemotherapy), human 
+immunodeficiency  virus  (HIV)  infection,  organ  transplantation,  or  splenectomy  appear
+to develop more severe disease from 
+E.  chaffeenis  infection,  and  case-fatality  rates  for  these  persons  are  characteristically
+higher than 
+case-fatality rates reported for the general population 
+(30). Although the case fatality rate for HGA (0.5%--1.0%) is lower than that for HME, 
+notable  complications,  including  respiratory  failure,  a  toxic-shock--like  syndrome,
+rhabdomyolysis, pancreatitis, acute 
+renal failure, and invasive infections caused by opportunistic viral or fungal agents can
+occur, especially among patients 
+who have co-morbid illnesses or who are actively immunosuppressed 
+(45). In addition, advanced patient age and delay 
+in diagnosis and the onset of specific antibiotic therapy are predictors of a more severe
+course of HGA 
+(53).
+ Management of severely ill patients with TBRD should 
+
+include careful assessment of fluid and electrolyte 
+balance.  Vasopressors  and  rigorous  fluid  management  might  be  needed,  especially
+when the illness is complicated by renal 
+failure or hypotension. Patients might have pulmonary 
+infiltrates because of vasculitis that are erroneously thought to be 
+caused by cardiac failure or pneumonia. Seizures might require 
+aggressive treatment, and arrhythmias (e.g., atrial fibrillation 
+or  flutter)  will  frequently  respond  to  treatment  of  the  patient's  underlying  disease.
+Consultation with an intensivist or 
+an infectious disease subspecialist might be helpful in managing these complications.
+ The following is a summary of salient features of severe manifestations:
+ Rickettsial  infections  pose  difficult  diagnostic  challenges  to  both  clinicians  and
+laboratorians. Rapid 
+confirmatory  assays  are  not  commonly  available  to  guide  treatment  decisions  of
+acutely ill patients. However, confirmatory assays 
+provide the physician with vital information that retrospectively validates the accuracy
+of the clinical diagnosis. 
+Laboratory confirmation of infection is also vital to understanding the epidemiology and
+public health impact of TBRD.
+ Several laboratory methods are available to diagnose TBRD. However, they vary in the
+time required to obtain 
+results and in the type of information they provide the clinician. Therefore, treatment
+decisions should be based 
+on epidemiologic and clinical clues and should never be 
+delayed while waiting for laboratory confirmation of a 
+diagnosis.  Similarly,  test  results  should  be  interpreted  in  the  context  of  the  patient's
+illness and the epidemiologic setting. 
+
+Misuse of specialized tests for patients with a low probability of the disease and in areas
+with a low prevalence of disease 
+might  result  in  confusion.  A  fundamental  understanding  of  the  signs,  symptoms,  and
+epidemiology of the disease is critical 
+in  guiding  requests  for  tests  and  interpretation  of  test  results  for  ehrlichioses,
+anaplasmosis, and RMSF. Studies 
+have suggested that antibiotic therapy might diminish the development of convalescent
+antibodies  in  RMSF  (CDC,  unpublished  data,  2005).  However,  the  degree  to  which
+doxycycline might cause this 
+occurrence  is  uncertain.  If  molecular  or  culture  diagnostic  methods  are  conducted,
+obtaining blood for testing before antibiotics are administered 
+is essential to obtain the best results.
+Blood-Smear Microscopy
+ Microscopic  examination  of  blood  smears  stained  with  eosin-azure  type  dyes  (e.g.,
+Wright-Giemsa stain) might 
+reveal  morulae  in  the  cytoplasm  of  infected  circulating  leukocytes  (1%--  20%)  of
+patients with HME and 20%--80% 
+of patients with HGA (45,47) during the first week of 
+infection, which is highly suggestive of ehrlichial or 
+anaplasma infection. However, blood smear examination is 
+insensitive and should be performed by an experienced 
+microscopist. In addition, a negative blood smear examination should not dissuade the
+caregiver from initiating treatment 
+with doxycycline if the clinical presentation and routine laboratory findings support the
+
+diagnosis of ehrlichiosis 
+or anaplasmosis. Blood smear examination is not useful for diagnosis of RMSF.
+Serologic Testing
+ Serologic  assays  for  RMSF,  HME,  and  HGA  are  commonly  available  through  multiple
+commercial and state 
+public health laboratories. Serologic evaluations are commonly conducted by using the
+indirect immunofluorescence 
+antibody (IFA) assay. Antibodies in the serum bind to fixed antigens on a slide and are
+detected by a fluorescein-labeled 
+conjugate.  Although  IFA  remains  the  principle  diagnostic  tool  for  the  diagnosis  of
+rickettsial and ehrlichial infections, no 
+standardized antigens, conjugates, or agreement on what constitutes a positive result
+among the various laboratories providing these 
+tests  exist.  Individual  laboratories  should  be  consulted  regarding  their  test  threshold
+levels. Enzyme-linked 
+immunosorbent assay (ELISA) is becoming a more frequently used assay. Similar to IFA,
+the accuracy of 
+ELISA depends on the laboratory conducting the test, the quality and specificity of the
+antigen, and the threshold levels at which a positive 
+result is considered. Available ELISA tests are qualitative and cannot be used effectively
+to monitor increases or 
+decreases in antibody titer.
+ The sensitivity of the IFA assay is substantially dependent on the timing of collection of
+the sample. Early in 
+any TBRD, a majority of serologic tests will be negative. Clinical illness nearly always
+
+precedes laboratory diagnosis by 
+any  method.  As  the  illness  progresses  to  7--10  days,  the  sensitivity  of  IFA  serology
+increases. The IFA is estimated to 
+be  94%--100%  sensitive  after  14  days,  and  that  sensitivity  is  increased  if  paired
+samples are tested 
+(80).  The  IFA  is  considered  to  be  the  gold  standard  of  serologic  testing  for  rickettsial
+diseases, and other serologic tests have not 
+been developed that surpass the sensitivity and specificity of these assays. Testing two
+sequential serum or plasma 
+samples  together  to  demonstrate  a  rising  IgG  or  IgM  antibody  level  is  essential  to
+confirm acute infection. Paired 
+serum specimens taken early (i.e., acute) and later (i.e., convalescent) in the disease
+course represent the preferred specimens 
+for evaluation. Typically, these specimens should be taken at least 2--3 weeks apart to
+examine for a four-fold or 
+greater increase in antibody titer 
+(33).
+The majority of patients demonstrate increased IgM or IgG titers by the second week of
+the illness 
+(patients  infected  with  certain  imported  rickettsiae  might  not  demonstrate  increased
+titers until 4 weeks after illness onset). 
+However, patients might lack diagnostic IgG and IgM antibody titers in the first 7 days
+of illness, a period when the majority 
+of patients initially seek medical care and laboratory testing is performed. The duration
+of time that antibodies will 
+persist  after  recovery  from  the  infection  is  variable.  In  certain  persons,  high  titers  of
+
+antibodies against 
+A. phagocytophilum have been observed for 3½ years after the acute illness 
+(81). For RMSF, IgG and IgM titers increase 
+concurrently by the second week of illness, and IgM antibodies wane after 3--4 months,
+whereas IgG titers persist for 7--8 months 
+(82). The majority of commercial reference laboratories conduct testing for IgG and IgM
+antibodies.
+Cross-reactivity  of  antigens  results  in  antibody  responses  that  are  typically
+group-specific, but not necessarily 
+species-specific, after infections with these pathogens. For 
+example, serologic tests that detect antibodies reactive with 
+R. rickettsii might have resulted from previous infections with other spotted 
+fever group rickettsial species. Similarly, 
+antibodies reactive with E. chaffeensis or 
+A. phagocytophilum occasionally react with the other ehrlichial species, which might 
+impede epidemiologic distinction between the ehrlichial infections 
+(83). Most patients with E. ewingii infections 
+develop antibodies that react with E. chaffeensis 
+antigens. Little cross-reactivity of 
+Rickettsia with Ehrlichia or Anaplasma 
+species exists. Certain serologically confirmed cases of infection thought to be RMSF,
+HME, or HGA might represent 
+infections  with  the  other  agent  or  with  another  antigenically  related  species.  The
+predominance of 
+non-R. rickettsii species in tick vectors collected in RMSF-endemic areas suggests that
+related organisms of undetermined pathogenicity might play 
+a  role  in  human  illness  (84).  This  occurrence  is  especially  true  for  persons  who  are
+
+infected with rickettsial organisms 
+from endemic areas outside of the United States.
+Nucleic Acid Detection
+Amplification  of  specific  DNA  by  PCR  provides  a  rapid  method  for  detecting  TBRD
+infections. These tests 
+are  available  from  CDC,  certain  state  health  laboratories,  and  a  limited  number  of
+research and commercial 
+laboratories (Box). Conventional PCR tests have no specified standard, and 
+diagnostic sensitivity and specificity might vary 
+among  individual  assays  (80).  Doxycyline  treatment,  in  particular,  can  also  decrease
+the sensitivity of PCR 
+(45). In studies of A. phagocytophilum 
+infection, PCR was estimated as 60%--70% sensitive 
+(53), and for diagnosis of infection with 
+E. chaffeensis, PCR was estimated to be 52%--56% sensitive 
+(25) to 87% sensitive (85). For RMSF, PCR is 
+probably more useful for detecting the etiologic agent in a skin biopsy or autopsy tissue
+specimen than it is in an acute 
+blood sample because, typically, low numbers of rickettsiae circulate in the blood in the
+absence of advanced disease 
+or  fulminant  infection  (18).  PCR  testing  of  skin  biopsies  alone  does  not  offer  ideal
+sensitivity, and a negative result 
+does  not  exclude  the  diagnosis  because  of  focality  of  vessel  involvement.  Laboratory
+confirmation of RMSF in the acute 
+stage  is  improved  when  PCR  is  used  in  conjunction  with  IHC  staining.  PCR  of  whole
+
+blood specimens is more useful 
+for  confirming  HME,  HGA,  and  E.  ewingii  infection  because  of  the  tropism  of  these
+pathogens for circulating 
+WBC.  However,  no  optimal  time  frame  has  been  established  that  is  ideal  for  sample
+collection to ensure the highest 
+sensitivity for diagnosing ehrlichioses or anaplasmosis. New techniques (e.g., real-time
+PCR) might offer the 
+advantages  of  speed,  reproducibility,  quantitative  capability,  and  low  risk  for
+contamination, compared with conventional PCR 
+(86).
+IHC Staining
+Another  approach  to  diagnosing  TBRD  is  immunohistochemical  (IHC)  staining  of
+antigens in 
+formalin-fixed,  paraffin-embedded  biopsy  or  autopsy  tissues.  This  test  can  be
+particularly useful to diagnose fatal TBRD in 
+those  patients  for  whom  diagnostic  levels  of  antibodies  have  not  developed  before
+death. For patients with a rash, IHC 
+or immunofluorescence staining of a skin biopsy can be a critical diagnostic technique
+for RMSF. Immunostaining of 
+skin  biopsy  specimens  has  been  reported  to  be  100%  specific  and  70%  sensitive  in
+diagnosing RMSF 
+(35). This method has been used to diagnose fatal and nonfatal cases of RMSF 
+(18,87--89). Because rickettsiae might be focally distributed 
+in  tissue,  this  test  might  not  always  detect  the  agent.  Autopsy  tissues  also  are
+appropriate for evaluation and 
+
+include the liver, spleen, lung, heart, kidney, and brain. The IHC method is most useful
+in documenting the presence of 
+organisms in patients before initiation of antibiotic therapy or within the first 48 hours
+after antibiotic therapy has been 
+initiated.  IHC  techniques  also  are  available  for  diagnosing  cases  of  ehrlichioses  and
+anaplasmosis from bone marrow biopsies 
+and tissue obtained at autopsy of fatal cases, including the spleen, lymph nodes, liver,
+and lung 
+(90--92). Immunostaining for spotted fever group rickettsiae, 
+E. chaffeensis, and A. 
+phagocytophilum is offered by CDC and certain 
+university-based hospitals and commercial laboratories in the United States (Box).
+Culture
+Because the agents that cause TBRD are obligate intracellular pathogens, they must be
+isolated by using cell 
+culture  techniques  that  are  typically  more  labor-intensive  and  time-consuming  than
+serologic, molecular, or IHC 
+assays.  Theoretically,  any  laboratory  capable  of  performing  routine  viral  isolations
+might have the expertise to isolate 
+these  pathogens.  However,  R.  rickettsii  is  classified  as  a  Biosafety  Level-3  (BSL-3)
+agent, and attempts to isolate this agent 
+should be made only in laboratories equipped to handle BSL-3 pathogens 
+(93). Laboratories attempting culture of 
+R. rickettsii bacteria need to comply completely with federal regulations 
+(42 C.F.R. [2004]) regarding the registration and use 
+
+of  select  agents  (93).  As  a  result,  culture  is  rarely  used  for  diagnosis,  and  other
+methods (e.g., serology, PCR, 
+or immunostaining) are used to confirm infection.
+The following is a summary of salient features of diagnostic testing:
+Blood  smear  microscopy  might  reveal  presence  of  morulae  in  infected  leukocytes,
+which is highly suggestive of 
+HGA or, less commonly, HME.
+Blood smears are not useful to diagnose RMSF.
+Examination  of  paired  serum  samples  obtained  2--3  weeks  apart  that  demonstrate  a
+rise in antibody titer is the 
+most appropriate approach to confirm TBRD.
+Patients usually do not have diagnostic serum antibody titers during the first week of
+illness; therefore, an 
+inability to detect antibodies (IgG or IgM) in acute-phase 
+serum does not exclude TBRD.
+Immunohistochemistry of a biopsied skin lesion or 
+autopsy tissues is useful for RMSF diagnosis in patients for whom 
+diagnostic titers of antibodies have not yet 
+developed.
+Whole blood specimens might be useful for a PCR confirmation of HME, HGA, and 
+E. ewingii infection; however, a negative result does not rule out the diagnosis.
+Surveillance and Reporting
+
+ The majority of patients demonstrate increased IgM or IgG titers by the second week of
+the illness 
+(patients  infected  with  certain  imported  rickettsiae  might  not  demonstrate  increased
+titers until 4 weeks after illness onset). 
+However, patients might lack diagnostic IgG and IgM antibody titers in the first 7 days
+of illness, a period when the majority 
+of patients initially seek medical care and laboratory testing is performed. The duration
+of time that antibodies will 
+persist  after  recovery  from  the  infection  is  variable.  In  certain  persons,  high  titers  of
+antibodies against 
+A. phagocytophilum have been observed for 3½ years after the acute illness 
+(81). For RMSF, IgG and IgM titers increase 
+concurrently by the second week of illness, and IgM antibodies wane after 3--4 months,
+whereas IgG titers persist for 7--8 months 
+(82). The majority of commercial reference laboratories conduct testing for IgG and IgM
+antibodies.
+ Cross-reactivity  of  antigens  results  in  antibody  responses  that  are  typically
+group-specific, but not necessarily 
+species-specific, after infections with these pathogens. For 
+example, serologic tests that detect antibodies reactive with 
+R. rickettsii might have resulted from previous infections with other spotted 
+fever group rickettsial species. Similarly, 
+antibodies reactive with E. chaffeensis or 
+A. phagocytophilum occasionally react with the other ehrlichial species, which might 
+impede epidemiologic distinction between the ehrlichial infections 
+(83). Most patients with E. ewingii infections 
+develop antibodies that react with E. chaffeensis 
+
+antigens. Little cross-reactivity of 
+Rickettsia with Ehrlichia or Anaplasma 
+species exists. Certain serologically confirmed cases of infection thought to be RMSF,
+HME, or HGA might represent 
+infections  with  the  other  agent  or  with  another  antigenically  related  species.  The
+predominance of 
+non-R. rickettsii species in tick vectors collected in RMSF-endemic areas suggests that
+related organisms of undetermined pathogenicity might play 
+a  role  in  human  illness  (84).  This  occurrence  is  especially  true  for  persons  who  are
+infected with rickettsial organisms 
+from endemic areas outside of the United States.
+Nucleic Acid Detection
+ Amplification  of  specific  DNA  by  PCR  provides  a  rapid  method  for  detecting  TBRD
+infections. These tests 
+are  available  from  CDC,  certain  state  health  laboratories,  and  a  limited  number  of
+research and commercial 
+laboratories (Box). Conventional PCR tests have no specified standard, and 
+diagnostic sensitivity and specificity might vary 
+among  individual  assays  (80).  Doxycyline  treatment,  in  particular,  can  also  decrease
+the sensitivity of PCR 
+(45). In studies of A. phagocytophilum 
+infection, PCR was estimated as 60%--70% sensitive 
+(53), and for diagnosis of infection with 
+E. chaffeensis, PCR was estimated to be 52%--56% sensitive 
+(25) to 87% sensitive (85). For RMSF, PCR is 
+
+probably more useful for detecting the etiologic agent in a skin biopsy or autopsy tissue
+specimen than it is in an acute 
+blood sample because, typically, low numbers of rickettsiae circulate in the blood in the
+absence of advanced disease 
+or  fulminant  infection  (18).  PCR  testing  of  skin  biopsies  alone  does  not  offer  ideal
+sensitivity, and a negative result 
+does  not  exclude  the  diagnosis  because  of  focality  of  vessel  involvement.  Laboratory
+confirmation of RMSF in the acute 
+stage  is  improved  when  PCR  is  used  in  conjunction  with  IHC  staining.  PCR  of  whole
+blood specimens is more useful 
+for  confirming  HME,  HGA,  and  E.  ewingii  infection  because  of  the  tropism  of  these
+pathogens for circulating 
+WBC.  However,  no  optimal  time  frame  has  been  established  that  is  ideal  for  sample
+collection to ensure the highest 
+sensitivity for diagnosing ehrlichioses or anaplasmosis. New techniques (e.g., real-time
+PCR) might offer the 
+advantages  of  speed,  reproducibility,  quantitative  capability,  and  low  risk  for
+contamination, compared with conventional PCR 
+(86).
+IHC Staining
+ Another  approach  to  diagnosing  TBRD  is  immunohistochemical  (IHC)  staining  of
+antigens in 
+formalin-fixed,  paraffin-embedded  biopsy  or  autopsy  tissues.  This  test  can  be
+particularly useful to diagnose fatal TBRD in 
+those  patients  for  whom  diagnostic  levels  of  antibodies  have  not  developed  before
+
+death. For patients with a rash, IHC 
+or immunofluorescence staining of a skin biopsy can be a critical diagnostic technique
+for RMSF. Immunostaining of 
+skin  biopsy  specimens  has  been  reported  to  be  100%  specific  and  70%  sensitive  in
+diagnosing RMSF 
+(35). This method has been used to diagnose fatal and nonfatal cases of RMSF 
+(18,87--89). Because rickettsiae might be focally distributed 
+in  tissue,  this  test  might  not  always  detect  the  agent.  Autopsy  tissues  also  are
+appropriate for evaluation and 
+include the liver, spleen, lung, heart, kidney, and brain. The IHC method is most useful
+in documenting the presence of 
+organisms in patients before initiation of antibiotic therapy or within the first 48 hours
+after antibiotic therapy has been 
+initiated.  IHC  techniques  also  are  available  for  diagnosing  cases  of  ehrlichioses  and
+anaplasmosis from bone marrow biopsies 
+and tissue obtained at autopsy of fatal cases, including the spleen, lymph nodes, liver,
+and lung 
+(90--92). Immunostaining for spotted fever group rickettsiae, 
+E. chaffeensis, and A. 
+phagocytophilum is offered by CDC and certain 
+university-based hospitals and commercial laboratories in the United States (Box).
+Culture
+ Because the agents that cause TBRD are obligate intracellular pathogens, they must
+be isolated by using cell 
+culture  techniques  that  are  typically  more  labor-intensive  and  time-consuming  than
+
+serologic, molecular, or IHC 
+assays.  Theoretically,  any  laboratory  capable  of  performing  routine  viral  isolations
+might have the expertise to isolate 
+these  pathogens.  However,  R.  rickettsii  is  classified  as  a  Biosafety  Level-3  (BSL-3)
+agent, and attempts to isolate this agent 
+should be made only in laboratories equipped to handle BSL-3 pathogens 
+(93). Laboratories attempting culture of 
+R. rickettsii bacteria need to comply completely with federal regulations 
+(42 C.F.R. [2004]) regarding the registration and use 
+of  select  agents  (93).  As  a  result,  culture  is  rarely  used  for  diagnosis,  and  other
+methods (e.g., serology, PCR, 
+or immunostaining) are used to confirm infection.
+ The following is a summary of salient features of diagnostic testing:
+ 
+Surveillance and Reporting
+ National reporting requirements are determined collaboratively by the Council of State
+and Territorial 
+Epidemiologists  and  CDC.  RMSF,  anaplasmosis,  and  all  forms  of  ehrlichiosis  are
+nationally notifiable diseases. RMSF 
+became nationally notifiable in 1989 and anaplasmosis and ehrlichiosis, in 1998. When
+health-care providers identify a potential case 
+of TBRD, they should notify the local health department. The local health department,
+in cooperation with the 
+state health department, can assist the health-care provider in 
+obtaining appropriate diagnostic testing to confirm 
+the diagnosis. All confirmed or probable cases of RMSF, HME, HGA, and 
+E. ewingii infection should be reported to 
+
+the state health department. The case definitions for confirmed and probable cases of
+RMSF, HME, and HGA have 
+been  reported  (Table  4;  33,94).  Each  state  health  department  compiles  case  reports
+and submits them to CDC, where 
+data are compared and disseminated via the MMWR Weekly 
+and annual Surveillance Summaries.
+ Since 1981, CDC has collected and analyzed surveillance data on RMSF by using two
+complementary systems. 
+States  submit  reports  electronically  via  the  National  Electronic  Telecommunications
+System for Surveillance (NETSS) as part 
+of  the  National  Notifiable  Disease  Surveillance  System.  NETSS  reports  capture
+diagnosis, date of onset, and 
+basic demographic and geographic data related to the case. In addition, physicians are
+encouraged to complete a 
+standardized case report form (CRF; Appendix) and forward it to the state health 
+department, where it is compiled with similar reports and forwarded to CDC. The CRF
+summarizes demographic, epidemiologic, and outcome data that are 
+not  reported  in  NETSS.  Data  collected  on  the  CRF  are  useful  in  summarizing  the
+epidemiologic characteristics of 
+disease and focusing on prevention and 
+treatment. This process includes 
+examining lesser understood aspects of these 
+conditions  (e.g.,  the  role  of  immunosuppression  as  a  risk  factor  for  disease;  the
+prevalence of severe outcomes of 
+infection, including death; and hospitalization trends). In 2001, the form was expanded
+to include reporting of other 
+common TBRD, including HGA and HME, in addition to RMSF.
+
+A surveillance system is critical for studying the changing epidemiology of TBRD and for
+developing effective 
+prevention strategies and public health education programs. The 
+detection of a cluster of RMSF cases in a region of Arizona where 
+the disease was not known to occur and subsequent prevention and control initiatives
+underscore the vital role of 
+surveillance  and  reporting  in  protecting  the  public's  health.  By  the  end  of  2004,  the
+highest number of RMSF cases was 
+reported to CDC (n = 1,514), suggesting potential increased 
+activity. However, underreporting of TBRD is probably 
+common.
+The following is a summary of salient features of surveillance and reporting:
+RMSF, HME, HGA, and other ehrlichioses are reportable diseases in the United States.
+Physicians  who  identify  a  potential  case  of  TBRD  should  notify  the  local  health
+department, which can assist 
+with obtaining diagnostic testing to confirm the diagnosis.
+Surveillance and reporting of TBRD are key components of public health education and
+disease prevention efforts.
+Prevention
+ A surveillance system is critical for studying the changing epidemiology of TBRD and
+for developing effective 
+
+prevention strategies and public health education programs. The 
+detection of a cluster of RMSF cases in a region of Arizona where 
+the disease was not known to occur and subsequent prevention and control initiatives
+underscore the vital role of 
+surveillance  and  reporting  in  protecting  the  public's  health.  By  the  end  of  2004,  the
+highest number of RMSF cases was 
+reported to CDC (n = 1,514), suggesting potential increased 
+activity. However, underreporting of TBRD is probably 
+common.
+ The following is a summary of salient features of surveillance and reporting:
+ 
+Prevention
+ No  licensed  vaccines  for  TBRD  exist.  Avoiding  tick  bites  and  promptly  removing
+attached ticks remain the best 
+disease  prevention  strategies.  Persons  should  limit  their  exposure  to  tick-infested
+habitats, including wooded or grassy 
+areas. Persons should walk on cleared trails and avoid brushing against tall grass and
+other vegetation. This practice 
+is  particularly  essential  during  periods  of  peak  tick  activity  (i.e.,  late  spring  and
+summer) but should be 
+observed,  regardless  of  the  season.  Protective  clothing,  including  a  hat,  long-sleeved
+shirts, pants, socks, and closed-toe shoes 
+are  helpful  in  preventing  ticks  from  reaching  the  skin  and  attaching.  Wearing
+light-colored clothing is 
+preferred because crawling ticks can be seen easily.
+ Various over-the-counter products containing DEET 
+(N,N-diethyl-m-toluamide) are available for application 
+
+on exposed skin and clothing to repel ticks. The higher the concentration of DEET, the
+longer the duration of 
+protection per application. Products with DEET concentrations as low as 10% and those
+containing 25%--35% concentrations 
+are  considered  optimal.  No  evidence  exists  that  concentrations  >50%  are  more
+efficacious or provide longer duration 
+of protection (95). The American Academy of 
+Pediatrics has recommended that DEET concentrations no greater than 
+20%--30%  should  be  used  for  children  (96).  Products  containing  permethrin  (e.g.,
+permanone) can be used to treat 
+outer clothing (e.g., shirts and pants) and should not be applied to skin. Permethrin is
+available commercially as a 
+spray-on preparation. It should be applied evenly to outer clothing, according to label
+directions in a 
+well-ventilated area. Clothing should be allowed to completely dry before being worn.
+Pre-treated clothing is available and remains effective for 
+multiple launderings. The use of DEET and permethrin should be considered by persons
+who enter heavily infested tick 
+habitats  where  the  risk  for  being  bitten  is  high  and  the  potential  for  TBRD  infection
+exists.
+ Adults entering wooded or grassy areas should inspect themselves and their children
+frequently for ticks. 
+Because several hours might elapse before ticks attach and inject pathogens, frequent
+checks increase the likelihood of 
+finding ticks before they transmit an infectious agent. The 
+duration of tick attachment necessary to transmit 
+rickettsial organisms is substantially variable and has been reported to be as little as
+
+2--10 hours 
+(97) to 10--20 hours (98) for R. 
+rickettsii. Limited data exist regarding the interval of transmission after tick attachment
+for 
+A. phagocytophilum, but animal studies indicate that 24--48 hours might elapse before
+pathogen transmission 
+(99,100). No comparable data exists for E. 
+chaffeensis.  Sites  where  ticks  commonly  attach  include,  but  are  not  limited  to,  the
+scalp, waist, 
+armpits, groin, and under socks and the beltline. Pets should also be checked for ticks
+because they can carry ticks back to 
+their  homes  and  human  companions.  Regular  application  of  ectoparasite  control  on
+pets helps to reduce the risk for 
+human exposure to ticks.
+ If  an  attached  tick  is  found,  it  should  be  removed  by  grasping  with  tweezers  or
+fine-tipped forceps close to the 
+skin  and  gently  pulling  with  constant  pressure.  Folk  remedies,  including  gasoline,
+kerosene, petroleum jelly, fingernail 
+polish, or lit matches should never be used to extract ticks 
+(101). Removing the tick with bare hands should be avoided 
+because fluids containing infectious organisms might be present in the tick's body and
+at the wound site. Ticks that have 
+been  removed  should  not  be  crushed  between  the  fingers  to  prevent  contamination,
+and hands should be washed to 
+avoid potential conjunctival inoculation. The bite wound should then be disinfected.
+ The following is a summary of salient features of prevention:
+ 
+
+TBRD Cases
+ The following TBRD cases were observed in health-care settings. Information from the
+cases can be used to reinforce 
+medical management information related to TBRD 
+(3,22,102) and are intended to illustrate certain common pitfalls in the 
+diagnosis  and  treatment  of  TBRD.  The  case  reports  include  a  description  of  the  case
+and salient features that can be considered 
+when dealing with a potential case of TBRD.
+Case 1
+ In June 2001, a girl aged 5 years was taken to an ED in Missouri with a 3-day history of
+intermittent fever, 
+headache, mild nausea, and a sore throat. On physical examination, the patient had a
+fever of 
+105°F (40.6ºC) and a 
+maculopapular rash on her legs, including the soles of her feet.
+ Possible causes of fever and rash in this child 
+include meningococcemia, RMSF, HME, enteroviral 
+infections, Kawasaki disease, drug reactions, and streptococcal disease with exanthem.
+ Case  1  synopsis.  This  patient's  clinical  history  suggested  exposure  to  ticks,
+although no definitive indication of a 
+tick bite was reported. Ticks are small (particularly in their nymphal and larval stages),
+and bites frequently go 
+unnoticed because ticks might attach in places that are difficult to observe (e.g., the
+scalp, axillae, and inguinal regions). Up 
+to 40% of patients with RMSF report no history of a tick bite 
+
+(10,11). Therefore, the clinician should not be 
+dissuaded from making a diagnosis of RMSF when no report 
+of a tick bite is made. The clinical signs and laboratory values and 
+a  history  that  are  compatible  with  tick  exposure  should  guide  the  diagnosis  and
+therapeutic 
+actions. Serum samples collected on days 7 and 35 of illness demonstrated rising IgG
+antibody titers to 
+R. rickettsii at 32 and 2,048, respectively.
+Case 2
+ In mid-August 2003, a male child aged 14 months was taken to a community health
+clinic in Arizona after 1 day of 
+fever 103.7°F 
+(39.8°C). On physical examination, the child had a maculopapular rash that involved his
+palms and soles. 
+On  auscultation,  abnormal  breath  sounds  were  detected  in  the  right  lower  lung.  The
+parent stated that they had not 
+traveled out of the local area recently. No one else in the family was ill, and the child
+was up-to-date on vaccinations. 
+Chest  radiographic  evaluation  revealed  a  possible  right  lower  lobe  infiltrate.  On  the
+basis of clinical and radiographic 
+findings, pneumonia and roseola infantum were diagnosed. The child was administered
+an intramuscular injection of ceftriaxone 
+and sent home with a prescription for oral amoxicillin/clavulanate.
+ The next day, the child was taken back to the clinic with vomiting and rash that was
+petechial. His fever was 
+
+105.7°F  (41°C).  He  was  admitted  to  the  hospital,  and  antibiotic  treatment  for
+pneumonia was continued. On day 3 
+of  hospitalization,  the  child  developed  DIC.  Remarkable  laboratory  findings  included:
+WBC count, 16.2 x 
+109 cells/L (normal: 4.5--11.0 x 
+109 cells/L); platelet count, 46 x 
+109 platelets/L (normal: 150--350 x 
+109  cells/L);  aspartate  aminotransferase  (AST),  291  U/L  (normal:  10--40  U/L);  and
+alanine aminotransferase (ALT), 99 U/L (normal: 
+10--55  U/L).  The  child's  condition  worsened,  and  7  days  after  the  onset  of  illness,  he
+died of pulmonary hemorrhage.
+ Case  2  synopsis.  A  serum  sample  collected  5  days  before  the  child's  death  tested
+negative by IFA for IgM and 
+IgG antibodies reactive with R. 
+rickettsii. However, R. 
+rickettsii DNA was detected in serum by PCR assay. RMSF can have 
+a rapid course; 50% of RMSF deaths occur within 9 days 
+of illness onset (10,11). IgM and IgG antibodies are 
+typically not detectable before the second week of illness; therefore, serology will be
+not useful in diagnosing the infection in 
+its  earliest  stages.  Fever  and  rash  in  a  young  child  can  be  caused  by  various
+enteroviruses, human herpesvirus 
+6, N. meningitidis, measles virus, R. 
+rickettsii, and E. chaffeensis, among other agents. Common causes of 
+bacterial pneumonia in a child this age might include 
+Streptococcus pneumoniae, Staphylococcus aureus, Streptococcus 
+pyogenes, and, less commonly, M. pneumoniae. 
+
+Although this child lived in an area where RMSF is not common (e.g., Arizona), 
+the  diagnosis  should  not  be  excluded  because  of  geography.  Although  RMSF  is  more
+common in the south central 
+and south Atlantic states, it should be considered endemic throughout the contiguous
+United States 
+(10).  TBRD  are  seldom  treated  with  the  appropriate  antibiotic,  unless  they  are
+suspected. In this context, the majority of broad 
+spectrum
+ antimicrobials,
+ including
+ penicillins,
+ cephalosporins,
+ aminoglycosides,
+erythromycin, and sulfa-containing drugs are 
+not effective against rickettsiae, ehrlichiae, or anaplasmae.
+Case 3
+ In early June 1996, a man aged 52 years who was 
+HIV-seropositive sought medical care at a hospital in Florida. He had a 
+4-day history of fever, headache, myalgias, nausea, and vomiting. The patient had been
+previously healthy, with no known 
+previous opportunistic infections. An absolute CD4+ lymphocyte count of 164 
+cells/µl was documented 2 months before this 
+visit. 
+Physical examination revealed an acutely ill man; the patient had a fever of 
+103.5ºF (39.7ºC) and experienced dizziness and 
+low blood pressure when he stood up (orthostatic 
+hypotension). He reported that 2 weeks before admission, he had been bitten by 
+a tick while hiking in central Georgia.
+A CBC and chemistry panel and, because of the history of a tick bite, serologic tests for 
+
+E. chaffeensis were ordered. Remarkable laboratory findings included hemoglobin 11.5
+g/dL (normal: 13--18 g/dL); WBC count, 
+2.0 x 109 cells/L (normal: 4.5--11.0 x 
+109 cells/L), with 66% neutrophils (normal: 45%--75%), 18% bands (normal: 0%--5%), 
+8%  lymphocytes  (normal:  16%--46%),  and  8%  monocytes  (normal:  4%--11%);  and
+platelet count, 16 x 
+109 cells/L (normal: 150--350 x 
+109 cells/L). Peripheral blood smears revealed ehrlichial morulae in 2.5% of all 
+leukocytes, including monocytes, lymphocytes, atypical 
+lymphocytes, neutrophils, and metamyelocytes. ALT was 
+73 U/L (normal: 10--55 U/L), and AST was 358 U/L (normal: 
+10--40 U/L).
+On  the  basis  of  laboratory  and  clinical  findings,  a  diagnosis  of  HME  was  made,  and
+intravenous doxycycline (100 
+mg  every  12  hours)  was  initiated.  Despite  doxycycline  therapy,  the  patient  remained
+febrile, severely thrombocytopenic, 
+and  continued  to  have  elevated  liver  enzymes.  He  developed  right  lower  lobe
+pneumonia and renal failure and died 6 
+days after hospitalization.
+Case 3 synopsis. Patient sera obtained on days 1 and 5 of hospitalization were negative
+for IgG and IgM 
+antibodies reactive with E. chaffeensis. However, the correct diagnosis was revealed on
+admission by a finding of morulae in 
+leukocytes, and this diagnosis was subsequently confirmed when 
+E. chaffeensis DNA was detected by using PCR in whole 
+blood specimens from the patient, and the agent was isolated in cell culture. HME can
+be a severe disease, particularly 
+
+in  immunosuppressed  persons.  HME  does  not  commonly  cause  rash  in  adults;
+therefore, history of tick 
+exposure  and  characteristic  leukopenia  and  thrombocytopenia  were  most  useful  in
+arriving at a diagnosis. Although morulae 
+were observed in the patient's peripheral blood, microscopy is 
+generally insensitive, and morulae are reported to be 
+observed in only 1%--20% of patients with HME 
+(45,47). Therefore, a diagnosis of HME would need to be confirmed by PCR, serology, 
+or immunostaining, or culture isolation.
+Case 4
+In mid-May 1999, a female aged 69 years went to her physician in upstate New York.
+She had a 3-day history 
+of nausea, vomiting, fatigue, and fever. She said that her dog had died 2 days earlier
+after a brief illness characterized 
+by  signs  similar  to  her  own.  Physical  examination  revealed  no  abnormalities.  Her
+temperature was 
+100.4ºF (38ºC).
+What should be included in the differential diagnosis?
+Possible diagnoses that should be considered include viral syndrome, foodborne illness,
+and urinary tract 
+infection.
+
+What additional information would assist with the diagnosis?
+Patient  should  be  queried  regarding  other  signs  and  symptoms,  recent  activities  and
+travel, exposure to other 
+ill persons, foods consumed, and contact with ticks. The patient had no other symptoms
+to report and 
+reported no unusual activities or recent travel.
+What diagnostic tests, if any, are needed?
+Because  the  patient's  symptoms  were  nonspecific,  a  CBC  should  be  ordered.  Results
+will not be 
+available until the next day.
+On the basis of the signs present when the patient first went to her physician, she
+was diagnosed 
+with gastroenteritis and instructed to return within 24--48 hours, if her symptoms did
+not improve. The patient 
+would be contacted regarding her laboratory test 
+results. The next day, the patient returned with continued 
+fever and changes in mental status. Her temperature remained at 
+100.4ºF (38ºC), but she was notably confused 
+and lethargic. Her physical examination was unremarkable 
+and did not reveal the presence of a rash.
+
+Laboratory tests obtained on the previous day revealed 
+a WBC count of 3.8 x 109 cells/L (normal: 4.5--11.0 x 
+109 cells/L); a platelet count of 99 x 
+109 cells/L (normal: 150--350 x 
+109 cells/L); and a hemoglobin concentration of 
+12.7 g/dL (normal: 12--16 g/dL). 
+How does this information assist with the diagnosis?
+On  the  basis  of  the  patient's  thrombocytopenia,  leukopenia,  and  worsening  clinical
+condition, encephalitis 
+and sepsis should be included in the differential diagnosis.
+What actions, including treatment, should be taken?
+On the basis of presenting signs and laboratory tests, the patient was hospitalized
+and intravenous 
+levofloxacin therapy was initiated for fever of unknown cause. Blood, urine, and stool
+cultures were ordered as well as 
+serologic assays for B. burgdorferi, E. 
+chaffeensis, and A. phagocytophilum, and PCR for E. chaffeensis and 
+A. 
+phagocytophilum.
+
+The  patient's  temperature  returned  to  normal  within  48  hours,  her  nausea  and
+vomiting resolved, and her 
+blood counts returned to normal. She was discharged after 
+3 days. Blood, urine, and stool cultures revealed no 
+specific pathogens, and serologic assays were negative for 
+antibodies reactive with B. burgdorferi, 
+E. chaffeensis, and A. 
+phagocytophilum.
+Case  4  synopsis.  IHC  staining  of  tissues  from  the  patient's  dog,  submitted  by  the
+veterinarian to CDC, 
+demonstrated abundant spotted fever group rickettsial 
+antigens, and rickettsiae were identified within and around blood vessels 
+in  multiple  tissues,  including  brain  and  testes.  The  cause  of  the  dog's  illness  was
+identified as RMSF. This information 
+was communicated to the patient's physician. When the physician contacted the 
+patient, she reported that her fatigue and headache had persisted after discharge from
+the hospital. The patient was treated with oral doxycycline, and all 
+symptoms  resolved  within  1  week.  Subsequent  testing  of  the  patient's  sera  for  early
+and late convalescent-phase antibody 
+titer confirmed a diagnosis of RMSF. Titers of IgM and IgG antibodies were 1,024 and
+512, respectively, on day 17 
+and declined to 256 and 256, respectively, on day 89 after illness onset. The 
+patient did not recall a tick bite and had not seen 
+or removed ticks from her dog, although her dog roamed freely in wooded areas before
+
+its illness. Dogs can serve as sentinels 
+for RMSF in human populations, and infections in canines 
+have been associated with increased risk for infection in their 
+owners (22).
+Case 5 
+In May 2001, a man aged 38 years sought medical 
+attention in Tennessee with complaints of headache, fever, 
+sore  throat,  and  vomiting.  He  was  treated  3  days  previously  by  his  primary  care
+physician who diagnosed pneumonia 
+and prescribed azithromycin and levofloxacin, but his fevers persisted. He was taken to
+the ED by his wife, and she said 
+that he had new onset of confusion. He had no pets or animal exposures. He worked as
+a construction manager and 
+was frequently outdoors in wooded areas but did not recall a tick bite. 
+What should be included in the differential diagnosis?
+The initial signs and symptoms were nonspecific, but the patient's confused state raised
+concern for 
+possible involvement of the CNS. During the summer months, the differential diagnosis
+included viral 
+meningitis (particularly enteroviral), arboviral meningoencephalitis (West Nile virus and
+others), TTP, and TBRD. 
+Bacterial meningitis and herpes simplex virus (HSV) encephalitis do not have confined
+seasonality 
+but  also  could  cause  this  presentation.  Sepsis  and  other  multisystem  illnesses  are
+
+associated with 
+encephalopathy, however, so the differential diagnosis 
+remained broad. 
+The patient had an oral temperature of 
+103.4°F (39.7ºC); blood pressure, 100/60 mmHg; and heart rate, 
+120 beats/minute. The skin examination revealed diffuse erythema with a several scabs
+on the lower legs. Examination of 
+the  abdomen  revealed  moderate  epigastric  tenderness  with  deep  palpation  but  no
+rebound tenderness or 
+organomegaly. Neurologic examination was nonfocal, 
+except for altered mentation (i.e., Glasgow coma score: 13). 
+Laboratory testing revealed the following: WBC, 
+11.9 x 109 cells/L (normal: 4.5--11.0 x 
+109  cells/L);  84%  segmented  neutrophils  (normal:  45%--75%);  8%  band  neutrophils
+(normal: 0%--5%); 3% lymphocytes 
+(normal: 16%--46%); 5% monocytes (normal: 4%--11%); 
+platelets, 50 x 109 cells/L (normal: 150--350 x 
+109 cells/L); total bilirubin, 3.5 mg/dL (normal: 0--1.0 mg/dL); AST, 439 
+U/L (normal: 10--40 U/L); ALT, 471 U/L (normal: 
+10--55 U/L); and alkaline phosphatase, 236 U/L (normal: 45--115 
+U/L). Lumbar puncture revealed a WBC of 0, RBC of 1 
+with normal glucose of 55 mg/dL and normal protein of 20 
+mg/dL. Creatinine was elevated at 3.9 mg/dL (normal: 
+0.6--1.5 mg/dL). Computed tomography scan of the head 
+did not demonstrate an acute abnormality.
+
+How does the physical examination and laboratory information change the differential
+diagnosis?
+Because of the normal lumbar puncture, meningitis (i.e., viral or bacterial) was a less
+likely diagnosis. 
+However, examination of the CSF might be unremarkable in patients with encephalitis.
+The presence of thrombocytopenia 
+and  elevated  transaminases  was  suggestive  of  TBRD.  Additional  considerations
+included acute cholecystitis, sepsis 
+(possibly associated with DIC), toxic-shock syndrome (rash with multiple organ failure),
+and TTP (i.e., acute renal failure 
+with fever, altered mental status, and thrombocytopenia).
+What additional tests should be performed?
+Appropriate  diagnostic  studies  should  include  blood  culture,  serologic  testing  for
+RMSF and HME (and PCR 
+for these if available), prothrombin time and partial thromboplastin time, examination
+of the peripheral blood 
+smear (with particular attention for 
+schistocytes or intracellular morulae), and ultrasound of the gallbladder to evaluate 
+
+for inflammation.
+The coagulation studies were within normal limits, and no schistocytes or morulae
+were observed on 
+smear.  Abdominal  ultrasound  revealed  a  normal  gallbladder  but  mild  splenomegaly.
+Therapy was initiated with 
+ceftriaxone and vancomycin. Approximately 6 hours later, the 
+patient developed seizures, and acyclovir and doxycycline 
+were added to the course of medicine to effectively treat 
+herpesvirus infection and TBRD. A magnetic resonance 
+imaging scan of the brain was normal, and electroencephalography 
+revealed nonspecific slowing. Antibodies to R. 
+rickettsii and E. chaffeensis were not detected 
+in acute sera. HSV PCR on CSF was negative. Blood cultures did not grow 
+bacteria. The patient defervesced, and mental status normalized over the next 3 days.
+Case  5  synopsis.  Serum  obtained  31  days  after  the  initial  signs  and  symptoms
+contained no antibodies 
+to R. rickettsii but had an IgG titer of 256 to 
+E. chaffeensis, retrospectively confirming the diagnosis of HME. 
+Whereas  headache  is  a  nearly  universal  complaint  among  patients  with  HME,  altered
+sensorium might be observed in up to 
+20%  of  cases  (6).  Other  CNS  manifestations  include  seizures,  meningismus,  cranial
+nerve palsies, focal weakness, and coma. 
+A lymphocytic pleocytosis can be observed in the CSF in approximately 50% of patients
+with HME who undergo 
+lumbar puncture (103). Neutrophilic pleocytosis can be observed early in the course of
+
+the illness. Neuroimaging studies 
+are usually normal or nonspecific. TBRD should be included in the differential 
+diagnosis of patients presenting with clinical evidence of CNS infection or CSF findings
+suggestive of aseptic meningitis.
+Case 6 
+In July 1994, a man aged 44 years went to see his physician in central Minnesota. He
+complained of a 
+1-week history of fever, chills, generalized myalgias, and right temporomandibular joint
+pain. When he became ill, he 
+treated  himself  empirically  with  ampicillin,  which  was  available  at  home,  for  2  days.
+Because the patient experienced no 
+clinical  improvement,  he  sought  medical  care.  The  patient  worked  outdoors  and  was
+frequently in wooded areas. Fourteen 
+days before he went to his physician, he removed two deer ticks that had been 
+attached to his skin for an unknown period.
+Physical examination findings. The patient had a low-grade fever of 
+100.6ºF (38.1ºC). Examination of heart, 
+lungs, and abdomen were normal. No lymphadenopathy, hepatosplenomegaly, or skin
+rash were noted. 
+Cardiovascular,  pulmonary,  gastrointestinal,  or  neurological  symptoms  were  not
+present. Overall, physical examination 
+was unremarkable, except for fever.
+Laboratory  findings.  No  laboratory  evaluations  were  performed  during  the  visit.  A
+presumptive diagnosis of 
+acute  Lyme  disease  was  made,  and  empirical  treatment  with  amoxicillin  and
+
+probenecid was initiated; a 1-week follow-up 
+visit was scheduled. Five days after the outpatient visit, the patient died suddenly at
+home. He had complained of 
+shortness of breath the day before his death.
+Case  6  synopsis.  Histopathologic  examination  of  the  patient's  heart  revealed
+widespread transmural myocarditis 
+with  neutrophilic  and  lymphocytic  infiltrates.  Postmortem  serum  specimens  were
+evaluated initially for presumptive 
+carditis as a result of B. burgdorferi infection. Serum titers of IgG and IgM antibodies to 
+B.  burgdorferi  were  not  detected  by  ELISA  and  western  blotting.  PCR  assays  of
+serum and whole blood 
+for B. burgdorferi also were negative. 
+However, antibody titers to A. phagocytophilum 
+(formerly known as E. equi) were significantly elevated at titer >256 by 
+IFA  methods.  Detection  of  DNA  extracted  by  PCR  from  whole  blood  and  positive  IHC
+staining of cardiac tissue confirmed 
+a diagnosis of anaplasmosis. Although infection with 
+A. phagocytophilum was demonstrated in this case, the pathogenesis 
+of the associated carditis was less clear 
+(104).
+The diagnosis of HGA can be difficult because of the nonspecific nature of the febrile
+illness frequently observed 
+when the patient first seeks medical care. In regions where both Lyme disease and HGA
+are known to occur, 
+distinguishing  between  the  diseases  in  the  early  stages  of  illness  might  be  difficult.
+
+Because treatment should be initiated before 
+a  definitive  diagnosis  is  made,  selection  of  an  antimicrobial  effective  against  both
+rickettsial organisms and 
+B. burgdorferi (e.g., doxycycline) is recommended. This case also underscores the
+importance of close follow-up of 
+patients treated for TBRD on an outpatient basis. Because these diseases can rapidly
+progress, clinicians should 
+emphasize to patients the need to return for reevaluation if substantial improvement is
+not observed within 24--48 hours of initiation 
+of treatment.
+Conclusion
+TBRD  continue  to  cause  severe  illness  and  death  in  otherwise  healthy  adults  and
+children, despite the availability 
+of low cost, effective antimicrobial therapy. The greatest challenge to clinicians is the
+difficult diagnostic dilemma posed 
+by  these  infections  early  in  their  clinical  course  when  antibiotic  therapy  is  most
+effective.
+Early clinical presentations of HME, HGA, RMSF, and 
+E. ewingii infection include fever, headache, myalgia, and 
+malaise and are difficult to distinguish from other infectious and noninfectious diseases.
+Rash is observed frequently in 
+RMSF, occasionally in HME, and rarely in HGA. TBRD tend to occur seasonally, with the
+majority of cases occurring during 
+the warmer spring and summer months. However, cases might develop year-round. A
+detailed history of recent recreational 
+
+or  occupational  activities  might  reveal  potential  exposure  to  ticks,  although  the
+absence of a history of a 
+recent tick bite should not dissuade clinicians from considering a diagnosis of TBRD.
+TBRD can be life-threatening. Severe manifestations of TBRD include prolonged fever,
+renal failure, 
+myocarditis,  meningoencephalitis,  hypotension,  acute  respiratory  distress  syndrome,
+and multiple organ failure. Patients usually do 
+not have diagnostic serum antibody levels during the first week of illness; therefore, an
+inability to detect antibodies (IgG or 
+IgM)  in  acute-phase  serum  does  not  exclude  TBRD.  Health-care  providers  should  not
+delay treatment while waiting for a 
+diagnosis;  rather,  they  should  empirically  provide  treatment  if  they  suspect  TBRD.
+Doxycycline is the drug of choice for the treatment 
+of presumptive or confirmed TBRD in both adults and children.
+Examination of paired serum samples obtained during 
+acute illness and 2--3 weeks later that demonstrate a rise 
+in  antibody  titer  is  the  most  appropriate  approach  to  confirm  TBRD.  Physicians  who
+identify a potential case of 
+TBRD  should  notify  the  local  health  department,  which  can  assist  with  obtaining
+diagnostic testing to confirm the diagnosis.
+No  licensed  vaccines  for  TBRD  are  available.  Avoiding  tick  bites  and  promptly
+removing attached ticks remain 
+the best disease prevention strategies.
+
+Acknowledgments 
+The  preparers  acknowledge  Jim  Gathany,  CDC,  for  the  tick  photographs  and  Karoyle
+Colbert, CDC, for creating the tick distribution map.
+* Mountain: Montana, Idaho, Wyoming, Colorado, New Mexico, Arizona, Utah, Nevada.
+East South Central: Kentucky, Tennessee, Alabama, Mississippi. 
+East  North  Central:  Ohio,  Indiana,  Illinois,  Michigan,  Wisconsin.  West  South  Central:
+Arkansas, Louisiana, Oklahoma, Texas. West North Central: 
+Minnesota,  Iowa,  Missouri,  North  Dakota,  South  Dakota,  Nebraska,  Kansas.  Pacific:
+Washington, Oregon, California. New England: Massachusetts, Connecticut, 
+Rhode Island, New Hampshire. South Atlantic: Delaware, Maryland, Virginia, District of
+Columbia, West Virginia, North Carolina, South Carolina, Georgia, 
+Florida. Mid-Atlantic: New York, New Jersey, Pennsylvania.
+References  Physical  examination  revealed  an  acutely  ill  man;  the  patient  had  a
+fever of 
+103.5ºF (39.7ºC) and experienced dizziness and 
+low blood pressure when he stood up (orthostatic 
+hypotension). He reported that 2 weeks before admission, he had been bitten by 
+a tick while hiking in central Georgia.
+ A CBC and chemistry panel and, because of the history of a tick bite, serologic tests for
+E. chaffeensis were ordered. Remarkable laboratory findings included hemoglobin 11.5
+g/dL (normal: 13--18 g/dL); WBC count, 
+2.0 x 109 cells/L (normal: 4.5--11.0 x 
+109 cells/L), with 66% neutrophils (normal: 45%--75%), 18% bands (normal: 0%--5%), 
+8%  lymphocytes  (normal:  16%--46%),  and  8%  monocytes  (normal:  4%--11%);  and
+platelet count, 16 x 
+
+109 cells/L (normal: 150--350 x 
+109 cells/L). Peripheral blood smears revealed ehrlichial morulae in 2.5% of all 
+leukocytes, including monocytes, lymphocytes, atypical 
+lymphocytes, neutrophils, and metamyelocytes. ALT was 
+73 U/L (normal: 10--55 U/L), and AST was 358 U/L (normal: 
+10--40 U/L).
+ On  the  basis  of  laboratory  and  clinical  findings,  a  diagnosis  of  HME  was  made,  and
+intravenous doxycycline (100 
+mg  every  12  hours)  was  initiated.  Despite  doxycycline  therapy,  the  patient  remained
+febrile, severely thrombocytopenic, 
+and  continued  to  have  elevated  liver  enzymes.  He  developed  right  lower  lobe
+pneumonia and renal failure and died 6 
+days after hospitalization.
+ Case  3  synopsis.  Patient  sera  obtained  on  days  1  and  5  of  hospitalization  were
+negative for IgG and IgM 
+antibodies reactive with E. chaffeensis. However, the correct diagnosis was revealed on
+admission by a finding of morulae in 
+leukocytes, and this diagnosis was subsequently confirmed when 
+E. chaffeensis DNA was detected by using PCR in whole 
+blood specimens from the patient, and the agent was isolated in cell culture. HME can
+be a severe disease, particularly 
+in  immunosuppressed  persons.  HME  does  not  commonly  cause  rash  in  adults;
+therefore, history of tick 
+exposure  and  characteristic  leukopenia  and  thrombocytopenia  were  most  useful  in
+arriving at a diagnosis. Although morulae 
+were observed in the patient's peripheral blood, microscopy is 
+generally insensitive, and morulae are reported to be 
+
+observed in only 1%--20% of patients with HME 
+(45,47). Therefore, a diagnosis of HME would need to be confirmed by PCR, serology, 
+or immunostaining, or culture isolation.
+Case 4
+ In mid-May 1999, a female aged 69 years went to her physician in upstate New York.
+She had a 3-day history 
+of nausea, vomiting, fatigue, and fever. She said that her dog had died 2 days earlier
+after a brief illness characterized 
+by  signs  similar  to  her  own.  Physical  examination  revealed  no  abnormalities.  Her
+temperature was 
+100.4ºF (38ºC).
+ Laboratory tests obtained on the previous day revealed 
+a WBC count of 3.8 x 109 cells/L (normal: 4.5--11.0 x 
+109 cells/L); a platelet count of 99 x 
+109 cells/L (normal: 150--350 x 
+109 cells/L); and a hemoglobin concentration of 
+12.7  g/dL  (normal:  12--16  g/dL).   Case  4  synopsis.  IHC  staining  of  tissues  from  the
+patient's dog, submitted by the veterinarian to CDC, 
+demonstrated abundant spotted fever group rickettsial 
+antigens, and rickettsiae were identified within and around blood vessels 
+in  multiple  tissues,  including  brain  and  testes.  The  cause  of  the  dog's  illness  was
+identified as RMSF. This information 
+was communicated to the patient's physician. When the physician contacted the 
+patient, she reported that her fatigue and headache had persisted after discharge from
+the hospital. The patient was treated with oral doxycycline, and all 
+
+symptoms  resolved  within  1  week.  Subsequent  testing  of  the  patient's  sera  for  early
+and late convalescent-phase antibody 
+titer confirmed a diagnosis of RMSF. Titers of IgM and IgG antibodies were 1,024 and
+512, respectively, on day 17 
+and declined to 256 and 256, respectively, on day 89 after illness onset. The 
+patient did not recall a tick bite and had not seen 
+or removed ticks from her dog, although her dog roamed freely in wooded areas before
+its illness. Dogs can serve as sentinels 
+for RMSF in human populations, and infections in canines 
+have been associated with increased risk for infection in their 
+owners (22).
+Case 5  In May 2001, a man aged 38 years sought medical 
+attention in Tennessee with complaints of headache, fever, 
+sore  throat,  and  vomiting.  He  was  treated  3  days  previously  by  his  primary  care
+physician who diagnosed pneumonia 
+and prescribed azithromycin and levofloxacin, but his fevers persisted. He was taken to
+the ED by his wife, and she said 
+that he had new onset of confusion. He had no pets or animal exposures. He worked as
+a construction manager and 
+was frequently outdoors in wooded areas but did not recall a tick bite.  Case 5 synopsis.
+Serum obtained 31 days after the initial signs and symptoms contained no antibodies 
+to R. rickettsii but had an IgG titer of 256 to 
+E. chaffeensis, retrospectively confirming the diagnosis of HME. 
+Whereas  headache  is  a  nearly  universal  complaint  among  patients  with  HME,  altered
+sensorium might be observed in up to 
+20%  of  cases  (6).  Other  CNS  manifestations  include  seizures,  meningismus,  cranial
+nerve palsies, focal weakness, and coma. 
+
+A lymphocytic pleocytosis can be observed in the CSF in approximately 50% of patients
+with HME who undergo 
+lumbar puncture (103). Neutrophilic pleocytosis can be observed early in the course of
+the illness. Neuroimaging studies 
+are usually normal or nonspecific. TBRD should be included in the differential 
+diagnosis of patients presenting with clinical evidence of CNS infection or CSF findings
+suggestive of aseptic meningitis.
+Case  6   In  July  1994,  a  man  aged  44  years  went  to  see  his  physician  in  central
+Minnesota. He complained of a 
+1-week history of fever, chills, generalized myalgias, and right temporomandibular joint
+pain. When he became ill, he 
+treated  himself  empirically  with  ampicillin,  which  was  available  at  home,  for  2  days.
+Because the patient experienced no 
+clinical  improvement,  he  sought  medical  care.  The  patient  worked  outdoors  and  was
+frequently in wooded areas. Fourteen 
+days before he went to his physician, he removed two deer ticks that had been 
+attached to his skin for an unknown period.
+ Physical examination findings. The patient had a low-grade fever of 
+100.6ºF (38.1ºC). Examination of heart, 
+lungs, and abdomen were normal. No lymphadenopathy, hepatosplenomegaly, or skin
+rash were noted. 
+Cardiovascular,  pulmonary,  gastrointestinal,  or  neurological  symptoms  were  not
+present. Overall, physical examination 
+was unremarkable, except for fever.
+ Laboratory  findings.  No  laboratory  evaluations  were  performed  during  the  visit.  A
+presumptive diagnosis of 
+acute  Lyme  disease  was  made,  and  empirical  treatment  with  amoxicillin  and
+
+probenecid was initiated; a 1-week follow-up 
+visit was scheduled. Five days after the outpatient visit, the patient died suddenly at
+home. He had complained of 
+shortness of breath the day before his death.
+ Case  6  synopsis.  Histopathologic  examination  of  the  patient's  heart  revealed
+widespread transmural myocarditis 
+with  neutrophilic  and  lymphocytic  infiltrates.  Postmortem  serum  specimens  were
+evaluated initially for presumptive 
+carditis as a result of B. burgdorferi infection. Serum titers of IgG and IgM antibodies to 
+B.  burgdorferi  were  not  detected  by  ELISA  and  western  blotting.  PCR  assays  of
+serum and whole blood 
+for B. burgdorferi also were negative. 
+However, antibody titers to A. phagocytophilum 
+(formerly known as E. equi) were significantly elevated at titer >256 by 
+IFA  methods.  Detection  of  DNA  extracted  by  PCR  from  whole  blood  and  positive  IHC
+staining of cardiac tissue confirmed 
+a diagnosis of anaplasmosis. Although infection with 
+A. phagocytophilum was demonstrated in this case, the pathogenesis 
+of the associated carditis was less clear 
+(104).
+ The diagnosis of HGA can be difficult because of the nonspecific nature of the febrile
+illness frequently observed 
+when the patient first seeks medical care. In regions where both Lyme disease and HGA
+are known to occur, 
+distinguishing  between  the  diseases  in  the  early  stages  of  illness  might  be  difficult.
+Because treatment should be initiated before 
+a  definitive  diagnosis  is  made,  selection  of  an  antimicrobial  effective  against  both
+
+rickettsial organisms and 
+B. burgdorferi (e.g., doxycycline) is recommended. This case also underscores the
+importance of close follow-up of 
+patients treated for TBRD on an outpatient basis. Because these diseases can rapidly
+progress, clinicians should 
+emphasize to patients the need to return for reevaluation if substantial improvement is
+not observed within 24--48 hours of initiation 
+of treatment.
+Conclusion
+ TBRD  continue  to  cause  severe  illness  and  death  in  otherwise  healthy  adults  and
+children, despite the availability 
+of low cost, effective antimicrobial therapy. The greatest challenge to clinicians is the
+difficult diagnostic dilemma posed 
+by  these  infections  early  in  their  clinical  course  when  antibiotic  therapy  is  most
+effective.
+ Early clinical presentations of HME, HGA, RMSF, and 
+E. ewingii infection include fever, headache, myalgia, and 
+malaise and are difficult to distinguish from other infectious and noninfectious diseases.
+Rash is observed frequently in 
+RMSF, occasionally in HME, and rarely in HGA. TBRD tend to occur seasonally, with the
+majority of cases occurring during 
+the warmer spring and summer months. However, cases might develop year-round. A
+detailed history of recent recreational 
+or  occupational  activities  might  reveal  potential  exposure  to  ticks,  although  the
+absence of a history of a 
+recent tick bite should not dissuade clinicians from considering a diagnosis of TBRD.
+ TBRD  can  be  life-threatening.  Severe  manifestations  of  TBRD  include  prolonged
+
+fever, renal failure, 
+myocarditis,  meningoencephalitis,  hypotension,  acute  respiratory  distress  syndrome,
+and multiple organ failure. Patients usually do 
+not have diagnostic serum antibody levels during the first week of illness; therefore, an
+inability to detect antibodies (IgG or 
+IgM)  in  acute-phase  serum  does  not  exclude  TBRD.  Health-care  providers  should  not
+delay treatment while waiting for a 
+diagnosis;  rather,  they  should  empirically  provide  treatment  if  they  suspect  TBRD.
+Doxycycline is the drug of choice for the treatment 
+of presumptive or confirmed TBRD in both adults and children.
+Examination of paired serum samples obtained during 
+acute illness and 2--3 weeks later that demonstrate a rise 
+in  antibody  titer  is  the  most  appropriate  approach  to  confirm  TBRD.  Physicians  who
+identify a potential case of 
+TBRD  should  notify  the  local  health  department,  which  can  assist  with  obtaining
+diagnostic testing to confirm the diagnosis.
+No  licensed  vaccines  for  TBRD  are  available.  Avoiding  tick  bites  and  promptly
+removing attached ticks remain 
+the best disease prevention strategies.
+Acknowledgments   The  preparers  acknowledge  Jim  Gathany,  CDC,  for  the  tick
+photographs and Karoyle Colbert, CDC, for creating the tick distribution map.
+ *  Mountain:  Montana,  Idaho,  Wyoming,  Colorado,  New  Mexico,  Arizona,  Utah,
+Nevada. East South Central: Kentucky, Tennessee, Alabama, Mississippi. 
+East  North  Central:  Ohio,  Indiana,  Illinois,  Michigan,  Wisconsin.  West  South  Central:
+
+Arkansas, Louisiana, Oklahoma, Texas. West North Central: 
+Minnesota,  Iowa,  Missouri,  North  Dakota,  South  Dakota,  Nebraska,  Kansas.  Pacific:
+Washington, Oregon, California. New England: Massachusetts, Connecticut, 
+Rhode Island, New Hampshire. South Atlantic: Delaware, Maryland, Virginia, District of
+Columbia, West Virginia, North Carolina, South Carolina, Georgia, 
+Florida. Mid-Atlantic: New York, New Jersey, Pennsylvania.
+References Table 1
+Return to top.
+Figure 1
+Return to top. Table 2
+Return to top. Figure 2
+Return to top. Table 3
+Return to top. Figure 3
+Return to top. Table 4
+Return to top. Figure 4
+Return to top. Figure 5
+Return to top. Figure 6
+Return to top. Figure 7
+
+Return to top. Figure 8
+Return to top. Figure 9
+Return to top. Figure 10
+Return to top. Figure 11
+Return to top. Figure 12
+Return to top. Figure 13
+Return to top. Figure 14
+Return to top. Figure 15
+Return to top. Figure 16
+Return to top. Figure 17
+Return to top. Figure 18
+Return to top. Box
+Return to top.  
+
+Use of trade names and commercial sources is for identification only and does not imply
+endorsement by the U.S. Department of 
+Health and Human Services.References to non-CDC sites on the Internet are 
+provided as a service to MMWR readers and do not constitute or imply 
+endorsement of these organizations or their programs by CDC or the U.S. 
+Department of Health and Human Services. CDC is not responsible for the content 
+of pages found at these sites. URL addresses listed in MMWR were current as of 
+the date of publication.
+Disclaimer  
+All MMWR HTML versions of articles are electronic conversions from ASCII text 
+into HTML.  This conversion may have resulted in character translation or format errors
+in the HTML version.  
+Users  should  not  rely  on  this  HTML  document,  but  are  referred  to  the  electronic  PDF
+version and/or 
+the original MMWR paper copy for the official text, figures, and tables.  
+An  original  paper  copy  of  this  issue  can  be  obtained  from  the  Superintendent  of
+Documents, 
+U.S. Government Printing Office (GPO), Washington, DC 20402-9371; telephone: (202)
+512-1800. 
+Contact GPO for current prices.**Questions or messages regarding errors in formatting
+should be addressed to 
+mmwrq@cdc.gov.  Use of trade names and commercial sources is for identification
+only and does not imply endorsement by the U.S. Department of 
+
+Health and Human Services.References to non-CDC sites on the Internet are 
+provided as a service to MMWR readers and do not constitute or imply 
+endorsement of these organizations or their programs by CDC or the U.S. 
+Department of Health and Human Services. CDC is not responsible for the content 
+of pages found at these sites. URL addresses listed in MMWR were current as of 
+the date of publication. Disclaimer  
+All MMWR HTML versions of articles are electronic conversions from ASCII text 
+into HTML.  This conversion may have resulted in character translation or format errors
+in the HTML version.  
+Users  should  not  rely  on  this  HTML  document,  but  are  referred  to  the  electronic  PDF
+version and/or 
+the original MMWR paper copy for the official text, figures, and tables.  
+An  original  paper  copy  of  this  issue  can  be  obtained  from  the  Superintendent  of
+Documents, 
+U.S. Government Printing Office (GPO), Washington, DC 20402-9371; telephone: (202)
+512-1800. 
+Contact GPO for current prices. Date last reviewed: 3/16/2006
+ 
+    HOME  |  
+    ABOUT MMWR  | 
+    MMWR SEARCH  | 
+    DOWNLOADS  | 
+    RSS 
+    |  
+    CONTACT
+
+POLICY  |  
+    DISCLAIMER  |  
+    ACCESSIBILITY 
+Morbidity and Mortality Weekly Report
+                Centers for Disease Control and Prevention
+                1600 Clifton Rd, MailStop E-90, Atlanta, GA 
+                  30333, U.S.A 
+Department of Healthand Human Services 
+
+Source URL: https://www.cdc.gov/mmwr/preview/mmwrhtml/rr5504a1.htm

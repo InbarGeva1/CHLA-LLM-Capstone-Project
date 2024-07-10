@@ -1,0 +1,80 @@
+A .gov website belongs to an official government organization in the United States. A
+lock (  ) or https:// means you've safely connected to the .gov website. Share sensitive
+information  only  on  official,  secure  websites.  Untreated  dental  units  cannot  reliably
+produce water that meets drinking water standards (which is fewer than 500 CFU/mL of
+water  of  heterotrophic  water  bacteria).  On  October  31,  2022,  CDC  released  a  Health
+Advisory Notice to communicate the importance of following existing recommendations
+for  maintaining  and  monitoring  dental  waterlines.   Biofilm  is  a  thin,  slimy  film  of
+bacteria  that  sticks  to  moist  surfaces.  Dental  unit  waterlines  have  unique
+characteristics
+ that
+ make
+ them
+ prone
+ to
+ biofilm
+ formation,
+ including
+ long,
+small-diameter  tubing,  low  flow  rates,  and  frequent  periods  of  stagnation.   High
+numbers  of  common  water  bacteria  can  be  found  in  untreated  dental  unit  water
+systems,
+ including
+ Legionella,
+ Pseudomonas
+ aeruginosa,
+ and
+ nontuberculous
+Mycobacteria.  These  bacteria  can  cause  serious,  sometimes  life-threating  infections.
+Contaminated  water  from  dental  units  has  been  linked  to  outbreaks  of  Mycobacteria
+infections  in  children.  Case  reports  also  document  infections  with  Mycobacteria  and
+Legionella following endodontic procedures, third molar extractions, and general dental
+work.  In  these  reported  cases,  water  samples  taken  from  the  dental  clinics
+demonstrated  levels  of  bacteria  much  higher  than  the  recommended  levels  and
+reported breakdowns in infection prevention procedures to maintain and monitor dental
+water quality. These reports highlight the need for training to improve understanding of
+the  underlying  principles  of  dental  unit  water  quality  maintenance  and  monitoring,
+recommended  practices,  and  their  implementation  in  dental  settings.  Dental  unit
+waterlines  should  be  treated  regularly  with  disinfectants  to  meet  the  Environmental
+Protection Agency (EPA) regulatory standards for drinking water (≤500 colony forming
+units [CFU]/mL of heterotrophic water bacteria).  Dental unit water quality must also be
+monitored, or tested, routinely as recommended by the equipment manufacturer. This
+ensures  that  treatments  are  working  effectively  and  that  the  water  used  in  dental
+
+procedures meets safety standards. Monitoring dental unit water quality can also help
+identify problems in performance or adherence with maintenance protocols and provide
+documentation  of  compliance.  Dental  providers  should  consult  with  the  dental
+equipment manufacturer for appropriate methods and equipment to both maintain and
+monitor  the  quality  of  dental  water.  Full  recommendations  regarding  dental  unit
+waterlines  can  be  found  on  pages  28–30  of  CDC’s  Guidelines  for  Infection  Control  in
+Dental  Health-Care  Settings—2003  and  in  the  Summary  of  Infection  Prevention
+Practices  in  Dental  Settings:  Basic  Expectations  for  Safe  Care.  The  Organization  for
+Safety,  Asepsis  and  Prevention's  Dental  Unit  Water  Quality  White  Paper  and
+Recommendations provides further information on this topic. CDC provides information
+on what to do on page 30 of the Guidelines for Infection Control in Dental Health-Care
+Settings—2003.    For more information, see CDC's Emergency Water Supply Planning
+Guide for Hospitals and Healthcare Facilities.  For surgical procedures, sterile saline or
+sterile water should be used as a coolant or irrigant. Conventional dental units cannot
+reliably  deliver  sterile  water  even  when  equipped  with  independent  water  reservoirs
+containing low-microbial or sterile water because the water-bearing pathway cannot be
+reliably sterilized. Appropriate delivery devices should be used to deliver sterile water
+during surgery. Examples include bulb syringes; sterile, single-use disposable products;
+or sterile water delivery systems that bypass the dental unit by using sterile single-use
+disposable  or  sterilizable  tubing.  There  are  many  commercial  products  and  devices
+available to disinfect and maintain dental unit waterlines, including: Available products
+to  treat  waterlines  include  tablet  systems,  continuous  release  straws  and  cartridges,
+initial  and  periodic  shock  treatments,  and  centralized  systems.  All  products  and
+systems must be used and maintained according to the manufacturer instructions for
+use  (IFUs).  If  you  have  questions  about  the  IFUs,  contact  the  manufacturer  of  the
+treatment product or device that you are using. The unit should be treated according to
+manufacturer IFU, and re-tested immediately after treatment. If a unit remains resistant
+
+to  treatment  over  time,  it  may  be  necessary  to  replace  waterlines  or  other
+water-bearing  components.  CDC  protects  patients  and  providers  by  developing
+recommendations that guide infection prevention and control practices wherever dental
+care is delivered. Languages Language Assistance Languages  Language Assistance 
+
+Source
+ URL:
+https://www.cdc.gov/dental-infection-control/hcp/dental-ipc-faqs/best-practices-dental-unit-water-quality.
+html

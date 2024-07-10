@@ -1,0 +1,157 @@
+Official websites use .gov A .gov website belongs to an official government organization
+in  the  United  States.  Secure  .gov  websites  use  HTTPS  A  lock  (   )  or  https://  means
+you've  safely  connected  to  the  .gov  website.  Share  sensitive  information  only  on
+official, secure websites. View Previous Updates CDC has guidance for who should be
+tested, but decisions about who should be tested are at the discretion of State, Tribal,
+Local, and Territorial (STLT) health departments and/or healthcare providers. Testing for
+other  pathogens  by  the  provider  should  be  done  as  part  of  the  initial  evaluation,  as
+indicated, but should not delay testing for SARS-CoV-2, the virus that causes COVID-19.
+For  healthcare  providers  collecting  specimens  or  working  within  6  feet  of  patients
+suspected  to  be  infected  with  SARS-CoV-2,  maintain  proper  infection  control  and  use
+recommended  personal  protective  equipment  (PPE),  which  includes  an  N95  or
+higher-level  respirator  (or  face  mask  if  a  respirator  is  not  available),  eye  protection,
+gloves, and a gown. For healthcare providers who are handling specimens, but are not
+directly involved in collection (e.g. handling self-collected specimens) and not working
+within 6 feet of the patient, follow Standard Precautions. Healthcare providers should
+wear a form of source control (face mask) at all times while in the healthcare facility.
+Healthcare providers can minimize PPE use if patients collect their own specimens while
+maintaining at least 6 feet of separation. For example, the provider should wear a face
+mask,  gloves,  and  a  gown.  Respiratory  specimens  should  be  collected  as  soon  as  a
+decision has been made to test someone, regardless of the time of symptom onset. The
+guidance below addresses options for collecting specimens. Proper specimen collection
+is  the  most  important  step  in  the  laboratory  diagnosis  of  infectious  diseases.  A
+specimen that is not collected correctly may lead to false or inconclusive test results.
+The
+ following
+ specimen
+ collection
+ guidelines
+ follow
+ standard
+ recommended
+procedures.  For diagnostic testing for current SARS-CoV-2 infections, CDC recommends
+collecting and testing an upper respiratory specimen. Contact the testing laboratory to
+confirm  accepted  specimen  types  and  follow  the  manufacturer  instructions  for
+
+specimen collection. Sterile swabs should be used for the collection of upper respiratory
+specimens.  This  is  important  both  to  ensure  patient  safety  and  preserve  specimen
+integrity. Note that nasopharyngeal and oropharyngeal specimens are not appropriate
+for  self-collection.  Testing  lower  respiratory  tract  specimens  is  also  an  option.  For
+patients  who  develop  a  productive  cough,  sputum  can  be  collected  and  tested  for
+SARS-CoV-2 when available. However, the induction of sputum is not recommended due
+to  the  possibility  of  aerosol  production  during  the  procedure.  Under  certain  clinical
+circumstances  (e.g.,  for  those  receiving  invasive  mechanical  ventilation),  a  lower
+respiratory  tract  aspirate  or  bronchoalveolar  lavage  specimen  can  be  collected  and
+tested as a lower respiratory tract specimen. Nasopharyngeal specimen (NP) collection
+/Oropharyngeal  (OP)  (throat)  specimen  collection  (performed  by  a  trained  healthcare
+provider, only) Use only synthetic fiber swabs with thin plastic or wire shafts that have
+been designed for sampling the nasopharyngeal mucosa. Do not use calcium alginate
+swabs  or  swabs  with  wooden  shafts,  as  they  may  contain  substances  that  inactivate
+some viruses and may inhibit molecular tests. CDC recommends collecting only the NP
+specimen, although an OP specimen is an acceptable specimen type. If both NP and OP
+specimens are collected, combine them in a single tube to maximize test sensitivity and
+limit use of testing resources. Instructions for collecting an NP specimen (performed by
+a trained healthcare provider):  Instructions for collecting an OP specimen (performed
+by a trained healthcare provider):  Nasal mid-turbinate (NMT) specimen (performed by
+a  healthcare  provider  or  the  patient  after  reviewing  and  following  collection
+instructions):  Visual  guides  Anterior  nasal  specimen  (performed  by  a  healthcare
+provider or the patient after reviewing and following the collection instructions): For a
+visual guide, see the How To Collect An Anterior Nasal Swab Specimen For COVID-19
+Testing  infographic  [371  KB,  2  pages].  Nasopharyngeal  wash/aspirate  or  nasal
+wash/aspirate  (performed  by  a  trained  healthcare  provider)   For  an  additional  visual
+guide, see the Nasopharyngeal/Nasal Aspirate or Nasopharyngeal/Nasal Wash sections
+
+in  the  Influenza  Specimen  Collection  infographic.  Saliva  (collected  by  patient  with  or
+without supervision) Collect 1-5 mL of saliva in a sterile, leak-proof screw cap container.
+No preservative is required. Follow additional instructions from the healthcare provider
+or  manufacturer.  Breath  (performed  by  a  qualified,  trained  operator  under  the
+supervision  of  a  healthcare  provider  licensed  or  authorized  by  state  law  to  prescribe
+tests)  Follow  the  instructions  as  explicitly  described  within  the  test’s  Emergency  Use
+Authorization  (EUA)  Instructions  for  Use.  Bronchoalveolar  lavage,  tracheal  aspirate,
+pleural  fluid,  lung  biopsy  (generally  performed  by  a  physician  in  the  hospital  setting)
+Sputum (collected under the guidance of a trained healthcare professional) Note: This is
+an  aerosol-generating  procedure  and  likely  to  generate  higher  concentrations  of
+infectious
+ respiratory
+ aerosols.
+ Aerosol-generating
+ procedures
+ potentially
+ put
+healthcare  providers  and  others  at  an  increased  risk  for  pathogen  exposure  and
+infection.  Healthcare  providers  should  maintain  proper  infection  control,  including
+standard  precautions,  and  wear  an  N95  or  equivalent  or  higher-level  respirator,  eye
+protection,  gloves,  and  a  gown,  when  collecting  specimens.  The  US  Department  of
+Health and Human Services (HHS) is directly distributing nasopharyngeal (NP) swabs,
+based  on  state  and  territory  testing  plans  that  were  submitted  in  response  to  the
+Coronavirus  Aid,  Relief,  and  Economic  Security  (CARES)  Act  requirements.  Allocations
+were  predetermined  to  maximize  state  and  territory  testing  using  a  data-driven
+algorithm  based  on  population,  high  incidence  areas,  and  COVID-19  Task  Force’s
+directives. A monthly web-based survey goes out to each state and territory where they
+can request the number of swabs required. For swab requests, delivery site changes, or
+other  related  requests  contact  COVID19.TestSupplies@hhs.gov.  HHS  is  no  longer
+distributing  viral  transport  media  (VTM).  If  it  is  unavailable  for  purchase,  CDC  has
+posted  a  standard  operating  procedure  for  the  preparation  of  VTM.  Saline  is  also  an
+acceptable transport medium for some COVID-19 viral assays, including the Influenza
+SARS-CoV-2 (Flu SC2) Multiplex Assay. Check the Instructions for Use (IFU) to see which
+
+transport  medium  is  acceptable.  Self-collection  of  specimens,  both  unsupervised  and
+supervised  by  a  medical  professional,  is  currently  available  for  specific  tests
+authorized  by  the  FDA.  Additional  authorized  diagnostic  tests  for  the  detection  of
+SARS-CoV-2  will  likely  have  this  capability  as  well.  Laboratories  should  confirm  the
+specimen  has  been  obtained  correctly  and  from  the  individual  that  is  being  tested.
+Generally, Clinical Laboratory Improvement Amendments (CLIA) requires laboratories to
+ensure positive specimen identification and optimum integrity of a patient’s specimen
+using at least two separate (distinct) or unique identifiers, such as patient’s name or
+another  unique  identifier.  Other  information  that  must  be  provided  to  the  laboratory
+when  requesting  a  test  includes  the  sex  and  age  or  date  of  birth  of  the  patient;  the
+test(s) to be performed; the specimen source; the date and, if appropriate, the time of
+specimen  collection.  Sterile  swabs  for  upper  respiratory  specimen  collection  may  be
+packaged  in  one  of  two  ways:  When  individually  wrapped  swabs  are  not  available,
+bulk-packaged  swabs  may  be  used  for  specimen  collection;  however,  care  must  be
+exercised to avoid SARS-CoV-2 contamination of any of the swabs in the bulk-packaged
+container. Store respiratory specimens at 2-8°C for up to 72 hours after collection. If a
+delay  in  testing  or  shipping  is  expected,  store  specimens  at  -70°C  or  below.  Store
+extracted  nucleic  acid  samples  at  -70°C  or  lower.  Pack  and  ship  suspected  and
+confirmed  SARS-CoV-2  patient  specimens,  cultures,  or  isolates  as  UN  3373  Biological
+Substance, Category B, in accordance with the current edition of the International Air
+Transport  Association  (IATA)  Dangerous  Goods  Regulations  and  U.S.  Department  of
+Transportation’s  (DOT)  Transporting  Infectious  Substances  Safely.  Personnel  must  be
+trained to pack and ship according to the regulations and in a manner that corresponds
+to  their  function-specific  responsibilities.  Additional  information  on  packing,  shipping,
+and transporting specimens can be found at Interim Laboratory Biosafety Guidelines for
+Handling  and  Processing  Specimens  Associated  with  Coronavirus  Disease  2019
+(COVID-19).  If  necessary,  and  with  advance  approval,  specimens  may  be  shipped  to
+
+CDC  if  repeated  testing  results  remain  inconclusive  or  if  other  unusual  results  are
+obtained.  Please  contact  CDC  at  respvirus@cdc.gov  prior  to  submitting  specimens  to
+confirm. Additional information, including the specimen submission form and shipping
+address,  can  be  found  at  Submitting  Specimens  to  CDC.  CDC  recommends  that  each
+laboratory  perform  a  risk  assessment  before  using  the  pneumatic  tube  system  to
+transport suspected or confirmed SARS-CoV-2 specimens. Each facility should conduct a
+site- and activity-specific risk assessment of the procedures performed, identifying the
+hazards involved in the process, the competency level of the personnel performing the
+methods, and the laboratory facility. An institution’s biosafety professional, laboratory
+management,  scientific/clinical,  and  safety  staff  should  be  involved  in  conducting  the
+risk assessment process to determine the appropriate specimen transport practices to
+implement  at  the  facility.  Facilities  should  ensure  that  all  personnel  who  transport
+specimens  via  pneumatic  tubes  are  trained  in  safe  handling  practices,  specimen
+management,  and  spill  decontamination  procedures.  For  additional  information  about
+performing  a  risk  assessment,  refer  to  the  Biological  Risk  Assessment:  General
+Considerations  for  Laboratories  and  the  Biosafety  in  Microbiological  and  Biomedical
+Laboratories (BMBL) 6th Edition. Blood specimens are used for antibody (or serological)
+tests and, for some tests authorized by the US Food and Drug Administration that are
+used at the point-of-care, specimens are collected by pricking the skin with a fingerstick
+device.  Anyone  performing  fingerstick  procedures  should  review  the  following
+recommendations to ensure that they are not placing persons in their care at risk for
+infection.  Fingerstick  devices  should  never  be  used  for  more  than  one  person  due  to
+risk  of  transmission  of  other  bloodborne  infectious  diseases.  These  recommendations
+apply  not  only  to  healthcare  facilities  but  also  to  any  setting  where  fingerstick
+procedures  are  performed.  Instructions  for  collecting  a  capillary  blood  specimen  by
+fingerstick:  For  an  additional  visual  guide,  see  the  Steps  for  Collecting  Finger  Stick
+Capillary  Blood  Using  a  Microtainer®.  Note:  Follow  manufacturer’s  instructions  when
+
+using another collection device. As of February 26, 2020 As of December 30, 2020 To
+receive email updates about COVID-19, enter your email address:
+
+Source URL: https://www.cdc.gov/coronavirus/2019-ncov/lab/guidelines-clinical-specimens.html

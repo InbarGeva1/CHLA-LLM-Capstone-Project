@@ -1,0 +1,212 @@
+A .gov website belongs to an official government organization in the United States. A
+lock (  ) or https:// means you've safely connected to the .gov website. Share sensitive
+information  only  on  official,  secure  websites.  CDC  investigates  each  multistate
+foodborne  outbreak  thoroughly  using  a  7-step  process.  The  steps  are  described  in
+order, but investigations are dynamic and several steps may happen at the same time. 
+Multistate outbreaks are usually identified by PulseNet, but other public health partners
+also  identify  them  and  report  them  to  CDC.  PulseNet  is  CDC's  national  laboratory
+network  for  detecting  bacterial  enteric  (intestinal)  disease  outbreaks.  Multistate
+outbreaks  are  usually  detected  by  PulseNet.  PulseNet  scientists  look  for  groups  of
+people sickened by bacteria with the same DNA fingerprint (strain). Scientists perform
+DNA fingerprinting on bacteria using a method called whole genome sequencing (WGS).
+When a group of people get sick from bacteria with the same DNA fingerprint around
+the  same  time,  it's  called  a  cluster  (possible  outbreak).  When  an  investigation  shows
+that people in a cluster have something in common, suggesting they got sick from the
+same  source,  the  group  of  illnesses  is  called  an  outbreak.  Local  and  state  health
+departments  and  federal  partners  like  FDA  and  USDA  may  also  receive  reports  from
+sick  people,  healthcare  providers,  and  others  about  possible  outbreaks.  Information
+from these reports is frequently shared with CDC to see if the illnesses might suggest
+that a multistate outbreak is happening. Finding sick people is important to help public
+health officials understand the size and severity of a possible multistate outbreak and
+decide  if  there  is  ongoing  risk  to  the  public.  Outbreak  investigators  develop  a  case
+definition  to  define  which  sick  people  will  be  included  in  the  outbreak.  They  also  use
+this definition to search for additional sick people that are part of the outbreak. Case
+definitions  define  who  will  be  included  as  part  of  the  multistate  outbreak.  Multistate
+outbreak  case  definitions  usually  include  details  about:  Multistate  outbreak  case
+definitions do not typically limit who is included in the outbreak based on what state the
+sick  person  lives  in  or  demographic  characteristics  of  the  sick  person,  such  as  age,
+
+gender, or race. The number of sick people that meet the case definition is called the
+case count. Using the case definition, local, state, and federal investigators search for
+more cases related to the outbreak. For multistate outbreaks, investigators review DNA
+fingerprint  information  on  cases  reported  through  PulseNet.  State  and  local  officials
+may also look at other information to find cases that may be part of the outbreak and
+work  to  get  DNA  fingerprinting  information,  including:  In  a  multistate  outbreak
+investigation, a hypothesis is a guess about the source of the illnesses based on what
+information  is  known.  Hypothesis  generation  is  an  ongoing  process  during  an
+investigation.  Early  in  multistate  outbreak  investigations,  it  may  not  even  be  clear
+whether the outbreak is caused by a contaminated food or something else, like contact
+with animals. Many sources of information help to quickly narrow down how people in
+the  outbreak  got  sick.  Basic  information  about  who  is  getting  sick  in  a  multistate
+outbreak  and  where  and  when  the  illnesses  are  happening  can  help  investigators
+narrow the list of possible sources. Investigators use a graph called an epidemic curve
+or epi curve to track the number of illnesses over time. The pattern of the epi curve
+helps investigators decide if sick people were exposed to the same source over a short
+period or if the exposure was over a longer time. Investigators also use maps to mark
+where sick people live so they can easily see if or how the outbreak is spreading. The
+timing and spread of illnesses can provide important clues about possible causes of the
+outbreak, including whether a food causing an outbreak has a short or long shelf life
+and  whether  a  food  is  distributed  regionally  or  nationally.  Before  DNA  fingerprinting
+information  is  available,  state  and  local  health  departments  already  know  that  a
+possible  foodborne  illness  has  been  reported  in  their  state.  State  and  local  health
+departments  interview  these  sick  people  with  standard  questionnaires.  For  many
+illnesses,  like  Salmonella,  Listeria,  and  E.  coli  infections,  states  collect  information  on
+foods  and  other  exposures  that  caused  illnesses  or  outbreaks  in  the  past.  For  some
+germs, the Council of State and Territorial Epidemiologists recommends that state and
+
+local  health  departments  ask  sick  people  about  certain  foods  and  other  exposures.
+When investigators suspect that a contaminated food is causing a multistate outbreak,
+they consider many different foods as the possible source. State and local public health
+officials  interview  people  to  find  out  what  and  where  they  ate  in  the  days  or  weeks
+before getting sick. These interviews are called hypothesis-generating interviews, and
+they usually are much more detailed than routine enteric illness interviews. The time
+period investigators ask about depends on how long it takes for a germ to cause illness,
+which varies. CDC works closely with local and state public health officials to ask sick
+people  in  the  outbreak  a  common  set  of  questions.  Depending  on  what  is  already
+known,  interviews  may  focus  on  specific  foods,  but  most  hypothesis-generating
+interviews  ask  about  many  possible  food  exposures.  View  sample  questionnaires  and
+surveillance  tools.  Hypothesis-generating  interviews  typically  include  questions  on:
+Information  from  prior  experience  with  the  strain  causing  an  outbreak  can  also  help
+investigators  narrow  the  list  of  possible  causes.  Sometimes  the  germ  has  caused
+outbreaks  in  the  past  or  has  been  found  in  foods,  animals,  the  environment,  or  food
+facilities.  These  findings  can  provide  clues  about  the  source  of  an  outbreak,  but  an
+outbreak  source  is  only  confirmed  after  other  types  of  information  support  the  link
+between a food and the illnesses. Interviews rely on memory, and it can take several
+weeks  from  the  time  someone  gets  sick  to  confirm  they  are  a  part  of  an  outbreak.
+Someone may not remember what they ate many weeks ago. Remembering is harder
+when the contaminated food is an ingredient such as eggs, spices, or herbs, because
+people  often  do  not  know  specific  ingredients  of  the  food  they  ate.  These  challenges
+make  it  harder  for  investigators  to  quickly  generate  a  hypothesis,  and  investigators
+may need to re-interview people when a new hypothesis is generated. Home visits can
+be  helpful  to  look  at  the  foods  in  a  sick  person's  pantry  and  refrigerator.  With
+permission, investigators may also get information from a sick person's shopper cards
+and  other  records  of  food  purchases  like  receipts.  Once  investigators  have  narrowed
+
+down  the  likely  source  of  the  outbreak  to  a  few  possible  foods,  they  test  the
+hypotheses. Investigators can use many different methods to test their hypotheses, but
+most  methods  entail  studies  that  compare  how  often  (frequency)  sick  people  in  the
+outbreak ate certain foods to how often people not part of the outbreak ate those foods.
+If  eating  a  particular  food  is  associated  with  getting  sick  in  the  outbreak,  it  provides
+evidence that the food is the likely source. Investigators can describe the strength of
+the association between food and illness by using statistical tests or measures, such as
+odds ratios and confidence intervals. An illness cluster is when two or more people who
+do  not  live  in  the  same  household  report  eating  at  the  same  restaurant  location,
+attending a common event, or shopping at the same location of a grocery store before
+getting sick. Investigating illness clusters can help test hypotheses about the source of
+an outbreak because an illness cluster suggests that the contaminated food item was
+served  or  sold  at  the  cluster  location.  Conducting  epidemiologic  studies  within  illness
+cluster  locations  can  be  an  effective  way  to  identify  foods  that  are  associated  with
+illness. Case-control and cohort studies can both be used in illness cluster investigations
+and  are  especially  useful  when  they  assess  associations  between  illness  and  specific
+food ingredients. In some multistate outbreaks, investigators identify numerous illness
+clusters. In those situations, looking for common ingredients that people ate across all
+the illness clusters can help investigators test hypotheses, even in the absence of an
+epidemiologic  study.  Investigators  often  compare  the  frequency  of  foods  reported  by
+sick  people  in  a  multistate  outbreak  to  data  that  already  exist  about  healthy  people.
+The most common source for data about how often healthy people eat certain foods is
+the FoodNet Population Survey, a periodic survey of randomly selected residents in the
+FoodNet surveillance area. The most recent FoodNet Population Survey was conducted
+during 2018–2019 and included interviews from 38,743 adults and children. In addition
+to information on food exposures, the survey also includes questions on demographic
+characteristics,  such  as  age,  gender,  race,  and  ethnicity.  Investigators  use  statistical
+
+tests  to  determine  if  people  in  an  outbreak  report  eating  any  of  the  suspected  foods
+significantly more often than people in the survey. Comparing the frequency of foods
+reported  by  sick  people  to  existing  data  is  often  faster  than  conducting  a  formal
+epidemiologic study. If one or more of the suspected foods under consideration are not
+included  on  the  FoodNet  Population  Survey,  investigators  might  need  to  do  an
+epidemiologic study to determine whether consuming the food is associated with being
+ill. Several types of studies can be conducted during multistate foodborne outbreaks:
+There are several reasons why hypothesis testing might not identify the likely source of
+an outbreak. Even if investigators do not find a statistical association between a food
+and illness, the outbreak could still be foodborne. If the outbreak has ended, the source
+of  the  outbreak  is  considered  unknown.  If  people  are  still  getting  sick,  investigators
+keep gathering information to find the food that is causing the illnesses. Health officials
+use  three  types  of  data  to  confirm  the  source  of  a  multistate  foodborne  outbreak:
+epidemiologic,  traceback,  and  food  and  environmental  testing.  Once  the  analysis  of
+epidemiologic data indicates a suspected source for the outbreak, traceback and food
+or environmental testing data are used to confirm whether the food is the source. In
+addition to helping confirm which food is causing the outbreak, officials use traceback
+and  testing  information  to  help  find  exactly  where  contamination  occurred.
+Contamination  can  happen  anywhere  along  the  chain  of  food  production,  including
+during  growing,  harvesting,  processing,  transportation,  handling,  or  preparation.
+Knowing where contamination occurred can help public health officials take actions to
+stop  the  outbreak.  During  multistate  foodborne  outbreaks,  traceback  is  usually
+conducted  by  state  and  federal  food  regulatory  authorities  and  involves  determining
+the  movement  of  food  through  the  food  production  and  distribution  chain.  Traceback
+usually starts by following a suspected food consumed by a sick person back through
+the  points  of  distribution,  processing,  and  production  to  determine  the  source  of  the
+product  or  its  ingredients.  When  a  food  reported  by  several  sick  people  share  a
+
+common point in the chain of food production, it can confirm the food is the source of
+the  outbreak  and  suggests  that  contamination  happened  at  or  before  the  common
+point. For example, if several people bought and ate different brands of salad that were
+packed at a common facility, this suggests that the salads were contaminated at the
+facility  or  that  the  facility  received  a  contaminated  salad  ingredient.  Finding  the
+outbreak strain (germ with the same DNA fingerprint as those making people sick) in a
+food or in a food-growing or production environment can also confirm the source of an
+outbreak.  Public  health  officials  look  for  opportunities  to  test  suspected  foods  in
+outbreaks,  such  as  leftovers  in  sick  people's  homes  and  suspected  foods  from
+restaurants, grocery stores, or in the supply chain. Sometimes foods being tested for
+other  reasons  will  identify  an  outbreak  strain  and  help  confirm  the  source  of  the
+outbreak. Food testing is most useful when it is driven by results of the epidemiologic
+investigation. Identifying the outbreak strain in a food cannot by itself confirm that the
+food is the source of the outbreak. Information from interviews must also show that sick
+people  consumed  the  contaminated  food.  Traceback  can  be  challenging  for  several
+reasons. Sometimes records documenting the movement of foods through the supply
+chain  are  missing,  incomplete,  or  not  linkable  across  companies.  Also,  if  sick  people
+consumed the same food multiple times before getting sick, it can be difficult to know
+which  exposure  to  trace  back.  Finally,  investigators  often  don't  have  enough  detail
+about a food exposure to start a traceback. For example, a sick person might not have
+information  on  the  specific  brand  or  production  date  of  a  food  they  ate.  Food  and
+environmental  testing  can  also  be  challenging.  Investigators  need  to  collect  enough
+epidemiologic  information  to  know  which  foods  or  environments  to  test.  Even  if  they
+have enough information to test specific foods, it may be difficult to find foods to test if
+the  product  has  a  short  shelf  life.  Sometimes  leftover  foods  in  open  containers  can
+include  a  mix  of  ingredients,  which  also  makes  test  results  challenging  to  interpret.
+Finally, only a small fraction of any given food can be tested during an outbreak, so a
+
+negative test does not prove that a food was not contaminated. Investigators must act
+quickly  in  multistate  outbreaks  to  prevent  more  illnesses.  If  contaminated  food  isn't
+removed from store shelves, restaurant kitchens, or homes, more people may get sick.
+When  investigators  confirm  the  source  of  an  outbreak,  it  usually  means  they  have
+collected enough information to take actions to stop the outbreak. Sometimes actions
+can  be  taken  even  if  a  food  is  only  suspected  as  the  cause.  Public  health  officials
+choose  control  measures  based  on  the  information  available  to  them.  Public  health
+officials  can  sometimes  take  actions  to  stop  the  outbreak  based  solely  on  strong
+epidemiological  evidence  of  the  source.  They  don't  have  to  wait  on  a  laboratory  to
+identify the outbreak strain in the food. As officials learn more during the investigation,
+they  may  change,  focus,  or  expand  control  measures  and  advice  to  the  public  and
+businesses. It can be difficult to take actions to prevent illness in a multistate outbreak.
+Public  health  officials  try  their  best  to  inform  the  public  about  the  outbreak  and  the
+contaminated or recalled food. However, the advice may not reach everyone, and some
+people may unknowingly eat the contaminated food. Even when people are aware of
+the outbreak, it can sometimes be difficult for them to identify the contaminated food.
+For  example,  some  recalls  involve  hundreds  of  products,  while  some  recalls  include
+products of a specific lot code and expiry date. In addition, some recalls of food items,
+like  onions  or  chicken,  can  lead  to  many  downstream  recalls  of  products  made  with
+those  ingredients,  such  as  pizza  or  deli  salads.  An  outbreak  is  considered  over  when
+new illnesses stop being identified or the contaminated food is no longer on the market
+or  in  people's  homes.  The  epidemic  curve  helps  investigators  see  when  illnesses  are
+declining. Even when illnesses from the outbreak appear to have stopped, public health
+officials continue to monitor for new illnesses for a few weeks. This allows investigators
+to  be  sure  the  control  measures  were  effective  and  gives  time  for  any  additional
+illnesses  to  be  reported.  If  the  number  of  illnesses  rises  again,  the  investigation
+continues or restarts. It could mean that the source was not completely eliminated from
+
+the market or people's homes, or a second contamination event has occurred. Public
+health officials also work to decide whether contaminated food is still available for sale
+or in people's homes. This involves assessing the shelf life of the product, how quickly it
+is used, and whether it can be frozen. Investigators also try to determine whether the
+source  of  contamination  has  the  potential  to  affect  many  food  products  or  foods
+produced over a long period of time. It takes time for an illness to be confirmed as a
+part  of  a  multistate  outbreak,  so  investigators  are  often  evaluating  information  that
+reflects people who ate the contaminated food weeks ago. This reporting lag can make
+it  difficult  to  know  when  illnesses  have  truly  stopped.  In  addition,  some  strains  of
+bacteria continually cause illnesses at low levels, so illnesses might never completely
+stop  being  reported.  Finally,  it  can  be  difficult  to  confirm  whether  a  contaminated
+product  is  still  on  the  market.  Learn  how  CDC  works  with  partners  to  investigate,
+respond  to,  and  prevent  foodborne  outbreaks.  Languages  Language  Assistance
+Languages  Language Assistance 
+
+Source URL: https://www.cdc.gov/foodborne-outbreaks/investigation-steps/index.html

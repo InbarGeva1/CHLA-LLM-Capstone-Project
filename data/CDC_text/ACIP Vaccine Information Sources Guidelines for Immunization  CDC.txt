@@ -1,0 +1,461 @@
+Official websites use .gov A .gov website belongs to an official government organization
+in  the  United  States.  Secure  .gov  websites  use  HTTPS  A  lock  (   )  or  https://  means
+you've  safely  connected  to  the  .gov  website.  Share  sensitive  information  only  on
+official,  secure  websites.  General  Best  Practice  Guidelines  for  Immunization  Printer
+friendly version [25 pages] Major revisions to this section of the best practices guidance
+include  the  timing  of  intramuscular  administration  and  the  timing  of  clotting  factor
+deficiency replacement.   With a few exceptions, use of an antimicrobial agent does not
+interfere with the effectiveness of vaccination. Antibacterial agents have no effect on
+non-live vaccines. They also have no effect on response to live, attenuated vaccines,
+except live oral Ty21a typhoid vaccine and BCG vaccines. Ty21a typhoid vaccine should
+not be administered to persons receiving antimicrobial agents until 72 hours after the
+last  dose  of  antimicrobial  (1).  If  feasible,  to  avoid  a  possible  reduction  in  vaccine
+effectiveness, antibacterial drugs should not be started or resumed until 1 week after
+the last dose of Ty21a. Antimicrobial or immunosuppressive agents may interfere with
+the  immune  response  to  BCG  and  should  only  be  used  under  medical  supervision
+(additional information [16 pages]). Antiviral drugs used for treatment or prophylaxis of
+influenza  virus  infections  have  no  effect  on  the  response  to  inactivated  influenza
+vaccine  (2).  However,  live,  attenuated  influenza  vaccine  should  not  be  administered
+until  48  hours  after  cessation  of  therapy  with  antiviral  influenza  drugs.  If  feasible,  to
+avoid  possible  reduction  in  vaccine  effectiveness,  antiviral  medication  should  not  be
+administered for 14 days after LAIV administration (2). If influenza antiviral medications
+are administered within 2 weeks after receipt of LAIV, the LAIV dose should be repeated
+48 or more hours after the last dose of zanamivir or oseltamivir. The LAIV dose should
+be repeated 5 days after peramivir and 17 days after baloxavir. Alternatively, persons
+receiving antiviral drugs within the period 2 days before to 14 days after vaccination
+with LAIV may be revaccinated with another approved vaccine formulation (e.g., IIV or
+recombinant  influenza  vaccine).  Antiviral  drugs  active  against  herpesviruses  (e.g.,
+
+acyclovir  or  valacyclovir)  might  reduce  the  efficacy  of  vaccines  containing  live,
+attenuated varicella zoster virus (i.e., Varivax and ProQuad) (3,4). These drugs should
+be  discontinued  at  least  24  hours  before  administration,  if  possible.  If  clinically
+appropriate, delay use or resumption of antiviral therapy for 14 days after vaccination.
+No data exist to suggest that commonly used antiviral drugs have an effect on rotavirus
+vaccine or MMR. Top of Page  Measles illness, severe acute or chronic infections, HIV
+infection, and malnutrition can create a relatively anergic state during which the TST
+might have a false-negative reaction (5-7). Although live, attenuated measles vaccine
+theoretically can suppress TST reactivity, the degree of suppression is likely less than
+that occurring from acute infection from wild-type measles virus. Screening children for
+tuberculosis  exposure  is  accomplished  by  medical  history  rather  than  TST  testing;
+universal  TST  screening  of  all  children  is  no  longer  recommended,  though  TST
+screening  is  sometimes  indicated  (e.g.,  for  persons  at  increased  risk  for  tuberculosis
+exposure based on medical history, or for employees for occupational health reasons).
+In a general screening situation, a provider may find that: both TST and live vaccine are
+recommended; live vaccine is recommended, and TST has already been administered
+more than one day previous; or TST is indicated, and the live vaccine has already been
+administered  more  than  one  day  previous.  TST  may  be  administered  simultaneously
+with  live  vaccines,  and  this  is  the  preferred  scenario.  If  live  vaccine  is  indicated,  and
+TST  has  been  administered  more  than  one  day  previous,  the  live  vaccine  can  be
+administered at any interval after the TST. If TST is recommended, and the live vaccine
+has already been administered more than one day previous, providers should ensure a
+28 day interval, in other words defer the TST for 28 days after vaccination. A delay in
+performing the TST removes the concern of any theoretical transient suppression of TST
+reactivity. Some providers choose to perform TST screening and then delay the vaccine
+until the patient returns to have the TST read. This option is less favored compared with
+simultaneous TST/live vaccination, because it delays receipt of the measles-containing
+
+vaccine. While the above rationale is based on measles suppression of TST response,
+because of similar concerns about smallpox vaccine and TST suppression, a TST should
+not be performed until 4 weeks after smallpox vaccination (8).No data exist regarding
+the  potential  degree  of  TST  suppression  that  might  be  associated  with  other  live,
+attenuated virus vaccines (e.g., varicella or yellow fever). However, in the absence of
+data,  following  guidelines  for  measles-containing  vaccine  when  scheduling  TST
+screening  and  administering  other  live,  attenuated  virus  vaccines  is  prudent.  If  the
+opportunity  to  vaccinate  might  be  missed,  vaccination  should  not  be  delayed  only
+because  of  these  theoretical  considerations.  TST  can  be  repeated  4  weeks  after
+vaccination  if  it  is  negative  and  concern  for  TB  infection  persists.  Interferon  gamma
+release assays (IGRAs), such as the QuantiFERON-TB Gold In-Tube test and the T-Spot
+TB test, are blood-test alternatives to the TST for detecting Mycobacterium tuberculosis
+infection.  The IGRA requires only a single visit to complete and may be less effected by
+previous  BCG  vaccination  (9).  The  same  timing  guidelines  that  apply  to  the  interval
+between a live vaccine and TST apply to IGRA (i.e., 28 days between live vaccine and
+IGRA  if  they  do  not  occur  on  the  same  day),  because  IGRA  (like  TST)  might  be
+suppressed  through  immunologic  mechanisms.  The  potential  for  a  previous  TST  to
+cause  boosting  of  future  TST  results  should  be  considered  in  adults  who  have  a
+negative initial TST (9). Two-step testing, in which TST is repeated in a short time frame
+(e.g., 1 to 3 weeks) after an initial negative TST, can illicit boosting and identify persons
+whose  immune  response  may  have  waned  with  time  since  infection  or  BCG
+vaccination.   For  people  undergoing  serial  screening  for  infection,  for  instance  health
+care  personnel  who  are  tested  yearly,  differentiation  of  positive  tests  due  boosting
+versus new infection is important (9). The 2-step test, in which the test is given twice in
+a short time frame, reduces the chance of these false negatives, which are important to
+identify among adults who may have had or plan to have repeat testing anyway—for
+example, healthcare personnel who are tested yearly (9). Because this test consists of 2
+
+TSTs separated by an interval of 1-3 weeks, there is a greater window of time during
+which  live  vaccine  replication  could  suppress  reactivity.  If  a  live  vaccine  is
+administered,  the  first  dose  of  a  2-step  TST  should  be  delayed  for  4  weeks,  and  if
+additional doses of live vaccines are indicated thereafter, they should be delayed until
+the  second  TST  is  measured.  TST  or  IGRA  reactivity  in  the  absence  of  active
+tuberculosis  is  not  a  contraindication  to  administration  of  any  vaccine,  including  live,
+attenuated  virus  vaccines.  Note  that  TST  screening  of  an  asymptomatic  individual  is
+clinically  different  than  testing  a  person  suspected  to  have  active  tuberculosis.  If  a
+person  is  suspected  to  have  active  tuberculosis,  MMR  vaccine  is  typically  not
+administered.  Active  tuberculosis  should  be  considered  severe  acute  illness,  and
+moderate  or  severe  acute  illness  is  a  precaution  for  vaccination.  Although  no  studies
+have  reported  on  the  effects  of  MMR  vaccine  on  persons  with  active  untreated
+tuberculosis,  a  theoretical  basis  exists  for  concern  that  measles  vaccine  might
+exacerbate active tuberculosis (10). As a result, before administering MMR to persons
+with untreated active tuberculosis, initiating antituberculosis therapy is advisable (10).
+Considering whether concurrent immunosuppression (e.g., immunosuppression caused
+by  HIV  infection)  is  present  before  administering  live,  attenuated  vaccines  also  is
+necessary,  because  immunosuppression  is  a  contraindication  to  MMR  vaccine.  Top  of
+Page   In  the  majority  of  cases,  preterm  infants  (infants  born  before  37  weeks’
+gestation), regardless of birth weight, should be vaccinated at the same chronological
+age  and  according  to  the  same  schedule  and  using  the  same  precautions  as  for
+full-term infants and children. Birth weight and size are not factors in deciding whether
+to  vaccinate  a  clinically  stable  preterm  infant  (11-15),  except  for  hepatitis  B
+vaccination.  The  full  recommended  dose  of  each  vaccine  should  be  used.  Divided  or
+reduced  doses  are  not  recommended.  Decreased  seroconversion  rates  might  occur
+among  certain  preterm  infants  (i.e.,  those  with  low  birth  weights  [<2,000  g])  after
+administration of hepatitis B vaccine at birth (16). However, by the chronological age of
+
+1 month, all preterm infants, regardless of initial birth weight, are likely to respond as
+adequately as larger infants (17-19). Infants weighing <2,000 g born to HBsAg-negative
+mothers should receive the first dose of the hepatitis B vaccine series at chronological
+age  1  month  or  hospital  discharge,  if  hospital  discharge  occurs  when  the  infant  is
+younger
+ than
+ one
+ month
+ of
+ age.
+ Preterm
+ low-birth-weight–infants
+ born
+ to
+HBsAg-positive  mothers  should  receive  immunoprophylaxis  with  hepatitis  B  vaccine
+within  12  hours  after  birth.  The  initial  vaccine  dose  should  not  be  counted  toward
+completion  of  the  hepatitis  B  series,  and  3  additional  doses  of  hepatitis  B  vaccine
+should be administered, beginning when the infant is aged 1 month. For mothers with
+unknown  HBsAg  status,  hepatitis  B  vaccine  is  recommended  within  12  hours  of  birth
+regardless  of  low-birth-weight  status.  In  addition  to  hepatitis  B  vaccines,  hepatitis  B
+Immunoglobulin (HBIG) is recommended for infants whose mothers are HBsAg positive
+or  unknown.  If  the  mother  is  HBsAg  positive,  HBIG  must  be  given  within  12  hours  of
+birth.  If  the  mother’s  HBsAg  status  is  unknown,  providers  should  first  attempt  to
+determine the mother’s status. Regardless, if the infant is preterm or low birth weight,
+HBIG  must  be  given  within  12  hours  of  birth.  If  the  infant  is  neither  preterm  nor  low
+birth  weight,  providers  have  up  to  7  days  from  birth  to  determine  if  the  mother  is
+HBsAg  negative;  because  the  protective  efficacy  of  HBIG  declines  the  longer  that
+administration  is  delayed,  if  results  are  unlikely  to  be  known  by  day  7  of  life,  HBIG
+should  be  given  no  later  than  day  7  if  not  earlier.  If  the  mother  is  determined  to  be
+HBsAg positive, HBIG should be administered as soon as possible (20). If a child aged at
+least  6  weeks  has  been  in  the  hospital  since  birth,  deferral  of  rotavirus  vaccine  is
+recommended  until  the  time  of  discharge.  If  an  infant  were  to  be  vaccinated  with
+rotavirus vaccine while still needing care in the NICU or nursery, at least a theoretic risk
+exists for vaccine virus being transmitted to infants in the same unit who are acutely ill
+and to preterm infants who are not age-eligible for vaccine (21). The rotavirus vaccine
+series should not be initiated for infants aged ≥15 weeks, 0 days. Top of Page  With 2
+
+exceptions, neither non-live nor live-virus vaccines administered to a lactating woman
+affect the safety of breastfeeding for women or their infants. Although live viruses in
+vaccines can replicate in the mother, the majority of live viruses in vaccines have been
+demonstrated not to be excreted in human milk. Varicella vaccine virus has not been
+found in human milk (22). Although rubella vaccine virus has been excreted in human
+milk,  the  virus  usually  does  not  infect  the  infant.  If  infection  does  occur,  it  is  well
+tolerated  because  the  virus  is  attenuated  (23).  Non-live  vaccines  pose  no  risk  for
+mothers who are breastfeeding or for their infants. Breastfeeding is a contraindication
+for  smallpox  vaccination  of  the  mother  because  of  the  theoretical  risk  for  contact
+transmission  from  mother  to  infant.  Yellow  fever  vaccine  should  be  avoided  in
+breastfeeding women, because 2 cases (one confirmed, one probable) of yellow-fever
+vaccine associated acute neurotropic disease (YEL-AND) have been detected in infants
+whose mothers were vaccinated but were not vaccinated themselves. In both infants,
+vaccine  virus  was  recovered  from  the  cerebrospinal  fluid  of  the  infant,  but  the  exact
+mode  of  transmission  was  not  precisely  determined  because  vaccine  virus  was  not
+recovered  from  breast  milk  (24).  However,  when  nursing  mothers  cannot  avoid  or
+postpone travel to areas endemic for yellow fever in which risk for acquisition is high,
+these  women  should  be  vaccinated.  Limited  data  indicate  that  breastfeeding  can
+enhance the response to certain vaccine antigens (25). There are no data to suggest
+that  passive  transfer  of  antibodies  in  human  milk  can  affect  the  efficacy  of  live-virus
+vaccines.  Breastfed  infants  should  be  vaccinated  according  to  the  recommended
+schedule (26-28). Top of Page  No evidence exists of risk to the fetus from vaccinating
+pregnant women with non-live virus or bacterial vaccines (29,30). In spite of the lack of
+evidence  of  risk,  HPV  vaccine,  a  non-live  vaccine,  is  not  recommended  during
+pregnancy. Live vaccines administered to a pregnant woman pose a theoretical risk to
+the  fetus;  therefore,  live,  attenuated  virus  and  live  bacterial  vaccines  generally  are
+contraindicated  during  pregnancy.  Women  should  avoid  conception  for  4  weeks  after
+
+vaccination  with  live  vaccines.  However,  benefits  of  vaccinating  pregnant  women
+usually outweigh potential risks when the likelihood of disease exposure is high, when
+infection would pose a risk to the mother or fetus, and when the vaccine is unlikely to
+cause harm. Recommendations for vaccination during pregnancy are developed using
+ACIP’s  Guiding  Principles  for  Development  of  ACIP  Recommendations  for  Vaccination
+During Pregnancy and Breastfeeding (31). Women who are pregnant should receive a
+dose of Tdap for the prevention of infant pertussis whether or not they have previously
+received
+ Tdap.
+ Vaccination
+ of
+ the
+ mother
+ generates
+ antibodies
+ that
+ pass
+transplacentally  to  the  fetus  (32).  Vaccination  in  the  third  trimester  optimizes  the
+duration of this antibody protection until after birth. Additionally, preventing pertussis in
+the  mother  reduces  the  risk  that  the  infant  is  exposed  to  pertussis  after  birth  (33).
+Health care personnel should administer Tdap during pregnancy, preferably during the
+third trimester. If Tdap is not administered during pregnancy to women who have never
+received it, it should be administered immediately postpartum. Pregnant women who
+are not vaccinated or are only partially vaccinated against tetanus should complete the
+primary  series  (34).  Women  for  whom  Td  is  indicated  but  who  did  not  complete  the
+recommended 3-dose series during pregnancy should receive follow-up after delivery to
+ensure the series is completed. One dose of the tetanus vaccine series should be Tdap,
+if Tdap has not already been received. Pregnant and postpartum women are at higher
+risk  for  severe  illness  and  complications  from  influenza  than  women  who  are  not
+pregnant  (2,  35).  Pregnant  women  have  protective  levels  of  anti-influenza  antibodies
+after  vaccination  (36,37).  Passive  transfer  of  anti-influenza  antibodies  that  might
+provide protection from vaccinated women to neonates has been reported (36, 38-41).
+Routine vaccination with inactivated influenza vaccine is recommended for all women
+who  are  or  will  be  pregnant  (in  any  trimester)  during  influenza  season.  IPV  can  be
+administered to pregnant women who are at risk for exposure to wild-type poliovirus.
+This  includes  travelers  to  areas  or  countries  where  polio  is  epidemic  or  endemic;
+
+members  of  communities  or  specific  population  groups  with  disease  caused  by  wild
+polioviruses; laboratory workers who handle specimens that might contain polioviruses;
+healthcare personnel who have close contact with patients who might be excreting wild
+polioviruses; and unvaccinated persons whose children will be receiving oral poliovirus
+vaccine (42). Hepatitis A, pneumococcal polysaccharide, meningococcal conjugate, and
+meningococcal polysaccharide vaccines should be considered for women at increased
+risk for those infections (43-45). Pregnant women who must travel to areas where there
+is  a  risk  for  acquiring  yellow  fever  should  receive  yellow  fever  vaccine,  because  the
+limited  theoretical  risk  from  vaccination  is  outweighed  substantially  by  the  risk  for
+yellow fever infection (24, 46). Hepatitis B vaccine is not contraindicated in pregnancy
+and should be given to a pregnant woman for whom it is indicated (20, 47). Pregnancy
+is  a  contraindication  for  smallpox  (vaccinia)  vaccine  and  measles-,  mumps-,  rubella-,
+and varicella-containing vaccines. Smallpox vaccine is the only vaccine known to harm
+a fetus when administered to a pregnant woman. In addition, smallpox vaccine should
+not be administered to a household contact of a pregnant woman (8). Women who are
+pregnant should not have close contact with anyone who has recently (within the last
+28 days) received the smallpox vaccine. Data from studies of children born to mothers
+inadvertently  vaccinated  with  rubella  vaccine  during  pregnancy  demonstrate  rubella
+antibody  in  unvaccinated  infants.  This  could  represent  passive  transfer  of  maternal
+antibody or a fetal antibody response to vaccine virus infection in the fetus. No cases of
+congenital rubella or varicella syndrome or abnormalities attributable to fetal infection
+have  been  observed  among  infants  born  to  susceptible  women  who  inadvertently
+received  rubella  or  varicella  vaccines  during  pregnancy  (48-50).  Because  of  the
+importance  of  protecting  women  of  childbearing  age  against  rubella  and  varicella,
+reasonable  practices  in  any  vaccination  program  include  asking  women  if  they  are
+pregnant or might become pregnant in the next 4 weeks; not vaccinating women who
+state  that  they  are  or  plan  to  become  pregnant  within  that  interval;  explaining  the
+
+theoretical risk for the fetus if MMR, varicella, or MMRV vaccine were administered to a
+woman  who  is  pregnant;  and  counseling  women  who  are  vaccinated  not  to  become
+pregnant  during  the  4  weeks  after  MMR,  varicella,  or  MMRV  vaccination  (10,  48-51).
+MMRV is an unlikely option for a pregnant woman because the vaccine is only licensed
+through  12  years  of  age.  Routine  pregnancy  testing  of  women  of  childbearing  age
+before  administering  a  live-virus  vaccine  is  not  recommended  (3,  10).  If  a  pregnant
+woman is inadvertently vaccinated or becomes pregnant within 4 weeks after MMR or
+varicella vaccination, she should be counseled about the theoretical basis of concern for
+the  fetus;  however,  MMR  or  varicella  vaccination  during  pregnancy  should  not  be
+considered  a  reason  to  terminate  pregnancy  (3,  10,  50).  Persons  who  receive  MMR
+vaccine do not transmit the vaccine viruses to contacts (10). Transmission of varicella
+vaccine virus to contacts is exceedingly rare (3). MMR and varicella vaccines should be
+administered  when  indicated  to  children  and  other  household  contacts  of  pregnant
+women  (10).  Infants  living  in  households  with  pregnant  women  should  be  vaccinated
+with rotavirus vaccine according to the same schedule as infants in households without
+pregnant  women.  Pregnant  women  should  be  evaluated  for  evidence  of  immunity  to
+rubella and varicella and be tested for the presence of HBsAg during every pregnancy
+(10, 20, 52). Women without evidence of immunity to rubella and varicella should be
+vaccinated  immediately  after  delivery.  A  second  dose  of  varicella  vaccine  should  be
+administered  4-8  weeks  later.  A  woman  found  to  be  HBsAg  positive  should  be
+followed-up carefully to ensure that the infant receives HBIG and begins the hepatitis B
+vaccine  series  no  later  than  12  hours  after  birth  and  that  the  infant  completes  the
+recommended hepatitis B vaccine series on schedule (20). No known risk exists for the
+fetus  from  passive  immunization  of  pregnant  women  with  immune  globulin
+preparations.  Top  of  Page   Clinicians  have  a  limited  ability  to  determine  whether
+persons  are  protected  on  the  basis  of  their  country  of  origin  and  their  vaccination
+records  alone.  Vaccines  administered  outside  the  United  States  generally  can  be
+
+accepted as valid if the schedule (i.e., minimum ages and intervals) is similar to that
+recommended in the United States. There are exceptions (providers should not accept
+documentation of these vaccines): Aimmugen, a hepatitis A vaccine; and Twinrix Jr., a
+combination vaccine containing hepatitis A and hepatitis B components (providers can
+accept  the  hepatitis  B  component  but  NOT  the  hepatitis  A  component).  Only  written
+documentation should be accepted as evidence of previous vaccination. There is one
+exception, influenza vaccine, for which self-report can be accepted. Written records are
+more  likely  to  predict  protection  if  the  vaccines,  dates  of  administration,  intervals
+between  doses,  and  age  at  the  time  of  vaccination  are  comparable  to  U.S.
+recommendations. Although vaccines with inadequate potency have been produced in
+other  countries  (53,54),  the  majority  of  vaccines  used  worldwide  are  produced  with
+adequate quality control standards and are potent. Medscape has a guide to pediatric
+vaccines used in other countries. Persons vaccinated outside of the United States can
+enter  the  country  through  a  number  of  different  mechanisms.  Those  seeking  to
+immigrate to the United States may be vaccinated under the authority of a civil surgeon
+or  a  panel  physician.  Some  enter  the  United  States  as  refugees  and  are  vaccinated
+under the authority of the Office of Refugee Resettlement, part of the Administration for
+Children  and  Families,  in  the  Department  of  Health  and  Human  Services.  Adopted
+children’s  birth  countries  often  have  vaccination  schedules  that  differ  from  the
+recommended childhood vaccination schedule in the United States. Differences in the
+U.S. schedule and those used in other countries include the vaccines administered, the
+recommended ages of administration, and the number and timing of doses. Data are
+inconclusive  regarding  the  extent  to  which  an  internationally  adopted  child’s
+vaccination  record  reflects  the  child’s  protection.  A  child’s  record  might  indicate
+administration  of  MMR  vaccine  when  only  single-antigen  measles  vaccine  was
+administered. A study of children adopted from orphanages in the People’s Republic of
+China,  Russia,  and  countries  in  Eastern  Europe  determined  that  67%  of  children  with
+
+documentation  of  >3  doses  of  DTP  before  adoption  had  nonprotective  titers  to  these
+antigens  (54).  In  contrast,  children  adopted  from  these  countries  who  received
+vaccination in the community (not only from orphanages) and had documentation of ≥1
+doses of DTP exhibited protective titers 67% of the time (54). However, antibody testing
+was  performed  by  using  a  hemagglutination  assay,  which  tends  to  underestimate
+protection and cannot directly be compared with antibody concentration (55). Data are
+likely to remain limited for areas other than the People’s Republic of China, Russia, and
+Eastern  Europe.  Healthcare  providers  should  ensure  that  household  contacts  of
+international adoptees are vaccinated adequately, particularly for measles, hepatitis A,
+and hepatitis B (56). Healthcare providers may use one of multiple approaches if the
+immunogenicity  of  vaccines  or  the  completeness  of  series  administered  to  persons
+outside  the  United  States  is  in  question.  Repeating  the  vaccinations  is  an  acceptable
+option that usually is safe and prevents the need to obtain and interpret serologic tests.
+If  avoiding  unnecessary  injections  is  desired,  judicious  use  of  serologic  testing  might
+help  determine  which  vaccinations  are  needed.  For  some  vaccines,  the  most  readily
+available  serologic  tests  cannot  document  protection  against  infection.  This  best
+practices  document  provides  guidance  on  possible  approaches  to  evaluation  and
+revaccination  for  each  vaccine  recommended  in  the  United  States  (Table  9-1).
+Vaccination providers can revaccinate children younger than 7 years of age with DTaP
+vaccine  without  regard  to  recorded  doses;  however,  data  indicate  increased  rates  of
+local adverse reactions after the fourth and fifth doses of DTaP (57). If a revaccination
+approach  is  adopted  and  a  severe  local  reaction  occurs,  serologic  testing  for  specific
+IgG  antibody  to  tetanus  and  diphtheria  toxins  can  be  measured  before  administering
+additional  doses.  Protective  concentration(a)  indicates  that  additional  doses  are
+unnecessary  and  subsequent  vaccination  should  occur  as  age  appropriate.  No
+established serologic correlates exist for protection against pertussis. For a child whose
+record indicates receipt of ≥3 doses of DTP or DTaP, serologic testing for specific IgG
+
+antibody to both diphtheria and tetanus toxin before additional doses is a reasonable
+approach. If a protective concentration is present, recorded doses are considered valid,
+and the vaccination series should be completed as age appropriate. An indeterminate
+antibody  concentration  might  indicate  immunologic  memory  but  waning  antibody;
+serologic  testing  can  be  repeated  after  a  booster  dose  if  vaccination  providers  or
+parents  want  to  avoid  revaccination  with  a  complete  series.  Alternately,  for  a  child
+whose records indicate receipt of ≥3 doses, a single booster dose can be administered
+followed by serologic testing after 1 month for specific IgG antibody to both diphtheria
+and tetanus toxins. If the child has a protective concentration, the recorded doses are
+considered valid, and the vaccination series should be completed as age appropriate.
+Children  with  an  indeterminate  concentration  after  a  booster  dose  should  be
+revaccinated
+ with
+ a
+ complete
+ series.
+ Children
+ aged
+ 12-23
+ months
+ without
+documentation of hepatitis A vaccination or serologic evidence of immunity should be
+vaccinated  on  arrival  in  the  United  States  (45).  Persons  who  have  received  1  dose
+should  receive  the  second  dose  if  6-18  months  have  passed  since  the  first  dose  was
+administered.  Persons  not  known  to  be  vaccinated  for  hepatitis  B  should  receive  an
+age-appropriate series of hepatitis B vaccine. A person whose records indicate receipt
+of a complete series of vaccine is considered protected(b), and additional doses are not
+needed if ≥1 dose was administered at age ≥24 weeks. Persons who received their last
+hepatitis B vaccine dose at an age <24 weeks should receive an additional dose at age
+≥24  weeks.  People  who  have  received  no  doses  or  a  partial  series  of  vaccine  should
+complete the series at the recommended intervals and ages. All foreign-born persons
+and immigrants, refugees, and internationally adopted children born in Asia, the Pacific
+Islands, Africa, and other regions of high or intermediate hepatitis B endemicity should
+be  tested  for  HBsAg,  regardless  of  vaccination  status  (58).  Those  determined  to  be
+HBsAg  positive  should  be  monitored  for  development  of  liver  disease.  Household
+members  of  HBsAg-positive  children  or  adults  should  be  vaccinated  if  they  are  not
+
+already immune. Interpretation of a serologic test to verify whether children who were
+vaccinated  >2  months  previously  are  protected  against  Hib  bacteria  can  be  difficult.
+Because  the  number  of  vaccinations  needed  for  protection  decreases  with  age  and
+because adverse events are rare (59), age-appropriate vaccination should be provided.
+Hib  vaccination  is  not  recommended  routinely  for  persons  aged  ≥5  years  (59).
+Quadrivalent  meningococcal  conjugate  vaccines  are  not  routinely  used  in  other
+countries  in  adolescents  (the  United  Kingdom  is  the  exception).  Unless  patients  have
+documented  receipt  they  should  be  considered  unvaccinated  and  receive  the
+age-appropriate  doses.  The  simplest  approach  to  resolving  concerns  about  MMR
+vaccination  is  to  revaccinate  with  1  or  2  doses  of  MMR  vaccine,  depending  on  age.
+Serious  adverse  events  after  MMR  vaccinations  are  rare  (10).  No  evidence  indicates
+that administering MMR vaccine increases the risk for adverse reactions among persons
+who  are  already  immune  to  measles,  mumps,  or  rubella  as  a  result  of  previous
+vaccination  or  natural  disease.  Doses  of  measles-containing  vaccine  administered
+before the first birthday should not be counted as part of the series (10). Alternatively,
+serologic testing for IgG antibody to vaccine viruses indicated on the vaccination record
+can  be  considered.  Serologic  testing  is  widely  available  for  measles  and  rubella  IgG
+antibody.  A  person  whose  record  indicates  receipt  of  monovalent  measles  or
+measles-rubella vaccine on or after the first birthday and who has protective antibody
+against  measles  and  rubella  should  receive  1  or  2  doses  of  MMR  or  MMRV  as  age
+appropriate to ensure protection against mumps and varicella (and rubella if measles
+vaccine  alone  had  been  administered).  If  a  person  whose  record  indicates  receipt  of
+MMR  at  age  ≥12  months  has  a  protective  concentration  of  antibody  to  measles,  no
+additional  vaccination  is  needed  unless  a  second  dose  is  required  for  school  entry.
+Many  industrialized  countries  now  routinely  use  pneumococcal  vaccines.  Although
+recommendations  for  pneumococcal  polysaccharide  vaccine  also  exist  in  many
+countries,  the  pneumococcal  conjugate  vaccine  might  not  be  routinely  administered.
+
+PCV13  and  PPSV23  should  be  administered  according  to  age-appropriate  vaccination
+schedules  or  as  indicated  by  the  presence  of  underlying  medical  conditions  (43,  60).
+The simplest approach to vaccinating with poliovirus vaccine is to revaccinate persons
+aged <18 years with IPV according to the U.S. schedule. Adverse events after IPV are
+rare  (42).  Children  appropriately  vaccinated  with  3  doses  of  OPV  in  economically
+developing  countries  might  have  suboptimal  seroconversion,  including  to  type  3
+poliovirus  (42).  Rotavirus  vaccination  should  not  be  initiated  for  infants  aged  ≥15
+weeks, 0 days. Infants who began the rotavirus vaccine series outside the United States
+but who did not complete the series and who are still aged ≤8 months, 0 days, should
+follow the routine schedule and receive doses to complete the series. If the brand of a
+previously administered dose is live, reassortment pentavalent rotavirus vaccine or is
+unknown,  a  complete  series  of  rotavirus  vaccine  should  be  documented  for  series
+completion(b).  All  doses  should  be  administered  by  age  8  months,  0  days.  Children
+aged  ≥7  years  who  are  not  considered  fully  vaccinated  for  pertussis  should  receive
+Tdap  vaccine.  “Fully  vaccinated”  means  at  least  5  doses  of  DTaP  before  the  seventh
+birthday or at least 4 doses of DTaP before the seventh birthday if the fourth dose is
+given  after  the  fourth  birthday.  One  dose  of  Tdap  is  recommended  after  the  seventh
+birthday. If additional doses of vaccine are needed, Td should be administered as age
+appropriate.  Varicella  vaccine  is  not  available  in  most  countries.  A  person  who  lacks
+evidence of varicella immunity should be vaccinated as age appropriate (3, 59). In the
+United States, zoster vaccination is recommended for all persons aged ≥50 years who
+have no contraindications, including persons who report a previous episode of zoster or
+who have chronic medical conditions. For persons who do not have documentation of
+receipt  of  zoster  vaccine,  the  vaccine  should  be  offered  at  the  patient’s  first  clinical
+encounter  with  the  healthcare  provider.  Two  doses  of  vaccine  are  recommended  2-6
+months  apart,  each  dose  a  0.5-mL  intramuscular  dose.  Zoster  vaccination  is  not
+indicated to treat acute zoster, to prevent persons with acute zoster from developing
+
+postherpetic neuralgia, or to treat ongoing postherpetic neuralgia. Patients do not need
+to  be  asked  about  their  history  of  varicella  or  to  have  serologic  testing  conducted  to
+determine  zoster  immunity  prior  to  administration  of  zoster  vaccine.  Top  of  Page  
+Providers  often  avoid  giving  intramuscular  injections  or  choose  alternative  routes  for
+persons  with  bleeding  disorders  because  of  the  risk  for  hematoma  formation  after
+injections.  In  one  study,  hepatitis  B  vaccine  was  administered  intramuscularly  to  153
+persons with hemophilia. The vaccination was administered with a 23-gauge or smaller
+caliber needle, followed by application of steady pressure to the site for 1-2 minutes.
+The vaccinations resulted in a low (4%) bruising rate, and no patients required factor
+supplementation  (61).  Whether  antigens  that  produce  more  local  reactions  (e.g.,
+pertussis) would produce an equally low rate of bruising is unknown. When hepatitis B
+or  any  other  intramuscularly  administered  vaccine  is  indicated  for  a  patient  with  a
+bleeding  disorder,  the  vaccine  should  be  administered  intramuscularly  if  a  physician
+familiar  with  the  patient’s  bleeding  risk  determines  that  the  vaccine  can  be
+administered by this route with reasonable safety. If the patient receives antihemophilia
+or similar therapy, intramuscularly administered vaccinations can be scheduled shortly
+after such therapy is administered. A fine-gauge needle (23-gauge or smaller caliber)
+should  be  used  for  the  vaccination,  followed  by  firm  pressure  on  the  site,  without
+rubbing, for at least 2 minutes. The patient or family should be given information on the
+risk  for  hematoma  from  the  injection.  Patients  receiving  anticoagulation  therapy
+presumably have the same bleeding risk as patients with clotting factor disorders and
+should  follow  the  same  guidelines  for  intramuscular  administration.  If  possible,
+vaccination  could  be  scheduled  prior  to  the  use  of  these  medications,  so  that  the
+patients’  risk  of  bleeding  is  not  increased  by  their  therapeutic  action.  (a)  Enzyme
+immunoassay tests are available. Physicians should contact the laboratory performing
+the  test  for  interpretive  standards  and  limitations.  Protective  concentrations  for
+antibody  to  diphtheria  and  tetanus  toxins  are  defined  as  >0.1  IU/mL.  (b)  A  complete
+
+series may consist of two or three doses, depending on the brand of vaccine used in the
+country of origin. Top of Page Abbreviations: DTaP = diphtheria and tetanus toxoids and
+acellular pertussis; HBsAg = hepatitis B surface antigen; HepA = hepatitis A; HepB =
+hepatitis B; Hib = Haemophilus influenzae type b; HPV = human papillomavirus; IgG =
+immune  globulin  G;  MMR  =  measles,  mumps,  and  rubella;  PCV13  =  pneumococcal
+conjugate  vaccine;  PPSV23=  pneumococcal  polysaccharide  vaccine;  Tdap  =  tetanus
+toxoid, reduced diphtheria toxoid, and acellular pertussis. (a) There is a recommended
+approach  for  all  vaccines  and  an  alternative  approach  for  some  vaccines.  (b)  In  rare
+instances, hepatitis B vaccine can give a false-positive HBsAg result up to 18 days after
+vaccination; therefore, blood should be drawn to test for HBsAg before vaccinating (20).
+Top of Page Top of Page To receive email updates about this page, enter your email
+address:
+
+Source URL: https://www.cdc.gov/vaccines/hcp/acip-recs/general-recs/special-situations.html

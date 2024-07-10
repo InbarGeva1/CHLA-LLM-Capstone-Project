@@ -1,0 +1,125 @@
+A .gov website belongs to an official government organization in the United States. A
+lock (  ) or https:// means you've safely connected to the .gov website. Share sensitive
+information  only  on  official,  secure  websites.  Instrument  processing  requires  multiple
+steps  using  specialized  equipment.  Each  dental  practice  should  have  policies  and
+procedures  in  place  for  containing,  transporting,  and  handling  instruments  and
+equipment  that  may  be  contaminated  with  blood  or  body  fluids.  Manufacturer’s
+instructions  for  reprocessing  reusable  dental  instruments  and  equipment  should  be
+readily available—ideally in or near the reprocessing area. Most single-use devices are
+labeled  by  the  manufacturer  for  only  a  single  use  and  do  not  have  reprocessing
+instructions. Use single-use devices for one patient only and dispose of appropriately.
+Cleaning,  disinfection,  and  sterilization  of  dental  equipment  should  be  assigned  to
+dental health care personnel (DHCP) with training in the required reprocessing steps to
+ensure  reprocessing  results  in  a  device  that  can  be  safely  used  for  patient  care.
+Training should also include the appropriate use of personal protective equipment (PPE)
+necessary for safe handling of contaminated equipment. Patient-care items (e.g., dental
+instruments,  devices,  and  equipment)  are  categorized  as  critical,  semicritical,  or
+noncritical, depending on the potential risk for infection associated with their intended
+use. Note: Dental handpieces and associated attachments, including low-speed motors
+and  reusable  prophylaxis  angles,  should  always  be  heat  sterilized  between
+patients—not high-level or surface disinfected. Although these devices are considered
+semicritical, studies have shown that their internal surfaces can become contaminated
+with patient materials during use. If these devices are not properly cleaned and heat
+sterilized, the next patient may be exposed to potentially infectious materials. Digital
+radiography  sensors  are  also  considered  semicritical  and  should  be  protected  with  a
+Food  and  Drug  Administration  (FDA)-cleared  barrier  to  reduce  contamination  during
+use,  followed  by  cleaning  and  heat  sterilization  or  high-level  disinfection  between
+patients. If the item cannot tolerate these procedures then, at a minimum, protect with
+
+an  FDA-cleared  barrier.  In  addition,  clean  and  disinfect  with  an  Environmental
+Protection  Agency  (EPA)-registered  hospital  disinfectant  with  intermediate-level  (i.e.,
+tuberculocidal  claim)  activity  between  patients.  Because  these  items  vary  by
+manufacturer and their ability to be sterilized or high-level disinfected also vary, refer
+to manufacturer instructions for reprocessing. Cleaning to remove debris and organic
+contamination from instruments should always occur before disinfection or sterilization.
+If blood, saliva, and other contamination are not removed, these materials can shield
+microorganisms  and  potentially  compromise  the  disinfection  or  sterilization  process.
+Automated cleaning equipment (e.g., ultrasonic cleaner, washer-disinfector) should be
+used to remove debris to improve cleaning effectiveness and decrease worker exposure
+to blood. After cleaning, dried instruments should be inspected, wrapped, packaged, or
+placed into container systems before heat sterilization. Packages should be labeled to
+show  the  sterilizer  used,  the  cycle  or  load  number,  the  date  of  sterilization,  and,  if
+applicable, the expiration date. This information can help in retrieving processed items
+in the event of an instrument processing/sterilization failure. The ability of a sterilizer to
+reach  conditions  necessary  to  achieve  sterilization  should  be  monitored  using  a
+combination of biological, mechanical, and chemical indicators. Biological indicators, or
+spore  tests,  are  the  most  accepted  method  for  monitoring  the  sterilization  process
+because they assess the sterilization process directly by killing known highly resistant
+microorganisms (e.g., Geobacillus or Bacillus species). A spore test should be used at
+least  weekly  to  monitor  sterilizers.  However,  because  spore  tests  are  only  performed
+periodically  (e.g.,  once  a  week,  once  a  day)  and  the  results  are  usually  not  obtained
+immediately,  mechanical  and  chemical  monitoring  should  also  be  performed.
+Mechanical and chemical indicators do not guarantee sterilization; however, they help
+detect procedural errors and equipment malfunctions. Mechanical monitoring involves
+checking  the  sterilizer  gauges,  computer  displays,  or  printouts;  and  documenting  the
+sterilization  pressure,  temperature,  and  exposure  time  in  your  sterilization  records.
+
+Since these parameters can be observed during the sterilization cycle, this might be the
+first indication of a problem. Chemical monitoring uses sensitive chemicals that change
+color  when  exposed  to  high  temperatures  or  combinations  of  time  and  temperature.
+Examples  include  chemical  indicator  tapes,  strips,  or  tabs,  and  special  markings  on
+packaging  materials.  Chemical  monitoring  results  are  obtained  immediately  following
+the  sterilization  cycle  and  therefore  can  provide  more  timely  information  about  the
+sterilization cycle than a spore test. A chemical indicator should be used inside every
+package to  verify  that the sterilizing  agent (e.g.,  steam) has penetrated  the package
+and reached the instruments inside. If the internal chemical indicator is not visible from
+the  outside  of  the  package,  an  external  indicator  should  also  be  used.  External
+indicators can be inspected immediately when removing packages from the sterilizer. If
+the  appropriate  color  change  did  not  occur,  do  not  use  the  instruments.  Chemical
+indicators  also  help  to  differentiate  between  processed  and  unprocessed  items,
+eliminating the possibility of using instruments that have not been sterilized. Note: A
+single-parameter  internal  chemical  indicator  provides  information  regarding  only  one
+sterilization  parameter  (e.g.,  time  or  temperature).  Multiparameter  internal  chemical
+indicators  are  designed  to  react  to  ≥ 2  parameters  (e.g.,  time  and  temperature;  or
+time,  temperature,  and  the  presence  of  steam)  and  can  provide  a  more  reliable
+indication  that  sterilization  conditions  have  been  met.  Sterilization  monitoring  (e.g.,
+biological, mechanical, chemical monitoring) and equipment maintenance records are
+an important component of a dental infection prevention program. Maintaining accurate
+records  ensures  cycle  parameters  have  been  met  and  establishes  accountability.  In
+addition,  if  there  is  a  problem  with  a  sterilizer  (e.g.,  unchanged  chemical  indicator,
+positive  spore  test),  documentation  helps  to  determine  if  an  instrument  recall  is
+necessary.  Ideally,  sterile  instruments  and  supplies  should  be  stored  in  covered  or
+closed  cabinets.  Wrapped  packages  of  sterilized  instruments  should  be  inspected
+before opening and use to ensure the packaging material has not been compromised
+
+(e.g.,  wet,  torn,  punctured)  during  storage.  The  contents  of  any  compromised  packs
+should be reprocessed (i.e., cleaned, packaged, and heat-sterilized again) before use on
+a  patient.  Recommendations  for  the  cleaning,  disinfection,  and  sterilization  of  dental
+equipment  can  be  found  in  the  Guidelines  for  Infection  Control  in  Dental  Health-Care
+Settings—2003.  Recommendations  for  the  cleaning,  disinfection,  and  sterilization  of
+medical  equipment  are  available  in  the  Guideline  for  Disinfection  and  Sterilization  in
+Healthcare Facilities (2008). FDA regulations on reprocessing of single-use devices are
+available by visiting FDA regulations on reprocessing of single-use devices. Policies and
+procedures  for  routine  cleaning  and  disinfection  of  environmental  surfaces  should  be
+included as part of the infection prevention plan. Cleaning removes large numbers of
+microorganisms  from  surfaces  and  should  always  precede  disinfection.  Disinfection  is
+generally  a  less  lethal  process  of  microbial  inactivation  (compared  with  sterilization)
+that eliminates virtually all recognized pathogenic microorganisms but not necessarily
+all  microbial  forms  (e.g.,  bacterial  spores).  Emphasis  for  cleaning  and  disinfection
+should  be  placed  on  surfaces  that  are  most  likely  to  become  contaminated  with
+pathogens, including clinical contact surfaces (e.g., frequently touched surfaces such as
+light  handles,  bracket  trays,  switches  on  dental  units,  computer  equipment)  in  the
+patient-care  area.  When  these  surfaces  are  touched,  microorganisms  can  be
+transferred to other surfaces, instruments, or to the nose, mouth, or eyes of DHCP or
+patients. Although hand hygiene is the key to minimizing the spread of microorganisms,
+clinical contact surfaces should be barrier protected or cleaned and disinfected between
+patients.  EPA-registered  hospital  disinfectants  or  detergents/disinfectants  with  label
+claims  for  use  in  health  care  settings  should  be  used  for  disinfection.  Disinfectant
+products  should  not  be  used  as  cleaners  unless  the  label  indicates  the  product  is
+suitable  for  such  use.  DHCP  should  follow  manufacturer  recommendations  for  use  of
+products  selected  for  cleaning  and  disinfection  (e.g.,  amount,  dilution,  contact  time,
+safe use, and disposal). Facility policies and procedures should also address prompt and
+
+appropriate  cleaning  and  decontamination  of  spills  of  blood  or  other  potentially
+infectious materials. Housekeeping surfaces, (e.g., floors, walls, sinks) carry less risk of
+disease transmission than clinical contact surfaces and can be cleaned with soap and
+water or cleaned and disinfected if visibly contaminated with blood. Additional guidance
+for  the  cleaning  and  disinfection  of  environmental  surfaces—including  for  cleaning
+blood  or  body  substance  spills—is  available  in  the  Guidelines  for  Environmental
+Infection Control in Health-Care Facilities (2003) and the Guideline for Disinfection and
+Sterilization  in  Healthcare  Facilities  (2008).  CDC  protects  patients  and  providers  by
+developing  recommendations  that  guide  infection  prevention  and  control  practices
+wherever  dental  care  is  delivered.  Languages  Language  Assistance  Languages  
+Language Assistance 
+
+Source URL: https://www.cdc.gov/dental-infection-control/hcp/summary/sterilization-disinfection.html

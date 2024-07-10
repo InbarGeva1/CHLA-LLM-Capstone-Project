@@ -1,0 +1,54 @@
+A .gov website belongs to an official government organization in the United States. A
+lock (  ) or https:// means you've safely connected to the .gov website. Share sensitive
+information only on official, secure websites. Recommendations from the Guidelines for
+Environmental  Infection  Control  in  Health-Care  Facilities  (2003).  As  in  previous  CDC
+guidelines, each recommendation is categorized on the basis of existing scientific data,
+theoretic rationale, applicability, and possible economic benefit. The recommendations
+are evidence-based wherever possible. However, certain recommendations are derived
+from  empiric  infection-control  or  engineering  principles,  theoretic  rationale,  or  from
+experience gained from events that cannot be readily studied (e.g., floods). The HICPAC
+system for categorizing recommendations has been modified to include a category for
+engineering standards and actions required by state or federal regulations. Guidelines
+and standards published by the American Institute of Architects (AIA), American Society
+of Heating, Refrigeration, and Air-Conditioning Engineers (ASHRAE), and the Association
+for  the  Advancement  in  Medical  Instrumentation  (AAMI)  form  the  basis  of  certain
+recommendations.  These  standards  reflect  a  consensus  of  expert  opinions  and
+extensive  consultation  with  agencies  of  the  U.S.  Department  of  Health  and  Human
+Services.  Compliance  with  these  standards  is  usually  voluntary.  However,  state  and
+federal  governments  often  adopt  these  standards  as  regulations.  For  example,  the
+standards from AIA regarding construction and design of new or renovated health-care
+facilities,  have  been  adopted  by  reference  by  >40  states.  Certain  recommendations
+have two category ratings (e.g., Categories IA and IC or Categories IB and IC), indicating
+the  recommendation  is  evidence-based  as  well  as  a  standard  or  regulation.
+Recommendations  are  rated  according  to  the  following  categories:  Clarification
+Statement:  CDC  and  HICPAC  have  recommendations  in  both  2003  Guidelines  for
+Environmental  Infection  Control  in  Health-Care  Facilities  and  the  2008  Guideline  for
+Disinfection and Sterilization in Healthcare Facilities that state that the CDC does not
+support disinfectant fogging. Specifically, the 2003 and 2008 Guidelines state:   2003:
+
+"Do  not  perform  disinfectant  fogging  for  routine  purposes  in  patient-care  areas.
+Category IB" 2008: "Do not perform disinfectant fogging in patient-care areas. Category
+II"   These  recommendations  refer  to  the  spraying  or  fogging  of  chemicals  (e.g.,
+formaldehyde, phenol-based agents, or quaternary ammonium compounds) as a way to
+decontaminate  environmental  surfaces  or  disinfect  the  air  in  patient  rooms.  The
+recommendation  against  fogging  was  based  on  studies  in  the  1970's  that  reported  a
+lack  of  microbicidal  efficacy  (e.g.,  use  of  quaternary  ammonium  compounds  in  mist
+applications)  but  also  adverse  effects  on  healthcare  workers  and  others  in  facilities
+where  these  methods  were  utilized.  Furthermore,  some  of  these  chemicals  are  not
+EPA-registered  for  use  in  fogging-type  applications.   These  recommendations  do  not
+apply  to  newer  technologies  involving  fogging  for  room  decontamination  (e.g.,  ozone
+mists,  vaporized  hydrogen  peroxide)  that  have  become  available  since  the  2003  and
+2008 recommendations were made. These newer technologies were assessed by CDC
+and  HICPAC  in  the  2011  Guideline  for  the  Prevention  and  Control  of  Norovirus
+Gastroenteritis  Outbreaks  in  Healthcare  Settings,  which  makes  the  recommendation:  
+"More  research  is  required  to  clarify  the  effectiveness  and  reliability  of  fogging,  UV
+irradiation,  and  ozone  mists  to  reduce  norovirus  environmental  contamination.  (No
+recommendation/unresolved issue)"  The 2003 and 2008 recommendations still apply;
+however,  CDC  does  not  yet  make  a  recommendation  regarding  these  newer
+technologies. This issue will be revisited as additional evidence becomes available. Top
+of  PageI.IV.  Treatment  and  Disposal  of  Regulated  Medical  Wastes  CDC  provides
+information on infection control and clinical safety to help reduce the risk of infections
+among  healthcare  workers,  patients,  and  visitors.  Languages  Language  Assistance
+Languages  Language Assistance 
+
+Source URL: https://www.cdc.gov/infection-control/hcp/environmental-control/recommendations.html

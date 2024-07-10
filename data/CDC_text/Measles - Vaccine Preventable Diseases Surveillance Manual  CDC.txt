@@ -1,0 +1,794 @@
+Official websites use .gov A .gov website belongs to an official government organization
+in  the  United  States.  Secure  .gov  websites  use  HTTPS  A  lock  (   )  or  https://  means
+you've  safely  connected  to  the  .gov  website.  Share  sensitive  information  only  on
+official, secure websites. Authors: Paul A. Gastanaduy, MD, MPH; Susan B. Redd; Nakia
+S.  Clemmons,  MPH;  Adria  D.  Lee,  MSPH;  Carole  J.  Hickman,  PhD;  Paul  A.  Rota,  PhD;
+Manisha Patel, MD, MS Measles is an acute viral illness caused by a virus in the family
+paramyxovirus, genus Morbillivirus. Measles is characterized by a prodrome of fever (as
+high  as  105°F)  and  malaise,  cough,  coryza,  and  conjunctivitis,  followed  by  a
+maculopapular  rash.   [1]  The  rash  spreads  from  head  to  trunk  to  lower  extremities.
+Measles is usually a mild or moderately severe illness. However, measles can result in
+complications such as pneumonia, encephalitis, and death. Approximately one case of
+encephalitis [2] and two to three deaths may occur for every 1,000 reported measles
+cases. [3] One rare long-term sequelae of measles virus infection is subacute sclerosing
+panencephalitis  (SSPE),  a  fatal  disease  of  the  central  nervous  system  that  generally
+develops 7–10 years after infection. Among persons who contracted measles during the
+resurgence in the United States (U.S.) in 1989–1991, the risk of SSPE was estimated to
+be 7–11 cases/100,000 cases of measles. [4] The risk of developing SSPE may be higher
+when measles occurs prior to the second year of life. [4] The average incubation period
+for  measles  is  11–12  days  [5],  and  the  average  interval  between  exposure  and  rash
+onset  is  14  days,  with  a  range  of  7–21  days.[1,  6]  Persons  with  measles  are  usually
+considered infectious from four days before until four days after onset of rash with the
+rash  onset  being  considered  as  day  zero.  In  the  decade  prior  to  the  licensure  of  live
+measles  vaccine  in  1963,  an  average  of  549,000  measles  cases  and  495  measles
+deaths  were  reported  annually.  [7]  However,  almost  every  American  was  affected  by
+measles  during  their  lifetime,  and  it  is  estimated  that  3–4  million  measles  cases
+occurred  each  year.  [8,9]  Following  implementation  of  a  one  dose  measles  vaccine
+program,  there  was  a  rapid  and  significant  reduction  in  the  reported  incidence  of
+
+measles  in  the  United  States  through  the  1980s,  [10]  resulting  in  declines  in
+measles-related hospitalizations and deaths. [11] By the late 1980s, however, measles
+outbreaks were still occurring among school-aged children who had received a single
+dose  of  measles  vaccine.  In  1989,  a  second-dose  vaccination  schedule  was
+recommended  by  the  Advisory  Committee  on  Immunization  Practices  (ACIP),  the
+American Academy of Pediatrics (AAP), and the American Academy of Family Physicians
+(AAFP).  [11]  During  1989–1991,  a  resurgence  of  measles  occurred  when  over  55,000
+cases  and  123  deaths  were  reported.  The  epidemiology  during  the  resurgence  was
+characterized mainly by cases in preschool-aged children living in poor urban areas who
+had not been vaccinated on time with one dose of measles vaccine. [12] Following the
+resurgence,  a  commitment  of  resources  for  improved  implementation  of  the  timely
+administration  of  the  first  dose  of  the  vaccine,  and  increased  implementation  of  two
+doses among school-aged children, led to further declines in measles cases. In 2000,
+endemic measles was declared “eliminated1” from the United States. [13] 1 Elimination
+is defined as the absence of endemic measles cases for a period of 12 months or more,
+in  the  presence  of  adequate  surveillance  (World  Health  Organization)   During
+2001–2008, 557 measles cases were reported in the United States. [14,15] The median
+number  of  measles  cases  reported  per  year  was  56  (range:  37–140  cases/year).  The
+majority  of  US-resident  case-patients  were  unvaccinated  (66%)  or  had  unknown
+vaccination  status  (16%).  Of  the  557  reported  measles  cases,  232  (42%)  were
+importations (median of 26 importations/year). In comparison, during 2009–2014, 1,264
+measles  cases  were  reported  in  the  United  States.  The  median  number  of  measles
+cases  reported  per  year  was  130  (range:  55–667  cases/year).  The  majority  of
+US-resident case-patients were unvaccinated (74%) or had unknown vaccination status
+(16%). Of the 1,264 reported measles cases, 275 (22%) were importations (median of
+45 importations/year). Among the 989 US-acquired cases reported during 2009–2014,
+673 (68%) were epidemiologically linked to these importations, 256 (26%) either had
+
+virologic  evidence  of  importation  or  had  been  linked  to  those  cases  with  virologic
+evidence  of  importation,  and  60  (6%)  had  unknown  source.  Unknown  source  cases
+represent  cases  where  epidemiologic  or  virologic  link  to  an  imported  case  was  not
+detected.  Measles  incidence  has  remained  below  one  case  per  million  since  1997,
+except  in  2014,  when  667  measles  cases  were  reported,  representing  a  reported
+incidence  of  2.08  cases  per  million.  [14]  The  epidemiology  of  measles  in  2014  was
+characterized by (1) a high proportion (92%) of cases among U.S. residents who were
+unvaccinated  or  who  had  unknown  vaccination  status  and  (2)  more  spread  from
+imported  cases  than  in  other  years.  In  2015,  191  measles  cases  were  reported;  28
+(15%)  were  importations,  and  142  (80%)  of  178  cases  among  U.S.  residents  were
+unvaccinated  or  had  an  unknown  vaccination  status.  In  recent  years,  most  of  the
+importations  were  the  result  of  unvaccinated  U.S.  travelers  who  had  traveled  to
+measles endemic countries, including countries in the World Health Organization (WHO)
+European  and  Western  Pacific  Regions.   [14]  Although  measles  elimination  has  been
+achieved in the United States, importation of measles will continue to occur as measles
+remains endemic in many other parts of the world. Thus, current measles epidemiology
+in the United States is determined by characteristics of the imported cases and their
+susceptible  contacts.  From  2001  through  2008,  38  outbreaks2  of  measles  were
+reported (annual median no. of outbreaks, 4 [range, 2–10 outbreaks]); outbreaks had a
+median size of four cases (range: 3–34).[14] From 2009 through 2014, 66 outbreaks of
+measles were reported (annual median no. of outbreaks, 10 [range, 4–23 outbreaks]);
+outbreaks had a median size of 5 cases (range: 3–383).[14] Outbreaks of measles in the
+United States mostly involve individuals who are directly exposed to imported measles
+cases or who are infected during a resulting chain of transmission, and who are either
+unvaccinated  or  had  unknown  vaccine  status.  The  settings  of  measles  transmission
+have included households, educational institutions (e.g., schools, day care), churches,
+health  care  facilities,  homeless  shelters,  and  other  congregate  settings.  Lack  of
+
+adherence to existing recommendations for measles prevention among groups at high
+risk  (for  example,  individuals  who  travel  internationally),  can  spread  measles  to
+susceptible populations, including infants too young to be vaccinated and unvaccinated
+persons by choice.[16,17] Because of high population immunity, high measles vaccine
+effectiveness,  and  the  immediate  implementation  of  control  measures,  generally  the
+sizes  of  measles  outbreaks  in  the  United  States  are  limited.  However,  recent  large
+outbreaks  emphasize  the  importance  of  maintaining  high  levels  of  measles  immunity
+across the population through routine measles vaccine coverage. The largest measles
+outbreak  documented  in  the  United  States  in  more  than  two  decades  (383  cases)
+occurred in an under-immunized Amish community in Ohio over 4 months (March–July)
+in 2014.[18] From December 2014 through March 2015, a measles outbreak consisting
+of 147 cases that originated in Disney theme parks in California spread to seven other
+U.S.  states  and  two  neighboring  countries.[19,20]  Responding  to  measles  cases  and
+outbreaks
+ is
+ time
+ consuming
+ and
+ costly
+ for
+ local
+ and
+ state
+ health
+departments.[21,22] The overall costs to health departments to contain 16 outbreaks
+during  2011  amounted  to  an  estimated  $2.7  million  to  $5.3  million  U.S.  dollars.  The
+economic burden of controlling measles spread in health care settings amounts to an
+estimated $19,000 to $114,286 U.S. dollars per case. 2 National reporting: An outbreak
+is  defined  as  a  chain  of  transmission  including  3  or  more  cases  linked  in  time  and
+space.  Despite  tremendous  achievements  towards  global  measles  mortality  reduction
+and  elimination  goals,  globally,  in  2015,  there  were  254,928  measles  cases  reported
+and  an  estimated  134,200  measles  deaths  (i.e.,  approximately  367  deaths/day).[23]
+During  2015,  measles  outbreaks  were  reported  in  several  countries  in  the  African,
+European,  and  Eastern  Mediterranean  regions.[23]  In  the  Americas,  under  the
+leadership  of  the  Pan  American  Health  Organization  (PAHO),  Ministries  of  Health
+implemented  an  aggressive  measles  elimination  program  in  1994.  By  2002,  scientific
+evidence  suggested  that  endemic  transmission  of  measles  virus  in  the  Americas  was
+
+interrupted for ≥12 months,[24] however, imported cases from endemic areas of the
+world continued to occur, resulting in sizable outbreaks in several countries, including
+Ecuador,  Canada,  and  the  United  States.  More  recently,  a  large  measles  outbreak  in
+Brazil,  with  sustained  transmission  lasting  over  a  year,  ended  in  July  2015.  [25]  In
+September 2016, after over two decades of commitments and efforts by Member States
+to control measles, the Region of the Americas was the first in the world to verify the
+elimination of measles. [25] Important measures are also underway to achieve measles
+elimination  in  other  regions.  Countries  in  all  six  WHO  regions  have  adopted  measles
+elimination  goals,  and  four  WHO  regions  endorsed  the  Global  Vaccine  Action  Plan  to
+eliminate  measles  by  2015;  although  these  elimination  goals  were  not  accomplished.
+The Global Vaccine Action Plan has also set a target for measles elimination in five WHO
+regions  by  2020.  [23]  Achieving  elimination  in  other  regions  of  the  world  will  have
+direct benefits in the United States. Top of Page The declaration of endemic measles
+elimination  in  the  United  States  was  made  in  2000.[9,13]  The  key  challenges  to
+maintaining the elimination of measles from the United States are In addition, pockets
+of  unvaccinated  populations  can  pose  a  risk  to  maintaining  elimination.[15,26]  Thus,
+rapid  detection  of  cases  is  necessary  so  that  appropriate  control  measures  can  be
+quickly  implemented.  This  is  to  prevent  imported  strains  of  measles  virus  from
+establishing  endemic  chains  of  transmission.  Outbreak  preparedness  and  response
+remains one of the five core strategies in the 2012–2020 WHO strategic plan for global
+measles  and  rubella.  [27]   Top  of  Page  Live  attenuated  measles  virus  vaccine  is
+incorporated into combination MMR vaccine and combination measles, mumps, rubella,
+and  varicella  (MMRV)  vaccines.  Monovalent  measles  vaccine  is  not  available  in  the
+United States. For prevention of measles, two doses of MMR vaccine are recommended
+routinely for children, with the first dose at age 12 through 15 months and the second
+dose  at  ages  four  through  six  years  (school  entry).  [28]  For  prevention  of  measles
+among adults, two doses of MMR vaccine are also recommended for adults at high risk,
+
+including  international  travelers,  college  and  other  post-high  school  students,  and
+health care personnel born during or after 1957. [28] All other adults, born during or
+after  1957,  without  other  presumptive  evidence  of  measles  immunity,  should  be
+vaccinated  with  one  dose  of  MMR  vaccine.  Vaccination  recommendations  for  an
+outbreak  setting  are  discussed  in  the  “Control  Measures”  section  in  this  chapter.  For
+more details on health care personnel please see the section “Health care settings” in
+this chapter. Children 6–11 months of age who travel internationally should receive one
+dose  of  MMR  vaccine  optimally  at  least  two  weeks  prior  to  travel.  Because  serologic
+response to the measles component of the vaccine varies among infants 6–11 months
+of age, children vaccinated before age 12 months should receive two additional doses
+of  MMR  or  MMRV  vaccine  on  or  after  the  first  birthday  according  to  the  routine
+recommended schedule. [28] Children ≥12 months of age and adults who plan to travel
+outside  the  United  States  should  receive  two  doses  of  MMR  vaccine,  separated  by  at
+least  28  days.   Top  of  Page  Acceptable  presumptive  evidence  of  measles  immunity
+includes at least one of the following: [28] Persons who do not meet the above criteria
+are considered susceptible and should be vaccinated unless contraindicated. For health
+care  settings  please  see  the  section  “Health  care  settings”  below  as  the  criteria  are
+slightly  different.   Top  of  Page  The  following  case  definition  for  case  classification  of
+measles cases, including case classifications for importation status, has been approved
+by  the  Council  of  State  and  Territorial  Epidemiologists  (CSTE)  and  was  published  in
+2012.  [29]  Clinical  description:  Probable:  Confirmed:  †  Temperature  does  not  need  to
+reach ≥101°F/38.3°C and rash does not need to last ≥3 days. ‡ Not explained by MMR
+vaccination  during  the  previous  6–45  days.  §  Not  otherwise  ruled  out  by  other
+confirmatory  testing  or  more  specific  measles  testing  in  a  public  health  laboratory.  
+Note: Genotype identification by a WHO reference laboratory (CDC or a public health
+laboratory  that  has  validated  their  measles  virus  sequence  analysis)  is  required  to
+distinguish  wild  type  from  vaccine  strain  if  vaccinated  within  21  days  of  rash  onset.
+
+International importation: An internationally imported case is defined as a case in which
+measles results from exposure to measles virus outside the United States as evidenced
+by at least some of the exposure period (7–21 days before rash onset) occurring outside
+the United States and rash onset occurring within 21 days of entering the United States
+and there is no known exposure to measles in the United States during that time. All
+other  cases  are  considered  US-acquired.  US-acquired  case:  An  US-acquired  case  is
+defined as a case in which the patient had not been outside the United States during
+the 21 days before rash onset or was known to have been exposed to measles within
+the  United  States.  Import-linked  case:  Any  case  in  a  chain  of  transmission  that  is
+epidemiologically  linked  to  an  internationally  imported  case.  Imported-virus  case:  A
+case  for  which  an  epidemiologic  link  to  an  internationally  imported  case  was  not
+identified, but for which viral genetic evidence indicates an imported measles genotype,
+i.e., a genotype that is not occurring within the United States in a pattern indicative of
+endemic transmission. An endemic genotype is the genotype of any measles virus that
+occurs  in  an  endemic  chain  of  transmission  (i.e.,  lasting  ≥12  months).  Any  genotype
+that is found repeatedly in US-acquired cases should be thoroughly investigated as a
+potential  endemic  genotype,  especially  if  the  cases  are  closely  related  in  time  or
+location.  Endemic  case:  A  case  for  which  epidemiological  or  virological  evidence
+indicates an endemic chain of transmission. Endemic transmission is defined as a chain
+of  measles  virus  transmission  that  is  continuous  for  ≥12  months  within  the  United
+States. Unknown source case: A case for which an epidemiological or virological link to
+importation or to endemic transmission within the United States cannot be established
+after
+ a
+ thorough
+ investigation.
+ These
+ cases
+ must
+ be
+ carefully
+ assessed
+epidemiologically to assure that they do not represent a sustained US-acquired chain of
+transmission  or  an  endemic  chain  of  transmission  within  the  United  States.  Note:
+Internationally  imported,  import-linked,  and  imported-virus  cases  are  considered
+collectively to be import-associated cases. States may also choose to classify cases as
+
+“out-of-state-imported” when imported from another state within the United States. For
+national reporting, however, cases will be classified as either internationally imported or
+US-acquired.  The  possibility  that  a  patient  was  exposed  within  his  or  her  state  of
+residence should be excluded; therefore, the patient either must have been out of state
+continuously for the entire period of possible exposure (at least 7–21 days before onset
+of  rash)  or  have  had  one  of  the  following  types  of  exposure  while  out  of  state:  a)
+face-to-face  contact  with  a  person  who  had  probable  or  confirmed  measles,  or  b)
+attendance  in  the  same  institution  as  a  person  with  measles  (e.g.,  in  a  school,
+classroom, or childcare center). Top of Page Laboratory confirmation is essential for all
+outbreaks and all sporadic measles cases. Detection of measles-specific IgM antibody
+and measles RNA by real-time RT-PCR are the most common methods for confirmation
+of measles infection. Efforts should be made to obtain a serum sample and throat swab
+(or  nasopharyngeal  swab)  from  suspected  cases  at  first  contact.  Urine  samples  may
+also contain virus and when feasible to do so, collection of both respiratory and urine
+samples  can  increase  the  likelihood  of  detecting  virus.  Staff  at  the  CDC  Measles
+Laboratory  are  available  for  consultation  and  can  assist  with  confirmatory  testing  as
+needed  for  measles.  For  details  on  all  types  of  specimens  (serum,  respiratory,  urine)
+collection and transport, see the CDC Measles Lab website. Because measles is a rare
+disease  in  the  United  States,  even  with  the  excellent  laboratory  tests  available,  false
+positive  results  for  measles  IgM  will  occur.  To  minimize  the  problem  of  false  positive
+laboratory results, it is important to restrict case investigation and laboratory tests to
+patients most likely to have measles (i.e., those who meet the clinical case definition,
+especially  if  they  have  risk  factors  for  measles,  such  as  being  unvaccinated,  recent
+history  of  travel  abroad,  without  an  alternate  explanation  for  symptoms,  for  example
+epi-linked to known parvovirus case) or those with fever and generalized maculopapular
+rash with strong suspicion of measles. During a measles investigation when community
+awareness  is  increased,  many  cases  of  febrile  rash  illness  may  be  reported  as
+
+suspected  measles,  and  the  magnitude  of  the  situation  may  be  exaggerated  if  these
+cases  are  included  in  the  absence  of  laboratory  confirmation.  This  is  particularly
+important as the investigation is ending; at that point, laboratory confirmation should
+be  sought  for  all  suspected  cases.  Occasionally,  suspected  cases  may  include
+vaccinated individuals. For these cases, laboratory confirmation may be challenging. An
+overview  of  diagnostic  tools  is  described  below.  Clinical  specimens  for  real-time
+polymerase chain reaction (RT-PCR) and virus isolation should be collected at the same
+time as samples taken for serologic testing. The preferred specimens for virus isolation
+or RT-PCR are throat or nasopharyngeal swabs, but urine may also contain virus. Virus
+isolation and RNA detection are more likely to be successful when the specimens are
+collected  early  (ideally  within  three  days  of  rash  onset,  but  up  to  ten  days  post  rash
+may  be  successful).  Isolation  of  measles  virus  in  cell  culture  or  detection  of  measles
+RNA  by  RT-PCR  in  clinical  specimens  confirms  the  diagnosis  of  measles.  However,  a
+negative  virus  isolation  or  negative  RT-PCR  results  do  not  rule  out  measles  because
+both  methods  are  affected  by  the  timing  of  specimen  collection  and  the  quality  and
+handling  of  the  clinical  specimens.  Successful  isolation  of  measles  virus  in  culture  or
+direct detection of measles RNA by RT-PCR in the clinical sample is particularly helpful
+for case confirmation when serology results are inconclusive. The Vero/hSLAM cell line,
+a  recombinant  cell  line  with  a  receptor  for  measles  virus,  has  greatly  improved  the
+ability to isolate measles virus in cell culture. Determination of the measles genotype
+provides  the  only  means  to  distinguish  between  wild  type  virus  infection  and  a  rash
+caused  from  a  recent  measles  vaccination.  In  addition,  the  collection  of  appropriate
+specimens  from  which  virus  or  viral  RNA  can  be  obtained  or  amplified  is  extremely
+important for molecular epidemiologic surveillance to identify the genotypes associated
+with  imported  cases  of  measles.  This  information  is  used  to  track  transmission
+pathways, link cases to countries overseas, and to document the absence of endemic
+circulation of measles in the United States. [30] Sequence analysis and genotyping for
+
+measles virus is conducted at the CDC Measles Laboratory. Refer to the CDC Measles
+Laboratory website for additional information on sample collection, processing and the
+genetic  analysis  of  measles.  The  state  health  department  can  provide  guidance
+regarding available laboratory services. At the direction of the state health department,
+health  care  providers  and  state  and  local  health  departments  may  send  serum
+specimens from suspected measles cases to the CDC Measles Laboratory. For detailed
+information  on  blood  collection  and  shipping,  refer  to  the  CDC  Measles  Laboratory
+website. There is no single serologic laboratory test capable of confirming with 100%
+confidence every true case of measles. Public health laboratories that use commercial
+measles  assay  kits  are  encouraged  to  fully  characterize  and  validate  the  kits  in  their
+laboratories using known test panels of positive and negative specimens. Information
+regarding  the  performance  characteristics  of  many  of  the  commercially  available
+enzyme  immunoassays  (EIA)  kits  is  available  by  contacting  the  CDC  Measles
+Laboratory. The reference laboratory at CDC uses an IgM assay developed at CDC for
+measles serologic testing of IgM. The assay is a capture IgM format EIA that utilizes a
+recombinant measles nucleoprotein (NP) antigen and tends to have high sensitivity and
+specificity  compared  to  some  commercial  EIAs.  Unvaccinated  persons.  Following
+measles  virus  infection  in  an  unvaccinated  individual,  measles  IgM  antibodies  appear
+within the first few days (1–4 days) of rash onset, peak within the first week post rash
+onset  and  are  rarely  detected  after  6–8  weeks.  Measles  IgG  antibodies  are  generally
+produced and detectable a few days after the IgM response. The timing of the IgM and
+the IgG response varies among individuals but IgG should be detectable by 7–10 days
+post rash onset. IgG levels peak approximately two weeks post rash onset and persist
+for life. Upon exposure to wild type measles virus, an unvaccinated person may have
+detectable  IgM  as  soon  as  the  first  day  of  rash  onset.  However,  depending  on  the
+sensitivity of the assay used, a proportion of serum samples (23% in a study using CDC
+capture  IgM  assay  [31])  collected  within  72  hours  after  rash  onset  may  give  false
+
+negative results. If a negative result is obtained from serum collected within 72 hours
+after  rash  onset,  a  second  serum  should  be  collected  ≥72  hours  after  rash  onset.
+Measles IgM is detectable for at least 30 days after rash onset and frequently longer.
+Following  vaccination,  measles  IgM  may  not  be  detectable  until  8–14  days  after
+vaccination  and  measles  IgG  may  not  be  detectable  for  up  to  three  weeks  post
+vaccination.  [32]  Note:  When  a  patient  with  suspected  measles  has  been  recently
+vaccinated (6–45 days prior to blood collection) neither IgM nor IgG antibody responses
+can distinguish measles disease from the response to vaccination. Determination of the
+measles genotype is necessary when measles symptoms occur following an exposure
+to  wild  type  virus  and  MMR  vaccine  had  been  provided  as  postexposure  prophylaxis.
+Vaccinated persons. Individuals who have been previously exposed to measles antigen
+may have a modified disease presentation. These cases are usually detected during an
+outbreak  or  after  a  known  exposure  to  a  confirmed  measles  case.  In  rare  instances,
+such cases can occur without a known exposure or other risk factor. Vaccinated persons
+may not have an IgM response or it may be transient and not detected depending on
+timing  of  specimen  collection,  therefore  a  negative  IgM  test  in  vaccinated  persons
+suspected of having measles should not be used to rule out the case; RT-PCR testing
+may  be  the  best  method  to  confirm  such  cases.  If  viral  testing  results  are
+noncontributory,  additional  serological  testing  can  be  performed  for  highly  suspicious
+cases. See the sections below. Testing for measles-specific IgM from persons with rash
+and  fever  can  produce  false  positive  IgM  results.  As  discussed  above,  false  negative
+results  can  also  occur  in  a  previously  vaccinated  person.  Tests  for  IgG  rise  or
+seroconversion such as plaque reduction neutralization (PRN) and avidity testing may
+be helpful in certain situations. A brief description for the utility of these assays is given
+below. More information is available on the CDC Measles webpage. Requests for testing
+should  be  directed  to  the  Measles  Laboratory  at  CDC.  (See  Chapter  22,  Laboratory
+Support for the Surveillance of Vaccine-Preventable Diseases) Unvaccinated persons. If
+
+classification  of  a  case  cannot  be  made  after  testing  a  serum  sample  collected  ≥72
+hours after rash or detection of measles virus from a viral specimen was not successful,
+a convalescent serum sample can be collected. A convalescent serum sample should be
+collected  10–30  days  after  the  acute  serum.  In  immunologically  naïve  persons,  the
+measles IgG response starts slowly and, depending on the assay, can be detected by
+day 3–7 after rash onset (range: 1–10 days), but typically persists for a lifetime. Note: 
+IgG testing of paired serum samples requires the demonstration of a significant (usually
+four-fold)  rise  in  the  titer  of  antibody  against  measles  using  an  assay  that  has  been
+validated  for  this  use.  The  test  for  IgG  antibody  should  be  conducted  with  acute  and
+convalescent  serum  samples  at  the  same  time  using  the  same  test.  IgG  avidity
+assessments  would  also  be  informative  on  such  specimens,  since  low  avidity  results
+would rule in a case of measles in this instance (See Avidity of IgG below).  Note:  A
+recent systematic review of published literature found no reported confirmed instances
+of  human-to-human  transmission  of  the  measles  vaccine  virus.  [33]  Vaccinated
+persons. When measles is suspected in previously vaccinated persons, the acute serum
+may be IgM negative and IgG positive. Measles infection in such cases is characterized
+by a rapid and robust IgG response. [34,35] If a second serum sample collected 5–10
+days later remains IgM negative, then the paired serum samples can be tested in a PRN
+assay or a quantitative or semi-quantitative IgG EIA validated for such use. Refer to the
+CDC Measles Laboratory website for more information. The occurrence of measles-like
+illness in recently vaccinated persons can pose particular difficulties. Fever and rash are
+known to occur 6–12 days post-vaccination in a small percent of vaccinated persons.[1]
+A  positive  measles  IgM  test  cannot  be  used  to  confirm  the  diagnosis  of  measles  in
+persons with measles-like illness who received measles vaccine 6–45 days before onset
+of rash due to the measles IgM antibody response to the vaccine. Specimens for viral
+isolation should be obtained in addition to serologic testing (see “Laboratory Testing”
+section  above);  isolation  of  wild  type  measles  virus  would  allow  confirmation  of  the
+
+case.  In  the  absence  of  strain  typing  to  confirm  wild  type  infection,  cases  in  persons
+with measles-like illness who received measles vaccine 6–45 days before onset of rash
+should be classified as confirmed cases only if a) they meet the clinical case definition
+and  b)  they  are  epidemiologically  linked  to  a  laboratory-confirmed  case.  The  gold
+standard test for serologic evidence of recent measles infection is a four-fold rise in titer
+as  measured  in  a  measles  virus  plaque  reduction  neutralization  test  (PRN  or  PRNT)
+between acute and convalescent serum samples. Unlike the IgG EIA, this test measures
+measles functional (neutralizing) antibodies, requires specialized reagents, and is labor
+and  time  intensive.  Only  in  rare  situations  would  such  testing  be  deemed  necessary.
+Prior  approval  should  be  obtained  from  the  CDC  Measles  Laboratory.  A  single
+acute-phase serum sample can be tested for IgG avidity; however samples must have
+detectable  IgG.  Low  avidity  IgG  confirms  a  recent  measles  infection  (or  recent
+vaccination).  Avidity  testing  can  distinguish  between  primary  and  secondary  vaccine
+failures. Avidity testing requires specialized reagents and their use is limited to unusual
+cases (prior approval required) usually in an outbreak setting when cases with modified
+or nonclassic presentation of measles are detected. Specimen collection and shipping
+are  important  steps  in  obtaining  laboratory  diagnosis  or  disease  confirmation.
+Guidelines  have  been  published  for  specimen  collection  and  handling  for  viral  and
+microbiologic agents. Information is also available on using CDC laboratories as support
+for  reference  and  disease  surveillance;  this  includes:  The  APHL/CDC  Vaccine
+Preventable  Disease  Reference  Centers  [2  pages]  can  perform  RT-PCR  to  detect
+measles RNA and measles genotyping. Specific instructions for specimen collection and
+shipping may be obtained from the CDC measles website or by contacting the CDC Viral
+Vaccine  Preventable  Diseases  Branch  at  404-639-4181.  Specimens  for  virus  isolation
+and genotyping should be sent to CDC as directed by the State Health Department. For
+additional
+ information
+ on
+ use
+ of
+ laboratory
+ testing
+ for
+ surveillance
+ of
+vaccine-preventable diseases, see Chapter 22, “Laboratory Support for the Surveillance
+
+of Vaccine-Preventable Diseases.” Top of Page Each state and territory has regulations
+or laws governing the reporting of diseases and conditions of public health importance.
+[36]  These  regulations  and  laws  list  the  diseases  to  be  reported  and  describe  those
+persons  or  groups  responsible  for  reporting,  such  as  health  care  providers,  hospitals,
+laboratories, schools, daycare and childcare facilities, and other institutions. You may
+contact your local or state health department for reporting requirements in your state.
+Since  continuous  endemic  measles  transmission  has  been  eliminated,  measles  is  an
+immediately notifiable disease. Measles cases should be reported promptly (within 24
+hours3) by the state health department to the CDC by e-mail: measlesreport@cdc.gov.
+Notifications  of  confirmed  cases  using  the  event  code  10140  should  then  be
+electronically  reported  by  the  state  health  department  to  the  National  Notifiable
+Diseases  Surveillance  System  (NNDSS)  with  the  next  regularly  scheduled  electronic
+transmission. 3CSTE List of Nationally Notifiable Diseases [2 pages] The following data
+are  epidemiologically  important  and  should  be  collected  in  the  course  of  case
+investigation. Additional information also may be collected at the direction of the state
+health  department.  Please  also  refer  to  the  measles  surveillance  worksheet  for  a
+complete  list  of  the  key  variables  that  should  be  collected  during  case  investigations
+(Appendix 8 [2 pages]) Top of Page Prompt recognition, reporting, and investigation of
+measles are important because the spread of the disease can be limited with early case
+identification  and  vaccination  of  susceptible  contacts.  Active  surveillance  for  measles
+disease  should  be  conducted  for  every  confirmed  measles  case  to  assure  timely
+reporting of suspected cases in the population known to be affected as well as other
+segments  of  the  community  that  may  be  at  high  risk  of  exposure  or  in  whom
+vaccination  coverage  is  known  to  be  low.  Efforts  should  be  made  to  obtain  clinical
+specimens  for  viral  detection  (see  “Laboratory  Testing”  section  above).  Active
+surveillance  should  be  maintained  until  at  least  two  incubation  periods  after  the  last
+confirmed  case  is  reported  (e.g.,  two  maximum  incubation  periods  [21  days  from
+
+exposure  to  rash]  or  42  days  after  rash  onset  in  last  case).  If  the  case-patient  was
+traveling  by  plane  or  ship  during  the  infectious  period,  the  CDC  Quarantine  Station
+(operated by the Division of Global Migration and Quarantine) with jurisdiction for the
+reporting  state  should  be  contacted  for  assistance  in  the  investigation  and  contact
+tracing of potentially exposed passengers and crew. If unable to contact the QS, call the
+DGMQ  24-hour  number  at  866-694-4867  for  assistance.  Information  that  should  be
+collected  and  shared  with  DGMQ   includes  date(s)  of  travel,  departure  and  arrival
+locations,  and  flight  or  ship  carrier  and  number.  Because  measles  importations  occur
+every year in the United States, additional surveillance effort may be required to ensure
+that appropriate and timely diagnosis of rash illnesses and reporting of suspected cases
+continues. In addition, the rapid investigation and reporting of all suspected cases and
+recording of vaccination history and import status for all cases has become increasingly
+important.  Additional  guidelines  for  enhancing  surveillance  are  given  in  Chapter  19,
+“Enhancing Surveillance.” Regular monitoring of surveillance indicators, including time
+intervals between diagnosis and reporting and completeness of reporting, may identify
+specific  areas  of  the  surveillance  and  reporting  system  that  need  improvement.  An
+important indicator of the adequacy of the measles surveillance system is the detection
+of  importations.  In  the  absence  of  measles  endemic  transmission,  imported  cases  or
+cases linked to importations should be detected. A program which reports no imported
+cases in settings where endemic measles has been eliminated cannot be assumed to
+have  adequate  measles  surveillance.  For  more  information  on  surveillance  indicators,
+see Chapter 18, “Surveillance Indicators.” The following indicators should be monitored:
+Top of Page All reports of suspected measles cases should be investigated immediately.
+In  the  measles  post-elimination  era,  a  single  case  of  measles  is  considered  a  public
+health priority that requires rapid evaluation for likelihood of measles and appropriate
+public  health  response;  additional  effort  is  required  to  ensure  that  appropriate  and
+timely diagnosis of rash illnesses and reporting of suspected cases continues in order to
+
+prevent outbreaks and re-establishment of endemic disease transmission. The measles
+surveillance  worksheet  (see  Appendix  8  [2  pages])  should  be  used  as  a  guideline  for
+collecting  demographic  and  epidemiologic  data  during  case  investigation.  Essential
+components of case investigation include establishing a diagnosis of measles, obtaining
+immunization histories for confirmed cases, identifying sources of infection, assessing
+potential  for  transmission  and  identifying  contacts  without  presumptive  evidence  of
+immunity,  classifying  importation  status,  and  obtaining  specimens  for  genotyping.  As
+measles continues to be endemic in many regions of the world, importations of measles
+occur  every  year  in  the  United  States.  Each  imported  measles  case  could  result  in
+transmission of measles to susceptible individuals if exposed. Surveillance and prompt
+investigation of cases and their susceptible contacts is important because the spread of
+the  disease  can  be  limited  with  early  case  identification  and  public  health  response
+including  vaccination  and  quarantine  of  susceptible  contacts  without  presumptive
+evidence  of  immunity.  However,  because  some  imported  measles  cases  are  not
+detected in our surveillance system, maintaining a high alertness for measles is needed
+since  not  every  “sporadic”  case  occurring  in  the  community  can  be  linked  to  an
+importation. Information obtained through surveillance is also used to describe current
+measles  epidemiology  and  to  evaluate  prevention  policies  and  achievement  of  goals
+including  maintenance  of  disease  elimination.  Surveillance  data  are  used  to
+characterize persons, groups, or areas in which additional efforts are required to reduce
+risk  of  measles  disease  and  outbreaks.  An  essential  first  step  in  a  measles  case
+investigation is to obtain necessary clinical information to determine whether or not a
+reported case is clinically compatible with measles and to obtain key epidemiological
+information. If the case was reported within three days of onset of rash, the case may
+not  meet  the  clinical  case  definition  (see  “Case  definitions“)  and  there  should  be
+appropriate follow-up to establish a rash duration of at least three days. However public
+health  action,  if  needed,  should  not  be  delayed.  Suspected  cases  of  measles  should
+
+have laboratory confirmation. Efforts should be made to obtain clinical specimens for
+viral testing (see the section “Laboratory Testing“). In the measles post-elimination era,
+most cases of febrile rash illness seen in physician’s offices that meet the clinical case
+definition will not be measles. However, health care providers should maintain a high
+index  of  suspicion  for  measles  in  clinically  compatible  cases  especially  among
+unvaccinated persons and among persons who recently traveled abroad or who have
+had  contact  with  persons  such  as  travelers  or  international  visitors.  In  addition,  not
+every sporadic measles case is linked to a known importation, so cases that raise high
+suspicion of measles, irrespective of associated risk factors, should be investigated for
+measles unless an alternative diagnosis is likely (e.g., known epidemiological link to a
+parvovirus  case).  It  is  important  to  consider  measles  in  the  differential  diagnoses  of
+parvovirus, dengue, Kawasaki disease, and scarlet fever. In addition, when evaluating
+patients with suspected measles who have negative tests for acute measles infection,
+additional  testing  for  rubella  can  be  considered.  Measles  case  investigations  should
+include complete immunization histories that document all doses of measles-containing
+vaccine. Acceptable proof of vaccination is documented administration of live measles
+virus-containing  vaccine.  Written  or  electronic  records  with  dates  of  vaccine
+administration are the only acceptable evidence of vaccination. Case-patients or their
+caregivers  may  have  personal  copies  of  immunization  records  available  that  include
+dates  of  administration;  these  are  acceptable  for  reporting  purposes.  Usually
+immunization records must be sought from review of childcare or school/college records
+or from providers; if the case is a health care personnel, immunization records may be
+available at the health care facility. Immunization registries are now very useful sources
+of  vaccination  histories  for  children  and  adolescents.  As  part  of  the  initial  case
+investigation, case-patients or their parents should be asked where all vaccines were
+received,  including  the  names  of  private  physicians  and  out-of-town  or  out-of-state
+providers.  Records  at  public  health  departments  and  health  centers  should  be
+
+reviewed,  and  private  physicians  should  be  contacted  and  asked  to  review  patient
+records for this information. With careful planning in an outbreak setting, it is possible
+to contact providers with a list of all case-patients reported to date for whom data are
+needed,  and  to  call  back  at  a  prearranged  time,  rather  than  repeatedly  contacting
+providers for records on individual children. All confirmed case-patients should then be
+classified as recipients of one dose of measles-containing vaccine (as MMR, MMRV, MR
+or M), two doses, three or more doses, or no doses of vaccine. The date of vaccination
+for each dose and the interval between doses should be noted. Written documentation
+of  the  date  of  administration  are  the  only  doses  that  are  considered  to  be  valid;
+self-reported  doses  and  history  of  vaccination  is  not  valid.  The  vaccination  status  of
+persons  for  whom  vaccination  status  cannot  be  verified  should  be  classified  as
+unknown.  Persons  are  categorized  as  unvaccinated  if  they  report  that  they  had  no
+history  of  being  vaccinated;  if  available,  immunization  records  should  be  checked  to
+verify lack of vaccine receipt. Efforts should be made to identify the source of infection
+for every confirmed case of measles. Case-patients or their caregivers should be asked
+about contact with other known cases. When no history of contact with a known case
+can  be  found,  opportunities  for  exposure  to  unknown  cases  should  be  sought.  Such
+exposures  may  occur  in  schools,  during  air  travel,  through  other  contact  with  recent
+travelers  or  foreign  visitors,  while  visiting  tourist  locations  (casinos,  resorts,  theme
+parks), in health care settings, or in churches. Unless a history of exposure to a known
+case within 7–21 days prior to onset of rash in the case is confirmed, case-patients or
+their caregivers should be closely queried about all these possibilities. In the event of a
+confirmed measles case, local or state health departments should contact health care
+providers  in  their  areas  through  the  media  or  Epi-X  to  inform  them  of  the  confirmed
+case and request immediate reporting of any suspected cases. Previously unreported
+cases may be identified by reviewing emergency room logs, electronic medical records,
+or  laboratory  records.  Hospital  emergency  rooms  and  physicians  serving  affected
+
+communities  are  usually  recruited  to  participate  in  active  surveillance.  Tracking  what
+information  is  collected  and  what  still  needs  to  be  collected.  Tracking  is  easily
+accomplished  by  constructing  a  line  listing  of  cases,  allowing  ready  identification  of
+known and unknown data and ensuring complete case investigation. The line listing is
+an  essential  component  of  every  outbreak  investigation  (Table  1).  Identifying  risk  of
+transmission  in  the  population  affected  by  the  outbreak.  As  part  of  the  case
+investigation,  the  potential  for  further  transmission  should  be  evaluated,  and  an
+assessment  should  be  made  of  exposed  contacts  of  the  case-patient  (and  their
+presumptive evidence of immunity during the infectious period [four days before to four
+days  after  onset  of  rash,  day  of  rash  onset  being  day  zero]).  In  a  closed  setting  the
+measles  virus  has  been  reported  to  have  been  transmitted  by  airborne  or  droplet
+exposure up to two hours after the measles case occupied the area. [37] Based on the
+findings  of  individual  case  investigations,  the  population  affected  by  the  outbreak
+should be characterized in terms of These essential data elements allow public health
+officials to Top of Page In general, the most effective control efforts are those that are
+targeted  based  upon  epidemiologic  data,  rather  than  those  that  are  directed  at  the
+entire  community.  Neither  susceptibility  nor  risk  of  exposure  is  uniformly  distributed
+throughout  the  community,  and  resources  available  for  control  may  be  limited.
+Therefore, it is essential that data be used to determine the scope of the investigation
+and  the  potential  for  spread  and  that  intervention  be  based  on  those  determinations
+using  public  health  judgment  to  guide  investigation  and  control  efforts.  The  primary
+strategy is achieving a high level of immunity in the population affected. [28] State and
+local  health  departments  should  use  their  judgment  to  prioritize  such  investigations
+according to epidemiology and identified transmission settings. Settings at highest risk
+of transmission based on the epidemiology of the outbreak may be prioritized for public
+health  response.  If  suspected  and  probable  cases  are  investigated,  postexposure
+prophylaxis  of  household  contacts  without  presumptive  evidence  of  immunity  should
+
+not be delayed pending the return of laboratory results. Other high priority groups for
+contact  investigation  are  1)  close  contacts  other  than  household  (e.g.,  persons  who
+shared the same room or airspace in various settings), 2) health care settings because
+of  the  risk  of  transmission  to  persons  at  high  risk  of  serious  complications,  and  3)
+schools/child care centers, colleges or other close settings where a defined number of
+persons  have  congregated  (e.g.,  churches)  because  of  high  contact  rates  and
+transmission  potential.  In  all  these  settings,  exposures  usually  result  in  an  identified
+number of susceptible contacts to follow up on individually. However, efforts to identify
+the likelihood of exposure in larger settings such as hospitals (e.g., patients and health
+care personnel in ER) may be helpful. In particular, one should identify individuals at
+high
+ risk
+ for
+ severe
+ disease
+ including
+ infants
+ who
+ are
+ not
+ vaccinated,
+immunocompromised  individuals,  and  pregnant  women.  Initial  preparation  for  major
+control  activities  may  need  to  be  started  before  the  laboratory  results  are  known.
+However,  it  is  reasonable  to  delay  major  control  activities,  such  as  checking
+presumptive evidence of immunity and enforcing student exclusion, pending the return
+of laboratory results, which should be obtained as quickly as possible (within 24 hours).
+If  resources  are  constrained,  other  exposure  settings  will  more  commonly  be  lower
+priority  to  investigate,  though  public  health  decisions  should  be  guided  by  the
+epidemiologic  investigation.  For  exposures  at  such  venues  as  restaurants,  stadiums,
+and  malls,  communicating  with  the  general  public  through  radio,  TV,  Epi-X,  or  other
+media, may be used to reach potentially exposed persons rather than individual contact
+tracing.  Persons  can  be  guided  to  their  physicians  or  the  health  department  for
+assessment of immunity status and the need for vaccination. Additional guidelines for
+enhancing
+ surveillance
+ are
+ given
+ in
+ Chapter
+ 19,
+ “Enhancing
+ Surveillance.”
+Case-patients should be isolated for four days post rash onset. Exposed persons who
+cannot readily document presumptive evidence of measles immunity should be offered
+postexposure  prophylaxis  (PEP)  or  excluded  from  the  setting  (school,  hospital,  day
+
+care). For assessment of presumptive evidence of immunity of contacts, only doses of
+vaccine with written documentation of the date of receipt should be accepted as valid.
+Verbal  reports  of  vaccination  without  written  documentation  should  not  be  accepted.
+Persons who have been exempted from measles vaccination for medical, religious, or
+other reasons and who do not receive appropriate postexposure prophylaxis within the
+appropriate  time  should  be  excluded  from  affected  institutions  in  the  outbreak  area
+until  21  days  after  the  onset  of  rash  in  the  last  case  of  measles.  Quarantine  (most
+commonly voluntary quarantine) of exposed persons has been implemented especially
+where  unvaccinated  or  populations  at  high  risk  were  affected.  In  such  situations,
+quarantine  has  helped  to  contain  the  spread  of  the  disease  to  the  surrounding
+community.[18,38,39,42]Compliance with quarantine can be ensured at the discretion
+of the health department. When deciding about quarantine, factors to consider include
+Imposing  quarantine  measures  for  outbreak  control  is  both  difficult  and  disruptive  to
+schools and other institutions. Under special circumstances, such as during outbreaks in
+schools attended by large numbers of persons who refuse vaccination, restriction of an
+event  or  other  quarantine  measures  might  be  warranted.  Presumptive  evidence  of
+measles immunity should be assessed for all identified contacts. The MMR vaccine, if
+administered within 72 hours of initial measles exposure, and immunoglobulin (IG), if
+administered within six days of exposure, may provide some protection or modify the
+clinical course of disease among susceptible persons. However, vaccination should be
+offered  at  any  interval  following  exposure  in  order  to  offer  protection  from  future
+exposures. There is limited data regarding the effectiveness of MMR vaccine and IG PEP
+against  disease  prevention.  Thus,  individuals  who  receive  MMR  vaccine  or  IG  as  PEP
+should be monitored for signs and symptoms consistent with measles for at least one
+incubation  period.  [28]  IG  may  prolong  the  incubation  period  so  extending  the
+monitoring  period  for  individuals  who  received  IG  as  PEP  may  be  considered  (see
+Prevention  and  control  strategies  in  medical  settings).  Infectious  or  potentially
+
+infectious persons requiring medical attention (e.g., a susceptible contact in quarantine
+who develops measles-like symptoms), should be advised to call ahead before visiting a
+clinic or emergency department to ensure appropriate precautions are in place prior to
+the  medical  encounter.  Except  in  health  care  settings,  unvaccinated  persons  who
+receive  their  first  dose  of  MMR  vaccine  within  72  hours  postexposure  may  return  to
+childcare,  school,  or  work.  Individuals  who  are  at  risk  for  severe  disease  and
+complications from measles (e.g., infants <12 months of age, pregnant women without
+evidence of measles immunity, and severely immunocompromised persons regardless
+of  vaccination  status  because  they  might  not  be  protected  by  the  vaccine)  should
+receive  IG.  IG  administered  intramuscularly  (IGIM)  is  recommended  for  infants  <12
+months
+ of
+ age,
+ and
+ IG
+ administered
+ intravenously
+ (IGIV)
+ for
+ severely
+immunocompromised persons and pregnant women who are exposed to measles. For
+infants  6  through  11  months  of  age,  MMR  vaccine  can  be  given  in  place  of  IG,  if
+administered within 72 hours of exposure.[28] IGIM can be given to other persons who
+do  not  have  evidence  of  measles  immunity,  but  priority  should  be  given  to  persons
+exposed  in  settings  with  intense,  prolonged,  close  contact  (e.g.,  household,  daycare,
+classroom).  However,  postexposure  use  of  IGIM  might  be  limited  because  of  volume
+limitations;  persons  who  weigh  >30  kg  will  receive  less  than  the  recommended  dose
+and will have lower titers than recommended. For exposed persons without evidence of
+measles  immunity,  a  rapid  IgG  antibody  test  can  be  used  to  inform  immune  status,
+provided that administration of IG is not delayed. After receipt of IG, individuals cannot
+return  to  health  care  settings.  In  other  settings  such  as  childcare,  school,  or  work,
+factors  such  as  immune  status,  intense  or  prolonged  contact,  and  presence  of
+populations at risk, should be taken into consideration before allowing these individuals
+to  return.  These  factors  may  decrease  the  effectiveness  of  IG  or  increase  the  risk  of
+disease and complications depending on the setting to which they are returning. The
+recommended dose of IG given intramuscularly is 0.5 mL/kg of body weight (maximum
+
+dose  =  15  mL)  and  the  recommended  dose  of  IG  given  intravenously  is  400  mg/kg.
+Note that children vaccinated before their first birthday should be revaccinated when
+they  are  12–15  months  old  and  again  when  they  are  4–6  years  of  age.  Also,  any
+nonimmune person exposed to measles who received IG should subsequently receive
+MMR  vaccine,  which  should  be  administered  no  earlier  than  6  months  after  IGIM
+administration or 8 months after IGIV administration, provided the person is then ≥12
+months of age and the vaccine is not otherwise contraindicated. IG should not be used
+to  control  measles  outbreaks,  but  rather  to  reduce  the  risk  for  infection  and
+complications in the person receiving it. Physicians in affected communities should use
+the opportunity of a confirmed measles case for reminder/recall to ensure that all their
+patients are up to date with MMR vaccine requirements. Community-wide vaccination
+clinics  are  rarely  indicated  but  targeted  clinics  may  be  held  to  reach  affected
+populations (e.g., vaccination for health care workers, a work setting clinic with affected
+adults, or offering clinics at health departments in under-immunized communities). For
+outbreaks  with  sustained,  community-wide  transmission  affecting  preschool-aged
+children or adults and with ongoing risk of exposure, health departments may consider
+a  second  dose  for  children  aged  1  through  4  years  or  adults  in  these  affected  areas
+(including visitors) who have received 1 dose; the second dose given at least 28 days
+after  the  first  dose.  For  outbreaks  with  sustained,  community-wide  transmission
+affecting  infants  <12  months  of  age  and  with  ongoing  risk  of  exposures  to  infants,
+health  departments  may  consider  vaccination  of  infants  aged  6-11  months  in  these
+affected  areas  (including  visitors)  with  1  dose  of  MMR  vaccine.  This  recommendation
+should be made following careful assessment of the benefit of early protection against
+measles during a period of increased transmission and exposure, and risk of decreased
+immune  response  following  subsequent  MMR  doses  in  infants  vaccinated  at  <12
+months  of  age  compared  with  infants  vaccinated  at  ≥12  months  of  age[41,42].  
+Decisions  to  vaccinate  infant  visitors  <12  months  of  age  should  follow  local  health
+
+department  guidance  of  the  affected  area  (e.g.,  if  no  recommendation  was  made  to
+vaccinate infant residents, vaccination of infant visitors is not recommended). This dose
+does not count as one of the two recommended doses; infants who receive one dose of
+MMR vaccine before their first birthday should receive two more doses according to the
+routinely  recommended  schedule  (one  dose  at  12  through  15  months  of  age  and
+another dose at 4 through 6 years of age or at least 28 days later). [28] Measles cases
+in  schools,  colleges,  and  other  institutions,  such  as  day  care  centers  where  close
+contact  may  exist,  require  rapid  public  health  investigation  for  response  and  for
+evaluation  of  risk  of  further  transmission.  In  educational  institutions  where  there  are
+high  rates  of  vaccine  exemptors,  the  potential  risk  of  spread  of  the  disease  is  high.
+Control  measures  include  the  following  actions:  All  students  and  all  school  personnel
+born in or after 1957 who cannot provide adequate presumptive evidence of immunity
+should be vaccinated. Persons receiving their second dose and previously unvaccinated
+persons  receiving  their  first  dose  appropriately  (i.e.,  before,  or  within  72  hours  of,
+exposure) as part of the outbreak control program may be immediately readmitted to
+school.  However  these  individuals  should  be  monitored  for  signs  and  symptoms  of
+measles.  Persons  who  work  in  health  care  settings  (including  volunteers,  trainees,
+nurses, physicians, technicians, receptionists, and other clerical and support staff) are
+at  increased  risk  of  exposure  to  measles  and  at  increased  risk  of  transmission  to
+persons at high risk of severe measles. All persons who work in such settings and have
+the  potential  for  exposure  to  potentially  infectious  patients  or  materials  (e.g.,
+contaminated  air)  should  have  presumptive  evidence  of  immunity  to  measles  to
+prevent  any  potential  outbreak.[21,44]  Health  care  personnel  (HCP)  have  slightly
+different criteria for acceptable presumptive evidence of immunity. All HCP should have
+presumptive  evidence  of  immunity  to  measles.[21,44]  This  information  should  be
+documented  and  readily  available  (ideally  through  electronic  medical  records)  at  the
+work location. Presumptive evidence of immunity to measles for health care personnel
+
+includes any of the following: Although birth before 1957 is considered as presumptive
+evidence  of  immunity,  for  unvaccinated  HCP  born  before  1957  that  lack  laboratory
+evidence  of  measles  immunity  or  laboratory  confirmation  of  disease,  health  care
+facilities should consider vaccinating personnel with two doses of MMR vaccine at the
+appropriate  interval.  *The  first  dose  of  measles-containing  vaccine  should  be
+administered on or after the first birthday; the second dose should be administered no
+earlier than 28 days after the first dose. †Measles immunoglobulin (IgG) in the serum;
+equivocal results should be considered negative. ‡The majority of persons born before
+1957  are  likely  to  have  been  infected  naturally  and  may  be  presumed  immune,
+depending  on  current  state  or  local  requirements.  For  unvaccinated  personnel  born
+before  1957  who  lack  laboratory  evidence  of  measles  immunity  or  laboratory
+confirmation  of  disease,  health  care  facilities  should  consider  vaccinating  personnel
+with 2 doses of MMR vaccine at the appropriate interval. For unvaccinated personnel
+born  before  1957  who  lack  laboratory  evidence  of  measles  immunity  or  laboratory
+confirmation  of  disease,  health  care  facilities  should  recommend  2  doses  of  MMR
+vaccine  during  an  outbreak  of  measles.  In  a  medical  setting,  both  the  occupational
+health and infection prevention and control practitioners have a role. When a measles
+case occurs in a health care setting, including outpatient and long-term care facilities,
+the following measures should be undertaken: An effective vaccination program is the
+best  approach  to  prevent  health  care  associated  measles  transmission.  Health  Care
+Infection Control Practices Advisory Committee (HICPAC) and CDC have recommended
+that secure, preferably computerized, systems should be used to manage vaccination
+records for HCP so records can be retrieved easily as needed. [44] Failure to have such
+records can be costly and can increase resources needed to respond to the outbreak.
+[46] If a measles case or an outbreak occurs within or in the areas served by a hospital,
+clinic, or other medical or nursing facility, all personnel regardless of birth year, should
+receive two doses of MMR vaccine, unless they have other documentation of measles
+
+immunity.  [44]  Birth  year  before  1957  is  not  acceptable  presumptive  evidence  of
+immunity during an outbreak. Health care facilities should provide MMR vaccine to all
+personnel without presumptive evidence of measles immunity at no charge. Recently
+vaccinated HCP (i.e., prior to exposure or the outbreak) do not require any restriction in
+their  work  activities.  Those  with  documentations  of  one  vaccine  dose  may  remain  at
+work  and  should  receive  the  second  dose.  Because  of  the  possibility,  albeit  low,  of
+measles vaccine failure in HCP, all staff entering the room of a person with suspect or
+confirmed measles should use respiratory protection consistent with airborne infection
+control precautions (i.e., use of an N95 respirator), regardless of presumptive immunity
+status.  [44]  Serologic  screening  of  HCP  during  an  outbreak  to  determine  measles
+immunity  prior  to  vaccination  is  not  recommended,  because  preventing  measles
+transmission  requires  the  rapid  vaccination  of  HCP  without  presumptive  evidence  of
+immunity,  which  can  be  impeded  by  the  need  to  screen,  wait  for  results,  and  then
+contact  and  vaccinate  susceptible  persons.  Results  from  serological  testing,  if
+performed,  can  inform  on  need  for  the  second  MMR  vaccine  dose.  HCP  without
+presumptive  evidence  of  immunity  who  have  been  exposed  to  measles  should  be
+relieved from patient contact and excluded from work from the 5th day after the first
+exposure  through  the  21st  day  after  the  last  exposure,  regardless  of  whether  they
+received vaccine or intramuscular immune globulin after the exposure. Personnel who
+develop measles should be relieved from all patient contact and excluded from work for
+four days after they develop rash. [44] Hospital patient contacts of a case, who do not
+have  presumptive  evidence  of  measles  immunity,  should  be  vaccinated  or  offered
+immune  globulin  or  placed  on  airborne  precautions  until  21  days  after  their  last
+exposure to the case-patient or four days after the onset of rash should they develop
+measles. [45] If immune globulin is administered to an exposed person, observations
+should continue for signs and symptoms of measles for 28 days after exposure since
+immune  globulin  may  prolong  the  incubation  period.  [44]  Because  investigating  an
+
+outbreak  requires  many  person-days  of  work,  personnel  are  frequently  transferred  to
+the  activity  from  other  areas  in  the  health  department  or  from  other  health
+departments and may only be involved in outbreak investigation for a few days before
+they  are  replaced  by  others.  This  turnover  in  personnel  can  cause  problems  unless
+activities  are  organized  so  that  the  status  of  the  investigation  is  documented  at  all
+times.  Some  practical  suggestions  for  organizing  this  activity  are  listed  here.  Prior
+versions of this chapter were authored by Preeta Kutty, Jennifer Rota, William Bellini,
+Albert  Barskey,  and  Gregory  Wallace.   Top  of  Page  Top  of  Page  To  receive  email
+updates about this page, enter your email address:
+
+Source URL: https://www.cdc.gov/vaccines/pubs/surv-manual/chpt07-measles.html

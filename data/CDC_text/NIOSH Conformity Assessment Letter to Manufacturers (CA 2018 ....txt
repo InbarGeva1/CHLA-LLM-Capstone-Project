@@ -1,0 +1,296 @@
+Official websites use .gov A .gov website belongs to an official government organization
+in  the  United  States.  Secure  .gov  websites  use  HTTPS  A  lock  (   )  or  https://  means
+you've  safely  connected  to  the  .gov  website.  Share  sensitive  information  only  on
+official,  secure  websites.  This  notice  has  been  superseded.  For  the  latest  NIOSH
+guidance
+ on
+ this
+ topic,
+ please
+ see
+ the
+ updated
+ notice:
+https://www.cdc.gov/niosh/npptl/resources/pressrel/letters/conformitymanuf/CA-2018-1
+010-R1.html NIOSH CA 2018-1010
+November  2018  Beginning  December  1,  2018,  the  National  Institute  for  Occupational
+Safety  and  Health  (NIOSH)  will  accept  applications  to  implement  the  coordinated
+regulatory  process  to  exempt  a  subset  of  filtering  facepiece  respirators  (FFRs)  from
+Food & Drug Administration (FDA) premarket notification requirements. The N95 FFRs
+and data provided by the applicant must demonstrate: Any device approved under this
+Guidance will be labeled with a protection of “N95-F.” This protection indicates that the
+NIOSH-approved  device  meets  the  intended  flammability,  fluid  resistance,  and
+biocompatibility requirements and can be used in healthcare settings. Monthly NIOSH
+Certified  Equipment  List  updates  will  include  searchable  information  about  approved
+N95-F respirators. Additionally, N95-F respirator approval labels will have a new caution
+and limitation “WW” defined as: This respirator conforms to recognized standards for
+biocompatibility,  flammability,  and  fluid  resistance.  The  approval  label  is  no  longer
+required to have the caution and limitation “P” – NIOSH does not evaluate respirators
+for use as surgical masks. Four specific situations are noted: If an applicant has never
+previously submitted any type of respiratory protective device for NIOSH approval, the
+applicant  must  first  apply  to  NIOSH  for  a  three-character  Manufacturer’s  Code  by
+completing the Prospective Approval Holder Form and returning it to the NIOSH NPPTL
+Records  Room.  Obtain  this  form  by  contacting  the  NIOSH  NPPTL  Records  Room  at
+recordsroom@cdc.gov.  After  obtaining  the  Manufacturer’s  Code,  the  manufacturer
+seeking  approval  for  an  N95-F  must  follow  this  Guidance.  The  applicant  will  use  the
+
+NIOSH  Standard  Application  Procedure  (SAP)  to  complete  the  Standard  Application
+Form.  When  completing  the  reason  for  application  section  (C.9),  the  applicant  will
+indicate they are using the consolidated process and seeking approval within the terms
+of the FDA Final Order and the MOU. The approval label provided as part of the NIOSH
+application  must  include  the  new  caution  and  limitation  “WW”  defined  as:  This
+respirator conforms to recognized standards for biocompatibility, flammability, and fluid
+resistance.  Applicants  are  required  to  provide  documentation  to  NIOSH  to  indicate
+conformance
+ to
+ the
+ FDA
+ thresholds
+ for
+ flammability,
+ fluid
+ resistance,
+ and
+biocompatibility.  All  data  must  be  received  in  electronic  formats  as  indicated  in  the
+NIOSH SAP. While NIOSH completes testing of hardware in accordance with 42 CFR 84
+Subpart K, NIOSH is not conducting testing to verify the flammability, fluid resistance,
+or biocompatibility performance of the respirator as part of the N95-F approval process.
+During  the  NIOSH  document  review  process,  NIOSH  will  review  flammability,  fluid
+resistance, and biocompatibility test data and results provided by the applicant and in
+accordance  with  the  FDA  Threshold  Criteria.  In  accordance  with  the  MOU,  N95-F
+Approval Holders are required to fulfill the general control provisions, under section 510
+of the FD&C Act, including annual registration and listing obligations. Claims exceeding
+the threshold criteria defined in the MOU will result in a denied application for N95-F
+approval (MOU Appendix, Section 2). A manufacturer making such claims and seeking
+approval must apply using the current, pre-MOU, process for approval by NIOSH, as an
+N95 FFR, and clearance by the FDA, with finalization of the labeling by NIOSH. The FDA
+will  continue  to  be  responsible  for  the  review  of  510(k)  submissions  for  N95  FFRs
+regulated  under  21  CFR  878.4040  that  exceed  the  conditions  and  limitations  of
+exemption  outlined  within  the  Final  Order  and  ensuring  manufacturers  comply  with
+applicable  regulations.  Note:  Tuberculosis  protection  claims  in  accordance  with  CDC
+Guidance are allowed. Applicants are reminded to consider FDA recommendations for
+labeling  medical  products  to  inform  users  that  the  product  is  not  made  with  natural
+
+rubber  latex.  NIOSH  is  developing  a  methodology  for  conducting  product  audit
+evaluations of NIOSH-approved N95-F FFRs. These product audit evaluations will include
+NIOSH  assessment  of  the  flammability  and  fluid  resistance  performance.  FDA  Final
+Order
+FDA Postmarket Requirements (Devices)
+Approval of Respiratory Protective Devices, 42 C.F.R, Part 84
+MOU 225-18-006 (also included below) Reference: MEMORANDUM OF UNDERSTANDING
+(MOU)  225-18-006),  November  2017  This  Memorandum  of  Understanding  (MOU)
+between the Food and Drug Administration (FDA), acting through its Center for Devices
+and  Radiological  Health  (CDRH),  and  the  Centers  for  Disease  Control  and  Prevention
+(CDC), acting through its National Institute for Occupational Safety and Health (NIOSH),
+National Personal Protective Technology Laboratory (NPPTL) (herein referred to as “the
+Agencies”),  provides  a  framework  for  coordination  and  collaboration  between  the
+Agencies  relating  to  their  regulation  of  Surgical  N95  Respirators  and  N95  Filtering
+Facepiece Respirators (FFRs)1 used in healthcare settings (herein collectively referred
+to as “N95s”).1 A coordinated process will help to ensure that the various regulatory
+activities  of  each  agency  related  to  N95s  are  streamlined  and  harmonized  when
+possible. The intent of this MOU is to help reduce conflicting and duplicative premarket
+processes  for  these  devices  so  that  stakeholders  can  easily  and  seamlessly  discern
+what  steps  must  be  taken  to  satisfy  the  applicable  regulatory  requirements.
+Specifically,  this  MOU  (1)  describes  the  mechanisms  by  which  specific  information
+pertaining  to  N95s  may  be  exchanged  between  the  two  Agencies  and  (2)  provides  a
+framework for efficient and coordinated regulatory oversight of N95s intended for use in
+healthcare settings. Definitions of specific terms used in this MOU are provided in this
+section. Also, please note that the respirators described in this section and throughout
+this  MOU  are  designed  to  be  used  in  the  context  of  a  comprehensive  respiratory
+protection program as required by the Occupational Safety and Health Administration
+
+(OSHA)  in  29  CFR  1910.134.  Applicant:  An  individual,  partnership,  company,
+corporation, association, or other organization that designs, manufactures, assembles,
+or  controls  the  assembly  of  a  respirator  and  who  seeks  to  obtain  a  certificate  of
+approval  [from  NIOSH]  for  such  respirator.2  Device:  An  instrument,  apparatus,
+implement, machine, contrivance, implant, in vitro reagent, or other similar or related
+article, including any component, part, or accessory, which is: Hazardous Atmosphere:
+Any atmosphere containing a toxic or disease producing gas, vapor, dust, fume, mist, or
+pesticide,  either  immediately  or  not  immediately  dangerous  to  life  or  health;  or  any
+oxygen-deficient  atmosphere.4  Healthcare  Personnel  (HCP):  All  persons,  paid  and
+unpaid, working in healthcare settings who have the potential for exposure to patients
+and/or  to  infectious  materials,  including  body  substances,  contaminated  medical
+supplies  and  equipment,  contaminated  environmental  surfaces,  or  contaminated  air.
+HCP include, but are not limited to, physicians, nurses, nursing assistants, therapists,
+technicians,  emergency  medical  service  personnel,  dental  personnel,  pharmacists,
+laboratory personnel, autopsy personnel, students and trainees, contractual personnel,
+home  healthcare  personnel,  and  persons  not  directly  involved  in  patient  care  (e.g.,
+clerical, dietary, house-keeping, laundry, security, maintenance, billing, chaplains, and
+volunteers) but potentially exposed to infectious agents that can be transmitted to and
+from HCP and patients.5 Healthcare Settings: Healthcare settings include, but are not
+limited  to,  acute-care  hospitals;  long-term  care  facilities,  such  as  nursing  homes  and
+skilled nursing facilities; physicians’ offices; urgent-care centers, outpatient clinics; and
+home  healthcare.  Examples  of  settings  that  are  not  included  in  this  definition  are
+schools  and  worksites.  However,  elements  of  this  MOU  may  be  applicable  to  specific
+sites within non-healthcare settings where care is routinely delivered (e.g., a medical
+clinic embedded within a workplace or school)). Labeler: A “labeler” is any person who
+causes  a  label  to  be  applied  to  a  device,  or  who  causes  the  label  of  a  device  to  be
+replaced  or  modified,  with  the  intent  that  the  device  will  be  commercially  distributed
+
+without  any  subsequent  replacement  or  modification  of  the  label,  except  that  the
+addition  of  the  name  of,  and  contact  information  for,  a  person  who  distributes  the
+device,  without  making  any  other  changes  to  the  label,  is  not  a  modification  for  the
+purposes of determining whether a person is a labeler.7 Labeling: As defined in section
+201(m)  of  the  FD&C  Act.  N95  Filtering  Facepiece  Respirator  (FFR):  Single-use,
+disposable half-mask respiratory protective device (RPD) that covers the user’s airway
+(nose and mouth) and offers protection from particulate materials at an N95 filtration
+efficiency level per 42 CFR 84.181. Such an N95 FFR used in a healthcare setting is a
+class  II  device,  regulated  by  FDA  under  21  CFR  878.4040  (FDA  product  code  MSH).
+N95s: Includes N95 Filtering Facepiece Respirator (FFR) used in healthcare settings and
+Surgical  N95  Respirator.  NIOSH  Approval:  Approval  means  a  certificate  or  formal
+document  issued  by  NIOSH  stating  that  an  individual  respirator  or  combination  of
+respirators  has  met  the  minimum  requirements  of  42  CFR  Part  84  and  that  the
+applicant is authorized to use and attach an approval label to any respirator, respirator
+container,  or  instruction  card  for  any  respirator  manufactured  or  assembled  in
+conformance with the plans and specifications upon which the approval was based, as
+evidence of such approval. Particulate Material: Solid or liquid particles found in the air.
+These particles may include dust, dirt, soot, smoke, and drops of liquid, and airborne
+particles  transmitted  to  and  from  HCP  and  patients.  Respiratory  Protective  Device
+(RPD): Any device designed to protect the user’s respiratory tract against the inhalation
+of  a  hazardous  atmosphere.8  Surgical  N95  Respirator:  Single-use,  disposable
+respiratory  protective  device  (RPD)  used  in  a  healthcare  setting  that  is  worn  by  HCP
+during  procedures  to  protect  both  the  patient  and  HCP  from  the  transfer  of
+microorganisms,  body  fluids,  and  particulate  material  at  an  N95  filtration  efficiency
+level per 42 CFR 84.181. A surgical N95 respirator is a class II device, regulated by FDA
+under 21 CFR 878.4040 (FDA product code MSH).9 FDA and NIOSH are sister Agencies
+within the Department of Health and Human Services (HHS). Both Agencies’ missions
+
+include protecting the public health. Both Agencies are authorized to regulate certain
+RPDs,  but  have  different  statutory  authorities  and  responsibilities.  The  distinctions
+between NIOSH and FDA regulation of N95s may create confusion among stakeholders.
+The collaboration outlined below, which is intended to streamline regulatory oversight
+of N95s used in healthcare settings, is expected to help ensure the availability of safe
+and  effective  products,  particularly  during  times  of  increased  demand.  The  Agencies
+may update this MOU to include other RPDs utilized within the healthcare setting at a
+future date. However, note that any updates to the MOU will not automatically revise
+the conditions or limitations of exemption from 510(k). We note that the MOU is drafted
+on  the  assumption  that  FDA  has  issued  a  notice  in  the  Federal  Register  exempting
+certain  N95s  from  510(k)  review  (subject  to  applicable  conditions  and  limitations  of
+exemption,  such  as  21  CFR  878.9  and  21  CFR  878.4040(b)(1)).  Generally,  21  CFR
+878.4040(b)(1)  exempts  those  N95s  that  (1)  are  determined  not  to  exceed  the
+threshold  evaluation  criteria  and  (2)  have  met  the  approval  criteria  and  have  NIOSH
+approval  under  its  regulation.  If  such  a  notice  is  not  finalized  this  MOU  would  not
+become  effective  (see  section  IX)  or  may  need  to  be  amended  before  becoming
+effective. a. FDA The FD&C Act grants FDA authority to regulate devices, as defined in
+section  201(h)  of  the  FD&C  Act  (21  U.S.C.  321(h)).  FDA  classifies  devices  into  one  of
+three regulatory classes – class I, II, or III – based on the level of control necessary to
+ensure  the  safety  and  effectiveness  of  the  device.  Class  I  devices  are  subject  to  the
+fewest  regulatory  controls  and  class  III  devices  are  subject  to  the  most  regulatory
+controls. Generally, class II devices must receive premarket clearance from FDA under
+section  510(k)  of  the  FD&C  Act  (21  U.S.C.  360(k))  before  they  can  be  legally
+marketed.10  FDA  provides  premarket  clearance  for  devices  that  are  “substantially
+equivalent”—as the term is defined in section 513(i)(1)(A) of the FD&C Act (21 U.S.C.
+360c(i)(1)(A))—to a predicate device. In certain circumstances, FDA can exempt class II
+devices from this 510(k) requirement (see section 510(m) of the FD&C Act (21 U.S.C.
+
+360(m))).  N95s  are  regulated  by  the  FDA  as  class  II  devices  under  21  CFR  878.4040
+(FDA product code MSH). As of the effective date of this MOU (see section IX), N95s are
+exempt  from  510(k)  requirements  (subject  to  applicable  conditions  and  limitations  to
+the exemption, such as those in 21 CFR 878.9 and 21 CFR 878.4040(b)(1)). Generally,
+21  CFR  878.4040(b)(1)  exempts  N95s  if  (1)  they  are  determined  not  to  exceed  the
+threshold  evaluation  criteria  and  (2)  have  met  the  approval  criteria  and  have  NIOSH
+approval. b. NIOSH NIOSH is responsible for approval of RPDs intended for occupational
+use. The authority is granted to NIOSH in accordance with standards established in 42
+CFR  Part  84.  NIOSH  also  addresses  quality  assurance  requirements  for  the
+manufacturing  of  respiratory  protective  equipment.  Enforcement  agencies,  such  as
+OSHA,  require  employers  to  provide  NIOSH-approved  respirators.  In  addition,  private
+sector certification scheme owners such as the National Fire Protection Association use
+the NIOSH approval as the basis for their certification. This MOU applies to N95s used in
+healthcare  settings,  which  protect  both  the  patient  and  HCP  from  the  transfer  of
+microorganisms, body fluids, and particulate material.11 Future iterations of this MOU
+may  extend  this  scope  to  other  RPDs  utilized  in  a  healthcare  setting  based  on
+concurrence between the Agencies. However, note that any updates to the MOU will not
+revise  the  conditions  or  limitations  to  the  exemption  for  510(k)  as  identified  in  the
+Federal Register Notice. Under this MOU, the Agencies agree to the following roles and
+responsibilities: 1. FDA and CDC recognize and agree that information exchanged under
+this MOU that contains any of the following types of information must be protected from
+unauthorized use and disclosure: (1) confidential commercial information, such as the
+information that would be protected from public disclosure pursuant to Exemption 4 of
+the  Freedom  of  Information  Act  (FOIA);  (2)  personal  privacy  information,  such  as  the
+information that would be protected from public disclosure pursuant to Exemption 6 or
+7(C) of the FOIA; or (3) information that is otherwise protected from public disclosure by
+Federal statutes and their implementing regulations (e.g., Trade Secrets Act (18 U.S.C.
+
+1905)), the Privacy Act (5 U.S.C. 552a), other FOIA exemptions not mentioned above (5
+U.S.C. 552(b)), the FD&C Act (21 U.S.C. 301 et seq.), the Health Insurance Portability
+and  Accountability  Act  (HIPAA),  Pub.  L.  104-191),  Section  319L(e)  of  the  PHS  Act  (42
+U.S.C.  247d-7e(e)),  and  disclosure  restrictions  subject  to  41  U.S.C.  2101-2107
+(Procurement Integrity Act) and 48 CFR 3.104 (Federal Acquisition Regulation). 2. Both
+parties will establish safeguards to ensure that any nonpublic information shared under
+this  MOU  is  protected  from  unauthorized  disclosure  or  use.  Those  safeguards  should
+include the marking of any confidential materials as “confidential” prior to disclosure to
+the  other  party  or  the  use  of  encryption  technologies  when  appropriate.  Information
+consisting  of  confidential  commercial  information  or  trade  secrets  may  be  shared
+pursuant  to  the  procedures  set  forth  in  the  Memorandum  of  Understanding  Between
+FDA and CDC, which describes information sharing procedures between FDA and CDC
+(FDA
+ MOU
+ No.
+ 225-24-0017,
+ available
+ at
+http://www.fda.gov/aboutfda/partnershipscollaborations/memorandaofunderstandingmo
+us/domesticmous/ucm402130.htm). 3. Each agency agrees to promptly notify the other
+of  any  actual  or  suspected  unauthorized  disclosure  of  information  shared  under  this
+MOU. 4. If records provided by either party under this agreement are the subject of a
+FOIA request submitted to the party that received the records, that party will refer the
+FOIA request and relevant records to the party that provided the records for processing.
+If the FOIA request seeks both parties’ records or if the request is for records created by
+one party that incorporates information provided by the other party, in accordance with
+the  HHS  FOIA  regulations  at  45  CFR  pt.  5,  the  party  receiving  the  FOIA  request  will
+forward all such requests to the respective FOIA offices for disposition. This MOU does
+not  affect  fees  assessed  by  NIOSH  and  FDA  in  alignment  with  their  current  fee
+structure.  N95s  that  are  exempt  from  510(k)  requirements  are  not  subject  to  the
+medical  device  user  fees  associated  with  submission  of  a  510(k)  (i.e.,  fees  under
+section  738(a)(2)(A)(viii)  of  the  FD&C  Act  (21  U.S.C.  379j(a)(2)(A)(viii))).  Director,
+
+National Personal Protective Technology Laboratory (NPPTL)
+National Institute for Occupational Safety and Health
+Centers for Disease Control and Prevention
+Pittsburgh,
+ PA
+ Director,
+ Emergency
+ Preparedness/Operations
+ and
+ Medical
+Countermeasures
+Center for Devices and Radiological Health
+Food and Drug Administration
+Silver Spring, MD 1. Review Processes for N95s: NIOSH and FDA review processes for
+N95s consist of the following steps (also see Figure 1): NIOSH Approval Review. NIOSH
+will perform its approval review of these N95s using the mutually agreed upon approval
+criteria  (see  Appendix  Section  3  for  specific  criteria)  and  share  information  from  this
+review with FDA such that it can be considered in FDA’s 510(k) review. Figure 1. N95
+Review Processes Flowchart * NIOSH makes a recommendation regarding whether an
+applicant’s device exceeds the threshold evaluation criteria, this recommendation does
+not  change  any  requirements  of  a  device  manufacturer  under  the  FD&C  Act.  This
+includes general controls under the FD&C Act and the requirement for manufacturers to
+assess  whether  their  device  exceeds  the  conditions  and  limitations  of  exemption  as
+identified  in  21  CFR  878.4040(b)(1)  and  878.9.  **Refer  to  Appendix  Section  2  for
+threshold  evaluation  criteria  2.  Threshold  Evaluation  Criteria:  An  N95  EXCEEDS  the
+threshold  evaluation  criteria  (and  thus  would  likely  not  be  exempt  from  510(k)
+requirements even if subsequently approved by NIOSH), if: 3. Approval Criteria: NIOSH
+will assess the performance of the N95 with respect to differential pressure, particulate
+filtration efficiency (PFE), exhalation valve leakage, biocompatibility, flammability, and
+fluid resistance. The evaluation of flammability, fluid resistance, and biocompatibility on
+the final finished N95 will be new assessments for NIOSH; they have historically been a
+part  of  FDA’s  premarket  evaluation  only.  The  mutually  agreed  upon  approval  criteria
+are described in greater detail below. An N95 intended to be used in healthcare settings
+
+will be evaluated for the following approval criteria: Approved and Accepted CDC/NIOSH
+Maryann D’Alessandro, Ph.D
+Director
+National Personal Protective Technology Laboratory
+November 2017 Approved and Accepted FDA
+Jeffrey Shuren, M.D., J.D
+Director
+Center for Devices and Radiological Health
+November 2017 Interim guidance regarding applications for NIOSH Approval of Filtering
+Facepiece Respirators in accordance with the Food and Drug Administration (FDA) Final
+Order published May 17, 2018, and FDA/NIOSH MOU 225-18-006, dated November 2017
+[PDF – 359 KB]
+
+Source
+ URL:
+https://www.cdc.gov/niosh/npptl/resources/pressrel/letters/conformitymanuf/CA-2018-1010.html

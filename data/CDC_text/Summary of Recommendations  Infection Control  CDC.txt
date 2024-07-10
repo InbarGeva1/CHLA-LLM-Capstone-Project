@@ -1,0 +1,41 @@
+A .gov website belongs to an official government organization in the United States. A
+lock (  ) or https:// means you've safely connected to the .gov website. Share sensitive
+information only on official, secure websites. Tables summarizing the recommendations
+from  the  Guideline  for  Isolation  Precautions:  Preventing  Transmission  of  Infectious
+Agents in Healthcare Settings (2007). These recommendations are designed to prevent
+transmission of infectious agents among patients and healthcare personnel inpatients
+with suspected or proven SARS all settings where healthcare is delivered. As in other
+CDC/HICPAC  guidelines,  each  recommendation  is  categorized  on  the  basis  of  existing
+scientific data, theoretical rationale, applicability, and when possible, economic impact.
+The  CDC/HICPAC  system  for  categorizing  recommendations  is  as  follows:  Healthcare
+organization administrators should ensure the implementation of recommendations in
+this  section.  Assume  that  every  person  is  potentially  infected  or  colonized  with  an
+organism  that  could  be  transmitted  in  the  healthcare  setting  and  apply  the  following
+infection control practices during the delivery of health care. (See Figure) The following
+recommendations  apply  to  the  use  of  needles,  cannulas  that  replace  needles,  and,
+where applicable, intravenous delivery systems.454 V.B.2. Patient placement V.B.3. Use
+of personal protective equipment Wear gloves whenever touching the patient’s intact
+skin or surfaces and articles in close proximity to the patient (e.g., medical equipment,
+bed  rails).  Don  gloves  upon  entry  into  the  room  or  cubicle.  V.B.4.  Patient  transport
+V.B.5.  Patient-care  equipment  and  instruments/devices  Ensure  that  rooms  of  patients
+on  Contact  Precautions  are  prioritized  for  frequent  cleaning  and  disinfection  (e.g.,  at
+least daily) with a focus on frequently-touched surfaces (e.g., bed rails, overbed table,
+bedside commode, lavatory surfaces in patient bathrooms, doorknobs) and equipment
+in the immediate vicinity of the patient. Restrict susceptible healthcare personnel from
+entering the rooms of patients known or suspected to have measles (rubeola), varicella
+(chickenpox),  disseminated  zoster,  or  smallpox  if  other  immune  healthcare  personnel
+are available  Interim Measles Infection Control [July 2019]
+
+For  current  recommendations  on  face  protection  for  measles,  see  Interim  Infection
+Prevention  and  Control  Recommendations  for  Measles  in  Healthcare  Settings  No
+recommendation  is  made  regarding  the  type  of  personal  protective  equipment  (i.e.,
+surgical mask or respiratory protection with a N95 or higher respirator) to be worn by
+susceptible healthcare personnel who must have contact with patients with known or
+suspected  measles,  chickenpox  or  disseminated  herpes  zoster.  CDC  provides
+information on infection control and clinical safety to help reduce the risk of infections
+among  healthcare  workers,  patients,  and  visitors.  Languages  Language  Assistance
+Languages  Language Assistance 
+
+Source
+ URL:
+https://www.cdc.gov/infection-control/hcp/isolation-precautions/summary-recommendations.html

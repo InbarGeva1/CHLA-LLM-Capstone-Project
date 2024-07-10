@@ -1,0 +1,234 @@
+Official websites use .gov A .gov website belongs to an official government organization
+in  the  United  States.  Secure  .gov  websites  use  HTTPS  A  lock  (   )  or  https://  means
+you've  safely  connected  to  the  .gov  website.  Share  sensitive  information  only  on
+official, secure websites. There are three RSV vaccines licensed for use in adults ages
+60  years  and  older  in  the  United  States:  GSK’s  AREXVY,  Moderna’s  mRESVIA,  and
+Pfizer’s  ABRYSVO.  For  additional  details  on  the  recommendations  of  the  Advisory
+Committee on Immunization Practices (ACIP) for RSV vaccination, see Adult RSV ACIP
+Vaccine  Recommendations.  CDC  recommends  a  single  dose  of  RSV  vaccines  for:
+Epidemiologic evidence indicates that all adults ages 75 or older and adults ages 60-74
+with  certain  risk factors are at increased  risk of severe RSV. The following  conditions
+increase  the  risk  of  severe  RSV:  As  well  as:  *Frailty  is  a  multidimensional  geriatric
+syndrome  and  reflects  a  state  of  increased  vulnerability  to  adverse  health  outcomes.
+Although there is no consensus definition, one frequently used tool is the Fried frailty
+phenotype in which frailty is defined as a clinical syndrome with three or more of the
+following symptoms present: unintentional weight loss (10 lbs [4.5 kg] in the past year),
+self-reported  exhaustion,  weakness  (grip  strength),  slow  walking  speed,  and  low
+physical  activity.  †Retirement  communities  and  independent  living  communities  for
+seniors are not considered long-term care facilities. Adults 60-74 living in these facilities
+may  still  be  recommended  to  receive  RSV  vaccination  if  they  have  certain  medical
+conditions listed above. For patients who have not already received an RSV vaccine and
+decide to get one, CDC encourages healthcare providers to maximize the benefit of RSV
+vaccination  by  giving  them  their  RSV  vaccine  in  late  summer  or  early  fall.  The  RSV
+vaccine is not currently an annual vaccine, meaning eligible adults do not need to get a
+dose every RSV season. Currently, CDC recommends only a single dose of RSV vaccine
+for all adults ages 75 and older and adults ages 60-74 with increased risk of severe RSV
+disease.  Additional  surveillance  and  evaluation  activities  are  ongoing  to  determine
+whether adults might benefit from receiving additional RSV vaccine doses in the future.
+
+So far, RSV vaccines appear to provide some protection for at least two RSV seasons.
+GSK’s AREXVY should not be administered to a person with a history of severe allergic
+reaction,  such  as  anaphylaxis,  to  any  component  of  this  vaccine.  Information  about
+GSK’s  AREXVY  can  be  found  in  the  manufacturer’s  package  insert.  Pfizer’s  ABRYSVO
+should not be administered to a person with a history of severe allergic reaction, such
+as anaphylaxis, to any component of this vaccine. Information about Pfizer’s ABRYSVO
+can be found in the manufacturer’s package insert. Moderna’s mRESVIA should not be
+administered to a person with a history of severe allergic reaction, such as anaphylaxis,
+to any component of this vaccine. Information about Moderna’s mRESVIA can be found
+in  the  manufacturer’s  package  insert.  To  learn  more,  see  ACIP  Contraindications
+Guidelines for Immunization, General Best Practice Guidelines for Immunization. There
+are three RSV vaccines licensed by the Food and Drug Administration (FDA) for use in
+U.S. adults ages 60 and older: GSK’s AREXVY consists of a recombinant RSV F protein
+antigen (based on the RSV-A subtype), stabilized in the prefusion conformation (preF),
+and AS01E adjuvant. The AS01 adjuvant system is the same used in GSK’s recombinant
+zoster  vaccine  (RZV,  Shingrix),  but  at  a  lower  dose.  The  vaccine  is  supplied  as  a
+single-dose  vial  of  120  μg  of  lyophilized  preF  antigen  component  to  be  reconstituted
+with  the  accompanying  vial  of  AS01E  adjuvant  suspension  component.  A  single  dose
+after  reconstitution  is  0.5  mL.  Consult  the  package  insert  for  proper  storage  and
+handling  details,  shelf  life,  and  reconstitution  instructions:  Package  Insert  –  AREXVY
+(fda.gov). In June 2024, FDA licensed AREXVY for use in people ages 50–59 who are at
+increased  risk  of  RSV  lower  respiratory  tract  disease.  ACIP  did  not  hold  a  vote  to
+recommend  AREXVY  for  people  ages  50–59.  At  this  time,  ACIP  concluded  more
+information is needed to determine the best policy option for the use of RSV vaccines in
+people ages 50–59. CDC will continue to monitor the effectiveness and safety of these
+vaccines in people ages 60 and older and is committed to re-evaluating potential RSV
+vaccine recommendations for people ages 50–59 when additional information becomes
+
+available. Pfizer’s ABRYSVO consists of a recombinant RSV F protein antigen (based on
+both  the  RSV-A  and  RSV-B  subtypes),  stabilized  in  the  prefusion  conformation  (preF).
+The  vaccine  is  supplied  as  a  single-dose  vial  of  120  μg  of  lyophilized  preF  antigen
+component  (60  μg  from  RSV-A,  60  μg  from  RSV-B)  to  be  reconstituted  with  the
+accompanying vial of sterile water diluent component. A single dose after reconstitution
+is  approximately  0.5  mL.  Consult  the  package  insert  for  proper  storage  and  handling
+details, shelf life, and reconstitution instructions: Package Insert – ABRYSVO (fda.gov).
+Moderna’s mRESVIA consists of a single 0.5 mL-dose vial containing 50 μg of nucleoside
+modified  mRNA  encoding  the  RSV  F  glycoprotein  (monovalent,  based  on  the  RSV-A
+subtype), stabilized in the prefusion conformation (pre-F protein).  Consult the package
+insert  for  proper  storage  and  handling  details,  shelf  life,  and  more:  Package  Insert  –
+MRESVIA  (fda.gov).  Protein  Subunit  Vaccines  (GSK’s  AREXVY  and  Pfizer’s  ABRYSVO)
+During  clinical  trials,  RSV  vaccines  for  people  ages  60  and  older  reduced  the  risk  of
+symptomatic lower respiratory tract disease by 80%-90% in the first season after RSV
+vaccination. While the protection provided by RSV vaccines wanes over time, they still
+offer  significant  protection  against  serious  RSV  illness  for  at  least  2  years.  CDC  data
+from  the  first  season  of  use  showed  that  RSV  vaccine  provided  protection  against
+hospitalization,  critical  illness  (ICU  admission  and  death),  and  emergency  department
+visits  among  people  ages  60  and  older.  During  2023-2024:  Ongoing  monitoring  is
+needed  to  assess  RSV  vaccine  effectiveness  beyond  the  first  season  after  vaccine
+receipt and in different risk groups as RSV vaccine coverage increases. mRNA Vaccine
+(Moderna’s  mRESVIA)  A  summary  of  Moderna’s  large  phase  2/3  randomized,  blinded
+placebo-controlled  clinical  trial  in  participants  ages  60  and  older  can  be  found  in  the
+manufacturer’s package insert. GSK’s AREXVY In clinical trials, most adults ages 60 and
+older  who  received  the  GSK  RSV  vaccine  experienced  vaccine-related  reactions.  The
+most common reactions in the large phase 3 clinical trial were pain at the injection site
+(61%),  fatigue  (34%),  myalgia  (29%),  and  headache  (27%)  (1).  Grade  3  reactions
+
+(severe enough to prevent normal daily activities) occurred in 4% of vaccine recipients.
+Across  all  clinical  trials  in  adults  ages  60  and  older,  inflammatory  neurologic  events
+were reported in three of 17,922 participants within 42 days after receipt of the GSK
+RSV vaccine (2). All three events occurred in trials without a placebo arm. The reported
+cases included one case of Guillain-Barré syndrome (GBS) with symptom onset 9 days
+postvaccination  in  an  open-label  phase  3  clinical  trial  and  two  cases  of  acute
+disseminated  encephalomyelitis  (ADEM)  among  participants  in  a  randomized  phase  3
+coadministration  study.  The  two  ADEM  cases  were  reported  in  participants  after
+concomitant  receipt  of  the  GSK  RSV  vaccine  and  standard  dose  seasonal  influenza
+vaccine;  symptom  onset  occurred  7  and  22  days  postvaccination,  and  one  case  was
+fatal. In both ADEM cases, the diagnosis was based on symptoms and clinical findings
+only; diagnostic testing (including brain imaging, cerebrospinal fluid testing, and nerve
+conduction studies) was not performed, leading to uncertainty in the diagnoses. Both
+ADEM cases were reported from the same study site. The site investigator later revised
+the  diagnosis  from  ADEM  to  hypoglycemia  and  dementia  in  the  fatal  case,  and  from
+ADEM to stroke in the non-fatal case. In the large phase 3 clinical trial, a higher number
+of  participants  who  received  the  GSK  RSV  vaccine  than  those  who  received  placebo
+reported  atrial  fibrillation  within  30  days  after  injection  (10  vs.  4  participants)  (2).
+However, due to the small number of these events, it is not known at this time whether
+they  occurred  due  to  chance,  or  whether  RSV  vaccination  increases  the  risk  of  atrial
+fibrillation.  Pfizer’s  ABRYSVO  In  clinical  trials  among  adults  ages  60  and  older,
+vaccine-related  reactions  were  common  among  participants  who  received  the  Pfizer
+RSV vaccine. The most common reactions in the large phase 3 clinical trial were fatigue
+(16%),  headache  (13%),  and  pain  at  the  injection  site  (11%)  (4).  Grade  3  reactions
+(severe  enough  to  prevent  normal  daily  activities)  occurred  in  approximately  1%  of
+vaccine  recipients.  Across  all  clinical  trials  in  adults  ages  60  and  older,  inflammatory
+neurologic  events  were  reported  in  three  of  20,255  participants  within  42  days  after
+
+receipt  of  the  Pfizer  RSV  vaccine  (2).  The  events  included  one  case  of  GBS  with
+symptom  onset  14  days  postvaccination,  one  case  of  Miller  Fisher  syndrome  (a  GBS
+variant) with symptom onset 10 days postvaccination; and one case of undifferentiated
+motor-sensory axonal polyneuropathy with worsening of preexisting symptoms 21 days
+postvaccination. In the large phase 3 clinical trial, a higher number of participants who
+received  the  Pfizer  RSV  vaccine  than  those  who  received  placebo  reported  atrial
+fibrillation within the 30 days after injection (10 vs. 4 participants) (2). However, due to
+the small number of these events, it is not known at this time whether they occurred
+due  to  chance,  or  whether  RSV  vaccination  increases  the  risk  of  atrial  fibrillation.
+Ongoing Studies and Surveillance Preliminary safety surveillance data from the Vaccine
+Adverse  Event  Reporting  System  (VAERS)  (co-managed  by  CDC  and  FDA)  and  the
+Vaccine  Safety  Datalink  (VSD),  as  well  as  from  a  partnership  between  FDA  and  the
+Centers for Medicare and Medicaid Services (CMS), suggest a potential increased risk of
+GBS  after  vaccination  in  older  adults.  Due  to  uncertainties  and  limitations,  these
+analyses  cannot  establish  if  there  is  an  increased  risk  for  GBS  after  RSV  vaccination.
+CDC and FDA are conducting population-based active surveillance to monitor for GBS
+following  RSV  vaccination.  Additional  analyses  using  these  surveillance  data  are
+underway  and  will  provide  more  information  about  whether  there  is  an  association
+between RSV vaccines and GBS. If a risk if present, these analyses may also be able to
+determine its magnitude. Due to the small number of inflammatory neurologic events in
+the  clinical  trials  and  the  preliminary  nature  of  the  post-licensure  safety  surveillance
+results  regarding  GBS,  it  is  not  known  at  this  time  whether  RSV  vaccination  is
+associated with increased risk of GBS or other neurologic adverse events. According to
+FDA post-marketing requirements and commitments, both manufacturers will conduct
+safety  studies  to  evaluate  the  risk  of  neurologic  adverse  events  and  atrial  fibrillation
+following RSV vaccination. During the June 2024 ACIP meeting, CDC and FDA presented
+new  data  from  ongoing  safety  monitoring  which  continue  to  suggest  a  potential
+
+increased  risk  of  GBS  after  RSV  vaccination  with  the  two  protein  subunit  vaccines
+(AREXVY by GSK and ABRYSVO by Pfizer). However, at this time, more data are needed
+to  determine  if  there  is  an  increased  risk  of  Guillain-Barré  Syndrome  after  RSV
+vaccination.  CDC  will  continue  to  monitor  adverse  events  following  RSV  vaccination
+through its vaccine safety surveillance systems. This information will be updated with
+results from post-marketing safety studies and from vaccine safety surveillance, as they
+become available. For more information on vaccine safety, see Vaccine Information and
+Safety Studies | Vaccine Safety | CDC. Adverse events after RSV vaccination should be
+reported to the Vaccine Adverse Event Reporting System (VAERS), even if it is not clear
+that the vaccine caused the adverse event. Information on how to submit a report to
+VAERS
+ is
+ available
+ at
+ https://vaers.hhs.gov/index.html
+ or
+ by
+ telephone
+ at
+1-800-822-7967. Moderna’s mRESVIA In clinical trials among adults ages 60 and older,
+vaccine-related  reactions  were  common  among  participants  who  received  mRESVIA.
+The most common reactions in the large phase 3 clinical trial were pain at the injection
+site  (56%),  fatigue  (31%),  headache  (27%),  and  myalgia  (26%),  arthralgia  (22%),
+axillary  (underarm)  swelling  or  tenderness  (15%),  and  chills  (12%).  See  the
+manufacturer’s package insert for more safety information about mRESVIA. As with all
+vaccines,  CDC  and  FDA  will  conduct  routine  post-licensure  safety  surveillance  for
+adverse events following vaccination with mRESVIA. References Proper vaccine storage
+and handling practices play an important role in protecting individuals and communities
+from  vaccine-preventable  diseases.  For  general  recommendations  and  guidance,  see
+Vaccine  Storage  and  Handling.  Provided  below  is  guidance  specific  to  RSV  vaccines.
+GSK’s AREXVY: GSK’s vaccine is supplied in two vials that must be reconstituted prior to
+administration. One vial is a lyophilized antigen component and the second is a liquid
+diluent
+ adjuvant
+ suspension.
+ You
+ MUST
+ use
+ the
+ diluent
+ provided
+ by
+ the
+manufacturer.  Refer  to  the  manufacturer’s  package  insert  for  specific  instructions  on
+reconstituting  the  vaccine:  Package  Insert  –  AREXVY  (fda.gov).  Before  reconstitution:
+
+After  reconstitution:  Pfizer’s  ABRYSVO:  Pfizer’s  vaccine  is  supplied  in  a  kit  with  three
+components:  a  vial  of  Lyophilized  Antigen  Component  (a  sterile  white  powder),  a
+prefilled syringe containing Sterile Water Diluent Component, and a vial adapter. Refer
+to  the  manufacturer’s  package  insert  for  specific  instructions  on  reconstituting  the
+vaccine:
+ Package
+ Insert
+ –
+ ABRYSVO
+ (fda.gov).
+ Before
+ reconstitution:
+ After
+reconstitution: Moderna’s mRESVIA: During storage, minimize exposure to room light,
+and avoid exposure to direct sunlight and ultraviolet light. Refer to the manufacturer’s
+package  insert  for  specific  instructions  on  storage  and  thawing:  Package  Insert  –
+mRESVIA (fda.gov). Frozen Storage  Store frozen between -40°C to -15°C (-40°F to 5°F).
+Storage after Thawing  Storage at 2°C to 8°C (36°F to 46°F):  Storage at 8°C to 25°C
+(46°F  to  77°F):   This  page  provides  a  summary  of  guidance  for  administering
+FDA-licensed  RSV  vaccines  for  use  in  U.S.  adults  ages  60  and  older  RSV  vaccines,
+including route, number of doses, and co-administration with other vaccines. Do not use
+any  RSV  vaccine  beyond  the  expiration  date  printed  on  the  label.  Administer  RSV
+vaccine intramuscularly. The preferred site of administration is the deltoid region of the
+upper  arm.  Do  not  administer  RSV  vaccine  intravenously,  intradermally,  or
+subcutaneously. Coadministration of RSV vaccines with other adult vaccines during the
+same visit is acceptable. Available data on immunogenicity of coadministration of RSV
+vaccines  and  other  vaccines  are  currently  limited.  Coadministration  of  RSV  and
+seasonal  influenza  vaccines  met  noninferiority  criteria  for  immunogenicity  with  the
+exception  of  the  FluA/Darwin  H3N2  strain  when  the  GSK  RSV  vaccine  was
+coadministered  with  adjuvanted  quadrivalent  inactivated  influenza  vaccine.  RSV  and
+influenza  antibody  titers  were  somewhat  lower  with  coadministration;  however,  the
+clinical  significance  of  this  is  unknown.  Administering  RSV  vaccine  with  one  or  more
+other vaccines at the same visit might increase local or systemic reactogenicity. Data
+are only available for coadministration of RSV and influenza vaccines, and evidence is
+mixed  regarding  increased  reactogenicity.  Data  are  lacking  on  the  safety  of
+
+coadministration  with  other  vaccines  that  might  be  recommended  for  persons  in  this
+age  group,  such  as  COVID-19  vaccines;  pneumococcal  vaccines;  adult  tetanus,
+diphtheria,  and  pertussis  vaccines;  and  the  recombinant  zoster  vaccine  (the
+recombinant zoster vaccine and GSK’s RSV vaccine contains the same adjuvant). When
+deciding whether to coadminister other vaccines with an RSV vaccine, providers should
+consider whether the patient is up to date with currently recommended vaccines, the
+feasibility  of  the  patient  returning  for  additional  vaccine  doses,  risk  for  acquiring
+vaccine-preventable  disease,  vaccine  reactogenicity  profiles,  and  patient  preferences.
+Post-licensure  efficacy  and  safety  monitoring  of  coadministered  RSV  vaccines  with
+other vaccines will further direct guidance. References and Resources
+
+Source URL: https://www.cdc.gov/vaccines/vpd/rsv/hcp/older-adults.html

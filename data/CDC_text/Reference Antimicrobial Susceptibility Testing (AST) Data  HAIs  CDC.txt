@@ -1,0 +1,34 @@
+A .gov website belongs to an official government organization in the United States. A
+lock (  ) or https:// means you've safely connected to the .gov website. Share sensitive
+information only on official, secure websites. 
+Related Topics:
+ Access  downloadable  distributions  of  minimum  inhibitory  concentration  (MIC)  for
+bacteria and fungi.  CDC programs perform AST of bacterial and bloodstream Candida
+isolates  collected  in  surveillance  programs  and  isolates  submitted  to  CDC  from  the
+reference  laboratories  for  susceptibility  testing  because  of  unusual  resistance.  CDC
+laboratories  default  method  is  broth  microdilution  using  frozen  in-house  prepared
+panels  according  to  standards  established  by  the  Clinical  and  Laboratory  Standards
+Institute  (CLSI  Documents:  M7  for  bacteria;  M27  with  M60  for  Candida).  Etest  is  a
+reference  method  for  antifungal  susceptibility  to  amphotericin  B  in  accordance  with
+CLSI M-27e4. CDC is making these data available online for use in setting breakpoints
+for interpretation of antimicrobial susceptibility testing. The downloadable data contain
+tables and graphic representations that display minimum inhibitory concentration (MIC)
+distributions for various bacteria and Candida. We provide a description of the isolates
+tested  with  each  dataset.  CDC  will  continue  to  expand  this  database  to  include  data
+from  additional  bacterial  and  fungal  isolates  and  data  from  new  antimicrobial  drugs.
+MIC data for Neisseria gonorrhoeae isolates can be found on the CDC Division of STD
+Prevention (DSTDP) Gonococcal Isolate Surveillance Project (GISP) Profiles and Annual
+Reports.  Acinetobacter  Coagulase-negative  Staphylococci  (CNS)  Enterobacteriaceae
+Enterococcus  Pseudomonas  Staphylococcus  aureus  Candida  Description  of  AST  data
+specifics  Reference  AST  Data:  Supplementary  Information  If  the  MIC  values  are  not
+available or not determined within the they will appear in the dataset as one of these: If
+any of the above appear in the dataset, they should be interpreted as "not determined."
+
+Terms that require decoding: BAL = Bronchoalveolar lavage HAIs are associated with
+medical  devices,  complications  following  surgery,  transmission  between  patients  and
+healthcare  workers,  antibiotic  overuse,  and  more.  Languages  Language  Assistance
+Languages  Language Assistance 
+
+Source
+ URL:
+https://www.cdc.gov/healthcare-associated-infections/php/lab-resources/reference-ast-data.html

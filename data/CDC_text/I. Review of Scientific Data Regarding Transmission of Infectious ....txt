@@ -1,0 +1,1155 @@
+A .gov website belongs to an official government organization in the United States. A
+lock (  ) or https:// means you've safely connected to the .gov website. Share sensitive
+information  only  on  official,  secure  websites.  The  Guideline  for  Isolation  Precautions:
+Preventing Transmission of Infectious Agents in Healthcare Settings 2007 builds upon a
+series  of  isolation  and  infection  prevention  documents  promulgated  since  1970.   The
+previous documents are summarized and referenced in Table 1 and in Part I of the 1996
+Guideline for Isolation Precautions in Hospitals1. The objectives of this guideline are to
+This  guideline  is  designed  for  use  by  individuals  who  are  charged  with  administering
+infection control programs in hospitals and other healthcare settings. The information
+also  will  be  useful  for  other  healthcare  personnel,  healthcare  administrators,  and
+anyone needing information about infection control measures to prevent transmission
+of infectious agents. Commonly used abbreviations are provided in Abbreviations Used
+in the Guideline and terms used in the guideline are defined in the Glossary. Med-line
+and Pub Med were used to search for relevant studies published in English, focusing on
+those published since 1996. Much of the evidence cited for preventing transmission of
+infectious  agents  in  healthcare  settings  is  derived  from  studies  that  used
+"quasi-experimental designs", also referred to as nonrandomized, pre- post-intervention
+study  designs  2.  Although  these  types  of  studies  can  provide  valuable  information
+regarding  the  effectiveness  of  various  interventions,  several  factors  decrease  the
+certainty  of  attributing  improved  outcome  to  a  specific  intervention.  These  include:
+difficulties  in  controlling  for  important  confounding  variables;  the  use  of  multiple
+interventions  during  an  outbreak;  and  results  that  are  explained  by  the  statistical
+principle  of  regression  to  the  mean,  (e.g.,  improvement  over  time  without  any
+intervention) 3. Observational studies remain relevant and have been used to evaluate
+infection  control  interventions  4,  5.  The  quality  of  studies,  consistency  of  results  and
+correlation  with  results  from  randomized,  controlled  trials  when  available  were
+considered  during  the  literature  review  and  assignment  of  evidence-based  categories
+
+(See  Part  IV:  Recommendations)  to  the  recommendations  in  this  guideline.  Several
+authors  have  summarized  properties  to  consider  when  evaluating  studies  for  the
+purpose of determining if the results should change practice or in designing new studies
+2, 6, 7. This guideline contains four changes in terminology from the 1996 guideline:
+This guideline, like its predecessors, focuses primarily on interactions between patients
+and  healthcare  providers.  The  Guidelines  for  the  Prevention  of  MDRO  Infection  were
+published  separately  in  November  2006,  and  are  available  online  at  Management  of
+Multidrug-Resistant Organisms In Healthcare Settings. Several other HICPAC guidelines
+to  prevent  transmission  of  infectious  agents  associated  with  healthcare  delivery  are
+cited; e.g., Guideline for Hand Hygiene, Guideline for Environmental Infection Control,
+Guideline  for  Prevention  of  Healthcare-Associated  Pneumonia,  and  Guideline  for
+Infection Control in Healthcare Personnel 11, 14, 16, 17. In combination, these provide
+comprehensive guidance on the primary infection control measures for ensuring a safe
+environment for patients and healthcare personnel. This guideline does not discuss in
+detail  specialized  infection  control  issues  in  defined  populations  that  are  addressed
+elsewhere,  (e.g.,  Recommendations  for  Preventing  Transmission  of  Infections  among
+Chronic  Hemodialysis  Patients  ,  Guidelines  for  Preventing  the  Transmission  of
+Mycobacterium  tuberculosis  in  Health-Care  Facilities  2005,  Guidelines  for  Infection
+Control  in  Dental  Health-Care  Settings  and  Infection  Control  Recommendations  for
+Patients  with  Cystic  Fibrosis  12,  18-20.  An  exception  has  been  made  by  including
+abbreviated guidance for a Protective Environment used for allogeneic HSCT recipients
+because  components  of  the  Protective  Environment  have  been  more  completely
+defined  since  publication  of  the  Guidelines  for  Preventing  Opportunistic  Infections
+Among HSCT Recipients in 2000 and the Guideline for Environmental Infection Control
+in  Healthcare  Facilities  11,  15.  Transmission  of  infectious  agents  within  a  healthcare
+setting  requires  three  elements:  a  source  (or  reservoir)  of  infectious  agents,  a
+susceptible  host  with  a  portal  of  entry  receptive  to  the  agent,  and  a  mode  of
+
+transmission  for  the  agent.  This  section  describes  the  interrelationship  of  these
+elements in the epidemiology of HAIs. Infectious agents transmitted during healthcare
+derive  primarily  from  human  sources  but  inanimate  environmental  sources  also  are
+implicated  in  transmission.  Human  reservoirs  include  patients  20-28,  healthcare
+personnel  29-3517,  36-39,  and  household  members  and  other  visitors  40-45.  Such
+source  individuals  may  have  active  infections,  may  be  in  the  asymptomatic  and/or
+incubation  period  of  an  infectious  disease,  or  may  be  transiently  or  chronically
+colonized  with  pathogenic  microorganisms,  particularly  in  the  respiratory  and
+gastrointestinal tracts. The endogenous flora of patients (e.g., bacteria residing in the
+respiratory or gastrointestinal tract) also are the source of HAIs 46-54. Infection is the
+result of a complex interrelationship between a potential host and an infectious agent.
+Most of the factors that influence infection and the occurrence and severity of disease
+are  related  to  the  host.  However,  characteristics  of  the  host-agent  interaction  as  it
+relates  to  pathogenicity,  virulence  and  antigenicity  are  also  important,  as  are  the
+infectious dose, mechanisms of disease production and route of exposure 55. There is a
+spectrum  of  possible  outcomes  following  exposure  to  an  infectious  agent.  Some
+persons  exposed  to  pathogenic  microorganisms  never  develop  symptomatic  disease
+while others become severely ill and even die. Some individuals are prone to becoming
+transiently  or  permanently  colonized  but  remain  asymptomatic.  Still  others  progress
+from  colonization  to  symptomatic  disease  either  immediately  following  exposure,  or
+after a period of asymptomatic colonization. The immune state at the time of exposure
+to an infectious agent, interaction between pathogens, and virulence factors intrinsic to
+the  agent  are  important  predictors  of  an  individuals'  outcome.  Host  factors  such  as
+extremes
+ of
+ age
+ and
+ underlying
+ disease
+ (e.g.,
+ diabetes
+ 56,
+ 57),
+ human
+immunodeficiency  virus/acquired  immune  deficiency  syndrome  [HIV/AIDS]  58,  59,
+malignancy, and transplants 18, 60, 61 can increase susceptibility to infection as do a
+variety  of  medications  that  alter  the  normal  flora  (e.g.,  antimicrobial  agents,  gastric
+
+acid  suppressants,  corticosteroids,  antirejection  drugs,  antineoplastic  agents,  and
+immunosuppressive drugs). Surgical procedures and radiation therapy impair defenses
+of  the  skin  and  other  involved  organ  systems.  Indwelling  devices  such  as  urinary
+catheters,  endotracheal  tubes,  central  venous  and  arterial  catheters  62-64  and
+synthetic  implants  facilitate  development  of  HAIs  by  allowing  potential  pathogens  to
+bypass  local  defenses  that  would  ordinarily  impede  their  invasion  and  by  providing
+surfaces for development of biofilms that may facilitate adherence of microorganisms
+and  protect  from  antimicrobial  activity  65.  Some  infections  associated  with  invasive
+procedures result from transmission within the healthcare facility; others arise from the
+patient's  endogenous  flora  46-50.  High-risk  patient  populations  with  noteworthy  risk
+factors for infection are discussed further in Sections I.D, I.E., and I.F. Several classes of
+pathogens can cause infection, including bacteria, viruses, fungi, parasites, and prions.
+The modes of transmission vary by type of organism and some infectious agents may
+be  transmitted  by  more  than  one  route:  some  are  transmitted  primarily  by  direct  or
+indirect  contact,  (e.g.,  Herpes  simplex  virus  [HSV],  respiratory  syncytial  virus,
+Staphylococcus  aureus),  others  by  the  droplet,  (e.g.,  influenza  virus,  B.  pertussis)  or
+airborne  routes  (e.g.,  M.  tuberculosis).  Other  infectious  agents,  such  as  bloodborne
+viruses  (e.g.,  hepatitis  B  and  C  viruses  [HBV,  HCV]  and  HIV  are  transmitted  rarely  in
+healthcare settings, via percutaneous or mucous membrane exposure. Importantly, not
+all infectious agents are transmitted from person to person. These are distinguished in
+Appendix A. The three principal routes of transmission are summarized below. The most
+common  mode  of  transmission,  contact  transmission  is  divided  into  two  subgroups:
+direct  contact  and  indirect  contact.  I.B.3.a.i.  Direct  contact  transmission.  Direct
+transmission occurs when microorganisms are transferred from one infected person to
+another person without a contaminated intermediate object or person. Opportunities for
+direct  contact  transmission  between  patients  and  healthcare  personnel  have  been
+summarized in the Guideline for Infection Control in Healthcare Personnel, 1998 17 and
+
+include:  I.B.3.a.ii.  Indirect  contact  transmission.  Indirect  transmission  involves  the
+transfer of an infectious agent through a contaminated intermediate object or person.
+In  the  absence  of  a  point-source  outbreak,  it  is  difficult  to  determine  how  indirect
+transmission  occurs.  However,  extensive  evidence  cited  in  the  Guideline  for  Hand
+Hygiene  in  Health-Care  Settings  suggests  that  the  contaminated  hands  of  healthcare
+personnel are important contributors to indirect contact transmission 16. Examples of
+opportunities  for  indirect  contact  transmission  include:  Clothing,  uniforms,  laboratory
+coats,  or  isolation  gowns  used  as  personal  protective  equipment  (PPE),  may  become
+contaminated with potential pathogens after care of a patient colonized or infected with
+an infectious agent, (e.g., MRSA 88, VRE 89, and C. difficile 90. Although contaminated
+clothing has not been implicated directly in transmission, the potential exists for soiled
+garments  to  transfer  infectious  agents  to  successive  patients.  I.B.3.b.  Droplet
+transmission. Droplet transmission is, technically, a form of contact transmission, and
+some infectious agents transmitted by the droplet route also may be transmitted by the
+direct  and  indirect  contact  routes.  However,  in  contrast  to  contact  transmission,
+respiratory droplets carrying infectious pathogens transmit infection when they travel
+directly  from  the  respiratory  tract  of  the  infectious  individual  to  susceptible  mucosal
+surfaces of the recipient, generally over short distances, necessitating facial protection.
+Respiratory droplets are generated when an infected person coughs, sneezes, or talks
+91, 92 or during procedures such as suctioning, endotracheal intubation, 93-96, cough
+induction  by  chest  physiotherapy  97  and  cardiopulmonary  resuscitation  98,  99.
+Evidence  for  droplet  transmission  comes  from  epidemiological  studies  of  disease
+outbreaks  100-103,  experimental  studies  104  and  from  information  on  aerosol
+dynamics  91,  105.  Studies  have  shown  that  the  nasal  mucosa,  conjunctivae  and  less
+frequently the mouth, are susceptible portals of entry for respiratory viruses 106. The
+maximum distance for droplet transmission is currently unresolved, although pathogens
+transmitted by the droplet route have not been transmitted through the air over long
+
+distances, in contrast to the airborne pathogens discussed below. Historically, the area
+of  defined  risk  has  been  a  distance  of  ≤3  feet  around  the  patient  and  is  based  on
+epidemiologic and simulated studies of selected infections 103, 104. Using this distance
+for  donning  masks  has  been  effective  in  preventing  transmission  of  infectious  agents
+via  the  droplet  route.  However,  experimental  studies  with  smallpox  107,  108  and
+investigations during the global SARS outbreaks of 2003 101 suggest that droplets from
+patients with these two infections could reach persons located 6 feet or more from their
+source.  It  is  likely  that  the  distance  droplets  travel  depends  on  the  velocity  and
+mechanism by which respiratory droplets are propelled from the source, the density of
+respiratory  secretions,  environmental  factors  such  as  temperature  and  humidity,  and
+the  ability  of  the  pathogen  to  maintain  infectivity  over  that  distance  105.  Thus,  a
+distance of ≤3 feet around the patient is best viewed as an example of what is meant
+by "a short distance from a patient" and should not be used as the sole criterion for
+deciding when a mask should be donned to protect from droplet exposure. Based on
+these considerations, it may be prudent to don a mask when within 6 to 10 feet of the
+patient or upon entry into the patient's room, especially when exposure to emerging or
+highly virulent pathogens is likely. More studies are needed to improve understanding
+of  droplet  transmission  under  various  circumstances.  Droplet  size  is  another  variable
+under  discussion.  Droplets  traditionally  have  been  defined  as  being  >5  µm  in  size.
+Droplet  nuclei,  particles  arising  from  desiccation  of  suspended  droplets,  have  been
+associated with airborne transmission and defined as ≤5 µm in size,105 a reflection of
+the  pathogenesis  of  pulmonary  tuberculosis  which  is  not  generalizeable  to  other
+organisms.  Observations  of  particle  dynamics  have  demonstrated  that  a  range  of
+droplet sizes, including those with diameters of 30µm or greater, can remain suspended
+in the air 109. The behavior of droplets and droplet nuclei affect recommendations for
+preventing transmission. Whereas fine airborne particles containing pathogens that are
+able to remain infective may transmit infections over long distances, requiring AIIR to
+
+prevent its dissemination within a facility; organisms transmitted by the droplet route
+do  not  remain  infective  over  long  distances,  and  therefore  do  not  require  special  air
+handling  and  ventilation.  Examples  of  infectious  agents  that  are  transmitted  via  the
+droplet  route  include  Bordetella  pertussis  110,  influenza  virus  23,  adenovirus  111  ,
+rhinovirus 104, Mycoplasma pneumoniae 112, SARS-associated coronavirus (SARS-CoV)
+21,  96,  113,  group  A  streptococcus  114,  and  Neisseria  meningitidis  95,  103,  115.
+Although  respiratory  syncytial  virus  may  be  transmitted  by  the  droplet  route,  direct
+contact  with  infected  respiratory  secretions  is  the  most  important  determinant  of
+transmission and consistent adherence to Standard plus Contact Precautions prevents
+transmission  in  healthcare  settings  24,  116,  117.  Rarely,  pathogens  that  are  not
+transmitted  routinely  by  the  droplet  route  are  dispersed  into  the  air  over  short
+distances.  For  example,  although  S.  aureus  is  transmitted  most  frequently  by  the
+contact route, viral upper respiratory tract infection has been associated with increased
+dispersal  of  S.  aureus  from  the  nose  into  the  air  for  a  distance  of  4  feet  under  both
+outbreak  and  experimental  conditions  and  is  known  as  the  "cloud  baby"  and  "cloud
+adult"  phenomenon118-120.  I.B.3.c.  Airborne  transmission.  Airborne  transmission
+occurs  by  dissemination  of  either  airborne  droplet  nuclei  or  small  particles  in  the
+respirable size range containing infectious agents that remain infective over time and
+distance
+ (e.g.,
+ spores
+ of
+ Aspergillus
+ spp,
+ and
+ Mycobacterium
+ tuberculosis).
+Microorganisms  carried  in  this  manner  may  be  dispersed  over  long  distances  by  air
+currents and may be inhaled by susceptible individuals who have not had face-to-face
+contact  with  (or  been  in  the  same  room  with)  the  infectious  individual  121-124.
+Preventing the spread of pathogens that are transmitted by the airborne route requires
+the use of special air handling and ventilation systems (e.g., AIIRs) to contain and then
+safely  remove  the  infectious  agent  11,  12.  Infectious  agents  to  which  this  applies
+include  Mycobacterium  tuberculosis  124-127,  rubeola  virus  (measles)  122,  and
+varicella-zoster  virus  (chickenpox)  123.  In  addition,  published  data  suggest  the
+
+possibility that variola virus (smallpox) may be transmitted over long distances through
+the air under unusual circumstances and AIIRs are recommended for this agent as well;
+however, droplet and contact routes are the more frequent routes of transmission for
+smallpox 108, 128, 129. In addition to AIIRs, respiratory protection with NIOSH certified
+N95  or  higher  level  respirator  is  recommended  for  healthcare  personnel  entering  the
+AIIR to prevent acquisition of airborne infectious agents such as M. tuberculosis 12. For
+certain other respiratory infectious agents, such as influenza 130, 131 and rhinovirus
+104,  and  even  some  gastrointestinal  viruses  (e.g.,  norovirus  132  and  rotavirus  133  )
+there  is  some  evidence  that  the  pathogen  may  be  transmitted  via  small-particle
+aerosols,  under  natural  and  experimental  conditions.  Such  transmission  has  occurred
+over  distances  longer  than  3  feet  but  within  a  defined  airspace  (e.g.,  patient  room),
+suggesting that it is unlikely that these agents remain viable on air currents that travel
+long distances. AIIRs are not required routinely to prevent transmission of these agents.
+Additional issues concerning examples of small particle aerosol transmission of agents
+that are most frequently transmitted by the droplet route are discussed below. I.B.3.d.
+Emerging  issues  concerning  airborne  transmission  of  infectious  agents.  I.B.3.d.i.
+Transmission  from  patients.  The  emergence  of  SARS  in  2002,  the  importation  of
+monkeypox  into  the  United  States  in  2003,  and  the  emergence  of  avian  influenza
+present  challenges  to  the  assignment  of  isolation  categories  because  of  conflicting
+information and uncertainty about possible routes of transmission. Although SARS-CoV
+is transmitted primarily by contact and/or droplet routes, airborne transmission over a
+limited distance (e.g., within a room), has been suggested, though not proven 134-141.
+This is true of other infectious agents such as influenza virus 130 and noroviruses 132,
+142, 143. Influenza viruses are transmitted primarily by close contact with respiratory
+droplets  23,  102  and  acquisition  by  healthcare  personnel  has  been  prevented  by
+Droplet Precautions, even when positive pressure rooms were used in one center 144
+However, inhalational transmission could not be excluded in an outbreak of influenza in
+
+the passengers and crew of a single aircraft 130. Observations of a protective effect of
+UV lights in preventing influenza among patients with tuberculosis during the influenza
+pandemic  of  1957-'58  have  been  used  to  suggest  airborne  transmission  145,  146.  In
+contrast  to  the  strict  interpretation  of  an  airborne  route  for  transmission  (i.e.,  long
+distances beyond the patient room environment), short distance transmission by small
+particle  aerosols  generated  under  specific  circumstances  (e.g.,  during  endotracheal
+intubation) to persons in the immediate area near the patient has been demonstrated.
+Also, aerosolized particles <100 µm can remain suspended in air when room air current
+velocities  exceed  the  terminal  settling  velocities  of  the  particles  109.  SARS-CoV
+transmission  has  been  associated  with  endotracheal  intubation,  noninvasive  positive
+pressure ventilation, and cardio-pulmonary resuscitation 93, 94, 96, 98, 141. Although
+the  most  frequent  routes  of  transmission  of  noroviruses  are  contact  and  food  and
+waterborne  routes,  several  reports  suggest  that  noroviruses  may  be  transmitted
+through aerosolization of infectious particles from vomitus or fecal material 142, 143,
+147, 148. It is hypothesized that the aerosolized particles are inhaled and subsequently
+swallowed. Roy and Milton proposed a new classification for aerosol transmission when
+evaluating  routes  of  SARS  transmission:  This  conceptual  framework  can  explain  rare
+occurrences of airborne transmission of agents that are transmitted most frequently by
+other routes (e.g., smallpox, SARS, influenza, noroviruses). Concerns about unknown or
+possible routes of transmission of agents associated with severe disease and no known
+treatment often result in more extreme prevention strategies than may be necessary;
+therefore, recommended precautions could change as the epidemiology of an emerging
+infection is defined and controversial issues are resolved. I.B.3.d.ii. Transmission from
+the  environment.  Some  airborne  infectious  agents  are  derived  from  the  environment
+and do not usually involve person-to-person transmission. For example, anthrax spores
+present in a finely milled powdered preparation can be aerosolized from contaminated
+environmental  surfaces  and  inhaled  into  the  respiratory  tract  150,  151.  Spores  of
+
+environmental fungi (e.g., Aspergillus spp.) are ubiquitous in the environment and may
+cause  disease  in  immunocompromised  patients  who  inhale  aerosolized  (e.g.,  via
+construction  dust)  spores  152,  153.  As  a  rule,  neither  of  these  organisms  is
+subsequently
+ transmitted
+ from
+ infected
+ patients.
+ However,
+ there
+ is
+ one
+well-documented report of person-to-person transmission of Aspergillus sp. in the ICU
+setting  that  was  most  likey  due  to  the  aerosolization  of  spores  during  wound
+debridement  154.  A  Protective  Environment  refers  to  isolation  practices  designed  to
+decrease  the  risk  of  exposure  to  environmental  fungal  agents  in  allogeneic  HSCT
+patients  11,  14,  15,  155-158.  Environmental  sources  of  respiratory  pathogens  (eg.
+Legionella)  transmitted  to  humans  through  a  common  aerosol  source  is  distinct  from
+direct patient-to-patient transmission. I.B.3.e. Other sources of infection. Transmission
+of infection from sources other than infectious individuals include those associated with
+common  environmental  sources  or  vehicles  (e.g.,  contaminated  food,  water,  or
+medications  (e.g.,  intravenous  fluids).  Although  Aspergillus  spp.  have  been  recovered
+from
+ hospital
+ water
+ systems
+ 159,
+ the
+ role
+ of
+ water
+ as
+ a
+ reservoir
+ for
+immunosuppressed patients remains uncertain. Vectorborne transmission of infectious
+agents  from  mosquitoes,  flies,  rats,  and  other  vermin  also  can  occur  in  healthcare
+settings.  Prevention  of  vector  borne  transmission  is  not  addressed  in  this  document.
+Several infectious agents with important infection control implications that either were
+not discussed extensively in previous isolation guidelines or have emerged recently are
+discussed  below.  These  are  epidemiologically  important  organisms  (e.g.,  C.  difficile),
+agents
+ of
+ bioterrorism,
+ prions,
+ SARS-CoV,
+ monkeypox,
+ noroviruses,
+ and
+ the
+hemorrhagic  fever  viruses.  Experience  with  these  agents  has  broadened  the
+understanding  of  modes  of  transmission  and  effective  preventive  measures.  These
+agents  are  included  for  purposes  of  information  and,  for  some  (i.e.,  SARS-CoV,
+monkeypox),  because  of  the  lessons  that  have  been  learned  about  preparedness
+planning  and  responding  effectively  to  new  infectious  agents.  Any  infectious  agents
+
+transmitted in healthcare settings may, under defined conditions, become targeted for
+control  because  they  are  epidemiologically  important.  C.  difficile  is  specifically
+discussed  below  because  of  wide  recognition  of  its  current  importance  in  U.S.
+healthcare  facilities.  In  determining  what  constitutes  an  "epidemiologically  important
+organism",  the  following  characteristics  apply:  C.  difficile  is  a  spore-forming  gram
+positive anaerobic bacillus that was first isolated from stools of neonates in 1935 165
+and identified as the most commonly identified causative agent of antibiotic-associated
+diarrhea and pseudomembranous colitis in 1977 166. This pathogen is a major cause of
+healthcare-associated diarrhea and has been responsible for many large outbreaks in
+healthcare  settings  that  were  extremely  difficult  to  control.  Important  factors  that
+contribute  to  healthcare-associated  outbreaks  include  environmental  contamination,
+persistence  of  spores  for  prolonged  periods  of  time,  resistance  of  spores  to  routinely
+used  disinfectants  and  antiseptics,  hand  carriage  by  healthcare  personnel  to  other
+patients,  and  exposure  of  patients  to  frequent  courses  of  antimicrobial  agents  167  .
+Antimicrobials most frequently associated with increased risk of C. difficile include third
+generation cephalosporins, clindamycin, vancomycin, and fluoroquinolones. Since 2001,
+outbreaks and sporadic cases of C. difficile with increased morbidity and mortality have
+been observed in several U.S. states, Canada, England and the Netherlands 168-172.
+The same strain of C. difficile has been implicated in these outbreaks 173. This strain,
+toxinotype III, North American PFGE type 1, and PCR-ribotype 027 (NAP1/027) has been
+found  to  hyperproduce  toxin  A  (16  fold  increase)  and  toxin  B  (23  fold  increase)
+compared with isolates from 12 different pulsed-field gel electrophoresis PFGE types. A
+recent  survey  of  U.S.  infectious  disease  physicians  found  that  40%  perceived  recent
+increases  in  the  incidence  and  severity  of  C.  difficile  disease174.  Standardization  of
+testing methodology and surveillance definitions is needed for accurate comparisons of
+trends  in  rates  among  hospitals  175.  It  is  hypothesized  that  the  incidence  of  disease
+and apparent heightened transmissibility of this new strain may be due, at least in part,
+
+to  the  greater  production  of  toxins  A  and  B,  increasing  the  severity  of  diarrhea  and
+resulting  in  more  environmental  contamination.  Considering  the  greater  morbidity,
+mortality,  length  of  stay,  and  costs  associated  with  C.  difficile  disease  in  both  acute
+care and long term care facilities, control of this pathogen is now even more important
+than previously. Prevention of transmission focuses on syndromic application of Contact
+Precautions for patients with diarrhea, accurate identification of patients, environmental
+measures (e.g., rigorous cleaning of patient rooms) and consistent hand hygiene. Use of
+soap and water, rather than alcohol based handrubs, for mechanical removal of spores
+from  hands,  and  a  bleach-containing  disinfectant  (5000  ppm)  for  environmental
+disinfection,  may  be  valuable  when  there  is  transmission  in  a  healthcare  facility.  See
+Appendix  A  for  specific  recommendations.  In  general,  MDROs  are  defined  as
+microorganisms – predominantly bacteria – that are resistant to one or more classes of
+antimicrobial agents176. Although the names of certain MDROs suggest resistance to
+only  one  agent  (e.g.,  methicillin-resistant  Staphylococcus  aureus  [MRSA],  vancomycin
+resistant  enterococcus  [VRE]),  these  pathogens  are  usually  resistant  to  all  but  a  few
+commercially available antimicrobial agents. This latter feature defines MDROs that are
+considered  to  be  epidemiologically  important  and  deserve  special  attention  in
+healthcare  facilities177.  Other  MDROs  of  current  concern  include  multidrug-resistant
+Streptococcus  pneumoniae  (MDRSP)  which  is  resistant  to  penicillin  and  other
+broad-spectrum  agents  such  as  macrolides  and  fluroquinolones,  multidrug-resistant
+gram-negative  bacilli  (MDR-  GNB),  especially  those  producing  extended  spectrum
+beta-lactamases (ESBLs); and strains of S. aureus that are intermediate or resistant to
+vancomycin  (i.e.,  VISA  and  VRSA)178-197  198.  MDROs  are  transmitted  by  the  same
+routes as antimicrobial susceptible infectious agents. Patient-to-patient transmission in
+healthcare settings, usually via hands of HCWs, has been a major factor accounting for
+the increase in MDRO incidence and prevalence, especially for MRSA and VRE in acute
+care facilities199-201. Preventing the emergence and transmission of these pathogens
+
+requires  a  comprehensive  approach  that  includes  administrative  involvement  and
+measures  (e.g.,  nurse  staffing,  communication  systems,  performance  improvement
+processes to ensure adherence to recommended infection control measures), education
+and  training  of  medical  and  other  healthcare  personnel,  judicious  antibiotic  use,
+comprehensive  surveillance  for  targeted  MDROs,  application  of  infection  control
+precautions  during  patient  care,  environmental  measures  (e.g.,  cleaning  and
+disinfection
+ of
+ the
+ patient
+ care
+ environment
+ and
+ equipment,
+ dedicated
+single-patient-use  of  non-critical  equipment),  and  decolonization  therapy  when
+appropriate.  The  prevention  and  control  of  MDROs  is  a  national  priority  –  one  that
+requires that all healthcare facilities and agencies assume responsibility and participate
+in  community-wide  control  programs176,  177.  A  detailed  discussion  of  this  topic  and
+recommendations for prevention was published in 2006 may be found at Management
+of  Multidrug-Resistant  Organisms  in  Healthcare  Settings  (2006).  CDC  has  designated
+the agents that cause anthrax, smallpox, plague, tularemia, viral hemorrhagic fevers,
+and  botulism  as  Category  A  (high  priority)  because  these  agents  can  be  easily
+disseminated  environmentally  and/or  transmitted  from  person  to  person;  can  cause
+high mortality and have the potential for major public health impact; might cause public
+panic
+ and
+ social
+ disruption;
+ and
+ require
+ special
+ action
+ for
+ public
+ health
+preparedness202.  General  information  relevant  to  infection  control  in  healthcare
+settings for Category A agents of bioterrorism is summarized in Table 3. Consult [This
+link  is  no  longer  active:  www.bt.cdc.gov.  Similar  information  may  be  found  at  CDC
+Emergency  Preparedness  and  Response:  Bioterrorism  Accessed  May  2016.]  for
+additional,  updated  Category  A  agent  information  as  well  as  information  concerning
+Category  B  and  C  agents  of  bioterrorism  and  updates.  Category  B  and  C  agents  are
+important but are not as readily disseminated and cause less morbidity and mortality
+than  Category  A  agents.  Healthcare  facilities  confront  a  different  set  of  issues  when
+dealing  with  a  suspected  bioterrorism  event  as  compared  with  other  communicable
+
+diseases.  An  understanding  of  the  epidemiology,  modes  of  transmission,  and  clinical
+course of each disease, as well as carefully drafted plans that provide an approach and
+relevant  websites  and  other  resources  for  disease-specific  guidance  to  healthcare,
+administrative, and support personnel, are essential for responding to and managing a
+bioterrorism  event.  Infection  control  issues  to  be  addressed  include:  The  response  is
+likely  to  differ  for  exposures  resulting  from  an  intentional  release  compared  with
+naturally occurring disease because of the large number persons that can be exposed
+at the same time and possible differences in pathogenicity. A variety of sources offer
+guidance  for  the  management  of  persons  exposed  to  the  most  likely  agents  of
+bioterrorism.  Federal  agency  websites  (e.g.,  [This  link  is  no  longer  active:
+www.usamriid.army.mil/publications/index.html.  Similar  information  may  be  found  at
+USAMRIID: Biodefense Solutions to Protect our Nation Accessed May 2016.], [This link is
+no longer active: www.bt.cdc.gov. Similar information may be found at CDC Emergency
+Preparedness and Response: Bioterrorism Accessed May 2016.]). and state and county
+health department web sites should be consulted for the most up-to-date information.
+Sources  of  information  on  specific  agents  include:  anthrax  203;  smallpox  204-206;
+plague 207, 208; botulinum toxin 209; tularemia 210; and hemorrhagic fever viruses:
+211, 212. Vaccination of personnel in preparation for a possible smallpox exposure has
+important infection control implications 213-215. These include the need for meticulous
+screening for vaccine contraindications in persons who are at increased risk for adverse
+vaccinia  events;  containment  and  monitoring  of  the  vaccination  site  to  prevent
+transmission in the healthcare setting and at home; and the management of patients
+with vaccinia-related adverse events 216, 217. The pre-event U.S. smallpox vaccination
+program  of  2003  is  an  example  of  the  effectiveness  of  carefully  developed
+recommendations  for  both  screening  potential  vaccinees  for  contraindications  and
+vaccination  site  care  and  monitoring.  Approximately  760,000  individuals  were
+vaccinated  in  the  Department  of  Defense  and  40,000  in  the  civilian  or  public  health
+
+populations  from  December  2002  to  February  2005,  including  approximately  70,000
+who  worked  in  healthcare  settings.  There  were  no  cases  of  eczema  vaccinatum,
+progressive  vaccinia,  fetal  vaccinia,  or  contact  transfer  of  vaccinia  in  healthcare
+settings or in military workplaces 218, 219. Outside the healthcare setting, there were
+53  cases  of  contact  transfer  from  military  vaccinees  to  close  personal  contacts  (e.g.,
+bed  partners  or  contacts  during  participation  in  sports  such  as  wrestling  220).  All
+contact  transfers  were  from  individuals  who  were  not  following  recommendations  to
+cover  their  vaccination  sites.  Vaccinia  virus  was  confirmed  by  culture  or  PCR  in  30
+cases,  and  two  of  the  confirmed  cases  resulted  from  tertiary  transfer.  All  recipients,
+including  one  breast-fed  infant,  recovered  without  complication.  Subsequent  studies
+using  viral  culture  and  PCR  techniques  have  confirmed  the  effectiveness  of
+semipermeable dressings to contain vaccinia 221-224. This experience emphasizes the
+importance  of  ensuring  that  newly  vaccinated  healthcare  personnel  adhere  to
+recommended vaccination-site care, especially if they are to care for high-risk patients.
+Recommendations  for  pre-event  smallpox  vaccination  of  healthcare  personnel  and
+vaccinia-related  infection  control  recommendations  are  published  in  the  MMWR  216,
+225  with  updates  posted  on  the  CDC  bioterrorism  web  site  205.  Creutzfeldt-Jakob
+disease (CJD) is a rapidly progressive, degenerative, neurologic disorder of humans with
+an  incidence  in  the  United  States  of  approximately  1  person/million  population/year
+226,  227  (Creutzfeldt-Jakob  Disease,  Classic  (CJD)  [Current  version  of  this  document
+may  differ  from  original.]).  CJD  is  believed  to  be  caused  by  a  transmissible
+proteinaceous  infectious  agent  termed  a  prion.  Infectious  prions  are  isoforms  of  a
+host-encoded glycoprotein known as the prion protein. The incubation period (i.e., time
+between  exposure  and  and  onset  of  symptoms)  varies  from  two  years  to  many
+decades.  However,  death  typically  occurs  within  1  year  of  the  onset  of  symptoms.
+Approximately  85%  of  CJD  cases  occur  sporadically  with  no  known  environmental
+source  of  infection  and  10%  are  familial.  Iatrogenic  transmission  has  occurred  with
+
+most resulting from treatment with human cadaveric pituitary-derived growth hormone
+or gonadotropin 228, 229, from implantation of contaminated human dura mater grafts
+230  or  from  corneal  transplants  231).  Transmission  has  been  linked  to  the  use  of
+contaminated
+ neurosurgical
+ instruments
+ or
+ stereotactic
+ electroencephalogram
+electrodes 232, 233 , 234 , 235. Prion diseases in animals include scrapie in sheep and
+goats,  bovine  spongiform  encephalopathy  (BSE,  or  "mad  cow  disease")  in  cattle,  and
+chronic  wasting  disease  in  deer  and  elk  236.  BSE,  first  recognized  in  the  United
+Kingdom  (UK)  in  1986,  was  associated  with  a  major  epidemic  among  cattle  that  had
+consumed  contaminated  meat  and  bone  meal.  The  possible  transmission  of  BSE  to
+humans causing variant CJD (vCJD) was first described in 1996 and subsequently found
+to be associated with consumption of BSE-contaminated cattle products primarily in the
+United  Kingdom.  There  is  strong  epidemiologic  and  laboratory  evidence  for  a  causal
+association between the causative agent of BSE and vCJD 237. Although most cases of
+vCJD  have  been  reported  from  the  UK,  a  few  cases  also  have  been  reported  from
+Europe, Japan, Canada, and the United States. Most vCJD cases worldwide lived in or
+visited  the  UK  during  the  years  of  a  large  outbreak  of  BSE  (1980-96)  and  may  have
+consumed  contaminated  cattle  products  during  that  time  (Creutzfeldt-Jakob  Disease,
+Classic  (CJD)  [Current  version  of  this  document  may  differ  from  original.]).  Although
+there  has  been  no  indigenously  acquired  vCJD  in  the  United  States,  the  sporadic
+occurrence  of  BSE  in  cattle  in  North  America  has  heightened  awareness  of  the
+possibility  that  such  infections  could  occur  and  have  led  to  increased  surveillance
+activities.
+ Updated
+ information
+ may
+ be
+ found
+ on
+ the
+ following
+ website:
+Creutzfeldt-Jakob  Disease,  Classic  (CJD)  [Current  version  of  this  document  may  differ
+from original.]. The public health impact of prion diseases has been reviewed 238. vCJD
+in humans has different clinical and pathologic characteristics from sporadic or classic
+CJD 239, including the following: Similar to sporadic CJD, there have been no reported
+cases  of  direct  human-to-human  transmission  of  vCJD  by  casual  or  environmental
+
+contact, droplet, or airborne routes. Ongoing blood safety surveillance in the U.S. has
+not  detected  sporadic  CJD  transmission  through  blood  transfusion  241-243.  However,
+bloodborne transmission of vCJD is believed to have occurred in two UK patients 244,
+245. The following FDA websites provide information on steps that are being taken in
+the  US  to  protect  the  blood  supply  from  CJD  and  vCJD:  [This  link  is  no  longer  active:
+http://www.fda.gov/cber/gdlns/cjdvcjd.htm.  Similar  information  may  be  found  at
+Guidance for Industry: Revised Preventive Measuresexternal icon, accessed May 2016.];
+[This  link  is  no  longer  active:  http://www.fda.gov/cber/gdlns/cjdvcjdq&a.htm.  Similar
+information may be found at Questions and Answers on Guidance for Industry: Revised
+Preventive Measuresexternal icon, accessed May 2016.]. Standard Precautions are used
+when  caring  for  patients  with  suspected  or  confirmed  CJD  or  vCJD.  However,  special
+precautions  are  recommended  for  tissue  handling  in  the  histology  laboratory  and  for
+conducting  an  autopsy,  embalming,  and  for  contact  with  a  body  that  has  undergone
+autopsy  246.  Recommendations  for  reprocessing  surgical  instruments  to  prevent
+transmission  of  CJD  in  healthcare  settings  have  been  published  by  the  World  Health
+Organization  (WHO)  and  are  currently  under  review  at  CDC.  Questions  concerning
+notification  of  patients  potentially  exposed  to  CJD  or  vCJD  through  contaminated
+instruments and blood products from patients with CJD or vCJD or at risk of having vCJD
+may  arise.  The  risk  of  transmission  associated  with  such  exposures  is  believed  to  be
+extremely low but may vary based on the specific circumstance. Therefore consultation
+on  appropriate  options  is  advised.  The  United  Kingdom  has  developed  several
+documents that clinicians and patients in the US may find useful ([This link is no longer
+active:
+ http://www.hpa.org.uk/
+ infections/topics_az/cjd/information_documents.htm.
+Similar  information  may  be  found  at  Health  Protection  Agency:  Creutzfeldt-Jakob
+Disease  (CJD)external  icon,  accessed  May  2016.]).  SARS  is  a  newly  discovered
+respiratory disease that emerged in China late in 2002 and spread to several countries
+135,  140;  Mainland  China,  Hong  Kong,  Hanoi,  Singapore,  and  Toronto  were  affected
+
+significantly. SARS is caused by SARS CoV, a previously unrecognized member of the
+coronavirus  family  247,  248.  The  incubation  period  from  exposure  to  the  onset  of
+symptoms is 2 to 7 days but can be as long as 10 days and uncommonly even longer
+249.  The  illness  is  initially  difficult  to  distinguish  from  other  common  respiratory
+infections.  Signs  and  symptoms  usually  include  fever  >38.0°C  and  chills  and  rigors,
+sometimes  accompanied  by  headache,  myalgia,  and  mild  to  severe  respiratory
+symptoms. Radiographic finding of atypical pneumonia is an important clinical indicator
+of  possible  SARS.  Compared  with  adults,  children  have  been  affected  less  frequently,
+have milder disease, and are less likely to transmit SARS-CoV 135, 249-251. The overall
+case fatality rate is approximately 6.0%; underlying disease and advanced age increase
+the  risk  of  mortality  (WHO  Update  49  –  SARS  case  fatality  ratio,  incubation
+periodexternal  icon).  Outbreaks  in  healthcare  settings,  with  transmission  to  large
+numbers  of  healthcare  personnel  and  patients  have  been  a  striking  feature  of  SARS;
+undiagnosed,  infectious  patients  and  visitors  were  important  initiators  of  these
+outbreaks 21, 252-254. The relative contribution of potential modes of transmission is
+not precisely known. There is ample evidence for droplet and contact transmission 96,
+101,  113;  however,  opportunistic  airborne  transmission  cannot  be  excluded  101,
+135-139,  149,  255.  For  example,  exposure  to  aerosol-generating  procedures  (e.g.,
+endotracheal  intubation,  suctioning)  was  associated  with  transmission  of  infection  to
+large  numbers  of  healthcare  personnel  outside  of  the  United  States  93,  94,  96,  98,
+253.Therefore, aerosolization of small infectious particles generated during these and
+other  similar  procedures  could  be  a  risk  factor  for  transmission  to  others  within  a
+multi-bed  room  or  shared  airspace.  A  review  of  the  infection  control  literature
+generated  from  the  SARS  outbreaks  of  2003  concluded  that  the  greatest  risk  of
+transmission  is  to  those  who  have  close  contact,  are  not  properly  trained  in  use  of
+protective  infection  control  procedures,  do  not  consistently  use  PPE;  and  that  N95  or
+higher  respirators  may  offer  additional  protection  to  those  exposed  to  aerosol-
+
+generating procedures and high risk activities 256, 257. Organizational and individual
+factors  that  affected  adherence  to  infection  control  practices  for  SARS  also  were
+identified 257. Control of SARS requires a coordinated, dynamic response by multiple
+disciplines  in  a  healthcare  setting  9.  Early  detection  of  cases  is  accomplished  by
+screening persons with symptoms of a respiratory infection for history of travel to areas
+experiencing  community  transmission  or  contact  with  SARS  patients,  followed  by
+implementation of Respiratory Hygiene/Cough Etiquette (i.e., placing a mask over the
+patient's  nose  and  mouth)  and  physical  separation  from  other  patients  in  common
+waiting areas.The precise combination of precautions to protect healthcare personnel
+has not been determined. At the time of this publication, CDC recommends Standard
+Precautions,  with  emphasis  on  the  use  of  hand  hygiene,  Contact  Precautions  with
+emphasis on environmental cleaning due to the detection of SARS CoV RNA by PCR on
+surfaces  in  rooms  occupied  by  SARS  patients  138,  254,  258,  Airborne  Precautions,
+including  use  of  fit-tested  NIOSH-approved  N95  or  higher  level  respirators,  and  eye
+protection  259.  In  Hong  Kong,  the  use  of  Droplet  and  Contact  Precautions,  which
+included  use  of  a  mask  but  not  a  respirator,  was  effective  in  protecting  healthcare
+personnel113.  However,  in  Toronto,  consistent  use  of  an  N95  respirator  was  slightly
+more  protective  than  a  mask  93.  It  is  noteworthy  that  there  was  no  transmission  of
+SARS-CoV  to  public  hospital  workers  in  Vietnam  despite  inconsistent  use  of  infection
+control measures, including use of PPE, which suggests other factors (e.g., severity of
+disease,  frequency  of  high  risk  procedures  or  events,  environmental  features)  may
+influence  opportunities  for  transmission  260.  SARS-CoV  also  has  been  transmitted  in
+the  laboratory  setting  through  breaches  in  recommended  laboratory  practices.
+Research  laboratories  where  SARS-CoV  was  under  investigation  were  the  source  of
+most cases reported after the first series of outbreaks in the winter and spring of 2003
+261, 262. Studies of the SARS outbreaks of 2003 and transmissions that occurred in the
+laboratory  re-affirm  the  effectiveness  of  recommended  infection  control  precautions
+
+and highlight the importance of consistent adherence to these measures. Lessons from
+the  SARS  outbreaks  are  useful  for  planning  to  respond  to  future  public  health  crises,
+such  as  pandemic  influenza  and  bioterrorism  events.  Surveillance  for  cases  among
+patients  and  healthcare  personnel,  ensuring  availability  of  adequate  supplies  and
+staffing,  and  limiting  access  to  healthcare  facilities  were  important  factors  in  the
+response  to  SARS  that  have  been  summarized  9.  Guidance  for  infection  control
+precautions  in  various  settings  is  available  at  [This  link  is  no  longer  active:
+www.cdc.gov/ncidod/sars.  Similar  information  may  be  found  at  CDC  Severe  Acute
+Respiratory Syndrome (SARS), accessed May 2016.]. Monkeypox is a rare viral disease
+found  mostly  in  the  rain  forest  countries  of  Central  and  West  Africa.  The  disease  is
+caused  by  an  orthopoxvirus  that  is  similar  in  appearance  to  smallpox  but  causes  a
+milder disease. The only recognized outbreak of human monkeypox in the United States
+was detected in June 2003 after several people became ill following contact with sick
+pet prairie dogs. Infection in the prairie dogs was subsequently traced to their contact
+with a shipment of animals from Africa, including giant Gambian rats 263. This outbreak
+demonstrates the importance of recognition and prompt reporting of unusual disease
+presentations  by  clinicians  to  enable  prompt  identification  of  the  etiology;  and  the
+potential  of  epizootic  diseases  to  spread  from  animal  reservoirs  to  humans  through
+personal and occupational exposure 264. Limited data on transmission of monkeypox
+are  available.  Transmission  from  infected  animals  and  humans  is  believed  to  occur
+primarily  through  direct  contact  with  lesions  and  respiratory  secretions;  airborne
+transmission from animals to humans is unlikely but cannot be excluded, and may have
+occurred in veterinary practices (e.g., during administration of nebulized medications to
+ill prairie dogs 265). Among humans, four instances of monkeypox transmission within
+hospitals have been reported in Africa among children, usually related to sharing the
+same  ward  or  bed  266,  267.  Additional  recent  literature  documents  transmission  of
+Congo  Basin  monkeypox  in  a  hospital  compound  for  an  extended  number  of
+
+generations 268. There has been no evidence of airborne or any other person-to-person
+transmission of monkeypox in the United States, and no new cases of monkeypox have
+been identified since the outbreak in June 2003 269. The outbreak strain is a clade of
+monkeypox distinct from the Congo Basin clade and may have different epidemiologic
+properties (including human-to-human transmission potential) from monkeypox strains
+of the Congo Basin 270; this awaits further study. Smallpox vaccine is 85% protective
+against Congo Basin monkeypox 271. Since there is an associated case fatality rate of
+≤10%,  administration  of  smallpox  vaccine  within  4  days  to  individuals  who  have  had
+direct  exposure  to  patients  or  animals  with  monkeypox  is  a  reasonable  consideration
+272.  For  the  most  current  information,  see  CDC  Monkeypox  [Current  version  of  this
+document may differ from original.]. Noroviruses, formerly referred to as Norwalk-like
+viruses,  are  members  of  the  Caliciviridae  family.  These  agents  are  transmitted  via
+contaminated food or water and from person-to-person, causing explosive outbreaks of
+gastrointestinal disease 273. Environmental contamination also has been documented
+as a contributing factor in ongoing transmission during outbreaks 274, 275. Although
+noroviruses  cannot  be  propagated  in  cell  culture,  DNA  detection  by  molecular
+diagnostic techniques has facilitated a greater appreciation of their role in outbreaks of
+gastrointestinal  disease  276.  Reported  outbreaks  in  hospitals  132,  142,  277,  nursing
+homes  275,  278-283,  cruise  ships  284,  285,  hotels  143,  147,  schools  148,  and  large
+crowded  shelters  established  for  hurricane  evacuees  286,  demonstrate  their  highly
+contagious  nature,  the  disruptive  impact  they  have  in  healthcare  facilities  and  the
+community, and the difficulty of controlling outbreaks in settings where people share
+common  facilites  and  space.  Of  note,  there  is  nearly  a  5  fold  increase  in  the  risk  to
+patients  in  outbreaks  where  a  patient  is  the  index  case  compared  with  exposure  of
+patients  during  outbreaks  where  a  staff  member  is  the  index  case  287.  The  average
+incubation  period  for  gastroenteritis  caused  by  noroviruses  is  12-48  hours  and  the
+clinical course lasts 12-60 hours 273. Illness is characterized by acute onset of nausea,
+
+vomiting, abdominal cramps, and/or diarrhea. The disease is largely self-limited; rarely,
+death  caused  by  severe  dehydration  can  occur,  particularly  among  the  elderly  with
+debilitating health conditions. The epidemiology of norovirus outbreaks shows that even
+though  primary  cases  may  result  from  exposure  to  a  fecally-contaminated  food  or
+water,  secondary  and  tertiary  cases  often  result  from  person-to-person  transmission
+that is facilitated by contamination of fomites 273, 288 and dissemination of infectious
+particles, especially during the process of vomiting 132, 142, 143, 147, 148, 273, 279,
+280.  Widespread,  persistent  and  inapparent  contamination  of  the  environment  and
+fomites can make outbreaks extremely difficult to control 147, 275, 284.These clinical
+observations  and  the  detection  of  norovirus  DNA  on  horizontal  surfaces  5  feet  above
+the  level  that  might  be  touched  normally  suggest  that,  under  certain  circumstances,
+aerosolized  particles  may  travel  distances  beyond  3  feet  147.  It  is  hypothesized  that
+infectious  particles  may  be  aerosolized  from  vomitus,  inhaled,  and  swallowed.  In
+addition,  individuals  who  are  responsible  for  cleaning  the  environment  may  be  at
+increased risk of infection. Development of disease and transmission may be facilitated
+by the low infectious dose (i.e., <100 viral particles) 289 and the resistance of these
+viruses  to  the  usual  cleaning  and  disinfection  agents  (i.e.,  may  survive  ≤10  ppm
+chlorine) 290-292. An alternate phenolic agent that was shown to be effective against
+feline calicivirus was used for environmental cleaning in one outbreak 275, 293. There
+are  insufficient  data  to  determine  the  efficacy  of  alcohol-based  hand  rubs  against
+noroviruses  when  the  hands  are  not  visibly  soiled  294.  Absence  of  disease  in  certain
+individuals during an outbreak may be explained by protection from infection conferred
+by the B histo-blood group antigen 295. Consultation on outbreaks of gastroenteritis is
+available through CDC's Division of Viral and Rickettsial Diseases 296. The hemorrhagic
+fever viruses are a mixed group of viruses that cause serious disease with high fever,
+skin rash, bleeding diathesis, and in some cases, high mortality; the disease caused is
+referred to as viral hemorrhagic fever (VHF). Among the more commonly known HFVs
+
+are Ebola and Marburg viruses (Filoviridae), Lassa virus (Arenaviridae), Crimean-Congo
+hemorrhagic fever and Rift Valley Fever virus (Bunyaviridae), and Dengue and Yellow
+fever  viruses  (Flaviviridae)  212,  297.  These  viruses  are  transmitted  to  humans  via
+contact with infected animals or via arthropod vectors. While none of these viruses is
+endemic  in  the  United  States,  outbreaks  in  affected  countries  provide  potential
+opportunities for importation by infected humans and animals. Furthermore, there are
+concerns  that  some  of  these  agents  could  be  used  as  bioweapons  212.
+Person-to-person  transmission  is  documented  for  Ebola,  Marburg,  Lassa  and
+Crimean-Congo  hemorrhagic  fever  viruses.  In  resource-limited  healthcare  settings,
+transmission  of  these  agents  to  healthcare  personnel,  patients  and  visitors  has  been
+described  and  in  some  outbreaks  has  accounted  for  a  large  proportion  of  cases
+298-300.  Transmissions  within  households  also  have  occurred  among  individuals  who
+had  direct  contact  with  ill  persons  or  their  body  fluids,  but  not  to  those  who  did  not
+have  such  contact  301.  Evidence  concerning  the  transmission  of  HFVs  has  been
+summarized 212, 302. Person-to-person transmission is associated primarily with direct
+blood and body fluid contact. Percutaneous exposure to contaminated blood carries a
+particularly high risk for transmission and increased mortality 303, 304. The finding of
+large numbers of Ebola viral particles in the skin and the lumina of sweat glands has
+raised concern that transmission could occur from direct contact with intact skin though
+epidemiologic evidence to support this is lacking 305. Postmortem handling of infected
+bodies is an important risk for transmission 301, 306, 307. In rare situations, cases in
+which  the  mode  of  transmission  was  unexplained  among  individuals  with  no  known
+direct contact , have led to speculation that airborne transmission could have occurred
+298.  However,  airborne  transmission  of  naturally  occurring  HFVs  in  humans  has  not
+been seen. In one study of airplane passengers exposed to an in-flight index case of
+Lassa fever, there was no transmission to any passengers308. In the laboratory setting,
+animals  have  been  infected  experimentally  with  Marburg  or  Ebola  viruses  via  direct
+
+inoculation of the nose, mouth and/or conjunctiva 309, 310 and by using mechanically
+generated  virus-containing  aerosols  311,  312.  Transmission  of  Ebola  virus  among
+laboratory primates in an animal facility has been described 313. Secondarily infected
+animals were in individual cages and separated by approximately 3 meters. Although
+the  possibility  of  airborne  transmission  was  suggested,  the  authors  were  not  able  to
+exclude droplet or indirect contact transmission in this incidental observation. Guidance
+on  infection  control  precautions  for  HVFs  that  are  transmitted  person-to-person  have
+been published by CDC 1, 211 and by the Johns Hopkins Center for Civilian Biodefense
+Strategies  212.  The  most  recent  recommendations  at  the  time  of  publication  of  this
+document were posted on the CDC website on 5/19/05 314. Inconsistencies among the
+various recommendations have raised questions about the appropriate precautions to
+use  in  U.S.  hospitals.  In  less  developed  countries,  outbreaks  of  HFVs  have  been
+controlled  with  basic  hygiene,  barrier  precautions,  safe  injection  practices,  and  safe
+burial  practices  299,  306.  The  preponderance  of  evidence  on  HFV  transmission
+indicates  that  Standard,  Contact  and  Droplet  Precautions  with  eye  protection  are
+effective  in  protecting  healthcare  personnel  and  visitors  who  may  attend  an  infected
+patient. Single gloves are adequate for routine patient care; double-gloving is advised
+during  invasive  procedures  (e.g.,  surgery)  that  pose  an  increased  risk  for  blood
+exposure. Routine eye protection (i.e. goggles or face shield) is particularly important.
+Fluid-resistant gowns should be worn for all patient contact. Airborne Precautions are
+not required for routine patient care; however, use of AIIRs is prudent when procedures
+that  could  generate  infectious  aerosols  are  performed  (e.g.,  endotracheal  intubation,
+bronchoscopy, suctioning, autopsy procedures involving oscillating saws). N95 or higher
+level  respirators  may  provide  added  protection  for  individuals  in  a  room  during
+aerosol-generating procedures (Table 3, Appendix A). When a patient with a syndrome
+consistent  with  hemorrhagic  fever  also  has  a  history  of  travel  to  an  endemic  area,
+precautions are initiated upon presentation and then modified as more information is
+
+obtained  (Table  2).  Patients  with  hemorrhagic  fever  syndrome  in  the  setting  of  a
+suspected bioweapon attack should be managed using Airborne Precautions, including
+AIIRs,  since  the  epidemiology  of  a  potentially  weaponized  hemorrhagic  fever  virus  is
+unpredictable. Numerous factors influence differences in transmission risks among the
+various  healthcare  settings.  These  include  the  population  characteristics  (e.g.,
+increased  susceptibility  to  infections,  type  and  prevalence  of  indwelling  devices),
+intensity of care, exposure to environmental sources, length of stay, and frequency of
+interaction between patients/residents with each other and with HCWs. These factors,
+as  well  as  organizational  priorities,  goals,  and  resources,  influence  how  different
+healthcare  settings  adapt  transmission  prevention  guidelines  to  meet  their  specific
+needs  315,  316.  Infection  control  management  decisions  are  informed  by  data
+regarding institutional experience/epidemiology, trends in community and institutional
+HAIs,  local,  regional,  and  national  epidemiology,  and  emerging  infectious  disease
+threats.  Infection  transmission  risks  are  present  in  all  hospital  settings.  However,
+certain  hospital  settings  and  patient  populations  have  unique  conditions  that
+predispose  patients  to  infection  and  merit  special  mention.  These  are  often  sentinel
+sites for the emergence of new transmission risks that may be unique to that setting or
+present opportunities for transmission to other settings in the hospital. Intensive care
+units  (ICUs)  serve  patients  who  are  immunocompromised  by  disease  state  and/or  by
+treatment  modalities,  as  well  as  patients  with  major  trauma,  respiratory  failure  and
+other  life-threatening  conditions  (e.g.,  myocardial  infarction,  congestive  heart  failure,
+overdoses, strokes, gastrointestinal bleeding, renal failure, hepatic failure, multi-organ
+system failure, and the extremes of age). Although ICUs account for a relatively small
+proportion  of  hospitalized  patients,  infections  acquired  in  these  units  accounted  for
+>20% of all HAIs 317. In the National Nosocomial Infection Surveillance (NNIS) system,
+26.6%  of  HAIs  were  reported  from  ICU  and  high  risk  nursery  (NICU)  patients  in  2002
+(NNIS,  unpublished  data).  This  patient  population  has  increased  susceptibility  to
+
+colonization and infection, especially with MDROs and Candida sp. 318, 319, because of
+underlying diseases and conditions, the invasive medical devices and technology used
+in their care (e.g., central venous catheters and other intravascular devices, mechanical
+ventilators,  extracorporeal  membrane  oxygenation  (ECMO),  hemodialysis/-filtration,
+pacemakers, implantable left ventricular assist devices), the frequency of contact with
+healthcare  personnel,  prolonged  length  of  stay,  and  prolonged  exposure  to
+antimicrobial  agents  320-331.  Furthermore,  adverse  patient  outcomes  in  this  setting
+are more severe and are associated with a higher mortality 332. Outbreaks associated
+with  a  variety  of  bacterial,  fungal  and  viral  pathogens  due  to  common-source  and
+person-to-person  transmissions  are  frequent  in  adult  and  pediatric  ICUs  31,  333-336,
+337&, 338. Burn wounds can provide optimal conditions for colonization, infection, and
+transmission of pathogens; infection acquired by burn patients is a frequent cause of
+morbidity and mortality 320, 339, 340. In patients with a burn injury involving ≥30% of
+the  total  body  surface  area  (TBSA),  the  risk  of  invasive  burn  wound  infection  is
+particularly  high  341,  342.  Infections  that  occur  in  patients  with  burn  injury  involving
+<30%
+ TBSA
+ are
+ usually
+ associated
+ with
+ the
+ use
+ of
+ invasive
+ devices.
+Methicillin-susceptible  Staphylococcus  aureus,  MRSA,  enterococci,  including  VRE,
+gram-negative  bacteria,  and  candida  are  prevalent  pathogens  in  burn  infections  53,
+340,  343-350  and  outbreaks  of  these  organisms  have  been  reported  351-354.  Shifts
+over  time  in  the  predominance  of  pathogens  causing  infections  among  burn  patients
+often  lead  to  changes  in  burn  care  practices  343,  355-358.  Burn  wound  infections
+caused  by  Aspergillus  sp.  or  other  environmental  molds  may  result  from  exposure  to
+supplies  contaminated  during  construction  359  or  to  dust  generated  during
+construction  or  other  environmental  disruption  360.  Hydrotherapy  equipment  is  an
+important environmental reservoir of gram-negative organisms. Its use for burn care is
+discouraged  based  on  demonstrated  associations  between  use  of  contaminated
+hydrotherapy equipment and infections. Burn wound infections and colonization, as well
+
+as  bloodstream  infections,  caused  by  multidrug-resistant  P.  aeruginosa  361,  A.
+baumannii  362,  and  MRSA  352  have  been  associated  with  hydrotherapy;  excision  of
+burn wounds in operating rooms is preferred. Advances in burn care, specifically early
+excision  and  grafting  of  the  burn  wound,  use  of  topical  antimicrobial  agents,  and
+institution  of  early  enteral  feeding,  have  led  to  decreased  infectious  complications.
+Other  advances  have  included  prophylactic  antimicrobial  usage,  selective  digestive
+decontamination  (SDD),  and  use  of  antimicrobial-coated  catheters  (ACC),  but  few
+epidemiologic studies and no efficacy studies have been performed to show the relative
+benefit of these measures 357. There is no consensus on the most effective infection
+control practices to prevent transmission of infections to and from patients with serious
+burns (e.g., single-bed rooms 358, laminar flow 363 and high efficiency particulate air
+filtration [HEPA] 360 or maintaining burn patients in a separate unit without exposure to
+patients  or  equipment  from  other  units  364).  There  also  is  controversy  regarding  the
+need  for  and  type  of  barrier  precautions  for  routine  care  of  burn  patients.  One
+retrospective study demonstrated efficacy and cost effectiveness of a simplified barrier
+isolation protocol for wound colonization, emphasizing handwashing and use of gloves,
+caps,  masks  and  plastic  impermeable  aprons  (rather  than  isolation  gowns)  for  direct
+patient  contact  365.  However,  there  have  been  no  studies  that  define  the  most
+effective  combination  of  infection  control  precautions  for  use  in  burn  settings.
+Prospective  studies  in  this  area  are  needed.  Studies  of  the  epidemiology  of  HAIs  in
+children  have  identified  unique  infection  control  issues  in  this  population  63,  64,
+366-370. Pediatric intensive care unit (PICU) patients and the lowest birthweight babies
+in  the  high-risk  nursery  (HRN)  monitored  in  the  NNIS  system  have  had  high  rates  of
+central
+ venous
+ catheter-associated
+ bloodstream
+ infections
+ 64,
+ 320,
+ 369-372.
+Additionally,  there  is  a  high  prevalence  of  community-acquired  infections  among
+hospitalized  infants  and  young  children  who  have  not  yet  become  immune  either  by
+vaccination or by natural infection. The result is more patients and their sibling visitors
+
+with transmissible infections present in pediatric healthcare settings, especially during
+seasonal  epidemics  (e.g.,  pertussis  36,  40,  41,  respiratory  viral  infections  including
+those  caused  by  RSV  24,  influenza  viruses  373,  parainfluenza  virus  374,  human
+metapneumovirus  375,  and  adenoviruses  376;  rubeola  [measles]  34,  varicella
+[chickenpox]  377,  and  rotavirus  38,  378).  Close  physical  contact  between  healthcare
+personnel  and  infants  and  young  children  (eg.  cuddling,  feeding,  playing,  changing
+soiled  diapers,  and  cleaning  copious  uncontrolled  respiratory  secretions)  provides
+abundant opportunities for transmission of infectious material. Practices and behaviors
+such  as  congregation  of  children  in  play  areas  where  toys  and  bodily  secretions  are
+easily  shared  and  family  members  rooming-in  with  pediatric  patients  can  further
+increase the risk of transmission. Pathogenic bacteria have been recovered from toys
+used  by  hospitalized  patients  379;  contaminated  bath  toys  were  implicated  in  an
+outbreak  of  multidrug-resistant  P.  aeruginosa  on  a  pediatric  oncology  unit  80.  In
+addition,  several  patient  factors  increase  the  likelihood  that  infection  will  result  from
+exposure to pathogens in healthcare settings (e.g., immaturity of the neonatal immune
+system,  lack  of  previous  natural  infection  and  resulting  immunity,  prevalence  of
+patients  with  congenital  or  acquired  immune  deficiencies,  congenital  anatomic
+anomalies,  and  use  of  life-saving  invasive  devices  in  neontal  and  pediatric  intensive
+care  units)  63.  There  are  theoretical  concerns  that  infection  risk  will  increase  in
+association  with  innovative  practices  used  in  the  NICU  for  the  purpose  of  improving
+developmental outcomes, Such factors include co-bedding 380 and kangaroo care 381
+that may increase opportunity for skin-to-skin exposure of multiple gestation infants to
+each other and to their mothers, respectively; although infection risk smay actually be
+reduced  among  infants  receiving  kangaroo  care  382.  Children  who  attend  child  care
+centers 383, 384 and pediatric rehabilitation units 385 may increase the overall burden
+of
+ antimicrobial
+ resistance
+ (eg.
+ by
+ contributing
+ to
+ the
+ reservoir
+ of
+community-associated  MRSA  [CA-MRSA])  386-391.  Patients  in  chronic  care  facilities
+
+may have increased rates of colonization with resistant GNBs and may be sources of
+introduction of resistant organisms to acute care settings 50. Healthcare is provided in
+various settings outside of hospitals including facilities, such as long-term care facilities
+(LTCF) (e.g., nursing homes), homes for the developmentally disabled, settings where
+behavioral  health  services  are  provided,  rehabilitation  centers  and  hospices392.  In
+addition,  healthcare  may  be  provided  in  nonhealthcare  settings  such  as  workplaces
+with  occupational  health  clinics,  adult  day  care  centers,  assisted  living  facilities,
+homeless  shelters,  jails  and  prisons,  school  clinics  and  infirmaries.  Each  of  these
+settings has unique circumstances and population risks to consider when designing and
+implementing an infection control program. Several of the most common settings and
+their particular challenges are discussed below. While this Guideline does not address
+each  setting,  the  principles  and  strategies  provided  may  be  adapted  and  applied  as
+appropriate.  The  designation  LTCF  applies  to  a  diverse  group  of  residential  settings,
+ranging  from  institutions  for  the  developmentally  disabled  to  nursing  homes  for  the
+elderly  and  pediatric  chronic-care  facilities  393-395.  Nursing  homes  for  the  elderly
+predominate  numerically  and  frequently  represent  long-term  care  as  a  group  of
+facilities.  Approximately  1.8  million  Americans  reside  in  the  nation's  16,500  nursing
+homes  396.  Estimates  of  HAI  rates  of  1.8  to  13.5  per  1000  resident-care  days  have
+been reported with a range of 3 to 7 per 1000 resident-care days in the more rigorous
+studies  397-401.  The  infrastructure  described  in  the  Department  of  Veterans  Affairs
+nursing home care units is a promising example for the development of a nationwide
+HAI  surveillance  system  for  LTCFs  402.  LCTFs  are  different  from  other  healthcare
+settings in that elderly patients at increased risk for infection are brought together in
+one setting and remain in the facility for extended periods of time; for most residents, it
+is their home. An atmosphere of community is fostered and residents share common
+eating and living areas, and participate in various facility-sponsored activities 403, 404.
+Since able residents interact freely with each other, controlling transmission of infection
+
+in this setting is challenging 405. Residents who are colonized or infected with certain
+microorganisms are, in some cases, restricted to their room. However, because of the
+psychosocial  risks  associated  with  such  restriction,  it  has  been  recommended  that
+psychosocial  needs  be  balanced  with  infection  control  needs  in  the  LTCF  setting
+406-409.  Documented  LTCF  outbreaks  have  been  caused  by  various  viruses  (e.g.,
+influenza  virus  35,  410-412,  rhinovirus  413,  adenovirus  [conjunctivitis]  414,  norovirus
+278,  279  275,  281)  and  bacteria  (e.g.,  group  A  streptococcus  162,  B.  pertussis  415,
+non-susceptible  S.  pneumoniae  197,  198,  other  MDROs,  and  Clostridium  difficile  416)
+These  pathogens  can  lead  to  substantial  morbidity  and  mortality,  and  increased
+medical costs; prompt detection and implementation of effective control measures are
+required. Risk factors for infection are prevalent among LTCF residents 395, 417, 418.
+Age-related declines in immunity may affect responses to immunizations for influenza
+and  other  infectious  agents,  and  increase  susceptibility  to  tuberculosis.  Immobility,
+incontinence,  dysphagia,  underlying  chronic  diseases,  poor  functional  status,  and
+age-related skin changes increase susceptibility to urinary, respiratory and cutaneous
+and  soft  tissue  infections,  while  malnutrition  can  impair  wound  healing  419-423.
+Medications  (e.g.,  drugs  that  affect  level  of  consciousness,  immune  function,  gastric
+acid secretions, and normal flora, including antimicrobial therapy) and invasive devices
+(e.g.,  urinary  catheters  and  feeding  tubes)  heighten  susceptibility  to  infection  and
+colonization  in  LTCF  residents  424-426.  Finally,  limited  functional  status  and  total
+dependence on healthcare personnel for activities of daily living have been identified as
+independent risk factors for infection 401, 417, 427 and for colonization with MRSA 428,
+429  and  ESBL-producing  K.  pneumoniae  430.  Several  position  papers  and  review
+articles  have  been  published  that  provide  guidance  on  various  aspects  of  infection
+control  and  antimicrobial  resistance  in  LTCFs  406-408,  431-436.  The  Centers  for
+Medicare and Medicaid Services (CMS) have established regulations for the prevention
+of infection in LTCFs 437. Because residents of LTCFs are hospitalized frequently, they
+
+can transfer pathogens between LTCFs and healthcare facilities in which they receive
+care  8,  438-441.  This  is  also  true  for  pediatric  long-term  care  populations.  Pediatric
+chronic  care  facilities  have  been  associated  with  importing  extended-spectrum
+cephalosporin-resistant, gram-negative bacilli into one PICU 50. Children from pediatric
+rehabilitation units may contribute to the reservoir of community-associated MRSA 385,
+389-391. In the past decade, healthcare delivery in the United States has shifted from
+the acute, inpatient hospital to a variety of ambulatory and community-based settings,
+including  the  home.  Ambulatory  care  is  provided  in  hospital-based  outpatient  clinics,
+nonhospital-based  clinics  and  physician  offices,  public  health  clinics,  free-standing
+dialysis centers, ambulatory surgical centers, urgent care centers, and many others. In
+2000,  there  were  83  million  visits  to  hospital  outpatient  clinics  and  more  than  823
+million visits to physician offices 442; ambulatory care now accounts for most patient
+encounters with the health care system 443. In these settings, adapting transmission
+prevention  guidelines  is  challenging  because  patients  remain  in  common  areas  for
+prolonged periods waiting to be seen by a healthcare provider or awaiting admission to
+the  hospital,  examination  or  treatment  rooms  are  turned  around  quickly  with  limited
+cleaning,  and  infectious  patients  may  not  be  recognized  immediately.  Furthermore,
+immunocompromised  patients  often  receive  chemotherapy  in  infusion  rooms  where
+they stay for extended periods of time along with other types of patients. There are few
+data on the risk of HAIs in ambulatory care settings, with the exception of hemodialysis
+centers  18  ,  444,  445.  Transmission  of  infections  in  outpatient  settings  has  been
+reviewed in three publications 446-448. Goodman and Solomon summarized 53 clusters
+of  infections  associated  with  the  outpatient  setting  from  1961-1990  446.  Overall,  29
+clusters  were  associated  with  common  source  transmission  from  contaminated
+solutions  or  equipment,  14  with  person-to-person  transmission  from  or  involving
+healthcare personnel and ten associated with airborne or droplet transmission among
+patients and healthcare workers. Transmission of bloodborne pathogens (i.e., hepatitis
+
+B  and  C  viruses  and,  rarely,  HIV)  in  outbreaks,  sometimes  involving  hundreds  of
+patients, continues to occur in ambulatory settings. These outbreaks often are related
+to common source exposures, usually a contaminated medical device, multi-dose vial,
+or intravenous solution 82, 449-453. In all cases, transmission has been attributed to
+failure  to  adhere  to  fundamental  infection  control  principles,  including  safe  injection
+practices  and  aseptic  technique.This  subject  has  been  reviewed  and  recommended
+infection control and safe injection practices summarized 454. Airborne transmission of
+M.tuberculosis  and  measles  in  ambulatory  settings,  most  frequently  emergency
+departments,  has  been  reported  34,  127,  446,  448,  455-457.  Measles  virus  was
+transmitted  in  physician  offices  and  other  outpatient  settings  during  an  era  when
+immunization rates were low and measles outbreaks in the community were occurring
+regularly 34, 122, 458. Rubella has been transmitted in the outpatient obstetric setting
+33; there are no published reports of varicella transmission in the outpatient setting. In
+the  ophthalmology  setting,  adenovirus  type  8  epidemic  keratoconjunctivitis  has  been
+transmitted  via  incompletely  disinfected  ophthalmology  equipment  and/or  from
+healthcare  workers  to  patients,  presumably  by  contaminated  hands  17,  446,  448,
+459-462.  If  transmission  in  outpatient  settings  is  to  be  prevented,  screening  for
+potentially infectious symptomatic and asymptomatic individuals, especially those who
+may  be  at  risk  for  transmitting  airborne  infectious  agents  (e.g.,  M.  tuberculosis,
+varicella-zoster virus, rubeola [measles]), is necessary at the start of the initial patient
+encounter.  Upon  identification  of  a  potentially  infectious  patient,  implementation  of
+prevention measures, including prompt separation of potentially infectious patients and
+implementation  of  appropriate  control  measures  (e.g.,  Respiratory  Hygiene/Cough
+Etiquette and Transmission-Based Precautions) can decrease transmission risks 9, 12.
+Transmission  of  MRSA  and  VRE  in  outpatient  settings  has  not  been  reported,  but  the
+association of CA-MRSA in healthcare personnel working in an outpatient HIV clinic with
+environmental  CA-MRSA  contamination  in  that  clinic,  suggests  the  possibility  of
+
+transmission in that setting 463. Patient-to-patient transmission of Burkholderia species
+and  Pseudomonas  aeruginosa  in  outpatient  clinics  for  adults  and  children  with  cystic
+fibrosis  has  been  confirmed  464,  465.  See  Interim  Infection  Prevention  and  Control
+Recommendations for Measles in Healthcare Settings Home care in the United States is
+delivered  by  over  20,000  provider  agencies  that  include  home  health  agencies,
+hospices,  durable  medical  equipment  providers,  home  infusion  therapy  services,  and
+personal care and support services providers. Home care is provided to patients of all
+ages  with  both  acute  and  chronic  conditions.  The  scope  of  services  ranges  from
+assistance  with  activities  of  daily  living  and  physical  and  occupational  therapy  to  the
+care  of  wounds,  infusion  therapy,  and  chronic  ambulatory  peritoneal  dialysis  (CAPD).
+The  incidence  of  infection  in  home  care  patients,  other  than  those  associated  with
+infusion therapy is not well studied 466-471. However, data collection and calculation of
+infection  rates  have  been  accomplished  for  central  venous  catheter-associated
+bloodstream infections in patients receiving home infusion therapy 470-474 and for the
+risk of blood contact through percutaneous or mucosal exposures, demonstrating that
+surveillance  can  be  performed  in  this  setting  475.  Draft  definitions  for  home  care
+associated infections have been developed 476. Transmission risks during home care
+are  presumed  to  be  minimal.  The  main  transmission  risks  to  home  care  patients  are
+from an infectious healthcare provider or contaminated equipment; providers also can
+be  exposed  to  an  infectious  patient  during  home  visits.  Since  home  care  involves
+patient care by a limited number of personnel in settings without multiple patients or
+shared equipment, the potential reservoir of pathogens is reduced. Infections of home
+care  providers,  that  could  pose  a  risk  to  home  care  patients  include  infections
+transmitted by the airborne or droplet routes (e.g., chickenpox, tuberculosis, influenza),
+and  skin  infestations  (e.g.,  scabies  69  and  lice)  and  infections  (e.g.,impetigo)
+transmitted  by  direct  or  indirect  contact.  There  are  no  published  data  on  indirect
+transmission  of  MDROs  from  one  home  care  patient  to  another,  although  this  is
+
+theoretically  possible  if  contaminated  equipment  is  transported  from  an  infected  or
+colonized patient and used on another patient. Of note, investigation of the first case of
+VISA in homecare 186 and the first 2 reported cases of VRSA 178, 180, 181, 183 found
+no  evidence  of  transmission  of  VISA  or  VRSA  to  other  home  care  recipients.  Home
+health  care  also  may  contribute  to  antimicrobial  resistance;  a  review  of  outpatient
+vancomycin  use  found  39%  of  recipients  did  not  receive  the  antibiotic  according  to
+recommended guidelines 477. Although most home care agencies implement policies
+and procedures to prevent transmission of organisms, the current approach is based on
+the adaptation of the 1996 Guideline for Isolation Precautions in Hospitals 1 as well as
+other professional guidance 478, 479. This issue has been very challenging in the home
+care  industry  and  practice  has  been  inconsistent  and  frequently  not  evidence-based.
+For example, many home health agencies continue to observe "nursing bag technique,"
+a  practice  that  prescribes  the  use  of  barriers  between  the  nursing  bag  and
+environmental surfaces in the home 480. While the home environment may not always
+appear clean, the use of barriers between two non-critical surfaces has been questioned
+481,  482.  Opportunities  exist  to  conduct  research  in  home  care  related  to  infection
+transmission risks 483. Facilities that are not primarily healthcare settings but in which
+healthcare  is  delivered  include  clinics  in  correctional  facilities  and  shelters.  Both
+settings  can  have  suboptimal  features,  such  as  crowded  conditions  and  poor
+ventilation. Economically disadvantaged individuals who may have chronic illnesses and
+healthcare  problems  related  to  alcoholism,  injection  drug  use,  poor  nutrition,  and/or
+inadequate shelter often receive their primary healthcare at sites such as these 484.
+Infectious  diseases  of  special  concern  for  transmission  include  tuberculosis,  scabies,
+respiratory infections (e.g., N. meningitides, S. pneumoniae), sexually transmitted and
+bloodborne diseases (e.g.,HIV, HBV, HCV, syphilis, gonorrhea), hepatitis A virus (HAV),
+diarrheal agents such as norovirus, and foodborne diseases 286, 485-488. A high index
+of suspicion for tuberculosis and CA-MRSA in these populations is needed as outbreaks
+
+in  these  settings  or  among  the  populations  they  serve  have  been  reported  489-497.
+Patient  encounters  in  these  types  of  facilities  provide  an  opportunity  to  deliver
+recommended  immunizations  and  screen  for  M.  tuberculosis  infection  in  addition  to
+diagnosing and treating acute illnesses 498. Recommended infection control measures
+in  these  non-traditional  areas  designated  for  healthcare  delivery  are  the  same  as  for
+other ambulatory care settings. Therefore, these settings must be equipped to observe
+Standard  Precautions  and,  when  indicated,  Transmission-based  Precautions.  As  new
+treatments  emerge  for  complex  diseases,  unique  infection  control  challenges
+associated  with  special  patient  populations  need  to  be  addressed.  Patients  who  have
+congenital  primary  immune  deficiencies  or  acquired  disease  (eg.  treatment-induced
+immune  deficiencies)  are  at  increased  risk  for  numerous  types  of  infections  while
+receiving healthcare and may be located throughout the healthcare facility. The specific
+defects of the immune system determine the types of infections that are most likely to
+be  acquired  (e.g.,  viral  infections  are  associated  with  T-cell  defects  and  fungal  and
+bacterial  infections  occur  in  patients  who  are  neutropenic).  As  a  general  group,
+immunocompromised  patients  can  be  cared  for  in  the  same  environment  as  other
+patients;  however,  it  is  always  advisable  to  minimize  exposure  to  other  patients  with
+transmissible infections such as influenza and other respiratory viruses 499, 500. The
+use of more intense chemotherapy regimens for treatment of childhood leukemia may
+be  associated  with  prolonged  periods  of  neutropenia  and  suppression  of  other
+components of the immune system, extending the period of infection risk and raising
+the concern that additional precautions may be indicated for select groups 501, 502.
+With  the  application  of  newer  and  more  intense  immunosuppressive  therapies  for  a
+variety  of  medical  conditions  (e.g.,  rheumatologic  disease  503,  504,  inflammatory
+bowel  disease  505),  immunosuppressed  patients  are  likely  to  be  more  widely
+distributed throughout a healthcare facility rather than localized to single patient units
+(e.g.,  hematology-oncology).  Guidelines  for  preventing  infections  in  certain  groups  of
+
+immunocompromised  patients  have  been  published  15,  506,  507.  Published  data
+provide  evidence  to  support  placing  allogeneic  HSCT  patients  in  a  Protective
+Environment 15, 157, 158. Also, three guidelines have been developed that address the
+special  requirements  of  these  immunocompromised  patients,  including  use  of
+antimicrobial prophylaxis and engineering controls to create a Protective Environment
+for  the  prevention  of  infections  caused  by  Aspergillus  spp.  and  other  environmental
+fungi 11, 14, 15. As more intense chemotherapy regimens associated with prolonged
+periods of neutropenia or graft-versus-host disease are implemented, the period of risk
+and  duration  of  environmental  protection  may  need  to  be  prolonged  beyond  the
+traditional 100 days 508. Patients with cystic fibrosis (CF) require special consideration
+when developing infection control guidelines. Compared to other patients, CF patients
+require  additional  protection  to  prevent  transmission  from  contaminated  respiratory
+therapy  equipment  509-513.  Infectious  agents  such  as  Burkholderia  cepacia  complex
+and P. aeruginosa 464, 465, 514, 515 have unique clinical and prognostic significance.
+In CF patients, B. cepacia infection has been associated with increased morbidity and
+mortality 516-518, while delayed acquisition of chronic P.aeruginosa infection may be
+associated  with  an  improved  long-term  clinical  outcome  519,  520.  Person-to-person
+transmission  of  B.  cepacia  complex  has  been  demonstrated  among  children  517  and
+adults 521 with CF in healthcare settings 464, 522, during various social contacts 523,
+most notably attendance at camps for patients with CF 524, and among siblings with CF
+525. Successful infection control measures used to prevent transmission of respiratory
+secretions  include  segregation  of  CF  patients  from  each  other  in  ambulatory  and
+hospital settings (including use of private rooms with separate showers), environmental
+decontamination of surfaces and equipment contaminated with respiratory secretions,
+elimination  of  group  chest  physiotherapy  sessions,  and  disbanding  of  CF  camps  97,
+526.  The  Cystic  Fibrosis  Foundation  published  a  consensus  document  with
+evidence-based  recommendations  for  infection  control  practices  for  CF  patients  20.
+
+Gene  therapy  has  has  been  attempted  using  a  number  of  different  viral  vectors,
+including  nonreplicating  retroviruses,  adenoviruses,  adeno-associated  viruses,  and
+replication-competent strains of poxviruses. Unexpected adverse events have restricted
+the prevalence of gene therapy protocols. The infectious hazards of gene therapy are
+theoretical  at  this  time,  but  require  meticulous  surveillance  due  to  the  possible
+occurrence of in vivo recombination and the subsequent emergence of a transmissible
+genetically
+ altered
+ pathogen.
+ Greatest
+ concern
+ attends
+ the
+ use
+ of
+replication-competent  viruses,  especially  vaccinia.  As  of  the  time  of  publication,  no
+reports have described transmission of a vector virus from a gene therapy recipient to
+another  individual,  but  surveillance  is  ongoing.  Recommendations  for  monitoring
+infection  control  issues  throughout  the  course  of  gene  therapy  trials  have  been
+published 527-529. The potential hazard of transmitting infectious pathogens through
+biologic  products  is  a  small  but  ever  present  risk,  despite  donor  screening.  Reported
+infections transmitted by transfusion or transplantation include West Nile Virus infection
+530  cytomegalovirus  infection  531,  Creutzfeldt-Jacob  disease  230,  hepatitis  C  532,
+infections  with  Clostridium  spp.533  and  group  A  streptococcus  534,  malaria  535,
+babesiosis 536, Chagas disease 537, lymphocytic choriomeningitis 538, and rabies 539,
+540. Therefore, it is important to consider receipt of biologic products when evaluating
+patients  for  potential  sources  of  infection.  The  transplantation  of  nonhuman  cells,
+tissues,  and  organs  into  humans  potentially  exposes  patients  to  zoonotic  pathogens.
+Transmission  of  known  zoonotic  infections  (e.g.,  trichinosis  from  porcine  tissue),
+constitutes  one  concern,  but  also  of  concern  is  the  possibility  that  transplantation  of
+nonhuman  cells,  tissues,  or  organs  may  transmit  previously  unknown  zoonotic
+infections (xenozoonoses) to immunosuppressed human recipients. Potential infections
+that  might  accompany  transplantation  of  porcine  organs  have  been  described  541.
+Guidelines  from  the  U.S.  Public  Health  Service  address  many  infectious  diseases  and
+infection control issues that surround the developing field of xenotransplantation, 542
+
+work in this area is ongoing. CDC provides information on infection control and clinical
+safety  to  help  reduce  the  risk  of  infections  among  healthcare  workers,  patients,  and
+visitors. Languages Language Assistance Languages  Language Assistance 
+
+Source URL: https://www.cdc.gov/infection-control/hcp/isolation-precautions/scientific-review.html

@@ -1,0 +1,276 @@
+Official websites use .gov A .gov website belongs to an official government organization
+in  the  United  States.  Secure  .gov  websites  use  HTTPS  A  lock  (   )  or  https://  means
+you've  safely  connected  to  the  .gov  website.  Share  sensitive  information  only  on
+official, secure websites. May 28, 2020 Statement of John Howard, M.D., J.D.,
+Director,  National  Institute  for  Occupational  Safety  and  Health  Centers  for  Disease
+Control and Prevention
+U.S.  Department  of  Health  and  Human  Services  House  Education  and  Labor
+Subcommittee  on  Workforce  Protections  Good  morning,  Chairwoman  Adams,  Ranking
+Member Byrne, Chairman Scott, Ranking Member Foxx, and distinguished members of
+the  Subcommittee.  My  name  is  John  Howard  and  I  am  the  Director  of  the  National
+Institute for Occupational Safety and Health, or NIOSH, which is part of the Centers for
+Disease Control and Prevention (CDC) within the U.S. Department of Health and Human
+Services  (HHS).  I  am  here  today  to  provide  the  Subcommittee  information  about  the
+risks that workers face from coronavirus disease (COVID-19), and the actions taken by
+the  CDC  to  protect  workers.  COVID-19  is  a  new  disease,  caused  by  a  novel  (or  new)
+coronavirus that has not previously been seen in humans. This new disease, officially
+named Coronavirus Disease 2019 (COVID-19) by the World Health Organization (WHO),
+is  caused  by  the  SARS-CoV-2  virus.  There  are  many  types  of  human  coronaviruses
+including
+ some
+ that
+ commonly
+ cause
+ mild
+ upper-respiratory
+ tract
+ illnesses.
+Coronaviruses are a large family of viruses. Some cause illness in people, and others,
+such as canine and feline coronaviruses, only infect animals. Rarely, coronaviruses that
+infect animals have emerged to infect people and can spread between people. This is
+suspected  to  have  occurred  for  the  virus  that  causes  COVID-19.   Middle  East
+Respiratory Syndrome (MERS) and Severe Acute Respiratory Syndrome (SARS) are two
+other examples of coronaviruses that originated in animals and then spread to people.
+CDC  is  America’s  health  protection  agency  and  works  24/7  to  save  lives  and  protect
+America from health, safety and security threats, both foreign and in the United States.
+
+Addressing infectious diseases like COVID-19 is fundamental to our mission and is our
+highest  priority.  CDC  is  building  upon  decades  of  experience  and  leadership  in
+responding to prior infectious disease emergencies, including SARS, MERS, Ebola, Zika,
+and  pandemic  influenza  to  meet  new  challenges  presented  by  COVID-19.  These
+challenges are many, and they are historic. Every single American is affected by this
+pandemic, and CDC is leaning into this public health crisis with every applicable asset
+we have. CDC is drawing on its emergency response capacity and its relationships with
+state,  tribal,  local,  and  territorial  (STLT),  global,  and  private  sector  partners;  and  is
+leveraging  our  workforce’s  strengths  in  public  health  surveillance,  and  laboratory
+capacity,  to  address  this  public  health  emergency.  CDC  is  developing  guidance  for
+healthcare  professionals  and  the  public  to  encourage  safer  practices,  improve  health
+outcomes, and save lives.  CDC is also working with partners to develop guidance and
+decision  tools  to  assist  state  and  local  officials  and  other  stakeholders  in  adjusting
+mitigation strategies. Importantly, CDC is preparing the nation’s public health system
+and the private sector for a vaccine when one is available. Abroad, CDC is leveraging
+investments  in  global  health  security,  pandemic  influenza  preparedness  and  public
+health  infrastructures  and  capacities  built  through  programs  like  the  President’s
+Emergency  Plan  for  AIDS  Relief  to  support  countries  in  mitigating  and  containing
+COVID-19.  The  emergence  and  rapid  spread  of  COVID-19  confirms  that  an  infectious
+disease threat anywhere is a threat to Americans everywhere, including here at home.
+As  of  May  21,  2020,  there  have  been  1,551,095  total  cases  of  COVID-19  reported  to
+CDC. Many of these cases are in “working-age” adults with over 900,000 cases in those
+aged 18-64. In this age group, over 57,000 are cases known to be among healthcare
+workers.   It  is  not  known  how  many  of  these  infections  occurred  as  a  result  of  their
+work.  Several  states  are  reporting  numbers  of  cases  among  healthcare  personnel  on
+their  websites.  CDC  is  working  to  better  understand  the  full  scope  of  cases  among
+workers in non-healthcare settings. The new CDC case report form, released on May 5,
+
+added  questions  about  categories  of  healthcare  workers  and  about  workplace
+exposures  in  critical  infrastructure  industries.   States  have  been  asked  to  start  using
+this new form by May 15, 2020.  CDC is actively trying to learn more about the burden
+of COVID-19 among various industries and occupations through other data collected by
+CDC, state and local health departments, and other organizations.   The Occupational
+Safety and Health Act of 1970 established the National Institute for Occupational Safety
+and Health (NIOSH) as a research agency focused on the study of worker safety and
+health.  NIOSH  is  a  part  of  the  CDC  and  has  the  mandate  “to  assure  every  man  and
+woman in the Nation safe and healthful working conditions and to preserve our human
+resources.” The actions taken by NIOSH as part of CDC’s response to COVID-19 fall into
+three  main  categories.  First,  NIOSH  has  taken  actions  to  increase  and  augment  the
+supply  of  respiratory  protective  devices,  a  key  component  of  personal  protective
+equipment (PPE) that workers use as the last line of defense against exposure to toxic
+and infectious agents. Second, NIOSH staff, with an expertise in workplace safety and
+health and trained in industrial hygiene, engineering, medicine, and epidemiology, are
+among members of CDC field teams deployed to carry out site visits at meat processing
+plants.  These  teams  are  responding  to  requests  from  state  and  local  health
+departments,  factories,  and  plants  engaged  in  critical  infrastructure  activities.  Third,
+NIOSH works in close partnership with our colleagues at the CDC, as well as those in the
+U.S. Food and Drug Administration (FDA), the U.S. Department of Labor’s Occupational
+Safety  and  Health  Administration  (OSHA),  and  the  U.S.  Department  of  Agriculture’s
+Food  Safety  and  Inspection  Service  (FSIS),  to  develop  information  and  guidelines  for
+employers and employees to work safely and reduce their risk of workplace exposure to
+the SARS-CoV-2 virus that causes COVID-19 disease.  I will now address these activities
+in  some  detail.    Through  its  National  Personal  Protective  Technology  Laboratory
+(NPPTL), NIOSH is responsible for establishing criteria, testing, and certifying approval
+of respiratory protective equipment, including filtering facepiece respirators (FFRs), also
+
+known  popularly  as  “N95”  masks.  This  is  a  key  part  of  the  personal  protective
+equipment
+ (PPE)
+ ensemble
+ in
+ many
+ workplaces,
+ and
+ particularly
+ within
+healthcare settings. During this COVID-19 pandemic, NIOSH has taken aggressive steps
+to increase the supply of available certified FFRs. The focus for the respirator approval
+program  at  NPPTL  during  the  COVID-19  outbreak  includes:  (1)  supporting  existing
+NIOSH  respirator  approval  holders  to  increase  their  ongoing  production;  (2)  quickly
+evaluating  new  domestic  respirator  applications  for  approval;  and  (3)  providing
+up-to-date  PPE  guidance.   According  to  the  NIOSH  Certified  Equipment  list,  there  are
+currently  535  active  filtering  facepiece  respirator  approvals.  These  include  the  N95
+respirator, the most commonly used respirator in healthcare. In April 2020, NIOSH more
+than tripled the rate of respirator approval and denial decisions, from 30 to over 100
+decisions  per  month.  This  was  accomplished  by  having  NPPTL  staff  scientists,
+engineers, and technicians working longer shifts, 7-days a week, to help increase the
+availability  of  respirators  for  the  workers  who  need  them.  To  expand  the  range  of
+respirators  available  to  healthcare  workers,  NIOSH  worked  with  the  FDA  who  had
+developed Emergency Use Authorizations (EUA) to significantly expand the inventory of
+respirators  available  for  use  in  healthcare  settings.  The  FDA  issued  these  EUAs:  (1)
+permitting  use  of  Powered  Air  Purifying  Respirators  (PAPRs),  elastomeric  respirators,
+and other NIOSH-approved FFRs that had not been previously cleared for use in health
+care  settings  by  the  FDA;  (2)  permitting  the  use  of  stockpiled  respirators  that  had
+exceeded  their  rated  shelf-life;  (3)  permitting  use  of  certain  respirators  from  seven
+foreign countries approved under the standards in those countries; and (4) permitting
+use  of  certain  decontaminated  FFRs.  CDC  recognizes  that  more  needs  to  be  done
+during  this  COVID-19  pandemic  to  ensure  health  and  safety  products  entering  the
+United  States  from  other  countries  provide  the  protection  our  workers  have  come  to
+expect from NIOSH-approved equipment. To ensure this level of confidence, NIOSH has
+developed an assessment to evaluate the filter efficiency of respirators approved under
+
+standards used in other countries that are similar to NIOSH-approved N95 respirators.
+Likewise,  NIOSH  has  set  up  a  limited  evaluation  program  to  examine  samples  from
+stockpiled  respirators  and  from  respirators  that  have  been  decontaminated  for  reuse
+under  FDA  EUAs.   NPPTL  is  conducting  these  tests  at  our  laboratory  in  Pittsburgh,
+Pennsylvania,  and  Morgantown,  West  Virginia.  The  international  assessments  have
+resulted in the evaluation of over 130 international respirator models in the past two
+months. More than 50 percent of the models tested were substandard, providing data
+needed  to  support  the  FDA’s  EUA  decisions  and  other  Federal  agency  decisions  to
+remove  substandard  and  counterfeit  products  from  the  market,  and  data  to  support
+state  and  hospital  purchasing  decisions.  To  further  expand  the  types  of  devices
+available for the COVID-19 response, on April 14, 2020, NIOSH promulgated an interim
+final rule that created a new class of Powered Air-Purifying Respirator (PAPR).  The PAPR
+is a type of respirator that includes a battery-powered blower that pulls air through an
+N95  or  high  efficiency  particulate  air  (HEPA)  filter  and  delivers  clean  air  across  the
+worker’s face into either a tight-fitting face mask or a loose-fitting hood. They provide
+protection  that  is  at  least  2.5-times  better  than  a  N95  filtering  facepiece  respirator.
+With this rulemaking, parallel performance standards were added to existing regulatory
+requirements for PAPR, to allow for the approval of a new class known as the PAPR100.
+The  performance  requirements  for  the  PAPR100  allow  it  to  be  lighter  in  weight  and
+better suited to the needs of workers in the healthcare and public safety sectors. The
+previous existing PAPR standard resulted in a heavier unit since it needed to pass tests
+designed  for  heavy  dust  loads  found  in  industry,  such  as  exposures  to  mineral  dusts
+and welding fumes. Over the past 20 years, PAPRs have played an increasing role in
+respiratory protection programs in the United States in the healthcare sector. As seen
+during the 2003 Severe Acute Respiratory Syndrome (SARS), the 2009 H1N1 influenza,
+and the 2014-15 Ebola virus outbreaks, PAPRs are often used in high-hazard procedures
+in  the  healthcare  setting  because  they  are  designed  to  filter  chemicals,  blood-borne
+
+pathogens,  and  aerosol-  transmissible  pathogens.   Current  shortages  of  non-powered
+particulate respirators underscore the need for approval of PAPRs more suitable for use
+by  the  healthcare  workers  and  first  responders  dealing  with  the  disease.  New,
+non-traditional manufacturers have entered the market to produce the new PAPR100,
+thus increasing the supply of reusable PPE for health care workers against COVID-19.
+With  this  expanding  supply  of  PPE,  this  last  line  of  defense  against  infection  is  also
+available  for  use  in  non-healthcare  workplaces  where  high  dust-loading  is  not
+anticipated.  For  example,  a  PAPR100  might  be  used  by  transit  and  delivery  drivers,
+grocery and retail store workers, and other non-dusty factory workers.   The food and
+agriculture  sector  is  a  part  of  the  U.S.  critical  infrastructure.  Public  health  strategies
+need  to  be  implemented  to  protect  workers  filling  essential  roles  within  the  food
+system, including the meat and poultry industry, to preserve essential functions, and
+maintain  the  nation’s  food  supply.  Employers  in  the  meat  and  poultry  processing
+industry can help prevent and slow the spread of COVID-19 by reducing the spread of
+disease  among  employees  and  maintaining  healthy  business  operations  and  work
+environments.  Since  April  2020,  NIOSH  has  deployed  staff  or  assisted  virtually  to  36
+sites in 12 states, covering 5 pork facilities, 19 poultry and 11 beef processing factories
+representing  18  separate  companies.  NIOSH  scientists  and  engineers  reviewed  plant
+facilities,  processes  and  operational  plans.  The  CDC’s  epidemiologists  and  partners
+from  state  and  local  health  departments  evaluated  plant  and  community  infection
+control plans and infection rates through screening, testing and tracing for dealing with
+COVID- 19 outbreaks.  Together, these agencies are committed to protecting the health
+of workers, the health of communities, and collaborating to provide a secure supply of
+food. A typical site visit would examine multiple features of the plant’s operations. For
+example,  the  team  examined  the  company’s  plans  for  employee  screening  prior  to
+entering the plants. They observed the areas where arriving employees would be asked
+about  their  current  symptom  status  and  where  and  how  they  would  be  screened  for
+
+fever and the criteria for following up if positive symptoms were reported or observed.
+The  teams  also  examined  supplementary  infection  control  measures  used  by  the
+facilities.  For  example,  the  availability  and  use  of  hand  sanitizer  dispensers,  surface
+cleaning  and  disinfection  procedures  for  high-touch  areas,  and  the  use  of  facemasks
+and other face coverings including face shields. The plant’s procedures for maintaining
+physical distancing of employees were also reviewed within the operational areas of the
+plant  and  in  locker  rooms,  bathrooms,  lunchrooms,  break  areas,  and  other  locations
+where  employees  may  congregate.  Teams  noted  engineering  controls,  such  as
+locations  where  physical  barriers  were  installed  between  workstations  at  which
+maintaining  the  six-foot  physical  distancing  requirements  was  not  feasible.  
+Additionally,  the  teams  examined  administrative  controls  such  as  company  policies
+offering  paid  sick  leave  to  encourage  and  incentivize  symptomatic  workers  to  stay
+home;
+ or
+ providing
+ training
+ and
+ communications
+ software
+ to
+ enable
+ plant
+communications  while  maintaining  distance.  The  team  examined  the  plant’s  own
+policies  for  using  PPE,  including  training  and  demonstrations  to  determine  whether
+workers  knew  how  to  follow  proper  donning  and  doffing  procedures  to  avoid
+contamination,  and  to  understand  when  PPE  could  be  either  disposed  of  or  properly
+disinfected and stored in a clean location for later reuse. PPE could include respirators,
+face  shields,  helmets,  gloves,  and  other  protective  garments.  NIOSH  and  CDC  staff
+typically  provide  recommendations  based  on  their  observations  and  on  the  best
+available  science,  and  after  examining  the  company’s  written  plans  and  policies.  The
+recommendations  follow  the  hierarchy  of  controls,  wherever  feasible.  Hierarchy  of
+controls is an approach to hazard intervention that starts with the controls perceived to
+be most effective and moves down to those considered least effective. In most cases,
+the  preferred  approach  is  to  eliminate  a  hazard  or  exposures,  install  engineering
+controls,  and  implement  appropriate  sanitation  and  cleaning  to  shield  or  reduce
+employees’ exposure to the hazard. Until such controls are in place, or if they are not
+
+adequately  effective  or  feasible,  administrative  measures  and  personal  protective
+equipment  (PPE)  may  be  recommended.  COVID-19  is  a  new  challenge  for  our  food
+system partners; there are many unknowns. There is no formal reporting or surveillance
+system indicating to health authorities when COVID-19 affects food facility operations.
+The  number  of  outbreak  reports  likely  underestimates  the  number  of  food  system
+workers affected by COVID-19. Employers need to be innovative in finding solutions to
+complex  problems;  there  is  no  one-size-fits-all  approach  when  implementing
+recommendations.  Additional  education  and  training  are  needed  regarding  measures
+workplaces can take to protect workers. Workers are also members of the community;
+thus,  when  there  are  ongoing  outbreaks  in  the  community,  illness  can  be  introduced
+into  the  workplace.  Outbreaks  of  illness  in  workplaces  can  also  result  in  increased
+illness  in  communities.  Culturally  appropriate  community-based  interventions  are
+needed to protect health of workers with large or extended families living in the same
+household.    The  American  people,  communities,  public  health  professionals,  medical
+providers, businesses, and schools look to CDC for trusted guidance on responding to
+COVID-19. CDC develops and disseminates guidance for individuals and communities.
+These  recommendations  include  actions  that  every  American  should  take,  such  as
+following good personal hygiene practices, staying at home when sick, and practicing
+social  distancing  to  lower  the  risk  of  disease  spread.  CDC  guidance  is  available  here
+https://www.cdc.gov/coronavirus/2019-ncov/prevent-getting-sick-prevention.html.  First
+responder  and  healthcare  guidance  documents  cover  a  range  of  topics  –  from
+addressing  potential  work-related  exposures,  implementing  infection  prevention  and
+control measures in health facilities, and optimizing the supply of personal protective
+equipment  to  clinical  evaluation,  testing,  and  clinical  care.  CDC  is  providing  these
+recommendations to support communities’ efforts, while recognizing that each sector
+and  community  is  unique  and  will  need  to  consider  these  in  the  context  of  their
+community-level data and circumstances. CDC teams on the ground and those aiding
+
+from  Atlanta  are  and  will  continue  working  with  state  and  local  officials  to  integrate
+these recommendations into COVID-19 plans. Mitigation and containment of COVID-19
+are the key to public health strategies and CDC is committed to using our expertise and
+partnering with others on the frontlines. NIOSH and other centers at CDC have worked
+with  our  partner  agencies  including  OSHA,  USDA,  and  the  Department  of
+Transportation,  to  produce  guidance  documents  and  fact  sheets  for  workers.  For
+example,  NIOSH  developed  8  fact  sheets  geared  for  airport  workers  including
+information  for  gate  agents,  baggage  and  cargo  handlers,  maintenance  workers,
+catering  kitchen  workers  and  airport  retail  and  service  workers  across  the  country.
+NIOSH also developed 11 fact sheets covering the millions of people working in small
+business,  schools,  and  as  transit  and  delivery  drivers,  first  responders,  and  food  and
+grocery workers. As a joint publication, we developed Interim Guidance from CDC and
+the  Occupational  Safety  and  Health  Administration  (OSHA)  for  the  Meat  and  Poultry
+Packing Industry, and Interim Guidance from CDC and OSHA for Manufacturing Workers
+and  Employers.    In  summary,  NIOSH  and  other  CDC  centers  have  been  working
+tirelessly to protect workers from exposures to the SARS-CoV-2 virus in the course of
+their  employment.   We  have  responded  to  the  unique  challenges  of  this  COVID-19
+pandemic in multiple areas that impact workers. We continue to assist manufacturers of
+personal protective equipment and innovators ability to increase the supply of reliable
+personal  protective  equipment  that  workers  depend  on  every  day.  We  are  deploying
+scientists  and  engineers  on  field  investigations  to  critical  infrastructure  plants,
+particularly those in meat and poultry processing, examining how best to protect critical
+infrastructure  workers.  Finally,  we  are  developing  and  disseminating  through  fact
+sheets, guidance, and videos the scientific information we have learned from our field
+efforts and from our experience and expertise in worker protection. 
+
+Source URL: https://www.cdc.gov/washington/testimony/2020/t20200528.htm

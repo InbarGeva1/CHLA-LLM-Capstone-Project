@@ -1,0 +1,116 @@
+A .gov website belongs to an official government organization in the United States. A
+lock (  ) or https:// means you've safely connected to the .gov website. Share sensitive
+information only on official, secure websites. 
+Related Topics:
+ Updates:  Recommendations  for  Enhanced  Barrier  Precautions  are  being  reviewed  as
+part of updates to the 2007 Guideline for Isolation Precautions. Once a draft is finalized
+by  the  Healthcare  Infection  Control  Practices  Advisory  Committee  (HICPAC),  it  will  be
+posted  in  the  federal  register  for  a  public  comment  period  before  being  returned  to
+HICPAC  for  additional  review.  Further  information  about  HICPAC,  the  guideline
+development  and  public  comment  process,  and  future  meetings  is  available  at:
+Healthcare  Infection  Control  Practices  Advisory  Committee  (HICPAC).  Key  Points:1
+Residents in nursing homes are at increased risk of becoming colonized and developing
+infection with MDROs2. As described further in Consideration for the Use of Enhanced
+Barrier  Precautions  in  Skilled  Nursing  Facilities,  more  than  50%  of  nursing  home
+residents  may  be  colonized  with  an  MDRO,  nursing  homes  have  been  the  setting  for
+MDRO  outbreaks,  and  when  these  MDROs  result  in  resident  infections,  limited
+treatment options are available123456789. Implementation of Contact Precautions, as
+described  in  the  CDC  Guideline  for  Isolation  Precautions,  is  perceived  to  create
+challenges for nursing homes trying to balance the use of PPE and room restriction to
+prevent MDRO transmission with residents' quality of life. Thus, many nursing homes
+only implement Contact Precautions when residents are infected with an MDRO and on
+treatment.  Focusing  only  on  residents  with  active  infection  fails  to  address  the
+continued risk of transmission from residents with MDRO colonization, who by definition
+have no symptoms of illness. MDRO colonization may persist for long periods of time
+(e.g., months) which contributes to the silent spread of MDROs.10 With the need for an
+
+effective  response  to  the  detection  of  serious  antibiotic  resistance  threats,  there  is
+growing evidence that the traditional implementation of Contact Precautions in nursing
+homes is not implementable for most residents for prevention of MDRO transmission.
+This  document  is  intended  to  provide  guidance  for  PPE  use  and  room  restriction  in
+nursing  homes  for  preventing  transmission  of  MDROs,  including  as  part  of  a  public
+health response. For the purposes of this guidance, the MDROs for which the use of EBP
+applies are based on local epidemiology. At a minimum, they should include resistant
+organisms  targeted  by  CDC  but  can  also  include  other  epidemiologically  important
+MDROs910. This document is not intended for use in acute care or long-term acute care
+hospitals and does not replace existing guidance regarding use of Contact Precautions
+for other pathogens (e.g., Clostridioides difficile, norovirus) in nursing homes. A group
+of  infection  prevention  practices  that  apply  to  the  care  of  all  residents,  regardless  of
+suspected or confirmed infection or colonization status. They are based on the principle
+that  all  blood,  body  fluids,  secretions,  and  excretions  (except  sweat)  may  contain
+transmissible  infectious  agents.  Proper  selection  and  use  of  PPE,  such  as  gowns  and
+gloves,  is  one  component  of  Standard  Precautions,  along  with  hand  hygiene,  safe
+injection  practices,  respiratory  hygiene  and  cough  etiquette,  environmental  cleaning
+and disinfection, and reprocessing of reusable medical equipment. Use of PPE is based
+on  the  staff  interaction  with  residents  and  the  potential  for  exposure  to  blood,  body
+fluids,  or  pathogens  (e.g.,  gloves  are  worn  when  contact  with  blood,  body  fluids,
+mucous  membranes,  non-intact  skin,  or  potentially  contaminated  surfaces  or
+equipment are anticipated). More detail about Standard Precautions is available as part
+of the Core Infection Prevention and Control Practices for Safe Healthcare Delivery in all
+Settings.  One  type  of  Transmission-Based  Precaution  that  are  used  when  pathogen
+transmission  is  not  completely  interrupted  by  Standard  Precautions  alone.  Contact
+Precautions are intended to prevent transmission of infectious agents, like MDROs, that
+are spread by direct or indirect contact with the resident or the resident's environment.
+
+Contact Precautions require the use of gown and gloves on every entry into a resident's
+room. The resident is given dedicated equipment (e.g., stethoscope and blood pressure
+cuff)  and  is  placed  into  a  private  room.  When  private  rooms  are  not  available,  some
+residents  (e.g.,  residents  with  the  same  pathogen)  may  be  cohorted,  or  grouped
+together. Residents on Contact Precautions should be restricted to their rooms except
+for  medically  necessary  care  and  restricted  from  participation  in  group  activities.
+Because Contact Precautions require room restriction, they are generally intended to be
+time  limited  and,  when  implemented,  should  include  a  plan  for  discontinuation  or
+de-escalation. More detail about Transmission-Based Precautions, including descriptions
+of Droplet Precautions and Airborne Precautions are available in the CDC Guideline for
+Isolation  Precautions.  In  addition,  other  infections  (e.g.  norovirus,  C.  difficile,  and
+scabies) and conditions for which Contact Precautions are indicated are summarized in
+Appendix A – Type and Duration of Precautions Recommended for Selected Infections
+and Conditions of the guideline. Expand the use of PPE and refer to the use of gown and
+gloves  during  high-contact  resident  care  activities  that  provide  opportunities  for
+transfer  of  MDROs  to  staff  hands  and  clothing1112131415.  MDROs  may  be  indirectly
+transferred from resident-to-resident during these high-contact care activities. Nursing
+home residents with wounds and indwelling medical devices are at especially high risk
+of both acquisition of and colonization with MDROs356. The use of gown and gloves for
+high-contact  resident  care  activities  is  indicated,  when  Contact  Precautions  do  not
+otherwise  apply,  for  nursing  home  residents  with  wounds  and/or  indwelling  medical
+devices regardless of MDRO colonization as well as for residents with MDRO infection or
+colonization. Examples of high-contact resident care activities requiring gown and glove
+use for Enhanced Barrier Precautions include: In general, gown and gloves would not be
+required  for  resident  care  activities  other  than  those  listed  above,  unless  otherwise
+necessary for adherence to Standard Precautions. Residents are not restricted to their
+rooms  or  limited  from  participation  in  group  activities.  Because  Enhanced  Barrier
+
+Precautions  do  not  impose  the  same  activity  and  room  placement  restrictions  as
+Contact Precautions, they are intended to be in place for the duration of a resident's
+stay in the facility or until resolution of the wound or discontinuation of the indwelling
+medical  device  that  placed  them  at  higher  risk.  gloves,  gown,  or  facemask  or  eye
+protection (Change PPE before caring for another resident)   (Change PPE before caring
+for another resident) (Face protection may also be needed if performing activity with
+risk  of  splash  or  spray)  All  residents  who  have  another  infection  (e.g.,  C.  difficile,
+norovirus,  scabies)  or  condition  for  which  Contact  Precautions  is  recommended  in
+Appendix  A  (Type  and  Duration  of  Precautions  Recommended  for  Selected  Infections
+and Conditions) of the CDC Guideline for Isolation Precautions   (Don before room entry,
+doff before room exit; change before caring for another resident) (Face protection may
+also be needed if performing activity with risk of splash or spray) Table: Summary of
+PPE  Use  and  Room  Restriction  When  Caring  for  Residents  Colonized  or  Infected  with
+MDROs in Nursing Homes Decisions regarding the use of additional practices to prevent
+the  spread  of  MDROs  can  be  determined  in  conjunction  with  public  health.  These
+strategies might differ depending on the prevalence or incidence of the MDRO in the
+facility and region. Visit state-based HAI prevention to find contact information for your
+state  health  department  HAI  program.  When  implementing  Contact  Precautions  or
+Enhanced Barrier Precautions, it is critical to ensure that staff have awareness of the
+facility's  expectations  about  hand  hygiene  and  gown/glove  use,  initial  and  refresher
+training,  and  access  to  appropriate  supplies.  To  accomplish  this:  Note:  Prevention  of
+MDRO  transmission  in  nursing  homes  requires  more  than  just  proper  use  of  PPE  and
+room  restriction.  Guidance  on  implementing  other  recommended  infection  prevention
+practices  (e.g.,  hand  hygiene,  environmental  cleaning,  proper  handling  of  wounds,
+indwelling  medical  devices,  and  resident  care  equipment)  are  available  in  CDC's  free
+online course — The Nursing Home Infection Preventionist Training. Nursing homes are
+encouraged to have staff review relevant modules and to use the resources provided in
+
+the  training  (e.g.,  policy  and  procedure  templates,  checklists)  to  assess  and  improve
+practices  in  their  facility.  This  website  provides  resources  for  patients,  families  and
+caregivers on the prevention of infections in nursing homes and assisted living facilities.
+Languages Language Assistance Languages  Language Assistance 
+
+Source URL: https://www.cdc.gov/long-term-care-facilities/hcp/prevent-mdro/PPE.html
