@@ -1,0 +1,76 @@
+PURPOSE:
+
+To ensure safe attendance during group settings within patient care areas, to prevent the spread of infectious organisms and to promote an overall safe therapeutic environment for patients, personnel, and visitors at Children’s Hospital Los Angeles.
+
+SCOPE:
+
+This policy is applicable to all CHLA team members in the inpatient areas.
+
+DEFINITION:
+
+Patient Care Areas are identified as shared space for a group activity or event. Patient care areas include but are not limited to, Playrooms, Teen Lounge, and Multi Use Rooms (MUR)
+
+This policy does not apply to outpatient areas
+
+
+PROCEDURE:
+
+Factors guiding playroom attendance
+Isolation Status
+Patients in Standard Precautions are permitted to attend playrooms.
+Patients on Transmission-Based Precautions are not permitted to attend playrooms (see CHLA Policy IC – 301.0 Isolation Precautions for more information).
+Medical Stability
+Patients who are medically stable and do not require continuous observation by licensed HCP
+Patients with PCA pumps are permitted to attend as long as there is a hospital staff or family member over the age of 16 accompanying during transport and the bedside R.N. contact number is available (See PC – 056.1 Transport Pyramid for more details)
+Patients who are on portable telemetry are permitted to attend their unit based playroom unless explicitly ordered by provider to be off telemetry when leaving the floor
+Patients on a ventricular assisted device (VAD) can attend CV Acute Playroom with physician consent. (R.N. and one additional staff person must be present with patient)
+Patients receiving continuous chemo and/or blood product transfusions must stay on their respective unit to ensure proper monitoring
+
+Transplant Populations
+Eligibility of transplant patients to attend playrooms or multi-use rooms will be managed and communicated to the individuals staffing the rooms by the Child Life specialist assigned to the service.
+Renal transplant patients may not attend playrooms unless approved by the Kidney Transplant team.
+Liver and intestinal transplant patients may attend playrooms if they meet the following criteria:
+Patients > 3 months post-transplant with ANC >500  and on Standard Precautions
+Patients are not permitted to attend playroom if they meet the following criteria:
+Intestinal transplant recipients < 3 months post- transplant (this includes new transplants and re-admissions).
+New liver and Intestinal transplant recipients who have not been discharged from the hospital for the first time.
+Liver and intestinal transplant recipients actively being treated for rejection with IV corticosteroids and/or a biologic agent  for the length of their admission.
+Liver and intestinal transplant recipients being treated for PTLD or other complication requiring biologic therapy for the length of their admission.
+Liver and intestinal transplant recipients with ANC < 500.
+Patients in acute liver failure being evaluated for liver transplantation.
+Patients who are listed for liver transplant as 1A or 1B status.
+Pre-cardiac transplant patients are permitted to attend individual (1:1) session in CV Acute Playroom.
+Post-cardiac transplant patients are not permitted to attend unless explicitly cleared by cardiac transplant physician.
+Visitor Guidelines
+Visitors of patients permitted to attend playroom may attend playroom.
+If patients are not permitted to attend playroom due to medical instability, their visitors will be allowed to visit playroom.
+If patients are not permitted to attend playroom due to isolation status or transplant status, their visitors will also not be allowed to visit playroom.
+Visitors 3 years old and under must be accompanied by a parent or caregiver to the patient care areas
+Siblings visiting patients who are in standard precautions in the PICU and NICCU may attend the playroom on CV Acute
+Unit Guidelines
+Patients and visitors may only attend the playroom located on their own patient unit (except MUR, Teen Lounge, PICU and NICCU)
+BMT patients are not permitted to attend playrooms or Multi Use Rooms.
+Patients on Duque 5 and Duque 6 inpatient units are permitted at attend MURs in Anderson Pavilion if they are on Standard Precautions.
+Other Guidelines
+Patients three years or younger must be accompanied by a parent or caregiver when attending playrooms or MURs.
+Patients with seizures must be accompanied by a parent or caregiver when attending playrooms or MURs.
+Caregivers must be present on the unit if the sibling/visitor is participating in playroom (except Teen Lounge and siblings visiting NICCU and PICU)
+Guidelines for Infectious Disease Outbreaks and Pandemics
+During Phase I of outbreaks and pandemics, all playrooms and MURs should be closed.
+During Phase II of outbreaks and pandemics:
+Playrooms and MURs may be reopened with limited capacity. Safe capacity for reach playroom and MUR to be determined and posted by Child Life team.
+Only COVID negative patients may attend playrooms and MURs.
+One caregiver will be allowed per patient. Siblings will not be allowed in playrooms.
+Capacity will be determined by the size of the playroom and the ability for patients to maintain physical distancing (minimum 6 feet) from other patients.
+Use of playroom toys may be limited to reduce risk of cross-contamination. No toys or other equipment should be shared between patients unless disinfected by CHLA staff or badged volunteers.
+All staff, visitors and patients (when developmentally appropriate) must wear a mask at all times in the playroom or MUR.
+
+Exceptions
+Please consult with Child Life or appropriate medical team for exceptions.
+
+REFERENCES:
+PC – 056.1 Transport Pyramid
+IC – 301.0 Isolation Precautions
+
+POLICY OWNER:
+Director, Accreditation, Infection Prevention and Control, and Emergency Management
