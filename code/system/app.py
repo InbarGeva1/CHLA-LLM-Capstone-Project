@@ -3,15 +3,14 @@ from langchain_community.llms import Ollama
 from langchain.chains import LLMChain
 from langchain.prompts import PromptTemplate
 from langchain.vectorstores import Chroma
+from langchain.embeddings import SentenceTransformerEmbeddings
 
+persist_dir = 'chla_vectorstore'
+embedding = SentenceTransformerEmbeddings(model_name='all-MiniLM-L6-v2')
 
 vectordb = Chroma(embedding_function=embedding, persist_directory=persist_dir)
 
 retriever = vectordb.as_retriever()
-
-query = "what are the surgical site infection policies?"
-
-docs = retriever.get_relevant_documents(query)
 
 retriever = vectordb.as_retriever(search_kwargs={'k': 2})
 
@@ -34,9 +33,8 @@ summary based on chla context
 (newline)
 summary based on cdc context
 
-Attach this link at the end of the chla paragraph: https://lmu.app.box.com/file/1562757601538
-Attach this link at the end of the CDC paragraph: https://www.cdc.gov/infection-control/hcp/surgical-site-infection/index.html
-
+Attach this link at the end of the chla paragraph: https://teams.microsoft.com/v2/
+Attach the source URL from the cdc dosumentaion at the end of the CDC paragraph.
 Answer:
 """)
 
@@ -66,12 +64,11 @@ def boot():
         else:
             st.chat_message("ai").write(message[1])
 
-    # User input for query
     if query := st.chat_input("Type your message..."):
-        st.session_state.messages.append(["human", query])  # Placeholder for bot response
+        st.session_state.messages.append(["human", query])
         st.chat_message("human").write(query)
 
-        # Combine context and user message
+        context = retriever.get_relevant_documents(query)
         combined_prompt = prompt_template.format(context=context, input_text=query)
 
         try:
