@@ -34,7 +34,7 @@ summary based on chla context
 (newline)
 summary based on cdc context
 
-Attach this link at the end of the chla paragraph: https://teams.microsoft.com/v2/
+Attach this link at the end of the chla paragraph: https://chla.sharepoint.com/:f:/r/teams/LMUCHLACollaboration-T/Shared%20Documents/LLM%20Policy%20Bot%20Capstone/Infection%20Control?csf=1&web=1&e=kZAdVc
 Attach the source URL from the cdc dosumentaion at the end of the CDC paragraph.
 Answer:
 """)
