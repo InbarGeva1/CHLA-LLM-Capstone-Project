@@ -89,7 +89,7 @@ def boot():
 
         def stream_data():
             for word in response.split(" "):
-                yield word
+                yield word + ""
                 time.sleep(0.03)
 
         st.chat_message("ai").write_stream(stream_data)
