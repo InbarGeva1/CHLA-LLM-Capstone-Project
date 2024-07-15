@@ -30,7 +30,6 @@ If the user asks a question regarding CHLA or CDC guidance on protocals, regulat
 
 Please provide a detailed response that is faithfull to the documentation above. Provide separate paragraphs of summarization for the CHLA DOCUMENTATION and CDC DOCUMENTATION.
 Maintain all medical terminology and ensure the response is clear and concise. Use bullet points and step-by-step instructions for clarity when applicable.
-If you are going to provide a citation link in brackets "[]" embedded within the response, ensure that the link is available, otherwise do not return "[]" and instead follow the template outlined below.
 Only provide the summarizations using the following markdown format and begin by your response by saying:
 
 **CHLA Recommendation:**
