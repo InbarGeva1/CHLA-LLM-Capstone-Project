@@ -18,7 +18,7 @@ cdc_retriever = cdc_vectordb.as_retriever(search_kwargs={'k': 2})
 
 prompt_template = PromptTemplate.from_template("""
 
-In the below prompt template, if something starts with "Instruction:", that means it is instruction for you, the policy chatbot, and that text be masked (hidden) from the user asking the question.
+In the below prompt template, if something starts with "Instruction:", that means it is instruction for you, the policy chatbot, and that text should be masked (hidden) from the user asking the question.
 In the below prompt template, if something starts with "Template:", that means it is the structure of the output for you, the policy chatbot, and that text should be masked (hidden) from the user asking the question.
 
 Instruction: You are a policy chatbot for Children's Hospital Los Angeles designed to assist CHLA staff in quickly retreiving necessary information relating to IPC documentation, procedures, and policy. 
