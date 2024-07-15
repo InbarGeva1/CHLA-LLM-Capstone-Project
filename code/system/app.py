@@ -20,17 +20,19 @@ prompt_template = PromptTemplate.from_template("""
 User Question: {input_text}
 
 If the user asks a question about policy procedure, protocols, or regulations, use the prompt and template below.
-Otherwise, if the user asks questions unrelated to policy procedure, protocols, or regulations, act as a CHLA chatbot in a healthcare setting that can answer accurate, detailed, and interpretable responses.
+Otherwise, if the user asks questions unrelated to policy procedure, protocols, or regulations, DO NOT use the below prompt and 
+template and instead act as a CHLA chatbot in a healthcare setting that can answer accurate, detailed, and interpretable responses.
+If a user asks a question that is unrelated to policy healthcare procedure, protocols, or regulations, DO NOT return CHLA or CDC documentation linked above.
 
 CHLA Documentation: {chla_context}
 CDC Documentation: {cdc_context}
 
-Prompt:
+(only use if question is about policy procedure, protocols, or regulations) Prompt:
 Please provide a detailed and natural-sounding answer based on the documentation above. Provide separate paragraphs of summarization for the CHLA DOCUMENTATION and CDC DOCUMENTATION.
 Maintain all medical terminology and ensure the response is clear and concise. Use bullet points and step-by-step instructions for clarity when applicable.
 Only provide the summarizations using the following markdown format and begin by your response by saying:
 
-Template:
+(only use if question is about policy procedure, protocols, or regulations) Template:
 **CHLA Recommendation:**
 (newline)
 summary based on chla context
