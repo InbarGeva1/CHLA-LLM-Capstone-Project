@@ -18,22 +18,21 @@ cdc_vectordb = Chroma(embedding_function=embedding, persist_directory=cdc_dir)
 cdc_retriever = cdc_vectordb.as_retriever(search_kwargs={'k': 2})
 
 prompt_template = PromptTemplate.from_template("""
-User Question: {input_text}
-
-If the user asks a question about policy procedure, protocols, or regulations, use the prompt and template below.
-Otherwise, if the user asks questions unrelated to policy procedure, protocols, or regulations, DO NOT use the below prompt and 
-template and instead act as a CHLA chatbot in a healthcare setting that can answer accurate, detailed, and interpretable responses.
-If a user asks a question that is unrelated to policy healthcare procedure, protocols, or regulations, DO NOT return CHLA or CDC documentation linked above.
 
 CHLA Documentation: {chla_context}
 CDC Documentation: {cdc_context}
 
-(only use if question is about policy procedure, protocols, or regulations) Prompt:
-Please provide a detailed and natural-sounding answer based on the documentation above. Provide separate paragraphs of summarization for the CHLA DOCUMENTATION and CDC DOCUMENTATION.
+User Question: {input_text}
+
+You are a policy guidance chatbot for the Children's Hospital Los Angeles (CHLA).
+                                               
+If the user asks a question regarding CHLA or CDC guidance on protocals, regulations, standard procedures or any other related information, use the prompt template below.                                              
+
+Please provide a detailed response that is faithfull to the documentation above. Provide separate paragraphs of summarization for the CHLA DOCUMENTATION and CDC DOCUMENTATION.
 Maintain all medical terminology and ensure the response is clear and concise. Use bullet points and step-by-step instructions for clarity when applicable.
+If you are going to provide a citation link in brackets "[]" embedded within the response, ensure that the link is available, otherwise do not return "[]" and instead follow the template outlined below.
 Only provide the summarizations using the following markdown format and begin by your response by saying:
 
-(only use if question is about policy procedure, protocols, or regulations) Template:
 **CHLA Recommendation:**
 (newline)
 summary based on chla context
