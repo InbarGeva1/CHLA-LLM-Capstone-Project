@@ -4,6 +4,7 @@ from langchain.chains import LLMChain
 from langchain.prompts import PromptTemplate
 from langchain.vectorstores import Chroma
 from langchain.embeddings import SentenceTransformerEmbeddings
+import time
 
 chla_dir = 'chla_vectorstore'
 embedding = SentenceTransformerEmbeddings(model_name='all-MiniLM-L6-v2')
@@ -87,7 +88,12 @@ def boot():
             response = f"An error occurred: {str(e)}"
             st.session_state.messages.append(["ai", response])
 
-        st.chat_message("ai").write(response)
+        def stream_data():
+            for word in response.split(" "):
+                yield word
+                time.sleep(0.03)
+
+        st.chat_message("ai").write_stream(stream_data)
 
 
 if __name__ == "__main__":
