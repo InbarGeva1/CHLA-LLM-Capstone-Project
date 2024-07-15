@@ -60,9 +60,9 @@ def boot():
 
     for message in st.session_state.messages:
         if message[0] == "human":
-            st.chat_message("human").write_stream(message[1])
+            st.chat_message("human").write(message[1])
         else:
-            st.chat_message("ai").write_stream(message[1])
+            st.chat_message("ai").write(message[1])
 
     if query := st.chat_input("Type your message..."):
         st.session_state.messages.append(["human", query])
@@ -78,7 +78,7 @@ def boot():
             response = f"An error occurred: {str(e)}"
             st.session_state.messages.append(["ai", response])
 
-        st.chat_message("ai").write_stream(response)
+        st.chat_message("ai").write(response)
 
 
 if __name__ == "__main__":
