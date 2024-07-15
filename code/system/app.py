@@ -5,19 +5,20 @@ from langchain.prompts import PromptTemplate
 from langchain.vectorstores import Chroma
 from langchain.embeddings import SentenceTransformerEmbeddings
 
-persist_dir = 'chla_vectorstore'
+chla_dir = 'chla_vectorstore'
 embedding = SentenceTransformerEmbeddings(model_name='all-MiniLM-L6-v2')
 
-vectordb = Chroma(embedding_function=embedding, persist_directory=persist_dir)
+chla_vectordb = Chroma(embedding_function=embedding, persist_directory=chla_dir)
+chla_retriever = chla_vectordb.as_retriever(search_kwargs={'k': 2})
 
-retriever = vectordb.as_retriever()
-
-retriever = vectordb.as_retriever(search_kwargs={'k': 2})
-
-
+cdc_dir = 'cdc_vectorstore'
+embedding = SentenceTransformerEmbeddings(model_name='all-MiniLM-L6-v2')
+cdc_vectordb = Chroma(embedding_function=embedding, persist_directory=cdc_dir)
+cdc_retriever = cdc_vectordb.as_retriever(search_kwargs={'k': 2})
 
 prompt_template = PromptTemplate.from_template("""
-Documentation: {context}
+CHLA Documentation: {chla_context}
+CDC Documentation: {cdc_context}
 
 User Question: {input_text}
 
@@ -68,11 +69,12 @@ def boot():
         st.session_state.messages.append(["human", query])
         st.chat_message("human").write(query)
 
-        context = retriever.get_relevant_documents(query)
-        combined_prompt = prompt_template.format(context=context, input_text=query)
+        chla_context = chla_retriever.get_relevant_documents(query)
+        cdc_context = cdc_retriever.get_relevant_documents(query)
+        combined_prompt = prompt_template.format(chla_context=chla_context, cdc_context=cdc_context,input_text=query)
 
         try:
-            response = chain.run({"context": context, "input_text": query})
+            response = chain.run({"chla_context": chla_context, "cdc_context": cdc_context, "input_text": query})
             st.session_state.messages.append(["ai", response])
         except Exception as e:
             response = f"An error occurred: {str(e)}"
