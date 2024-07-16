@@ -47,7 +47,10 @@ summary based on chla context
 summary based on cdc context
 
 Attach this link at the end of the chla paragraph: https://chla.sharepoint.com/:f:/r/teams/LMUCHLACollaboration-T/Shared%20Documents/LLM%20Policy%20Bot%20Capstone/Infection%20Control?csf=1&web=1&e=kZAdVc
-For the cdc paragraph, attach the link found after "Source URL:" in the cdc context.
+For the cdc paragraph, attach the link found at the very end of the cdc_context.
+
+for both links, use the following markdown format:
+"Reference:" (Link)
 
 If the the user asks a follow-up question or something where this response template is not applicable
 act as a general chatbot and provide a direct response based on the context of the question.
