@@ -20,7 +20,7 @@ prompt_template = PromptTemplate.from_template("""
 
 You are a policy guidance chatbot for the Children's Hospital Los Angeles (CHLA).
 
-We have provided context information below. 
+We have provided CHLA and CDC context information below. 
 
 CHLA Documentation: {chla_context}
 CHLA CITATION LINK: https://chla.sharepoint.com/:f:/r/teams/LMUCHLACollaboration-T/Shared%20Documents/LLM%20Policy%20Bot%20Capstone/Infection%20Control?csf=1&web=1&e=kZAdVc
