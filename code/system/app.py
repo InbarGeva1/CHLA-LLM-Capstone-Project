@@ -26,6 +26,8 @@ CHLA Documentation: {chla_context}
 
 CDC Documentation: {cdc_context}
 
+At the end of the CDC Documentation, there is a reference link. Use this link as a citation for any CDC guidance.
+
 Do not give me an answer if it is not mentioned in the context as a fact. 
                                                
 If the user asks a question regarding CHLA or CDC guidance on protocol, regulations, standard procedures or any other related information, provide a detailed response that is faithful to the documentation above. 
