@@ -8,7 +8,6 @@ import time
 
 chla_dir = 'chla_vectorstore'
 embedding = SentenceTransformerEmbeddings(model_name='all-MiniLM-L6-v2')
-
 chla_vectordb = Chroma(embedding_function=embedding, persist_directory=chla_dir)
 chla_retriever = chla_vectordb.as_retriever(search_kwargs={'k': 2})
 
@@ -28,27 +27,36 @@ You are a policy guidance chatbot for the Children's Hospital Los Angeles (CHLA)
                                                
 If the user asks a question regarding CHLA or CDC guidance on protocals, regulations, standard procedures or any other related information, use the prompt template below.                                              
 
+Here are a few examples of possible questions that meet this criteria:
+1. When can I deisolate a patient who had a respiratory virus? 
+2. What is the policy on sending a patient home who is being treated for active TB?
+3. How should a room be cleaned after a patient who had C. difficile diarrhea?
+4. Does a patient with MRSA require isolation?
+5. I was just exposed to a patient with varicella. What do I do?
+
 Please provide a detailed response that is faithfull to the documentation above. Provide separate paragraphs of summarization for the CHLA DOCUMENTATION and CDC DOCUMENTATION.
 Maintain all medical terminology and ensure the response is clear and concise. Use bullet points and step-by-step instructions for clarity when applicable.
 Only provide the summarizations using the following markdown format and begin by your response by saying:
 
-**CHLA Recommendation:**
+**CHLA Guidance:**
 (newline)
 summary based on chla context
 
-**CDC Recommendation:**
+**CDC Guidance:**
 (newline)
 summary based on cdc context
 
 Attach this link at the end of the chla paragraph: https://chla.sharepoint.com/:f:/r/teams/LMUCHLACollaboration-T/Shared%20Documents/LLM%20Policy%20Bot%20Capstone/Infection%20Control?csf=1&web=1&e=kZAdVc
-Attach the source URL from the cdc dosumentaion at the end of the CDC paragraph.
+For the cdc paragraph, attach the link found after "Source URL:" in the cdc context.
+
+If the the user asks a follow-up question or something where this response template is not applicable
+act as a general chatbot and provide a direct response based on the context of the question.
+
 Answer:
 """)
 
-# Initialize the Ollama model
 ollama_llm = Ollama(model="llama3", base_url="http://localhost:11434", temperature=0.3)
 
-# Create the LLMChain
 chain = LLMChain(llm=ollama_llm, prompt=prompt_template)
 
 logo_path = "childrens-hospital-la-logo.png"
@@ -97,7 +105,6 @@ def boot():
 if __name__ == "__main__":
     boot()
 
-# Display the icon at the bottom
 st.image(icon_path, width=100)
 
 
