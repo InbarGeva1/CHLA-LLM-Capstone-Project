@@ -18,44 +18,58 @@ cdc_retriever = cdc_vectordb.as_retriever(search_kwargs={'k': 2})
 
 prompt_template = PromptTemplate.from_template("""
 
+You are a policy guidance chatbot for the Children's Hospital Los Angeles (CHLA).
+
+We have provided context information below. 
+
 CHLA Documentation: {chla_context}
+
 CDC Documentation: {cdc_context}
 
-User Question: {input_text}
-
-You are a policy guidance chatbot for the Children's Hospital Los Angeles (CHLA).
+Do not give me an answer if it is not mentioned in the context as a fact. 
                                                
-If the user asks a question regarding CHLA or CDC guidance on protocals, regulations, standard procedures or any other related information, use the prompt template below.                                              
+If the user asks a question regarding CHLA or CDC guidance on protocol, regulations, standard procedures or any other related information, provide a detailed response that is faithful to the documentation above. 
+Provide separate paragraphs of summarization for the CHLA DOCUMENTATION and CDC DOCUMENTATION.
+Maintain all medical terminology and ensure the response is clear and concise. 
+Use bullet points and step-by-step instructions for clarity when applicable.
 
-Here are a few examples of possible questions that meet this criteria:
-1. When can I deisolate a patient who had a respiratory virus? 
-2. What is the policy on sending a patient home who is being treated for active TB?
-3. How should a room be cleaned after a patient who had C. difficile diarrhea?
-4. Does a patient with MRSA require isolation?
-5. I was just exposed to a patient with varicella. What do I do?
+Attach this link at the end of every CHLA summary: https://chla.sharepoint.com/:f:/r/teams/LMUCHLACollaboration-T/Shared%20Documents/LLM%20Policy%20Bot%20Capstone/Infection%20Control?csf=1&web=1&e=kZAdVc
+If CDC content is summarized, attach the link found at the very end of the CDC Documentation context.
 
-Please provide a detailed response that is faithfull to the documentation above. Provide separate paragraphs of summarization for the CHLA DOCUMENTATION and CDC DOCUMENTATION.
-Maintain all medical terminology and ensure the response is clear and concise. Use bullet points and step-by-step instructions for clarity when applicable.
-Only provide the summarizations using the following markdown format and begin by your response by saying:
-
+Here is an example output structure:
 **CHLA Guidance:**
-(newline)
-summary based on chla context
+detailed summary based on CHLA Documentation context
+Source: **CHLA Citation Link**
 
 **CDC Guidance:**
-(newline)
-summary based on cdc context
+detailed summary based on CDC Documentation context
+Source: **CDC Citation Link**
 
-Attach this link at the end of the chla paragraph: https://chla.sharepoint.com/:f:/r/teams/LMUCHLACollaboration-T/Shared%20Documents/LLM%20Policy%20Bot%20Capstone/Infection%20Control?csf=1&web=1&e=kZAdVc
-For the cdc paragraph, attach the link found at the very end of the CDC Documentation.
+Here is an complete example output with example prompt:
 
-for both links, use the following markdown format:
-Source: (Link)
+Prompt: When can I discharge a patient who has active TB with smear-positive sputum?
 
-If the the user asks a follow-up question or something where this response template is not applicable
-act as a general chatbot and provide a direct response based on the context of the question.
+Output:
+  CHLA guidance: 
+  Have three (3) consecutive negative AFB sputum smear or gastric aspirate results collected at least 8 hours apart with at least one collected early morning (note that specimens collected in early AM produce the best results);
+  OR all of the following:
+  Have completed at least two (2) weeks of multi-drug anti-tuberculosis therapy that is consistent with CDPH/CTCA "Guidelines for the Treatment of Tuberculosis and Tuberculosis Infection for California," (4/97); AND
+  Exhibit clinical improvement (e.g. reduction in fever and cough); AND Have continued close medical supervision, including directly observed therapy
+  (DOT), if needed; AND Continues multi-drug therapy, even if another pulmonary process is diagnosed, pending negative culture results from at least three (3) sputum or gastric aspirate specimens
+  Reference: https://chla.sharepoint.com/:f:/r/teams/LMUCHLACollaboration-T/Shared%20Documents/LLM%20Policy%20Bot%20Capstone/Infection%20Control?csf=1&web=1&e=kZAdVc
 
-Answer:
+CDC guidance:
+  If a hospitalized patient who has suspected or confirmed TB disease is deemed medically stable (including patients with positive AFB sputum smear results indicating pulmonary TB disease), the patient can be discharged from the hospital before converting the positive AFB sputum smear results to negative AFB sputum smear results, if the following parameters have been met:
+  a specific plan exists for follow-up care with the local TB-control program;
+  the patient has been started on a standard multidrug antituberculosis treatment regimen, and DOT has been arranged;
+  no infants and children aged <4 years or persons with immunocompromising conditions are present in the household;
+  all immunocompetent household members have been previously exposed to the patient; and
+  the patient is willing to not travel outside of the home except for health-care–associated visits until the patient has negative sputum smear results.
+  Patients with suspected or confirmed infectious TB disease should not be released to health-care settings or homes in which the patient can expose others who are at high risk for progressing to TB disease if infected (e.g., persons infected with HIV or infants and children aged <4 years). Coordination with the local health department TB program is indicated in such circumstances.
+  Reference: https://www.cdc.gov/mmwr/preview/mmwrhtml/rr5417a1.htm
+
+Given this information, please provide me with an answer to the following: {input_text}
+
 """)
 
 ollama_llm = Ollama(model="llama3", base_url="http://localhost:11434", temperature=0.3)
