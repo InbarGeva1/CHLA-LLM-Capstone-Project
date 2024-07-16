@@ -61,7 +61,7 @@ icon_path = "childrens-hospital-la-icon.jpg"
 def boot():
     st.image(logo_path, width=300)
 
-    st.title("IPC Policy Assitant")
+    st.title("IPC Policy Assistant")
     st.write("Welcome to the Children's Hospital Los Angeles IPC Chatbot. Ask a question regarding CHLA IPC policy!")
 
     if "messages" not in st.session_state:
