@@ -26,7 +26,7 @@ CHLA Documentation: {chla_context}
 CHLA CITATION LINK: https://chla.sharepoint.com/:f:/r/teams/LMUCHLACollaboration-T/Shared%20Documents/LLM%20Policy%20Bot%20Capstone/Infection%20Control?csf=1&web=1&e=kZAdVc
 
 CDC Documentation: {cdc_context}
-Within the CDC Documentation context above is the CDC Documentation CDC CITATION LINK for this context. Find this link in the context and use this as the citation for CDC guidance relevant to this context.
+Within the CDC Documentation context above is the CDC CITATION LINK for this context identified by "Source URL:". Find this link in the context and use this as the citation for CDC guidance relevant to this context.
 
 Do not give me an answer if it is not mentioned in the context as a fact. 
                                                
@@ -44,27 +44,6 @@ Source: **CHLA Citation Link**
 **CDC Guidance:**
 detailed summary based on CDC Documentation context
 Source: **CDC Citation Link**
-
-Here is a complete example output with example prompt and example reference links:
-Prompt: When can I discharge a patient who has active TB with smear-positive sputum?
-Output:
-  CHLA guidance: 
-  Have three (3) consecutive negative AFB sputum smear or gastric aspirate results collected at least 8 hours apart with at least one collected early morning (note that specimens collected in early AM produce the best results);
-  OR all of the following:
-  Have completed at least two (2) weeks of multi-drug anti-tuberculosis therapy that is consistent with CDPH/CTCA "Guidelines for the Treatment of Tuberculosis and Tuberculosis Infection for California," (4/97); 
-  AND Exhibit clinical improvement (e.g. reduction in fever and cough); 
-  AND Have continued close medical supervision, including directly observed therapy (DOT), if needed; 
-  AND Continues multi-drug therapy, even if another pulmonary process is diagnosed, pending negative culture results from at least three (3) sputum or gastric aspirate specimens
-  Reference: https://chla.sharepoint.com/:f:/r/teams/LMUCHLACollaboration-T/Shared%20Documents/LLM%20Policy%20Bot%20Capstone/Infection%20Control?csf=1&web=1&e=kZAdVc
-CDC guidance:
-  If a hospitalized patient who has suspected or confirmed TB disease is deemed medically stable (including patients with positive AFB sputum smear results indicating pulmonary TB disease), the patient can be discharged from the hospital before converting the positive AFB sputum smear results to negative AFB sputum smear results, if the following parameters have been met:
-  - A specific plan exists for follow-up care with the local TB-control program.
-  - The patient has been started on a standard multidrug antituberculosis treatment regimen, and DOT has been arranged.
-  - No infants and children aged <4 years or persons with immunocompromising conditions are present in the household.
-  - All immunocompetent household members have been previously exposed to the patient.
-  - The patient is willing to not travel outside of the home except for health-care–associated visits until the patient has negative sputum smear results.
-  Patients with suspected or confirmed infectious TB disease should not be released to health-care settings or homes in which the patient can expose others who are at high risk for progressing to TB disease if infected (e.g., persons infected with HIV or infants and children aged <4 years). Coordination with the local health department TB program is indicated in such circumstances.
-  Reference: https://www.cdc.gov/mmwr/preview/mmwrhtml/rr5417a1.htm
 
 Given this information, please provide me with an answer to the following: {input_text}
 
