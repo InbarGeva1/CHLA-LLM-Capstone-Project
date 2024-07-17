@@ -66,8 +66,8 @@ def boot():
 
         # Retrieve contexts
         try:
-            chla_context = chla_retriever.invoke(query)
-            cdc_context = cdc_retriever.invoke(query)
+            chla_context = chla_retriever.get_relevant_documents(query)
+            cdc_context = cdc_retriever.get_relevant_documents(query)
 
             # Debugging: write retrieved contexts
             st.write("CHLA Context:", chla_context)
