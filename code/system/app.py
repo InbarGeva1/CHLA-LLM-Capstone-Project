@@ -12,12 +12,12 @@ import time
 chla_dir = 'chla_vectorstore'
 embedding = HuggingFaceEmbeddings(model_name='all-MiniLM-L6-v2')
 chla_vectordb = Chroma(embedding_function=embedding, persist_directory=chla_dir)
-chla_retriever = chla_vectordb.as_retriever(search_kwargs={'k': 2})
+chla_retriever = chla_vectordb.as_retriever(search_kwargs={'k': 1})
 
 cdc_dir = 'cdc_vectorstore'
 embedding = HuggingFaceEmbeddings(model_name='all-MiniLM-L6-v2')
 cdc_vectordb = Chroma(embedding_function=embedding, persist_directory=cdc_dir)
-cdc_retriever = cdc_vectordb.as_retriever(search_kwargs={'k': 2})
+cdc_retriever = cdc_vectordb.as_retriever(search_kwargs={'k': 1})
 
 prompt_template = PromptTemplate.from_template("""
 
@@ -31,7 +31,7 @@ CDC Documentation: {cdc_context} \n
 
 You are a policy guidance chatbot for the Children's Hospital Los Angeles (CHLA). \n
 
-Do not give me an answer if it is not mentioned in the context. \n
+Use the above context to find the answers to the question and do not give me an answer if it is not mentioned in the context. \n
                                                
 If the user asks a question regarding CHLA IPC or CDC guidance on protocals, regulations, standard procedures or any other related information, use the prompt instructions below. \n                                              
 
@@ -55,7 +55,7 @@ CDC Citation Link:
 \n
 
 Attach this static link at the end of the CHLA summary: https://chla.sharepoint.com/:f:/r/teams/LMUCHLACollaboration-T/Shared%20Documents/LLM%20Policy%20Bot%20Capstone/Infection%20Control?csf=1&web=1&e=kZAdVc
-Attach the CDC citation link found in the the CDC Documentation context at the end of the CDC summary. 
+Attach the CDC citation link found in the the CDC Documentation context at the end of the CDC summary and should start with http://, not Document(metadata={'source':.
 \n
 
 Given this information, please provide me with an answer to the following: {input_text} \n
@@ -94,11 +94,8 @@ def boot():
         chla_context = chla_retriever.invoke(query)
         cdc_context = cdc_retriever.invoke(query)
 
-        # Debugging: write retrieved contexts
-        st.write("CHLA Context:", chla_context)
-        st.write("CDC Context:", cdc_context)
-
         combined_prompt = prompt_template.format(chla_context=chla_context, cdc_context=cdc_context, input_text=query)
+        st.write("Combined Prompt:", combined_prompt)
 
         response = chain.invoke({"chla_context": chla_context, "cdc_context": cdc_context, "input_text": query})
         st.session_state.messages.append(["ai", response])
