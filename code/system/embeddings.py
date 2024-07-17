@@ -1,6 +1,5 @@
-from langchain.vectorstores import Chroma
-from langchain.document_loaders import DirectoryLoader
-from langchain.document_loaders import TextLoader
+from langchain_community.vectorstores import Chroma
+from langchain_community.document_loaders import DirectoryLoader, TextLoader
 from langchain_huggingface import HuggingFaceEmbeddings 
 
 # Load CHLA documents
@@ -17,7 +16,6 @@ else:
 chla_persist_dir = 'chla_vectorstore'
 chla_embedding = HuggingFaceEmbeddings(model_name='all-MiniLM-L6-v2')
 chla_vectordb = Chroma.from_documents(documents=chla_docs, embedding=chla_embedding, persist_directory=chla_persist_dir)
-chla_vectordb.persist()
 
 # Load CDC documents
 cdc_loader = DirectoryLoader('data/CDC_text', glob='*.txt', loader_cls=TextLoader)
@@ -33,8 +31,6 @@ else:
 cdc_persist_dir = 'cdc_vectorstore'
 cdc_embedding = HuggingFaceEmbeddings(model_name='all-MiniLM-L6-v2')
 cdc_vectordb = Chroma.from_documents(documents=cdc_docs, embedding=cdc_embedding, persist_directory=cdc_persist_dir)
-cdc_vectordb.persist()
 
 print("Vector stores created and persisted successfully.")
-
 
