@@ -1,0 +1,40 @@
+
+Algorithm for Management of Varicella Exposure
+
+1. Identify Index Case:
+   - Confirmed:
+     - If VZV is isolated from a clinical specimen then confirm varicella.
+     - If VZV DNA is detected by PCR tests from a clinical specimen (ideally scabs, vesicular fluid, or cells from the base of a lesion) then confirm varicella.
+     - If there is a fourfold or greater rise in serum varicella IgG antibody titer then confirm varicella.
+   - Probable:
+     - If there is a high index of suspicion characterized by:
+       - Acute onset of diffuse maculopapular/vesicular rash without other apparent cause
+       - No history of varicella vaccination or prior varicella infection
+       - Possible exposure to a VZV patient in the past 3 weeks
+     - Then consider varicella probable.
+
+2. Is the Index Case Infectious?
+   - If the index case is within the infectious period (two days before the onset of rash until lesions are crusted over) then the case is infectious.
+
+3. Does the Case Require Exposure Follow-up?
+   - If there are disseminated lesions, localized lesions on >2 dermatomes, or localized lesions in an immunocompromised patient then follow up on exposure.
+
+4. Identify Exposed Contacts:
+   - If contacts include patients, employees, students, or visitors then identify who among them is susceptible.
+   - If contacts are not immunized against VZV, have no history of VZV disease, or are immunocompromised then consider them susceptible.
+
+5. Actions for Susceptible Contacts:
+   - If immunocompromised then administer Varicella-Zoster Immune Globulin (VariZIG) within 3-5 days post-exposure but up to 10 days post-exposure.
+   - If susceptible then monitor for symptoms and isolate in Airborne Precautions from day 8-21 after exposure. If patient received VariZIG or IGIV then isolate from day 8-28 after exposure.
+   - If active disease is present then impose appropriate work restrictions.
+   - CHLA Team Members:
+     - If exposed then remain off work for the incubation period (8-21 days).
+     - If returning to work then employee contacts EHS for clearance.
+   - Visitors:
+     - If exposed then limit or restrict hospital visitation for the incubation period.
+
+6. Notifications:
+   - If a varicella case is identified then notify Infection Control at Ext 15510 during normal business hours.
+   - If after hours/holidays/weekends then contact ID physician on call and leave a message on the IC voicemail.
+   - If a varicella case is identified then begin collecting names of exposed contacts.
+   - If after hours then contact LACDPH to report the case at (213) 240-7941.
