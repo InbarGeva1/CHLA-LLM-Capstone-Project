@@ -1,7 +1,7 @@
 from langchain.vectorstores import Chroma
 from langchain.document_loaders import DirectoryLoader
 from langchain.document_loaders import TextLoader
-from langchain_huggingface import HuggingFaceEmbeddings  # Update the import to the new package
+from langchain_huggingface import HuggingFaceEmbeddings 
 
 # Load CHLA documents
 chla_loader = DirectoryLoader('data/CHLA_TEXT_FULL', glob='*.txt', loader_cls=TextLoader)
