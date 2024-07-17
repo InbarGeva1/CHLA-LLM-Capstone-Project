@@ -11,6 +11,9 @@ if not chla_docs:
     print("No documents loaded from CHLA directory.")
 else:
     print(f"{len(chla_docs)} documents loaded from CHLA directory.")
+    # Print some documents to inspect content
+    for doc in chla_docs[:5]:
+        print("Document content:", doc)
 
 # Persist CHLA vector store
 chla_persist_dir = 'chla_vectorstore'
@@ -26,6 +29,9 @@ if not cdc_docs:
     print("No documents loaded from CDC directory.")
 else:
     print(f"{len(cdc_docs)} documents loaded from CDC directory.")
+    # Print some documents to inspect content
+    for doc in cdc_docs[:5]:
+        print("Document content:", doc)
 
 # Persist CDC vector store
 cdc_persist_dir = 'cdc_vectorstore'
