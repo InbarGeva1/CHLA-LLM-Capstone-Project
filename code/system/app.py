@@ -2,8 +2,9 @@ import streamlit as st
 from langchain_community.llms import Ollama
 from langchain.chains import LLMChain
 from langchain.prompts import PromptTemplate
-from langchain.vectorstores import Chroma
-from langchain.embeddings import SentenceTransformerEmbeddings
+from langchain_community.vectorstores import Chroma
+from langchain_community.embeddings import SentenceTransformerEmbeddings
+from langchain.runnables import RunnableSequence
 import time
 
 chla_dir = 'chla_vectorstore'
@@ -35,7 +36,7 @@ Answer:
 
 ollama_llm = Ollama(model="llama3", base_url="http://localhost:11434", temperature=0.1)
 
-chain = LLMChain(llm=ollama_llm, prompt=prompt_template)
+chain = RunnableSequence(steps=[prompt_template, ollama_llm])
 
 logo_path = "childrens-hospital-la-logo.png"
 icon_path = "childrens-hospital-la-icon.jpg"
@@ -61,12 +62,12 @@ def boot():
         st.session_state.messages.append(["human", query])
         st.chat_message("human").write(query)
 
-        chla_context = chla_retriever.get_relevant_documents(query)
-        cdc_context = cdc_retriever.get_relevant_documents(query)
+        chla_context = chla_retriever.invoke(query)
+        cdc_context = cdc_retriever.invoke(query)
         combined_prompt = prompt_template.format(chla_context=chla_context, cdc_context=cdc_context,input_text=query)
 
         try:
-            response = chain.run({"chla_context": chla_context, "cdc_context": cdc_context, "input_text": query})
+            response = chain.invoke({"chla_context": chla_context, "cdc_context": cdc_context, "input_text": query})
             st.session_state.messages.append(["ai", response])
         except Exception as e:
             response = f"An error occurred: {str(e)}"
