@@ -3,7 +3,7 @@ from langchain.document_loaders import DirectoryLoader
 from langchain.document_loaders import TextLoader
 from langchain.embeddings import SentenceTransformerEmbeddings
 
-chla_loader = DirectoryLoader('data/CHLA_text', glob='*.txt', loader_cls=TextLoader)
+chla_loader = DirectoryLoader('data/CHLA_MARKDOWN', glob='./*.md', loader_cls=UnstructuredMarkdownLoader)
 
 docs = chla_loader.load()
 
