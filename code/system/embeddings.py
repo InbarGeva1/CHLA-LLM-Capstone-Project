@@ -1,6 +1,7 @@
 from langchain.vectorstores import Chroma
 from langchain.document_loaders import DirectoryLoader
 from langchain.document_loaders import TextLoader
+from langchain.document_loaders import UnstructuredMarkdownLoader
 from langchain.embeddings import SentenceTransformerEmbeddings
 
 chla_loader = DirectoryLoader('data/CHLA_MARKDOWN', glob='*.md', loader_cls=UnstructuredMarkdownLoader)
