@@ -23,11 +23,11 @@ prompt_template = PromptTemplate.from_template("""
 
 We have provided CHLA context information below: \n
 
-CHLA Documentation: {chla_context} \n
+CHLA Documentation: {{chla_context}} \n
 
 We have provided CDC context information below, including citation link at the bottom: \n
 
-CDC Documentation: {cdc_context} \n
+CDC Documentation: {{cdc_context}} \n
 
 You are a policy guidance chatbot for the Children's Hospital Los Angeles (CHLA). \n
 
@@ -58,7 +58,7 @@ Attach this static link at the end of the CHLA summary: https://chla.sharepoint.
 Attach the CDC citation link found in the the CDC Documentation context at the end of the CDC summary and should start with http://, not Document(metadata={'source':.
 \n
 
-Given this information, please provide me with an answer to the following: {input_text} \n
+Given this information, please provide me with an answer to the following: {{input_text}} \n
 
 Answer:
 """)
