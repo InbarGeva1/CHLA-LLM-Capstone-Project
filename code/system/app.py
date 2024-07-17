@@ -4,7 +4,7 @@ from langchain.chains import LLMChain
 from langchain.prompts import PromptTemplate
 from langchain_community.vectorstores import Chroma
 from langchain_community.embeddings import SentenceTransformerEmbeddings
-from langchain.runnables import RunnableSequence
+from langchain.runnables import Runnable
 import time
 
 chla_dir = 'chla_vectorstore'
@@ -36,7 +36,7 @@ Answer:
 
 ollama_llm = Ollama(model="llama3", base_url="http://localhost:11434", temperature=0.1)
 
-chain = RunnableSequence(steps=[prompt_template, ollama_llm])
+chain = prompt_template | ollama_llm
 
 logo_path = "childrens-hospital-la-logo.png"
 icon_path = "childrens-hospital-la-icon.jpg"
