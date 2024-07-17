@@ -19,31 +19,27 @@ cdc_retriever = cdc_vectordb.as_retriever(search_kwargs={'k': 3})
 prompt_template = PromptTemplate.from_template("""
 
 We have provided CHLA context information below: \n
-\n
-CHLA Documentation: {chla_context}
-\n
+
+CHLA Documentation: {chla_context} \n
+
 We have provided CDC context information below, including citation link at the bottom: \n
-\n
-CDC Documentation: {cdc_context}
-\n
+
+CDC Documentation: {cdc_context} \n
+
+CDC citation link is right above in this context. \n
 
 You are a policy guidance chatbot for the Children's Hospital Los Angeles (CHLA). \n
 
-Do not give me an answer if it is not mentioned in the context as a fact. \n
+Do not give me an answer if it is not mentioned in the context. \n
                                                
-If the user asks a question regarding CHLA or CDC guidance on protocals, regulations, standard procedures or any other related information, use the prompt template below. \n                                              
+If the user asks a question regarding CHLA IPC or CDC guidance on protocals, regulations, standard procedures or any other related information, use the prompt instructions below. \n                                              
 
-Here are a few examples of possible questions that meet this criteria:
-1. When can I deisolate a patient who had a respiratory virus? 
-2. What is the policy on sending a patient home who is being treated for active TB?
-3. How should a room be cleaned after a patient who had C. difficile diarrhea?
-4. Does a patient with MRSA require isolation?
-5. I was just exposed to a patient with varicella. What do I do?
-\n
+Please provide a detailed response that is faithfull to the documentation above. 
+Provide separate and detailed summaries for the CHLA DOCUMENTATION and CDC DOCUMENTATION.
+Maintain all medical terminology and ensure the response is clear. 
+Use bullet points and step-by-step instructions for clarity when applicable. 
+The CHLA and CDC content should be sourced from their context respectively and if the guidance is the same, please state so. \n
 
-Please provide a detailed response that is faithfull to the documentation above. Provide separate paragraphs of summarization for the CHLA DOCUMENTATION and CDC DOCUMENTATION.
-Maintain all medical terminology and ensure the response is clear and concise. Use bullet points and step-by-step instructions for clarity when applicable. The CHLA and CDC content should be sourced from their context respectively and should not be the exact same.
-\n
 Example:
 \n
 **CHLA Guidance:**
@@ -57,15 +53,13 @@ Summary based on CDC context
 CDC Citation Link:
 \n
 
-Attach this link at the end of the chla paragraph: https://chla.sharepoint.com/:f:/r/teams/LMUCHLACollaboration-T/Shared%20Documents/LLM%20Policy%20Bot%20Capstone/Infection%20Control?csf=1&web=1&e=kZAdVc
-For the cdc paragraph, attach the link found at the very end of the CDC Documentation context. This link must be the exact same as the link at the end of the CDC context provided.
+Attach this static link at the end of the CHLA summary: https://chla.sharepoint.com/:f:/r/teams/LMUCHLACollaboration-T/Shared%20Documents/LLM%20Policy%20Bot%20Capstone/Infection%20Control?csf=1&web=1&e=kZAdVc
+Attach the CDC citation link found in the the CDC Documentation context at the end of the CDC summary. 
 \n
 
 For both links, use the following markdown format:
 Source: (Link)
 \n
-
-If the the user asks a follow-up question or something where this response template is not applicable act as a general chatbot and provide a direct response based on the context of the question. \n
 
 Given this information, please provide me with an answer to the following: {input_text} \n
 
