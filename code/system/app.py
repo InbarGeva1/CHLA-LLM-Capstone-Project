@@ -66,11 +66,12 @@ def boot():
 
         chla_context = chla_retriever.invoke(query)
         cdc_context = cdc_retriever.invoke(query)
-        print(f"CHLA Context: {chla_context}")
-        print(f"CDC Context: {cdc_context}")
+        st.write("CHLA Context:", chla_context)
+        st.write("CDC Context:", cdc_context)
         
         combined_prompt = prompt_template.format(chla_context=chla_context, cdc_context=cdc_context,input_text=query)
-        print(f"Combined Prompt: {combined_prompt}")
+        st.write("Combined Prompt:", combined_prompt)
+        
         try:
             response = chain.invoke({"chla_context": chla_context, "cdc_context": cdc_context, "input_text": query})
             st.session_state.messages.append(["ai", response])
