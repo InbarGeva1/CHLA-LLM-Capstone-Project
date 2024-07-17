@@ -12,12 +12,12 @@ import time
 chla_dir = 'chla_vectorstore'
 embedding = HuggingFaceEmbeddings(model_name='all-MiniLM-L6-v2')
 chla_vectordb = Chroma(embedding_function=embedding, persist_directory=chla_dir)
-chla_retriever = chla_vectordb.as_retriever(search_kwargs={'k': 2})
+chla_retriever = chla_vectordb.as_retriever(search_kwargs={'k': 1})
 
 cdc_dir = 'cdc_vectorstore'
 embedding = HuggingFaceEmbeddings(model_name='all-MiniLM-L6-v2')
 cdc_vectordb = Chroma(embedding_function=embedding, persist_directory=cdc_dir)
-cdc_retriever = cdc_vectordb.as_retriever(search_kwargs={'k': 2})
+cdc_retriever = cdc_vectordb.as_retriever(search_kwargs={'k': 1})
 
 prompt_template = PromptTemplate.from_template("""
 
@@ -45,10 +45,6 @@ CHLA Citation Link:
 Summary based on CDC context
 CDC Citation Link:
 
-
-Attach this static link at the end of the CHLA summary: https://chla.sharepoint.com/:f:/r/teams/LMUCHLACollaboration-T/Shared%20Documents/LLM%20Policy%20Bot%20Capstone/Infection%20Control?csf=1&web=1&e=kZAdVc
-Attach the CDC citation link found in the the CDC Documentation context at the end of the CDC summary.
-
 We have provided CHLA context information below: 
 
 CHLA Documentation: {chla_context} 
@@ -56,6 +52,9 @@ CHLA Documentation: {chla_context}
 We have provided CDC context information below, including citation link at the bottom: 
 
 CDC Documentation: {cdc_context} 
+
+Attach this static link at the end of the CHLA summary: https://chla.sharepoint.com/:f:/r/teams/LMUCHLACollaboration-T/Shared%20Documents/LLM%20Policy%20Bot%20Capstone/Infection%20Control?csf=1&web=1&e=kZAdVc
+Attach the CDC citation link found in the the CDC Documentation context at the end of the CDC summary.
 
 Given this information, please provide me with an answer to the following: {input_text} 
 
