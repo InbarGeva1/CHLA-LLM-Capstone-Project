@@ -9,12 +9,12 @@ import time
 chla_dir = 'chla_vectorstore'
 embedding = SentenceTransformerEmbeddings(model_name='all-MiniLM-L6-v2')
 chla_vectordb = Chroma(embedding_function=embedding, persist_directory=chla_dir)
-chla_retriever = chla_vectordb.as_retriever(search_kwargs={'k': 3})
+chla_retriever = chla_vectordb.as_retriever(search_kwargs={'k': 2})
 
 cdc_dir = 'cdc_vectorstore'
 embedding = SentenceTransformerEmbeddings(model_name='all-MiniLM-L6-v2')
 cdc_vectordb = Chroma(embedding_function=embedding, persist_directory=cdc_dir)
-cdc_retriever = cdc_vectordb.as_retriever(search_kwargs={'k': 3})
+cdc_retriever = cdc_vectordb.as_retriever(search_kwargs={'k': 2})
 
 prompt_template = PromptTemplate.from_template("""
 
