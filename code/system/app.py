@@ -73,8 +73,8 @@ def boot():
 
         combined_prompt = prompt_template.format(chla_context=chla_context, cdc_context=cdc_context, input_text=query)
 
-            response = chain.invoke({"chla_context": chla_context, "cdc_context": cdc_context, "input_text": query})
-            st.session_state.messages.append(["ai", response])
+        response = chain.invoke({"chla_context": chla_context, "cdc_context": cdc_context, "input_text": query})
+        st.session_state.messages.append(["ai", response])
 
         except Exception as e:
             response = f"An error occurred: {str(e)}"
