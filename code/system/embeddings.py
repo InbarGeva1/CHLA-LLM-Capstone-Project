@@ -1,30 +1,40 @@
 from langchain.vectorstores import Chroma
 from langchain.document_loaders import DirectoryLoader
 from langchain.document_loaders import TextLoader
-from langchain.embeddings import SentenceTransformerEmbeddings
+from langchain_huggingface import HuggingFaceEmbeddings  # Update the import to the new package
 
+# Load CHLA documents
 chla_loader = DirectoryLoader('data/CHLA_TEXT_FULL', glob='*.txt', loader_cls=TextLoader)
+chla_docs = chla_loader.load()
 
-docs = chla_loader.load()
+# Ensure documents are loaded correctly
+if not chla_docs:
+    print("No documents loaded from CHLA directory.")
+else:
+    print(f"{len(chla_docs)} documents loaded from CHLA directory.")
 
-persist_dir = 'chla_vectorstore'
+# Persist CHLA vector store
+chla_persist_dir = 'chla_vectorstore'
+chla_embedding = HuggingFaceEmbeddings(model_name='all-MiniLM-L6-v2')
+chla_vectordb = Chroma.from_documents(documents=chla_docs, embedding=chla_embedding, persist_directory=chla_persist_dir)
+chla_vectordb.persist()
 
-embedding = SentenceTransformerEmbeddings(model_name='all-MiniLM-L6-v2')
-
-vectordb = Chroma.from_documents(documents=docs, embedding=embedding, persist_directory=persist_dir)
-
-vectordb.persist()
-
-
+# Load CDC documents
 cdc_loader = DirectoryLoader('data/CDC_text', glob='*.txt', loader_cls=TextLoader)
+cdc_docs = cdc_loader.load()
 
-docs = cdc_loader.load()
+# Ensure documents are loaded correctly
+if not cdc_docs:
+    print("No documents loaded from CDC directory.")
+else:
+    print(f"{len(cdc_docs)} documents loaded from CDC directory.")
 
-persist_dir = 'cdc_vectorstore'
+# Persist CDC vector store
+cdc_persist_dir = 'cdc_vectorstore'
+cdc_embedding = HuggingFaceEmbeddings(model_name='all-MiniLM-L6-v2')
+cdc_vectordb = Chroma.from_documents(documents=cdc_docs, embedding=cdc_embedding, persist_directory=cdc_persist_dir)
+cdc_vectordb.persist()
 
-embedding = SentenceTransformerEmbeddings(model_name='all-MiniLM-L6-v2')
+print("Vector stores created and persisted successfully.")
 
-vectordb = Chroma.from_documents(documents=docs, embedding=embedding, persist_directory=persist_dir)
-
-vectordb.persist()
 
