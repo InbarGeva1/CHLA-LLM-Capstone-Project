@@ -64,17 +64,28 @@ def boot():
         st.session_state.messages.append(["human", query])
         st.chat_message("human").write(query)
 
-        chla_context = chla_retriever.invoke(query)
-        cdc_context = cdc_retriever.invoke(query)
-        st.write("CHLA Context:", chla_context)
-        st.write("CDC Context:", cdc_context)
-        
-        combined_prompt = prompt_template.format(chla_context=chla_context, cdc_context=cdc_context,input_text=query)
-        st.write("Combined Prompt:", combined_prompt)
-        
+        # Retrieve contexts
         try:
+            chla_context = chla_retriever.invoke(query)
+            cdc_context = cdc_retriever.invoke(query)
+
+            # Debugging: write retrieved contexts
+            st.write("CHLA Context:", chla_context)
+            st.write("CDC Context:", cdc_context)
+
+            if not chla_context:
+                st.write("No context retrieved for CHLA.")
+            if not cdc_context:
+                st.write("No context retrieved for CDC.")
+
+            combined_prompt = prompt_template.format(chla_context=chla_context, cdc_context=cdc_context, input_text=query)
+
+            # Debugging: write combined prompt
+            st.write("Combined Prompt:", combined_prompt)
+
             response = chain.invoke({"chla_context": chla_context, "cdc_context": cdc_context, "input_text": query})
             st.session_state.messages.append(["ai", response])
+
         except Exception as e:
             response = f"An error occurred: {str(e)}"
             st.session_state.messages.append(["ai", response])
@@ -85,7 +96,6 @@ def boot():
                 time.sleep(0.04)
 
         st.chat_message("ai").write_stream(stream_data)
-
 
 if __name__ == "__main__":
     boot()
