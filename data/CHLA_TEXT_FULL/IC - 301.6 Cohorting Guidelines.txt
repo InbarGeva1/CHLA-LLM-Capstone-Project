@@ -1,0 +1,117 @@
+                                                                                                                             Revised 11/03/2022
+                    IC – 301.6 Cohorting Guidelines
+
+                    Before utilizing the grid below, first consider the following in cohorting patients:
+
+                         •    When cohorting needs arise, Standard Precautions patients should be cohorted first.
+
+                         •    If there are no more eligible Standard Precautions patients to cohort, only then should you
+                              use these guidelines to determine appropriate cohorting for Combined-Droplet patients.
+
+                         •    Testing strongly recommended before cohorting.
+
+                         •    Any new onset of symptoms would require the patient to be placed in a single room. Re-
+                              testing for COVID-19 is recommended.
+
+Combined-Droplet Precautions Cohorting
+Disease                          When is it appropriate to cohort?
+
+Respiratory symptoms,            Okay to cohort like illnesses if within
+viral pathogen                   approximately 3-5 days of onset of
+identified                       illness (example: two Flu A patients,
+                                 two RSV patients) – including
+                                 patients on AGPs
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+When is it NOT appropriate to
+cohort?
+•    Do not cohort one patient who
+     just developed a URI with
+     another patient who developed
+     symptoms >7 days prior.
+•    Do not cohort
+     immunocompromised
+     patients with viral URI*
+•    Do not cohort patients with
+     different species of Influenza
+     (e.g. Influenza A and Influenza
+     B)
+•    Patient in Combined-Eyewear
+     during their
+     isolation/quarantine period
+     (reference Patient and Family
+     Quarantine and Deisolation
+     Reference Guide for details)
+•    Patient with parent/visitor who
+     is symptomatic or has known
+     COVID-19 (reference Patient
+     and Family Quarantine and
+     Deisolation Reference Guide for
+     details)
+                              *Once this document is printed or otherwise distributed from the CHLA Policies and Procedures
+                               Library, it is not considered a controlled document. Please review the electronic version of this
+                               document in the CHLA Policies and Procedures Library as this may not be the current version.
+                                                                                                                               Revised 11/03/2022
+                    IC – 301.6 Cohorting Guidelines
+
+                     Disease                           When is it appropriate to cohort?                When is it NOT appropriate to
+                                                                                                        cohort?
+                     Bacterial respiratory             Okay to cohort after 24 hours                    •     Do not cohort before infection
+                     infections (strep                 initiation of antibiotics – including                  successfully treated with
+                     throat, pneumonia,                patients on AGPs                                       antibiotics
+                     etc.)                                                                              •     No identified viral respiratory
+                                                                                                              infection or URI symptoms that
+                                                                                                              are specific to a viral infection
+                                                                                                              (e.g. runny nose, red eyes).
+                                                                                                              Testing for viral URI is
+                                                                                                              recommended.
+                     Respiratory symptoms,             Okay to cohort like respiratory                  •     Do not cohort if respiratory
+                     no testing/no                     symptoms if within approximately 3-                    symptoms clearly reflect
+                     organism identified               5 days of onset of illness (example:                   different diseases (i.e. one
+                                                       two bronchiolitic patients who                         patient with a severe croupy
+                                                       developed symptoms close in time) -                    cough and one patient with mild
+                                                       – including patients on AGPs                           rhinorrhea)
+                                                                                                        •     Do not cohort
+                                                                                                              immunocompromised patients
+                                                                                                              with respiratory symptoms.*
+                                                                                                        •     Patient in Combined-Eyewear
+                                                                                                              during their
+                                                                                                              isolation/quarantine period
+                                                                                                        •     Patient with parent/visitor who
+                                                                                                              is symptomatic or has known
+                                                                                                              COVID-19
+
+                    *Please consult with the medical team.
+
+Contact Precautions Cohorting
+Disease                           When is it appropriate to cohort?
+
+Any disease requiring             N/a
+Contact Precautions
+
+
+When is it NOT appropriate to
+cohort?
+Cohorting patients in Contact
+Precautions is not permitted
+                               *Once this document is printed or otherwise distributed from the CHLA Policies and Procedures
+                                Library, it is not considered a controlled document. Please review the electronic version of this
+                                document in the CHLA Policies and Procedures Library as this may not be the current version.

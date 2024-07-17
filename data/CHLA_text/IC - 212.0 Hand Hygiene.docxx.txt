@@ -1,0 +1,69 @@
+PURPOSE:
+
+The purpose of this policy is to outline indications for and methods of hand hygiene for  CHLA team members in a patient care setting. Hand hygiene measures are the single most important prevention strategy for avoiding Healthcare Acquired Infections (HAI). The hands of team members serve as a critical reservoir of infectious agents.
+
+SCOPE:
+
+This policy is applicable to all CHLA team members.
+
+DEFINITIONS:
+
+
+
+PROCEDURES:
+
+Hand hygiene indications per the World Health Organization’s (WHO) 5 Moments of Hand Hygiene
+Before touching a patient
+Before any clean or aseptic procedure
+After body fluid exposure risk
+After touching a patient
+After touching patient surroundings/environment
+Soap and water required:
+Before eating
+After using the rest room
+Any time hands are visibly soiled
+Hand hygiene with soap and water, consistent with the WHO 5 moments, is needed while caring for a patient with C. difficile or Norovirus.
+These patients will be placed in Contact + or Combined-Droplet + Precautions.
+Alcohol based hand sanitizer may be used for the first moment, prior to applying gloves. For all subsequent moments, soap and water wash is required.
+
+Hand hygiene technique:
+Hand washing with soap and water:
+Wet hands first with  running water
+Apply a sufficient amount of hospital-approved soap
+Rub hands together vigorously for at least twenty (20) seconds. Cover all surfaces of the hands and fingers, paying particular attention to wrists, nail beds, underside of nails and interdigital spaces.
+Rinse hands thoroughly under running water
+Dry thoroughly with a disposable towel. Turn off faucet with paper towel and discard.
+Hand sanitizer:
+Apply product to palm of one hand
+Rub hands together vigorously for at least twenty (20) seconds.  Cover all surfaces of the hands and fingers, paying particular attention to  wrists, nail beds, underside of nails and interdigital spaces.
+Let hands completely dry before touching anything or anyone. Follow the manufacturer’s recommendations regarding the volume of product to use.
+Hand hygiene products:
+The Infection Control Committee must approve all hand hygiene and hand moisturizing agents. Agents that have not received committee approval may not be used in patient care areas. All hand hygiene agents must be compatible with chlorhexidine gluconate (CHG).
+Healthcare workers who report allergies to the hospital approved hand hygiene agents shall be evaluated by Employee Health Services (EHS).
+Hand Hygiene guidelines specifically for the NICCU:
+All personnel who enter the NICCU should wash their hands with soap and water upon entry to the unit if their hands are visibly soiled paying particular attention to forearms, wrists, nail beds, underside of nails and interdigital spaces.
+All personnel who provide patient care to patients in the NICCU should have their arms bare below the elbow (e.g. sleeves rolled up to the elbows) and should remove all rings, bracelets, and watches from their arms. The only exception is flat, unadorned rings.
+Hospital-Approved Skin Repair Cream:
+To be applied to clean dry hands for preventing skin breakdown and dryness.
+Use approximately twice per shift or as needed
+Will not interfere with the antimicrobial properties of chlorhexidine gluconate (CHG) or latex.
+Nails: The following policy statements apply to staff who engage in patient care, food service staff, clean patient rooms, handle sterile supplies, or restock supplies in patient rooms:
+Natural nail tips should be kept short and no longer than ¼ inch in length.
+Nail polish (including gel nail polish) may be worn only as long as it is not chipped. The only exception is food service staff and pharmacists working in sterile compounding pharmacies who may not wear nail polish.
+Artificial nails (including overlays, wraps, tips, or attached decorations) are NOT permitted
+Artificial nails have been associated with documented outbreaks of infection due to Gram-negative bacteria and fungi that persist even after the appropriate use of hand hygiene cleansing/sanitization procedures.
+Compliance with the policy is a Condition of Employment and has been reviewed by Human Resources, and Legal (refer to Policy HR – 049.0 Disciplinary Counseling  Procedures).
+
+REFERENCES:
+Guideline for Hand Hygiene in Health – Care Settings. Centers for Disease Control. MMWR October 25,2002 Vol.51 No. RR-16
+APIC text of Infection Control and Epidemiology. Chapter 27: Hand Hygiene, 2021.
+Pittett, Didier. Improving Compliance with Hand Hygiene. Prevention and Control of Nosocomial Infections Richard Wenzel Ed 4th Edition. Lippincott Williams and Wilkins Chapter 32 524-541
+Hedderwick, S., McNeil, S., Lyons, M., & Kauffman, C. (2000). Pathogenic organisms associated with artificial fingernails worn by healthcare workers. Infection Control and Hospital Epidemiology,  21(8).
+McNeil, S., Foster, C., Hedderwick, S., & Kauffman, C. (2001). Effect of hand cleaning with antimicrobial soap or alcohol-based gel on microbial colonization of artificial fingernails worn by health care workers. Clinical Infections Disease, 32, 367-72.
+Moolenaar, R., Crutcher, M., San Joaquin, S., Sewell, L., Hutwagner, L., Carson, L., et al. (2000). A prolonged outbreak of pseudomonas aeruginosa in a neonatal intensive care unit: Did staff fingernails play a role in disease transmission? Infection Control and Hospital Epidemiology, 21(2).
+Saiman, L., Lerner, A., Saal, L.., Todd, E., Fracaro, M., Schneider, N., et al. (2002). Banning artificial nails from health care settings. American Journal of Infection Control, June, 30(4), 252-254.
+Guidelines on Hand Hygiene in Healthcare. World Health Organization (WHO), 2009.
+CHLA Policy HR – 049.0 Disciplinary Counseling
+
+POLICY OWNER:
+Manager, Infection Prevention and Control

@@ -1,0 +1,113 @@
+                                                                                                                     Effective: 2/25/21
+                                                   IC – 825.1 APPENDIX A
+                                           Antibiotic Resistant Organisms
+
+                                                                  Organism
+           Definition of Organism                  Patients With            Positive (+)            Duration of       Infection Control
+                Resistance (R)                     Respiratory              Cultures From             Isolation       will flag record
+                                                   Symptoms (i.e.:          Other Body Sites                          for future
+                                                   pneumonia), Cystic       and All Other Non-                        inpatient
+                                                   Fibrosis, Artificial     respiratory                               encounters
+                                                   Airway (i.e.: trach,     Patients
+                                                   ET tube),
+                                                   Pneumonia or
+                                                   Severe Burns
+
+Acinetobacter baumannii:
+      Any + culture isolated until                 Droplet                  Contact             Off antibiotics for   Yes
+    susceptibilities reviewed by                   Precautions.             Precautions.        1 week and then
+    Infection Prevention and Control                                                            culture negative
+                                                                                                from same site.
+
+Alkaligenes xylosoxidans:
+     Any + culture isolated until                  Droplet                  Contact             Off antibiotics for   Yes
+    susceptibilities reviewed by                   Precautions.             Precautions.        1 week and then
+    Infection Prevention and Control                                                            culture negative
+                                                                                                from same site.
+
+Burkholderia cepacia:
+    Any + culture isolated until                   Droplet                  Contact             Indefinite for CF     Yes.
+    susceptibilities reviewed by                   Precautions              Precautions         patients
+    Infection Prevention and Control                                                            For infections in
+                                                                                                non-CF patients,
+                                                                                                off antibiotics for
+                                                                                                1 week and then
+                                                                                                culture negative
+                                                                                                from original site
+
+Enterococcus:
+    a. Resistance to vancomycin                    Droplet                  Contact             Off antibiotics for   Yes
+                                                   Precautions.             Precautions.        1 week and until
+                                                                                                3 negative
+                                                                                                cultures
+Gram negative bacteriac. a. Resistance to 3 or moreDroplet                  Contact             Off antibiotics for   Yes
+         classes of antibiotics ( broad            Precautions.             Precautions.        1 week and then
+         spectrum PCN,                                                                          culture negative
+         cephalosporins,                                                                        from the same
+         aminoglycosides,                                                                       site.
+         fluoroquinolones,
+         carbepenems)
+    d.    Suspicious for extended
+         spectrum  -lactamase
+         production (e.g., MIC >1ug/ml
+         to ceftazidime, cefpodoxine,
+         and others).
+                                                                            Organism
+                        Definition of Organism               Patients With             Positive (+)                 Duration of      Infection Control
+                             Resistance (R)                  Respiratory               Cultures From                  Isolation      will flag record
+                                                             Symptoms (i.e.:           Other Body Sites                              for future
+                                                             pneumonia), Cystic        and All Other Non-                            inpatient
+                                                             Fibrosis, Artificial      respiratory                                   encounters
+                                                             Airway (i.e.: trach,      Patients
+                                                             ET tube),
+                                                             Pneumonia or
+                                                             Severe Burns
+
+MRSA (Methicillin Resistant Staphylococcus Aureus) - see Staphylococcus aureus
+Staphylococcus aureus:
+    If resistant to methicillin/oxacillin.      Droplet                   Contact
+    If intermediate resistance to               Precautions.              Precautions.
+    vancomycin, also notify Infection
+    Prevention and Control ASAP.
+
+
+
+             Stenotrophomonas maltophilia:
+                  Any + culture isolated until               Droplet                   Contact                  Off antibiotics for  Yes.
+                 susceptibilities reviewed by                Precautions.              Precautions.             2 week and
+                 Infection Prevention and Control                                                               culture negative
+                                                                                                                from the same
+                                                                                                                site.
+
+             Tuberculosis:
+                 Isolate is resistant to any TB drug         Airborne                  Airborne                 Duration of          Yes, until
+                 and/or TB source has known drug             Precautions.              Precautions.             hospital stay.       deemed not
+                 resistant TB and/or clinical                                                                                        contagious (2
+                 suspicion for resistance (per ID or                                                                                 weeks Antbx,
+                 Epidemiology consult).                                                                                              sputum AFB
+                                                                                                                                     negative and
+                                                                                                                                     improved
+
+             VRE (Vancomycin Resistant Enterococci) – see Enterococcus
+
+             Epidemiologically significant organisms:
+                 Any organisms involved in a
+                 cluster of nosocomial infections
+
+             Note: This list should not be considered all inclusive. Other microorganisms with
+             antibiotic-resistance profiles considered by Epidemiology or the Infection Control
+             Committee to be epidemiologically significant may be added. Isolation measures may be
+             implemented or discontinued at the discretion of the infection prevention team or
+             hospital epidemiologist.
+
+
+
+Off antibiotics for      Yes.
+at least 1 week
+and then until 3
+negative cultures
+from nares and
+site(s)
+                        *Once this policy is printed or otherwise distributed from the CHLA Policies and Procedures Library, it is
+                          not considered a controlled document. Please review the electronic version of this policy in the CHLA
+                                             Policies and Procedures Library as this may not be the current version.

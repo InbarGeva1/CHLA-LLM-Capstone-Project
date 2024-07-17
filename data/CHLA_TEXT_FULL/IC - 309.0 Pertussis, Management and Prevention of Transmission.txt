@@ -1,0 +1,164 @@
+                                             HOSPITAL POLICY AND PROCEDURE MANUAL
+                                    TITLE: Pertussis, Management and Prevention of Transmission
+
+                                    ORIGINAL DATE:         EFFECTIVE DATE:         APPROVED BY: Medical Executive Committee and Board
+                                    12/01/2004             04/26/2018              of Directors
+
+                                    REVISED DATE:
+POLICY NUMBER: IC – 309.0CHLA       CHAPTER: ENTERPRISE – INFECTION CONTROL                                                  PAGE 1 of 4
+PURPOSE:
+
+The purpose of the following policy is to prevent the transmission of pertussis to susceptible persons,
+define a pertussis exposure and establish guidelines for the management of personnel exposed to
+pertussis.
+
+PROCEDURES:
+
+Background
+     1. Pertussis is spread by droplets generated during coughing or sneezing or during performance of
+     2. procedures.
+     3. When caring for a patient with pertussis, perform hand hygiene and wear gloves, gown and mask
+     4. prior to entering the patient’s room.
+     5. Healthcare workers caring for patients during or when performing potentially aerosol generating
+     6. procedures should wear an N 95 respirator.
+     7. All employees should be vaccinated with the Tdap vaccination as an adult and with each
+         pregnancy, as recommended by Employee Health Services.
+
+Staff Education
+Educate appropriate personnel in accordance with their level of responsibility in the health-care setting
+about the epidemiology, modes of transmission, and means of preventing the spread of pertussis.
+
+Case-Reporting, Disease Surveillance, and Case - Contact Notification
+     1. Report to the local and/or state health department all confirmed and suspected cases of pertussis.
+              a. Report patients <3months with a positive Pertussis PCR/culture to LACDPH
+                   Communicable Disease Control
+
+     2. Conduct active surveillance for cases of pertussis until 21 days after the onset of the last pertussis
+         case.
+              a. Notify persons who have had close contact with a case of pertussis in the health-care setting
+                   so that they can be monitored for symptoms of pertussis and/or administered appropriate
+                   chemoprophylaxis. Close contact includes face-to-face contact with a patient.
+
+Prevention of Pertussis Transmission
+     1. All employees should be vaccinated with Tdap vaccine.
+     2. During an outbreak
+              a. There is no minimum interval between receipt of a tetanus- or diphtheria-toxoid-containing
+                   vaccine and Tdap when Tdap is otherwise indicated
+           *Once this policy is printed or otherwise distributed from the CHLA Policies and Procedures Library, it is not
+           considered a controlled document. Please review the electronic version of this policy in the CHLA Policies and
+                                         Procedures Library as this may not be the current version.
+                                             HOSPITAL POLICY AND PROCEDURE MANUAL
+                                     TITLE: Pertussis, Management and Prevention of Transmission
+
+                                    ORIGINAL DATE:          EFFECTIVE DATE:        APPROVED BY: Medical Executive Committee and Board
+                                    12/01/2004              04/26/2018             of Directors
+
+                                    REVISED DATE:
+POLICY NUMBER: IC – 309.0CHLA       CHAPTER: ENTERPRISE – INFECTION CONTROL                                                   PAGE 2 of 4
+              b. Accelerate scheduled vaccinations to infants and children aged <7 years who have not
+                   completed their primary vaccinations.
+              c. Administration of a single dose of Tdap to children 7 through 10 years of age with
+                   incomplete or unknown pertussis vaccine history
+
+Patient Placement and Management
+Patients should be placed in Combined-Droplet precautions
+A mask, gown, and gloves are required when entering the patient room
+
+     1. For high hazard procedures an N95 mask is required
+     2. Place a patient with diagnosed pertussis in a private room, or if known not to have any other
+         respiratory infection or chronic conditions, in a room with other patient(s) with pertussis until
+         after the first 5 days of a full course of antimicrobial treatment or 21 days after the onset of cough if
+         unable to take antimicrobial treatment for pertussis.
+     3. Place a patient with suspected pertussis in a private room. After pertussis and no other infection is
+         confirmed, the patient can be placed in a room with other patient(s) (without any underlying
+         chronic conditions) who have pertussis after the first 5 days of a full course of antimicrobial
+         treatment or 21 days after the onset of cough if unable to take antimicrobial treatment for pertussis.
+     4. Perform diagnostic laboratory tests (for confirmation or exclusion of pertussis) on patients who are
+         admitted with or who develop signs and symptoms of pertussis.
+
+Use of a Prophylactic Antibiotic Regimen for Contacts of Persons with Pertussis
+     1. Administer a macrolide to any person who has had close contact with persons with pertussis and
+         who does not have hypersensitivity or intolerance to macrolides.
+              a. Except in infants aged <2 weeks, use erythromycin. For patients who are intolerant to
+                   erythromycin or for infants aged <2 weeks, use any of the following regimens:
+                   azithromycin for 5–7 days; or clarithromycin for 10–14 days
+     2. For chemoprophylaxis of persons who have hypersensitivity or intolerance to macrolides, use
+         (except in the case of a pregnant woman at term, a nursing mother, or an infant aged <2 months)
+         trimethoprim-sulfamethoxazole for 14 days
+
+Management of Symptomatic Health-Care Personnel
+     1. In conjunction with employee-health personnel, perform diagnostic laboratory tests for pertussis in
+         health-care personnel with illness suggestive of pertussis (i.e., unexplained cough illness of >1
+         week duration and paroxysmal cough)
+     2. In conjunction with employee-health personnel, treat symptomatic health-care personnel who are
+         proven to have pertussis or personnel who are highly suspected of having pertussis with the same
+         antimicrobial regimen, as detailed for chemoprophylaxis of case-contacts.
+           *Once this policy is printed or otherwise distributed from the CHLA Policies and Procedures Library, it is not
+           considered a controlled document. Please review the electronic version of this policy in the CHLA Policies and
+                                          Procedures Library as this may not be the current version.
+                                             HOSPITAL POLICY AND PROCEDURE MANUAL
+                                    TITLE: Pertussis, Management and Prevention of Transmission
+
+                                    ORIGINAL DATE:         EFFECTIVE DATE:         APPROVED BY: Medical Executive Committee and Board
+                                    12/01/2004             04/26/2018              of Directors
+
+                                    REVISED DATE:
+POLICY NUMBER: IC – 309.0CHLA       CHAPTER: ENTERPRISE – INFECTION CONTROL                                                  PAGE 3 of 4
+     3. Restrict symptomatic pertussis-infected healthcare workers from work during the first five (5) days
+         of their receipt of antimicrobial therapy.
+     4. Health care workers with symptoms of pertussis who cannot or refuse to take antimicrobial
+         therapy should be excluded from work for 21 days from onset of cough.
+
+Work Exclusion of Asymptomatic Health-Care Workers Exposed to Pertussis
+         1. Do not exclude from patient care a health-care worker who remains asymptomatic and is
+              receiving chemoprophylaxis after an exposure to a case of pertussis (i.e., by direct contact of
+              one's nasal or buccal mucosa with the respiratory secretions of an untreated person who is in
+              the catarrhal or paroxysmal stage of pertussis).
+         2. Where feasible, exclude an exposed, asymptomatic health-care worker who is unable to receive
+              chemoprophylaxis from providing care to a child aged <4 years during the period starting 7
+              days after the worker's first possible exposure until 14 days after his last possible exposure to a
+              case of pertussis.
+
+Other measures
+
+Limiting patient movement or transport
+Limit the movement and transport of a patient with diagnosed or suspected pertussis from his/her room
+to those for essential purposes only. If the patient is transported out of the room, ensure that precautions
+are maintained to minimize the risk for disease transmission to other patients and contamination of
+environmental surfaces or equipment.
+
+Limiting visitors
+Do not allow persons who have symptoms of respiratory infection to visit the hospital.
+
+REFERENCES:
+     1. CDC and HICPAC. Guidelines for Preventing Health-Care-Associated Pneumonia. 2003
+     2. CDC. 2005 Updates -Guidelines for the Control of Pertussis Outbreaks, 2005.
+     3. APIC Text of Infection Control and Epidemiology. Chapter 71: Bordetella pertussis, 2014.
+     4. Control of Communicable Diseases Manual. 20th Edition. Chin J. editor. APHA. 2014.
+     5. CDC, HICPAC. Guidelines for Infection Control in Hospital Personnel. 1998.
+     6. Red Book. Report of the Committee on Infectious Diseases. 2012.
+     7. Occupational Health, Chapter100, APIC Textbook, 20014
+     8. Aerosol Transmissible Disease Exposure Control Plan
+     9. CHLA policies
+         •    HR – 062.0 Influenza Vaccination
+
+           *Once this policy is printed or otherwise distributed from the CHLA Policies and Procedures Library, it is not
+           considered a controlled document. Please review the electronic version of this policy in the CHLA Policies and
+                                         Procedures Library as this may not be the current version.
+                                               HOSPITAL POLICY AND PROCEDURE MANUAL
+                                      TITLE: Pertussis, Management and Prevention of Transmission
+
+                                     ORIGINAL DATE:           EFFECTIVE DATE:         APPROVED BY: Medical Executive Committee and Board
+                                     12/01/2004               04/26/2018              of Directors
+
+                                     REVISED DATE:
+POLICY NUMBER: IC – 309.0CHLA        CHAPTER: ENTERPRISE – INFECTION CONTROL                                                      PAGE 4 of 4
+ATTACHMENTS:
+     1. IC – 309.1 Pertussis Background Information
+
+POLICY OWNER:
+Director, Infection Prevention and Control
+
+            *Once this policy is printed or otherwise distributed from the CHLA Policies and Procedures Library, it is not
+           considered a controlled document. Please review the electronic version of this policy in the CHLA Policies and
+                                           Procedures Library as this may not be the current version.

@@ -1,0 +1,87 @@
+                                             HOSPITAL POLICY AND PROCEDURE MANUAL
+                                     TITLE: Respiratory Syncytial Virus (RSV) Management and Prevention
+
+                                    ORIGINAL DATE:          EFFECTIVE DATE:        APPROVED BY: Quality Improvement Committee, Chief
+                                    06/01/1990              11/19/2021             Clinical Officer, Board of Directors
+
+                                    REVISED DATE:
+    CHLA                            09/21/2021
+POLICY NUMBER: IC – 310.0           CHAPTER: ENTERPRISE – INFECTION CONTROL                                                  PAGE 1 of 2
+ PURPOSE:
+
+ Respiratory Syncytial Virus (RSV) is one of the leading causes of respiratory tract infections in infants and
+ the elderly worldwide. RSV is an infectious agent that is transmitted by direct and indirect contact. The
+ management of patients diagnosed with, or highly suspicious of having RSV must be defined and
+ preventive measures instituted. The mode of transmission and high attack rate make RSV a significant
+ nosocomial pathogen, necessitating rapid implementation of infection prevention and control measures.
+
+ The purpose of the following policy is to prevent transmission of RSV to susceptible persons, define RSV
+ exposure, and establish guidelines for patient placement and management.
+
+ DEFINITIONS:
+
+     1. Mode of Transmission: RSV can be transmitted by direct contact with infected persons via large
+          particle droplets. Indirect transmission can occur from hands or fomites that are contaminated
+          with RSV.
+
+     2. Clinical Manifestation: The most common presentation of RSV is upper respiratory tract infection,
+          including sneezing, rhinorrhea, nasal congestion, cough, and often fever. Progression to lower tract
+          disease may result in bronchiolitis, tracheobronchiolitis, and pneumonia.
+
+ PROCEDURES:
+
+     1. Patients admitted to CHLA with symptoms of an acute respiratory illness must be placed in
+          Combined-Droplet precautions using mask, gloves, and gown for 7 days after positive test; or
+          return to baseline (whichever is longer). For high hazard procedures, an N95 mask is required per
+          CHLA’s ATD plan.
+
+     2. Mask, gloves, and gowns must be worn before entering the patient room. Stringent hand hygiene
+          must be practiced (5 Moments of Hand Hygiene).
+
+     3. Because of the virus’ ability to survive on hands and environmental surfaces, health care workers
+          should abstain from touching eyes, nose and mouth while caring for patients. Eyes, mouth and
+          nose are inoculation sites.
+
+     4. Place patients with diagnosed RSV in a private room, or if known not to have any other respiratory
+          infections or chronic conditions, in a room with other patient(s) with RSV
+
+            *Once this policy is printed or otherwise distributed from the CHLA Policies and Procedures Library, it is not
+            considered a controlled document. Please review the electronic version of this policy in the CHLA Policies and
+                                          Procedures Library as this may not be the current version.
+                                             HOSPITAL POLICY AND PROCEDURE MANUAL
+                                    TITLE: Respiratory Syncytial Virus (RSV) Management and Prevention
+
+                                    ORIGINAL DATE:         EFFECTIVE DATE:         APPROVED BY: Quality Improvement Committee, Chief
+                                    06/01/1990             11/19/2021              Clinical Officer, Board of Directors
+
+                                    REVISED DATE:
+   CHLA                             09/21/2021
+POLICY NUMBER: IC – 310.0           CHAPTER: ENTERPRISE – INFECTION CONTROL                                                  PAGE 2 of 2
+     5. Patients (without any underlying chronic conditions) who are symptomatic for or highly
+         suspicious of having RSV may be cohorted.
+
+     6. Do not cohort asymptomatic RSV positive patients with symptomatic RSV positive patients.
+         Patients can be re-infected.
+
+     7. In a multi bed room where a patient becomes symptomatic, and the patient cannot be moved to
+         another room, consider the entire room exposed. Mask, gown, and gloves must be used to prevent
+         cross infection to the other patients.
+
+     8. Repeat respiratory viral panel testing need not be done to discontinue isolation of asymptomatic
+         patients. Positive RSV may persist for 3-4 weeks, but infectiousness has not been determined.
+
+     9. The physician's clinical judgment will determine the management of patients with chronic
+         respiratory illnesses
+
+REFERENCES:
+     1. CDC. HICPAC. Guideline for Isolation Precautions: Preventing Transmission of Infectious Agents
+         in Healthcare Settings, 2007.
+     2. APIC Text of Infection Control and Epidemiology, 4th edition. Chapter 90: Respiratory Syncytial
+         Virus, 2014.
+
+POLICY OWNER:
+Executive Director, Infection Prevention, Accreditation and Licensing, Emergency Management
+
+           *Once this policy is printed or otherwise distributed from the CHLA Policies and Procedures Library, it is not
+           considered a controlled document. Please review the electronic version of this policy in the CHLA Policies and
+                                         Procedures Library as this may not be the current version.

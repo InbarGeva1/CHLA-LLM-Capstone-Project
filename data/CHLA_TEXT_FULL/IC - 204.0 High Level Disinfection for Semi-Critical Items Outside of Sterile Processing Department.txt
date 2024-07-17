@@ -1,0 +1,195 @@
+                                             HOSPITAL POLICY AND PROCEDURE MANUAL
+                                   TITLE: High Level Disinfection for Semi-Critical Items Outside of Sterile Processing Department
+
+                                   ORIGINAL DATE:           EFFECTIVE DATE:        APPROVED BY: Chief Clinical Officer and The Board of
+                                   01/01/2007               11/19/2021             Directors
+
+                                   REVISED DATE:
+  CHLA                             09/21/2021
+POLICY NUMBER: IC – 204.0          CHAPTER: ENTERPRISE – INFECTION CONTROL                                                    PAGE 1 of 4
+PURPOSE:
+
+Effective procedures for cleaning, high-level disinfection and sterilization procedures in health care
+settings are vital to the prevention of hospital-acquired infections. Most high-level disinfection and
+sterilization takes place in the hospital central Sterile Processing Department. The purpose of this policy
+and is to describe the qualifications and procedure for staff performing high level disinfection at
+Children’s Hospital Los Angeles outside of the hospital central Sterile Processing Department.
+
+DEFINITIONS:
+
+     1. High Level Disinfection (HLD): a process that results in the complete elimination of all microbial
+         life with the exception of bacterial spores.
+
+     2. Non-Critical item: a patient care item that comes into contact with intact skin only
+
+     3. Semi-Critical item: a patient care item that comes into contact with non-intact skin or intact
+         mucous membranes
+
+     4. Critical item: a patient care item that comes into contact with non-intact mucous membranes or
+         normally sterile spaces in the body
+
+     5. Single use item/ device: an item that is intended by the manufacturer for one use or on a single
+         patient during a single procedure.
+
+     6. Reusable patient care item: an item that is intended by the manufacturer to be reused on different
+         patients.
+
+PROCEDURES:
+
+     1. Sterilization of critical equipment should not be performed in any outpatient clinics or care centers;
+         all critical equipment should be sent back to central hospital Sterile Processing Department (SPD)
+         for reprocessing.
+     2. High Level Disinfection should be performed at the central hospital Sterile Processing Department
+         when feasible. However, HLD may be performed outside of SPD if the following conditions are
+         met:
+              o Approval for performing HLD outside of the Sterile Processing Department is granted by
+                   the Medical Director of Infection Prevention and Control and the Infection Control
+
+           *Once this policy is printed or otherwise distributed from the CHLA Policies and Procedures Library, it is not
+           considered a controlled document. Please review the electronic version of this policy in the CHLA Policies and
+                                          Procedures Library as this may not be the current version.
+                                            HOSPITAL POLICY AND PROCEDURE MANUAL
+                                   TITLE: High Level Disinfection for Semi-Critical Items Outside of Sterile Processing Department
+
+                                  ORIGINAL DATE:           EFFECTIVE DATE:         APPROVED BY: Chief Clinical Officer and The Board of
+                                  01/01/2007               11/19/2021              Directors
+
+                                  REVISED DATE:
+  CHLA                            09/21/2021
+POLICY NUMBER: IC – 204.0         CHAPTER: ENTERPRISE – INFECTION CONTROL                                                     PAGE 2 of 4
+                   Committee (ICC).
+              o Infection Prevention and Control staff will inspect the facilities and equipment set up for
+                   performing high level disinfection outside of Sterile Processing Department to ensure all
+                   necessary equipment is present and the environment of care is acceptable per regulatory
+                   standards.
+              o Staff performing high level disinfection, both on and offsite, shall undergo annual training
+                   in High-Level Disinfection.
+              o Staff performing high level disinfection outside of Sterile Processing Department must
+                   complete an observed competency conducted by SPD and Infection Prevention and Control
+                   staff. This competency is maintained by the unit manager in the employee personnel file.
+
+High-Level Disinfection Steps:
+
+1. Pre-Cleaning
+     o Any instrument or item that will be High-Level Disinfected or Sterilized must be pre-cleaned with
+         a hospital-approved enzymatic cleaner immediately after use to facilitate removal of bioburden.
+     o Items should be transferred from the patient room to the designated disinfection area in a covered
+         biohazard bin.
+     o For items that are transferred from outpatient clinics or care centers to SPD, they should be pre-
+         cleaned prior to transportation.
+     o Staff should don the following PPE prior to pre-cleaning: gown, face shield/eye protection, and
+         mask.
+
+2. Manual Cleaning (not applicable for items disinfected in the Trophon automated probe
+     disinfection system)
+           o The employee who is performing manual cleaning with a chemical disinfection must wear
+                personal protection that will include:
+                   a.       impervious gown
+                   b.       fluid-proof face mask
+                   c.       eye protection (i.e. splash proof goggles)
+                   d.       extended cuff gloves
+           o All surfaces and lumens of the equipment must be thoroughly and manually cleaned with an
+                enzymatic cleaner and dried before disinfection.
+           o All blood, mucus, and other body fluids must be completely removed to ensure effective
+                disinfection.
+
+3. High-Level Disinfection
+         a. Disinfection procedures will conform to the manufacturer Instructions for Use, as well as
+           *Once this policy is printed or otherwise distributed from the CHLA Policies and Procedures Library, it is not
+           considered a controlled document. Please review the electronic version of this policy in the CHLA Policies and
+                                         Procedures Library as this may not be the current version.
+                                             HOSPITAL POLICY AND PROCEDURE MANUAL
+                                   TITLE: High Level Disinfection for Semi-Critical Items Outside of Sterile Processing Department
+
+                                  ORIGINAL DATE:            EFFECTIVE DATE:        APPROVED BY: Chief Clinical Officer and The Board of
+                                  01/01/2007                11/19/2021             Directors
+
+                                  REVISED DATE:
+  CHLA                            09/21/2021
+POLICY NUMBER: IC – 204.0         CHAPTER: ENTERPRISE – INFECTION CONTROL                                                     PAGE 3 of 4
+              national standards disinfection (i.e. CDC, APIC, AORN, SGNA, ISHCSMM, TJC, and OSHA.)
+         b. Guidelines specific to channeled endoscopes can be found in policy PER - 130.0 Reprocessing of
+              Channeled Flexible Endoscopes.
+         c. HLD will be performed only on reusable medical devices that are listed in the semi-critical
+              category, which include those items that come in contact with unbroken skin or mucous
+              membrane. These items include but are not limited to the following: respiratory equipment,
+              anesthesia equipment, ENT equipment, TEE probes for Cardiology, vaginal/rectal ultrasound
+              probes.
+         d. Only chemical agents registered with the EPA as disinfectants are appropriate for high-level
+              disinfection. Manufacturer Instructions for Use should be followed and only hospital-
+              approved HLD solution should be used.
+
+         e. The employee who is performing the disinfection must wear personal protection that will
+              include:
+                                 •    impervious gown.
+                                 •    fluid-proof face mask.
+                                 •    eye protection (i.e.: splash proof goggles).
+                                 •    extended cuff gloves
+
+         f. The disinfectant solution will be tested before use with hospital approved test strips and/or
+              chemical indicator to ensure a consistent concentration. Results of testing shall be documented.
+         g. The container storing the disinfectant will be labeled with the chemical being used and the
+              expiration date if applicable. The disinfectant will be stored in a container that can be covered
+              with a well fitting lid when not in use to prevent the escape of fumes into the general area.
+         h. The instrument or item being High-Level Disinfectant must be allowed to remain fully
+              immersed in the disinfectant for the length of time recommended by the manufacturer.
+         i.   All surfaces and lumens of the item should be thoroughly rinsed with sterile water following
+              disinfection and dried before storage.
+         j.   Ultrasound probes reprocessed in the automated Trophon system should be cleaned and dried
+              before being placed into the Trophon system. After the system has completed its disinfection,
+              the probe should only be wiped with a clean cloth after disinfection (no rinsing with sterile
+              water).
+Storage
+
+Devices must be stored in a way that prevents recontamination or damage between uses.
+
+Disposal
+           *Once this policy is printed or otherwise distributed from the CHLA Policies and Procedures Library, it is not
+           considered a controlled document. Please review the electronic version of this policy in the CHLA Policies and
+                                          Procedures Library as this may not be the current version.
+                                            HOSPITAL POLICY AND PROCEDURE MANUAL
+                                   TITLE: High Level Disinfection for Semi-Critical Items Outside of Sterile Processing Department
+
+                                  ORIGINAL DATE:           EFFECTIVE DATE:         APPROVED BY: Chief Clinical Officer and The Board of
+                                  01/01/2007               11/19/2021              Directors
+
+                                  REVISED DATE:
+  CHLA                            09/21/2021
+POLICY NUMBER: IC – 204.0         CHAPTER: ENTERPRISE – INFECTION CONTROL                                                    PAGE 4 of 4
+The solution must be neutralized with an approved agent before the used solution may be discarded in
+standard sewer system. Alternately, if the pH of the neutralized solution has not been tested, the used
+solution will be hauled as toxic waste by an approved waste hauler.
+
+Employee Monitoring
+
+Employees involved in high-level disinfection should report to Employee Health immediately any
+symptoms suggesting overexposure to high level disinfection solution (i.e.: nausea, vomiting, respiratory,
+eye or skin problems).
+
+Transport
+
+Any instrument or item being transported for reprocessing must be transported by a hospital-approved
+     courier service. Soiled items should be pre-cleaned prior to transport to help facilitate removal of
+     bioburden. Items should be transported in a leak-proof, puncture-proof, covered biohazard bin.
+
+ATTACHMENTS
+     1. IC – 204.1 Appendix A Overview of Protocol for Enhanced Cleaning, Disinfection and Quality
+         Control
+
+RELATED POLICIES:
+     1. PER - 130.0 Reprocessing of Channeled Flexible Endoscope
+     2. PER – 113.0 Instrument Decontamination Process
+     3. IC – 219.0 Reprocessing of Single Use Devices
+
+REFERENCES:
+     1. Rutala WA, ed. Cleaning, Disinfection and Sterilization. 2010
+     2. LA City Regulations on Management and Disposal of Toxic Wastes
+     3. APIC text of Infection Control and Epidemiology 4th Edition, 2014. Chapter 31 -Cleaning
+         Disinfection and Sterilization.
+
+POLICY OWNER:
+Executive Director, Accreditation & Licensing, Infection Prevention, and Emergency Management
+
+           *Once this policy is printed or otherwise distributed from the CHLA Policies and Procedures Library, it is not
+           considered a controlled document. Please review the electronic version of this policy in the CHLA Policies and
+                                         Procedures Library as this may not be the current version.

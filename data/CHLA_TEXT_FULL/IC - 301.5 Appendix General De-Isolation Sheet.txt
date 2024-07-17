@@ -1,0 +1,135 @@
+                                                 IC – 301.5: De-Isolation Sheet – Appendix G
+
+Disease/Organism                                Isolation Type                         Discontinuing Isolations
+
+COVID-19                                        Combined-Eyewear /                     Please refer to most up-to-date De-isolation reference
+                                                Combined-Eyewear A                     guide for COVID-19
+
+Respiratory (Viral)                             Combined-Droplet                       7 days after positive test if asymptomatic or until
+                                                                                       patient returns to baseline (whichever is longer)
+
+MRSA/VRE/MDRO                                   Contact                                3 negative cultures (taken from nares or site of
+                                                                                       infection) once patient is off therapeutic dosing of abx
+                                                                                       directed against organism for at least 1 week. Cultures
+                                                                                       must be taken 1 week apart.
+
+                                                                                       If organism is positive from a sterile body site, blood,
+                                                                                       wound that has since resolved or site no longer
+                                                                                       accessible (decannulated trach, extubated) patient
+                                                                                       can be de-isolated once they have been off antibiotics
+                                                                                       for 7 days and do not require a negative culture.
+
+MRSA Colonized                                  Standard                               History of MRSA positive result from the nares with no
+                                                                                       active infectious symptoms
+
+CRE/CRO (Blood, Skin, Wound)                    Contact                                Patients are placed on isolation indefinitely
+
+CRE/CRO (Respiratory)                           Combined-Droplet                       Patients are placed on isolation indefinitely
+
+B. cepacia                                      Contact                                1 negative culture once patient is off abx for at least 1
+                                                                                       week.
+                                                                                       *CF patients are on isolation indefinitely
+
+Scabies                                         Contact                                24 hours after therapy
+
+Lice (head)                                     Contact                                Patient has been treated with effective therapy and
+                                                                                       hair has been thoroughly examined for 7 days and
+                                                                                       there is no evidence of live lice and nits
+
+Cellulitis                                      Standard                               Duration of illness
+
+C. diff                                         Contact +                              ●     48 hours after diarrhea resolves unless the below
+                                                                                             is true.
+                                                                                       ●     For Oncology/BMT patients, isolation for the
+                                                                                             duration of positive culture admission.
+                                                                                       ●     For BMT patients with a history of C. diff, they
+                                                                                             should be isolated on subsequent admissions for
+                                                                                             transplant.
+
+Norovirus (diarrhea)                            Contact +                              48 hours after diarrhea resolves
+
+Norovirus (vomiting or                          Combined-Droplet +                     48 hours after vomiting and/or diarrhea resolved
+vomiting and diarrhea)
+
+Rubella (congenital)                            Contact                                Until 1 year old. 2 negative cultures after 3 months.
+                                                                                       Negative cultures should be done 1 month apart
+
+             *Once this policy is printed or otherwise distributed from the CHLA Policies and Procedures Library, it is not
+             considered a controlled document. Please review the electronic version of this policy in the CHLA Policies and
+                                               Procedures Library as this may not be the current version.
+                                                                                                                                 Approved by ICC 08/18/2020
+                                                                                                                                          Revised 04/27/2022
+Herpes Zoster (shingles)                     Combined-Airborne                      Until all lesions are crusted over
+Localized disease in
+immunocompromised patient
+until disseminated infection
+ruled out
+
+Herpes Zoster (shingles)                     Standard                               N/A
+Localized in immunocompetent
+patient) with lesions that can
+be contained/covered
+
+Varicella Zoster                             Combined-Airborne                      Until all lesions are crusted over
+
+Measles                                      Combined-Airborne                      4 days after onset of rash. If patients are immune
+                                                                                    compromised, isolation for duration of illness
+
+TB (known/suspect)                           Combined-Airborne                      ●    Known MTB positive - completion of appropriate
+                                                                                         MTB therapy and 2 negative MTB PCRs
+                                                                                         (respiratory or gastric aspirate specimens) eight
+                                                                                         hours apart, and a plausible alternative diagnosis
+                                                                                    ●    High suspicion for MTB - 2 negative MTB PCRs
+                                                                                         (respiratory or gastric aspirate specimens) eight
+                                                                                         hours apart, and a plausible alternative diagnosis
+                                                                                    ●    Low suspicion for MTB - 1 negative MTB PCR
+                                                                                         (respiratory or gastric aspirate specimen) , and a
+                                                                                         plausible alternative diagnosis
+
+Mumps                                        Combined-Droplet                       9 days after onset of swelling.
+
+Pertussis                                    Combined-Droplet                       After 5 days of abx, or 21 days after onset if no abx
+                                                                                    given
+
+                                                                 Viral Pneumonia
+
+Viral (RVPCR negative)                       Standard Precaution
+
+Viral (RVPCR positive for one                Combined-Droplet                       7 days after positive test and/or when symptoms
+or more respiratory viruses)                                                        resolve
+
+                                                              Bacterial Pneumonia
+
+Bacterial, other than those                  Combined-Droplet                       24 hours after initiation of effective abx.
+listed above
+
+MRSA and Multi-drug resistant                Combined-Droplet                       See MDRO de-isolation policy
+gram negatives
+
+Mycoplasma                                   Combined-Droplet                       Duration of symptoms
+
+Group A Streptococcus                        Contact or Combined-                   24 hours after initiation of effective abx.
+                                             Droplet
+
+Streptococcus pneumoniae                     Standard                               N/A
+
+Bacterial or fungal species                  Standard                               N/A
+identified other that those
+listed above
+
+            *Once this policy is printed or otherwise distributed from the CHLA Policies and Procedures Library, it is not
+            considered a controlled document. Please review the electronic version of this policy in the CHLA Policies and
+                                             Procedures Library as this may not be the current version.
+                                                                                                                           Approved by ICC 08/18/2020
+                                                                                                                                     Revised 04/27/2022
+Bronchitis                                       Combined-Droplet                         24 hours after initiation of effective abx.
+
+Epiglottitis                                     Combined-Droplet                         24 hours after initiation of effective abx.
+
+Meninges (Bacterial)                             Combined-Droplet                         24 hours after initiation of effective abx.
+
+              *Once this policy is printed or otherwise distributed from the CHLA Policies and Procedures Library, it is not
+             considered a controlled document. Please review the electronic version of this policy in the CHLA Policies and
+                                                 Procedures Library as this may not be the current version.
+                                                                                                                                     Approved by ICC 08/18/2020
+                                                                                                                                               Revised 04/27/2022

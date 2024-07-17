@@ -1,0 +1,58 @@
+                                                      CHLA HOSPITAL POLICY AND PROCEDURE MANUAL
+                                                        Algorithm for Management of Varicella Exposure
+
+                                                           ORIGINAL DATE: 11/06                    REVISED DATE: 10/20
+
+                     POLICY NUMBER: IC-303.2 CHAPTER: Infection Control                               APPROVED BY: Hospital Infection Control Committee
+
+                                                                                      Identify Index
+                                                                                           Case
+
+                                                                                       Confirmed
+● Isolation of VZV from a clinical specimen
+● Detection of VZV DNA by PCR tests from a clinical specimen, ideally scabs, vesicular fluid, or cells from the base of a lesion
+● Fourfold or greater rise in serum varicella IgG antibody titer
+
+                                                                                        Probable
+                                                                               Index of suspicion is high:
+
+● Acute onset of diffuse maculopapular/vesicular rash without other apparent cause
+● No history of Varicella vaccination or prior Varicella infection
+● Possible exposure to VZV patient in the past 3 weeks
+
+                Is the index Case Infectious?                   No                No Action
+                       Infectious Period
+              A) Two days before onset of                                             Identify Exposed Contacts                            ● Notify Infection Control Ext 15510
+              rash until lesions are crusted                                                Students, visitors)                            (during normal business hours). After
+              over Does the case require                                                Note: exposure to VZV(patients, employees/ is      hours/holidays/weekends contact ID
+                                                                                                                                           physician on call and leave a message on
+                     exposure follow-up?                       Yes                         defined as prolonged                            the IC voicemail
+              A) Disseminated lesions                                                       contact (>5 mins) in                           ● Begin collecting names of exposed
+              B) Localized lesions on >2                                                adjacent rooms or waiting                          contacts
+              dermatomes                                                                rooms if index patient not                         ● After hours contact LACDPH to report
+              C) Localized lesions in an                                                      isolated properly                            case (213) 240-7941
+              immunocompromised patient
+
+                       Determine who among the exposed is susceptible: (Not immunized against VZV, no history of VZV disease,
+                       immunocompromised patients)
+
+                                                   No                 No Action
+                        Patients                                      ● If immunocompromised:
+                                                                      Administer Varicella-Zoster                              All patients:
+                                                                      Immune Gloublin within 3-5 days                          Monitor for symptoms and
+                                                  Yes                 post-exposure but up to 10 days                          isolate in Airborne
+                                                                      post exposure.                                           Precautions from day
+                                                                                                                               8-21 after exposure. If
+                                                                                                                               patient received VariZIG
+                                                   No                  No Action                                               or IGIV day 8-28 after
+                                                                                                                               exposure
+
+                       CHLA Team                                      ●Off work for incubation period,                                                                      Appropriate work
+                       Members                    Yes                 8-21 days following exposure                           Employee contacts EHS for                         restrictions if
+                                                                                                                             clearance to return to work                      active disease
+
+                                                   No                  No Action
+
+                        Visitors                                      Limit or restrict hospital
+                                                  Yes                 visitation for incubation
+                                                                                period

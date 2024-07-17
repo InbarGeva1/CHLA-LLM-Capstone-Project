@@ -1,0 +1,125 @@
+                                               HOSPITAL POLICY AND PROCEDURE MANUAL
+                                      TITLE: Risk Assessments for Construction and Renovation Projects
+
+                                      ORIGINAL DATE:         EFFECTIVE DATE:        APPROVED BY: Emergency Pandemic Leadership
+                                      03/05/2013             06/26/20
+
+                                      REVISED DATE:
+ POLICY NUMBER: IC – 828.0CHLA        CHAPTER: ENTERPRISE – INFECTION CONTROL                                                  PAGE 1 of 3
+PURPOSE:
+
+To outline Infection Prevention and Control measures that will be implemented during all phases of
+renovation or construction that takes place in patient care and employee office areas. Implementing
+evidence-based containment measures during construction and renovation projects aims to prevent and
+mitigate transmission of air and waterborne biological contaminants during construction or renovation
+projects.
+
+PROCEDURES:
+
+    A. The Project Manager will be responsible for the initiation of the Infection Prevention Environmental
+         process.
+
+    B. The Project Manager and Infection Prevention and Control (IPC) team will discuss environmental
+         protection measures before any major construction project begins.
+
+    C. For projects that are professionally designed, the Project Manager (architect and/or engineer) shall
+         certify that the proposed construction or renovation project was designed in accordance with
+         applicable codes and standards.
+
+    D. The Project Manager will first conduct a preliminary risk assessment using the Infection Control
+         Risk Assessment (ICRA) Form (see attachment IC - 828.1) to determine if the project warrants
+         involvement by the Infection Prevention and Control (IPC) team. Construction and renovation not
+         taking place in patient care areas, patient common areas, or employee office areas does not need
+         oversight by IPC. If results of the preliminary risk assessment indicate the need for IPC oversight, a
+         member of the IPC team shall then complete an ICRA form.
+
+    E. The ICRA shall be based on scope and location of the work in order to establish the specific set of
+         applicable requirements for infection prevention and control and monitoring throughout
+         construction. The ICRA form will be completed by the following steps:
+
+              1. Determine the Construction Activity Type from the following options:
+                         a. Type A: Non-Invasive inspection or minor repair work
+                         b. Type B: Small-scale, short-duration maintenance, repair and component installation
+                            which create minimal dust
+                         c. Type C: Work that generates moderate to high levels of dust or requires demolition
+                            or removal of any fixed building components or assemblies.
+                         d. Type D: Major demolition, renovation and new construction projects.
+           *Once this policy is printed or otherwise distributed from the CHLA Policies and Procedures Library, it is not
+           considered a controlled document. Please review the electronic version of this policy in the CHLA Policies and
+                                         Procedures Library as this may not be the current version.
+                                               HOSPITAL POLICY AND PROCEDURE MANUAL
+                                      TITLE: Risk Assessments for Construction and Renovation Projects
+
+                                     ORIGINAL DATE:          EFFECTIVE DATE:        APPROVED BY: Emergency Pandemic Leadership
+                                     03/05/2013              06/26/20
+
+                                     REVISED DATE:
+ POLICY NUMBER: IC – 828.0CHLA       CHAPTER: ENTERPRISE – INFECTION CONTROL                                                  PAGE 2 of 3
+              2. Identify Infection risk groups:
+                         a. Lowest: Office areas
+                         b. Medium: Medium Risk Outpatient Clinics (see attachment IC – 828.2), Physical
+                            Therapy, Radiology/Imaging, Laboratory, Blood Donor Center
+                         c. High: High Risk Outpatient Clinics (see attachment IC - 828.2), Dialysis,
+                            Hemodialysis, Emergency Room, Medical/Surgical Units, Pharmacy, Post
+                            Anesthesia Care Unit, Duque 6 N Rehab
+                         d. Highest: Highest Risk Outpatient Clinics (see attachment IC - 828.2), BMT, 4 East, 4
+                            West, Cardiac Cath Lab, Sterile Processing Department, Intensive Care Units, ASC
+                            (Ambulatory Surgery Center), Sedation Unit, Radiation Oncology, Operating Rooms
+
+              3. Cross reference the selected Construction Activity Type with the selected Infection Risk
+                  group in order to determine the Class of Precautions required (I, II, III, or IV). See Table 1
+                  below.
+                                                        Table 1. Construction Project Type
+
+                 Patient Level Risk           Type A              Type B                   Type C                   Type D
+                 Group
+                 Low Risk Group               I                   II                       II                       III/IV
+                 Medium Risk Group            I                   II                       III                      IV
+                 High Risk Group              I                   II                       III/IV                   IV
+                 Highest Risk Group           II                  III/IV                   III/IV                   IV
+
+              4. Follow appropriate precaution requirements for resulting project class as listed in the ICRA
+                  form (see attachment IC – 828.1).
+
+    F. The Project Manager and IPC team will agree to a routine monitoring schedule of the
+         construction/renovation jobs for ICRA Compliance using the IPC Rounding Sheet (see attachment
+         IC-828C).
+    G. The Project Manager will inform contractors of the Infection Prevention and Control guidelines and
+         provide them with the ICRA form.
+    H. The managers/unit leaders of the patient care areas involved will be notified by the Project
+         manager before work begins on any construction or renovation projects in or adjacent to patient
+         care areas in order to establish all necessary and appropriate protective measures.
+    I. The IPC team will be informed of problems or project changes as needed.
+
+REFERENCES:
+
+           *Once this policy is printed or otherwise distributed from the CHLA Policies and Procedures Library, it is not
+           considered a controlled document. Please review the electronic version of this policy in the CHLA Policies and
+                                         Procedures Library as this may not be the current version.
+                                               HOSPITAL POLICY AND PROCEDURE MANUAL
+                                      TITLE: Risk Assessments for Construction and Renovation Projects
+
+                                      ORIGINAL DATE:         EFFECTIVE DATE:         APPROVED BY: Emergency Pandemic Leadership
+                                      03/05/2013             06/26/20
+
+                                      REVISED DATE:
+ POLICY NUMBER: IC – 828.0CHLA        CHAPTER: ENTERPRISE – INFECTION CONTROL                                                  PAGE 3 of 3
+     1. Guidelines for Design and Construction of Hospitals and Healthcare facilities, 2001, published by
+         the AIA.
+     2. APIC text of Infection Control and Epidemiology. Chapter 116: Construction and Renovation,
+         2014.
+     3. APIC Infection Control Tool Kit: Construction and Renovation, Judene Barley, 2007.
+     4. Infection Control During Construction, A Guide to Prevention and JCAHO Compliance, 2002,
+         published by Opus Communications, Inc.
+
+ATTACHMENTS:
+     1. IC – 828.1 Infection Control Risk Assessment (ICRA) Form
+     2. IC – 828.2 List of Outpatient Clinics with Patient Level Risk Group
+     3. IC – 828.3 IPC Rounding Sheet
+
+POLICY OWNER:
+Director, Accreditation & Licensing, Infection Prevention, and Emergency Management
+
+           *Once this policy is printed or otherwise distributed from the CHLA Policies and Procedures Library, it is not
+           considered a controlled document. Please review the electronic version of this policy in the CHLA Policies and
+                                         Procedures Library as this may not be the current version.

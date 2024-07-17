@@ -1,0 +1,41 @@
+PURPOSE:
+
+Exposure of Pre-hospital emergency personnel to emergency victims may, on occasion, present risks for contracting a communicable Infectious disease.
+Patients at higher risk for communicable infectious diseases tend to use emergency services at a higher rate than the general population.  All emergency victims, therefore, present a potential risk to all care providers. EMS personnel may be at risk for bloodborne pathogens (e.g. HIV, Hepatitis), pathogens transmitted by direct contact (e.g. Multi-Drug Resistant Organisms), pathogens transmitted by respiratory droplets (e.g. upper respiratory infections, influenza, pneumonia, Tuberculosis), and more.
+The purpose of the following policy is to outline infection prevention strategies and exposure follow-up for EMS personnel.
+
+
+PROCEDURES:
+
+Standard Precautions should be followed at all times when caring for patients. See IC 220.0 for more details.
+Eating, drinking, storing food/drinks, and activities that involve touching one’s face or mouth should be avoided where there is a risk of occupational exposure to blood or body fluids.
+If patient has confirmed or suspected communicable diseases, emergency personnel should use appropriate personal protective equipment (PPE) that is available in transport vehicles and/or helicopters as per policy IC 220.0 Standard Precautions or IC 301.0 Isolation Precautions.
+EMS personnel should perform hand hygiene according to IC 212.0 Hand Hygiene.
+Transport vehicles and equipment should be disinfected between patient use as per IC 716.0 Cleaning Disinfection.
+
+
+Exposure of Transportation personnel
+If there is a suspected or confirmed bloodborne pathogen or communicable disease exposure:
+
+The exposed personnel will notify their employer immediately and follow the agency Occupational Health policy.
+Contracted helicopter pilots and Emergency Medical Technicians (EMTs) are treated under CHLA Employee Exposure Plan and seen by Employee Health Service (refer to IC – 601.0 Management of Blood Borne Pathogen Exposure and IC – 602.0 Employee Exposures). Follow-up actions shall be documented and confidential records shall be maintained by Employee Health Services.
+Infection Prevention and Control and Employee Health shall be informed of exposure incidents.
+If EMS personnel may have been involved in an exposure to a patient determined to have a communicable disease requiring prophylaxis or follow-up testing, Infection Prevention will notify the EMS agency and/or transferring hospital as soon as possible for notification and follow-up testing or prophylaxis recommendations.
+The exposed individual may need to be restricted from work depending on the type of communicable disease. See IC – 602.0 Employee Exposures for more details.
+
+
+REFERENCES:
+CA Health and Safety Code. Section 1797.188, Jan. 15, 2011
+APIC Guide to Infection Prevention in Emergency Medical Services. 2013. https://www.ems.gov/pdf/workforce/Guide_Infection_Prevention_EMS.pdf
+Occupational Safety and Health Administration Bloodborne Pathogens Standard 29 CFR 1910.1030. 2011.
+IC - 220.0 Standard Precaution
+IC - 301.0 Isolation Precautions
+IC – 601.0 Management of Blood Borne Pathogen Exposure
+IC – 602.0 Employee Exposures
+IC - 716.0 Cleaning Disinfection
+
+
+POLICY OWNER:
+Director, Infection Prevention and Control
+
+

@@ -1,0 +1,87 @@
+                           IC – 301.2 APPENDIX B: Personal Protective Equipment for Transmission-Based Precautions
+
+          PPE Required for Transmission-Based Precautions:
+
+                Standard         Contact         Combined
+                                                   Droplet
+
+ Private            No              Yes               Yes
+  Room
+  Hand              Yes             Yes               Yes
+hygiene
+
+
+ Gloves        As needed11          Yes               Yes
+  Gown         As needed1           Yes               Yes
+  Mask         As needed            No         Surgical mask
+                                                 (N95 mask
+                                                during high-
+                                                    hazard
+                                                procedures2)
+
+          Recommendations for Hand Hygiene, Donning & Doffing PPE for Transmission-Based Precautions:
+          Please note that these guidelines recommend donning gloves inside the patient room. Staff may also don gloves outside
+          the patient room as long as they do not use their gloved hand to open the patient room door.
+
+          Type of Isolation          Upon Entering the Room                                      Upon Leaving the Room
+
+                Standard             Upon entering the room, use the hand                        If PPE is necessary1, take off gown, gloves, mask
+              Precautions            hygiene pump inside the room.                               carefully at doorway.
+                                     If PPE is necessary1, don gown and/or mask                  Upon leaving the room, use hand hygiene pump
+                                     outside patient room, open door, perform                    outside the door.
+                                     hand hygiene inside room, and don gloves
+                                     inside room.
+
+                 Contact             Put on gown outside room. Open patient                      Take off gown and gloves carefully at doorway.
+              Precautions            room door, perform hand hygiene inside                      Leave the room and use hand hygiene pump
+                                     room, put on gloves inside room.                            outside the door.
+
+                Contact +            Put on gown outside room. Open patient                      Take off gown and gloves carefully at doorway.
+              Precautions            room door, perform hand hygiene inside                      Leave the room, immediately walk to closest sink
+                                     room (hand sanitizer okay prior to touching                 and wash hands with soap and water.
+                                     patient), put on gloves inside room.
+
+  Combined           Contact         Combined           Protective        Mask
+   Airborne             (+)          Droplet (+)         Isolation       Isolatio
+                                                                             n
+      Yes               Yes               Yes                Yes            Yes
+
+      Yes              Soap           Soap and               Yes            Yes
+                        and          water wash
+                       water
+                       wash
+      Yes               Yes               Yes                Yes            No
+      Yes               Yes               Yes                Yes            No
+  N95 Mask              No         Surgical mask          Surgical       Surgical
+(PAPR during                         (N95 mask             mask           mask
+ high-hazard                        during high-
+procedures2)                           hazard
+                                    procedures2)
+          1 During procedures and patent care activities likely to generate splashes or sprays of blood, body fluids, secretions,
+          and/or excretions
+          2 For more information about high-hazard procedures, see IC 800 Aerosol Transmissible Disease (ATD) Exposure Control
+          Plan
+Combined-Droplet           Put on gown and mask outside room. Open                     Take off gown, mask, and gloves carefully at
+    Precautions            patient room door, perform hand hygiene                     doorway. Leave the room and use hand hygiene
+                           inside room, put on gloves inside room.                     pump outside the door.
+
+Combined-Droplet           Put on gown and mask outside room. Open                     Take off gown, gloves, and mask carefully at
+   + Precautions           patient room door, perform hand hygiene                     doorway. Leave the room, immediately walk to
+                           inside room (hand sanitizer okay prior to                   closest sink and wash hands with soap and water.
+                           touching patient), put on gloves inside room.
+
+     Combined              Put on gown and N95 mask in anteroom.                       Take off gloves, gown, and N95 mask in anteroom.
+      Airborne             Open patient room door, perform hand                        Leave anteroom and perform hand hygiene outside
+    Precautions            hygiene inside patient room, put on gloves                  the anteroom.
+                           inside patient room.
+
+   Mask Isolation          Put on mask outside room. Open patient                      Take off mask carefully at doorway. Leave the room
+                           room door, perform hand hygiene inside                      and use hand hygiene pump outside the door.
+                           room.
+
+     Protective            Put on gown and mask outside room. Open                     Take off gown, mask, and gloves carefully at
+    Precautions            patient room door, perform hand hygiene                     doorway. Leave the room and use hand hygiene
+                           inside room, put on gloves inside room.                     pump outside the door.
+
+See IC 220A Example of Safe Donning and Removal of Personal Protective Equipment (PPE) for more details on how to
+properly don and doff PPE.

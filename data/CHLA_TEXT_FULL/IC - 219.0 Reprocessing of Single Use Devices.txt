@@ -1,0 +1,138 @@
+                                             HOSPITAL POLICY AND PROCEDURE MANUAL
+                                     TITLE: Reprocessing of Single Use Devices
+
+                                    ORIGINAL DATE:         EFFECTIVE DATE:         APPROVED BY: Quality Improvement Committee, Chief
+                                    05/01/1993             11/19/2021              Clinical Officer, Board of Directors
+
+                                    REVISED DATE:
+   CHLA                             09/21/2021
+POLICY NUMBER: IC – 219.0           CHAPTER: ENTERPRISE – INFECTION CONTROL                                                   PAGE 1 of 3
+PURPOSE:
+
+To state the position of Children’s Hospital Los Angeles on the practice of reprocessing and reusing medical
+devices that are intended to be used only once. To ensure patient safety and to meet FDA regulations
+
+DEFINITION:
+
+     1. Single-Use Device (SUD): A SUD is a device that is intended for one use or on a single patient
+         during a single procedure.
+     2. Reprocessed Single-Use Device (SUD): A reprocessed SUD is an original device that has
+         previously been used on a patient and has been subjected to additional processing and
+         manufacturing for the purpose of an additional single use on a patient.
+     3. Supplemental Validation Submission (SVS): Medical Device User Free & Modernization Act
+         (MDUFMA) required that certain devices that had already been cleared through the 510(k) process
+         are required to submit validation data regarding cleaning, sterilization, and functional
+         performance in order to remain on the market. This additional data is referred to as a
+         supplemental validation submission (SVS).
+     4. Validation: Validation means confirmation by examination and provision of objective evidence
+         that the particular requirements for a specific intended use can be consistently fulfilled.
+              a. Process Validation means establishing by objective evidence that a process consistently
+                   produces a result or product meeting its predetermined specifications.
+              b. Design Validation means establishing by objective evidence that device specifications
+                   conform with user needs and intended use(s).
+     5. Validation Data: Validation data includes cleaning and sterilization data, and functional
+         performance data demonstrating that an single-use device will remain substantially equivalent to
+         its predicate device after the maximum number of times the device is reprocessed as intended by
+         the person submitting the premarket notification (510(k)).
+
+Reprocessed SUD Requirements:
+
+     1. Disposable products or products intended for single use shall not be reused, re-sterilized, or
+         reprocessed at CHLA.
+     2. Items which may be returned to stock are items with their original manufacturer applied wrappers
+         intact. The wrappers must be unsoiled with secretions, food, liquids, and solutions and must not
+         have been stored in a room with a patient on isolation precautions.
+              a. Emergency set up supplies if stored at the bedside in a sealed plastic bag that is bagged in a
+
+           *Once this policy is printed or otherwise distributed from the CHLA Policies and Procedures Library, it is not
+           considered a controlled document. Please review the electronic version of this policy in the CHLA Policies and
+                                         Procedures Library as this may not be the current version.
+                                             HOSPITAL POLICY AND PROCEDURE MANUAL
+                                    TITLE: Reprocessing of Single Use Devices
+
+                                   ORIGINAL DATE:          EFFECTIVE DATE:        APPROVED BY: Quality Improvement Committee, Chief
+                                   05/01/1993              11/19/2021             Clinical Officer, Board of Directors
+
+                                   REVISED DATE:
+   CHLA                            09/21/2021
+POLICY NUMBER: IC – 219.0          CHAPTER: ENTERPRISE – INFECTION CONTROL                                                   PAGE 2 of 3
+                  second plastic bag may be reused as long as the outer bag is changed when the patient
+                  room is cleaned.
+              b. Open unused and expired items may be donated or recycled.
+    3. Any item which has been wet or soiled must be discarded. These items must not be stored in the
+         patient's bedside unit.
+    4. Items may be stored in a separate area or closed cart away from the patient's bedside. It is
+         recommended that only the number of items required be taken into the patient room at the time of
+         use and not stock piled for future use.
+    5. One time use, disposable medical products shall not be reprocessed at the hospital, but may be
+         reprocessed for reuse by an FDA approved third party device reprocessing company.
+    6. The decision to contract with a reprocessing company will be based on a thorough review of the
+         third party reprocessing company.
+              a. This review will be done by a multidisciplinary team including representatives from
+                  Distribution Services, Peri-operative Services, and Infection Prevention.
+              b. The review will include an onsite inspection of the reprocessing facility.
+    7. The third party reprocessor must show evidence of the following in the review:
+              a. Registration and Listing with the FDA including their most recent FDA inspection report.
+              b.   A system or process in place for reporting adverse events
+              c. A system or process in place for tracking Medical Devices
+              d. A system or process in place for Medical Device Corrections and Removals
+              e. Quality Systems Regulation including process validation requirements and validation data.
+                  Product labeling that includes name of manufacturer and adequate directions for use
+              f. 510K clearances and Supplemental Validation Submission (SVS) if required
+              g. Premarket Notification and Approval Requirements based on the FDA classification of the
+                  device.
+              h. Insurance/warranty policy in good standing with coverage of no less than (insert coverage
+                  requirement)
+              i.  Process for handling and notification of device recall and product complaints
+
+PROCEDURE:
+
+CHLA will work with the third party reprocessor to determine which SUD’s will be reprocessed.
+    1. SUD’s that may be reprocessed must fit the following criteria:
+              a. Third party reprocessor must have 510K clearance for the SUD
+              b. SUD is on the Reprocessing Service list provided by the third party reprocessor
+              c. SUD is either open and unused or used.
+
+           *Once this policy is printed or otherwise distributed from the CHLA Policies and Procedures Library, it is not
+           considered a controlled document. Please review the electronic version of this policy in the CHLA Policies and
+                                         Procedures Library as this may not be the current version.
+                                             HOSPITAL POLICY AND PROCEDURE MANUAL
+                                     TITLE: Reprocessing of Single Use Devices
+
+                                    ORIGINAL DATE:         EFFECTIVE DATE:         APPROVED BY: Quality Improvement Committee, Chief
+                                    05/01/1993             11/19/2021              Clinical Officer, Board of Directors
+
+                                    REVISED DATE:
+   CHLA                             09/21/2021
+POLICY NUMBER: IC – 219.0           CHAPTER: ENTERPRISE – INFECTION CONTROL                                                   PAGE 3 of 3
+     2. SUD’s for reprocessing will be collected in special containers or bins provided by the third party
+         reprocessing company
+              a. Standard precautions must be followed when handling all SUD’s collected for shipment to
+                   the third party reprocessor.
+              b. No decontamination or cleaning is required prior to collection.
+              c. Collection bins are collected and shipped by the staff of the third party device reprocessing
+                   company at CHLA.
+     3. The remanufacture or reprocess of the SUD done by the third party reprocessing company will
+         incorporate all of the following elements:
+              a. Decontaminate and cleaning
+              b. Inspection and functional testing
+              c. Repair or resharpening if needed
+              d. Packaging
+              e. Sterilization
+     4. Infection Prevention and Control and Distribution Services must be notified immediately of any
+         product complaints or device recalls.
+
+REFERENCES:
+         1.        APIC text of Infection Control and Epidemiology, 2014. Chapter 32, Reprocessing Single-
+                   use Devices.
+         2.        FDA: Guidance for Industry and FDA Staff Medical Device User Fee and Modernization
+                   Act of 2002, Validation Data in Premarket Notification Submissions (510(k)s) for
+                   Reprocessed Single-Use Medical Devices, 2006
+         3.        CDC HICPAC Guideline for Disinfection and Sterilization in Healthcare Facilities, 2017
+
+POLICY OWNER:
+Director, Infection Prevention and Control
+
+           *Once this policy is printed or otherwise distributed from the CHLA Policies and Procedures Library, it is not
+           considered a controlled document. Please review the electronic version of this policy in the CHLA Policies and
+                                         Procedures Library as this may not be the current version.

@@ -1,0 +1,78 @@
+PURPOSE:
+
+This policy serves to detail practices to prevent transmission of the SARS-CoV2 virus in patients and visitors through the following measures:
+Identification of patients and/or family members/visitors who may have COVID-19 before they reach the units or the ambulatory care settings by targeted screening questions associated with COVID-19 and potential exposure risks.
+Appropriate transmission-based precautions.
+Management of potential exposures for healthcare workers and patients.
+
+Note: Prevention of COVID-19 transmission among CHLA team members is covered in EGEN – 023.0.
+
+SCOPE:
+
+This policy is applicable to all CHLA team members.
+
+DEFINITION:
+
+COVID-19: COVID-19 is a viral respiratory illness caused by a novel coronavirus, called SARS-associated coronavirus 2 (SARS-CoV-2). Please reference the CDC website for the most up to date case definitions for COVID-19.
+
+PROCEDURES:
+
+Masks for patients and visitors
+All patients, families and other approved visitors are required to wear a medical-grade mask in the following environments within Children’s Hospital Los Angeles clinical buildings as long as mask wearing is medically and developmentally appropriate for the patient.
+Patient rooms
+Clinic/exam rooms
+Areas where patients receive diagnostic or treatment services, including the following open clinical areas when patients/families/visitors are present:
+Dialysis
+PACU
+Radiology
+Dentistry
+Family Centered Rounds
+While actively providing patient care in any location (ex. PT in hallways, during transport)
+Waiting rooms
+Check-in desks adjacent to or within waiting areas
+Family Resource Center
+Meeting rooms/indoor patient events with patient/family/visitor interaction
+Playrooms/Teen Lounges
+
+In all other environments, including elevators, hallways, lobbies, and cafeterias, masks are strongly recommended but not required for patients, families, and visitors.
+In alignment with ADA regulations and California Department of Public Health guidelines, persons with a medical condition, mental health condition, or disability that prevents wearing a face covering are exempt. This includes children under 2 years of age who are considered exempt due to the risk of suffocation, per the Centers for Disease Control and Prevention.
+
+Physical Distancing
+All patients and visitors are recommended to keep a safe space of at least arms-length distance from other people whenever possible as a measure to avoid crowding in common spaces.
+
+Screening and Triage
+Screening of all patients and visitors for COVID-19 related symptoms and exposures will be conducted at all CHLA entry points using a questionnaire.  Active monitoring of temperatures will not need to be performed at screening upon entry due to variability in accuracy of available COVID19-safe thermometers.  Please see references.
+Signage asking visitors whether they are experiencing any symptoms or have been exposed to an individual with COVID-19 will be posted.
+Any parent/patient with symptoms concerning for COVID-19 is provided with a surgical mask and placed in a patient exam room as soon as possible or separated from other patients in the waiting area.
+If the at-risk person is the parent, guardian, or visitor, they should be asked to leave the facility and visit their primary care physician for diagnosis and treatment. Exceptions may be granted based on the exception list or on a case by case basis in consultation with Social Work Services.
+
+Hand Hygiene and Isolation Precautions
+Combined Eyewear Precautions should be applied for patients with suspect, confirmed, or exposure to COVID-19.
+Please refer to the ATD Plan and IC-301 Isolation Precautions for more details about PPE and negative pressure requirements.
+Protective eyewear is required as standard PPE for these patients.
+Hand hygiene must be practiced meticulously
+Avoid contaminating surfaces via soiled gloves
+Cleaning of patient area after contact should include thorough disinfection using a hospital-approved disinfectant wipe (i.e.: Super-Sani Wipes).
+b. Patients who have been assessed and fit the COVID-19 case definition for suspect or probable case should be moved to the appropriate accommodation as quickly as possible and placed as follows (in decreasing order of preference):
+Negative pressure room (if available)
+If patient has any aerosol generating procedure, prioritize negative pressure room for these patients (if possible)
+Single room with door always closed
+Semi-private room, cohorted with patients with similar COVID-19 risk factors and/or symptoms or diagnosis.
+
+Visitation
+During the COVID-19 pandemic, visitation may be restricted (see EGEN – 024.0 for the most up to date visitation policy for parent)
+Any parent/caregiver or visitor that develops symptoms concerning for COVID-19 while they are in the hospital should notify their child’s provider and leave the hospital as soon as feasible.
+Any parent/caregiver or visitor that refuses to abide by infection prevention policies will be escalated to unit leadership with collaboration with social work support to identify barriers to compliance.
+
+REFERENCES:
+CHLA Policy: EGEN – 023.0 Policy to Prevent and Reduce Transmission of COVID-19 in the Workplace
+CHLA Policy: EGEN - 024.0 Hospital Access, Visitation, and Events
+Centers for Disease Control (CDC): https://www.cdc.gov/coronavirus/2019-ncov/hcp/infection-control.html
+Los Angeles County Department of Public Health (LACDPH): http://publichealth.lacounty.gov/acd/ncorona2019/
+Aerosol Transmissible Disease Exposure Control Plan
+Aw J. The non-contact handheld cutaneous infra-red thermometer for fever screening during the COVID-19 global emergency. J Hosp Infect. 2020 Apr;104(4):451. doi: 10.1016/j.jhin.2020.02.010. Epub 2020 Feb 21. PMID: 32092368; PMCID: PMC7134396.
+Rudolph JL, Halladay CW, Barber M, McConeghy KW, Mor V, Nanda A, Gravenstein S. Temperature in Nursing Home Residents Systematically Tested for SARS-CoV-2. J Am Med Dir Assoc. 2020 Jul;21(7):895-899.e1. doi: 10.1016/j.jamda.2020.06.009. Epub 2020 Jun 9. PMID: 32674815; PMCID: PMC7280121.
+
+POLICY OWNER:
+Manager, Infection Prevention and Control
+
