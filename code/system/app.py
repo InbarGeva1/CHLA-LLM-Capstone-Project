@@ -76,10 +76,6 @@ def boot():
         response = chain.invoke({"chla_context": chla_context, "cdc_context": cdc_context, "input_text": query})
         st.session_state.messages.append(["ai", response])
 
-        except Exception as e:
-            response = f"An error occurred: {str(e)}"
-            st.session_state.messages.append(["ai", response])
-
         def stream_data():
             for word in response.split(" "):
                 yield word + " "
