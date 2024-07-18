@@ -66,7 +66,7 @@ chain = prompt_template | ollama_llm | StrOutputParser()
 
 context_template = PromptTemplate.from_template("""
 clean up the following text so it is an easy-to-read paragraph: {context}
-"""
+""")
 
 context_llm = Ollama(model="llama3", base_url="http://localhost:11434", temperature=0.1)
 context_chain = context_template | context_llm | StrOutputParser()
