@@ -47,7 +47,7 @@ CDC Citation Link:
 
 We have provided CHLA context information below: 
 
-CHLA Documentation: {chla_context} 
+CHLA Documentation:
 
 We have provided CDC context information below, including citation link at the bottom: 
 
@@ -65,9 +65,9 @@ ollama_llm = Ollama(model="llama3", base_url="http://localhost:11434", temperatu
 chain = prompt_template | ollama_llm | StrOutputParser()
 
 context_template = PromptTemplate.from_template("""
-You are responsible for providing clear and detailed documents based on CHLA and CDC context documents.
+You are responsible for providing clear and detailed documents based on the context documents below.
 
-Provide cleaned context that can be used to answer a policy documentation question: {query} 
+Provide cleaned summary that can be used to answer a policy documentation question while preserving all medical terminology and details.
 
 In the output, preserve the CDC citation link at the end of the CDC documentation that begins with "Source Link: "
 
@@ -102,17 +102,22 @@ def boot():
         st.session_state.messages.append(["human", query])
         st.chat_message("human").write(query)
 
-        chla_context = chla_retriever.invoke(query)
+        #chla_context = chla_retriever.invoke(query)
         cdc_context = cdc_retriever.invoke(query)
-        st.write("CDC Context:", cdc_context)
 
-        chla_context = context_chain.invoke({"context": chla_context, "query": query})
+        #chla_context = context_chain.invoke({"context": chla_context, "query": query})
         cdc_context = context_chain.invoke({"context": cdc_context, "query": query})
 
-        combined_prompt = prompt_template.format(chla_context=chla_context, cdc_context=cdc_context, input_text=query)
-        st.write("Combined Prompt:", combined_prompt)
+        #combined_prompt = prompt_template.format(chla_context=chla_context, cdc_context=cdc_context, input_text=query)
+        #st.write("Combined Prompt:", combined_prompt)
 
-        response = chain.invoke({"chla_context": chla_context, "cdc_context": cdc_context, "input_text": query})
+        combined_prompt = prompt_template.format(cdc_context=cdc_context, input_text=query)
+        st.write("Combined Prompt:", combined_prompt)
+      
+        #response = chain.invoke({"chla_context": chla_context, "cdc_context": cdc_context, "input_text": query})
+        #st.session_state.messages.append(["ai", response])
+
+        response = chain.invoke({"cdc_context": cdc_context, "input_text": query})
         st.session_state.messages.append(["ai", response])
 
         def stream_data():
