@@ -17,17 +17,17 @@ chla_retriever = chla_vectordb.as_retriever(search_kwargs={'k': 2})
 cdc_dir = 'cdc_vectorstore'
 embedding = HuggingFaceEmbeddings(model_name='all-MiniLM-L6-v2')
 cdc_vectordb = Chroma(embedding_function=embedding, persist_directory=cdc_dir)
-cdc_retriever = cdc_vectordb.as_retriever(search_kwargs={'k': 2})
+cdc_retriever = cdc_vectordb.as_retriever(search_kwargs={'k': 3})
 
 prompt_template = PromptTemplate.from_template("""
 
 You are a policy guidance chatbot for the Children's Hospital Los Angeles (CHLA). 
 
-Use the provided context to summarize the information and provide answers to the question. Do not give me an answer if it is not mentioned in the context. 
+Use the provided context to summarize the information and provide answers to the question.  
                                                
 If the user asks a question regarding CHLA or CDC guidance on protocals, regulations, standard procedures or any other related pediatric, infection, or healthcare information, use the prompt instructions below.                                            
 
-Please provide a detailed response that is faithfull to the documentation below. 
+Please provide a thorough and detailed response that is faithfull to the documentation below. 
 Provide separate and detailed summaries for the CHLA DOCUMENTATION and CDC DOCUMENTATION.
 Maintain all medical terminology and ensure the response is clear. 
 Use bullet points and step-by-step instructions for clarity when applicable. 
@@ -73,7 +73,7 @@ Provide cleaned document that can be used to answer a policy documentation quest
 
 The summary should include all necessary information to answer the following question: {query}
 
-In the output, preserve the CDC citation link at the end of the CDC documentation that begins with "Source Link: "
+In the output, preserve and return each CDC citation link at the end of each CDC documentation that begins with "Source Link: " at the end of the output.
 
 {context}
 """)
