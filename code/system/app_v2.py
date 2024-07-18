@@ -67,7 +67,7 @@ chain = prompt_template | ollama_llm | StrOutputParser()
 context_template = PromptTemplate.from_template("""
 You are responsible for providing clear and detailed documents based on the context documents below.
 
-Provide cleaned summary that can be used to answer a policy documentation question while preserving all medical terminology and details.
+Provide cleaned document that can be used to answer a policy documentation question while preserving all medical terminology and details.
 
 In the output, preserve the CDC citation link at the end of the CDC documentation that begins with "Source Link: "
 
