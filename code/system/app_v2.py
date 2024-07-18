@@ -110,7 +110,7 @@ def boot():
         st.write("CHLA Context: ", chla_context)
         st.write("CDC Context: ", cdc_context)
 
-        chla_context = context_chain.invoke({"context": chla_context})
+        chla_context = context_chain.invoke({"context": chla_context, "query": query})
         cdc_context = context_chain.invoke({"context": cdc_context, "query": query})
 
         combined_prompt = prompt_template.format(chla_context=chla_context, cdc_context=cdc_context, input_text=query)
