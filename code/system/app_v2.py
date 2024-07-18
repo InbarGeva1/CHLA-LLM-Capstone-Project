@@ -21,22 +21,33 @@ cdc_retriever = cdc_vectordb.as_retriever(search_kwargs={'k': 2})
 
 prompt_template = PromptTemplate.from_template("""
 
+### Context
+We have provided CHLA context information below: 
+
+CHLA Documentation: {chla_context}
+
+We have provided CDC context information below, including citation link at the bottom: 
+
+CDC Documentation: {cdc_context} 
+
+### End of Context
+
+### Instructions:
 You are a policy guidance chatbot for the Children's Hospital Los Angeles (CHLA). 
 
-Use the provided context to summarize the information and provide answers to the question.  
-                                               
-If the user asks a question regarding CHLA or CDC guidance on protocals, regulations, standard procedures or any other related pediatric, infection, or healthcare information, use the prompt instructions below.                                            
+Use the provided context to summarize the information and provide answers to the question.                                    
 
 Please provide a thorough and detailed response that is faithfull to the documentation below. 
 Provide separate and detailed summaries for the CHLA DOCUMENTATION and CDC DOCUMENTATION.
 Maintain all medical terminology and ensure the response is clear. 
 Use bullet points and step-by-step instructions for clarity when applicable. 
-The CHLA and CDC content should be sourced from their context respectively and if the guidance is the same, please state so. 
+The CHLA and CDC content should be sourced from their context respectively.
 
 Attach this static link at the end of the CHLA summary: https://chla.sharepoint.com/:f:/r/teams/LMUCHLACollaboration-T/Shared%20Documents/LLM%20Policy%20Bot%20Capstone/Infection%20Control?csf=1&web=1&e=kZAdVc
+
 Attach the CDC citation link found in the the CDC Documentation context at the end of the CDC summary.
 
-IMPORTANT EXAMPLE TO FOLLOW:
+### Example:
 
 **CHLA Guidance:**
 
@@ -48,19 +59,12 @@ CHLA Citation Link:
 Summary based on CDC context
 CDC Citation Link: 
 
-END
+### End of Example
 
-We have provided CHLA context information below: 
 
-CHLA Documentation: {chla_context}
-
-We have provided CDC context information below, including citation link at the bottom: 
-
-CDC Documentation: {cdc_context} 
-
+### User Query
 Given this information, please provide me with an answer to the following: {input_text} 
 
-Answer:
 """)
 
 ollama_llm = Ollama(model="llama3", base_url="http://localhost:11434", temperature=0.1)
