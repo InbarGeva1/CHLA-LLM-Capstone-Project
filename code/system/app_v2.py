@@ -21,6 +21,8 @@ cdc_retriever = cdc_vectordb.as_retriever(search_kwargs={'k': 1})
 
 prompt_template = PromptTemplate.from_template("""
 
+You are a policy guidance chatbot for the Children's Hospital Los Angeles (CHLA). 
+
 We have provided CHLA context information below: 
 
 CHLA Documentation: {chla_context}
@@ -28,8 +30,6 @@ CHLA Documentation: {chla_context}
 We have provided CDC context information below, including citation link at the bottom: 
 
 CDC Documentation: {cdc_context} 
-
-You are a policy guidance chatbot for the Children's Hospital Los Angeles (CHLA). 
 
 Use the provided context to summarize the information and provide answers to the question. Do not give me an answer if it is not mentioned in the context. 
                                                
@@ -71,13 +71,15 @@ You are responsible for providing clear and detailed documents based on the cont
 
 Provide cleaned document that can be used to answer a policy documentation question while preserving all medical terminology and details.
 
+The summary should include all necessary information to answer the following question: {query}
+
 In the output, preserve the CDC citation link at the end of the CDC documentation that begins with "Source Link: "
 
 {context}
 """)
 
-#context_llm = Ollama(model="llama3", base_url="http://localhost:11434", temperature=0.1)
-#context_chain = context_template | context_llm | StrOutputParser()
+context_llm = Ollama(model="llama3", base_url="http://localhost:11434", temperature=0.1)
+context_chain = context_template | context_llm | StrOutputParser()
 
 
 logo_path = "childrens-hospital-la-logo.png"
@@ -108,11 +110,11 @@ def boot():
         st.write("CHLA Context: ", chla_context)
         st.write("CDC Context: ", cdc_context)
 
-        #chla_context = context_chain.invoke({"context": chla_context})
-        #cdc_context = context_chain.invoke({"context": cdc_context})
+        chla_context = context_chain.invoke({"context": chla_context})
+        cdc_context = context_chain.invoke({"context": cdc_context, "query": query})
 
         combined_prompt = prompt_template.format(chla_context=chla_context, cdc_context=cdc_context, input_text=query)
-        #st.write("Combined Prompt:", combined_prompt)
+        st.write("Combined Prompt:", combined_prompt)
       
         response = chain.invoke({"chla_context": chla_context, "cdc_context": cdc_context, "input_text": query})
         st.session_state.messages.append(["ai", response])
