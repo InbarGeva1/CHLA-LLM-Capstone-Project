@@ -46,7 +46,7 @@ CHLA Citation Link:
 **CDC Guidance:**
 
 Summary based on CDC context
-CDC Citation Link:
+CDC Citation Link: 
 
 END
 
@@ -69,7 +69,7 @@ chain = prompt_template | ollama_llm | StrOutputParser()
 context_template = PromptTemplate.from_template("""
 You are responsible for providing clear and detailed documents based on the context documents below. Do not remove any important information.
 
-Provide cleaned document that is less than 1,000 words and can be used to answer a policy documentation question while preserving all medical terminology and details.
+Provide cleaned document that can be used to answer a policy documentation question while preserving all medical terminology and details.
 
 The summary should include all necessary information to answer the following question: {query}
 
