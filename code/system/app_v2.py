@@ -12,12 +12,12 @@ import time
 chla_dir = 'chla_vectorstore'
 embedding = HuggingFaceEmbeddings(model_name='all-MiniLM-L6-v2')
 chla_vectordb = Chroma(embedding_function=embedding, persist_directory=chla_dir)
-chla_retriever = chla_vectordb.as_retriever(search_kwargs={'k': 1})
+chla_retriever = chla_vectordb.as_retriever(search_kwargs={'k': 2})
 
 cdc_dir = 'cdc_vectorstore'
 embedding = HuggingFaceEmbeddings(model_name='all-MiniLM-L6-v2')
 cdc_vectordb = Chroma(embedding_function=embedding, persist_directory=cdc_dir)
-cdc_retriever = cdc_vectordb.as_retriever(search_kwargs={'k': 1})
+cdc_retriever = cdc_vectordb.as_retriever(search_kwargs={'k': 3})
 
 prompt_template = PromptTemplate.from_template("""
 
@@ -65,7 +65,13 @@ ollama_llm = Ollama(model="llama3", base_url="http://localhost:11434", temperatu
 chain = prompt_template | ollama_llm | StrOutputParser()
 
 context_template = PromptTemplate.from_template("""
-clean up the following text so it is an easy-to-read paragraph: {context}
+You are responsible for providing clear and detailed documents based on CHLA and CDC context documents.
+
+Provide cleaned context that can be used to answer the following: {input_text}
+
+In the output, preserve the CDC citation link at the end of the CDC documentation that begins with "Source Link: "
+
+{context}
 """)
 
 context_llm = Ollama(model="llama3", base_url="http://localhost:11434", temperature=0.1)
