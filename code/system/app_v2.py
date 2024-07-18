@@ -17,7 +17,7 @@ chla_retriever = chla_vectordb.as_retriever(search_kwargs={'k': 2})
 cdc_dir = 'cdc_vectorstore'
 embedding = HuggingFaceEmbeddings(model_name='all-MiniLM-L6-v2')
 cdc_vectordb = Chroma(embedding_function=embedding, persist_directory=cdc_dir)
-cdc_retriever = cdc_vectordb.as_retriever(search_kwargs={'k': 3})
+cdc_retriever = cdc_vectordb.as_retriever(search_kwargs={'k': 2})
 
 prompt_template = PromptTemplate.from_template("""
 
@@ -70,8 +70,6 @@ context_template = PromptTemplate.from_template("""
 You are responsible for providing clear and detailed documents based on the context documents below. Do not remove any important information.
 
 Provide cleaned document that can be used to answer a policy documentation question while preserving all medical terminology and details.
-
-The summary should include all necessary information to answer the following question: {query}
 
 In the output, preserve and return each CDC citation link at the end of each CDC documentation that begins with "Source Link: " at the end of the output.
 
