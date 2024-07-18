@@ -61,13 +61,13 @@ Given this information, please provide me with an answer to the following: {inpu
 Answer:
 """)
 
-ollama_llm = Ollama(model="llama3", base_url="http://localhost:11434", temperature=0.25)
+ollama_llm = Ollama(model="llama3", base_url="http://localhost:11434", temperature=0.1)
 chain = prompt_template | ollama_llm | StrOutputParser()
 
 context_template = PromptTemplate.from_template("""
 You are responsible for providing clear and detailed documents based on CHLA and CDC context documents.
 
-Provide cleaned context that can be used to answer the following: {input_text}
+Provide cleaned context that can be used to answer a policy documentation question: {input_text} 
 
 In the output, preserve the CDC citation link at the end of the CDC documentation that begins with "Source Link: "
 
