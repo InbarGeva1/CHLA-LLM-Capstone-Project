@@ -23,14 +23,6 @@ prompt_template = PromptTemplate.from_template("""
 
 You are a policy guidance chatbot for the Children's Hospital Los Angeles (CHLA). 
 
-We have provided CHLA context information below: 
-
-CHLA Documentation: {chla_context}
-
-We have provided CDC context information below, including citation link at the bottom: 
-
-CDC Documentation: {cdc_context} 
-
 Use the provided context to summarize the information and provide answers to the question. Do not give me an answer if it is not mentioned in the context. 
                                                
 If the user asks a question regarding CHLA or CDC guidance on protocals, regulations, standard procedures or any other related pediatric, infection, or healthcare information, use the prompt instructions below.                                            
@@ -57,6 +49,14 @@ Summary based on CDC context
 CDC Citation Link:
 
 END
+
+We have provided CHLA context information below: 
+
+CHLA Documentation: {chla_context}
+
+We have provided CDC context information below, including citation link at the bottom: 
+
+CDC Documentation: {cdc_context} 
 
 Given this information, please provide me with an answer to the following: {input_text} 
 
@@ -110,12 +110,12 @@ def boot():
         st.write("CHLA Context: ", chla_context)
         st.write("CDC Context: ", cdc_context)
 
-        chla_context = context_chain.invoke({"context": chla_context, "query": query})
-        cdc_context = context_chain.invoke({"context": cdc_context, "query": query})
+        #chla_context = context_chain.invoke({"context": chla_context, "query": query})
+        #cdc_context = context_chain.invoke({"context": cdc_context, "query": query})
 
         combined_prompt = prompt_template.format(chla_context=chla_context, cdc_context=cdc_context, input_text=query)
         st.write("Combined Prompt:", combined_prompt)
-      
+
         response = chain.invoke({"chla_context": chla_context, "cdc_context": cdc_context, "input_text": query})
         st.session_state.messages.append(["ai", response])
 
