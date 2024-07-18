@@ -116,7 +116,8 @@ def boot():
         cdc_context = context_chain.invoke({"context": cdc_context, "query": query})
 
         combined_prompt = prompt_template.format(chla_context=chla_context, cdc_context=cdc_context, input_text=query)
-
+        st.write("Combined Prompt: ", combined_prompt)
+        
         response = chain.invoke({"chla_context": chla_context, "cdc_context": cdc_context, "input_text": query})
         st.session_state.messages.append(["ai", response])
 
