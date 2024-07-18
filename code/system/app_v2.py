@@ -12,12 +12,12 @@ import time
 chla_dir = 'chla_vectorstore'
 embedding = HuggingFaceEmbeddings(model_name='all-MiniLM-L6-v2')
 chla_vectordb = Chroma(embedding_function=embedding, persist_directory=chla_dir)
-chla_retriever = chla_vectordb.as_retriever(search_kwargs={'k': 2})
+chla_retriever = chla_vectordb.as_retriever(search_kwargs={'k': 1})
 
 cdc_dir = 'cdc_vectorstore'
 embedding = HuggingFaceEmbeddings(model_name='all-MiniLM-L6-v2')
 cdc_vectordb = Chroma(embedding_function=embedding, persist_directory=cdc_dir)
-cdc_retriever = cdc_vectordb.as_retriever(search_kwargs={'k': 3})
+cdc_retriever = cdc_vectordb.as_retriever(search_kwargs={'k': 1})
 
 prompt_template = PromptTemplate.from_template("""
 
@@ -66,7 +66,7 @@ Answer:
 ollama_llm = Ollama(model="llama3", base_url="http://localhost:11434", temperature=0.1)
 chain = prompt_template | ollama_llm | StrOutputParser()
 
-context_template = PromptTemplate.from_template("""
+#context_template = PromptTemplate.from_template("""
 You are responsible for providing clear and detailed documents based on the context documents below. Do not remove any important information.
 
 Provide cleaned document that can be used to answer a policy documentation question while preserving all medical terminology and details.
@@ -76,8 +76,8 @@ In the output, preserve the CDC citation link at the end of the CDC documentatio
 {context}
 """)
 
-context_llm = Ollama(model="llama3", base_url="http://localhost:11434", temperature=0.1)
-context_chain = context_template | context_llm | StrOutputParser()
+#context_llm = Ollama(model="llama3", base_url="http://localhost:11434", temperature=0.1)
+#context_chain = context_template | context_llm | StrOutputParser()
 
 
 logo_path = "childrens-hospital-la-logo.png"
@@ -105,10 +105,9 @@ def boot():
 
         chla_context = chla_retriever.invoke(query)
         cdc_context = cdc_retriever.invoke(query)
-        st.write("CDC Context: ", cdc_context)
 
-        chla_context = context_chain.invoke({"context": chla_context, "query": query})
-        cdc_context = context_chain.invoke({"context": cdc_context, "query": query})
+        #chla_context = context_chain.invoke({"context": chla_context, "query": query})
+        #cdc_context = context_chain.invoke({"context": cdc_context, "query": query})
 
         combined_prompt = prompt_template.format(chla_context=chla_context, cdc_context=cdc_context, input_text=query)
         st.write("Combined Prompt:", combined_prompt)
