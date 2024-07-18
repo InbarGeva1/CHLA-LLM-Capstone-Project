@@ -105,6 +105,8 @@ def boot():
 
         chla_context = chla_retriever.invoke(query)
         cdc_context = cdc_retriever.invoke(query)
+        st.write("CHLA Context: ", chla_context)
+        st.write("CDC Context: ", cdc_context)
 
         #chla_context = context_chain.invoke({"context": chla_context})
         #cdc_context = context_chain.invoke({"context": cdc_context})
