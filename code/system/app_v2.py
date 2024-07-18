@@ -71,9 +71,7 @@ ollama_llm = Ollama(model="llama3", base_url="http://localhost:11434", temperatu
 chain = prompt_template | ollama_llm | StrOutputParser()
 
 context_template = PromptTemplate.from_template("""
-You are responsible for providing clear and detailed documents based on the context documents below. Do not remove any important information.
-
-Provide cleaned document that can be used to answer a policy documentation question while preserving all medical terminology and details.
+You are responsible taking the input context and outputting a structured, cleaned output. Do not remove any text or information from the original document.
 
 In the output, preserve and return each CDC citation link at the end of each CDC documentation that begins with "Source Link: " at the end of the output.
 
