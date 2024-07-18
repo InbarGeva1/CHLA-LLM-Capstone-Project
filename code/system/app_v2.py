@@ -66,7 +66,7 @@ Answer:
 ollama_llm = Ollama(model="llama3", base_url="http://localhost:11434", temperature=0.1)
 chain = prompt_template | ollama_llm | StrOutputParser()
 
-#context_template = PromptTemplate.from_template("""
+context_template = PromptTemplate.from_template("""
 You are responsible for providing clear and detailed documents based on the context documents below. Do not remove any important information.
 
 Provide cleaned document that can be used to answer a policy documentation question while preserving all medical terminology and details.
@@ -106,11 +106,11 @@ def boot():
         chla_context = chla_retriever.invoke(query)
         cdc_context = cdc_retriever.invoke(query)
 
-        #chla_context = context_chain.invoke({"context": chla_context, "query": query})
-        #cdc_context = context_chain.invoke({"context": cdc_context, "query": query})
+        #chla_context = context_chain.invoke({"context": chla_context})
+        #cdc_context = context_chain.invoke({"context": cdc_context})
 
         combined_prompt = prompt_template.format(chla_context=chla_context, cdc_context=cdc_context, input_text=query)
-        st.write("Combined Prompt:", combined_prompt)
+        #st.write("Combined Prompt:", combined_prompt)
       
         response = chain.invoke({"chla_context": chla_context, "cdc_context": cdc_context, "input_text": query})
         st.session_state.messages.append(["ai", response])
