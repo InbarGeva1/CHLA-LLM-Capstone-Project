@@ -21,6 +21,14 @@ cdc_retriever = cdc_vectordb.as_retriever(search_kwargs={'k': 3})
 
 prompt_template = PromptTemplate.from_template("""
 
+We have provided CHLA context information below: 
+
+CHLA Documentation: {chla_context}
+
+We have provided CDC context information below, including citation link at the bottom: 
+
+CDC Documentation: {cdc_context} 
+
 You are a policy guidance chatbot for the Children's Hospital Los Angeles (CHLA). 
 
 Use the provided context to summarize the information and provide answers to the question. Do not give me an answer if it is not mentioned in the context. 
@@ -33,7 +41,10 @@ Maintain all medical terminology and ensure the response is clear.
 Use bullet points and step-by-step instructions for clarity when applicable. 
 The CHLA and CDC content should be sourced from their context respectively and if the guidance is the same, please state so. 
 
-Example:
+Attach this static link at the end of the CHLA summary: https://chla.sharepoint.com/:f:/r/teams/LMUCHLACollaboration-T/Shared%20Documents/LLM%20Policy%20Bot%20Capstone/Infection%20Control?csf=1&web=1&e=kZAdVc
+Attach the CDC citation link found in the the CDC Documentation context at the end of the CDC summary.
+
+IMPORTANT EXAMPLE TO FOLLOW:
 
 **CHLA Guidance:**
 
@@ -45,16 +56,7 @@ CHLA Citation Link:
 Summary based on CDC context
 CDC Citation Link:
 
-We have provided CHLA context information below: 
-
-CHLA Documentation: {chla_context}
-
-We have provided CDC context information below, including citation link at the bottom: 
-
-CDC Documentation: {cdc_context} 
-
-Attach this static link at the end of the CHLA summary: https://chla.sharepoint.com/:f:/r/teams/LMUCHLACollaboration-T/Shared%20Documents/LLM%20Policy%20Bot%20Capstone/Infection%20Control?csf=1&web=1&e=kZAdVc
-Attach the CDC citation link found in the the CDC Documentation context at the end of the CDC summary.
+END
 
 Given this information, please provide me with an answer to the following: {input_text} 
 
@@ -65,7 +67,7 @@ ollama_llm = Ollama(model="llama3", base_url="http://localhost:11434", temperatu
 chain = prompt_template | ollama_llm | StrOutputParser()
 
 context_template = PromptTemplate.from_template("""
-You are responsible for providing clear and detailed documents based on the context documents below.
+You are responsible for providing clear and detailed documents based on the context documents below. Do not remove any important information.
 
 Provide cleaned document that can be used to answer a policy documentation question while preserving all medical terminology and details.
 
@@ -76,7 +78,6 @@ In the output, preserve the CDC citation link at the end of the CDC documentatio
 
 context_llm = Ollama(model="llama3", base_url="http://localhost:11434", temperature=0.1)
 context_chain = context_template | context_llm | StrOutputParser()
-
 
 
 logo_path = "childrens-hospital-la-logo.png"
@@ -104,6 +105,7 @@ def boot():
 
         chla_context = chla_retriever.invoke(query)
         cdc_context = cdc_retriever.invoke(query)
+        st.write("CDC Context: ", cdc_content)
 
         chla_context = context_chain.invoke({"context": chla_context, "query": query})
         cdc_context = context_chain.invoke({"context": cdc_context, "query": query})
