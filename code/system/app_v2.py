@@ -68,7 +68,7 @@ Given this information, please provide me with an answer to the following: {inpu
 
 """)
 
-ollama_llm = Ollama(model="llama3", base_url="http://localhost:11434", temperature=0.1)
+ollama_llm = Ollama(model="llama3", base_url="http://localhost:11434", temperature=0.05)
 chain = prompt_template | ollama_llm | StrOutputParser()
 
 context_template = PromptTemplate.from_template("""
@@ -79,7 +79,7 @@ In the output, preserve and return each CDC citation link at the end of each CDC
 {context}
 """)
 
-context_llm = Ollama(model="llama3", base_url="http://localhost:11434", temperature=0.1)
+context_llm = Ollama(model="llama3", base_url="http://localhost:11434", temperature=0.05)
 context_chain = context_template | context_llm | StrOutputParser()
 
 
