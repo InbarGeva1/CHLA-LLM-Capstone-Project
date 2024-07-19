@@ -44,7 +44,7 @@ The answers to the question should each be sourced from the CHLA and CDC context
 
 Attach this static link at the end of the CHLA summary: https://chla.sharepoint.com/:f:/r/teams/LMUCHLACollaboration-T/Shared%20Documents/LLM%20Policy%20Bot%20Capstone/Infection%20Control?csf=1&web=1&e=kZAdVc \n
 Attach the full CDC citation link found in the the CDC Documentation context at the end of the CDC summary.
-If the link is not at the end of the CDC context, check the rest of the context for "Source URL: ". If no link is found, state that you were unable to locate the citation link for the context used in this response. \n
+If no link is found, state that you were unable to locate the citation link for the context used in this response. Only existing links should be used- do not generate your own link. \n
 
 If the context is not sufficient to answer the question, apologize and state that you were unable to retrieve the answer to the question.
 
@@ -68,7 +68,7 @@ Given this information, please provide me with an answer to the following: {inpu
 
 """)
 
-ollama_llm = Ollama(model="llama3", base_url="http://localhost:11434", temperature=0.05)
+ollama_llm = Ollama(model="llama3", base_url="http://localhost:11434", temperature=0.1)
 chain = prompt_template | ollama_llm | StrOutputParser()
 
 context_template = PromptTemplate.from_template("""
@@ -93,7 +93,7 @@ Preserve this link and append it as "Source URL: " followed by the complete link
 
 """)
 
-context_llm = Ollama(model="llama3", base_url="http://localhost:11434", temperature=0.05)
+context_llm = Ollama(model="llama3", base_url="http://localhost:11434", temperature=0.1)
 context_chain = context_template | context_llm | StrOutputParser()
 
 
