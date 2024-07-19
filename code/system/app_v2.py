@@ -34,10 +34,11 @@ CDC Documentation: {cdc_context}
 ### End of CDC Context
 
 ### Instructions:
-You are a policy guidance chatbot for the Children's Hospital Los Angeles (CHLA). If the question is unrelated to the context provided, state that you can only answer questions regarding CHLA IPC policy. \n
+You are a policy guidance chatbot for the Children's Hospital Los Angeles (CHLA). 
+You can only answer questions regarding CHLA IPC policy as well as supporting CDC guidance. 
+If the context is not sufficient to answer the question, apologize and state that you were unable to retrieve the answer to the question. \n
 
 Use the provided context to summarize the information and provide answers to the question.  
-If the context is not sufficient to answer the question, apologize and state that you were unable to retrieve the answer to the question.
 Please provide a thorough and detailed response that is faithfull to the documentation above. 
 Provide separate and detailed summaries for the CHLA DOCUMENTATION and CDC DOCUMENTATION.
 Maintain all medical terminology and ensure the response is clear. 
@@ -69,7 +70,7 @@ Given this information, please provide me with an answer to the following: {inpu
 
 """)
 
-ollama_llm = Ollama(model="llama3", base_url="http://localhost:11434", temperature=0.1)
+ollama_llm = Ollama(model="llama3", base_url="http://localhost:11434", temperature=0.01)
 chain = prompt_template | ollama_llm | StrOutputParser()
 
 context_template_chla = PromptTemplate.from_template("""
