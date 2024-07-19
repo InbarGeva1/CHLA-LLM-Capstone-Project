@@ -72,11 +72,25 @@ ollama_llm = Ollama(model="llama3", base_url="http://localhost:11434", temperatu
 chain = prompt_template | ollama_llm | StrOutputParser()
 
 context_template = PromptTemplate.from_template("""
+### Insructions
 You are responsible taking the input context and outputting a structured, cleaned output. Do not remove any text or information from the original document.
 
 In the output, preserve and return each CDC citation link at the end of each CDC documentation that begins with "Source URL: " at the end of the output.
 
+### End Instructions
+
+### Example CDC Citation Link (ignore for CHLA documentation)
+At the end of each CDC document, you will find the following:
+
+ \n\n \n\nSource URL: https://www.cdc.gov/mmwr/preview/mmwrhtml/00001665.htm\n
+
+Preserve this link and append it as "Source URL: " followed by the complete link in the final output.
+### End Example
+
+### Context
+
 {context}
+
 """)
 
 context_llm = Ollama(model="llama3", base_url="http://localhost:11434", temperature=0.05)
