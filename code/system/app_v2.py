@@ -26,7 +26,7 @@ We have provided CHLA context information below: \n
 
 CHLA Documentation: {chla_context} \n
 
-We have provided CDC context information below, including citation link at the bottom: \n
+We have provided CDC context information below: \n
 
 CDC Documentation: {cdc_context} \n
 
@@ -72,32 +72,43 @@ ollama_llm = Ollama(model="llama3", base_url="http://localhost:11434", temperatu
 chain = prompt_template | ollama_llm | StrOutputParser()
 
 context_template_chla = PromptTemplate.from_template("""
-### Insructions
-You are responsible taking the input CHLA context and outputting a structured, cleaned output. Do not remove any text or information from the original document.
+
+### Context
 
 {context}
+
+### End Context
+
+### Instructions
+You are responsible taking the input CHLA context and outputting a structured, cleaned output. Do not remove any text or information from the original document.
+Do not provide any additional conversational response other than the requested output.
+### End Instructions
 
 """)
 
 context_template_cdc = PromptTemplate.from_template("""
-### Insructions
+
+### Context
+{context}
+
+### End Context
+
+### Instructions
 You are responsible taking the input CDC context and outputting a structured, cleaned output. Do not remove any text or information from the original document.
 
-In the output, preserve and return each CDC citation link at the end of each CDC documentation that begins with "Source URL: " at the end of the output.
+In the output, preserve and return each CDC citation link at the end of each CDC documentation that begins with "Source URL: " at the end of the output. \n
+The citation link is critically important to this task. If you cannot locate the citation link following "Source URL:" at the end of the document, state that you were unable to locate the citation link for the context used in this response. \n 
 
+Do not provide any additional conversational response other than the requested output.
 ### End Instructions
 
-### Example CDC Citation Link (ignore for CHLA documentation)
-At the end of each CDC document, you will find the following:
+### Example Potential CDC Citation Link Structure 
+At the end of each CDC document, you may find the following:
 
  \n\n \n\nSource URL: https://www.cdc.gov/mmwr/preview/mmwrhtml/00001665.htm\n
 
 Preserve this link and append it as "Source URL: " followed by the complete link in the final output.
 ### End Example
-
-### Context
-
-{context}
 
 """)
 
