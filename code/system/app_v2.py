@@ -21,16 +21,17 @@ cdc_retriever = cdc_vectordb.as_retriever(search_kwargs={'k': 1})
 
 prompt_template = PromptTemplate.from_template("""
 
-### Context
-We have provided CHLA context information below: \n
+### CHLA Context
 
-CHLA Documentation: {chla_context} \n
+CHLA Documentation: {chla_context}
 
-We have provided CDC context information below: \n
+### End of CHLA Context
 
-CDC Documentation: {cdc_context} \n
+### CDC Context
 
-### End of Context
+CDC Documentation: {cdc_context}
+
+### End of CDC Context
 
 ### Instructions:
 You are a policy guidance chatbot for the Children's Hospital Los Angeles (CHLA). \n
