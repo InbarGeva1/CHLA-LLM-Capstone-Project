@@ -105,19 +105,23 @@ Do not provide any additional conversational response other than the requested o
 ### End Instructions
 
 ### Example Potential CDC Citation Link Structure 
-At the end of each CDC document, you may find the following:
+At the end of each CDC document, you may find the following (THESE ARE EXAMPLES AND NOT REAL LINKS):
 
- \n\n \n\nSource URL: https://www.cdc.gov/mmwr/preview/mmwrhtml/00001665.htm\n
+ \n\n \n\nSource URL: https://www.cdc.gov/mmwr/preview/mmwrhtml/00101665.htm\n
+ 
+OR 
+
+\n\nSource\n URL:\nhttps://www.cdc.gov/nutrition/php/public-health-strategy/food-service-and-wutrition-guidelines.html\n
 
 Preserve this link and append it as "Source URL: " followed by the complete link in the final output.
 ### End Example
 
 """)
 
-context_llm = Ollama(model="llama3", base_url="http://localhost:11434", temperature=0.1)
+context_llm = Ollama(model="llama3", base_url="http://localhost:11434", temperature=0.01)
 context_chain_chla = context_template_chla | context_llm | StrOutputParser()
 
-context_llm = Ollama(model="llama3", base_url="http://localhost:11434", temperature=0.1)
+context_llm = Ollama(model="llama3", base_url="http://localhost:11434", temperature=0.01)
 context_chain_cdc = context_template_cdc | context_llm | StrOutputParser()
 
 logo_path = "childrens-hospital-la-logo.png"
