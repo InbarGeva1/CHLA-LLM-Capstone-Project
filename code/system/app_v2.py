@@ -40,6 +40,20 @@ def extract_url(text):
     
     return urls
 
+def extract_title(text):
+    # Define the regex pattern to match the title before the .txt extension
+    pattern = r'IC\s*-\s*\d+\.\d+\s*[^.]+(?=\.txt)'
+    
+    # Search for the pattern in the text
+    match = re.search(pattern, text)
+    
+    # If a match is found, return the matched string
+    if match:
+        return match.group(0)
+    
+    # If no match is found, return None
+    return None
+
 def remove_trail(text):
     if not isinstance(text, str):
         # Convert to string if it's not already a string
@@ -73,7 +87,7 @@ The answers to the question should each be sourced from the CHLA and CDC context
 Maintain all medical terminology and ensure the response is clear. 
 Use bullet points and step-by-step instructions for clarity when applicable.  \n
 
-Attach this static link at the end of the CHLA summary: https://chla.sharepoint.com/:f:/r/teams/LMUCHLACollaboration-T/Shared%20Documents/LLM%20Policy%20Bot%20Capstone/Infection%20Control?csf=1&web=1&e=kZAdVc \n
+Attach the title of the document, {chla_title} and the static link at the end of the CHLA summary: https://chla.sharepoint.com/:f:/r/teams/LMUCHLACollaboration-T/Shared%20Documents/LLM%20Policy%20Bot%20Capstone/Infection%20Control?csf=1&web=1&e=kZAdVc \n
 Remove brackets [] or backslash n from the link: {cdc_url} and attach this link to the end of the CDC summary.
 
 ### Example:
@@ -81,7 +95,7 @@ Remove brackets [] or backslash n from the link: {cdc_url} and attach this link 
 **CHLA Guidance:**
 
 Summary based on CHLA context \n
-CHLA Citation Link: 
+CHLA Citation Title and Link: 
 
 **CDC Guidance:**
 
@@ -164,19 +178,16 @@ def boot():
         cdc_context = cdc_retriever.invoke(query)
         
         cdc_urls = extract_url(cdc_context)
+        chla_titles = extract_title(chla_context)
         cdc_url = remove_trail(cdc_urls)
-        
-        st.write("CHLA Context: ", chla_context)
-        st.write("CDC URL: ", cdc_url)
-        st.write("CDC Context: ", cdc_context)
+        chla_title = remove_trail(chla_titles_
 
         chla_context = context_chain_chla.invoke({"context": chla_context, "query": query})
         cdc_context = context_chain_cdc.invoke({"context": cdc_context, "query": query})
 
-        combined_prompt = prompt_template.format(cdc_url=cdc_url, chla_context=chla_context, cdc_context=cdc_context, input_text=query)
-        st.write("Combined Prompt: ", combined_prompt)
+        combined_prompt = prompt_template.format(cdc_url=cdc_url, chla_title=chla_title, chla_context=chla_context, cdc_context=cdc_context, input_text=query)
         
-        response = chain.invoke({"cdc_url": cdc_url, "chla_context": chla_context, "cdc_context": cdc_context, "input_text": query})
+        response = chain.invoke({"cdc_url": cdc_url, "chla_title": chla_title, "chla_context": chla_context, "cdc_context": cdc_context, "input_text": query})
         st.session_state.messages.append(["ai", response])
 
         def stream_data():
