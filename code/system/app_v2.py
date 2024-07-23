@@ -21,6 +21,10 @@ cdc_vectordb = Chroma(embedding_function=embedding, persist_directory=cdc_dir)
 cdc_retriever = cdc_vectordb.as_retriever(search_kwargs={'k': 1})
 
 def extract_url(text):
+    if not isinstance(text, str):
+        # Convert to string if it's not already a string
+        text = str(text)
+    
     # Define the regex pattern to match URLs starting with 'http' or 'https'
     pattern = r'https?://[^\s]+'
     
