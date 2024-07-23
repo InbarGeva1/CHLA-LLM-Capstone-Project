@@ -41,6 +41,14 @@ def extract_url(text):
     return urls
 
 def extract_title(text):
+    
+    if not isinstance(text, str):
+        # Convert to string if it's not already a string
+        text = str(text)
+
+    # Strip trailing newline characters
+    text = text.strip()
+        
     # Define the regex pattern to match the title before the .txt extension
     pattern = r'IC\s*-\s*\d+\.\d+\s*[^.]+(?=\.txt)'
     
