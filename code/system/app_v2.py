@@ -28,15 +28,13 @@ def extract_url(text):
     # Strip trailing newline characters
     text = text.strip()
 
-    # Define the regex pattern to match URLs starting with 'http' or 'https' and exclude trailing whitespace including newlines
-    pattern = r'https?://[^\s]+'
+    # Define the regex pattern to match URLs starting with 'http' or 'https'
+    # This pattern matches until it encounters a non-URL character or end of line
+    pattern = r'https?://[^\s)\'"]+'
     
     # Find all matches of the pattern in the text
     urls = re.findall(pattern, text)
 
-    # Strip any trailing whitespace characters from each URL
-    urls = [url.rstrip('\n') for url in urls]
-    
     return urls
 
 prompt_template = PromptTemplate.from_template("""
