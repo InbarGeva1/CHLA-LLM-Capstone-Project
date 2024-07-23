@@ -29,13 +29,13 @@ def extract_url(text):
     text = text.strip()
 
     # Define the regex pattern to match URLs starting with 'http' or 'https' and exclude trailing whitespace including newlines
-    pattern = r'https?://[^\s\n]+'
+    pattern = r'https?://[^\s]+'
     
     # Find all matches of the pattern in the text
     urls = re.findall(pattern, text)
 
-    # Strip trailing newlines or any whitespace characters from each URL
-    urls = [url.strip() for url in urls]
+    # Strip any trailing whitespace characters from each URL
+    urls = [url.rstrip('\n') for url in urls]
     
     return urls
 
