@@ -18,7 +18,7 @@ chla_retriever = chla_vectordb.as_retriever(search_kwargs={'k': 2})
 cdc_dir = 'cdc_vectorstore'
 embedding = HuggingFaceEmbeddings(model_name='all-MiniLM-L6-v2')
 cdc_vectordb = Chroma(embedding_function=embedding, persist_directory=cdc_dir)
-cdc_retriever = cdc_vectordb.as_retriever(search_kwargs={'k': 2})
+cdc_retriever = cdc_vectordb.as_retriever(search_kwargs={'k': 1})
 
 def extract_url(text):
     if not isinstance(text, str):
@@ -76,19 +76,19 @@ Use bullet points and step-by-step instructions for clarity when applicable.
 The answers to the question should each be sourced from the CHLA and CDC context respectively. \n
 
 Attach this static link at the end of the CHLA summary: https://chla.sharepoint.com/:f:/r/teams/LMUCHLACollaboration-T/Shared%20Documents/LLM%20Policy%20Bot%20Capstone/Infection%20Control?csf=1&web=1&e=kZAdVc \n
-Attach this link at the end of the CDC summary: {cdc_url}
+Attach this link at the end of the CDC summary without brackets [] or "\n": {cdc_url}
 
 ### Example:
 
 **CHLA Guidance:**
 
 Summary based on CHLA context \n
-CHLA Citation Link: https://chla.sharepoint.com/:f:/r/teams/LMUCHLACollaboration-T/Shared%20Documents/LLM%20Policy%20Bot%20Capstone/Infection%20Control?csf=1&web=1&e=kZAdVc
+CHLA Citation Link: 
 
 **CDC Guidance:**
 
 Summary based on CDC context \n
-CDC Citation Link: {cdc_url}
+CDC Citation Link: 
 
 ### End of Example
 
@@ -110,8 +110,10 @@ context_template_chla = PromptTemplate.from_template("""
 ### End Context
 
 ### Instructions
-You are responsible taking the input CHLA context and outputting a structured, cleaned output. Do not remove any text or information from the original document.
-Do not provide any additional conversational response other than the requested output.
+You are responsible taking the input CHLA context and outputting a structured, cleaned output. \n
+Do not remove any text or information from the original document. \n
+Do not provide any additional conversational response other than the requested output. \n
+Keep different documents seperate in the output. \n
 ### End Instructions
 
 """)
