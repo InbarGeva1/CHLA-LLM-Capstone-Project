@@ -152,8 +152,10 @@ def boot():
 
         chla_context = chla_retriever.invoke(query)
         cdc_context = cdc_retriever.invoke(query)
-
-        cdc_url = extract_url(cdc_context)
+        
+        cdc_urls = extract_url(cdc_context)
+        cdc_url = re.sub(r'\n$', '', cdc_urls)
+        
         st.write("CHLA Context: ", chla_context)
         st.write("CDC URL: ", cdc_url)
         st.write("CDC Context: ", cdc_context)
