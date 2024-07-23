@@ -188,7 +188,7 @@ def boot():
         cdc_urls = extract_url(cdc_context)
         chla_titles = extract_title(chla_context)
         cdc_url = remove_trail(cdc_urls)
-        chla_title = remove_trail(chla_titles_
+        chla_title = remove_trail(chla_titles)
 
         chla_context = context_chain_chla.invoke({"context": chla_context, "query": query})
         cdc_context = context_chain_cdc.invoke({"context": cdc_context, "query": query})
