@@ -113,7 +113,6 @@ context_template_chla = PromptTemplate.from_template("""
 You are responsible taking the input CHLA context and outputting a structured, cleaned output. \n
 Do not remove any text or information from the original document. \n
 Do not provide any additional conversational response other than the requested output. \n
-Keep different documents seperate in the output. \n
 ### End Instructions
 
 """)
@@ -126,8 +125,10 @@ context_template_cdc = PromptTemplate.from_template("""
 ### End Context
 
 ### Instructions
-You are responsible taking the input CDC context and outputting a structured, cleaned output. Do not remove any text or information from the original document.
+You are responsible taking the input CDC context and outputting a detailed summary, preserving all technical medical terminology and policies relevant to this question: {query} \n
+The provided summary should not answer the question, but instead provide all information relevant to the question. \n
 Do not provide any additional conversational response other than the requested output.
+
 ### End Instructions
 
 """)
