@@ -118,7 +118,7 @@ Given this information, please provide me with an answer to the following: {inpu
 
 """)
 
-ollama_llm = Ollama(model="llama3", base_url="http://localhost:11434", temperature=0.01)
+ollama_llm = Ollama(model="llama3.1", base_url="http://localhost:11434", temperature=0.01)
 chain = prompt_template | ollama_llm | StrOutputParser()
 
 context_template_chla = PromptTemplate.from_template("""
@@ -153,10 +153,10 @@ Do not provide any additional conversational response other than the requested o
 
 """)
 
-context_llm = Ollama(model="llama3", base_url="http://localhost:11434", temperature=0.01)
+context_llm = Ollama(model="llama3.1", base_url="http://localhost:11434", temperature=0.01)
 context_chain_chla = context_template_chla | context_llm | StrOutputParser()
 
-context_llm = Ollama(model="llama3", base_url="http://localhost:11434", temperature=0.01)
+context_llm = Ollama(model="llama3.1", base_url="http://localhost:11434", temperature=0.01)
 context_chain_cdc = context_template_cdc | context_llm | StrOutputParser()
 
 logo_path = "childrens-hospital-la-logo.png"
