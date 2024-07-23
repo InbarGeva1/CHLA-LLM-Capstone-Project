@@ -67,12 +67,12 @@ Attach this link at the end of the CDC summary: {cdc_url}
 **CHLA Guidance:**
 
 Summary based on CHLA context \n
-CHLA Citation Link:
+CHLA Citation Link: https://chla.sharepoint.com/:f:/r/teams/LMUCHLACollaboration-T/Shared%20Documents/LLM%20Policy%20Bot%20Capstone/Infection%20Control?csf=1&web=1&e=kZAdVc
 
 **CDC Guidance:**
 
 Summary based on CDC context \n
-CDC Citation Link: 
+CDC Citation Link: {cdc_url}
 
 ### End of Example
 
