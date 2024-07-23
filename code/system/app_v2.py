@@ -40,6 +40,15 @@ def extract_url(text):
     
     return urls
 
+def remove_trail(text):
+    if not isinstance(text, str):
+        # Convert to string if it's not already a string
+        text = str(text)
+    
+    new_text = re.sub(r'\n$', '', text)
+
+    return(new_text)
+
 prompt_template = PromptTemplate.from_template("""
 
 ### CHLA Context
@@ -154,7 +163,7 @@ def boot():
         cdc_context = cdc_retriever.invoke(query)
         
         cdc_urls = extract_url(cdc_context)
-        cdc_url = re.sub(r'\n$', '', cdc_urls)
+        cdc_url = remove_trail(cdc_urls)
         
         st.write("CHLA Context: ", chla_context)
         st.write("CDC URL: ", cdc_url)
