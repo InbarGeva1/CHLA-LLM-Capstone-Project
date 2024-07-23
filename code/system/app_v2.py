@@ -13,7 +13,7 @@ import re
 chla_dir = 'chla_vectorstore'
 embedding = HuggingFaceEmbeddings(model_name='all-MiniLM-L6-v2')
 chla_vectordb = Chroma(embedding_function=embedding, persist_directory=chla_dir)
-chla_retriever = chla_vectordb.as_retriever(search_kwargs={'k': 2})
+chla_retriever = chla_vectordb.as_retriever(search_kwargs={'k': 1})
 
 cdc_dir = 'cdc_vectorstore'
 embedding = HuggingFaceEmbeddings(model_name='all-MiniLM-L6-v2')
@@ -76,7 +76,7 @@ Use bullet points and step-by-step instructions for clarity when applicable.
 The answers to the question should each be sourced from the CHLA and CDC context respectively. \n
 
 Attach this static link at the end of the CHLA summary: https://chla.sharepoint.com/:f:/r/teams/LMUCHLACollaboration-T/Shared%20Documents/LLM%20Policy%20Bot%20Capstone/Infection%20Control?csf=1&web=1&e=kZAdVc \n
-Attach this link at the end of the CDC summary without brackets [] or "\n": {cdc_url}
+Remove brackets [] or backslash n from the link: {cdc_url} and attach this link to the end of the CDC summary.
 
 ### Example:
 
