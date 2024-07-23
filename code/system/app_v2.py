@@ -108,7 +108,7 @@ context_template_chla = PromptTemplate.from_template("""
 ### End Context
 
 ### Instructions
-You are responsible taking the input CDC context and outputting a thorough and detailed summary, preserving all technical medical terminology and policies relevant to this question: {query} \n
+You are responsible taking the input CHLA context and outputting a thorough and detailed summary, preserving all technical medical terminology and policies relevant to this question: {query} \n
 The provided summary should not answer the question, but instead provide all information relevant to the question. \n
 Do not provide any additional conversational response other than the requested output.
 ### End Instructions
