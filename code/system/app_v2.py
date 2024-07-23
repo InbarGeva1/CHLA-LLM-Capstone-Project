@@ -25,6 +25,9 @@ def extract_url(text):
         # Convert to string if it's not already a string
         text = str(text)
     
+    # Strip trailing newline characters
+    text = text.strip()
+    
     # Define the regex pattern to match URLs starting with 'http' or 'https'
     pattern = r'https?://[^\s]+'
     
