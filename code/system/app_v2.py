@@ -76,7 +76,7 @@ Use bullet points and step-by-step instructions for clarity when applicable.
 The answers to the question should each be sourced from the CHLA and CDC context respectively. \n
 
 Attach this static link at the end of the CHLA summary: https://chla.sharepoint.com/:f:/r/teams/LMUCHLACollaboration-T/Shared%20Documents/LLM%20Policy%20Bot%20Capstone/Infection%20Control?csf=1&web=1&e=kZAdVc \n
-Attach this link at the end of the CDC summary: {cdc_url}
+Attach this link at the end of the CDC summary without any "\n", "]", ")", "[": {cdc_url}
 
 ### Example:
 
