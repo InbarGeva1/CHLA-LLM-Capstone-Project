@@ -35,6 +35,9 @@ def extract_url(text):
     # Find all matches of the pattern in the text
     urls = re.findall(pattern, text)
 
+    # Strip trailing non-URL characters from each URL
+    urls = [re.sub(r'[)\]\s\'"]+$', '', url) for url in urls]
+    
     return urls
 
 prompt_template = PromptTemplate.from_template("""
