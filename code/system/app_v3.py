@@ -10,16 +10,25 @@ from langchain_core.output_parsers import StrOutputParser
 import time
 import re
 
+# Directories for CHLA and CDC vector stores
 chla_dir = 'chla_vectorstore'
+cdc_dir = 'cdc_vectorstore'
+
+# Initialize embedding model
 embedding = HuggingFaceEmbeddings(model_name='all-MiniLM-L6-v2')
+
+# Initialize CHLA vector store and retriever
 chla_vectordb = Chroma(embedding_function=embedding, persist_directory=chla_dir)
 chla_retriever = chla_vectordb.as_retriever(search_kwargs={'k': 1})
 
-cdc_dir = 'cdc_vectorstore'
+# Initialize embedding model
 embedding = HuggingFaceEmbeddings(model_name='all-MiniLM-L6-v2')
+
+# Initialize CDC vector store and retriever
 cdc_vectordb = Chroma(embedding_function=embedding, persist_directory=cdc_dir)
 cdc_retriever = cdc_vectordb.as_retriever(search_kwargs={'k': 1})
 
+# Function to extract URLs from text
 def extract_url(text):
     if not isinstance(text, str):
         text = str(text)
@@ -31,6 +40,7 @@ def extract_url(text):
     
     return urls
 
+# Function to extract titles from text
 def extract_title(text):
     if not isinstance(text, str):
         text = str(text)
@@ -44,6 +54,7 @@ def extract_title(text):
     
     return None
 
+# Function to remove trailing newlines from text
 def remove_trail(text):
     if not isinstance(text, str):
         text = str(text)
@@ -52,6 +63,7 @@ def remove_trail(text):
 
     return(new_text)
 
+# Define the prompt template for generating responses
 prompt_template = PromptTemplate.from_template("""
 
 ### Previous Context
@@ -103,9 +115,11 @@ Given this information, please provide me with an answer to the following: {inpu
 
 """)
 
+# Initialize the LLM
 ollama_llm = Ollama(model="llama3.1", base_url="http://localhost:11434", temperature=0.01)
 chain = prompt_template | ollama_llm | StrOutputParser()
 
+# Define templates for generating context summaries
 context_template_chla = PromptTemplate.from_template("""
 
 ### Context
@@ -138,48 +152,60 @@ Do not provide any additional conversational response other than the requested o
 
 """)
 
+# Initialize LLM for context chains
 context_llm = Ollama(model="llama3.1", base_url="http://localhost:11434", temperature=0.01)
 context_chain_chla = context_template_chla | context_llm | StrOutputParser()
 
 context_llm = Ollama(model="llama3.1", base_url="http://localhost:11434", temperature=0.01)
 context_chain_cdc = context_template_cdc | context_llm | StrOutputParser()
 
+# Paths to logo and icon images
 logo_path = "childrens-hospital-la-logo.png"
 icon_path = "childrens-hospital-la-icon.jpg"
 
-
+# Function to initialize and run the chat interface
 def boot():
+    # Display the logo
     st.image(logo_path, width=300)
 
+    # Display the title and description 
     st.title("IPC Policy Assistant")
     st.write("Welcome to the Children's Hospital Los Angeles IPC Chatbot. Ask a question regarding CHLA IPC policy!")
 
+    # Initialize session state for storing messages
     if "messages" not in st.session_state:
         st.session_state.messages = []
 
+     # Display the conversation history
     for message in st.session_state.messages:
         if message[0] == "human":
             st.chat_message("human").write(message[1])
         else:
             st.chat_message("ai").write(message[1])
 
+    # Handle user input for a query
     if query := st.chat_input("Type your message..."):
         st.session_state.messages.append(["human", query])
         st.chat_message("human").write(query)
 
+        # Retrieve contexts from CHLA and CDC vector stores
         chla_context = chla_retriever.invoke(query)
         cdc_context = cdc_retriever.invoke(query)
         
+        # Extract URLs and titles from the contexts
         cdc_urls = extract_url(cdc_context)
         chla_titles = extract_title(chla_context)
         cdc_url = remove_trail(cdc_urls)
         chla_title = remove_trail(chla_titles)
 
+        # Generate context summaries
         chla_context = context_chain_chla.invoke({"context": chla_context, "query": query})
         cdc_context = context_chain_cdc.invoke({"context": cdc_context, "query": query})
 
+        # Combine previous AI responses to form the previous context
         previous_context = "\n".join([msg[1] for msg in st.session_state.messages if msg[0] == "ai"])
         
+        # Format the prompt with the relevant information
         combined_prompt = prompt_template.format(
             previous_context=previous_context,
             cdc_url=cdc_url,
@@ -189,6 +215,7 @@ def boot():
             input_text=query
         )
         
+        # Generate the response using the combined prompt
         response = chain.invoke({
             "previous_context": previous_context,
             "cdc_url": cdc_url,
@@ -199,6 +226,7 @@ def boot():
         })
         st.session_state.messages.append(["ai", response])
 
+        # Stream the response for a better user experience
         def stream_data():
             for word in response.split(" "):
                 yield word + " "
@@ -206,8 +234,9 @@ def boot():
 
         st.chat_message("ai").write_stream(stream_data)
 
-
+# Run the main function
 if __name__ == "__main__":
     boot()
 
+# Display the icon image at the bottom
 st.image(icon_path, width=100)
