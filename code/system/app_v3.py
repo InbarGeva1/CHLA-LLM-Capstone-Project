@@ -80,7 +80,7 @@ The answers to the question should each be sourced from the CHLA and CDC context
 Maintain all medical terminology and ensure the response is clear. 
 Use bullet points and step-by-step instructions for clarity when applicable. 
 
-Attach the title of the document, {chla_title} and the static link at the end of the CHLA summary: 
+Attach the title of the document, {chla_title} and the static link at the end of the CHLA summary: https://chla.sharepoint.com/:f:/r/teams/LMUCHLACollaboration-T/Shared%20Documents/LLM%20Policy%20Bot%20Capstone/Infection%20Control?csf=1&web=1&e=kZAdVc \n
 Remove brackets [] or backslash n from the link: {cdc_url} and attach this link to the end of the CDC summary.
 
 ### CHLA & CDC SUMMARY Example:
