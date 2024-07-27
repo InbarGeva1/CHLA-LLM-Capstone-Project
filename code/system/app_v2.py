@@ -1,7 +1,7 @@
 import streamlit as st
 from langchain_community.llms import Ollama
-from langchain.chains import LLMChain
-from langchain.prompts import PromptTemplate
+from langchain.chains import LLMChain, create_history_aware_retriever
+from langchain.prompts import PromptTemplate, ChatPromptTemplate, MessagesPlaceholder
 from langchain_community.vectorstores import Chroma
 from langchain_huggingface import HuggingFaceEmbeddings
 from langchain_community.embeddings import SentenceTransformerEmbeddings
@@ -71,6 +71,25 @@ def remove_trail(text):
 
     return(new_text)
 
+contextualize_q_system_prompt = """Given a chat history and the latest user question \
+which might reference context in the chat history, formulate a standalone question \
+which can be understood without the chat history. Do NOT answer the question, \
+just reformulate it if needed and otherwise return it as is."""
+
+contextualize_q_prompt = ChatPromptTemplate.from_messages(
+    [
+            ("system", contextualize_q_system_prompt),
+            MessagesPlaceholder("chat_history"),
+            ("human", "{input}"),
+    ]
+)
+
+llm = Ollama(model="llama3.1", base_url="http://localhost:11434", temperature=0.01)
+
+history_aware_retriever = create_history_aware_retriever(
+    llm, retriever, contextualize_q_prompt
+)
+
 prompt_template = PromptTemplate.from_template("""
 
 ### CHLA Context
@@ -119,7 +138,7 @@ Given this information, please provide me with an answer to the following: {inpu
 """)
 
 ollama_llm = Ollama(model="llama3.1", base_url="http://localhost:11434", temperature=0.01)
-chain = prompt_template | ollama_llm | StrOutputParser()
+chain = history_aware_retriever | prompt_template | ollama_llm | StrOutputParser()
 
 context_template_chla = PromptTemplate.from_template("""
 
