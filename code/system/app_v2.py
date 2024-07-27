@@ -86,8 +86,12 @@ contextualize_q_prompt = ChatPromptTemplate.from_messages(
 
 llm = Ollama(model="llama3.1", base_url="http://localhost:11434", temperature=0.01)
 
-history_aware_retriever = create_history_aware_retriever(
-    llm, retriever, contextualize_q_prompt
+history_aware_chla_retriever = create_history_aware_retriever(
+    llm, chla_retriever, contextualize_q_prompt
+)
+
+history_aware_cdc_retriever = create_history_aware_retriever(
+    llm, cdc_retriever, contextualize_q_prompt
 )
 
 prompt_template = PromptTemplate.from_template("""
@@ -138,7 +142,7 @@ Given this information, please provide me with an answer to the following: {inpu
 """)
 
 ollama_llm = Ollama(model="llama3.1", base_url="http://localhost:11434", temperature=0.01)
-chain = history_aware_retriever | prompt_template | ollama_llm | StrOutputParser()
+chain = chla_history_aware_retriever | cdc_history_aware_retriever | prompt_template | ollama_llm | StrOutputParser()
 
 context_template_chla = PromptTemplate.from_template("""
 
