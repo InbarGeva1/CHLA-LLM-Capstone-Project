@@ -21,7 +21,7 @@ cse_id = '02e87f3b328f14ab7'
 internal_documents_folder = 'data/CHLA_Converted_Documentation'  
 
 # Folder where you want to save the PDFs
-output_folder = 'CDC PDFS'  
+output_folder = 'data/CDC_PDFs'  
 
 # Ensure the output folder exists
 os.makedirs(output_folder, exist_ok=True)
