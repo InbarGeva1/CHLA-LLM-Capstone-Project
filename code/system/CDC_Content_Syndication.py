@@ -18,7 +18,7 @@ api_key = 'AIzaSyBKhFSMxFdXJ0KuHheIlcka9ct0g7icfdA'
 cse_id = '02e87f3b328f14ab7' 
 
 # Folder containing internal documents
-internal_documents_folder = 'DOCX CHLA Documents'  
+internal_documents_folder = 'data/CHLA_Converted_Documentation'  
 
 # Folder where you want to save the PDFs
 output_folder = 'CDC PDFS'  
