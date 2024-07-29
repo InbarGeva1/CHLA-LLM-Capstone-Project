@@ -118,9 +118,17 @@ Given this information, please provide me with an answer to the following: {inpu
 
 """)
 
+# define conversational memory for LLM
+memory = ConversationBufferMemory(memory_key="previous_contxt")
+
 # Initialize the LLM
 ollama_llm = Ollama(model="llama3.1", base_url="http://localhost:11434", temperature=0.01)
-chain = prompt_template | ollama_llm | StrOutputParser()
+
+chain = LLMChain(
+    llm=ollama_llm,
+    prompt=prompt_template,
+    memory=memory
+)
 
 # Define templates for generating context summaries
 context_template_chla = PromptTemplate.from_template("""
