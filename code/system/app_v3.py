@@ -228,14 +228,7 @@ def boot():
         )
         
         # Generate the response using the combined prompt
-        response = chain.invoke({
-            "previous_context": previous_context,
-            "cdc_url": cdc_url,
-            "chla_title": chla_title,
-            "chla_context": chla_context,
-            "cdc_context": cdc_context,
-            "input_text": query
-        })
+        response = chain.invoke({"prompt": combined_prompt})
         st.session_state.messages.append(["ai", response])
 
         # Stream the response for a better user experience
