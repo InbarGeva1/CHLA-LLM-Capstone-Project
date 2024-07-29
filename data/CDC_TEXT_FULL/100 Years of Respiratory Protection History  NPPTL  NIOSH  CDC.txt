@@ -1,0 +1,508 @@
+Official websites use .gov A .gov website belongs to an official government organization
+in  the  United  States.  Secure  .gov  websites  use  HTTPS  A  lock  (   )  or  https://  means
+you've  safely  connected  to  the  .gov  website.  Share  sensitive  information  only  on
+official,  secure  websites.  In  1919,  the  U.S.  Bureau  of  Mines  (USBM)  initiated  the  first
+respirator certification program. Several months later, on January 15, 1920, this federal
+body certified the first respirator. To recognize the important milestones of the past 100
+years, this webpage documents a general historical overview of respiratory protection
+research  and  the  evolution  of  the  certification  program  as  undertaken  by  the  U.S.
+federal government. Pliny the Elder, photo courtesy of Shutterstock               Around the
+world,  scientific  minds  recognized  the  need  for  respiratory  protection  long  before  the
+U.S. Bureau of Mines. The history of respiratory protection traces back as far as Pliny
+the  Elder  (23-79  AD),  a  Roman  philosopher  and  naturalist,  who  made  use  of  loose
+animal bladder skins to filter dust from being inhaled while crushing cinnabar, which is
+a toxic, mercuric sulfide mineral used at the time for pigmentation in decorations. Many
+centuries later, Leonardo da Vinci (1452-1519) recommended the use of wet cloths over
+the mouth and nose as a form of protection against inhaling harmful agents (Spelce et
+al., “History,” 2018; Cohen and Birkner, 2012). Further scientific inquiry and discovery
+led  to  the  use  of  early  atmosphere-supplying  respirators.  While  ancient  divers  used
+hoses and tubes for supplied air, seventeenth century scientists added bellows to these
+devices as a way of providing positive pressure breathing. Although science has made
+advancements  over  time,  the  need  for  proper  respiratory  protection  became
+increasingly  apparent.  In  the  1700s,  Bernadino  Ramazzini,  known  as  the  father  of
+occupational medicine, described the inadequacy of respiratory protection against the
+hazards  of  arsenic,  gypsum,  lime,  tobacco,  and  silica  (Spelce  et  al.,  “History,”  2018;
+Cohen  and  Birkner,  2012).  While  these  scientific  discoveries  and  advancements  to
+respiratory protection were pivotal, the most important date for respiratory protection
+was still to come. Nealy Smoke Mask from The National Fireman's Journal December 8,
+1877  The  18th  and  19th  centuries  achieved  the  development  of  what  we  would
+recognize  today  as  respirators,  far  surpassing  the  use  of  animal  bladders  and  wet
+cloths. In 1827, the Scottish botanist Robert Brown discovered the phenomenon known
+as the Brownian movement – the theory that collisions of rapidly moving gas molecules
+causes  the  random  bouncing  motion  of  extremely  small  particles.  Understanding  the
+behavior of small particles, the properties of filter media and their interactions led to
+the first particulate respirator. In the mid-1800s, German scientists conducted studies
+with industrial dust and bacteria and their relationship with respiratory health. In 1877,
+the English invented and patented the Nealy Smoke Mask. The Nealy Smoke Mask used
+a series of water-saturated sponges and a bag of water attached to a neck strap. The
+wearer could squeeze the bag of water to re-saturate the sponges to filter out some of
+the smoke. (Coffey, 2016; Cohen and Birkner, 2012; Kloos, 1963). On July 1, 1910, the
+U.S. Department of the Interior established the United States Bureau of Mines (USBM).
+The USBM worked to address the high fatality rate of mineworkers. In 1919, the USBM
+initiated  the  first  respirator  certification  program  in  the  United  States.  In  1920,  MSA
+Safety  Company  manufactured  the  Gibbs  respirator.  This  closed-circuit  self-contained
+breathing apparatus (SCBA) operated on compressed oxygen and a soda lime scrubber
+to  remove  carbon  dioxide.  (Spelce  et  al.,  2017).  According  to  MSA  Safety  Company,
+industries, fire departments, and health departments were the first to utilize the Gibbs
+Breathing  Apparatus  (WebApps.MSANet.com).  The  U.S.  Navy  requested  a  respirator
+comparable to those used for emergency escape purposes for mineworkers, leading to
+the  invention  of  the  Gibbs  breathing  apparatus,  named  for  United  States  Bureau  of
+Mines engineer and inventor W.E. Gibbs. Gibbs also created a respirator specifically for
+aviators (Spelce, et al., 2017). World War I presented a new kind of threat to soldiers –
+chemical  warfare  gases,  such  as  chlorine,  phosgene,  and  mustard  gas.  The  U.S.  War
+Department asked the USBM to develop gas mask standards. Military equipment at the
+time  did  not  account  for  protective  masks  or  respirators.  Combat  equipment  did  not
+include respirators until World War II (Caretti, 2018). As a result, chemical warfare in
+WWI  accounted  for  1.3  million  casualties  and  approximately  90,000  fatalities.  This
+amounted to about 30% of all casualties during the war (Fitzgerald, 2008). World War I
+respiratory protection, photo courtesy of Shutterstock Additionally, WWI troops from all
+over  the  world  helped  a  new  influenza  virus  spread.  The  lack  of  vaccines  and
+respiratory protection contributed to high fatalities from the flu virus. The U.S. reported
+the  first  flu  symptoms  in  March  1918.  In  October  of  1918  alone,  the  flu  virus  killed
+195,000 Americans resulting in the San Francisco Board of Health recommending the
+use of masks in public spaces. The pandemic flu began to decline in early 1919. The flu
+caused  approximately  50  million  deaths  across  the  world,  including  675,000  in  the
+United  States  (“1918  Pandemic,”  2018).  The  spread  of  the  pandemic  flu  at  this  time
+displayed  the  need  of  additional  respiratory  protection  and  research  needed  in
+healthcare settings. While the flu pandemic exhibited a need for healthcare respiratory
+protection, researchers at the time still largely focused on the respiratory protection of
+mining. On March 5, 1919, the USBM produced Schedule 13, “Procedure for Establishing
+a List of Permissible Self-Contained Oxygen Breathing Apparatus.” Schedule 13 set the
+first  set  of  regulations  for  human  testing  of  protection  of  self-contained  breath
+apparatus  respirators  and  certification  thereof  (Kyriazi,  1999).  Finally,  on  January  15,
+1920 the USBM certified the first respirator, the Gibbs breathing apparatus. (Spelce et
+al.,  “History,”  2018;  Cohen  and  Birkner,  2012).  The  Gibbs  breathing  apparatus,
+originally  designed  for  mine  work,  became  the  first  approved  respirator  for  industrial
+work.  (Spelce,  et  al.,  2017).  Gibb’s  Breathing  Apparatus  During  World  War  I,  the  U.S.
+government  sought  improvements  for  respiratory  protection  across  several  industries
+as well as the military. The passing of the Overman Act of May 20, 1918 by President
+Wilson gave authority for the Army to lead the research efforts in respiratory protection
+in  order  to  engage  in  chemical  warfare  and  defense.  However,  this  delegation  of
+research power was short-lived, and the USBM regained the primary task of mine safety
+research. (Spelce, et al., 2017). The USBM developed Schedule 14 shortly after for the
+certification  of  military-use  gas  masks.  Over  time,  the  USBM  altered  Schedule  14,
+“Procedure  for  Establishing  a  List  of  Permissible  Gas  Masks,”  several  times.  Initial
+modifications to it included acknowledgement of the 1941 USBM “Facepiece Tightness
+Test”  which  tested  the  detectable  leakages  and  freedom  of  movement  of  the  user
+(Spelce, et al., “History” (Cont.), 2018). Because of the horrific casualties of WWI from
+chemical  warfare,  armed  forces  on  both  sides  of  the  battlefield  refrained  from  using
+chemical agents during WWII. Both sides shared the paranoia that the enemy had more
+harmful chemical warfare agents (Chauhan, 2008). As the world entered World War II,
+the  U.S.  Navy’s  use  of  asbestos  increased  for  insulation  purposes  for  pipes  in  naval
+vessels. It was not until 1939 that a Medical Officer for the U.S. Navy recognized the
+need for crew to wear respirators when cutting and wetting amosite and other asbestos
+containing insulation. Later, as the U.S. entered World War II, Fleischer et al. released a
+study  acknowledging  the  dangers  and  risks  of  dust  exposures  in  asbestos  insulation
+manufacturing. However, even after the publication of the Fleischer et al. study in 1946,
+the U.S. Navy continued to use asbestos with the additional warning that “exposure to
+asbestos  dust  is  a  hazard  which  cannot  be  overlooked  in  maintaining  an  effective
+occupational-hygiene  program.”  The  Navy  continued  to  recommend  confinement  of
+pipe  covering  operations,  and  the  use  of  respirators  and  ventilation  (Barlow  et  al.,
+2017).  1930s  Mask,  photo  courtesy  of  Caretti  In  the  early  1930s,  the  Hawk’s  Nest
+Tunnel disaster occurred in West Virginia. The estimated death toll, one of the worst in
+American  industrial  history,  ranges  from  roughly  700-1,000  deaths  of  the  3,000  who
+worked  underground.  The  tragedy  of  this  disaster  expedited  the  publication  of  the
+USBM’s  first  approval  of  dust/fume/mist  respirator  approval  standards  in  30  CFR  Part
+14,  Schedule  21  (USBM  1934).  “The  USBM  had  already  developed  standards  for  and
+approved oxygen breathing apparatus (1919), gas mask respirators (1919), and hose
+mask respirators (1927). By 1937, the Bureau expanded its schedule for testing hose
+masks  to  include  a  variety  of  supplied-air  respirators  including  Type  CE  abrasive
+blasting  respirator”  (Spelce,  et  al.,  2019).  Schedule  21  describes  several  types  of
+respirators, including Type A, B, C, combinations of A-C, and D (Spelce, et al., 2019).
+The original Schedule 21 from 1934 included the following requirements: Revisions to
+Schedule 21 expanded in 1955 under 30 CFR 14 to include the approval respirators with
+single use filters and reusable filters. Among these, there are two classes of respirators,
+including  approval  for  protection  against  Pneumoconiosis  and  approval  against  dust
+that  were  not  more  toxic  than  lead.  These  approvals  expanded  to  also  included
+protection against lead fumes, silica, and chromic acid mists (Spelce, et al., 2019). The
+USBM  began  to  set  stricter  regulations  on  respirators  during  WWII.  It  established
+“certain  basic  requirements  applicable  to  all  types  of  respiratory  equipment.  These
+requirements are as follows: (1) They must give adequate protection; (2) they must be
+reasonably  comfortable  and  physically  convenient  to  wear;  (3)  they  must  provide  an
+acceptable period of protection; and (4) they must be constructed of durable materials.
+(IC  7130,  August  1940,  page  5)”  (Spelce  et  al.,  2018;  D’Alessandro,  2018).  The
+regulation  of  respiratory  protection  permitted  the  standardization  of  higher  quality
+respiratory protection. After WWII and the use of chemical gas in warfare, researchers
+continued  their  work  on  improving  respiratory  protection  for  soldiers.  The  events  of
+World War II and the boom of industry on the home front exhibited a need for improved
+respiratory  protection  in  industry.  Americans  on  the  home  front  went  to  work  on  the
+production  lines  to  aid  the  war  effort,  ushering  in  a  booming  era  of  industry  and
+manufacturing. However, those workers inhaled high amounts of asbestos due to poorly
+regulated  working  conditions.  Early  accounts  from  turn  of  the  century  industrial
+hygienists documented the dangers of airborne asbestos in working environments, but
+it was not until the mid-1950s that prolonged exposure to asbestos caused widespread
+concern. Research efforts still did not fully serve this need until even later, in the 1960s
+and 1970s. “With the introduction of the membrane filter sampling method in the late
+1960s  and  early  1970s,  asbestos  sampling  and  exposure  assessment  capabilities
+advanced to a degree which allowed industrial hygienists to more precisely characterize
+the exposure–response relationship” (Barlow et al., 2017). Non-combatant mask, circa
+1940, photo courtesy of Caretti Researchers performed tests on respirators to measure
+protection, but their levels of protection were unregulated. There was not yet a system
+in  place  to  set  a  threshold  standard  of  protection  nor  any  regulatory  body  in  the
+manufacturing  of  respirators.  The  respirators  used  in  different  settings,  such  as  in
+construction or commercial farming, lacked regulation to ensure necessary protection
+against the airborne hazards in these types of settings. Further, Schedule 21B in 1965
+expanded.  These  changes  include  (1)  extend  certification  of  approval  to  respirators
+designed  to  protect  against  dusts,  fumes,  and  mists  that  are  significantly  more  toxic
+than lead; (2) permit certification of combinations of dispersoid-filter and other types of
+respirators;  (3)  revise  current  tests  to  realize  accuracy  and  speed  of  testing;  and  (4)
+revise  the  fees  for  inspection  and  testing  (USBM,  1964)  (Spelce,  et  al.,  2019).  This
+provided  further  regulation  and  protection  for  industrial  workers’  respiratory  health.
+“The use of respirators continued unregulated until the Federal Coal Mine Health and
+Safety Act was enacted in 1969, resulting in regulations governing the certification and
+use of respirators in the mining industry. The Occupational Safety and Health Act, which
+established the Occupational Safety and Health Administration (OSHA) and the National
+Institute of Occupational Safety and Health (NIOSH), was promulgated in 1970” (Cohen
+and Birkner, 2012). According to the Occupational Safety and Health Act of 1970, “The
+Congress finds that personal injuries and illnesses arising out of work situations impose
+a substantial burden upon, and are a hindrance to, interstate commerce in terms of lost
+production, wage loss, medical expenses, and disability compensation payments” (91st
+Congress, 1970). Further, the OSH Act of 1970 acknowledges a need for regulation in
+the safety and health of working citizens to preserve “human resources.” The document
+sets standards for work places to maintain as well as formulate a regulatory body to
+oversee  the  adherence  to  these  standards.  The  OSH  Act  not  only  sets  standards  to
+protect workers from physical injury and disease, but also acknowledges the necessity
+to protect workers from psychological harm in the workplace, such as anxiety linked to
+physical  injury  risk  at  work.  The  OSH  Act  also  established  the  National  Institute  for
+Occupational  Safety  and  Health  (NIOSH)  as  a  research  body  focused  on  the  health,
+safety,  and  empowerment  of  workers  to  create  safe  and  healthy  workplaces  (NIOSH,
+“About”). OSHA and NIOSH continue to be important organizations that assist in safety
+recommendation and regulation in the workplace, in the area of respiratory protection
+as  well  as  other  areas  of  personal  protective  equipment.  “Congress  created  the
+Occupational  Safety  and  Health  Administration  (OSHA)  in  1970,  and  gave  it  the
+responsibility for promulgating standards to protect the health and safety of American
+workers. On February 9, 1979, 29 CFR 1910.134 gained recognition as applicable to the
+construction  industry  (44  FR  8577).  Until  the  adoption  of  these  standards  by  OSHA,
+most  guidance  on  respiratory  protective  devices  use  in  hazardous  environments  was
+advisory rather than mandatory” (Department of Labor, 1998). OSHA reprinted, without
+change  of  text,  29  CFR  Part  1926  with  the  General  Industry  Occupational  Safety  and
+Health Standards in 29 CFR part 1910. This has since become a set of OSHA regulations
+(“Editorial Note,” 1978). In 1994, the U.S. Centers for Disease Control and Prevention
+(CDC)  released  a  Morbidity  and  Mortality  Weekly  Report  entitled  “Guidelines  for
+Preventing  the  Transmission  of  Mycobacterium  tuberculosis  in  Health-Care  Facilities,
+1994.” This document revises the 1990 tuberculosis (TB) guidelines in response to an
+outbreak  in  1991  and  studies  from  1985  that  show  a  multi-drug  resistance  to  the
+bacterium  that  causes  TB.  These  guidelines  emphasize  importance  of  healthcare
+professionals’  proper  use  of  personal  protective  equipment  (PPE),  specifically
+respiratory protection. Areas of emphasis for respiratory protection include ventilation,
+donning,  use,  and  doffing.  Finally,  the  guidelines  address  the  need  to  maintain  a  full
+respiratory  protection  program  within  healthcare  settings,  ensuring  all  healthcare
+workers train in proper PPE use. This is of particular importance for healthcare workers
+that move from department to department, such as therapists, dieticians, maintenance,
+interns, etc. As respiratory protection became mandatory, the importance of a tight and
+proper respirator fit increased. In 1995, OSHA revised the certification regulations for fit
+testing.  This  led  to  further  research  in  1996  regarding  exposure  in  the  workplace,
+causing  researchers  to  use  simulated  workplace  protection  factors  and  exposure
+simulations (Cohen and Birkner, 2012; Department of Labor, 1998). “On 10 July 1995,
+the respirator certification regulation, 30 CFR 11, was replaced by 42 CFR 84 (NIOSH,
+1995). The primary regulatory changes introduced by 42 CFR 84 are associated with a
+new approval concept, performance requirements for particulate respirator filters, and
+instrumentation technology. 42 CFR 84 updated filter requirements and tests to provide
+an  assessment  of  the  effectiveness  of  the  filter  based  upon  its  efficiency  to  remove
+particulates  of  the  most  penetrating  size  from  the  ambient  air  regardless  of  the
+particulate composition and toxicity (NIOSH, 1994). The approval philosophy for filters
+changed from minimum requirements considered safe to breathe for various types of
+dust/fume/mist  respirators  to  acceptable  filter  efficiency  levels  against  laboratory
+generated aerosols with particles of the most penetrating size” (Spelce, et al., 2019).
+The OSHA respiratory protection standard, 29 CFR 1910.134, published on January 8,
+1998,  replaced  the  agency’s  original  standard  promulgated  in  1972.  The  rule
+standardized  regulations  for  respirator  use  in  all  industries,  including  maritime,
+construction,  and  general  industry.  However,  this  did  not  include  updates  for  the
+respiratory  protection  of  the  healthcare  industry,  which  at  this  time  still  functioned
+under  29  CFR  1910.134  regulations.  While  this  new  development  did  not  include  the
+use  of  respirators  in  the  healthcare  setting,  it  did  effectively  progress  industry,
+manufacturing, and construction towards a more healthy and safe work environment.
+The necessity for respiratory protection in the healthcare setting came to the forefront
+of  concern  with  the  outbreak  of  tuberculosis  in  the  1990s.  According  to  the  TB
+Respiratory  Protection  Program  in  Health  Care  Facilities:  Administrator’s  Guide,  “The
+use  of  respirators  in  the  health  care  setting  is  a  relatively  new  but  important  step
+forward  in  the  efforts  to  prevent  the  transmission  of  tuberculosis  (TB).  Air-purifying
+respirators  provide  a  barrier  to  prevent  health  care  workers  from  inhaling
+Mycobacterium tuberculosis. The level of protection a respirator provides is determined
+by the efficiency of the filter material and how well the facepiece fits or seals to the
+health care worker’s face. A number of studies have shown that surgical masks will not
+provide  adequate  protection  in  filtering  out  the  TB  organism.  Additionally,  surgical
+masks  are  not  respirators  and  therefore,  are  not  NIOSH-certified  and  do  not  satisfy
+OSHA requirements for respiratory protection”(1999). In 2001, Congress requested the
+creation of a division within NIOSH to focus on the improvement and research of PPE
+and  personal  protective  technologies  (PPT).  This  division,  the  National  Personal
+Protective  Technology  Laboratory  (NPPTL)  conducts  scientific  research,  develops
+guidance and authoritative recommendations, disseminates information, and responds
+to  requests  for  workplace  health  hazard  evaluations.  The  focus  for  respiratory
+protection research shifted drastically in the early 2000s when national tragedy struck.
+On  September  11,  2001,  terrorist  attacks  in  New  York  City,  Shanksville,  PA,  and
+Washington  D.C.  led  to  first  responders  in  these  cities,  as  well  as  nationally,  to  jump
+into action. The employees of NIOSH NPPTL also mobilized. According to NIOSH NPPTL
+employee  Robert  Stein,  “If  anyone  ever  doubted  the  potential  for  impact  on  a  vast
+scale,  those  doubts  should  have  been  firmly  dispelled  the  morning  of  September  11,
+2001. I was sitting at my desk that was in building 02 at the time when I got a phone
+call  from  one  of  my  colleagues  who  was  off  site  that  day.   He  said,  “They  are  flying
+planes into the World Trade Center.” I had already heard the news that an airplane had
+hit one of the World Trade Center towers, but his was the first voice to identify and call
+it out as an intentional act. Things started to develop rapidly after that. The personnel
+at the newly formed lab gathered to develop response plans. Response planning quickly
+evolved  into  planning  for  communication  contingencies  as  we  got  word  that
+government  sites  would  be  evacuated.  Obedient  to  the  directions  to  leave  the  work
+site, several of us mustered at the nearby home of one of our colleagues to finish up
+with  our  what-if’s  and  how-to-get-in-touch-with’s.  It  was  an  eerie  ride  home,  very
+confusing  to  the  senses  travelling  under  the  beautiful  blue  skies  of  a  perfect  late
+summer  day,  but  with  such  serious  and  unknown  threats  seemingly  looming
+everywhere.  Even  while  there  was  still  a  ban  on  commercial  flights,  NPPTL  sent  two
+individuals to the World Trade Center site to help with respiratory protection issues as
+they were occurring.  Not only were they able to provide immediate assistance at the
+World  Trade  Center  site,  but  the  first-hand  experience  they  gained  observing  the
+difficulties encountered trying to provide respiratory protection to such a large number
+of  first  responders,  recovery  workers,  law  enforcement  personnel,  and  other  workers
+involved in the response helped to shape technical and policy decisions for months and
+years  afterwards.  The  entire  lab  dedicated  long  hours  in  order  to  complete  new
+statements  of  standard  for  respirator  types  with  protections  appropriate  to  protect
+first-responders  involved  in  terrorist  incidents,  and  then  approve  respirators  so  those
+new standards would actually result in providing appropriate respiratory protection for
+those workers.” Following the terrorist attacks on September 11, 2001, the PPE used by
+first responders became a top priority for NIOSH, as it emphasized the PPE needed to
+protect those risking their own lives in order to save lives. In the weeks after September
+11,  the  New  York  City  Fire  Department’s  Bureau  of  Health  Services  (FDNY-BHS)  and
+NIOSH  launched  a  collaborative  study.  This  study  researched  the  effectiveness  of
+personal  protective  equipment,  including  respiratory  protection,  and  the  occupational
+hazards  and  exposures  of  these  first  responders.  The  results  indicated  that  many
+firefighters  did  not  use  adequate  respiratory  protection  during  the  first  week  of  the
+rescue/recovery  operation  (MMWR,  2002).  First  Responders  using  inconsistent
+respiratory  protection  practices,  photo  courtesy  of  Shutterstock  A  study  researched
+seven first responders to the attacks in New York on September 11 and their exposure
+to the dust at Ground Zero on September 11 or September 12. All were non-smokers or
+had only smoked in their distant past. The results of the study showed that all seven
+first responders developed some form of lung disease after their exposure to the dust
+at Ground Zero (Wu, et al., 2010). Research suggests the rate of respiratory illness was
+so high due to a lack in use of respiratory protection. According to firsthand accounts by
+P.J.  Lioy  and  M.  Gochfeld  in  their  2002  article  “Lessons  Learned  on  Environmental,
+Occupational, and Residential Exposures from the Attack on the World Trade Center,”
+an alarmingly low number of individuals were using respiratory protection in the field at
+Ground Zero, and many that had respiratory protection were not wearing it (Crane et
+al., 2012). The work to improve respiratory protection and subsequent guidance on use
+of  respiratory  protection  has  continued  well  after  2001.  In  2005,  NIOSH  released  its
+“Interim Guidance on the Use of Chemical, Biological, Radiological, and Nuclear (CBRN)
+Full  Facepiece,  Air-Purifying  Respirators/Gas  Masks  Certified  under  42  CFR  Part  84.”
+According to NIOSH NPPTL employee, Jeff Peterson, “I would certainly say that one of
+the biggest accomplishments in the field of respiratory protection is the development of
+the voluntary NIOSH CBRN requirements.” The CBRN requirements answered the need
+of emergency responders to maintain knowledge of PPE in a time of increased global
+terrorism. This interim guidance document provided guidelines for the selection and use
+of  NIOSH-approved  full  facepiece,  tight  fitting,  non-powered,  air-purifying  respirators
+(APR)  for  protection  against  quantified  CBRN  agents.  Following  September  of  2001,
+NIOSH  and  The  RAND  Corporation  developed  multiple  volume  reports  dedicated  to
+protecting emergency responders (Szalajda, 2008). NIOSH also developed three CBRN
+standards. The first requires that self-contained breathing apparatus (SCBA) meet CBRN
+protection standards because it “is used where the respiratory threat level is unknown
+or  known  to  be  immediately  dangerous  to  life  and  health  (IDLH)”  (Szalajda,  2008).
+Secondly, NIOSH developed a standard for a full-facepiece, air-purifying respirator. “The
+CBRN  APR  full-facepiece  respirator  is  widely  used  by  multiple  responder  groups.  It
+provides a lower level of protection than the SCBA and its use is generally allowed once
+conditions are understood and exposures are determined to be at levels below those
+considered  to  be  IDLH”  (Szalajda,  2008).  The  third  priority  was  that  air-purifying  and
+self-contained escape respirators meet CBRN standards. This enabled a more general
+workforce, rather than those solely focused on first responders, to use PPE safely in a
+CBRN  terrorist  incident.  As  addressed  by  Deputy  Director  Jon  Szalajda,  NIOSH  NPPTL
+“continues  to  develop  criteria  for  additional  types  of  respirators  in  response  to
+responders’  needs  for  appropriate  respiratory  protection  against  the  anticipated
+hazards  faced  in  performing  rescue  and  recovery  operations  resulting  from  viable
+terrorist threats, as well as HAZMAT incidents” (Szalajda, 2008). Nurse demonstrating
+the donning of PPE worn by healthcare providers when treating an Ebola patient in a
+medical  intensive  care  unit  (ICU),  photo  courtesy  of  the  CDC  In  2015,  the  American
+National  Standard  Institute  (ANSI)  standard  Z88.2  updated  the  standard  practice  for
+respiratory  protection.  The  Z88  Committee  established  the  standard  in  1969,  with
+revisions  in  1989  and  1992.  The  Z88.2  standard  “sets  forth  minimally  accepted
+practices  for  occupational  respirator  use;  provides  information  and  guidance  on  the
+proper  selection,  use  and  maintenance  of  respirators,  and  contains  requirements  for
+establishing,  implementing  and  evaluating  respirator  programs.  The  standard  covers
+the  use  of  respirators  to  protect  persons  against  the  inhalation  of  harmful  air
+contaminants
+ and
+ against
+ oxygen-deficient
+ atmospheres
+ in
+ the
+ workplace”
+(ANZ88.2-2015,  1.1).  From  2014-2016,  a  global  epidemic  of  the  Ebola  virus  disease
+spread  to  the  United  States.  During  this  time,  proper  PPE  use  in  healthcare  settings
+became a paramount concern, as the highly contagious virus spreads from contact with
+blood and other bodily fluids. Because of the virus’ highly contagious nature, the CDC
+recommended  the  use  of  a  NIOSH-approved  N95  respirator,  or  higher  level  of
+particulate filtration, or a powered air-purifying (PAPR) when caring for a Person Under
+Investigation (PUI) for the Ebola virus disease or a person with a confirmed case of the
+virus. Further, the CDC released guidelines for the disposal, cleaning, and disinfection
+based  on  the  type  of  respirator  worn  by  a  healthcare  worker  when  treating  an  Ebola
+patient. (Frequently Asked Questions, Ebola, 2018). In 2019, “NIOSH NPPTL continues to
+provide national and world leadership in respirator approval, research, and standards
+development to support the workers who rely on respiratory protection,” states NPPTL
+Director,  Dr.  Maryann  D’Alessandro.  Such  research  includes  understanding  respirator
+comfort,  fit,  and  usability;  stockpiling  of  respirators;  and  rapid  respiratory  protection
+training in healthcare settings. One hundred years have passed since the first approved
+respirator. NPPTL continues to provide respiratory protection research to best serve the
+workers  and  public  that  relies  on  them.  “1918  Pandemic  Influenza  Historic  Timeline.”
+Centers  for  Disease  Control  and  Prevention,  National  Center  for  Immunization  and
+Respiratory
+ Diseases,
+ 2018,
+https://www.cdc.gov/flu/pandemic-resources/1918-commemoration/pandemic-timeline-
+1918.htm “About NIOSH” Centers for Disease Control and Prevention, National Institute
+for Occupational Safety and Health, 2018, https://www.cdc.gov/niosh/about/default.html
+“About  NPPTL”  Centers  for  Disease  Control  and  Prevention,  National  Institute  for
+Occupational  Safety  and  Health,  2018.  https://www.cdc.gov/niosh/npptl/about.html
+American  National  Standard  Institute.  “American  National  Standard  Practices  for
+Respiratory  Protection.”  ANSI/ASSE  Z88.2-2015.  Barlow,  Christy  A.,  et  al.  “History  of
+Knowledge  and  Evolution  of  Occupational  Health  and  Regulatory  Aspects  of  Asbestos
+Exposure Science: 1900-1975”. Critical Reviews in Toxicology, 2017, vol. 47, no. 4, pp.
+286-316.  Caretti,  David.  “U.S.  Army  Research,  Development  and  Engineering
+Command:  100  Years  of  U.S.  Military  Masks.”  ISRP,  Denver,  CO,  September  2018.
+Chauhan, S., D, C. R., Faruqi, S., Singh, K. K., Varma, S., Singh, M., & Karthik, V. (2008).
+“Chemical warfare agents”. Environmental Toxicology & Pharmacology, 26(2), 113–122.
+https://doi.org/10.1016/j.etap.2008.03.003  Coffey,  Christopher.  “The  Science  Behind
+Respirator Fit Testing in the Workplace: Past.” National Personal Protective Technology
+Laboratory.  N95  Day.  September  6,  2016.  Cohen,  Howard  J.  and  Jeffrey  S.  Birkner.
+“Respiratory Protection.” Clinics in Chest Medicine, vol. 33, no. 4, 2012, pp. 783-793.
+Crane,  Michael  A.,  et  al.  “Health  Effects  of  the  World  Trade  Center  9/11  Disaster:  An
+Overview.”  Fire  Technology,  vol.  49,  pp.  813-825,  2013.  Department  of  Labor,
+Occupational Safety and Health Administration. 29 CFR Parts 1910 and 1926, [Docket
+No.
+ H-049].
+ Respiratory
+ Protection.
+https://www.osha.gov/laws-regs/federalregister/1998-01-08  “Editorial  Note.”  44  FR
+8577,  Feb.  9,  1979;  44  FR  20940,  Apr.  6,  1979.  EHS  Today  Staff.  “Complying  with
+OSHA’s
+ Respiratory
+ Protection
+ Standard”.
+ EHS
+ Today,
+ March
+ 1,
+ 2000,
+https://www.ehstoday.com/news/ehs_imp_33056  Fitzgerald,  G.  J.  (2008).  Chemical
+Warfare and Medical Response During World War I. American Journal of Public Health,
+98(4), 611–625. https://doi.org/10.2105/AJPH.2007.11930 “Frequently Asked Questions
+for  Guidance  on  Personal  Protective  Equipment  to  Be  Used  by  Healthcare  Workers
+During  Management  of  Patients  with  Confirmed  Ebola  or  Persons  Under  Investigation
+(PUI)  for  Ebola  Who  are  Clinically  Unstable  or  have  Bleeding,  Vomiting  or  Diarrhea  in
+U.S. Hospitals, Including Procedures for Donning and Doffing.” US Department of Health
+and Human Services, Public Health Service, Centers for Disease Control and Prevention,
+National
+ Institute
+ for
+ Occupational
+ Safety
+ and
+ Health,
+ August
+ 2018.
+https://www.cdc.gov/vhf/ebola/healthcare-us/ppe/faq.html  “Guidelines  for  Preventing
+the  Transmission  of  Mycobacterium  tuberculosis  in  Health-Care  Facilities,  1994”.  CDC
+MMWR,  vol.  43,  no.  RR-13,  October  28,  1994.  Kloos,  Edwin  J.  “History  of  Respiratory
+Protection
+ in
+ the
+ Fire
+ Service.”
+ Fire
+ Engineering,
+ July
+ 1,
+ 1963.
+https://www.fireengineering.com/articles/print/volume-116/issue-7/features/history-of-re
+spiratory-protection-in-the-fire-service.html Kyriazi, Nicholas. “Proposal for Certification
+Tests and Standards for Closed-Circuit Breathing Apparatus,” Information Circular 9449,
+U.S.
+ Department
+ of
+ Health
+ and
+ Human
+ Services,
+ CDC,
+ NIOSH.
+ 1999.
+https://www.cdc.gov/niosh/mining/UserFiles/works/pdfs/ic9449.pdf
+ Maryann
+ M.
+D’Alessandro,  Ph.D.  “An  Exemplary  Approach  to  Applying  the  PPE  Conformity
+Assessment Framework.” National Institute for Occupational Safety and Health National
+Personal  Protective  Technology  Laboratory.  19th  ISRP  International  Conference.
+September  17,  2018.  Denver,  Colorado.  NIOSH  [2018].  CBRN  respiratory  protection
+handbook. By Janssen L, Johnson AT, Johnson JS, Mansdorf SZ, Medici OR, Metzler RW,
+Rehak TR, Szalajda JV. Pittsburgh, PA: U.S. Department of Health and Human Services,
+Centers for Disease Control and Prevention, National Institute for Occupational Safety
+and
+ Health,
+ DHHS
+ (NIOSH)
+ Publication
+ No.
+ 2018-166,
+https://doi.org/10.26616/NIOSHPUB2018166. NIOSH NPPTL. NIOSH Interim Guidance on
+the  Use  of  Chemical,  Biological,  Radiological  and  Nuclear  (CBRN)  Full  Facepiece,
+Air-Purifying
+ Respirators/Gas
+ Masks
+ Certified
+ Under
+ 42
+ CFR
+ Part
+ 84,
+ 2005.
+https://www.cdc.gov/niosh/npptl/guidancedocs/interapr070805.html
+ Occupational
+Safety and Health Act of 1970, Pub. L. No. 91-596, 84 STAT. 1590. (2004). “Protecting
+Lives
+ for
+ 100
+ Years.”
+ MSA:
+ The
+ Safety
+ Company,
+ n.d.,
+https://webapps.msanet.com/landingpages/msa100/timeline/timeline.html#
+ Spelce,
+David,  Timothy  R.  Rehak,  Richard  W.  Metzler,  and  James  S.  Johnson.  “History  of  U.S.
+Respirator Approval.” Journal of the International Society for Respiratory Protection, vol.
+35, no. 1, 2018, pp. 35-46. Spelce, David, Timothy R. Rehak, Richard W. Metzler, and
+James  S.  Johnson.  “History  of  U.S.  Respirator  Approval  (Continued)  –  Gas  Masks,
+Suppled-Air  Respirators,  and  Chemical  Cartridge  Respirators.”  Journal  of  the
+International Society for Respiratory Protection, vol. 35, no. 2, 2018, pp. 86-97. Spelce,
+David, Timothy R. Rehak, Richard W. Metzler, and James S. Johnson. “History of the U.S.
+Respirator  Approval  (Continued)  Particulate  Respirators.”  Journal  of  the  International
+Society for Respiratory Protection, vol. TBA, no. TBA. 2019. Spelce, David, Timothy R.
+Rehak,  Richard  W.  Metzler,  and  James  S.  Johnson.  “Pre-World  War  I  Firefighter
+Respirators  and  the  U.S.  Bureau  of  Mines  Involvement  in  WWI.”  Journal  of  the
+International  Society  for  Respiratory  Protection,  vol.  34,  no.  2,  2017,  pp.  128-135.
+Szalajda,
+ Jonathan.
+ “Respiratory
+ Protection
+ for
+ Terrorist
+ Threats
+ and
+ Other
+Emergencies.”
+ NIOSH
+ Science
+ Blog.
+ September
+ 9,
+ 2009,
+https://blogs.cdc.gov/niosh-science-blog/2009/09/09/respiratory/
+ TB
+ Respiratory
+Protection Program in Health Care Facilities: Administrator’s Guide. US Department of
+Health  and  Human  Services,  Public  Health  Service,  Centers  for  Disease  Control  and
+Prevention,  National  Institute  for  Occupational  Safety  and  Health,  September  1999.
+“Use of Respiratory Protection Among First Responders at the World Trade Center Site –
+New  York  City,  September  2001.”  CDC  MMWR,  vol.  51,  Special  Issue,  September  11,
+2002,  pp.  6-8.  Wu,  Maoxin,  et  al.  “Case  Report:  Lung  Disease  in  World  Trade  Center
+Responders  Exposed  to  Dust  and  Smoke:  Carbon  Nanotubes  Found  in  the  Lungs  of
+World  Trade  Center  Patients  and  Dust  Samples,”  Environmental  Health  Perspectives,
+vol. 119, no. 4, pp. 499-504, 2010.
+Source URL: https://www.cdc.gov/niosh/npptl/Respiratory-Protection-history.html

@@ -1,0 +1,322 @@
+Official websites use .gov A .gov website belongs to an official government organization
+in  the  United  States.  Secure  .gov  websites  use  HTTPS  A  lock  (   )  or  https://  means
+you've  safely  connected  to  the  .gov  website.  Share  sensitive  information  only  on
+official,  secure  websites.  Michael  E.  King,  Diana  M.  Bensyl,  Richard  A.  Goodman,  and
+Sonja A. Rasmussen When a threat to the public’s health occurs, epidemiologists are
+ready  responders  who  investigate  the  problem  so  they  can  identify  causes  and  risk
+factors, implement prevention and control measures, and communicate with everyone
+involved.  Epidemiologic  field  investigations  are  a  core  function  of  epidemiology  and
+perhaps the most obvious way information is transformed into action to ensure public
+health  and  safety  (see  Chapter  1).  This  chapter  describes  the  step-by-step  process
+required in performing an epidemiologic field investigation. The 10 steps covered here
+build on and further refine the steps that have been taught traditionally in the Centers
+for  Disease  Control  and  Prevention’s  (CDC)  annual  Epidemic  Intelligence  Service
+courses, in the three previous editions of this manual (the textbook Field Epidemiology),
+and  in  other  CDC  instructional  programs.  The  10  steps  discussed  here  are  similar  to
+those  found  in  other  epidemiology  instructional  publications  (1–5).  Lists,  take-home
+points,  and  examples  are  provided  to  clarify  key  aspects  and  improve  the  practical
+utility of the discussion. This chapter describes a field investigation in the context of a
+public health response to a presumed acute infectious disease outbreak, although this
+approach  also  applies  to  other  scenarios  and  problems.  Zika  was  first  identified  in
+nonhumans  in  1947  and  associated  with  mosquito  transmission.  Since  then,
+researchers  have  continued  to  learn  and  adapt  to  new  information  about  Zika
+transmission. Before 2007, when the first larger scale outbreak occurred, Zika was not
+a disease of special concern given the small number of people affected. In 2008, sexual
+transmission  was  suspected  as  a  mode  of  transmission,  but  with  so  few  cases,
+confirming it was not possible. Then Zika virus cases increased exponentially in 2015.
+Preliminary  investigations  indicated  mother-to-child  transmission  among  pregnant
+women,  and  a  case  of  sexual  transmission  was  confirmed.  Each  time  researchers
+learned  new  information,  case  definitions  had  to  be  adapted  and  the  focus  of
+information gathering had to expand to account for multiple transmission modes.
+Source: Adapted from Reference 7.   An outbreak is defined as “the occurrence of more
+cases  of  disease  than  expected  in  a  given  area  or  among  a  specific  group  of  people
+over  a  particular  period  of  time”  (1).  When  there  are  clearly  many  more  cases  than
+usual that are distributed across a larger geographic area, the term epidemic can be
+used.  An  outbreak  is  a  situation  that  usually  needs  a  rapid  public  health  response.
+Notification of a suspected outbreak can come from different sources, including astute
+clinicians, laboratory scientists, public health surveillance data, or the media. After the
+decision  is  made  to  start  an  investigation,  clearly  defining  the  objective  of  the
+investigation  is  crucial.  Field  investigations  of  common  outbreak  scenarios  have
+standard  objectives  and  time-tested  methods  that  can  be  implemented  rapidly.  For
+example,  because  transmission  modes  associated  with  foodborne  and  waterborne
+outbreaks  are  well-known  (i.e.,  spread  by  contact  with  infected  persons,  animals,  or
+contaminated food or water), epidemiologists have developed the National Hypothesis
+Generating Questionnaire (6), a standardized questionnaire to help develop hypotheses
+and collect information from ill persons regarding demographics and specific exposures.
+In contrast, at the time of initial recognition, many outbreaks have no obvious or known
+cause, which challenges the epidemiologist to establish a clear objective early—albeit
+one  that  is  broad  and  can  be  revised  as  the  investigation  evolves—and  to  generate
+hypotheses (Box 3.1). Finally, a certain urgency to field investigations and pressure to
+find  an  answer  quickly  will  always  exist.  For  example,  rapid  surveys  or  other  study
+designs used in outbreak investigations might lack the level of statistical power or proof
+of causality that often are possible in prospectively planned research studies. Likewise,
+delays  caused  by  waiting  for  all  laboratory  samples  to  be  tested  can  delay
+determination of pathogens or modes of spread and, consequently, implementation of
+control  measures.  However,  the  goal  is  to  be  both  timely  and  accurate.  Because  of
+these considerations, coordinating with all partners and establishing priorities early is
+key  to  a  successful  investigation.  Consider  whether  control  measures  can  be
+implemented now.Identify and count cases (i.e., create a case definition and develop a
+line  listing).Prepare  for  field  work  Source:  Adapted  from  Reference  8.  Epidemiologists
+use a systematic multistep approach to field investigations (Box 3.2). Although these
+steps are presented here in a numeric order, they might be conducted out of order or
+concurrently  to  meet  the  demands  of  the  investigation.  For  example,  in  certain
+circumstances,
+ implementing
+ a
+ control
+ measure
+ soon
+ after
+ notification
+ and
+confirmation  of  an  outbreak  might  be  possible  and  even  advisable.  Often,  Steps
+2  (Confirm  the  Diagnosis)  and  3  (Determine  the  Existence  of  an  Outbreak)  are
+performed  at  the  same  time.  These  two  steps  highlight  the  need  for  increased
+collaboration  (or  teamwork)  early  in  the  investigation  among  public  health  officials,
+laboratory personnel, clinicians, and other stakeholders. Step 1. Prepare for Field Work
+An important first step in any field investigation is addressing the operational aspects
+related to preparing for field work (see Chapter 2). This preparation includes ensuring
+that  all  persons  involved  agree  on  the  purpose  of  the  investigation  and  that  the
+required  official  approvals  for  the  field  investigation  have  been  received.  A  formal
+invitation  for  assistance  must  be  received  from  an  authorized  official;  for  example,
+when a state requests assistance from CDC to conduct an investigation, the Governor
+or an appropriate public health officer like the state epidemiologist would be authorized
+to extend that invitation. In addition, roles and responsibilities of those involved in the
+investigation must be delineated. For most investigations, laboratory testing will play a
+crucial  role;  thus,  discussions  with  laboratory  colleagues  about  types  of  testing  and
+specimens need to occur before the field investigation begins. Concerns related to the
+safety of the field team (e.g., whether personal protective equipment will be needed)
+also should be considered during this first step. Ensuring that this early preparation for
+the field investigation is completed will prevent misunderstandings and other problems
+later. Step 2. Confirm the Diagnosis Confirming or verifying the diagnosis ensures, to
+the extent possible, that you are addressing the problem that was reported initially and
+rules out misdiagnosis and potential laboratory error. For example, in a communicable
+disease outbreak, the real clustering of false infections—a consequence of misdiagnosis
+and laboratory error—can result in a pseudoepidemic. The term pseudoepidemic refers
+to  a  situation  in  which  there  is  an  observed  increase  in  positive  test  results  or  the
+incidence  of  disease  related  to  something  other  than  a  true  increase  in  disease.
+Diagnoses  can  be  confirmed  by  implementing  some  or  all  of  the  following  activities:
+Although laboratory data might be the best and only link between a putative cause and
+case,  not  every  case  requires  laboratory  confirmation  before  further  action  can  be
+taken.  A  related  step  to  confirming  diagnoses  is  the  need  to  obtain  specimens  (e.g.,
+microbiologic strains already isolated) before they have been discarded so that they are
+available  for  further  analysis  if  new  questions  arise  later  in  an  investigation.  Step  3.
+Determine  the  Existence  of  an  Outbreak  After  the  initial  June  1981  Morbidity  and
+Mortality Weekly Report of a cluster of cases of Pneumocystis pneumonia among men
+in Los Angeles, the ensuing investigation required approximately 6 months to establish
+surveillance and a baseline that confirmed the early phase of what eventually came to
+be  known  as  the  national  epidemic  of  human  immunodeficiency  virus/acquired
+immunodeficiency  syndrome  (HIV/AIDS).  Source:  Adapted  from  References  10,  11.
+Determining the existence of an outbreak is a sometimes difficult step that should be
+completed before committing program resources to a full-scale investigation. This step
+also  is  necessary  to  rule  out  spurious  problems  (e.g.,  pseudoepidemics  or  reporting
+increases  caused  by  surveillance  artifacts).  As  noted  previously,  pseudoepidemics
+might result from real clustering of false infections (e.g., inadvertent contaminants of
+laboratory specimens) or artifactual clustering of real infections (e.g., increases in the
+number of reported cases because of changes in surveillance procedures introduced by
+the health department or implemented by a healthcare delivery system) (9). Problems
+potentially  associated  with  pseudoepidemics  include  risks  related  to  unnecessary  or
+inappropriate  treatment  and  unnecessary  diagnostic  procedures.  To  confirm  the
+existence of an outbreak, the field investigation team must first compare the number of
+cases  during  the  suspected  outbreak  period  with  the  number  of  cases  that  would  be
+expected during a nonoutbreak timeframe by For certain problems, an outbreak can be
+rapidly  confirmed  through  use  of  existing  surveillance  data.  For  others,  however,
+substantial time lags might occur before a judgment can be made about the existence
+of an outbreak (Box 3.3). Step 4. Identify and Count Cases Example of a Simple Case
+Definition The 2007 Zika virus (ZIKV) outbreak in Yap used the following case definition:
+Case  definition:  A  patient  with  suspected  disease  had  acute  onset  of  generalized
+macular or papular rash, arthritis or arthralgia, or nonpurulent conjunctivitis during the
+period from April 1 through July 31, 2007. Case classification: We considered a patient
+to have confirmed Zika virus disease if Zika virus RNA was detected in the serum or if
+all  the  following  findings  were  present:  IgM  antibody  against  Zika  virus  (detected  by
+ELISA), Zika virus PRNT90 titer of at least 20, and a ratio of Zika virus PRNT90 titer to
+dengue virus PRNT90 titer of at least 4. A patient was classified as having probable Zika
+virus  disease  if  IgM  antibody  against  Zika  virus  was  detected  by  ELISA,  Zika  virus
+PRNT90  titer  was  at  least  20,  the  ratio  of  Zika  virus  PRNT90  titer  to  dengue  virus
+PRNT90 titer was less than 4, and either no Zika virus RNA was detected by RT-PCR or
+the  serum  sample  was  inadequate  for  the  performance  of  RT-PCR.  Example  of  a
+Complex  Case  Definition   Note  how  the  case  definition  changed  from  2007  as
+researchers  learned  more  about  ZIKV  transmission.  Laboratory  Criteria  for  Diagnosis
+Recent ZIKV Infection Recent Flavivirus Infection, Possible ZIKV Epidemiologic Linkage
+See  Also  Subtype  Case  Definitions  Source:  Adapted  from  Duffy  MR,  Chen  TH,  Thane
+Hancock W, et al. Zika virus outbreak on Yap Island, Federated States of Micronesia. N
+Engl  J  Med  2009;360:2536–2543;  and  Centers  for  Disease  Control  and  Prevention.
+National Notifiable Disease Surveillance System (NNDSS). Zika virus disease and Zika
+virus
+ infection,
+ 2016
+ case
+ definition.
+https://wwwn.cdc.gov/nndss/conditions/zika/case-definition/2016/06/.  The  aim  of  this
+step is to identify, or ascertain, as many cases as possible without including noncases.
+As  a  practical  matter,  this  entails  casting  a  broad  net  through  use  of  a  classification
+scheme—the case definition (see the following discussion)—that maximizes sensitivity
+(i.e., correctly identifies persons who have cases of the condition [true-positives]) and
+optimizes  specificity  (i.e.,  does  not  include  persons  who  do  not  have  cases  of  the
+condition [false-positives]) (see Box 3.4). The case definition is a statement consisting
+of three elements that together specify a person Although the case definition might be
+broad at the onset of an epidemiologic field investigation, it is a flexible classification
+scheme that often is revised and narrowed as the investigation progresses. To minimize
+the likelihood of ascertainment bias (i.e., a systematic distortion in measurement due to
+the  way  in  which  data  are  collected),  cases  ideally  are  sought  and  counted  through
+systematic  searches  of  a  multiplicity  of  potential  sources  to  identify  the  maximum
+number, or a representative sample, of cases. Examples of sources include Information
+about identified cases (e.g., coded patient identifiers, age, sex, race/ethnicity, date of
+illness onset or diagnosis, symptoms, signs, laboratory findings, or other relevant data)
+should be systematically recorded in a spreadsheet or through other means (e.g., a line
+listing  or  similar  epidemiologic  database)  for  subsequent  analysis  and  for  use  in
+conducting further investigative studies (e.g., hypothesis testing). All staff involved in
+data collection and maintenance should be trained to use the forms and questionnaires
+(whether these be on paper or electronic) and to store the forms to protect personal
+information while facilitating rapid data analysis. Depending on the nature, scope, and
+extent of the outbreak, consideration should be given to the need for additional active
+case finding and surveillance once sufficient information has been collected to support
+prevention  and  control  efforts.  Specifically,  ongoing  or  intensified  surveillance  can  be
+paramount in subsequent efforts to evaluate the effectiveness of control measures for
+curbing  and  terminating  the  epidemic  (see  Step  9).  Step  5.  Tabulate  and  Orient  the
+Data  in  Terms  of  Time,  Place,  and  Person  This  step  involves  translating  and
+transforming  data  from  the  line  listing  into  a  basic  epidemiologic  description  of  the
+outbreak.  This  description  characterizes  the  outbreak  in  terms  of  time,  place,  and
+person (referred to as descriptive epidemiology). Through systematic review of data in
+the line listing, key actions typically involve In addition, these key actions contribute to
+developing initial hypotheses for explaining the potential cause, source, and mode of
+spread of the outbreak’s causative agent(s). Time Establishing the time of the outbreak
+or  epidemic  requires  the  following  actions:  Chapter  6  includes  examples  of  epidemic
+curves displaying the types of information that can be analyzed to aid in conducting a
+field investigation. Place Use information collected for the line listing and through other
+inquiry to orient cases in relation to locations, including Using information about place,
+construct spot maps (Figures 3.1, 3.2, 3.3) or other visual methods to depict locations
+of  cases  at  time  of  onset  of  illness  or  possible  exposure  to  causal  agents  or  factors,
+including  Person  Use  information  collected  for  the  line  listing  to  describe  cases  in
+relation to such factors as When possible and where indicated, obtain denominator data
+(e.g., total cook-out attendees in a foodborne disease outbreak) to develop preliminary
+estimates  of  rates  of  illness  in  relation  to  demographic,  exposure,  and  other
+characteristics. Fig3-1  Spot map of residents on the ninth floor of the Metropole Hotel,
+Hong  Kong,  February  21,  2003,  who  had  symptoms  later  identified  as  severe  acute
+respiratory syndrome. Source: Reference 12. Reprinted with permission from the World
+Health  Organization,  February  5,  2018.  Schematic  map  of  village  X,  Sierra  Leone,
+indicating  cumulative  Ebola  virus  infection  household  status  and  quarantine  status,
+August 1– October 10, 2014. Source: Reference 13. Cases of Ebola virus disease, Africa,
+1976–2017. Source: Reference 14. Step 6. Consider Whether Control Measures Can Be
+Implemented Now When the etiology and mode of spread, as well as interventions, are
+known at the time an outbreak is recognized, control measures can begin immediately.
+For example, before hepatitis A vaccine was routinely administered to children starting
+at  age  1  year,  a  single  case  of  hepatitis  A  in  a  child  day  care  setting  led  to
+administration of immune globulin prophylaxis to an entire cohort of exposed children
+and  staff.  This  was  performed  because  of  the  known  epidemiologic  associations
+between asymptomatic and symptomatic cases; it directed efforts toward prophylaxis
+of  exposed  persons  while  minimizing  the  need  for  an  extensive  investigation  to
+specifically  identify  infected  persons.  The  response  was  predicated  on  routine  policy
+and  guidelines  developed  by  experts  on  the  basis  of  studies  and  previous  outbreak
+experience  and  virtual  certainty  about  the  etiology  of  the  problem  and  its  mode  of
+spread. Source: Adapted from Reference 15. Control measures include two categories
+of interventions: (1) those that can be directed at the source(s) of most infectious and
+other disease-causing agents (e.g., treating infected persons and animals or isolating
+infected persons who are contagious) and (2) those that can be directed at persons who
+are susceptible to such agents (administering postexposure prophylaxis, vaccinating in
+advance, or employing barrier techniques) (see Chapter 11 and Box 3.5). In concept,
+control  measures  are  implemented  only  after  the  preceding  and  subsequent
+steps—including  developing  and  testing  hypotheses  about  the  cause  or  mode  of
+spread—have  been  implemented.  In  practice,  however,  decisions  about  control
+measures  might  be  necessary  at  any  step  in  the  sequence,  and  preliminary  control
+measures can be instituted on the basis of limited initial information and then modified
+as needed as the investigation proceeds. Control measures should be considered again
+after  more  systematic  studies  are  complete.  Step  7.  Develop  and  Test  Hypotheses
+Hypotheses  about  the  disease-causing  agent,  source  or  reservoir  of  the  agent,
+transmission mode, and risk factors for disease can be developed based on information
+from
+ multiple
+ sources
+ including:
+ Expert
+ subject-matter
+ knowledge
+ by
+ field
+epidemiologists,  laboratory  colleagues,  and  others;  In  certain  instances,  descriptive
+epidemiologic findings alone, or results of cross-sectional survey data or other studies
+will  be  sufficient  for  developing  hypotheses.  Often,  however,  analytic  epidemiologic
+methods—especially  cohort  or  case–  control  studies—will  be  needed  for  identifying
+possible risk and other causative factors and for testing the strength of the association
+of the factors with the disease. The process of hypothesis testing, therefore, can entail
+multiple iterations of hypothesis generating and testing, serial studies, and collection,
+analysis,  and  management  of  considerable  additional  data.  See  Chapter  7  for
+description  of  how  cohort  and  case–  control  studies  can  be  used  effectively  in
+foodborne or waterborne disease outbreaks and other types of field investigations (Box
+3.6). Typically, statistically significant (e.g., small p value) findings of associations alone
+do  not  constitute  an  adequate  body  of  evidence  to  support  conclusions  about  the
+validity  of  hypotheses  and  to  implement  interventions  to  terminate  an  outbreak.
+Instead, all key information and investigative findings should be viewed as a whole in
+relation to such standards as the Bradford Hill tenets of causation (17) (Box 3.7). In a
+nationwide  foodborne  outbreak,  the  descriptive  results  of  interviews  based  on  the
+National  Hypothesis  Generating  Questionnaire  were  used  to  identify  institutional
+settings (e.g., hospitals and schools), peanut butter, and chicken as potential sources of
+salmonellosis.  The  high  percentage  of  respondents  with  exposure  to  institutional
+settings (58%) and exposure to peanut butter (71%) and chicken (86%) enabled them
+to  focus  further  investigation  activities  in  these  three  areas.  As  the  investigation
+continued,  cases  from  institutional  settings  indicated  a  common  food  distributor.  A
+particular brand of peanut butter was distributed to the facilities, and an open tub of
+this  brand  of  peanut  butter  was  available  for  Salmonella  testing.  The  outbreak  strain
+was isolated from the sample. Source: Adapted from Reference 16. Step 8. Plan One or
+More  Systematic  Studies  At  this  stage  of  most  epidemiologic  field  investigations,  the
+purposes  of  systematic  or  other  studies  might  include  improving  the  quality  of
+information  underlying  the  investigation’s  conclusions  about  the  problem  (e.g.,
+improving  the  quality  of  numerators  or  denominators).  Additional  examples  include
+refining the accuracy of the estimates of persons at risk and examining other germane
+concerns
+ (e.g.,
+ expanding
+ characterization
+ of
+ the
+ causative
+ agent
+ and
+ its
+epidemiology). Step 9. Implement and Evaluate Control and Prevention Measures The
+ultimate  purpose  of  an  epidemiologic  field  investigation  is  to  implement  scientifically
+rational and advisable control measures for preventing additional outbreak-associated
+morbidity or mortality. Control measures implemented in outbreaks will vary based on
+the causative agent; modes of spread; size and characteristics of the population at risk;
+setting; and other considerations, such as available resources, politics, and community
+concerns. Categories of control measures used for terminating outbreaks are described
+in this chapter in Step 6 and are further addressed in Chapter 11. Source: Adapted from
+Reference  17.  Evaluating  the  impact  of  control  measures  is  essential.  Therefore,
+evaluation efforts should be implemented concurrently with control measures to assess
+their effectiveness in attenuating and ultimately terminating the outbreak. If not yet in
+place, active surveillance should be initiated to monitor for new cases and for evidence
+of effect of the control measures and to guide decision-making about additional needs
+(e.g., further investigation, additional studies, or modifications to the control measures).
+Regardless  of  the  intervention,  the  ethical  implications  of  any  action  must  be
+considered.  Because  outbreak  investigations  typically  involve  collection  of  private,
+personally  identifiable  information  from  individual  persons,  and  often  from  their
+families,  coworkers,  or  other  acquaintances,  epidemiologists  should  be  familiar  with
+applicable  local,  state,  and  federal  laws  regarding  privacy  protections.  Step  10.
+Communicate
+ Findings
+ Field
+ epidemiologists
+ must
+ be
+ diligent
+ and
+ effective
+communicators  throughout  and  after  outbreak  investigations.  The  information  they
+provide helps keep the public and stakeholders accurately apprised during an outbreak,
+informs decisions about actions to halt the outbreak, and documents the investigation.
+This  step  requires  the  following  actions:  This  chapter  presents  a  10-step  approach  to
+conducting an epidemiologic field investigation. Although no steps should be skipped,
+they might be conducted concurrently or out of order depending on the circumstances
+of  the  investigation.  Although  descriptive  epidemiologic  findings  are  sufficient  for
+supporting  initiation  of  public  health  action  in  certain  investigations,  more  extensive
+inquiry, including analytic studies, often is required to provide a scientifically rational
+basis  for  interventions.  Regardless  of  complexity,  the  list  of  steps  that  organize
+epidemiologic field investigations helps to ensure focus and thoroughness throughout
+the investigative response. The authors thank the late Michael B. Gregg who served as
+Editor-in-Chief  for  the  first  three  editions  of  Field  Epidemiology;  he  also  authored  the
+initial  version  of  this  chapter.  For  many  years,  Dr.  Gregg  taught  this  subject  in  the
+Epidemic  Intelligence  Service  Summer  Course.  <  Previous  Chapter  2:  Initiating
+Operations  Next  Chapter  4:  Collecting  Data  >   The  fellowship  application  period  and
+host  site  application  period  are  closed.  For  questions  about  the  EIS  program,  please
+contact us directly at EISApplication@cdc.gov.
+Source URL: https://www.cdc.gov/eis/field-epi-manual/chapters/Field-Investigation.html

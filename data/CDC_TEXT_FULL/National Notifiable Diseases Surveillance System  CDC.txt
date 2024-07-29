@@ -1,0 +1,8 @@
+Official websites use .gov A .gov website belongs to an official government organization
+in  the  United  States.  Secure  .gov  websites  use  HTTPS  A  lock  (   )  or  https://  means
+you've  safely  connected  to  the  .gov  website.  Share  sensitive  information  only  on
+official,  secure  websites.  On  March  20,  2024,  CDC  ended  the  pause  on  Message
+Mapping Guide (MMG) onboarding. Interested in onboarding? Learn how to implement
+an  HL7®  message  mapping  guide  or  contact  edx@cdc.gov.  Case  Surveillance
+Modernization
+Source URL: https://www.cdc.gov/nndss/index.html

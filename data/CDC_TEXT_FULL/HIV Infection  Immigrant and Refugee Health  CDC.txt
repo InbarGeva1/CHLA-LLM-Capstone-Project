@@ -1,0 +1,172 @@
+A .gov website belongs to an official government organization in the United States. A
+lock (  ) or https:// means you've safely connected to the .gov website. Share sensitive
+information only on official, secure websites. The domestic medical screening guidance
+is  for  state  public  health  departments  and  healthcare  providers  in  the  United  States
+who conduct the initial medical screening for refugees. These screenings usually occur
+30-90  days  after  the  refugee  arrives  in  the  United  States.  This  guidance  aims  to
+promote and improve refugee health, prevent disease, and familiarize refugees with the
+U.S. healthcare system.  The HIV/AIDS pandemic remains one of the most serious global
+health challenges today23. More than 30 million people were living with HIV at the end
+of 2007, with approximately 2.1 million deaths annually due to AIDS2. In addition, an
+estimated  2.7  million  new  HIV  infections  occurred  in  20072.  While  HIV/AIDS  affects
+individuals  throughout  the  world,  certain  regions,  such  as  sub-Saharan  Africa,  have
+disproportionally high prevalence rates (exceeding 20% in some countries). In addition,
+HIV/AIDS disproportionately affects certain vulnerable population groups, such as young
+adults, women, and children. The increasing global rates of new HIV infections, despite
+efforts  in  prevention,  coupled  with  the  increasing  mobility  of  populations,  make
+HIV/AIDS  an  important  issue  in  every  country.  Although  the  link  between  HIV  and
+migration is complex and nonlinear, multiple factors heighten the HIV risk for refugees.
+Economic  distress,  conflict,  sexual  abuse  and  violence,  oppression,  discrimination,
+exploitation, gender bias, and sociopolitical marginalization contribute to conditions in
+which  transmission  of  HIV  may  be  enhanced45.  However,  few  studies  have  been
+performed  that  document  actual  increased  risk  behaviors  in  specific  refugee
+populations5.  In  addition,  refugees  are  frequently  excluded  from  the  national  health
+care  systems  of  host  countries  where  they  reside,  and,  until  recently,  voluntary
+counseling  and  testing  (VCT)  was  not  provided  in  many  camp  settings  or  to  urban
+refugee  populations67.  Even  when  VCT  is  available,  many  barriers  may  exist  for
+refugee  populations  that  make  testing  less  accessible  (e.g.,  mistrust  in  how  asylum
+countries  may  use  information,  difficulty  in  maintaining  confidentiality  in  refugee
+settings)8.  Approximately  14%  of  the  incoming  refugees  to  the  United  States  arrive
+from  countries  with  HIV  prevalence  >5%91011.  These  figures  are  based  on
+country-specific HIV prevalence data from the end of 2006 and may underestimate true
+infection rates because of underreporting or lack of surveillance data. In addition, prior
+to resettlement, refugees may have traveled to or lived in other countries with high HIV
+prevalence rates. Refugees may also have been victims of physical and sexual violence
+and may be at risk of HIV acquisition through rape, blood product transfusions, or other
+medical  procedures  leading  to  infection,  or  through  drug  use121314.  Disclosure  of
+these  exposures  may  not  be  forthcoming  during  initial  intake  assessments.  It  is
+imperative that a scientific and rational approach to the screening, diagnosis, support
+and care of these individuals be developed and implemented. Prior to departure to the
+United  States,  all  refugees  undergo  a  pre-departure  medical  screening  process.  This
+process  generally  includes  screening  for  inadmissible  medical  conditions  (e.g.,  active
+tuberculosis), as well as presumptive pre-departure treatment for malaria and intestinal
+parasites,  when  appropriate.  HIV  has  been  removed  from  the  list  of  inadmissible
+conditions, and refugees are no longer routinely tested for HIV prior to departure to the
+United States. Identifying HIV infection has implications for the individual refugee, the
+clinical provider, and the public health system. Early entry into care and treatment for
+HIV  has  been  associated  with  improved  survival15.  The  use  of  highly  active
+antiretroviral therapy (HAART) has led to substantial declines in morbidity and mortality
+experienced  by  HIV-infected  persons.  In  addition,  knowing  one's  HIV  status  has
+important implications for the prevention of transmission to others. Studies specifically
+examining  the  cost-effectiveness  of  screening  refugees  in  the  era  of  HAART  in  the
+United  States  are  currently  lacking.  However,  the  cost-effectiveness  of  routine  HIV
+screening in health-care settings is comparable with that of other commonly accepted
+screening  interventions,  even  in  populations  with  relatively  low  seroprevalence1617.
+The  current  guidance  from  CDC  recommends  testing  for  HIV  as  a  routine  part  of
+medical  care  and  stresses  an  "opt  out"  approach  in  which  a  patient  is  notified  that
+testing will be performed unless the patient declines1. The current CDC guidelines are
+available  online.  Testing  for  HIV  infection  has  historically  been  complicated  by  the
+diversity of the HIV genome and the inability of various assays to detect all types and
+subtypes  of  HIV.  Currently,  available  assays  are  largely  able  to  overcome  these
+limitations, although an understanding of both population differences and variability in
+assay performance is important. Two types of HIV are known to infect humans: HIV-1
+and  HIV-2.  HIV-1  is  the  cause  of  the  majority  of  HIV  infections  globally18.  HIV-2
+accounts  for  less  than  1%  of  HIV  infections  worldwide  and  is  found  mostly  in  West
+Africa,  although  cases  have  been  reported  from  India,  Europe,  Brazil,  and  the  United
+States19. While most available tests in use in the United States screen for both HIV-1
+and HIV-2, specific testing for HIV-2 infection should be performed in individuals from
+areas where HIV-2 is common, if their HIV screening test is reactive. HIV-1 is divided
+into  three  groups:  Group  M  (major),  Group  N  (nonmajor),  and  Group  O  (outlier)2021.
+Group  O  is  found  in  West  and  Central  Africa  and  is  of  particular  importance  to  HIV
+screening, as some assays fail to detect Group O infections. Group M constitutes 90% of
+current  HIV  infections  and  is  further  divided  into  phylogenetically  distinct  subtypes
+(A1-4,  B,  C,  D,  F1-2,  G,  H,  J  and  K)22.  Subtype  B,  found  predominantly  in  the  United
+States and Europe, has been the most studied subtype, although it represents less than
+12% of worldwide infections. Globally, the most prevalent subtype is C, constituting half
+of all known infections. See below for a table of geographic distribution of subtypes22.
+Subtype Location Proportion of known infections A East and Central Africa, central Asia,
+eastern  Europe  (including  Russia)  12.3%  B  Americas,  Western  Europe,  East  Asia,
+Oceania (including Japan) 10.2% C India, Nepal, Eastern and Southern Africa 49.9% D
+East and Central Africa 2.5% G West Africa, East Africa, Central Europe 6.3% F, H, J, K
+Various  locations  <1%  each  Circulating  recombinant  forms  (CRFs)  Various  locations
+remainder EIA test results are classified as reactive or nonreactive. Specimens with a
+nonreactive result from the initial EIA are considered HIV-negative. Specimens with a
+reactive  EIA  result  are  retested  in  duplicate.  If  the  result  of  either  duplicate  test  is
+reactive, the specimen is reported as repeatedly reactive and undergoes confirmatory
+testing
+ with
+ a
+ more
+ specific
+ supplemental
+ test
+ such
+ as
+ Western
+ blot,
+immunofluorescence  assay  (IFA),  or  RNA  testing23.  Some  laboratories  report  only  a
+final result (not an initial reactive EIA result that is not confirmed). This reporting may
+have implications, particularly for individuals with very recent infections or for Group O
+infections. The HIV-1 Western blot is a solid-phase EIA with immobilized viral antigens
+to  detect  IgG  antibodies  to  specific  HIV  proteins.  A  Western  blot  is  interpreted  as
+positive if bands appear at the site of two or more of the following HIV antigens: p24,
+gp41, or gp120/160. Specimens that are repeatedly reactive by EIA and Western blot
+are considered HIV-positive. The Western blot is considered indeterminate if bands are
+present,  but  fewer  than  two  of  the  latter  bands  are  present.  Specimens  that  are
+repeatedly EIA-reactive occasionally provide an indeterminate Western blot result, due
+either to an incomplete antibody response to HIV in an infected person or to nonspecific
+reactions in an uninfected person24. The Western blot is interpreted as negative only if
+no bands are present. Repeat Western blot or RNA testing, performed on a subsequent
+blood specimen, will distinguish persons with early infections from uninfected persons
+with persistent indeterminate results. Current HIV EIAs are >99% sensitive and specific
+for  HIV  infection  and  are  able  to  detect  nearly  all  non-B  subtypes  and  most  group  O
+infections25.  However,  Western  blot  may  fail  to  detect  group  O  in  10%-20%  of
+specimens26.  Individuals  from  areas  with  high  rates  of  group  O  infection  (e.g.,
+Cameroon)  with  reactive  EIAs  but  a  negative  Western  blot  should  undergo  further
+testing with assays known to detect group O (RNA testing). Diagnostic testing for HIV
+also  includes  rapid  antibody  assays,  whose  sensitivity  and  specificity  are  high
+(>99%)2728. Rapid tests may be particularly useful for screening individuals who may
+not  return  for  the  results  of  conventional  screening  tests.  A  rapid  antibody  test
+produces  results  in  20  minutes  or  less.  Six  FDA-approved  rapid  tests  detect  the
+presence of antibodies to HIV in blood, serum, or oral fluid specimens29. As with the
+conventional  EIA,  a  reactive  rapid  HIV  test  result  must  be  confirmed  with  a  follow-up
+supplemental test (e.g., Western blot or RNA) before a final diagnosis of HIV infection
+can  be  made29.  If  confirmatory  testing  yields  negative  or  indeterminate  results,
+follow-up testing should be performed on a blood specimen collected 4 weeks after the
+initial reactive rapid HIV test result. Most rapid HIV-1 tests are capable of detecting all
+major subtypes of group M, although not all rapid HIV screening assays detect Group O.
+Four rapid tests are FDA-approved for detection of both HIV-1 and HIV-2, one of which
+can differentiate HIV-1 from HIV-2.30 A qualitative RNA test has been FDA-approved for
+diagnosis  of  acute  HIV  infection  in  antibody-negative  persons.  This  test  may  also  be
+used to confirm a reactive antibody screening test. Quantitative tests for HIV RNA are
+available, but are not FDA-approved for diagnosis. These RNA tests are routinely used
+to quantify viral load for monitoring progression of HIV disease29. HIV-1 RNA tests do
+not detect HIV-2, and the FDA has not approved an HIV-2 RNA or DNA test30. Plasma
+viral load is characteristically low in HIV-2 infection and RNA testing is unreliable for the
+detection of HIV-2. DNA testing for HIV-2 can be performed to confirm HIV-2 infection.
+HIV disproportionately affects children of foreign-born mothers31. A 2002-2003 report
+of the Ministerial Council on HIV/AIDS in Canada estimated that 70% of all maternal HIV
+transmission  to  children  in  Canada  occurred  among  women  of  African  and  Caribbean
+origin31.  Despite  HIV  disease  progression  being  more  rapid  in  children  and  data
+suggesting  that  infected  children  have  significantly  improved  survival  when
+antiretroviral therapy is initiated early, HIV screening in children <15 years of age has
+often been restricted to those with identifiable risk factors (receipt of blood products,
+HIV-infected mother, or other risk factors identified by provider). The diagnosis of HIV in
+children  is  complicated  by  the  presence  of  passively  acquired  maternal  anti-HIV
+immunoglobulin (IgG) in children born to HIV-infected mothers. Maternal antibody has
+been demonstrated in children up to 18 months of age, complicating interpretation of
+positive antibody test results32. The American Academy of Pediatrics recommends that
+infants born to HIV-positive mothers undergo DNA or RNA testing at day 14, again at
+1-2 months of age, and then at 3-6 months of age. A positive RNA or DNA result at any
+age is a presumptive indicator of HIV infection but must be confirmed. The diagnosis of
+a HIV-infection is made if two DNA or RNA tests are positive. CDC guidelines state that
+HIV  is  definitively  excluded  by  two  negative  RNA  or  DNA  tests  (at  1  month  and  >4
+months) or two negative antibody tests from separate specimens obtained at age >6
+months. Given that HIV can be transmitted from mother to child through breastfeeding,
+many clinicians confirm the absence of HIV-1 with a negative HIV-1 antibody assay at
+12-18 months of age or after the child is no longer breastfeeding32. Refugees represent
+a population vulnerable to HIV infection and disease. Given the known benefits of early
+detection,
+ counseling,
+ provision
+ of
+ antiretroviral
+ therapy,
+ and
+ prevention
+ of
+mother-to-child transmission, HIV screening should be offered to all refugees resettling
+in  the  United  States.  CDC  works  to  promote  and  improve  the  health  of  immigrants,
+refugees, and migrants globally. Languages Language Assistance Languages  Language
+Assistance 
+Source URL: https://www.cdc.gov/immigrant-refugee-health/hcp/domestic-guidance/hiv-infection.html

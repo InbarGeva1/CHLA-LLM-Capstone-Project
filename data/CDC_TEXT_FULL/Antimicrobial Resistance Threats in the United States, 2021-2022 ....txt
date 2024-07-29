@@ -1,0 +1,61 @@
+A .gov website belongs to an official government organization in the United States. A
+lock (  ) or https:// means you've safely connected to the .gov website. Share sensitive
+information only on official, secure websites. In July 2024, CDC published a fact sheet
+using
+ new
+ dataA
+ to
+ update
+ the
+ U.S.
+ burden
+ of
+ the
+ following
+ seven
+antimicrobial-resistant pathogens typically found in healthcare settings: CDC previously
+reported  that  the  burden  of  these  pathogens  increased  in  the  U.S.  in  2020  in  the
+COVID-19 Impact Report. The new data describe the burden in the two following years,
+2021  and  2022,  and  compares  against  2019  data.  The  new  dataA  show  that  six
+bacterial  antimicrobial-resistant  hospital-onset  infectionsB  increased  by  a  combined
+20% during the COVID-19 pandemic compared to the pre-pandemic period, peaking in
+2021, and remaining above pre-pandemic levels in 2022. In 2022, rates for all but one
+of  these  pathogens  (MRSA)  remained  above  pre-pandemic  levels.  In  addition,  the
+number  of  reported  clinical  cases  of  C.  auris—a  type  of  yeast  that  can  spread  in
+healthcare facilities, is often resistant to antifungal medications, and can cause severe
+illness—increased  nearly  five-fold  from  2019  to  2022.   The  increases  in  antimicrobial
+resistance (AR) burden seen in 2020 and 2021 are likely due in part to the impact of
+COVID-19,  which  pushed  healthcare  facilities,  health  departments  and  communities
+near  their  breaking  points.  The  pandemic  resulted  in  longer  hospital  stays  for
+hospitalized  patients  (including  those  diagnosed  with  COVID-19),  challenged  the
+implementation
+ of
+ infection
+ prevention
+ and
+ control
+ practices
+ and
+ increased
+inappropriate  antibiotic  use.   As  the  pandemic  continued,  healthcare  providers  and
+public  health  professionals  took  aggressive  action  to  prevent  infections  and  protect
+lives, helping to reduce the burden of AR from its 2021 peak. CDC supported many of
+these  efforts  through  American  Rescue  Plan  Act  (ARP)  funding  to  health-department
+Healthcare-Associated  Infections  and  Antimicrobial  Resistance  (HAI/AR)  Programs  and
+CDC’s Antimicrobial Resistance Laboratory Network (AR Lab Network) in all U.S. states,
+as well as some large cities and territories. In the first year of work supported by ARP
+funding, health departments invested in proven strategies and initiatives including: In
+2021 and 2022, CDC’s AR Lab Network tested more than 230,000 patient samples for
+detection and characterization of antimicrobial-resistant organisms. This testing helped
+inform  efforts  to  stop  spread  and  protect  patients.  CDC's  previous  antimicrobial
+resistance  threats  reports,  published  in  2013  and  2019,  were  important  resources  to
+guide U.S. policy for and investments in combating antimicrobial resistance.  Starting in
+2025, CDC will release estimates for at least 19 antimicrobial resistance threats and an
+update on the U.S. burden of antimicrobial resistance, by pathogen, in a new electronic
+format.  Going forward, CDC will release new estimates for the burden of these threats
+at  least  every  two  years.  Data  are  critical  to  guide  efforts  to  combat  antimicrobial
+resistance, and CDC is committed to providing the high-quality data required to steer
+this  important  work.  Antimicrobial  resistance  happens  when  germs  like  bacteria  and
+fungi  can  defeat  the  drugs  designed  to  kill  them.  Languages  Language  Assistance
+Languages  Language Assistance 
+Source URL: https://www.cdc.gov/antimicrobial-resistance/data-research/threats/update-2022.html

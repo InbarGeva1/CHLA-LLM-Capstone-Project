@@ -1,0 +1,460 @@
+Official websites use .gov A .gov website belongs to an official government organization
+in  the  United  States.  Secure  .gov  websites  use  HTTPS  A  lock  (   )  or  https://  means
+you've  safely  connected  to  the  .gov  website.  Share  sensitive  information  only  on
+official, secure websites. Richard C. Dicker  Field investigations are usually conducted to
+identify the factors that increased a person’s risk for a disease or other health outcome.
+In  certain  field  investigations,  identifying  the  cause  is  sufficient;  if  the  cause  can  be
+eliminated,  the  problem  is  solved.  In  other  investigations,  the  goal  is  to  quantify  the
+association  between  exposure  (or  any  population  characteristic)  and  the  health
+outcome  to  guide  interventions  or  advance  knowledge.  Both  types  of  field
+investigations require suitable, but not necessarily sophisticated, analytic methods. This
+chapter  describes  the  strategy  for  planning  an  analysis,  methods  for  conducting  the
+analysis,  and  guidelines  for  interpreting  the  results.  A  thoughtfully  planned  and
+carefully  executed  analysis  is  as  crucial  for  a  field  investigation  as  it  is  for  a
+protocol-based study. Planning is necessary to ensure that the appropriate hypotheses
+will  be  considered  and  that  the  relevant  data  will  be  collected,  recorded,  managed,
+analyzed, and interpreted to address those hypotheses. Therefore, the time to decide
+what  data  to  collect  and  how  to  analyze  those  data  is  before  you  design  your
+questionnaire,  not  after  you  have  collected  the  data.  An  analysis  plan  is  a  document
+that guides how you progress from raw data to the final report. It describes where you
+are starting (data sources and data sets), how you will look at and analyze the data,
+and  where  you  need  to  finish  (final  report).  It  lays  out  the  key  components  of  the
+analysis in a logical sequence and provides a guide to follow during the actual analysis.
+An analysis plan includes some or most of the content listed in Box 8.1. Some of the
+listed  elements  are  more  likely  to  appear  in  an  analysis  plan  for  a  protocol-based
+planned study, but even an outbreak investigation should include the key components
+in a more abbreviated analysis plan, or at least in a series of table shells. The first two
+tables usually generated as part of the analysis of data from a field investigation are
+those  that  describe  clinical  features  of  the  case-patients  and  present  the  descriptive
+epidemiology.  Because  descriptive  epidemiology  is  addressed  in  Chapter  6,  the
+remainder  of  this  chapter  addresses  the  analytic  epidemiology  tools  used  most
+commonly in field investigations. Handout 8.2 depicts output from the Classic Analysis
+module  of  Epi  Info  7  (Centers  for  Disease  Control  and  Prevention,  Atlanta,  GA)  (2).  It
+demonstrates  the  output  from  the  TABLES  command  for  data  from  a  typical  field
+investigation.  Note  the  key  elements  of  the  output:  (1)  a  cross-tabulated  table
+summarizing the results, (2) point estimates of measures of association, (3) 95% CIs for
+each point estimate, and (4) statistical test results. Each of these elements is discussed
+in  the  following  sections.  Source:  Adapted  from  Reference  1.  Handout  8.2:  Time,  by
+date of illness onset (could be included in Table 1, but for outbreaks, better to display
+as an epidemic curve). Table 1. Clinical features (e.g., signs and symptoms, percentage
+of laboratory-confirmed cases, percentage of hospitalized patients, and percentage of
+patients  who  died).  Table  2.  Demographic  (e.g.,  age  and  sex)  and  other  key
+characteristics of study participants by case–control status if case–control study. Place
+(geographic  area  of  residence  or  occurrence  in  Table  2  or  in  a  spot  or  shaded  map).
+Table 3. Primary tables of exposure-outcome association. Table 4. Stratification (Table 3
+with separate effects and assessment of confounding and effect modification). Table 5.
+Refinements  (Table  3  with,  for  example,  dose-response,  latency,  and  use  of  more
+sensitive  or  more  specific  case  definition).  Table  6.  Specific  group  analyses.  A
+two-by-two
+ table
+ is
+ so
+ named
+ because
+ it
+ is
+ a
+ cross-tabulation
+ of
+ two
+variables—exposure and health outcome—that each have two categories, usually “yes”
+and “no” (Handout 8.3). The two-by-two table is the best way to summarize data that
+reflect the association between a particular exposure (e.g., consumption of a specific
+food)  and  the  health  outcome  of  interest  (e.g.,  gastroenteritis).  The  association  is
+usually quantified by calculating a measure of association (e.g., a risk ratio [RR] or OR)
+from  the  data  in  the  two-by-two  table  (see  the  following  section).  The  illustrative
+cross-tabulation of tap water consumption (exposure) and illness status (outcome) from
+the investigation of oropharyngeal tularemia is displayed in Table 8.2 (1). Table Shell:
+Association  Between  Drinking  Water  From  Different  Sources  And  Oropharyngeal
+Tularemia  (Sancaktepe  Village,  Bayburt  Province,  Turkey,  July–  August  2013)
+Abbreviation: CI, confidence interval.
+Adapted  from  Reference  1.  Typical  Output  From  Classic  Analysis  Module,  Epi  Info
+Version  7,  Using  The  Tables  Command  Source:  Reference  2.  Table  Shell:  Association
+Between  Drinking  Water  From  Different  Sources  and  Oropharyngeal  Tularemia
+(Sancaktepe  Village,  Bayburt  Province,  Turkey,  July–  August  2013)  Source:  Adapted
+from  Reference  1.  Abbreviation:  CI,  confidence  interval.  Risk  ratio  =  26.59  /  10.59  =
+2.5; 95% confidence interval = (1.3–4.9); chi-square (uncorrected) = 8.7 (p = 0.003).
+Source: Adapted from Reference 1. A measure of association quantifies the strength or
+magnitude of the statistical association between an exposure and outcome. Measures
+of  association  are  sometimes  called  measures  of  effect  because  if  the  exposure  is
+causally related to the health outcome, the measure quantifies the effect of exposure
+on the probability that the health outcome will occur. The measures of association most
+commonly used in field epidemiology are all ratios—RRs, ORs, prevalence ratios (PRs),
+and prevalence ORs (PORs). These ratios can be thought of as comparing the observed
+with  the  expected—that  is,  the  observed  amount  of  disease  among  persons  exposed
+versus the expected (or baseline) amount of disease among persons unexposed. The
+measures  clearly  demonstrate  whether  the  amount  of  disease  among  the  exposed
+group is similar to, higher than, or lower than (and by how much) the amount of disease
+in the baseline group. Different measures of association are used with different types of
+studies.  The  most  commonly  used  measure  in  a  typical  outbreak  investigation
+retrospective cohort study is the RR, which is simply the ratio of attack rates. For most
+case–control studies, because attack rates cannot be calculated, the measure of choice
+is  the  OR.  Cross-sectional  studies  or  surveys  typically  measure  prevalence  (existing
+cases) rather than incidence (new cases) of a health condition. Prevalence measures of
+association analogous to the RR and OR—the PR and POR, respectively—are commonly
+used.  Risk  Ratio  (Relative  Risk)  The  RR,  the  preferred  measure  for  cohort  studies,  is
+calculated as the attack rate (risk) among the exposed group divided by the attack rate
+(risk)  among  the  unexposed  group.  Using  the  notations  in  Handout  8.3,  RR=risk
+exposed/risk unexposed = (a/H1) / (c/H0) From Table 8.2, the attack rate (i.e., risk) for
+acquiring  oropharyngeal  tularemia  among  persons  who  had  drunk  tap  water  at  the
+banquet was 26.6%. The attack rate (i.e., risk) for those who had not drunk tap water
+was 10.6%. Thus, the RR is calculated as 0.266/ 0.106 = 2.5. That is, persons who had
+drunk tap water were 2.5 times as likely to become ill as those who had not drunk tap
+water (1). Odds Ratio The OR is the preferred measure of association for case–control
+data.  Conceptually,  it  is  calculated  as  the  odds  of  exposure  among  case-patients
+divided by the odds of exposure among controls. However, in practice, it is calculated
+as  the  cross-product  ratio.  Using  the  notations  in  Handout  8.3,  OR  =  ad/bc  The
+illustrative data in Handout 8.4 are from a case–control study of acute renal failure in
+Panama  in  2006  (3).  Because  the  data  are  from  a  case–control  study,  neither  attack
+rates (risks) nor an RR can be calculated. The OR—calculated as 37 × 110/ (29 × 4) =
+35.1—is  exceptionally  high,  indicating  a  strong  association  between  ingesting  liquid
+cough  syrup  and  acute  renal  failure.  Confounding  is  the  distortion  of  an
+exposure–outcome  association  by  the  effect  of  a  third  factor  (a  confounder).  A  third
+factor might be a confounder if it is Consider a hypothetical retrospective cohort study
+of  mortality  among  manufacturing  employees  that  determined  that  workers  involved
+with  the  manufacturing  process  were  substantially  more  likely  to  die  during  the
+follow-up  period  than  office  workers  and  salespersons  in  the  same  industry.
+Unfortunately, confounding is common. The first step in dealing with confounding is to
+look for it. If confounding is identified, the second step is to control for or adjust for its
+distorting  effect  by  using  available  statistical  methods.  Looking  for  Confounding  The
+most common method for looking for confounding is to stratify the exposure–outcome
+association of interest by the third variable suspected to be a confounder. The OR is a
+useful  measure  of  association  because  it  provides  an  estimate  of  the  association
+between  exposure  and  disease  from  case–control  data  when  an  RR  cannot  be
+calculated.  Additionally,  when  the  outcome  is  relatively  uncommon  among  the
+population  (e.g.,  <5%),  the  OR  from  a  case–control  study  approximates  the  RR  that
+would have been derived from a cohort study, had one been performed. However, when
+the  outcome  is  more  common,  the  OR  overestimates  the  RR.  Prevalence  Ratio  and
+Prevalence  Odds  Ratio  Cross-sectional  studies  or  surveys  usually  measure  the
+prevalence  rather  than  incidence  of  a  health  status  (e.g.,  vaccination  status)  or
+condition  (e.g.,  hypertension)  among  a  population.  The  prevalence  measures  of
+association analogous to the RR and OR are, respectively, the PR and POR. The PR is
+calculated as the prevalence among the index group divided by the prevalence among
+the  comparison  group.  Using  the  notations  in  Handout  8.3,  PR  =  prevalence  index  /
+prevalence comparison = (a/H1) / (c/H0) The POR is calculated like an OR. POR = ad/bc
+In  a  study  of  HIV  seroprevalence  among  current  users  of  crack  cocaine  versus  never
+users, 165 of 780 current users were HIV-positive (prevalence = 21.2%), compared with
+40 of 464 never users (prevalence = 8.6%) (4). The PR and POR were close (2.5 and
+2.8, respectively), but the PR is easier to explain. Odds ratio = 35.1; 95% confidence
+interval = (11.6–106.4); chi-square (uncorrected) = 65.6 (p<0.001).
+Source:  Adapted  from  Reference  3.  A  measure  of  public  health  impact  places  the
+exposure–disease  association  in  a  public  health  perspective.  The  impact  measure
+reflects  the  apparent  contribution  of  the  exposure  to  the  health  outcome  among  a
+population. For example, for an exposure associated with an increased risk for disease
+(e.g., smoking and lung cancer), the attributable risk percent represents the amount of
+lung cancer among smokers ascribed to smoking, which also can be regarded as the
+expected  reduction  in  disease  load  if  the  exposure  could  be  removed  or  had  never
+existed.  For  an  exposure  associated  with  a  decreased  risk  for  disease  (e.g.,
+vaccination), the prevented fraction represents the observed reduction in disease load
+attributable to the current level of exposure among the population. Note that the terms
+attributable and prevented convey more than mere statistical association. They imply a
+direct  cause-and-effect  relationship  between  exposure  and  disease.  Therefore,  these
+measures should be presented only after thoughtful inference of causality. Attributable
+Risk Percent The attributable risk percent (attributable fraction or proportion among the
+exposed,  etiologic  fraction)  is  the  proportion  of  cases  among  the  exposed  group
+presumably attributable to the exposure. This measure assumes that the level of risk
+among the unexposed group (who are considered to have the baseline or background
+risk for disease) also applies to the exposed group, so that only the excess risk should
+be  attributed  to  the  exposure.  The  attributable  risk  percent  can  be  calculated  with
+either  of  the  following  algebraically  equivalent  formulas:  Attributable  risk  percent  =
+(risk exposed / risk unexposed) / risk exposed = (RR–1) / RR In a case– control study, if
+the  OR  is  a  reasonable  approximation  of  the  RR,  an  attributable  risk  percent  can  be
+calculated from the OR. Attributable risk percent = (OR–1) / OR In the outbreak setting,
+attributable risk percent can be used to quantify how much of the disease burden can
+be  ascribed  to  particular  exposure.  Prevented  Fraction  Among  the  Exposed  Group
+(Vaccine Efficacy) The prevented fraction among the exposed group can be calculated
+when the RR or OR is less than 1.0. This measure is the proportion of potential cases
+prevented  by  a  beneficial  exposure  (e.g.,  bed  nets  that  prevent  nighttime  mosquito
+bites  and,  consequently,  malaria).  It  can  also  be  regarded  as  the  proportion  of  new
+cases  that  would  have  occurred  in  the  absence  of  the  beneficial  exposure.
+Algebraically,  the  prevented  fraction  among  the  exposed  population  is  identical  to
+vaccine  efficacy.  Prevented  fraction  among  the  exposed  group  =  vaccine  efficacy  =
+(risk exposed / risk unexposed) /= risk unexposed = 1 RR Handout 8.5 displays data
+from a varicella (chickenpox) outbreak at an elementary school in Nebraska in 2004 (5).
+The  risk  for  varicella  was  13.6%  among  vaccinated  children  and  66.7%  among
+unvaccinated  children.  The  vaccine  efficacy  based  on  these  data  was  calculated  as
+(0.667 – 0.130)/ 0.667 = 0.805, or 80.5%. This vaccine efficacy of 80.5% indicates that
+vaccination  prevented  approximately  80%  of  the  cases  that  would  have  otherwise
+occurred among vaccinated children had they not been vaccinated. Risk ratio = 13.0/
+66.7 = 0.195; vaccine efficacy = (66.7 − 13.0)/ 66.7 = 80.5%.
+Source:  Adapted  from  Reference  5.  Tests  of  statistical  significance  are  used  to
+determine  how  likely  the  observed  results  would  have  occurred  by  chance  alone  if
+exposure was unrelated to the health outcome. This section describes the key factors to
+consider  when  applying  statistical  tests  to  data  from  two-by-two  tables.  Testing  and
+Interpreting Data in a Two-by-Two Table For data in a two-by-two table Epi Info reports
+the  results  from  two  different  tests—chi-square  test  and  Fisher  exact  test—each  with
+variations  (Handout  8.2).  These  tests  are  not  specific  to  any  particular  measure  of
+association. The same test can be used regardless of whether you are interested in RR,
+OR, or attributable risk percent. Many medical and public health journals now require
+that associations be described by measures of association and CIs rather than p values
+or  other  statistical  tests.  A  measure  of  association  such  as  an  RR  or  OR  provides  a
+single value (point estimate) that best quantifies the association between an exposure
+and  health  outcome.  A  CI  provides  an  interval  estimate  or  range  of  values  that
+acknowledge the uncertainty of the single number point estimate, particularly one that
+is  based  on  a  sample  of  the  population.  The  95%  Confidence  Interval  Statisticians
+define a 95% CI as the interval that, given repeated sampling of the source population,
+will  include,  or  cover,  the  true  association  value  95%  of  the  time.  The  epidemiologic
+concept of a 95% CI is that it includes range of values consistent with the data in the
+study  (6).  Relation  Between  Chi-Square  Test  and  Confidence  Interval  The  chi-square
+test  and  the  CI  are  closely  related.  The  chi-square  test  uses  the  observed  data  to
+determine the probability (p value) under the null hypothesis, and one rejects the null
+hypothesis if the probability is less than alpha (e.g., 0.05). The CI uses a preselected
+probability value, alpha (e.g., 0.05), to determine the limits of the interval (1 − alpha =
+0.95),  and  one  rejects  the  null  hypothesis  if  the  interval  does  not  include  the  null
+association  value.  Both  indicate  the  precision  of  the  observed  association;  both  are
+influenced  by  the  magnitude  of  the  association  and  the  size  of  the  study  group.
+Although both measure precision, neither addresses validity (lack of bias). Interpreting
+the Confidence Interval Confidence Intervals in the Foodborne Outbreak Setting In the
+setting of a foodborne outbreak, the goal is to identify the food or other vehicle that
+caused  illness.  In  this  setting,  a  measure  of  the  association  (e.g.,  an  RR  or  OR)  is
+calculated  to  identify  the  food(s)  or  other  consumable(s)  with  high  values  that  might
+have caused the outbreak. The investigator does not usually care if the RR for a specific
+food item is 5.7 or 9.3, just that the RR is high and unlikely to be caused by chance and,
+therefore,  that  the  item  should  be  further  evaluated.  For  that  purpose,  the  point
+estimate  (RR  or  OR)  plus  a  p  value  is  adequate  and  a  CI  is  unnecessary.  For  field
+investigations  intended  to  identify  one  or  more  vehicles  or  risk  factors  for  disease,
+consider  constructing  a  single  table  that  can  summarize  the  associations  for  multiple
+exposures  of  interest.  For  foodborne  outbreak  investigations,  the  table  typically
+includes one row for each food item and columns for the name of the food; numbers of
+ill and well persons, by food consumption history; food-specific attack rates (if a cohort
+study was conducted); RR or OR; chi-square or p value; and, sometimes, a 95% CI. The
+food  most  likely  to  have  caused  illness  will  usually  have  both  of  the  following
+characteristics:  In  illustrative  summary  Table  8.3,  tap  water  had  the  highest  RR  (and
+the only p value <0.05, based on the 95% CI excluding 1.0) and might account for 46 of
+55 cases. Abbreviation: CI, confidence interval.
+Source:  Adapted  from  Reference  1.  Stratification  is  the  examination  of  an
+exposure–disease association in two or more categories (strata) of a third variable (e.g.,
+age).  It  is  a  useful  tool  for  assessing  whether  confounding  is  present  and,  if  it  is,
+controlling  for  it.  Stratification  is  also  the  best  method  for  identifying  effect
+modification.  Both  confounding  and  effect  modification  are  addressed  in  following
+sections.  Stratification  is  also  an  effective  method  for  examining  the  effects  of  two
+different  exposures  on  a  disease.  For  example,  in  a  foodborne  outbreak,  two  foods
+might seem to be associated with illness on the basis of elevated RRs or ORs. Possibly
+both  foods  were  contaminated  or  included  the  same  contaminated  ingredient.
+Alternatively, the two foods might have been eaten together (e.g., peanut butter and
+jelly or doughnuts and milk), with only one being contaminated and the other guilty by
+association.  Stratification  is  one  way  to  tease  apart  the  effects  of  the  two  foods.  In
+illustrative  summary  Table  8.3,  tap  water  had  the  highest  RR  (and  the  only  p  value
+<0.05,  based  on  the  95%  CI  excluding  1.0)  and  might  account  for  46  of  55  cases.
+Stratified Analysis Stratification is the examination of an exposure–disease association
+in two or more categories (strata) of a third variable (e.g., age). It is a useful tool for
+assessing whether confounding is present and, if it is, controlling for it. Stratification is
+also  the  best  method  for  identifying  effect  modification.  Both  confounding  and  effect
+modification  are  addressed  in  following  sections.  Stratification  is  also  an  effective
+method for examining the effects of two different exposures on a disease. For example,
+in  a  foodborne  outbreak,  two  foods  might  seem  to  be  associated  with  illness  on  the
+basis of elevated RRs or ORs. Possibly both foods were contaminated or included the
+same  contaminated  ingredient.  Alternatively,  the  two  foods  might  have  been  eaten
+together  (e.g.,  peanut  butter  and  jelly  or  doughnuts  and  milk),  with  only  one  being
+contaminated  and  the  other  guilty  by  association.  Stratification  is  one  way  to  tease
+apart  the  effects  of  the  two  foods.  Creating  Strata  of  Two-by-Two  Tables  The
+Two-by-Four  Table  Stratified  tables  (e.g.,  Handouts  8.6  and  8.7)  are  useful  when  the
+stratification variable is not of primary interest (i.e., is not being examined as a cause of
+the  outbreak).  However,  when  each  of  the  two  exposures  might  be  the  cause,  a
+two-by-four table is better for disentangling the effects of the two variables. Consider a
+case–control  study  of  a  hypothetical  hepatitis  A  outbreak  that  yielded  elevated  ORs
+both for doughnuts (OR = 6.0) and milk (OR = 3.9). The data organized in a two-by-four
+table  (Handout  8.8)  disentangle  the  effects  of  the  two  foods—exposure  to  doughnuts
+alone is strongly associated with illness (OR = 6.0), but exposure to milk alone is not
+(OR  =  1.0).  When  two  foods  cause  illness—for  example  when  they  are  both
+contaminated or have a common ingredient—the two-by-four table is the best way to
+see  their  individual  and  joint  effects.  Source:  Adapted  from  Reference  1.    Source:
+Adapted from Reference 1. Crude odds ratio for doughnuts = 6.0; crude odds ratio for
+milk  =  3.9.  Confounding  is  the  distortion  of  an  exposure–outcome  association  by  the
+effect  of  a  third  factor  (a  confounder).  A  third  factor  might  be  a  confounder  if  it  is
+Consider  a  hypothetical  retrospective  cohort  study  of  mortality  among  manufacturing
+employees that determined that workers involved with the manufacturing process were
+substantially  more  likely  to  die  during  the  follow-up  period  than  office  workers  and
+salespersons  in  the  same  industry.  Unfortunately,  confounding  is  common.  The  first
+step in dealing with confounding is to look for it. If confounding is identified, the second
+step  is  to  control  for  or  adjust  for  its  distorting  effect  by  using  available  statistical
+methods.  Looking  for  Confounding  The  most  common  method  for  looking  for
+confounding  is  to  stratify  the  exposure–outcome  association  of  interest  by  the  third
+variable suspected to be a confounder. Controlling for Confounding Effect modification
+or  effect  measure  modification  means  that  the  degree  of  association  between  an
+exposure  and  an  outcome  differs  among  different  population  groups.  For  example,
+measles  vaccine  is  usually  highly  effective  in  preventing  disease  if  administered  to
+children  aged  12  months  or  older  but  is  less  effective  if  administered  before  age  12
+months. Similarly, tetracycline can cause tooth mottling among children, but not adults.
+In  both  examples,  the  association  (or  effect)  of  the  exposure  (measles  vaccine  or
+tetracycline) is a function of, or is modified by, a third variable (age in both examples).
+Because  effect  modification  means  different  effects  among  different  groups,  the  first
+step in looking for effect modification is to stratify the exposure–outcome association of
+interest  by  the  third  variable  suspected  to  be  the  effect  modifier.  Next,  calculate  the
+measure of association (e.g., RR or OR) for each stratum. Finally, assess whether the
+stratum-specific measures of association are substantially different by using one of two
+methods.  If  effect  modification  is  present,  present  each  stratum-specific  result
+separately.  In  epidemiology,  dose-response  means  increased  risk  for  the  health
+outcome  with  increasing  (or,  for  a  protective  exposure,  decreasing)  amount  of
+exposure.  Amount  of  exposure  reflects  quantity  of  exposure  (e.g.,  milligrams  of  folic
+acid  or  number  of  scoops  of  ice  cream  consumed),  or  duration  of  exposure  (e.g.,
+number  of  months  or  years  of  exposure),  or  both.  The  presence  of  a  dose-response
+effect is one of the well-recognized criteria for inferring causation. Therefore, when an
+association between an exposure and a health outcome has been identified based on
+an  elevated  RR  or  OR,  consider  assessing  for  a  dose-response  effect.  As  always,  the
+first  step  is  to  organize  the  data.  One  convenient  format  is  a  2-by-H  table,  where  H
+represents the categories or doses of exposure. An RR for a cohort study or an OR for a
+case–control study can be calculated for each dose relative to the lowest dose or the
+unexposed  group  (Handout  8.9).  CIs  can  be  calculated  for  each  dose.  Reviewing  the
+data  and  the  measures  of  association  in  this  format  and  displaying  the  measures
+graphically  can  provide  a  sense  of  whether  a  dose-response  association  is  present.
+Additionally, statistical techniques can be used to assess such associations, even when
+confounders must be considered. In epidemiology, dose-response means increased risk
+for  the  health  outcome  with  increasing  (or,  for  a  protective  exposure,  decreasing)
+amount of exposure. Amount of exposure reflects quantity of exposure (e.g., milligrams
+of folic acid or number of scoops of ice cream consumed), or duration of exposure (e.g.,
+number  of  months  or  years  of  exposure),  or  both.  The  basic  data  layout  for  a
+matched-pair  analysis  is  a  two-by-two  table  that  seems  to  resemble  the  simple
+unmatched  two-by-two  tables  presented  earlier  in  this  chapter,  but  it  is  different
+(Handout 8.10). In the matched-pair two-by-two table, each cell represents the number
+of matched pairs that meet the row and column criteria. In the unmatched two-by-two
+table,  each  cell  represents  the  number  of  persons  who  meet  the  criteria.  In  Handout
+8.10, cell e contains the number of pairs in which the case-patient is exposed and the
+control is exposed; cell f contains the number of pairs with an exposed case-patient and
+an  unexposed  control,  cell  g  contains  the  number  of  pairs  with  an  unexposed
+case-patient and an exposed control, and cell h contains the number of pairs in which
+neither the case-patient nor the matched control is exposed. Cells e and h are called
+concordant  pairs  because  the  case-patient  and  control  are  in  the  same  exposure
+category. Cells f and g are called discordant pairs. Odds ratio = f/  g. In a matched-pair
+analysis, only the discordant pairs are used to calculate the OR. The OR is computed as
+the ratio of the discordant pairs. OR = f/g The test of significance for a matched-pair
+analysis is the McNemar chi-square test. Handout 8.11 displays data from the classic
+pair-matched case–control study conducted in 1980 to assess the association between
+tampon  use  and  toxic  shock  syndrome  (7).  Odds  ratio  =  9/  1  =  9.0;  uncorrected
+McNemar chi-square test = 6.40 (p = 0.01).
+Source:  Adapted  from  Reference  7.  In  practice,  some  epidemiologists  perform  the
+matched  analysis  but  then  perform  an  unmatched  analysis  on  the  same  data.  If  the
+results are similar, they might opt to present the data in unmatched fashion. In most
+instances, the unmatched OR will be closer to 1.0 than the matched OR (bias toward
+the  null).  This  bias,  which  is  related  to  confounding,  might  be  either  trivial  or
+substantial.  The  chi-square  test  result  from  unmatched  data  can  be  particularly
+misleading because it is usually larger than the McNemar test result from the matched
+data. The decision to use a matched analysis or unmatched analysis is analogous to the
+decision to present crude or adjusted results; epidemiologic judgment must be used to
+avoid  presenting  unmatched  results  that  are  misleading.  In  recent  years,  logistic
+regression  has  become  a  standard  tool  in  the  field  epidemiologist’s  toolkit  because
+user-friendly software has become widely available and its ability to assess effects of
+multiple variables has become appreciated. Logistic regression is a statistical modeling
+method  analogous  to  linear  regression  but  for  a  binary  outcome  (e.g.,  ill/well  or
+case/control). As with other types of regression, the outcome (the dependent variable)
+is  modeled  as  a  function  of  one  or  more  independent  variables.  The  independent
+variables  include  the  exposure(s)  of  interest  and,  often,  confounders  and  interaction
+terms.  Sophisticated  analytic  techniques  cannot  atone  for  sloppy  data!  Analytic
+techniques  such  as  those  described  in  this  chapter  are  only  as  good  as  the  data  to
+which
+ they
+ are
+ applied.
+ Analytic
+ techniques—whether
+ simple,
+ stratified,
+ or
+modeling—use  the  information  at  hand.  They  do  not  know  or  assess  whether  the
+correct comparison group was selected, the response rate was adequate, exposure and
+outcome  were  accurately  defined,  or  the  data  coding  and  entry  were  free  of  errors.
+Analytic techniques are merely tools; the analyst is responsible for knowing the quality
+of the data and interpreting the results appropriately. A computer can crunch numbers
+more  quickly  and  accurately  than  the  investigator  can  by  hand,  but  the  computer
+cannot interpret the results. For a two-by-two table, Epi Info provides both an RR and an
+OR,  but  the  investigator  must  choose  which  is  best  based  on  the  type  of  study
+performed. For that table, the RR and the OR might be elevated; the p value might be
+less  than  0.05;  and  the  95%  CI  might  not  include  1.0.  However,  do  those  statistical
+results  guarantee  that  the  exposure  is  a  true  cause  of  disease?  Not  necessarily.
+Although the association might be causal, flaws in study design, execution, and analysis
+can  result  in  apparent  associations  that  are  actually  artifacts.  Chance,  selection  bias,
+information  bias,  confounding,  and  investigator  error  should  all  be  evaluated  as
+possible explanations for an observed association. The first step in evaluating whether
+an apparent association is real and causal is to review the list of factors that can cause
+a spurious association, as listed in Epidemiologic Interpretation Checklist 1 (Box 8.4).
+Chance is one possible explanation for an observed association between exposure and
+outcome. Under the null hypothesis, you assume that your study population is a sample
+from a source population in which that exposure is not associated with disease; that is,
+the  RR  and  OR  equal  1.  Could  an  elevated  (or  lowered)  OR  be  attributable  simply  to
+variation  caused  by  chance?  The  role  of  chance  is  assessed  by  using  tests  of
+significance (or, as noted earlier, by interpreting CIs). Chance is an unlikely explanation
+if However, chance can never be ruled out entirely. Even if the p value is as small as
+0.01, that study might be the one study in 100 in which the null hypothesis is true and
+chance  is  the  explanation.  Note  that  tests  of  significance  evaluate  only  the  role  of
+chance—they  do  not  address  the  presence  of  selection  bias,  information  bias,
+confounding,  or  investigator  error.  Selection  bias  is  a  systematic  error  in  the
+designation of the study groups or in the enrollment of study participants that results in
+a mistaken estimate of an exposure’s effect on the risk for disease. Selection bias can
+be  thought  of  as  a  problem  resulting  from  who  gets  into  the  study  or  how.  Selection
+bias can arise from the faulty design of a case– control study through, for example, use
+of  an  overly  broad  case  definition  (so  that  some  persons  in  the  case  group  do  not
+actually  have  the  disease  being  studied)  or  inappropriate  control  group,  or  when
+asymptomatic  cases  are  undetected  among  the  controls.  In  the  execution  phase,
+selection  bias  can  result  if  eligible  persons  with  certain  exposure  and  disease
+characteristics  choose  not  to  participate  or  cannot  be  located.  For  example,  if  ill
+persons with the exposure of interest know the hypothesis of the study and are more
+willing  to  participate  than  other  ill  persons,  cell  a  in  the  two-by-two  table  will  be
+artificially inflated compared with cell c, and the OR also will be inflated. Evaluating the
+possible role of selection bias requires examining how case-patients and controls were
+specified and were enrolled. Information bias is a systematic error in the data collection
+from  or  about  the  study  participants  that  results  in  a  mistaken  estimate  of  an
+exposure’s effect on the risk for disease. Information bias might arise by including poor
+wording  or  understanding  of  a  question  on  a  questionnaire;  poor  recall;  inconsistent
+interviewing  technique;  or  if  a  person  knowingly  provides  false  information,  either  to
+hide  the  truth  or,  as  is  common  among  certain  cultures,  in  an  attempt  to  please  the
+interviewer.  Confounding  is  the  distortion  of  an  exposure–disease  association  by  the
+effect  of  a  third  factor,  as  discussed  earlier  in  this  chapter.  To  evaluate  the  role  of
+confounding,  ensure  that  potential  confounders  have  been  identified,  evaluated,  and
+controlled  for  as  necessary.  Investigator  error  can  occur  at  any  step  of  a  field
+investigation, including design, conduct, analysis, and interpretation. In the analysis, a
+misplaced semicolon in a computer program, an erroneous transcription of a value, use
+of  the  wrong  formula,  or  misreading  of  results  can  all  yield  artifactual  associations.
+Preventing this type of error requires rigorous checking of work and asking colleagues
+to  carefully  review  the  work  and  conclusions.  To  reemphasize,  before  considering
+whether an association is causal, consider whether the association can be explained by
+chance,  selection  bias,  information  bias,  confounding,  or  investigator  error.  Now
+suppose that an elevated RR or OR has a small p value and narrow CI that does not
+include 1.0; therefore, chance is an unlikely explanation. Specification of case-patients
+and controls was reasonable and participation was good; therefore, selection bias is an
+unlikely explanation. Information was collected by using a standard questionnaire by an
+experienced  and  well-trained  interviewer.  Confounding  by  other  risk  factors  was
+assessed and determined not to be present or to have been controlled for. Data entry
+and  calculations  were  verified.  However,  before  concluding  that  the  association  is
+causal, the strength of the association, its biologic plausibility, consistency with results
+from other studies, temporal sequence, and dose-response association, if any, need to
+be considered (Box 8.5). Strength of the association means that a stronger association
+has more causal credibility than a weak one. If the true RR is 1.0, subtle selection bias,
+information bias, or confounding can result in an RR of 1.5, but the bias would have to
+be  dramatic  and  hopefully  obvious  to  the  investigator  to  account  for  an  RR  of  9.0.
+Biological  plausibility  means  an  association  has  causal  credibility  if  is  consistent  with
+the  known  pathophysiology,  known  vehicles,  natural  history  of  the  health  outcome,
+animal models, and other relevant biological factors. For an implicated food vehicle in
+an  infectious  disease  outbreak,  has  the  food  been  implicated  in  previous  outbreaks,
+or—even better—has the agent been identified in the food? Although some outbreaks
+are caused by new or previously unrecognized pathogens, vehicles, or risk factors, most
+are caused by those that have been recognized previously. Consider consistency with
+other studies. Are the results consistent with those from previous studies? A finding is
+more  plausible  if  it  has  been  replicated  by  different  investigators  using  different
+methods for different populations. Exposure precedes disease seems obvious, but in a
+retrospective  cohort  study,  documenting  that  exposure  precedes  disease  can  be
+difficult. Suppose, for example, that persons with a particular type of leukemia are more
+likely  than  controls  to  have  antibodies  to  a  particular  virus.  It  might  be  tempting  to
+conclude  that  the  virus  caused  the  leukemia,  but  caution  is  required  because  viral
+infection  might  have  occurred  after  the  onset  of  leukemic  changes.  Evidence  of  a
+dose-response effect adds weight to the evidence for causation. A dose-response effect
+is  not  a  necessary  feature  for  an  association  to  be  causal;  some  causal  association
+might exhibit a threshold effect, for example. Nevertheless, it is usually thought to add
+credibility  to  the  association.  In  many  field  investigations,  a  likely  culprit  might  not
+meet all the criteria discussed in this chapter. Perhaps the response rate was less than
+ideal,  the  etiologic  agent  could  not  be  isolated  from  the  implicated  food,  or  no
+dose-response  was  identified.  Nevertheless,  if  the  public’s  health  is  at  risk,  failure  to
+meet every criterion should not be used as an excuse for inaction. As George Comstock
+stated,  “The  art  of  epidemiologic  reasoning  is  to  draw  sensible  conclusions  from
+imperfect  data”  (8).  After  all,  field  epidemiology  is  a  tool  for  public  health  action  to
+promote and protect the public’s health on the basis of science (sound epidemiologic
+methods),  causal  reasoning,  and  a  healthy  dose  of  practical  common  sense.  All
+scientific work is incomplete—whether it be observational or experimental. All scientific
+work is liable to be upset or modified by advancing knowledge. That does not confer
+upon us a freedom to ignore the knowledge we already have, or to postpone the action
+it seems to demand at a given time (9). — Sir Austin Bradford Hill (1897–1991), English
+Epidemiologist  and  Statistician  <  Previous  Chapter  7:  Designing  and  Conducting
+Analytic  Studies  in  the  Field   Next  Chapter  9:  Optimizing  Epidemiology–  Laboratory
+Collaborations > The fellowship application period and host site application period are
+closed.  For  questions  about  the  EIS  program,  please  contact  us  directly  at
+EISApplication@cdc.gov.
+Source URL: https://www.cdc.gov/eis/field-epi-manual/chapters/analyze-Interpret-Data.html

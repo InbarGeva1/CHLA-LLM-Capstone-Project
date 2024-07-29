@@ -1,0 +1,60 @@
+Official websites use .gov A .gov website belongs to an official government organization
+in  the  United  States.  Secure  .gov  websites  use  HTTPS  A  lock  (   )  or  https://  means
+you've  safely  connected  to  the  .gov  website.  Share  sensitive  information  only  on
+official, secure websites. Oral tecovirimat for treatment of mpox is primarily available
+through  the  National  Institutes  of  Health’s  Study  of  Tecovirimat  for  Mpox  (STOMP).
+Healthcare providers should either contact the STOMP call center (1-855-876-9997) or
+their state/territorial health department to inquire about any remaining, prepositioned
+supply of oral tecovirimat available within their jurisdiction. Any remaining supply can
+be  used  for  EA-IND  eligible  patients.  State/local/territorial  health  departments  should
+request TPOXX on behalf of providers caring for patients with mpox by calling the CDC
+Emergency  Operations  Center  (770-488-7100)  or  poxvirus@cdc.gov  (during  regular
+business hours).  The expanded access IND (EA-IND) eligibility criteria for tecovirimat
+treatment for patients with mpox has been revised. The current version of the EA-IND
+protocol [494 KB, 28 pages] is version 6.4 dated June 5, 2024. Refer to Section 2.0 of
+the  protocol  for  the  full  list  of  eligibility  criteria.  The  CDC  Institutional  Review  Board
+(IRB) approved the protocol amendment on June 5, 2024 (see the approval letter [372
+KB,  2  pages]).  Protocol  continuation  was  approved  on  June  20  [93  KB,  1  page].  Oral
+tecovirimat for treatment of mpox is primarily available through enrollment in the Study
+of  Tecovirimat  for  Mpox  (STOMP).  Researchers  and  clinicians  do  not  know  whether
+tecovirimat is effective or how safe it is in treating mpox. The STOMP trial is designed to
+collect data to help answer these scientific questions. Providers with patients who are
+ineligible for STOMP’s open-label  arm (e.g., illness ≥ 14 days or prior TPOXX receipt)
+but  meet  EA-IND  eligibility  for  tecovirimat  treatment  for  mpox  should  contact  their
+state, local, or territorial health departments to see if any oral TPOXX remains available
+within  their  jurisdiction  from  prior  prepositioned  supply.  While  the  large-scale
+prepositioning  of  stockpiled  oral  tecovirimat  stopped  on  February  27,  2023,  by  ASPR,
+some of the deployed supply still remains within expiry.  Any remaining supply can be
+used  for  EA-IND  eligible  patients.  If  there  is  no  local  supply,  state,  local,  or  territorial
+health departments should request oral TPOXX on providers’ behalf by calling the CDC
+Emergency  Operations  Center  (EOC)  at  (770)  488-7100  (24×7)  or  poxvirus@cdc.gov.
+(This  email  box  is  monitored  from  9  a.m.  to  4  p.m.  U.S.  Eastern  time  on  non-holiday
+weekdays). For patients who require intravenous TPOXX treatment and meet treatment
+eligibility under the EA-IND protocol, providers, in conjunction with jurisdictional health
+departments,  can  contact  the  CDC  EOC  or  e-mail  poxvirus@cdc.gov  to  make  the
+request; a clinical consultation with a CDC clinical duty officer regarding management
+of hospitalized patients can also be requested.  To facilitate access to tecovirimat, CDC
+holds  an  expanded  access  IND  (EA-IND)  protocol  for  the  treatment  of  non-variola
+orthopoxvirus  infections,  including  mpox,  in  adults  and  children.  Use  of  tecovirimat
+under this EA-IND protocol is for patients with laboratory-confirmed or suspected mpox
+who meet the eligibility criteria as outlined in Section 2.0 of the protocol [494 KB, 28
+pages].  This  includes:  Patients  with  mpox  who  meet  the  above-mentioned  EA-IND
+eligibility for tecovirimat treatment may also be eligible for oral tecovirimat through the
+open-label  tecovirimat  arm  of  NIH’s  STOMP  study.  The  EA-IND  eligibility  criteria  are
+closely aligned with the STOMP open-label arm’s eligibility criteria regarding those with
+severe  immunocompromise,  people  who  are  pregnant  or  lactating,  and  children.
+However, the definition of protracted or life-threatening manifestations of mpox listed
+above for tecovirimat treatment under the EA-IND protocol are narrower than STOMP’s
+definition  of  severe  disease.  CDC’s  EA-IND  provides  umbrella  regulatory  coverage  so
+that clinicians and facilities do not need to request and obtain their own INDs. To be
+covered under the EA-IND, the providers and affiliated facilities must register online as
+participating  providers/sites.  Tecovirimat  use  under  the  EA-IND  is  also  covered  under
+the Public Readiness and Emergency Preparedness (PREP) Act, which provides liability
+immunity  to  qualified  providers  and  compensation  to  eligible  patients  via  the
+Countermeasures Injury Compensation Program (CICP). Providers and affiliated facilities
+must be registered online as participating providers/sites under the CDC-held expanded
+access IND (EA-IND) protocol for tecovirimat. The tecovirimat IND Online Registry allows
+for  convenient,  time-efficient,  and  secure  completion  and  return  of  required  EA-IND
+forms  to  CDC.  View  this  Fact  Sheet  [521  KB,  8.5″  x  11″]  for  an  overview  of  the
+tecovirimat IND online registry process.
+Source URL: https://www.cdc.gov/poxvirus/mpox/clinicians/tecovirimat-ea-ind.html

@@ -1,0 +1,69 @@
+Official websites use .gov A .gov website belongs to an official government organization
+in  the  United  States.  Secure  .gov  websites  use  HTTPS  A  lock  (   )  or  https://  means
+you've  safely  connected  to  the  .gov  website.  Share  sensitive  information  only  on
+official, secure websites. Smallpox is spread through prolonged face-to-face contact via
+droplets  expelled  from  the  patient’s  nose  and  mouth,  usually  by  coughing.  Smallpox
+may  also  be  transmitted  through  contact  with  materials  from  smallpox  pustules  or
+scabs.  There  have  also  been  rare  reports  of  airborne  transmission  in  hospital  and
+laboratory  settings.  Prevent  the  spread  of  disease  within  your  facility  and  from  your
+facility  to  the  community  by  adhering  to  infection  and  environmental  controls.  Only
+vaccinated individuals should have access to the healthcare facility treating smallpox
+patients. Facilities may need to limit entrance to only approved, vaccinated individuals
+during a smallpox emergency. This includes staff, visitors, and any non-staff individuals
+who  provide  services  for  the  facility  (delivery  or  service  personnel,  public  health
+officials,  law  enforcement,  etc.).  Limiting  access  may  require  designating  staff  to
+maintain  lists  of  individuals  approved  to  enter  the  facility,  check  identification,  and
+monitor  individuals  for  signs  and  symptoms  of  smallpox.  All  staff  should  follow
+standard,  contact,  and  airborne  precautions,  and  use  the  appropriate  personal
+protective  equipment  (PPE),  regardless  of  vaccination  status.  This  helps  assure  that
+healthcare workers are protected regardless of when they were last vaccinated. It also
+provides additional protection should there be any modification to the infectivity of the
+smallpox virus. These precautions also apply to visitors and any other person entering
+the  patient’s  room.  Train  healthcare  facility  staff  prior  to  an  outbreak  on:  Prior  to
+entering  a  smallpox  patient’s  room,  all  staff  should  put  on  the  appropriate  PPE:  Staff
+should remove all PPE, except for the N95 respirator, before leaving the patient’s room.
+After removing gloves, the staff member should wash his or her hands with soap and
+water or use an alcohol-based hand sanitizer. Maintaining proper hand hygiene will help
+limit  the  spread  of  disease.  Ensure  your  facility  will  have  enough  PPE  available  to
+protect  staff  caring  for  one  or  more  patients  with  smallpox  in  AIIRs.  Include  in  your
+emergency  plans  how  you  will  acquire  additional  PPE  quickly  to  handle  a  potential
+surge. Current practices for disinfection and sterilization of patient-care equipment and
+environmental  surfaces  also  apply  to  facilities  evaluating  and  caring  for  smallpox
+patients.  There  is  no  EPA-registered  disinfectant  approved  to  inactivate  variola  virus
+(the virus that causes smallpox). Since variola virus is similar to vaccinia virus (the virus
+used  in  the  smallpox  vaccine),  any  EPA-registered  hospital  disinfectant  approved  to
+inactivate vaccinia virus may be used to disinfect nonporous surfaces contaminated by
+variola  virus.  Follow  the  manufacturer’s  recommendations  for  concentration,  contact
+time, and care in handling. The nature and extent of surface contamination will dictate
+the  level  of  disinfection  (i.e.,  low-level  or  intermediate-level)  needed  to  make  the
+surface safe to handle or use. All personnel performing environmental control tasks in a
+facility  caring  for  smallpox  patients  should  be  vaccinated  and  wear  appropriate  PPE.
+Specific  considerations:  Treat  laundry  carefully,  as  there  have  been  reports  of
+re-aerosolized transmission of variola virus from infected fabric and bedding (fomites).
+Never shake or handle the linens roughly, as this may contaminate air, surfaces, and
+others  with  infectious  particles.  Personnel  handling  laundry  from  smallpox  patients
+should  be  vaccinated  and  wear  appropriate  PPE.  Only  vaccinated  personnel  should
+handle waste from a facility caring for smallpox patients. All waste contaminated with
+smallpox  (or  suspected  to  be  contaminated  with  smallpox)  is  a  Category  A  infectious
+substance
+ regulated
+ as
+ hazardous
+ material
+ under
+ the
+ U.S.
+ Department
+ of
+Transportation  (DOT)  Hazardous  Materials  Regulations  (HMR;  49  CFR,  Parts  171-180).
+These regulations require special packaging of hazardous materials prior to shipment or
+transport. DOT may grant special permits to allow a variance to the regulations, as long
+as  the  applicant  can  demonstrate  alternative  packaging  meets  certain  requirements.
+Other  state  and  local  transportation  guidelines  may  apply.  Include  representatives  of
+these  departments  in  your  facility’s  planning  process.  Other  options  for  disposal
+include:  Note:  Waste  generated  from  the  smallpox  vaccine,  which  contains  vaccinia
+virus, is a Category B infectious substance under the same regulations.
+Source
+ URL:
+https://www.cdc.gov/smallpox/bioterrorism-response-planning/healthcare-facility/prevent-spread-disease.
+html

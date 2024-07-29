@@ -1,0 +1,466 @@
+Official websites use .gov A .gov website belongs to an official government organization
+in  the  United  States.  Secure  .gov  websites  use  HTTPS  A  lock  (   )  or  https://  means
+you've  safely  connected  to  the  .gov  website.  Share  sensitive  information  only  on
+official,  secure  websites.   We  know  this  can  be  an  area  of  confusion.  We  need  to
+consider events occurring in patients on mechanical ventilation and events occurring in
+patients NOT on mechanical ventilation, and we have to consider events that occur in
+adults and events that occur in neonates and in children. Let’s review what is available
+for  in-plan  or  off-plan  surveillance  of  lower  respiratory  tract  events  in  NHSN.  Keep  in
+mind  that  “in-plan”  surveillance  means  that  you/your  facility  have  committed  to
+following the NHSN surveillance protocol for that particular event in your NHSN monthly
+reporting  plan.  “Off-plan”  surveillance  is  surveillance  that  is  done  because  you/your
+facility have decided to track a particular event for internal use. Data that are entered
+into NHSN “off-plan” are not used or reported in NSHN annual reports or other NHSN
+publications.  A  facility  makes  no  commitment  to  follow  the  protocol  for  “off-plan”
+events. What lower respiratory tract event surveillance can be done “in-plan”?     NOTE:
+When  conducting  CLABSI  surveillance,  the  PNEU  definition  is  available  for  use  as  a
+site-specific infection to which a bloodstream infection can be attributed as a secondary
+BSI  for  all  patients,  all  locations,  regardless  of  use  of  mechanical  ventilation.  This
+includes  ventilated  or  non-ventilated  adults,  children,  or  neonates  in  any  patient
+location.   What lower respiratory tract event surveillance can be done “off-plan”?   Yes.
+VAE  and  PNEU/VAP  are  two  separate  protocols  and  detect  different  types  of  events
+within NHSN. An adult location can conduct simultaneous in-plan VAE surveillance and
+off-plan  PNEU/VAP  surveillance,  and  a  patient  can  meet  one  and  not  the  other,  meet
+both, or meet neither. In other words, detection of one type of event (such as a VAE) in
+a particular patient would have no bearing on the conduct of surveillance for the other
+event type (PNEU/VAP) in the same patient. Patients who meet a VAE definition and a
+PNEU/VAP  definition  would  have  two  events  identified  in  units  where  surveillance  for
+multiple respiratory events is occurring. No. Tracking of daily minimum PEEP and FiO2
+should be done for all patients who are eligible for VAE surveillance in units in which
+in-plan  VAE  surveillance  is  being  conducted,  regardless  of  the  reason  for  which  the
+patient was admitted or the reason for initiation of mechanical ventilation. Additionally,
+VAE and PNEU detect two separate events. If a patient meets a PNEU definition, while
+this establishes a 14-day RIT for subsequent PNEU events, the PNEU RIT does not apply
+to or account for the identification of VAEs. In some cases, patients may be on HFV or
+ECLS or paracorporeal membrane oxygenation for a portion of a calendar day, but not
+for  the  entire  calendar  day,  for  example  when  the  support  is  first  initiated  or  when
+discontinued. In these instances, the patient is eligible for inclusion in VAE surveillance
+during  the  portion  of  the  calendar  day  when  the  patient  was  being  mechanically
+ventilated using a conventional mode of mechanical ventilation (not on HFV or ECLS or
+paracorporeal  membrane  oxygenation).  You  should  review  the  FiO2  and  PEEP  data
+recorded for the portion of the calendar day when the patient was NOT on HFV or ECLS
+or paracorporeal membrane oxygenation to select the daily minimum FiO2 and PEEP.
+Once  the  patient  has  been  switched  to  HFV  or  ECLS  or  paracorporeal  membrane
+oxygenation they are no longer included in VAE surveillance. On calendar days when
+the patient was on HFV or ECLS or paracorporeal membrane oxygenation for the entire
+day (specifically, midnight to 11:59 pm), you will not record a daily minimum FiO2 or
+PEEP  –  you  will  enter  “Not  applicable”  or  “Not  eligible  for  surveillance”  in  your
+worksheet column and you will not enter values in the VAE calculator for daily minimum
+FiO2 and PEEP for that particular day. Once the patient has been switched back to a
+conventional  mode  of  mechanical  ventilation,  VAE  surveillance  may  resume.  If  the
+patient has been on HFV or ECLS or paracorporeal membrane oxygenation for one or
+more calendar days (such that there is a gap in recording of the daily minimum FiO2
+and PEEP), then upon return to a conventional mode of mechanical ventilation you will
+essentially need to start over with VAE surveillance. The patient would need to have at
+least 2 days of stability or improvement and at least 2 days of worsening oxygenation
+on the ventilator identified before you can detect a VAE. For example, if the patient was
+on conventional mechanical ventilation on January 10 until 10:00 am, switched to HFV
+at 10:00 am, remained on HFV until 1:00 pm on January 11 and was then placed back
+on a conventional mode of mechanical ventilation, you would be able to evaluate the
+FiO2 and PEEP values recorded for the patient from midnight to 10:00 am on January 10
+(period  on  conventional  mechanical  ventilation)  and  from  1:00  pm  to  11:59  pm  on
+January  11  (period  on  conventional  mechanical  ventilation)  when  looking  for  VAEs.  In
+contrast, if a patient was on HFV for the entire calendar day on January 10 and January
+11, then you would exclude them from VAE surveillance during this period. Once the
+patient  returns  to  conventional  mechanical  ventilation  for  some  portion  of  each
+calendar  day  you  could  again  include in  VAE  surveillance and  once again  begin  daily
+assessment for the daily minimum FiO2 and PEEP values obtained while the patient was
+on the conventional mode of ventilation. Yes. As long as the patient is receiving support
+from  a  mechanical  ventilator  and  is  eligible  for  VAE  surveillance,  then  you  should
+review all FiO2 and PEEP data that are recorded each day to identify the daily minimum
+FiO2 and PEEP values – including FiO2 and PEEP values that are recorded during periods
+of  time  when  the  patient  is  undergoing  spontaneous  awakening  or  spontaneous
+breathing  trials  (or  other  forms  of  weaning  from  mechanical  ventilation).  The  only
+periods  of  time  that  are  not  taken  into  consideration  when  identifying  the  daily
+minimum  FiO2  and  PEEP  values  are  times  when  the  patient  is  on  HFV,  ECLS,  or
+paracorporeal  membrane  oxygenation,  or  times  when  the  patient  is  not  receiving
+mechanical ventilation support (for example, a T-piece trial or a trach collar trial where
+the  patient  continues  to  receive  supplemental  oxygen  but  is  receiving  no  additional
+support from the mechanical ventilator). Keep in mind, too, that during periods of time
+when the patient is being mechanically ventilated using APRV or a related strategy (see
+the APRV FAQ), you will only review FiO2 data (not PEEP). Definitions of “daily minimum
+PEEP” and “daily minimum FiO2” can be found in the VAE protocol. Please refer to the
+VAE  protocol  for  details.  There  will  be  multiple  PEEP  and  FiO2  settings  documented
+each calendar day on mechanically ventilated patients. These PEEP and FiO2 values are
+typically  recorded  in  the  paper  or  electronic  medical  record,  on  respiratory  therapy
+and/or nursing flow sheets, in the section of the flow sheet that pertains to respiratory
+status/mechanical ventilation. You will make daily minimum value determinations using
+documented  settings  specific  to  the  calendar  day  and  independently  of  the  settings
+recorded on the previous calendar day or the next calendar day. Please note that the
+VAE  surveillance  protocol  specifies  to  use  the  daily  minimum  PEEP  and  FiO2  values
+when  assessing  for  both  the  period  of  stability  or  improvement  and  the  period  that
+indicates worsening oxygenation. From the multiple PEEP and FiO2 settings that will be
+documented each calendar day, you will identify the minimum (lowest) value for that
+calendar day that is maintained for > 1 hour. You are not comparing values that occur
+within a calendar day to determine stability, improvement, or worsening. Operationally
+you will always be collecting/recording/evaluating those values, at the earliest, one day
+in arrears so that you can allow for the values obtained for the full 24-hour calendar day
+to be assessed. You will compare the daily minimum value from day to day within the
+individual  parameters  (PEEP  and  FiO2),  looking  for  a  period  of  stabilization  or
+improvement  in  PEEP  followed  by  a  period  of  worsening  oxygenation  in  PEEP,  or  a
+period  of  stabilization  or  improvement  in  FiO2  followed  by  a  period  of  worsening
+oxygenation  in  FiO2.    Consider  the  following  examples:  Example  #  1  (Mechanical
+ventilator data from a single day, May 10):  In this example, the daily minimum FiO2 for
+May  10  would  be  recorded  as  0.70  (70%),  and  the  daily  minimum  PEEP  would  be
+recorded as 5 cmH2O. Note that the daily minimum FiO2 may have been documented
+at a different time than the daily minimum PEEP (as in the example above). Example #
+2  (Mechanical  ventilator  data  from  a  single  day,  May  11):   n  this  example,  the  daily
+minimum  FiO2  for  May  11  would  be  recorded  as  0.70  (70%),  and  the  daily  minimum
+PEEP would be recorded as 5 cmH2O. Note that even though the lowest recorded FiO2
+value for the day was 0.60 (60%), it was only recorded at a single time point with an
+interval  indicating  that  it  was  not  maintained  for  >  1  hour.  For  the  purposes  of  VAE
+surveillance, PEEP values between 0 cmH2O and 5 cmH2O are considered equivalent.
+This means that patients with a daily minimum PEEP in the range of 0-5 cmH2O must
+have an increase in the daily minimum PEEP to at least 8 cmH2O, sustained at or above
+8  cmH2O  for  at  least  2  calendar  days,  in  order  for  the  VAC  definition  to  be  met.  In
+essence, think of values between 0-5 as all being equal to 5, and therefore an increase
+to 8 cmH2O is necessary to satisfy the required increase in daily minimum PEEP ≥ 3
+cmH2O over the daily minimum PEEP in the baseline period.
+NOTE: The VAE calculator will automatically make this correction. PEEP values entered
+into  the  VAE  calculator  that  are  between  0-5  cmH2O  will  be  interpreted  by  the
+calculator as equal to 5. You would only disregard PEEP values on calendar days when
+the  patient  was  mechanically  ventilated  using  APRV  or  a  related  type  of  mechanical
+ventilation for the entire calendar day (specifically, from midnight through 11:59 pm).
+On calendar days when the patient was on APRV for the entire day, you will not record a
+daily  minimum  PEEP  –  you  will  enter  “Not  applicable”  in  your  worksheet  column  for
+daily  minimum  PEEP  for  that  particular  day.  Likewise,  when  using  the  online  VAE
+Calculator, do not enter a daily minimum PEEP value on days when the patient was on
+APRV  for  the  entire  calendar  day.  Leave  the  PEEP  field  in  the  VAE  Calculator
+empty/blank  for  these  days  (DO  NOT  ENTER  ZERO).  Note  that  while  patients  are
+mechanically  ventilated  using  APRV  or  a  related  strategy  (including  modes  such  as
+BiLevel,  Bi  Vent,  BiPhasic,  PCV+,  and  DuoPAP),  they  are  not  excluded  from  VAE
+surveillance – but when assessing these patients for VAE, you will use only FiO2 data to
+identify periods of stabilization or improvement and worsening. In some cases, patients
+may  be  mechanically  ventilated  using  APRV  or  a  related  strategy  for  a  portion  of  a
+calendar day, but not for the entire calendar day. In these instances, you should look at
+all FiO2 data recorded for the entire calendar day when selecting the daily minimum
+FiO2, and you should look at the portion of the calendar day when the patient was NOT
+on APRV or a related mechanical ventilation strategy to select the daily minimum PEEP.
+In other words, when recording the daily minimum PEEP for a patient who spent part of
+the day on APRV and part of the day on a conventional mode of mechanical ventilation
+(for example, Assist Control Ventilation, Intermittent Mandatory Ventilation, etc.), you
+will  review  PEEP  values  just  from  the  portion  of  the  day  when  the  patient  was  on  a
+conventional  mode  of  mechanical  ventilation.  For  example,  on  January  1  a  patient  is
+switched  from  conventional  mechanical  ventilation  at  11:00  am  to  APRV.  The  patient
+stays  on  APRV  until  January  2  at  11:00  pm,  when  the  patient  is  switched  back  to
+conventional mechanical ventilation. You will review the FiO2 data from the entire day
+on January 1 and January 2, and the PEEP data that were recorded for the period from
+midnight to 10:59 am on January 1 (since the patient was on conventional mechanical
+ventilation during this time) and from 11:00 pm to 11:59 pm on January 2 (since the
+patient was back on conventional mechanical ventilation at this time). You will be able
+to  assign  a  daily  minimum  PEEP  for  each  of  these  days  based  on  the  time  spent  on
+conventional mechanical ventilation, and a daily minimum FiO2 based on each entire
+calendar day, and review both PEEP and FiO2 data to determine whether there is a VAE.
+Here  is  another  example:  On  January  1  a  patient  is  switched  from  conventional
+mechanical  ventilation  at  11:00  am  to  APRV.  The  patient  stays  on  APRV  all  day  on
+January  2,  and  on  January  3  until  11:00  pm,  when  the  patient  is  switched  back  to
+conventional  mechanical  ventilation.  In  this  example,  you  will  (as  above)  have  PEEP
+data to review for January 1 and for January 3, based on the amount of time the patient
+was on conventional mechanical ventilation. But because the patient was on APRV all
+day on January 2, you will need to rely on the FiO2 to determine whether there is a VAE
+during  that  period  of  days  (because  there  is  a  gap  in  PEEP  data,  you’d  have  to  start
+over  looking  for  a  baseline  period  in  PEEP  on  January  3).  Yes.  As  long  as  there  is  an
+abnormal  temperature  (>  38°C  or  <  36°C)  or  abnormal  white  blood  cell  count  (≥
+12,000 cells/mm3 or ≤ 4,000 cells/mm3) documented during the VAE Window Period, it
+should  be  used  in  determining  whether  the  patient  meets  the  IVAC  definition  or  not,
+regardless of whether an abnormal temperature or abnormal white blood cell count was
+also present on admission or outside the VAE window period. The antimicrobial criterion
+is one of the required criteria in the Infection-related Ventilator-Associated Complication
+(IVAC) definition. The IVAC definition was not originally developed to identify respiratory
+infections alone; therefore, the list of antimicrobial agents eligible for meeting the IVAC
+antimicrobial  criterion  was  broad  and  included  drugs  that  are  not  used  to  treat
+respiratory  infections.  This  caused  concern  and  confusion  among  some  users  –
+particularly in situations where the “new” antimicrobial agent that resulted in an IVAC
+determination and then subsequently a PVAP determination was not an agent used to
+treat a respiratory infection. To avoid increasing the complexity of this already complex
+criterion,  the  list  was  refined  and  selected  antimicrobial  agents  were  removed:  oral
+cephalosporins
+ and
+ penicillins,
+ erythromycin
+ and
+ erythromycin/sulfisoxazole,
+amantadine,  rimantadine,  chloramphenicol,  tinidazole,  fidaxomicin,  nitrofurantoin,
+enteral  vancomycin,  and  daptomycin.  These  are  agents  that  would  not  be  used,  or
+would be unlikely to be used, in treating a lower respiratory infection in a critically ill
+patient. No. With the IVAC definition, the intent is not to specifically identify infectious
+events  arising  from  the  respiratory  tract  –  it  is  to  identify  an  event  that  may  be
+infectious  in  nature  (whether  arising  from  the  lungs  or  elsewhere)  that  is  associated
+with a period of respiratory deterioration. Any antimicrobial agent that is found in the
+antimicrobial agent appendix and is administered within the correct timeframe and for
+the  required  period  of  time  stated  in  the  protocol  will  be  used  to  satisfy  the
+antimicrobial  criteria  for  IVAC.  Therefore,  when  determining  if  a  patient  satisfies  the
+IVAC  definition,  there  is  no  need  to  discern  the  reason  for  the  administration  of  the
+antimicrobial. In a patient who has met the VAC definition and has additionally met the
+temperature  and/or  WBC  requirement  for  IVAC  but  dies  prior  to  meeting  the
+requirement for ≥ 4 Qualifying Antimicrobial Days, the IVAC criteria are not fulfilled. In
+this instance a VAC (not an IVAC) would be reported to NHSN. For purposes of the VAE
+surveillance protocol, qualitative refers to identification of an organism or cells without
+a  quantity  descriptor:  for  example,  “Staphylococcus  aureus  present”  or  “white  blood
+cells seen.” Semi-quantitative refers to a text description of the amount or quantity of
+organism or cells present, without a specific numeric value: for example, “occasional,”
+“few,”  “moderate,”  “many,”  “heavy”  or  1+,  2+,  3+,  4+.  An  example  of
+semi-quantitative  reporting  would  be  a  result  indicating  “many  Pseudomonas
+aeruginosa”  or  “1+  epithelial  cells.”  Quantitative  refers  to  a  specific  numeric
+description  of  the  amount  of  organism  or  cells  present:  for  example,  105  CFU/ml
+Klebsiella  pneumoniae.  Yes,  it  does  not  matter  if  the  patient  had  previous  positive
+cultures  for  certain  organisms  –  if  an  eligible  pathogen  is  recovered  from  an  eligible
+specimen  with  a  collection  date  during  the  VAE  window  period,  it  should  be  used  in
+determining  if  PVAP  is  met.  This  means  the  following  are  excluded:   Yes.  For  the
+purposes  of  VAE  surveillance,  a  “bronchial  wash”  is  considered  the  same  type  of
+specimen as a bronchoalveolar lavage (BAL). Specimens may frequently be labeled as
+“sputum”  when  they  are  really  “endotracheal  aspirates.”  Making  the  automatic
+substitution is not advised. If, however, you can verify with the patient’s caregiver that
+the  specimen  was  indeed  an  endotracheal  aspirate,  and  also  confirm  that  your
+microbiology  laboratory  does  not  process  specimens  labeled  as  “sputum”  differently
+than those labeled as “endotracheal aspirate,” the culture result can be used to meet
+the requirements for the PVAP definition. Additionally, take the opportunity to address
+improving specimen labeling. Yes, lower respiratory tract specimen cytology findings in
+support  of  identification  of  infection  can  be  used  to  satisfy  PVAP  Criterion  3.  For
+purposes of NHSN, for a bloodstream infection to be determined to be secondary to a
+site-specific  infection  (specifically,  related  to  an  infection  at  another  site,  such  that
+primary  site  of  infection  may  have  seeded  the  bloodstream  secondarily),  the  patient
+must  first  meet  one  of  the  NHSN  site-specific  definitions.  For  example,  for  a
+bloodstream infection to be deemed secondary to PNEU, the PNU2 or PNU3 definition
+must  be  met  first.  You  cannot  attribute  a  bloodstream  infection  secondary  to  PNEU
+based on a clinical diagnosis of pneumonia or solely based on recovery of a matching
+pathogen from a lower respiratory tract specimen and blood specimen. To determine if
+a positive blood culture can be attributed as a secondary bloodstream infection (BSI)
+related to a lower respiratory tract event, consider the following steps:
+1) Does the patient meet any of the VAE definitions?
+a. If only the VAC or IVAC definition is met, then the positive blood culture CANNOT be
+secondary  to  the  VAE  (as  per  the  VAE  surveillance  protocol,  BSIs  cannot  be  deemed
+secondary  to  VAC  or  to  IVAC).  b.  If  the  PVAP  definition  is  met,  then  the  bloodstream
+infection may be attributed to the VAE (as a secondary BSI) IF the blood culture meets
+the VAE secondary BSI requirements as outlined in the VAE surveillance protocol: the
+organism  isolated  from  blood  must  match  an  organism  isolated  from  the  respiratory
+tract  culture  used  in  meeting  the  PVAP  definition  AND  the  blood  culture  must  be
+collected during the 14-day VAE event period.
+2)  If the BSI cannot be attributed as a secondary BSI to VAE, then the positive blood
+culture can be evaluated to see if it is secondary to any of the infection sites as defined
+in Chapter 17 or PNEU, UTI, or SSI event protocols. If another specific site infection to
+which the bloodstream infection can be attributed as a secondary BSI is not identified,
+the  BSI  may  need  to  be  reported  as  a  primary  BSI/CLABSI.  When  a  bloodstream
+infection is deemed secondary to a PVAP (specifically, BSI diagnosed by blood culture
+collected during the 14-day VAE event period, with at least one organism from blood
+matching  an  organism  isolated  from  an  eligible  respiratory  tract  specimen  obtained
+during the VAE window period), organisms isolated from that same blood culture that
+do not match an organism in the eligible respiratory tract specimen MAY be reported as
+a PVAP pathogen—EXCEPT when they are one of the excluded organisms (specifically
+Candida
+ species
+ or
+ yeast
+ NOS,
+ Enterococcus
+ species,
+ coagulase-negative
+Staphylococcus species). An exception to the excluded organism rule is made when the
+eligible  respiratory  tract  specimen  is  pleural  fluid  or  lung  tissue.  Excluded  organisms
+isolated  from  positive  blood  cultures  must  be  accounted  for  as  a  secondary
+bloodstream infection to an infection present on admission, another hospital acquired
+infection (HAI), or a primary bloodstream infection. Please see the examples 1-4 below.
+NOTE: When multiple, separate blood cultures are positive during the 14-day VAE event
+period, ONLY those blood cultures that are positive for at least one organism matching
+an  organism  isolated  from  an  eligible  respiratory  tract  specimen  obtained  during  the
+VAE window period may be considered secondary to the PVAP. Example 1
+A PVAP was detected in a patient in the MICU, with an event date of August 1. The PVAP
+determination was made on the basis of an endotracheal aspirate culture collected on
+August  2  (within  the  VAE  window  period)  that  was  positive  for  many  Pseudomonas
+aeruginosa (PA). On August 9, within the 14-day event period, the patient has a positive
+blood  culture  for  PA  and  Escherichia  coli  (EC).  This  positive  blood  culture  should  be
+reported as a secondary BSI for the PVAP event because it occurred within the 14-day
+event period, and because at least one of the pathogens isolated from blood matches
+an organism isolated from the respiratory tract specimen. Pathogens reported for this
+PVAP  should  include  PA  and  EC.  Example  2  A  PVAP  was  detected  in  a  patient  in  the
+MICU with an event date of August 1. The PVAP determination was made on the basis of
+an endotracheal aspirate culture collected on August 2 (within the VAE window period)
+that was positive for ≥ 105 CFU/ml Pseudomonas aeruginosa (PA) and Candida albicans
+(CA).  On  August  9,  within  the  14-day  event  period,  the  patient  has  a  positive  blood
+culture for PA and CA. This positive blood culture should be reported as a secondary BSI
+for the PVAP event because it occurred within the 14-day event period, and because at
+least one of the pathogens isolated from blood matches an organism isolated from the
+respiratory tract specimen. Pathogens reported for this PVAP should be limited to PA.
+Candida  albicans  CANNOT  be  reported  as  a  pathogen  for  PVAP  because  it  is  an
+excluded  pathogen  when  isolated  from  endotracheal  aspirate.  CA  must  be  accounted
+for  as  either  a  secondary  bloodstream  infection  to  another  primary  site-specific
+infection or as a primary bloodstream infection. Example 3
+A PVAP was detected in a patient in the MICU with an event date of August 1. The PVAP
+determination was made on the basis of a lung biopsy obtained for culture on August 2
+(within the VAE window period) that was positive for Pseudomonas aeruginosa (PA) and
+Candida albicans (CA). On August 9, within the 14-day event period, the patient has a
+positive blood culture for PA and CA. This positive blood culture should be reported as a
+secondary BSI for the PVAP event because it occurred within the 14-day event period,
+and because at least one of the pathogens isolated from blood matches an organism
+isolated from the respiratory tract specimen. Pathogens reported for this PVAP should
+include PA and CA. In this instance the Candida albicans CAN be reported as a pathogen
+for this VAE because it is isolated from a culture of lung tissue. Example 4
+A PVAP was detected in a patient in the MICU with an event date of August 1. The PVAP
+determination was made on the basis of a lung biopsy obtained for culture on August 2
+(within the VAE window period) that was positive for Pseudomonas aeruginosa (PA). On
+August 9, within the 14-day event period, the patient has a positive blood culture for PA
+and  Candida  albicans  (CA).  This  positive  blood  culture  should  be  reported  as  a
+secondary BSI for the PVAP event because it occurred within the 14-day event period,
+and because at least one of the pathogens isolated from blood matches an organism
+isolated from the respiratory tract specimen. Pathogens reported for this PVAP should
+be  limited  to  PA.  Candida  albicans  CANNOT  be  reported  as  a  pathogen  for  this  VAE
+because it is an excluded pathogen unless isolated from pleural fluid or lung tissue. The
+lung tissue culture in this case did NOT grow CA. As an excluded organism isolated from
+positive  blood  culture,  CA  must  be  accounted  for  as  either  a  secondary  bloodstream
+infection  to  another  primary  site-specific  infection  or  as  a  primary  bloodstream
+infection. Per the VAE surveillance protocol, only one VAE can be reported during each
+14-day event period (where day 1 is the onset of worsening oxygenation). A previously
+detected VAE cannot be “upgraded” using information obtained outside of the original
+VAE window period. Once the VAC definition is met the other criteria needed to satisfy
+the  IVAC  and  PVAP  definitions  must  all  be  present  within  the  VAE  window  period
+timeframe,  according  to  the  protocol.  The  temperature,  white  blood  cell  count,  and
+laboratory  test  collection  dates  must  occur  within  the  VAE  Window  Period,  and  the
+antimicrobial agent(s) that help to satisfy the ≥ 4 qualifying antimicrobial days (QADs)
+criterion  must  be  “new”  within  the  VAE  window  period.  Keep  in  mind  that  while  the
+antimicrobial  agent  must  be  new  within  the  VAE  window  period,  QADs  that  count
+toward  satisfying  the  IVAC  antimicrobial  criterion  may  occur  outside  the  VAE  Window
+Period. Example: A VAC is detected in a medical ICU patient, with the day of onset of
+worsening  oxygenation  occurring  on  mechanical  ventilation  (MV)  day  10.  The  VAE
+window period is therefore determined to be from MV day 8 (2 days before the onset of
+worsening  oxygenation)  through  MV  day  12  (2  days  after  the  onset  of  worsening
+oxygenation). The patient has a temperature of 39°C on MV day 10 and is started on a
+new antimicrobial agent on MV day 11 (with that new agent continued for 7 consecutive
+days, from MV day 11 through MV days 17). The IVAC definition is therefore met. On MV
+day 15, a BAL is performed and it grows 105 CFU/ml Pseudomonas aeruginosa. Because
+the BAL specimen was collected OUTSIDE of the VAE window period (even though it was
+collected during the 14-day event period), it cannot be used to upgrade the VAE from
+an IVAC to a PVAP. Per the VAE surveillance protocol, the 14-day event period is to be
+observed  even  if  a  new  episode  of  mechanical  ventilation  (MV)  is  established  during
+that event period. The 14-day event period for VAE surveillance is governed by the date
+of  event  (date  of  onset  of  worsening  oxygenation),  not  the  date  of  initiation  of
+mechanical ventilation. So, if a patient is removed from mechanical ventilator for one
+full calendar day or more and then is returned to the ventilator within the 14-day event
+period,  a  new  VAE  cannot  be  detected  or  reported  until  the  14  days  have  elapsed.
+When the patient is returned to the ventilator, a new episode of MV would begin, and
+the  mechanical  ventilation  day  count  would  start  over  again.  The  earliest  a  new  VAE
+could be identified would be day 3 of the new MV episode. In the example presented in
+the table below, you will see that there is a VAC detected on hospital day 4 during the
+first episode of mechanical ventilation. The patient is extubated on hospital day 6 and
+remains off MV for one full calendar day (hospital day 7). On hospital day 8, the patient
+is  re-intubated,  thereby  starting  a  second  episode  of  MV.  The  patient  is  observed  to
+meet VAC criteria, with a baseline period of stability or improvement on hospitals days
+8  and  9  and  a  period  of  worsening  on  hospitals  days  10  and  11  –  but  because  the
+patient is still within the 14-day event period for the VAE detected on hospital day 4, a
+new VAE is not reported.  See Scenarios A through E below. Scenario A:
+Patient is intubated by the EMS in the field or is intubated in the ED. FiO2 and PEEP data
+are  available  from  the  time  the  patient  spent  in  the  ED,  prior  to  the  patient  being
+transferred to the ICU as an inpatient. Should I use the pre-hospital/ED ventilator data
+when making VAE determinations for that patient? No. Ventilator data that is obtained
+from  patients  in  the  Emergency  Department  or  other  pre-hospital/pre-inpatient
+locations should not be included in VAE surveillance. Therefore, VAE surveillance begins
+for  patients  who  are  intubated  in  the  pre-hospital  or  ED  setting  upon  transfer  to  an
+inpatient  location.  Day  1  of  ventilator  data  consists  of  data  collected  during  the  first
+calendar day of inpatient care. Scenario B:
+Patient  is  intubated  and  mechanically  ventilated  in  an  inpatient  unit  where  VAE
+surveillance is not occurring. The patient is transferred to another inpatient unit in the
+same  hospital  where  VAE  surveillance  is  occurring.  Do  I  use  ventilator  data  from  the
+transferring unit, even though VAE surveillance was not occurring in that unit? Yes – to
+an extent. Since the transferring unit is in the same hospital, and since ventilator data
+from that transferring  unit should  be readily  available, we advise that you  go  back 2
+calendar days prior to transfer and utilize minimum daily PEEP and FiO2 data from the
+transferring unit to determine whether a VAE has occurred during the first 2 days in the
+receiving unit. If a VAE is detected with an onset date on calendar day 1 or 2 (day of or
+day  after  transfer)  in  the  receiving  unit,  that  VAE  would  be  attributable  to  the
+transferring unit and so would not be reported (since the transferring unit was not doing
+VAE  surveillance).  Scenario  C:  Patient  is  intubated  and  mechanically  ventilated  in  an
+inpatient unit where VAE surveillance is occurring. The patient is transferred to another
+inpatient unit in the same hospital where VAE surveillance is also occurring. Do I use
+ventilator  data  from  the  transferring  unit?  Yes.  When  transferring  a  patient  between
+units that are both participating in VAE surveillance, surveillance should continue in a
+continuous, ongoing fashion. For example, if the patient had a VAE in the transferring
+unit  on  August  1,  and  was  transferred  to  the  receiving  unit  on  August  4,  a  new  VAE
+could not be detected in the receiving unit until the 14-day event period for the August
+1 VAE had elapsed (so, August 15 in this case). Scenario D: 
+Patient  is  intubated  and  mechanically  ventilated  in  another  hospital  or  healthcare
+facility  and  then  transferred  to  my  facility.  It  is  unknown  whether  the  transferring
+facility was performing VAE surveillance or not. Should I use ventilator data from the
+transferring facility (if available in my facility’s medical record) when making my VAE
+determinations?  When  ventilator  data  are  available  from  a  transferring  facility  and
+documented in your facility’s medical record, you may use the ventilator data from the
+2 calendar days prior to transfer to determine whether a VAE has occurred early in the
+course of the inpatient stay in your receiving facility. As in Scenario B, above, if a VAE is
+detected with onset date on calendar day 1 or 2 (day of or day after transfer) in your
+receiving  facility,  the  VAE  would  be  attributable  to  the  transferring  facility.  If  no
+ventilator data are available from the transferring facility, VAE surveillance begins on
+admission to your receiving facility/inpatient location where VAE surveillance is taking
+place. Scenario E: 
+Patient  is  intubated  and  mechanically  ventilated  in  another  hospital  or  healthcare
+facility and then transferred to my facility. The transferring facility was performing VAE
+surveillance,  and  I  have  been  informed  that  a  VAE  was  detected  in  the  transferring
+facility five days prior to transfer. Upon arrival in my receiving facility, does the 14-day
+event  period  apply,  or  do  I  need  to  “start  fresh”  with  ventilator  data  available  in  my
+facility? You should “start fresh,” although as noted above in Scenario D, you can use
+ventilator data from the 2 calendar days prior to transfer to determine whether there is
+a  VAE  early  in  the  course  of  hospitalization  in  your  receiving  facility  that  would  be
+attributed back to the transferring facility. The first step in determining whether such
+patients should be included in VAE surveillance is to decide whether the patient is on
+invasive  mechanical  ventilation,  as  defined  by  the  NHSN.  The  NHSN  definition  of  a
+ventilator is, “Any device used to support, assist or control respiration (inclusive of the
+weaning  period)  through  the  application  of  positive  pressure  to  the  airway  when
+delivered  via  an  artificial  airway,  specifically  an  oral/nasal  endotracheal  or
+tracheostomy tube.” Note: Ventilation and lung expansion devices that deliver positive
+pressure  to  the  airway  (for  example,  CPAP,  BiPAP,  Bi-level,  IPPB,  and  PEEP)  via
+non-invasive means (for example, nasal prongs, nasal mask, full face mask, total mask,
+etc.) are not considered ventilators unless positive pressure is delivered via an artificial
+airway  (oral/nasal  endotracheal  or  tracheostomy  tube).  Based  on  this  definition,
+patients  on  home  mechanical  ventilators  or  patients  supported  by  devices  typically
+considered non-invasive ventilator devices should be included in VAE surveillance if the
+ventilator  support  is  administered  via  an  endotracheal  or  tracheostomy  tube,  even  if
+the  support  is  administered  only  for  portions  of  each  day  (for  example,  overnight).
+Patients  receiving  non-invasive  ventilation  (such  as  BiPAP  via  a  face  mask  or  nasal
+mask)  should  not  be  included  in  VAE  surveillance.  The  second  step  in  determining
+whether such patients can be included in VAE surveillance is to determine whether the
+FiO2 or PEEP can be set at a specific level on the home mechanical ventilator or other
+ventilator device. Our current understanding is that some brands of home mechanical
+ventilators  and  devices  typically  used  for  non-invasive  ventilation  do  not  have  the
+capability  of  setting  a  specific  FiO2  or  PEEP  level.  In  these  circumstances,  a  patient
+could  not  be  included  in  VAE  surveillance  because  it  would  not  be  feasible  to  assess
+changes in the set level of FiO2 or PEEP. If the FiO2 or PEEP can be set at a specific
+value and monitored, then these patients should be included in VAE surveillance. If the
+patient is switched from a home mechanical ventilator or other device to a critical care
+unit mechanical ventilator, then they can be included in VAE surveillance at that time
+(taking into account that a baseline period of stability or improvement will need to be
+established  on  the  critical  care  mechanical  ventilator).  NOTE:  Patients  on  home
+ventilators  in  locations  where  in-plan  VAE  surveillance  is  being  performed  will  be
+included in the ventilator day denominator count regardless of their eligibility for VAE
+surveillance. This field should reflect the location where the patient was intubated. For
+example, if the patient was intubated by first responder personnel in the field prior to
+arrival in the facility where mechanical ventilation was eventually initiated, the location
+chosen  should  be  Mobile  Emergency  Services/EMS.  If  the  patient  was  intubated  at
+another facility, the location chosen should be “Location outside facility.” You will want
+to map these locations into your facility’s Locations list as appropriate. When a patient
+is admitted to a facility on a mechanical ventilator the date of mechanical ventilation
+initiation should reflect the actual date of mechanical ventilation initiation, not the date
+of admission to the facility. If necessary, an estimate of the actual date of mechanical
+ventilation  initiation  can  be  used.  In  the  situation  where  a  patient’s  mechanical
+ventilation  initiation  is  begun  prior  to  admission  to  a  facility,  only  in  circumstances
+where the actual date or an estimate of the actual date cannot be determined should
+the  date  of  mechanical  ventilation  initiation  default  to  the  date  of  admission  to  the
+facility. It is important to note that having an IVAC or PVAP is not necessarily “worse”
+than having a VAC – the algorithm is progressive in terms of criteria to be met (from
+VAC  to  IVAC  to  PVAP),  but  this  is  not  to  imply  that  each  subsequent  tier  is  more
+clinically  significant  than  the  one  before.  The  fundamental  definition  within  the
+algorithm  is  the  VAC  definition  (which  is  defined  on  the  basis  of  respiratory
+deterioration) – so even in those circumstances where an IVAC or PVAP is detected, the
+event still met the VAC definition. It’s just that there is some additional evidence that
+the  event  may  be  infectious  in  nature  (IVAC)  as  opposed  to  non-infectious,  and  if
+infectious in nature the infection may be related to the lower respiratory tract (PVAP).
+The  rates  and  SIRs  that  are  potentially  appropriate  for  these  purposes  include  the
+overall VAE rate or Total VAE (where the numerator includes all events meeting at least
+the VAC definition – VAC + IVAC + PVAP). You may find rates and SIRs for “IVAC-plus”
+(where the numerator includes all events meeting at least the IVAC definition – IVAC +
+PVAP)  and  the  rates  of  the  individual  specific  event  types  (VAC  only,  IVAC  only,  and
+PVAP  only)  useful  for  internal  quality  improvement  purposes.  More  information
+regarding the SIR models and parameter estimates for Total VAE and IVAC-plus can be
+found in The NHSN Guide to the SIR. [PDF – 50 Pages] 
+ Training 
+ Newsletters / Members Meeting Updates 
+ E-mail Updates 
+ Health Department HAI/AR Programs To receive email updates about this page, enter
+your email address:  Questions about NHSN?Contact us: nhsn@cdc.gov
+Source URL: https://www.cdc.gov/nhsn/faqs/faq-vae.html

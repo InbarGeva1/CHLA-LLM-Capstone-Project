@@ -1,0 +1,938 @@
+Persons using assistive technology might not be able to fully access information in this
+file. For assistance, please send e-mail to: mmwrq@cdc.gov. Type 508 Accommodation
+and the title of the report in the subject line of e-mail. This report* was developed to
+assist physicians, public health
+officials, and other health-care professionals respond to public
+concerns about recently recognized, serious complications of human
+parvovirus B19 (B19) infection, including transient aplastic crisis
+(TAC), chronic anemia, and fetal death. It includes background
+information about the virus, clinical manifestations, pathogenesis,
+epidemiology, and diagnostic testing. In addition, interim
+ guidelines
+are presented for preventing B19 infection, managing persons
+ exposed to
+persons with B19 infection, and managing patients infected with
+ B19.
+These guidelines reflect both the current limited information about
+ the
+extent to which B19 infection leads to severe complications and the
+limited availability of diagnostic testing. Priorities for future
+research are identified.
+GENERAL INFORMATION  B19 was discovered in England in 1975 in serum specimens
+from
+ healthy
+blood donors (1). Since its discovery, B19 has been shown to be the
+causative agent of erythema infectiosum (EI) (also known as fifth
+disease) and is the primary etiologic agent of TAC in patients with
+chronic hemolytic anemias (2-4). B19 has also been associated with
+fetal death (both spontaneous abortions and stillbirths), acute
+arthralgias and arthritis, and chronic anemia in immunodeficient
+patients (5-14).  The virus belongs to the family Parvoviridae, which includes two
+genera of vertebrate viruses: genus parvovirus (autonomously
+replicating parvoviruses) and genus dependovirus (parvoviruses that
+require a helper virus, such as adenovirus or herpes virus, for
+replication); and one genus of invertebrate viruses, the genus
+densovirus (15). B19 is in the genus parvovirus, which includes a
+number of animal parvoviruses such as the canine parvovirus and
+ feline
+panleukopenia virus. The parvoviruses tend to be species-specific;
+ only
+the adeno-associated parvoviruses (members of the dependovirus
+ genus)
+and B19 are known to infect humans. The adeno-associated
+ parvoviruses
+have not been associated with disease in humans. Fecal parvoviruses
+ and
+the RA1 virus have been reported but not confirmed to be human
+pathogens (16,17). B19 is a heat-stable virus and can survive at 60
+ C
+(140 F) for up to 12 hours.
+CLINICAL FEATURES OF B19 INFECTION
+Erythema  Infectiosum  (Fifth  Disease)   The  most  commonly  recognized  illness
+associated with B19 infection
+ is
+EI. EI is a mild childhood illness characterized by a facial rash
+("slapped cheek" appearance), and a reticulated or lacelike rash on
+ the
+trunk and extremities (18). Reappearance of the rash may occur for
+several weeks following nonspecific stimuli such as change in
+temperature, sunlight, and emotional stress. Typically, the patient
+ is
+otherwise well at rash onset but often gives a history of mild
+ systemic
+symptoms 1-4 days before rash onset. In some EI outbreaks, pruritis
+ has
+been a common clinical feature. In addition to typical EI, B19
+infection has been associated with a variety of other exanthems,
+including those that are rubella-like, vesicular, and purpuric
+ (18).
+Asymptomatic Infection  In outbreak investigations, asymptomatic infection has been
+ reported
+in approximately 20% of children and adults (19,20).
+Arthropathy  In some outbreaks of EI, arthralgias and arthritis have been
+ commonly
+reported (7,8,21). Infection may produce a symmetrical peripheral
+polyarthropathy. Joints in the hands are most frequently affected,
+followed by the knees and wrists. Symptoms are usually self-limited
+ but
+may persist for several months. Joint symptoms, more common in
+ adults,
+may occur as the sole manifestation of infection.
+Transient Aplastic Crisis and Severe Anemia  B19 is the primary etiologic agent causing
+TAC in patients with
+chronic hemolytic anemias (e.g., sickle cell disease, hemoglobin SC
+disease, hereditary spherocytosis, alpha-thalassemia, and
+ autoimmune
+hemolytic anemia) (22,23). It can also cause TAC in other
+ conditions in
+which increased red cell production is necessary to maintain stable
+ red
+cell indices, as may occur in anemia due to blood loss. Patients
+ with
+TAC typically present with pallor, weakness, and lethargy and may
+report a nonspecific prodromal illness in the preceding 1-7 days.
+ Few
+patients with TAC report a rash. In the acute phase of the illness,
+patients usually have a moderate to severe anemia with absence f
+reticulocytes, and bone marrow examination shows a hypoplastic or
+ an
+aplastic erythroid series with a normal myeloid series. Recovery is
+indicated by a return of reticulocytes in the peripheral smear
+approximately 7-10 days after their disappearance. TAC may require
+transfusion and hospitalization and can be fatal if not treated
+promptly.
+B19  Infection  in  Immunodeficient  Patients   A  B19-related  severe  chronic  anemia
+associated with red cell
+ aplasia
+has been described in patients on maintenance chemotherapy for
+ acute
+lymphocytic leukemia, patients with congenital immunodeficiencies,
+ and
+patients with human immunodeficiency virus (HIV)-related
+immunodeficiency (9-14). It is not yet known how often B19 causes
+chronic anemia in immunodeficient patients or which patients are
+ most
+susceptible to this complication of infection. Chronic B19
+ infection
+should, however, be included in the differential diagnosis of
+ chronic
+anemia in the immunodeficient patient.
+Infection in the Pregnant Woman
+Intrauterine infection and fetal death  In most of the reported B19 infections occurring
+during pregnancy,
+ the
+fetus has not been adversely affected (5,6,24-30). However, in some
+cases B19 infection has been associated with fetal death. The risk
+ of
+fetal death attributable to parvovirus infection following
+ documented
+maternal infection (B19 IgM-antibody-positive) is not known, but
+preliminary results of one study from the United Kingdom suggest
+ that
+it is less than 10% (30; SM Hall, unpublished data). In that study,
+ 174
+pregnant women with IgM antibody to B19 were followed prospectively
+ to
+delivery. Fetal loss occurred in 30 (17.2%): 21 (19.1%) of 110
+ women
+infected during the first 12 weeks of pregnancy, seven (15.2%) of
+ 46
+women infected during weeks 13-20, one (6.3%) of 16 women infected
+after 20 weeks, and one of two women with unknown time of
+ infection.
+Fetal death most commonly occurred from the 10th through the 20th
+ weeks
+of pregnancy. Not all fetal deaths directly resulted from B19
+infection. Since this study did not include a control group, the
+ number
+of deaths attributable to B19 infection cannot be calculated
+ directly.
+In other studies, rates of recognized pregnancies ending in
+ spontaneous
+abortions from all causes by 28 weeks' gestation range from 10% to
+ 25%
+(31). In the British study, the number of fetal deaths linked to
+ B19
+infection can be estimated by determining whether fetal tissues
+ contain
+B19 DNA. Tissues from 14 fetuses were tested for B19 DNA: six were
+positive, two were equivocal, and six were negative. The cause of
+ death
+is likely to have been B19 infection for the DNA-positive fetuses;
+thus, at least six (3.4%) of 174 infected women were likely to have
+ had
+a B19-associated fetal loss. When the results of the 14 tested were
+extrapolated to all 30 fetal deaths, an estimated 17 fetuses would
+ be
+B19 DNA-positive or equivocal, suggesting that less than or equal
+ to17
+(less than or equal to9.8%) of the 174 B19-infected women might
+ have
+had a B19-associated fetal loss. Antibody studies of liveborn
+ infants
+and hybridization studies of fetal tissues indicate that less than
+ one
+third of maternal infections are associated with fetal infection in
+this study.  Results from an ongoing study in the United States also suggest
+ that
+B19- attributable fetal deaths are infrequent (CDC, unpublished
+ data).
+In this study, 95 pregnant women with IgM antibody to B19 are being
+followed prospectively. Fetal loss has so far occurred in two
+ (4.1%) of
+49 women followed to term. It is not known whether the two fetal
+ deaths
+were caused by B19 infection. One fetus was hydropic; the other was
+ not
+described. No tissues from either fetus were available for B19
+hybridization studies.  When the antibody status of the woman is unknown, estimates of
+the
+risk of fetal death after exposure must take into account the rate
+ of
+susceptibility in the population and the risk of infection after
+ the
+exposure. For example, by taking these factors into account, the
+ upper
+limit estimate of the risk of fetal death would be less than 2.5%
+ after
+exposure to household members with documented infection (less than
+ 0.1
+risk of fetal death x 0.5 rate of susceptibility x 0.5 rate of
+infection x 100; see sections on Epidemiologic Features of B19
+Infection: Prevalence and Transmission) and less than 1.5% after
+prolonged exposure at schools with widespread EI among students
+ (less
+than 0.1 risk of fetal death x 0.5 rate of susceptibility x 0.3
+ rate of
+infection x 100). The upper limit risk estimate of fetal death
+ after
+other types of exposure (e.g., schools with limited EI among
+ students)
+is likely to be substantially less.  A study of 96 women who had stillbirths, 96 women
+who had
+ spontaneous
+abortions, and controls matched by age, duration of pregnancy, and
+location suggests that B19 is not responsible for a substantial
+proportion of fetal deaths in the general population (32). In this
+study, the rate of serologically confirmed B19 infection was the
+ same
+(1%) in cases and controls. In a survey of 50 fetuses with
+nonimmunologic hydrops fetalis, an uncommonly diagnosed cause of
+ fetal
+death, four (8%) were positive for B19 DNA (25).
+Congenital anomalies  Since some of the animal parvoviruses are teratogens (33), the
+possibility that infection may also be associated with congenital
+anomalies in humans is a concern. However, there is no evidence
+ that
+the rate of congenital anomalies following B19 infection exceeds
+background rates. B19-associated congenital anomalies have not been
+reported among several hundred liveborn infants of B19-infected
+mothers. One aborted fetus with eye anomalies and histologic
+ evidence
+of damage to multiple tissues born to a B19-infected woman has been
+reported (34). An anencephalic fetus was reported in a B19-infected
+woman, but the timing of infection made it unlikely that B19
+contributed to the defect (35).
+ATHOGENESIS  The pathogenesis of the rash in EI is unknown, but the rash may be
+immune- complex-mediated. The other, more serious manifestations of
+ B19
+infection are related to the propensity of the virus to infect and
+ lyse
+erythroid precursor cells and interrupt normal red cell production
+(36). In a person with normal hematopoiesis, B19 infection produces
+ a
+self-limited red cell aplasia that is clinically inapparent.
+ Transient
+leukopenia, lymphocytopenia, and thrombocytopenia have also been
+reported with B19 infection in the normal host (37,38).  In patients who have increased
+rates of red cell destruction or
+ loss
+and who depend on compensatory increases in red cell production to
+maintain stable red cell indices, B19 infection may lead to TAC.
+Patients at risk for TAC include those with chronic hemolytic
+ anemias
+and those with anemias associated with acute or chronic blood loss.
+ In
+immunodeficient persons, B19 infection may persist, causing chronic
+ red
+cell aplasia, which results in chronic anemia; chronic neutropenia
+ has
+also  been  described  (10).   B19  DNA-positive  tissues  have  been  reported  in  20  fetal
+deaths; in
+ all
+17 cases in which pathologic findings were described, the fetuses
+ had
+nonimmunologic hydrops fetalis (6,25-27,30,35,39-44). The precise
+pathogenesis of fetal death remains unclear. Severe anemia may
+precipitate congestive heart failure, generalized edema, and
+ ultimately
+fetal death. The fetus may be particularly vulnerable to B19
+ infection
+because red cell survival is short, and the red cell volume is
+ rapidly
+expanding. Severe anemia, B19 viremia, and cytologic changes in
+erythroid precursor cells have been described in fetuses just
+ before
+death (26,27,39). Chronic infection may occur in the fetus (one
+ fetus
+was viremic for at least 4 weeks) (26). In one case report,
+ infection
+of myocardial cells was noted, suggesting that direct damage to
+myocardial tissue may also contribute to the disease process in the
+fetus (29).
+EPIDEMIOLOGIC FEATURES OF B19 INFECTION
+Prevalence  B19 infection occurs worldwide (45,46). Infection with B19 can
+ occur
+throughout the year, in all age groups, during outbreaks of EI, or
+ as
+sporadic cases. B19 infection is most frequently recognized during
+outbreaks of EI in schools. These outbreaks often begin in late
+ winter
+or early spring and may continue until school recesses for the
+ summer.
+The level of EI activity in a community varies from year to year;
+periods of increased activity lasting several years are generally
+followed by several years of decreased activity (47-50). The
+ reported
+seroprevalence ranges from 2% to 15% in children 1-5 years old, 15%
+ to
+60% in children 5-19 years old, and 30% to 60% in adults
+ (18,40,51,52).
+Incubation Period  Studies of secondary illness in households suggest that the
+ incubation
+period for clinical EI and TAC is usually 4-14 days but can be as
+ long
+as 20 days (18). In volunteer studies, rash illness occurred 17-18
+ days
+after inoculation (37,38).
+Transmission  B19 DNA has been found in respiratory secretions in viremic
+ patients,
+which suggests that these secretions are involved in transmission
+(19,20,37). In studies of human volunteers, serum and respiratory
+secretions became positive for B19 DNA 5-10 days after intranasal
+inoculation (during the prodromal illness) (37,38). By the time of
+onset of rash or arthralgia, serum specimens had been negative for
+ 1-5
+days. B19 has not been detected in the respiratory secretions and
+ only
+rarely in the serum of patients after onset of EI (37). In
+ contrast,
+acute serum specimens are often positive for B19 DNA in patients
+ when
+they present with TAC; serum specimens are usually negative by 7
+ days
+after onset of illness (53). The presence of B19 DNA in serum or
+respiratory secretions presumably correlates with infectiousness;
+ thus,
+patients with EI are probably past the period of greatest
+infectiousness, while patients with TAC are likely to be
+infectious during the course of their illness.  The presence of IgG antibody correlates
+with a lower risk of
+infection. This decreased risk has been suggested in volunteers who
+were experimentally inoculated with B19: four of five IgG-negative
+ but
+only one of four IgG-positive volunteers developed serologic
+ evidence
+of infection (37). The IgG-positive volunteer who became infected
+ had
+low levels of IgG antibody before challenge and had a lower titer
+ and
+shorter duration of viremia than had the four infected volunteers
+ who
+were IgG-negative.  The virus is transmitted effectively after close contact
+ exposures.
+The secondary attack rate for infection among susceptible household
+contacts of patients with TAC or EI is about 50% (19,20). In school
+outbreaks, 10%-60% of students may develop EI. In outbreaks in
+ which
+student involvement is widespread, preliminary data suggest 20%-30%
+ of
+susceptible (IgG-antibody-negative) staff may develop serologic
+evidence of B19 infection during the course of the outbreak (CDC,
+unpublished data).  In outbreak settings, it is not known whether the primary mode of
+transmission involves direct person-to-person contact, fomites,
+large-particle droplets, or small- particle droplets. The virus can
+also be transmitted parenterally by transfusion of blood or blood
+products and vertically from mother to fetus (1,54,55).
+ Transmission
+rarely occurs during transfusion with single-donor blood products
+ but
+is common during treatment with clotting-factor concentrates even
+after steam- or dry-heat treatment of the clotting factor
+ concentrate
+(1,54,55). Tattooing was suspected as the source of B19
+ transmission in
+two instances (56).
+DIAGNOSIS
+B19 Antibody Assays  The most sensitive test to detect recent infection is the
+ IgM-antibody
+assay. B19 IgM antibody can be detected by capture-antibody
+radioimmunoassay or enzyme immunoassay in approximately 90% of
+ cases by
+the third day after symptoms of TAC or EI begin (57,58). The titer
+ and
+the percentage of positives begin to decline 30-60 days after
+ onset.
+B19 IgG antibody is usually present by the seventh day of illness
+ and
+persists for years. B19 antibody may not be detectable in
+immunodeficient patients with chronic B19 infection, and additional
+testing for B19 DNA or viral antigens may be necessary to document
+infection.  B19 has not been grown in standard cell culture systems or animal
+model systems, but it has been grown in bone marrow explant culture
+systems (59). The inability to grow the virus in sufficient
+ quantity to
+produce antigen for diagnostic assays has precluded widespread
+availability of B19 testing (36,60,61). Recently parvovirus B19 DNA
+ has
+been incorporated into the genome of a Chinese hamster ovary cell
+ line
+(62). This cell line expresses B19 capsid proteins as noninfectious
+virionlike particles that can be used as antigen for antibody
+ assays;
+this source of antigen should lead to increased availability of
+diagnostic tests.
+Assays for B19 DNA  The most sensitive test for detecting the virus is nucleic acid
+hybridization (63,64). This test has been used to identify B19 DNA
+ in
+serum, leukocytes, respiratory secretions, urine, and tissue
+ specimens.
+One group reported that B19 DNA was more likely to be detected in
+leukocytes than in serum (65).
+Histologic  Features  of  B19  Infection   Light  and  electron  microscopy  can  be  helpful  in
+diagnosing B19
+infections (1,23,41) By light microscopy, eosinophilic nuclear
+inclusions with peripheral condensation of chromatin can be seen in
+erythroid precursor cells of infected patients. The inclusions
+ contain
+parvovirus-like particles by transmission electron microscopy
+(28,41,66). B19-like particles may also be seen by electron
+ microscopy
+in serum specimens of some infected patients (1,23,41). Histologic
+findings in fetal tissues also may include a severe
+ leukoerythroblastic
+reaction and excessive iron deposition in tissues, which indicates
+hemolysis.
+Assays  to  Determine  Site  of  Infection   It  is  not  known  which  tissues,  in  addition  to
+erythroid precursor
+cells, support virus replication. Several tests have been developed
+that distinguish virus infection of tissue or cells from deposition
+ of
+virus by passive transfer in blood. In situ hybridization can
+demonstrate viral DNA in specific cells and has been used to show
+ that
+B19 sometimes infects fetal myocardial cells (29). Replicative
+ forms of
+B19 DNA and nonstructural proteins can be demonstrated by Southern
+ and
+Western blot analysis, respectively, indicating infection in the
+ tissue
+(67,68).
+PREVENTION OF INFECTION
+Risk Groups  Although B19 infection usually produces a mild, self-limited
+ illness,
+three groups of persons are at risk for serious complications of
+infection: 1) persons with chronic hemolytic anemias, 2) persons
+ with
+congenital or acquired immunodeficiencies, and 3) pregnant women.
+ Since
+infection in these persons can lead to substantial morbidity
+and some mortality, consideration should be given to preventing or
+ameliorating disease.
+Immunization  Active  There is no vaccine to prevent B19, but a recently developed cell
+ line
+that expresses B19 capsid proteins as noninfectious viruslike
+ particles
+has been proposed as a source of antigen for development of a
+ candidate
+vaccine (62).
+Passive  No studies have been conducted to determine whether preexposure or
+postexposure prophylaxis with commercially available immune
+ globulin
+(IG) preparations would prevent infection or modify the course of
+illness during community outbreaks. Routine prophylaxis with IG
+ cannot
+be recommended at this time.
+Health-Care Settings  Guidelines for isolation precautions in hospitals have been
+ published
+for EI (69), but recent information suggests that these guidelines
+should be modified. Most patients with EI are past their period of
+infectiousness and do not present a risk for further transmission;
+ thus
+isolation precautions are not indicated. However, there is risk for
+nosocomial transmission of B19 from patients with TAC and from
+immunodeficient patients with chronic B19 infection. These patients
+should be considered infectious and placed on isolation precautions
+ for
+the duration of their illness or until the infection has been
+ cleared.
+Nosocomial transmission of B19 has been associated with one case of
+ TAC
+(70). Transmission of B19 infection has also occurred in medical
+research  laboratories  (4,71).   Patients  with  TAC  or  chronic  B19  infection  should  be
+admitted to
+private rooms. Persons in close contact with the patients should
+ wear
+masks. Gloves should be worn by persons likely to touch infective
+material such as respiratory secretions, and gowns should be worn
+ when
+soiling is anticipated (contact isolation) (69). Hands should be
+ washed
+after the patient or potentially contaminated articles are touched
+ and
+before care is provided to another patient. B19-infected patients
+ may
+share a room with another B19-infected patient unless sharing is
+contraindicated  by  another  infection  or  condition.   Health-care  workers  should  be
+advised that they are at risk of B19
+infection after exposure in the hospital or in the community and
+ that
+there may be a risk for further transmission to patients. Routine
+infection-control practices should minimize the risk of
+ transmission.  Personnel who may be pregnant or who might become pregnant should
+ know
+about potential risks to the fetus from B19 infection and about
+preventive measures that may reduce those risks.  Homes, Schools,
+ and
+Workplaces  When outbreaks of B19 infection occur in situations in which
+prolonged, close contact exposures occur (e.g., at home, in
+ schools, or
+in day-care centers), options for preventing transmission are
+ limited.
+The greatest risk of transmitting the virus occurs before symptoms
+ of
+EI develop; therefore, transmission cannot be prevented by
+ identifying
+and excluding persons with EI. The efficacy of decontaminating toys
+ and
+environmental surfaces to decrease B19 transmission has not been
+studied. The efficacy of handwashing to decrease B19 transmission
+ has
+not been studied either, but handwashing is recommended as a
+ practical
+and  probably  effective  measure.   When  outbreaks  occur,  parents  of  school-aged
+children and
+ employees
+should be advised about the risk of transmitting and acquiring
+infection and about who is at risk for serious complications.
+ Persons
+who wish to obtain additional information about risks and
+ management of
+B19 exposures should be referred to their health-care provider and
+state  or  local  health  officials.   The  decision  to  try  to  decrease  any  person's  risk  of
+infection by
+avoiding a workplace or school evironment in which an EI outbreak
+ is
+occurring should be made by the person after discussions with
+ family
+members, health-care providers, public health officials, and
+ employers
+or school officials. A policy to routinely exclude members of
+ high-risk
+groups is not recommended.
+PATIENT MANAGEMENT
+Patients  with  Chronic  Hemolytic  Anemia   The  exposed  patient  with  chronic  hemolytic
+anemia should be
+ managed by
+alerting the patient or his/her parents or guardians about the
+exposure, the symptoms and signs associated with TAC (pallor,
+ weakness,
+and lethargy), and the need to consult a physician immediately if
+symptoms or signs of TAC develop. Management of the patient with
+ TAC is
+based on treating symptoms of the associated anemia and may require
+blood transfusion.  Patients with Congenital and Acquired
+Immunodeficiencies
+ 
+ The
+ exposed
+ patient
+ with
+ a
+ congenital
+ or
+ acquired
+immunodeficiency
+should be managed by advising the patient or his/her parents or
+guardians about the exposure and the possibility that B19 infection
+ may
+lead to chronic anemia. The physician should consider B19 infection
+ in
+the differential diagnosis of chronic anemia in this group of
+ patients,
+especially if there is an outbreak of EI in the community.
+ In several patients with acute lymphocytic leukemia, the
+administration of IG resulted in disappearance of viremia and
+improvement in red cell indices (10). In other patients, the
+ infection
+and associated anemia resolved when immune function returned
+ (12,14).
+The role of IG in the treatment of these patients needs further
+ study.
+Pregnant Women  The knowledge that B19 infection during pregnancy can cause fetal
+death has created concern among health-care providers, public
+ health
+officials, and pregnant women and their families. In managing
+ exposed
+pregnant women, risks should be considered in the context of other
+risks to the pregnancy and the risks associated with intervention.  For women with a
+documented infection, maternal serum
+ œga-fetoprotein
+levels and diagnostic ultrasound examinations have been used to
+identify adversely affected fetuses, but the sensitivity and
+specificity of these tests, their appropriate timing, and the risks
+ and
+benefits of their use in managing infected pregnant women have not
+ yet
+been determined (39,41). Interpretation of the ultrasound is
+ difficult
+early in pregnancy and should be supervised by a physician
+ experienced
+in diagnosing fetal abnormalities. Intrauterine blood transfusion
+ (IBT)
+has been proposed as treatment for the fetus with B19-induced
+ severe
+anemia. However, IBT is a high-risk, specialized procedure of
+ unproven
+benefit in this situation and cannot be recommended for routine
+treatment of B19-related hydrops fetalis (72).
+AVAILABILITY OF DIAGNOSTIC TESTING AT CDC  Diagnostic testing is available at only a
+few sites, primarily
+research laboratories; increasing the availability of diagnostic
+testing is a public health priority. The Division of Viral
+ Diseases,
+Center for Infectious Diseases, CDC, can accept a limited number of
+specimens for B19 diagnostic testing. At this time, CDC is
+ accepting
+specimens through state health departments from patients with TAC,
+immunodeficient patients with chronic anemia, pregnant women
+ exposed to
+B19 or with symptoms suggestive of B19 infection, and cases of
+nonimmune fetal hydrops possibly related to B19 infection, and not
+accepting specimens for routine antibody testing. Physicians can
+arrange testing at CDC by consulting their state health department.
+PRIORITIES FOR FUTURE RESEARCH  The following areas have been identified as high
+priorities for
+ future
+public health-related research on B19 infection:  
+    Develop surveillance methods that distinguish outbreaks from
+    sporadic disease.
+    2.Refine estimates of infection rates following exposures in the
+ home,
+    the workplace, and school.
+    3.Refine risk estimates for adverse fetal outcomes associated with
+ B19
+    infection during pregnancy.
+    4.Evaluate methods to treat and prevent B19-related fetal hydrops.
+    5.Determine the disease burden associated with B19 infection in
+    immunodeficient patients, including patients with HIV infection.
+    6.Determine the risk of infection and factors associated with
+    transmission in health-care settings.
+    7.Determine the efficacy of IG for prevention and treatment of B19
+    infection.
+    8.Determine the potential reduction in morbidity and mortality
+    associated with development and use of a B19 vaccine.
+    Reported by: Div of Reproductive Health, Center for Chronic Disease
+    Prevention and Health Promotion; Div of Immunization, Center for
+    Prevention Svcs; Div of Birth Defects and Developmental
+ Disabilities,
+    Center for Environmental Health and Injury Control; Div of
+ Surveillance
+    and Epidemiologic Studies, Epidemiology Program Office; National
+    Institute for Occupational Safety and Health; AIDS Program,
+ Hospital
+    Infections Program, Div of Host Factors, Div of Viral Diseases,
+ Center
+    for Infectious Diseases, CDC.  References  
+    Cossart YE, Field AM, Cant B, Widdows D. Parvovirus-like
+ particles
+    in human sera. Lancet 1975;1:72-3.
+    2.Anderson MJ, Jones SE, Fisher-Hoch SP, et al. Human parvovirus,
+ the
+    cause of erythema infectiosum (fifth disease)? (Letter). Lancet
+    1983;1:1378.
+    3.Anderson MJ, Lewis E, Kidd IM, Hall SM, Cohen BJ. An outbreak of
+    erythema infectiosum associated with human parvovirus infection. J
+ Hyg
+    (Lond) 1984;93:85-93.
+    4.Pattison JR, Jones SE, Hodgson J, et al. Parvovirus infections
+ and
+    hypoplastic crisis in sickle-cell anaemia (Letter). Lancet
+    1981;1:664-5.
+    5.Knott PD, Welply GAC, Anderson MJ. Serologically proved
+ intrauterine
+    infection with parvovirus. Br Med J 1984;289:1660.
+    6.Brown T, Anand A, Ritchie LD, Clewley JP, Reid TMS. Intrauterine
+    parvovirus infection associated with hydrops fetalis (Letter).
+ Lancet
+    1984;2:1033-4.
+    7.White DG, Woolf AD, Mortimer PP, Cohen BJ, Blake DR, Bacon PA.
+ Human
+    parvovirus arthropathy. Lancet 1985;1:419-21.
+    
+8.Reid DM, Reid TMS, Brown T, Rennie JAN, Eastmond CJ. Human
+    parvovirus-associated arthritis: a clinical and laboratory
+ description.
+    Lancet 1985;1:422-5.
+    9.Van Horn DK, Mortimer PP, Young N, Hanson GR. Human
+    parvovirus-associated red cell aplasia in the absence of underlying
+    hemolytic anemia. Am J Pediatr Hematol Oncol 1986;8:235-9.
+    10.Kurtzman GJ, Ozawa K, Cohen B, Hanson G, Oseas R, Young NS.
+ Chronic
+    bone marrow failure due to persistent B19 parvovirus infection. N
+ Engl
+    J Med 1987;317:287-94.
+    11.Davidson JE, Gibson B, Gibson A, Evans TJ. Parvovirus infection,
+    leukaemia, and immunodeficiency (Letter). Lancet 1989;1:102.
+    12.Smith MA, Shah NR, Lobel JS, Cera PJ, Gary GW, Anderson LJ.
+ Severe
+    anemia caused by human parvovirus in a leukemia patient on
+ maintenance
+    chemotherapy. Clin Pediatr 1988:27:383-6.
+    13.Kurtzman GJ, Cohen B, Meyers P, Amunullah A, Young NS.
+ Persistent
+    B19 parvovirus infection as a cause of severe chronic anaemia in
+    children with acute lymphocytic leukaemia. Lancet 1988;2:1159-62.
+    14.Coulombel L, Morinet F, Mielot F, Tchernia G. Parvovirus
+ infection,
+    leukaemia, and immunodeficiency (Letter). Lancet 1989;1:101-2.
+    15.Siegl G, Bates RC, Berns KI, et al. Characteristics and taxonomy
+ of
+    Parvoviridae. Intervirology 1985;23:61-73.
+    16.Paver WK, Clarke SKR. Comparison of human fecal and serum
+    parvo-like viruses. J Clin Microbiol 1976;4:67-70.
+    17.Simpson RW, McGinty L, Simon L, Smith CA, Godzeski CW, Boyd RJ.
+    Association of parvoviruses with rheumatoid arthritis of humans.
+    Science 1984;223:1425-8.
+    18.Anderson LJ. Role of parvovirus B19 in human disease. Pediatr
+    Infect Dis J 1987;6:711-8.
+    19.Plummer FA, Hammond GW, Forward K, et al. An erythema
+    infectiosum-like illness caused by human parvovirus infection. N
+ Engl J
+    Med 1985;313:74-9.
+    20.Chorba T, Coccia P, Holman RC, et al. The role of parvovirus B19
+ in
+    aplastic crisis and erythema infectiosum (fifth disease). J Infect
+ Dis
+    1986;154:383-93.
+    21.Ager EA, Chin TDY, Poland JD. Epidemic erythema infectiosum. N
+ Engl
+    J Med 1966; 275:1326-31.
+    22.Serjeant GR, Goldstein AR. B19 virus infection and the aplastic
+    crisis. In: Pattison JR, ed. Parvoviruses and human disease. Boca
+    Raton, Florida: CRC Press, 1988:85-92.
+    23.Young N. Hematologic and hematopoietic consequences of B19
+    parvovirus infection. Semin Hematol 1988;25:159-72.
+    24.Anderson LJ, Hurwitz ES. Human parvovirus B19 and pregnancy.
+ Clin
+    Perinatol 1988; 15:273-86.
+    25.Porter HJ, Khong TY, Evans MF, Chan VT-W, Fleming KA. Parvovirus
+ as
+    a cause of hydrops fetalis: detection by in situ DNA hybridisation.
+ J
+    Clin Pathol 1988;41:381-3.
+    26.Anderson MJ, Khousam MN, Maxwell DJ, Gould SJ, Happerfield LC,
+    Smith WJ. Human parvovirus B19 and hydrops fetalis (Letter). Lancet
+    1988;1:535.
+    27.Franciosi RA, Tattersall P. Fetal infection with human
+ parvovirus
+    B19. Hum Pathol 1988; 19:489-91.
+    28.Caul EO, Usher MJ, Burton PA. Intrauterine infection with human
+    parvovirus B19: a ight and electron microscopy study. J Med Virol
+    1988;24:55-66.
+    29.Porter HJ, Quantrill AM, Fleming KA. B19 parvovirus infection of
+    myocardial cells (Letter). Lancet 1988;1:535-6.
+    30.Public Health Laboratory Service Working Party on Fifth Disease.
+    Study of human parvovirus (B19) infection in pregnancy. Comm Dis
+ Rep
+    1987;87/20:3.
+    31.Edmonds L, Hatch M, Holmes L, et al. Guidelines for reproductive
+    studies in exposed human population. In: Bloom AD, Paul NW, eds.
+    Guidelines for studies of human populations exposed to mutagenic
+ and
+    reproductive hazards: proceedings of conference held January 26-27,
+    1981, in Washington, DC. White Plains, New York: March of Dimes
+ Birth
+    Defects Foundation, 1981:71.
+    32.Kinney JS, Anderson LJ, Farrar J, et al. Risk of adverse
+ outcomes
+    of pregnancy after human parvovirus B19 infection. J Infect Dis
+    1988;157:663-7.
+    33.Siegl G. Biology and pathogenicity of autonomous parvoviruses.
+ In:
+    Berns KI, ed. The parvoviruses. New York: Plenum Press,
+ 1984:297-362.
+    34.Weiland HT, Vermey-Keers C, Salimans MMM, Fleuren GJ, Verwey RA,
+    Anderson MJ. Parvovirus B19 associated with fetal abnormality
+ (Letter).
+    Lancet 1987;1:682-3.
+    35.Rodis JF, Hovick TJ Jr, Quinn DL, Rosengren SS, Tattersall P.
+ Human
+    parvovirus infection in pregnancy. Obstet Gynecol 1988;72:733-8.
+    36.Young N, Harrison M, Moore J, Mortimer P, Humphries RK. Direct
+    demonstration of the human parvovirus in erythroid progenitor cells
+    infected in vitro. J Clin Invest 1984; 74:2024-32.
+    37.Anderson MJ, Higgins PG, Davis LR, et al. Experimental
+ parvoviral
+    infection in humans. J Infect Dis 1985;152:257-65.
+    38.Potter CG, Potter AC, Hatton CSR, et al. Variation of erythroid
+ and
+    myeloid precursors in the marrow and peripheral blood of volunteer
+    subjects infected with human parvovirus (B19). J Clin Invest
+    1987;79:1486-92.
+    
+39.Carrington D, Gilmore DH, Whittle MJ, et al. Maternal serum
+    alpha-fetoprotein--a marker of fetal aplastic crisis during
+    intrauterine human parvovirus infection. Lancet 1987;1:433-5.
+    40.Schwarz TF, Roggendorf M, Deinhardt F. (Letter). Lancet
+    1987;1:739.
+    41.Anand A, Gray ES, Brown T, Clewley JP, Cohen BJ. Human
+ parvovirus
+    infection in pregnancy and hydrops fetalis. N Engl J Med
+    1987;316:183-6.
+    42.Bond PR, Caul EO, Usher J, Cohen BJ, Clewley JP, Field AM.
+    Intrauterine infection with human parvovirus (Letter). Lancet
+    1986;1:448-9.
+    43.Woernle CH, Anderson LJ, Tattersall P, Davison JM. Human
+ parvovirus
+    B19 infection during pregnancy. J Infect Dis 1987;156:17-20.
+    44.Maeda H, Shimokawa H, Satoh S, Nakano H, Nunoue T.
+ Nonimmunologic
+    hydrops fetalis resulting from intrauterine human parvovirus B-19
+    infection: report of two cases. Obstet Gynecol 1988;72:482-5.
+    45.Courouce AM, Ferchal F, Morinet F, et al. Human parvovirus
+    infections in France (Letter). Lancet 1984;1:160.
+    46.Okochi K, Mori R, Miyazaki M, Cohen BJ, Mortimer PP. Nakatani
+    antigen and human parvovirus (B19) (Letter). Lancet 1984;1:160-1.
+    47.Goldstein AR, Anderson MJ, Serjeant GR. Parvovirus associated
+    aplastic crisis in homozygous sickle cell disease. Arch Dis Child
+    1987;62:585-8.
+    48.Anderson MJ, Cohen BJ. Human parvovirus B19 infections in United
+    Kingdom 1984-86 (Letter). Lancet 1987;1:738-9.
+    49.Naides SJ. Erythema infectiosum (fifth disease) occurrence in
+ Iowa.
+    Am J Public Health 1988;78:1230-1.
+    50.Anderson MJ, Cherry JD. Parvoviruses. In: Feigin RD, Cherry JD,
+    eds. Textbook of pediatric infectious diseases. 2nd ed.
+ Philadelphia:
+    WB Saunders, 1987:1646-53.
+    51.Cohen BJ, Buckley MM. The prevalence of antibody to human
+    parvovirus B19 in England and Wales. J Med Microbiol 1988;25:151-3.
+    52.Mortimer PP, Cohen BJ, Buckley MM, et al. Human parvovirus and
+ the
+    fetus (Letter). Lancet 1985;2:1012.
+    53.Saarinen UA, Chorba TL, Tattersall P, et al. Human parvovirus
+    B19-induced epidemic acute red cell aplasia in patients with
+ hereditary
+    hemolytic anemia. Blood 1986;67:1411-7.
+    54.Mortimer PP, Luban NLC, Kelleher JF, Cohen BJ. Transmission of
+    serum parvovirus-like virus by clotting-factor concentrates. Lancet
+    1983;2:482-4.
+    55.Bartolomei Corsi O, Assi A, Morfini M, Fanci R, Rossi Ferrini P.
+    Human parvovirus infection in haemophiliacs first infused with
+ treated
+    clotting factor concentrates. J Med Virol 1988;25:165-70.
+    56.Shneerson JM, Mortimer PP, Vandervelde EM. Febrile illness due
+ to a
+    parvovirus. Br Med J 1980;1:1580.
+    57.Cohen BJ, Mortimer PP, Pereira MS. Diagnostic assays with
+    monoclonal antibodies for the human serum parvovirus-like virus
+ (SPLV).
+    J Hyg (Lond) 1983;91:113-30.
+    58.Anderson LJ, Tsou C, Parker RA, et al. Detection of antibodies
+ and
+    antigens of human parvovirus B19 by enzyme-linked immunosorbent
+ assay.
+    J Clin Microbiol 1986;24:522-6.
+    59.Ozawa K, Kurtzman G, Young N. Productive infection by B19
+    parvovirus of human erythroid bone marrow cells in vitro. Blood
+    1987;70:384-91.
+    60.Mortimer PP, Humphries RK, Moore JG, Purcell RH, Young NS. A
+ human
+    parvovirus-like virus inhibits haematopoietic colony formation in
+    vitro. Nature 1983;302:426-9.
+    61.Young NS, Mortimer PP, Moore JG, Humphries RK. Characterization
+ of
+    a virus that causes transient aplastic crisis. J Clin Invest
+    1984;73:224-30.
+    62.Kajigaya S, Fujita S, Ozawa K, et al. A cell line that expresses
+    B19 parvovirus structural proteins and produces empty capsids
+ (Abstract
+    no. 86). Blood 1988;72(suppl 1).
+    63.Anderson MJ, Jones SE, Minson AC. Diagnosis of human parvovirus
+    infection by dot-blot hybridization using cloned viral DNA. J Med
+ Virol
+    1985;15:163-72.
+    64.Clewley JP. Detection of human parvovirus using a molecularly
+    cloned probe. J Med Virol 1985;15:173-81.
+    65.Kurtzman GJ, Gascon P, Caras M, Cohen B, Young NS. B19
+ parvovirus
+    replicates in circulating cells of acutely infected patients. Blood
+    1988;71:1448-54.
+    66.Knisely AS, O'Shea PA, McMillan P, Singer DB, Magid MS. Electron
+    microscopic identification of parvovirus virions in erythroid-line
+    cells in fatal hydrops fetalis. Pediatr Pathol 1988;8:163-70.
+    67.Ozawa K, Kurtzman G, Young N. Replication of the B19 parvovirus
+ in
+    human bone marrow cell cultures. Science 1986;233:883-6.
+    68.Cotmore SF, McKie VC, Anderson LJ, Astell CR, Tattersall P.
+    Identification of the major structural and nonstructural proteins
+    encoded by human parvovirus B19 and mapping of their genes by
+    procaryotic expression of isolated genomic fragments. J Virol 1986;
+    60:548-57.
+    69.Garner JS, Simmons BP. Guideline for isolation precautions in
+    hospitals. Infect Control 1983;4(suppl):245-325.
+    70.Evans JPM, Rossiter MA, Kumaran TO, Marsh GW, Mortimer PP. Human
+    parvovirus aplasia: case due to cross infection in a ward. Br Med J
+    1984;288:681.
+    
+71.Cohen BJ, Courouce AM, Schwarz TF, Okochi K, Kurtzman GJ.
+    Laboratory infection with parvovirus B19 (Letter). J Clin Pathol
+    1988;41:1027-8.
+    72.Schwarz TF, Roggendorf M, Hottentrager B, et al. Human
+ parvovirus
+    B19 infection in pregnancy (Letter). Lancet 1988;2:566-7.
+    *The information and recommendations in this document were
+ developed
+    and compiled by CDC in consultation with representatives of the
+    American Academy of Family Physicians, American Academy of
+ Pediatrics,
+    American College of Obstetricians and Gynecologists, American
+ College
+    of Physicians, Council of State and Territorial Epidemiologists,
+    Immunization Practices Advisory Committee, and the National
+ Institutes
+    of Health. The consultants also included MJ Anderson, PhD,
+ University
+    College and Middlesex School of Medicine, London; SM Hall, MBBS,
+    Communicable Disease Surveillance Centre, London; and GR Serjeant,
+    MBBS, University of West Indies, Kingston. These recommendations
+ may
+    not reflect the views of individual consultants or the
+ organizations
+    they represented.  
+Disclaimer
+   All MMWR HTML documents published before January 1993 are electronic conversions
+from ASCII text into HTML.  This conversion may have resulted in character translation
+or format errors in the HTML version.  Users should not rely on this HTML document, but
+are referred to the original MMWR paper copy for the official text, figures, and tables. 
+An  original  paper  copy  of  this  issue  can  be  obtained  from  the  Superintendent  of
+Documents,  U.S.  Government  Printing  Office  (GPO),  Washington,  DC  20402-9371;
+telephone: (202) 512-1800. Contact GPO for current prices. Page converted: 08/05/98 
+    HOME  |  
+    ABOUT MMWR  | 
+    MMWR SEARCH  | 
+    DOWNLOADS  | 
+    RSS 
+    |  
+    CONTACT
+POLICY  |  
+    DISCLAIMER  |  
+    ACCESSIBILITY 
+Morbidity and Mortality Weekly Report
+                Centers for Disease Control and Prevention
+                1600 Clifton Rd, MailStop E-90, Atlanta, GA 
+                  30333, U.S.A 
+Department of Healthand Human Services This page last reviewed 5/2/01 
+ 
+Source URL: https://www.cdc.gov/mmwr/preview/mmwrhtml/00001348.htm

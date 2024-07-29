@@ -1,0 +1,132 @@
+Official websites use .gov A .gov website belongs to an official government organization
+in  the  United  States.  Secure  .gov  websites  use  HTTPS  A  lock  (   )  or  https://  means
+you've  safely  connected  to  the  .gov  website.  Share  sensitive  information  only  on
+official,  secure  websites.  Weekly  /  May  13,  2016  /  65(18);481–482  Shannon  A.
+Novosad,  MD1,2;  Amber  M.  Vasquez,  MD1,2;  Atmaram  Nambiar,  MD3;  Matthew  J.
+Arduino, DrPH2; Erick Christensen, MPH4; Heather Moulton-Meissner, PhD2; M. Shannon
+Keckler, PhD2,5; Jeffrey Miller, MD6; Joseph F. Perz, DrPH2; Shawn R. Lockhart, PhD7;
+Tom Chiller, MD7; Carolyn Gould, MD2; Lynne Sehulster, PhD2; Mary E. Brandt, PhD7; J.
+Todd  Weber,  MD2;  Alison  Laufer  Halpin,  PhD2;  Rajal  K.  Mody,  MD7  (View  author
+affiliations) Views equals page views plus PDF downloads On September 17, 2015, the
+Pennsylvania  Department  of  Health  (PADOH)  notified  CDC  of  a  cluster  of  three
+potentially  health  care–associated  mucormycete  infections  that  occurred  among  solid
+organ transplant recipients during a 12-month period at hospital A. On September 18,
+hospital  B  reported  that  it  had  identified  an  additional  transplant  recipient  with
+mucormycosis.  Hospitals  A  and  B  are  part  of  the  same  health  care  system  and  are
+connected by a pedestrian bridge. PADOH requested CDC’s assistance with an on-site
+investigation, which started on September 22, to identify possible sources of infection
+and prevent additional infections. Mucormycosis is a severe, often fatal infection caused
+by a group of angioinvasive molds. Outbreaks of health care–associated mucormycosis
+have  been  identified,  most  commonly  in  persons  with  marked  immunosuppression,
+such  as  bone  marrow  and  solid  organ  transplant  recipients  (1,2).  Sources  of  these
+outbreaks  are  difficult  to  determine  given  that  mucormycetes  are  ubiquitous
+environmental  organisms.  Past  outbreaks  have  been  associated  with  contaminated
+medical  supplies  and  hospital  construction  projects  (3,4).  Performing  an  Infection
+Control Risk Assessment (ICRA) before and during construction or renovation projects is
+an  important  measure  that  can  reduce  the  risk  for  health  care–associated
+mucormycosis  (4,5).  An  ICRA  is  a  multidisciplinary  approach  used  to  mitigate
+environmental  sources  of  microbes  and  to  prevent  infectious  hazards  through  use  of
+built environment design, ventilation and infrastructure support, and control measures
+implemented during construction or renovation (6). A probable health care–associated
+case  of  mucormycosis  was  defined  as  identification  of  a  mucormycete  by  culture  or
+molecular  testing  in  a  diagnostic  specimen  from  a  person  who  had  a  history  of  solid
+organ  transplantation,  and  admission  to  hospital  A  or  B  during  May  2014–September
+2015  for  ≥14  days,  within  the  30  days  before  diagnosis.  The  period  for  cases  was
+expanded  beyond  the  12-month  period  of  infections  to  account  for  exposure  time
+during  hospitalization.  Suspected  cases  were  similarly  defined  as  identification  of  a
+mucormycete  in  a  diagnostic  specimen  by  histopathology  only  or  association  with  a
+hospital stay of 7–13 days before diagnosis. No infections were considered confirmed
+health care–associated cases because of uncertainties regarding the incubation period
+of mucormycosis (3). The initial three cases were classified as probable and the fourth
+case as suspected. All four patients underwent solid organ transplantation during the
+same
+ admission
+ as
+ their
+ mucormycosis
+ diagnosis
+ and
+ were
+ receiving
+immunosuppressive medications as well as voriconazole for antifungal prophylaxis. The
+three  probable  cases  were  in  patients  who  were  primary  heart  (two  cases)  and  lung
+transplant  (one  case)  recipients  who  underwent  transplantation  31–93  days  before
+mucormycosis  diagnosis.  The  suspected  case  occurred  in  a  patient  who  had  been
+admitted for a second liver transplant and was taking immunosuppressive medications
+at  home;  mucormycosis  was  diagnosed  in  this  patient  13  days  after  admission,
+although  signs  compatible  with  invasive  fungal  infection  started  earlier  in  the
+admission.  At  least  two  different  mucormycete  species  were  isolated  from  the  four
+patients. Three of the four patients had died before the arrival of the PADOH/CDC team.
+The  three  patients  with  probable  health  care–associated  mucormycosis  all  received
+care in the same room (room A) of the 20-bed cardiothoracic intensive care unit (CTICU)
+in  hospital  A  for  14–58  days  between  their  transplantations  and  mucormycosis
+diagnoses. Room A was the only negative-pressure isolation room in the CTICU and was
+adjacent to a door leading to a carpeted hallway and family room. Frequent use of this
+door  by  personnel  and  visitors  might  have  disturbed  airflow,  allowing  dust  and  mold
+spores,  if  present,  to  enter  the  room.  None  of  the  patients  had  a  clinical  indication
+requiring
+ negative-pressure
+ isolation.
+ The
+ patient
+ with
+ suspected
+ health
+care–associated  mucormycosis  did  not  spend  any  time  in  room  A  of  the  CTICU  or  a
+negative-pressure  room.  Before  the  PADOH/CDC  on-site  investigation  had  begun,
+hospital  A  had  closed  and  deconstructed  the  CTICU  for  renovation.  A  mucormycete
+genetically unrelated to the patient isolates was recovered from one air sample from
+room  A  that  hospital  A  obtained  before  the  renovation  work  began.  Multiple
+construction and demolition projects were occurring at or near hospitals A and B during
+the  period  when  this  cluster  occurred.  However,  the  hospital  system  reported
+performing ICRAs for these projects. No common construction-related exposure shared
+by  the  four  patients  was  identified.  Although  voriconazole  is  a  commonly  used
+antifungal  prophylactic  agent  among  transplant  recipients  in  the  United  States,  it  is
+ineffective  against  mucormycetes  (3).  Before  the  PADOH/CDC  investigation,  the
+hospital  system  changed  the  antifungal  prophylactic  agent  used  for  transplant
+recipients to isavuconazole, a mucormycete-active prophylactic agent. Hospitals A and
+B are no longer using negative-pressure rooms to house solid organ transplant patients
+who  are  without  a  clinical  indication.  Caring  for  immunosuppressed  patients  in
+negative-pressure  environments  has  been  previously  identified  as  a  risk  factor  for
+invasive mold infections, possibly related to the potential to concentrate dust and mold
+spores in these rooms (7).  Negative-pressure rooms are recommended for isolation of
+patients  with  a  suspected  or  confirmed  airborne  infectious  disease;  this  investigation
+highlights
+ how
+ unnecessary
+ placement
+ of
+ immunocompromised
+ patients
+ in
+negative-pressure rooms could result in net harm and therefore should be avoided. Top
+Corresponding  author:  Shannon  A.  Novosad,  Snovosad@cdc.gov,  404-639-4353.  Top
+1Epidemic  Intelligence  Service,  CDC;  2Division  of  Healthcare  Quality  Promotion,
+National  Center  for  Emerging  and  Zoonotic  Infectious  Diseases,  CDC;  3Pennsylvania
+Department of Health; 4University of Utah School of Medicine; 5Laboratory Leadership
+Service,  CDC;  6CDC  Career  Epidemiology  Field  Officer  assigned  to  Pennsylvania
+Department  of  Health;  7Division  of  Foodborne,  Waterborne,  and  Environmental
+Diseases, National Center for Emerging and Zoonotic Infectious Diseases, CDC. Top Top
+Suggested citation for this article: Novosad SA, Vasquez AM, Nambiar A, et al.  Notes
+from the Field. Probable Mucormycosis Among Adult Solid Organ Transplant Recipients
+at an Acute Care Hospital — Pennsylvania, 2014–2015. MMWR Morb Mortal Wkly Rep
+2016;65:481–482. DOI: http://dx.doi.org/10.15585/mmwr.mm6518a5. 
+MMWR  and  Morbidity  and  Mortality  Weekly  Report  are  service  marks  of  the  U.S.
+Department of Health and Human Services.
+Use of trade names and commercial sources is for identification only and does not imply
+endorsement by the U.S. Department of 
+Health and Human Services. References to non-CDC sites on the Internet are 
+provided as a service to MMWR readers and do not constitute or imply 
+endorsement of these organizations or their programs by CDC or the U.S. 
+Department of Health and Human Services. CDC is not responsible for the content 
+of pages found at these sites. URL addresses listed in MMWR were current as of 
+the  date  of  publication.  All  HTML  versions  of  MMWR  articles  are  generated  from  final
+proofs through an automated process. 
+This  conversion  might  result  in  character  translation  or  format  errors  in  the  HTML
+version. 
+Users are referred to the electronic PDF version (https://www.cdc.gov/mmwr) 
+and/or the original MMWR paper copy for printable versions of official text, figures, and
+tables. 
+ Questions or messages regarding errors in formatting should be addressed to 
+mmwrq@cdc.gov.
+Source URL: https://www.cdc.gov/mmwr/volumes/65/wr/mm6518a5.htm

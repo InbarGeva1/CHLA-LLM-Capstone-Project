@@ -1,0 +1,431 @@
+Official websites use .gov A .gov website belongs to an official government organization
+in  the  United  States.  Secure  .gov  websites  use  HTTPS  A  lock  (   )  or  https://  means
+you've  safely  connected  to  the  .gov  website.  Share  sensitive  information  only  on
+official, secure websites. The views expressed in written materials or publications and
+by  speakers  and  moderators  do  not  necessarily  reflect  the  official  policies  of  the
+Department  of  Health  and  Human  Services,  nor  does  the  mention  of  trade  names,
+commercial  practices,  or  organizations  imply  endorsement  by  the  U.S.  government.  
+Date of session: 12/16/20 Facilitator
+Triona Henderson, MD, MPH
+Centers for Disease Control and Prevention Didactic speaker
+Vinita Parkash, MBBS, MPH
+Yale New Haven Hospital
+vinita.parkash@yale.edu  TRIONA  HENDERSON:  So  good  afternoon.  My  name  is  Triona
+Henderson, and I’m the clinical pathologist and the facilitator of this ECHO pilot project.
+I  extend  a  warm  welcome  to  you  from  the  Division  of  Laboratory  Systems  at  the
+Centers for Disease Control and Prevention in Atlanta, Georgia. Thank you for joining us
+today. The topic for this interactive web discussion is anatomic pathology and surgical
+pathology.  Our  subject  matter  expert  is  Dr.  Vinita  Parkash,  who  will  present  today’s
+topic. Dr. Parkash is an Associate Professor of Pathology, Gynecology, and Reproductive
+Sciences at Yale School of Medicine, and an instructor in Health Policy and Management
+at the Yale School of Public Health where she teaches quality and safety in healthcare
+organizations. Thank you for joining us today, Dr. Parkash. So here is some technical
+information about the ECHO session. So before introductions and the presentation, we
+will  have  —  so  most  of  you  are  muted.  If  you  are  able  to  use  your  video,  which
+enhances interaction, we would really appreciate it. It’s very helpful to put a name to
+the face while we are having dialogue. All microphones are now currently muted during
+this  discussion  section.  Please  unmute  yourself  to  speak.  If  you  are  connecting  by
+phone  only  and  would  like  to  speak,  please  announce  yourself  by  name  and
+organization before you begin. If you are experiencing any technical difficulties, you can
+reach out directly via private chat to Johanzynn Gatewood, labeled as DLS ECHO Tech,
+and  she’s  waving  to  you  right  now.  She  will  do  her  best  to  respond  to  your  issue.
+Finally,  we’ve  designed  these  relevant  sessions  based  on  your  evaluation.  We  would
+like to encourage you to complete this final post-session evaluation. For those of you
+requiring P.A.C.E.® credits for continuing education, you are offered that option at the
+end to either receive a certificate of participation or your P.A.C.E.® certificate. If you
+have  any  additional  comments  or  questions  or  any  feedback  for  us  on  these  ECHO
+sessions, please send us an email directly at DLS, that’s D-L-S-E-C-H-O, at cdc.gov. So
+again,  and  many  of  you  have  heard  these.  How  are  these  sessions  different  than  a
+regular expert lecture teleconference or webinar? It’s because their case discussions,
+and just open discussion being the main feature. Subject matter experts hope to share
+some of their work that may be transferable to you in your individual laboratories and
+institutions. These ECHO sessions will focus exclusively on the clinical laboratories and
+clinical laboratory issues in the United States and US territories. Once again, we value
+your feedback, and discussion amongst all of you that ensues and would encourage you
+to  share  your  own  experiences  and  challenges  on  this  topic.  We  thank  you  for  your
+interest and participation. So here is the line out of the process today. So there will be a
+presentation  by  the  subject  matter  expert.  Then  there  will  be  clarifying  questions  by
+me. Then we will open up the floor for ideas, shared experiences, and comments by our
+subject  matter  expert.  Then  we’ll  have  closing  comments  and  then  adjourn.  Today’s
+session  is  being  recorded.  If  you  do  not wish  to  be recorded,  please disconnect now.
+Closed captioning is now also available and you can find the link in the Zoom chat box.
+Here  is  the  biosketch  of  Dr.  Parkash.  She’s  received  her  undergraduate  degree  in
+chemical  engineering  from  the  University  of  Nevada.  She  attended  medical  school  at
+the University of Toledo. Following residency in Anatomic and Clinical Pathology at East
+Carolina University. Really? I did not know. Is that correct? No, I didn’t think so. I was
+like, wait. No. We will have to fix that, Vinita. Now we’ll invite Dr. Parkash to begin her
+presentation. Dr. Parkash? VINITA PARKASH: Easily introduced. I’ve been at Yale all my
+professional life. HENDERSON: That’s what I thought. I was like, wait. PARKASH: Well,
+you know. What are you going to do? Sometimes things happen. All right. Should I get
+started? HENDERSON: The floor is yours. PARKASH: Thank you. Can everyone hear me?
+OK. So I’m going to be talking about diagnostic error and anatomic pathology. So the
+National  Academies  of  Medicine  define  diagnostic  error  as  a  diagnosis  that  is  either
+inaccurate,  not  communicated  to  the  patient,  or  not  timely.  So  as  you  can  see,  the
+mnemonic there is A-C-T. So accurate, communicated to the patient, and timely. And
+diagnostic error has been recognized recently as a leading concern in US healthcare by
+a number of organizations, including ECRI, which is a patient safety organization that is
+federally funded and works with the AHRQ. The estimates for diagnostic error vary. We
+don’t really know what they are. Some people estimate as many as four million cases,
+resulting in 1.7 million deaths in the United States. I’m not sure I quite buy that. But
+importantly,  diagnostic  error  is  a  very  expensive  error.  It’s  very  expensive  both  in
+human  cost  and  financial  cost.  So  this  chart  here  shows  the  analysis  of  over  10,000
+cases from Covaris, which is a malpractice carrier. And it breaks up all of their cases,
+those 10,000 cases, claims, over a five-year period from 2013 to 2017. As you can see,
+diagnosis-related errors is the number one error that results in claims. And what did I
+do? Sorry, I went backwards. And in addition to that, what is important here is to see
+that the indemnity paid for diagnostic errors is very high because these are generally
+high  severity  errors.  So  if  you  look  at  the  National  Association  of  Insurance
+Commissioner’s  scores,  an  abnormally  large  number  of  cases  fall  in  the  six  to  nine
+range, which is either severe disability or death. So there’s very heavy human cost with
+respect to patients, and also heavy human costs for the provider. We accept systems
+errors a little bit easier than diagnostic errors, which are very personal to us and related
+to clinical judgment. This is the breakup of by the area where in the patient journey the
+error  happened.  And  as  you  can  see,  lab  tests  are  a  very  large  component  of  it.
+Whether  it’s  ordering  the  lab  test,  performance,  received  or  transmittal,  or
+interpretation of test results by the care provider. And that makes sense, right? I mean,
+tests drive 70% of the diagnosis. So it makes sense that if there is a misdiagnosis, that
+area  would  be  susceptible.  And  the  top  three  diseases  that  are  associated  with
+diagnostic error are cardiovascular, infection, and cancer. And cancer is primarily where
+anatomic  pathology  comes  in.  And  we’re  the  final  word,  so  we  carry  an  unduly  high
+number of percentage of non-dismissal for cases. If we make a diagnosis, there’s a 40%
+chance that it will go to payment. And we have a very high number of outlier awards,
+which is more than a million dollars in awards, and it’s only second to GYN. So as I said,
+we’re a low volume field relative to lab medicine. Lab medicine is about 7 billion tests a
+year. So if you think about it, one test per population or person in the world. Anatomic
+pathology is just 350 million tests in the US annually, which is one per person in the
+United States, more or less. But we’re a very high impact field. We’re a final word for
+certain  high  impact  diagnoses,  primarily  cancer.  And  that’s  why  we  have  this  God
+complex. So this was a painting — I went into the oncologist’s office and a patient had
+made this painting, so I asked her if I could take a picture of it. So because we’re a high
+impact  field,  it  stands  to  reason  we’re  a  high  penalty  field.  The  misdiagnosis  is
+devastating. If we inaccurately make a false negative diagnosis, the cancer is missed, it
+progresses, it can sometimes result in death. If we give a false positive diagnosis, that
+is  also  bad  because  it  results  in  very  toxic  therapies  for  the  patients.  Cancer  is  an
+aggressive disease, so the patients either get additional surgery that they didn’t need
+with  attendant  side  effects  or  potentially  chemo  and  radiation  therapy,  which  might
+have long-term effects. Even an ambiguous diagnosis is problematic. So if I say atypical
+cells, or I can’t make a diagnosis, that also imposes a penalty on the patient because
+the patient ends up having to repeat invasive procedures because most of our biopsies
+require an invasive procedure. Not advancing. So it’s important to note how and where
+errors occur in anatomic pathology in order to be able to decide how we are going to
+reduce  them.  So  this  is  the  test  cycle  that  everybody  is  familiar  with,  with  the
+pre-analytic, analytic, and post-analytic phase. And I’ve also put in the five part cycle
+that some people use. So there is a pre-pre and a post-post added to the cycle. And this
+is  because  it  includes  whether  the  diagnosis  is  communicated  to  the  patient.  Most
+post-analytic analysis will stop at, did the physician get the report, and then it becomes
+the physician’s problem. And the pre-pre phase is basically in the clinician’s head. Did
+they select the right test? And while that might not directly be our problem, if you look
+at the health system as a whole, we are perhaps situated to address that overuse or
+inaccurate utilization. So in lab medicine, pre-analytic errors are responsible for about
+70% of all errors. In anatomic pathology, it’s stated to be 40%. In our lab it’s actually
+15%.  So  why  is  that?  Well,  primarily  because  we’re  a  small  field.  So  most  of  our
+specimens  generate  from  two  or  three  types  of  sites.  So  the  OR,  some  surgical
+physician offices, whereas lab tests are done in every office, every floor, everywhere.
+So it’s just lower opportunity for error. The second is we don’t have that selection of
+tests and ways to preserve tissue that you do. It’s basically either fixed or unfixed. And
+so both of those make it a little bit easier for us to deal with. Our biggest problem was
+with specimen loss. At our institution, we have been able to reduce that immensely by
+basically  putting  in  a  computerized  order  and  tracking  system.  And  obviously,  the
+investment was made because we had lost some critical specimens. Now lab medicine
+analytic tests make up only about 15% of the errors, whereas in anatomic pathology,
+it’s 30% and potentially even higher. And then post-analytic errors in lab medicine are
+only  about  15%,  whereas  ours  are  about  30%.  In  our  lab,  they  are  around  45%  and
+maybe higher. And again, that’s because there’s greater complexity to the results that
+we issue. And also, pathologists initiated additional testing, which then will inform the
+original diagnosis. So to my knowledge, we are the only test field that issues amended
+diagnoses  because  additional  test  results  came  back.  We  try  to  give  an  integrated
+diagnosis and so the loop is a little bit more complicated in that sense. So, one other
+thing to think about is that a number of — there is disagreement amongst experts as to
+where analysis starts. So, a number of labs will classify grossing errors as pre-analytic. I
+disagree. I think that once the specimen has reached a professional’s hand, like once
+the specimen has been accessioned, the test has begun, and so it starts with grossing.
+And  in  our  lab,  about  70%  of  the  errors  are  lab  grossing  errors  and  about  30%  are
+interpretive  errors.  So  digging  a  little  bit  deeply,  lab  processing  errors  happen  for  a
+couple of reasons. Our process is very manual and it has many hand-offs. So here is a
+uterus  with  a  cancer.  So,  a  pathologist’s  assistant  or  potentially  a  resident  will  gross
+this  tissue  and  then  the  tissue  will  be  loaded  on  a  machine,  and  then  it  will  make  a
+block. So, the embedding will be done by a histotech, and a third histotech might cut it
+and make it into slides. So as we know in quality, more the hand-offs and more manual,
+the  more  likely  the  incidents  of  error.  The  highest  penalty  errors  in  this  setting  are
+contamination errors. So what do I mean by contamination error? So this is a case that
+we  had.  And  tissue  from  this  case  was  transferred  onto  —  so  this  is  an  endometrial
+curettage specimen — and tissue from this case transferred into another case. And this
+second specimen is an endocervical curettage specimen, and histologically, there is no
+way to know that the tissue doesn’t belong to the patient. Discovering these errors, I
+feel,  has  become  harder  over  time  because  we’ve  subspecialized.  When  we  were
+generalists,  the  specimens  were  cut  in  different  orders.  You  saw  a  GI  specimen,  and
+then you saw a GYN, and then maybe a lung. So it was a little bit easier to say, OK, this
+tissue  didn’t  come  from  this  case.  But  now  that  our  breast  pathologist  only  looks  at
+breast cases, if there’s a breast to breast contamination, you’re just not going to know,
+at least not on histology. These type of errors are more likely to occur with cases that
+what I refer to as litter fragment biopsies. They’re just like litter, these tiny fragments of
+tissue and one piece can be transported there to another case at any point in a very
+manual process. The result of this is essentially an identity error. So the diagnosis of
+cancer might issue to the incorrect patient. Patient ends up having a surgery that they
+did  not  need.  And  in  many  cases,  it  might  not  be  known  because  the  slide  has  true
+tumor on it. There’s no way to know whether it belongs to the patient or not. And so
+some  of  these  cases,  I  think,  these  are  false  positives.  But  we  have  no  good  way  of
+knowing  how  many  false  positives  we  have.  To  my  knowledge,  there  isn’t  literature
+looking  at  this.  There  is  some  literature  with  respect  to  what  is  called  provenance
+testing.  There  are  commercial  companies  that  offer  patients  —  so  they  take  a  swab,
+buccal swab. The patient takes their own swab and then it is sent off to the company
+and stored there, and then the biopsy is done. If the biopsy turns out to have cancer,
+then you do provenance or identity testing and the tumor tissue should match with the
+patient’s  normal  tissue.  Most  of  us  don’t  use  these  type  of  testing.  In  part  because
+they’re  not  reimbursed.  This  would  be  considered  quality  improvement  or  quality
+maintenance by CMS. Plus, it would be really tedious to do it for every single specimen
+that we do. So as of right now, I think it’s primarily education and insisting that people
+follow protocols recognizing that education and telling people to do certain things when
+they’re  working  at  a  rather  rapid  pace  is  not  very  effective.  Education  is  low  in  the
+hierarchy  of  controls  to  reduce  errors.  The  second  error  that  we  deal  with  is  an
+exhausted  biopsy  sample.  So  we’re  in  a  peculiar  time,  right?  So  what’s  happening  is
+that the instruments to do biopsies are becoming smaller and smaller. So, we’re getting
+tinier  and  tinier  tissue  fragments,  but  the  amount  of  testing  for  that  tiny  tissue
+fragment  has  increased  immensely.  So  as  an  example,  when  we  were  doing  brain
+biopsies, we treated them as regular biopsies, and we would get three cuts on every
+biopsy. But now, since 2016, all brain tumors have to get a molecular diagnosis and we
+issue an integrated diagnosis. So we reviewed our process and we ended up deciding —
+we only cut a single section on our brain biopsies, and when we cut that single section,
+automatically ten unstained slides are produced because if the diagnosis is malignancy,
+then  molecular  studies  can  be  activated.  So  this  way  we’ve  been  able  to  avoid  what
+would  happen  in  the  past,  which  was  a  repeat  invasive  procedure.  Now  interpretive
+errors are the ones that cause the greatest amount of tension and difficulty, and they
+fall into two categories. The first one is what we call a perceptual error or put another
+way, I missed it. My computer’s stuck again. So here is a case, again, this is what I call
+the  litter  fragment  biopsies.  You’ve  got  thousands  of  fragments,  and  if  one  tiny
+fragment  is  cancer,  humans  miss  things.  And  so  you  would  miss  it  and  of  course,
+humans are subject to all sorts of cognitive pressures. And so looking at this biopsy at 3
+o’clock, you’re more likely to miss it. It happens very infrequently so you’re not looking
+for  it.  I  mean,  it’s  like  those  luggage  checks  that  we  go  through  when  we’re  going
+through airports. Those people are really good at finding water bottles because that’s
+what they find most of the times. They’re actually not as good at finding guns as they
+should be, but that happens very infrequently. So sort of like that, we miss them, if it is
+a single fragment. I think that this is where AI will be really useful because computers
+don’t  tire.  A  second  type  of  perceptual  error,  which  is  perhaps  even  more  difficult  is
+when it occurs within the tissue itself. So the tumor itself is very sneaky. So here is a
+case  of  a  gastric  biopsy  and  the  tissue  looks  inflamed.  You  can  see  there’s  chronic
+inflammation  here.  And  actually  this  case  did  get  signed  out  as  chronic  gastritis,  but
+was reviewed and the other pathologist was a little more concerned about it. And so
+they did a keratin stain and all those brown dots are cancer cells that are infiltrating
+between normal cells. And this was a very unusual case. The patient had breast cancer,
+lobular  breast  cancer,  but  she  had  not  yet  presented  —  this  was  her  presentation  of
+breast  cancer.  The  vast  majority  of  our  inaccurate  diagnoses  are  where  an  accurate
+diagnostic  label  was  not  applied  to  the  case.  So  most  of  these  are  interobserver
+variability or variation amongst experts. But these still qualify as errors because they
+can  result  in  a  different  treatment  depending  on  who  saw  the  case.  But  the  patient
+either has the disease or doesn’t have the disease. And so these do qualify as errors.
+They may not be errors that would meet a legal definition of error, as in a breach of
+standard  of  care,  but  they  are  errors  from  a  patient’s  perspective.  So  why  does  this
+happen? This happens because the natural history of disease is a continuum. So you’ve
+got the yellow, which is benign and change is occurring until you get to cancer, which is
+the red. But treatment is bend. Do something, don’t do something, watch. And so we
+draw these lines based on risk. But if anybody can — something here versus something
+here  would  basically  result  in  interobserver  variability  and  potentially  will  result  in
+intervention, depending on who saw it and not intervention in another person. A very
+small subset of errors occur because there’s a knowledge gap or failure, as in I don’t
+know. What I don’t know, I don’t see. Most often this happens when somebody who’s
+trained in one specialty is dealing with a lesion that generated in another specialty, and
+so  they’re  not  familiar  with  it.  The  vast  majority  of  errors  that  we  see  are  actually
+communication errors. For us, it’s about 70%. And they fall into a few categories. The
+first  one  is  delivery  errors.  So  report  did  not  get  delivered  to  the  ordering  physician.
+This is no longer a concern for most institutions. High tech required that to certify any
+EHR,  they  had  to  have  a  foolproof  mechanism  of  making  sure  that  the  result  was
+delivered to the physician. But that does not mean that the physician looked at it, so
+that’s the problem. The problem is no longer electronic delivery, but did the physician
+actually  look  at  it.  The  other  problem  is  with  complexity  of  care,  the  report  was  not
+received by the treating physician. Joint Commission says that the report should get to
+the  responsible  and  active  care  provider.  Who  do  we  send  the  report  to?  The
+interventional radiologist did the biopsy and our report goes back to the interventional
+radiologists.  We’re  done.  I  mean,  we  delivered  the  report,  but  the  patient’s  left  the
+interventional  radiologist  who  was  just  a  proceduralist,  and  gone  on  to  another
+physician. Did the report follow the patient? We don’t know. In the end, the important
+thing is that the cycle stops with the patient. And of the cancer malpractice cases, 16%
+of those cases are because the cancer diagnosis was not communicated to the patient.
+So  this  is  our  sort  of  reporting  cycle.  Patient  comes  to  the  physician,  is  sent  to  an
+interventionalist who does a biopsy, and then they throw it over the wall to me. I catch
+it. Then I send maybe a piece of it off to the molecular pathologist. In the meantime, I
+throw back a report which goes back to the radiologist, who hopefully sends it back to
+the  physician.  But  now  the  molecular  —  And  well,  the  physician  now  refers  to  the
+patient  to  the  oncologist.  In  the  meantime,  the  molecular  pathologist  sends  me
+something  back.  So  I  change  my  report,  which  I  again  send  to  the  radiologist,  who
+hopefully sends it to the doctor, who then hopefully forwards it to the oncologist. So this
+is a very convoluted report delivery process that we have. And so many hand-offs, so
+errors  are  likely.  The  second  type  of  error  with  respect  to  communication  are
+comprehension and integration errors. So we have such long reports. Our breast cancer
+reports are 12 pages long. And this becomes really complicated when you are using the
+EHR because the HER — our reports are basically, we just repurposed our paper reports
+and put them into the computer. Looking at 12 pages on the computer is very different
+from looking at 12 pages of paper in your hand. The other problem that the EHR creates
+is  that  people  just  cut  and  paste  this.  So  one  clinician  cuts  and  pastes  it  into  their
+record, and the subsequent clinician gets the result from that cut and paste rather than
+getting it from the actual pathology report. Also, the reports are truly incomprehensible
+to the clinicians. Every specialty has developed its own terminology. So this is a paper
+that my colleague did. This is when — I forget who was from Mars and who was from
+Venus  —  book  had  come  out  and  surgeons  misunderstood  the  pathologist’s  reports
+30%  of  the  times  and  this  has  been  validated  by  other  reports.  There  is  also  the
+problem of inadequate clinician education. Mike Laposata has written about it. We’ve
+gone  to  organ  based  rather  than  subject  based  education.  And  so  medical  students
+don’t get exposure to lab medicine or surgical pathology to an amount that is needed
+for  patient  management.  So  they  learn  it  just  by  following  their  mentors  and
+supervisors, and so there are gaps in the clinician’s knowledge. The other thing that is
+contributing  to  this  is  the  explosive  increase  in  information  that  we  now  have.  So
+apparently medical knowledge is supposed to double every three months. So we would
+need  an  extra  two  months  of  the  year  to  know  what  we  need  to  know.  So  this  is  an
+example– This is Sue and Patrick Sheridan. This is a very well-known case. And I met
+Sue because I watched a movie. This movie, To Err is Human came out, it was tagged
+as a patient safety documentary. And this case was discussed, and I contacted Sue and
+she  gave  me  permission  to  use  this  example.  So  Patrick  developed  a  neck  mass.  He
+went to see his doctor who referred him to a very reputable large institution where he
+saw a neuropathologist and this was the original pathology report that was delivered.
+Atypical spindle cell neoplasm. Please see note. Pending neuropathology consultation.
+The clinicians notes read that I have the pathology report which states that this is an
+atypical tumor. Very pleased with the outcome. The patient is sent back home. But then
+here’s the final report. The final report is that the patient has a malignant spindle cell
+neoplasm  consistent  with  synovial  sarcoma.  Now  if  you  translate  the  original  report,
+atypical spindle cell tumor, it means very little to just someone who’s using translation
+of English words. Not typical. OK, spindle cell, it’s a tumor of some site abnormal growth
+of  cells.  To  a  general  medical  person  who’s  not  a  soft  tissue  pathologist,  it’s  not
+atypical.  It’s made up  of spindle cells.  Yes,  it’s a  tumor.  I  knew  it was a  tumor.  Most
+tumors are benign. Clinically, it was benign. So it’s probably benign. When a pathologist
+says atypical spindle cell tumor, this is what they look like. We are just freaking out. It’s
+badness. We’re praying that it’s wrong. And additional studies will prove that it is or is
+not.  And  so  this  is  a  misunderstood  test  result.  The  pathologist  did  not  think  they’d
+issued  a  final  result.  They  had  communicated,  in  their  mind,  that  they  were  worried
+about this tumor, but somehow the clinician understood it to not mean very much. So
+the  solutions  to  reduce  error,  artificial  intelligence  will  certainly  address  perceptual
+errors. But their implementation and actually, legal issues as to if the AI machine says
+it’s a gun, but you think it’s a water bottle, which diagnosis takes precedence. And if
+the  AI  calls  it  a  water  bottle  and  it  turns  out  to  be  a  gun,  who  is  going  to  take
+responsibility  for  that  diagnosis.  Another  possibility  is  having  cases  looked  at  by  a
+second  pathologist.  Certainly  that  would  help  some,  but  it  raises  issues  of  efficiency.
+Groupthink. In groups, we tend to think alike. Also, there’s some big dog effect where
+we  defer  to  whoever  is  the  senior  most  person,  but  that  doesn’t  make  the  diagnosis
+right.  Coordination  errors  are  perhaps  addressed  by  creating  diagnosis  management
+teams.  And  this  is  something  that  I  strongly  support.  The  equivalent  in  anatomic
+pathology  is  multidisciplinary  tumor  boards,  but  there  are  issues  of  process
+standardization and efficiency. And the literature is mixed on whether it helps or not. I
+do  think  that  the  last  two  are  really  important.  We  need  to  change  our  pathology
+reports. It needs to be a lay report that anybody can understand. And we also need to
+explore  direct  communication  of  results  to  patients.  Basically,  that’s  based  on  three
+very important quality principles. The shortest distance between two points is a straight
+line. hand-offs increase errors. Redundancy reduces the risk of oversights. So instead of
+doing this, if we did that, that would be straight. So you’ve told the patient the report
+followed its routing and also got to the clinician, but hopefully we would avoid patient
+errors. Some of that is what drove the Cures Act, which was supposed to go into effect
+in November, now in April. But I still find it problematic because they’re going to make
+reports  available  on  the  patient  portals,  but  this  doesn’t  improve  integration  or
+understanding  of  the  report.  And  I  wrote  this  piece  in  US  News  and  World  Report
+basically  saying  that  we  need  to  come  up  with  a  mechanism  where  there  is  direct
+communication  of  reports  to  patients.  Because  the  non-communication  and  even
+electronic communication of reports penalizes the most marginalized patients who tend
+to be more ER users who do not have a single care provider. They don’t have access to
+internet  to  visit  their  patient  portals.  In  New  Haven,  we’re  dealing  with  a  situation.
+We’ve gone all online for students. 20% of our students don’t have reliable internet or
+computers to access learning. I imagine the parents are even worse off, perhaps. And
+obviously, it doesn’t address comprehension errors. So to my mind, the pathologist and
+the laboratory professional are critical elements of the patient’s diagnosis management
+team. And they’re also the patient’s doctors, so we should have direct communication
+of  results.  And  to  that  end,  I’m  involved  in  actually  a  community-based  participatory
+research project where we are selecting the marginalized community to get their idea
+on  how  reports  are  best  communicated  to  them  in  the  hope  that  we  can  develop  a
+structure  where  they  do  get  their  reports.  And  this  is  sort  of  being  used  for  COVID
+testing so the positive results are not communicated by the patient’s care provider. But
+we have a call center that is manned by nurses that is calling those results. Thank you,
+and I think I went over time. I apologize. Just when I practice, it was a lot shorter. What
+can  I  say?  HENDERSON:  No,  thank  you  so  much,  Vinita.  That  was  exceptional.  And
+really highlighted a lot of points that I know our community and rural participants may
+have in their head. And I hope you guys are getting your questions ready. But I have a
+question,  and  I  don’t  expect  you  to  provide  the  answer.  Then  the  world  would  be
+beautiful. But where do you see — especially now as you mentioned, COVID, you know
+we’ve seen a lot of things going on with the marginalized communities. But why do you
+think that the bridge between the pathologist and the patient has not been built in a lot
+of institutions and then only partially established in some? PARKASH: So I find that very
+interesting. I grew up in India. My chair is from China. And we’ve actually discussed this.
+So  in  other  countries,  patients  get  their  pathology  report  from  the  pathologist  and
+basically  then  go  to  see  the  oncologist.  I  think  in  our  healthcare  system,  first  of  all
+information  is  knowledge.  So  clinicians  want  to  maintain  control  of  that.  From  the
+pathologist’s  perspective,  it’s  a  non-reimbursed  activity,  so  sure,  I  send  it  to  the
+physician. It’s easier to communicate with physicians than it potentially is with patients.
+So  I  think  that  our  reimbursement  system  drives  the  process  to  some  extent.  And  in
+doing  so,  it  penalizes  patients,  especially  marginalized  patients.  HENDERSON:  Thank
+you. And we’re going to open the floor up now for feedback and questions. But before I
+do that, I want to welcome our VIP participants who participated in this ECHO session
+earlier  in  the  year,  Dr.  Jim  Crawford  and  Dr.  Susan  Weiss.  If  you  want  to  see  their
+sessions, you can log in to our website and see them. But please everyone, either you
+can  raise  your  hand  or  you  can  use  the  chat  box.  Please  remember  when  you  are
+speaking, introduce yourself, and if possible, turn your camera on. Thank you. JZ, I need
+you  to  help  me  man  the  —  if  not,  I  can  ask  another  question.  PARKASH:  Go  for  it.
+HENDERSON: So in that final part of the presentation, as you spoke about getting to the
+patient. I know you’ve done the Fellowship with SIDM, and we’ve had discussions here
+of how to engage the patient. And we actually have a very active patient advocate on
+the CLIAC Federal Advisory Committee. And one of the questions that she always brings
+up is patients want to be able to read their reports and have access to it. And as you
+said,  it  needs  to  be  in  a  form  that  they  can  read.  Do  you  think  this  is  a  time  where,
+probably  now  more  than  ever,  that  the  patient  safety  advocates  are  necessary  in
+helping  to  establish  that  bridge?  PARKASH:  Yeah,  so  I  think  that  pathologists  and
+actually  malpractice  carriers  and  patient  safety  organizations  need  to  collaborate  on
+this. Because patients bear the ultimate cost of an inaccurate or lost test result. So they
+are invested in this. I actually think that malpractice carriers should be pushing for this
+because they bear the malpractice charges when a result is inaccurate or misplaced. I
+also think that pathologists should do it because of their commitment to patients. And
+with the three groups working together, hopefully there will be a change. With respect
+to terminology, I think pathologists need to work on that. And I think radiologists have
+started doing some of the work. So for mammography reports, they have to issue a lay
+report  and  a  technical  report  so  that  the  patient  can  understand  it.  They’re  also,  I
+believe  for  radiology,  there  are  some  programs  that  people  are  developing  that  can
+take that technical report and translate it so that the patient can have access to a lay
+report. But that’s something that we definitely need to work on. I actually worry that
+our  clinicians  have  difficulty  with  our  report,  like  you  know–  So  my  gynecologists
+understand  my  report,  my  gynecological  oncologist.  But  I’ve  had  instances  where  a
+general gynecologist has called me up and said, I don’t know what this means. What
+should I do with this report? And that’s on me. I don’t believe — you know, we need to
+separate record keeping from reporting. The purpose of a report is to communicate with
+the clinician, with the patient, so that the right next step can be taken. Billing and all of
+that is record keeping. And I think we need to look to technology to help us separate
+the  two  and  refine  the  process.  HENDERSON:  That’s  really  good.  Thank  you  for  that.
+Aurora  Rock.  I  saw  you  put  your  camera  on.  Did  you  have  a  comment  or  question?
+Maybe, maybe not. Dr. Crawford, can I put you on the spot for comments? Is everyone
+here, but not here today? PARKASH: Well, certainly in the Northeast, we’re expecting a
+really  large  storm.  HENDERSON:  That’s  true.  PARKASH:  People  are  trying  to  get
+whatever  they  need  to  get  done  so  that  they  can  get  out.  I  know  that  some  of  my
+colleagues  are  trying  to  get  some  of  tomorrow’s  work  done  today  because  we  don’t
+know what tomorrow will be like. HENDERSON: I’m spoiled. I’ve forgotten the Northeast
+already. PARKASH: Warm weather is the best. HENDERSON: It is, and I am enjoying. Any
+final comments or questions from the line? I know we have some of our rural partners
+from Louisiana on the line. North Carolina. Any comments before we wrap up this pilot
+project? Vinita has been exceptional. I always love your presentations and your passion
+for quality improvement, which is also mine. So I definitely admire the work that you do.
+And  this  has  been  an  awesome  finale  for  this  pilot  project.  PARKASH:  Thank  you.
+HENDERSON:  You’re  welcome.  Going  once,  going  twice.  Let  me  just  check  the
+comments.  No.  PARKASH:  So  even  though  I  went  over,  we’re  ending  early.  That’s
+perfect. Christmas present. HENDERSON: Exactly. It always happens like that, doesn’t
+it? Everything works out. But to you Vinita, and then all the past presenters on the line
+and even to the participants, we really want to thank you for participating today. We
+really hope that you found this important to your work in your individual laboratories.
+We  first  started  this  project  at  the  beginning  of  2021,  and  we  weren’t  anticipating
+having  to  confront  a  global  pandemic.  But  we  appreciate  each  of  you  and  your
+continued participation every month. We considered pivoting to COVID. But based on
+the feedback, a lot of you really wanted the reprieve of still maintaining some type of
+normalcy in the continuing education that you receive. And so we pushed ahead and
+continued this pilot project every month since we’ve gone into COVID everything. Next
+year,  we  will  begin  analyzing  the  qualitative  and  the  quantitative  data  that  we’ve
+collected. And thank you for participating in the post-session surveys to determine our
+initiative’s future, whether we will continue or will we modify the model. If you’d like to
+listen to the previous sessions, as I mentioned, we’ve posted the audio and transcripts
+on  the  ECHO  website.  So  Extension  for  Community  Health  Care  Outcomes  Project
+website. And if you have any feedback for us, please feel free to reach out to us via
+email,  individually  or  to  dlsecho@cdc.gov.  So  now  we  will  adjourn.  Thank  you  again.
+Thank you, Vinita. And happy holidays everyone. Oop, I think I see a question. Oh my
+goodness. Oh, so somebody would like your email address for direct questions to you.
+PARKASH: Sure. It’s vinita.parkash@yale.edu. So my first name dot last name at Yale
+dot edu. And [INTERPOSING VOICES] I know that this is sort of a left-field topic. So I am
+interested  in  hearing,  sort  of  the  other  side,  you  know  how  people  on  the  other  side
+think  so  that  we  can  come  up  with  a  solution  for  our  patients.  So  please  feel  free  to
+send as many emails. HENDERSON: Perfect. And that was one of our main purposes for
+this, bringing you, the experts, to the community when they usually would not have had
+a  chance  to  meet  you  at  national  meetings  or  other  organization  meetings  that  they
+may  not  have  access  to.  So  we  really  appreciate  your  time  and  your  effort  and  then
+sharing  your  contact  information  and  facilitating  that  open  discussion.  So  thank  you,
+everyone.  And  hopefully,  we’ll  see  you  in  2021.  PARKASH:  Thank  you.  HENDERSON:
+Take care. Bye.
+Source URL: https://www.cdc.gov/labquality/echo/anatomic-surgical-pathology-transcript-audio.html

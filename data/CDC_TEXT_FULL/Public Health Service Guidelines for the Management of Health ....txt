@@ -1,0 +1,2191 @@
+Persons using assistive technology might not be able to fully access information in this
+file. For assistance, please send e-mail to: mmwrq@cdc.gov. Type 508 Accommodation
+and the title of the report in the subject line of e-mail. Please note: An update has been
+published for this report. To view the update, please click here. Summary  This report
+updates and consolidates all previous PHS
+recommendations for the management of health-care workers (HCWs)
+who have occupational exposure to blood and other body fluids that
+may contain human immunodeficiency virus (HIV); it includes
+recommendations for HIV postexposure prophylaxis (PEP) and
+discusses the scientific rationale for PEP. The decision to
+recommend HIV postexposure prophylaxis must take into account the
+nature of the exposure (e.g., needlestick or potentially
+infectious fluid that comes in contact with a mucous membrane) and
+the amount of blood or body fluid involved in the exposure. Other
+considerations include pregnancy in the HCW and exposure to virus
+known or suspected to be resistant to antiretroviral drugs.
+Assessments of the risk for infection resulting from the exposure
+and of the infectivity of the exposure source are key determinants
+of offering PEP. Systems should be in place for the timely
+evaluation and management of exposed HCWs and for consultation
+with experts in the treatment of HIV when using PEP.  Recommendations for PEP have
+been modified to include a basic
+4-week regimen of two drugs (zidovudine and lamivudine) for most
+HIV exposures and an expanded regimen that includes the addition
+of a protease inhibitor (indinavir or nelfinavir) for HIV
+exposures that pose an increased risk for transmission or where
+resistance to one or more of the antiretroviral agents recommended
+for PEP is known or suspected. An algorithm is provided to guide
+clinicians and exposed health-care workers in deciding when to
+consider PEP.  Occupational exposures should be considered urgent medical
+concerns to ensure timely administration of PEP. Health-care
+organizations should have protocols that promote prompt reporting
+and facilitate access to postexposure care. Enrollment of HCWs in
+registries designed to assess side effects in HCWs who take PEP is
+encouraged.   INTRODUCTION   Although  preventing  blood  exposures  is  the  primary
+means of
+preventing occupationally acquired human immunodeficiency virus
+(HIV) infection, appropriate postexposure management is an
+important element of workplace safety. In January 1990, CDC issued
+a statement on the management of HIV exposures that included
+considerations for zidovudine (ZDV) use for postexposure
+prophylaxis (PEP) (1). At that time, data were insufficient to
+assess the efficacy of ZDV as a prophylactic agent in humans or
+the toxicity of this drug in persons not infected with HIV.
+Although there are still only limited data to assess safety and
+efficacy, additional information is now available that is relevant
+to this issue.  In December 1995, CDC published a brief report of a
+retrospective case-control study of health-care workers (HCWs)
+from France, the United Kingdom, and the United States exposed
+percutaneously to HIV; the study identified risk factors for HIV
+transmission and documented that the use of ZDV was associated
+with a decrease in the risk for HIV seroconversion (2). This
+information, along with data on ZDV efficacy in preventing
+perinatal transmission (3) and evidence that PEP prevented or
+ameliorated retroviral infection in some studies in animals (4),
+prompted a Public Health Service (PHS) interagency working group *,
+with expert consultation (5), in June 1996 to issue provisional
+recommendations for PEP for HCWs after occupational HIV exposure
+(6).  Since the provisional recommendations were released, several
+new antiretroviral drugs have been approved by the Food and Drug
+Administration (FDA), and more information is available about the
+use and safety of antiretroviral agents in exposed HCWs (7-10). In
+addition, questions have been raised about the use of
+chemoprophylaxis in situations not fully addressed in the 1996
+recommendations, including when not to offer PEP, what to do when
+the source of exposure or the HIV status of the source person is
+unknown, how to approach PEP in HCWs who are or may be pregnant,
+and considerations for PEP regimens when the source person's virus
+is known or suspected to be resistant to one or more of the
+antiretroviral  agents  recommended  for  PEP.   In  May  1997,  a  meeting  of  expert
+consultants, convened by CDC
+to consider the new information, prompted a PHS interagency
+working group ** decision to issue updated recommendations. This
+document addresses the management of occupational exposure to HIV,
+including guidance in assessing and treating exposed HCWs, updates
+previous recommendations for occupational postexposure
+chemoprophylaxis, and updates and replaces all previous PHS
+guidelines and recommendations for occupational HIV exposure
+management for HCWs. Included in this document is an algorithm to
+guide decisions regarding the use of PEP for HIV exposures. The
+algorithm and these recommendations together address most issues
+that may be encountered during postexposure follow-up. As relevant
+information becomes available, updates of these recommendations
+will be published. Recommendations for nonoccupational (e.g.,
+sexual or pediatric) exposures are not addressed in these
+guidelines.   DEFINITIONS  OF  HEALTH-CARE  WORKERS  AND  EXPOSURE   In  this  report,
+"health-care worker" (HCW) is defined as any
+person (e.g., an employee, student, contractor, attending
+clinician, public-safety worker, or volunteer) whose activities
+involve contact with patients or with blood or other body fluids
+from patients in a health-care or laboratory setting. An
+"exposure" that may place an HCW at risk for HIV infection and
+therefore requires consideration of PEP is defined as a
+percutaneous injury (e.g., a needlestick or cut with a sharp
+object), contact of mucous membrane or nonintact skin (e.g., when
+the exposed skin is chapped, abraded, or afflicted with
+dermatitis), or contact with intact skin when the duration of
+contact is prolonged (i.e., several minutes or more) or involves
+an extensive area, with blood, tissue, or other body fluids. Body
+fluids include a) semen, vaginal secretions, or other body fluids
+contaminated with visible blood that have been implicated in the
+transmission of HIV infection (11,12); and b) cerebrospinal,
+synovial, pleural, peritoneal, pericardial, and amniotic fluids,
+which have an undetermined risk for transmitting HIV (11). In
+addition, any direct contact (i.e., without barrier protection) to
+concentrated HIV in a research laboratory or production facility
+is considered an "exposure" that requires clinical evaluation and
+consideration  of  the  need  for  PEP.   Although  one  nonoccupational  episode  of  HIV
+transmission has
+been attributed to contact with blood-contaminated saliva (13),
+this incident involved intimate kissing between sexual partners
+and is not similar to contact with saliva that may occur during
+the provision of health-care services. Therefore, in the absence
+of visible blood in the saliva, exposure to saliva from a person
+infected with HIV is not considered a risk for HIV transmission;
+also, exposure to tears, sweat, or nonbloody urine or feces does
+not  require  postexposure  follow-up.  ***   Human  breast  milk  has  been  implicated  in
+perinatal
+transmission of HIV. However, occupational exposure to human
+breast milk has not been implicated in HIV transmission to HCWs.
+Moreover, the contact HCWs may have with human breast milk is
+quite different from perinatal exposure and does not require
+postexposure  follow-up.   BACKGROUND   The  rationale  is  provided  here  for  the
+postexposure
+management and prophylaxis recommendations given at the end of the
+document. Additional details concerning the risk for occupational
+HIV transmission to HCWs and management of occupational HIV
+exposures are available elsewhere (16-18).  Risk for Occupational Transmission of HIV
+to HCWs  Prospective studies of HCWs have estimated that the average
+risk for HIV transmission after a percutaneous exposure to
+HIV-infected blood is approximately 0.3% (95% confidence interval
+{CI}=0.2%-0.5%) (16) and after a mucous membrane exposure is 0.09%
+(95% CI=0.006%-0.5%) (19). Although episodes of HIV transmission
+after skin exposure have been documented (20), the average risk
+for transmission by this route has not been precisely quantified
+because no HCWs enrolled in prospective studies have seroconverted
+after an isolated skin exposure. The risk for transmission is
+estimated to be less than the risk for mucous membrane exposures
+(21). The risk for transmission after exposure to fluids or
+tissues other than HIV-infected blood also has not been
+quantified.  As of June 1997, CDC has received reports of 52 U.S. HCWs
+with documented HIV seroconversion temporally associated with an
+occupational HIV exposure. An additional 114 episodes in HCWs are
+considered possible occupational HIV transmissions; these workers
+reported that their infection was occupationally acquired and no
+other risk for HIV infection was identified, but transmission of
+infection after a specific exposure was not documented (22). Of
+the 52 documented episodes, 47 HCWs were exposed to HIV-infected
+blood, one to a visibly bloody body fluid, one to an unspecified
+fluid, and three to concentrated virus in a laboratory. Forty-five
+exposures were percutaneous, and five were mucocutaneous; one HCW
+had both a percutaneous and a mucocutaneous exposure. The route of
+exposure for one person exposed to concentrated virus is
+uncertain. Of the percutaneous exposures, the objects involved
+included a hollow-bore needle (41), a broken glass vial (two), a
+scalpel (one), and an unknown sharp object (one) (CDC, unpublished
+data, 1998).  Epidemiologic and laboratory studies suggest that several
+factors may affect the risk for HIV transmission after an
+occupational exposure. The one retrospective case-control study of
+HCWs who had percutaneous exposure to HIV found that the risk for
+HIV transmission was increased with exposure to a larger quantity
+of blood from the source patient as indicated by a) a device
+visibly contaminated with the patient's blood, b) a procedure that
+involved a needle placed directly in a vein or artery, or c) a
+deep injury (23). (A laboratory study that demonstrated that more
+blood is transferred by deeper injuries and hollow-bore needles
+lends further support for the observed variation in risk related
+to blood quantity {24}). The risk also was increased for exposure
+to blood from source patients with terminal illness, possibly
+reflecting either the higher titer of HIV in blood late in the
+course of AIDS or other factors (e.g., the presence of
+syncytia-inducing strains of HIV). It was estimated that the risk
+for HIV transmission from exposures that involve a larger volume
+of blood, particularly when the source patient's viral load is
+probably  high,  exceeds  the  average  risk  of  0.3%  (23).   The  utility  of  viral  load
+measurements from a source patient
+as a surrogate for estimating the viral titer for assessing
+transmission risk is not known. Plasma viral load measurement
+(e.g., HIV RNA) reflects only the level of cell-free virus in the
+peripheral blood. This measurement does not reflect the level of
+cell-associated virus in the peripheral blood or the level of
+virus in other body compartments (e.g., lymphatic tissue).
+Although a lower viral load, or results that are below the limits
+of viral quantification, in the peripheral blood probably
+indicates a lower titer exposure, it does not rule out the
+possibility of transmission; HIV transmission from persons with a
+plasma viral load below the limits of viral quantification (based
+on the assay used at the time) has been reported in instances of
+mother-to-infant transmission (25,26) and in one HCW
+seroconversion (J.L. Gerberding, San Francisco General Hospital,
+unpublished  data,  May  1997).   There  is  some  evidence  that  host  defenses  also  may
+influence
+the risk for HIV infection. In one small study, HIV-exposed but
+uninfected HCWs demonstrated an HIV-specific cytotoxic
+T-lymphocyte (CTL) response when peripheral blood mononuclear
+cells were stimulated in vitro with HIV mitogens (27). Similar CTL
+responses have been observed in other populations with repeated
+HIV exposure without resulting infection (28-33). Among several
+possible explanations for this observation, one is that the host
+immune response sometimes may be able to prevent establishment of
+HIV infection after a percutaneous exposure; another is that the
+CTL response simply may be a marker for exposure.  HIV Seroconversion in HCWs  Data
+on the timing and clinical characteristics of
+seroconversion in HIV-exposed HCWs are limited by the infrequency
+of infection following occupational exposure, variations in
+postexposure testing intervals, and differences over time in the
+sensitivity of HIV-antibody testing methods. Among the HCWs with
+documented seroconversions reported to CDC for whom data are
+available, 81% experienced a syndrome compatible with primary HIV
+infection a median of 25 days after exposure (CDC, unpublished
+data, 1998). In a recent analysis of 51 seroconversions in HCWs,
+the estimated median interval from exposure to seroconversion was
+46 days (mean: 65 days); an estimated 95% seroconverted within 6
+months after the exposure (34). These data suggest that the time
+course of HIV seroconversion in HCWs is similar to that in other
+persons who have acquired HIV through nonoccupational modes of
+transmission (35).  Three instances of delayed HIV seroconversion occurring in
+HCWs have been reported; in these instances, the HCWs tested
+negative for HIV antibodies greater than 6 months postexposure but
+were seropositive within 12 months after the exposure (36,37; J.L.
+Gerberding, San Francisco General Hospital, unpublished data, May
+1997). DNA sequencing confirmed the source of infection in one
+instance. Two of the delayed seroconversions were associated with
+simultaneous exposure to hepatitis C virus (HCV) (37; J.L.
+Gerberding, San Francisco General Hospital, unpublished data, May
+1997). In one case, co-infection was associated with a rapidly
+fatal HCV disease course (37); however, it is not known whether
+HCV directly influences the risk for or course of HIV infection or
+is a marker for other exposure-related factors.  Rationale for PEP  Considerations that
+influence the rationale and
+recommendations for PEP include the pathogenesis of HIV infection,
+particularly the time course of early infection; the biologic
+plausibility that infection can be prevented or ameliorated by
+using antiretroviral drugs and direct or indirect evidence of the
+efficacy of specific agents used for prophylaxis; and the
+risk/benefit of PEP to exposed HCWs. The following discussion
+considers  each  of  these  issues.   Role  of  Pathogenesis  in  Considering  Antiretroviral
+Prophylaxis  Information about primary HIV infection indicates that
+systemic infection does not occur immediately, leaving a brief
+"window of opportunity" during which postexposure antiretroviral
+intervention may modify viral replication. Data from studies in
+animal models and in vitro tissue studies suggest that dendritic
+cells in the mucosa and skin are the initial targets of HIV
+infection or capture and have an important role in initiating HIV
+infection of CD4+ T-cells in regional lymph nodes (38). In a
+primate model of simian immunodeficiency virus (SIV) infection,
+infection of dendritic-like cells occurred at the site of
+inoculation during the first 24 hours following mucosal exposure
+to cell-free virus. During the subsequent 24-48 hours, migration
+of these cells to regional lymph nodes occurred, and virus was
+detectable in the peripheral blood within 5 days (39). HIV
+replication is rapid (generation time: 2.5 days) and results in
+bursts of up to 5,000 viral particles from each replicating cell
+(40; M.S. Saag, University of Alabama, personal communication,
+September 1997). The exponential increase in viral burden
+continues unless controlled by the immune system or other
+mechanisms (e.g., exhaustion of available target CD4+ T-cells).
+Theoretically, initiation of antiretroviral PEP soon after
+exposure may prevent or inhibit systemic infection by limiting the
+proliferation of virus in the initial target cells or lymph nodes.  Efficacy of Antiretrovirals
+for PEP  Studies in animals and humans provide direct and indirect
+evidence of the efficacy of antiretroviral drugs as agents for
+postexposure prophylaxis. In human studies and in most animal
+studies, ZDV was the antiretroviral agent used for prophylaxis
+(26,41-54). However, in more recent animal studies, newer agents
+also have been reported to be effective (55,56).  Data from animal studies have been
+difficult to interpret, in
+part because of problems identifying a comparable animal model for
+humans. Most studies use a higher inoculum for exposure than would
+be expected in needlestick injuries. Among the animal studies,
+differences in controlled variables (e.g., choice of viral strain
+{based on the animal model used}, inoculum size, route of
+inoculation, time of prophylaxis initiation, and drug regimen)
+make attempts to apply these results to humans difficult. In the
+animal studies that showed efficacy of pre-exposure and/or
+postexposure prophylaxis, reported outcomes (4,57) have included  
+    suppression of viremia or delayed antigenemia (41-47); b)
+    drug-facilitated vaccine-type response (i.e., chemoprophylaxis
+    sufficiently inhibited viral replication to permit formation of a
+    long-lasting, protective cellular immune response) (48-56); and c)
+    definitive prevention of infection (i.e., chemoprophylactic
+    efficacy) (41,52-54). More recent refinements in methodology have
+    enabled studies more relevant to humans; in particular, the viral
+    inocula used in animal studies have been reduced to levels more
+    analogous to human exposures (54,56). The results of these studies
+    provide additional evidence of postexposure chemoprophylactic
+    efficacy.  In studies of HIV-2 or SIV in nonhuman primates in which ZDV
+or 3'-fluorothymidine was used, suppression or delay of
+antigenemia was the most common outcome; prevention of infection
+was infrequent (43,52,58-60). However, two other antiretroviral
+agents, 2',3'-dideoxy-3'-hydroxymethyl cytidine (BEA-005) and
+(R)-9-(2-phosphonylmethoxypropyl)adenine (PMPA), used to study PEP
+in primates have been more effective in preventing infection. When
+PMPA was administered 48 hours before, 4 hours after, or 24 hours
+after intravenous SIV inoculation to long-tailed macaques, a
+4-week regimen prevented infection in all treated animals (55). A
+3-day regimen of BEA-005 prevented SIV infection in 12 of 12
+pigtailed macaques when administered 1-8 hours after intravenous
+inoculation; infection also was prevented in four of four animals
+that received 3 days of BEA-005 within 10 minutes after HIV-2
+inoculation (56).  Animal studies have demonstrated that early initiation of PEP
+and small inoculum size are correlates of successful PEP. ZDV
+initiated 1 hour or 24 hours after intravenous exposure to a
+rapidly lethal variant of SIV in pigtailed macaques prevented
+infection in one of three animals and modified SIV disease in
+three of six animals, respectively; PEP initiated at 72 hours had
+no effect (54). In macaques administered ZDV or BEA-005 1 to 72
+hours after SIV intravenous challenge, earlier initiation of PEP
+was correlated with delayed onset and peak of antigenemia,
+decreased duration of antigenemia, and reduction in SIV serum
+titer; the most potent effect was evident when PEP was initiated
+within 8 hours of exposure (43,56). Studies in primates and murine
+and feline animal models have demonstrated that larger inocula
+decrease prophylactic efficacy (47,48,53,60). In addition,
+delaying initiation, shortening the duration, or decreasing the
+antiretroviral dose of PEP, individually or in combination,
+decreased  prophylactic  efficacy  (42,43,45,47,50,55).   There  is  little  information  with
+which to assess the efficacy
+of PEP in humans. Seroconversion is infrequent after an
+occupational exposure to HIV-infected blood; therefore a
+prospective trial would need to enroll many thousands of exposed
+HCWs to achieve the statistical power necessary to directly
+demonstrate PEP efficacy. During 1987-1989, the Burroughs-Wellcome
+Company sponsored a prospective placebo-controlled clinical trial
+among HCWs to evaluate 6 weeks of ZDV prophylaxis; however, this
+trial was terminated prematurely because of low enrollment (61).
+Because of current indirect evidence of PEP efficacy, it is
+unlikely that a placebo-controlled trial in HCWs would ever be
+feasible.  In the retrospective case-control study of HCWs, after
+controlling for other risk factors for HIV transmission, the risk
+for HIV infection among HCWs who used ZDV as PEP was reduced by
+approximately 81% (95% CI=43%-94%) (23). In addition, in a
+randomized, controlled, prospective trial (AIDS Clinical Trial
+Group {ACTG} protocol 076) in which ZDV was administered to
+HIV-infected pregnant women and their infants, the administration
+of ZDV during pregnancy, labor, and delivery and to the infant
+reduced transmission by 67% (3). Only 9%-17% (depending on the
+assay used) of the protective effect of ZDV was explained by
+reduction of the HIV titer in the maternal blood, suggesting that
+ZDV prophylaxis in part involves a mechanism other than the
+reduction of maternal viral burden (26).  The limitations of all of these studies must be
+considered
+when reviewing evidence of PEP efficacy. The extent to which data
+from animal studies can be extrapolated to humans is largely
+unknown, and the exposure route for mother-to-infant HIV
+transmission is not similar to occupational exposures; therefore
+these findings may not reflect a similar mechanism of ZDV
+prophylaxis in HCWs. Although the results of the retrospective
+case-control study of HCWs suggest PEP efficacy, the limitations
+of that study include the small number of cases studied and the
+use  of  cases  and  controls  from  different  cohorts.   Failure  of  ZDV  PEP  to  prevent  HIV
+infection in HCWs has been
+reported in at least 14 instances (62-64; G. Ippolito, AIDS
+Reference Center, Rome, Italy, and J. Heptonstall, Communicable
+Disease Surveillance Center, London, United Kingdom, personal
+communication, 1997). Although eight of the 13 source patients had
+taken ZDV, laboratory assessment for ZDV resistance of the virus
+from the source patient was performed in only three instances, two
+of which demonstrated reduced susceptibility to ZDV. In addition
+to possible exposure to a ZDV-resistant strain of HIV, other
+factors that may have contributed to the apparent failures in
+these instances may include a high titer and/or large inoculum
+exposure, delayed initiation and/or short duration of PEP, and
+possible factors related to the host (e.g., cellular immune system
+responsiveness) and/or to the source patient's virus (e.g.,
+presence  of  syncytia-forming  strains)  (62).   Antiretroviral  Agents  for  PEP   Several
+antiretroviral agents from at least three classes of
+drugs are available for the treatment of HIV disease. These
+include the nucleoside analogue reverse transcriptase inhibitors
+(NRTIs), nonnuceloside reverse transcriptase inhibitors (NNRTIs),
+and protease inhibitors (PIs) (See Appendix). Among these drugs,
+ZDV (an NRTI) is the only agent shown to prevent HIV transmission
+in humans (2,3). Although there are theoretical concerns that the
+increased prevalence of resistance to ZDV may diminish its utility
+for PEP (65), no data are available to assess whether this is a
+factor for consideration. Clinical data from the ACTG protocol 076
+study documented that despite genotypic evidence of maternal ZDV
+resistance, ZDV prevented perinatal transmission (66). Thus, based
+on the available information, it is still reasonable that ZDV
+should continue to be the first drug of choice for PEP regimens.  There are no data to
+directly support the addition of other
+antiretroviral drugs to ZDV to enhance the effectiveness of the
+PEP regimen. However, in HIV-infected patients, combination
+regimens have proved superior to monotherapy regimens in reducing
+HIV viral load (67,68). Thus, theoretically a combination of drugs
+with activity at different stages in the viral replication cycle
+(e.g., NRTIs with a PI) could offer an additive preventive effect
+in PEP, particularly for occupational exposures that pose an
+increased risk for transmission.  Determining which agents and how many agents to use
+or when
+to alter a PEP regimen is largely empiric. Guidelines for the
+treatment of early HIV infection recommend the use of three drugs
+(two NRTIs and a PI) (69); however, the applicability of these
+recommendations to PEP remains unknown. In addition, the routine
+use of three drugs for all occupational HIV exposures may not be
+needed. Although the use of a highly potent regimen can be
+justified for exposures that pose an increased risk for
+transmission, it is uncertain whether the potential additional
+toxicity of a third drug is justified for lower-risk exposures.
+For this reason, the recommendations at the end of this report
+provide guidance for two- and three-drug PEP regimens that are
+based on the level of risk for HIV transmission represented by the
+exposure.  NRTIs that can be considered for use with ZDV for PEP are
+lamivudine (3TC), didanosine (ddI), and zalcitabine, each of which
+has been included in recommended regimens that include ZDV (69).
+In previous CDC recommendations, 3TC was recommended as a second
+agent for PEP based on greater antiretroviral activity of the
+ZDV/3TC combination and its activity against many ZDV-resistant
+HIV strains without substantially increased toxicity (6). Also,
+data suggest that ZDV-resistant mutations develop more slowly in
+patients receiving the ZDV/3TC combination than those receiving
+ZDV alone (70), and in vitro studies indicate that the mutation
+associated with 3TC resistance may be associated with reversal of
+ZDV phenotypic resistance (71). No additional information has
+emerged to warrant altering the original recommendation of 3TC as
+the second agent for PEP. In addition, because ZDV and 3TC are
+available in a combination formulation (CombivirTM, manufactured
+by Glaxo Wellcome, Inc., Research Triangle Park, NC), the use of
+3TC may be more convenient for HCWs. However, individual
+clinicians may prefer other NRTIs or combinations of other
+antiretroviral agents based on local knowledge and experience in
+treating HIV infection and disease.  The addition of a PI as a third drug for PEP following
+high-risk exposures is based on the site of activity in the
+replication cycle (i.e., after viral integration has occurred) and
+demonstrated effectiveness in reducing viral burden. Previously,
+indinavir (IDV) was recommended as the PI for PEP because of its
+increased bioavailability when compared with saquinavir and its
+more favorable immediate toxicity profile compared with ritonavir
+(72). In addition, requirements for dose escalation when
+initiating ritonavir make it less practical for use in PEP. Since
+the 1996 PEP recommendations were published, nelfinavir (NEL) was
+approved for use by FDA and is now included in regimens
+recommended for the treatment of primary HIV infection (69). Also,
+FDA recently approved a soft-gel formulation of saquinavir
+(FortovaseTM, manufactured by Hoffmann-LaRoche, Inc., Nutley, New
+Jersey) that has improved bioavailability relative to its hard-gel
+formulation (InviraseTM, manufactured by Hoffmann-LaRoche, Inc.).
+However, the recommended dose of soft-gel saquinavir (1200 mg
+three times a day) is twice that of the hard-gel formulation (600
+mg three times a day) and necessitates taking 18 pills a day, a
+factor that may influence HCW compliance if used for PEP. Based on
+these considerations, either IDV or NEL is recommended as first
+choice for inclusion in an expanded PEP regimen. If saquinavir is
+preferred by the prescribing physician, the soft-gel formulation
+(FortovaseTM) should be used. Also, differences in the side
+effects associated with IDV and NEL, discussed below, may
+influence which of these agents is selected in a specific
+situation.  The NNRTIs (i.e., nevirapine and delavirdine) have not been
+included in these recommended regimens for PEP. As a class of
+antiretroviral agents, the NNRTIs are fast-acting and very potent,
+making them appealing in concept for PEP. In addition, there is
+some evidence of prophylactic efficacy (73). However, concerns
+about side effects and the availability of alternative agents
+argue against routinely using this class of drugs for initial PEP,
+although  with  expert  consultation,  an  NNRTI  might  be  considered.   Side  Effects  and
+Toxicity of Antiretroviral Agents  An important goal of PEP is to encourage and facilitate
+compliance with a 4-week PEP regimen. Therefore, the toxicity
+profile of antiretroviral agents, including the frequency,
+severity, duration, and reversibility of side effects, is a
+relevant consideration. All of the antiretroviral agents have been
+associated with side effects (See Appendix). However, studies of
+adverse events have been reported primarily for persons with
+advanced disease (and longer treatment courses) and therefore may
+not reflect the experience of persons with less advanced disease
+or those who are uninfected (74). Side effects associated with
+many of the NRTIs (e.g., ZDV or ddI) are chiefly gastrointestinal
+(e.g., nausea or diarrhea), and in general the incidence of
+adverse effects has not been greater when these agents are used in
+combination (72).  All of the approved PIs may have potentially serious drug
+interactions when used with certain other drugs, requiring careful
+evaluation of concomitant medications being used by an HCW before
+prescribing a PI and close monitoring for toxicity when an HCW is
+receiving one of these drugs (See Appendix). PIs may inhibit the
+metabolism of nonsedating antihistamines and other hepatically
+metabolized drugs; NEL and ritonavir may accelerate the clearance
+of certain drugs, including oral contraceptives (requiring
+alternative or additional contraceptive measures for women taking
+these drugs). The use of PIs also has been associated with new
+onset of diabetes mellitus, hyperglycemia, diabetic ketoacidosis,
+and exacerbation of pre-existing diabetes mellitus (75-77).
+Nephrolithiasis has been associated with IDV use (including in
+HCWs using the drug for PEP) (8); however, the incidence of this
+potential complication may be limited by drinking at least 48 oz
+(1.5 L) of fluid per 24-hour period (e.g., six 8 oz glasses of
+water throughout the day) (72). Rare cases of hemolytic anemia
+also have been associated with the use of IDV. NEL, saquinavir,
+and ritonavir have been associated with the development of
+diarrhea; however, this side effect usually responds to treatment
+with antimotility agents that can be prescribed for use, if
+necessary, at the time any one of these drugs is prescribed for
+PEP. The manufacturer's package insert should always be consulted
+for  questions  about  potential  drug  interactions.   Among  HCWs  receiving  ZDV  PEP,
+usually at doses of 1,000-1,200
+mg per day (i.e., higher than the currently recommended dose),
+50%-75% reported one or more subjective complaints and
+approximately 30% discontinued the drug because of symptoms
+(7,78,79). Common symptoms included nausea, vomiting, malaise or
+fatigue, headache, or insomnia. Mild decreases in hemoglobin and
+absolute neutrophil count also were observed. All side effects
+were  reversed  when  PEP  was  discontinued.   Preliminary  information  about  HCWs
+receiving combination
+drugs for PEP (usually ZDV plus 3TC with or without a PI) suggests
+that approximately 50%-90% of HCWs report subjective side effects
+that caused 24%-36% to discontinue PEP (8-10). One study
+documented that combination regimens that included ZDV at a lower
+dose (600 mg per day) were better tolerated than high-dose ZDV
+used alone (1,000-1,200 mg per day) (10). However, serious side
+effects, including nephrolithiasis, hepatitis, and pancytopenia,
+have been reported with the use of combination drugs for PEP
+(9,80; J.L. Gerberding, San Francisco General Hospital, personal
+communication, May 1997).  Resistance to Antiretroviral Agents  Known or suspected
+resistance of the source virus to
+antiretroviral agents, particularly to one or more agents that
+might be included in a PEP regimen, is a concern for those making
+decisions about PEP. Resistance of HIV has been reported with all
+available antiretroviral agents (65). However, the relevance of
+exposure to a resistant virus is not understood. Although
+transmission of resistant strains has been reported (81-85), in
+the perinatal clinical trial that studied vertical HIV
+transmission (ACTG protocol 076), ZDV prevented perinatal
+transmission despite genotypic resistance of HIV to ZDV in the
+mother (66). In addition, patients generally take more than one
+antiretro-viral drug and, unless testing is performed, often it is
+difficult to know to which drug(s) resistance exists. The
+complexity of this issue is further compounded by the frequency of
+cross-resistance within drug classes.  Resistance should be suspected in source patients
+when there
+is clinical progression of disease or a persistently increasing
+viral load and/or a decline in CD4 T-cell count despite therapy,
+or a lack of virologic response to a change in therapy.
+Nevertheless, in this situation it is unknown whether a
+modification in the PEP regimen is necessary or will influence the
+outcome  of  an  occupational  exposure.   Antiretroviral  Drugs  in  Pregnancy  
+Considerations for the use of antiretroviral drugs in
+pregnancy include their potential effect on the pregnant woman and
+on her fetus or neonate. The pharmacokinetics of antiretroviral
+drugs has not been completely studied in pregnant women. Some of
+the antiretroviral drugs are known to cross the placenta, but data
+for humans are not yet available for others (particularly the
+PIs). In addition, data are limited on the potential effects of
+antiretroviral drugs on the developing fetus or neonate (86).
+Decisions on the use of specific drugs in pregnancy also are
+influenced by whether a drug has specific adverse effects or might
+further exacerbate conditions associated with pregnancy, (e.g.,
+drugs that cause nausea may be less tolerated when superimposed on
+the nausea normally associated with pregnancy).  There are data on both ZDV and 3TC
+from clinical trials in
+HIV-infected pregnant women. The most extensive experience has
+been with the use of ZDV after 14 weeks of gestation in pregnant
+HIV-infected women in phase I studies and the perinatal ACTG
+protocol 076 (4,87). The dose of ZDV for pregnant women is the
+same as that in nonpregnant persons, and ZDV appears safe and well
+tolerated in both women and their infants who have had a follow-up
+period of several years (88-90). Data from the Antiretroviral
+Pregnancy Registry have not documented an increased risk for birth
+defects in infants with in utero exposure to ZDV (91). There are
+limited data on use of 3TC alone or in combination with ZDV in
+late gestation in pregnant HIV-infected women. As with ZDV, the
+pharmacokinetics and dose of 3TC appear to be similar to those for
+nonpregnant persons. The drug appears safe during pregnancy for
+women  and  infants,  although  long-term  safety  is  not  known  (92,93).   Carcinogenicity
+and/or mutagenicity is evident in several in
+vitro screening tests for ZDV and all other FDA-licensed
+nucleoside antiretroviral drugs. In some in vivo rodent studies,
+high-dose lifetime continuous ZDV exposure (94) or very high dose
+in utero ZDV exposure has been associated with the development of
+tumors in adult females or their offspring (95,96). The relevance
+of these animal data to humans is unknown. However, in 1997 an
+independent panel reviewed these data and concluded that the known
+benefits of ZDV in preventing perinatal transmission, where the
+risk for transmission without ZDV is 25%-30%, outweigh the
+hypothetical concerns about transplacental carcinogenesis (97).  No data are available
+regarding pharmacokinetics, safety, or
+tolerability of any of the PIs in pregnant women. The use of PIs
+in HIV-infected persons has been associated with hyperglycemia; it
+is unknown whether the use of these agents during pregnancy will
+exacerbate the risk for pregnancy-associated hyperglycemia.
+Therefore, close monitoring of glucose levels and careful
+instruction regarding symptoms related to hyperglycemia are
+recommended for pregnant HCWs receiving a PI for PEP. IDV is
+associated with infrequent side effects in adults (i.e.,
+hyperbilirubinemia and renal stones) that could be problematic for
+the newborn. As the half-life of IDV in adults is short, these
+concerns may be relevant only if the drug is administered shortly
+before  delivery.   RECOMMENDATIONS  FOR  THE  MANAGEMENT  OF  POTENTIALLY
+EXPOSED HCWs  Health-care organizations should make available to their
+workers a system that includes written protocols for prompt
+reporting, evaluation, counseling, treatment, and follow-up of
+occupational exposures that may place HCWs at risk for acquiring
+any bloodborne infection, including HIV. Employers also are
+required to establish exposure-control plans, including
+postexposure follow-up for their employees, and to comply with
+incident reporting requirements mandated by the Occupational
+Safety and Health Administration (15). Access to clinicians who
+can provide postexposure care should be available during all
+working hours, including nights and weekends. Antiretroviral
+agents for PEP should be available for timely administration
+(i.e., either by providing access to PEP drugs on site or creating
+links with other facilities or providers to make them available
+offsite). Persons responsible for providing postexposure
+counseling should be familiar with evaluation and treatment
+protocols and the facility's procedures for obtaining drugs for
+PEP.  HCWs should be educated to report occupational exposures
+immediately after they occur, particularly because PEP is most
+likely to be effective if implemented as soon after the exposure
+as possible (41,55,56). HCWs who are at risk for occupational
+exposure to HIV should be taught the principles of postexposure
+management, including options for PEP, as part of job orientation
+and  ongoing  job  training.   Exposure  Report   If  an  occupational  exposure  occurs,  the
+circumstances and
+postexposure management should be recorded in the HCW's
+confidential medical record (usually on a form the facility
+designates for this purpose). Relevant information includes  
+    date and time of exposure;  
+    details of the procedure being performed, including where and
+    how the exposure occurred, and if the exposure was related to
+ a
+    sharp device, the type of device and how and when in the
+ course of
+    handling the device the exposure occurred;  
+    details of the exposure, including the type and amount of
+ fluid
+    or material and the severity of the exposure (e.g., for a
+    percutaneous exposure, depth of injury and whether fluid was
+    injected; or for a skin or mucous-membrane exposure, the
+ estimated
+    volume of material and duration of contact and the condition
+ of
+    the skin {e.g., chapped, abraded, or intact});  details about the exposure source (i.e.,
+whether the source
+material contained HIV or other bloodborne pathogen{s}), and
+ if
+the source is an HIV-infected person, the stage of disease,
+history of antiretroviral therapy, and viral load, if known;
+ and  
+    details about counseling, postexposure management, and
+    follow-up.  Exposure Management  Treatment of an Exposure Site  Wounds and skin
+sites that have been in contact with blood or
+body fluids should be washed with soap and water; mucous membranes
+should be flushed with water. There is no evidence that the use of
+antiseptics for wound care or expressing fluid by squeezing the
+wound further reduces the risk for HIV transmission. However, the
+use of antiseptics is not contraindicated. The application of
+caustic agents (e.g., bleach) or the injection of antiseptics or
+disinfectants into the wound is not recommended.  Assessment of Infection Risk  After
+an occupational exposure, the source-person and the
+exposed HCW should be evaluated to determine the need for HIV PEP.
+Follow-up for hepatitis B virus and hepatitis C virus infections
+also should be conducted in accordance with previously published
+CDC  recommendations  (98,99).   Evaluation  of  exposure.  The  exposure  should  be
+evaluated for
+potential to transmit HIV based on the type of body substance
+involved and the route and severity of the exposure. Exposures to
+blood, fluid containing visible blood, or other potentially
+infectious fluid (including semen; vaginal secretions; and
+cerebrospinal, synovial, pleural, peritoneal, pericardial, and
+amniotic fluids) or tissue through a percutaneous injury (i.e.,
+needlestick or other penetrating sharps-related event) or through
+contact with a mucous membrane are situations that pose a risk for
+bloodborne transmission and require further evaluation
+ (Figure_1
+and Figure_1C). In addition, any direct contact (i.e., personal
+protective equipment either was not used or was ineffective in
+protecting skin or mucous membranes) with concentrated HIV in a
+research laboratory or production facility is considered an
+ exposure
+that  requires  clinical  evaluation  to  assess  the  need  for  PEP.   For  skin  exposures,
+follow-up is indicated if it involves
+direct contact with a body fluid listed above and there is
+evidence of compromised skin integrity (e.g., dermatitis,
+abrasion, or open wound). However, if the contact is prolonged or
+involves a large area of intact skin, postexposure follow-up may
+be considered on a case-by-case basis or if requested by the HCW.  For human bites,
+the clinical evaluation must consider
+possible exposure of both the bite recipient and the person who
+inflicted the bite. HIV transmission only rarely has been reported
+by this route (100,101; CDC, unpublished data, 1998). If a bite
+results in blood exposure to either person involved, postexposure
+follow-up, including consideration of PEP, should be provided.  Evaluation and testing of
+an exposure source. The person whose
+blood or body fluids are the source of an occupational exposure
+should be evaluated for HIV infection. Information available in
+the medical record at the time of exposure (e.g., laboratory test
+results, admitting diagnosis, or past medical history) or from the
+source person may suggest or rule out possible HIV infection.
+Examples of information to consider when evaluating an exposure
+source for possible HIV infection include laboratory information
+(e.g., prior HIV testing results or results of immunologic testing
+{e.g., CD4+ count}), clinical symptoms (e.g., acute syndrome
+suggestive of primary HIV infection or undiagnosed
+immunodeficiency disease), and history of possible HIV exposures
+(e.g., injecting-drug use, sexual contact with a known
+HIV-positive partner, unprotected sexual contact with multiple
+partners {heterosexual and/or homosexual}, or receipt of blood or
+blood products before 1985).  If the source is known to have HIV infection, available
+information about this person's stage of infection (i.e.,
+asymptomatic or AIDS), CD4+ T-cell count, results of viral load
+testing, and current and previous antiretroviral therapy, should
+be gathered for consideration in choosing an appropriate PEP
+regimen. If this information is not immediately available,
+initiation of PEP, if indicated, should not be delayed; changes in
+the PEP regimen can be made after PEP has been started, as
+appropriate.  If the HIV serostatus of the source person is unknown, the
+source person should be informed of the incident and, if consent
+is obtained, tested for serologic evidence of HIV infection. If
+consent cannot be obtained (e.g., patient is unconscious),
+procedures should be followed for testing source persons according
+to applicable state and local laws. Confidentiality of the source
+person should be maintained at all times.  HIV-antibody testing of an exposure source
+should be
+performed as soon as possible. Hospitals, clinics, and other sites
+that manage exposed HCWs should consult their laboratories
+regarding the most appropriate test to use to expedite these
+results. An FDA-approved rapid HIV-antibody test kit should be
+considered for use in this situation, particularly if testing by
+enzyme immunoassay (EIA) cannot be completed within 24-48 hours.
+Repeatedly reactive results by EIA or rapid HIV-antibody tests are
+considered highly suggestive of infection, whereas a negative
+result is an excellent indicator of the absence of HIV antibody.
+Confirmation of a reactive result by Western blot or
+immunofluorescent antibody is not necessary for making initial
+decisions about postexposure management but should be done to
+complete the testing process.  If the source is HIV seronegative and has no clinical
+evidence of acquired immunodeficiency syndrome (AIDS) or symptoms
+of HIV infection, no further testing of the source is indicated.
+It is unclear whether follow-up testing of a source who is HIV
+negative at the time of exposure, but recently (i.e., within the
+last 3-6 months) engaged in behaviors that pose a risk for HIV
+transmission, is useful in postexposure management of HCWs; HCWs
+who become infected generally seroconvert before repeat testing of
+a source would normally be performed.  If the exposure source is unknown, information
+about where
+and under what circumstances the exposure occurred should be
+assessed epidemiologically for risk for transmission of HIV.
+Certain situations, as well as the type of exposure, may suggest
+an increased or decreased risk; an important consideration is the
+prevalence of HIV in the population group (i.e., institution or
+community) from which the contaminated source material is derived.
+For example, an exposure that occurs in a geographic area where
+injecting-drug use is prevalent or on an AIDS unit in a
+health-care facility would be considered epidemiologically to have
+a higher risk for transmission than one that occurs in a nursing
+home for the elderly where no known HIV-infected residents are
+present. In addition, exposure to a blood-filled hollow needle or
+visibly bloody device suggests a higher-risk exposure than
+exposure to a needle that was most likely used for giving an
+injection. Decisions regarding appropriate management should be
+individualized  based  on  the  risk  assessment.   HIV  testing  of  needles  or  other  sharp
+instruments associated
+with an exposure, regardless of whether the source is known or
+unknown, is not recommended. The reliability and interpretation of
+findings in such circumstances are unknown.  Clinical Evaluation and Baseline Testing
+of Exposed HCWs  Exposed HCWs should be evaluated for susceptibility to
+bloodborne pathogen infections. Baseline testing (i.e., testing to
+establish serostatus at the time of exposure) for HIV antibody
+should be performed. If the source person is seronegative for HIV,
+baseline testing or further follow-up of the HCW normally is not
+necessary. If the source person has recently engaged in behaviors
+that are associated with a risk for HIV transmission, baseline and
+follow-up HIV-antibody testing (e.g., 3 and/or 6 months
+postexposure) of the HCW should be considered. Serologic testing
+should be made available to all HCWs who are concerned that they
+may have been exposed to HIV.  For purposes of considering HIV PEP, the evaluation
+also
+should include information about medications the HCW may be taking
+and any current or underlying medical conditions or circumstances
+(i.e., pregnancy, breast feeding, or renal or hepatic disease)
+that may influence drug selection. Pregnancy testing should be
+offered to all nonpregnant women of childbearing age whose
+pregnancy  status  is  unknown.   HIV  PEP   The  following  recommendations  apply  to
+situations where an
+HCW has had an exposure to a source person with HIV or where
+information suggests that there is a likelihood that the source
+person is HIV-infected. These recommendations are based on the
+risk for HIV infection after different types of exposure and
+limited data regarding efficacy and toxicity of PEP. Because most
+occupational HIV exposures do not result in the transmission of
+HIV, potential toxicity must be carefully considered when
+prescribing PEP. When possible, these recommendations should be
+implemented in consultation with persons having expertise in
+antiretroviral
+ therapy
+ and
+ HIV
+ transmission.
+ 
+ Explaining
+ PEP
+ to
+ HCWs
+ 
+Recommendations for chemoprophylaxis should be explained to
+HCWs who have sustained occupational HIV exposures (Figure_1
+and Figure_1C). For exposures for which PEP is considered
+appropriate, HCWs should be informed that a) knowledge about the
+efficacy and toxicity of drugs used for PEP are limited; b) only
+ ZDV
+has been shown to prevent HIV transmission in humans; c) there are
+ no
+data to address whether adding other antiretroviral drugs provides
+ any
+additional benefit for PEP, but experts recommend combination drug
+regimens because of increased potency and concerns about
+drug-resistant virus; d) data regarding toxicity of antiretroviral
+drugs in persons without HIV infection or in pregnant women are
+limited for ZDV and not known regarding other antiretroviral
+drugs; and e) any or all drugs for PEP may be declined by the HCW.
+HCWs who have HIV occupational exposures for which PEP is not
+recommended should be informed that the potential side effects and
+toxicity of taking PEP outweigh the negligible risk of
+transmission posed by the type of exposure.  Factors in Selection of a PEP Regimen 
+Selection of the PEP regimen should consider the comparative
+risk represented by the exposure and information about the
+exposure source, including history of and response to
+antiretroviral therapy based on clinical response, CD4+
+T-lymphocyte counts, viral load measurements, and current disease
+stage. Most HIV exposures will warrant only a two-drug regimen,
+using two NRTIs, usually ZDV and 3TC. The addition of a third
+drug, usually a PI (i.e., IDV or NEL), should be considered for
+exposures that pose an increased risk for transmission or where
+resistance  to  the  other  drugs  used  for  PEP  is  known  or  suspected.   Timing  of  PEP
+Initiation  PEP should be initiated as soon as possible. The interval
+within which PEP should be started for optimal efficacy is not
+known. Animal studies have demonstrated the importance of starting
+PEP within hours after an exposure (43,54,56). To assure timely
+access to PEP, an occupational exposure should be regarded as an
+urgent medical concern and PEP started as soon as possible after
+the exposure (i.e., within a few hours rather than days). If there
+is a question about which antiretroviral drugs to use, or whether
+to use two or three drugs, it is probably better to start ZDV and
+3TC immediately than to delay PEP administration. Although animal
+studies suggest that PEP probably is not effective when started
+later than 24-36 hours postexposure (42,55,56), the interval after
+which there is no benefit from PEP for humans is undefined.
+Therefore, if appropriate for the exposure, PEP should be started
+even when the interval since exposure exceeds 36 hours. Initiating
+therapy after a longer interval (e.g., 1-2 weeks) may be
+considered for exposures that represent an increased risk for
+transmission; even if infection is not prevented, early treatment
+of acute HIV infection may be beneficial (69). The optimal
+duration of PEP is unknown. Because 4 weeks of ZDV appeared
+protective in HCWs (2), PEP probably should be administered for 4
+weeks,  if  tolerated.   PEP  if  Serostatus  of  Source  Person  is  Unknown   If  the  source
+person's HIV serostatus is unknown at the time
+of exposure (including when the source is HIV negative but may
+have had a recent HIV exposure), use of PEP should be decided on
+a case-by-case basis, after considering the type of exposure and
+the clinical and/or epidemiologic likelihood of HIV infection in
+the source (Figure_1 and Figure_1C). If these
+ considerations
+suggest a possibility for HIV transmission and HIV testing of the
+source is pending, it is reasonable to initiate a two-drug PEP
+ regimen
+until laboratory results have been obtained and later modify or
+discontinue  the  regimen  accordingly.   PEP  if  Exposure  Source  is  Unknown   If  the
+exposure source is unknown, use of PEP should be
+decided on a case-by-case basis. Consideration should include the
+severity of the exposure and the epidemiologic likelihood that the
+HCW  was  exposed  to  HIV.   PEP  for  Pregnant  HCWs   If  the  HCW  is  pregnant,  the
+evaluation of risk and need for
+PEP should be approached as with any other HCW who has had an HIV
+exposure. However, the decision to use any antiretroviral drug
+during pregnancy should involve discussion between the woman and
+her health-care provider regarding the potential benefits and
+potential risks to her and her fetus.  Follow-up of HCWs Exposed to HIV  Postexposure
+Testing  HCWs with occupational exposure to HIV should receive
+follow-up counseling, postexposure testing, and medical evaluation
+regardless of whether they receive PEP. HIV-antibody testing
+should be performed for at least 6 months postexposure (e.g., at
+6 weeks, 12 weeks, and 6 months). It is unclear whether an
+extended follow-up period (e.g., 12 months) is indicated in
+certain circumstances. Although rare instances of delayed HIV
+seroconversion have been reported (36,37, J.L. Gerberding, San
+Francisco General Hospital, unpublished data, May 1997), the
+infrequency of this occurrence does not warrant adding to HCWs'
+anxiety by routinely extending the duration of postexposure
+follow-up. Circumstances for which extending the duration of
+follow-up have been suggested include the use of highly potent
+antiretroviral regimens (i.e., more than two drugs) because of
+theoretical concerns that HIV seroconversion could be delayed, or
+simultaneous exposure to HCV. Data are insufficient for making a
+general recommendation in these situations. However, this should
+not preclude a decision to extend follow-up in an individual
+situation based on the clinical judgement of the HCW's health-care
+provider. HIV testing should be performed on any HCW who has an
+illness that is compatible with an acute retroviral syndrome,
+regardless of the interval since exposure. HIV-antibody testing
+using EIA should be used to monitor for sero-conversion. The
+routine use of direct virus assays (e.g., HIV p24 antigen EIA or
+polymerase chain reaction for HIV RNA) to detect infection in
+exposed HCWs generally is not recommended (34). Although direct
+virus assays may detect HIV infection a few days earlier than EIA,
+the infrequency of HCW seroconversion and increased costs of these
+tests do not warrant their routine use in this setting. Also, HIV
+RNA is approved for use in established HIV infection; its
+reliability in detecting very early infection has not been
+determined.  Monitoring and Management of PEP Toxicity  If PEP is used, drug-toxicity
+monitoring should be performed
+at baseline and again 2 weeks after starting PEP. Clinical
+judgement, based on medical conditions that may exist in the HCW
+and any toxicity associated with drugs included in the PEP
+regimen, should determine the scope of testing. Minimally these
+should include a complete blood count and renal and hepatic
+chemical function tests. Monitoring for evidence of hyperglycemia
+should be included for HCWs whose regimen includes any PI; if the
+HCW is receiving IDV, monitoring for crystalluria, hematuria,
+hemolytic anemia, and hepatitis also should be included. If
+toxicity is noted, modification of the regimen should be
+considered after expert consultation; further diagnostic studies
+may be indicated.  HCWs who fail to complete the recommended regimen often do so
+because of the side effects they experience (e.g., nausea and
+diarrhea). These symptoms often can be managed without changing
+the regimen by prescribing antimotility and antiemetic agents or
+other medications that target the specific symptoms. In other
+situations, modifying the dose interval (i.e., administering a
+lower dose of drug more frequently throughout the day, as
+recommended by the manufacturer), may help promote adherence to
+the  regimen.   Counseling  and  Education   Although  HIV  infection  following  an
+occupational exposure
+occurs infrequently, the emotional impact of the exposure often is
+substantial (102,103). In addition, HCWs are given seemingly
+conflicting information. Although HCWs are told that there is a
+low risk for HIV transmission, a 4-week regimen of PEP is
+recommended and they are asked to commit to behavioral measures
+(i.e., sexual abstinence or condom use) to prevent secondary
+transmission, all of which influence their lives for several weeks
+to months (102). Therefore, access to persons who are
+knowledgeable about occupational HIV transmission and who can deal
+with the many concerns an HIV exposure may raise for the HCW is an
+important  element  of  postexposure  management.   HIV-exposed  HCWs  should  be
+advised to use the following
+measures to prevent secondary transmission during the follow-up
+period, especially during the first 6-12 weeks after the exposure
+when most HIV-infected persons are expected to seroconvert: use
+sexual abstinence or condoms to prevent sexual transmission and to
+avoid pregnancy; and refrain from donating blood, plasma, organs,
+tissue, or semen. If the exposed HCW is breastfeeding, she should
+be counseled about the risk for HIV transmission through breast
+milk, and discontinuation of breastfeeding should be considered,
+especially following high-risk exposures. If the HCW chooses to
+receive PEP, temporary discontinuation of breastfeeding while she
+is taking PEP should be considered to avoid exposing the infant to
+these agents. NRTIs are known to pass into breast milk; it is not
+known  whether  this  also  is  true  for  PIs.   There  is  no  need  to  modify  an  HCW's
+patient-care
+responsibilities to prevent transmission to patients based solely
+on an HIV exposure. If HIV seroconversion is detected, the HCW
+should be evaluated according to published recommendations for
+HIV-infected HCWs (104).  Exposed HCWs should be advised to seek medical evaluation
+for
+any acute illness that occurs during the follow-up period. Such an
+illness, particularly if characterized by fever, rash, myalgia,
+fatigue, malaise, or lymphadenopathy, may be indicative of acute
+HIV infection but also may be due to a drug reaction or another
+medical condition.  Exposed HCWs who choose to take PEP should be advised of the
+importance of completing the prescribed regimen. Information
+should be provided about potential drug interactions and the drugs
+that should not be taken with PEP, the side effects of the drugs
+that have been prescribed (See Appendix), measures to minimize
+these effects, and the methods of clinical monitoring for toxicity
+during the follow-up period. They should be advised that the
+evaluation of certain symptoms should not be delayed (e.g., back
+or abdominal pain, pain on urination or blood in the urine, or
+symptoms of hyperglycemia {i.e., increased thirst and/or frequent
+urination}).   RECOMMENDATIONS  FOR  THE  SELECTION  OF  DRUGS  FOR  PEP   The
+selection of a drug regimen for HIV PEP must strive to
+balance the risk for infection against the potential toxicity of
+the agent(s) used. Because PEP is potentially toxic, its use is
+not justified for exposures that pose a negligible risk for
+transmission (Figure_1 and Figure_1C). Also, there is
+ insufficient
+evidence to recommend a highly active regimen for all HIV
+ exposures.
+Therefore, two regimens for PEP are provided (Table_1): a
+ "basic"
+two-drug regimen that should be appropriate for most HIV exposures
+and an "expanded" three-drug regimen that should be used for
+exposures that pose an increased risk for transmission
+ (Figure_1
+and Figure_1C) or where resistance to one or more
+ antiretroviral
+agents is known or suspected. When possible, the regimens should be
+implemented in consultation with persons having expertise in
+ antiretroviral
+treatment  and  HIV  transmission.   Situations  That  Require  Special  Consideration  
+Resistance  of  the  Source  Virus  to  Antiretroviral  Drugs   It  is  unknown  whether  drug
+resistance influences transmission
+risk; however, transmission of drug-resistant HIV has been
+reported (81,82) and is therefore a theoretical concern when
+choosing PEP regimens. If the source-person's virus is known or
+suspected to be resistant to one or more of the drugs included in
+the PEP regimen, the selection of drugs to which the source
+person's virus is unlikely to be resistant is recommended (69). If
+the resistance is to one class of antiretroviral drugs, the
+addition to the basic PEP regimen of a drug from another class
+might be considered (e.g., addition of a PI when a source patient
+has not been treated with a PI but has virus resistant to one or
+more NRTIs). It is strongly recommended that PEP be started
+regardless of the resistance status in the source virus; if
+resistance is known or suspected, a third or fourth drug may be
+added to the regimen until consultation with a clinical expert in
+the  treatment  of  HIV  infection  or  disease  can  be  obtained.   Known  or  Suspected
+Pregnancy in the HCW  Pregnancy should not preclude the use of optimal PEP
+regimens, and PEP should not be denied to an HCW solely on the
+basis of pregnancy. However, as discussed previously, an
+occupationally exposed pregnant HCW must be provided with full
+information about what is known and not known regarding the
+potential benefits and risks associated with use of the
+antiretroviral drugs to her and her fetus for her to make an
+informed decision regarding the use of PEP. The choice of
+antiretroviral drugs to use for PEP in pregnant HCWs is
+complicated by the potential need to alter dosing because of
+physiologic changes associated with pregnancy and the potential
+for short- or long-term effects on the fetus and newborn. Thus,
+considerations that should be discussed with a pregnant HCW
+include the potential risk for HIV transmission based on the type
+of exposure; the stage of pregnancy (the first trimester being the
+period of maximal organogenesis and risk for teratogenesis); and
+what is known about the pharmacokinetics, safety, and tolerability
+of  the  drug  or  combination  of  drugs  in  pregnancy.   POSTEXPOSURE  REGISTRIES  
+Health-care providers in the United States are encouraged to
+enroll HCWs who receive PEP in a confidential registry developed
+by CDC, Glaxo Wellcome Inc., and Merck & Co., Inc., to assess
+toxicity; telephone (888) 737-4448 ({888} PEP-4HIV), or write the
+HIV PEP Registry, 1410 Commonwealth Drive, Suite 215, Wilmington,
+NC 28405. Unusual or serious and unexpected toxicity from
+antiretroviral drugs should be reported to the manufacturer and/or
+FDA, telephone (800) 332-1088.  Health-care providers also should report instances of
+prenatal exposure to antiretroviral agents to the Antiretroviral
+Pregnancy Registry. The registry is an epidemiologic project to
+collect observational, nonexperimental data on antiretroviral drug
+exposure during pregnancy to assess potential teratogenicity.
+Referrals should be directed to the Antiretroviral Pregnancy
+Registry, 1410 Commonwealth Drive, Suite 215, Wilmington, NC
+28405; telephone (800) 258-4263 or (800) 722-9292, ext. 39437; fax
+(800) 800-1052.  A protocol has been developed to evaluate HIV seroconversion
+in an HCW who received PEP. These events can be reported to CDC,
+telephone  (404)  639-6425.   RESOURCES  FOR  CONSULTATION   Clinicians  who  seek
+consultation on HIV PEP for assistance in
+managing an occupational exposure should access local experts in
+HIV treatment as much as possible. In addition, the "National
+Clinicians' Post-Exposure Prophylaxis Hotline (PEP-Line)" has been
+created to assist clinicians with these issues; telephone (888)
+448-4911. Other resources and registries include the HIV
+Postexposure Prophylaxis Registry, the Antiretroviral Pregnancy
+Registry,  FDA,  and  CDC  (Table_2).   ADMINISTRATIVE  CONSIDERATIONS   Effective
+implementation of the elements of postexposure
+management detailed in these recommendations may require various
+types of expertise. The assessment of the severity of an exposure
+generally requires clinical training and experience (i.e., medical
+or nursing). However, the assessment of HIV infection risk and
+initiation of a basic PEP regimen necessitates knowledge or
+experience in clinical epidemiology, infection control,
+occupational health, or the clinical treatment of HIV. Decisions
+about HIV PEP are particularly complex if PIs are used or there is
+concern about drug-resistant virus. Thus, expert consultation when
+prescribing PEP is strongly encouraged. PEP protocols should list
+the names of readily available resources for consultation and
+could include policies that require infectious disease evaluation
+before prescribing an expanded antiretroviral regimen. However,
+these efforts should not delay initial implementation of PEP where
+it is appropriate.  Acknowledgments  Drafts of this document have been reviewed by
+many experts in
+ the
+treatment of HIV infection and disease. We thank these consultants
+for their thoughtful comments, suggestions, and assistance.  References 
+    CDC. Public Health Service statement on management of
+    occupational exposure to human immunodeficiency virus,
+ including
+    considerations regarding zidovudine postexposure use. MMWR
+    1990;39(no. RR-1). 
+    CDC. Case-control study of HIV seroconversion in health-care
+    workers after percutaneous exposure to HIV-infected blood --
+ France,
+    United Kingdom, and United States, January 1988-August 1994.
+ MMWR
+    1995;44:929-33. 
+    Connor EM, Sperling RS, Gelber R, et al. Reduction of
+    maternal-infant transmission of human immunodeficiency virus
+ type
+    1 with zidovudine treatment. N Engl J Med 1994;331:1173-80. 
+    Black RJ. Animal studies of prophylaxis. Am J Med
+    1997;102(suppl 5B):39-44. 
+    Bell DM, Gerberding JL, eds. Human immunodeficiency virus
+ (HIV)
+    postexposure management of healthcare workers. Am J Med
+    1997;102(suppl 5B). 
+    CDC. Update: provisional Public Health Service recommendations
+    for chemoprophylaxis after occupational exposure to HIV. MMWR
+    1996;45:468-72. 
+    Ippolito G, Puro V, the Italian Registry of Antiretroviral
+    Prophylaxis. Zidovudine toxicity in uninfected healthcare
+ workers.
+    Am J Med 1997;102(suppl 5B):58-62. 
+    Wang SA, the HIV PEP Registry Group. Human immunodeficiency
+    virus (HIV) postexposure prophylaxis (PEP) following
+ occupational
+    HIV exposure: findings from the HIV PEP registry {Abstract
+ 482}.
+    In: Program and abstracts of the Infectious Diseases Society
+ of
+    America 35th annual meeting. Alexandria, VA: Infectious
+ Diseases
+    Society of America, 1997:161. 
+    Steger KA, Swotinsky R, Snyder S, Craven DE. Recent experience
+    with post-exposure prophylaxis (PEP) with combination
+    antiretrovirals for occupational exposure (OE) to HIV
+ {Abstract
+    480}. In: Program and abstracts of the Infectious Diseases
+ Society
+    of America 35th annual meeting. Alexandria, VA: Infectious
+    Diseases Society of America, 1997:161. 
+    Beekmann R, Fahrner R, Nelson L, Henderson DK, Gerberding JL.
+    Combination post-exposure prophylaxis (PEP): a prospective
+ study
+    of HIV-exposed health care workers (HCW) {Abstract 481}. In:
+    Program and abstracts of the Infectious Diseases Society of
+    America 35th annual meeting. Alexandria, VA: Infectious
+ Diseases
+    Society of America, 1997:161. 
+    CDC. Recommendations for prevention of HIV transmission in
+    health-care settings. MMWR 1987;36(suppl no. 2S). 
+    CDC. Update: universal precautions for prevention of
+    transmission of human immunodeficiency virus, hepatitis B
+ virus,
+    and other bloodborne pathogens in health-care settings. MMWR
+    1988;37:377-82,387-8. 
+    CDC. Transmission of HIV possibly associated with exposure of
+    mucous membrane to contaminated blood. MMWR 1997;46:620-3. 
+    Garner JS, Hospital Infection Control Practices Advisory
+    Committee. Guideline for isolation precautions in hospitals.
+    Infect Control Hosp Epidemiol 1996;17:53-80. 
+    Occupational Safety and Health Administration, Department of
+    Labor. 29 CFR Part 1910.1030, occupational exposure to
+ bloodborne
+    pathogens; final rule. Federal Register 1991;56:64004-182. 
+    Bell DM. Occupational risk of human immunodeficiency virus
+    infection in healthcare workers: an overview. Am J Med
+    1997;102(suppl 5B):9-15. 
+    Marcus R, Bell DM. Occupational risk of human immunodeficiency
+    virus infection in health care workers. In: DeVita VT Jr,
+ Hellman
+    S, Rosenberg SA, eds. AIDS: biology, diagnosis, treatment and
+    prevention. 4th ed. Philadelphia, PA: Lippincott-Raven
+ Publishers,
+    1997:645-54. 
+    Cardo DM, Bell DM. Postexposure management. In: DeVita VT Jr,
+    Hellman S, Rosenberg SA, eds. AIDS: biology, diagnosis,
+ treatment
+    and prevention. 4th ed. Philadelphia, PA: Lippincott-Raven
+    Publishers, 1997:701-8. 
+    Ippolito G, Puro V, De Carli G, the Italian Study Group on
+    Occupational Risk of HIV Infection. The risk of occupational
+ human
+    immunodeficiency virus infection in health care workers. Arch
+    Intern Med 1993;153:1451-8. 
+    CDC. Update: human immunodeficiency virus infections in
+    health-care workers exposed to blood of infected patients.
+ MMWR
+    1987;36:285-9. 
+    Fahey BJ, Koziol DE, Banks SM, Henderson DK. Frequency of
+    nonparenteral occupational exposures to blood and body fluids
+    before and after universal precautions training. Am J Med
+    1991;90:145-53. 
+    CDC. HIV/AIDS surveillance report 1997;9:15. 
+    Cardo DM, Culver DH, Ciesielski CA, et al. A case-control
+    study of HIV seroconversion in health care workers after
+    percutaneous exposure. N Engl J Med 1997;337:1485-90. 
+    Mast ST, Woolwine JD, Gerberding JL. Efficacy of gloves in
+    reducing blood volumes transferred during simulated
+ needlestick
+    injury. J Infect Dis 1993;168:1589-92. 
+    Cao Y, Krogstad P, Korber BT, et al. Maternal HIV-1 viral load
+    and vertical transmission of infection: the Ariel Project for
+ the
+    Prevention of HIV transmission from mother to infant. Nature
+ Med
+    1997;3:549-52. 
+    Sperling RS, Shapiro DE, Coombs RW, et al. Maternal viral
+    load, zidovudine treatment, and the risk of transmission of
+ human
+    immunodeficiency virus type 1 from mother to infant. N Engl J
+ Med
+    1996;335:1621-9. 
+    Pinto LA, Landay AL, Berzofsky JA, Kessler HA, Shearer GM.
+    Immune response to human immunodeficiency virus (HIV) in
+    healthcare workers occupationally exposed to HIV-contaminated
+    blood. Am J Med 1997;102(suppl 5B):21-4. 
+    Clerici M, Giorgi JV, Chou C-C, et al. Cell-mediated immune
+    response to human immuno-deficiency virus (HIV) type 1 in
+    seronegative homosexual men with recent sexual exposure to
+ HIV-1.
+    J Infect Dis 1992;165:1012-9. 
+    Ranki A, Mattinen S, Yarchoan R, et al. T-cell response
+    towards HIV in infected individuals with and without
+ zidovudine
+    therapy, and in HIV-exposed sexual partners. AIDS 1989;3:63-9.
+ 
+    Cheynier R, Langlade-Demoyen P, Marescot M-R, et al. Cytotoxic
+    T lymphocyte responses in the peripheral blood of children
+ born to
+    human  immunodeficiency virus-1-infected mothers. Eur J
+ Immunol
+    1992;22:2211-7. 
+    Kelker HC, Seidlin M, Vogler M, Valentine FT. Lymphocytes from
+    some long-term seronegative heterosexual partners of
+ HIV-infected
+    individuals proliferate in response to HIV antigens. AIDS Res
+ Hum
+    Retroviruses 1992;8:1355-9. 
+    Langlade-Demoyen P, Ngo-Giang-Huong N, Ferchal F, Oksenhendler
+    E. Human immunodeficiency virus (HIV) nef-specific cytotoxic T
+    lymphocytes in noninfected heterosexual contacts of
+ HIV-infected
+    patients. J Clin Invest 1994;93:1293-7. 
+    Rowland-Jones S, Sutton J, Ariyoshi K, et al. HIV-specific
+    cytotoxic T-cells in HIV-exposed but uninfected Gambian women.
+    Nature Medicine 1995;1:59-64. 
+    Busch MP, Satten GA. Time course of viremia and antibody
+    seroconversion following human immunodeficiency virus
+ exposure. Am
+    J Med 1997;102(suppl 5B):117-24. 
+    Saag MS. Clinical spectrum of human immunodeficiency virus
+    diseases. In: DeVita VT Jr, Hellman S, Rosenberg SA, eds.
+ AIDS:
+    biology, diagnosis, treatment and prevention. 4th ed.
+    Philadelphia, PA: Lippincott-Raven Publishers, 1997:203-13. 
+    Ciesielski CA, Metler RP. Duration of time between exposure
+    and seroconversion in healthcare workers with occupationally
+    acquired infection with human immunodeficiency virus. Am J Med
+    1997;102(suppl 5B):115-6. 
+    Ridzon R, Gallagher K, Ciesielski C, et al. Simultaneous
+    transmission of human immunodeficiency virus and hepatitis C
+ virus
+    from a needle-stick injury. N Engl J Med 1997;336:919-22. 
+    Blauvelt A. The role of skin dendritic cells in the initiation
+    of human immunodeficiency virus infection. Am J Med
+ 1997;102(suppl
+    5B):16-20. 
+    Spira AI, Marx PA, Patterson BK, et al. Cellular targets of
+    infection and route of viral dissemination after an
+ intravaginal
+    inoculation of simian immunodeficiency virus into rhesus
+ macaques.
+    J Exp Med 1996;183:215-25. 
+    Saag MS. Candidate antiretroviral agents for use in
+    postexposure prophylaxis. Am J Med 1997;102(suppl 5B):25-31. 
+    Van Rompay KKA, Otsyula MG, Marthas ML, Miller CJ, McChesney
+    MB, Pedersen NC. Immediate zidovudine treatment protects
+ simian
+    immunodeficiency virus-infected newborn macaques against rapid
+    onset of AIDS. Antimicrob Agents and Chemother 1995;39:125-31.
+ 
+    Shih C-C, Kaneshima H, Rabin L, et al. Postexposure
+    prophylaxis with zidovudine suppresses human immunodeficiency
+    virus type 1 infection in SCID-hu mice in a time-dependent
+ manner.
+    J Infect Dis 1991;163:625-7. 
+    Martin LN, Murphey-Corb M, Soike KF, Davison-Fairburn B,
+    Baskin GB. Effects of initiation of 3'-azido,3'-deoxythymidine
+    (zidovudine) treatment at different times after infection of
+    rhesus monkeys with simian immunodeficiency virus. J Infect
+ Dis
+    1993;168:825-35. 
+    Hayes KA, Lafrado LJ, Erickson JG, Marr JM, Mathes LE.
+    Prophylactic ZDV therapy prevents early viremia and lymphocyte
+    decline but not primary infection in feline immunodeficiency
+    virus-inoculated cats. J AIDS 1993;6:127-34. 
+    Mathes LE, Polas PJ, Hayes KA, Swenson CL, Johnson S, Kociba
+    GJ. P re- and postexposure chemoprophylaxis: evidence that
+    3'-azido-3-dideoxythymidine inhibits feline leukemia virus
+ disease
+    by a drug-induced vaccine response. Antimicrob Agents and
+    Chemother 1992;36:2715-21. 
+    Rausch DM, Heyes MP, Murray EA, Eiden LE. Zidovudine treatment
+    prolongs survival and decreases virus load in the central
+ nervous
+    system of rhesus macaques infected perinatally with simian
+    immunodeficiency virus. J Infect Dis 1995;172:59-69. 
+    Sinet M, Desforges B, Launay O, Colin JN, Pocidalo JJ. Factors
+    influencing zidovudine efficacy when administered at early
+ stages
+    of Friend virus infection in mice. Antiviral Res
+ 1991;16:163-71. 
+    Ruprecht RM, Bronson R. Chemoprevention of retroviral
+    infection: success is determined by virus inoculum and
+ strength
+    and cellular immunity. DNA & Cell Biol 1994;13:59-66. 
+    Ruprecht RM, Mullaney S, Bernard LD, Gama Sosa MA, Hom RC,
+    Finberg RW. Vaccination with a live retrovirus: the nature of
+ the
+    protective immune response. Proc Natl Acad Sci U S A
+ 1990;87:5558-62. 
+    Tavares L, Roneker C, Johnston K, Nusinoff Lehrman S, de
+    Noronha F. 3'-azido-3'-deoxythymidine in feline leukemia
+    virus-infected cats: a model for therapy and prophylaxis of
+ AIDS.
+    Cancer Res 1987;47:3190-4. 
+    Ruprecht RM, Chou, T-C, Chipty F, et al. Interferon- and
+    3'-azido-3'-deoxythymidine are highly synergistic in mice and
+    prevent viremia after acute retrovirus exposure. J AIDS
+    1990;3:591-600. 
+    Van Rompay KKA, Marthas ML, Ramos RA, et al. Simian
+    immunodeficiency virus (SIV) infection of infant rhesus
+ macaques
+    as a model to test antiretroviral drug prophylaxis and
+ therapy:
+    oral 3-azido-3'-deoxythymidine prevents SIV infection.
+ Antimicrob
+    Agents and Chemother 1992;36:2381-6. 
+    Fazely F, Haseltine WA, Rodger RF, Ruprecht RM. Postexposure
+    chemoprophylaxis with ZDV or ZDV combined with
+ interferon-alpha:
+    failure after inoculating rhesus monkeys with a high dose of
+ SIV.
+    J AIDS 1991;4:1093-7. 
+    McClure HM, Anderson DC, Ansari AA, Fultz PN, Klumpp SA,
+    Schinazi RF. Nonhuman primate models for evaluation of AIDS
+    therapy. In: AIDS: anti-HIV agents, therapies and vaccines.
+ Ann N
+    Y Acad Sci 1990;100;616:287-98. 
+    Tsai C-C, Follis KE, Sabo A, et al. Prevention of SIV
+    infection in macaques by
+ (R)-9-(2-phosphonylmethoxypropyl)adenine.
+    Science 1995;270:1197-9. 
+    Bottiger D, Johansson N-G, Samuelsson B, et al. Prevention of
+    simian immunodeficiency virus, SIVsm, or HIV-2 infection in
+    cynomolgus monkeys by pre- and postexposure administration of
+    BEA-005. AIDS 1997;11:157-62. 
+    Niu MT, Stein DS, Schnittman SM. Primary human
+    immunodeficiency virus type 1 infection: review of
+ pathogenesis
+    and early treatment intervention in humans and animal
+ retrovirus
+    infections. J Infect Dis 1993;168:1490-501. 
+    Lundgren B, B½ttiger D, Ljungdahl-St¦hle E, et al. Antiviral
+    effects of 3'-fluorothymidine and 3'-azidothymidine in
+ cynomolgus
+    monkeys infected with simian immunodeficiency virus. J AIDS
+    1991;4:489-98. 
+    Bottiger D, Putkonen P, Oberg B. Prevention of HIV-2 and SIV
+    infections in cynomolgus macaques by prophylactic treatment
+ with
+    3'-fluorothymidine. AIDS Res Human Retroviruses 1992;8:1235-8.
+ 
+    Bottiger D, Oberg B. Influence of the infectious dose of SIV
+    on the acute infection in cynomolgus monkeys and on the effect
+ of
+    treatment with 3'-fluorothymidine {Abstract no. 81}. Symposium
+ on
+    Nonhuman Primate Models for AIDS, 1991. 
+    LaFon SW, Mooney BD, McMullen JP, et al. A double-blind,
+    placebo-controlled study of the safety and efficacy of
+ Retrovir
+    (zidovudine, ZDV) as a chemoprophylactic agent in health care
+    workers (HCW) exposed to HIV {Abstract 489}. In: Program and
+    abstracts, 30th Interscience Conference on Antimicrobial
+ Agents
+    and Chemotherapy. Washington, DC: American Society for
+    Microbiology, 1990:167. 
+    Jochimsen EM. Failures of zidovudine postexposure prophylaxis.
+    Am J Med 1997;102(suppl 5B):52-5. 
+    Weisburd G, Biglione J, Arbulu MM, Terrazzino JC, Pesiri A.
+    HIV seroconversion after a work place accident and treated
+ with
+    zidovudine {Abstract Pub.C.1141} In: Program and abstracts of
+ the
+    XI International Conference on AIDS. Vancouver, British
+ Columbia,
+    Canada, June 1996:460. 
+    Lot F, Abiteboul D. Health-care workers infected with HIV in
+    France: as of June 30, 1995. Bulletin Epidemiologique
+    Hebdomadiaire 1995;44:193-4. 
+    Mayers DL. Prevalence and incidence of resistance to
+    zidovudine and other antiretroviral drugs. Am J Med
+ 1997;102(suppl
+    5B):70-5. 
+    Coombs RW, Shapiro DE, Eastman PS, et al. Maternal viral
+    genotypic zidovudine (ZDV) resistance and infrequent failure
+ of
+    ZDV therapy to prevent perinatal transmission {Abstract 17}.
+ In:
+    Program and abstracts of the Infectious Disease Society of
+ America
+    35th annual meeting. Alexandria, VA: Infectious Disease
+ Society of
+    America, 1997:74. 
+    Manion DJ, Hirsch MS. Combination chemotherapy for human
+    immunodeficiency virus-1. Am J Med 1997;102(suppl 5B):76-80. 
+    Lafeuillade A, Poggi C, Tamalet C, Profizi N, Tourres C,
+    Costes O. Effects of a combination of zidovudine, didanosine,
+ and
+    lamivudine on primary human immunodeficiency virus type 1
+    infection. J Infect Dis 1997;175:1051-5. 
+    CDC. Guidelines for the use of antiretroviral agents in
+    HIV-infected adults and adolescents. MMWR 1997;46(no.
+ RR-5):43-82. 
+    Katlama C, Ingrand D, Loveday C, et al. Safety and efficacy of
+    lamivudine-zidovudine combination therapy in antiretroviral
+ naive
+    patients: a randomized controlled comparison with zidovudine
+    monotherapy. JAMA 1996;276:118-25. 
+    Larder BA. Viral resistance and the selection of
+    antiretroviral combinations. J AIDS 1995;10(suppl 1):S28-S33. 
+    Anonymous. New drugs for HIV infection. The Medical Letter on
+    Drugs and Therapeutics 1996;38:35-7. 
+    Grob PM, Cao Y, Muchmore E, et al. Prophylaxis against HIV-1
+    infection in chimpanzees by nevirapine, a nonnucleoside
+ inhibitor
+    of reverse transcriptase. Nature Medicine 1997;3:665-70. 
+    Struble KA, Pratt RD, Gitterman SR. Toxicity of antiretroviral
+    agents. Am J Med 1997;102(suppl 5B):65-7. 
+    Food and Drug Administration. Protease inhibitors may increase
+    blood glucose in HIV patients. FDA Medical Bulletin 1997:27. 
+    Dever LL, Oruwari PA, O'Donovan CA, Eng RHK. Hyperglycemia
+    associated with protease inhibitors in HIV-infected patients
+    {Abstract LB-8}. In: Abstracts of the 37th Interscience
+ Conference
+    on Antimicrobial Agents and Chemotherapy. Washington, DC:
+ American
+    Society for Microbiology, 1997. 
+    Dube MP, Johnson DL, Currier JS, Leedom JM. Protease
+    inhibitor-associated hyperglycaemia {Letter}. Lancet
+    1997;350:713-4. 
+    Tokars JI, Marcus R, Culver DH, et al. Surveillance of HIV
+    infection and zidovudine use among health care workers after
+    occupational exposure to HIV-infected blood. Ann Intern Med
+    1993;118:913-9. 
+    Forseter G, Joline C, Wormser GP. Tolerability, safety, and
+    acceptability of zidovudine prophylaxis in health care
+ workers.
+    Arch Intern Med 1994;154:2745-9. 
+    Henry K, Acosta EP, Jochimsen E. Hepatotoxicity and rash
+    associated with zidovudine and zalcitabine chemoprophylaxis
+    {Letter}. Ann Intern Med 1996;124:855. 
+    Imrie A, Beveridge A, Genn W, Vizzard J, Cooper DA, the Sydney
+    Primary HIV Infection Study Group. Transmission of human
+    immunodeficiency virus type 1 resistant to nevirapine and
+    zidovudine. J Infect Dis 1997;175:1502-6. 
+    Veenstra J, Schuurman R, Cornelissen M, et al. Transmission of
+    zidovudine-resistant human immunodeficiency virus type 1
+ variants
+    following deliberate injection of blood from a patient with
+ AIDS:
+    characteristics and natural history of the virus. Clin Infect
+ Dis
+    1995;21:556-60. 
+    Erice A, Mayers DL, Strike DG, et al. Brief report: primary
+    infection with zidovudine-resistant human immunodeficiency
+ virus
+    type 1. N Engl J Med 1993;328:1163-5. 
+    Fitzgibbon JE, Gaur S, Frenkel LD, et al. Transmission from
+    one child to another of human immunodeficiency virus type 1
+ with
+    a zidovudine-resistance mutation. N Engl J Med
+ 1993;329:1835-41. 
+    Frenkel LM, Wagner LE, Demeter LM, et al. Effects of
+    zidovudine use during pregnancy on resistance and vertical
+    transmission of human immunodeficiency virus type 1. Clin
+ Infect
+    Dis 1995;20:1321-6. 
+    CDC. Public Health Service task force recommendations for the
+    use of antiretroviral drugs in pregnant women infected with
+ HIV-1
+    for maternal health and for reducing perinatal HIV-1
+ transmission
+    in the United States. MMWR 1998;47(no. RR-2). 
+    O'Sullivan MJ, Boyer PJJ, Scott GB, et al. The
+    pharmacokinetics and safety of zidovudine in the third
+ trimester
+    of pregnancy for women infected with human immunodeficiency
+ virus
+    and their infants: Phase I Acquired Immunodeficiency Syndrome
+    Clinical Trials Group Study (protocol 082). Am J Obstet
+ Gynecol
+    1993;168:1510-6. 
+    CDC. Birth outcomes following zidovudine therapy in pregnant
+    women. MMWR 1994;43: 409,415-6. 
+    White A, Eldridge R, Andrews E, the Antiretroviral Pregnancy
+    Registry Advisory Committee. Birth outcomes following
+ zidovudine
+    exposure in pregnant women: the Antiretroviral Pregnancy
+ Registry.
+    Acta Paediatr Suppl 1997;421:86-8. 
+    Culnane M, Fowler MG, Lee S, et al. Evaluation for late
+    effects of in utero (IU) ZDV exposure among uninfected infants
+    born to HIV+ women enrolled in ACTG 076 and 219 {Abstract
+ 485}.
+    Clin Infect Dis 1997;25:445. 
+    Anonymous. Antiretroviral Pregnancy Registry for didanosine
+    (VIDEX , ddI), lamivudine (EPIVIRTM, 3tc), saquinavir
+ (INVIRASE ,
+    SAQ), stavudine (ZERIT , d4T), zalcitabine (HIVID , ddC),
+    zidovudine (RETROVIR , ZDV), interim report, 1 January 1989
+    through 31 December 1996. Research Triangle Park, NC: Bristol
+    Myers Squibb Co., Glaxo Wellcome, Hoffman-LaRoche, and Merck
+ Inc.,
+    1997. 
+    Johnson MA, Goodwin C, Yuen GJ, et al. The pharmacokinetics of
+    3TC administered to HIV-1 infected women (pre-partum, during
+    labour and post-partum) and their offspring {Abstract
+ Tu.C.445}.
+    In: Proceedings from the XI International Conference on AIDS,
+    Vancouver, British Columbia, Canada; July 7-12, 1996; vol
+ I:249-50. 
+    Moodley J, Moodley D, Pillay K, et al. Antiviral effect of
+    lamivudine alone and in combination with zidovudine in
+    HIV-infected pregnant women {Abstract 607}. In: Abstracts of
+ the
+    4th Conference on Retroviruses and Opportunistic Infections.
+    Washington D.C.: January 22-26, 1997:176. 
+    Ayers KM, Clive D, Tucker WE Jr., Hajian G, de Miranda P.
+    Nonclinical toxicology studies with zidovudine: genetic
+ toxicity
+    tests and carcinogenicity bioassays in mice and rats.
+ Fundamental
+    Appl Toxicol 1996;32:148-58. 
+    Ayers KM, Torrey CE, Reynolds DJ. A transplacental
+    carcinogenicity bioassay in CD-1 mice with zidovudine.
+ Fundamental
+    Appl Toxicol 1997;38:195-8. 
+    Olivero OA, Anderson LM, Diwan BA, et al. AZT is a genomic
+    transplacental carcinogen in animal models. J AIDS 1997;14:A29
+    (Abstract 52). 
+    National Institute for Allergy and Infectious Diseases,
+    National Institutes of Health. Summary of the meeting of a
+ panel
+    to review studies of transplacental toxicity of AZT.
+ Washington,
+    DC: National Institutes of Health, 1997. 
+    CDC. Immunization of health-care workers -- recommendations of
+    the Advisory Committee on Immunization Practices (ACIP) and
+ the
+    Hospital Infection Control Practices Advisory Committee
+ (HICPAC).
+    MMWR 1997;46(no. RR-18):21-2. 
+    CDC. Recommendations for follow-up of health-care workers
+    after occupational exposure to hepatitis C virus. MMWR
+    1997;46:603-6. 
+    Richman KM, Rickman LS. The potential for transmission of
+    human immunodeficiency virus through human bites. J AIDS
+    1993;6:402-6. 
+    Vidmar L, Poljak M, Tomai J, Seme K, Klavs I. Transmission of
+    HIV-1 by human bite {Letter}. Lancet 1996;347:1762. 
+    Gerberding JL, Henderson DK. Management of occupational
+    exposures to bloodborne pathogens: hepatitis B virus,
+ hepatitis C
+    virus, and human immunodeficiency virus. Clin Infect Dis
+    1992;14:1179-85. 
+    Armstrong K, Gorden R, Santorella G. Occupational exposure of
+    health care workers (HCWs) to human immunodeficiency virus
+ (HIV):
+    stress reactions and counseling interventions. Social Work in
+    Health Care 1995;21(3):61-80. 
+    CDC. Recommendations for preventing transmission of human
+    immunodeficiency virus and hepatitis B virus to patients
+ during
+    exposure-prone invasive procedures. MMWR 1991;40(no. RR-8). 
+This interagency working group comprised representatives of CDC,
+the Food and Drug Administration, the Health Resources and
+Services Administration, and the National Institutes of Health. 
+** This interagency working group comprised representatives of
+CDC, FDA, and the National Institutes of Health. Information
+included in these recommendations may not represent FDA approval
+or approved labeling for the particular product or indications in
+question. Specifically the terms "safe" and "effective" may not be
+synonymous with the FDA-defined legal standards for product
+approval. 
+*** Although exposure to these body substances generally is not
+considered a risk for occupational HIV transmission, this does not
+negate the importance of handwashing and appropriate glove use
+when contacting these body substances. Handwashing and appropriate
+glove use are part of standard precautions for infection control
+to prevent transmission of nosocomial and community-acquired
+pathogens and are required for compliance with the Occupational
+Safety and Health Administration bloodborne pathogen standard
+(14,15). In addition, postexposure evaluation for hepatitis B (and
+possibly hepatitis C) should be provided if contact with saliva
+includes a possible portal of entry (i.e., nonintact skin, mucous
+membrane, or percutaneous injury). Table_1
+Note:
+ To  print  large  tables  and  graphs  users  may  have  to  change  their  printer  settings  to
+landscape and use a small font size.
+TABLE 1. Basic and expanded postexposure prophylaxis regimens
+====================================================
+=========================
+Regimen  category   Application                   Drug regimen
+-----------------------------------------------------------------------------
+Basic               Occupational HIV exposures    4 weeks (28 days) of both
+                    for which there is a          zidovudine 600 mg every
+                    recognized transmission       day in divided doses (i.e.
+                    risk (Figure 1).              300 mg twice a day, 200 mg
+                                                  three times a day, or 100
+                                                  mg every 4 hours) and
+                                                  lamivudine 150 mg twice a
+                                                  day.
+Expanded            Occupational HIV exposures    Basic regimen plus either
+                    that pose an increased risk   indinavir 800 mg every 8
+                    for transmission (e.g.        hours or nelfinavir 750 mg
+                    larger volume of blood        three times a day.*
+                    and/or higher virus titer
+                    in blood) (Figure 1).
+-----------------------------------------------------------------------------
+* Idinavir should be taken on an empty stomach (i.e. without food or
+  with a light meal) and with increased fluid consumption (i.e. drinking
+  six 8oz glasses of water throughout the day); nelfinavir should be taken
+  with meals.
+====================================================
+=========================
+Return to top.Table_2
+Note:
+ To  print  large  tables  and  graphs  users  may  have  to  change  their  printer  settings  to
+landscape and use a small font size.
+TABLE 2. HIV postexposure prophylaxis resources and registries
+====================================================
+=========================
+Resource or registry            Contact Information
+-----------------------------------------------------------------------------
+National Clinicians'            Telephone: (888) 448-4911
+Postexposure Hotline            Telephone: (888) 737-4448
+                                           (888) PEP4HIV
+                                Write:     1410 Commonwealth Drive
+                                           Suite 215
+                                           Wilmington, NC 28405
+Antiretroviral Pregnancy        Telephone: (800)258-4263
+Registry                        Fax:       (800)800-1052
+                                Write:     1410 Commonwealth Drive
+                                           Suite 215
+                                           Wilmington, NC 28405
+Food and Drug Administration    Telephone: (800)332-1088
+(for reporting unusual or
+severe toxicity to anti-
+retroviral agents)
+CDC (for reporting HIV          Telephone: (404)639-6425
+seroconversions in health-
+care workers who received
+PEP)
+====================================================
+=========================
+Return to top.Figure_1Return to top.
+Figure_1CReturn to top.
+Disclaimer
+   All MMWR HTML versions of articles are electronic conversions from ASCII text into
+HTML.  This conversion may have resulted in character translation or format errors in
+the HTML version.  Users should not rely on this HTML document, but are referred to the
+electronic  PDF  version  and/or  the  original  MMWR  paper  copy  for  the  official  text,
+figures,  and  tables.   An  original  paper  copy  of  this  issue  can  be  obtained  from  the
+Superintendent of Documents, U.S. Government Printing Office (GPO), Washington, DC
+20402-9371; telephone: (202) 512-1800. Contact GPO for current prices.**Questions or
+messages regarding errors in formatting should be addressed to mmwrq@cdc.gov.Page
+converted: 10/05/98
+ 
+    CDC. Public Health Service statement on management of
+    occupational exposure to human immunodeficiency virus,
+ including
+    considerations regarding zidovudine postexposure use. MMWR
+    1990;39(no. RR-1).  
+    CDC. Case-control study of HIV seroconversion in health-care
+    workers after percutaneous exposure to HIV-infected blood --
+ France,
+    United Kingdom, and United States, January 1988-August 1994.
+ MMWR
+    1995;44:929-33.  
+    Connor EM, Sperling RS, Gelber R, et al. Reduction of
+    maternal-infant transmission of human immunodeficiency virus
+ type
+    1 with zidovudine treatment. N Engl J Med 1994;331:1173-80.  
+    Black RJ. Animal studies of prophylaxis. Am J Med
+    1997;102(suppl 5B):39-44.  
+    Bell DM, Gerberding JL, eds. Human immunodeficiency virus
+ (HIV)
+    postexposure management of healthcare workers. Am J Med
+    1997;102(suppl 5B).  
+    CDC. Update: provisional Public Health Service recommendations
+    for chemoprophylaxis after occupational exposure to HIV. MMWR
+    1996;45:468-72.  
+    Ippolito G, Puro V, the Italian Registry of Antiretroviral
+    Prophylaxis. Zidovudine toxicity in uninfected healthcare
+ workers.
+    Am J Med 1997;102(suppl 5B):58-62.  
+    Wang SA, the HIV PEP Registry Group. Human immunodeficiency
+    virus (HIV) postexposure prophylaxis (PEP) following
+ occupational
+    HIV exposure: findings from the HIV PEP registry {Abstract
+ 482}.
+    In: Program and abstracts of the Infectious Diseases Society
+ of
+    America 35th annual meeting. Alexandria, VA: Infectious
+ Diseases
+    Society of America, 1997:161.  
+    Steger KA, Swotinsky R, Snyder S, Craven DE. Recent experience
+    with post-exposure prophylaxis (PEP) with combination
+    antiretrovirals for occupational exposure (OE) to HIV
+ {Abstract
+    480}. In: Program and abstracts of the Infectious Diseases
+ Society
+    of America 35th annual meeting. Alexandria, VA: Infectious
+    Diseases Society of America, 1997:161.  
+    Beekmann R, Fahrner R, Nelson L, Henderson DK, Gerberding JL.
+    Combination post-exposure prophylaxis (PEP): a prospective
+ study
+    of HIV-exposed health care workers (HCW) {Abstract 481}. In:
+    Program and abstracts of the Infectious Diseases Society of
+    America 35th annual meeting. Alexandria, VA: Infectious
+ Diseases
+    Society of America, 1997:161.  
+    CDC. Recommendations for prevention of HIV transmission in
+    health-care settings. MMWR 1987;36(suppl no. 2S).  
+    CDC. Update: universal precautions for prevention of
+    transmission of human immunodeficiency virus, hepatitis B
+ virus,
+    and other bloodborne pathogens in health-care settings. MMWR
+    1988;37:377-82,387-8.  
+    CDC. Transmission of HIV possibly associated with exposure of
+    mucous membrane to contaminated blood. MMWR 1997;46:620-3.  
+    Garner JS, Hospital Infection Control Practices Advisory
+    Committee. Guideline for isolation precautions in hospitals.
+    Infect Control Hosp Epidemiol 1996;17:53-80.  
+    Occupational Safety and Health Administration, Department of
+    Labor. 29 CFR Part 1910.1030, occupational exposure to
+ bloodborne
+    pathogens; final rule. Federal Register 1991;56:64004-182.  
+    Bell DM. Occupational risk of human immunodeficiency virus
+    infection in healthcare workers: an overview. Am J Med
+    1997;102(suppl 5B):9-15.  
+    Marcus R, Bell DM. Occupational risk of human immunodeficiency
+    virus infection in health care workers. In: DeVita VT Jr,
+ Hellman
+    S, Rosenberg SA, eds. AIDS: biology, diagnosis, treatment and
+    prevention. 4th ed. Philadelphia, PA: Lippincott-Raven
+ Publishers,
+    1997:645-54.  
+    Cardo DM, Bell DM. Postexposure management. In: DeVita VT Jr,
+    Hellman S, Rosenberg SA, eds. AIDS: biology, diagnosis,
+ treatment
+    and prevention. 4th ed. Philadelphia, PA: Lippincott-Raven
+    Publishers, 1997:701-8.  
+    Ippolito G, Puro V, De Carli G, the Italian Study Group on
+    Occupational Risk of HIV Infection. The risk of occupational
+ human
+    immunodeficiency virus infection in health care workers. Arch
+    Intern Med 1993;153:1451-8.  
+    CDC. Update: human immunodeficiency virus infections in
+    health-care workers exposed to blood of infected patients.
+ MMWR
+    1987;36:285-9.  
+    Fahey BJ, Koziol DE, Banks SM, Henderson DK. Frequency of
+    nonparenteral occupational exposures to blood and body fluids
+    before and after universal precautions training. Am J Med
+    1991;90:145-53.  
+    CDC. HIV/AIDS surveillance report 1997;9:15.  
+    Cardo DM, Culver DH, Ciesielski CA, et al. A case-control
+    study of HIV seroconversion in health care workers after
+    percutaneous exposure. N Engl J Med 1997;337:1485-90.  
+    Mast ST, Woolwine JD, Gerberding JL. Efficacy of gloves in
+    reducing blood volumes transferred during simulated
+ needlestick
+    injury. J Infect Dis 1993;168:1589-92.  
+    Cao Y, Krogstad P, Korber BT, et al. Maternal HIV-1 viral load
+    and vertical transmission of infection: the Ariel Project for
+ the
+    Prevention of HIV transmission from mother to infant. Nature
+ Med
+    1997;3:549-52.  
+    Sperling RS, Shapiro DE, Coombs RW, et al. Maternal viral
+    load, zidovudine treatment, and the risk of transmission of
+ human
+    immunodeficiency virus type 1 from mother to infant. N Engl J
+ Med
+    1996;335:1621-9.  
+    Pinto LA, Landay AL, Berzofsky JA, Kessler HA, Shearer GM.
+    Immune response to human immunodeficiency virus (HIV) in
+    healthcare workers occupationally exposed to HIV-contaminated
+    blood. Am J Med 1997;102(suppl 5B):21-4.  
+    Clerici M, Giorgi JV, Chou C-C, et al. Cell-mediated immune
+    response to human immuno-deficiency virus (HIV) type 1 in
+    seronegative homosexual men with recent sexual exposure to
+ HIV-1.
+    J Infect Dis 1992;165:1012-9.  
+    Ranki A, Mattinen S, Yarchoan R, et al. T-cell response
+    towards HIV in infected individuals with and without
+ zidovudine
+    therapy, and in HIV-exposed sexual partners. AIDS 1989;3:63-9.
+  
+    Cheynier R, Langlade-Demoyen P, Marescot M-R, et al. Cytotoxic
+    T lymphocyte responses in the peripheral blood of children
+ born to
+    human  immunodeficiency virus-1-infected mothers. Eur J
+ Immunol
+    1992;22:2211-7.  
+    Kelker HC, Seidlin M, Vogler M, Valentine FT. Lymphocytes from
+    some long-term seronegative heterosexual partners of
+ HIV-infected
+    individuals proliferate in response to HIV antigens. AIDS Res
+ Hum
+    Retroviruses 1992;8:1355-9.  
+    Langlade-Demoyen P, Ngo-Giang-Huong N, Ferchal F, Oksenhendler
+    E. Human immunodeficiency virus (HIV) nef-specific cytotoxic T
+    lymphocytes in noninfected heterosexual contacts of
+ HIV-infected
+    patients. J Clin Invest 1994;93:1293-7.  
+    Rowland-Jones S, Sutton J, Ariyoshi K, et al. HIV-specific
+    cytotoxic T-cells in HIV-exposed but uninfected Gambian women.
+    Nature Medicine 1995;1:59-64.  
+    Busch MP, Satten GA. Time course of viremia and antibody
+    seroconversion following human immunodeficiency virus
+ exposure. Am
+    J Med 1997;102(suppl 5B):117-24.  
+    Saag MS. Clinical spectrum of human immunodeficiency virus
+    diseases. In: DeVita VT Jr, Hellman S, Rosenberg SA, eds.
+ AIDS:
+    biology, diagnosis, treatment and prevention. 4th ed.
+    Philadelphia, PA: Lippincott-Raven Publishers, 1997:203-13.  
+    Ciesielski CA, Metler RP. Duration of time between exposure
+    and seroconversion in healthcare workers with occupationally
+    acquired infection with human immunodeficiency virus. Am J Med
+    1997;102(suppl 5B):115-6.  
+    Ridzon R, Gallagher K, Ciesielski C, et al. Simultaneous
+    transmission of human immunodeficiency virus and hepatitis C
+ virus
+    from a needle-stick injury. N Engl J Med 1997;336:919-22.  
+    Blauvelt A. The role of skin dendritic cells in the initiation
+    of human immunodeficiency virus infection. Am J Med
+ 1997;102(suppl
+    5B):16-20.  
+    Spira AI, Marx PA, Patterson BK, et al. Cellular targets of
+    infection and route of viral dissemination after an
+ intravaginal
+    inoculation of simian immunodeficiency virus into rhesus
+ macaques.
+    J Exp Med 1996;183:215-25.  
+    Saag MS. Candidate antiretroviral agents for use in
+    postexposure prophylaxis. Am J Med 1997;102(suppl 5B):25-31.  
+    Van Rompay KKA, Otsyula MG, Marthas ML, Miller CJ, McChesney
+    MB, Pedersen NC. Immediate zidovudine treatment protects
+ simian
+    immunodeficiency virus-infected newborn macaques against rapid
+    onset of AIDS. Antimicrob Agents and Chemother 1995;39:125-31.
+  
+    Shih C-C, Kaneshima H, Rabin L, et al. Postexposure
+    prophylaxis with zidovudine suppresses human immunodeficiency
+    virus type 1 infection in SCID-hu mice in a time-dependent
+ manner.
+    J Infect Dis 1991;163:625-7.  
+    Martin LN, Murphey-Corb M, Soike KF, Davison-Fairburn B,
+    Baskin GB. Effects of initiation of 3'-azido,3'-deoxythymidine
+    (zidovudine) treatment at different times after infection of
+    rhesus monkeys with simian immunodeficiency virus. J Infect
+ Dis
+    1993;168:825-35.  
+    Hayes KA, Lafrado LJ, Erickson JG, Marr JM, Mathes LE.
+    Prophylactic ZDV therapy prevents early viremia and lymphocyte
+    decline but not primary infection in feline immunodeficiency
+    virus-inoculated cats. J AIDS 1993;6:127-34.  
+    Mathes LE, Polas PJ, Hayes KA, Swenson CL, Johnson S, Kociba
+    GJ. P re- and postexposure chemoprophylaxis: evidence that
+    3'-azido-3-dideoxythymidine inhibits feline leukemia virus
+ disease
+    by a drug-induced vaccine response. Antimicrob Agents and
+    Chemother 1992;36:2715-21.  
+    Rausch DM, Heyes MP, Murray EA, Eiden LE. Zidovudine treatment
+    prolongs survival and decreases virus load in the central
+ nervous
+    system of rhesus macaques infected perinatally with simian
+    immunodeficiency virus. J Infect Dis 1995;172:59-69.  
+    Sinet M, Desforges B, Launay O, Colin JN, Pocidalo JJ. Factors
+    influencing zidovudine efficacy when administered at early
+ stages
+    of Friend virus infection in mice. Antiviral Res
+ 1991;16:163-71.  
+    Ruprecht RM, Bronson R. Chemoprevention of retroviral
+    infection: success is determined by virus inoculum and
+ strength
+    and cellular immunity. DNA & Cell Biol 1994;13:59-66.  
+    Ruprecht RM, Mullaney S, Bernard LD, Gama Sosa MA, Hom RC,
+    Finberg RW. Vaccination with a live retrovirus: the nature of
+ the
+    protective immune response. Proc Natl Acad Sci U S A
+ 1990;87:5558-62.  
+    Tavares L, Roneker C, Johnston K, Nusinoff Lehrman S, de
+    Noronha F. 3'-azido-3'-deoxythymidine in feline leukemia
+    virus-infected cats: a model for therapy and prophylaxis of
+ AIDS.
+    Cancer Res 1987;47:3190-4.  
+    Ruprecht RM, Chou, T-C, Chipty F, et al. Interferon- and
+    3'-azido-3'-deoxythymidine are highly synergistic in mice and
+    prevent viremia after acute retrovirus exposure. J AIDS
+    1990;3:591-600.  
+    Van Rompay KKA, Marthas ML, Ramos RA, et al. Simian
+    immunodeficiency virus (SIV) infection of infant rhesus
+ macaques
+    as a model to test antiretroviral drug prophylaxis and
+ therapy:
+    oral 3-azido-3'-deoxythymidine prevents SIV infection.
+ Antimicrob
+    Agents and Chemother 1992;36:2381-6.  
+    Fazely F, Haseltine WA, Rodger RF, Ruprecht RM. Postexposure
+    chemoprophylaxis with ZDV or ZDV combined with
+ interferon-alpha:
+    failure after inoculating rhesus monkeys with a high dose of
+ SIV.
+    J AIDS 1991;4:1093-7.  
+    McClure HM, Anderson DC, Ansari AA, Fultz PN, Klumpp SA,
+    Schinazi RF. Nonhuman primate models for evaluation of AIDS
+    therapy. In: AIDS: anti-HIV agents, therapies and vaccines.
+ Ann N
+    Y Acad Sci 1990;100;616:287-98.  
+    Tsai C-C, Follis KE, Sabo A, et al. Prevention of SIV
+    infection in macaques by
+ (R)-9-(2-phosphonylmethoxypropyl)adenine.
+    Science 1995;270:1197-9.  
+    Bottiger D, Johansson N-G, Samuelsson B, et al. Prevention of
+    simian immunodeficiency virus, SIVsm, or HIV-2 infection in
+    cynomolgus monkeys by pre- and postexposure administration of
+    BEA-005. AIDS 1997;11:157-62.  
+    Niu MT, Stein DS, Schnittman SM. Primary human
+    immunodeficiency virus type 1 infection: review of
+ pathogenesis
+    and early treatment intervention in humans and animal
+ retrovirus
+    infections. J Infect Dis 1993;168:1490-501.  
+    Lundgren B, B½ttiger D, Ljungdahl-St¦hle E, et al. Antiviral
+    effects of 3'-fluorothymidine and 3'-azidothymidine in
+ cynomolgus
+    monkeys infected with simian immunodeficiency virus. J AIDS
+    1991;4:489-98.  
+    Bottiger D, Putkonen P, Oberg B. Prevention of HIV-2 and SIV
+    infections in cynomolgus macaques by prophylactic treatment
+ with
+    3'-fluorothymidine. AIDS Res Human Retroviruses 1992;8:1235-8.
+  
+    Bottiger D, Oberg B. Influence of the infectious dose of SIV
+    on the acute infection in cynomolgus monkeys and on the effect
+ of
+    treatment with 3'-fluorothymidine {Abstract no. 81}. Symposium
+ on
+    Nonhuman Primate Models for AIDS, 1991.  
+    LaFon SW, Mooney BD, McMullen JP, et al. A double-blind,
+    placebo-controlled study of the safety and efficacy of
+ Retrovir
+    (zidovudine, ZDV) as a chemoprophylactic agent in health care
+    workers (HCW) exposed to HIV {Abstract 489}. In: Program and
+    abstracts, 30th Interscience Conference on Antimicrobial
+ Agents
+    and Chemotherapy. Washington, DC: American Society for
+    Microbiology, 1990:167.  
+    Jochimsen EM. Failures of zidovudine postexposure prophylaxis.
+    Am J Med 1997;102(suppl 5B):52-5.  
+    Weisburd G, Biglione J, Arbulu MM, Terrazzino JC, Pesiri A.
+    HIV seroconversion after a work place accident and treated
+ with
+    zidovudine {Abstract Pub.C.1141} In: Program and abstracts of
+ the
+    XI International Conference on AIDS. Vancouver, British
+ Columbia,
+    Canada, June 1996:460.  
+    Lot F, Abiteboul D. Health-care workers infected with HIV in
+    France: as of June 30, 1995. Bulletin Epidemiologique
+    Hebdomadiaire 1995;44:193-4.  
+    Mayers DL. Prevalence and incidence of resistance to
+    zidovudine and other antiretroviral drugs. Am J Med
+ 1997;102(suppl
+    5B):70-5.  
+    Coombs RW, Shapiro DE, Eastman PS, et al. Maternal viral
+    genotypic zidovudine (ZDV) resistance and infrequent failure
+ of
+    ZDV therapy to prevent perinatal transmission {Abstract 17}.
+ In:
+    Program and abstracts of the Infectious Disease Society of
+ America
+    35th annual meeting. Alexandria, VA: Infectious Disease
+ Society of
+    America, 1997:74.  
+    Manion DJ, Hirsch MS. Combination chemotherapy for human
+    immunodeficiency virus-1. Am J Med 1997;102(suppl 5B):76-80.  
+    Lafeuillade A, Poggi C, Tamalet C, Profizi N, Tourres C,
+    Costes O. Effects of a combination of zidovudine, didanosine,
+ and
+    lamivudine on primary human immunodeficiency virus type 1
+    infection. J Infect Dis 1997;175:1051-5.  
+    CDC. Guidelines for the use of antiretroviral agents in
+    HIV-infected adults and adolescents. MMWR 1997;46(no.
+ RR-5):43-82.  
+    Katlama C, Ingrand D, Loveday C, et al. Safety and efficacy of
+    lamivudine-zidovudine combination therapy in antiretroviral
+ naive
+    patients: a randomized controlled comparison with zidovudine
+    monotherapy. JAMA 1996;276:118-25.  
+    Larder BA. Viral resistance and the selection of
+    antiretroviral combinations. J AIDS 1995;10(suppl 1):S28-S33.  
+    Anonymous. New drugs for HIV infection. The Medical Letter on
+    Drugs and Therapeutics 1996;38:35-7.  
+    Grob PM, Cao Y, Muchmore E, et al. Prophylaxis against HIV-1
+    infection in chimpanzees by nevirapine, a nonnucleoside
+ inhibitor
+    of reverse transcriptase. Nature Medicine 1997;3:665-70.  
+    Struble KA, Pratt RD, Gitterman SR. Toxicity of antiretroviral
+    agents. Am J Med 1997;102(suppl 5B):65-7.  
+    Food and Drug Administration. Protease inhibitors may increase
+    blood glucose in HIV patients. FDA Medical Bulletin 1997:27.  
+    Dever LL, Oruwari PA, O'Donovan CA, Eng RHK. Hyperglycemia
+    associated with protease inhibitors in HIV-infected patients
+    {Abstract LB-8}. In: Abstracts of the 37th Interscience
+ Conference
+    on Antimicrobial Agents and Chemotherapy. Washington, DC:
+ American
+    Society for Microbiology, 1997.  
+    Dube MP, Johnson DL, Currier JS, Leedom JM. Protease
+    inhibitor-associated hyperglycaemia {Letter}. Lancet
+    1997;350:713-4.  
+    Tokars JI, Marcus R, Culver DH, et al. Surveillance of HIV
+    infection and zidovudine use among health care workers after
+    occupational exposure to HIV-infected blood. Ann Intern Med
+    1993;118:913-9.  
+    Forseter G, Joline C, Wormser GP. Tolerability, safety, and
+    acceptability of zidovudine prophylaxis in health care
+ workers.
+    Arch Intern Med 1994;154:2745-9.  
+    Henry K, Acosta EP, Jochimsen E. Hepatotoxicity and rash
+    associated with zidovudine and zalcitabine chemoprophylaxis
+    {Letter}. Ann Intern Med 1996;124:855.  
+    Imrie A, Beveridge A, Genn W, Vizzard J, Cooper DA, the Sydney
+    Primary HIV Infection Study Group. Transmission of human
+    immunodeficiency virus type 1 resistant to nevirapine and
+    zidovudine. J Infect Dis 1997;175:1502-6.  
+    Veenstra J, Schuurman R, Cornelissen M, et al. Transmission of
+    zidovudine-resistant human immunodeficiency virus type 1
+ variants
+    following deliberate injection of blood from a patient with
+ AIDS:
+    characteristics and natural history of the virus. Clin Infect
+ Dis
+    1995;21:556-60.  
+    Erice A, Mayers DL, Strike DG, et al. Brief report: primary
+    infection with zidovudine-resistant human immunodeficiency
+ virus
+    type 1. N Engl J Med 1993;328:1163-5.  
+    Fitzgibbon JE, Gaur S, Frenkel LD, et al. Transmission from
+    one child to another of human immunodeficiency virus type 1
+ with
+    a zidovudine-resistance mutation. N Engl J Med
+ 1993;329:1835-41.  
+    Frenkel LM, Wagner LE, Demeter LM, et al. Effects of
+    zidovudine use during pregnancy on resistance and vertical
+    transmission of human immunodeficiency virus type 1. Clin
+ Infect
+    Dis 1995;20:1321-6.  
+    CDC. Public Health Service task force recommendations for the
+    use of antiretroviral drugs in pregnant women infected with
+ HIV-1
+    for maternal health and for reducing perinatal HIV-1
+ transmission
+    in the United States. MMWR 1998;47(no. RR-2).  
+    O'Sullivan MJ, Boyer PJJ, Scott GB, et al. The
+    pharmacokinetics and safety of zidovudine in the third
+ trimester
+    of pregnancy for women infected with human immunodeficiency
+ virus
+    and their infants: Phase I Acquired Immunodeficiency Syndrome
+    Clinical Trials Group Study (protocol 082). Am J Obstet
+ Gynecol
+    1993;168:1510-6.  
+    CDC. Birth outcomes following zidovudine therapy in pregnant
+    women. MMWR 1994;43: 409,415-6.  
+    White A, Eldridge R, Andrews E, the Antiretroviral Pregnancy
+    Registry Advisory Committee. Birth outcomes following
+ zidovudine
+    exposure in pregnant women: the Antiretroviral Pregnancy
+ Registry.
+    Acta Paediatr Suppl 1997;421:86-8.  
+    Culnane M, Fowler MG, Lee S, et al. Evaluation for late
+    effects of in utero (IU) ZDV exposure among uninfected infants
+    born to HIV+ women enrolled in ACTG 076 and 219 {Abstract
+ 485}.
+    Clin Infect Dis 1997;25:445.  
+    Anonymous. Antiretroviral Pregnancy Registry for didanosine
+    (VIDEX , ddI), lamivudine (EPIVIRTM, 3tc), saquinavir
+ (INVIRASE ,
+    SAQ), stavudine (ZERIT , d4T), zalcitabine (HIVID , ddC),
+    zidovudine (RETROVIR , ZDV), interim report, 1 January 1989
+    through 31 December 1996. Research Triangle Park, NC: Bristol
+    Myers Squibb Co., Glaxo Wellcome, Hoffman-LaRoche, and Merck
+ Inc.,
+    1997.  
+    Johnson MA, Goodwin C, Yuen GJ, et al. The pharmacokinetics of
+    3TC administered to HIV-1 infected women (pre-partum, during
+    labour and post-partum) and their offspring {Abstract
+ Tu.C.445}.
+    In: Proceedings from the XI International Conference on AIDS,
+    Vancouver, British Columbia, Canada; July 7-12, 1996; vol
+ I:249-50.  
+    Moodley J, Moodley D, Pillay K, et al. Antiviral effect of
+    lamivudine alone and in combination with zidovudine in
+    HIV-infected pregnant women {Abstract 607}. In: Abstracts of
+ the
+    4th Conference on Retroviruses and Opportunistic Infections.
+    Washington D.C.: January 22-26, 1997:176.  
+    Ayers KM, Clive D, Tucker WE Jr., Hajian G, de Miranda P.
+    Nonclinical toxicology studies with zidovudine: genetic
+ toxicity
+    tests and carcinogenicity bioassays in mice and rats.
+ Fundamental
+    Appl Toxicol 1996;32:148-58.  
+    Ayers KM, Torrey CE, Reynolds DJ. A transplacental
+    carcinogenicity bioassay in CD-1 mice with zidovudine.
+ Fundamental
+    Appl Toxicol 1997;38:195-8.  
+    Olivero OA, Anderson LM, Diwan BA, et al. AZT is a genomic
+    transplacental carcinogen in animal models. J AIDS 1997;14:A29
+    (Abstract 52).  
+    National Institute for Allergy and Infectious Diseases,
+    National Institutes of Health. Summary of the meeting of a
+ panel
+    to review studies of transplacental toxicity of AZT.
+ Washington,
+    DC: National Institutes of Health, 1997.  
+    CDC. Immunization of health-care workers -- recommendations of
+    the Advisory Committee on Immunization Practices (ACIP) and
+ the
+    Hospital Infection Control Practices Advisory Committee
+ (HICPAC).
+    MMWR 1997;46(no. RR-18):21-2.  
+    CDC. Recommendations for follow-up of health-care workers
+    after occupational exposure to hepatitis C virus. MMWR
+    1997;46:603-6.  
+    Richman KM, Rickman LS. The potential for transmission of
+    human immunodeficiency virus through human bites. J AIDS
+    1993;6:402-6.  
+    Vidmar L, Poljak M, Tomai J, Seme K, Klavs I. Transmission of
+    HIV-1 by human bite {Letter}. Lancet 1996;347:1762.  
+    Gerberding JL, Henderson DK. Management of occupational
+    exposures to bloodborne pathogens: hepatitis B virus,
+ hepatitis C
+    virus, and human immunodeficiency virus. Clin Infect Dis
+    1992;14:1179-85.  
+    Armstrong K, Gorden R, Santorella G. Occupational exposure of
+    health care workers (HCWs) to human immunodeficiency virus
+ (HIV):
+    stress reactions and counseling interventions. Social Work in
+    Health Care 1995;21(3):61-80.  
+    CDC. Recommendations for preventing transmission of human
+    immunodeficiency virus and hepatitis B virus to patients
+ during
+    exposure-prone  invasive  procedures.  MMWR  1991;40(no.  RR-8).   This  interagency
+working group comprised representatives of CDC,
+the Food and Drug Administration, the Health Resources and
+Services  Administration,  and  the  National  Institutes  of  Health.   **  This  interagency
+working group comprised representatives of
+CDC, FDA, and the National Institutes of Health. Information
+included in these recommendations may not represent FDA approval
+or approved labeling for the particular product or indications in
+question. Specifically the terms "safe" and "effective" may not be
+synonymous with the FDA-defined legal standards for product
+approval.  *** Although exposure to these body substances generally is not
+considered a risk for occupational HIV transmission, this does not
+negate the importance of handwashing and appropriate glove use
+when contacting these body substances. Handwashing and appropriate
+glove use are part of standard precautions for infection control
+to prevent transmission of nosocomial and community-acquired
+pathogens and are required for compliance with the Occupational
+Safety and Health Administration bloodborne pathogen standard
+(14,15). In addition, postexposure evaluation for hepatitis B (and
+possibly hepatitis C) should be provided if contact with saliva
+includes a possible portal of entry (i.e., nonintact skin, mucous
+membrane, or percutaneous injury).  
+Disclaimer
+   All MMWR HTML versions of articles are electronic conversions from ASCII text into
+HTML.  This conversion may have resulted in character translation or format errors in
+the HTML version.  Users should not rely on this HTML document, but are referred to the
+electronic  PDF  version  and/or  the  original  MMWR  paper  copy  for  the  official  text,
+figures,  and  tables.   An  original  paper  copy  of  this  issue  can  be  obtained  from  the
+Superintendent of Documents, U.S. Government Printing Office (GPO), Washington, DC
+20402-9371;  telephone:  (202)  512-1800.  Contact  GPO  for  current  prices.  Page
+converted: 10/05/98 
+    HOME  |  
+    ABOUT MMWR  | 
+    MMWR SEARCH  | 
+    DOWNLOADS  | 
+    RSS 
+    |  
+    CONTACT
+POLICY  |  
+    DISCLAIMER  |  
+    ACCESSIBILITY 
+Morbidity and Mortality Weekly Report
+                Centers for Disease Control and Prevention
+                1600 Clifton Rd, MailStop E-90, Atlanta, GA 
+                  30333, U.S.A 
+Department of Healthand Human Services This page last reviewed 5/2/01 
+ 
+Source URL: https://www.cdc.gov/mmwr/preview/mmwrhtml/00052722.htm

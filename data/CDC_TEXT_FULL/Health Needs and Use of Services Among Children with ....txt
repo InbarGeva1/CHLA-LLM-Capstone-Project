@@ -1,0 +1,316 @@
+Official websites use .gov A .gov website belongs to an official government organization
+in  the  United  States.  Secure  .gov  websites  use  HTTPS  A  lock  (   )  or  https://  means
+you've  safely  connected  to  the  .gov  website.  Share  sensitive  information  only  on
+official, secure websites. Weekly / March 25, 2022 / 71(12);453–458 Mary E. Cogswell,
+DrPH1; Eric Coil, MPH1,2; Lin H. Tian, MD1; Sarah C. Tinker, PhD1; A. Blythe Ryerson,
+PhD1;  Matthew  J.  Maenner,  PhD1;  Catherine  E.  Rice,  PhD1;  Georgina  Peacock,  MD1
+(View  author  affiliations)  What  is  already  known  about  this  topic?  Developmental
+delays,  disorders,  and  disabilities  (DDs)  are  common  among  U.S.  children  and
+adolescents.  What  is  added  by  this  report?  Approximately  one  in  six  (17.3%)  U.S.
+children and adolescents aged 3–17 years had DDs during 2014–2018. Compared with
+children and adolescents without DDs, those with DDs were two to seven times as likely
+to  take  prescription  medication  and  receive  mental  health  or  specialized  health  care
+provider  services  and  18  times  as  likely  to  receive  special  education  or  early
+intervention services. What are the implications for public health practice? Policies and
+programs  that  promote  early  identification  of  children  and  adolescents  with  DDs  and
+increase access to intervention services could improve health and reduce the need for
+services  later  in  life.  Views  equals  page  views  plus  PDF  downloads  Table  1  Table  2
+Developmental delays, disorders, or disabilities (DDs) manifest in infancy and childhood
+and can limit a person’s function throughout life* (1–3). To guide strategies to optimize
+health for U.S. children with DDs, CDC analyzed data from 44,299 participants in the
+2014–2018  National  Health  Interview  Survey  (NHIS).  Parents  reported  on  10  DDs,†
+functional abilities, health needs, and use of services. Among the approximately one in
+six (17.3%) U.S. children and adolescents aged 3–17 years (hereafter children) with one
+or more DDs, 5.7% had limited ability to move or play, 4.7% needed help with personal
+care, 4.6% needed special equipment, and 2.4% received home health care, compared
+with ≤1% for each of these measures among children without DDs. Children with DDs
+were  two  to  seven  times  as  likely  as  those  without  DDs  to  have  taken  prescription
+medication  for  ≥3  months  (41.6%  versus  8.4%),  seen  a  mental  health  professional
+(30.6% versus 4.5%), a medical specialist (26.0% versus 12.4%), or a special therapist,
+such as a physical, occupational, or speech therapist, (25.0% versus 4.5%) during the
+past  year,  and  18  times  as  likely  to  have  received  special  education  or  early
+intervention services (EIS) (41.9% versus 2.4%). These percentages varied by type of
+disability and by sociodemographic subgroup. DDs are common, and children with DDs
+often  need  substantial  health  care  and  services.  Policies  and  programs  that  promote
+early  identification  of  children  with  developmental  delays  and  facilitate  increased
+access  to  intervention  services  can  improve  health  and  reduce  the  need  for  services
+later  in  life.§  Sociodemographic  inequities  merit  further  investigation  to  guide  public
+health action and ensure early and equitable access to needed care and services. The
+study included data from the 2014–2018 NHIS, an annual, multistage probability sample
+survey  of  the  noninstitutionalized  U.S.  civilian  population.¶  In-person  interviews  were
+conducted to obtain information on household members. Among families with children,
+a  child  questionnaire  was  administered  to  a  knowledgeable  adult  (usually,  and
+hereafter  parent)  about  a  randomly  selected  child  (aged  0–17  years).  During
+2014–2018, the response rate for the child questionnaire was 59.2%–66.6%. Parents of
+children aged ≥3 years were asked about their child’s functional abilities, health needs,
+and  use  of  services  (Supplementary  Box  1,  https://stacks.cdc.gov/view/cdc/115478)
+(2–5), as well as whether their child had any of 10 specific types of DDs (Supplementary
+Box 2, https://stacks.cdc.gov/view/cdc/115479). Children could be included in multiple
+diagnostic  types  of  DDs;  however,  children  with  co-occurring  learning  disabilities  and
+intellectual  disabilities  were  excluded  from  the  learning  disability  category.  Weighted
+prevalence estimates of DDs and 95% CIs were calculated. The weighted percentages
+of children with each measure of reported functional ability, health needs, and use of
+specialty  health  care  providers  or  education  services  were  estimated  overall,  by
+selected  sociodemographic  characteristics,  number  of  DDs,  and  each  type  of  DD.
+Differences  in  percentages  were  evaluated  using  Rao-Scott  chi-square  tests  with
+p<0.05 considered statistically significant. To reflect the complex sampling design and
+generate  nationally  representative  estimates,  all  analyses  accounted  for  clustering,
+stratification,  and  weights,  using  SAS  software  (version  9.4;  SAS  Institute)  and  were
+verified using SUDAAN (version 11.0.1; RTI International). Of the 44,866 children aged
+3–17  years  included  in  the  2014–2018  NHIS,  567  were  excluded  because  of  missing
+information on any question related to DDs or abilities, health needs, or use of services,
+resulting  in  a  total  of  44,299.  The  estimated  prevalence  of  DDs  among  U.S.  children
+aged
+ 3–17
+ years
+ was
+ 17.3%,
+ ranging
+ from
+ 0.2%
+ (blindness)
+ to
+ 9.4%
+(attention-deficit/hyperactivity  disorder)  (Table  1);  6.7%  of  U.S.  children  had  two  or
+more DDs. Among children with DDs, 5.7% had limited movement or play abilities, 4.7%
+needed  help  with  personal  care,  4.6%  needed  special  equipment,  and  2.4%  received
+home health care, compared with ≤1% of children without DDs. Children with DDs were
+two to seven times as likely as those without DDs to have taken prescription medication
+for  ≥3  months  (41.6%  versus  8.4%),  have  seen  a  mental  health  professional  (30.6%
+versus 4.5%), a medical specialist (26.0% versus 12.4%), or a therapist (25.0% versus
+4.5%) during the past year (Table 1). Children with DDs were more likely to participate
+in special education or EIS (41.9% versus 2.4%). The percentage of children with limited
+abilities,  special  health  needs,  or  who  used  specialty  services  was  higher  among
+children with two or more DDs than among those with one DD or none. Children with
+each type of DD were more likely than were those without DDs to have limited abilities
+or  special  health  needs,  or  to  use  specialty  services.  Among  children  with  DDs,  the
+percentage  with  limited  abilities  and  special  health  needs,  and  who  used  specialty
+services  varied  across  sociodemographic  subgroups  (Table  2).  Compared  with
+non-Hispanic  White  children  with  DDs,  a  lower  percentage  of  non-Hispanic  Black,
+non-Hispanic  other,  and  Hispanic  children  with  DDs  took  prescription  medication.
+Compared with non-Hispanic White children with DDs, Hispanic children with DDs were
+less  likely  to  have  seen  a  mental  health  professional,  and  non-Hispanic  Black  and
+Hispanic children with DDs were less likely to have seen a medical specialist. Compared
+with children aged 3–8 years who had DDs, a lower percentage of children aged 9–17
+years with DDs needed special equipment or help with personal care, received home
+health  care,  or  saw  a  therapist,  whereas  a  higher  percentage  took  prescription
+medications  or  saw  a  mental  health  professional.  Among  children  with  DDs,  those
+whose  mother  had  less  than  a  high  school  education  were  less  likely  to  take
+prescription medication or to see specialty health care professionals, but more likely to
+receive  special  education  or  EIS.  Compared  with  children  living  above  the  federal
+poverty level, those living at or below the federal poverty level were less likely to see a
+medical specialist and more likely to receive special education or EIS. The percentage
+of children with DDs who needed help with personal care or received home health care
+and  used  services  was  higher  in  the  Northeast  and  West  than  in  the  South;  a  higher
+percentage in the Midwest saw a mental health professional or therapist, and a lower
+percentage in the West took prescription medications for ≥3 months. The percentage of
+children  with  DDs  who  took  prescription  medication  for  ≥3  months,  saw  medical
+specialists,  or  received  special  education  or  EIS  services  was  lower  among  those
+without  health  insurance.  Top  During  2014–2018,  approximately  one  in  six  (17.3%)
+children had a DD, and one in 15 (6.7%) had two or more DDs. Children with DDs have
+a  higher  prevalence  of  limited  ability  to  move  or  play,  health  needs,  and  specialized
+service use compared to those without DDs. The prevalences of DDs during 2014–2018,
+overall  and  by  type,  are  consistent  with  2015–2017  (1).  Although  differing  DD
+definitions and study methods used in previous years present challenges to comparing
+the findings in this report with data from 1997–2005 and 2006–2010, the percentage of
+U.S.  children  with  any  DD  who  had  limitations  in  movement  or  play  appeared  to  be
+slightly  lower  during  2014–2018  overall,  but  not  for  children  with  blindness,  cerebral
+palsy,  or  hearing  loss  (2,3).  In  contrast,  the  percentage  of  U.S.  children  with  special
+health needs or who took prescription medications, saw specialty health care providers,
+or received education services appeared to be similar or higher during 2014–2018 than
+1997–2005,  with  the  exception  of  children  with  autism  spectrum  disorder  (2,3).  One
+explanation  for  potential  decreases  in  health  needs  and  service  use  over  time  is  the
+inclusion  of  children  with  less  significant  support  needs  associated  with  autism
+spectrum disorder.** This study provides new data on sociodemographic differences in
+the health needs and use of special services among children with DDs. The observed
+differences could be associated with differential access to care resulting from a variety
+of  factors,  including  health  insurance  coverage,  specialist  proximity,  language  or
+cultural  barriers,  and  variability  in  practices  and  policies  (4,6–8).  A  2018  study
+examining  health  care  coverage  and  access  among  children,  adolescents,  and  young
+adults  during  2010–2016  suggests  that  significant  improvements  in  health  care
+coverage  occurred  with  the  implementation  of  the  Affordable  Care  Act  in  2010,  yet
+gaps  remain,  particularly  among  adolescents  as  they  transition  to  adult  care  (7).
+Eligibility criteria, service availability, long waiting times, cost, and lack of information
+are reported barriers to receipt of services for children with DDs (8). Referral practices
+and  coordination  across  early  childhood  service  providers  and  systems  also  affect
+access to early intervention for young children (4,6). Lower service use associated with
+poverty  is  of  concern  given  the  impact  of  poverty  on  child  development  (4,7–9).
+Although implementation of programs in low-income settings might help increase early
+identification  of  DDs  among  children  living  in  poverty,  one  study  of  treatment  for
+children with autism spectrum disorder suggests that differential service by geographic
+region might not be explained by child and family characteristics (10). In addition, lower
+service  use  associated  with  race  or  ethnic  identification  is  of  concern  given  the
+pervasive  impact  of  racism  on  child  development  (4,7–9).  More  work  is  needed  to
+ensure  that  children  with  identified  delays  receive  a  diagnosis  and  services  through
+enhanced  access,  coordination  of  care  across  systems  (e.g.,  school,  health  care,  and
+community),  and  increased  workforce  capacity  (7–9).  Strategies  and  programs  that
+support
+ families,
+ health
+ care,
+ education,
+ and
+ social
+ service
+ providers
+ with
+evidence-based interventions and tools to promote early identification and coordinated
+care across systems for children with DDs could potentially improve access to needed
+health  care  and  services.††  The  findings  in  this  report  are  subject  to  at  least  four
+limitations. First, information is reported by the parent and has not been independently
+verified;  therefore,  it  might  be  subject  to  recall  bias  or  variation  in  interpretation.
+Second,  the  reported  DDs  in  this  analysis  are  a  heterogeneous  grouping  that  vary
+materially  in  severity,  prevalence,  and  persistence  over  time.  Third,  children’s
+symptoms  and  abilities  relevant  to  diagnosis  or  their  eligibility  for  services  might
+change with intervention or age. Finally, estimates are unadjusted for demographic or
+other characteristics; thus, observed differences across groups might be attributable to
+other  factors,  such  as  other  medical  conditions  or  contextual  factors.  These  data
+confirm  that  DDs  are  common  and  often  co-occur,  and  that  children  with  DDs  have
+more  health-related  needs  and  service  use  than  do  children  without  DDs.  Strategies
+that  promote  early  identification  and  coordination  of  services  for  children  with  DDs
+could improve health and reduce the need for services later in life. Inequities in use and
+receipt  of  medications  and  services  by  sociodemographic  subgroups  deserve  further
+investigation to guide development and implementation of strategies to promote health
+equity and ensure that all children with DDs have access to needed care and services to
+enable  them  to  thrive.  Top  Benjamin  Zablotsky,  National  Center  for  Health  Statistics,
+CDC;  Lauren  Ramos,  Health  Resources  Services  Administration;  Julia  Abercrombie,
+National  Center  on  Birth  Defects  and  Developmental  Disabilities,  CDC;  Ana
+Penman-Aguilar, Office of Minority Health and Health Equity, CDC. Top Corresponding
+author: Mary E. Cogswell, mcogswell@cdc.gov, 770-488-8053. Top 1Division of Human
+Development  and  Disability,  National  Center  on  Birth  Defects  and  Developmental
+Disabilities,  CDC;  2Georgia  State  University,  Atlanta,  Georgia.  Top  Catherine  E.  Rice
+reports compensation for professional training workshops on the diagnostic assessment
+of  autism;  uncompensated  educational  and  clinical  work  related  to  licensure  as  a
+psychologist in Georgia; and uncompensated service on advisory boards for the Atlanta
+Autism Consortium, New Jersey State Scientific Advisory Panel for Autism, and HANDS
+in  Autism  Program  during  the  last  36  months.  No  other  potential  conflicts  of  interest
+were
+ disclosed.
+ Top
+ *
+https://acl.gov/sites/default/files/about-acl/2016-12/dd_act_2000.pdf
+ †
+Attention-deficit/hyperactivity  disorder,  autism  spectrum  disorder,  blindness,  cerebral
+palsy,  moderate-to-profound  hearing  loss,  learning  disability,  intellectual  disability,
+seizures in the past 12 months, stutter or stammering in the past 12 months, or any
+other
+ developmental
+ delay.
+ §
+https://sites.ed.gov/idea/statute-chapter-33/subchapter-iii/1431
+ ¶
+https://www.cdc.gov/nchs/nhis/index.htm
+ **
+https://pubmed.ncbi.nlm.nih.gov/26632847/  ††  CDC’s  Learn  the  Signs.  Act  Early.
+(https://www.cdc.gov/ActEarly);  CDC-funded  Association  of  University  Centers  on
+Disabilities
+ Children’s
+ Mental
+ Health
+ Champions
+(https://nationalcenterdph.org/our-focus-areas/wellness-and-mental-health/mental-healt
+h-champions/); CDC-funded programs through the National Resource Center on ADHD
+resources  (https://www.cdc.gov/ADHD)  and  the  Tourette  Association  of  America
+(https://www.cdc.gov/Tourette);
+ CDC’s
+ epilepsy
+ program
+(https://www.cdc.gov/epilepsy/groups/parents.htm); Department of Education, Office of
+Special Education Program’s Parent Centers (https://www.parentcenterhub.org) and the
+Health  Resources  Services  Administration,  Maternal  and  Child  Health  Bureau’s  Early
+Childhood
+ Comprehensive
+ Systems
+(https://mchb.hrsa.gov/earlychildhoodcomprehensivesystems);
+ Healthy
+ Start
+(https://mchb.hrsa.gov/maternal-child-health-initiatives/healthy-start);
+ Home
+ Visiting
+(https://mchb.hrsa.gov/maternal-child-health-initiatives/home-visiting-overview);
+Leadership  Education  in  Neurodevelopmental  and  Other  Related  Disabilities  (LEND)
+program  (https://mchb.hrsa.gov/training/projects.asp?program);  and  Got  Transition
+(https://www.hrsa.gov/library/got-transition).
+ Top
+ Top
+ Abbreviations:
+ADHD  =  attention-deficit/hyperactivity  disorder;  DDs  =  developmental  delays,
+disorders, or disabilities; EIS = early intervention services.
+* Weighted estimates and 95% CIs account for the complex survey design.
+†  Unweighted  number  of  children;  children  might  have  more  than  one  DD,  except  as
+indicated.
+§  A  physical  therapist,  speech  therapist,  respiratory  therapist,  audiologist,  or
+occupational therapist.
+¶ Children whose parents answered affirmatively to questions for one or more of the 10
+conditions listed in the table, regardless of the number of conditions reported.
+** Does not sum to percentage of children with any DD because of rounding.
+†† Potentially unreliable estimates based on a relative standard error ≥30% and <50%.
+§§ Children with both intellectual disability and learning disability were not included in
+the
+ estimate
+ of
+ children
+ with
+ learning
+ disability.
+ Top
+ Abbreviations:
+DDs  =  developmental  delays,  disorders,  or  disabilities;  EIS  =  early  intervention
+services;  FPL  =  federal  poverty  level;  GED  =  general  educational  development
+certificate; HS = high school; NA = not applicable.
+*  Children  whose  parents  answered  affirmatively  to  questions  for  one  or  more  of  10
+selected conditions (attention-deficit/hyperactivity disorder, autism spectrum disorder,
+blindness,  cerebral  palsy,  moderate  to  profound  hearing  loss,  learning  disability,
+intellectual disability, seizures, stuttering, or other DD), irrespective of the number of
+conditions reported (7,717).
+† Weighted estimates and 95% CIs account for the complex survey design.
+§ The unweighted number of children with any DD in the specified demographic group.
+¶  A  physical  therapist,  speech  therapist,  respiratory  therapist,  audiologist,  or
+occupational therapist.
+** p–value for Rao-Scott chi-square test for difference in percentages among subgroups.
+†† Potentially unreliable estimates based on a relative standard error ≥30% and <50%,
+or comparison based on a group with an unreliable estimate.
+§§  Significantly  different  from  non-Hispanic  White  children  (p<0.05;  Rao-Scott
+chi-square test).
+¶¶  Significantly  different  from  children  aged  3–8  years  (p<0.05;  Rao-Scott  chi-square
+test).
+*** Ratio of family income to FPL.
+†††  Midwest:  Kansas,  Illinois,  Indiana,  Iowa,  Michigan,  Minnesota,  Missouri,  Nebraska,
+North  Dakota,  Ohio,  South  Dakota,  and  Wisconsin;  Northeast:  Connecticut,  Maine,
+Massachusetts, New Hampshire, New Jersey, New York, Pennsylvania, Rhode Island, and
+Vermont;  South:  Alabama,  Arkansas,  Delaware,  District  of  Columbia,  Florida,  Georgia,
+Kentucky,  Louisiana,  Maryland,  Mississippi,  North  Carolina,  Oklahoma,  South  Carolina,
+Tennessee,  Texas,  Virginia,  and  West  Virginia;  and  West:  Alaska,  Arizona,  California,
+Colorado,  Hawaii,  Idaho,  Montana,  Nevada,  New  Mexico,  Oregon,  Utah,  Washington,
+and Wyoming.
+§§§  Significantly  different  from  children  living  in  the  South  (p<0.05;  Rao-Scott
+chi-square test).
+¶¶¶  Any  health  insurance  coverage  at  the  time  of  the  interview  under  private  health
+insurance.  Medicare,  Medicaid,  State  Children’s  Health  Insurance  Program,  a
+state-sponsored  health  plan,  other  government  programs,  or  military  health  plan
+(includes  TRICARE,  Veterans  Affairs,  and  Civilian  Health  and  Medical  Program  of  the
+Department of Veterans Affairs).
+**** Unreliable estimate based on a relative standard error ≥50% or comparison based
+on a group with an unreliable estimate are not shown. Top Suggested citation for this
+article: Cogswell ME, Coil E, Tian LH, et al. Health Needs and Use of Services Among
+Children  with  Developmental  Disabilities  —  United  States,  2014–2018.  MMWR  Morb
+Mortal Wkly Rep 2022;71:453–458. DOI: http://dx.doi.org/10.15585/mmwr.mm7112a3. 
+MMWR  and  Morbidity  and  Mortality  Weekly  Report  are  service  marks  of  the  U.S.
+Department of Health and Human Services.
+Use of trade names and commercial sources is for identification only and does not imply
+endorsement by the U.S. Department of 
+Health and Human Services. References to non-CDC sites on the Internet are 
+provided as a service to MMWR readers and do not constitute or imply 
+endorsement of these organizations or their programs by CDC or the U.S. 
+Department of Health and Human Services. CDC is not responsible for the content 
+of pages found at these sites. URL addresses listed in MMWR were current as of 
+the  date  of  publication.  All  HTML  versions  of  MMWR  articles  are  generated  from  final
+proofs through an automated process. 
+This  conversion  might  result  in  character  translation  or  format  errors  in  the  HTML
+version. 
+Users are referred to the electronic PDF version (https://www.cdc.gov/mmwr) 
+and/or the original MMWR paper copy for printable versions of official text, figures, and
+tables. 
+ Questions or messages regarding errors in formatting should be addressed to 
+mmwrq@cdc.gov.
+Source URL: https://www.cdc.gov/mmwr/volumes/71/wr/mm7112a3.htm

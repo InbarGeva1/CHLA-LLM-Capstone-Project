@@ -1,0 +1,137 @@
+Official websites use .gov A .gov website belongs to an official government organization
+in  the  United  States.  Secure  .gov  websites  use  HTTPS  A  lock  (   )  or  https://  means
+you've  safely  connected  to  the  .gov  website.  Share  sensitive  information  only  on
+official, secure websites. Previous updates This interim guidance is intended to assist
+with the following: Guidance addressing recommended infection prevention and control
+practices including use of source control by HCP is available in Infection Control: Severe
+acute  respiratory  syndrome  coronavirus  2  (SARS-CoV-2)  Employers  should  be  aware
+that other local, territorial, tribal, state, and federal requirements may apply, including
+those promulgated by the Occupational Safety and Health Administration (OSHA). HCP
+with even mild symptoms of COVID-19 should be prioritized for viral testing with nucleic
+acid or antigen detection assays. When testing a person with symptoms of COVID-19,
+negative results from at least one viral test  indicate that the person most likely does
+not have an active SARS-CoV-2 infection at the time the sample was collected. For HCP
+who  were  initially  suspected  of  having  COVID-19  but,  following  evaluation,  another
+diagnosis is suspected or confirmed, return-to-work decisions should be based on their
+other suspected or confirmed diagnoses. The following are criteria to determine when
+HCP with SARS-CoV-2 infection could return to work and are influenced by severity of
+symptoms  and  presence  of  immunocompromising  conditions.  After  returning  to  work,
+HCP should self-monitor for symptoms and seek re-evaluation from occupational health
+if symptoms recur or worsen.  If symptoms recur (e.g., rebound) these HCP should be
+restricted  from  work  and  follow  recommended  practices  to  prevent  transmission  to
+others  (e.g.,  use  of  well-fitting  source  control)  until  they  again  meet  the  healthcare
+criteria  below  to  return  to  work  unless  an  alternative  diagnosis  is  identified.  HCP
+with mild to moderate illness who are not  moderately to severely immunocompromised
+could  return  to  work  after  the  following  criteria  have  been  met:  *Either  a  NAAT
+(molecular) or antigen test may be used.  If using an antigen test, HCP should have a
+negative test obtained on day 5 and again 48 hours later HCP who were asymptomatic
+throughout  their  infection  and  are  not  moderately  to  severely  immunocompromised
+could  return  to  work  after  the  following  criteria  have  been  met:  *Either  a  NAAT
+(molecular) or antigen test may be used.  If using an antigen test, HCP should have a
+negative  test  obtained  on  day  5  and  again  48  hours  later  HCP  with  severe  to  critical
+illness who are not moderately to severely immunocompromised could return to work
+after the following criteria have been met: The exact criteria that determine which HCP
+will shed replication-competent virus for longer periods are not known. Disease severity
+factors  and  the  presence  of  immunocompromising  conditions  should  be  considered
+when  determining  the  appropriate  duration  for  specific  HCP.  For  a  summary  of  the
+literature, refer to Preventing Spread of Respiratory Viruses When You’re Sick. HCP who
+are  moderately  to  severely  immunocompromised  may  produce  replication-competent
+virus  beyond  20  days  after  symptom  onset  or,  for  those  who  were  asymptomatic
+throughout their infection, the date of their first positive viral test. Test-based strategy
+HCP who are symptomatic could return to work after the following criteria are met: HCP
+who  are  not  symptomatic  could  return  to  work  after  the  following  criteria  are  met:
+Exposures that might require testing and/or restriction from work can occur both while
+at  work  and  in  the  community.   Higher-risk  exposures  generally  involve  exposure  of
+HCP’s eyes, nose, or mouth to material potentially containing SARS-CoV-2, particularly
+if  these  HCP  were  present  in  the  room  for  an  aerosol-generating  procedure.  Other
+exposures not classified as higher-risk, including having body contact with the patient
+(e.g.,  rolling  the  patient)  without  gown  or  gloves,  may  impart  some  risk  for
+transmission,  particularly  if  hand  hygiene  is  not  performed  and  HCP  then  touch  their
+eyes, nose, or mouth. When classifying potential exposures, specific factors associated
+with these exposures (e.g., quality of ventilation, use of PPE and source control) should
+be evaluated on a case-by-case basis.  These factors might raise or lower the level of
+risk;  interventions,  including  restriction  from  work,  can  be  adjusted  based  on  the
+estimated  risk  for  transmission.  For  the  purposes  of  this  guidance,  higher-risk
+exposures  are  classified  as  HCP  who  had  prolonged1  close  contact2  with  a  patient,
+visitor,  or  HCP  with  confirmed  SARS-CoV-2  infection3  and:  Following  a  higher-risk
+exposure,  HCP  should:  Work  restriction  is  not  necessary  for  most  asymptomatic  HCP
+following a higher-risk exposure, regardless of vaccination status.  Examples of when
+work  restriction  may  be  considered  include:  If  work  restriction  is  recommended,  HCP
+could return to work after either of the following time periods: In addition to above: HCP
+with travel or community exposures should consult their occupational health program
+for  guidance  on  need  for  work  restrictions.  In  general,  HCP  who  have  had  prolonged
+close  contact  with  someone  with  SARS-CoV-2  in  the  community  (e.g.,  household
+contacts)  should  be  managed  as  described  for  higher-risk  occupational  exposures
+above.  Footnotes:  Healthcare  Personnel  (HCP):  HCP  refers  to  all  paid  and  unpaid
+persons  serving  in  healthcare  settings  who  have  the  potential  for  direct  or  indirect
+exposure  to  patients  or  infectious  materials,  including  body  substances  (e.g.,  blood,
+tissue,  and  specific  body  fluids);  contaminated  medical  supplies,  devices,  and
+equipment;  contaminated  environmental  surfaces;  or  contaminated  air.  HCP  include,
+but are not limited to, emergency medical service personnel, nurses, nursing assistants,
+home  healthcare  personnel,  physicians,  technicians,  therapists,  phlebotomists,
+pharmacists, dental healthcare personnel, students and trainees, contractual staff not
+employed by the healthcare facility, and persons not directly involved in patient care,
+but  who  could  be  exposed  to  infectious  agents  that  can  be  transmitted  in  the
+healthcare  setting  (e.g.,  clerical,  dietary,  environmental  services,  laundry,  security,
+engineering
+ and
+ facilities
+ management,
+ administrative,
+ billing,
+ and
+ volunteer
+personnel).  For  this  guidance,  HCP  does  not  include  clinical  laboratory  personnel.
+Immunocompromised:   For  the  purposes  of  this  guidance,  moderate  to  severely
+immunocompromising conditions include, but might not be limited to, those defined in
+the Interim Clinical Considerations for Use of COVID-19 Vaccines. The studies used to
+inform this guidance did not clearly define “severe” or “critical” illness. This guidance
+has taken a conservative approach to define these categories. Although not developed
+to inform decisions about duration of Transmission-Based Precautions, the definitions in
+the National Institutes of Health (NIH) COVID-19 Treatment Guidelines are one option
+for  defining  severity  of  illness  categories.  The  highest  level  of  illness  severity
+experienced  by  the  patient  at  any  point  in  their  clinical  course  should  be  used  when
+determining  the  duration  of  Transmission-Based  Precautions.  Mild  Illness:  Individuals
+who have any of the various signs and symptoms of COVID-19 (e.g., fever, cough, sore
+throat,  malaise,  headache,  muscle  pain)  without  shortness  of  breath,  dyspnea,  or
+abnormal  chest  imaging.  Moderate  Illness:  Individuals  who  have  evidence  of  lower
+respiratory  disease,  by  clinical  assessment  or  imaging,  and  a  saturation  of  oxygen
+(SpO2) ≥94% on room air at sea level. Severe Illness: Individuals who have respiratory
+frequency  >30  breaths  per  minute,  SpO2  <94%  on  room  air  at  sea  level  (or,  for
+patients  with  chronic  hypoxemia,  a  decrease  from  baseline  of  >3%),  ratio  of  arterial
+partial pressure of oxygen to fraction of inspired oxygen (PaO2/FiO2) <300 mmHg, or
+lung  infiltrates  >50%.  Critical  Illness:  Individuals  who  have  respiratory  failure,  septic
+shock,  and/or  multiple  organ  dysfunction.  In  pediatric  patients,  radiographic
+abnormalities  are  common  and,  for  the  most  part,  should  not  be  used  as  the  sole
+criteria to define COVID-19 illness category. Normal values for respiratory rate also vary
+with  age  in  children;  thus,  hypoxia  should  be  the  primary  criterion  to  define  severe
+illness, especially in younger children. Fever: For the purpose of this guidance, fever is
+defined  as  subjective  fever  (feeling  feverish)  or  a  measured  temperature  of  100.0oF
+(37.8oC) or higher. Note that fever may be intermittent or may not be present in some
+people,  such  as  those  who  are  elderly,  immunocompromised,  or  taking  certain
+fever-reducing  medications  (e.g.,  nonsteroidal  anti-inflammatory  drugs  [NSAIDS]).
+Facemask:  OSHA  defines  facemasks  as  “a  surgical,  medical  procedure,  dental,  or
+isolation mask that is FDA-cleared, authorized by an FDA EUA, or offered or distributed
+as  described  in  an  FDA  enforcement  policy.  Facemasks  may  also  be  referred  to  as
+‘medical procedure masks’.”  Facemasks should be used according to product labeling
+and local, state, and federal requirements. FDA-cleared surgical masks are designed to
+protect  against  splashes  and  sprays  and  are  prioritized  for  use  when  such  exposures
+are  anticipated,  including  surgical  procedures.  Other  facemasks,  such  as  some
+procedure  masks,  which  are  typically  used  for  isolation  purposes,  may  not  provide
+protection against splashes and sprays. Respirator: A respirator is a personal protective
+device  that  is  worn  on  the  face,  covers  at  least  the  nose  and  mouth,  and  is  used  to
+reduce  the  wearer’s  risk  of  inhaling  hazardous  airborne  particles  (including  dust
+particles  and  infectious  agents),  gases,  or  vapors.  Respirators  are  certified  by
+CDC/NIOSH, including those intended for use in healthcare. Cloth mask: Textile (cloth)
+covers that are intended  primarily  for source control  in  the community.  They  are not
+personal  protective  equipment  (PPE)  appropriate  for  use  by  healthcare  personnel.
+Guidance on design, use, and maintenance of cloth masks is available. As of December
+23, 2021 Due to concerns about increased transmissibility of the SARS-CoV-2 Omicron
+variant, this guidance is being updated to enhance protection for healthcare personnel
+(HCP), patients, and visitors, and to address concerns about potential impacts on the
+healthcare  system  given  a  surge  of  SARS-CoV-2  infections.  These  updates  will  be
+refined as additional information becomes available to inform recommended actions. As
+of September 10, 2021 The interim guidance was updated to: As of March 10, 2021 As
+of  February  16,  2021:  Updates  as  of  Dec  14,  2020:  To  receive  email  updates  about
+COVID-19, enter your email address:
+Source URL: https://www.cdc.gov/coronavirus/2019-ncov/hcp/guidance-risk-assesment-hcp.html

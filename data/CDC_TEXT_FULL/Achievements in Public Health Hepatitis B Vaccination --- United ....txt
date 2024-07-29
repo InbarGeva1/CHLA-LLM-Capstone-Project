@@ -1,0 +1,1423 @@
+ Persons using assistive technology might not be able to fully access information in this
+file. For assistance, please send e-mail to: mmwrq@cdc.gov. Type 508 Accommodation
+and  the  title  of  the  report  in  the  subject  line  of  e-mail.  This  year  marks  the  20th
+anniversary of the implementation in the United States of the world's first vaccine 
+against hepatitis B virus (HBV). In addition to acute disease, persons infected with HBV
+are at risk for chronic HBV infection 
+and severe morbidity and mortality from cirrhosis and hepatocellular carcinoma. Before
+1982, an estimated 
+200,000--300,000  persons  in  the  United  States  were  infected  annually  with  HBV,
+including approximately 20,000 children 
+(1).  No  practical  method  of  pre-exposure  prophylaxis  for  HBV  existed,  and  the  only
+postexposure prophylaxis available was injection 
+with hepatitis B immune globulin (HBIG). 
+ Since 1982, substantial progress has been made toward eliminating HBV transmission
+in children and reducing the risk 
+for  HBV  infection  in  adults.  During  1982--2002,  an  estimated  40  million  infants  and
+children and 30 million adults 
+received  hepatitis  B  vaccine.  Because  of  vaccination  and  changes  in  risk-reduction
+behaviors among at-risk populations in response 
+to the HIV/AIDS epidemic, the number of persons infected in the United States declined
+to an estimated 79,000 in 2001. 
+To 
+eliminate  HBV  transmission,  high  vaccine-coverage  rates  must  be  sustained  among
+infants, children, and adolescents, 
+and programs to vaccinate adults at high risk for HBV infection must be expanded. 
+Evolving Vaccination Strategy 
+In June 1982, the Advisory Committee on Immunization Practices (ACIP) published the
+first official recommendations 
+on the use of hepatitis B vaccine (Table) 
+(2). ACIP recommended pre-exposure vaccination initially for groups with a high 
+risk  for  HBV  infection.*  However,  by  1989,  it  had  become  evident  that  members  of
+these groups (e.g., men who have sex 
+with  men  [MSM],  injection-drug  users  [IDUs],  and  heterosexual  persons  with  multiple
+partners) were not being vaccinated 
+in substantial numbers. Some persons did not recognize the risk for HBV infection, and
+others did not know about the 
+vaccine or were unable to purchase it. In addition, health-care providers often did not
+identify candidates for vaccination 
+(CDC,  unpublished  data,  1987).  Health-care  workers  comprised  80%  of  the
+approximately 2.5 million 
+persons  vaccinated  during  the  1980s;  however,  only  5%  of  acute  hepatitis  B  cases
+occurred among health-care workers 
+(3).
+In  1991,  recognizing  the  difficulty  of  vaccinating  high-risk  adults  and  the  substantial
+burden of HBV-related 
+disease  acquired  from  infections  in  childhood,  ACIP  recommended  a  comprehensive
+strategy to eliminate HBV transmission in 
+the  United  States  (4).  The  strategy  focused  on  universal  childhood  vaccination,
+prevention of perinatal HBV 
+transmission,  vaccination  of  adolescents  and  adults  in  high-risk  groups,  and  catch-up
+vaccinations for susceptible children in 
+high-risk  populations.  In  1995,  ACIP  recommended  the  routine  vaccination  of  all
+adolescents aged 11--12 years who had not 
+been vaccinated previously (5), and in 1999, ACIP recommended that all unvaccinated
+children aged <19 years be vaccinated 
+(6).  The  ACIP  vaccination  strategies  for  children  and  adolescents  have  been
+implemented successfully in the United States, 
+and  hepatitis  B  vaccine  is  now  considered  part  of  the  routine  childhood  vaccination
+schedule. During 1993--2000, the 
+national  coverage  rate  for  hepatitis  B  vaccine  among  children  aged  19--35  months
+increased from 16% to 90%, and the coverage 
+rate for U.S. adolescents aged 13--15 years increased from near zero to 67%.
+Part of the success of these strategies can be attributed to the availability of expanded
+funding for childhood 
+vaccinations  and  to  laws  requiring  vaccination  of  school  children.  In  1994,  Congress
+enacted Vaccines for Children, a national program 
+to  purchase  ACIP-recommended  vaccines  for  eligible  children  aged  <19  years.  Laws
+have been enacted in 44 states 
+mandating  hepatitis  B  vaccination  for  children  entering  elementary  schools  and
+childcare centers and in 34 states requiring 
+vaccination for adolescents in middle school 
+(7).
+Substantial declines in the incidence of acute hepatitis B have occurred among highly
+vaccinated populations, such as 
+young children and health-care workers. During 1986--2000, the rate of acute hepatitis
+B among children aged 1--9 years 
+declined  >80%  (Figure).  During  1983--1995,  the  rate  of  HBV  infection  in  health-care
+workers declined 95% and is now lower 
+than the rate for the general U.S. population 
+(8).
+Since  hepatitis  B  vaccination  began  in  1982,  the  prevalence  of  chronic  HBV  infection
+has been reduced substantially 
+among populations whose infection rates previously were high. For example, in 1994,
+the prevalence of chronic HBV 
+infection  among  Alaska  Natives  aged  <10  years  (i.e.,  children  born  after  routine
+vaccination began) was zero, compared with 
+16% among Alaska Natives aged 11--30 years 
+(9).
+Preventing Perinatal HBV Transmission
+Since 1982, the control of perinatal infection has been a crucial part of ACIP's evolving
+HBV vaccination strategy. In 
+1984, ACIP recommended hepatitis B surface antigen (HBsAg) screening for pregnant
+women in groups at high risk for 
+acquiring HBV infection and postexposure immunoprophylaxis with hepatitis B vaccine
+and HBIG for all infants born to 
+HBsAg-positive  mothers  (10).  However,  within  a  few  years,  studies  showed  that
+screening women in high-risk groups failed 
+to identify 35%--65% of HBsAg-positive pregnant women 
+(11,12). Consequently, in 1988, ACIP recommended that 
+all pregnant women be screened routinely for HBsAg 
+(13). 
+In  1990,  the  federal  government  began  funding  perinatal  hepatitis  B  prevention
+programs to promote prenatal screening 
+of  all  pregnant  women  for  HBsAg  and  tracking  of  infants  born  to  HBsAg-positive
+mothers to ensure that the infants 
+receive appropriate postexposure prophylaxis. These programs have been implemented
+successfully. A survey of birthing 
+hospitals conducted in 2000 in 14 states showed that 96.5% of pregnant women had
+been screened for HBsAg (CDC, 
+unpublished data, 2000). During 2000, state health departments identified and tracked
+10,192 infants born to HBsAg-positive 
+mothers  (CDC,  unpublished  data,  2000).  Of  these  infants,  90%  received  hepatitis  B
+vaccine and HBIG before hospital discharge. 
+At 
+age 6--8 months, 71% of these infants had completed the 3-dose hepatitis B vaccine
+series. On the basis of these 
+coverage  rates,  CDC  estimates  that  perinatal  HBV  infection  in  the  United  States
+declined 75% during 1987--2000 
+(CDC, unpublished data, 2000).
+Implementation Challenges
+Since  its  inception  in  1982,  the  U.S.  hepatitis  B  vaccination  effort  has  faced  several
+challenges. In the mid-1980s, 
+concern was expressed about the possible risk for human immunodeficiency virus (HIV)
+transmission by the original 
+plasma-derived  vaccine;  however,  no  transmission  of  any  microbial  agent  was
+demonstrated, and the safety of the vaccine was reaffirmed 
+(14). Plasma-derived hepatitis B vaccines are no longer used in the United States, but
+their use continues safely in other 
+countries.  The  vaccines  currently  available  in  the  United  States  are  produced  by
+recombinant DNA technology.
+In  1991,  some  pediatric-care  providers  were  reluctant  to  accept  the  ACIP
+recommendation that all U.S. infants 
+be vaccinated. However, by 1996, comprehensive efforts to educate 
+providers and parents about hepatitis B and the benefit 
+of vaccination had resulted in broad acceptance of the vaccine 
+(15).
+In  June  1999,  concerns  were  expressed  about  the  risk  to  young  children  of  mercury
+exposure from thimerosal, a 
+preservative used in childhood vaccines, including hepatitis B vaccine. As a precaution,
+the U.S. Public Health Service (PHS), 
+the  American  Academy  of  Pediatrics  (AAP),  and  the  American  Academy  of  Family
+Physicians (AAFP) recommended 
+postponing  the  first  dose  of  hepatitis  B  vaccine  from  birth  until  age  2--6  months  for
+infants born to HBsAg-negative mothers. 
+These  groups  also  recommended  eliminating  thimerosal  from  childhood  vaccines  as
+soon as possible. By 2000, the two 
+companies  that  manufacture  hepatitis  B  vaccine  in  the  United  States  had  eliminated
+thimerosal as a preservative from these vaccines, 
+and  PHS,  AAP,  and  AAFP  urged  the  resumption  of  hepatitis  B  vaccination  at  birth.
+However, the temporary postponement 
+of  hepatitis  B  vaccine  at  birth  resulted  in  the  failure  of  some  hospitals  to  immunize
+high-risk infants appropriately. This 
+situation  persisted  after  vaccines  that  do  not  contain  thimerosal  as  a  preservative
+became available 
+(16).
+Although  concerns  have  been  expressed  over  the  past  20  years  that  certain  chronic
+illnesses might be caused by hepatitis 
+B vaccine, no evidence exists that any of these diseases is caused by the vaccine. For
+example, in the mid-1990s, concerns 
+were expressed that the vaccine might cause multiple sclerosis. However, a report by
+the Institute of Medicine (IOM) found 
+no evidence of a causal relation between hepatitis B vaccination in adults and multiple
+sclerosis 
+(17).  The  vaccine  continues  to  be  considered  safe  by  the  U.S.  Food  and  Drug
+Administration, ACIP, IOM, and other national professional vaccination 
+advisory groups.
+Challenges for the 21st Century
+Despite  progress  in  vaccinating  children  and  adults  in  some  occupational  and
+racial/ethnic groups, approximately 
+1.2 million persons in the United States have chronic HBV infection, and an estimated
+4,000--5,000 persons die each year 
+from HBV-related liver diseases. The goal of eliminating HBV transmission in the United
+States can be achieved only by 
+sustaining  a  high  level  of  immunity  against  HBV  infection  in  all  age  groups.  The
+prospect for achieving immunity in children is 
+already within reach; 90% of U.S. children aged 2 years receive 3 doses of hepatitis B
+vaccine, a coverage rate that 
+meets  national  health  goals.  To  maintain  high  hepatitis  B  vaccine  coverage,  public
+health professionals must ensure that the safety of hepatitis 
+B vaccine is monitored appropriately through credible scientific studies that assure 
+the public that vaccines are safe. 
+Two  important  challenges  for  health  departments  and  health-care  providers  are
+maintaining high screening rates 
+among pregnant women for HBsAg and ensuring that newborn infants receive proper
+immunoprophylaxis. Although high 
+screening rates have been achieved among pregnant women, current efforts to identify
+and track infants born to 
+HBsAg-positive  mothers  are  inadequate.  Advances  in  the  prevention  of  perinatal  HBV
+transmission will depend on improved 
+health  department  identification,  tracking,  and  case  management  of  infants  born  to
+HBsAg-positive mothers 
+(18).
+Routine vaccination of adolescents must be increased and aggressive efforts made to
+vaccinate adults at high risk for 
+HBV  infection.  Adolescent  vaccination  will  remain  an  important  goal  for  the  next
+decade, until the cohort of vaccinated 
+infants  reaches  adolescence.  State  laws  mandating  hepatitis  B  vaccination  for
+middle-school children are effective in achieving 
+high  coverage  rates  (7).  Adoption  of  these  laws  by  more  states  will  increase  the
+adolescent vaccination rate. 
+The  greatest  remaining  challenge  for  hepatitis  B  prevention  is  the  vaccination  of
+high-risk adults. The rate of hepatitis 
+B  vaccination  in  this  group  has  remained  low,  in  part  because  of  the  difficulty  in
+identifying candidates for vaccination 
+before  they  become  infected  and  limited  public  funding  for  adult  vaccination.  In
+serosurveys of MSM aged 15--22 years recruited 
+at 
+public  venues  in  seven  U.S.  metropolitan  areas  during  1994--1998,  only  9%  had
+serologic evidence of hepatitis B 
+vaccination  (19).  Among  IDUs  attending  sexually  transmitted  disease  (STD)  clinics  in
+San Diego from 1998--2001, only 6% 
+reported previous hepatitis B vaccination (CDC, unpublished data, 2002).
+The  national  health  objectives  for  2010  call  for  a  reduction  of  75%--90%  in  acute
+hepatitis B cases among high-risk 
+adults (20). To achieve this goal, adults with behavioral risk factors for HBV infection
+must be identified and vaccinated. 
+Many
+ opportunities
+ to
+ vaccinate
+ high-risk
+ adults
+ are
+ missed.
+ For
+ example,
+approximately 56% of adults with acute hepatitis B 
+have received care previously in correctional facilities or STD treatment clinics, where
+vaccination could have been offered 
+(21).  The  most  effective  approach  to  vaccinating  high-risk  adults  is  to  integrate
+hepatitis B vaccination into programs that 
+provide  services  to  persons  with  risk  factors  for  HBV  infection  (e.g.,  STD  clinics,  HIV
+counseling and testing sites, 
+correctional facilities, and drug treatment clinics). CDC is working with state and local
+public health departments to 
+integrate  comprehensive  hepatitis  prevention  measures,  including  hepatitis  B
+vaccination, into programs providing services to 
+persons at risk for HBV infection. In addition, CDC has funded cooperative agreements
+at 18 sites around the country to identify 
+the  most  effective  approaches  to  achieve  integration  of  hepatitis  B  vaccination  into
+these programs.
+Sustaining  high  vaccine-coverage  rates  among  infants,  children,  and  adolescents  will
+ensure that future generations 
+are  protected  from  HBV  infection  and  its  consequences.  However,  unless  efforts  to
+vaccinate adults at increased risk for 
+HBV  infection  are  greatly  expanded,  complete  elimination  of  HBV  transmission  might
+take another 20 years to achieve.
+Reported by: National Immunization Program; Div of Viral Hepatitis, National Center for
+Infectious Diseases, CDC.
+References
+ Armstrong  GL,  Mast  EE,  Wojczynski  M,  Margolis  HS.  Childhood  hepatitis  B  virus
+infections in the United States before hepatitis B 
+immunization. Pediatrics 2001;108:1123--8.
+  CDC. Inactivated hepatitis B vaccine. MMWR
+  1982;31:317--8.
+ Alter MJ, Hadler SC, Margolis HS, et al. The changing epidemiology of hepatitis B in the
+United States: need for alternative vaccination 
+strategies. JAMA 1990;263:1218--22.
+  CDC. Hepatitis B virus: a comprehensive strategy for eliminating transmission in the
+United States through universal childhood 
+vaccination. MMWR 1991;40(No. RR-13).
+  CDC.  Update:  recommendations  to  prevent  hepatitis  B  virus  transmission---United
+States. MMWR
+  1995;44:574--5.
+  CDC.  Update:  recommendations  to  prevent  hepatitis  B  virus  transmission---United
+States. MMWR
+  1999;48:33--4.
+  CDC. Effectiveness of a middle school vaccination law---California, 1999--2001. MMWR
+  2001;50:660--3.
+ Mahoney FJ, Stewart K, Hu H, Coleman P, Alter MJ. Progress toward the elimination of
+hepatitis B virus transmission among health care 
+workers in the United States. Arch Intern Med 1997;157:2601--5.
+  Harpaz R, McMahon BJ, Margolis HS, et al. Elimination of new chronic hepatitis B virus
+infections: results of the Alaska immunization program. 
+J Infect Dis 2000;181:413--8.
+  CDC. Postexposure prophylaxis of hepatitis B. MMWR
+  1984;33:285--90.
+ Kumar ML, Dawson NV, McCullough AJ, et al. Should all pregnant women be screened
+for hepatitis B? Ann Intern Med 1987;107:273--7.
+ Jonas MM, Schiff ER, O'Sullivan MJ, et al. Failure of Centers for Disease Control criteria
+to identify hepatitis B infection in a large 
+municipal obstetrical population. Ann Intern Med 1987;107:335--7.
+  CDC. Prevention of perinatal transmission of hepatitis B virus: prenatal screening of all
+pregnant women for hepatitis B surface antigen. 
+MMWR 1988;37:341--6, 351.
+  CDC. Hepatitis B vaccine: evidence confirming lack of AIDS transmission. MMWR
+  1984;33:685--7.
+ Freed  GL,  Freeman  VA,  Clark  SJ,  Konrad  TR,  Pathman  DE.  Pediatrician  and  family
+physician agreement with and adoption of universal hepatitis 
+B immunization. J Family Prac 1996;42:587--92. 
+ Clark SJ, Cabana MD, Malik T, Yusuf H, Freed GL. Hepatitis B vaccination practices in
+hospital newborn nurseries before and after changes 
+in vaccination recommendations. Archives Pediatr Adoles Med 2001;155:915--20.
+ Institute of Medicine Immunization Safety Review Committee. In: Stratton K, Almario D,
+McCormick MC, eds. Hepatitis B vaccine 
+and demyelinating disorders, 2002. Washington, DC: National Academy Press, 2002.
+ 
+ 
+ CDC.
+ Prevention
+ of
+ perinatal
+ hepatitis
+ B
+ through
+ enhanced
+ case
+management---Connecticut, 1994--1995, and United States, 1994. 
+MMWR 1996;45:454--7.
+  MacKellar  DA,  Valleroy  LA,  Secura  GM,  et  al.  Two  decades  after  vaccine  license:
+hepatitis B immunization and infection among young men 
+who have sex with men. Am J Public Health 2001;91:965--71.
+ U.S. Department of Health and Human Services. Healthy people 2010 (conference ed,
+2 vols). Washington, DC: U.S. Department of Health 
+and Human Services, 2000.
+  Goldstein ST, Alter MJ, Williams IT, et al. Incidence and risk factors for acute hepatitis B
+in the United States, 1982--1998: implications 
+for vaccination programs. J Infect Dis 2002;185:713--9.
+*  Health-care  providers,  clients,  and  staff  of  institutions  for  the  developmentally
+disabled, hemodialysis patients, men who have sex with men, injection-drug 
+users,  recipients  of  clotting  factors  for  bleeding  disorders,  household  and  sexual
+contacts of persons with chronic HBV infection, populations with high rates of 
+HBV infection (e.g., Alaska Natives, Pacific Islanders, and immigrants and refugees from
+countries in which HBV is endemic), and inmates of long-term 
+correctional facilities.
+TableReturn to top.
+FigureReturn to top.
+Use of trade names and commercial sources is for identification only and does not imply
+endorsement by the U.S. Department of 
+Health and Human Services.References to non-CDC sites on the Internet are 
+provided as a service to MMWR readers and do not constitute or imply 
+endorsement of these organizations or their programs by CDC or the U.S. 
+Department of Health and Human Services. CDC is not responsible for the content 
+of pages found at these sites. URL addresses listed in MMWR were current as of 
+the date of publication.
+Disclaimer
+  
+All MMWR HTML versions of articles are electronic conversions from ASCII text 
+into HTML.  This conversion may have resulted in character translation or format errors
+in the HTML version.  
+Users  should  not  rely  on  this  HTML  document,  but  are  referred  to  the  electronic  PDF
+version and/or 
+the original MMWR paper copy for the official text, figures, and tables.  
+An  original  paper  copy  of  this  issue  can  be  obtained  from  the  Superintendent  of
+Documents, 
+U.S. Government Printing Office (GPO), Washington, DC 20402-9371; telephone: (202)
+512-1800. 
+Contact GPO for current prices.
+**Questions or messages regarding errors in formatting should be addressed to 
+mmwrq@cdc.gov.
+Page converted: 6/27/2002
+ In June 1982, the Advisory Committee on Immunization Practices (ACIP) published the
+first official recommendations 
+on the use of hepatitis B vaccine (Table) 
+(2). ACIP recommended pre-exposure vaccination initially for groups with a high 
+risk  for  HBV  infection.*  However,  by  1989,  it  had  become  evident  that  members  of
+these groups (e.g., men who have sex 
+with  men  [MSM],  injection-drug  users  [IDUs],  and  heterosexual  persons  with  multiple
+partners) were not being vaccinated 
+in substantial numbers. Some persons did not recognize the risk for HBV infection, and
+others did not know about the 
+vaccine or were unable to purchase it. In addition, health-care providers often did not
+identify candidates for vaccination 
+(CDC,  unpublished  data,  1987).  Health-care  workers  comprised  80%  of  the
+approximately 2.5 million 
+persons  vaccinated  during  the  1980s;  however,  only  5%  of  acute  hepatitis  B  cases
+occurred among health-care workers 
+(3).
+ In  1991,  recognizing  the  difficulty  of  vaccinating  high-risk  adults  and  the  substantial
+burden of HBV-related 
+disease  acquired  from  infections  in  childhood,  ACIP  recommended  a  comprehensive
+strategy to eliminate HBV transmission in 
+the  United  States  (4).  The  strategy  focused  on  universal  childhood  vaccination,
+prevention of perinatal HBV 
+transmission,  vaccination  of  adolescents  and  adults  in  high-risk  groups,  and  catch-up
+vaccinations for susceptible children in 
+high-risk  populations.  In  1995,  ACIP  recommended  the  routine  vaccination  of  all
+adolescents aged 11--12 years who had not 
+been vaccinated previously (5), and in 1999, ACIP recommended that all unvaccinated
+children aged <19 years be vaccinated 
+(6).  The  ACIP  vaccination  strategies  for  children  and  adolescents  have  been
+implemented successfully in the United States, 
+and  hepatitis  B  vaccine  is  now  considered  part  of  the  routine  childhood  vaccination
+schedule. During 1993--2000, the 
+national  coverage  rate  for  hepatitis  B  vaccine  among  children  aged  19--35  months
+increased from 16% to 90%, and the coverage 
+rate for U.S. adolescents aged 13--15 years increased from near zero to 67%.
+ Part of the success of these strategies can be attributed to the availability of expanded
+funding for childhood 
+vaccinations  and  to  laws  requiring  vaccination  of  school  children.  In  1994,  Congress
+enacted Vaccines for Children, a national program 
+to  purchase  ACIP-recommended  vaccines  for  eligible  children  aged  <19  years.  Laws
+have been enacted in 44 states 
+mandating  hepatitis  B  vaccination  for  children  entering  elementary  schools  and
+childcare centers and in 34 states requiring 
+vaccination for adolescents in middle school 
+(7).
+ Substantial declines in the incidence of acute hepatitis B have occurred among highly
+vaccinated populations, such as 
+young children and health-care workers. During 1986--2000, the rate of acute hepatitis
+B among children aged 1--9 years 
+declined  >80%  (Figure).  During  1983--1995,  the  rate  of  HBV  infection  in  health-care
+workers declined 95% and is now lower 
+than the rate for the general U.S. population 
+(8).
+ Since hepatitis B vaccination began in 1982, the prevalence of chronic HBV infection
+has been reduced substantially 
+among populations whose infection rates previously were high. For example, in 1994,
+the prevalence of chronic HBV 
+infection  among  Alaska  Natives  aged  <10  years  (i.e.,  children  born  after  routine
+vaccination began) was zero, compared with 
+16% among Alaska Natives aged 11--30 years 
+(9).
+Preventing Perinatal HBV Transmission
+Since 1982, the control of perinatal infection has been a crucial part of ACIP's evolving
+HBV vaccination strategy. In 
+1984, ACIP recommended hepatitis B surface antigen (HBsAg) screening for pregnant
+women in groups at high risk for 
+acquiring HBV infection and postexposure immunoprophylaxis with hepatitis B vaccine
+and HBIG for all infants born to 
+HBsAg-positive  mothers  (10).  However,  within  a  few  years,  studies  showed  that
+screening women in high-risk groups failed 
+to identify 35%--65% of HBsAg-positive pregnant women 
+(11,12). Consequently, in 1988, ACIP recommended that 
+all pregnant women be screened routinely for HBsAg 
+(13). 
+In  1990,  the  federal  government  began  funding  perinatal  hepatitis  B  prevention
+programs to promote prenatal screening 
+of  all  pregnant  women  for  HBsAg  and  tracking  of  infants  born  to  HBsAg-positive
+mothers to ensure that the infants 
+receive appropriate postexposure prophylaxis. These programs have been implemented
+successfully. A survey of birthing 
+hospitals conducted in 2000 in 14 states showed that 96.5% of pregnant women had
+been screened for HBsAg (CDC, 
+unpublished data, 2000). During 2000, state health departments identified and tracked
+10,192 infants born to HBsAg-positive 
+mothers  (CDC,  unpublished  data,  2000).  Of  these  infants,  90%  received  hepatitis  B
+vaccine and HBIG before hospital discharge. 
+At 
+age 6--8 months, 71% of these infants had completed the 3-dose hepatitis B vaccine
+series. On the basis of these 
+coverage  rates,  CDC  estimates  that  perinatal  HBV  infection  in  the  United  States
+declined 75% during 1987--2000 
+(CDC, unpublished data, 2000).
+Implementation Challenges
+Since  its  inception  in  1982,  the  U.S.  hepatitis  B  vaccination  effort  has  faced  several
+challenges. In the mid-1980s, 
+concern was expressed about the possible risk for human immunodeficiency virus (HIV)
+transmission by the original 
+plasma-derived  vaccine;  however,  no  transmission  of  any  microbial  agent  was
+demonstrated, and the safety of the vaccine was reaffirmed 
+(14). Plasma-derived hepatitis B vaccines are no longer used in the United States, but
+their use continues safely in other 
+countries.  The  vaccines  currently  available  in  the  United  States  are  produced  by
+recombinant DNA technology.
+In  1991,  some  pediatric-care  providers  were  reluctant  to  accept  the  ACIP
+recommendation that all U.S. infants 
+be vaccinated. However, by 1996, comprehensive efforts to educate 
+providers and parents about hepatitis B and the benefit 
+of vaccination had resulted in broad acceptance of the vaccine 
+(15).
+In  June  1999,  concerns  were  expressed  about  the  risk  to  young  children  of  mercury
+exposure from thimerosal, a 
+preservative used in childhood vaccines, including hepatitis B vaccine. As a precaution,
+the U.S. Public Health Service (PHS), 
+the  American  Academy  of  Pediatrics  (AAP),  and  the  American  Academy  of  Family
+Physicians (AAFP) recommended 
+postponing  the  first  dose  of  hepatitis  B  vaccine  from  birth  until  age  2--6  months  for
+infants born to HBsAg-negative mothers. 
+These  groups  also  recommended  eliminating  thimerosal  from  childhood  vaccines  as
+soon as possible. By 2000, the two 
+companies  that  manufacture  hepatitis  B  vaccine  in  the  United  States  had  eliminated
+thimerosal as a preservative from these vaccines, 
+and  PHS,  AAP,  and  AAFP  urged  the  resumption  of  hepatitis  B  vaccination  at  birth.
+However, the temporary postponement 
+of  hepatitis  B  vaccine  at  birth  resulted  in  the  failure  of  some  hospitals  to  immunize
+high-risk infants appropriately. This 
+situation  persisted  after  vaccines  that  do  not  contain  thimerosal  as  a  preservative
+became available 
+(16).
+Although  concerns  have  been  expressed  over  the  past  20  years  that  certain  chronic
+illnesses might be caused by hepatitis 
+B vaccine, no evidence exists that any of these diseases is caused by the vaccine. For
+example, in the mid-1990s, concerns 
+were expressed that the vaccine might cause multiple sclerosis. However, a report by
+the Institute of Medicine (IOM) found 
+no evidence of a causal relation between hepatitis B vaccination in adults and multiple
+sclerosis 
+(17).  The  vaccine  continues  to  be  considered  safe  by  the  U.S.  Food  and  Drug
+Administration, ACIP, IOM, and other national professional vaccination 
+advisory groups.
+Challenges for the 21st Century
+Despite  progress  in  vaccinating  children  and  adults  in  some  occupational  and
+racial/ethnic groups, approximately 
+1.2 million persons in the United States have chronic HBV infection, and an estimated
+4,000--5,000 persons die each year 
+from HBV-related liver diseases. The goal of eliminating HBV transmission in the United
+States can be achieved only by 
+sustaining  a  high  level  of  immunity  against  HBV  infection  in  all  age  groups.  The
+prospect for achieving immunity in children is 
+already within reach; 90% of U.S. children aged 2 years receive 3 doses of hepatitis B
+vaccine, a coverage rate that 
+meets  national  health  goals.  To  maintain  high  hepatitis  B  vaccine  coverage,  public
+health professionals must ensure that the safety of hepatitis 
+B vaccine is monitored appropriately through credible scientific studies that assure 
+the public that vaccines are safe. 
+Two  important  challenges  for  health  departments  and  health-care  providers  are
+maintaining high screening rates 
+among pregnant women for HBsAg and ensuring that newborn infants receive proper
+immunoprophylaxis. Although high 
+screening rates have been achieved among pregnant women, current efforts to identify
+and track infants born to 
+HBsAg-positive  mothers  are  inadequate.  Advances  in  the  prevention  of  perinatal  HBV
+transmission will depend on improved 
+health  department  identification,  tracking,  and  case  management  of  infants  born  to
+HBsAg-positive mothers 
+(18).
+Routine vaccination of adolescents must be increased and aggressive efforts made to
+vaccinate adults at high risk for 
+HBV  infection.  Adolescent  vaccination  will  remain  an  important  goal  for  the  next
+decade, until the cohort of vaccinated 
+infants  reaches  adolescence.  State  laws  mandating  hepatitis  B  vaccination  for
+middle-school children are effective in achieving 
+high  coverage  rates  (7).  Adoption  of  these  laws  by  more  states  will  increase  the
+adolescent vaccination rate. 
+The  greatest  remaining  challenge  for  hepatitis  B  prevention  is  the  vaccination  of
+high-risk adults. The rate of hepatitis 
+B  vaccination  in  this  group  has  remained  low,  in  part  because  of  the  difficulty  in
+identifying candidates for vaccination 
+before  they  become  infected  and  limited  public  funding  for  adult  vaccination.  In
+serosurveys of MSM aged 15--22 years recruited 
+at 
+public  venues  in  seven  U.S.  metropolitan  areas  during  1994--1998,  only  9%  had
+serologic evidence of hepatitis B 
+vaccination  (19).  Among  IDUs  attending  sexually  transmitted  disease  (STD)  clinics  in
+San Diego from 1998--2001, only 6% 
+reported previous hepatitis B vaccination (CDC, unpublished data, 2002).
+The  national  health  objectives  for  2010  call  for  a  reduction  of  75%--90%  in  acute
+hepatitis B cases among high-risk 
+adults (20). To achieve this goal, adults with behavioral risk factors for HBV infection
+must be identified and vaccinated. 
+Many
+ opportunities
+ to
+ vaccinate
+ high-risk
+ adults
+ are
+ missed.
+ For
+ example,
+approximately 56% of adults with acute hepatitis B 
+have received care previously in correctional facilities or STD treatment clinics, where
+vaccination could have been offered 
+(21).  The  most  effective  approach  to  vaccinating  high-risk  adults  is  to  integrate
+hepatitis B vaccination into programs that 
+provide  services  to  persons  with  risk  factors  for  HBV  infection  (e.g.,  STD  clinics,  HIV
+counseling and testing sites, 
+correctional facilities, and drug treatment clinics). CDC is working with state and local
+public health departments to 
+integrate  comprehensive  hepatitis  prevention  measures,  including  hepatitis  B
+vaccination, into programs providing services to 
+persons at risk for HBV infection. In addition, CDC has funded cooperative agreements
+at 18 sites around the country to identify 
+the  most  effective  approaches  to  achieve  integration  of  hepatitis  B  vaccination  into
+these programs.
+Sustaining  high  vaccine-coverage  rates  among  infants,  children,  and  adolescents  will
+ensure that future generations 
+are  protected  from  HBV  infection  and  its  consequences.  However,  unless  efforts  to
+vaccinate adults at increased risk for 
+HBV  infection  are  greatly  expanded,  complete  elimination  of  HBV  transmission  might
+take another 20 years to achieve.
+Reported by: National Immunization Program; Div of Viral Hepatitis, National Center for
+Infectious Diseases, CDC.
+References
+ Armstrong  GL,  Mast  EE,  Wojczynski  M,  Margolis  HS.  Childhood  hepatitis  B  virus
+infections in the United States before hepatitis B 
+immunization. Pediatrics 2001;108:1123--8.
+  CDC. Inactivated hepatitis B vaccine. MMWR
+  1982;31:317--8.
+ Alter MJ, Hadler SC, Margolis HS, et al. The changing epidemiology of hepatitis B in the
+United States: need for alternative vaccination 
+strategies. JAMA 1990;263:1218--22.
+  CDC. Hepatitis B virus: a comprehensive strategy for eliminating transmission in the
+United States through universal childhood 
+vaccination. MMWR 1991;40(No. RR-13).
+  CDC.  Update:  recommendations  to  prevent  hepatitis  B  virus  transmission---United
+States. MMWR
+  1995;44:574--5.
+  CDC.  Update:  recommendations  to  prevent  hepatitis  B  virus  transmission---United
+States. MMWR
+  1999;48:33--4.
+  CDC. Effectiveness of a middle school vaccination law---California, 1999--2001. MMWR
+  2001;50:660--3.
+ Mahoney FJ, Stewart K, Hu H, Coleman P, Alter MJ. Progress toward the elimination of
+hepatitis B virus transmission among health care 
+workers in the United States. Arch Intern Med 1997;157:2601--5.
+  Harpaz R, McMahon BJ, Margolis HS, et al. Elimination of new chronic hepatitis B virus
+infections: results of the Alaska immunization program. 
+J Infect Dis 2000;181:413--8.
+  CDC. Postexposure prophylaxis of hepatitis B. MMWR
+  1984;33:285--90.
+ Kumar ML, Dawson NV, McCullough AJ, et al. Should all pregnant women be screened
+for hepatitis B? Ann Intern Med 1987;107:273--7.
+ Jonas MM, Schiff ER, O'Sullivan MJ, et al. Failure of Centers for Disease Control criteria
+to identify hepatitis B infection in a large 
+municipal obstetrical population. Ann Intern Med 1987;107:335--7.
+  CDC. Prevention of perinatal transmission of hepatitis B virus: prenatal screening of all
+pregnant women for hepatitis B surface antigen. 
+MMWR 1988;37:341--6, 351.
+  CDC. Hepatitis B vaccine: evidence confirming lack of AIDS transmission. MMWR
+  1984;33:685--7.
+ Freed  GL,  Freeman  VA,  Clark  SJ,  Konrad  TR,  Pathman  DE.  Pediatrician  and  family
+physician agreement with and adoption of universal hepatitis 
+B immunization. J Family Prac 1996;42:587--92. 
+ Clark SJ, Cabana MD, Malik T, Yusuf H, Freed GL. Hepatitis B vaccination practices in
+hospital newborn nurseries before and after changes 
+in vaccination recommendations. Archives Pediatr Adoles Med 2001;155:915--20.
+ Institute of Medicine Immunization Safety Review Committee. In: Stratton K, Almario D,
+McCormick MC, eds. Hepatitis B vaccine 
+and demyelinating disorders, 2002. Washington, DC: National Academy Press, 2002.
+ 
+ 
+ CDC.
+ Prevention
+ of
+ perinatal
+ hepatitis
+ B
+ through
+ enhanced
+ case
+management---Connecticut, 1994--1995, and United States, 1994. 
+MMWR 1996;45:454--7.
+  MacKellar  DA,  Valleroy  LA,  Secura  GM,  et  al.  Two  decades  after  vaccine  license:
+hepatitis B immunization and infection among young men 
+who have sex with men. Am J Public Health 2001;91:965--71.
+ U.S. Department of Health and Human Services. Healthy people 2010 (conference ed,
+2 vols). Washington, DC: U.S. Department of Health 
+and Human Services, 2000.
+  Goldstein ST, Alter MJ, Williams IT, et al. Incidence and risk factors for acute hepatitis B
+in the United States, 1982--1998: implications 
+for vaccination programs. J Infect Dis 2002;185:713--9.
+*  Health-care  providers,  clients,  and  staff  of  institutions  for  the  developmentally
+disabled, hemodialysis patients, men who have sex with men, injection-drug 
+users,  recipients  of  clotting  factors  for  bleeding  disorders,  household  and  sexual
+contacts of persons with chronic HBV infection, populations with high rates of 
+HBV infection (e.g., Alaska Natives, Pacific Islanders, and immigrants and refugees from
+countries in which HBV is endemic), and inmates of long-term 
+correctional facilities.
+TableReturn to top.
+FigureReturn to top.
+Use of trade names and commercial sources is for identification only and does not imply
+endorsement by the U.S. Department of 
+Health and Human Services.References to non-CDC sites on the Internet are 
+provided as a service to MMWR readers and do not constitute or imply 
+endorsement of these organizations or their programs by CDC or the U.S. 
+Department of Health and Human Services. CDC is not responsible for the content 
+of pages found at these sites. URL addresses listed in MMWR were current as of 
+the date of publication.
+Disclaimer
+  
+All MMWR HTML versions of articles are electronic conversions from ASCII text 
+into HTML.  This conversion may have resulted in character translation or format errors
+in the HTML version.  
+Users  should  not  rely  on  this  HTML  document,  but  are  referred  to  the  electronic  PDF
+version and/or 
+the original MMWR paper copy for the official text, figures, and tables.  
+An  original  paper  copy  of  this  issue  can  be  obtained  from  the  Superintendent  of
+Documents, 
+U.S. Government Printing Office (GPO), Washington, DC 20402-9371; telephone: (202)
+512-1800. 
+Contact GPO for current prices.
+**Questions or messages regarding errors in formatting should be addressed to 
+mmwrq@cdc.gov.
+Page converted: 6/27/2002
+ Since 1982, the control of perinatal infection has been a crucial part of ACIP's evolving
+HBV vaccination strategy. In 
+1984, ACIP recommended hepatitis B surface antigen (HBsAg) screening for pregnant
+women in groups at high risk for 
+acquiring HBV infection and postexposure immunoprophylaxis with hepatitis B vaccine
+and HBIG for all infants born to 
+HBsAg-positive  mothers  (10).  However,  within  a  few  years,  studies  showed  that
+screening women in high-risk groups failed 
+to identify 35%--65% of HBsAg-positive pregnant women 
+(11,12). Consequently, in 1988, ACIP recommended that 
+all pregnant women be screened routinely for HBsAg 
+(13). 
+ In  1990,  the  federal  government  began  funding  perinatal  hepatitis  B  prevention
+programs to promote prenatal screening 
+of  all  pregnant  women  for  HBsAg  and  tracking  of  infants  born  to  HBsAg-positive
+mothers to ensure that the infants 
+receive appropriate postexposure prophylaxis. These programs have been implemented
+successfully. A survey of birthing 
+hospitals conducted in 2000 in 14 states showed that 96.5% of pregnant women had
+been screened for HBsAg (CDC, 
+unpublished data, 2000). During 2000, state health departments identified and tracked
+10,192 infants born to HBsAg-positive 
+mothers  (CDC,  unpublished  data,  2000).  Of  these  infants,  90%  received  hepatitis  B
+vaccine and HBIG before hospital discharge. 
+At 
+age 6--8 months, 71% of these infants had completed the 3-dose hepatitis B vaccine
+series. On the basis of these 
+coverage  rates,  CDC  estimates  that  perinatal  HBV  infection  in  the  United  States
+declined 75% during 1987--2000 
+(CDC, unpublished data, 2000).
+Implementation Challenges
+Since  its  inception  in  1982,  the  U.S.  hepatitis  B  vaccination  effort  has  faced  several
+challenges. In the mid-1980s, 
+concern was expressed about the possible risk for human immunodeficiency virus (HIV)
+transmission by the original 
+plasma-derived  vaccine;  however,  no  transmission  of  any  microbial  agent  was
+demonstrated, and the safety of the vaccine was reaffirmed 
+(14). Plasma-derived hepatitis B vaccines are no longer used in the United States, but
+their use continues safely in other 
+countries.  The  vaccines  currently  available  in  the  United  States  are  produced  by
+recombinant DNA technology.
+In  1991,  some  pediatric-care  providers  were  reluctant  to  accept  the  ACIP
+recommendation that all U.S. infants 
+be vaccinated. However, by 1996, comprehensive efforts to educate 
+providers and parents about hepatitis B and the benefit 
+of vaccination had resulted in broad acceptance of the vaccine 
+(15).
+In  June  1999,  concerns  were  expressed  about  the  risk  to  young  children  of  mercury
+exposure from thimerosal, a 
+preservative used in childhood vaccines, including hepatitis B vaccine. As a precaution,
+the U.S. Public Health Service (PHS), 
+the  American  Academy  of  Pediatrics  (AAP),  and  the  American  Academy  of  Family
+Physicians (AAFP) recommended 
+postponing  the  first  dose  of  hepatitis  B  vaccine  from  birth  until  age  2--6  months  for
+infants born to HBsAg-negative mothers. 
+These  groups  also  recommended  eliminating  thimerosal  from  childhood  vaccines  as
+soon as possible. By 2000, the two 
+companies  that  manufacture  hepatitis  B  vaccine  in  the  United  States  had  eliminated
+thimerosal as a preservative from these vaccines, 
+and  PHS,  AAP,  and  AAFP  urged  the  resumption  of  hepatitis  B  vaccination  at  birth.
+However, the temporary postponement 
+of  hepatitis  B  vaccine  at  birth  resulted  in  the  failure  of  some  hospitals  to  immunize
+high-risk infants appropriately. This 
+situation  persisted  after  vaccines  that  do  not  contain  thimerosal  as  a  preservative
+became available 
+(16).
+Although  concerns  have  been  expressed  over  the  past  20  years  that  certain  chronic
+illnesses might be caused by hepatitis 
+B vaccine, no evidence exists that any of these diseases is caused by the vaccine. For
+example, in the mid-1990s, concerns 
+were expressed that the vaccine might cause multiple sclerosis. However, a report by
+the Institute of Medicine (IOM) found 
+no evidence of a causal relation between hepatitis B vaccination in adults and multiple
+sclerosis 
+(17).  The  vaccine  continues  to  be  considered  safe  by  the  U.S.  Food  and  Drug
+Administration, ACIP, IOM, and other national professional vaccination 
+advisory groups.
+Challenges for the 21st Century
+Despite  progress  in  vaccinating  children  and  adults  in  some  occupational  and
+racial/ethnic groups, approximately 
+1.2 million persons in the United States have chronic HBV infection, and an estimated
+4,000--5,000 persons die each year 
+from HBV-related liver diseases. The goal of eliminating HBV transmission in the United
+States can be achieved only by 
+sustaining  a  high  level  of  immunity  against  HBV  infection  in  all  age  groups.  The
+prospect for achieving immunity in children is 
+already within reach; 90% of U.S. children aged 2 years receive 3 doses of hepatitis B
+vaccine, a coverage rate that 
+meets  national  health  goals.  To  maintain  high  hepatitis  B  vaccine  coverage,  public
+health professionals must ensure that the safety of hepatitis 
+B vaccine is monitored appropriately through credible scientific studies that assure 
+the public that vaccines are safe. 
+Two  important  challenges  for  health  departments  and  health-care  providers  are
+maintaining high screening rates 
+among pregnant women for HBsAg and ensuring that newborn infants receive proper
+immunoprophylaxis. Although high 
+screening rates have been achieved among pregnant women, current efforts to identify
+and track infants born to 
+HBsAg-positive  mothers  are  inadequate.  Advances  in  the  prevention  of  perinatal  HBV
+transmission will depend on improved 
+health  department  identification,  tracking,  and  case  management  of  infants  born  to
+HBsAg-positive mothers 
+(18).
+Routine vaccination of adolescents must be increased and aggressive efforts made to
+vaccinate adults at high risk for 
+HBV  infection.  Adolescent  vaccination  will  remain  an  important  goal  for  the  next
+decade, until the cohort of vaccinated 
+infants  reaches  adolescence.  State  laws  mandating  hepatitis  B  vaccination  for
+middle-school children are effective in achieving 
+high  coverage  rates  (7).  Adoption  of  these  laws  by  more  states  will  increase  the
+adolescent vaccination rate. 
+The  greatest  remaining  challenge  for  hepatitis  B  prevention  is  the  vaccination  of
+high-risk adults. The rate of hepatitis 
+B  vaccination  in  this  group  has  remained  low,  in  part  because  of  the  difficulty  in
+identifying candidates for vaccination 
+before  they  become  infected  and  limited  public  funding  for  adult  vaccination.  In
+serosurveys of MSM aged 15--22 years recruited 
+at 
+public  venues  in  seven  U.S.  metropolitan  areas  during  1994--1998,  only  9%  had
+serologic evidence of hepatitis B 
+vaccination  (19).  Among  IDUs  attending  sexually  transmitted  disease  (STD)  clinics  in
+San Diego from 1998--2001, only 6% 
+reported previous hepatitis B vaccination (CDC, unpublished data, 2002).
+The  national  health  objectives  for  2010  call  for  a  reduction  of  75%--90%  in  acute
+hepatitis B cases among high-risk 
+adults (20). To achieve this goal, adults with behavioral risk factors for HBV infection
+must be identified and vaccinated. 
+Many
+ opportunities
+ to
+ vaccinate
+ high-risk
+ adults
+ are
+ missed.
+ For
+ example,
+approximately 56% of adults with acute hepatitis B 
+have received care previously in correctional facilities or STD treatment clinics, where
+vaccination could have been offered 
+(21).  The  most  effective  approach  to  vaccinating  high-risk  adults  is  to  integrate
+hepatitis B vaccination into programs that 
+provide  services  to  persons  with  risk  factors  for  HBV  infection  (e.g.,  STD  clinics,  HIV
+counseling and testing sites, 
+correctional facilities, and drug treatment clinics). CDC is working with state and local
+public health departments to 
+integrate  comprehensive  hepatitis  prevention  measures,  including  hepatitis  B
+vaccination, into programs providing services to 
+persons at risk for HBV infection. In addition, CDC has funded cooperative agreements
+at 18 sites around the country to identify 
+the  most  effective  approaches  to  achieve  integration  of  hepatitis  B  vaccination  into
+these programs.
+Sustaining  high  vaccine-coverage  rates  among  infants,  children,  and  adolescents  will
+ensure that future generations 
+are  protected  from  HBV  infection  and  its  consequences.  However,  unless  efforts  to
+vaccinate adults at increased risk for 
+HBV  infection  are  greatly  expanded,  complete  elimination  of  HBV  transmission  might
+take another 20 years to achieve.
+Reported by: National Immunization Program; Div of Viral Hepatitis, National Center for
+Infectious Diseases, CDC.
+References
+ Armstrong  GL,  Mast  EE,  Wojczynski  M,  Margolis  HS.  Childhood  hepatitis  B  virus
+infections in the United States before hepatitis B 
+immunization. Pediatrics 2001;108:1123--8.
+  CDC. Inactivated hepatitis B vaccine. MMWR
+  1982;31:317--8.
+ Alter MJ, Hadler SC, Margolis HS, et al. The changing epidemiology of hepatitis B in the
+United States: need for alternative vaccination 
+strategies. JAMA 1990;263:1218--22.
+  CDC. Hepatitis B virus: a comprehensive strategy for eliminating transmission in the
+United States through universal childhood 
+vaccination. MMWR 1991;40(No. RR-13).
+  CDC.  Update:  recommendations  to  prevent  hepatitis  B  virus  transmission---United
+States. MMWR
+  1995;44:574--5.
+  CDC.  Update:  recommendations  to  prevent  hepatitis  B  virus  transmission---United
+States. MMWR
+  1999;48:33--4.
+  CDC. Effectiveness of a middle school vaccination law---California, 1999--2001. MMWR
+  2001;50:660--3.
+ Mahoney FJ, Stewart K, Hu H, Coleman P, Alter MJ. Progress toward the elimination of
+hepatitis B virus transmission among health care 
+workers in the United States. Arch Intern Med 1997;157:2601--5.
+  Harpaz R, McMahon BJ, Margolis HS, et al. Elimination of new chronic hepatitis B virus
+infections: results of the Alaska immunization program. 
+J Infect Dis 2000;181:413--8.
+  CDC. Postexposure prophylaxis of hepatitis B. MMWR
+  1984;33:285--90.
+ Kumar ML, Dawson NV, McCullough AJ, et al. Should all pregnant women be screened
+for hepatitis B? Ann Intern Med 1987;107:273--7.
+ Jonas MM, Schiff ER, O'Sullivan MJ, et al. Failure of Centers for Disease Control criteria
+to identify hepatitis B infection in a large 
+municipal obstetrical population. Ann Intern Med 1987;107:335--7.
+  CDC. Prevention of perinatal transmission of hepatitis B virus: prenatal screening of all
+pregnant women for hepatitis B surface antigen. 
+MMWR 1988;37:341--6, 351.
+  CDC. Hepatitis B vaccine: evidence confirming lack of AIDS transmission. MMWR
+  1984;33:685--7.
+ Freed  GL,  Freeman  VA,  Clark  SJ,  Konrad  TR,  Pathman  DE.  Pediatrician  and  family
+physician agreement with and adoption of universal hepatitis 
+B immunization. J Family Prac 1996;42:587--92. 
+ Clark SJ, Cabana MD, Malik T, Yusuf H, Freed GL. Hepatitis B vaccination practices in
+hospital newborn nurseries before and after changes 
+in vaccination recommendations. Archives Pediatr Adoles Med 2001;155:915--20.
+ Institute of Medicine Immunization Safety Review Committee. In: Stratton K, Almario D,
+McCormick MC, eds. Hepatitis B vaccine 
+and demyelinating disorders, 2002. Washington, DC: National Academy Press, 2002.
+ 
+ 
+ CDC.
+ Prevention
+ of
+ perinatal
+ hepatitis
+ B
+ through
+ enhanced
+ case
+management---Connecticut, 1994--1995, and United States, 1994. 
+MMWR 1996;45:454--7.
+  MacKellar  DA,  Valleroy  LA,  Secura  GM,  et  al.  Two  decades  after  vaccine  license:
+hepatitis B immunization and infection among young men 
+who have sex with men. Am J Public Health 2001;91:965--71.
+ U.S. Department of Health and Human Services. Healthy people 2010 (conference ed,
+2 vols). Washington, DC: U.S. Department of Health 
+and Human Services, 2000.
+  Goldstein ST, Alter MJ, Williams IT, et al. Incidence and risk factors for acute hepatitis B
+in the United States, 1982--1998: implications 
+for vaccination programs. J Infect Dis 2002;185:713--9.
+*  Health-care  providers,  clients,  and  staff  of  institutions  for  the  developmentally
+disabled, hemodialysis patients, men who have sex with men, injection-drug 
+users,  recipients  of  clotting  factors  for  bleeding  disorders,  household  and  sexual
+contacts of persons with chronic HBV infection, populations with high rates of 
+HBV infection (e.g., Alaska Natives, Pacific Islanders, and immigrants and refugees from
+countries in which HBV is endemic), and inmates of long-term 
+correctional facilities.
+TableReturn to top.
+FigureReturn to top.
+Use of trade names and commercial sources is for identification only and does not imply
+endorsement by the U.S. Department of 
+Health and Human Services.References to non-CDC sites on the Internet are 
+provided as a service to MMWR readers and do not constitute or imply 
+endorsement of these organizations or their programs by CDC or the U.S. 
+Department of Health and Human Services. CDC is not responsible for the content 
+of pages found at these sites. URL addresses listed in MMWR were current as of 
+the date of publication.
+Disclaimer
+  
+All MMWR HTML versions of articles are electronic conversions from ASCII text 
+into HTML.  This conversion may have resulted in character translation or format errors
+in the HTML version.  
+Users  should  not  rely  on  this  HTML  document,  but  are  referred  to  the  electronic  PDF
+version and/or 
+the original MMWR paper copy for the official text, figures, and tables.  
+An  original  paper  copy  of  this  issue  can  be  obtained  from  the  Superintendent  of
+Documents, 
+U.S. Government Printing Office (GPO), Washington, DC 20402-9371; telephone: (202)
+512-1800. 
+Contact GPO for current prices.
+**Questions or messages regarding errors in formatting should be addressed to 
+mmwrq@cdc.gov.
+Page converted: 6/27/2002
+ Since  its  inception  in  1982,  the  U.S.  hepatitis  B  vaccination  effort  has  faced  several
+challenges. In the mid-1980s, 
+concern was expressed about the possible risk for human immunodeficiency virus (HIV)
+transmission by the original 
+plasma-derived  vaccine;  however,  no  transmission  of  any  microbial  agent  was
+demonstrated, and the safety of the vaccine was reaffirmed 
+(14). Plasma-derived hepatitis B vaccines are no longer used in the United States, but
+their use continues safely in other 
+countries.  The  vaccines  currently  available  in  the  United  States  are  produced  by
+recombinant DNA technology.
+ In  1991,  some  pediatric-care  providers  were  reluctant  to  accept  the  ACIP
+recommendation that all U.S. infants 
+be vaccinated. However, by 1996, comprehensive efforts to educate 
+providers and parents about hepatitis B and the benefit 
+of vaccination had resulted in broad acceptance of the vaccine 
+(15).
+ In  June  1999,  concerns  were  expressed  about  the  risk  to  young  children  of  mercury
+exposure from thimerosal, a 
+preservative used in childhood vaccines, including hepatitis B vaccine. As a precaution,
+the U.S. Public Health Service (PHS), 
+the  American  Academy  of  Pediatrics  (AAP),  and  the  American  Academy  of  Family
+Physicians (AAFP) recommended 
+postponing  the  first  dose  of  hepatitis  B  vaccine  from  birth  until  age  2--6  months  for
+infants born to HBsAg-negative mothers. 
+These  groups  also  recommended  eliminating  thimerosal  from  childhood  vaccines  as
+soon as possible. By 2000, the two 
+companies  that  manufacture  hepatitis  B  vaccine  in  the  United  States  had  eliminated
+thimerosal as a preservative from these vaccines, 
+and  PHS,  AAP,  and  AAFP  urged  the  resumption  of  hepatitis  B  vaccination  at  birth.
+However, the temporary postponement 
+of  hepatitis  B  vaccine  at  birth  resulted  in  the  failure  of  some  hospitals  to  immunize
+high-risk infants appropriately. This 
+situation  persisted  after  vaccines  that  do  not  contain  thimerosal  as  a  preservative
+became available 
+(16).
+ Although concerns have been expressed over the past 20 years that certain chronic
+illnesses might be caused by hepatitis 
+B vaccine, no evidence exists that any of these diseases is caused by the vaccine. For
+example, in the mid-1990s, concerns 
+were expressed that the vaccine might cause multiple sclerosis. However, a report by
+the Institute of Medicine (IOM) found 
+no evidence of a causal relation between hepatitis B vaccination in adults and multiple
+sclerosis 
+(17).  The  vaccine  continues  to  be  considered  safe  by  the  U.S.  Food  and  Drug
+Administration, ACIP, IOM, and other national professional vaccination 
+advisory groups.
+Challenges for the 21st Century
+Despite  progress  in  vaccinating  children  and  adults  in  some  occupational  and
+racial/ethnic groups, approximately 
+1.2 million persons in the United States have chronic HBV infection, and an estimated
+4,000--5,000 persons die each year 
+from HBV-related liver diseases. The goal of eliminating HBV transmission in the United
+States can be achieved only by 
+sustaining  a  high  level  of  immunity  against  HBV  infection  in  all  age  groups.  The
+prospect for achieving immunity in children is 
+already within reach; 90% of U.S. children aged 2 years receive 3 doses of hepatitis B
+vaccine, a coverage rate that 
+meets  national  health  goals.  To  maintain  high  hepatitis  B  vaccine  coverage,  public
+health professionals must ensure that the safety of hepatitis 
+B vaccine is monitored appropriately through credible scientific studies that assure 
+the public that vaccines are safe. 
+Two  important  challenges  for  health  departments  and  health-care  providers  are
+maintaining high screening rates 
+among pregnant women for HBsAg and ensuring that newborn infants receive proper
+immunoprophylaxis. Although high 
+screening rates have been achieved among pregnant women, current efforts to identify
+and track infants born to 
+HBsAg-positive  mothers  are  inadequate.  Advances  in  the  prevention  of  perinatal  HBV
+transmission will depend on improved 
+health  department  identification,  tracking,  and  case  management  of  infants  born  to
+HBsAg-positive mothers 
+(18).
+Routine vaccination of adolescents must be increased and aggressive efforts made to
+vaccinate adults at high risk for 
+HBV  infection.  Adolescent  vaccination  will  remain  an  important  goal  for  the  next
+decade, until the cohort of vaccinated 
+infants  reaches  adolescence.  State  laws  mandating  hepatitis  B  vaccination  for
+middle-school children are effective in achieving 
+high  coverage  rates  (7).  Adoption  of  these  laws  by  more  states  will  increase  the
+adolescent vaccination rate. 
+The  greatest  remaining  challenge  for  hepatitis  B  prevention  is  the  vaccination  of
+high-risk adults. The rate of hepatitis 
+B  vaccination  in  this  group  has  remained  low,  in  part  because  of  the  difficulty  in
+identifying candidates for vaccination 
+before  they  become  infected  and  limited  public  funding  for  adult  vaccination.  In
+serosurveys of MSM aged 15--22 years recruited 
+at 
+public  venues  in  seven  U.S.  metropolitan  areas  during  1994--1998,  only  9%  had
+serologic evidence of hepatitis B 
+vaccination  (19).  Among  IDUs  attending  sexually  transmitted  disease  (STD)  clinics  in
+San Diego from 1998--2001, only 6% 
+reported previous hepatitis B vaccination (CDC, unpublished data, 2002).
+The  national  health  objectives  for  2010  call  for  a  reduction  of  75%--90%  in  acute
+hepatitis B cases among high-risk 
+adults (20). To achieve this goal, adults with behavioral risk factors for HBV infection
+must be identified and vaccinated. 
+Many
+ opportunities
+ to
+ vaccinate
+ high-risk
+ adults
+ are
+ missed.
+ For
+ example,
+approximately 56% of adults with acute hepatitis B 
+have received care previously in correctional facilities or STD treatment clinics, where
+vaccination could have been offered 
+(21).  The  most  effective  approach  to  vaccinating  high-risk  adults  is  to  integrate
+hepatitis B vaccination into programs that 
+provide  services  to  persons  with  risk  factors  for  HBV  infection  (e.g.,  STD  clinics,  HIV
+counseling and testing sites, 
+correctional facilities, and drug treatment clinics). CDC is working with state and local
+public health departments to 
+integrate  comprehensive  hepatitis  prevention  measures,  including  hepatitis  B
+vaccination, into programs providing services to 
+persons at risk for HBV infection. In addition, CDC has funded cooperative agreements
+at 18 sites around the country to identify 
+the  most  effective  approaches  to  achieve  integration  of  hepatitis  B  vaccination  into
+these programs.
+Sustaining  high  vaccine-coverage  rates  among  infants,  children,  and  adolescents  will
+ensure that future generations 
+are  protected  from  HBV  infection  and  its  consequences.  However,  unless  efforts  to
+vaccinate adults at increased risk for 
+HBV  infection  are  greatly  expanded,  complete  elimination  of  HBV  transmission  might
+take another 20 years to achieve.
+Reported by: National Immunization Program; Div of Viral Hepatitis, National Center for
+Infectious Diseases, CDC.
+References
+ Armstrong  GL,  Mast  EE,  Wojczynski  M,  Margolis  HS.  Childhood  hepatitis  B  virus
+infections in the United States before hepatitis B 
+immunization. Pediatrics 2001;108:1123--8.
+  CDC. Inactivated hepatitis B vaccine. MMWR
+  1982;31:317--8.
+ Alter MJ, Hadler SC, Margolis HS, et al. The changing epidemiology of hepatitis B in the
+United States: need for alternative vaccination 
+strategies. JAMA 1990;263:1218--22.
+  CDC. Hepatitis B virus: a comprehensive strategy for eliminating transmission in the
+United States through universal childhood 
+vaccination. MMWR 1991;40(No. RR-13).
+  CDC.  Update:  recommendations  to  prevent  hepatitis  B  virus  transmission---United
+States. MMWR
+  1995;44:574--5.
+  CDC.  Update:  recommendations  to  prevent  hepatitis  B  virus  transmission---United
+States. MMWR
+  1999;48:33--4.
+  CDC. Effectiveness of a middle school vaccination law---California, 1999--2001. MMWR
+  2001;50:660--3.
+ Mahoney FJ, Stewart K, Hu H, Coleman P, Alter MJ. Progress toward the elimination of
+hepatitis B virus transmission among health care 
+workers in the United States. Arch Intern Med 1997;157:2601--5.
+  Harpaz R, McMahon BJ, Margolis HS, et al. Elimination of new chronic hepatitis B virus
+infections: results of the Alaska immunization program. 
+J Infect Dis 2000;181:413--8.
+  CDC. Postexposure prophylaxis of hepatitis B. MMWR
+  1984;33:285--90.
+ Kumar ML, Dawson NV, McCullough AJ, et al. Should all pregnant women be screened
+for hepatitis B? Ann Intern Med 1987;107:273--7.
+ Jonas MM, Schiff ER, O'Sullivan MJ, et al. Failure of Centers for Disease Control criteria
+to identify hepatitis B infection in a large 
+municipal obstetrical population. Ann Intern Med 1987;107:335--7.
+  CDC. Prevention of perinatal transmission of hepatitis B virus: prenatal screening of all
+pregnant women for hepatitis B surface antigen. 
+MMWR 1988;37:341--6, 351.
+  CDC. Hepatitis B vaccine: evidence confirming lack of AIDS transmission. MMWR
+  1984;33:685--7.
+ Freed  GL,  Freeman  VA,  Clark  SJ,  Konrad  TR,  Pathman  DE.  Pediatrician  and  family
+physician agreement with and adoption of universal hepatitis 
+B immunization. J Family Prac 1996;42:587--92. 
+ Clark SJ, Cabana MD, Malik T, Yusuf H, Freed GL. Hepatitis B vaccination practices in
+hospital newborn nurseries before and after changes 
+in vaccination recommendations. Archives Pediatr Adoles Med 2001;155:915--20.
+ Institute of Medicine Immunization Safety Review Committee. In: Stratton K, Almario D,
+McCormick MC, eds. Hepatitis B vaccine 
+and demyelinating disorders, 2002. Washington, DC: National Academy Press, 2002.
+ 
+ 
+ CDC.
+ Prevention
+ of
+ perinatal
+ hepatitis
+ B
+ through
+ enhanced
+ case
+management---Connecticut, 1994--1995, and United States, 1994. 
+MMWR 1996;45:454--7.
+  MacKellar  DA,  Valleroy  LA,  Secura  GM,  et  al.  Two  decades  after  vaccine  license:
+hepatitis B immunization and infection among young men 
+who have sex with men. Am J Public Health 2001;91:965--71.
+ U.S. Department of Health and Human Services. Healthy people 2010 (conference ed,
+2 vols). Washington, DC: U.S. Department of Health 
+and Human Services, 2000.
+  Goldstein ST, Alter MJ, Williams IT, et al. Incidence and risk factors for acute hepatitis B
+in the United States, 1982--1998: implications 
+for vaccination programs. J Infect Dis 2002;185:713--9.
+*  Health-care  providers,  clients,  and  staff  of  institutions  for  the  developmentally
+disabled, hemodialysis patients, men who have sex with men, injection-drug 
+users,  recipients  of  clotting  factors  for  bleeding  disorders,  household  and  sexual
+contacts of persons with chronic HBV infection, populations with high rates of 
+HBV infection (e.g., Alaska Natives, Pacific Islanders, and immigrants and refugees from
+countries in which HBV is endemic), and inmates of long-term 
+correctional facilities.
+TableReturn to top.
+FigureReturn to top.
+Use of trade names and commercial sources is for identification only and does not imply
+endorsement by the U.S. Department of 
+Health and Human Services.References to non-CDC sites on the Internet are 
+provided as a service to MMWR readers and do not constitute or imply 
+endorsement of these organizations or their programs by CDC or the U.S. 
+Department of Health and Human Services. CDC is not responsible for the content 
+of pages found at these sites. URL addresses listed in MMWR were current as of 
+the date of publication.
+Disclaimer
+  
+All MMWR HTML versions of articles are electronic conversions from ASCII text 
+into HTML.  This conversion may have resulted in character translation or format errors
+in the HTML version.  
+Users  should  not  rely  on  this  HTML  document,  but  are  referred  to  the  electronic  PDF
+version and/or 
+the original MMWR paper copy for the official text, figures, and tables.  
+An  original  paper  copy  of  this  issue  can  be  obtained  from  the  Superintendent  of
+Documents, 
+U.S. Government Printing Office (GPO), Washington, DC 20402-9371; telephone: (202)
+512-1800. 
+Contact GPO for current prices.
+**Questions or messages regarding errors in formatting should be addressed to 
+mmwrq@cdc.gov.
+Page converted: 6/27/2002
+ Despite  progress  in  vaccinating  children  and  adults  in  some  occupational  and
+racial/ethnic groups, approximately 
+1.2 million persons in the United States have chronic HBV infection, and an estimated
+4,000--5,000 persons die each year 
+from HBV-related liver diseases. The goal of eliminating HBV transmission in the United
+States can be achieved only by 
+sustaining  a  high  level  of  immunity  against  HBV  infection  in  all  age  groups.  The
+prospect for achieving immunity in children is 
+already within reach; 90% of U.S. children aged 2 years receive 3 doses of hepatitis B
+vaccine, a coverage rate that 
+meets  national  health  goals.  To  maintain  high  hepatitis  B  vaccine  coverage,  public
+health professionals must ensure that the safety of hepatitis 
+B vaccine is monitored appropriately through credible scientific studies that assure 
+the public that vaccines are safe. 
+ Two  important  challenges  for  health  departments  and  health-care  providers  are
+maintaining high screening rates 
+among pregnant women for HBsAg and ensuring that newborn infants receive proper
+immunoprophylaxis. Although high 
+screening rates have been achieved among pregnant women, current efforts to identify
+and track infants born to 
+HBsAg-positive  mothers  are  inadequate.  Advances  in  the  prevention  of  perinatal  HBV
+transmission will depend on improved 
+health  department  identification,  tracking,  and  case  management  of  infants  born  to
+HBsAg-positive mothers 
+(18).
+ Routine vaccination of adolescents must be increased and aggressive efforts made to
+vaccinate adults at high risk for 
+HBV  infection.  Adolescent  vaccination  will  remain  an  important  goal  for  the  next
+decade, until the cohort of vaccinated 
+infants  reaches  adolescence.  State  laws  mandating  hepatitis  B  vaccination  for
+middle-school children are effective in achieving 
+high  coverage  rates  (7).  Adoption  of  these  laws  by  more  states  will  increase  the
+adolescent vaccination rate. 
+ The  greatest  remaining  challenge  for  hepatitis  B  prevention  is  the  vaccination  of
+high-risk adults. The rate of hepatitis 
+B  vaccination  in  this  group  has  remained  low,  in  part  because  of  the  difficulty  in
+identifying candidates for vaccination 
+before  they  become  infected  and  limited  public  funding  for  adult  vaccination.  In
+serosurveys of MSM aged 15--22 years recruited 
+at 
+public  venues  in  seven  U.S.  metropolitan  areas  during  1994--1998,  only  9%  had
+serologic evidence of hepatitis B 
+vaccination  (19).  Among  IDUs  attending  sexually  transmitted  disease  (STD)  clinics  in
+San Diego from 1998--2001, only 6% 
+reported previous hepatitis B vaccination (CDC, unpublished data, 2002).
+ The  national  health  objectives  for  2010  call  for  a  reduction  of  75%--90%  in  acute
+hepatitis B cases among high-risk 
+adults (20). To achieve this goal, adults with behavioral risk factors for HBV infection
+must be identified and vaccinated. 
+Many
+ opportunities
+ to
+ vaccinate
+ high-risk
+ adults
+ are
+ missed.
+ For
+ example,
+approximately 56% of adults with acute hepatitis B 
+have received care previously in correctional facilities or STD treatment clinics, where
+vaccination could have been offered 
+(21).  The  most  effective  approach  to  vaccinating  high-risk  adults  is  to  integrate
+hepatitis B vaccination into programs that 
+provide  services  to  persons  with  risk  factors  for  HBV  infection  (e.g.,  STD  clinics,  HIV
+counseling and testing sites, 
+correctional facilities, and drug treatment clinics). CDC is working with state and local
+public health departments to 
+integrate  comprehensive  hepatitis  prevention  measures,  including  hepatitis  B
+vaccination, into programs providing services to 
+persons at risk for HBV infection. In addition, CDC has funded cooperative agreements
+at 18 sites around the country to identify 
+the  most  effective  approaches  to  achieve  integration  of  hepatitis  B  vaccination  into
+these programs.
+ Sustaining high vaccine-coverage rates among infants, children, and adolescents will
+ensure that future generations 
+are  protected  from  HBV  infection  and  its  consequences.  However,  unless  efforts  to
+vaccinate adults at increased risk for 
+HBV  infection  are  greatly  expanded,  complete  elimination  of  HBV  transmission  might
+take another 20 years to achieve.
+ Reported by: National Immunization Program; Div of Viral Hepatitis, National Center for
+Infectious Diseases, CDC.
+References
+ Armstrong  GL,  Mast  EE,  Wojczynski  M,  Margolis  HS.  Childhood  hepatitis  B  virus
+infections in the United States before hepatitis B 
+immunization. Pediatrics 2001;108:1123--8.
+  CDC. Inactivated hepatitis B vaccine. MMWR
+  1982;31:317--8.
+ Alter MJ, Hadler SC, Margolis HS, et al. The changing epidemiology of hepatitis B in the
+United States: need for alternative vaccination 
+strategies. JAMA 1990;263:1218--22.
+  CDC. Hepatitis B virus: a comprehensive strategy for eliminating transmission in the
+United States through universal childhood 
+vaccination. MMWR 1991;40(No. RR-13).
+  CDC.  Update:  recommendations  to  prevent  hepatitis  B  virus  transmission---United
+States. MMWR
+  1995;44:574--5.
+  CDC.  Update:  recommendations  to  prevent  hepatitis  B  virus  transmission---United
+States. MMWR
+  1999;48:33--4.
+  CDC. Effectiveness of a middle school vaccination law---California, 1999--2001. MMWR
+  2001;50:660--3.
+ Mahoney FJ, Stewart K, Hu H, Coleman P, Alter MJ. Progress toward the elimination of
+hepatitis B virus transmission among health care 
+workers in the United States. Arch Intern Med 1997;157:2601--5.
+  Harpaz R, McMahon BJ, Margolis HS, et al. Elimination of new chronic hepatitis B virus
+infections: results of the Alaska immunization program. 
+J Infect Dis 2000;181:413--8.
+  CDC. Postexposure prophylaxis of hepatitis B. MMWR
+  1984;33:285--90.
+ Kumar ML, Dawson NV, McCullough AJ, et al. Should all pregnant women be screened
+for hepatitis B? Ann Intern Med 1987;107:273--7.
+ Jonas MM, Schiff ER, O'Sullivan MJ, et al. Failure of Centers for Disease Control criteria
+to identify hepatitis B infection in a large 
+municipal obstetrical population. Ann Intern Med 1987;107:335--7.
+  CDC. Prevention of perinatal transmission of hepatitis B virus: prenatal screening of all
+pregnant women for hepatitis B surface antigen. 
+MMWR 1988;37:341--6, 351.
+  CDC. Hepatitis B vaccine: evidence confirming lack of AIDS transmission. MMWR
+  1984;33:685--7.
+ Freed  GL,  Freeman  VA,  Clark  SJ,  Konrad  TR,  Pathman  DE.  Pediatrician  and  family
+physician agreement with and adoption of universal hepatitis 
+B immunization. J Family Prac 1996;42:587--92. 
+ Clark SJ, Cabana MD, Malik T, Yusuf H, Freed GL. Hepatitis B vaccination practices in
+hospital newborn nurseries before and after changes 
+in vaccination recommendations. Archives Pediatr Adoles Med 2001;155:915--20.
+ Institute of Medicine Immunization Safety Review Committee. In: Stratton K, Almario D,
+McCormick MC, eds. Hepatitis B vaccine 
+and demyelinating disorders, 2002. Washington, DC: National Academy Press, 2002.
+ 
+ 
+ CDC.
+ Prevention
+ of
+ perinatal
+ hepatitis
+ B
+ through
+ enhanced
+ case
+management---Connecticut, 1994--1995, and United States, 1994. 
+MMWR 1996;45:454--7.
+  MacKellar  DA,  Valleroy  LA,  Secura  GM,  et  al.  Two  decades  after  vaccine  license:
+hepatitis B immunization and infection among young men 
+who have sex with men. Am J Public Health 2001;91:965--71.
+ U.S. Department of Health and Human Services. Healthy people 2010 (conference ed,
+2 vols). Washington, DC: U.S. Department of Health 
+and Human Services, 2000.
+  Goldstein ST, Alter MJ, Williams IT, et al. Incidence and risk factors for acute hepatitis B
+in the United States, 1982--1998: implications 
+for vaccination programs. J Infect Dis 2002;185:713--9.
+*  Health-care  providers,  clients,  and  staff  of  institutions  for  the  developmentally
+disabled, hemodialysis patients, men who have sex with men, injection-drug 
+users,  recipients  of  clotting  factors  for  bleeding  disorders,  household  and  sexual
+contacts of persons with chronic HBV infection, populations with high rates of 
+HBV infection (e.g., Alaska Natives, Pacific Islanders, and immigrants and refugees from
+countries in which HBV is endemic), and inmates of long-term 
+correctional facilities.
+TableReturn to top.
+FigureReturn to top.
+Use of trade names and commercial sources is for identification only and does not imply
+endorsement by the U.S. Department of 
+Health and Human Services.References to non-CDC sites on the Internet are 
+provided as a service to MMWR readers and do not constitute or imply 
+endorsement of these organizations or their programs by CDC or the U.S. 
+Department of Health and Human Services. CDC is not responsible for the content 
+of pages found at these sites. URL addresses listed in MMWR were current as of 
+the date of publication.
+Disclaimer
+  
+All MMWR HTML versions of articles are electronic conversions from ASCII text 
+into HTML.  This conversion may have resulted in character translation or format errors
+in the HTML version.  
+Users  should  not  rely  on  this  HTML  document,  but  are  referred  to  the  electronic  PDF
+version and/or 
+the original MMWR paper copy for the official text, figures, and tables.  
+An  original  paper  copy  of  this  issue  can  be  obtained  from  the  Superintendent  of
+Documents, 
+U.S. Government Printing Office (GPO), Washington, DC 20402-9371; telephone: (202)
+512-1800. 
+Contact GPO for current prices.
+**Questions or messages regarding errors in formatting should be addressed to 
+mmwrq@cdc.gov.
+Page converted: 6/27/2002
+ *  Health-care  providers,  clients,  and  staff  of  institutions  for  the  developmentally
+disabled, hemodialysis patients, men who have sex with men, injection-drug 
+users,  recipients  of  clotting  factors  for  bleeding  disorders,  household  and  sexual
+contacts of persons with chronic HBV infection, populations with high rates of 
+HBV infection (e.g., Alaska Natives, Pacific Islanders, and immigrants and refugees from
+countries in which HBV is endemic), and inmates of long-term 
+correctional facilities.
+ 
+ Use  of  trade  names  and  commercial  sources  is  for  identification  only  and  does  not
+imply endorsement by the U.S. Department of 
+Health and Human Services.References to non-CDC sites on the Internet are 
+provided as a service to MMWR readers and do not constitute or imply 
+endorsement of these organizations or their programs by CDC or the U.S. 
+Department of Health and Human Services. CDC is not responsible for the content 
+of pages found at these sites. URL addresses listed in MMWR were current as of 
+the date of publication.
+Disclaimer
+  
+All MMWR HTML versions of articles are electronic conversions from ASCII text 
+into HTML.  This conversion may have resulted in character translation or format errors
+in the HTML version.  
+Users  should  not  rely  on  this  HTML  document,  but  are  referred  to  the  electronic  PDF
+version and/or 
+the original MMWR paper copy for the official text, figures, and tables.  
+An  original  paper  copy  of  this  issue  can  be  obtained  from  the  Superintendent  of
+Documents, 
+U.S. Government Printing Office (GPO), Washington, DC 20402-9371; telephone: (202)
+512-1800. 
+Contact GPO for current prices.
+**Questions or messages regarding errors in formatting should be addressed to 
+mmwrq@cdc.gov.
+Page converted: 6/27/2002
+ Use  of  trade  names  and  commercial  sources  is  for  identification  only  and  does  not
+imply endorsement by the U.S. Department of 
+Health and Human Services.References to non-CDC sites on the Internet are 
+provided as a service to MMWR readers and do not constitute or imply 
+endorsement of these organizations or their programs by CDC or the U.S. 
+Department of Health and Human Services. CDC is not responsible for the content 
+of pages found at these sites. URL addresses listed in MMWR were current as of 
+the date of publication. 
+Disclaimer
+  
+All MMWR HTML versions of articles are electronic conversions from ASCII text 
+into HTML.  This conversion may have resulted in character translation or format errors
+in the HTML version.  
+Users  should  not  rely  on  this  HTML  document,  but  are  referred  to  the  electronic  PDF
+version and/or 
+the original MMWR paper copy for the official text, figures, and tables.  
+An  original  paper  copy  of  this  issue  can  be  obtained  from  the  Superintendent  of
+Documents, 
+U.S. Government Printing Office (GPO), Washington, DC 20402-9371; telephone: (202)
+512-1800. 
+Contact GPO for current prices. Page converted: 6/27/2002 
+    HOME  |  
+    ABOUT MMWR  | 
+    MMWR SEARCH  | 
+    DOWNLOADS  | 
+    RSS 
+    |  
+    CONTACT
+POLICY  |  
+    DISCLAIMER  |  
+    ACCESSIBILITY 
+Morbidity and Mortality Weekly Report
+                Centers for Disease Control and Prevention
+                1600 Clifton Rd, MailStop E-90, Atlanta, GA 
+                  30333, U.S.A 
+Department of Healthand Human Services This page last reviewed 6/27/2002
+ 
+Source URL: https://www.cdc.gov/mmwr/preview/mmwrhtml/mm5125a3.htm

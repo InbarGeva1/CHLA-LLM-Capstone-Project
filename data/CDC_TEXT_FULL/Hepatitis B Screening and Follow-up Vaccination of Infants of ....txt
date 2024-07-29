@@ -1,0 +1,153 @@
+Persons using assistive technology might not be able to fully access information in this
+file. For assistance, please send e-mail to: mmwrq@cdc.gov. Type 508 Accommodation
+and the title of the report in the subject line of e-mail. Perinatal transmission is one of
+the most efficient modes of
+spread of hepatitis B virus (HBV). Infants born to mothers who
+are positive for both hepatitis B surface antigen (HBsAg) and
+hepatitis B e antigen (HBeAg) have a 70%-90% risk for HBV
+infection; 85%-90% of infected infants will remain chronically
+infected (1). For infants born to HBsAg-positive, HBeAg-negative
+mothers, the risk for chronic infection is as great as 31% (2-5).
+Children born to HBsAg-positive mothers not infected at birth
+have a 30%-60% risk for acquiring infection during the first 5
+years of life (depending on the HBeAg status of the mother)
+(3,6). In 1988, the Immunization Practices Advisory Committee
+(ACIP) recommended HBsAg screening of all pregnant women during
+an early prenatal visit and treatment of infants born to
+HBsAg-positive mothers with hepatitis B immune globulin (HBIG) at
+birth and hepatitis B vaccine at birth, 1 month, and 6 months of
+age (7). To assess the implementation of these recommendations,
+records of treatment and follow-up of infants born to
+HBV-carrier* mothers were reviewed at a hospital in Atlanta.  The hospital is an 864-bed
+public urban hospital mainly
+serving the greater metropolitan Atlanta area; approximately
+10,000 women are seen each year at the hospital's prenatal
+clinics. In July 1988, universal hepatitis screening of pregnant
+women was begun at the prenatal clinics. From July 1, 1988,
+through June 30, 1989, 85 HBsAg-positive women were identified
+through prenatal hepatitis screening at the hospital. This report
+presents findings for the 43 women who were HBsAg-positive,
+delivered their infants at the hospital, and resided in either
+Fulton or DeKalb counties.  At delivery, HBIG and the first dose of hepatitis B vaccine
+were administered to 42 and 41 of the 43 infants, respectively.
+One infant received the first dose of hepatitis B vaccine at 1
+month of age; records and treatment information for one infant
+were unavailable. The 41 infants who received hepatitis B
+prophylaxis in the hospital were scheduled for vaccination
+follow-up  by  their  respective  county  clinic.   The  second  dose  of  vaccine  was
+administered to 39 of the
+infants, 33 of whom received their second dose before 2 months of
+age. Twenty-four of the 32 infants who were at least 6 months old
+as of March 15, 1990, received their third dose of vaccine; 18 of
+the 24 received the third dose within 1 month of their vaccine
+due date. The hepatitis B vaccination completion rate was
+comparable to the 73% completion rate for the third dose of
+diphtheria and tetanus toxoids and pertussis vaccine in the same
+infants. None of the infants in this study has been tested for
+anti-HBs.  In DeKalb County, a computer-based system is used to track
+childhood vaccination records, and hepatitis B vaccine is
+available at all the local health centers; 11 (92%) of 12 infants
+identified in that county completed the vaccine series. In
+contrast, 13 (65%) of 20 infants completed the vaccination series
+in Fulton County, which uses a manual "tickler file" and makes
+hepatitis  B  vaccine  available  at  one  vaccination  clinic.   HBsAg  tests  were  repeated
+during the prenatal period for 35
+women who were identified as HBsAg-positive. Of these, 10 (29%)
+seroconverted to HBsAg-negative before delivery; five of the 10
+women developed antibody to HBsAg or had liver enzyme elevations
+that resolved by the time of seroconversion, suggesting recent
+acute HBV infection.
+Reported by: B Sweeney, B Stoll, MD, D Vroon, MD, Grady Memorial
+Hospital, Atlanta; AM Mullen, DeKalb County Board of Health; J
+Sarver, Fulton County Board of Health; R Keith Sikes, DVM, State
+Epidemiologist, Georgia Dept of Human Resources. Hepatitis Br,
+Div of Viral and Rickettsial Diseases, Center for Infectious
+Diseases, CDC.  Editorial Note: In the United States, an estimated 18,775 infants
+are born to HBsAg-positive women each year. Without adequate
+hepatitis B prophylaxis at delivery, an estimated 4000 of these
+infants can become chronically infected with HBV (CDC,
+unpublished data, 1989). More than 90% of such perinatally
+acquired HBV infections can be prevented through administration
+of HBIG and hepatitis B vaccine as soon as possible after birth,
+followed by completion of the hepatitis B vaccine series at 1 and
+6 months of age (7). Testing infants for HBsAg and anti-HBs is
+also recommended at 12-15 months of age to monitor the
+effectiveness of therapy (7). With implementation of the ACIP
+recommendation that all pregnant women be screened for HBsAg,
+state vaccination programs must ensure that infants born to
+HBV-carrier mothers receive complete hepatitis B prophylaxis as a
+part  of  their  routine  childhood  vaccination  program.   Hepatitis  B  screening  and
+vaccination programs for infants
+of carrier mothers must address specific operational issues. For
+example, before infants can receive their second and third doses
+of vaccine, information about the need for hepatitis B vaccine
+must be conveyed from the newborn nurseries to the infants'
+pediatric-care providers. For those infants who receive primary
+and/or preventive health services in the public sector,
+information is usually transmitted from the hospital where the
+infant was born to the county health department and/or the local
+health-care center. These programs may then be responsible for
+tracking HBV-carrier mothers and ensuring that infants receive
+three doses of vaccine.  Health education efforts must be directed at HBsAg-positive
+mothers to emphasize the importance of hepatitis B prevention;
+for example, vaccination reminders may be provided to
+HBsAg-positive mothers when they are discharged from the
+hospital. Local health centers and county health departments
+should incorporate hepatitis B vaccination into the tracking
+systems used to follow infants for routine childhood vaccinations
+to assure a high rate of follow-up. In addition, personnel in
+pediatric well-baby and vaccination clinics should identify
+infants for whom hepatitis B vaccine is indicated and ensure
+these infants complete the vaccine series. Centralized
+immunization files can be used to follow contacts of HBV-carrier
+women identified by prenatal screening (i.e., household members
+and sex partners), for whom HB vaccine is also recommended (1).  References  
+    ACIP. Protection against viral hepatitis: recommendations of
+    the Immunization Practices Advisory Committee (ACIP). MMWR
+    1990;39(no. RR-2).  
+    Stevens CE, Neurath RA, Beasley RP, et al. HBeAg and anti-HBe
+    detection by radioimmunoassay: correlation with vertical
+    transmission of hepatitis B virus in Taiwan. J Med Virol
+    1979;3:237-41.  
+    Beasley RP, Trepo C, Stevens CE, et al. The e antigen and
+    vertical transmission of hepatitis B surface antigen. Am J
+    Epidemiol 1977;105:94-8.  
+    Shiraki K, Yoshihara N, Sakurai M, et al. Acute hepatitis B in
+    infants born to carrier mothers with antibody to hepatitis B e
+    antigen. J Pediatr 1980;97:768-70.  
+    Tong MJ, Sinatra FR, Thomas DW, et al. Need for
+    immunoprophylaxis in infants born to HBsAg-positive carrier
+    mothers who are HBeAg negative. J Pediatr 1984;105:945-7.  
+    Beasley RP, Hwang LY. Postnatal infectivity of hepatitis B
+    surface antigen-carrier mothers. J Infect Dis 1983;147:185-90.  
+    ACIP. Prevention of perinatal transmission of hepatitis B
+    virus: prenatal screening of all pregnant women for hepatitis B
+    surface antigen. MMWR 1988;37:341-6,351.
+    *A person who is either HBsAg-positive on at least two occasions
+    (at least 6 months apart) or who is HBsAg-positive and IgM
+    anti-HBc-negative when a single specimen is tested.  
+Disclaimer
+   All MMWR HTML documents published before January 1993 are electronic conversions
+from ASCII text into HTML.  This conversion may have resulted in character translation
+or format errors in the HTML version.  Users should not rely on this HTML document, but
+are referred to the original MMWR paper copy for the official text, figures, and tables. 
+An  original  paper  copy  of  this  issue  can  be  obtained  from  the  Superintendent  of
+Documents,  U.S.  Government  Printing  Office  (GPO),  Washington,  DC  20402-9371;
+telephone: (202) 512-1800. Contact GPO for current prices. Page converted: 08/05/98 
+    HOME  |  
+    ABOUT MMWR  | 
+    MMWR SEARCH  | 
+    DOWNLOADS  | 
+    RSS 
+    |  
+    CONTACT
+POLICY  |  
+    DISCLAIMER  |  
+    ACCESSIBILITY 
+Morbidity and Mortality Weekly Report
+                Centers for Disease Control and Prevention
+                1600 Clifton Rd, MailStop E-90, Atlanta, GA 
+                  30333, U.S.A 
+Department of Healthand Human Services This page last reviewed 5/2/01 
+ 
+Source URL: https://www.cdc.gov/mmwr/preview/mmwrhtml/00001647.htm

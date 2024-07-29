@@ -1,0 +1,1842 @@
+ Persons using assistive technology might not be able to fully access information in this
+file. For assistance, please send e-mail to: mmwrq@cdc.gov. Type 508 Accommodation
+and the title of the report in the subject line of e-mail. Prepared by
+Rafael Harpaz, MD, Ismael R. Ortega-Sanchez, PhD, Jane F. Seward, MBBS,
+Division of Viral Diseases, National Center for Immunization and Respiratory Diseases
+ 
+ The  material  in  this  report  originated  in  the  National  Center  for  Immunization  and
+Respiratory Diseases, Anne Schuchat, MD, Director; and the 
+Division of Viral Diseases, Larry Anderson, MD, Director. 
+ Corresponding  preparer:  Rafael  Harpaz,  MD,  National  Center  for  Immunization  and
+Respiratory Diseases, CDC, 1600 Clifton Rd., NE, MS 
+A-47, Atlanta, GA 30333. Telephone: 404-639-6284; Fax: 
+404-639-8665; E-mail: rzh6@cdc.gov. 
+ These recommendations represent the first statement by the Advisory Committee on
+Immunization Practices (ACIP) 
+on the use of a live attenuated vaccine for the prevention of herpes zoster (zoster) (i.e.,
+shingles) and its sequelae, which 
+was  licensed  by  the  U.S.  Food  and  Drug  Administration  (FDA)  on  May  25,  2006.  This
+report summarizes the 
+epidemiology  of  zoster  and  its  sequelae,  describes  the  zoster  vaccine,  and  provides
+recommendations for its use among adults aged 
+>60 years in the United States. 
+ Zoster is a localized, generally painful cutaneous eruption that occurs most frequently
+among older adults 
+and immunocompromised persons. It is caused by reactivation of latent varicella zoster
+virus (VZV) decades after initial 
+VZV  infection  is  established.  Approximately  one  in  three  persons  will  develop  zoster
+during their lifetime, resulting in 
+an estimated 1 million episodes in the United States annually. A common complication
+of zoster is postherpetic 
+neuralgia  (PHN),  a  chronic,  often  debilitating  pain  condition  that  can  last  months  or
+even years. The risk for PHN in patients 
+with  zoster  is  10%--18%.  Another  complication  of  zoster  is  eye  involvement,  which
+occurs in 10%--25% of zoster episodes 
+and  can  result  in  prolonged  or  permanent  pain,  facial  scarring,  and  loss  of  vision.
+Approximately 3% of patients with 
+zoster  are  hospitalized;  many  of  these  episodes  involved  persons  with  one  or  more
+immunocompromising conditions. 
+Deaths  attributable  to  zoster  are  uncommon  among  persons  who  are  not
+immunocompromised.  
+ Prompt treatment with the oral antiviral agents acyclovir, valacyclovir, and famciclovir
+decreases the severity 
+and  duration  of  acute  pain  from  zoster.  Additional  pain  control  can  be  achieved  in
+certain patients by supplementing 
+antiviral  agents  with  corticosteroids  and  with  analgesics.  Established  PHN  can  be
+managed in certain patients with 
+analgesics, tricyclic antidepressants, and other agents. 
+ Licensed zoster vaccine is a lyophilized preparation of a live, attenuated strain of VZV,
+the same strain used in 
+the varicella vaccines. However, its minimum potency is at least 14-times the potency
+of single-antigen varicella vaccine. In 
+a large clinical trial, zoster vaccine was partially efficacious at preventing zoster. It also
+was partially efficacious at 
+reducing  the  severity  and  duration  of  pain  and  at  preventing  PHN  among  those
+developing zoster. 
+ Zoster vaccine is recommended for all persons aged 
+>60 years who have no contraindications, including persons 
+who report a previous episode of zoster or who have chronic medical conditions. The
+vaccine should be offered at the 
+patient's first clinical encounter with his or her health-care provider. It is administered
+as a single 0.65 mL dose subcutaneously 
+in the deltoid region of the arm. A booster dose is not licensed for the vaccine. Zoster
+vaccination is not indicated to 
+treat  acute  zoster,  to  prevent  persons  with  acute  zoster  from  developing  PHN,  or  to
+treat ongoing PHN. Before administration 
+of  zoster  vaccine,  patients  do  not  need  to  be  asked  about  their  history  of  varicella
+(chickenpox) or to have serologic 
+testing conducted to determine varicella immunity.
+Introduction
+ Infection  with  varicella  zoster  virus  (VZV)  causes  two  distinct  clinical  conditions.
+Primary VZV infection 
+causes varicella (i.e., chickenpox), a contagious rash illness that typically occurs among
+children. A vaccine for preventing 
+initial 
+VZV  infection  has  been  available  in  the  United  States  since  1995,  and  the  Advisory
+Committee on 
+Immunization Practices (ACIP) recommends routine varicella 
+vaccination for all persons aged >12 months who lack evidence 
+of  immunity  (1--3).  Varicella  vaccination  has  dramatically  reduced  chickenpox  cases
+among children 
+(3). 
+ VZV  can  reactivate  clinically  decades  after  initial  infection  to  cause  herpes  zoster
+(zoster) (i.e., shingles), a 
+localized and generally painful cutaneous eruption that occurs most frequently among
+older adults. Approximately 1 million 
+new  cases  of  zoster  occur  in  the  United  States  annually.  Approximately  one  in  three
+persons in the general population 
+will  develop  zoster  during  their  lifetime.  A  common  complication  of  zoster  is
+postherpetic neuralgia (PHN), a chronic 
+pain  condition  that  can  last  months  or  even  years.  In  May  2006,  a  live,  attenuated
+vaccine for prevention of 
+zoster  (ZOSTAVAX®,  manufactured  by  Merck  &  Co.,  Inc.)  was  licensed  in  the  United
+States for use in persons aged 
+>60  years.  This  report  provides  recommendations  for  use  of  zoster  vaccine  for
+prevention of zoster and its sequelae. 
+Methods
+ In  Spring  2005,  Merck  &  Co.,  Inc.  (Whitehouse  Station,  New  Jersey)  submitted  a
+Biologics License Application 
+to  the  Food  and  Drug  Administration  (FDA)  for  an  investigational  live,  attenuated
+vaccine for prevention of zoster on 
+the basis of a phase 3 clinical trial. These results were published in June 2005 
+(4)  and  presented  at  the  ACIP  meeting  later  that  month.  In  September  2005,  ACIP's
+measles-mumps-rubella and varicella workgroup expanded its membership 
+to include experts in adult medicine and in zoster and began review of relevant data on
+zoster and the 
+investigational  vaccine.  Shortly  thereafter,  this  workgroup  reformed  as  the  ACIP
+shingles workgroup and, during subsequent 
+months,  held  19  conference  calls  to  review  and  discuss  scientific  evidence  related  to
+herpes zoster and zoster vaccine, 
+including  the  epidemiology  and  natural  history  of  zoster  and  its  sequelae,  and  the
+safety, immunogenicity, efficacy, 
+financing,  storage,  and  handling  of  the  zoster  vaccine.  The  workgroup  also  reviewed
+several economic analyses on zoster 
+prevention.  Workgroup  members  participated  in  10  additional  conference  calls  to
+develop and discuss recommendation options 
+for  preventing  zoster.  When  scientific  evidence  was  lacking,  recommendations
+incorporated expert opinions of 
+the workgroup members. 
+ Presentations  of  background  materials  on  zoster  and  the  vaccine  were  made  during
+ACIP meetings in October 
+2005  and  the  three  meetings  in  2006.  Following  vaccine  licensure  on  May  25,  2006,
+recommendation options were 
+presented to ACIP in June 2006, and final options were presented at the October 2006
+meeting. During review by CDC 
+and external partners, modifications were made to the proposed recommendations to
+update and clarify wording in 
+the  document.  As  new  information  on  the  epidemiology  and  prevention  of  zoster
+becomes available, it will be reviewed 
+by ACIP and recommendations will be updated as needed. 
+Background
+Biology of VZV
+ VZV  is  an  exclusively  human  pathogen  that  infects  approximately  98%  of  the  adult
+population in the United 
+States (5). The primary infection typically occurs during childhood and causes varicella.
+During its viremic phase, 
+cell-associated VZV gains access to epidermal cells, causing the typical varicella rash.
+The virus then enters sensory nerves 
+in mucocutaneous sites and travels through retrograde axonal transport to the sensory
+dorsal root ganglia adjacent to 
+the spinal cord where the virus establishes permanent latency in neuronal cell bodies 
+(6--7).  Latent  VZV  is  present  in  approximately  1%--7%  of  sensory  ganglion  neurons,
+with <10 genomic copies per infected cell 
+(8--10). Seeding of dorsal root ganglia also might occur during viremia. The magnitude
+of viremia, the number of skin lesions, and 
+the burden of VZV that establishes latency during primary varicella infection might be
+linked 
+(11). As with other members of the herpesvirus family, VZV is noninfectious in its latent
+form but can reactivate at a later time to form intact 
+virions in the involved sensory neurons. These virions then migrate to the skin through
+axons, spread from cell to cell, 
+and  penetrate  the  epidermis  (12).  In  its  full  clinical  expression,  zoster  causes  pain,
+which is followed by a vesicular 
+rash distributed across closely overlapping dermatomes 
+of the involved sensory nerve roots. 
+ The  triggers  for  reactivation  of  VZV  have  not  been  identified  and  probably  involve
+multiple factors. However, 
+specific  components  of  cell-mediated  immunity  (CMI)  have  an  important  role  in
+controlling the development of zoster 
+by  preventing  reactivation  within  the  neuron  or  the  full  clinical  expression  of
+reactivated VZV as zoster. The 
+effectiveness  of  these  protective  components  of  CMI  is  well  maintained  in
+immunocompetent persons during childhood and 
+early  adulthood.  These  CMI  components  are  believed  to  be  partially  or  substantially
+maintained by 
+periodic  immunologic  boosting.  "Endogenous  boosting"  might  occur  in  response  to
+subclinical reactivation of 
+latent VZV or to development of zoster itself, and "exogenous boosting" might occur in
+response to exposure to VZV circulating in the population 
+as chickenpox (13--19). Although virtually all adults are infected with VZV 
+(5), specific immunologic parameters have 
+not been identified to distinguish who will develop zoster. Anti-VZV antibody levels per
+se are not thought to have a role 
+in zoster prevention (20). Parameters that have been monitored and correlate with such
+protection include 
+anamnestic boost in anti-VZV antibodies in vivo in response to VZV-based vaccination,
+and the presence of and boost in 
+memory  CD4  T  cells  as  measured  in  vitro  by  proliferation  of  peripheral  blood
+mononuclear cells (PBMC), by frequency 
+of proliferating PBMC, or by frequency of 
+interferon-g (IFN-g) releasing PBMC, all in response to VZV-antigens 
+(21,22).  These  latter  two  parameters  are  generally  assessed  using  a  responder  cell
+frequency (RCF) assay and an 
+IFN-g enzyme-linked immunosorbent spot-forming cell (ELISPOT) assay, respectively 
+(22).  VZV-specific  class  I-restricted  and  unrestricted  cytotoxicities  also  have  been
+monitored using target cell lysis 
+(23). Although CMI is necessary for the control of zoster, other nonimmunologic factors
+also might be involved 
+(24). 
+Clinical Features of Zoster and PHN
+ The clinical course of acute zoster is variable. It is usually less severe in children and
+younger adults. Typically, 
+zoster begins with a prodrome. Headache, photophobia, and malaise might occur, with
+fever being less 
+common. Abnormal skin sensations and pain of varying severity are the most common
+symptoms. These symptoms can 
+precede the zoster rash by days to weeks 
+(25) and rarely might be the only clinical manifestation of VZV reactivation 
+(termed  zoster  sine  herpete)  (7).  Pain  is  described  as  aching,  burning,  stabbing,  or
+shock-like. Altered sensitivity to touch, 
+pain provoked by trivial stimuli, and unbearable itching are all frequently reported. 
+ Zoster rash is typically unilateral and does not cross the mid-line, erupting in one or
+two adjacent dermatomes. 
+The  frequency  of  zoster  occurrence  in  different  dermatomes  has  been  evaluated  in
+certain studies. In general, 
+thoracic, cervical, and ophthalmic involvement are most common 
+(Figure 1) (26--28). Small numbers of lesions can occur 
+outside  the  primary  or  adjacent  dermatome.  The  rash  is  initially  erythematous  and
+maculopapular but progresses to 
+form coalescing clusters of clear vesicles containing high concentrations of VZV (Figure
+1). The vesicles form over several 
+days and then evolve through pustular, ulcer, and crust stages. The rash usually lasts
+7--10 days, with complete 
+healing  within  2-4  weeks.  However,  pigmentation  changes  and  scarring  might  be
+permanent. Streptococcal or 
+staphylococcal superinfections might complicate zoster rash 
+(29). 
+ A common and potentially debilitating consequence of zoster is PHN, a persistent pain
+after resolution of the 
+rash.  Pathologic  observations  thought  to  distinguish  PHN  from  uncomplicated  zoster
+include axonal and cell 
+body degeneration, atrophy of the spinal cord dorsal horn, scarring of the dorsal root
+ganglion, and loss of 
+epidermal  innervation  of  the  affected  area.  Certain  experts  believe  this  neuronal
+damage might be caused by ongoing 
+viral replication (30,31). In addition, consensus is lacking regarding criteria needed to
+distinguish the quality, duration, 
+or underlying pathophysiology of pain occurring with zoster versus PHN. Therefore, the
+duration of pain used to 
+define PHN has been inconsistent, ranging from any duration after resolution of the rash
+to periods from 
+>30 days to >6 months after rash onset. 
+ Regardless of definition, the pain of PHN can last for weeks or months and occasionally
+persists for many years. 
+The  nature  of  PHN  pain  varies  from  mild  to  excruciating  in  severity,  constant,
+intermittent, or triggered by trivial 
+stimuli.  Approximately  half  of  patients  with  zoster  or  PHN  describe  their  pain  as
+"horrible" or "excruciating", ranging 
+in duration from a few minutes to constant on a daily or almost daily basis 
+(32). The pain can disrupt sleep, mood, 
+work, and activities of daily living, adversely impacting the quality of life and leading to
+social withdrawal and 
+depression (Table 1) (31--33). Anecdotes of suicide among 
+patients suffering from PHN have been reported 
+(34; Peter Richards, MD, personal communication, 2007). Among persons experiencing
+zoster, predictors of PHN include the 
+occurrence 
+and  severity  of  pain  both  before  and  after  onset  of  the  rash,  the  extent  of  the  rash,
+trigeminal or ophthalmic 
+distribution (35,36), and the occurrence of viremia 
+(37). 
+ In  addition  to  PHN,  zoster  is  associated  with  a  variety  of  other  complication.  Among
+persons with zoster, 
+10%--25% have eye involvement, called herpes zoster ophthalmicus (HZO) 
+(38,39) (Figure 2). HZO can occur when 
+reactivation  involves  the  nasociliary  branch  of  the  trigeminal  nerve,  sometimes
+preceded by the presence of zoster vesicles on the 
+nose  (Hutchinson  sign).  Keratitis  occurs  in  approximately  two  thirds  of  patients  with
+HZO 
+(40),  often  causing  corneal  ulceration.  Other  complications  include  conjunctivitis,
+uveitis, episcleritis and scleritis, retinitis, choroiditis, 
+optic  neuritis,  lid  retraction,  ptosis,  and  glaucoma.  Extraocular  muscle  palsies  also
+occur. Prolonged or permanent sequelae 
+of HZO include pain, facial scarring, and loss of vision 
+(41). 
+ An  uncommon  complication  of  zoster  is  Ramsay  Hunt  syndrome,  a  peripheral  facial
+nerve palsy accompanied 
+by zoster vesicles on the ear, hard palate, or tongue 
+(42). The pathophysiology of this complication involves reactivation 
+of VZV in the geniculate ganglion of the facial nerve. 
+Additional signs and symptoms of Ramsey Hunt syndrome 
+can include pain, vertigo, hearing loss, sensitivity to sound, tinnitus, and loss of taste.
+Many patients do not 
+recover  completely  (42).  Idiopathic  facial  palsy  (Bell's  palsy)  might  be  caused  by
+inapparent VZV reactivation 
+(42,43). 
+ Occasionally, zoster can cause motor weakness in noncranial nerve distributions, called
+zoster paresis 
+(44,45).  The  mechanism  has  not  been  determined.  The  weakness  develops  abruptly
+within 2--3 weeks after onset of the rash and 
+can  involve  upper  or  lower  extremities.  Diaphragmatic  paralysis  also  has  been
+described. The prognosis of zoster paresis 
+is good (46). Zoster also can result in autonomic dysfunction, causing urinary retention
+and colon pseudo-obstruction.
+ Rarely, patients will experience acute focal neurologic deficits weeks to months after
+resolution of the zoster 
+rash, involving the trigeminal distribution contralateral to the initial rash. This ischemic
+stroke syndrome, 
+termed  granulomatous  angiitis,  is  believed  to  be  caused  by  direct  extension  of  VZV
+from the trigeminal ganglion to 
+the internal carotid artery or its branches, resulting in inflammation 
+(30). Mortality from this syndrome is 
+substantial. Other rare neurologic complications of zoster include 
+myelitis, aseptic meningitis, and meningoencephalitis. 
+The  prognosis  for  these  conditions  is  good,  although  encephalomyelitis  can  be  life
+threatening. Guillain-Barré syndrome 
+also has been reported in association with zoster 
+(47).
+ In immunocompromised persons, zoster initially might present typically. However, the
+rash tends to be 
+more severe and its duration prolonged 
+(48,49). One specific risk for persons with some immunosuppressive conditions 
+is dissemination of the zoster rash. True cutaneous dissemination generally occurs only
+among 
+immunocompromised patients, occurring in up to 37% of zoster cases in the 
+absence of antiviral treatment (49--54). Dissemination 
+usually begins with a dermatomal rash; however, the rash sometimes 
+begins with no primary dermatomal involvement 
+(54). 
+ Cutaneous  dissemination  is  not  life-threatening;  however,  it  is  a  marker  for  VZV
+viremia that can seed the lungs, 
+liver, gut, and brain and cause pneumonia, hepatitis, 
+encephalitis, and disseminated intravascular coagulopathy in 
+10%--50%  of  episodes.  Visceral  dissemination  with  no  skin  involvement  can  occur  in
+profoundly immunocompromised 
+persons.  Even  with  antiviral  treatment,  the  case  fatality  rate  from  visceral
+dissemination is 5%--15%, with most 
+deaths attributable to pneumonia (49,54,55). 
+ The
+ risk
+ for
+ neurologic
+ zoster
+ complications
+ is
+ generally
+ increased
+ in
+immunocompromised persons. 
+These complications, which can be aggressive and even fatal, include myelitis, chronic
+encephalitis, 
+ventriculitis, meningoencephalitis, and cranial palsies 
+(30). However, the risk for PHN is not appreciably increased 
+among immunocompromised persons who develop zoster 
+(30).
+ Compared with other immunocompromised persons, the clinical features of zoster are
+less severe and 
+visceral dissemination less common among persons infected with 
+human immunodeficiency virus (HIV) (56,57). Some 
+zoster presentations that are unique to persons infected with HIV include atypical skin
+eruptions 
+(58,59)  and  an  aggressive  variant  of  acute  retinal  necrosis  that  generally  results  in
+blindness 
+(60). Alveolar bone necrosis and tooth exfoliation also have been reported 
+(61). 
+Diagnosis
+ Zoster diagnosis might not be possible in the absence of rash (e.g., before rash or in
+cases of zoster sine 
+herpete).  Patients  with  localized  pain  or  altered  skin  sensations  might  undergo
+evaluation for kidney stones, gallstones, or 
+coronary artery disease until the zoster rash appears and the 
+correct diagnosis is made (62). In its classical manifestation, the 
+signs 
+and  symptoms  of  zoster  are  usually  distinctive  enough  to  make  an  accurate  clinical
+diagnosis once the rash has 
+appeared  (63).  Occasionally,  zoster  might  be  confused  with  impetigo,  contact
+dermatitis, folliculitis, scabies, 
+insect  bites,  papular  urticaria,  candidal  infection,  dermatitis  herpetiformis,  or  drug
+eruptions. More frequently, zoster is confused with 
+the rash of herpes simplex virus (HSV), including eczema herpeticum 
+(4,31,64--66). The accuracy of diagnosis is lower 
+for  children  and  younger  adults  in  whom  zoster  incidence  is  lower  and  its  symptoms
+less 
+often classic. 
+ In  some  cases,  particularly  in  immunosuppressed  persons,  the  location  of  rash
+appearance might be atypical, or 
+a  neurologic  complication  might  occur  well  after  resolution  of  the  rash.  In  these
+instances, laboratory testing might 
+clarify the diagnosis (67--71). Tzanck smears are inexpensive and can be used at the
+bedside to detect multinucleated 
+giant cells in lesion specimens, but they do not distinguish between infections with VZV
+and HSV. VZV obtained 
+from lesions can be identified using tissue culture, but this can take several days and
+false negative 
+results occur because viable virus is difficult to recover from cutaneous lesions. Direct
+fluorescent antibody (DFA) staining of VZV-infected cells in 
+a  scraping  of  cells  from  the  base  of  the  lesion  is  rapid  and  sensitive.  DFA  and  other
+antigen-detection methods also can 
+be  used  on  biopsy  material,  and  eosinophilic  nuclear  inclusions  (Cowdry  type  A)  are
+observed on 
+histopathology.  Polymerase  chain  reaction  (PCR)  techniques  performed  in  an
+experienced laboratory also can be used to detect 
+VZV DNA rapidly and sensitively in properly-collected lesion material, although VZV PCR
+testing is not available in 
+all  settings.  A  modification  of  PCR  diagnostic  techniques  has  been  used  at  a  few
+laboratories to distinguish wild-type 
+VZV from the Oka/Merck strain used in the licensed varicella and zoster 
+vaccines. 
+ In immunocompromised persons, even when VZV is detected by laboratory methods in
+lesion 
+specimens, distinguishing chickenpox from disseminated zoster might not be possible
+by physical examination 
+(72) or serologically (73--75). In these instances, a history of VZV exposure, a history
+that the rash began with a dermatomal pattern, 
+and results of VZV antibody testing at or before the time of rash onset might help guide
+the diagnosis.  
+Zoster Transmission
+ Zoster lesions contain high concentrations of VZV that can be spread, presumably by
+the airborne route 
+(76,77), and cause primary varicella in exposed susceptible persons 
+(77,78--83). Localized zoster is only contagious after the 
+rash erupts and until the lesions crust. Zoster is less contagious than varicella 
+(78). In one study of VZV transmission from zoster, varicella occurred among 15.5% of
+susceptible household contacts 
+(78).  In  contrast,  following  household  exposure  to  varicella,  a  more  recent  study
+demonstrated VZV transmission among 71.5% of susceptible contacts 
+(84). In hospital settings, transmission has been documented between patients or from
+patients to health-care personnel, 
+but  transmission  from  health-care  personnel  to  patients  has  not  been  documented.
+Persons with localized zoster are 
+less likely to transmit VZV to susceptible persons in household or occupational settings
+if their lesions are covered 
+(85).
+Epidemiology of Zoster and Complications
+ 
+Risk Factors
+ Infection with VZV 
+ Wild-type VZV. Because zoster reflects reactivation of 
+latent VZV, the primary risk factor and a necessary 
+precondition  for  zoster  is  previous  VZV  infection.  Approximately  99.5%  of  the  U.S.
+population aged 
+>40  years  has  serologic  evidence  of  previous  infection,  including  all  evaluated
+subgroups; therefore, all older adults are at risk for zoster 
+(5), although many cannot recall a history of varicella 
+(86--90). Varicella vaccine is effective at preventing initial wild-type 
+VZV  infection  in  persons  not  previously  infected.  Any  wild-type  VZV  infections
+prevented cannot reactivate as 
+zoster. 
+ The age at the time of initial VZV infection influences the age at which zoster occurs.
+Persons acquiring 
+an intrauterine or early childhood infection with VZV are at 
+increased risk for pediatric zoster (91--93). When 
+VZV infections occur before age 2 months, the risk for zoster occurring by the age of 12
+years is increased >35-fold 
+compared with the risk for VZV infections occurring after 
+infancy (92). Other case series suggest that the risk for 
+pediatric zoster also might be increased in children who experienced varicella at older
+ages 
+(94). Conversely, the risk for zoster might 
+be diminished in persons born in countries 
+(95) or living in communities (96) where varicella 
+infection tends to occur at 
+later  ages.  These  observations  suggest  that  changes  in  the  epidemiology  of  varicella
+caused by varicella vaccination or 
+by other factors can alter the epidemiology of zoster, particularly pediatric zoster. 
+ Oka/Merck Strain VZV. Among vaccine recipients, the attenuated Oka/Merck strain of
+VZV included in 
+varicella vaccine also can establish a latent infection and clinically reactivate as zoster 
+(97).  Zoster  caused  by  Oka/Merck  strain  VZV  cannot  be  distinguished  on  clinical
+grounds from zoster caused by wild-type VZV. The risk for zoster 
+caused specifically by Oka/Merck strain VZV is unknown because recipients of varicella
+vaccine might have already 
+been infected with wild-type VZV or might have become 
+infected with wild-type VZV following vaccination (i.e., due 
+to  vaccine  failure)  that  could  also  reactivate.  Therefore,  the  rate  of  all  episodes  of
+zoster among varicella vaccine 
+recipients  define  the  upper  bound  for  the  risk  of  the  subset  of  episodes  caused  by
+Oka/Merck strain VZV. The risk for zoster 
+in  immunocompromised  children  was  approximately  65%  less  for  those  who  had
+received the 
+varicella vaccine compared with those with previous wild-type varicella infection 
+(98,99). In immunocompetent children, the risk also appears 
+to be reduced among 1-dose vaccine recipients compared with children with a history
+of wild-type varicella, 
+although longer follow up is needed 
+(99--101). The risk for zoster in immunocompetent children following 2 doses of 
+varicella vaccine has not been studied. Collectively these studies suggest that the risk
+for Oka/Merck strain zoster 
+following  varicella  vaccination  is  no  higher,  and  likely  considerably  lower,  than  that
+following wild-type varicella infection, 
+even though the acquisition of the Oka/Merck VZV through vaccination generally occurs
+at a young age (i.e., 
+varicella vaccination is recommended for children aged 
+>12 months [1--3]), which might be a risk factor for pediatric zoster. 
+As varicella vaccine recipients age, the risk for and manifestation of Oka/Merck strain
+zoster in older persons at greater 
+risk for zoster complications can be evaluated. 
+ 
+Age
+ Influence on zoster. Age is the most important risk factor for development of zoster 
+(Figure 3). Virtually all studies conducted in numerous settings and with various study
+designs have indicated an association between age 
+and increasing zoster incidence, extending to the oldest cohorts 
+(4,62,95,102--104). One study indicated that 
+zoster  incidence  increased  with  age  by  a  factor  of  >10,  from  0.74  per  1000  person
+years in children aged <10 years to 10.1 
+per  1000  person  years  in  persons  aged  80--89  years,  with  much  of  the  increase
+beginning at age 50--60 years 
+(13).  Approximately  50%  of  persons  who  live  to  age  85  years  will  have  experienced
+zoster 
+(105,106). 
+ The important role of age as a risk factor for zoster is presumably related to a loss of
+components of 
+VZV-specific CMI response because of aging (i.e., immune 
+senescence) possibly combined with waning immunity that might occur 
+over  time  following  initial  varicella  infection.  Loss  of  specific  immunity  allows  VZV  to
+complete the process of 
+reactivation and spread to the epidermis to produce the fully expressed clinical illness 
+(12). Although precise correlates of 
+protection  against  zoster  have  not  been  identified,  certain  CMI  responses  to  VZV
+antigen decline with age 
+(21,22,107,108). 
+ Influence on PHN. Among persons experiencing zoster, the primary risk factor for the
+development of PHN is 
+age.  Several  studies  have  indicated  that  the  risk  for  PHN  among  persons  with  zoster
+increases with age, particularly 
+for persons aged >50 years 
+(13,35,62,109,110) (Figure 3). In one study, the risk for experiencing at least 2 months
+of 
+pain from PHN increased 27.4-fold among patients aged 
+>50 years compared with those aged <50 years 
+(109). Approximately 80%-85% of PHN occurs in zoster patients aged 
+>50 years (62). 
+ 
+Sex
+ Results from a large, randomized, controlled vaccine trial in the United States 
+(4)  indicated  that  the  incidence  of  confirmed  zoster  cases  in  a  cohort  of
+immunocompetent persons aged 
+>60 years was 11% higher among the women (11.8 versus 10.7 cases per 1000 person
+years in women and men, respectively). A prospective cohort study in 
+the Netherlands documented 38% more cases among women than men (odds ratio =
+1.38 [95% confidence interval [CI] 
+= 1.22--1.56) after controlling for age and other zoster risk factors 
+(111). Other studies 
+(13,102--104,112) using a variety of methods also demonstrated an age-standardized
+excess of zoster among women. However, some researchers 
+did not find a difference by sex 
+(36,38,105,113--115). Women with zoster might also be at increased age-specific risk 
+for developing PHN compared with men (35,62).
+ 
+Race 
+ Certain  studies  have  suggested  racial  differences  in  the  risk  for  zoster.  In  North
+Carolina, reported lifetime 
+zoster  occurrences  and  reported  incidence  were  lower  in  blacks  by  65%  and  75%,
+respectively, compared with 
+whites after controlling for relevant confounders 
+(115,116). A study in the United Kingdom indicated that zoster risk 
+in patients was 54% lower among blacks after adjusting for age, sex, country of birth, or
+household childhood 
+contacts (95). The reasons for these racial differences are unknown. 
+ 
+Geographic or Seasonal Variation
+ Most studies have not documented a seasonal pattern to zoster incidence 
+(13,38,92,95,105,117). Certain studies have reported summer seasonality, particularly
+for exposed skin sites. This pattern might be related to ultraviolet 
+irradiation that peaks during summer months and might serve as a trigger for zoster 
+(28,118,119).  No  studies  exist  regarding  variation  in  zoster  incidence  by  latitude.
+Urban/rural status does not appear to be a risk factor for zoster 
+(95). 
+ 
+Altered Immunocompetence
+ Unlike other vaccine-preventable diseases, zoster epidemiology is not directly related
+to exposure but to the 
+biology  underlying  the  virus-host  relation  that  allows  reactivation  of  latent  VZV.
+Because CMI plays a key role in 
+controlling  both  development  of  zoster  and  the  features  of  its  clinical  expression,
+deficiencies in CMI, regardless of their etiology, 
+are risk factors for both zoster and its severe manifestations. Although the magnitude
+of zoster risk can be extremely 
+high  among  immunocompromised  persons,  the  overall  population  attributable  risk  is
+modest because 
+immunosuppression is uncommon (62,103,114). 
+ The  incidence  of  zoster  is  increased  substantially  in  persons  with  hematologic
+malignancies and solid tumors 
+(120). Rates are highest among children with these conditions. The magnitude of risk
+depends on both the nature of 
+the underlying cancer and the type of treatment 
+(121). Although the incidence of zoster in patients with solid 
+tumors  is  <5%,  this  rate  is  many-fold  higher  than  that  in  unaffected  age-matched
+persons 
+(120).  Patients  with  Hodgkin's  disease  are  at  particularly  high  risk  for  zoster,  with
+cumulative risks during the illness and its treatment as high as 
+27.3% (51,53,120,122--127). 
+ Zoster is common following hematopoietic stem cell transplantation (HSCT); rates are
+13%--55% during the 
+first  year  (54,128,129).  Rates  are  increased  following  solid  organ  transplants  (renal,
+cardiac, liver, and lung) 
+(5%--17%).  Incidence  is  highest  during  the  months  immediately  following  the
+procedure, and the majority of zoster cases 
+occur within a year of transplantation 
+(130--132).  
+ The risk for zoster and its recurrence is elevated in persons infected with HIV. Zoster
+rates of 29.4--51.5 per 
+1000  person  years  have  been  reported  among  HIV-infected  adults,  reflecting  12-  to
+17-fold increase compared with 
+HIV-negative  persons  (56,133--136).  For  HIV-infected  children,  the  risk  is  even  higher
+(467 per 1000 person 
+years), especially among children who acquire VZV infection when they are profoundly
+immunosuppressed 
+(137). Most studies have documented increasing zoster risk as CD4+ 
+T-lymphocyte counts decline, but the risk is increased 
+nine-fold even among HIV-infected women with CD4+ 
+T-lymphocyte counts >750/µL compared with 
+HIV-negative controls (135). However, the risk might decline at CD4+ T-cell counts <50 
+cells/µL (136). Persons infected with HIV also are 
+at increased risk for recurrences of zoster. 
+ 
+Other Co-morbidities
+ The  risk  for  zoster  appears  to  be  elevated  in  persons  with  inflammatory  diseases;
+however, for most of these 
+conditions, data are insufficient to determine how much of the risk is attributable to the
+underlying disease versus its 
+treatment. Zoster has been associated with systemic lupus erythematosus (SLE), with
+rates of 15--91 per 1000 person years 
+(138--143).  The  risk  for  zoster  also  is  increased  among  persons  with  rheumatoid
+arthritis (adjusted hazard ratio = 1.9 [95% 
+CI = 1.8--2.0]), with an incidence of approximately 10 cases of per 1000 person years
+reported 
+(144,145).  Patients  with  Wegener's  granulomatosis  have  a  reported  incidence  of  45
+zoster cases per 1000 person years 
+(146),  and  recurrences  in  these  patients  are  common.  In  one  study,  Crohn's  disease
+and ulcerative colitis were both associated with a 
+significantly increased risk for zoster (incident rate ratios = 1.6 and 1.2, respectively).
+The 
+increase was, in part, caused by use of immunosuppressive medications 
+(147). For all these conditions, zoster is generally not life-threatening, 
+although cutaneous dissemination is more common, and deaths have been reported in
+such patients 
+(138,141,142).
+ Certain  studies  have  evaluated  the  risk  for  zoster  in  persons  with  other
+noninflammatory co-morbid 
+conditions, although findings have not been consistent. Two studies have documented
+an association between zoster and 
+diabetes mellitus (148,149). However, this association was not indicated in two other
+studies 
+(150,151).  Another  study  documented  an  increased  risk  for  zoster  in  persons  who
+subsequently had multiple sclerosis diagnosed 
+(152). 
+ 
+Exposure to VZV/External Boosting
+ VZV can be transmitted from zoster lesions to cause primary varicella in susceptible
+persons. Although 
+some experts have suggested that zoster can be caused directly by exposure to VZV
+from varicella or from other cases of 
+zoster (72,153,154), in general, zoster is not associated with epidemics of varicella. In
+addition, zoster does not have a 
+seasonal pattern to suggest it is spread directly from varicella 
+(13,28,38,92,105,117). Theoretically, reactivation of latent 
+VZV might be triggered by exposure to exogenous VZV 
+(123,153); however, no evidence suggests that such episodes 
+occur more frequently than would be expected to occur by chance. 
+ Conversely, exposure to varicella might reduce the risk for zoster 
+(13). Protection might be partially maintained 
+by  exposure  to  varicella  circulating  in  the  population  and  the  resulting  exogenous
+boosting of VZV-specific 
+immunity  (15,117,155).  An  analysis  of  surveillance  data  from  the  United  Kingdom
+indicated an inverse relation between 
+annual  varicella  incidence  in  children  aged  <5  years  and  zoster  incidence  in  adults
+aged 15--44 years 
+(117). A case-control study in the United Kingdom 
+(15) documented a graded reduction in zoster risk as a function of number of 
+varicella  contacts  over  a  10-year  period.  Multivariate  analysis  suggested  a  74%
+reduction in risk for zoster among persons 
+with three to four varicella exposures compared with those with no exposures, with a
+significant trend suggesting 
+some  reduction  with  fewer  than  three  exposures.  Social  contacts  with  children  (as  a
+proxy for 
+varicella exposure) and occupational contact with sick children were protective 
+(15). A cohort analysis based on data from a sentinel 
+physician network in the United Kingdom 
+(155) suggested that adults living with children had both increased varicella 
+exposure  and  a  25%  decrease  in  zoster  incidence.  The  analysis  estimated  that  this
+boosting effect lasted an average of 20 
+years (95% CI = 7--41 years). However, persons living or interacting with children might
+have different underlying 
+health  compared  with  persons  without  exposure  to  children,  which  might  be  a
+confounder in these studies. Other 
+evidence that varicella exposure might protect against zoster includes possible effects
+household 
+exposure  to  varicella  had  against  subsequent  development  of  zoster  among  children
+with leukemia 
+(156). Finally, the efficacy of the zoster vaccine 
+(4) supports the concept that exposure to exogenous VZV can reduce risk for zoster,
+presumably by boosting 
+specific immunity against VZV. 
+ Contrary  evidence  also  exists  that  varicella  exposure  does  not  reduce  the  risk  for
+zoster. Women are at greater risk 
+for  zoster  (13,102,103,110,111)  despite  the  fact  that  women  probably  have  more
+exposure to young children 
+who experience varicella. A Japanese study indicated that the risk for zoster in children
+was not diminished by 
+repeated varicella exposures (92). 
+ Although a sufficient number of varicella exposures could reduce the risk for zoster in
+select populations, it is 
+unclear  whether  such  levels  of  exposure  play  an  epidemiologically  important  role  in
+reducing the risk for zoster among 
+the general population of older adults who are at the highest risk for the disease, and, if
+so, how long such effects would 
+last in the elderly. 
+ 
+Other Risk Factors
+ As with orofacial and genital flairs of HSV, zoster has been anecdotally linked to stress.
+However, only two 
+rigorous evaluations of the role of psychological stress on zoster have been conducted.
+A case-control study documented 
+a significant association with number of stressful life events within 6 months of reported
+zoster (p = 0.012) 
+(157).  A  prospective  cohort  study  indicated  a  nonsignificant  association  (p  =  0.078)
+between zoster risk and negative life events.
+ Trauma  or  surgery  could  lead  to  reactivation  of  VZV  in  the  affected  dorsal  root
+ganglion and increase the risk for 
+zoster  rash  in  that  dermatome.  Such  a  development  would  seem  to  be  specific  and
+easily ascertained, and certain 
+reports and case series describe such events 
+(158--161). One case-control study collected information about recent trauma 
+and/or  surgery  in  patients  who  developed  zoster  and  in  matched  controls.  The
+frequency of trauma in nonzoster sites 
+was similar between the two groups, but zoster patients 
+were significantly more likely than controls to report 
+trauma at the site of their zoster during the month before zoster onset (adjusted OR =
+12.1 [95% CI = 1.5--97.6]; p = 0.002) 
+(24). 
+The  basis  by  which  these  stimuli  provoke  zoster  is  unclear,  but  they  suggest  that
+nonimmunologic factors can 
+play important roles in the pathophysiology of zoster. 
+ Finally,  one  study  indicated  that  dietary  micronutrient  intake  was  protective  against
+zoster. Body mass index did 
+not appear to be associated with zoster risk 
+(162). Genetic predisposition for zoster also has been reported 
+(163).
+ 
+Population Rates of Zoster and PHN
+ Zoster
+ Zoster is not a reportable condition in the United States; therefore, incidence has been
+inferred from a variety 
+of studies. Observed rates have varied substantially on the basis of methods for case
+ascertainment, access to health 
+care, and case definitions. The age distribution in the population being studied also is
+an important consideration 
+when comparing these studies because zoster can vary dramatically across study sites.
+Conclusions cannot be drawn from 
+cross-study  comparisons  without  adjusting  for  age  or  comparing  age-specific  rates
+directly. Differences in the prevalence 
+of  immunosuppression  or  in  racial  makeup  also  can  influence  population-wide  zoster
+incidence. In addition, the 
+incidence of zoster appears to have been increasing over recent 
+decades, even after adjusting for other factors, although this 
+increase has not been observed consistently. 
+ Despite  these  limitations,  certain  analyses  of  zoster  incidence  in  the  United  States
+have been conducted. The 
+incidence  in  all  studies  ranged  from  3.2--4.2  per  1000  population  per  year
+(age-adjusted to the 2000 U.S. 
+population) (62,103,104,114,164,165), translating into an 
+estimated 1 million cases annually. In all studies, a 
+substantial increase in zoster incidence occurred with age and extended to the oldest
+strata; for all persons aged 
+>60 years, the annual incidence was approximately 10 per 1000 persons 
+(62,103,104,114,164,165), similar to the annual 
+incidence of 11.1 per 1000 observed during the zoster vaccine trial 
+(4). On the basis of these data, an estimated 32% of persons 
+in the United States will experience zoster during their lifetime (CDC unpublished data,
+2007).  
+ Certain studies provide evidence of increasing 
+age-specific zoster incidence in the United States 
+(38,62,165,166), although other studies have shown no such trend 
+(104). The observed increases cannot be solely attributed to changes 
+in  the  epidemiology  of  varicella,  because  documentation  of  increases  predated
+licensure of varicella vaccine in the 
+United States in 1995 (38) and because age-specific increases over time also are being 
+reported  in  certain  international  settings,  including  in  the  absence  of  varicella
+vaccination programs 
+(105,167,168). Because the basis for this increase 
+remains  unclear,  predicting  whether  the  age-specific  risk  for  zoster  will  continue  to
+increase in the future is difficult.
+ 
+Recurrent Zoster
+ Effectively evaluating the risks for recurrent zoster 
+(i.e., second or subsequent episodes) in 
+immunocompetent persons requires large populations, long-term follow up, 
+adequate duration, and laboratory confirmation. Although data 
+are limited, certain studies suggest a recurrence rate that is comparable to the rate of
+initial episodes 
+(13,38,114). A community-based study of clinician-diagnosed zoster was conducted in
+Olmsted County, Minnesota. The 
+observational period lasted 6 years. Of 1,669 persons that experienced an episode of
+zoster during that period, 24 experienced 
+a second episode, suggesting a high incidence of zoster 
+recurrence and providing no evidence that an episode of 
+zoster  protects  against  recurrence  (62).  Similar  observations  were  noted  in  an  older
+survey-based study 
+(169). In the Shingles Prevention Study, two of approximately 20,000 vaccine placebo
+recipients had two episodes of zoster within 3 years 
+of the initial episode. These cases provide the first laboratory-confirmed evidence that
+zoster can recur 
+in immunocompetent persons, even soon after the initial 
+episode (4).
+ 
+Zoster Hospitalizations and Deaths
+ Hospitalizations.  Conclusions  about  hospitalization  for  zoster  should  be  interpreted
+carefully if they are derived 
+from administrative data. Hospital administrative data 
+often do not distinguish zoster episodes that were reasons 
+for  hospitalizations  from  those  episodes  that  were  incidental  to  the  hospitalization  or
+that occurred during 
+prolonged hospital stay. PHN at the time of an unrelated hospitalization also might be
+coded as zoster. In addition, 
+underlying  immunosuppressive  conditions  might  not  be  available  or  might  not  be
+collected from administrative data. These 
+factors  preclude  determination  of  the  portion  of  hospitalizations  that  could  be
+prevented by a live-attenuated vaccine that 
+is contraindicated for immunosuppressed persons. 
+ Given these limitations, crude annual rates of zoster hospitalization have ranged from
+2.1 per 100,000 population in 
+a Northern California managed care population 
+(170) to 4.4 per 100,000 population in England 
+(171).  A  crude  rate  of  16.1  per  100,000  population  was  identified  in  an  analysis  of
+Connecticut-wide hospitalization data that 
+included all zoster episodes, not just primary discharge 
+diagnosis (172). 
+ In  a  community-based  study  in  Olmsted  County,  Minnesota,  approximately  3%  of
+patients with zoster 
+were  hospitalized  for  the  illness  (62).  Although  values  differ  substantially,  all  studies
+indicate that zoster hospitalization 
+rates increase with age (170,172--174). In the Connecticut study, zoster hospitalization
+rates were approximately 
+75-fold greater among persons aged >85 years than in persons aged <30 years 
+(172). Although precise denominators are 
+not  available,  risks  for  hospitalization  also  increased  among  persons  with  altered
+immunocompetence; approximately 30% 
+of all persons hospitalized with zoster episodes had one or more immunocompromising
+conditions, primarily 
+malignancies (82%) and HIV infection (8%) 
+(62,172). Central nervous system and ophthalmologic complications accounted for 
+most of the reported complications among hospitalized zoster cases 
+(172--174), although bacterial superinfection 
+was  common  in  one  series  (175).  Another  study  indicated  that  0.5%  of  patients  with
+confirmed zoster were 
+hospitalized before their zoster rash developed for prodromal pain syndromes including
+suspected myocardial infarction, severe 
+new-onset headache, back pain, and abdominal pain resulting in appendectomy 
+(62).
+ Deaths. On the basis of clinical experience and in the absence of zoster-related deaths
+in cohort studies, certain 
+experts  believe  that  zoster  mortality  appears  to  be  uncommon,  particularly  among
+healthy persons 
+(176). Vital records might not distinguish deaths attributed to zoster from 
+incidental deaths occurring merely in the presence of zoster, and 
+they might not capture information on the immunologic status among those deaths. An
+Australian study 
+using  administrative  data  indicated  that  1%  of  patients  hospitalized  with  a  primary
+zoster diagnosis died; the number 
+of deaths directly attributable to zoster was not validated 
+(174). Certain analyses have indicated that almost all 
+zoster deaths occur in the elderly, with a rate 
+>10-fold higher among persons aged >65 years 
+(171,173,174). Immunosuppression also appears to be a risk factor for zoster mortality.
+In one study, 52% of patients hospitalized 
+with  zoster  who  died  had  one  or  more  immunocompromising  condition  (e.g.,
+malignancies, leukemia, and HIV). In 
+that study, the risk for death in persons with immunocompromising 
+conditions was 8.7%; the risk in persons without 
+these conditions was 3.7% (172). 
+ 
+PHN
+ Drawing conclusions from studies on the risk for PHN is difficult because definitions for
+PHN vary and results 
+are influenced by many factors, including the source and age of the study population.
+Among zoster patients treated with 
+a placebo in clinical trials of antiviral drugs, approximately one third still had pain after
+3 months and approximately 
+one  fourth  had  pain  at  6  months  (177,178).  However,  these  trials  might  include  a
+population of patients with more 
+severe  zoster  pain,  thereby  introducing  a  detection  bias  that  could  inflate  estimated
+risks for PHN. In a phase 3 clinical trial 
+of zoster vaccine (4), zoster occurred among 642 
+placebo recipients; the risk for pain persisting at least 30, 60, 90, 120 
+or  180  days  among  these  person  was  30.3%,  17.6%,  12.5%,  8.4%,  and  5.1%,
+respectively. Results from the trial 
+might  not  reflect  risks  for  progression  to  PHN  in  community  settings  because
+ascertainment, diagnosis, and antiviral 
+treatment of zoster were standardized and thorough. However, in a community-based
+study in Olmsted County, Minnesota, 
+in  which  almost  all  medical  events  were  captured,  the  risk  for  PHN  in  patients  with
+zoster was 18%, 13%, and 10% 
+when defining PHN as at least 30, 60, and 90 days of pain, respectively 
+(62).
+Treatment and Nonspecific Management of Zoster and PHN
+ The  treatment  of  acute  zoster,  the  prevention  of  PHN  development  among  patients
+with acute zoster, and 
+the treatment of patients with current PHN are complex clinical problems with ongoing
+uncertainties and active 
+research  (31).  Acyclovir,  famciclovir,  and  valacyclovir  are  approved  by  the  FDA  for
+treatment of zoster in 
+immunocompetent patients. All three are nucleoside analogs that inhibit replication of
+human herpes viruses, including VZV. Clinical 
+trials  have  indicated  that  these  agents,  taken  orally,  reduce  the  duration  of  viral
+shedding and lesion formation, 
+reduce the time to rash healing, and decrease the severity and duration of acute pain
+from zoster and the risk for progression 
+to  PHN.  Because  all  three  antiviral  agents  are  safe  and  well  tolerated,  many  experts
+recommend that treatment should 
+be  considered  for  all  eligible  patients  with  zoster,  and  specifically  recommend
+treatment for persons aged 
+>50 years who 
+have moderate or severe pain, moderate or severe rash, or involvement of nontruncal
+dermatomes 
+(31).  In  clinical  trials,  treatment  has  been  initiated  within  72  hours  of  rash  onset,  a
+biologically arbitrary time point that often is not 
+feasible in clinical practice. The benefits of later treatment have not been studied 
+(31). If treatment cannot be initiated 
+within 72 hours of rash onset, experts recommend that it should be initiated as soon as
+possible, particularly in the presence 
+of new vesicle formation or of complications. 
+ Two  clinical  trials  have  assessed  the  role  of  corticosteroids  in  combination  with
+acyclovir for treatment of zoster 
+and  prevention  of  subsequent  PHN  (179,180).  Patients  at  risk  for  steroid-related
+toxicities (e.g., those with diabetes 
+mellitus or gastritis) were excluded from the trials. A 
+3-week tapering course of corticosteroids diminished acute zoster pain 
+and decreased the time to cutaneous healing, cessation 
+of analgesic therapy, and return of uninterrupted sleep and 
+normal daily activities. However, no evidence indicated 
+that use of corticosteroids prevented development of PHN. 
+Theoretically,  corticosteroids  should  be  equally  effective  in  combination  with
+valacyclovir or famciclovir; however, combinations 
+of  these  agents  have  not  been  studied  in  clinical  trials.  No  evidence  indicates  that
+topical 
+antiviral therapy or corticosteroids without systemic 
+antiviral therapy have a role in treatment of zoster. 
+ A variety of approaches have been used with varying 
+degrees of success for control of acute zoster pain, 
+including
+ acetaminophen,
+ nonsteroidal
+ anti-inflammatory
+ agents,
+ tricyclic
+antidepressants, opiates, anticonvulsants, capsaisin, 
+and  topical  anesthetics  (31).  In  more  severe  instances  of  pain,  referral  to  a  pain
+specialist, or even hospitalization 
+and  administration  of  epidural  analgesics,  is  often  considered.  Many  of  these  same
+modalities are used with varying 
+degrees of success for control of chronic PHN pain 
+(26,181,182). Elderly persons, who already have reduced physiologic 
+reserve  and  typically  take  multiple  medications  for  pre-existing  chronic  conditions,
+might be unable to tolerate 
+psychotropic  and  other  medications  for  management  of  their  acute  zoster  or  chronic
+PHN pain 
+(31,33). 
+ Patients with uncomplicated zoster should be advised to keep the rash clean and dry,
+to avoid topical antibiotics, 
+and, if possible, to keep the rash covered. They should alert their physician if the rash
+worsens or they have fever, which 
+could indicate bacterial superinfection (31). 
+Prevention of Transmission from Zoster
+ Some health-care institutions might exclude personnel with zoster from work until their
+lesions dry and crust 
+(85). Persons with localized zoster should avoid contact with susceptible persons at high
+risk for severe varicella 
+in household and occupational settings until lesions are crusted. Such persons include
+pregnant women, all 
+premature infants born to susceptible mothers, infants born at 
+<28 weeks' gestation or who weigh <1000 g regardless of 
+maternal immune status, and immunocompromised persons of all ages 
+(85). Persons with opportunities for contact with 
+such high risk-persons in household or occupational settings should be informed about
+how to recognize the signs 
+and  symptoms  of  zoster.  If  a  person  susceptible  to  varicella  infection  has  close
+exposure to a persons with zoster, 
+postexposure prophylaxis with varicella vaccine or 
+VARIZIG™ should be considered 
+(3,85,183).
+Zoster Vaccine
+Vaccine Composition, Dosage, and Administration
+ The zoster vaccine licensed in the United States 
+(ZOSTAVAX®, Merck & Co., Inc.) is a lyophilized preparation of 
+the  Oka/Merck  strain  of  live,  attenuated  VZV,  the  same  strain  used  in  the  varicella
+vaccines 
+(VARIVAX®, 
+PROQUAD®). The Oka strain was isolated in Japan 
+(184) in the early 1970s from vesicular fluid from a healthy child who 
+had varicella; the strain was attenuated through sequential 
+propagation in cultures of human embryonic lung 
+cells, embryonic guinea-pig cells, and human diploid cells (WI-38). Further passage of
+the virus was performed at 
+Merck Research Laboratories in human diploid cell cultures 
+(MRC-5). The cells, virus seeds, virus bulks, and bovine 
+serum  used  in  the  manufacturing  are  all  tested  to  provide  assurance  that  the  final
+product is free of adventitious agents. 
+ Zoster vaccine, when reconstituted as directed in the package label using the supplied
+diluent, is a sterile 
+preparation for subcutaneous administration. Each 0.65-mL dose contains a minimum
+of 19,400 PFU (4.29 
+log10) of Oka/Merck strain of VZV when reconstituted and stored at room temperature
+for up to 30 minutes. Zoster vaccine is similar 
+to VARIVAX®. However, its minimum potency is at least 14-times the potency of 
+VARIVAX®, which contains a minimum 
+of 1,350 (approximately 3.13 log10) PFU. 
+PROQUAD® contains 3.993 log10 
+PFU, similar in potency to 
+ZOSTAVAX®.  Each  dose  of  zoster  vaccine  also  contains  additional  VZV  antigenic
+component from nonviable Oka/Merck 
+VZV. Additional vaccine components in each dose include 31.16 mg of sucrose, 15.58
+mg of 
+hydrolyzed  porcine  gelatin,  3.99  mg  of  sodium  chloride,  0.62  mg  of  monosodium
+L-glutamate, 0.57 mg of sodium 
+phosphate dibasic, 0.10 mg of potassium phosphate monobasic, 0.10 mg of potassium
+chloride; residual components of MRC-5 cells including 
+DNA and protein; and trace quantities of neomycin and bovine calf serum. The product
+contains no thimerosal or 
+other preservatives.
+ Zoster vaccine should be administered as a single 
+0.65-mL dose subcutaneously in the deltoid region of the 
+upper arm; a booster dose is not licensed for the vaccine. The vaccine should not be
+injected intravascularly 
+or intramuscularly and should only be reconstituted and 
+injected using a sterile syringe free of preservatives, 
+antiseptics, and detergents, which can inactivate the vaccine virus.
+Storage and Handling
+ To maintain potency, lyophilized zoster vaccine must be stored frozen at an average
+temperature of 
+<5°F  (<-15°C)  until  it  is  reconstituted  for  injection.  Any  freezer  that  has  a  separate
+sealed freezer door and reliably maintains 
+an average temperature of <5°F 
+(<-15°C) is acceptable for storing zoster vaccine. Providers should check the adequacy 
+of  their  freezer  by  verifying  its  temperature  before  obtaining  vaccine.  In  general,  the
+freezer compartments of 
+dormitory style units are incapable of reliably maintaining temperatures cold enough to
+store zoster vaccine and are 
+unacceptable  for  storage.  For  certain  refrigerator/freezer  models,  it  is  necessary  to
+reduce the temperature to the coldest setting 
+to maintain zoster vaccine at the correct temperature. However, this might reduce the
+temperature in the 
+refrigerator compartment and result in freezing of any vaccines or other pharmaceutical
+products being refrigerated. As a result, 
+both  the  refrigerator  and  freezer  temperatures  should  be  monitored  and  the
+temperature recorded at least twice a day. 
+Any out-of-range temperature readings require immediate and documented corrective
+action. When a freezer is 
+temporarily  unavailable  (e.g.,  during  transport  or  equipment  failure),  zoster  vaccine
+should be stored in a suitable container (i.e., 
+the original shipping container or a comparable container with a properly fitting lid) with
+an adequate quantity of dry 
+ice (i.e., a minimum of six pound per box) so that dry ice would persist in the container
+if unreconstituted vaccine must 
+be transported back to the freezer. Dry ice placed in a suitable container will maintain a
+temperature of 
+<5°F  (<-15°C).  The  diluent,  which  does  not  contain  preservative  or  other  antiviral
+substances that could inactivate the vaccine virus, 
+should  be  stored  separately,  either  at  room  temperature  or  in  the  refrigerator.  The
+vaccine should be reconstituted according 
+to  the  directions  in  the  package  label  and  only  with  the  diluent  supplied.  Before
+reconstitution, zoster vaccine should 
+be protected from light. Once reconstituted, the vaccine should be used immediately to
+minimize loss of potency. 
+The  vaccine  must  be  discarded  if  not  used  within  30  minutes  after  reconstitution.
+Information regarding stability 
+under conditions other than those recommended is available from the manufacturer at
+800-637-2590.
+Efficacy
+ The  efficacy  of  zoster  vaccine  was  evaluated  in  a  phase  3  vaccine  trial  termed  the
+Shingles Prevention Study, a 
+double-blind randomized, placebo-controlled trial involving 38,546 healthy adults aged 
+>60  years  who  had  a  history  of  varicella  or  at  least  30  years  of  residence  in  the
+continental United States (as a marker of previous infection). Persons 
+excluded  from  the  trial  included  those  with  a  history  of  zoster,  with  allergies  to
+components of the vaccine, 
+with  immunocompromising  conditions,  or  with  conditions  that  might  have  interfered
+with study evaluations (e.g., 
+cognitive  impairment,  <5  year  life  expectancy,  dermatologic  disorders,  chronic  pain,
+hearing loss, or lack of mobility). The 
+study population ranged in age from 59--99 years 
+(median: 69.4 years), and comprised 41.0% females, 95.4% white, 
+2.1% blacks, 1.3% Hispanics, and 1.2% other or unknown race/ethnicity. On enrollment,
+approximately 90% of 
+the participants had at least one underlying chronic medical condition.
+ Persons were randomized to receive a single subcutaneous dose of zoster vaccine or
+placebo; the mean duration 
+of follow up was 3.1 years. Active case ascertainment was conducted through monthly
+telephone contact supplemented 
+by  a  close-out  interview.  Zoster  cases  were  confirmed  by  PCR  testing  (93%),  viral
+culture (1%), or evaluation by a panel 
+of five physicians with expertise in zoster diagnosis (6%). Patients with confirmed zoster
+were followed for at least 182 
+days 
+to  assess  the  outcome  of  the  condition,  including  presence  and  severity  of  pain.
+Approximately 95% of persons 
+were  followed  to  completion  of  the  study.  Outcomes  evaluated  included  incidence  of
+zoster, incidence of PHN (defined 
+as pain level of three or more [on a numerical rating scale of 0-10] persisting at least 90
+days after rash onset), and 
+burden of illness (BOI), measured using a mean value of severity-by-duration index for
+each treatment group, thus 
+incorporating the incidence, severity, and duration 
+of pain and discomfort from zoster). A total of 957 confirmed cases of 
+zoster  occurred  among  study  participants:  315  among  vaccine  recipients  and  642
+among placebo recipients. The proportion 
+of vaccine and placebo recipients that received antiviral treatment within 72 hours of
+rash onset, as clinically indicated, 
+was 64.1% and 65.9%, respectively.
+ The  vaccine  reduced  the  risk  for  developing  zoster  by  51.3%  (95%  CI  =  44.2--57.6;
+p<0.001 
+(Table  2)  (4).  The  vaccine  was  66.5%  (95%  CI  =  47.5--79.2;  p<0.001)  efficacious  for
+preventing PHN. When the definition of PHN 
+was  changed  from  30  days  of  pain  to  182  days  of  pain  following  rash  onset,  vaccine
+efficacy increased from 58.9% to 
+72.9%  (Table  3).  Zoster  vaccine  had  an  independent  effect  of  reducing  PHN  among
+patients who developed zoster (39% 
+[95% CI = 7%--59%]) (Table 2). The mean severity-by-duration of zoster was reduced
+by 57% 
+(p = 0.016) in vaccine recipients who developed PHN. Zoster vaccine reduced BOI by
+61.1% (95% CI = 51.1--69.1; p<0.001) (Table 2). 
+The vaccine reduced the degree of interference in activities of daily living (ADLI) caused
+by zoster, in part because of 
+the  reduction  in  zoster  itself,  but  also  because  of  a  decrease  in  ADLI  among  those
+vaccine recipients who did develop 
+zoster  (185).  No  evidence  indicated  that  vaccine  recipients  experiencing  zoster  were
+protected from other sequelae such 
+as scarring, bacterial superinfection, palsies, or ocular or visceral complications 
+(186).
+ In  general,  with  increasing  age  at  vaccination,  the  vaccine  retained  efficacy  against
+severity of zoster better than 
+against  zoster  itself.  Thus,  efficacy  for  the  prevention  of  zoster  was  highest  among
+persons aged 60--69 years and declined 
+with increasing age (Table 2). Declines in efficacy of preventing zoster were observed
+with each 5-year increase in 
+age throughout the age range of participants 
+(187). However, no significant differences were observed among persons 
+aged 60--69 years versus those aged >70 years in vaccine efficacy at reducing BOI or
+PHN, probably 
+because the independent effect of reducing PHN among patients who developed zoster
+was greatest among persons aged 70--79 years (Table 2). For persons aged >80 years,
+efficacy against zoster was 18% (Table 2), but efficacy against PHN (39%) was 
+better retained (186). No significant differences by sex were observed in the efficacy of
+the vaccine at reducing BOI, PHN, 
+or zoster (4). No evidence indicated that the vaccine was less efficacious for prevention
+of zoster (vaccine efficacy: 
+51.6%; 95% CI = 41.4--60.1), PHN (vaccine efficacy: 60.9%; 95% CI = 31.3--78.7), or for
+reduction in BOI (vaccine 
+efficacy: 60.1%; 95% CI = 46.1--70.4) among subjects with functional limitations 
+(188).
+ Twelve clinical lots of zoster vaccine were used in the Shingles Prevention Study, nine
+of which were heat treated 
+to accelerate aging of the vaccine. Potency upon shipment to study sites ranged from
+21,000--62,000 PFUs/dose, 
+but potency and accelerated aging did not significantly influence vaccine efficacy with
+regard to zoster, PHN, or 
+BOI. 
+Immunogencity
+ A substudy of the Shingles Prevention Study was conducted among 1,395 persons to
+assess VZV-specific 
+immunity at baseline and 6 weeks following administration of zoster vaccine or placebo.
+The longer-term duration of 
+immunogenicity also was assessed. Anamnestic antibody response was evaluated using
+gpELISA to measure increases in VZV 
+antibody  levels  after  vaccination.  RCF  and  IFN-g  ELISPOT  were  used  to  measure  the
+number of memory 
+T-cells.  With  all  three  assays,  VZV-specific  immunity  measured  6  weeks  after
+vaccination increased following receipt of vaccine but 
+not placebo. In both vaccine and placebo recipients, immune responses were inversely
+related to the risk for 
+developing  zoster;  this  association  with  protection  was  greatest  for  anamnestic
+antibody response following vaccination for 
+which  gpELISA  Geometric  Mean  Titers  (GMTs)  increased  1.7-fold  (95%  CI  =  1.6--1.8).
+However, for all three assays, 
+no  threshold  level  of  immunity  that  predicted  complete  protection  from  zoster  was
+observed.
+ No clear dose response for increases in GMTs was 
+observed; similar increases were achieved in 
+vaccine recipients throughout the dosage range used in the Shingles Prevention Study 
+(189). Peak CMI responses were present 1--3 weeks following vaccination 
+(187,190,191), as would be expected for anamnestic responses that would occur 
+in  persons  with  previous  VZV  infection.  The  impact  of  age  on  CMI  response  to
+vaccination also was evaluated. RCF 
+and  IFN-g  ELISPOT  responses  were  greater  in  persons  aged  60--69  years  than  in
+persons aged 
+>70 years (p<0.01) (192). The increase in GMTs as a measure of anamnestic antibody
+response in persons aged 50--59 years was comparable 
+to 
+that in persons aged >60 years 
+(193). In a prelicensure study, subjects aged 55--70 years acquired VZV-specific class 
+I-restricted  and  unrestricted  cytotoxicity  following  vaccination  with  even  low  levels
+(4,000 PFUs) of either live or 
+heat-inactivated Oka/Merck strain of VZV 
+(23). 
+Duration of Efficacy and of Immunity 
+ Vaccine  efficacy  for  zoster  prevention  declined  during  the  first  year  following
+vaccination, but remained stable 
+through  the  remaining  3  years  of  follow  up  (Figure  4).  Vaccine  efficacy  for  PHN
+prevention had a similar pattern, with an 
+initial decline and subsequent stabilization. After conclusion of the Shingles Prevention
+Study, approximately 7,500 
+vaccine recipients will be followed to extend observation to 10 years. Because placebo
+recipients were offered zoster vaccine 
+at the conclusion of the Shingles Prevention Study, zoster rates in these 7,500 persons
+will be compared with 
+historic controls. Increases in RCF and IFN-g ELISPOT 
+responses persisted for 3--6 years following vaccination 
+(192,194). 
+Safety and Adverse Events 
+ 
+Serious Adverse Events
+ Adverse events were monitored in the Shingles Prevention Study population, with more
+comprehensive 
+ascertainment in a safety substudy comprising 6,616 persons (3,345 vaccine recipients
+and 3,271 placebo recipients) 
+(Table 4). In the Shingles Prevention Study population, the number and types of serious
+adverse events 
+(4) during the 42 days after receipt of vaccine or placebo were similar (1.4%). However,
+rates of serious adverse events in the safety substudy 
+were  higher  in  vaccine  recipients  (1.9%)  than  in  placebo  recipients  (1.3%),  with  a
+relative risk of 1.5 (95% CI = 
+1.0--2.3).  Nonetheless,  no  temporal  or  clinical  patterns  of  adverse  events  were
+observed in vaccine recipients to suggest a 
+causal relation (4,186). The incidence of death and hospitalizations was similar in the
+two treatment groups throughout 
+the observation time (4,186). 
+ 
+Mild Local and Systemic Reactions
+ In the Shingles Prevention Study safety substudy, self-reported injection site adverse
+events (e.g., erythema, 
+pain,  swelling,  warmth,  and  pruritis)  were  more  common  among  vaccine  recipients
+(48.3%) than placebo recipients 
+(16.6%)  (p<0.05)  (Table  4)  (4);  the  risk  for  these  events  was  higher  in  vaccine
+recipients aged 60--69 years (58.3%) than 
+in persons aged >70 years (41.3%) 
+(189). Most injection site adverse events were mild and resolved within 4 days 
+(187). Less-serious systemic adverse events, including headaches, were more common
+in vaccine recipients (6.3%) than 
+in placebo recipients (4.9%) (p<0.05) (Table 4) 
+(4). The risk for fevers after vaccination did not differ between 
+vaccine recipients and controls. 
+ The safety and tolerability of zoster vaccine was evaluated in a separate study among
+persons aged 50--59 
+years, including 62 persons who received the standard potency (approximately 58,000
+PFUs) and 123 persons 
+who received high potency (approximately 207,000 PFUs) 
+(195). Although the numbers of persons was small, both 
+vaccines  were  safe  and  well  tolerated;  however,  injection  site  reactions  were  more
+common (69.4% and 82.9%, 
+respectively) than those observed in person aged 
+>60 years in the Shingles Prevention Study (48.3%). 
+ 
+Vaccine Virus Rash and Transmission
+ Varicella-like  rashes,  including  injection  site  varicella-like  lesions,  generalized
+varicella-like rashes, and 
+zoster-like rashes, were evaluated in the Shingles Prevention Study during the first 42
+days of observation (Table 4). Twenty 
+vaccine  recipients  and  seven  placebo  recipients  had  lesions  at  the  injection  site
+(p<0.05) 
+(4); the lesions were tested for VZV by PCR in one of these persons in each group, and
+results were negative in both. Among the vaccine 
+recipients, lesions occurred a median of 3--4 days after 
+vaccination and lasted a median of 5 days. 
+ Generalized varicella-like rashes occurred at similar rates in the two groups (Table 4).
+Zoster-like rashes were 
+less common in vaccine versus placebo recipients during this 42-day period (p<0.05).
+Oka/Merck strain VZV was 
+not detected in any of 10 lesion specimens from vaccine recipients available for PCR
+testing. In early studies conducted 
+as  part  of  the  manufacturer's  clinical  program  for  development  of  zoster  vaccine,
+samples from rashes in two 
+vaccinated persons were confirmed to be Oka/Merck-strain VZV 
+(186). Both experienced noninjection-site varicella-like rashes; 
+one 
+had 21 lesions on day 17 lasting 8 days and the other developed five lesions on day 8
+that lasted 16 days. No 
+varicella-like  rashes  were  documented  during  any  clinical  zoster  vaccine  trials  of
+laboratory-confirmed zoster 
+attributed to Oka/Merck strain VZV. In addition, no evidence existed of transmission of
+vaccine virus from vaccine recipients to contacts.
+The Economic Burden of Zoster and Cost-Effectiveness of Vaccination
+ The economic burden of zoster in the elderly is substantial and includes direct costs
+attributed to health-care use 
+and  indirect  costs  attributed  to  losses  in  productivity  from  temporary  or  more
+permanent disability. In addition, much of 
+the economic burden of zoster is borne by individual patients as reduced quality of life
+because of pain and 
+suffering.  Certain  studies  provide  a  range  of  estimates  for  health-care  use  among
+persons aged 
+>60 years for treatment of zoster and PHN. The estimates vary widely 
+because of differing assumptions regarding the risk for PHN and of 
+complications  resulting  from  zoster.  Estimated  health-care  use  per  case  of  zoster
+ranges from 1.3--3.1 for the number of 
+outpatient visits, 0.005--0.12 for the number of emergency department visits, and 1--5
+for the number of medications 
+prescribed.  Approximately  1%--4%  of  zoster  episodes  result  in  hospitalization,  with  a
+mean duration of 4.8 days. 
+(196--199). Health-care use for zoster and PHN increases substantially with the age of
+patients 
+(196--198). 
+ Costs associated with acute zoster have been evaluated. Among patients with acute
+episodes of zoster, 
+average  expenditures  ranged  from  $112--$287  per  episode  of  outpatient  care,
+$73--$180 per antiviral treatment, and 
+$3,221--$7,206  per  hospitalization  (2006  dollars).  Additional  costs  associated  with
+managing non-PHN complications 
+(e.g.,
+ ocular,
+ neurologic,
+ and
+ cutaneous)
+ ranged
+ from
+ $1,158--$11,255
+ per
+complication, and from $566--$1,914 
+per episode of PHN. Among the subset of patients with PHN persisting from 30 days to
+12 months, annualized 
+health-care costs, including costs of the acute episode, ranged from $2,159 to $5,387 
+(200,201). Although indirect costs from death can occur with zoster, these costs 
+result mostly from losses in work time caused by temporary or more 
+permanent disability. Patients with zoster (including 
+those progressing to PHN) lose an average of >129 hours of work per 
+episode (197,198), including losses of 12 or more hours of work time and 69 hours of
+leisure time during the first 30 
+days (196). Data on the national economic impacts of zoster and its complications on 
+quality of life have not been reported.
+ Five studies have estimated the cost-effectiveness of a 
+1-dose routine vaccination program of 
+immunocompetent persons aged >60 years 
+(196,197,199,202,203) (Table 5). One of these studies has not been published 
+(196). All five studies used a Markov cohort model 
+(105), followed a cost-utility analytic approach that included a societal 
+perspective (204,205), and used quality-adjusted life-year (QALY) scores to assess the
+incremental impact of the vaccine 
+program on quality of life. Costs and health benefits were measured in 2005--2006 U.S.
+dollars, and a 3% discount rate was used 
+to adjust health outcomes and costs. Model assumptions varied regarding duration of
+vaccine protection, the efficacy of 
+the vaccine for preventing PHN among vaccine recipients who developed zoster, costs
+associated with vaccine adverse 
+events,  and  costs  attributed  to  losses  in  work  productivity.  None  of  the  five  models
+incorporated costs for losses in leisure 
+time.  Assuming  a  routine  vaccination  program  with  100%  coverage,  the  estimated
+QALYs gained ranged from 0.0016 
+(0.6 days) to 0.0087 (3 days). At a vaccine cost of $150 per dose, the societal costs of
+routinely 
+vaccinating immunocompetent persons aged 
+>60 years range from $27,000 to $112,000 per QALY gained. In the 
+sensitivity analyses, variables with the strongest 
+influence on outcomes include vaccine costs, duration of vaccine efficacy, risks 
+for PHN as a complication, and costs and QALY scores for zoster and its complications. 
+ Although  costs  per  QALY  gained  are  most  appropriately  used  to  prioritize  among
+competing programs for purposes 
+of resource allocation, policymakers often decide whether or not to support programs
+by comparing their cost per 
+QALY  against  a  standard  threshold.  A  threshold  suggested  by  the  World  Health
+Organization is three times the gross 
+domestic product per capita, which would be $94,431 for the United States 
+(206). Alternatively, policymakers often decide 
+about supporting programs by comparing their cost per QALY with the values for other
+widely accepted 
+interventions.  Compilations  of  such  cost  effectiveness  data  have  been  published  and
+maintained in on-line registries 
+(207,208). The estimated cost per QALY for zoster vaccination covers a wide range that
+appears acceptable in comparison to 
+either  standard  thresholds  or  to  other  established  interventions,  but  it  is  at  the
+intermediate-to-high end of that range.
+Summary of Rationale for Zoster Vaccine Recommendations
+ The  availability  of  a  safe  and  effective  vaccine  for  zoster  offers  an  opportunity  to
+decrease the burden of this disease 
+and its complications among persons with high levels of risk. In the United States, the
+vaccine is licensed for use 
+among  persons  aged  >60  years,  and  routine  vaccination  of  this  population  is
+recommended for several reasons. First, 
+zoster causes substantial morbidity in the United States, with approximately 1,000,000
+new cases occurring annually 
+(62). Many of these cases cause debilitating pain, and when PHN develops, the pain can
+last for months or even years. 
+Other complications include involvement of the eye that can threaten sight, bacterial
+superinfections, and disfiguring 
+facial scarring. Second, although effective antiviral medications for treatment of zoster
+are available, administration must 
+be initiated within 72 hours of rash onset for maximum benefit. Many patients might
+not obtain such rapid diagnosis 
+and  treatment,  and  even  when  they  do,  the  treatment  is  only  partially  effective  at
+alleviating the symptoms and 
+shortening their duration. Third, available treatments for PHN often do not completely
+alleviate the pain and might be 
+poorly tolerated by the older patients 
+(31,33). Finally, available evidence suggests the cost-effectiveness of zoster vaccine 
+is within the range of some other public health interventions. 
+ In a large, placebo-controlled clinical trial, the zoster vaccine reduced BOI attributed to
+zoster by 61.1 % and 
+the incidence of PHN by 66.5 %. The vaccine reduced the overall incidence of zoster by
+51.3 % and 
+substantially reduced its associated pain 
+(4). Although the vaccine was more efficacious in persons aged 60--69 years, 
+substantial efficacy against zoster was observed in persons aged 
+>70 years, and PHN was prevented in older age groups. 
+Prevention of zoster and its sequelae is particularly important among the oldest persons
+because they experience the 
+highest incidence of zoster and PHN, they might be least able to seek medical attention
+for zoster and PHN and to 
+request treatment of ongoing pain, they might be least able to tolerate the medications
+and procedures commonly used to 
+treat PHN, they might have the least reserve to tolerate zoster and its complications,
+and they are most likely to suffer 
+social and psychological consequences from PHN.  
+Recommendations for Use of Zoster Vaccine
+Routine Vaccination of Persons Aged 
+>60 Years
+ ACIP recommends routine vaccination of all persons aged 
+>60 years with 1 dose of zoster vaccine. Persons who 
+report a previous episode of zoster and persons with chronic medical conditions (e.g.,
+chronic renal failure, diabetes 
+mellitus, rheumatoid arthritis, and chronic pulmonary disease) can be vaccinated unless
+those conditions are contraindications 
+or  precautions.  Zoster  vaccination  is  not  indicated  to  treat  acute  zoster,  to  prevent
+persons with acute zoster 
+from developing PHN, or to treat ongoing PHN. Before routine administration of zoster
+vaccine, it is not necessary to 
+ask patients about their history of varicella (chickenpox) or to conduct serologic testing
+for varicella immunity. 
+Simultaneous Administration with Other Adult Vaccines 
+ Immunogenicity  of  zoster  vaccine  and  trivalent  inactivated  influenza  vaccine  is  not
+compromised when the 
+two  vaccines  are  administered  simultaneously  (186).  However,  no  data  exist  on
+administration of zoster vaccine with 
+other vaccines routinely recommended for persons aged 
+>60 years, which are all inactivated. In general, the 
+simultaneous  administration  of  most  widely  used  live,  attenuated  and  inactivated
+vaccines has not resulted in impaired 
+immune response or an increased rate of adverse events 
+(209). Therefore, zoster vaccine can be administered with 
+other  indicated  vaccines  during  the  same  visit  (e.g.,  Td,  Tdap,  and  pneumococcal
+polysaccharide vaccines). Each vaccine 
+must  be  administered  using  a  separate  syringe  at  a  different  anatomic  site.  If
+simultaneous administration is not 
+possible, zoster vaccine can be administered at any time before or after an inactivated
+vaccine, but at least 4 weeks before or 
+after another live, attenuated vaccine (209).
+Groups for Which Vaccine is Not Licensed
+ 
+Vaccination of Persons Aged <60 Years
+ The vaccine is not licensed for persons aged <60 years, and no recommendation exists
+for routine vaccination 
+of persons aged <60 years. In the clinical trial, the zoster vaccine was evaluated among
+persons aged 
+>60 years. The vaccine was most effective and well tolerated in the youngest persons
+(Table 1) 
+(4). Although the vaccine would probably be 
+safe  and  effective  in  persons  aged  <60  years,  data  are  insufficient  to  recommend
+vaccination of these persons at this time. 
+ 
+ 
+Vaccination of Persons Who Have Received Varicella Vaccine
+ Zoster  vaccination  is  not  recommended  for  persons  of  any  age  who  have  received
+varicella vaccine. However, 
+health-care providers do not need to inquire about varicella vaccination history before
+administering zoster vaccine because 
+virtually all persons currently or soon to be in the recommended age group have not
+received varicella vaccine. In the 
+United States, varicella vaccination began in 1995. Since that time, few adults aged 
+>40  years  would  have  been  susceptible  to  varicella  and  thus  eligible  to  receive
+varicella vaccine 
+(5). The number of persons eligible for zoster vaccination who 
+have  received  varicella  vaccine  is  extremely  small  and  will  remain  so  for  at  least  a
+decade.  
+Special Groups and Circumstances
+ 
+Persons with a Reported History of Zoster
+ Persons with a reported history of zoster can be vaccinated. Repeated zoster has been
+confirmed in 
+immunocompetent persons soon after a previous episode 
+(4). Although the precise risk for and severity of zoster as a function of 
+time  following  an  earlier  episode  are  unknown,  some  studies  suggest  it  may  be
+comparable to the risk in persons without 
+a history of zoster (62,169). Furthermore, no laboratory evaluations exist to test for the
+previous occurrence of zoster, 
+and any reported diagnosis or history might be erroneous 
+(4,64,65). Although the safety and efficacy of zoster vaccine 
+have not been assessed in persons with a history of zoster, different safety concerns
+are not expected in this group.  
+ 
+Persons Anticipating Immunosuppression
+ The  risk  for  zoster  and  its  severe  morbidity  and  mortality  is  much  greater  among
+persons who are 
+immunosuppressed. Review of vaccination status for zoster and other vaccines should
+be a key component of the medical assessment 
+for immunocompetent patients aged >60 years who might be anticipating initiation of
+immunosuppressive treatments 
+or  who  have  diseases  that  might  lead  to  immunodeficiency.  Such  patients  without  a
+history of zoster vaccination 
+should  receive  1  dose  of  zoster  vaccine  at  the  first  possible  clinical  encounter  while
+their immunity is intact. Zoster 
+vaccine should be administered at least 14 days before initiation of immunosuppressive
+therapy, although some 
+experts  advise  waiting  1  month  after  zoster  vaccination  to  begin  immunosuppressive
+therapy if delay is possible 
+(210). 
+ 
+Persons Receiving Antiviral Medications
+ Licensed  antiviral  medications  active  against  members  of  the  herpesvirus  family
+include acyclovir, famciclovir, 
+and valacyclovir. These agents might interfere with replication of the live, VZV-based
+zoster vaccine. All three agents 
+have relatively short serum half-lives and are quickly cleared from the body. Persons
+taking chronic acyclovir, famciclovir, 
+or  valacyclovir  should  discontinue  these  medications  at  least  24  hours  before
+administration of zoster vaccine, if 
+possible  (209).  These  medications  should  not  be  used  for  at  least  14  days  after
+vaccination, by which time the 
+immunologic effect should be established 
+(209).
+ 
+Persons Receiving Blood Products 
+ Zoster vaccine can be administered to persons at any time before, concurrent with, or
+after receiving blood or 
+other  antibody-containing  blood  product  because  persons  with  a  history  of  varicella
+indefinitely maintain high levels 
+of antibody to VZV, and the levels are comparable to those found in donated blood and
+antibody-containing 
+blood products (e.g., whole blood, packed red blood cells, and plasma immune globulin,
+hyperimmune globulin, 
+and intravenous immune globulin) (192,211). 
+ 
+Nursing Mothers
+ Most live vaccines, including varicella vaccine, are not secreted in breast milk 
+(209,212). Therefore, breast feeding is not a contraindication for zoster vaccination. 
+However, this situation will be extremely rare in the target age group 
+for this vaccine.
+Contraindications
+ 
+Allergy to Vaccine Components
+ Zoster  vaccine  is  contraindicated  for  persons  who  have  a  history  of  anaphylactic
+reaction to any component of 
+the vaccine, including gelatin and neomycin. Neomycin allergy is usually manifested as
+a contact dermatitis, 
+which represents a delayed-type immune response. A history of contact dermatitis to
+neomycin is not a contraindication 
+for receiving zoster vaccine (209). 
+ 
+Immunocompromised Persons
+ Zoster  vaccine  should  not  be  administered  to  persons  with  primary  or  acquired
+immunodeficiency including:
+ 
+Pregnancy 
+ Zoster vaccine is not recommended for use in pregnant women, although these women
+are unlikely to be in 
+the  vaccine  target  age  group.  The  effects  of  the  live,  attenuated  VZV-based  zoster
+vaccine on the fetus are unknown. 
+Women  should  avoid  becoming  pregnant  for  4  weeks  following  zoster  vaccination.
+Having a pregnant household member is not 
+a 
+contraindication to zoster vaccination. If a pregnant woman is vaccinated or becomes
+pregnant within 1 month 
+of vaccination, she should be counseled about potential effects on the fetus. Wild-type
+VZV poses a small risk to the 
+fetus (3), and the fetal risk from the attenuated zoster vaccine is probably even lower.
+Furthermore, virtually all 
+persons receiving the vaccine will have preexisting VZV immunity, which is expected to
+limit viral replication and 
+presumably further reduce fetal risk. In most circumstances, the decision to terminate a
+pregnancy should not be based on 
+whether  zoster  vaccine  was  administered  during  pregnancy.  Merck  &  Co.,  Inc.,  in
+collaboration with CDC, has established 
+a pregnancy registry to monitor the maternal-fetal outcomes of pregnant women who
+are inadvertently administered 
+live-attenuated  VZV-based  vaccines  within  1  month  of  pregnancy  (telephone:
+800-986-8999). Patients and 
+health-care providers should report any exposure to zoster vaccine during pregnancy to
+this registry.
+Precautions
+ 
+Moderate to Severe Illness
+ Zoster vaccination of persons who have severe acute illness should be postponed until
+recovery. The decision to 
+delay vaccination depends on the severity of symptoms and the etiology of the disease.
+Zoster vaccine can be administered 
+to persons who have mild acute illnesses with or without 
+fever (209).
+Program Implementation Issues
+ 
+Following Good Adult Vaccination Practices
+ Zoster vaccine should be offered to patients aged 
+>60 years at the first available clinical encounter with their 
+provider.  The  average  adult  in  this  age  group  has  5--8  clinical  encounters  with  their
+provider annually 
+(213).  Strategies  to  promote  zoster  vaccination  include  linking  delivery  of  zoster
+vaccine to delivery of other indicated adult vaccines 
+(e.g., influenza) and preventive-health interventions 
+(214--217), standing orders so that patients will automatically be 
+offered indicated vaccines rather than requiring case-by-case physicians' orders 
+(218), and practice-based audits and/or physician-reminder systems 
+(218). Residents of nursing homes and other long-term--care facilities who are at least 
+aged  60  years  and  without  contraindications  should  be  included  in  routine  zoster
+vaccination activities. When 
+administering  zoster  vaccine,  health-care  providers  should  review  the  patient's
+vaccination status for all indicated adult 
+vaccines (219,220).
+ ACIP  recommends  that  health-care  providers  keep  permanent  documentation  of  all
+administered vaccines, 
+including zoster vaccine, in the vaccine recipient's permanent medical record 
+(209). The type of the vaccine, 
+manufacturer, anatomic site, route of delivery, date of administration, lot number, and
+name of the administering facility should 
+be  recorded.  To  help  avoid  the  administration  of  unnecessary  doses,  every  patient
+should be given a record of 
+the vaccination. 
+ 
+Administration Errors 
+ The zoster vaccine, ZOSTAVAX®, is a live, attenuated vaccine containing Oka/Merck
+strain VZV. The vaccine 
+is similar to the varicella vaccine, 
+VARIVAX®, except the minimum PFU-content of the 
+ZOSTAVAX® is at least 14-fold higher than the minimum PFU-content of 
+VARIVAX®. Opportunities for administration errors are possible.  
+ For  providers  who  serve  both  children  and  adults,  physical  separation  of  products,
+careful visual inspection and 
+reading of labels, and preparation of vaccine for patient use only at time of vaccination
+can help prevent errors. If a 
+provider  mistakenly  administers  high-potency  zoster  vaccine  to  a  child  indicated  for
+varicella vaccine, the level of 
+protection  against  varicella  would  probably  be  at  least  the  same  as  for  conventional
+doses of varicella vaccine. This 
+erroneous dose should count as a single valid dose of varicella vaccine. If the erroneous
+dose was administered in lieu of the first dose 
+of  varicella  vaccine,  a  second  dose  of  varicella  vaccine  is  required.  Administration
+errors involving zoster vaccine should 
+be reported to VAERS whether or not an adverse event occurs.  
+ Early clinical trials for prevention of varicella were conducted in susceptible children
+using a formulation of 
+live-attenuated Oka/Merck strain VZV at doses of 17,430 PFU, approaching the range of
+PFU in zoster vaccine 
+(>19,400 PFU). This high-dose formulation was well tolerated and efficacious 
+(221). The more recently licensed live, 
+attenuated 
+Oka-strain VZV vaccine (PROQUAD®) prepared in combination with measles, mumps,
+and rubella vaccine 
+(MMRV) is formulated with a broad range of titers that extend to over 60,000 PFU 
+(222,223).
+ Varicella vaccine (VARIVAX®) is not indicated for prevention of zoster. MMRV vaccine 
+(PROQUAD®) is not licensed for use in persons aged 
+>13 years. If a provider mistakenly administers varicella vaccine to persons indicated
+for 
+zoster  vaccine,  no  specific  safety  concerns  exists,  but  the  dose  should  not  be
+considered valid and the 
+patient should be administered a dose of zoster vaccine during that same visit. If the
+error is not immediately detected, a dose of 
+zoster vaccine should be administered as soon as possible but not within 28 days of the
+varicella vaccine dose to 
+prevent potential interference of 2 doses of live attenuated 
+virus.
+ 
+Risk for Transmission of Oka/Merck Strain after Receiving Zoster Vaccine 
+ Persons having close household or occupational contact with persons at risk for severe
+varicella need not take 
+any precautions after receiving zoster vaccine except in rare 
+instances in which a varicella-like rash develops, when 
+standard contact precautions are adequate. Although 
+transmission of Oka/Merck strain VZV has been documented 
+following  varicella  vaccination,  such  transmission  is  rare  and  has  only  been
+documented when the vaccine recipient first 
+developed a varicella-like rash. Rates of varicella-like rash appear to be less common
+following zoster vaccination than 
+following varicella vaccination (4), and transmission of the Oka/Merck strain VZV from
+recipients of zoster vaccine has not 
+been detected. The risk for transmitting the attenuated 
+vaccine virus to susceptible persons should be weighed against the 
+risk for developing wild-type zoster that could be transmitted to a susceptible person. If
+a susceptible, 
+immunocompromised person is inadvertently exposed to a person who has a 
+vaccine-related rash, VARIZIG™ need not be 
+administered because disease associated with this type of transmission is expected to
+be mild. Acyclovir, valacyclovir, and 
+famciclovir are active against live-attenuated Oka/Merck strain VZV and can be used in
+the unlikely situations in which a 
+severe illness develops in the susceptible contact. 
+ 
+Reporting of Adverse Events after Vaccination
+ As  with  any  newly  licensed  vaccine,  surveillance  for  rare  adverse  events  associated
+with administration of zoster 
+vaccine  is  important  for  assessing  its  safety  in  widespread  use.  Vaccine  safety
+surveillance in the age group for which 
+zoster  vaccine  is  recommended  (aged  >60  years)  will  present  challenges  because  of
+the high prevalence of chronic 
+conditions,  the  frequent  use  of  multiple  medications,  and  the  common  occurrence  of
+medical events. Coincident adverse events 
+can be anticipated following zoster vaccination, but many of these could be caused by
+the vaccine as well. All 
+clinically significant adverse events should be reported to VAERS even if causal relation
+to vaccination is not certain. 
+VAERS reporting forms and information are available electronically at
+http://www.vaers.hhs.gov or by telephone 
+(800-822-7967). Web-based reporting is also available, and providers are encouraged
+to report electronically at 
+https://secure.vaers.org/VaersDataEntryintro.htm.  
+Future Research and Directions
+ Key  questions  remain  regarding  optimal  implementation  of  zoster  vaccination  and
+preventing zoster and 
+its complications. Areas that need particular focus include: 
+ Additional  information  about  zoster  and  zoster  vaccine  is  available  from  several
+sources, and new information will 
+be available in the future. Updated information about zoster, PHN, and zoster vaccine is
+available at 
+http://www.cdc.gov/vaccines/vpd-vac/shingles/default.htm.
+ 
+ Acknowledgments
+ Gregory S. Wallace, MD, Mary Mulholland, MA, Immunization Services Division, National
+Center for Immunization and 
+Respiratory  Diseases,  CDC,  assisted  in  writing  the  section  on  vaccine  storage  and
+handling. Meredith Reynolds, PhD, Division of Viral Diseases, 
+National  Center  for  Immunization  and  Respiratory  Diseases,  CDC,  assisted  with
+compiling and preparing data on economics. Aisha O. Jumaan, 
+PhD, MPH, Division of Viral Diseases, National Center for Immunization and Respiratory
+Diseases, CDC, assisted in writing material related to 
+the risk of postherpetic neuralgia. Sandra S. Chaves, M.D., M.Sc., assisted in preparing
+the section on adverse events from zoster vaccine. 
+Jessica Leung, MPH, and Adriana Lopez, Division of Viral Diseases, National Center for
+Immunization and Respiratory Diseases, CDC, helped 
+with graphs and tables. 
+ 
+References
+ Advisory Committee on Immunization Practices Shingles Work Group
+ Chair: John Treanor, MD, Rochester, New York.
+Members:  Members:  William  L.  Atkinson,  MD,  MPH,  Atlanta,  Georgia;  Jeffrey  I.  Cohen,
+MD, Bethesda, Maryland; Robert H. Dworkin, 
+PhD, Rochester, New York;  Sandra Gambescia, Atlanta, Georgia; Paul M. Gargiullo, PhD,
+Atlanta, Georgia; Anne A. Gershon, MD, New York, New 
+York;  John  W.  Glasser,  PhD,  MPH,  Atlanta,  Georgia;   Dalya  Güris,  MD,  MPH,  Atlanta,
+Georgia; Penina Haber, MPH, Atlanta, Georgia; Rafael 
+Harpaz,  MD,  MPH,  Atlanta,  Georgia;  Beth  F.  Hibbs,  MPH,  Atlanta,  Georgia;  John  K.
+Iskander, MD, MPH, Atlanta, Georgia; Samuel L. Katz, MD, 
+Durham,  North  Carolina;  Philip  R.  Krause,  MD,  Bethesda  Maryland;  Phillip  S.  LaRussa,
+MD, New York, New York; Myron J. Levin, MD, Denver, 
+Colorado;  Tracy  A.  Lieu,  MD,  MPH,  Boston,  Massachusetts;  Mona  E.  Marin,  MD,  MPH,
+Atlanta, Georgia; Kathleen M. Neuzil, MD, MPH, 
+Seattle Washington; Kristin Nichol, MD, MPH, MBA, Minneapolis, Minnesota;  Ismael R.
+Ortega- Sánchez, PhD, Atlanta, Georgia; Gregory A. Poland, 
+MD,  Rochester,  Minnesota;  Sara  Rosenbaum,  JD,  Washington,  DC;  Tammy  A.
+Santibanez, PhD;  William Schaffner, MD, Nashville, Tennessee; Kenneth 
+E. Schmader, MD, Durham, North Carolina; D. Scott Schmid, PhD, Atlanta, Georgia; Jane
+Seward, MBBS, MPH, Atlanta, Georgia; Heather 
+Stafford,  Philadelphia,  Pennsylvania;  Ray  Strikas,  MD,  Washington,  DC;  Gregory  S.
+Wallace, MD, Atlanta, Georgia; Barbara Watson, MB ChB, 
+Philadelphia, Pennsylvania. 
+ 
+ Advisory Committee on Immunization Practices Membership List, June 2007
+ Chairman:  Jon  S.  Abramson,  MD,  Wake  Forest  University  School  of  Medicine,
+Winston-Salem, North Carolina.
+Executive Secretary: Larry K. Pickering, MD, CDC, Atlanta, Georgia.
+Members:  Ban  Mishu  Allos,  MD,  Vanderbilt  University  School  of  Medicine,  Nashville,
+Tennessee; Carol Baker, MD, Baylor College of 
+Medicine, Houston, Texas; Robert L. Beck, JD, Palmyra, Virginia; Janet R. Gilsdorf, MD,
+University of Michigan, Ann Arbor, Michigan; Harry Hull, 
+MD,  Minnesota  Department  of  Health,  Minneapolis,  Minnesota;  Susan  Lett,  MD,  MPH,
+Massachusetts Department of Public Health, Jamaica 
+Plain,  Massachusetts;  Tracy  Lieu,  MD,  MPH,  Harvard  Pilgrim  Health  Care  and  Harvard
+Medical School, Boston, Massachusettes; Dale L. Morse, MD, 
+New  York  State  Department  of  Health,  Albany,  New  York;  Julia  Morita,  MD,  Chicago
+Department of Public Health, Chicago, Illinois; Kathleen 
+Neuzil,  MD,  MPH,  University  of  Washington,  Seattle,  Washington;  Patricia  Stinchfield,
+Children's Hospitals and Clinics, St. Paul, Minnesota; Ciro 
+Valent  Sumaya,  MD,  MPH,   Texas  A&M  University  System  Health   Science  Center,
+College Station, Texas; John J. Treanor, MD, University of 
+Rochester, Rochester, New York; and Robin J. Womeodu, MD, University of Tennessee
+Health Science Center, Memphis, Memphis, Tennessee.
+Ex-Officio  Members:  James  Cheek,  MD,  Indian  Health  Service,  Albuquerque,  New
+Mexico; Wayne Hachey, DO, Department of Defense, 
+Falls  Church,  Virginia;  Geoffrey  S.  Evans,  MD,  Health  Resources  and  Services
+Administration, Rockville, Maryland; Bruce Gellin, MD, National 
+Vaccine  Program  Office,  Washington,  DC;  Linda  Murphy,  Centers  for  Medicare  and
+Medicaid Services, Baltimore, Maryland; George T. Curlin, MD, 
+National Institutes of Health, Bethesda, Maryland; Norman Baylor, PhD, U.S. Food and
+Drug Administration, Rockville, Maryland; and Kristin Lee 
+Nichol, MD, Department of Veterans Affairs, Minneapolis, Minnesota. 
+Liaison Representatives: American Academy of Family Physicians, Jonathan Temte, MD,
+Madison, Wisconsin, and Doug Campos-Outcalt, 
+MD, Phoenix, Arizona; American Academy of Pediatrics, Keith Powell, MD, Akron, Ohio,
+and Carol Baker, MD, Houston, Texas; America's 
+Health  Insurance  Plans,  Andrea  Gelzer,  MD,  Hartford,  Connecticut;  American  College
+Health Association, James C. Turner, MD, Charlottesville, 
+Virginia;  American  College  of  Obstetricians  and  Gynecologists,  Stanley  Gall,  MD,
+Louisville, Kentucky; American College of Physicians, Kathleen M. 
+Neuzil,  MD,  Seattle,  Washington;  American  Medical  Association,  Litjen  Tan,  PhD,
+Chicago, Illinois; American Pharmacists Association, Stephan L. 
+Foster, PharmD, Memphis, Tennessee; Association of Teachers of Preventive Medicine,
+W. Paul McKinney, MD, Louisville, Kentucky; Biotechnology 
+Industry  Organization,  Clement  Lewin,  PhD,  Cambridge,  Massachusetts;  Canadian
+National Advisory Committee on Immunization, Monica Naus, 
+MD,  Vancouver,  British  Columbia;  Healthcare  Infection  Control  Practices  Advisory
+Committee, Steve Gordon, MD, Cleveland, Ohio; Infectious 
+Diseases  Society  of  America,  Samuel  L.  Katz,  MD,  Durham,  North  Carolina;  London
+Department of Health, David Salisbury, MD, London, United 
+Kingdom; National Association of County and City Health Officials, Nancy Bennett, MD,
+Rochester, New York, and Jeffrey S. Duchin, MD, 
+Seattle,  Washington;  National  Coalition  for  Adult  Immunization,  David  A.  Neumann,
+PhD, Alexandria, Virginia; National Foundation for Infectious 
+Diseases, William Schaffner, MD, Nashville, Tennessee; National Immunization Council
+and Child Health Program, Romeo S. Rodriquez, Mexico City, 
+Mexico;  National  Medical  Association,  Patricia  Whitley-Williams,  MD,  New  Brunswick,
+New Jersey; National Vaccine Advisory Committee, Gary Freed, 
+MD,  Swiftwater,  Pennsylvania,  and  Peter  Paradiso,  PhD,  Collegeville,  Pennsylvinia;
+Society for Adolescent Medicine, Amy B. Middleman, MD, 
+Houston,  Texas;  Pharmaceutical  Research  and  Manufacturers  of  America,  Damian  A.
+Araga, Swiftwater, Pennsylvania.
+ Use  of  trade  names  and  commercial  sources  is  for  identification  only  and  does  not
+imply endorsement by the U.S. Department of 
+Health and Human Services.References to non-CDC sites on the Internet are 
+provided as a service to MMWR readers and do not constitute or imply 
+endorsement of these organizations or their programs by CDC or the U.S. 
+Department of Health and Human Services. CDC is not responsible for the content 
+of pages found at these sites. URL addresses listed in MMWR were current as of 
+the date of publication.
+All MMWR HTML versions of articles are electronic conversions from typeset documents.
+This  conversion  might  result  in  character  translation  or  format  errors  in  the  HTML
+version. 
+Users are referred to the electronic PDF version (http://www.cdc.gov/mmwr) 
+and/or the original MMWR paper copy for printable versions of official text, figures, and
+tables. 
+An  original  paper  copy  of  this  issue  can  be  obtained  from  the  Superintendent  of
+Documents, U.S. 
+Government Printing Office (GPO), Washington, DC 20402-9371; 
+telephone: (202) 512-1800. Contact GPO for current prices. 
+**Questions or messages regarding errors in formatting should be addressed to 
+mmwrq@cdc.gov.  Use of trade names and commercial sources is for identification only
+and does not imply endorsement by the U.S. Department of 
+Health and Human Services.References to non-CDC sites on the Internet are 
+provided as a service to MMWR readers and do not constitute or imply 
+endorsement of these organizations or their programs by CDC or the U.S. 
+Department of Health and Human Services. CDC is not responsible for the content 
+of pages found at these sites. URL addresses listed in MMWR were current as of 
+the date of publication. All MMWR HTML versions of articles are electronic conversions
+from typeset documents. 
+This  conversion  might  result  in  character  translation  or  format  errors  in  the  HTML
+version. 
+Users are referred to the electronic PDF version (http://www.cdc.gov/mmwr) 
+and/or the original MMWR paper copy for printable versions of official text, figures, and
+tables. 
+An  original  paper  copy  of  this  issue  can  be  obtained  from  the  Superintendent  of
+Documents, U.S. 
+Government Printing Office (GPO), Washington, DC 20402-9371; 
+telephone:  (202)  512-1800.  Contact  GPO  for  current  prices.  Date  last  reviewed:
+5/15/2008
+ 
+    HOME  |  
+    ABOUT MMWR  | 
+    MMWR SEARCH  | 
+    DOWNLOADS  | 
+    RSS 
+    |  
+    CONTACT
+POLICY  |  
+    DISCLAIMER  |  
+    ACCESSIBILITY 
+Morbidity and Mortality Weekly Report
+                Centers for Disease Control and Prevention
+                1600 Clifton Rd, MailStop E-90, Atlanta, GA 
+                  30333, U.S.A 
+Department of Healthand Human Services 
+Source URL: https://www.cdc.gov/mmwr/preview/mmwrhtml/rr57e0515a1.htm

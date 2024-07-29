@@ -1,0 +1,1192 @@
+  Persons using assistive technology might not be able to fully access information in this
+file. For assistance, please send e-mail to: mmwrq@cdc.gov. Type 508 Accommodation
+and the title of the report in the subject line of e-mail. Please note: An
+erratum has been published for this article. To view the erratum, please click here.
+ Alicia  Anderson,  DVM1  Henk  Bijlmer,  MD,  PhD2  Pierre-Edouard  Fournier,  MD,  PhD3
+Stephen Graves, MD, PhD4 Joshua Hartzell, MD5 Gilbert J. Kersh, PhD1 Gijs Limonard,
+MD6  Thomas  J.  Marrie,  MD7  Robert  F.  Massung,  PhD1  Jennifer  H.  McQuiston,  DVM1
+William  L.  Nicholson,  PhD1  Christopher  D.  Paddock,  MD1  Daniel  J.  Sexton,  MD8  
+1National Center for Emerging and Zoonotic Infectious Diseases, CDC, Atlanta, Georgia
+2National  Institute  for  Public  Health  and  the  Environment,  The  Netherlands  3French
+National Center for the Study and Diagnosis of Q Fever, Faculté de Médecine, Marseille,
+France  4Australian  Rickettsial  Reference  Laboratory  Foundation,  Victoria,  Australia
+5Walter  Reed  National  Military  Medical  Center,  Washington,  DC  6Canisius-Wilhelmina
+Hospital, Nijmegen, The Netherlands 7Dalhousie University, Nova Scotia, Canada 8Duke
+University Medical School, Durham, North Carolina The material in this report originated
+in the National Center for Emerging and Zoonotic Infectious Diseases, Beth P. Bell, MD,
+Director;  and  the  Division  of  Vector-Borne  Diseases,  Lyle  R.  Petersen,  MD,  Director.  
+Corresponding  preparer:  Alicia  Anderson,  DVM,  Division  of  Vector-Borne  Diseases,
+National Center for Emerging and Zoonotic Infectious Diseases, CDC, 1600 Clifton Road,
+MS  A-30,  Atlanta,  GA  30333.  Telephone:  404-639-4499;  Fax:  404-639-2778;  E-mail:
+aha5@cdc.gov. Q fever, a zoonotic disease caused by the bacterium Coxiella burnetii,
+can  cause  acute  or  chronic  illness  in  humans.  Transmission  occurs  primarily  through
+inhalation of aerosols from contaminated soil or animal waste. No licensed vaccine is
+available in the United States. Because many human infections result in nonspecific or
+benign constitutional symptoms, establishing a diagnosis of Q fever often is challenging
+for clinicians. This report provides the first national recommendations issued by CDC for
+Q  fever  recognition,  clinical  and  laboratory  diagnosis,  treatment,  management,  and
+reporting  for  health-care  personnel  and  public  health  professionals.  The  guidelines
+address treatment of acute and chronic phases of Q fever illness in children, adults, and
+pregnant  women,  as  well  as  management  of  occupational  exposures.  These
+recommendations will be reviewed approximately every 5 years and updated to include
+new published evidence. Q fever, first described in 1937, is a worldwide zoonosis that
+has  long  been  considered  an  underreported  and  underdiagnosed  illness  because
+symptoms  frequently  are  nonspecific,  making  diagnosis  challenging  (1–3).  The
+causative organism, Coxiella burnetii, is an intracellular bacterium that tends to infect
+mononuclear  phagocytes  but  can  infect  other  cell  types  as  well.  Infection  in  humans
+usually  occurs  by  inhalation  of  bacteria  from  air  that  is  contaminated  by  excreta  of
+infected animals. Other modes of transmission to humans, including tick bites, ingestion
+of  unpasteurized  milk  or  dairy  products,  and  human-to-human  transmission,  are  rare
+(1).  Laboratory  diagnosis  relies  mainly  on  serology,  and  doxycycline  is  the  most
+effective treatment for acute illness. No vaccine is available commercially in the United
+States.  Q  fever  was  designated  a  nationally  notifiable disease in  the United  States  in
+1999. Since then, reports of Q fever have increased, with 167 cases reported in 2008,
+an increase greater than ninefold compared with 2000, in which 17 cases were reported
+(4). The national seroprevalence of Q fever is estimated to be 3.1% based on data from
+the  National  Health  and  Nutrition  Examination  Survey  (2003–2004),  and  human
+infections  have  been  reported  from  every  state  in  the  United  States  (5).  Q  fever
+infections in humans and animals have been reported from every world region except
+Antarctica  (6).  Q  fever  has  acute  and  chronic  stages  that  correspond  to  two  distinct
+antigenic phases of antibody response. During an acute infection, an antibody response
+to C. burnetii phase II antigen is predominant and is higher than the response to the
+phase  I  antigen,  whereas  a  chronic  infection  is  associated  with  a  rising  phase  I
+immunoglobulin  G  (IgG)  titer.  Although  acute  Q  fever  symptoms  in  humans  vary,  the
+condition  typically  is  characterized  by  a  nonspecific  febrile  illness,  hepatitis,  or
+pneumonia. Asymptomatic infections followed by seroconversion have been reported in
+up to 60% of cases identified during outbreak investigations (6–8). Onset of symptoms
+usually occurs within 2–3 weeks of exposure, and symptomatic patients might be ill for
+weeks  or  months  if  untreated.  Chronic  Q  fever  can  manifest  within  a  few  months  or
+several  years  after  acute  infection  and  can  follow  symptomatic  or  asymptomatic
+infections. Chronic disease is rare (<5% of patients with acute infections) and typically
+is characterized by endocarditis in patients with preexisting risk factors such as valvular
+or  vascular  defects  (9).  Unlike  acute  Q  fever,  which  has  a  low  mortality  rate  (<2%),
+chronic Q fever endocarditis is always fatal if untreated (10). Routine blood cultures are
+negative  in  patients  with  chronic  Q  fever  endocarditis.  Diagnosis  of  chronic  Q  fever
+endocarditis  can  be  extremely  difficult  because  vegetative  lesions  are  visualized  by
+echocardiography  in  approximately  12%  of  patients  (6).  Q  fever  is  an  occupational
+disease in persons whose work involves contact with animals, such as slaughterhouse
+workers, veterinarians, and farmers, although infection is not limited to these groups.
+Urban outbreaks and cases with no known exposure or close proximity to livestock have
+been  reported,  as  have  nonoccupational  exposures  such  as  through  a  hobby  farm  (a
+small  farm  that  is  not  a  primary  source  of  income)  (11).  Data  collected  from  Q  fever
+case report forms submitted to CDC during 2000–2010 indicate that 320 of 405 (79%)
+cases in patients who reported occupational status are recognized in patients who are
+not  in  previously  defined  high-risk  occupations,  and  243  of  405  (60%)  cases  are  in
+patients  who  do  not  report  livestock  contact  (CDC,  unpublished  data,  2010).  These
+findings  underscore  the  need  for  health-care  professionals  to  consider  Q  fever  in  the
+differential  diagnosis  in  patients  with  a  compatible  illness,  even  in  the  absence  of
+occupational risk or history of direct contact with animal reservoirs. Approximately 200
+cases of acute Q fever were reported in U.S. military personnel who had been deployed
+to Iraq since 2003. Investigations of these cases linked illness to tick bites, sleeping in
+barns,  and  living  near  helicopter  zones  with  environmental  exposure  resulting  from
+helicopter-generated  aerosols  (12,13).  The  largest  known  reported  Q  fever  outbreak
+involved  approximately  4,000  human  cases  and  occurred  during  2007–2010  in  the
+Netherlands. This outbreak was linked to dairy goat farms near densely populated areas
+and presumably involved human exposure via a windborne route (14). Prompt diagnosis
+and  appropriate  treatment  shortens  the  illness  and  reduces  the  risk  for  severe
+complications (15,16). In patients with chronic Q fever illness, early treatment might be
+lifesaving.  Physician  awareness  of  the  epidemiologic  and  clinical  characteristics  of  Q
+fever is required to make a prompt and correct diagnosis. Information in this report is
+designed  to  assist  U.S.  clinicians  with  the  following:  A  compilation  of  the  key  point
+summaries for Q fever clinical features, diagnosis, treatment, occupational exposures,
+and surveillance and reporting are provided (Appendix A). This report provides the first
+national guidelines for the diagnosis and management of Q fever in the United States.
+The  recommendations  were  prepared  by  the  Q  Fever  Working  Group,  which  includes
+CDC scientists, infectious disease specialists, laboratorians, epidemiologists, and clinical
+practitioners  with  expertise  in  the  diagnosis  and  management  of  Q  fever.  These
+recommendations  were  developed  through  expert  consultation  and  consensus  and
+represent  the  best  judgment  of  Q  fever  subject-matter  experts,  many  of  whom  are
+international  experts  because  of  the  low  number  of  Q  fever  clinical  subject-matter
+experts  in  the  United  States.  In  2009,  CDC  created  the  first  draft  using  previously
+published  guidelines,  review  articles,  and  multiple  search  strategies  of  medical  and
+professional computerized databases. During 2010–2012, each member of the Q Fever
+Working Group reviewed, revised, and refined the recommendations. In 2012, the CDC
+National  Institute  of  Occupational  Safety  and  Health  reviewed  the  recommendations.
+When  possible,  recommendations  were  based  on  existing  recommendations  or
+guidelines  (referenced  within  the  text),  with  emphasis  on  U.S.  populations.  Published
+guidelines  and  the  peer-reviewed  literature  were  reviewed  to  ensure  the  relevance,
+completeness,  and  accuracy  of  the  recommendations.  If  no  adequate  guidelines
+existed,  the  guidelines  and  recommendations  were  based  on  the  experience  and
+expertise  of  the  Q  Fever  Working  Group  members.  Cattle,  sheep,  and  goats  are  the
+primary  reservoirs  for  C.  burnetii.  However,  infection  has  been  confirmed  in  multiple
+vertebrate species, including wildlife, marine mammals, domestic mammals, birds, and
+reptiles (17). C. burnetii has been isolated from approximately 40 species of ticks, and
+possible  tickborne  transmission  of  C.  burnetii  to  humans  has  been  reported  (18–20).
+Any infected animal has the potential to transmit the pathogen via bacterial shedding in
+their body secretions. Human outbreaks and cases have been epidemiologically linked
+to  exposure  to  multiple  species  including  pigeons,  dogs,  and  rabbits  (21–23).  Human
+cases  and  outbreaks  linked  to  exposure  to  infected  parturient  cats  also  have  been
+reported (24–26). The majority of animal infections are asymptomatic. Clinical illness in
+ruminants  is  primarily  characterized  by  reproductive  disorders  such  as  abortion,
+stillbirth, endometritis, mastitis, and infertility (27). The highest numbers of organisms
+are shed in birth products, although viable organisms also might be shed in the urine,
+milk,  and  feces  of  infected  animals  (28,29).  A  positive  antibody  titer  in  an  infected
+animal  does  not  correlate  with  active  shedding  of  organisms  because  some
+seronegative animals might actively shed bacteria (30,31). Conversely, animals might
+seroconvert  after  exposure  to  C.  burnetii  but  not  shed  the  bacteria  (31–34).  Thus,
+serologic testing is not a reliable method to determine whether specific animals are a
+potential source of transmission of C. burnetii to humans or other animals. Polymerase
+chain  reaction  (PCR)  testing  of  body  fluids  (e.g.,  feces,  milk,  and  vaginal  mucus)  is  a
+more  reliable  method  to  detect  shedding,  which  might  be  intermittent.  The  most
+common  mode  of  transmission  in  humans  is  inhalation  of  infectious  aerosols  directly
+from birth fluids of infected animals or via inhalation of dust contaminated with dried
+birth fluids or excreta. C. burnetii is extremely resistant to physical stresses, including
+heat  and  desiccation  and  can  survive  in  the  environment  for  months  to  years.  The
+bacteria  can  become  airborne,  traveling  on  wind  currents  for  miles,  resulting  in
+outbreaks  (35,36).  In  one  outbreak,  Q  fever  cases  were  documented  in  persons  who
+lived 10 miles from the farm that was the source of the outbreak. In a recent outbreak
+in the Netherlands, living within 2 km of an infected farm was a significant risk factor
+for infection (36–38). Less common routes of transmission include ingestion of raw milk
+and  dairy  products  or  contact  with  contaminated  clothing  (39,40).  Person-to-person
+transmission of Q fever is possible but rarely reported. Persistent infection of the genital
+tract has been documented both in animals and humans, and sexual transmission and
+transplacental  transmission  of  disease  have  been  reported  (41–44).  Rare  cases  of
+transmission caused by blood transfusion or bone marrow transplantation from infected
+human donors have been reported (45,46). C. burnetii has been isolated from human
+breast  milk,  and  lactogenic  transmission  is  possible,  although  no  cases  have  been
+documented  via  this  route  of  transmission  (47).  Sporadic  cases  of  nosocomial
+transmission  associated  with  autopsies  and  obstetrical  procedures  of  infected  women
+have  been  reported  (48,49).  The  reported  incidence  and  seroprevalence  of  acute  Q
+fever  is  higher  among  persons  aged  ≥40  years  than  among  younger  persons,  and
+disease severity increases with age (5,50). Persons aged 60–64 years have the highest
+age-related risk of Q fever in the United States (4). In addition, males have a higher risk
+for symptomatic Q fever illness than females (6), which might be partly explained by
+sex-associated  occupational  exposures  or  the  protective  effects  of  17β-estradiol  in
+females, which has been validated in animal studies (51,52). Although infections occur
+year  round,  acute  Q  fever  cases  in  the  United  States  peak  in  the  spring.  Seasonal
+incidence  of  acute  Q  fever  likely  correlates  with  livestock  birthing  times  or  farm
+management practices such as manure spreading (4,53,54). In addition to host factors,
+other  elements  that  might  influence  disease  susceptibility  and  clinical  manifestations
+include  route  of  infection  and  size  of  inoculum  (6,55,56).  When  compiling  a  medical
+history, health-care providers should consider the following factors: Although a detailed
+exposure  history,  including  animal  contact,  might  assist  health-care  providers  in
+identifying  potential  Q  fever  in  a  patient,  a  lack  of  direct  animal  contact  should  not
+preclude a clinical suspicion of diagnosis because airborne transmission of C. burnetii
+can occur. Symptomatic acute Q fever, which occurs in approximately half of infected
+persons,  is  characterized  by  a  wide  variety  of  clinical  signs  and  symptoms.  After  an
+incubation period of 2–3 weeks, the most common clinical manifestation is a nonspecific
+febrile illness that might occur in conjunction with pneumonia or hepatitis (6). The most
+frequently reported symptoms include fever, fatigue, chills, and myalgia (Table 1). In a
+study  of  deployed  U.S.  military  personnel,  the  three  most  common  International
+Classification  of  Diseases,  Clinical  Modification  (ICD-9-CM)  codes  assigned  to  patients
+who  were  later  identified  as  having  Q  fever  were  as  follows:  fever,  not  otherwise
+specified  (780.6);  pneumonia,  organism  unspecified  (486);  and  viral  infection,  not
+otherwise  specified  (079.99)  (12).  Severe,  debilitating  headaches  also  are  a  frequent
+symptom,  and  lumbar  punctures  have  been  performed  on  patients  for  suspected
+meningitis who were later shown to have Q fever (J. Hartzell, MD, Walter Reed National
+Military  Medical  Center,  2012,  personal  communication).  The  headache  might  be
+retroorbital and associated with photophobia (6). In patients with acute Q fever illness,
+this has been misclassified as a new onset migraine headache or a potentially infected
+tooth because the headache pain radiates to the jaw (11). Pneumonia is an important
+clinical  manifestation  of  acute  Q  fever,  and  C.  burnetii  might  be  an  underrecognized
+cause  of  community-acquired  pneumonia.  In  North  America  in  the  1980s,  the
+prevalence  of  acute  Q  fever  in  1,306  cases  of  community-acquired  pneumonia  in
+hospitalized  patients  was  30  cases  (2.3%)  (57).  Features  of  Q  fever  pneumonia  are
+similar  to  other  etiologies  of  community-acquired  pneumonia  and  cannot  be
+distinguished clinically, radiologically, or by any other routine laboratory evaluation. Q
+fever  pneumonia  can  range  from  mild  to  severe,  and  numerous  patients  have
+extrapulmonary  manifestations  (including  severe  headache,  myalgia,  and  arthralgia).
+Cough is often present and is nonproductive in 50% of patients; upper respiratory signs
+are less likely to be reported in persons with Q fever pneumonia (58–62). Fever lasts a
+median  of  10  days  in  untreated  patients  (range:  5–57  days);  the  majority  of  cases
+defervesce within 72 hours of doxycycline administration (63,64). The duration of fever
+increases with age; one study demonstrated that 60% of patients aged >40 years had a
+fever  duration  of  >14  days,  compared  with  29%  of  patients  aged  <40  years  (64).  In
+another study, 5%–21% of patients with acute Q fever had a maculopapular or purpuric
+rash (53). Onset of symptoms can be gradual or abrupt, with variable severity. Although
+mortality  is  <2%  in  patients  with  acute  Q  fever,  in  the  Netherlands  outbreak,  which
+included approximately 4,000 reported cases, up to 50% of acute Q fever patients were
+hospitalized  (6,38).  Less  frequently  described  clinical  symptoms  include  pericarditis,
+myocarditis, aseptic meningitis, encephalitis, and cholecystitis (53,65). Children with Q
+fever  are  less  likely  to  have  symptoms  than  adults  and  might  have  a  milder  illness.
+Acute  Q  fever  in  symptomatic  children  typically  is  characterized  by  a  febrile  illness,
+often  accompanied  by  headache,  weakness,  cough,  and  other  nonspecific  systemic
+symptoms. Illness frequently is self-limited, although a relapsing febrile illness lasting
+for  several  months  has  been  documented  in  some  children  (66).  Gastrointestinal
+symptoms  such  as  diarrhea,  vomiting,  abdominal  pain,  and  anorexia  are  reported  in
+50%–80% of pediatric cases (66–68). Skin rash is more common in children than adults,
+with  a  prevalence  as  high  as  50%  among  children  with  diagnosed  cases  (66–69).  Q
+fever  pneumonia  is  usually  moderate  with  mild  cough;  respiratory  distress  and  chest
+pain  might  occur.  Severe  manifestations  of  acute  disease  are  rare  in  children  and
+include  hepatitis,  hemolytic  uremic  syndrome,  myocarditis,  pericarditis,  encephalitis,
+meningitis,
+ hemophagocytosis,
+ lymphadenitis,
+ acalculous
+ cholecystitis,
+ and
+rhabdomyolysis  (70–74).  Q  fever  infections  in  women  that  occur  shortly  before
+conception or during pregnancy might result in miscarriage, stillbirth, premature birth,
+intrauterine growth retardation, or low birthweight (75). Adverse pregnancy outcomes
+are  likely  to  be  caused  by  vasculitis  or  vascular  thrombosis  resulting  in  placental
+insufficiency, although direct infection of the fetus has been documented (76). Of the
+reports that describe outcomes of infected pregnant women, none have documented an
+increased  risk  for  congenital  malformations  because  of  infection  (75,76).  Pregnant
+women might be less likely to have symptoms of Q fever compared with other adults
+(e.g., a febrile illness), although they remain at risk for adverse pregnancy outcomes
+(50). As a result, if a pregnant woman with no history of clinical illness has only a single
+increased antibody titer, it is difficult for the health-care provider to determine whether
+the  increase  is  from  a  previous  or  current  infection.  Serosurveys  of  pregnant  women
+evaluating a possible association between a single, elevated C. burnetii antibody titer
+(which  cannot  differentiate  between  previous  or  current  infection)  and  adverse
+pregnancy outcomes have reported mixed findings (77–80). A woman with a previous
+infection  (>30  days  before  conception)  with  no  evidence  of  progression  to  chronic
+disease  does  not  require  treatment  during  pregnancy.  However,  a  Q  fever  infection
+during  pregnancy  requires  antibiotic  treatment  (Table  2),  and  health-care  providers
+should  consider  several  factors  to  determine  the  best  treatment  approach.  Careful
+assessment  of  serologic  results  are  useful  because  the  phase  II  antibody  response  is
+increased in patients with an acute infection but decreases during convalescence as the
+phase  I  antibody  response  increases.  Factors  to  consider  before  initiating  treatment
+include  whether  the  patient  had  contact  with  infected  livestock,  occupational  animal
+contact, or an epidemiological link to another person with Q fever to guide treatment
+decisions.  The  risk  for  adverse  effects  on  the  fetus  and  the  risk  that  the  mother  will
+develop  chronic  Q  fever  are  highest  when  an  acute  infection  occurs  during  the  first
+trimester  (81,82).  Untreated  infection  in  the  first  trimester  is  more  likely  to  result  in
+miscarriage,  whereas  infection  later  in  pregnancy  is  more  likely  to  cause  premature
+delivery  (75).  Women  infected  with  acute  Q  fever  during  pregnancy,  including  those
+who were asymptomatic or experienced no adverse pregnancy outcomes, might be at
+risk for recrudescent infection during subsequent pregnancies (83). Therefore, pregnant
+women  with  a  history  of  Q  fever  infection  during  a  previous  pregnancy  should  be
+monitored closely for recrudescent infection in all subsequent pregnancies. Health-care
+providers should educate women of child-bearing age who receive a diagnosis of acute
+Q  fever  of  potential  risks  to  the  fetus.  These  women  should  be  advised  to  avoid
+pregnancy  for  at  least  1  month  after  diagnosis  and  treatment  and  should  receive  a
+pregnancy  test  to  determine  whether  long-term  antibiotic  treatment  is  needed.
+Pneumonia  is  one  of  the  primary  clinical  manifestations  of  acute  Q  fever  (6).  Chest
+radiograph  abnormalities  are  seen  in  the  majority  of  patients  with  acute  Q  fever,
+although  patients  in  the  early  stages  of  disease  might  have  normal  radiographic
+findings.  Radiographic  evaluation  of  acute  Q  fever  patients  during  the  Netherlands
+outbreak showed infiltrates in >96% of patients (84). Radiographic patterns for acute Q
+fever  pneumonia  are  nonspecific;  the  most  common  abnormalities  are  segmental  or
+lobar consolidation, which might be unilateral or bilateral, involve upper or lower lobes,
+or feature multiple or single opacities. Patchy infiltrations are an uncommon feature of
+Q  fever  pneumonia  (58,85,86).  Acute  respiratory  distress  syndrome  is  a  rare
+manifestation of Q fever but has occurred (87,88). It is not possible to differentiate Q
+fever  pneumonia  from  other  causes  of  community-acquired  pneumonia  solely  on  the
+basis of radiographic findings. Although up to 25% of patients with acute Q fever have
+an increased leukocyte count, most patients have normal white blood cell counts. Mild
+thrombocytopenia in early illness, which occurs in approximately one third of patients,
+might be followed by subsequent thrombocytosis. Increased erythrocyte sedimentation
+rate,  hyponatremia,  hematuria,  increased  creatine  kinase,  and  increased  C-reactive
+protein  levels  have  been  reported.  The  most  common  laboratory  abnormalities  are
+increased  liver  enzyme  levels,  which  are  observed  in  up  to  85%  of  cases  (89).
+Hyperbilirubinemia  occurs  in  one  in  four  patients  (90–93).  Hepatomegaly  or
+splenomegaly  (unrelated  to  thrombocytopenia)  also  might  be  present,  although
+jaundice is rare (90). Q fever causes significant immune activation that might result in
+cross-reactivity with other laboratory tests for autoimmune or infectious processes or
+agents,
+ including
+ tests
+ for
+ antineutrophil
+ cytoplasmic
+ antibodies,
+ human
+immunodeficiency virus (HIV), brucellosis, or rapid plasma reagin (94). Chronic Q fever
+is rare, occurring in <5% of persons with acute infection, and might occur within a few
+months, years, or even decades after the initial acute infection (6). Chronic disease can
+occur  after  symptomatic  or  asymptomatic  infections.  Potential  signs  and  symptoms
+include  endocarditis,  chronic  hepatitis,  chronic  vascular  infections,  osteomyelitis,
+osteoarthritis,  and  chronic  pulmonary  infections  (6).  Although  patients  likely  have
+lifelong immunity to reinfection, disease recrudescence might occur and has been well
+documented  (95).  The  patients  at  highest  risk  for  chronic  Q  fever  are  those  with
+valvular  heart  disease,  a  vascular  graft,  or  an  arterial  aneurysm.  Acute  infection  in
+immunosuppressed  persons  and  pregnant  women  also  has  been  linked  to  later
+development  of  chronic  disease  (6,96).  Since  Q  fever  was  categorized  as  a  notifiable
+disease in the United States in 1999, CDC has received 49 reports of chronic Q fever, of
+which 24 manifested as endocarditis (CDC, unpublished data, 2012). Endocarditis is the
+major  form  of  chronic  Q  fever,  comprising  60%–78%  of  all  cases  worldwide.
+Endocarditis is a severe condition that is invariably fatal due to heart failure if untreated
+and has a 10-year mortality rate of 19% in treated patients (97,98). The second most
+common  form  of  chronic  Q  fever  is  infection  of  aneurysms  or  vascular  prostheses,
+followed  by  chronic  Q  fever  infections  after  pregnancy  (98).  However,  during  the  Q
+fever outbreak in the Netherlands, vascular infections were the most common form of
+chronic  disease  reported  (15).  A  clinical  assessment  of  patients  with  acute  Q  fever
+should be performed to determine whether they are at high risk for subsequent chronic
+infection.  Approximately  40%  of  persons  with  a  known  valvulopathy  with  an  acute  Q
+fever  diagnosis  subsequently  develop  infective  endocarditis  (99).  Patients  with
+endocarditis  are  predominantly  men  aged  >40  years  (97).  Similar  to  other  infective
+endocarditis etiologies, patients at highest risk for development of Q fever endocarditis
+after acute infection are those with a prosthetic valve, followed by patients with aortic
+bicuspid valves, mitral valve prolapse, and moderate mitral insufficiency (99,100). The
+initial clinical signs and symptoms in patients with chronic Q fever often are nonspecific
+and  highly  variable.  Features  might  include  fatigue,  fever,  abdominal  or  chest  pain,
+weight loss, night sweats, or hepatosplenomegaly (101). Arterial embolism, pulmonary
+embolism, or deep venous thrombosis also might occur (97,102). Valvular vegetations
+usually are small and are detected by echocardiogram in approximately 12% of cases.
+Cardiologists evaluating the echocardiogram should be made aware of the suspected
+diagnosis  of  chronic  Q  fever  because  the  lesions,  which  often  are  subtle,  might  be
+missed  (97).  A  transesophageal  echocardiogram  (TEE)  is  more  sensitive  than  a
+transthoracic  echocardiogram  (TTE)  in  detecting  valvular  defects;  TEEs  should  be
+performed in patients with suspected endocarditis who have TTEs that are negative or
+not  definitive  (103).  However,  a  negative  echocardiogram,  whether  TTE  or  TEE,  does
+not  rule  out  a  diagnosis  of  chronic  Q  fever  endocarditis.  In  a  retrospective  study  of
+patients  with  Q  fever  endocarditis,  the  most  common  abnormality  found  by
+echocardiography in patients with chronic Q fever endocarditis was a newly discovered
+or  worsening  valvular  insufficiency  (97).  Other  echocardiographic  findings  included
+vegetations,  valvular  thickening,  calcification,  cardiac  abscess,  stenosis,  prosthetic
+leakage  or  avulsion,  or  pericardial  effusion.  The  mitral  and  aortic  valves  were  most
+commonly affected. Patients often did not have a previous diagnosis of acute Q fever.
+The  median  onset  time  for  endocarditis  was  2.5  months  (range:  1–66  months)  after
+acute illness among those who received a diagnosis of acute Q fever (97). Persons with
+arterial aneurysms or vascular grafts also are at risk for chronic Q fever, and C. burnetii
+vascular  infection  carries  a  high  mortality  rate  even  in  treated  patients  (96,104).
+Treated patients have an estimated 3-year mortality rate of 25%, a rate much higher
+than patients with treated Q fever endocarditis, who have an estimated 3-year mortality
+rate  of  7%  (97,104).  The  majority  of  C.  burnetii  vascular  infections  reported  in  the
+literature  are  aortic  infections,  which  complicate  an  aortic  aneurysm  or  previously
+placed endovascular prosthesis (104). The infected aneurysm frequently is diagnosed
+during  surgery  because  the  aortic  wall  ruptures;  death  is  most  commonly  caused  by
+vascular rupture. Infections develop more slowly in grafts than in aneurysms. Patients
+might have culture-negative aortitis (105). Spondylodiscitis and vertebral involvement
+might occur and should prompt testing for Q fever in patients with aortic defects (104).
+Imaging techniques that might prove useful for diagnosis of vascular infections include
+computed
+ tomography,
+ magnetic
+ resonance
+ imaging,
+ or
+ duplex
+ ultrasound.
+Fluorodeoxyglucose
+ positron
+ emission
+ tomography
+ combined
+ with
+ computed
+tomography  has  high  sensitivity  and  specificity  for  diagnosis  of  low-grade  vascular
+infections and can visualize other potential infectious foci that cannot be visualized by
+other imaging methods (101,105). Women infected with Q fever during pregnancy are
+at high risk for developing chronic Q fever, possibly because of a failure to mount an
+appropriate  immune  response  to  acute  infection  or  the  ability  of  C.  burnetii  to  use
+placental trophoblasts as a replicative niche (106,107). The earlier during pregnancy a
+woman is infected, the greater her risk for development of chronic disease (75). After a
+diagnosis  of  new  onset  acute  infection,  treatment  throughout  pregnancy  is
+recommended to decrease the risk for an adverse birth outcome as well as the risk for
+future  development  of  chronic  Q  fever  (75).  Chronic  infection  might  be  evidenced  by
+increased phase I IgG C. burnetii titers that do not decrease after pregnancy and can
+lead to adverse outcomes during subsequent pregnancies (81). Chronic Q fever is rarely
+reported  in  children.  Pediatric  chronic  Q  fever  manifests  most  frequently  as  chronic
+relapsing  or  multifocal  osteomyelitis,  blood-culture–negative  endocarditis,  or  chronic
+hepatitis (108). Children with Q fever osteomyelitis often experience a prolonged course
+with recurrent episodes affecting multiple bones before diagnosis (71,109). Like adults,
+children who are immunocompromised or have underlying heart valve disease might be
+at higher risk for chronic Q fever. Post-Q fever fatigue syndrome has been reported in
+up  to  20%  of  patients  with  acute  Q  fever  and  is  the  most  common  chronic  outcome
+after  acute  infection  (110–122).  However,  the  data  related  to  post-Q  fever  fatigue
+syndrome are limited, and its rate of occurrence in the United States is unknown. This
+syndrome  is  distinct  from  other  sequelae  of  acute  infection  such  as  chronic  Q  fever
+manifesting as endocarditis or osteomyelitis. The majority of patients with post-Q fever
+fatigue  syndrome  are  previously  healthy  persons  with  no  underlying  medical  or
+psychological  problems  who  develop  a  complex  of  symptoms  dominated  by  a
+debilitating  fatigue  after  symptomatic  acute  Q  fever  infection.  Other  accompanying
+symptoms might include nausea, headache, night sweats, myalgia, intermittent muscle
+fasciculations, enlarged lymph nodes, arthralgia, difficulty sleeping, alcohol intolerance,
+photophobia,  irrational  and  out-of-proportion  irritability,  depression,  decreased
+concentration,  and  impaired  short-term  memory.  There  is  no  apparent  organ
+involvement (111). Although any or all of these symptoms might occur in patients with
+an acute infection and last up to a year followed by full recovery, post-Q fever fatigue
+syndrome is characterized by fatigue and other expected Q fever symptoms that last
+beyond a year and for many patients last for several years or for life. No consensus has
+been reached on the pathogenesis of post-Q fever fatigue syndrome, although genetic
+predisposition and the severity of acute illness have been suggested to play a role in its
+development  (117,123).  Diagnosis  of  post-Q  fever  fatigue  syndrome  relies  on
+persistence  of  characteristic  symptoms  >1  year  after  a  symptomatic  acute  Q  fever
+infection, elevated antibody titers against C. burnetii antigen, and a lack of clinical and
+laboratory  evidence  of  chronic  Q  fever  with  organ  involvement.  All  other  causes  of
+similar symptoms should be excluded, and a thorough search for organ involvement or
+nidus  of  infection  is  imperative  before  making  a  diagnosis  of  post-Q  fever  fatigue
+syndrome  because  Q  fever  with  organ  involvement  is  responsive  to  antibiotic
+treatment.  Management  strategies  for  post-Q  fever  fatigue  syndrome  might  reflect
+those  used  for  chronic  fatigue  syndrome,  such  as  graded  exercise  therapy  and
+cognitive  behavioral  therapy.  There  are  anecdotal  reports  of  limited  success  using
+antibiotic therapy; however, no evidence-based recommendations exist for treatment of
+post-Q  fever  fatigue  syndrome  (124,125).  Because  most  persons  with  acute  Q  fever
+have  nonspecific  symptoms,  health-care  providers  typically  do  not  suspect  Q  fever
+during the acute stage of the disease. Although a laboratory diagnosis of acute Q fever
+can  be  made  on  the  basis  of  serologic  results,  the  requirement  of  a  fourfold  rise  in
+phase  II  IgG  antibody  titer  between  acute  and  convalescent  samples  for  definitive
+diagnosis  makes  this  primarily  a  retrospective  diagnosis  (Table  3).  For  a  definitive
+diagnosis in the early stages of acute Q fever illness, serologic testing in combination
+with PCR is recommended. PCR of whole blood or serum can be positive very early after
+symptom  onset  but  becomes  negative  as  the  antibody  titer  increases  and  after
+administration  of  antibiotics  (Table  4).  When  interpreting  serologic  and  PCR  data,
+particularly  if  appropriately  timed  acute  and  convalescent  titers  were  not  obtained,
+empiric  treatment  should  be  based  on  the  presence  of  a  clinically  compatible
+syndrome.  Treatment  should  never  be  withheld  pending  receipt  of  diagnostic  test
+results or discontinued because of a negative acute serologic or PCR result. Conversely,
+because  antibodies  might  remain  detectable  for  months  to  years  after  infection,
+treatment  should  not  be  provided  based  solely  on  elevated  titers  (such  as  those
+detected  through  routine  screening  or  baseline  occupational  assessments)  without
+clinical manifestation of acute illness (e.g., fever, pneumonia, hepatitis, or other acute
+symptoms).  For  serologic  testing,  the  indirect  immunofluorescence  assay  (IFA)  is
+commercially available and is the most commonly used method for serologic diagnosis
+of Q fever in the United States. Other methods described for Q fever serologic diagnosis
+include complement fixation, radioimmunoassay, enzyme-linked immunosorbent assay,
+and  Western  immunoblotting,  although  assay  kits  for  these  tests  are  not  readily
+available  in  the  United  States.  The  interpretation  of  serologic  results  for  possible  Q
+fever must include differential reactivity to Coxiella antigens. C. burnetii exists in two
+antigenic  phases,  phase  I  and  phase  II.  Phase  I  is  the  virulent,  highly  infectious  form
+that  undergoes  a  transition  to  phase  II,  the  avirulent  form,  during  serial  laboratory
+passages in embryonated eggs or cell cultures. In acute infection, the phase II antibody
+response to C. burnetii appears first and is higher than the phase I antibody response
+(6).  The  most  commonly  used  means  of  confirming  the  diagnosis  of  acute  Q  fever  is
+demonstration of a fourfold rise in phase II IgG by IFA between serum samples from the
+acute  and  convalescent  phases  taken  3–6  weeks  apart.  Ideally,  the  first  serum
+specimen should be taken during the first week of illness. Although this specimen can
+be  tested  immediately,  results  often  are  negative  or  too  low  for  detection  pending
+production of measurable antibodies. Therefore, serum samples from the acute phase
+are not helpful for guiding immediate treatment decisions. Various values are used by
+individual  laboratories  to  categorize  patients  as  seropositive  or  seronegative.
+Alternatively, the serum specimen from the acute phase could be appropriately stored
+(refrigerated at 4°C [32.9°F] or frozen at ≤-20°C [-4°F]) until the convalescent serum
+specimen  is  drawn.  Both  specimens  can  be  sent  together  to  the  laboratory  for  IFA
+testing in the same assay run to eliminate interassay variation. If the samples cannot
+be  tested  simultaneously,  interassay  and  interlaboratory  variations  can  lead  to
+misinterpretation  of  perceived  changes  in  titer.  End-point  titers  also  might  be
+influenced  by  the  use  of  different  antigen  preparations  and  assay  protocols  (126).
+Because  results  from  different  laboratories  can  differ  significantly,  using  the  same
+laboratory  service  whenever  possible  can  provide  the  most  accurate  results  (126).
+Seroconversion typically occurs 7–15 days after symptoms appear, and 90% of patients
+seroconvert by the third week of illness. Immunoglobulin M (IgM) antibodies to phase II
+antigen develop in the second week of acute illness, with an increase in phase II IgG
+occurring  almost  simultaneously.  In  successfully  treated  or  spontaneously  resolving
+disease,  IgG  and  IgM  titers  to  phase  I  antigen  might  continue  to  increase  in  later
+specimens  but  typically  do  not  exceed  phase  II  titers.  Regardless  of  whether  the
+infection is symptomatic or asymptomatic, after the infection, antibodies might remain
+detectable for many months, for years, or for life (127). In a nationally representative
+serosurvey of otherwise healthy persons, 3.1% of the general adult U.S. population had
+detectable antibodies to C. burnetii (5). Therefore, a single serum sample is less useful
+for the diagnosis of acute Q fever than paired acute and convalescent serum samples
+collected 3–6 weeks apart. Despite these limitations, a single serum titer is the most
+commonly  applied  diagnostic  criterion  among  cases  reported  to  CDC,  likely  because
+clinical  suspicion  for  Q  fever  is  uncommon  for  patients  who  initially  seek  care  for
+symptoms.  In  the  absence  of  positive  PCR  results  and  the  ability  to  obtain  an  acute
+serum sample, a single positive convalescent serum sample (IgG phase II ≥1:128) in a
+patient  who  has  been  ill  >1  week  indicates  a  probable  acute  infection  IgM  results
+provide  ancillary  information  to  the  IgG  titers;  however,  because  of  persistence  (>1
+year in some cases), the IgM test provides limited diagnostic value as a standalone test.
+IgM  antibodies  have  a  much  lower  specificity  than  IgG  and  might  have  a  higher
+cross-reactivity.  Cross-reactions  between  Coxiella,  Legionella,  and  Bartonella  species
+have been reported (128,129). However, the cross-reacting antibodies generally have
+low titers and should not result in misdiagnosis. Because early doxycycline treatment
+(within the first 3 days of symptoms) is most effective, treatment of a patient suspected
+of having Q fever should be based on clinical findings and should not be delayed while
+awaiting laboratory confirmation (16). No evidence indicates that early administration
+of  doxycycline  blunts  the  antibody  response  or  prevents  seroconversion  (130,131).
+Rapid,  sensitive,  and  quantitative  PCR  techniques  have  been  developed  for  Q  fever
+testing.  Multiple  gene  targets  have  been  used,  and  physicians  should  be  aware  that
+they  can  differ  in  sensitivity  and  specificity  (132).  Either  whole  blood  collected  in
+anticoagulant-treated tubes or serum can be used for PCR testing. Whole blood might
+have  a  higher  concentration  of  C.  burnetii  DNA  than  serum  but  is  also  likely  to  have
+more PCR inhibitors. For PCR results to be useful, the clinical sample must be obtained
+in the acute phase of infection (optimally during the first 2 weeks of symptom onset)
+and either before or shortly after (within 24–48 hours) antibiotic administration. When
+appropriate samples are drawn (i.e., during the acute phase and before or shortly after
+antibiotic administration), PCR results are positive in almost all patients with early acute
+Q  fever  before  the  antibody  response  develops   (133).  The  Duke  criteria,  a  set  of
+validated diagnostic criteria for infective endocarditis, were revised in 2000 to include
+redefined  Q  fever  serologic  parameters  (134).  That  revision  defined  a  phase  I  IgG
+antibody  titer  >1:800  or  a  single  positive  blood  culture  for  C.  burnetii  as  a  major
+criterion  for  infective  endocarditis.  The  Duke  Endocarditis  Service  also  advocated  for
+use  of  TEEs  as  the  initial  diagnostic  test  of  choice  in  patients  categorized  as  having
+possible infective endocarditis, those with suspected complicated infective endocarditis,
+and those with suspected prosthetic valve infective endocarditis (Appendix B). A patient
+with a phase I IgG antibody titer >1:800 or a single positive blood culture for C. burnetii
+and one of the following minor criteria would be classified as having possible infective
+endocarditis, thereby warranting use of an initial TEE: predisposition, predisposing heart
+condition or injection drug use, fever, vascular phenomena, immunologic phenomena,
+or microbiologic evidence. Chronic Q fever is diagnosed primarily by serologic testing.
+Establishing  an  identifiable  nidus  of  chronic  infection  (e.g.,  endocarditis,  vascular
+infection,  or  osteomyelitis)  is  required,  as  is  laboratory  confirmation.  The  distinct
+antigenic  phases  to  which  humans  develop  antibodies  play  an  important  role  in  the
+diagnosis.  In  contrast  to  acute  Q  fever  infection,  chronic  infection  is  associated  with
+continued increasing phase I IgG titers (typically ≥1:1024) that might be higher than
+phase  II  IgG.  However,  there  are  reports  of  chronic  Q  fever  patients  who  retain
+extremely high phase II IgG antibody titers that equal or exceed their phase I IgG titers
+(135,136). If an acute Q fever case progresses to chronic disease, phase I IgG titer will
+continue to rise to levels ≥1:1024 and might exceed the phase II titer. It is possible for
+a patient with previously diagnosed acute Q fever who no longer has clinical symptoms
+to have increased phase I IgG titers for several months that subsequently decrease or
+stabilize without ever progressing to chronic disease (135,137). Patients with suspected
+chronic  Q  fever  should  have  whole  blood  or  serum  PCR  performed  because  they  can
+experience  a  recurrent  bacteremia  similar  to  early  acute  infection.  Reported  rates  of
+PCR positivity in blood or serum of patients with Q fever endocarditis have ranged from
+33% to 64% (97,135,136). PCR assays also can be performed on excised heart valve
+tissue from the site of active infection, even if frozen or embedded in paraffin. Infected
+heart  valves,  procured  fresh  or  as  formalin-fixed,  paraffin-embedded  specimens,  are
+excellent for laboratory diagnosis because they typically contain abundant numbers of
+bacteria. PCR can be performed on cerebrospinal fluid, pleural fluid, bone marrow, bone
+biopsies, liver biopsies, milk, placenta, and fetal tissue. Immunohistochemistry can be
+used to detect the presence of C. burnetii antigens in formalin-fixed, paraffin-embedded
+tissues and is particularly valuable for examining cardiac valve specimens excised from
+patients  with  culture-negative  endocarditis  for  whom  chronic  Q  fever  is  suspected
+(138). This assay is particularly useful because it can stain C. burnetii bacteria in tissues
+from  patients  even  after  they  have  received  antibiotic  therapy.  The  assay  also  can
+provide  a  crucial  retrospective  diagnosis  in  patients  who  relapse  after  valve
+replacement  surgery  for  unrecognized  or  undiagnosed  Q  fever  endocarditis.  In  the
+United States, this test can be referred to CDC through state public health laboratories.
+Cultivation of C. burnetii is not recommended for routine diagnosis because the process
+is difficult, time consuming, and dangerous; culture requires a biosafety level 3 (BSL-3)
+laboratory  because  bacteria  are  highly  infective  and  can  be  hazardous  for  laboratory
+workers. Often, patients with chronic Q fever have already received antibiotics, which
+further complicates isolation attempts; a negative culture does not rule out a C. burnetii
+infection. Specimens can be referred to CDC through state public health laboratories for
+culture.  Clinical  specimens  for  evaluation  of  C.  burnetii  can  be  tested  at  some  state
+public health laboratories or private referral laboratories. Health-care providers should
+contact  their  state  health  department  for  assistance  with  specimen  submission  and
+reporting infected patients. CDC accepts samples and performs testing at no charge if
+the  samples  have  been  submitted  with  the  approval  of  or  through  a  state  health
+department. In 2011, the Food and Drug Administration approved a PCR test, for use by
+deployed military health-care providers, that includes a Department of Defense assay
+for the diagnosis of Q fever (139). Serum. Using a red-top or serum separator tube, the
+acute-phase  specimen  should  be  collected  as  soon  as  possible  after  symptom  onset
+(within  the  first  2  weeks)  with  a  convalescent-phase  specimen  collected  3–6  weeks
+later. Sera should be refrigerated and shipped by express shipping on frozen gel packs
+separated  from  the  specimen  by  packing  material.  Samples  can  be  frozen  in  a
+non–frost-free freezer and shipped on dry ice to the laboratory. Blood. Whole blood for
+PCR  testing  should  be  collected  before  antibiotic  administration  in  EDTA-treated
+anticoagulant  tubes  and  shipped  refrigerated  on  frozen  gel  packs  by  overnight
+shipping. If samples are to be prepared for other laboratory tests, the buffy coat can be
+saved for DNA amplification and stored frozen in a non–frost-free freezer. Tissue. Heart
+valve tissue is the most commonly evaluated specimen used for confirmation of chronic
+Q  fever.  Fresh  tissue  specimens,  which  are  the  most  effective  and  have  the  widest
+range  of  diagnostic  techniques,  should  be  refrigerated  if  they  are  being  transported
+within 24 hours, and they should be shipped on frozen gel packs. If transport does not
+occur  within  24  hours,  specimens  should  be  frozen  in  a  non–frost-free  freezer  and
+shipped on dry ice for either culture or PCR analysis. In preparation for transport, fresh
+tissue should not be immersed in saline but should be placed on a gauze pad moistened
+with  sterile  saline  and  placed  in  a  sterile  collection  cup.  PCR,  immunohistochemistry
+staining, and culture isolation for C. burnetii can be attempted on fresh tissue. Should
+culture  attempts  be  performed,  biopsy  specimens  should  be  kept  at  -80°C  (-112°F)
+before  shipping  and  shipped  on  dry  ice.  Formalin-fixed  paraffin-embedded  blocks  for
+PCR  and  immunohistochemistry  can  be  stored  and  shipped  at  room  temperature  and
+should  never  be  frozen.  During  warmer  months,  the  blocks  should  be  shipped
+refrigerated with a frozen gel pack to prevent melting. Formalin-fixed wet tissue should
+be stored and shipped at room temperature. Length of time in formalin might adversely
+affect  assay  results.  If  sending  glass  slides  with  sections  from  paraffin-embedded
+blocks,  10–12  treated  (e.g.,  with  silane  or  poly-L-lysine)  glass  slides  with  sections  of
+affected tissue cut at a thickness of 3 µm (no greater than 5 µm) should be submitted.
+These may be shipped at room temperature or refrigerated on cold packs and should
+never be frozen. The majority of acute Q fever cases resolve spontaneously within 2–3
+weeks,  even  without  treatment.  Symptomatic  patients  with  confirmed  or  suspected
+acute  Q  fever,  including  children  with  severe  infections,  should  be  treated  with
+doxycycline  (Table  2).  Doxycycline  is  the  most  effective  treatment  for  Q  fever.
+Treatment is most effective if given within the first 3 days of symptoms, shortens the
+illness, and reduces the risk for severe complications (15,16). Other antibiotic regimens
+that  can  be  used  if  doxycycline  is  contraindicated  because  of  allergies  include
+moxifloxacin,
+ clarithromycin,
+ trimethoprim/sulfamethoxazole,
+ and
+ rifampin
+(75,140,141).  Treatment  for  acute  Q  fever  is  not  routinely  recommended  for
+asymptomatic persons or for those whose symptoms have resolved, although it might
+be considered in those at high risk for developing chronic Q fever. In one study of acute
+Q  fever  patients  who  were  monitored  over  time  for  progression  to  chronic  disease,
+those  who  eventually  had  chronic  Q  fever  were  more  likely  to  have  not  received
+appropriate  doxycycline  treatment  during  their  acute  illness  because  their  symptoms
+were mild or they were asymptomatic (15). Patients with acute Q fever should undergo
+a careful clinical assessment to determine whether they might be at risk for progression
+to chronic Q fever because patients at high risk require closer observation during the
+convalescent period. A thorough clinical assessment should include review of possible
+immunosuppressive  conditions,  pregnancy  testing  when  appropriate,  and  assessment
+for  vascular  and  heart  valve  defects  because  certain  valvular  lesions  might  not  be
+detectable  by  auscultation  (142).  A  medical  history  and  clinical  examination  alone
+might not be sufficient to identify patients with existing heart valve defects (143,144);
+health-care  providers  should  use  their  clinical  judgment  to  determine  the  most
+appropriate  tools  for  assessment  of  risk  (Figure).  Management  of  chronic  Q  fever  is
+evaluated  through  both  serologic  and  clinical  monitoring.  Using  the  same  laboratory
+and testing procedures for serologic monitoring is important because variations among
+laboratories  might  give  an  inaccurate  appearance  of  significant  titer  decreases  or
+increases. Patients who are healthy and have no identified risk factor for chronic illness
+should  receive  a  clinical  and  serologic  evaluation  approximately  6  months  after
+diagnosis of acute infection to identify potential progression to chronic disease. Phase I
+and  phase  II  IgG  and  IgM  antibodies  should  be  measured  to  endpoint  by  IFA  and
+compared  with  previous  titers.  Patients  with  a  phase  I  IgG  antibody  titer  ≥1:1024
+should  be  carefully  assessed  for  clinical  evidence  of  progression  to  chronic  Q  fever
+infection.  If  a  patient  has  no  serologic  or  clinical  evidence  of  progression  to  chronic
+infection, serologic monitoring can either be discontinued or continued less frequently if
+deemed appropriate by the health-care provider. However, patients should be advised
+to  seek  medical  care  immediately  should  symptoms  of  chronic  Q  fever  occur  at  any
+time throughout their lives. Patients with cardiovascular risk factors for chronic disease
+(e.g.,  heart  valve  defect,  vascular  graft,  or  aneurysm)  at  the  time  of  acute  infection
+should be serologically monitored and receive a physical examination at intervals of 3,
+6,  12,  18,  and  24  months  (Figure).  Women  infected  during  pregnancy  should  be
+serologically  and  clinically  monitored  at  the  same  intervals  (3,  6,  12,  18,  and  24
+months)  after  delivery.  If  there  is  no  evidence  of  an  increase  in  phase  I  IgG  titers
+≥1:1024  after  2  years  and  no  evidence  of  clinical  progression  to  chronic  infection,
+serologic  monitoring  may  be  discontinued  or  continued  less  frequently  if  deemed
+appropriate by the health-care provider. However, patients should be advised to seek
+medical care immediately should symptoms occur at any time throughout their lives,
+because  those  with  valvular  defects  or  vascular  abnormalities  remain  at  high  risk  for
+chronic Q fever for life. In addition, patients who have been infected with acute Q fever
+and develop valvular disease later in life from any cause are at risk for a recrudescent
+infection that can result in chronic Q fever endocarditis. It is not uncommon for patients
+with  an  acute  Q  fever  infection  to  develop  serologic  profiles  of  chronic  Q  fever  that
+eventually  regress.  Clinical  evidence  of  chronic  Q  fever  must  accompany  increased
+phase I IgG antibody titers to confirm a chronic diagnosis, and treatment should not be
+given based on increased titers alone. In all monitored patients, diagnosis of chronic Q
+fever  is  based  on  a  rising  or  elevated  phase  I  IgG  titer  (typically  ≥1:1024)  and  an
+identifiable nidus of infection (e.g., endocarditis, vascular infection, and osteomyelitis).
+Any  symptomatic  patient  with  serologic  evidence  of  chronic  Q  fever  (phase  I  IgG
+antibody  titer  ≥1:1024)  should  be  given  a  thorough  clinical  assessment  to  identify
+potential organ infection. The phase I IgG antibody titer might be higher than the phase
+II IgG titer; however, this is not a diagnostic criterion because patients with chronic Q
+fever might retain extremely high phase II IgG titers that equal or exceed phase I IgG
+titers  (136).  Adults  who  receive  a  diagnosis  of  chronic  Q  fever  should  receive  a
+treatment  regimen  of  doxycycline  and  hydroxychloroquine  (100  mg  of  doxycycline
+twice daily with 200 mg of hydroxychloroquine three times daily); duration of treatment
+might vary by the site of infection (Table 2) (6). A combination regimen is necessary to
+eradicate  the  organism  because  hydroxychloroquine  raises  the  pH  in  the  acidified
+phagosomal  compartment  and,  in  combination  with  doxycycline,  has  been  shown  to
+have  in  vitro  bactericidal  activity  against  C.  burnetii.  Because  of  potential  retinal
+toxicity from long-term use of hydroxychloroquine, a baseline ophthalmic examination
+should be performed before treatment and every 6 months thereafter. Both doxycycline
+and  hydroxychloroquine  can  cause  photohypersensitivity,  and  hypersensitivity  to
+sunlight  is  a  potential  complication  with  acute  and  chronic  treatment  regimens.
+Hydroxychloroquine
+ is
+ contraindicated
+ in
+ persons
+ with
+ glucose-6-phosphate
+dehydrogenase  deficiency  and  persons  with  retinal  or  visual  field  deficits.  During
+treatment for chronic Q fever, patients should receive monthly serologic testing for C.
+burnetii  phase  I  and  II  IgG  and  IgM  antibodies  and  monthly  clinical  evaluations.  If  an
+appropriate
+ treatment
+ response
+ is
+ not
+ achieved,
+ monthly
+ monitoring
+ for
+hydroxychloroquine plasma levels (which should be maintained at 0.8–1.2 µg/mL) and
+doxycycline  plasma  levels  (which  should  be  maintained  at  ≥5  µg/mL)  should  also  be
+performed during the treatment (145,146). Treatment should continue for at least 18
+months for native valve infections and at least 24 months for prosthetic valve infections
+(97). Although treatment of vascular infections, such as infected aneurysms or grafts, is
+less clearly defined because of the smaller patient group, duration of antibiotic therapy
+reported  in  recovered  patients  is  similar  (18–24  months)  (104).  Early  surgical
+intervention improves patient survival and might be necessary to remove an infected
+graft  if  the  patient  does  not  respond  to  antibiotic  therapy  (104,105).  Treatment  and
+management of rarer manifestations of chronic disease (e.g., osteoarticular infections)
+depends on clinical and serologic response, and consultation with an infectious disease
+physician is recommended. The definition of a cured case of chronic fever on the basis
+of  serologic  testing  previously  was  defined  as  phase  I  IgG  ≤1:200,  although  other
+researchers have recommended a phase I IgG cutoff of <1:800 to determine treatment
+duration  (145,147).  Because  these  specific  titer  dilutions  are  not  available  from
+commercial laboratories in the United States, they are more difficult to interpret in the
+United  States.  Rather  than  rely  on  indiscriminate  application  of  predetermined  cutoff
+titers,  health-care  providers  should  use  serologic  testing  as  a  tool  to  ensure  that  the
+phase  I  IgG  is  decreasing  during  treatment  in  conjunction  with  recovery  from  clinical
+symptoms.  A  patient  who  has  been  treated  appropriately  for  ≥18  months  and  has
+recovered from clinical symptoms but whose phase I IgG remains ≥1:1024 might not
+benefit  from  continued  treatment.  One  study  found  that  a  favorable  prognostic
+indicator  for  treated  endocarditis  patients  who  had  no  progression  of  clinical  disease
+yet  who  were  not  considered  cured  on  the  basis  of  serologic  testing  was  a  fourfold
+decrease in phase I IgG and IgA and the complete disappearance of phase II IgM (97).
+Twice yearly serologic monitoring of treated patients should continue for a minimum of
+5  years  after  treatment,  and  lifelong  serologic  monitoring  might  be  warranted  in
+patients with severe valvular defects (97). Treatment of chronic Q fever is challenging.
+Because of the highly variable clinical nature both of acute and chronic Q fever, clinical
+judgment  remains  the  most  crucial  factor  in  the  treatment  and  management.
+Health-care providers should contact their state health department for assistance with
+specimen  submission  and  reporting  of  infected  patients.  Health-care  providers  who
+need  an  epidemiologic  consultation  on  Q  fever  can  contact  their  state  health
+department  or  CDC  at  1-800-CDC-INFO  (Appendix  C).  Treatment  of  pregnant  women
+who
+ received
+ an
+ acute
+ Q
+ fever
+ diagnosis
+ during
+ pregnancy
+ with
+trimethoprim/sulfamethoxazole throughout pregnancy has been shown to significantly
+decrease the risk for adverse consequences for the fetus (75). Up to 81% of untreated
+infected  pregnant  women  might  have  adverse  pregnancy  outcomes  (75).  Although
+approximately
+ 40%
+ of
+ pregnant
+ women
+ who
+ receive
+ long-term
+trimethoprim/sulfamethoxazole  treatment  might  still  experience  adverse  outcomes,
+complications  are  more  likely  to  be  limited  to  intrauterine  growth  retardation  and
+premature
+ delivery
+ instead
+ of
+ stillbirth
+ or
+ miscarriage
+ (75).
+ Long-term
+trimethoprim/sulfamethoxazole treatment during pregnancy has decreased the risk for
+conversion to chronic Q fever in the mother and prevented adverse pregnancy events
+in subsequent pregnancies (75). Doxycycline is classified as a category D drug because
+of demonstrated concerns about the effects of tetracyclines on the bone structure and
+dentitia
+ of
+ the
+ developing
+ fetus
+ (see
+ drug
+ categories
+ for
+ pregnancy
+ at
+http://chemm.nlm.nih.gov/pregnancycategories.htm).
+ An
+ effective
+ alternative,
+trimethoprim/sulfamethoxazole, has been used as a treatment in pregnant women who
+received  an  acute  Q  fever  diagnosis,  although  the  drug  is  classified  as  a  category  C
+drug. The use of trimethoprim/sulfamethoxazole during pregnancy might increase the
+risk  for  congenital  abnormalities  (primarily  including  urinary  tract  and  cardiovascular
+abnormalities) because of antifolate effects (148), and concomitant use of folic acid is
+recommended.
+ Research
+ to
+ assess
+ the
+ potential
+ fetal
+ risk
+ from
+trimethoprim/sulfamethoxazole during pregnancy has been inconclusive (149). Because
+pregnant women with acute Q fever are considered to be at high risk for chronic Q fever
+infection or recrudescent infections activated during subsequent pregnancies, patients
+should be monitored after delivery for postpartum progression to chronic disease and
+during subsequent pregnancies. Although rare, the development of Q fever endocarditis
+in  a  pregnant  woman  presents  a  difficult  clinical  dilemma  because  the  safety  of  the
+treatment  of  choice  (doxycycline  and  hydroxychloroquine)  has  not  been  evaluated
+during pregnancy. Health-care providers who are treating chronic Q fever endocarditis
+during pregnancy should consult with an expert in infectious diseases. Women who are
+treated  for  acute  Q  fever  during  pregnancy  should  be  monitored  similarly  to  other
+patients at high risk for progression to chronic disease (e.g., serologic monitoring at 3,
+6, 12, 18, and 24 months after delivery). Women should be advised of potential risks to
+the fetus should they become pregnant during the monitoring or treatment period. In
+one  study,  seven  women  treated  for  chronic  Q  fever  with  doxycycline  and
+hydroxychloroquine  for  at  least  1  year  had  normal  subsequent  pregnancies  with  no
+recurrent  miscarriages  (81).  Q  fever  serologic  testing  should  be  resumed  for  women
+previously  treated  during  pregnancy  who  become  pregnant  again  during  this  2-year
+period;  reinitiation  of  long-term  trimethoprim/sulfamethoxazole  is  indicated  when  IgG
+titers demonstrate a fourfold rise indicating a recrudescent infection, even if other signs
+or  a  definite  nidus  of  infection  cannot  be  identified.  In  these  women,  the  nidus  of
+infection is assumed to be the reproductive system, and the only clinical sign might be
+an  adverse  pregnancy  event  in  a  subsequent  pregnancy.  Doxycycline  is  the  drug  of
+choice for treatment of acute Q fever in children and is recommended for patients aged
+≥8  years  and  for  severe  infections  in  children  of  any  age.  The  pediatric  doxycycline
+dose for treatment of acute Q fever is 2.2 mg/kg twice per day for 2 weeks (maximum
+100 mg per dose). The clinical benefit of using doxycycline to treat Q fever in children
+aged <8 years who meet the criteria for being considered high risk is greater than the
+potential risk for dental staining. Children aged <8 years who are considered high risk
+and  should  therefore  receive  the  full  2-week  treatment  with  doxycycline  include
+children  who  are  hospitalized  or  have  severe  illness,  children  with  preexisting  heart
+valvulopathy, children who are immunocompromised, or children with delayed Q fever
+diagnosis who have experienced illness for >2 weeks without resolution of symptoms.
+Although  short  courses  (≤5  days)  of  doxycycline  for  the  treatment  of  rickettsial
+infections such as Rocky Mountain spotted fever have not resulted in significant dental
+staining in children, the possible long-term dental effects of 2 weeks of doxycycline in
+children  aged  <8  years  have  not  been  well  studied  (150).  Because  acute  Q  fever  is
+frequently a mild or self-limiting illness with a low risk for death or a poor prognosis,
+health-care providers should use their clinical judgment to determine whether a 2-week
+course of doxycycline treatment should be used to treat Q fever infections in children
+aged  <8  years  who  have  a  mild  or  uncomplicated  illness.  For  these  patients,
+health-care  providers  might  consider  a  5-day  course  of  doxycycline,  which  does  not
+cause dental staining. Children with continued mild symptoms after a short course of
+doxycycline  can  be  treated  with  14  days  of  trimethoprim/sulfamethoxazole.  Limited
+data are available on treatment of chronic Q fever in children; therefore, consultation
+with an expert in pediatric infectious diseases is recommended. The safety of long-term
+hydroxychloroquine treatment in children has not been determined, and evaluation for
+retinal  toxicity  might  be  limited  because  of  difficulties  in  evaluation  of  color  vision.
+Alternative  long-term  treatments  that  might  be  considered  in  children  with  chronic  Q
+fever include use of a fluoroquinolone (e.g., moxifloxacin or levofloxacin) with rifampin
+or trimethoprim/sulfamethoxazole with doxycycline. Certain occupations are associated
+with increased risk for exposure to C. burnetii, as might their associated institutions and
+businesses.  Multiple  Q  fever  outbreaks  have  been  reported  among  workers  in
+slaughterhouses, farms, animal research facilities, military units, and, rarely, hospitals
+and diagnostic laboratories (12,151–156). Employees in high-risk occupations should be
+educated  about  the  risk  for  exposure  and  the  clinical  presentation  of  Q  fever.
+Educational  efforts  should  describe  groups  vulnerable  to  development  of  chronic  Q
+fever, such as workers who have preexisting valvulopathy, a prosthetic heart valve, a
+vascular  prosthesis,  an  aneurysm,  are  pregnant  or  might  become  pregnant,  or  are
+immunosuppressed, because these employees have a higher risk for a severe outcome
+or death if infected. Although protection for at-risk workers can be provided by Q fever
+vaccination, a licensed vaccine for humans is only commercially available in Australia
+(157).  Therefore,  most  workers  in  high-risk  occupations  in  the  United  States  are  not
+vaccinated.  Transmission  of  C.  burnetii  to  health-care  personnel  has  been  rarely
+reported (158,159). One obstetrician was infected through contact with the birth fluids
+of an  infected  parturient woman  (48).  Hospital  personnel  have become infected  after
+autopsies of patients with Q fever, although the infection control precautions used, if
+any,  are  unknown  (49,160).   Adherence  to  standard  precautions  is  recommended  to
+prevent  Q  fever  infection  in  health-care  personnel  during  routine  care  (161).  During
+autopsies of patients who have died of Q fever, health-care personnel should use either
+a  BSL-3  facility  or  use  the  barrier  precautions  of  BSL-2  and  the  negative  airflow  and
+respiratory precautions of BSL-3 as recommended by the CDC Guidelines for Safe Work
+Practices  in  Human  and  Animal  Medical  Diagnostic  Laboratories  (162).  During
+procedures  that  put  health-care  personnel  at  risk  for  infection  from  splashing  of
+infected  material,  such  the  delivery  of  an  infant  from  an  infected  woman,  standard
+precautions including the use of a face mask and eye protection or a face shield are
+recommended.  Care  should  be  used  when  handling  soiled  laundry  (e.g.,  bedding,
+towels, and personal clothing) of Q fever patients. Soiled laundry should not be shaken
+or  otherwise  handled  in  a  way  that  might  aerosolize  infectious  particles.  During  any
+procedure  that  might  generate  aerosols  of  infectious  materials  (e.g.,  a  procedure
+involving  use  of  a  surgical  power  instrument  such  as  an  oscillating  bone  saw)  in  a
+patient with suspected or confirmed Q fever, health-care personnel should also take the
+following  precautions:  1.Use  a  fit-tested  N-95  (or  comparable)  respirator  and  eye
+protection (e.g., goggles or face shield). 2.Contain and dispose of contaminated waste
+(e.g.,  dressings  or  birth  products)  in  accordance  with  facility-specific  guidelines  for
+infectious waste. 3.Place the patient in an airborne infection isolation room or a private
+room if one is not available during the procedure. The patient does not need to wear a
+face mask, because Q fever is not transmitted by sneezing or coughing. 4.Handle used
+patient-care  equipment  in  a  way  that  prevents  contamination  of  skin  and  clothing.
+Ensure  that  used  equipment  has  been  cleaned  and  reprocessed  appropriately.
+5.Ensure  that  procedures  are  in  place  for  cleaning  and  disinfecting  environmental
+surfaces  in  the  patient  care  environment  (see  #5  in  the  Research  Facility  Safety
+Standards section that follows for chemical disinfectant recommendations). Precautions
+used  in  addition  to  standard  precautions  are  only  recommended  during  an
+aerosol-generating  procedure.  Procedures  that  do  not  generate  aerosols,  such  as
+drawing blood or giving physical examinations, do not pose a risk for transmission of Q
+fever.  Transmission  through  coughing  or  sneezing  is  not  a  documented  route  of
+infection,  and  there  is  no  evidence  that  Q  fever  is  transmitted  by  any  type  of  casual
+contact  (e.g.,  hugging,  shaking  hands,  kissing,  or  sharing  food).  Laboratory
+transmission of C. burnetii is primarily a concern when bacteria are propagated using
+specialized  techniques  (i.e.,  tissue  culture),  during  lapses  in  standard  precautions
+leading  to  specimen  aerosolization,  and  through  protocols  involving  passage  through
+animals.  Handling  of  usual  biomedical  specimens,  including  routine  blood  culture
+testing,  from  humans  or  animals  collected  in  medical  or  veterinary  settings  is  not
+considered  an  exposure  risk  for  Q  fever  and  can  be  processed  by  routine  standard
+precautions
+ and
+ handling
+ techniques.
+ Laboratory
+ safety
+ and
+ containment
+recommendations for C. burnetii should be followed as described in the CDC Biosafety
+in  Microbiological  and  Biomedical  Laboratories  manual  (163).  Samples  known  or
+suspected  to  contain  viable  C.  burnetii  (i.e.,  birth  products  or  other  biologic  material
+from infected animals or humans) should be handled in a BSL-3 facility and rendered
+nonviable  or  destroyed.  Appropriate  personal  protective  equipment  (PPE)  can  be
+effective at reducing the risk for exposure in handling these types of specimens. In the
+BSL-3 laboratory, attire worn while working with viable C. burnetii should be sterilized
+after  use.  Protective  eyewear  such  as  splatter-proof  safety  goggles  or  face  shields,
+disposable gloves, and shoe covers also should be worn, and showering after working
+with C. burnetii under BSL-3 conditions is recommended. In laboratories that work with
+viable  C.  burnetii  organisms  in  culture  media  or  live  animals,  unvaccinated  workers
+should wear respiratory protection such as an N95 respirator. An N95 respirator filters
+at  least  95%  of  airborne  particles  when  used  correctly  but  might  not  completely
+eliminate infection risk. A powered air purifying respirator with P100 filtration also can
+be  used  in  research  laboratories  that  experiment  with  C.  burnetii,  particularly  by
+employees  unable  to  wear  an  N95  respirator.  Whether  this  higher  level  of  protection
+further  reduces  transmission  of  C.  burnetii  is  unknown.  If  respirators  are  used,
+compliance  with  the  Occupational  Safety  and  Health  Administration  Respiratory
+Protection  Standard  is  required  (164).  Compliance  includes  but  is  not  limited  to
+establishment of a written respiratory protection program, a medical evaluation, annual
+fit testing, and training in proper use and maintenance (164). Biomedical facilities that
+house sheep and goats but do not directly experiment with C. burnetii are the mostly
+common settings for occupationally related outbreaks of Q fever in the United States
+(156,165–167), and these outbreaks have primarily been associated with exposure to
+pregnant ewes. Cases have occurred not only among persons who worked directly with
+animals  but  also  among  administrative  staff,  janitorial  staff,  and  family  members  of
+workers  infected  through  fomite  transmission  from  contaminated  clothing.  The
+following  general  recommendations  should  reduce  the  risk  for  infection  and  focus  on
+facilities  that  house  animals  at  high  risk  for  C.  burnetii,  such  as  pregnant,  small
+ruminants.  Specific  safety  standards  vary  by  the  size,  purpose,  and  location  of  each
+facility.  1.A  Q  fever  medical  surveillance  program  should  be  established.  Workers
+should  receive  a  preemployment  medical  screening  to  document  any  risk  factors  for
+chronic illness if infected, and education for Q fever exposure risks and symptoms of
+illness should be provided. A baseline serum sample should be drawn within 30 days of
+beginning work and tested for evidence of previous exposure to C. burnetii infection.
+Sera should then be tested for IgG antibodies against phase I and phase II C. burnetii
+annually  to  determine  whether  seroconversion  has  occurred  and  whenever  an
+employee develops symptoms consistent with Q fever. Facilities should store a baseline
+or  previously  drawn  serum  specimen  for  comparison  testing  of  paired  samples  when
+evaluating workers. Seroconversion or a greater than fourfold increase in titer indicates
+infection  with  C.  burnetii.  Workers  with  documented  seroconversion  should  be
+questioned to determine whether a clinically compatible illness occurred in the previous
+year and was treated with an appropriate regimen. Seroconversion of employees should
+trigger  a  review  of  exposure  risk  in  the  work  environment  and  standard  operating
+procedures.  Workers  who  develop  symptoms  of  Q  fever  should  immediately  be
+evaluated by a health-care provider and tested. 2.Appropriate changing, washing, and
+showering  facilities  should  be  available  to  workers.  Employees  should  shower  and
+change  before  leaving  work,  and  work  clothes  should  be  laundered  on  site.  Work
+footwear should not be worn outside of the facility. Employees should thoroughly wash
+their hands after any type of animal contact. 3.Access to the facility should be limited
+to  necessary  personnel  who  are  informed  of  the  Q  fever  risk.  4.Gloves,  protective
+clothing, and respiratory protection (typically an N95 respirator) should be worn when
+the probability of exposure is high (e.g., when assisting with birth or removing retained
+placentas from infected livestock). Protective clothing might consist of laboratory coats,
+smock,  aprons,  or  coveralls.  They  should  be  changed  daily  and  should  not  be  worn
+outside  of  the  work  environment.  Staff  should  use  respiratory  protection  during
+high-risk activities such as changing or cleaning air filters or during any dust-generating
+tasks.  A  face  shield  or  splatter-proof  goggles  in  conjunction  with  an  N95  respirator
+should  be  used  during  procedures  with  a  high  risk  for  droplet  contamination  (e.g.,
+assistance with birth). 5.Because of the extracellular sporelike form of C. burnetii, the
+bacteria are highly resistant to inactivation by chemical disinfectants, heat, pressure, or
+drying. Contaminated surfaces can be cleaned with MicroChem-Plus (a dual-quaternary
+ammonium/detergent  compound),  which  completely  inactivates  the  bacteria  using  a
+30-minute  contact  time.  Seventy-percent  ethanol  also  completely  deactivates  the
+organism, although rapid evaporation makes this a less feasible treatment (168). Use of
+humidified ethylene oxide gas or vapor phase hydrogen peroxide effectively sterilizes
+C.  burnetii  in  contaminated  rooms  that  can  be  isolated  and  sealed  (168).  Treatment
+with a 1:100 dilution of household bleach or a 1% Virkon S treatment produces >90%
+reduction in infectivity (169,170). All visible organic matter should be removed before
+cleaning, and proper PPE should be worn. 6.If available, facility air filtration should be
+used and negative air pressure should be maintained in all animal holding areas with
+respect to areas not designated as part of the Q fever biohazard area. Consultation with
+a ventilation engineer experienced with infection control practices in animal facilities is
+recommended.  7.Determining  whether  an  animal  or  a  flock  is  free  of  Q  fever  is
+difficult.  A  positive  antibody  titer  in  infected  animals  does  not  correlate  with  active
+shedding  of  organisms  because  some  seronegative  animals  also  might  actively  shed
+bacteria.  Although  body  secretions  (vaginal  mucus,  feces,  or  milk)  can  be  tested  by
+PCR,  bacterial  shedding  is  intermittent.  Therefore,  even  frequent  serologic  and  PCR
+testing and intensive surveillance of animals cannot completely ensure that an animal
+is  not  infected  and  shedding  the  bacteria.  However,  an  ongoing  animal  surveillance
+program that isolates and quarantines animals until they have two negative serologic
+tests  might  reduce  the  likelihood  of  infection  and  reveal  infected  source  herds  that
+should not be purchased by the facility. 8.No animals (regardless of whether infection
+is suspected) should be transported through areas not designated as part of the Q fever
+biohazard  area.  9.Use  male  and  nonpregnant  female  animals  for  research  when
+possible.  10.Birth  products  and  all  other  organic  materials  should  be  removed  and
+disposed of immediately via incineration, composting, or burial in a designated sanitary
+landfill.  Appropriate  PPE  should  be  used  during  removal  and  disposal,  and  training  in
+safe handling and disposal of animal products (e.g., birth products, urine, feces, or milk)
+should be provided. Facilities should consult with state or local environmental agencies
+regarding  regulations  on  manure  management  and  carcass  disposal  because  the
+regulations  vary  by  state.  11.Workers  should  participate  in  an  initial  and  periodic
+training  program  for  the  recommendations.  Standard  operating  procedures  should  be
+developed  for  all  safety  and  containment  practices  recommended.  No  recent  data
+support the use of postexposure prophylaxis outside of an experimental setting and the
+use  of  prophylactic  antimicrobial  agents  are  not  routinely  recommended  for  workers
+after a known or potential exposure and before symptom onset. A 1956 U.S. military
+study of five men who received tetracycline prophylaxis 8–12 days after a C. burnetii
+challenge dose exposure resulted in asymptomatic infection; five men equally exposed
+and administered tetracycline prophylaxis 1 day after exposure had delayed symptom
+onset  (130).  One  report  theorized  that  providing  postexposure  prophylaxis  after  a
+bioterrorism release of C. burnetii would be useful if the timing of exposure were known
+(171).  However,  the  recommendation  was  based  on  the  limited  data  provided  by  the
+1956 study. Prophylaxis prevented symptomatic illness in this study but did not prevent
+infection.  In  persons  at  high  risk,  the  risk  for  chronic  Q  fever  development  is  still
+present regardless of whether symptomatic or asymptomatic infection occurs. Because
+of  the  limited  treatment  duration  in  the  1956  study,  the  lack  of  additional  studies
+verifying its findings, and use of oxytetracycline instead of doxycycline, the benefit of
+prophylactic  antimicrobial  agents  is  questionable  and  therefore  not  recommended.  A
+daily fever monitoring log should be kept for a minimum of 3 weeks after exposure to C.
+burnetii. The incubation period for Q fever is dose dependent. The majority of infected
+persons have symptom onset 2–3 weeks after exposure, although onset can occur up to
+6  weeks  after  exposure.  If  fever  occurs  during  the  monitoring  period,  immediate
+treatment with doxycycline should be administered and testing should be performed.
+Treatment  within  24  hours  of  fever  onset  is  extremely  effective  in  shortening  illness
+duration and symptom severity (16,130). Baseline serologic testing can be performed
+to evaluate previous infection status with a convalescent sample drawn 6 weeks later to
+determine
+ whether
+ asymptomatic
+ seroconversion
+ has
+ occurred.
+ Although
+asymptomatic  infections  do  not  routinely  require  treatment,  even  asymptomatic
+infection  carries  a  risk  for  progression  to  chronic  disease  in  groups  at  high  risk;
+therefore, treatment for asymptomatic infection might be considered in these groups.
+Determination  of  infection  status  might  provide  useful  data  to  guide  future  health
+management. Q fever is a nationally notifiable disease in the United States. Health-care
+providers should report suspected or confirmed cases through local or state reporting
+mechanisms  in  place  for  notifiable  disease  conditions.  Many  state  laboratories  have
+systems  in  place  that  automatically  report  specific  diseases,  although  this  varies  by
+state.  The  most  recent  human  case  definition,  revised  in  2009,  provides  separate
+reporting categories for acute and chronic Q fever (Table 3). The CDC case definition is
+used for national reporting as a public health surveillance tool and is not intended for
+clinical diagnosis. A medical diagnosis is made to treat a patient and should consider all
+aspects  of  the  illness.  Surveillance  case  definitions  are  used  for  standardization,  not
+patient care. National surveillance for Q fever in the United States relies on accurate
+and  timely  reporting  of  cases  by  health-care  providers.  When  health-care  providers
+identify a potential case of acute or chronic Q fever, they should notify the local or state
+health  department,  which  can  assist  with  obtaining  appropriate  diagnostic  testing.
+Epidemiologic  and  clinical  patient  information  is  reported  through  state  health
+departments to CDC on a standard, confidential case report form (Appendix D). When
+reporting cases of Q fever, clinical signs and symptoms should be included as well as
+laboratory  results.  CDC  compiles  reports  of  Q  fever  from  state  health  departments
+including  diagnosis,  date  of  onset,  and  basic  demographic  and  geographic  data,  and
+reports the summary data. Although Q fever is a zoonotic disease, infection in animals
+is not considered reportable to national agricultural authorities. However, many states
+consider  the  disease  reportable  when  it  is  diagnosed  in  animals.  Veterinary  health
+authorities  should  follow  state-specific  reporting  guidelines.  Joanna  Regan,  Naomi
+Drexler,  and  Randy  Nett,  CDC.  Nicola  Marsden-Haug,  Washington  Department  of
+Health. Dutch Consensus Group Q Fever: Chantal Bleeker, MD, PhD, Corine Delsing MD,
+PhD,  Alphons  Horrevorts  MD,  PhD,  Linda  Kampschreur,  Marion  Koopmans,  PhD,  Peter
+Lestrade,  MD,  PhD,  Jan  Marcelis  MD,  PhD,  Marrigje  Nabuurs-Franssen  MD,  PhD,  Daan
+Notermans,  MD,  PhD,  Jan  Jelrik  Oosterheert  MD,  PhD,  Nicole  Renders,  MD  PhD,  Peter
+Schneeberger  MD,  PhD,  Wim  van  der  Hoek,  Pepijn  van  der  Voort,  MD,  PhD,  Marjolijn
+Wegdam,  MD,  and  Peter  Wever,  MD,  PhD.  TABLE  1.   Percentage  of  acute  Q  fever
+patients with selected clinical and laboratory findings Clinical or laboratory finding % of
+patients  Clinical  Fever 88–100 Fatigue 97–100 Chills 68–88 Headache 68–98 Myalgia
+47–69  Sweats  31–98  Cough  24–90  Nausea  22–49  Vomiting  13–42  Chest  pain  10–45
+Diarrhea  5–22  Skin  rash  5–21  Myocarditis  0.5–1  Pericarditis  1  Meningoencephalitis  1
+Death  1–2  Laboratory  Normal  leukocyte  count  90  Thrombocytopenia  25  Increased
+transaminase  levels*  45–85  Increased  bilirubin  levels  9–14.3  Increased  alkaline
+phosphatase  levels  27.7–57  Increased  γ-glutamyl  transferase  levels  25–75  Increased
+creatine  phosphokinase  levels  29  Increased  lactate-dehydrogenase  levels  33.3–40
+Increased  creatinine  levels  29–40  Elevated  erythrocyte  sedimentation  rate  43–87.5
+Smooth  muscle  antibodies  65  Antiphospholipase  antibodies  50  Source:  Modified  from
+Maurin M, Raoult D. Q fever. Clin Microbiol Rev 1999;12:518. *Alanine transaminase
+and  aspartate  transaminase.  TABLE  2.  Recommended  antibiotics  and  dosages*  for
+treatment  of  acute  and  chronic  Q  fever  Indication  Adults  Children¶  Pregnant  women
+Acute Q fever† Doxycycline§ 100 mg twice a day for 14 days ≥8 years: Doxycycline: 2.2
+mg/kg  per  dose  twice  a  day  for  14  days  (maximum  100  mg  per  dose)
+Trimethoprim/sulfamethoxazole: 160 mg/800 mg twice a day throughout pregnancy††
+<8 years with high risk criteria**: Doxycycline: 2.2 mg/kg per dose twice a day for 14
+days  (maximum:  100  mg  per  dose)  <8  years  with  mild  or  uncomplicated  illness:
+Doxycycline 2.2 mg/kg per dose twice a day for 5 days (maximum 100 mg per dose). If
+patient remains febrile past 5 days of treatment: trimethoprim/sulfamethoxazole 4–20
+mg/kg  twice  a  day  for  14  days  (maximum:  800  mg  per  dose)   Chronic  Q  fever
+Endocarditis  or  vascular  infection  Doxycycline§§  100  mg  twice  a  day  and
+hydroxychloroquine¶¶  200  mg  three  times  a  day  ≥18  months  Recommend
+consultation***  Recommend  consultation†††  Noncardiac  organ  disease§§§  Doxycycline
+100  mg  twice  a  day  and  hydroxychloroquine  200  mg  three  times  a  day  Recommend
+consultation***  Recommend  consultation†††  Postpartum¶¶¶  with  serologic  profile  for
+chronic Q fever Doxycycline 100 mg twice a day and hydroxychloroquine 200 mg three
+times  a  day  for  12  months   —  —  Post-Q  fever  fatigue  syndrome****  No  current
+recommendations  No  current  recommendations  No  current  recommendations  *All
+drug  dosages  are  oral  regimens.   †Prophylactic  treatment  after  a  potential  Q  fever
+exposure  is  not  recommended;  treatment  is  not  recommended  for  asymptomatic
+infections or after symptoms have resolved, although it might be considered in persons
+at high risk for development of chronic Q fever. §Patients may take doxycycline with
+food to avoid stomach upset but should have no dairy products within 2 hours (before
+or  after)  of  taking  medication.  Doxycycline  should  not  be  taken  with  antacids  or
+bismuth-containing  products,  and  patients  should  avoid  taking  it  immediately  before
+going to bed or lying down. Doxycycline might cause photosensitivity and can decrease
+the  efficacy  of  hormonal  contraceptives.  ¶Doxycycline  is  the  drug  of  choice  for
+treatment of Q fever in adults and patients of any age with severe illness. Short courses
+(≤5  days)  for  treatment  of  rickettsial  infections  have  not  been  shown  to  result  in
+significant  dental  staining  in  children;  however,  whether  a  2-week  course  will  cause
+permanent tooth discoloration in children is unknown. Health-care providers should use
+their clinical judgment to determine appropriate therapy in children aged <8 years and
+may  consider  treatment  with  trimethoprim/sulfamethoxazole  or  a  shorter  duration  of
+doxycycline  (5  days)  in  children  with  a  mild  or  uncomplicated  illness.   **Children
+aged  <8  years  who  are  considered  high  risk  and  should  therefore  receive  the  full
+14-day treatment with doxycycline include children who are hospitalized or have severe
+illness,
+ children
+ with
+ preexisting
+ heart
+ valvulopathy,
+ children
+ who
+ are
+immunocompromised, or children with delayed Q fever diagnosis who have experienced
+illness for >14 days without resolution of symptoms. ††Limited data are available on
+treatment  of  Q  fever  during  pregnancy.  Consultation  with  an  expert  in  infectious
+diseases is recommended.  §§Target serum levels for optimal efficacy during chronic
+Q  fever  treatment  is  ≥5  µg/mL.  ¶¶Take  with  food  or  milk.  Should  not  be  used  by
+persons  with  glucose-6-phosphate  dehydrogenase  deficiency.  Monitor  for  retinal
+toxicity.  Target  serum  levels  for  optimal  efficacy  is  1.0+0.2  µg/mL.  The  safety  of
+long-term  treatment  in  children  has  not  been  evaluated.  ***Limited  data  are
+available  on  treatment  of  chronic  Q  fever  in  children.  Consultation  with  an  expert  in
+pediatric infectious diseases is recommended. †††The safety of long-term doxycycline
+or  hydroxychloroquine  treatment  in  pregnant  women  and  fetal  risk  has  not  been
+evaluated.  Consultation  with  an  expert  in  infectious  diseases  and  obstetrics  is
+recommended.   §§§Limited  reports  of  treatment  for  chronic  Q  fever  unrelated  to
+endocarditis  or  vascular  infection  (e.g.,  osteoarticular  infections  or  chronic  hepatitis);
+duration of treatment is dependent on serologic response. Consultation with expert in
+infectious diseases is recommended. ¶¶¶Women should only be treated postpartum
+if serologic titers remain elevated >12 months after delivery (immunoglobulin G phase I
+titer ≥1:1024). Women treated during pregnancy for acute Q fever should be monitored
+similarly to other patients who are at high risk for progression to chronic disease (e.g.,
+serologic  monitoring  at  3,  6,  12,  18,  and  24  months  after  delivery).  ****Reports  of
+treatment  studies  are  rare.  Although  limited  success  has  occurred  with  long-term  or
+pulsed  tetracycline-class  antibiotics,  evidence  to  guide  patient  management  is  weak.
+TABLE 3. CDC surveillance case definition and case classification for acute and chronic
+Q fever Acute Q fever Chronic Q fever Clinical evidence of infection Fever and one or
+more of the following: rigors, severe retrobulbar headache, acute hepatitis, pneumonia,
+or elevated liver enzymes Newly recognized culture-negative endocarditis (particularly
+in  a  patient  with  previous  valvulopathy  or  compromised  immune  system),  suspected
+infection  of  a  vascular  aneurysm  or  vascular  prosthesis,  or  chronic  hepatitis,
+osteomyelitis,  osteoarthritis,  or  pneumonitis  in  the  absence  of  other  known  etiology
+Laboratory criteria*,† Laboratory confirmed (one or more of the following): Laboratory
+confirmed  (one  or  more  of  the  following):  •  Fourfold  change  in  IgG  antibody  titer  to
+Coxiella burnetii phase II antigen by IFA between paired sera • IgG titer ≥1:800§ to C.
+burnetii phase I antigen by IFA  • Detection of C. burnetii DNA in a clinical specimen  by
+PCR • Detection of C. burnetii DNA in a clinical specimen  by PCR • Demonstration of C.
+burnetii  in  a  clinical  specimen  by  IHC  •  Demonstration  of  C.  burnetii  in  a  clinical
+specimen by IHC • Isolation of C. burnetii from a clinical specimen by culture • Isolation
+of C. burnetii from a clinical specimen by culture Laboratory supportive (one or more of
+the following): Laboratory supportive: • Single IgG titer ≥1:128 to C. burnetii phase II
+antigen by IFA (phase I titers may be elevated as well) or • IFA IgG titer ≥1:128 and
+<1:800§ to C. burnetii phase I antigen • Elevated phase II IgG or IgM antibody reactive
+with C. burnetii antigen by ELISA, dot-ELISA, or latex agglutination Case classification
+Confirmed  acute  Q  fever:   Confirmed  chronic  Q  fever:  Laboratory-confirmation  with
+clinical evidence of infection  or an epidemiological link to a laboratory-confirmed case
+Clinical  evidence  of  infection  with  laboratory  confirmation  Probable  acute  Q  fever:
+Probable  chronic  Q  fever:  Clinical  evidence  of  infection  with  laboratory-supportive
+results  Clinical  evidence  of  infection  with  laboratory-supportive  results  Abbreviations:
+ELISA  =  enzyme-linked  immunosorbent  assay;  IFA  =  indirect  immunofluorescence
+antibody  assay;  IgG  =  immunoglobulin  G;  IgM  =  immunoglobulin  M;  IHC  =
+immunohistochemistry; PCR = polymerase chain reaction. *CDC prefers simultaneous
+testing  of  paired  samples.  IgM  tests  are  not  strongly  supportive  of  serodiagnosis
+because  the  response  might  be  persistent  (making  it  unreliable  as  an  indicator  of
+recent  infection)  or  nonspecific  (resulting  in  false  positives).  ELISA  tests  are  not
+quantitative and cannot be used to measure changes in antibody titer; thus, they can
+only be used for classification of probable cases. Performing laboratories determine the
+appropriate  cutoff  titers  for  ELISA.  Serologic  test  results  should  be  interpreted  with
+caution  because  baseline  antibodies  acquired  as  a  result  of  previous  exposure  to  Q
+fever might exist, especially in patients with rural or farming backgrounds. †Patients
+with suspected chronic Q fever should be evaluated for titers both to phase I and phase
+II antigens. Serologic test results should be interpreted with caution because baseline
+antibodies acquired as a result of previous exposure to Q fever might exist, especially
+in patients with rural or farming backgrounds. §U.S. laboratories use a twofold dilution
+scheme that does not result in a titer equaling 800; in this document, a titer of 1024 is
+used  as  the  replacement.  TABLE  4.  Types  of  Q  fever  diagnostic  testing  analyses,  by
+phase  of  infection,  type  of  sample,  and  interval  since  onset  of  symptoms  Phase  of
+infection and type of sample  Interval since onset of symptoms Type of analysis Acute
+Whole blood Until day 14 (and before antibiotic therapy) PCR  Serum       Until day 21
+for IFA Until day 14 for PCR (and before antibiotic therapy) IFA for phase I and II IgG and
+IgM; PCR  Convalescent Serum  3–6 weeks after acute sample IFA for phase I and II IgG
+and IgM  Chronic Whole blood >6 weeks after acute illness PCR Serum >6 weeks after
+acute illness IFA for phase I and II IgG and IgM; PCR Heart valve and other tissues 6
+weeks to years  PCR, culture, IHC Abbreviations: IFA = immunofluorescent assay; IgG =
+immunoglobulin  G;  IgM  =  immunoglobulin  M;  IHC  =  immunohistochemistry;  PCR  =
+polymerase chain reaction. FIGURE. Q fever management algorithm* Abbreviations: CT
+=  computed  tomography;  IFA  =  immunofluorescent  assay;  IgG  =  immunoglobulin  G;
+IgM  =  immunoglobulin  M;  IHC  =  immunohistochemistry;  PCR  =  polymerase  chain
+reaction; PET = positron emission tomography. *This algorithm is intended for use as a
+general guide and does not replace the physician's clinical judgment. It is intended to
+provide a management strategy for patients under the care of a physician and is not
+intended  for  those  who  might  be  tested  for  Q  fever  as  part  of  an  occupational
+monitoring  program.  Women  infected  during  pregnancy  should  be  treated  and
+monitored  as  described  in  the  text  of  the  report.  Alternate  Text:  This  figure  shows  a
+flow chart describing the management of acute Q fever and chronic Q fever.
+                     Use of trade names and commercial sources is for identification only and
+does  not  imply  endorsement  by  the  U.S.  Department  of  Health  and  Human  Services.
+References to non-CDC sites on the Internet are provided as a service to MMWR readers
+and do not constitute or imply endorsement of these organizations or their programs by
+CDC or the U.S. Department of Health and Human Services. CDC is not responsible for
+the content of pages found at these sites. URL addresses listed in MMWR were current
+as  of  the  date  of  publication.  All  MMWR  HTML  versions  of  articles  are  electronic
+conversions  from  typeset  documents.  This  conversion  might  result  in  character
+translation  or  format  errors  in  the  HTML  version.  Users  are  referred  to  the  electronic
+PDF  version  (http://www.cdc.gov/mmwr)  and/or  the  original  MMWR  paper  copy  for
+printable versions of official text, figures, and tables. 
+An  original  paper  copy  of  this  issue  can  be  obtained  from  the  Superintendent  of
+Documents,  U.S.  Government  Printing  Office  (GPO),  Washington,  DC  20402-9371;
+telephone: (202) 512-1800. Contact GPO for current prices.
+**Questions  or  messages  regarding  errors  in  formatting  should  be  addressed  to
+mmwrq@cdc.gov. How do I view different file formats (PDF, DOC, PPT, MPEG) on this
+site? 
+Source URL: https://www.cdc.gov/mmwr/preview/mmwrhtml/rr6203a1.htm

@@ -1,0 +1,107 @@
+A .gov website belongs to an official government organization in the United States. A
+lock (  ) or https:// means you've safely connected to the .gov website. Share sensitive
+information only on official, secure websites. 
+Related Topics:
+ Use this document to: All cooling towers use the evaporation of water to remove heat
+and release it into the atmosphere. Cooling towers use circulating water to cool: Both
+open- and closed-circuit cooling towers: If Legionella is present, the aerosolized water
+can  spread  the  bacteria  over  miles.  Closed-circuit  cooling  towers  have  an  additional,
+closed  loop.  That  loop  can  keep  the  fluid  used  in  the  cooling  processes  from  being
+exposed  to  the  atmosphere.   Closed-circuit  cooling  towers  can  operate  in  cool
+temperatures  in  a  "dry"  mode  that  does  not  use  water  or  generate  aerosols.
+Understanding  cooling  tower  design  components  is  critical  for  Legionella  control.  Use
+drift  eliminators:  Use  high-efficiency  drift  eliminators.  Consider  placement:  Locate
+cooling  towers  at  least  25  feet  from  building  air  intakes.  This  will  help  prevent  the
+cooling  tower's  drift  plume  from  being  drawn  into  a  ventilation  system.  Avoid
+stagnation:  Ensure  system  piping  is  designed  to  avoid  stagnation  or  dead  legs.
+Recirculate water during intermittent operation. Automate disinfectant use: Design and
+install  an  automated  water  treatment  system.  Use  a  water  management  program  to
+establish,  track,  and  improve  operation  and  maintenance  activities.  The  necessary
+frequency of operation and maintenance activities depends on the  Clean and disinfect
+as directed: Follow manufacturer recommendations Perform an offline disinfection and
+cleaning  at  least  annually.  Monitor  water  parameters  on  a  regular  basis.  Base
+measurement  frequency  on  performance  of  the  water  management  program  or
+Legionella  performance  indicators  for  control.  Adjust  frequency  according  to  the
+stability  of  performance  indicator  values.  For  example,  increase  the  measurement
+frequency  if  there's  a  high  degree  of  measurement  variability.  Lower  water
+temperature: Operate cooling tower systems at the lowest possible water temperature.
+If  possible,  operate  below  the  most  favorable  Legionella  growth  range  (77–113°F,
+25–45°C).  Use  automation:  Automate  anti-corrosion,  anti-scale,  and  disinfectant
+addition  and  monitoring.  Avoid  stagnation:  Flush  low-flow  pipe  runs  and  dead  legs  at
+least  weekly.  Balance  operating  times  among  cooling  towers  when  multiple  cooling
+towers or cells exist. Implement automated blowdown (intentional discharge of system
+water and replacement with supply water) to maintain system water quality. Consider
+filtration to reduce the level of suspended solids in the cooling water. Base the decision
+on system factors like cooling tower location and particle load. Monitor for water service
+disruptions  and  develop  plans  to  respond  accordingly.  Maintain  paperwork:  Keep
+site-specific  log  sheets,  test  procedures,  service  reports,  and  test  results  on  site.
+Consider  testing  for  Legionella  in  accordance  with  the  routine  testing  module  of  this
+toolkit (linked below). Cleaning, disinfecting, and remediating cooling towers involves a
+hierarchy  of  protocols.  Determine  how  the  following  response  protocols  fit  into  the
+water management program.  The protocols are listed in order of increasing intensity
+from routine treatment to offline emergency disinfection: Consult ASHRAE Guideline 12
+for  instructions  for  each  response.  These  steps  may  require  customization  based  on
+system components, operating conditions, or other factors. If the public health authority
+having  jurisdiction  suspects  an  associated  outbreak  or  illness,  then  perform  offline
+emergency  cleaning  and  disinfection.  See  specific  guidance  below.  Note:  The  public
+health authority having jurisdiction determines whether there are associated illness(es)
+or an outbreak.  If an outbreak or illness is suspected, test in conjunction with public
+health  in  order  to:  Review  the  current  water  treatment  program  (e.g.,  cleanliness,
+maintenance, disinfectant program). Remove heat load from the cooling system. Shut
+off any associated fans. Disengage all automated chemical feed and control equipment.
+Shut  off  system  blowdown.  Keep  make-up  water  valves  open  and  operating.  Close
+building  air  intake  vents  near  the  cooling  tower,  especially  those  downwind,  until
+cleaning  procedure  is  complete.  Circulate  water  through  all  system  equipment,
+including any bypass or standby components. Add an oxidizing disinfectant. Achieve a
+disinfectant residual of at least 20 ppm as free available oxidant. Add an appropriate
+dispersant.  Apply  antifoam,  if  needed.  Apply  appropriate  corrosion  inhibitors.  Reduce
+the  cycles  of  concentration  (if  necessary)  to  achieve  and  maintain  a  pH  of  less  than:
+Maintain  a  free  available  oxidant  residual  of  10  ppm  for  at  least  24  hours.  Shorter
+contact  times  can  be  effective  at  higher  concentrations.  Drain  the  system  to  the
+sanitary sewer. Follow all applicable rules, regulations, and permits. Physically clean all
+accessible system equipment, including: Refill the system and circulate water through
+all  system  equipment,  including  bypass  or  standby  components.  Add  an  oxidizing
+disinfectant. Maintain a free available oxidant residual of at least 10 ppm for one hour.
+Drain  the  system  to  the  sanitary  sewer.  Follow  all  applicable  rules,  regulations,  and
+permits.  Refill  the  system.  Return  all  chemical  feed  and  control  equipment  to  normal
+operation. Described below are control measures and recommendations for each water
+parameter.  Control  measures:  Cleaning  frequency  and  scale  and  corrosion  inhibitors
+Recommendations: Cleaning frequency varies based on operational factors.
+ Remove from service, clean, and disinfect at least annually.
+ Monitor  scale  and  corrosion  inhibitor  levels  frequently  as  indicated  by  water  quality
+measurements.  Control  measures:  Control  limits  Recommendations:  Operate  at  the
+lowest  possible  water  temperature  outside  Legionella's  favorable  growth  range
+(77–113°F, 25–45°C). Control measures: Make-up water quality and turnover frequency
+Recommendations: Flush low-flow pipe runs and dead legs at least weekly. During wet
+system standby (water remains in system and shutdown for less than 5 days), maintain
+water treatment program. Circulate water 3 times a week through the open loop of a
+closed-circuit  cooling  tower  and  entire  open-circuit  cooling  system.   Ensure  system
+water quality is managed through automated system blow down.
+Use  potable  water  for  system  make-up  water  or  ensure  reclaimed  or  condensate
+sources
+ are
+ appropriately
+ managed.
+ Control
+ measures:
+ Control
+ limits
+Recommendations: pH: Maintain based on type of disinfectant used and manufacturer
+recommendations to prevent corrosion.
+ Oxidizing  disinfectants  (e.g.,  chlorine,  bromine):  Maintain  measurable  residuals
+throughout
+ each
+ day.
+ Consult
+ manufacturer
+ recommendations.
+ Non-oxidizing
+disinfectants:  Maintain  based  on  product  label  concentration  and  contact  time.  Form:
+Legionella environmental assessment Illustration: Cooling tower  Toolkit: Developing a
+water  management  program  to  reduce  Legionella  growth  and  spread  in  buildings
+Training: Preventing Legionnaires' disease: A training on Legionella water management
+programs ASHRAE Guideline 12 [Free read-only preview] Cooling Technology Institute
+Guideline 159(20) An effective water management program is the primary strategy to
+control  Legionella  growth  and  spread  to  prevent  Legionnaires'  disease.  Languages
+Language Assistance Languages  Language Assistance 
+Source URL: https://www.cdc.gov/control-legionella/php/toolkit/cooling-towers-module.html

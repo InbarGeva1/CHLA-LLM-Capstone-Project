@@ -1,0 +1,263 @@
+Official websites use .gov A .gov website belongs to an official government organization
+in  the  United  States.  Secure  .gov  websites  use  HTTPS  A  lock  (   )  or  https://  means
+you've  safely  connected  to  the  .gov  website.  Share  sensitive  information  only  on
+official,  secure  websites.  N95  filtering  facepiece  respirators  (commonly  called  N95
+respirators) include Surgical N95s, a type of respirator sometimes needed in healthcare
+settings.  Surgical  N95s  have  fluid  resistance,  flammability,  and  biocompatibility
+protections. In the United States, all N95 respirators used in occupational settings are
+approved by the National Institute for Occupational Safety and Health (NIOSH) and used
+in  accordance  with  Occupational  Safety  and  Health  Administration  (OSHA)  standards.
+Training on use and indications for use of N95 respirators
+It is important to train healthcare personnel (HCP) on indications for use and the proper
+use of N95 respirators. The OSHA Respiratory Protection standard requires employers
+to  provide  respirator  training  to  an  employee  prior  to  use  in  the  workplace.  For
+example,  HCP  should  be  educated  on  the  use  of  N95  respirators  when  caring  for
+patients  managed  with  airborne  precautions,  and  other  instances  for  respirator  use,
+such  as  when  indicated  for  the  performance  of  aerosol  generating  procedures.
+Understanding  proper  use  of  respirators,  including  donning  (putting  on)  and  doffing
+(taking off), limitations on their use, and maintenance, is essential for effective use of
+respiratory protection. HCP should be thoroughly trained before they are fit tested to
+ensure they are comfortable donning the respirator and know how to conduct a user
+seal check. HCP should be trained on the respirator they are expecting to use at work.
+Just-in-time fit testing
+Just-in-time  fit  testing  refers  to  the  capacity  of  healthcare  facilities  to  do  larger  scale
+evaluation, training, and fit testing of employees when necessary during a pandemic.
+Facilities may adopt a plan to use the “just-in-time” method for fit testing, which has
+been incorporated into pandemic plans for many facilities. For large facilities, it may not
+be feasible to fit test all employees, especially if their job does not typically place them
+at  risk  for  exposure  to  airborne  infectious  diseases  like  tuberculosis.  Healthcare
+facilities should begin training and start to plan for fit testing as soon as they expect to
+receive patients with a respiratory infectious disease requiring respiratory protection. It
+is  essential  to  train  and  fit  test  HCP  prior  to  receiving  patients.  This  just-in-time  fit
+testing approach could also be used when healthcare facilities must expedite fit testing
+after  receiving  different  respirators  than  their  usual  supply  because  of  shortages.
+Limiting respirators during training
+To conserve the supply of N95 respirators, healthcare facilities should understand which
+of  their  HCP  need  to  be  in  a  respiratory  protection  program  and  thus  medically
+evaluated, trained, and fit tested. If training and fit testing are conducted during two
+separate  steps,  it  is  possible  to  allow  one-time  re-use  of  N95  respirators  used  by
+individual HCP during training and then fit testing. Employees should be fit tested after
+they  are  comfortable  donning  the  respirator  and  have  performed  a  user  seal  check.
+Qualitative fit testing
+Preferential use of qualitative fit testing can preserve some respirators for further use in
+training. Respirator fit test methods are classified as either qualitative or quantitative,
+and there are multiple protocols of each classification that are NIOSH-recommended or
+meet the requirements of OSHA’s Respiratory Protection Standard. A qualitative fit test
+is  a  pass  or  fail  test  to  assess  the  adequacy  of  respirator  fit  that  relies  on  the
+individual’s  sensory  detection  of  a  test  agent.  A  quantitative  fit  test  numerically
+measures  the  effectiveness  of  the  respirator  to  seal  with  the  wearer’s  face,  without
+relying on the wearer’s voluntary or involuntary response to a test agent. Quantitative
+fit  tests  involve  adaptation  of  the  respirator  to  the  fit  testing  equipment,  which  can
+involve making holes in the respirator. Many healthcare systems already use qualitative
+fit  test  methods  for  fit  testing  HCP.  For  those  using  quantitative  fit  test  methods,
+consider  using  qualitative  fit  test  methods  to  minimize  the  destruction  of  an  N95
+respirator used in fit testing and allow for the re-use of the same N95 respirator by the
+HCP  for  training.  Qualitative  fit  methods  may  also  allow  for  rapid  fit  testing  of  larger
+numbers of HCP. Any switch in methods should be assessed to ensure proficiency of the
+fit testers in carrying out the test. Use of NIOSH Approved® respirator alternatives to
+N95 respirators
+Use NIOSH Approved alternatives to N95 respirators where feasible. These include other
+classes  of  filtering  facepiece  respirators,  elastomeric  half-mask  and  full  facepiece
+air-purifying  respirators,  and  powered  air  purifying  respirators  (PAPRs).  All  of  these
+alternatives  will  provide  equivalent  or  higher  protection  than  N95  respirators  when
+properly worn. NIOSH maintains a searchable, online version of the Certified Equipment
+List identifying all NIOSH Approved respirators. Filtering facepiece respirators
+Every  other  NIOSH  Approved  filtering  facepiece  respirator  is  at  least  as  protective  as
+the N95 respirator. These include N99®, N100®, P95®, P99, P100®, R95®, R99, and
+R100. These respirators require annual fit testing. Elastomeric respirators
+Half-mask and full-facepiece elastomeric respirators are tight-fitting respirators that are
+made  of  synthetic  or  rubber  material  permitting  them  to  be  repeatedly  disinfected,
+cleaned,  and  reused.  They  are  equipped  with  replaceable  filter  cartridges.  When
+equipped  with  a  particulate  filter  (N95,  N99,  N100,  P95,  P99,  P100,  R95,  R99,  and
+R100),  they  are  at  least  as  protective  as  anN95  respirator.  Elastomeric  respirators
+require  annual  fit  testing.  Elastomeric  respirators  with  unfiltered  exhalation  valves
+should  not  be  used  when  a  source  control  device  is  required.  The  NIOSH  Certified
+Equipment List identifies the elastomeric respirators without exhalation valves or with
+filtered  exhalation  valves  that  may  act  as  a  source  control  device.  Facilities  using
+elastomeric  respirators  should  have  up-to-date  cleaning  and  disinfection  procedures,
+which  are  an  essential  part  of  use  for  protection  against  infectious  agents.  Powered
+air-purifying respirators (PAPRs)
+PAPRs are reusable respirators that are typically loose-fitting hoods or helmets. These
+respirators are battery-powered with a blower that pulls air through attached filters or
+cartridges.  When  equipped  with  a  particulate  filter,  they  provide  a  higher  level  of
+protection than N95 respirators. Loose-fitting PAPRs do not require fit-testing and can
+be worn by people with facial hair. PAPRs should not be used in surgical settings due to
+concerns  that  the  blower  exhaust  and  exhaled  air  may  contaminate  the  sterile  field.
+Facilities  using  PAPRs  should  have  up-to-date  cleaning  and  disinfection  procedures,
+which  are  an  essential  part  of  use  for  protection  against  infectious  agents.  Prioritize
+respirators for HCP who use them for respiratory protection
+In  times  of  anticipated  shortages,  prioritize  N95  respirators  for  HCP  who  are
+recommended to wear them as respiratory protection when caring for patients. In this
+scenario,  respirators  should  not  be  used  by  HCP  who  are  only  using  them  for  source
+control. Temporarily suspend annual fit testing
+Facilities  can  consider  temporarily  suspending  annual  fit  testing  of  HCP  in  times  of
+expected  shortages;  this  may  require  enforcement  discretion  by  OSHA.  However,  an
+initial fit test with the same model, style, and size is still necessary. In addition, a seal
+check should be performed on each use as with any respirator use. Use of any NIOSH
+Approved N95 respirator
+In times of anticipated shortage, the FDA may issue an emergency use authorization to
+allow healthcare settings to use N95 respirators without the additional fluid resistance,
+flammability, and biocompatibility protections. If N95 respirators with these additional
+protections  (i.e.,  Surgical  N95s)  are  not  available,  and  there  is  a  risk  that  the  worker
+may be exposed to splashes, sprays, or splatters of blood or body fluids, then a face
+shield should be worn in addition to the N95 respirator. HCP who are working in a sterile
+field or who may be exposed to splashes, sprays, or splatters of blood or body fluids
+should  be  prioritized  to  use  Surgical  N95s.  Use  of  N95  respirators  beyond  the
+designated shelf life for training and fit testing
+In times of anticipated shortage, consider using N95 respirators beyond the designated
+shelf life. However, respirators beyond the designated shelf life might not perform to
+the  requirements  for  which  they  were  approved.  Because  of  this,  use  of  respirators
+beyond  the  designated  shelf  life  could  be  prioritized  for  situations  where  respiratory
+protection  is  not  recommended,  such  as  training,  fit  testing,  and  source  control.  It  is
+important to check that components such as the straps, nose bridge, and nose foam
+material did not degrade, which can affect the quality of the fit, and seal and therefore
+the effectiveness of the respirator. As respirators beyond the designated shelf life can
+still  serve  an  important  purpose,  healthcare  facilities  should  retain  and  reserve  all
+unused  N95  respirators  during  pandemics  or  epidemics.  Extended  use  of  N95
+respirators as respiratory protection
+During conventional use in patient care, a disposable respirator should be removed and
+discarded  between  patients.  However,  practices  allowing  extended  use  of  N95
+respirators  as  respiratory  protection,  when  acceptable,  can  also  be  considered  as  a
+contingency capacity strategy. Extended use refers to the practice of wearing the same
+N95  respirator  for  repeated  close  contact  encounters  with  several  different  patients,
+without  removing  the  respirator  between  patient  encounters.  Extended  use  is  well
+suited  to  situations  wherein  multiple  patients  with  the  same  infectious  disease
+diagnosis, whose care requires use of a respirator, are cohorted (e.g., housed on the
+same  hospital  unit).  Extended  use  can  also  be  considered  for  care  of  patients  with
+tuberculosis,  varicella,  measles,  and  other  infectious  diseases  where  use  of  a  NIOSH
+Approved particulate respirator is recommended. When practicing extended use of N95
+respirators  over  the  course  of  a  shift,  consider  1)  the  ability  of  the  N95  respirator  to
+retain its fit, 2) contamination concerns, 3) practical aspects (e.g., meal breaks), and 4)
+comfort  of  the  user.  N95  respirators  should  be  discarded  immediately  after  being
+removed. If removed for a meal break, the respirator should be discarded and a new
+respirator  put  on  after  the  break.  N95  respirators  should  be  discarded  when
+contaminated  with  blood,  respiratory  or  nasal  secretions,  or  other  bodily  fluids  from
+patients.  HCP  can  consider  using  a  face  shield  over  the  respirator  to  reduce
+contamination  of  the  respirator,  especially  during  aerosol  generating  procedures  or
+procedures  that  might  generate  splashes  and  sprays.  A  medical  mask  should  not  be
+placed over a respirator because it may compromise the fit of the respirator. For re-use
+of  N95  respirators  in  addition  to  extended  use,  please  see  the  re-use  section  under
+crisis capacity strategies below. Use of respirators beyond the designated shelf life for
+healthcare delivery
+Consider  using  NIOSH  Approved  N95  respirators  beyond  the  designated  shelf  life  for
+care of patients with diseases for which a respirator is recommended during their care
+(e.g., COVID-19, tuberculosis, measles, varicella). Many models found in U.S. stockpiles
+and stockpiles of healthcare facilities were found to continue to perform in accordance
+with  NIOSH  performance  standards.  However,  fluid  resistance  and  flammability  were
+not assessed. Decisions to implement this strategy would require authorization by the
+FDA  or  enforcement  discretion  by  OSHA.  It  is  optimal  to  use  these  respirators  in  the
+context of a respiratory protection program that includes medical evaluation, training,
+and fit testing. If used in healthcare delivery, it is important to check that components
+such  as  the  straps,  nose  bridge,  and  nose  foam  material  did  not  degrade,  which  can
+affect the quality of the fit, and seal and therefore the effectiveness of the respirator. It
+is also particularly important that HCP perform the seal check prior to entering a patient
+care area. CDC does not recommend using N95 respirators beyond the designated shelf
+life  in  surgical  settings.  Use  of  respirators  conforming  to  international  standards  with
+similar filtration efficiencies to NIOSH Approved respirators (International Respirators)
+In the United States, OSHA mandates that workplaces must use respirators approved by
+NIOSH to assure that these devices provide sufficient protection. Other countries have
+standards  for  respirators  with  similar  filtration  efficiencies  to  NIOSH  Approved
+respirators.  However,  some  evaluation  methods  are  different  such  as  approaches  to
+ensure  the  ongoing  quality  of  the  respirators.  To  better  ensure  that  international
+respirators  will  provide  the  protections  claimed,  purchasing  respirators  supplied  by
+entities  that  are  also  NIOSH  approval  holders  for  other  respirator  products  is
+recommended.  Therefore,  they  may  be  suitable  alternatives  to  provide  protection  in
+healthcare facilities during pandemics when supplies are short. Decisions to implement
+this  strategy  would  require  authorization  by  FDA  or  enforcement  discretion  by  OSHA.
+When purchasing international respirators supplied by entities that are NIOSH approval
+holders  for  other  respirator  products  is  not  possible,  verify  that  the  respirators  were
+tested  to  the  standards  by  a  third-party  accredited  test  laboratory  to  increase
+confidence  that  these  products  will  perform  as  indicated.  International  respirators
+supplied by entities that are not NIOSH approval holders should not be used when an
+N95 respirator is recommended to be worn. Limited re-use of N95 and other disposable
+respirators
+Re-use  refers  to  the  practice  of  using  the  same  disposable  respirator  by  one  HCP  for
+multiple  encounters  with  different  patients  but  removing  it  (doffing)  after  each
+encounter. This practice is often referred to as “limited reuse” because restrictions are
+in place to limit the number of times the same respirator is reused. For pathogens for
+which  contact  transmission  is  not  a  concern,  routine  limited  re-use  of  single-use
+disposable  respirators  has  been  practiced  for  decades.  For  example,  for  tuberculosis
+prevention, a respirator classified as disposable can be reused by the same provider as
+long as the respirator maintains its structural and functional integrity. If reuse must be
+implemented  in  times  of  shortages,  HCP  could  be  encouraged  to  reuse  their  N95
+respirators  when  caring  for  patients  with  tuberculosis  disease  first.  Limited  re-use  of
+N95  respirators  when  caring  for  patients  with  other  infections  where  respiratory
+protection is recommended might also become necessary. However, it is unknown what
+the  potential  contribution  of  contact  transmission  is  for  some  respiratory  pathogens,
+and  caution  should  be  used.  It  is  important  to  consult  with  the  respirator  approval
+holder  regarding  the  maximum  number  of  donnings  or  uses  they  recommend  for  the
+N95 respirator model. If no approval holder guidance is available, data suggest limiting
+the number of reuses to no more than five total uses (five total donnings) per device by
+the  same  HCP  to  ensure  an  adequate  respirator  performance.  An  example  of  this
+scenario  is:  an  HCP  wears  an  N95  respirator  to  care  for  a  patient,  removes  it  after
+exiting  the  room,  and  then  later  returns  to  care  for  the  patient  and  puts  the  same
+respirator  on  again.  This  would  count  as  two  uses  or  donnings.  HCP  should  always
+inspect the respirator and perform a seal check upon donning a re-used respirator. N95
+respirators  and  other  disposable  respirators  should  not  be  shared  by  multiple  HCP.
+During times of crisis, practicing limited re-use while also implementing extended use
+can be considered.
+If  limited  re-use  is  practiced  on  top  of  extended  use,  caution  should  be  used  to
+minimize  self-contamination  and  degradation  of  the  respirator.  If  no  manufacturer
+guidance  is  available,  a  reasonable  limitation  should  continue  to  be  five  total
+donnings regardless of the number of hours the respirator is worn. An example of this
+scenario is: An HCP wears a respirator during the first 3 hours of their shift, removes the
+respirator to eat lunch, and puts it back on after lunch. This would count as two uses or
+donnings. Some N95 respirators might be worn after more than five donnings, but the
+structural and functional integrity may be compromised. N95 respirators should not be
+re-used  when  caring  for  patients  with  varicella  or  other  pathogens  that  can  also  be
+transmitted  via  contact  routes,  as  contact  transmission  poses  a  risk  to  HCP  who
+implement  this  practice.  Respirators  soiled  or  grossly  contaminated  with  blood,
+respiratory or nasal secretions, or other bodily fluids from patients should be discarded.
+HCP can consider using a face shield or medical mask over the respirator to reduce and
+prevent  contamination  of  the  N95  respirator,  especially  during  aerosol  generating
+procedures or procedures anticipated to generate splashes and sprays. It is important
+to perform hand hygiene before and after the previously worn N95 respirator is donned
+or  adjusted.  Use  Enhanced  Performance  and  Enhanced  Performance  Plus  barrier  face
+coverings
+Enhanced Performance and Enhanced Performance Plus barrier face coverings (BFCs)
+are  disposable  or  reusable  BFCs  that  achieve  a  minimum  of  50%  filtration  efficiency
+against particulates. They are intended to cover the nose and mouth. These BFCs meet
+the  ASTM  F3502-21  consensus  standard  and  are  tested  by  a  laboratory.  The
+manufacturer must specify how to wear it properly to reduce gaps and, if reusable, the
+number of times you can wash the BFC. They are intended primarily for source control
+and  to  provide  a  degree  of  particulate  filtration  to  reduce  the  amount  of  inhaled
+particulate matter. However, they are not meant to replace respiratory protection, and
+they may not offer fluid resistance. Prioritize the use of N95 respirators by activity type
+Medical masks may need to be used when NIOSH Approved respirators and Enhanced
+Performance  and  Enhanced  Performance  Plus  BFCs  are  so  limited  that  it  is  no  longer
+possible to have HCP wear respiratory protection when entering the room or care area
+of  a  patient  for  whom  respirator  use  is  recommended  for  their  care.  The  use  of  N95
+respirators,  elastomeric  respirators,  or  PAPRs  should  be  prioritized  for  HCP  with  the
+highest  potential  for  exposures  including  being  present  in  the  room  during  aerosol
+generating procedures performed on persons with transmissible infectious diseases. If
+medical masks are used instead of an N95 respirator, this strategy should be combined
+whenever possible with other recommended actions to reduce the risk for transmission
+including  properly  maintained  ventilation  systems,  use  of  airborne  infection  isolation
+rooms,  source  control  (i.e.,  masking  of  individuals  who  may  be  contagious),  and
+maintaining  physical  distance  from  the  patient.  Expedient  patient  isolation  rooms  for
+exposure risk-reduction
+Portable  fan  devices  with  high-efficiency  particulate  air  (HEPA)  filtration  that  are
+carefully  placed  can  increase  the  effective  air  changes  per  hour  of  clean  air  to  the
+patient  room,  reducing  risk  to  individuals  entering  the  room  without  respiratory
+protection.  NIOSH  developed  guidance  for  using  portable  HEPA  filtration  systems  to
+create  expedient  patient  isolation  rooms.  The  expedient  patient  isolation  room
+approach  involves  establishing  a  high-ventilation-rate,  negative  pressure,  inner
+isolation zone that sits within a “clean” larger ventilated zone. In the absence of any
+remaining  supply  of  N95  respirators,  it  may  be  possible  to  use  this  technology  in
+conjunction with HCP wearing Enhanced Performance and Enhanced Performance Plus
+BFCs or well-fitting medical masks. Ventilated headboards for exposure risk-reduction
+NIOSH developed the ventilated headboard that draws exhaled air from a patient in bed
+into a HEPA filter, decreasing risk of HCP exposure to patient-generated aerosol. This
+technology  consists  of  lightweight,  sturdy,  and  adjustable  aluminum  framing  with  a
+retractable plastic canopy. The ventilated headboard can be deployed in combination
+with  HEPA  fan  and  filter  units  to  provide  surge  isolation  capacity  within  a  variety  of
+environments, from traditional patient rooms to triage stations, and emergency medical
+shelters. In the absence of any remaining supply of N95 respirators, it may be possible
+to  use  this  technology  in  conjunction  with  HCP  and  patients  wearing  Enhanced
+Performance and Enhanced Performance Plus masks or well-fitting medical masks. N95
+and  NIOSH  Approved  are  certification  marks  of  the  U.S.  Department  of  Health  and
+Human  Services  (HHS)  registered  in  the  United  States  and  several  international
+jurisdictions.    N99,  N100,  R95,  P95,  P100,  PAPR100-N,  PAPR100-P,  and  HE  are
+certification  marks  of  the  U.S.  Department  of  Health  and  Human  Services  (HHS)
+registered in the United States.
+Source URL: https://www.cdc.gov/niosh/topics/pandemic/strategies-n95.html

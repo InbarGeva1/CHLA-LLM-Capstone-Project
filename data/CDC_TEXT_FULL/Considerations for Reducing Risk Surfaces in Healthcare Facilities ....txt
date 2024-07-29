@@ -1,0 +1,44 @@
+A .gov website belongs to an official government organization in the United States. A
+lock (  ) or https:// means you've safely connected to the .gov website. Share sensitive
+information only on official, secure websites. 
+Related Topics:
+ These  Core  Components  are  for  noncritical  surfaces  that  come  in  contact  with  only
+intact  skin  such  as:  These  Core  Components  are  intended  for  acute  care  hospitals.
+However, all healthcare settings, such as long-term care and outpatient facilities, could
+apply  these  with  additional  special  considerations  such  as  patient  population.  This
+management  structure  should  hold  regular  meetings  to  review  practices  and  quality
+measures and establish or review facility goals: All personnel who clean and disinfect
+reusable patient care equipment and environmental surfaces in patient care areas must
+understand their roles and responsibilities.  Administrators can provide education and
+training  on:  Administrators  can  ensure  training  is  sustainable  and  regularly  occurring
+by: 
+Identify standardized, setting-specific protocols for cleaning and disinfection, including
+use of technologies and products
+ An environmental cleaning and disinfection monitoring strategy allows EVS personnel,
+other relevant HCP and the facility cleaning and disinfection program to understand the
+current  state  of  facility  cleanliness  and  to  identify  areas  for  improvement.  EVS
+personnel  are  responsible  for  cleaning  and  disinfection  of  reusable  patient  care
+equipment  and  environmental  surfaces  in  patient  care  areas.  They  can  be  directly
+employed  by  the  healthcare  facility,  a  contractor,  or  another  management  structure.
+Additional HCP are also often responsible for cleaning and disinfection in patient care
+areas.  The  safety  culture  of  an  organization  is  the  individual  and  group  values,
+attitudes,  perceptions,  competencies,  and  patterns  of  behavior  that  determine  the
+commitment  to  health  and  safety  management.  Noncritical  environmental  surfaces
+come into contact with intact skin, but not mucous membranes. They include: Reusable
+patient care equipment are devices that HCP can reuse to diagnose and treat multiple
+patients (e.g., surgical forceps, endoscopes and stethoscopes). Routine cleaning is the
+regular  cleaning  (and  disinfection,  when  indicated)  when  the  room  is  occupied  to
+remove organic material, reduce microbial contamination, and provide a visually clean
+environment.  Emphasis  is  on  surfaces  within  the  patient  zone.  Critical  patient  care
+equipment are equipment and devices that enter sterile tissue or the vascular system,
+such as surgical instruments, cardiac and urinary catheters. They are not in the scope
+of  this  document.  Semi-critical  patient  care  equipment  are  equipment,  such  as
+endoscopes, respiratory and anesthesia equipment, and vaginal ultrasound probes, that
+comes  into  contact  with  mucus  membranes.  They  are  not  in  the  scope  of  this
+document.  Terminal  (discharge/transfer)  cleaning  is  cleaning  and  disinfection  that  is
+performed  after  the  patient  is  discharged  or  transferred.  Includes  the  removal  of
+organic material and significant reduction and elimination of microbial contamination.
+HAIs are associated with medical devices, complications following surgery, transmission
+between  patients  and  healthcare  workers,  antibiotic  overuse,  and  more.  Languages
+Language Assistance Languages  Language Assistance 
+Source URL: https://www.cdc.gov/healthcare-associated-infections/hcp/infection-control/index.html

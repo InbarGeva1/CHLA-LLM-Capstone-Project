@@ -1,0 +1,173 @@
+Official websites use .gov A .gov website belongs to an official government organization
+in  the  United  States.  Secure  .gov  websites  use  HTTPS  A  lock  (   )  or  https://  means
+you've  safely  connected  to  the  .gov  website.  Share  sensitive  information  only  on
+official, secure websites. Authors: Tatiana Lanzieri, MD; Susan Redd; Emily Abernathy,
+MS; Joseph Icenogle, PhD Congenital rubella syndrome (CRS) is an illness in infants that
+results  from  maternal  infection  with  rubella  virus  during  pregnancy.  When  rubella
+infection  occurs  during  early  pregnancy,  serious  consequences–such  as  miscarriages,
+stillbirths, and a constellation of severe birth defects in infants–can result. The risk of
+congenital infection and defects is highest during the first 12 weeks of gestation and
+decreases  thereafter;  defects  are  rare  after  infection  in  the  20th  week  (or  later)  of
+gestation.[1–3] Common congenital defects of CRS include cataracts, congenital heart
+disease, hearing impairment, and developmental delay. Infants with CRS often present
+with  more  than  one  of  these  signs  but  may  also  present  with  a  single  defect,  most
+commonly  hearing  impairment.  See  Chapter  14,  “Rubella,”  for  more  information  on
+rubella infection. The link between congenital cataracts and maternal rubella infection
+was  first  made  in  1941  by  an  Australian  ophthalmologist,  Norman  Gregg,  who  had
+noticed  an  unusual  number  of  infants  with  cataracts  following  a  rubella  epidemic  in
+1940.[4] In the absence of vaccination, rubella was an endemic disease with epidemics
+occurring every 6–9 years. If rubella infections occurred among nonimmune pregnant
+women,  CRS  cases  occurred.  During  the  1962–1965  global  rubella  pandemic,  an
+estimated  12.5 million  rubella  cases  occurred  in  the United  States,  resulting  in  2,000
+cases  of  encephalitis,  11,250  therapeutic  or  spontaneous  abortions,  2,100  neonatal
+deaths, and 20,000 infants born with CRS.[5] In 1969, live attenuated rubella vaccines
+were licensed in the United States. The goal of the rubella vaccination program was and
+continues to be prevention of congenital rubella infections, including CRS.[5] In 2004,
+an independent panel of internationally recognized experts in public health, infectious
+diseases, and immunizations reviewed the available data on rubella epidemiology and
+unanimously agreed that rubella elimination (i.e., the absence of year-round endemic
+transmission)  had  been  achieved  in  the  United  States.[6]  During  2005–2017,  the
+number of reported CRS cases in the United States declined dramatically to <1 case per
+year (Centers for Disease Control and Prevention [CDC], unpublished data). Among the
+15 CRS cases that occurred during this time, all but one were known importations (CDC,
+unpublished data). Of the 47 CRS cases occurring during 1998–2017, the mother was
+born outside the United States in 41 (89%). Although rubella has been eliminated in the
+United  States,  it  continues  to  be  endemic  in  many  parts  of  the  world.  It  is  estimated
+that more than 100,000 infants worldwide are born each year with CRS.[7] According to
+a survey of the member countries in the World Health Organization (WHO), the number
+of  countries  that  have  incorporated  rubella-containing  vaccines  into  their  routine
+national immunization programs increased from 83 in 1996 to 148 (76%) of countries in
+2016. As of December 2016, the WHO Region of the Americas and the European Region
+have  established  rubella  elimination  goals,  verified  by  the  Region  of  the  Americas  in
+2015.[8]  The  South-East  Asia  region  has  a  rubella/CRS  reduction  goal  (95%)  by
+2020;[9]   the  Western  Pacific  Region  has  established  a  rubella  elimination  target
+without  a  specific  date;  and  the  Eastern  Mediterranean  and  African  Regions  do  not
+currently  have  elimination  targets.  In  2011,  WHO  recommended  that  all  countries
+providing 2 doses of measles vaccine that have not introduced rubella vaccine, consider
+including  rubella-containing  vaccine  in  their  immunization  program.[10]   The  United
+States  elimination  of  rubella  and  CRS  was  reconfirmed  in  2011  and  maintenance  of
+elimination was reported in 2014.[9,11] The United States has established and achieved
+the goal of eliminating CRS and the indigenous transmission of rubella. As noted above,
+elimination  of  endemic  rubella  was  documented  and  verified  in  the  United  States  in
+2004.[6] However, because of international travel and countries without routine rubella
+vaccination,  imported  cases  of  rubella  and  CRS  cases  still  occur.  To  maintain
+elimination,  the  United  States  should  continue  to  maintain  high  vaccination  rates
+among  children;  ensure  that  women  of  childbearing  age,  particularly  women  in  the
+United States who were born outside of the United States, are vaccinated; and maintain
+effective surveillance for both rubella and CRS. For specific information on vaccination
+with  rubella-containing  vaccines,  refer  to  the  Pink  Book,  which  provides  general
+recommendations,  including  vaccine  scheduling  and  use,  immunization  strategies  for
+providers,  vaccine  contents,  adverse  events  and  reactions,  vaccine  storage  and
+handling,  and  contraindications  and  precautions.  Top  of  Page  The  following  case
+definition for CRS was approved by the Council of State and Territorial Epidemiologists
+(CSTE) and published in 2009.[12] Suspected: An infant who does not meet the criteria
+for  a  probable  or  confirmed  case  but  who  has  one  or  more  of  the  following  findings:
+Probable: An infant who does not have laboratory confirmation of rubella infection but
+has at least two of the following, without a more plausible etiology: OR An infant who
+does not have laboratory confirmation of rubella infection but has at least one or more
+of the following, without a more plausible etiology: AND one or more of the following:
+Confirmed:  An  infant  with  at  least  one  of  the  symptoms  clinically  consistent  with
+congenital rubella syndrome listed above, and laboratory evidence of congenital rubella
+infection demonstrated by: Infection only: An infant without any clinical symptoms or
+signs of rubella but with laboratory evidence of infection demonstrated by: Comment: In
+probable  cases,  either  or  both  of  the  eye-related  findings  (cataracts  and  congenital
+glaucoma)  should  be  considered  as  a  single  complication.  In  cases  classified  as
+infection  only,  if  any  compatible  signs  or  symptoms  (e.g.,  hearing  impairment)  are
+identified  later,  the  case  is  reclassified  as  confirmed.  Congenital  rubella  syndrome
+cases  will  be  classified  epidemiologically  as  internationally  imported  or  US-acquired,
+according to the source of infection in the mother, using the definitions below, which
+parallel  the  classifications  for  rubella  cases.  Internationally  imported  case:  To  be
+classified  as  an  internationally  imported  CRS  case,  the  mother  must  have  acquired
+rubella  infection  outside  the  United  States,  or  in  the  absence  of  documented  rubella
+infection, the mother was outside the United States during at least some of the period
+when she may have had exposure to rubella that affected her pregnancy (from 21 days
+before conception and through the first 24 weeks of pregnancy). US-acquired case: A
+US-acquired case is one in which the mother acquired rubella from an exposure in the
+United  States.  US-acquired  cases  are  subclassified  into  4  groups  as  described  in  the
+rubella  case  classification  section  in  Chapter  14,  “Rubella.”  Note:  Internationally
+imported,  import-linked,  and  imported-virus  cases  are  considered  collectively  to  be
+import-associated
+ cases.
+ States
+ may
+ also
+ choose
+ to
+ classify
+ cases
+ as
+“out-of-state-imported”  when  imported  from  another  state  in  the  United  States.  For
+national reporting, however, cases will be classified as either internationally imported or
+US-acquired. Top of Page Diagnostic tests used to confirm CRS include serologic assays
+and detection of rubella virus. For detailed information and for specific information on
+specimen  collection  and  shipment  refer  to  Chapter  22,  “Laboratory  Support  for  the
+Surveillance  of  Vaccine-Preventable  Diseases.”  Specimen  collection  and  shipping  are
+important  steps  in  obtaining  laboratory  diagnosis  or  confirmation    for  vaccine
+preventable  diseases.  Guidelines  have  been  published  for  specimen  collection  and
+handling  for  microbiologic  agents.  Information  is  also  available  on  using  CDC
+laboratories  as  support  for  reference  and  disease  surveillance;  this  includes  The
+APHL/CDC  Vaccine  Preventable  Disease  Reference  Centers  [2  pages]  can  perform
+real-time  RT-PCR  and  genotyping  for  rubella.  Specific  instructions  for  specimen
+collection and shipping may be obtained from the CDC rubella website or by contacting
+the  CDC  Viral  Vaccine  Preventable  Diseases  Branch  at  404-639-4557.  Specimens  for
+virus isolation and genotyping should be sent to CDC as directed by the State Health
+Department. Top of Page Each state and territory (jurisdiction) has regulations or laws
+governing  the  reporting  of  diseases  and  conditions  of  public  health  importance.[13]
+These regulations and laws list the diseases to be reported and describe those persons
+or  groups  responsible  for  reporting,  such  as  healthcare  providers,  hospitals,
+laboratories,  schools,  daycare  and  childcare  facilities,  and  other  institutions.  Persons
+reporting should contact the jurisdiction/state health department for jurisdiction-specific
+reporting  requirements.  The  Congenital  Rubella  Syndrome  Case  Report  Worksheet  is
+included  as  Appendix  17  [2  pages],  to  serve  as  a  guide  for  data  collection  during
+investigation of reported cases. Provisional notifications of CRS cases should be sent by
+the  jurisdiction/state  health  department  to  CDC  by  e-mail:  RubellaReport@cdc.gov.
+Notifications  should  be  sent  to  the  National  Notifiable  Diseases  Surveillance  System
+(NNDSS)  using  event  code  10370.  Reporting  should  not  be  delayed  because  of
+incomplete information or lack of laboratory confirmation; following completion of case
+investigations,  data  previously  submitted  to  NNDSS  should  be  updated  with  the
+available  new  information.  The  Congenital  Rubella  Syndrome  Case  Report  worksheet
+(Appendix 17 [2 pages]) is used to collect clinical and laboratory information on cases
+of CRS that are reported by jurisdiction and local health departments. CRS cases are
+classified by year of patient’s birth. The following data are epidemiologically important
+and should be collected in the course of case investigation. Additional information may
+also be collected at the direction of the state health department. Top of Page Cases of
+US-acquired CRS are sentinel events indicating the presence of rubella infections in a
+community that may have been previously unrecognized. The diagnosis of a single case
+of  US-acquired  CRS  in  a  community  should  result  in  intensified  rubella  and  CRS
+surveillance  and  an  investigation  to  determine  where  the  mother  was  exposed  to
+rubella.  If  the  mother  was  exposed  in  a  different  jurisdiction,  jurisdiction/state  health
+officials should contact the other jurisdiction to alert public health officials to possible
+rubella  circulation.  Infants  with  CRS  may  present  with  various  manifestations  of  the
+syndrome, depending on timing of the infection in pregnancy. Infants born to women
+infected  with  rubella  during  pregnancy  should  be  evaluated  for  infection  and  CRS.
+However, depending on the gestational age of the infant at the time of the mother’s
+infection,  symptoms  may  not  be  apparent  after  20  weeks’  gestation;  the  only  defect
+may be hearing impairment. Furthermore, some children are infected in utero but have
+no congenital defects. Laboratory confirmation should be sought in all suspected CRS
+cases,  regardless  of  signs  or  symptoms.  Surveillance  for  CRS  should  be  implemented
+when confirmed or probable rubella cases are documented in a setting where pregnant
+women  might  have  been  exposed.[14]  Women  who  contract  rubella  while  pregnant
+should be monitored for birth outcome, and appropriate testing should be performed on
+the infant after birth. Healthcare providers should be advised to evaluate infants born
+with conditions consistent with CRS and to collect specimens for virus detection and to
+perform  a  rubella-specific  IgM  antibody  test  on  infants  suspected  of  having  CRS.
+Although many surveillance systems still rely on paper and pencil for data collection,
+use of data from sources such as electronic medical records, electronic case reporting,
+and  clinical  laboratory  information  systems  (LIMS)  can  significantly  improve  reporting
+speed, enhance data quality, and reduce workload.[15–21] Cases of US-acquired rubella
+have  occurred  among  susceptible  persons  providing  care  for  infants  with  CRS.[22]
+Because  infants  can  shed  the  virus  for  prolonged  periods  (up  to  1  year  of  age  or
+longer), infants with CRS should be considered infectious until they are at least 1 year
+old or until 2 clinical specimens obtained 1 month apart are negative for rubella virus
+by RT-PCR, either real-time or conventional; culture is also acceptable. The majority of
+infants  will  shed  virus  for  3  months  after  birth,  so  screening  will  typically  start  at  3
+months  after  a  decline  would  reasonably  be  expected.  Infants  with  CRS  should  be
+placed in contact isolation during any hospital admission before 1 year of age or until
+the infant is no longer considered infectious. In addition, health officials should consider
+excluding  infants  with  CRS  from  child  care  facilities  until  he  or  she  is  no  longer
+considered  infectious.  Persons  having  contact  with  infants  with  CRS  should  have
+documented  evidence  of  immunity  to  rubella  (see  Chapter  14,  “Rubella”)  and
+caregivers of infants with CRS should be aware of the potential hazard of the infants to
+susceptible pregnant contacts.  Top of Page To receive email updates about this page,
+enter your email address:
+Source URL: https://www.cdc.gov/vaccines/pubs/surv-manual/chpt15-crs.html

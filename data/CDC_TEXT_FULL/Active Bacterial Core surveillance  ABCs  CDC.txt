@@ -1,0 +1,42 @@
+A .gov website belongs to an official government organization in the United States. A
+lock (  ) or https:// means you've safely connected to the .gov website. Share sensitive
+information only on official, secure websites. ABCs is a core component of CDC's EIP.
+This  network  is  a  collaboration  between  CDC,  state  health  departments,  and
+universities.    CDC  initially  established  ABCs  in  four  states  in  1995.  Now,  it  currently
+operates  among  10  EIP  sites  across  the  United  States,  representing  a  population  of
+approximately 45.5 million people.  ABCs provides estimates of invasive disease burden
+and trends for five pathogens. ABCs monitors changes in antimicrobial resistance and
+other characteristics over time through collection of bacterial isolates and demographic
+and  clinical  data.  At  this  time,  ABCs  conducts  surveillance  for:  Enhanced  Pertussis
+Surveillance  started  in  2011  through  the  ABCs/EIP  network.  ABCs  surveillance  for
+methicillin-resistant  Staphylococcus  aureus  (MRSA)  began  in  2004.  In  2015,  these
+activities  transitioned  to  the  Hospital  Acquired  Community  Interface  (HAIC)  network.  
+ABCs  conducted  active  surveillance  for  legionellosis  from  2011  through  2015.   CDC
+uses ABCs data and infrastructure to track disease trends.  ABCs data documented the
+decline in pneumococcal disease following introduction of the pediatric pneumococcal
+conjugate
+ vaccine.
+ ABCs
+ also
+ documented
+ the
+ emergence
+ of
+ serogroup
+ Y
+meningococcal  disease.  Additionally,  CDC  uses  ABCs  data  to  evaluate  vaccine
+effectiveness.  Past evaluations looked at the effectiveness of meningococcal conjugate
+vaccine  in  adolescents  and  pneumococcal  conjugate  vaccine  in  children  and  adults.
+ABCs also provides critical information to inform public health policy. ABCs data helped
+revise CDC guidelines to recommend the use of universal screening of pregnant women
+to  prevent  early-onset  GBS  infections.   These  data  also  formed  the  basis  for  the
+prevention  of  GAS  infections  among  household  contacts  of  people  with  invasive
+disease.  This  also  helped  inform  the  prevention  of  GAS  infections  among  postpartum
+and post-surgical patients.  CDC developed a program to assist state and local health
+departments  with  surveillance  for  MRSA  and  drug-resistant  S.  pneumoniae.  This
+program  was  based  primarily  on  lessons  learned  from  ABCs.  Emerging  Infections
+Program  The  Healthcare-Associated  Infections  -  Community  Interface  Activity  (HAIC)  
+Legionellosis  surveillance  Pertussis  surveillance  ABCs  is  an  active  laboratory-  and
+population-based surveillance system for five invasive bacterial pathogens. Languages
+Language Assistance Languages  Language Assistance 
+Source URL: https://www.cdc.gov/abcs/about/index.html

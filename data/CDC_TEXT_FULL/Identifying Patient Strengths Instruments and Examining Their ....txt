@@ -1,0 +1,814 @@
+Official websites use .gov A .gov website belongs to an official government organization
+in  the  United  States.  Secure  .gov  websites  use  HTTPS  A  lock  (   )  or  https://  means
+you've  safely  connected  to  the  .gov  website.  Share  sensitive  information  only  on
+official, secure websites. 
+SYSTEMATIC REVIEW — Volume 18 — April 29, 2021 Suggested citation for this
+article:  Wallace  DD,  Karmali  RN,  Kim  C,  White  AM,  Stange  KC,  Lich  KH.  Identifying
+Patient  Strengths  Instruments  and  Examining  Their  Relevance  for  Chronic  Disease
+Management:  A  Systematic  Review.  Prev  Chronic  Dis  2021;18;200323.  DOI:
+https://doi.org/10.5888/pcd18.200323. PEER REVIEWED What is already known on this
+topic?  Chronic  disease  management  often  focuses  on  what  is  wrong  with  patients
+rather than recognizing their strengths and resources. However, studies show the value
+of emphasizing personal strengths to improve outcomes. What is added by this report?
+How instruments evaluate personal strengths varies, making it especially difficult when
+determining  the  use  of  instruments  in  clinical  populations.  This  systematic  review
+defines  the  heterogeneity  of  constructs  that  research  has  used  to  examine  personal
+strengths as well as the reliability and validity of strengths-related scales. What are the
+implications for public health practice? Understanding the value of these various scales
+can inform public health, and specifically primary care practice, to improve the care of
+adults managing 1 or more chronic conditions. Introduction Most health care focuses on
+patients’  deficits  to  encourage  behavior  change.  A  strengths-based  approach,  which
+relies on identifying patient strengths, has great potential to facilitate behavior change
+for  chronic  disease  management.  Little  is  known  about  instruments  used  to  assess
+patient strengths. We conducted a systematic review to identify validated instruments
+that  assess  personal  strengths  by  using  a  theory  elaboration  approach.  Methods  We
+searched 8 databases including Web of Science, Cumulative Index of Nursing and Allied
+Health  (CINAHL),  and  PsycINFO  (through  July  2019)  to  identify  peer  reviewed,
+English-language  studies  that  described  strength-based  instruments.  Thereafter,  we
+evaluated  the  validity  and  reliability  of  the  instruments  according  to  18  Scientific
+Advisory  Committee  of  the  Medical  Outcome  Trust  (SACMOT)  criteria,  and  used  an
+inductive, iterative editing process to identify constructs measured by the instruments.
+Results  We  identified  26  instruments  that  met  our  inclusion  criteria.  The  instruments
+were validated in various clinical and nonclinical populations. Only 4 instruments met
+most of the SACMOT criteria for validation. We extracted 91 unique constructs that fell
+into 3 domains: inner strengths (49), external strengths (13), and personality constructs
+(29).  Conclusion  A  limited  number  of  reliable  and  valid  instruments  are  available  to
+assess strengths for the adult population, particularly for clinical populations. Internal
+strengths can be leveraged to improve patient health; however, the development and
+validation  of  additional  instruments  to  capture  personal  strengths  is  necessary  to
+examine  the  multilevel  influence  of  external  strengths  on  individual  behaviors  and
+well-being. Top Approximately half of all US adults have 1 or more diagnosed chronic
+conditions, such as diabetes, heart disease, and arthritis (1). In 2016, the direct health
+care cost associated with chronic health conditions was $1.1 trillion dollars (2). Chronic
+conditions  can  be  managed  successfully  by  changing  unhealthy  behaviors  (3–7).
+Patients,  with  their  care  team,  can  identify  strategies  and  leverage  skills  to  regulate
+behaviors (4). A strengths-based approach to chronic disease management can support
+self-management  and  behavior  change.  The  strengths-based  approach  emerged  from
+the  social  work  field  and  counteracts  the  deficit-based  approach  from  the  health
+science professions. A deficit-based approach focuses on what is wrong with patients
+rather  than  recognizing  their  strengths  and  resources  (8).  The  strengths-based
+approach assumes that individuals have the capacity to grow, do the best they can, and
+know what is best for them (8). Strengths include personal attributes such as faith, use
+of humor, flexibility; interpersonal assets such as friends or family who can be called on
+for  help;  and  external  resources  such  as  ability  to  access  community  resources  for
+health.  Whereas  deficit-based  approaches  to  chronic  disease  management  focus  on
+patients’ problems and behavioral shortcomings (eg, focusing on patient challenges in
+engaging with recommended behaviors), Rotegård et al (9) defined patient strengths,
+or  health  assets,  as  “the  repertoire  of  potentials  —  internal  and  external  strength
+qualities  in  the  individual’s  possession,  both  innate  and  acquired  —  that  mobilize
+positive health behaviors and optimal health/wellness outcomes.” In practice, the care
+team  works  with  a  patient  to  identify  their  inherent  strengths  and  the  patient  uses
+these  strengths  to  promote  recovery  and  well-being  (10).  The  strengths-based
+approaches in counseling and case management are associated with an improvement
+in  depressive  symptoms,  substance  use  behaviors,  and  postsurgery  recovery  by
+improving  key  determinants  such  as  perceived  patient  empowerment  (3,5,9,11–13).
+Implementing  a  strengths-based  approach  relies  on  identifying  a  patient’s  strengths
+(14–17).  However,  eliciting  a  patient’s  strengths  informally  is  challenging  during
+time-constrained clinical visits (18). A formal strengths elicitation approach is needed to
+provide the structure during clinic visits to support patients in suggesting strengths to
+leverage  (16).  A  concept  analysis  developed  a  theoretical  framework  for  patient
+strengths (9); however, this framework was based on health assets in nursing care of
+cancer  patients.  Little  is  known  about  how  patient  strengths  are  operationalized  as  a
+construct
+ in
+ existing
+ validated
+ assessments
+ —
+ either
+ broadly
+ or
+ among
+noninstitutionalized  or  community-based  populations  that  frequent  health  care  to
+manage  a  chronic  condition  (ie,  clinical  populations).  Moreover,  the  construct  of
+personal strengths has not been clearly defined in the literature, which could result in
+difficulties in distinguishing constructs from each other and instruments that may not
+adequately capture or sufficiently reflect the phenomenon. The objective of our study
+was  to  identify  and  systematically  summarize  constructs  that  measure  dimensions  of
+personal  strengths.  Specifically,  we  were  interested  in  understanding  what  we  know
+about personal strengths and the extent to which instruments that measure personal
+strengths  are  validated  for  application  in  chronic  care  management.  We  reviewed
+instruments  for  measuring  personal  strengths  by  using  the  process  of  theory
+elaboration, to make a theoretical contribution in the field through specification of the
+aspects of the broad construct of personal strengths. The process of theory elaboration
+uses an existing model or conceptual idea as the basis for developing new theoretical
+insights,  through  contrasting,  specifying,  or  structuring  theoretical  constructs  to
+improve  our  understanding  of  the  measurement  of  personal  strengths  (19).  Although
+only a limited number of scales are specifically related to chronic disease management,
+examining currently validated scales that have been used in adults more broadly can
+provide information on what constructs and scales can be applied in populations that
+are  managing  chronic  conditions.  The  results  can  inform  the  use  of  strengths-based
+scales  in  clinic  settings  for  populations  managing  chronic  conditions.  Top  Personal
+strengths is a broad construct; therefore, identifying dimensions of personal strengths
+can  elucidate  the  multidimensionality  of  the  construct.  We  used  a  theory  elaboration
+approach  for  the  analysis,  specifically  to  improve  construct  validation  and  provide
+clarity of the scope of each dimension of personal strength as evidenced by previously
+conducted empirical studies (19). This systematic review was conducted in accordance
+with the Preferred Reporting Items for Systematic Reviews and Meta-Analyses (PRISMA)
+guidelines  (20).  First,  we  conducted  a  search  of  peer-reviewed  literature  to  identify
+validated  instruments  that  operationalized  strength  constructs.  Second,  we  extracted
+information  from  the  instrument  about  constructs,  reliability,  and  validity.  Finally,  we
+grouped  constructs  into  categories  defined  by  the  health  assets  framework  to
+understand  at  what  level  personal  strengths  (eg,  inner,  personality,  external)  are
+measured by the instruments (9). Personal strengths can be innate or acquired. Health
+assets are influenced by antecedents (eg, values, beliefs), an individual’s potential to
+pull from internal assets such as motivation, or external assets such as interpersonal
+support,  to  mobilize  themselves  to  engage  in  positive  health  behaviors  and  improve
+their  health  (9).  We  conducted  the  literature  search  to  include  any  articles  published
+from  the  earliest  articles  in  each  database  through  July  1,  2019.  We  worked  with  a
+university  librarian  to  implement  a  search  of  peer-reviewed  articles  that  combined
+phrases  to  describe  strengths  and  data  collection  instrument  in  PubMed,  Web  of
+Science, Cumulative Index of Nursing and Allied Health (CINAHL), PsycINFO, PsycTESTS,
+Social  Work  Abstracts,  the  Health  and  Psychosocial  Instruments,  and  Embase.  After
+limiting results to humans and English-language articles and removing duplicates, the
+broad search was still explosive — returning more than 20,000 references. Therefore,
+we  identified  the  strengths-related  search  terms  with  the  worst  specificity  (ie,  the
+largest absolute number of false positives based on a review of sampled abstracts for
+each  term).  The  most  problematic  terms  identified  included  “strength*”,  “health
+resource*”, “protective factor*”, and “resilience”. Thereafter, we reviewed a randomly
+selected  sample  of  100  references  and  in  working  with  the  librarian,  we  replaced
+“strength*”  in  the  main  search  with  more  specific  terms  capable  of  identifying
+appropriate  references  to  balance  a  broad  search  with  efficiency  (ie,  inner  strength).
+Lastly, we reviewed any review papers (literature, scoping, systematic, meta-analysis)
+to  further  identify  potentially  relevant  primary  sources.  Once  we  finalized  our  search
+strategy, we downloaded relevant citations to EndNoteX8 (Thomson ISI ResearchSoft), a
+reference management software. The search yielded 3,976 records. We were interested
+in  instruments  that  assessed  strengths;  therefore,  we  identified  studies  that  met  the
+following  criteria:  1)  measured  strengths  at  the  individual,  interpersonal,  or
+environmental  level;  2)  applied  the  instrument  to  an  adult  population;  3)  presented
+reliability  or  validity  information;  4)  used  a  structured,  self-reported  questionnaire  to
+assess  strengths;  5)  had  instruments  that  comprised  3  or  more  strength-related
+dimensions (ie, constructs); and 6) were peer-reviewed and published in English before
+July 2019. We also included instruments developed in languages other than English with
+findings written in English. We did not include studies focused on child and adolescent
+samples because strengths may manifest differently across the developmental period.
+We also excluded studies if they either measured strengths as a subscale of a larger
+instrument  or  used  qualitative  instruments  (eg,  semi-structured  interviews).  For
+screening we had 2 pairs of reviewers independently screen titles and abstracts. The
+full team met to resolve disagreements, reach consensus, and revisit the inclusion and
+exclusion  criteria.  If  we  could  not  reach  consensus,  the  abstract  was  included  for
+full-text review. Full-text review comprised 3 teams of 2 who closely assessed studies
+against  the  inclusion  and  exclusion  criteria,  with  a  focus  on  reported  reliability  and
+validity information for strengths constructs. We extracted descriptive characteristics,
+definitions  of  each  construct,  and  reliability  and  validity  information.  For  descriptive
+characteristics, we documented the purpose of the measure, the target population(s) in
+which  the  instrument  was  meant  to  be  used  (eg,  gender-defined  or  clinically  defined
+populations), and the settings in which the instrument was applied. To assess reliability
+and validity information for each instrument we developed a structured extraction form
+by  using  the  Scientific  Advisory  Committee  of  the  Medical  Outcome  Trust  (SACMOT)
+criteria (21). The 23 criteria are in 8 domains: conceptual models, reliability, validity,
+responsiveness,  interpretability,  burden,  modes  of  administration,  and  cultural  and
+language adaptations or translations (Table 1). Key validity criteria were face, content,
+criterion-related  and  construct  validity,  and  reliability  measures.  Validity  studies  for
+each  instrument  were  reviewed,  and  2  reviewers  (D.D.W.  and  R.N.K.)  independently
+extracted validity data for each instrument by using the SACMOT criteria. Results were
+compared  and  any  inconsistencies  were  resolved  through  team  discussion.  The  first
+author reviewed all extraction for quality assurance. We created a table that included a
+row for every construct and the original definition from the source instrument to ensure
+fidelity throughout the extraction and synthesis process. Overlapping constructs were
+grouped together based on the similarity of their definitions. To organize the final table,
+we  adapted  the  health  assets  framework  developed  by  Rotegård  and  colleagues  (9).
+Two  authors  (D.D.W.  and  R.N.K.)  independently  categorized  each  construct  into  the
+framework  domains.  Although  the  health  assets  framework  distinguishes  between
+assets (ie, strengths) and self-awareness, we considered self-awareness as a potential
+asset and coded constructs into this domain when appropriate. We developed emergent
+domains for constructs that did not fit into the existing framework. Finally, subdomains
+were  created  to  reflect  groups  of  constructs  within  domains.  Unique  constructs  that
+were  extracted  from  nonvalidated  instruments  were  kept  for  the  purposes  of
+showcasing the diversity of strengths-related constructs and the gaps in validation. Top
+Beginning  with  3,976  articles  and  after  removing  1,807  duplicates,  2,169  articles
+remained (Figure). We excluded 2,057 articles during title and abstract review for not
+specifying a focus on strengths-related predictors or outcomes, not being published in
+English,  or  using  a  child  or  adolescent  sample  only.  During  the  full-text  review,  we
+excluded  an  additional  86  non-English,  non–peer  reviewed,  or  not  strength-relevant
+studies.  This  review  yielded  20  studies  that  met  our  inclusion  criteria  and  underwent
+data  extraction.  Some  studies  had  multiple  strengths  instruments,  thereby  producing
+26  instruments  for  review.  We  extracted  information  about  the  populations  in  which
+these instruments were validated and sorted them (Table 2). 
+Figure.
+Preferred  Reporting  Items  for  Systematic  Reviews  and  Meta-Analyses  (PRISMA)  flow
+diagram to obtain studies of strengths instruments to be analyzed for their relevance
+for  chronic  disease  management.  [A  text  description  of  this  figure  is  also  available.]
+Among the instruments assessed, 19 of 26 were developed in the United States, with
+the remaining 7 developed in Australia, Canada, Norway, Spain, Israel, the Netherlands,
+and  the  United  Kingdom.  Instruments  were  developed  between  1957  and  2013.
+Although  our  method  ensured  all  instruments  were  evaluated  in  at  least  1  validity
+study,  the  number  of  validity  studies  ranged  from  1  (eg,  the  Balanced  Measure  of
+Psychological Needs instrument [22]) to 55 (the California Psychological Inventory [23]),
+which  is  also  the  oldest  instrument.  Each  instrument  was  validated  for  1  or  more
+populations (Table 2). Among the 26 instruments that matched our inclusion criteria, 5
+focused  on  clinical  settings.  For  example,  the  Cancer  Empowerment  Questionnaire
+measures  strengths  that  cancer  patients  and  survivors  derive  from  themselves  and
+their social network (24,25). The Chronic Illness Resources Survey assesses support and
+resources at the individual, interpersonal, and community level (26). The Inner Strength
+Questionnaire  was  constructed  and  validated  among  women  with  chronic  illnesses  in
+the United States (27). The Resilience Scale for Adults was constructed for outpatient
+adults  in  Norway  (28).  Although  5  instruments  were  developed  specifically  for  clinic
+populations, an additional 7 instruments were developed in nonclinic settings but later
+validated  in  various  clinic  populations,  including  the  Big  Five  Personality  (29),  Brief
+COPE (30,31), Connor-Davidson Resilience Scale (32), Five-Factor Personality Inventory
+(33),  Interpersonal  Support  Evaluation  List  (34),  Life  Attitude  Profile  (35,36),  and
+Post-traumatic  Growth  Inventory  (37,38).  The  Caregiver  Well-being  Scale  assesses
+family caregivers’ strengths and domains where additional support is desirable for the
+caregiver  (39).  We  used  18  SACMOT  criteria  (21)  to  examine  scale  construction,
+reliability,  and  validity.  These  18  criteria  were  reliability,  reliability  data  collection,
+reliability  estimates,  reliability  coefficient  calculations,  methods  for  reproducibility,
+test-retest
+ or
+ inter-rater
+ reliability,
+ validity
+ rationale,
+ content-related
+ validity,
+construct-related
+ validity,
+ data
+ on
+ target
+ population,
+ hypothesis
+ testing,
+criterion-related
+ rationale,
+ responsiveness,
+ interpretability,
+ respondent
+ burden,
+administrative  burden,  administration  modes,  and  cultural  and  language  adaptations
+(Table  1).  We  found  that  the  instruments  with  the  most  evidence  of  validity  and
+reliability were the Big Five Personality (14 of 18 criteria), the California Psychological
+Inventory (13 of 18 criteria), the Resilience Scale for Adults (14 of 18 criteria), and the
+Sense of Coherence Scale (13 of 18 criteria) (40). We found that definitions were clear
+for  each  construct,  fulfilling  the  first  SACMOT  criterion  (Table  1).  All  instruments  had
+information  on  the  dimensionality  and  distinctiveness  of  measured  constructs.  Most
+instruments (25 of 26) reported reliability estimates, such as a Cronbach α value (41).
+Of the 26 instruments, 23 had at least 1 article detailing evidence on content validity,
+or the extent to which the items reflect the construct (42). Relatedly, construct validity
+measures comprised evidence for convergent and discriminant validity. We found 22 of
+26 instruments assessed construct validity (eg, convergent and discriminant validity).
+Most  instruments  had  measures  of  internal  consistency  to  ensure  reliability  of  the
+instrument  and  had  reproducibility  measures.  Of  the  26  instruments,  15  had
+information  on  less  than  50%  of  the  SACMOT  criteria.  The  criterion  with  the  least
+evidence  was  an  evaluation  of  the  administrative  burden  (2  of  26)  and  alternative
+modes of administering the instrument (3 of 26). We found 91 distinct constructs (Table
+3).  Most  instruments  contained  unique  constructs,  indicating  that  constructs  did  not
+conceptually  overlap  with  each  other  across  instruments.  Common  constructs  across
+instruments  included  flexibility,  spiritual  strength,  and  autonomy.  We  organized  the
+constructs  into  3  domains  based  on  the  health  assets  framework  developed  by
+Rotegård  et  al  (9):  inner  strengths,  external  strengths,  and  personality  constructs.
+Approximately half of the constructs were coded as inner strengths (n = 49). On the
+basis of the framework, inner strengths comprised constructs that measure how people
+relate  to  others  and  their  environment  (relational,  n  =  17),  what  drives  people  when
+they encounter challenging situations (motivational, n = 10), characteristics that buffer
+individuals  from  undesired  health  outcomes  (protective,  n  =  6),  self-determination  to
+accomplish goals (volitional, n = 9), and self-reflective characteristics (self-awareness,
+n  =  7).  Of  91  constructs,  13  were  coded  as  external  strengths,  split  into  2  domains:
+social  resources  and  institutional  support.  Whereas  social  resources  focus  more  on
+interpersonal  resources,  such  as  forms  of  tangible  social  support  and  aid  (n  =  7),
+institutional  support  contains  constructs  measuring  community  or  institutional-level
+characteristics  that  could  support  positive  behaviors,  such  as  the  presence  of
+community  organizations  (n  =  6).  We  classified  29  constructs  as  personality,  which
+related  to  innate  individual  traits.  Most  of  these  personality  constructs  came  from
+well-established  personality-based  instruments  such  as  the  Big  Five  Personality  or
+Five-Factor  Personality  Inventory  (33).  Through  coding,  personality  constructs  were
+further split into 2 subdomains. One was resourcefulness (n = 10), defined as the ability
+to perform tasks independently or seek help from others when necessary. Constructs
+coded  to  resourcefulness  included  those  pertaining  to  self-management  skills  and
+knowledge  of  and  ability  to  use  resources.  The  second  subdomain  was  general
+personality traits (n = 19) related to intelligence, justice, approach to interaction with
+others,  positivity,  and  approaches  to  learning.  Top  Personal  strengths  is  a  broad
+phenomenon  comprising  many  constructs  including  internal  strengths  such  as
+self-efficacy  and  personality  or  interpersonal  strengths  such  as  social  support.
+Strengths  can  also  come  from  community  and  social  levels;  however,  we  did  not
+identify any validated scales focused on these higher-level strengths. The objective of
+this  review  was  to  identify  and  systematically  summarize  constructs  that  measure
+dimensions of personal strengths. This review shows evidence of a limited number of
+reliable and valid instruments available to assess strengths for the adult population. We
+identified 26 instruments, most of which were developed in the United States and had
+reliability estimates. Content validity and construct validity were the most documented
+forms of validity, and information on administrative burden was the least documented.
+The  instruments  with  the  most  reliability  and  validity  evidence  were  personality
+assessments  (Big  Five  Personality)  and  perceptions  of  interpersonal  reactions
+(California  Psychological  Inventory)  and  resiliency  (Sense  of  Coherence  Scale).
+Furthermore, 91 constructs are represented across the 26 instruments. Over 85 percent
+of  constructs  focused  on  inner  strengths  or  personality  factors  rather  than  external
+resources  (ie,  community  assets).  Most  of  the  constructs  were  focused  on  internal
+resources,
+ reflecting
+ the
+ overarching
+ health
+ care
+ rhetoric
+ and
+ practice
+ of
+self-management,  which  is  focused  on  changing  the  individual  without  fully
+acknowledging  the  potential  external  assets  that  can  be  used  to  promote
+self-management  behaviors  (43,44).  These  results  are  consistent  with  a  review
+conducted by Golden and Earp (45), which found that 95% of behavioral interventions
+are conducted at the individual level and 67% are conducted at the interpersonal level.
+Despite  evidence  showing  that  community-level  and  policy-level  factors  are  more
+effective  than  individual-level  factors  to  change  health  behaviors,  very  few
+interventions are done at these levels (46). Overall, the rich set of constructs identified
+as inner strengths or personality factors can be leveraged to improve patients’ health in
+primary  care  settings.  Additional  instruments  focused  on  external  assets  can  be
+developed  to  capture  personal  strengths  and  improve  patient  care  more  holistically.
+The variability in validation studies may result from the high number of constructs used
+as  proxies  for  personal  strength;  therefore,  proper  validity  testing  is  necessary  to
+advance the measurement of this broad construct. One specific type of validation that
+can help advance measurement is discriminant validity, which requires that measures
+of distinctly different constructs not be correlated with each other (42). Advancements
+in  discriminating  between  the  types  of  personal  strengths  can  be  made  by  further
+applying  theory  elaboration  and  construct  proliferation  techniques  in  future  studies
+(19,47).  In  considering  the  use  of  personal  strengths  to  inform  the  treatment  and
+management  of  chronic  conditions  for  individuals,  studies  have  found  evidence  of
+cultivating  personal  strengths  to  improve  self-management  behaviors  and  improve
+patient health outcomes (48–50). However, we found that the number of instruments
+developed  specifically  for  clinical  populations  or  validated  in  clinical  populations  is
+limited. This may reflect how providers may focus on treating problems and identifying
+risk  factors  rather  than  evaluating  patients  on  their  personal  strengths  that  can  be
+integrated  as  part  of  the  treatment  plan.  Therefore,  additional  studies  are  needed  to
+develop  instruments  to  measure  personal  strengths  in  clinical  populations.  Relatedly,
+interventions are needed in health care settings to integrate validated instruments and
+relevant items from those instruments in clinical care to identify personal strengths and
+to start conversations about strengths-based approaches to improving chronic disease
+management. These interventions could target clinician awareness of instruments and
+knowledge of how to apply and interpret the results as a means of improving care. Our
+systematic review found that few instruments assess strengths at the community and
+societal  levels  to  emphasize  an  ecological  approach  to  strengths  identification.  Most
+instruments were not developed specifically for clinical populations, therefore additional
+testing  is  needed  in  these  populations.  We  limited  our  inclusion  criteria  to  adults  but
+recognize that validity assessments are needed for children and adolescents if they are
+to be implemented in clinical settings, particularly in primary care settings. Although we
+examined instruments validated in adult populations, the studies described participants
+homogenously rather than examining adults by different stages of the life course (eg,
+older adults). Parsing out adults by these key developmental periods could be explored
+given  that  health  care  is  sorted  by  age-specific  specialties,  such  as  geriatrics.  In
+addition,  quality  of  life  instruments  were  not  included  in  this  search  as  these  assess
+multiple domains of an individual’s well-being. For this review, we wanted to limit the
+search  to  instruments  that  focus  primarily  on  assessing  personal  strengths  that  an
+individual would have agency around, rather than instruments, such as health-related
+quality  of  life,  that  are  broader  constructs  with  a  subdomain  assessing  strength.  Our
+search  may  have  been  biased  toward  Western  epistemologies,  thereby  excluding
+important strengths such as cultural group membership and connection, as research in
+Black  psychology  emphasizes  (51).  Resilience,  an  important  characteristic  all  on  its
+own, was not included in our literature search because of how large the search results
+became.  In  addition,  many  of  the  instruments  were  validated  in  the  general  adult
+population or college students. Primary care settings need strengths-based instruments
+that  account  for  developmental  differences  across  adulthood  (eg,  younger  or  older
+adults)  and  that  reflect  how  strengths  are  manifested  in  different  cultural,  racial,  or
+ethnic  groups  (eg,  Black,  Indigenous,  Asian,  White).  To  ensure  the  validity  of  these
+measures  in  different  populations,  additional  psychometric  testing  is  needed  to
+determine  if  each  construct  has  the  same  meaning  for  each  group.  Implementation
+research is needed on how to use these instruments in health care settings in a way
+that supports the workflow of clinicians and leverages patient-generated information as
+part of the treatment process. Future research could use the constructs identified here
+to  develop  a  comprehensive  instrument  of  patient  strengths  in  the  clinical  setting  to
+improve  chronic  disease  management.  These  instruments  must  be  validated  across
+multiple clinical populations, including those managing multiple chronic conditions such
+as cancer, hypertension, and type 2 diabetes. We have reviewed 26 reliable and valid
+instruments  that  measure  personal  strengths  in  clinical  and  nonclinical  adult
+populations.  Constructs  in  these  instruments  can  be  used  in  both  research  and  clinic
+settings to improve self-management behaviors among people with chronic conditions.
+Although  these  instruments  tap  into  different  forms  of  strengths,  few  instruments
+assess  external  strengths  (eg,  interpersonal,  community).  The  development  and
+validation  of  additional  instruments  to  capture  personal  strengths  is  necessary  to
+examine  the  multilevel  influence  of  external  strengths  on  individual  behaviors  and
+well-being. Top We thank the Patient-Centered Outcomes Research Institute (PCORI) for
+their  support  of  this  review.  We  thank  Emily  Gillen,  PhD,  for  her  help  with  reviewing
+articles,  and  thank  University  of  North  Carolina  at  Chapel  Hill  librarian  Sarah  Wright,
+MLIS,  for  her  invaluable  assistance  in  constructing  the  literature  search.  The  views
+presented  in  this  manuscript  are  solely  the  responsibility  of  the  authors  and  do  not
+necessarily  represent  the  views  of  PCORI,  its  Board  of  Governors,  or  Methodology
+Committee.  PCORI  is  an  independent,  nonprofit  organization  authorized  by  the  US
+Congress  in  2010.  Its  mission  is  to  fund  research  that  will  provide  patients,  their
+caregivers,  and  clinicians  with  the  evidence-based  information  needed  to  make
+better-informed health care decisions. PCORI is committed to continually seeking input
+from  a  broad  range  of  stakeholders  to  guide  its  work.  Research  reported  in  this
+manuscript  was  funded  through  a  PCORI  award  (no.  HSRP20142263).  D.D.W.,  R.N.K.,
+and  C.K.  conducted  the  literature  review  and  reviewed  each  article  for  inclusion  with
+K.H.L. D.D.W., R.N.K., C.K., and K.H.L. collaboratively wrote the drafts of the manuscript.
+K.C.S.  and  A.M.W.  provided  extensive  feedback  and  edits.  All  authors  reviewed  and
+edited  the  manuscript  and  approved  the  final  version  of  the  manuscript.  The  results
+have  not  been  published  or  presented  elsewhere.  The  authors  have  no  conflicts  of
+interest  to  declare.  No  financial  disclosures  were  reported  by  the  authors.  Top
+Corresponding  Author:  Deshira  D.  Wallace,  PhD,  Department  of  Health  Behavior,
+University of North Carolina at Chapel Hill, 302 Rosenau Hall, 135 Dauer Dr, CB7440,
+Chapel Hill, NC 27599. Telephone: 984-464-0298. Email: ddwallac@live.unc.edu. Author
+Affiliations:  1Gillings  School  of  Global  Public  Health,  University  of  North  Carolina  at
+Chapel Hill, Chapel Hill, North Carolina. 2Northern California Kaiser Permanente Division
+of  Research,  Oakland,  California.  3University  of  Rochester  Medical  Center,  Rochester,
+New  York.  4Children’s  Institute,  Rochester,  New  York.  5Center  for  Community  Health
+Integration, Case Western Reserve University, Cleveland, Ohio. Top Top  a Shortened
+version of key criteria based on Aaronson et al (21).  a A list of the publications cited in
+this table is in the Appendix.  a These constructs are part of instruments that did not
+pass  the  validity  assessment  stage  but  had  unique  constructs  not  found  in  validated
+instruments.  Top    Following  is  a  listing  of  studies  cited  in  Table  2  of  the  article.
+Balanced  Measure  of  Psychological  Needs  Sheldon  KM,  Hilpert  JC.  The  balanced
+measure of psychological needs (BMPN) scale: an alternative domain general measure
+of need satisfaction. Motiv Emot 2012;36(4):439–51. CrossRef Baruth Protective Factors
+Inventory Baruth KE, Carroll JJ. A formal assessment of resilience: the Baruth Protective
+Factors  Inventory.  J  Individ  Psychol  (1998)  2002;58(3):235–44.  Big  Five  Personality
+Barrick  MR,  Mount  MK.  The  Big  Five  personality  dimensions  and  job  performance:  a
+meta‐analysis. Pers Psychol 1991;44(1):1–26. CrossRef Benet-Martínez V, John OP. Los
+Cinco  Grandes  across  cultures  and  ethnic  groups:  multitrait-multimethod  analyses  of
+the  Big  Five  in  Spanish  and  English.  J  Pers  Soc  Psychol  1998;75(3):729–50.  CrossRef
+PubMed Fossati A, Borroni S, Marchione D, Maffei C. The big five inventory (BFI). Eur J
+Psychol  Assess  2011;27(1):50–8.  CrossRef  Smits  IA,  Dolan  CV,  Vorst  HC,  Wicherts  JM,
+Timmerman ME. Cohort differences in Big Five personality factors over a period of 25
+years. J Pers Soc Psychol 2011;100(6):1124–38. CrossRef PubMed Van Heck GL, Perugini
+M,  Caprara  G-V,  Fröger  J.  The  Big  Five  as  tendencies  in  situations.  Pers  Individ  Dif
+1994;16(5):715–31.  CrossRef  Pulver  A,  Allik  J,  Pulkkinen  L,  Hämäläinen  M.  A  Big  Five
+personality
+ inventory
+ in
+ two
+ non–Indo‐European
+ languages.
+ Eur
+ J
+ Pers
+1995;9(2):109–24.  CrossRef  Strelau  J,  Zawadzki  B.  The  formal  characteristics  of
+behaviour  —  Temperament  inventory  (FCB  —  TI):  validity  studies.  Eur  J  Pers
+1995;9(3):207–29. CrossRef Wada S. Construction of the Big Five Scales of personality
+trait  terms  and  concurrent  validity  with  NPI.  Shinrigaku  Kenkyu  1996;67(1):61–7.
+CrossRef  El-Ansarey  B.  The  psychometric  properties  of  NEO  five-factor  inventory
+(NEO-FFI-S)  based  on  the  Kuwaiti  society.  Derasat  Nafseyah  1997;7:277–310.  Nunes
+CHSS, Hutz CS. Development and validation of an Agreeableness scale in the Big Five
+personality model. Psicol Reflex Crit 2007;20(1):20–5. CrossRef Hauck Filho N, de Lara
+Machado  W,  Teixeira  MAP,  Bandeira  DR.  Evidencias  de  validade  de  marcadores
+reduzidos  para  a  avaliacao  da  personalidade  no  modelo  dos  Cinco  Grandes  Fatores.
+Psicologia:  Teoria  e  Pesquisa  2012;28(4):417–23.  Portuguese.  CrossRef  Rammstedt  B.
+The  10-item  Big  Five  Inventory:  norm  values  and  investigation  of  sociodemographic
+effects  based  on  a  German  population  representative  sample.  Eur  J  Psychol  Assess
+2007;23(3):193–201.  CrossRef  Mlacić  B.  National  taxonomies,  adjective  markers  and
+inventories:  Three  directions  of  application  of  the  lexical  approach  to  personality.
+Roczniki Psychologiczne 2008;11(1):152–60. Hrebíčková M. Questionnaire in the Czech
+context. Stud Psychol (Bratisl) 2010;52:(3):165–77. Karaman NG, Dogan T, Coban AE. A
+study  to  adapt  the  big  five  inventory  to  Turkish.  Procedia  Soc  Behav  Sci
+2010;2(2):2357–9.
+ CrossRef
+ Gençöz
+ T,
+ Öcül
+ Ö.
+ Examination
+ of
+ personality
+characteristics in a Turkish sample: development of Basic Personality Traits Inventory. J
+Gen  Psychol  2012;139(3):194–216.  CrossRef  PubMed  Morsünbül  Ü.  The  association  of
+internet  addiction  with  attachment  styles,  personality  traits,  loneliness  and  life
+satisfaction.  Journal  of  Human  Sciences  2014;11(1):357–72.  Huang  Y,  Wang  L.  Sex
+differences in framing effects across task domain. Pers Individ Dif 2010;48(5):649–53.
+CrossRef Wang W, editor. How personality affects continuance intention: an empirical
+investigation  of  instant  messaging.  Proceedings  of  the  Pacific  Asia  Conference  on
+Information  Systems  (PACIS);  2010.  No.  113.  Shi  M,  Liu  L,  Wang  ZY,  Wang  L.  The
+mediating role of resilience in the relationship between big five personality and anxiety
+among
+ Chinese
+ medical
+ students:
+ a
+ cross-sectional
+ study.
+ PLoS
+ One
+2015;10(3):e0119916.  CrossRef  PubMed  Ledesma  RD,  Sánchez  R,  Díaz-Lázaro  CM.
+Adjective checklist to assess the big five personality factors in the Argentine population.
+J Pers Assess 2011;93(1):46–55. CrossRef PubMed Fan J, Zhu X-z, Tang L-l, Wang Y-p, Li
+L, Yang Y, et al. Reliability and validity of Chinese Big Five Personality inventory brief
+version
+ in
+ breast
+ cancer
+ women.
+ Chinese
+ Journal
+ of
+ Clinical
+ Psychology
+2013;21(5):783–5.  Brief  COPE  Carver  CS.  You  want  to  measure  coping  but  your
+protocol’s  too  long:  consider  the  brief  COPE.  Int  J  Behav  Med  1997;4(1):92–100.
+CrossRef
+ PubMed
+ Müller
+ W.Lebe
+ jetzt-einfach
+ sein.
+ Mainz
+ (DE):
+Matthias-Grünewald-Verlag; 2003. Doron J, Trouillet R, Gana K, Boiché J, Neveu D, Ninot
+G.  Examination  of  the  hierarchical  structure  of  the  Brief  COPE  in  a  French  sample:
+empirical  and  theoretical  convergences.  J  Pers  Assess  2014;96(5):567–75.  CrossRef
+PubMed Muhonen T, Torkelson E. Kortversioner av fr&aringgeformulär inom arbets-och
+hälsopsykologi  —  om  att  mäta  coping  och  optimism.  Nord  Psykol  2005;57(3):288–97.
+CrossRef  Yusoff  N,  Low  WY,  Yip  CH.  Reliability  and  validity  of  the  Brief  COPE  Scale
+(English version) among women with breast cancer undergoing treatment of adjuvant
+chemotherapy:  a  Malaysian  study.  Med  J  Malaysia  2010;65(1):41–4.  PubMed  Kimemia
+M,  Asner-Self  KK,  Daire  AP.  An  exploratory  factor  analysis  of  the  Brief  COPE  with  a
+sample  of  Kenyan  caregivers.  Int  J  Adv  Couns  2011;33(3):149–60.  CrossRef  Snell  DL,
+Siegert RJ, Hay-Smith EJC, Surgenor LJ. Factor structure of the Brief COPE in people with
+mild  traumatic  brain  injury.  J  Head  Trauma  Rehabil  2011;26(6):468–77.  CrossRef
+PubMed  Mejorada  REO,  Tufiño  MAT,  Sierra  AV,  Guerrero  OT,  Rosas  AR,  Sosa  JJS.
+Afrontamiento en pacientes con cáncer de mama en radioterapia: análisis de la Escala
+COPE Breve. Psicología y Salud 2013;23(1):55–62. Mohanraj R, Jeyaseelan V, Kumar S,
+Mani T, Rao D, Murray KR, et al. Cultural adaptation of the Brief COPE for persons living
+with HIV/AIDS in southern India. AIDS Behav 2015;19(2):341–51. CrossRef PubMed Su
+XY, Lau JT, Mak WW, Choi KC, Feng TJ, Chen X, et al. A preliminary validation of the Brief
+COPE instrument for assessing coping strategies among people living with HIV in China.
+Infect  Dis  Poverty  2015;4(1):41.  CrossRef  PubMed  California  Psychological  Inventory
+Gough HG. The construction of a personality scale to predict scholastic achievement. J
+Appl  Psychol  1953;37(5):361–6.  CrossRef  Dicken  CF.  Convergent  and  discriminant
+validity
+ of
+ the
+ California
+ Psychological
+ Inventory.
+ Educ
+ Psychol
+ Meas
+1963;23(3):449–59.  CrossRef  Darbes  A,  Mottesheard  N,  editors.  A  validity  check  of
+selected  cluster  scores  of  the  California  Psychological  Inventory  tests  of  239  college
+students.  Proceedings  of  the  West  Virginia  Academy  of  Science  1964;36:191–4.
+Goodstein  LD,  Schrader  WJ.  An  empirically-derived  managerial  key  for  the  California
+Psychological  Inventory.  J  Appl  Psychol  1963;47(1):42–5.  CrossRef  Gough  HG.  A
+managerial  potential  scale  for  the  California  Psychological  Inventory.  J  Appl  Psychol
+1984;69(2):233–40. CrossRef Knapp RR. Personality correlates of delinquency rate in a
+Navy  sample.  J  Appl  Psychol  1963;47(1):68–71.  CrossRef  Gough  HG.  Academic
+achievement in high school as predicted from the California Psychological Inventory. J
+Educ Psychol 1964;55(3):174–80. CrossRef Gough HG. Graduation from high school as
+predicted  from  the  California  Psychological  Inventory.  Psychol  Sch  1966;3(3):208–16.
+CrossRef  Chapuis  C,  Quintard  G,  Wourms  J.  A  new  personality  inventory:  the  CPI
+(California Psychological Inventory). Bull Psychol 1970;24(16-18):997–1004. Nishiyama
+T.
+ Cross-cultural
+ invariance
+ of
+ California
+ Psychological
+ Inventory.
+ Psychologia
+1973;16(2):75–84. Nishiyama T. Validation of the CPI femininity scale in Japan. J Cross
+Cult Psychol 1975;6(4):482–9. CrossRef Rosen A-S, Schalling D. On the validity of the
+California Psychological Inventory Socialization scale: a multivariate approach. J Consult
+Clin  Psychol  1974;42(6):757–65.  CrossRef  Gough  HG.  Estimation  of  locus-of-control
+scores from the California Psychological Inventory. Psychol Rep 1974;35(1 Pt 2):343–8.
+CrossRef  PubMed  Cohen  A,  Farley  FH.  The  common-item  problem  in  measurement:
+effects  on  cross-cultural  invariance  of  personality  inventory  structure.  Educ  Psychol
+Meas 1977;37(3):757–60. CrossRef Pitariu H, Helmine H. Investigarea personalităţii cu
+ajutorul Inventarului Psihologic California (CPI). Rev Psihol 1980;26(4):461–73. Pitariu H.
+Validation of the CPI femininity scale in Romania. J Cross Cult Psychol 1981;12(1):111–7.
+CrossRef  Ahmed  I.  Initial  psychometric  evaluation  of  URDU  version  of  California
+Psychological Inventory (CPI). Pak J Psychol Res 1986;(June 22):3–16. Torki MA. The CPI
+femininity scale in Kuwait and Egypt. J Pers Assess 1988;52(2):247–53. CrossRef Ying
+Y-W.  Validation  of  the  California  Psychological  Inventory  Femininity  Scale  in  Taiwan
+college graduates. J Multicult Couns Devel 1991;19(4):166–72. CrossRef Blake RJ, Potter
+EH  3d,  Slimak  RE.  Validation  of  the  structural  scales  of  the  CPI  for  predicting  the
+performance of junior officers in the U.S. Coast Guard. J Bus Psychol 1993;7(4):431–48.
+CrossRef  Collins  JM,  Schmidt  FL.  Personality,  integrity,  and  white  collar  crime:  a
+construct validity study. Person Psychol 1993;46(2):295–311. CrossRef Kadden RM, Litt
+MD,  Donovan  D,  Cooney  NL.  Psychometric  properties  of  the  California  Psychological
+Inventory  Socialization  scale  in  treatment-seeking  alcoholics.  Psychol  Addict  Behav
+1996;10(3):131–46. CrossRef Sandal GM, Endresen IM. The sensitivity of the CPI Good
+Impression  Scale  for  detecting  ‘faking  good’  among  Norwegian  students  and  job
+applicants.  Int  J  Sel  Assess  2002;10(4):304–11.  CrossRef  Cancer  Empowerment
+Questionnaire Shin SH, Park H. [Development and validation of the empowerment scale
+for  women  with  breast  cancer].  J  Korean  Acad  Nurs  2015;45(4):613–24.  Korean.
+CrossRef  PubMed  van  den  Berg  SW,  van  Amstel  FKP,  Ottevanger  PB,  Gielissen  MFM,
+Prins  JB.  The  cancer  empowerment  questionnaire:  psychological  empowerment  in
+breast  cancer  survivors.  J  Psychosoc  Oncol  2013;31(5):565–83.  CrossRef  PubMed
+Custers JAE, van den Berg SW, van Laarhoven HWM, Bleiker EMA, Gielissen MFM, Prins
+JB.  The  Cancer  Worry  Scale:  detecting  fear  of  recurrence  in  breast  cancer  survivors.
+Cancer Nurs 2014;37(1):E44–50. CrossRef PubMed Caregiver Well-Being Scale Tebb S.
+An
+ aid
+ to
+ empowerment:
+ a
+ caregiver
+ well-being
+ scale.
+ Health
+ Soc
+ Work
+1995;20(2):87–92. CrossRef PubMed Rubio DM, Berg-Weger M, Tebb SS. Assessing the
+validity  and  reliability  of  well-being  and  stress  in  family  caregivers.  Soc  Work  Res
+1999;23(1):54–64.  CrossRef  Berg-Weger  M,  Rubio  DM,  Tebb  SS.  The  Caregiver
+Well-Being  Scale  revisited.  Health  Soc  Work  2000;25(4):255–63.  CrossRef  PubMed
+Rubio  DM,  Berg-Weger  M,  Tebb  SS,  Lee  ES,  Rauch  S.  Objectifying  content  validity:
+conducting  a  content  validity  study  in  social  work  research.  Soc  Work  Res
+2003;27(2):94–104.  CrossRef  Tebb  SS,  Berg-Weger  M,  Rubio  DM.  The  Caregiver
+Well-Being  Scale:  developing  a  short-form  rapid  assessment  instrument.  Health  Soc
+Work 2013;38(4):222–30. CrossRef PubMed Demirtepe D, Bozo Õ. Bakici ıyilik ölçeği’nin
+uyarlama, güvenirlik ve geçerlik çalişması. Turk Psikol Yaz 2009;12(23)28–37. Chronic
+Illness Resources Survey Glasgow RE, Strycker LA, Toobert DJ, Eakin E. A social-ecologic
+approach  to  assessing  support  for  disease  self-management:  the  Chronic  Illness
+Resources Survey. J Behav Med 2000;23(6):559–83. CrossRef PubMed Eakin EG, Reeves
+MM, Bull SS, Riley KM, Floyd S, Glasgow RE. Validation of the Spanish-language version
+of  the  Chronic  Illness  Resources  Survey.  Int  J  Behav  Med  2007;14(2):76–85.  CrossRef
+PubMed College Student Hardiness Measure Atri A, Sharma M, Cottrell R. Role of social
+support,  hardiness,  and  acculturation  as  predictors  of  mental  health  among
+international  students  of  Asian  Indian  origin.  Int  Q  Community  Health  Educ
+2006-2007;27(1):59–73.  CrossRef  PubMed  Connor-Davidson  Resilience  Scale  Connor
+KM,  Davidson  JR.  Development  of  a  new  resilience  scale:  the  Connor-Davidson
+Resilience Scale (CD-RISC). Depress Anxiety 2003;18(2):76–82. CrossRef PubMed Baek
+H-S, Lee K-U, Joo E-J, Lee M-Y, Choi K-S. Reliability and validity of the Korean version of
+the Connor-Davidson Resilience Scale. Psychiatry Investig 2010;7(2):109–15. CrossRef
+PubMed  Notario-Pacheco  B,  Martínez-Vizcaíno  V,  Trillo-Calvo  E,  Pérez-Yus  MC,
+Serrano-Parra D, García-Campayo J. Validity and reliability of the Spanish version of the
+10-item
+ CD-RISC
+ in
+ patients
+ with
+ fibromyalgia.
+ Health
+ Qual
+ Life
+ Outcomes
+2014;12(1):14. CrossRef PubMed Jeong HS, Kang I, Namgung E, Im JJ, Jeon Y, Son J, et
+al.  Validation  of  the  Korean  version  of  the  Connor-Davidson  Resilience  Scale-2  in
+firefighters  and  rescue  workers.  Compr  Psychiatry  2015;59:123–8.  CrossRef  PubMed
+Sarubin N, Gutt D, Giegling I, Bühner M, Hilbert S, Krähenmann O, et al. Erste Analyse
+der  psychometrischen  Eigenschaften  und  Struktur  der  deutschsprachigen  10-  und
+25-Item  Version  der  Connor-Davidson  Resilience  Scale  (CD-RISC).  Z  Gesundh  psychol
+2015;23(3):112–22. CrossRef Ni MY, Li TK, Yu NX, Pang H, Chan BH, Leung GM, et al.
+Normative data and psychometric properties of the Connor-Davidson Resilience Scale
+(CD-RISC)  and  the  abbreviated  version  (CD-RISC2)  among  the  general  population  in
+Hong Kong. Qual Life Res 2016;25(1):111–6. CrossRef PubMed Xie Y, Peng L, Zuo X, Li
+M.  The  psychometric  evaluation  of  the  Connor-Davidson  resilience  scale  using  a
+Chinese
+ military
+ sample.
+ PLoS
+ One
+ 2016;11(2):e0148843.
+ CrossRef
+ PubMed
+Dispositional Resilience Scale Hystad SW, Eid J, Johnsen BH, Laberg JC, Thomas Bartone
+P. Psychometric properties of the revised Norwegian dispositional resilience (hardiness)
+scale.  Scand  J  Psychol  2010;51(3):237–45.  CrossRef  PubMed  Picardi  A,  Bartone  PT,
+Querci R, Bitetti D, Tarsitani L, Roselli V, et al. Development and validation of the Italian
+version  of  the  15-item  dispositional  resilience  scale.  Riv  Psichiatr  2012;47(3):231–7.
+PubMed Bartone PT. Predictors of stress-related illness in city bus drivers. J Occup Med
+1989;31(8):657–63.  CrossRef  PubMed  Five-Factor  Personality  Inventory  Hendriks  AJ,
+Hofstee  WK,  De  Raad  B.  The  Five-Factor  Personality  Inventory  (FFPI).  Pers  Individ  Dif
+1999;27(2):307–25.  CrossRef  Buchanan  T,  Johnson  JA,  Goldberg  LR.  Implementing  a
+five-factor  personality  inventory  for  use  on  the  internet.  Eur  J  Psychol  Assess
+2005;21(2):115–27.  CrossRef  Perugini  M,  Ercolani  AP.  Validity  of  the  five  factor
+personality  inventory  (FFPI):  an  investigation  in  Italy.  Eur  J  Psychol  Assess
+1998;14(3):234–48.  CrossRef  Marshall  GN,  Wortman  CB,  Vickers  RR  Jr,  Kusulas  JW,
+Hervig  LK.  The  five-factor  model  of  personality  as  a  framework  for  personality-health
+research. J Pers Soc Psychol 1994;67(2):278–86. CrossRef PubMed Salgado JF. The Five
+Factor  Model  of  personality  and  job  performance  in  the  European  Community.  J  Appl
+Psychol  1997;82(1):30–43.  CrossRef  PubMed  Rodríguez-Fornells  A,  Lorenzo-Seva  U,
+Andrés-Pueyo A. Psychometric properties of the Spanish adaptation of the Five Factor
+Personality  Inventory.  Eur  J  Psychol  Assess  2001;17(2):145–53.  CrossRef  Hendriks  AJ,
+Hofstee  WK,  Raad  BD.  The  five-factor  personality  inventory  (FFPI).  Pers  Individ  Dif
+1999;27(2):307–25.  CrossRef  Somer  O,  Korkmaz  M,  Tatar  A.  Bes  Faktör  Kisilik
+Envanteri’nin  Gelistirilmesi-I:  Ôlçek  ve  Alt  Ôlçeklerin  Olugturulmasi.  Turk  Psikol  Derg
+2002;17(49):21–33. Araz A, Erkus A. Duygu Disavurum Tarzlarinin Kavramsallastirilmasi
+ve  Ölçümü:  Bir  Envanter  Gelistirme  Çalismasi.  Turk  Psikol  Derg  2014;29(74):50–61.
+Fruyt  FD,  McCrae  RR,  Szirmák  Z,  Nagy  J.  The  five-factor  personality  inventory  as  a
+measure of the five-factor model: Belgian, American, and Hungarian comparisons with
+the  NEO-PI-R.  Assessment  2004;11(3):207–15.  CrossRef  PubMed  Sharma  S,  Deller  J,
+Biswal R, Mandal MK. Emotional intelligence: factorial structure and construct validity
+across  cultures.  Int  J  Cross  Cult  Manag  2009;9(2):217–36.  CrossRef  Inner  Strength
+Questionnaire Roux G, Lewis K, Younger J, Dingley C. Development and testing of the
+inner strength questionnaire. J Cult Divers 2003;10(1):4–5. PubMed Lewis KL, Roux G.
+Psychometric  testing  of  the  Inner  Strength  Questionnaire:  women  living  with  chronic
+health  conditions.  Appl  Nurs  Res  2011;24(3):153–60.  CrossRef  PubMed  Interpersonal
+Support  Evaluation  List  Brookings  JB,  Bolton  B.  Confirmatory  factor  analysis  of  the
+Interpersonal  Support  Evaluation  List.  Am  J  Community  Psychol  1988;16(1):137–47.
+CrossRef  PubMed  Schonfeld  IS,  Ruan  D.  Occupational  stress  and  preemployment
+measures  of  depressive  symptoms:  The  case  of  teachers.  J  Soc  Behav  Pers
+1991;6(7):95. Bates DS. Cross-sectional and longitudinal analyses of two measures of
+social support among the homeless [dissertation]. Buffalo (NY): State University of New
+York at Buffalo; 1995. Bates DS, Toro PA. Developing measures to assess social support
+among homeless and poor people. J Community Psychol 1999;27(2):137–56. CrossRef
+McColl MA, Skinner H. Assessing inter- and intrapersonal resources: social support and
+coping  among  adults  with  a  disability.  Disabil  Rehabil  1995;17(1):24–34.  CrossRef
+PubMed  Rintala  DH.  Predictive  validity  of  social  support  relative  to  psychological
+well-being in men with spinal cord injury. Rehabil Psychol 2013;58(4):422–8. CrossRef
+PubMed Bastardo YM, Kimberlin CL. Relationship between quality of life, social support
+and  disease-related  factors  in  HIV-infected  persons  in  Venezuela.  AIDS  Care
+2000;12(5):673–84.  CrossRef  PubMed  Delistamati  E,  Samakouri  MA,  Davis  EA,
+Vorvolakos  T,  Xenitidis  K,  Livaditis  M.  Interpersonal  Support  Evaluation  List  (ISEL)  —
+college  version:  validation  and  application  in  a  Greek  sample.  Int  J  Soc  Psychiatry
+2006;52(6):552–60.  CrossRef  PubMed  Szlachta  E.  The  adaptation  and  preliminary
+validation of the Polish version of the Interpersonal Support Evaluation List (ISEL). Prz
+Psychol  2009;52(4):433–51.  Baumann  M,  Lurbe  K,  Leandro  M-E,  Chau  N.  Life
+satisfaction of two-year post-stroke survivors: effects of socio-economic factors, motor
+impairment,  Newcastle  stroke-specific  quality  of  life  measure  and  World  Health
+Organization quality of life: bref of informal caregivers in Luxembourg and a rural area
+in Portugal. Cerebrovasc Dis 2012;33(3):219–30. CrossRef PubMed Mendoza F, Bastardo
+Y. PIH68 quality of life and social support among college students in Venezuela. Value
+Health  2012;15(4):A204.  CrossRef  Moretti  M,  Simonelli  A,  Melloni  M,  Ronconi  L.
+Interpersonal  Support  Evaluation  List  (ISEL):  validation  and  application  in  an  Italian
+sample. Psicol Soc 2012;(3):447–57. CrossRef Merz EL, Roesch SC, Malcarne VL, Penedo
+FJ,  Llabre  MM,  Weitzman  OB,  et  al.  Validation  of  Interpersonal  Support  Evaluation
+List-12  (ISEL-12)  scores  among  English-  and  Spanish-speaking  Hispanics/Latinos  from
+the  HCHS/SOL  Sociocultural  Ancillary  Study.  Psychol  Assess  2014;26(2):384–94.
+CrossRef PubMed Sacco E, Bientinesi R, Marangi F, D’Addessi A, Racioppi M, Gulino G,
+et  al.  [Overactive  bladder  syndrome:  the  social  and  economic  perspective].  Urologia
+2011;78(4):241–56. Italian. CrossRef PubMed Life Attitude Profile Reker G, Peacock E.
+The  Life  Attitude  Profile  (LAP):  a  multidimensional  instrument  for  assessing  attitudes
+towards life. Can J Behav Sci 1981;13(3):264–73. CrossRef Anagnostopoulos F, Slater J,
+Fitzsimmons  D,  Kolokotroni  P.  Exploring  global  meaning  in  Greek  breast  cancer
+patients:  validation  of  the  Life  Attitude  Profile  —  Revised  (LAP-R).  Psychooncology
+2011;20(4):419–27. CrossRef PubMed Mental Toughness Questionnaire (MTQ48) Clough
+P,  Earle  K,  Strycharczyk  D.  Developing  resilience  through  coaching:  MTQ48.  In:
+Passmore  J,  editor.  Psychometrics  in  coaching:  using  psychological  and  psychometric
+tools  for  development.  London  (GB):  Kogan  Page;  2008.  p.  208–23.  Gucciardi  DF,
+Hanton S, Mallett CJ. Progressing measurement in mental toughness: a case example of
+the
+ Mental
+ Toughness
+ Questionnaire
+ 48.
+ Sport
+ Exerc
+ Perform
+ Psychol
+2012;1(3):194–214.  CrossRef  Sheard  M,  Golby  J,  Van  Wersch  A.  Progress  toward
+construct  validation  of  the  Sports  Mental  Toughness  Questionnaire  (SMTQ).  Eur  J
+Psychol  Assess  2009;25(3):186–93.  CrossRef  Perry  JL,  Clough  PJ,  Crust  L,  Earle  K,
+Nicholls AR. Factorial validity of the mental toughness questionnaire-48. Pers Individ Dif
+2013;54(5):587–92. CrossRef Norbeck Social Support Questionnaire Norbeck JS, Lindsey
+AM, Carrieri VL. The development of an instrument to measure social support. Nurs Res
+1981;30(5):264–9. CrossRef PubMed La Roche MJ, Turner C, Kalick SM. Latina mothers
+and their toddlers’ behavioral difficulties. Hisp J Behav Sci 1995;17(3):375–84. CrossRef
+Post Traumatic Growth Inventory Tedeschi RG, Calhoun LG. The Posttraumatic Growth
+Inventory: measuring the positive legacy of trauma. J Trauma Stress 1996;9(3):455–71.
+CrossRef  PubMed  Mystakidou  K,  Tsilika  E,  Parpa  E,  Kyriakopoulos  D,  Malamos  N,
+Damigos  D.  Personal  growth  and  psychological  distress  in  advanced  breast  cancer.
+Breast  2008;17(4):382–6.  CrossRef  PubMed  Leiva-Bianchi  M,  Araneda  A.  Confirmatory
+factor analysis of the Post-Traumatic Growth Inventory after the Chilean earthquake. J
+Loss Trauma 2015;20(4):297–305. CrossRef Mack J, Herrberg M, Hetzel A, Wallesch CW,
+Bengel J, Schulz M, et al. The factorial and discriminant validity of the German version
+of  the  Post-traumatic  Growth  Inventory  in  stroke  patients.  Neuropsychol  Rehabil
+2015;25(2):216–32. CrossRef PubMed Saltzman BM, Frank JM, Slikker W, Fernandez JJ,
+Cohen  MS,  Wysocki  RW.  Clinical  outcomes  of  proximal  row  carpectomy  versus
+four-corner  arthrodesis  for  post-traumatic  wrist  arthropathy:  a  systematic  review.  J
+Hand  Surg  Eur  Vol  2015;40(5):450–7.  CrossRef  PubMed  Psychological  Capital
+Questionnaire Avey JB, Luthans F, Jensen SM. Psychological capital: a positive resource
+for combating employee stress and turnover. Hum Resour Manage 2009;48(5):677–93.
+CrossRef  Luthans  F,  Youssef  CM.  Positive  workplaces.  Oxford  handbook  of  positive
+psychology, 2nd edition. Oxford library of psychology. New York (NY): Oxford University
+Press;  2009.  p.  579–88.  Wang  Y,  Chang  Y,  Fu  J,  Wang  L.  Work-family  conflict  and
+burnout  among  Chinese  female  nurses:  the  mediating  effect  of  psychological  capital.
+BMC  Public  Health  2012;12(1):915.  CrossRef  PubMed  Psychological  Well-being
+Questionnaire Ryff CD, Keyes CLM. The structure of psychological well-being revisited. J
+Pers  Soc  Psychol  1995;69(4):719–27.  CrossRef  PubMed  Resilience  Scale  for  Adults
+Friborg  O,  Hjemdal  O,  Rosenvinge  JH,  Martinussen  M.  A  new  rating  scale  for  adult
+resilience: what are the central protective resources behind healthy adjustment? Int J
+Methods  Psychiatr  Res  2003;12(2):65–76.  CrossRef  PubMed  Friborg  O,  Barlaug  D,
+Martinussen  M,  Rosenvinge  JH,  Hjemdal  O.  Resilience  in  relation  to  personality  and
+intelligence. Int J Methods Psychiatr Res 2005;14(1):29–42. CrossRef PubMed Friborg O,
+Martinussen M, Rosenvinge JH. Likert-based vs. semantic differential-based scorings of
+positive psychological constructs: a psychometric comparison of two versions of a scale
+measuring resilience. Pers Individ Dif 2006;40(5):873–84. CrossRef Jowkar B, Friborg O,
+Hjemdal  O.  Cross-cultural  validation  of  the  Resilience  Scale  for  Adults  (RSA)  in  Iran.
+Scand J Psychol 2010;51(5):418–25. CrossRef PubMed Hjemdal O, Friborg O, Braun S,
+Kempenaers  C,  Linkowski  P,  Fossion  P.  The  Resilience  Scale  for  Adults:  construct
+validity  and  measurement  in  a  Belgian  sample.  Int  J  Test  2011;11(1):53–70.  CrossRef
+Hilbig J, Viliūnienė R, Friborg O, Pakalniškienė V, Danilevičiūtė V. Resilience in a reborn
+nation: validation of the Lithuanian Resilience Scale for Adults (RSA). Compr Psychiatry
+2015;60:126–33.  CrossRef  PubMed  Hjemdal  O,  Roazzi  A,  Dias  MG,  Friborg  O.  The
+cross-cultural validity of the Resilience Scale for Adults: a comparison between Norway
+and Brazil. BMC Psychol 2015;3(1):18. CrossRef PubMed Resistance to Trauma Test Urra
+Portillo J, Escorial Martín S, Martínez Arias R. Development and psychometric properties
+of the Resistance to Trauma Test (TRauma). Psicothema 2014;26(2):215–21. CrossRef
+PubMed  Response  to  Stressful  Experiences  Scale  Johnson  DC,  Polusny  MA,  Erbes  CR,
+King  D,  King  L,  Litz  BT,  et  al.  Development  and  initial  validation  of  the  Response  to
+Stressful  Experiences  Scale.  Mil  Med  2011;176(2):161–9.  CrossRef  PubMed  Sense  of
+Coherence Scale Eriksson M, Lindström B. Validity of Antonovsky’s sense of coherence
+scale: a systematic review. J Epidemiol Community Health 2005;59(6):460–6. CrossRef
+PubMed  Solution-Focused  Inventory  Grant  AM,  Cavanagh  MJ,  Kleitman  S,  Spence  G,
+Lakota M, Yu N. Development and validation of the Solution-Focused Inventory. J Posit
+Psychol  2012;7(4):334–48.  CrossRef  Yang  H,  Hai  T.  Reliability  and  validity  of  the
+Chinese version of the solution‐focused inventory in college students. J Multicult Couns
+Devel  2015;43(4):305–15.  CrossRef  Values  in  Action  Macdonald  C,  Bore  M,  Munro  D.
+Values  in  action  scale  and  the  big  5:  an  empirical  indication  of  structure.  J  Res  Pers
+2008;42(4):787–99. CrossRef Azañedo CM, Fernández-Abascal EG, Barraca J. Character
+strengths in Spain: validation of the Values in Action Inventory of Strengths (VIA-IS) in a
+Spanish  sample.  Clin  Salud  2014;25(2):123–30.  CrossRef  Choubisa  R,  Singh  K.
+Psychometrics  encompassing  VIA-IS:  a  comparative  cross  cultural  analytical  and
+referential reading. J Indian Acad Appl Psychol 2011;37(2):325–32. Duan W, Bai Y, Tang
+X, Siu PY, Ho S. Virtues and positive mental health. Ment Health (Lond) 2012;38(2):1–8.
+Duan  W,  Ho  SM,  Yu  B,  Tang  X,  Zhang  Y,  Li  T,  et  al.  Factor  structure  of  the  Chinese
+Virtues  Questionnaire.  Res  Soc  Work  Pract  2012;22(6):680–8.  CrossRef  Khumalo  IP,
+Wissing  MP,  Temane  QM.  Exploring  the  validity  of  the  Values-In-Action  Inventory  of
+Strengths  (VIA-IS)  in  an  African  context.  J  Psychol  Afr  2008;18(1):133–42.  CrossRef
+Littman-Ovadia  H.  The  effect  of  client  attachment  style  and  counselor  functioning  on
+career exploration. J Vocat Behav 2008;73(3):434–9. CrossRef Otake K, Shimai S, Ikemi
+A,  Utsuki  N,  Peterson  C,  Seligman  ME.  [Development  of  the  Japanese  version  of  the
+Values In Action Inventory of Strengths (VIA-IS)]. Shinrigaku Kenkyu 2005;76(5):461–7.
+CrossRef PubMed Top The opinions expressed by authors contributing to this journal do
+not  necessarily  reflect  the  opinions  of  the  U.S.  Department  of  Health  and  Human
+Services, the Public Health Service, the Centers for Disease Control and Prevention, or
+the authors’ affiliated institutions.
+Source URL: https://www.cdc.gov/pcd/issues/2021/20_0323.htm

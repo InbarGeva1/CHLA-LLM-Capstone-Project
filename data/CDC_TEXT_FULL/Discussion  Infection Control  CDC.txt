@@ -1,0 +1,128 @@
+A .gov website belongs to an official government organization in the United States. A
+lock (  ) or https:// means you've safely connected to the .gov website. Share sensitive
+information  only  on  official,  secure  websites.  Discussion  of  the  Management  of
+Multidrug-Resistant  Organisms  in  Healthcare  Settings  (2006)  guideline.  This  review
+demonstrates the depth of published science on the prevention and control of MDROs.
+Using a combination of interventions, MDROs in endemic, outbreak, and non-endemic
+settings have been brought under control. However, despite the volume of literature, an
+appropriate set of evidence-based control measures that can be universally applied in
+all  healthcare  settings  has  not  been  definitively  established.  This  is  due  in  part  to
+differences  in  study  methodology  and  outcome  measures,  including  an  absence  of
+randomized,  controlled  trials  comparing  one  MDRO  control  measure  or  strategy  with
+another. Additionally, the data are largely descriptive and quasi-experimental in design
+(311).  Few  reports  described  preemptive  efforts  or  prospective  studies  to  control
+MDROs before they had reached high levels within a unit or facility. Furthermore, small
+hospitals  and  LTCFs  are  infrequently  represented  in  the  literature.  A  number  of
+questions  remain  and  are  discussed  below.  Only  one  report  described  control  efforts
+directed at more than one MDRO, i.e., MDR-GNB and MRSA (312). Several reports have
+shown  either  decreases  or  increases  in  other  pathogens  with  efforts  to  control  one
+MDRO.  For  example,  two  reports  on  VRE  control  efforts  demonstrated  an  increase  in
+MRSA  following  the  prioritization  of  VRE  patients  to  private  rooms  and  cohort  beds
+(161). Similarly an outbreak of Serratia marcescens was temporally associated with a
+concurrent, but unrelated, outbreak of MRSA in an NICU (313). In contrast, Wright and
+colleagues reported a decrease in MRSA and VRE acquisition in an ICU during and after
+their successful effort to eradicate an MDR-strain of A. baumannii from the unit (210).
+Colonization with multiple MDROs appears to be common (314, 315). One study found
+that nearly 50% of residents in a skilled-care unit in a LTCF were colonized with a target
+MDRO and that 26% were co-colonized with >1 MDRO; a detailed analysis showed that
+risk factors for colonization varied by pathogen (316). One review of the literature (317)
+reported  that  patient  risk  factors  associated  with  colonization  with  MRSA,  VRE,
+MDR-GNB, C. difficile and Candida sp were the same. This review concluded that control
+programs  that  focus  on  only  one  organism  or  one  antimicrobial  drug  are  unlikely  to
+succeed  because  vulnerable  patients  will  continue  to  serve  as  a  magnet  for  other
+MDROs.  Several  authors  have  provided  evidence  for  the  cost-effectiveness  of
+approaches that use ASC (153, 191, 253, 318, 319). However, the supportive evidence
+often  relied  on  assumptions,  projections,  and  estimated  attributable  costs  of  MDRO
+infections. Similar limitations apply to a study suggesting that gown use yields a cost
+benefit  in  controlling  transmission  of  VRE  in  ICUs  (320).  To  date,  no  studies  have
+directly  compared  the  benefits  and  costs  associated  with  different  MDRO  control
+strategies. The subject of feasibility, as it applies to the extrapolation of results to other
+healthcare settings, has not been addressed. For example, smaller hospitals and LTCFs
+may lack the on-site laboratory services needed to obtain ASC in a timely manner. This
+factor  could  limit  the  applicability  of  an  aggressive  program  based  on  obtaining  ASC
+and  preemptive  placement  of  patients  on  Contact  Precautions  in  these  settings.
+However, with the growing problem of antimicrobial resistance, and the recognized role
+of all healthcare settings for control of this problem, it is imperative that appropriate
+human  and  fiscal  resources  be  invested  to  increase  the  feasibility  of  recommended
+control  strategies  in  every  setting.  Although  some  common  principles  apply,  the
+preceding literature review indicates that no single approach to the control of MDROs is
+appropriate  for  all  healthcare  facilities.  Many  factors  influence  the  choice  of
+interventions to be applied within an institution, including: Differences of opinion on the
+optimal strategy to control MDROs. Published guidance on the control of MDROs reflects
+areas of ongoing debate on optimal control strategies. A key issue is the use of ASC in
+control  efforts  and  preemptive  use  of  Contact  Precautions  pending  negative
+surveillance culture results (107, 321, 322). The various guidelines currently available
+exhibit a spectrum of approaches, which their authors deem to be evidence-based. One
+guideline  for  control  of  MRSA  and  VRE,  the  Society  for  Healthcare  Epidemiology  of
+America (SHEA) guideline from 2003 (107), emphasizes routine use of ASC and Contact
+Precautions.  That  position  paper  does  not  address  control  of  MDR-GNBs.  The  salient
+features
+ of
+ SHEA
+ recommendations
+ for
+ MRSA
+ and
+ VRE
+ control
+ and
+ the
+recommendations in this guideline for control of MDROs, including MRSA and VRE, have
+been compared (323); recommended interventions are similar. Other guidelines for VRE
+and MRSA, e.g., those proffered by the Michigan Society for Infection Control ([This link
+is no longer active www.msiconline.org/resource_sections/aro_guidelines.]), emphasize
+consistent  practice  of  Standard  Precautions  and  tailoring  the  use  of  ASC  and  Contact
+Precautions  to  local  conditions,  the  specific  MDROs  that  are  prevalent  and  being
+transmitted, and the presence of risk factors for transmission. A variety of approaches
+have reduced MDRO rates (3, 164, 165, 209, 214, 240, 269, 324). Therefore, selection
+of interventions for controlling MDRO transmission should be based on assessments of
+the local problem, the prevalence of various MDRO and feasibility. Individual facilities
+should  seek  appropriate  guidance  and  adopt  effective  measures  that  fit  their
+circumstances and needs. Most studies have been in acute care settings; for non-acute
+care  settings  (e.g.,  LCTF,  small  rural  hospitals),  the  optimal  approach  is  not  well
+defined.  Reports  describing  successful  control  of  MDRO  transmission  in  healthcare
+facilities  have  included  seven  categories  of  interventions  (Table  3).  As  a  rule,  these
+reports  indicate  that  facilities  confronted  with  an  MDRO  problem  selected  a
+combination of control measures, implemented them, and reassessed their impact. In
+some cases, new measures were added serially to further enhance control efforts. This
+evidence  indicates  that  the  control  of  MDROs  is  a  dynamic  process  that  requires  a
+systematic approach tailored to the problem and healthcare setting. The nature of this
+evidence gave rise to the two-tiered approach to MDRO control recommended in this
+guideline. This approach provides the flexibility needed to prevent and control MDRO
+transmission  in  every  kind  of  facility  addressed  by  this  guideline.  Detailed
+recommendations  for  MDRO  control  in  all  healthcare  settings  follow  and  are
+summarized  in  Table  3  (Tier  1).  Table  3,  which  applies  to  all  healthcare  settings,
+contains two tiers of activities. In the first tier are the baseline level of MDRO control
+activities  designed  to  ensure  recognition  of  MDROs  as  a  problem,  involvement  of
+healthcare  administrators,  and  provision  of  safeguards  for  managing  unidentified
+carriers of MDROs. With the emergence of an MDRO problem that cannot be controlled
+with the basic set of infection control measures, additional control measures should be
+selected from the second tier of interventions presented in Table 3 (Tier 2). Decisions to
+intensify MDRO control activity arise from surveillance observations and assessments of
+the risk to patients in various settings. Circumstances that may trigger these decisions
+include: The combination of new or increased frequency of MDRO isolates and patients
+at  risk  necessitates  escalation  of  efforts  to  achieve  or  re-establish  control,  i.e.,  to
+reduce  rates  of  transmission  to  the  lowest  possible  level.  Intensification  of  MDRO
+control activities should begin with an assessment of the problem and evaluation of the
+effectiveness  of  measures  in  current  use.  Once  the  problem  is  defined,  appropriate
+additional  control  measures  should  be  selected  from  the  second  tier  of  Table  3.  A
+knowledgeable
+ infection
+ prevention
+ and
+ control
+ professional
+ or
+ healthcare
+epidemiologist  should  make  this  determination.  This  approach  requires  support  from
+the  governing  body  and  medical  staff  of  the  facility.  Once  interventions  are
+implemented,  ongoing  surveillance  should  be  used  to  determine  whether  selected
+control measures are effective and if additional measures or consultation are indicated.
+The  result  of  this  process  should  be  to  decrease  MDRO  rates  to  minimum  levels.
+Healthcare facilities must not accept ongoing MDRO outbreaks or high endemic rates as
+the  status  quo.  With  selection  of  infection  control  measures  appropriate  to  their
+situation,  all  facilities  can  achieve  the  desired  goal  and  reduce  the  MDRO  burden
+substantially. CDC provides information on infection control and clinical safety to help
+reduce  the  risk  of  infections  among  healthcare  workers,  patients,  and  visitors.
+Languages Language Assistance Languages  Language Assistance 
+Source URL: https://www.cdc.gov/infection-control/hcp/mdro-management/discussion.html

@@ -1,0 +1,335 @@
+Official websites use .gov A .gov website belongs to an official government organization
+in  the  United  States.  Secure  .gov  websites  use  HTTPS  A  lock  (   )  or  https://  means
+you've  safely  connected  to  the  .gov  website.  Share  sensitive  information  only  on
+official, secure websites. The Influenza Division at CDC collects, compiles, and analyzes
+information  on  influenza  activity  year-round  in  the  United  States.  FluView,  a  weekly
+influenza surveillance report, and FluView Interactive, an online application that allows
+for  more  in-depth  exploration  of  influenza  surveillance  data,  are  updated  each
+week. The data presented each week are preliminary and may change as more data are
+received. The U.S. influenza surveillance system is a collaborative effort between CDC
+and its many partners in state, local, and territorial health departments, public health
+and clinical laboratories, vital statistics offices, health care providers, hospitals, clinics,
+emergency departments, and long-term care facilities. Information in five categories is
+collected  from  nine  data  sources  in  order  to:    It  is  important  to  maintain  a
+comprehensive system for influenza surveillance for the following reasons: 1. Virologic
+Surveillance  U.S.  World  Health  Organization  (WHO)  Collaborating  Laboratories
+System and the National Respiratory and Enteric Virus Surveillance System (NREVSS)
+– Approximately 100 public health and approximately 300 clinical laboratories located
+throughout all 50 states, Puerto Rico, Guam, and the District of Columbia participate in
+virologic  surveillance  for  influenza  through  either  the  U.S.  WHO  Collaborating
+Laboratories System or NREVSS. Influenza testing practices differ between public health
+and clinical laboratories, and each network provides valuable information for monitoring
+influenza  activity.  Clinical  laboratories  primarily  test  respiratory  specimens  for
+diagnostic purposes, and data from these laboratories provide useful information on the
+timing  and  intensity  of  influenza  activity.  Public  health  laboratories  primarily  test
+specimens  for  surveillance  purposes  to  understand  what  influenza  virus  types,
+subtypes,  and  lineages  are  circulating  and  the  ages  of  people  that  are  infected.  All
+public  health  and  clinical  laboratories  report  each  week  to  CDC  the  total  number  of
+respiratory  specimens  tested  for  influenza  and  the  number  positive  for  influenza
+viruses, along with age or age group of the person, if available. CDC presents data from
+clinical  laboratories  that  include  the  weekly  total  number  of  specimens  tested  for
+influenza, the number of positive influenza tests, and the percent positive by influenza
+virus  type.  For  public  health  laboratories,  CDC  presents  the  weekly  total  number  of
+specimens tested and the number positive by influenza virus type and subtype/lineage.
+In  order  to  obtain  specimens  in  an  efficient  manner,  public  health  laboratories  often
+receive samples that have already tested positive for influenza at a clinical laboratory.
+As  a  result,  monitoring  the  percent  of  specimens  testing  positive  for  influenza  in  a
+public  health  laboratory  is  less  useful  (i.e.,  we  expect  a  higher  percent  positive  than
+what  is  actually  occurring  in  the  community).  In  order  to  use  each  data  source  most
+appropriately  and  to  avoid  duplication,  reports  from  public  health  and  clinical
+laboratories are presented separately in both FluView and FluView Interactive. The age
+distribution of people who have tested positive for influenza reported from public health
+laboratories  can  be  visualized  in  FluView  Interactive.  The  number  and  proportion  of
+influenza virus-positive specimens by influenza A subtype and influenza B lineage are
+presented by age group (0-4 years, 5-24 years, 25-64 years, and ≥65 years) each week
+and  cumulative  totals  are  provided  for  the  season.  Additional  laboratory  data  for
+current and past seasons and by geographic level (national, Department of Health and
+Human  Services  (HHS)  region,  and  state)  are  available  on  FluView  Interactive.  Virus
+Characterization  –  This  includes  genetic  and  antigenic  characterization.  Most  viruses
+submitted  for  virus  characterization  in  the  United  States  come  from  state  and  local
+public health laboratories. Due to Right Size considerations, public health laboratories
+are  asked  to  submit  to  CDC  the  following  specimens,  if  available,  every  other  week
+during  the  2023-2024  season:  4  influenza  A(H1N1)pdm09,  6  influenza  A(H3N2),  4
+influenza  B/Victoria-lineage,  and  all  influenza  B/Yamagata-lineage  viruses.  Therefore,
+the number of viruses characterized will not reflect the actual proportion of circulating
+viruses. The goals of genetic and antigenic characterization are to assess how similar
+the  currently  circulating  influenza  viruses  are  to  viruses  used  to  produce  current
+influenza  vaccines  and  to  monitor  evolutionary  changes  that  continually  occur  in
+influenza  viruses  circulating  in  humans.  Specimens  received  from  public  health
+laboratories for virus characterization also serve as an important source of viruses to
+create
+ candidate
+ vaccine
+ viruses
+ for
+ use
+ in
+ future
+ influenza
+ seasons.
+For genetic characterization, all influenza-positive surveillance samples received at CDC
+undergo next-generation sequencing to determine their genetic identity.  This analysis
+identifies circulating influenza viruses and helps monitor the evolutionary trajectory of
+viruses  circulating  in  the  human  population.  Sequences  of  virus  gene  segments  are
+used  for  phylogenetic  analysis,  which  allows  categorization  of  viruses  by  genetic
+clades/subclades  based  on  the  similarity  of  the  hemagglutinin  gene  segment  and
+changes  in  the  protein  sequence.  However,  genetic  changes  that  classify  the
+clades/subclades do not always result in antigenic changes. Antigenic characterization
+is performed on a subset of viruses representing the genetic diversity in the population.
+Analysis includes hemagglutination inhibition and/or neutralization assays to compare
+antigenic properties of circulating viruses to those of cell culture- and egg-propagated
+reference  viruses  that  represent  viruses  used  in  the  current  influenza  vaccines.  This
+allows for the detection of “antigenic drift”, a term that describes the gradual antigenic
+change  that  occurs  as  viruses  evolve  to  escape  host  immune  pressure.  CDC  also
+analyzes  influenza  viruses  collected  by  public  health  laboratories  for  susceptibility  to
+influenza  antivirals,  including  neuraminidase  inhibitors  (oseltamivir,  zanamivir,  and
+peramivir) and a PA cap-dependent endonuclease inhibitor (baloxavir). Susceptibility to
+the  neuraminidase  inhibitors  is  assessed  using  next-generation  sequencing  analysis.
+Neuraminidase sequences of viruses are inspected to detect the presence of amino acid
+substitutions previously associated with reduced or highly reduced inhibition by any of
+the  three  neuraminidase  inhibitors.  In  addition,  a  subset  of  viruses  is  tested  using  a
+neuraminidase  inhibition  assay.  The  level  of  neuraminidase  activity  inhibition  is
+reported using the thresholds recommended by the WHO Expert Working Group of the
+Global Influenza Surveillance and Response System (GISRS).  Susceptibility to baloxavir
+is  assessed  using  next-generation  sequencing  analysis  to  identify  amino  acid
+substitutions in the PA protein previously associated with reduced susceptibility to this
+antiviral.  A  subset  of  representative  viruses  is  also  tested  phenotypically  using  a  cell
+culture-based assay (e.g., influenza replication inhibition neuraminidase-based assay –
+IRINA).  For  surveillance  purposes,  antiviral  susceptibility  is  typically  conducted  on
+viruses that are collected from patients not treated with influenza antivirals or before
+initiation  of  treatment.  Results  of  genetic  and  antigenic  characterization  and  antiviral
+susceptibility testing are presented in the virus characterization and antiviral resistance
+sections  of  the  FluView  report.  Surveillance  for  Novel  Influenza  A  Viruses  –  In  2007,
+human infection with a novel influenza A virus became a nationally notifiable condition
+in the United States. Novel influenza A virus infections include all human infections with
+influenza  A  viruses  that  are  different  from  currently  circulating  human  seasonal
+influenza  H1  and  H3  viruses.  These  viruses  include  those  that  are  subtyped  as
+nonhuman  in  origin  and  those  that  cannot  be  subtyped  with  standard  laboratory
+methods and reagents. Rapid detection and reporting of human infections with novel
+influenza  A  viruses  –  viruses  against  which  there  is  often  little  to  no  pre-existing
+immunity  in  the  population  –  is  important  to  facilitate  prompt  awareness  and
+characterization  of  influenza  A  viruses  with  pandemic  potential  and  accelerate  the
+implementation of public health responses to limit the transmission and impact of these
+viruses. Newly identified cases of human infections with novel influenza A viruses in the
+United States are reported in FluView and additional information, including case counts
+by  geographic  location,  virus  subtype,  and  calendar  year  or  season,  are  available
+on  FluView  Interactive.  2.  Outpatient  Illness  Surveillance  Information  on  outpatient
+visits to health care providers for respiratory illness referred to as influenza-like illness
+[ILI) is collected through the U.S. Outpatient Influenza-like Illness Surveillance Network
+(ILINet). ILINet consists of outpatient healthcare providers in all 50 states, Puerto Rico,
+the District of Columbia, and the U.S. Virgin Islands. More than 110 million patient visits
+were  reported  during  the  2022-23  season.  Each  week,  more  than  3,400  outpatient
+health care providers around the country report to CDC the number of patient visits for
+ILI by age group (0-4 years, 5-24 years, 25-49 years, 50-64 years, and ≥65 years) and
+the total number of visits for any reason. A subset of providers also reports total visits
+by age group. For this system, ILI is defined as fever (temperature of 100°F [37.8°C] or
+greater)  and  a  cough  and/or  a  sore  throat.  Since  the  2021-22  season,  the  case
+definition no longer includes “without a known cause other than influenza”. Since ILINet
+monitors  visits  for  ILI  and  not  laboratory-confirmed  respiratory  viruses,  it  will  capture
+visits due to any respiratory pathogen that presents with the symptoms of fever plus
+cough  or  sore  throat.  These  data  should  be  evaluated  in  the  context  of  other
+surveillance  data  to  obtain  a  complete  and  accurate  picture  of  influenza  activity.
+Additional data on medically attended visits for ILI for current and past seasons and by
+geographic level (national, HHS region, and state) are available on FluView Interactive.
+The national percentage of patient visits to healthcare providers for ILI reported each
+week is calculated by combining state-specific data weighted by state population. This
+percentage is compared each week with to the national baseline, which is 2.9% for the
+2023-2024  influenza  season.  The  baseline  is  developed  by  calculating  the  mean
+percentage of patient visits for ILI during non-influenza weeks for the most recent two
+seasons  and  adding  two  standard  deviations  (2021-2022  and  2022-2023).  A
+non-influenza  time  period  (e.g.,  a  “non-influenza  week”)  is  defined  as  two  or  more
+consecutive weeks in which each week accounted for less than 2% of the season’s total
+number  of  specimens  that  tested  positive  for  influenza  in  public  health  laboratories.
+Region-specific baselines are calculated using the same methodology. Due to the wide
+variability in regional level data, it is not appropriate to apply the national baseline to
+regional  data.  Regional  baselines  for  the  2023-2024  influenza  season  are:  Region
+1 —1.9%
+Connecticut, Maine, Massachusetts, New Hampshire, Rhode Island, and Vermont Region
+2 — 4.2%
+New Jersey, New York, Puerto Rico, and the U.S. Virgin Islands Region 3 — 2.4%
+Delaware,  District  of  Columbia,  Maryland,  Pennsylvania,  Virginia,  and  West  Virginia
+Region 4 — 3.3%
+Alabama,  Florida,  Georgia,  Kentucky,  Mississippi,  North  Carolina,  South  Carolina,  and
+Tennessee Region 5 — 2.3%
+Illinois, Indiana, Michigan, Minnesota, Ohio, and Wisconsin Region 6 — 3.7%
+Arkansas, Louisiana, New Mexico, Oklahoma, and Texas Region 7 — 2.0%
+Iowa, Kansas, Missouri, and Nebraska Region 8 — 3.2%
+Colorado, Montana, North Dakota, South Dakota, Utah, and Wyoming Region 9 — 3.6%
+Arizona, California, Hawaii, and Nevada Region 10 — 1.9%
+Alaska, Idaho, Oregon, and Washington   ILI Activity Indicator Map: — Activity levels in a
+jurisdiction  are  based  on  the  percent  of  outpatient  visits  due  to  ILI  compared  to  the
+average  percent  of  ILI  visits  that  occur  during  weeks  with  little  or  no  influenza  virus
+circulation (non-influenza weeks) in that jurisdiction. The number of sites reporting each
+week  is  variable;  therefore,  baselines  are  adjusted  each  week  based  on  which  sites
+within  each  jurisdiction  provide  data.  To  perform  this  adjustment,  provider  level
+baseline ILI ratios are calculated for providers that have a sufficient reporting history.
+Providers that do not have the required reporting history to calculate a provider-specific
+baseline  are  assigned  the  baseline  ratio  for  their  practice  type.  The  jurisdiction  level
+baseline  is  then  calculated  using  a  weighted  sum  of  the  baseline  ratios  for  each
+contributing provider. The activity levels compare the mean reported percent of visits
+due  to  ILI  during  the  current  week  to  the  mean  reported  percent  of  visits  due  to  ILI
+during  non-influenza  weeks.  The  13  activity  levels  correspond  to  the  number  of
+standard deviations below, at, or above the mean for the current week compared to the
+mean during non-influenza weeks. Activity levels are classified as minimal (levels 1-3),
+low (levels 4-5), moderate (levels 6-7), high (levels 8-10), and very high (levels 11-13).
+An  activity  level  of  1  corresponds  to  an  ILI  percentage  below  the  mean,  level  2
+corresponds to an ILI percentage less than 1 standard deviation above the mean, level
+3  corresponds  to  an  ILI  percentage  more  than  1  but  less  than  2  standard  deviations
+above  the  mean,  and  so  on,  with  an  activity  level  of  10  corresponding  to  an  ILI
+percentage  8  to  11  standard  deviations  above  the  mean.  The  very  high  levels
+correspond to an ILI percentage 12 to 15 standard deviations above the mean for level
+11, 16 to 19 standard deviations above the mean for level 12, and 20 or more standard
+deviations  above  the  mean  for  level  13.  The  ILI  Activity  Indicator  map  reflects  the
+intensity of ILI activity, not the extent of geographic spread of ILI, within a jurisdiction.
+Therefore,  outbreaks  occurring  in  a  single  area  could  cause  the  entire  jurisdiction  to
+display  high  or  very  high  activity  levels.  In  addition,  data  collected  in  ILINet  may
+disproportionally represent certain populations within a jurisdiction, and therefore, may
+not  accurately  depict  the  full  picture  of  respiratory  illness  activity  for  the  entire
+jurisdiction. Differences in the data presented here by CDC and independently by some
+health  departments  likely  represent  differing  levels  of  data  completeness  with  data
+presented  by  the  health  department  likely  being  more  complete.  The  ILI  Activity
+Indicator  Map  displays  state-specific  and  core-based  statistical  area  (CBSA)  specific
+activity  levels  by  week  for  multiple  seasons  and  allows  a  visual  representation  of
+relative  levels  of  ILI  activity  from  state  to  state.  More  information  is  available
+on
+ FluView
+ Interactive.
+ 3.
+ Hospitalization
+ Surveillance
+ FluSurv-NET
+Laboratory-confirmed  influenza-associated  hospitalizations  are  monitored  through  the
+Influenza
+ Hospitalization
+ Surveillance
+ Network
+ (FluSurv-NET).
+ FluSurv-NET
+ has
+conducted  population-based  surveillance  for  laboratory-confirmed  influenza-related
+hospitalizations in children younger than 18 years of age since the 2003-2004 influenza
+season and in adults since the 2005-2006 influenza season. The current network covers
+over  90  counties  or  county  equivalents  in  the  10  Emerging  Infections  Program  (EIP)
+states (CA, CO, CT, GA, MD, MN, NM, NY, OR, and TN) and four additional states through
+the  Influenza  Hospitalization  Surveillance  Project  (MI,  NC,  OH,  and  UT).  The  network
+represents approximately 9% of US population (~30 million people). A full description of
+this system is available at Influenza Hospitalization Surveillance Network (FluSurv-NET).
+FluSurv-NET data including hospitalization rates for multiple seasons and different age
+groups  and  data  on  patient  characteristics  (such  as  virus  type,  demographic,  and
+clinical information) are available on FluView Interactive.   National Healthcare Safety
+Network  (NHSN)  Hospitalization  Surveillance  During  the  COVID-19  pandemic,  all
+hospitals registered with CMS and non-CMS hospitals were required to report COVID-19
+and  influenza  information  on  laboratory  testing,  capacity  and  utilization,  and  patient
+flows to facilitate the public health response to the 2019 Novel Coronavirus (COVID-19)
+pandemic. As of December 15, 2022, these data are required to be reported to CDC’s
+NHSN, which monitors national and local trends in healthcare system stress, capacity,
+and community disease levels for approximately 6,000 hospitals in the United States.
+The detailed list of reported data elements are provided here. More information on the
+transition
+ to
+ the
+ NHSN
+ system
+ can
+ be
+ found
+ here:
+ https://www.cdc.gov/nhsn/covid19/transition.html.  Influenza  data  elements  include:
+The  numbers  of  new  hospital  admissions  with  laboratory-confirmed  influenza  virus
+infection  reported  to  NHSN  are  aggregated  by  week  at  the  national  and  HHS  region
+level.  New  hospital  admissions  are  defined  as  patients  who  were  admitted  to  an
+inpatient  bed  on  the  previous  calendar  day  and  had  a  positive  influenza  test  at
+admission  or  during  the  14  days  prior.  Laboratory  confirmation  includes  detection  of
+influenza  virus  infection  through  molecular  tests  (e.g.,  polymerase  chain  reaction,
+nucleic  acid  amplification),  antigen  detection  tests,  immunofluorescence  tests,  and
+virus  culture.  For  hospital  reporting,  laboratory-confirmed  influenza  is  categorized  as
+influenza
+ A
+ or
+ B.
+ These
+ datafiles
+ are
+ available
+ to
+ the
+ public
+ at
+https://data.cdc.gov/Public-Health-Surveillance/Respiratory-Virus-Response-RVR-United-
+States-Hospi/9t9r-e5a3.  Number  of  hospital  admissions,  ICU  hospitalizations,  and
+hospital  admissions  rates  for  the  current  season  and  the  2022-2023  season  by
+geographic  level  (national  and  HHS  region)  are  available  on  FluView  Interactive  4.
+Mortality Surveillance National Center for Health Statistics (NCHS) Mortality Surveillance
+Data  –  NCHS  collects  death  certificate  data  from  state  vital  statistics  offices  for  all
+deaths  occurring  in  the  United  States.  Deaths  included  in  this  component  of  the  U.S.
+Influenza Surveillance System are those which are classified based on ICD-10 multiple
+cause of death codes as associated with influenza, COVID-19, or pneumonia. Data are
+aggregated by the week of death occurrence. NCHS surveillance data are included in
+FluView  one  week  after  the  week  of  death  and  percentages  for  earlier  weeks  are
+continually revised and may increase or decrease as new and updated death certificate
+data  are  received  by  NCHS.  Three  measures  have  been  used  to  monitor  influenza
+mortality:  pneumonia  and/or  influenza  (P&I);  pneumonia,  influenza,  and/or  COVID-19
+(PIC); and influenza (I). Prior to the 2020-2021 influenza season, the NCHS surveillance
+data  were  used  to  calculate  the  percent  of  all  deaths  occurring  each  week  that  had
+pneumonia  and/or  influenza  (P&I)  listed  as  a  cause  of  death.  Since  many  influenza
+deaths and many COVID-19 deaths have pneumonia included on the death certificate,
+P&I does not measure the impact of influenza in the same way that it had prior to the
+COVID-19  pandemic.  This  is  because  the  proportion  of  pneumonia  deaths  associated
+with  influenza  is  now  influenced  by  COVID-19-related  pneumonia.  Beginning  in  the
+2020-2021 influenza season, COVID-19 coded deaths were added to P&I to create the
+PIC (pneumonia, influenza, and/or COVID-19) classification. PIC includes all deaths with
+pneumonia, influenza, and/or COVID-19 listed on the death certificate. Starting with the
+2023-2024 influenza season, the percent of deaths with influenza listed on the death
+certificate will be displayed in FluView. P&I no longer measures the impact of influenza
+in the same way it had prior to the COVID-19 pandemic, and the PIC measure is largely
+being  driven  COVID-19  activity  making  it  difficult  to  monitor  the  impact  of  influenza
+using
+ that
+ measure.
+ Although
+ monitoring
+ influenza-only
+ coded
+ deaths
+ will
+underestimate  the  full  impact  of  influenza  mortality,  this  measure  allows  for  tracking
+trends in the impact of influenza on mortality and is not as influenced by COVID-19 as
+the  other  two  measures.  Additionally,  influenza  burden  estimates  are  calculated  that
+account for underreporting of influenza on death certificates. All three measures will be
+available on FluView Interactive, including baselines and thresholds for P&I and PIC. The
+PIC  and  P&I  percentages  are  compared  to  a  seasonal  baseline  of  P&I  deaths  that  is
+calculated  using  a  periodic  regression  model  incorporating  a  robust  regression
+procedure applied to data from the four years prior to the COVID-19 pandemic (2015
+week  10  through  2020  week  9)  and  the  2022-2023  influenza  season.  An  increase  of
+1.645 standard deviations above the seasonal baseline of P&I deaths is considered the
+“epidemic  threshold,”  (i.e.,  the  point  at  which  the  observed  proportion  of  deaths
+attributed to pneumonia, influenza, or COVID-19 was significantly higher than would be
+expected  at  that  time  of  the  year  in  the  absence  of  substantial  influenza-  or
+COVID-19-related mortality). Additional influenza, P&I and PIC mortality data for current
+and  past  seasons  and  by  geographic  level  (national,  HHS  region,  and  state)  are
+available  on  FluView  Interactive.  Data  displayed  on  the  regional  and  state-level  are
+aggregated  by  the  state  of  residence  of  the  decedent.  Influenza-Associated  Pediatric
+Mortality  Surveillance  System  —  Influenza-associated  pediatric  mortality  became  a
+nationally
+ notifiable
+ condition
+ in
+ 2004.
+ For
+ surveillance
+ purposes,
+ an
+influenza-associated pediatric death is defined as a death in a person less than 18 years
+of age, resulting from a clinically compatible illness that was confirmed to be influenza
+by  an  appropriate  laboratory  diagnostic  test.  There  should  be  no  period  of  complete
+recovery  between  the  illness  and  death.  Demographic  and  clinical  information  is
+collected  on  each  case  and  reported  to  CDC.  Information  on  influenza-associated
+pediatric deaths including basic demographics, underlying medical conditions, bacterial
+co-infections, and place of death, is available on FluView Interactive for the current and
+past seasons. 5. Long-term Care Facilities The NHSN Long-term Care Facility influenza
+surveillance was reported during the 2021-2022 and 2022-2023 influenza seasons. This
+component  was  discontinued  in  2023.  Data  from  previous  seasons  influenza  seasons
+will remain available in past weekly surveillance reports. It is important to remember
+the following about influenza surveillance in the United States. To receive weekly email
+updates about Seasonal Flu, enter your email address:
+Source URL: https://www.cdc.gov/flu/weekly/overview.htm

@@ -1,0 +1,49 @@
+A .gov website belongs to an official government organization in the United States. A
+lock (  ) or https:// means you've safely connected to the .gov website. Share sensitive
+information only on official, secure websites. 
+Related Topics:
+ The  investigative  steps  described  on  this  page  aren't  linear.  Public  health  personnel
+may  have  already  performed  several  steps  during  their  routine  evaluation  of
+Legionnaires’  disease  case  reports.  Many  steps  will  occur  simultaneously  or  in  a
+sequence that varies during the course of an investigation. Every outbreak investigation
+is unique. Each requires careful planning and periodic reassessments to determine the
+most  appropriate  response.  Give  consideration  to  personnel,  resources,  or  other
+competing priorities within the state, territorial, or local health department.  The CDC
+Legionella  team  is  available  for  consultation  and  assistance,  either  remotely  or  in
+person. In general, state, territorial, and local health departments are best positioned to
+provide oversight for each step of the investigation process. This oversight helps ensure
+adherence  to  public  health  recommendations.   However,  health  departments  without
+the necessary resources to conduct every step may defer certain responsibilities to the
+building owner/manager. For example, the health department may not have personnel
+with  environmental  expertise  specific  to  Legionella  or  particular  equipment.  In  some
+situations, hiring professionals with specific expertise in managing Legionella may also
+be  helpful  for  building  owners.  See  these  factors  to  consider  when  working  with
+Legionella  consultants.  The  first  step  is  to  determine  if  a  full  investigation  is  needed.
+The  terms  "outbreak  investigation"  and  "full  investigation"  are  used  interchangeably.
+The steps of an outbreak investigation are the same for a full investigation in response
+to  a  single,  presumptive  healthcare-associated  case.  The  setting  can  impact  this
+decision. See the following pages for considerations specific to outbreaks: Once public
+health personnel determine a full investigation is needed, a series of steps should take
+place.  Perform  a  retrospective  review  of  cases  in  the  health  department  surveillance
+database.  Identify  earlier  cases  with  possible  exposures  to  the  same  setting  or
+geographic  area.  Develop  a  line  list  of  cases  associated  with  the  common  exposure
+setting or geographic area. Download CDC's line list templates.  Work with appropriate
+parties to identify additional prior cases. Perform a retrospective review of medical or
+laboratory records. Conduct active case surveillance to identify new cases as quickly as
+possible.  Learn  why  it's  also  important  for  healthcare  facilities.  Facilitate  testing  for
+Legionella  using  preferred  diagnostic  tests.  Obtain  and  test  post-mortem  specimens,
+when  applicable.  Consider  recommendations  for  restricting  water  exposures  or  other
+immediate  control  measures.  Communicate  with  stakeholders  as  appropriate  and
+develop  a  risk  communications  plan  if  necessary.  Work  with  appropriate  parties  to
+develop  or  review  and  possibly  revise  the  water  management  program.  Facilitate  an
+environmental  assessment  to  evaluate  possible  environmental  exposures.   Facilitate
+environmental  sampling,  as  indicated  by  the  environmental  assessment.  Make
+recommendations  for  remediation  of  possible  environmental  source(s),  if  indicated.
+Subtype and compare clinical and environmental isolates, if available.  Determine how
+long  heightened  disease  surveillance  and  environmental  sampling  should  continue  to
+ensure  the  outbreak  is  over.  Conduct  a  follow-up  assessment  and  environmental
+sampling to validate the effectiveness of implemented control measures. Epidemiology,
+environmental  health,  laboratory  science,  and  health  communication  all  play  critical
+roles  in  Legionnaires'  disease  investigations.  Languages  Language  Assistance
+Languages  Language Assistance 
+Source URL: https://www.cdc.gov/investigate-legionella/php/public-health-strategy/investigations.html

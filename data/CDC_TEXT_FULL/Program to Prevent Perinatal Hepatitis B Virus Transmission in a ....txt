@@ -1,0 +1,189 @@
+Persons using assistive technology might not be able to fully access information in this
+file. For assistance, please send e-mail to: mmwrq@cdc.gov. Type 508 Accommodation
+and the title of the report in the subject line of e-mail. Each year, an estimated 20,000
+infants are born to hepatitis
+B surface antigen (HBsAg)-positive women in the United States.
+These infants are at high risk for perinatal hepatitis B virus
+(HBV) infection, chronic HBV infection, and associated
+complications of chronic liver disease, including cirrhosis and
+hepatocellular carcinoma. All vaccine advisory groups recommend
+that all pregnant women be routinely tested for HBsAg during an
+early prenatal visit during each pregnancy to determine whether
+their newborns will require immunoprophylaxis for the prevention of
+perinatal HBV infection (1-4). Administration of appropriate
+immunoprophylaxis is approximately 90% effective in preventing HBV
+infection among children born to HBsAg-positive mothers (5). In
+1985, the Kaiser Permanente Medical Care Program of Northern
+California (KP) -- a health-maintenance organization (HMO)
+ providing
+care to 2.5 million members and delivering 30,000 infants annually
+ --
+implemented HBsAg screening of all pregnant women. After
+initiating the program, KP estimated that at least 25% of the
+infants born to HBsAg-positive women were not receiving appropriate
+post-exposure prophylaxis. In response, KP implemented a tracking
+and follow-up program in 1988. This report describes an assessment
+of the impact of this program, which indicates that a centralized
+case-management and tracking system can substantially improve
+levels of post-exposure prophylaxis.  The perinatal hepatitis B program is a component
+of the KP
+perinatal section that screens, tracks, and manages test results
+for HBsAg, syphilis, human immunodeficiency virus (HIV), and
+alphafetoprotein in pregnant women, as well as the state-mandated
+screening tests for their newborns. A central database is linked to
+32 prenatal clinics, 11 obstetric hospitals, 30 local laboratories,
+a  central  laboratory,  and  32  pediatric  clinics.   The  perinatal  hepatitis  B  program
+maintains a database of all
+HBsAg-positive pregnant women, including their estimated dates of
+confinement and designated prenatal clinic health-care providers.
+A list of the HBsAg-positive pregnant women expected to deliver
+during the next 3 months is produced weekly and reviewed daily at
+the central office for patient admission to obstetric hospitals.
+Staff from the perinatal hepatitis B program verify that
+appropriate prophylaxis is provided to at-risk infants at birth
+(hepatitis B immune globulin {HBIG} and first dose of hepatitis B
+vaccine) by direct communication with the medical staff at the
+obstetrics hospitals or by review of a faxed copy of the infant's
+medical record. They continue to track infants using an online
+vaccination tracking system to verify that follow-up doses of
+hepatitis B vaccine are administered at ages 1 and 6 months.
+Reminder letters are sent to pediatric providers before an infant's
+vaccination visit to ensure administration of the second and third
+doses of hepatitis B vaccine. The hepatitis B nurse coordinator
+consults with pediatric providers or designated staff members to
+schedule follow-up with patients who do not receive vaccines
+according to the recommended schedule.  Of the 188,498 infants delivered through the
+KP health-care
+system from 1990 through 1995, a total of 1712 (0.9%) were born to
+HBsAg-positive women. Almost all of these infants (1708 {99.8%})
+received HBIG and hepatitis B vaccine before hospital discharge. Of
+the 1511 infants who remained in the KP health plan, 94% completed
+the three-dose hepatitis B vaccine series by age 6-8 months, and
+all infants except one were completely vaccinated by age 24 months.
+KP conducts postvaccination serologic testing to determine whether
+infants responded to the vaccine or became infected with HBV;
+however, these results are not tracked through the perinatal
+program.  Reported by: E Schoen, MD, D Cohen, MPH, S Black, MD, C Limata,
+MSN, Kaiser Permanente Medical Care Program of Northern California,
+Oakland. Hepatitis Br, Div of Viral and Rickettsial Diseases,
+National  Center  for  Infectious  Diseases,  CDC.   Editorial  Note:  Prevention  of  perinatal
+HBV infection requires the
+coordinated transfer of information between outpatient and
+hospital-based providers to ensure that 1) pregnant women are
+screened for HBsAg and the results are transmitted to the delivery
+hospital, 2) infants of HBsAg-positive women receive HBIG and the
+appropriate dose of vaccine at birth, 3) infant vaccination is
+completed by age 6-8 months, and 4) the infant is tested after
+vaccination at age 9-15 months. Prevention programs without
+intensive case management and tracking have been only moderately
+successful in ensuring that children of HBsAg-positive mothers are
+identified and complete the vaccine series by age 6-8 months.  Before the initiation of
+federal funding of perinatal
+hepatitis B prevention programs in 1990, only 45% of infants born
+to HBsAg-positive mothers received appropriate prophylaxis at
+birth, and few (35%) had completed the vaccine series by age 6-8
+months (6,7). In 1990, perinatal hepatitis B prevention programs
+were implemented nationwide. Despite these programs, only an
+estimated 40% of the approximately 20,000 births to HBsAg-positive
+women are identified each year and entered into tracking systems.
+Of the infants who are tracked, approximately 90% receive
+appropriate prophylaxis at birth, and 60%-70% complete the vaccine
+series by age 6-8 months (8). Thus, only 5000-6000 of the 8000
+infants who are tracked receive appropriate and timely follow-up;
+the number of infants who are not tracked and who receive
+appropriate and timely follow-up is probably even lower.  Because the risk for perinatal
+HBV infection is increased for
+infants born to HBsAg-positive women and who have not started the
+series at birth or who have not completed the vaccine series by age
+6-8 months, the appropriate doses of HBIG and vaccine should be
+provided in a timely manner (9,10). In addition, because of the
+continuing risk for exposure among infants of HBsAg-positive
+mothers, postvaccination testing should be used to identify those
+infants who may not have responded to the initial three-dose series
+and  who  may  require additional  doses  of  vaccine.   The experience at KP  emphasizes
+the importance of a
+centralized management and tracking system for perinatal hepatitis
+B programs; this approach can improve identification, follow-up,
+and vaccination completion rates of infants born to HBsAg-positive
+mothers. Centralization ensures that all health-care providers and
+institutions have access to screening and tracking information -- a
+need especially important when different health-care providers and
+institutions provide the prenatal and perinatal care for the
+pregnant woman, delivery of the newborn, and follow-up care for the
+infant. In addition to this centralized approach, other important
+components include dedicated staff, computerized tracking systems,
+and provider-reminder and/or patient-recall systems (8). As with
+the prevention of perinatal HBV infection, intensive case
+management of mothers and their newborns, including centralized
+case management and tracking, may be useful in preventing other
+perinatal infectious diseases, including HIV infection, group B
+streptococcal disease, and congenital syphilis.  References  
+    Committee on Obstetrics, Maternal and Fetal Medicine.
+ Guidelines
+    for hepatitis B virus screening and vaccination during
+ pregnancy.
+    Washington, DC: American College of Obstetrics and Gynecology,
+    1990.  
+    CDC. Protection against viral hepatitis: recommendations of the
+    Immunization Practices Advisory Committee. MMWR 1990;39(no.
+ RR-2).  
+    Committee on Infectious Diseases. Report of the Committee on
+    Infectious Diseases. 22nd ed. Elk Grove Village, Illinois:
+ American
+    Academy of Pediatrics, 1991:238-55.  
+    American Academy of Family Physicians. Recommendations for
+    hepatitis B preexposure vaccination and postexposure
+ prophylaxis.
+    Kansas City, Missouri: American Academy of Family Physicians,
+    August 1992; order no. 966.  
+    Stevens CE, Taylor PE, Tong MJ, et al. Yeast-recombinant
+    hepatitis B vaccine: efficacy with hepatitis B immune globulin
+ in
+    prevention of perinatal hepatitis B virus transmission. JAMA
+    1987;257:2612-6.  
+    Birnbaum JM, Bromberg K. Evaluation of prophylaxis against
+    hepatitis B in a large municipal hospital. Am J Infect Control
+    1992;20:172-6.  
+    Klontz K. A program to provide hepatitis B immunoprophylaxis to
+    infants born to HBsAg-positive Asian and Pacific Island women.
+ West
+    J Med 1987;146:195-9.  
+    CDC. Prevention of perinatal hepatitis B through enhanced
+    case-management -- Connecticut, 1994-95, and United States,
+ 1994.
+    MMWR 1996;45:584-7.  
+    Kohn MA, Farley TA, Scott C. The need for more aggressive
+    follow-up of children born to hepatitis B surface antigen
+ positive
+    mothers: lessons learned from the Louisiana Perinatal Hepatitis
+ B
+    Immunization Program. Pediatr Infect Dis J 1996;15:535-40.  
+    Marion SA, Pastore MT, Pi DW, Mathias RG. Long term follow-up
+    of hepatitis B vaccine in infants of carrier mothers. Am J
+    Epidemiol 1994;140:734-46.  
+Disclaimer
+   All MMWR HTML versions of articles are electronic conversions from ASCII text into
+HTML.  This conversion may have resulted in character translation or format errors in
+the HTML version.  Users should not rely on this HTML document, but are referred to the
+electronic  PDF  version  and/or  the  original  MMWR  paper  copy  for  the  official  text,
+figures,  and  tables.   An  original  paper  copy  of  this  issue  can  be  obtained  from  the
+Superintendent of Documents, U.S. Government Printing Office (GPO), Washington, DC
+20402-9371;  telephone:  (202)  512-1800.  Contact  GPO  for  current  prices.  Page
+converted: 09/19/98 
+    HOME  |  
+    ABOUT MMWR  | 
+    MMWR SEARCH  | 
+    DOWNLOADS  | 
+    RSS 
+    |  
+    CONTACT
+POLICY  |  
+    DISCLAIMER  |  
+    ACCESSIBILITY 
+Morbidity and Mortality Weekly Report
+                Centers for Disease Control and Prevention
+                1600 Clifton Rd, MailStop E-90, Atlanta, GA 
+                  30333, U.S.A 
+Department of Healthand Human Services This page last reviewed 5/2/01 
+ 
+Source URL: https://www.cdc.gov/mmwr/preview/mmwrhtml/00047437.htm

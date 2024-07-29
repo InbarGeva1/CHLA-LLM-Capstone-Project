@@ -1,0 +1,72 @@
+  Persons using assistive technology might not be able to fully access information in this
+file. For assistance, please send e-mail to: mmwrq@cdc.gov. Type 508 Accommodation
+and the title of the report in the subject line of e-mail. In October 2010, a child at The
+Children's  Hospital  (TCH)  in  Aurora,  Colorado,  with  newly  diagnosed  leukemia
+developed  clinical  sepsis  24  hours  after  insertion  of  an  implanted  vascular  access
+device.  The  child  also  developed  extensive  cellulitis  at  the  insertion  site,  requiring
+surgical  debridement,  intensive  care,  antibiotics,  prolonged  wound  management,  and
+outpatient treatment. Cultures of the child's blood and tissue specimens grew Bacillus
+cereus. An investigation found neither breach of infection control procedures nor any
+violations  of  sterile  surgical  technique.   In  November  2010,  an  afebrile  infant  with
+congenital  heart  disease  was  admitted  to  TCH  for  respiratory  distress  and  developed
+fever and became clinically septic 4 days after an internal jugular line was placed. Four
+blood cultures from the infant grew B. cereus. The line was removed, and the infant had
+an  extended  hospital  stay  for  treatment  with  intravenous  antibiotics  before  being
+discharged.   The  subsequent  TCH  investigation  into  the  two  cases  focused  on  the
+following three single-use, disposable items used in the treatment of both patients: 1)
+sterile syringes prefilled with sterile saline solution, 2) sterile applicators packaged with
+a 2% chlorhexidine gluconate/70% alcohol solution for skin preparation, and 3) pledgets
+packaged  with  70%  isopropyl  alcohol  (alcohol  prep  pads  [APPs]).  The  APPs  were  not
+labeled as either sterile or nonsterile on the outside of the individual APP packages or
+the  box  the  APPs  were  contained  in.  Bacterial  cultures  of  samples  from  three  saline
+syringes and the liquid and pads from nine packages of chlorhexidine gluconate/alcohol
+skin  preparation  applicators  were  negative.  The  internal  alcohol  pads  from  60  APPs,
+obtained from various locations around TCH, also were cultured. Hospital investigators
+found that 40 of 60 pads, representing eight of 10 different manufacturing lots, yielded
+B. cereus or Bacillus spp. All of the pads were supplied by a single manufacturer. TCH
+contacted  the  Colorado  Department  of  Public  Health  and  Environment,  which  notified
+CDC and the Food and Drug Administration and performed confirmatory testing of TCH
+laboratory  findings.  Twenty-nine  B.  cereus  isolates,  21  from  cultured  APPs  and  eight
+from  TCH  patients  with  positive  cultures  during  May--November  2010,  were
+characterized by pulsed-field gel electrophoresis. Wide diversity was observed among
+the isolates, and no patient isolates matched APP isolates. Given this diversity and the
+time lapse between positive patient specimens and subsequent APP sampling, the lack
+of a match between the two groups was not considered to rule out APPs as the source
+of the B. cereus isolated from patients. APPs are supplied both as sterile and nonsterile
+products.  Sterile  products  are  clearly  labeled  as  such  and  should  not  be  mistaken
+and/or interchanged for nonsterile products. B. cereus group and Bacillus species are
+resistant to killing by alcohol (1) and have caused health-care--associated outbreaks of
+invasive  disease  (2,3).  Pseudoinfections  caused  by  B.  cereus--contaminated  products
+also have been reported (4). Health-care facilities, health-care providers, and users of
+APPs  should  know  whether  the  APPs  in  clinical  use  are  sterile  or  nonsterile  and  be
+aware  of  the  risk  for  iatrogenic  infection  if  nonsterile  APPs  are  used.  Manufacturers
+should know the importance of clearly labeling their products as sterile or nonsterile to
+avoid misuse by health-care facilities and health-care providers.  Based on the findings
+in this investigation, on November 19, TCH halted any use of nonsterile APPs and began
+using  sterile  APPs  exclusively  from  another  manufacturer.  In  January  2011,  the
+manufacturer voluntarily recalled all of its alcohol wipe products because of potential
+contamination (5).  SA Dolan, MS, E Dowell, C Littlehorn, MP Glode, MD, JK Todd, MD,
+The  Children's  Hospital,  Univ  of  Colorado  School  of  Medicine,  Aurora,  Colorado;  W
+Bamberg,  MD,  MK  Cichon,  Colorado  Dept  of  Public  Health  and  Environment.  Use  of
+trade  names  and  commercial  sources  is  for  identification  only  and  does  not  imply
+endorsement by the U.S. Department of 
+Health and Human Services. References to non-CDC sites on the Internet are 
+provided as a service to MMWR readers and do not constitute or imply 
+endorsement of these organizations or their programs by CDC or the U.S. 
+Department of Health and Human Services. CDC is not responsible for the content 
+of pages found at these sites. URL addresses listed in MMWR were current as of 
+the date of publication. All MMWR HTML versions of articles are electronic conversions
+from typeset documents. 
+This  conversion  might  result  in  character  translation  or  format  errors  in  the  HTML
+version. 
+Users are referred to the electronic PDF version (http://www.cdc.gov/mmwr) 
+and/or the original MMWR paper copy for printable versions of official text, figures, and
+tables. 
+An  original  paper  copy  of  this  issue  can  be  obtained  from  the  Superintendent  of
+Documents, U.S. 
+Government Printing Office (GPO), Washington, DC 20402-9371; 
+telephone: (202) 512-1800. Contact GPO for current prices.
+**Questions or messages regarding errors in formatting should be addressed to 
+mmwrq@cdc.gov. How do I view different file formats (PDF, DOC, PPT, MPEG) on this
+site? 
+Source URL: https://www.cdc.gov/mmwr/preview/mmwrhtml/mm6011a5.htm

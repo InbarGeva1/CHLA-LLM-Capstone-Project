@@ -1,0 +1,1853 @@
+Persons using assistive technology might not be able to fully access information in this
+file. For assistance, please send e-mail to: mmwrq@cdc.gov. Type 508 Accommodation
+and the title of the report in the subject line of e-mail. Summary  Group B streptococcus
+is a leading cause of serious neonatal
+infection. Most neonatal GBS infections can be prevented through
+the use of intrapartum antimicrobial prophylaxis in women who are
+at increased risk for transmitting the infection to their newborns.
+However, despite clinical trials that demonstrate the effectiveness
+of intrapartum antibiotic prophylaxis, prevention strategies have
+not been implemented widely or consistently, and the incidence of
+neonatal GBS disease has not declined. To promote a coordinated
+approach to prevention among obstetric- and pediatric-care
+practitioners and among supporting clinical microbiology laboratory
+personnel, CDC has developed prevention guidelines in conjunction
+with experts from relevant disciplines and with representatives of
+the American College of Obstetricians and Gynecologists, the
+American Academy of Pediatrics, and other professional
+organizations. This report provides the epidemiologic basis for
+prevention protocols, summarizes results of clinical trials
+demonstrating the efficacy of intrapartum antimicrobial agents,
+examines limitations of different approaches to prevention, and
+presents guidelines for the prevention of GBS disease. CDC
+recommends use of one of two prevention strategies. In the first
+strategy, intrapartum antibiotic prophylaxis is offered to women
+identified as GBS carriers through prenatal screening cultures
+collected at 35-37 weeks' gestation and to women who develop
+premature onset of labor or rupture of membranes at less than 37
+weeks' gestation. In the second strategy, intrapartum antibiotic
+prophylaxis is provided to women who develop one or more risk
+conditions at the time of labor or membrane rupture. Issues
+addressed by these prevention guidelines include the following: the
+appropriate clinical and laboratory methods required for prenatal
+screening programs designed to identify GBS carriers; risk
+conditions that indicate the need for intrapartum antibiotics;
+management of newborns whose mothers receive intrapartum antibiotic
+prophylaxis for GBS disease; and education of prenatal patients
+regarding GBS disease and the available prevention policy. These
+guidelines are intended for the following groups: a) providers of
+prenatal, obstetric, and pediatric care; b) supporting microbiology
+laboratories, hospital administrators, and managed-care
+organizations; c) childbirth educators; d) public health
+authorities; e) expectant parents; and f) advocacy groups for
+expectant  parents.   INTRODUCTION   Since  its  emergence  in  the  1970s,  group  B
+streptococcal (GBS)
+disease has been the leading bacterial infection associated with
+illness and death among newborns in the United States. Newborns at
+increased risk for GBS disease are those born to women who are
+colonized with GBS in the genital or rectal areas. Colonized women
+who experience either a long duration of membrane rupture,
+premature delivery, or intrapartum fever are at particularly high
+risk for transmitting GBS infection to their infants during labor
+and delivery. Infants who have GBS disease can require prolonged
+hospitalization and expensive supportive therapy, and survivors may
+suffer permanent disability (e.g., hearing or visual loss or mental
+retardation).  Many perinatal GBS infections can be prevented through
+intrapartum antimicrobial prophylaxis. GBS disease prevention
+programs require coordinated efforts among numerous specialties
+(e.g., providers of prenatal, obstetric, and pediatric care;
+supporting microbiology laboratories; managed-care organizations;
+quality assurance personnel; childbirth educators; and public
+health authorities).  CDC developed these GBS disease prevention guidelines through
+critical analysis of clinical trial data and subsequent review of
+guidelines by consultants representing numerous disciplines. In
+December 1994, a draft version of the guidelines was published in
+the Federal Register. On March 10, 1995, CDC convened a meeting of
+clinical experts, public health authorities, representatives from
+professional organizations, and patient advocates to further
+consider these guidelines. The guidelines published in this report
+have been reviewed by both the American College of Obstetricians
+and Gynecologists and the American Academy of Pediatrics. In
+addition, this document provides the epidemiologic basis for
+prevention protocols, summarizes results of clinical trials,
+examines limitations of various approaches to prevention, and
+presents  prevention  guidelines.   BACKGROUND   Group  B  streptococcus,  or
+Streptococcus agalactiae, is a
+gram-positive coccus that causes invasive disease primarily in
+newborns, pregnant women, and adults with underlying medical
+conditions (e.g., diabetes mellitus). In infants, GBS disease is
+characterized as either early-onset (i.e., occurring in infants
+less than 7 days of age) or late-onset (i.e., occurring in infants
+greater than or equal to 7 days of age). Disease in infants usually
+occurs as bacteremia, pneumonia, or meningitis (1). Other syndromes
+(e.g., cellulitis and osteomyelitis) also can occur. Approximately
+25% of the cases of neonatal GBS disease occurs in premature
+infants (2).  In pregnant women, GBS infection causes urinary tract
+infection, amnionitis, endometritis, and wound infection;
+stillbirths and premature delivery also have been attributed to GBS
+(1). In nonpregnant adults, skin or soft tissue infection,
+bacteremia, genitourinary infection, and pneumonia are the most
+common  manifestations  of  disease  (2,3).   The  case-fatality  rate  for  GBS  disease  is
+estimated to be 5%-
+20% for newborns (1,2,4) and 15%-32% (2,3,5) for adults. A recent
+multistate, active surveillance system in a population of 10
+million persons (2) demonstrated that 6% of early-onset GBS
+infections resulted in death. This case-fatality rate is lower than
+those reported previously (1,6), particularly the rates of 15%-50%
+observed in studies from the 1970s (7-9). This reduction in deaths
+most likely has resulted from improvements in neonatal care
+(10,11).   EPIDEMIOLOGY   Colonization   The  gastrointestinal  tract  is  the  most  likely
+human reservoir
+of GBS, with the genitourinary tract the most common site of
+secondary spread (1). Colonization rates can differ among ethnic
+groups, geographic locales, and by age; however, rates are similar
+for pregnant and nonpregnant women (1,12-14). In most populations
+studied, from 10% to 30% of pregnant women were colonized with GBS
+in the vaginal or rectal area (12,13,15,16). Of all infants born to
+colonized parturients, approximately 1%-2% will develop early-onset
+invasive disease (1).  The isolation rate of GBS from clinical specimens depends on
+several factors. Culturing specimens from both the anorectum and
+the vaginal introitus increases the likelihood of GBS isolation by
+5%-27% over vaginal culture alone (15-17). The use of selective
+media (i.e., broths containing antimicrobial agents to inhibit
+competing organisms) is essential because they can increase the
+yield of screening cultures by as much as 50% (18,19). Appropriate
+selective broth media -- either SBM broth or Lim broth -- are
+commercially  available.   Incidence  of  Neonatal  Disease   Multistate,  population-based
+methods of case-finding have been
+used to estimate the incidence of neonatal GBS disease in the
+United States. Age- and race-adjusted projections from multistate
+surveillance suggested that, in 1990, 7,600 episodes (i.e.,
+incidence rate of 1.8 per 1,000 live births) and 310 deaths in the
+United States resulted from GBS disease among infants less than or
+equal to 90 days of age (2). Early-onset infections accounted for
+approximately 80% of neonatal GBS infections (2). Based on data
+from early case-series, long-term neurologic sequelae have been
+estimated to occur in 15%-30% of meningitis survivors (1); more
+recent estimates of the incidence and costs of sequelae from
+neonatal GBS disease are not available.  Risk Factors for Perinatal GBS Disease  Results
+of studies indicate that several obstetric, maternal,
+and neonatal factors increase the likelihood that early-onset GBS
+disease will occur in a newborn (Table_1). Infants born to
+ women
+who were identified prenatally as GBS carriers had 29 times the
+risk of early-onset disease than did infants born to women whose
+prenatal cultures were negative (20). In the same study population,
+deliveries in which prematurity, longer duration of membrane
+rupture, or intrapartum fever occurred were approximately seven
+times more likely to be complicated by early-onset GBS disease
+(20).  The incidence of GBS disease also is higher among infants born
+to mothers who are less than 20 years of age (21,22) or of black
+race (2,21). Other women with increased likelihood of delivering an
+infant who has invasive GBS disease are those with heavy
+colonization of GBS in genital cultures (8) or with low levels of
+anti-GBS capsular antibody (23) and women who previously delivered
+an infant who had GBS disease (24-26). Women with GBS bacteriuria
+during pregnancy usually are heavily colonized with GBS and appear
+to be at increased risk for perinatal transmission (27-30).
+Although multiple gestation has been suggested as a risk factor for
+GBS disease (31,32), only one study indicated increased risk
+independent of prematurity (31). Recent large studies failed to
+detect increased risk associated with multiple gestation (21,22).
+Risk factors identified for neonates include low birth weight and
+heavy  surface  colonization  with  GBS  (8,33).   Determinants  of  late-onset  GBS  disease
+are not well
+documented; however, some evidence suggests that late-onset disease
+can be acquired through either vertical or nosocomial transmission
+(6,34,35), although acquisition of disease from community sources
+also is possible (14).  The role of GBS colonization in maternal infections was
+recently investigated (36). Factors that independently increased
+the risk for clinical amnionitis included GBS colonization,
+duration of membrane rupture (i.e., greater than 6 hours), duration
+of internal monitoring (i.e., greater than 12 hours), and number of
+vaginal examinations (i.e., more than six) (36).  PREVENTION STRATEGIES  Almost half
+the cases of invasive GBS disease occurs in
+newborns (2); therefore, efforts to prevent GBS disease have been
+concentrated on this group. Research has focused on either inducing
+protective immunity in the newborn (active and passive
+immunization) or eradicating colonization from the mother and/or
+newborn  (chemoprophylaxis).   Immunization   Several  studies  have  indicated  that
+susceptibility to neonatal
+GBS disease is caused by a deficiency of maternal anticapsular
+antibody (23,37). Active maternal immunization may prevent
+peripartum maternal disease and neonatal disease by transplacental
+transfer  of  protective  IgG  antibodies  (38).   Several  vaccines  designed  to  induce
+antibodies against the
+polysaccharide capsule of GBS are being developed (39). These
+vaccines can potentially be used to prevent GBS disease in
+nonpregnant adults as well. The potential impact of effective
+vaccines may be limited because of reduced transplacental transport
+of protective antibody before 32-34 weeks' gestation and because of
+possible difficulty in making the vaccine available to pregnant
+women.   Chemoprophylaxis   Efficacy  Studies   Administering  antimicrobial  agents  to
+pregnant women before
+the onset of labor or rupture of membranes is not likely to prevent
+neonatal GBS disease; however, some early studies have indicated
+that maternal colonization might be reduced by this method (40,41).
+In one study, asymptomatic pregnant women colonized with GBS were
+given oral antimicrobial drugs for 1 week during the third
+trimester; more than 30% of those treated were still colonized at
+delivery, and no substantial difference was observed in carriage of
+the organism at delivery between treated and untreated groups (42).
+Another study indicated that nearly 70% of colonized women who were
+treated for 12-14 days during the third trimester were colonized 3
+weeks later and again at delivery even when their sex partners also
+had been treated (43).  Postnatal chemoprophylaxis with intramuscular penicillin
+administered to infants just after birth also has been studied.
+Only one prospective, randomized, controlled study has been
+published in which blood cultures were collected from all newborns
+before chemoprophylaxis was conducted (44). In this study, in which
+only low-birth-weight infants were observed, no differences were
+observed between treated and untreated groups in either the
+incidence of early- or late-onset GBS disease or in mortality.
+Another study suggested that postnatal chemoprophylaxis with
+penicillin may decrease neonatal illness caused by GBS (45,46).
+However, no significant effect on overall mortality was observed,
+and mortality associated with penicillin-resistant pathogens was
+higher in the penicillin-treated group than in the control group
+(1.0 versus 0.4 deaths per 1,000 live births, p=0.06) (46). Because
+the majority of neonatal GBS infections are acquired in utero,
+antimicrobial agents administered to neonates, although useful for
+treatment,  are  unlikely  to  prevent  the  majority  of  GBS  disease.   Intrapartum
+chemoprophylaxis (i.e., administration of
+antimicrobial agents after onset of labor or membrane rupture but
+before delivery) is the most likely method of preventing both
+early-onset disease and maternal illness resulting from GBS;
+several antimicrobial regimens have been used for intrapartum
+chemoprophylaxis (Table_2). Several studies have indicated that
+intrapartum chemoprophylaxis decreases neonatal colonization (47-
+51) and early-onset invasive disease (50-53) when administered to
+unselected  pregnant  women  colonized  with  GBS  (Table_3).   Other  studies  have
+examined the use of intrapartum
+chemoprophylaxis for selected women colonized with GBS who were at
+increased risk for delivering an infant who had GBS disease. The
+only prospective, randomized, controlled clinical trial in which
+this approach was used focused on pregnant women colonized with GBS
+who experienced either preterm labor or membrane rupture (at less
+than 37 weeks' gestation) or prolonged rupture of membranes
+(greater than 12 hours before delivery) (54). In a preliminary
+study of the obstetric population in the same community, the
+incidence of early-onset GBS disease in this high-risk group was
+eightfold greater than among colonized women without any of these
+risk factors and 45-fold greater than among women with these risk
+factors
+ who
+ were
+ not
+ colonized
+ (Table_1)
+ (20,55,56).
+ 
+ In
+ the
+ intrapartum
+chemoprophylaxis trial, colonized mothers
+with preterm labor or whose membranes ruptured greater than 12
+hours before delivery were randomly selected to receive either
+intravenous ampicillin or no chemoprophylaxis. Infants born to
+mothers in the treatment (85 infants) and control groups (79
+infants) differed substantially with respect to neonatal
+colonization (9% versus 51%, p less than 0.001) and early-onset
+invasive disease (0% versus 6%, p less than 0.02). Postpartum
+maternal febrile illness also was substantially reduced in the
+treatment group (p less than 0.04). Researchers estimated that this
+strategy could prevent at least 50% of the early-onset GBS
+infections  in  their  patient  population  (54).   Other  studies  also  have  documented  the
+protective efficacy of
+intrapartum chemoprophylaxis administered to GBS carriers in
+certain high-risk groups (e.g., women with heavy genital
+colonization {57,58} and with rupture of membranes at less than or
+equal to 34 weeks' gestation and greater than 12 hours before labor
+onset {59}). The published studies of the efficacy of intrapartum
+chemoprophylaxis are summarized (Table_3). A recent
+ meta-analysis
+of seven trials, which included studies of carriers with and
+without risk factors, estimated a 30-fold reduction in early-onset
+GBS disease with intrapartum chemoprophylaxis (60). Other
+investigators have argued that, because of the heterogeneity of
+therapeutic interventions and flaws in trial methods, combining
+results of GBS chemoprophylaxis trials is inappropriate (61).  Identification of Carriers 
+Most of the studies of intrapartum chemoprophylaxis have been
+used to evaluate its impact on subsets of women who had been
+identified as GBS carriers. Although the GBS carriage rate in
+pregnancy does not change with trimester (12,14), the duration of
+carriage is unpredictable (14), and prenatal screening cultures
+will not correctly identify all women with intrapartum GBS
+carriage. The later in pregnancy that cultures are performed, the
+closer the correlation with intrapartum culture results. However,
+scheduling routine cultures late in pregnancy means that some women
+who deliver prematurely will not be screened for GBS. In one study,
+when selective (antimicrobial-containing) broth medium was used and
+cultures were obtained from both the vagina and anorectum, only
+7.4% of women with a negative culture at 26-28 weeks were found to
+carry GBS at delivery (16). The same study indicated that a single
+positive GBS culture during pregnancy was 67% predictive of a
+positive culture at delivery; the estimated sensitivity and
+specificity were 70.0% and 90.4%, respectively (16). Among 26 women
+whose prenatal cultures were obtained less than or equal to 5 weeks
+before delivery, there was 100% concordance with intrapartum
+culture status (i.e., no false-negative or false-positive prenatal
+cultures) (16). Data from follow-up of more than 5,000 deliveries
+by women who had had prenatal cultures for GBS indicated that 14
+(88%) of the 16 infants who developed early-onset GBS disease were
+born to mothers who were detected prenatally as carriers (56).  Optimal identification of
+GBS carriers is dependent on
+technique. The correlation of prenatal culture results with
+intrapartum GBS carriage is likely to be reduced substantially when
+screening does not incorporate appropriate culture sites (i.e.,
+rectum and vaginal introitus), timing (as close to delivery as
+feasible), and culture medium (selective broth). Because cultures
+of specimens from the vagina and rectum are more sensitive than
+specimens from the cervix, (13), pelvic examination or
+visualization of the cervix by speculum examination should not be
+performed for collection of screening cultures. Appropriate broth
+media are commercially available (e.g., SBM broth or Lim broth).
+When a transport medium (e.g., Amies' medium) is used, group B
+streptococci from rectovaginal swabs will survive at room
+temperatures for up to 96 hours, permitting shipment from satellite
+clinics to a central microbiology laboratory.  Selection Criteria  Because of the findings
+of a randomized clinical trial,
+investigators recommended intrapartum chemoprophylaxis for those
+women identified through prenatal cultures as GBS carriers who
+subsequently develop one of the following signs: rupture of
+membranes greater than 12 hours before delivery, onset of labor or
+membrane rupture at less than 37 weeks' gestation, or intrapartum
+fever (temperature greater than 99.5 F {greater than 37.5 C}) (54).
+The American Academy of Pediatrics (AAP) supports the use of this
+strategy and added the following indications for intrapartum
+chemoprophylaxis: previous delivery of an infant with GBS disease
+and multiple-gestation pregnancy in a GBS carrier (62).  In another report, investigators
+proposed an approach to GBS
+prevention that focused on prevention of disease associated with
+premature birth (63). That proposal suggested administering
+intrapartum antimicrobial agents to women with preterm labor or
+preterm rupture of membranes who were either colonized with GBS or
+whose colonization status was unknown. However, strategies designed
+to prevent infection only in preterm deliveries would have limited
+impact nationwide because less than 30% of all infants with GBS
+disease  are  preterm  (2).   A  pragmatic  approach  to  determining  the  need  for
+antimicrobial
+prophylaxis was advocated by the American College of Obstetricians
+and Gynecologists (64,65). This strategy consists of using
+intrapartum antimicrobial agents for all women with one or more of
+the following conditions: preterm labor (at less than 37 weeks'
+gestation), premature rupture of membranes (at less than 37 weeks'
+gestation), prolonged rupture of membranes (i.e., greater than 18
+hours before delivery), previous child affected by symptomatic GBS
+infection, or maternal fever during labor (65). This approach is
+less complex than protocols requiring either prenatal or
+intrapartum identification of GBS carriage; however, its efficacy
+against disease has not been evaluated in the controlled clinical
+trial setting, nor has the impact of the strategy on disease been
+measured  in  routine  clinical  practice.   In  Australia,  researchers  evaluated  a  strategy
+that
+recommended intrapartum penicillin prophylaxis for all women
+identified as GBS carriers through prenatal cultures collected at
+32 weeks' gestation (53). Although the study was not a randomized
+trial, data from the study indicated a substantially lower
+incidence of early-onset GBS disease among the 30,197 women in the
+screened population compared with the 26,915 deliveries in the
+population that had no prenatal screening (p=0.04) (53).  Clinical trials have not been
+conducted that directly compare
+the efficacy of the suggested prevention strategies. Conducting a
+study designed to find a statistically significant difference in
+efficacy may not be feasible; a recent article estimated that
+100,000 women would be required for each study group of a
+randomized prospective trial comparing the efficacy of universal
+screening and selective intrapartum chemoprophylaxis with treatment
+based on risk factors alone (66). This limitation is reflected in
+a recent national consensus statement by the Society of
+Obstetricians and Gynaecologists of Canada and the Canadian
+Paediatric Society, which recommended use of either universal
+screening and selective intrapartum chemoprophylaxis or prophylaxis
+based on risk factors alone; the statement underscored the need for
+further prevention research (67).  A combination of the features of a screening-based
+strategy
+and a strategy focused on prematurity offers a comprehensive
+approach to perinatal GBS prevention. This combination strategy
+relies on detection of GBS by rectovaginal cultures collected at
+35-37 weeks' gestation; because some preterm deliveries will occur
+before culture results are available, the strategy also provides
+for intrapartum chemoprophylaxis for women who begin labor and/or
+membrane rupture before 37 completed weeks' gestation (i.e., unless
+results of the GBS culture are already available and are negative).
+Antibiotics would be offered intrapartum to all GBS carriers and to
+women at less than 37 weeks' gestation whose culture status is
+unknown. For women with rupture of membranes at less than 37 weeks
+who are not in labor, obstetric-care providers may choose either to
+begin antimicrobial prophylaxis until cultures are completed and
+negative or to delay beginning antimicrobial prophylaxis until a
+positive culture is identified. Data regarding which of these
+approaches is the most effective are not available. For women at
+greater than or equal to 37 weeks' gestation, if antenatal GBS
+culture status is unknown, antibiotics would be given if
+intrapartum fever is present or if membrane rupture has been
+greater than 18 hours. This precise strategy has not been directly
+evaluated in clinical trials, although treatment of all GBS
+carriers identified through screening at 32 weeks' gestation was
+evaluated in a trial in Australia (53). Data from another study
+demonstrated that the closer to delivery screening cultures are
+collected, the higher the predictive value of the test (16). In
+addition, this combination strategy and 18 other strategies have
+been evaluated by decision analysis (68); results indicate that the
+combination strategy would require intrapartum antimicrobial
+prophylaxis in 26.7% of deliveries and would prevent approximately
+86% of the cases of early-onset disease. Comparative estimates for
+other  strategies  also  are  provided  (Table_4).   Adverse  Effects   Because  a  substantial
+proportion of pregnant women are
+colonized with GBS, administration of intrapartum chemoprophylaxis
+to all GBS carriers may cause an unacceptably high number of
+adverse reactions. Administering intrapartum antimicrobial agents
+to all women who are GBS carriers could result in approximately 10
+deaths per year from anaphylaxis, assuming a GBS colonization rate
+of 25%, 4 million deliveries in the United States annually, and a
+rate of fatal anaphylaxis to penicillin of 0.001% (69). Another
+0.7%-10% of women to whom prophylaxis is administered is expected
+to have less severe reactions (70). Severe complications can occur
+in the fetus even when maternal anaphylaxis is not life threatening
+(71).  Widespread antimicrobial use also increases the risk for
+emergence of antimicrobial-resistant organisms. Infections with
+penicillin-tolerant GBS have been described (72-74), but GBS
+isolates have not developed clinically important resistance to
+penicillin. Development of antimicrobial resistance in other
+peripartum pathogens is a greater threat. In one study,
+investigators reported four episodes of adverse perinatal outcome
+caused by antimicrobial-resistant Enterobacteriaceae among women
+treated with ampicillin or amoxicillin for premature rupture of
+membranes (75).  Restricting antimicrobial agents to selected populations at
+increased risk for delivering a newborn with GBS disease would
+decrease the likelihood of adverse reactions and
+antimicrobial-resistant infections. Administering intrapartum
+ampicillin to women identified prenatally as GBS carriers who have
+rupture of membranes for greater than 12 hours, labor or membrane
+rupture at less than 37 weeks' gestation, or intrapartum fever
+(temperature greater than 99.5 F {greater than 37.5 C}) would have
+required administering antimicrobial agents to 4.6% of the
+obstetric population served by one urban hospital (54). In another
+approach, administering antimicrobial agents to women with either
+labor or membrane rupture at less than 37 weeks' gestation who are
+intrapartum carriers of GBS or whose GBS status is unknown was
+estimated to require prophylaxis for 8.9% of parturients (63).
+Strategies that treat all GBS carriers (53) or all women with
+obstetric risk factors (e.g., prolonged membrane rupture and
+prematurity) (64) are estimated to require administering
+antimicrobial agents in a substantially higher proportion of
+deliveries.  Penicillin G may be preferable to ampicillin for routine
+prophylaxis (76). Ampicillin and penicillin G have similar activity
+against GBS, and both cross the placenta and achieve bactericidal
+levels in fetal tissues. However, ampicillin has a broader spectrum
+of antimicrobial activity than penicillin; thus, widespread
+prophylaxis with ampicillin may be more likely to lead to selection
+of resistant organisms than would widespread use of penicillin
+(76).  Implementation of Chemoprophylaxis  Despite the encouraging results of efficacy
+studies, routine
+GBS screening and selective intrapartum chemoprophylaxis have not
+been widely adopted in the obstetric community (65,77). Practical
+problems include logistic concerns related to screening for GBS
+colonization and concern about the cost-effectiveness of
+implementing  chemoprophylaxis.   A  strategy  based  on  detecting  colonization  by
+prenatal
+screening and using these results to guide selective intrapartum
+chemoprophylaxis would not be effective for women who are not
+receiving prenatal care or whose prenatal records are not available
+to health-care providers at the time of delivery. Ideally, GBS
+carriage would be determined at the time of labor onset or at
+rupture of membranes. However, because identification of GBS by
+culture takes 24-48 hours, intrapartum culture results would not be
+available in time for intervention in most deliveries. Rapid
+detection of GBS antigen from vaginal specimens may identify GBS
+carriers when prenatal screening is not available (78). Although
+rapid tests for detection of GBS are specific and many recently
+developed tests can be performed in less than 1 hour, the
+sensitivity of rapid-detection tests has been variable and, often,
+unacceptably low (15%-74%) (78). Some rapid-detection kits are
+sensitive for detecting women who are heavily colonized. Three
+studies have confirmed the efficacy of intrapartum chemoprophylaxis
+administered to women identified by rapid-detection techniques as
+GBS carriers (57-59). However, because many infants with neonatal
+GBS disease are born to women who are lightly colonized (59,79),
+using currently available rapid-detection techniques to identify
+women for prophylaxis would probably prevent only a minority of GBS
+cases.  The cost-effectiveness of selective intrapartum
+chemoprophylaxis for the prevention of GBS disease has been studied
+by using population-based rates of disease (80). The approach
+evaluated by two investigators (54) and later endorsed by AAP (62)
+was demonstrated to be cost-effective at the current rates of
+disease (80). The cost per case prevented (less than $35,000) was
+similar to that associated with maternal screening and intervention
+programs for other perinatal diseases (e.g., congenital syphilis)
+(81). Data from four other studies also have suggested that
+selective intrapartum chemoprophylaxis is cost-effective for the
+prevention of neonatal GBS disease (56,68,82,83). In particular,
+one study evaluated the combination strategy (i.e., prophylaxis for
+all women with preterm membrane rupture or labor whose culture
+status is unknown and for all GBS carriers identified through
+cultures obtained late in the pregnancy); this combination strategy
+was cost saving and was among the least expensive of 18 potential
+preventive strategies (68).  Implementation of chemoprophylaxis is limited by two
+additional problems. First, clinicians have been concerned about
+adopting a strategy that inevitably will have failures (64). This
+concern may be influenced by the complexity of communicating risk
+information regarding GBS to women during pregnancy or by
+medicolegal considerations. Previous efforts to promote use of
+intrapartum chemoprophylaxis for only those GBS carriers who
+develop intrapartum complications (e.g., longer duration of
+membrane rupture, fever, or less than 37 weeks' gestation) appear
+to have been poorly accepted by both clinicians and patients. Some
+clinicians and patient groups have advocated informed consent for
+women who are GBS carriers. For example, women colonized with GBS
+would be informed of their risk for early-onset GBS disease
+(approximately 1 in 200). Also, the potential risks of intrapartum
+penicillin would be described (mild allergic reaction:
+approximately 1 in 10; anaphylaxis: approximately 1 in 10,000; and
+fatal anaphylaxis: approximately 1 in 100,000). Thus, patients
+could make an informed decision regarding intrapartum antibiotics.
+In instances in which this approach has been applied, few women
+choose  not  to  receive  antibiotics  during  labor.   A  second  problem  is  that  increasing
+intrapartum antimicrobial
+use may have a substantial impact on clinical management of the
+newborn (84,85). Some pediatricians routinely perform additional
+diagnostic tests on all infants whose mothers received intrapartum
+antimicrobial agents or observe these infants longer, leading to
+prolonged hospital stays for many newborns who are low risk for GBS
+disease (84). The decision of how to manage newborns whose mothers
+received intrapartum antimicrobial agents can be based on clinical
+manifestations, the infant's estimated gestational age, and the
+adequacy of intrapartum antibiotics (62). An algorithm for
+evaluating and managing infants after administration of maternal
+antibiotics has been developed as an empiric guide; however,
+clinical evaluation of alternative approaches remains appropriate
+at this time.  Some of the challenges of instituting a prevention strategy
+are illustrated in two recent reports. In the first report,
+investigators initiated selective intrapartum chemoprophylaxis in
+their hospital in response to an increased rate of early-onset GBS
+disease (85). They enrolled 2,040 women, 332 (16.3%) of whom were
+colonized with GBS. Among women colonized at delivery, 122 (37%)
+had at least one obstetric risk factor and, according to the
+hospital's protocol, should have received intrapartum
+chemoprophylaxis. The circumstances of 16 (13%) women who did not
+receive intrapartum chemoprophylaxis illustrate some limitations of
+this strategy; these women did not receive intrapartum
+antimicrobial drugs because they either delivered less than 1 hour
+after arriving at the hospital (n=9), had had no prenatal care
+(n=3), or had had a negative prenatal culture but had a positive
+culture at delivery (n=4). Intrapartum chemoprophylaxis was not
+administered to an additional 17 (14%) women because protocol was
+not followed. Eleven infants had early-onset GBS disease; two had
+received one dose of intrapartum chemoprophylaxis and were
+asymptomatic; and nine were born to carriers with risk factors who
+did not receive intrapartum chemoprophylaxis. No affected infants
+were born to colonized women without risk factors or to women whose
+prenatal screening cultures were negative for GBS. One woman who
+received intrapartum chemoprophylaxis developed a rash and
+transient hypotension and was delivered by cesarean section because
+of transient fetal bradycardia. The study suggested that selective
+intrapartum chemoprophylaxis was effective in preventing
+early-onset GBS disease, that the infants of colonized women
+without labor complications are at low risk for disease, and that
+administering intrapartum antimicrobial agents is not without
+risks.  The second report illustrates that a prevention strategy
+employing selective intrapartum chemoprophylaxis is not easily
+implemented (86). In this study, which was conducted in an academic
+setting, 114 (80.3%) of 142 women who had positive GBS screening
+cultures and who developed risk factors at delivery received
+intrapartum antimicrobial drugs. Reasons for failing to receive
+appropriate treatment included failure to follow protocol, marginal
+indications for chemoprophylaxis, or patient refusal. Early results
+of the study suggest that institution of the protocol was
+associated  with  a  downward  trend  in  the  rate  of  disease.   DISCUSSION   Group  B
+streptococcal disease continues to be a major cause of
+illness and death among newborns despite clinical advances in the
+last two decades. Major risk factors for early-onset neonatal GBS
+disease include maternal GBS colonization, longer duration of
+membrane rupture, intrapartum fever, less than 37 weeks' gestation,
+GBS bacteriuria during pregnancy, and previous delivery of an
+infant who had GBS disease (6,21,25,27). A substantial number of
+cases of early-onset neonatal GBS disease can be prevented by
+administering prophylactic antimicrobial agents during labor (56).
+Furthermore, obtaining specimens from the lower vagina and rectum
+during the third trimester for culture in selective broth media
+will identify the vast majority of women who are colonized with GBS
+at delivery. Increasing evidence suggests that treating
+GBS-infected newborns is more costly than preventing the infection
+and that well-implemented prevention programs can substantially
+reduce illness and death resulting from GBS disease
+(56,68,80,82,83). Any prevention program for GBS must be
+implemented carefully. For example, failure to use optimal culture
+methods can compromise the effectiveness of screening strategies.
+A recent survey of obstetric-care providers in Georgia identified
+several barriers to effective prevention activities. For example,
+only 9% of providers who obtained screening cultures followed
+recommended procedures and 32% administered antimicrobial agents
+prenatally when carriage was detected even though 93% of providers
+stated they knew such treatment to be ineffective (87).  An optimal prevention strategy
+currently is a combination of
+routine prenatal screening for GBS colonization late in pregnancy
+and empiric management of those preterm deliveries that occur
+before the GBS culture is available. This approach includes
+collecting rectovaginal cultures at 35-37 weeks' gestation and
+offering intrapartum treatment to all carriers. Because some
+preterm deliveries occur before culture results are available, the
+strategy also provides for intrapartum chemoprophylaxis for women
+who begin labor and/or membrane rupture before 37 completed weeks'
+gestation (unless results of the GBS culture are already available
+and are negative).  Criticism of previous screening-based strategies has included
+concerns regarding the predictive value of prenatal cultures, the
+ethical and legal difficulties inherent in withholding intrapartum
+antibiotics from GBS carriers without risk factors, and the
+pressure experienced by clinicians to respond to antenatal GBS
+carriage results by treating with oral antimicrobial agents remote
+from delivery. Critics of empiric approaches have been concerned
+that despite use of intrapartum antimicrobial prophylaxis in a
+substantial proportion of deliveries, the strategy does not prevent
+the 25% of all early-onset GBS cases that occur in GBS carriers
+without risk factors. Further, empiric approaches do not address
+the strong preference of some patients and providers for prenatal
+screening  cultures.   Rationale  for  Screening-Based  Approach  to  Prevention   The
+combination of late prenatal-screening cultures and
+empiric management offers several potential advantages over
+exclusive reliance on either a screening-based approach or an
+empiric approach. Because the combination strategy schedules
+collection of a GBS culture at 35-37 weeks' gestation, the
+concordance of prenatal and intrapartum GBS carriage status will be
+high. Thus, false-negative prenatal culture results will be
+minimized (i.e., few women with negative cultures at 35-37 weeks'
+gestation will become colonized with GBS by the time of delivery),
+and nearly all women identified antenatally as carriers will still
+be carrying the organism at delivery, potentially justifying
+exposing this group to adverse effects associated with antibiotics.
+Even women who begin prenatal care late in gestation should be
+eligible for late screening. By avoiding collection of cultures
+earlier in gestation, this strategy should reduce pressure on
+clinicians to treat GBS carriage antenatally. Because all GBS
+carriers will be offered intrapartum chemoprophylaxis, clinicians
+will not need to wait for the development of intrapartum risk
+factors in a GBS carrier (e.g., duration of membrane rupture
+greater than 18 hours or intrapartum fever). Intrapartum
+prophylaxis for most women can therefore begin earlier, so that
+most GBS carriers will be administered antimicrobial agents greater
+than 4 hours before delivery or in time for adequate antibiotic
+levels to be reached in amniotic fluid. In one analysis, the
+combination of late prenatal screening and intrapartum prophylaxis
+of carriers and preterm deliveries was estimated to prevent
+approximately 86% of early-onset disease, was cost-saving compared
+with no intervention, and was among the least expensive of 18
+potential  preventive  strategies  (68).   Large-scale  clinical  experience  with  the
+combination approach
+previously described is not yet available, although the strategy
+has been applied in several institutions. The theoretical
+advantages of this approach address most concerns that have been
+raised regarding the prevention strategies previously considered.
+Although antimicrobial prophylaxis will be used in a high
+proportion of deliveries, some clinicians and patients have found
+selective approaches (e.g., treating only carriers with risk
+factors) unacceptable, because treatment is withheld from a group
+of women with moderately increased risk of GBS disease -- GBS
+carriers without intrapartum risk factors. Assessment of the
+current situation suggests that any prevention program that is
+acceptable to both clinicians and their patients will involve using
+antimicrobial prophylaxis in a substantial proportion of
+deliveries; thus, the strategy that directs use of these
+antimicrobial agents to women at the highest risk for GBS disease
+seems reasonable. Communication mechanisms and information systems
+should be developed and monitored to ensure that prenatal culture
+results  are  available  at  the  time  and  place  of  delivery.   Research  into  Enhancing
+Prevention  A program combining late prenatal screening for GBS with
+empiric treatment of women with preterm deliveries is not a
+permanent solution to the problem of neonatal GBS disease, although
+it may be a reasonable option that is available now. A more
+sensitive rapid-screening test for GBS that could accurately detect
+women who carry GBS at the time of delivery would obviate the need
+for prenatal screening. Sensitive intrapartum testing also would
+permit detection of GBS carriage among women who did not receive
+adequate prenatal care. Because an intrapartum test might detect a
+higher proportion of women who carry the organism at delivery and
+will not detect women who only carry the organism earlier in
+pregnancy, intrapartum use of a sensitive rapid-detection test
+could make a prevention program simpler and more efficient. An
+adequate rapid-detection test must be a) sensitive (e.g., 85%-90%
+compared with culture in selective broth media); b) rapid (results
+available to clinicians in time for antibiotics to be given before
+delivery); and c) convenient (for integration into routine
+laboratory use). Even a highly sensitive rapid-detection test would
+not be adequate if results were not available to clinicians 24
+hours a day, 7 days a week. Development of a vaccine against GBS
+that is highly immunogenic in women and permits transplacental
+transfer of protection to the fetus also would eliminate the need
+for prenatal screening and could potentially address the problem of
+late-onset GBS disease, which intrapartum antimicrobial agents do
+not prevent.  Surveillance and Evaluation  Because incidence may vary widely, state or
+local health
+departments or groups of affiliated hospitals should consider
+either establishing surveillance systems for neonatal GBS disease
+or reviewing data from existing systems to identify the current
+magnitude of disease and gain further information for evaluating
+the effectiveness of prevention measures. In hospital settings,
+prevention programs should monitor the occurrence of adverse
+reactions to chemoprophylaxis, the emergence of perinatal
+infections caused by antimicrobial-resistant organisms, and the
+impact of obstetric antimicrobial use on pediatric management
+protocols.  RECOMMENDATIONS  Enhanced communication among personnel in multiple
+disciplines
+is needed to ensure that programs for prevention of GBS disease
+succeed. Open communication between clinicians and patients is a
+critical component of GBS disease prevention. An informational
+brochure for pregnant women on GBS is available through CDC
+(Childhood and Respiratory Diseases Branch, Division of Bacterial
+and Mycotic Diseases, National Center for Infectious Diseases,
+Mailstop C09, Atlanta, GA 30333; Internet address:
+http://www.cdc.gov/ncidod/diseases/bacter/strep_b.htm. The
+following recommendations for the prevention of GBS disease will
+need periodic reappraisal to incorporate advances in technology or
+other refinements in prevention strategies.  
+    Obstetric-care practitioners, in conjunction with supporting
+    laboratories and labor and delivery facilities, should adopt a
+ strategy
+    for the prevention of early-onset GBS disease. Patients should
+ be
+    informed regarding the GBS prevention strategy.  
+    Regardless of which preventive strategy is used, a) women with
+    symptomatic or asymptomatic GBS bacteriuria detected during
+ pregnancy
+    should be treated at the time of diagnosis; because such women
+ are
+    usually heavily colonized with GBS, they should also receive
+    intrapartum chemoprophylaxis; and b) women who previously have
+ given
+    birth to an infant with GBS disease should receive intrapartum
+    chemoprophylaxis; prenatal screening is not necessary for these
+ women.  
+    Until further data become available to define the most
+ effective
+    strategy, the following two approaches are appropriate:  Screening-Based Approach.
+All pregnant women should be screened
+ at
+35-37 weeks' gestation for anogenital GBS colonization
+ (Figure_1).
+Patients should be informed of screening results and of
+ potential
+benefits and risks of intrapartum antimicrobial prophylaxis for
+ GBS
+carriers. Information systems should be developed and monitored
+ to
+ensure that prenatal culture results are available at the time
+ and
+place of delivery. Intrapartum chemoprophylaxis should be
+ offered to
+all pregnant women identified as GBS carriers by culture at
+ 35-37
+weeks' gestation.  
+    If the result of GBS culture is not known at the time of
+ labor,
+    intrapartum antimicrobial prophylaxis should be
+ administered if one
+    of the following risk factors is present: less than 37
+ weeks'
+    gestation, duration of membrane rupture greater than or
+ equal to 18
+    hours, or temperature greater than or equal to 100.4 F
+ (greater
+    than or equal to 38.0 C).  
+    Culture techniques that maximize the likelihood of GBS
+ recovery
+    should be used. Because lower vaginal and rectal cultures
+ are
+    recommended, cultures should not be collected by speculum
+    examination. The optimal method for GBS screening is
+ collection of
+    a single standard culture swab or two separate swabs of the
+ distal
+    vagina and anorectum. Swabs may be placed in a transport
+ medium
+    (e.g., Amies') if the microbiology laboratory is offsite.
+ The
+    sample should be identified for the laboratory as
+ specifically for
+    GBS culture. Specimens should be inoculated into selective
+ broth
+    medium (either SBM broth or Lim broth), followed by
+ overnight
+    incubation and then subcultured onto solid blood agar
+ medium. In
+    this screening culture, there is no need for the laboratory
+ to
+    culture for other organisms. A laboratory procedure to
+ maximize
+    recovery of GBS is detailed (Box 1 Table_B1).  
+    Laboratories should report results (both positive and
+ negative) to
+    both the anticipated site of delivery and the health-care
+ provider
+    who ordered the test. Ideally, laboratories that perform
+ GBS
+    cultures will ensure that clinicians have continuous access
+ (i.e.,
+    24 hours a day, 7 days a week) to culture results.  
+    Oral antimicrobial agents should not be used to treat women
+ who are
+    found to be colonized with GBS during prenatal screening.
+ Such
+    treatment is not effective in eliminating carriage or
+ preventing
+    neonatal disease.  Risk-Factor Approach. A prophylaxis strategy based on the
+ presence of
+    intrapartum risk factors alone (e.g., less than 37 weeks'
+ gestation,
+    duration of membrane rupture greater than or equal to 18 hours,
+ or
+    temperature greater than or equal to 100.4 F {greater than or
+ equal to
+    38.0 C}) is an acceptable alternative (Figure_2).  For intrapartum chemoprophylaxis,
+intravenous penicillin G (5
+ mU
+initially and then 2.5 mU every 4 hours) should be administered
+ until
+delivery (Box 2 Table_B2). Intravenous ampicillin (2 g
+ initially
+and then 1 g every 4 hours until delivery) is an acceptable
+ alternative
+to penicillin G, but penicillin G is preferred because it has a
+ narrow
+spectrum and thus is less likely to select for antibiotic
+ resistant
+organisms. Clindamycin or erythromycin may be used for women
+ allergic
+to penicillin, although the efficacy of these drugs for GBS
+ disease
+prevention has not been measured in controlled trials. (Note:
+Penicillin G does not need to be administered to women who have
+clinical diagnoses of amnionitis and who are receiving other
+ treatment
+regimens that include agents active against streptococci {e.g.,
+ampicillin  or  clindamycin}.)   5.   Routine  use  of  prophylactic  antimicrobial  agents  for
+infants
+ born to  mothers who received intrapartum prophylaxis is not
+ recommended.
+However, therapeutic use of these agents is appropriate for
+ those
+infants suspected clinically of having sepsis. Additional
+ research is
+needed to determine algorithms for management of infants born
+ to
+mothers who receive intrapartum antimicrobial prophylaxis. One
+algorithm for empiric management of these newborns is provided
+(Figure_3). Other management approaches, developed by
+ individual
+physicians or institutions, may be appropriate alternatives.  6.  Local and state public
+health agencies, in conjunction with
+ appropriate  groups of hospitals, should consider establishing surveillance
+ to
+monitor the incidence of neonatal GBS disease, occurrence of
+ adverse
+reactions to antimicrobial prophylaxis, and the emergence of
+ perinatal
+infections caused by penicillin-resistant organisms.  Investigations designed to evaluate
+and compare these two
+strategies and others are needed. Such studies will require the
+participation of multiple institutions and should evaluate multiple
+outcomes (e.g., perinatal GBS infections, adverse reactions to
+antimicrobial prophylaxis, and perinatal infections caused by
+penicillin-resistant organisms). Characterization of protocol
+failures may contribute to improvement of future prevention
+strategies.  References 
+    Baker CJ, Edwards MS. Group B streptococcal infections. In:
+    Remington J, Klein JO, eds. Infectious diseases of the fetus
+ and
+    newborn infant. 4th ed. Philadelphia: WB Saunders,
+ 1995:980-1054. 
+    Zangwill KM, Schuchat A, Wenger JD. Group B streptococcal
+    disease in the United States, 1990: report from a multistate
+ active
+    surveillance system. In: CDC surveillance summaries (November
+ 20).
+    MMWR 1992;41(No. SS-6):25-32. 
+    Farley MM, Harvey RC, Stull T, et al. A population-based
+    assessment of invasive disease due to group B streptococcus in
+    nonpregnant adults. N Engl J Med 1993;328:1807-11. 
+    Weisman LE, Stoll BJ, Cruess DF, et al. Early-onset group B
+    streptococcal sepsis: a current assessment. J Pediatr
+ 1992;121:428-33. 
+    Schwartz B, Schuchat A, Oxtoby MJ, Cochi SL, Hightower A,
+ Broome
+    CV. Invasive group B streptococcal disease in adults: a
+    population-based study in metropolitan Atlanta. JAMA
+ 1991;266:1112-4. 
+    Dillon HC, Khare S, Gray BM. Group B streptococcal carriage and
+    disease: a 6-year prospective study. J Pediatr 1987;110:31-6. 
+    Opal SM, Cross A, Palmer M, Almazan R. Group B streptococcal
+    sepsis in adults and infants. Contrasts and comparisons. Arch
+    Intern Med 1988;148:641-5. 
+    Pass MA, Gray BM, Khare S, Dillon HC. Prospective studies of
+    group B streptococcal infections in infants. J Pediatr
+ 1979;95:431-43. 
+    Ancona RJ, Ferrieri P, Williams PP. Maternal factors that
+    enhance the acquisition of group B streptococci by newborn
+ infants.
+    J Med Microbiol 1980;3:273-80. 
+    Lannering B, Larsson LE, Rojas J, Stahlman MT. Early onset
+    group B streptococcal disease. Seven year experience and
+ clinical
+    scoring system. Acta Paediatr Scand 1983;72:597-602. 
+    Gladstone IM, Ehrenkranz RA, Edberg SC, Baltimore RS. A
+    ten-year review of neonatal sepsis and comparison with the
+ previous
+    fifty-year experience. Pediatr Infect Dis J 1990;9:819-25. 
+    Anthony BF, Okada DM, Hobel CJ. Epidemiology of group B
+    Streptococcus: longitudinal observations during pregnancy. J
+ Infect
+    Dis 1978;137:524-30. 
+    Regan JA, Klebanoff MA, Nugent RP, Vaginal infections and
+    prematurity study group. The epidemiology of group B
+ streptococcal
+    colonization in pregnancy. Obstet Gynecol 1991;77:604-10. 
+    Yow MD, Leeds LJ, Mason EO, Clark DJ, Beachler CW. The natural
+    history of group B streptococcal colonization in the pregnant
+ woman
+    and her offspring. I. Colonization studies. Am J Obstet Gynecol
+    1980;137:34-8. 
+    Dillon HC, Gray E, Pass MA, Gray BM. Anorectal and vaginal
+    carriage of group B streptococci during pregnancy. J Infect Dis
+    1982;145:794-9. 
+    Boyer KM, Gadzala CA, Kelly PD, Burd LI, Gotoff SP. Selective
+    intrapartum chemoprophylaxis of neonatal group B streptococcal
+    early-onset disease. II. Predictive value of prenatal cultures.
+ J
+    Infect Dis 1983;148:802-9. 
+    Badri MS, Zawaneh S, Cruz AC, et al. Rectal colonization with
+    group B streptococcus: relation to vaginal colonization of
+ pregnant
+    women. J Infect Dis 1977;135:308-12. 
+    Baker CJ, Goroff DK, Alpert S, et al. Vaginal colonization with
+    group B streptococcus: a study of college women. J Infect Dis
+    1977;135:392-7. 
+    Ferrieri P, Blair LL. Pharyngeal carriage of group B
+    streptococci: detection by three methods. J Clin Microbiol
+    1977;6:136-9. 
+    Boyer KM, Gotoff SP. Strategies for chemoprophylaxis of GBS
+    early-onset infections. Antibiot Chemother 1985;35:267-80. 
+    Schuchat A, Oxtoby M, Cochi S, et al. Population-based risk
+    factors for neonatal group B streptococcal disease: results of
+ a
+    cohort study in metropolitan Atlanta. J Infect Dis
+ 1990;162:672-7. 
+    Schuchat A, Deaver-Robinson K, Plikaytis BD, Zangwill K,
+    Mohle-Boetani J, Wenger JD. Multistate case-control study of
+    maternal risk factors for neonatal group B streptococcal
+ disease.
+    Pediatr Infect Dis J 1994;13:623-9. 
+    Baker CJ, Kasper DL. Correlation of maternal antibody
+    deficiency with susceptibility to neonatal group B
+ streptococcal
+    infection. N Engl J Med 1976;294:753-6. 
+    Carstensen H, Christensen KK, Grennert L, Persson K, Polberger
+    S. Early-onset neonatal group B streptococcal septicaemia in
+    siblings. J Infect 1988;17:201-4. 
+    Faxelius G, Bremme K, Christensen KK, Christensen P, Ringertz
+    S. Neonatal septicemia due to group B streptococci -- perinatal
+ risk
+    factors and outcome of subsequent pregnancies. J Perinat Med
+    1988;16:423-30. 
+    Christensen KK, Dahlander K, Linden V, Svenningsen N,
+    Christensen P. Obstetrical care in future pregnancies after
+ fetal
+    loss in group B streptococcal septicemia. A prevention program
+    based on bacteriological and immunological follow-up. Eur J
+ Obstet
+    Gynecol Reprod Biol 1981;12:143-50. 
+    Wood EG, Dillon HC. A prospective study of group B
+    streptococcal bacteriuria in pregnancy. Am J Obstet Gynecol
+    1981;140:515-20. 
+    Moller M, Thomsen AC, Borch K, Dinesen K, Zdravkovic M. Rupture
+    of fetal membranes and premature delivery associated with group
+ B
+    streptococci in urine of pregnant women. Lancet 1984;ii:69-70. 
+    Liston TE, Harris RE, Foshee S, Null DM. Relationship of
+    neonatal pneumonia to maternal urinary and neonatal isolates of
+    group B streptococci. South Med J 1979;72:1410-2. 
+    Persson K, Christensen KK, Christensen P, Forsgren A, Jorgensen
+    C, Persson P. Asymptomatic bacteriuria during pregnancy with
+    special reference to group B streptococci. Scand J Infect Dis
+    1985;17:195-9. 
+    Pass MA, Khare S, Dillon HC. Twin pregnancies: incidence of
+    group B streptococcal colonization and disease. J Pediatr
+    1980;97:635-7. 
+    Edwards MS, Jackson CV, Baker CJ. Increased risk of group B
+    streptococcal disease in twins. JAMA 1981;245:2044-6. 
+    Cochi SL, Feldman RA. Estimating national incidence of group B
+    streptococcal disease: the effect of adjusting for birth
+ weight.
+    Pediatr Infect Dis J 1983;2:414-5. 
+    Easmon CSF, Hastings MJG, Clare AJ, et al. Nosocomial
+    transmission of group B streptococci. Br Med J 1981;283:459-61.
+ 
+    Anthony BF, Okada DM, Hobel CJ. Epidemiology of the group B
+    streptococcus: maternal and nosocomial sources for infant
+    acquisitions. J Pediatr 1979;95:431-6. 
+    Yancey MK, Duff P, Clark P, Kurtzer T, Frentzen BH, Kubilis P.
+    Peripartum infection associated with vaginal group B
+ streptococcal
+    colonization. Obstet Gynecol 1994;84:816-9. 
+    Baker CJ, Edwards MS, Kasper DL. Role of antibody to native
+    type III polysaccharide of group B streptococcus in infant
+    infection. Pediatrics 1981;68:544-9. 
+    Baker CJ, Rench MA, Edwards MS, Carpenter RJ, Hays BM, Kasper
+    DL. Immunization of pregnant women with a polysaccharide
+ vaccine of
+    group B streptococcus. N Engl J Med 1988; 319:1180-5. 
+    Schuchat A, Wenger JD. Epidemiology of group B streptococcal
+    disease: risk factors, prevention strategies and vaccine
+    development. Epidemiol Rev 1994;16:374-402. 
+    Lewin EB, Amstey MS. Natural history of group B streptococcus
+    colonization and its therapy during pregnancy. Am J Obstet
+ Gynecol
+    1981;139:512-5. 
+    Merenstein GB, Todd WA, Brown G, et al. Group B beta-hemolytic
+    streptococcus: randomized controlled treatment study at term.
+    Obstet Gynecol 1980;55:315-8. 
+    Hall RT, Barnes W, Krishnan L, et al. Antibiotic treatment of
+    parturient women colonized with group B streptococci. Am J
+ Obstet
+    Gynecol 1976;124:630-4. 
+    Gardner SE, Yow MD, Leeds LJ, Thompson PK, Mason EO, Clark DJ.
+    Failure of penicillin to eradicate group B streptococcal
+    colonization in the pregnant woman: a couple study. Am J Obstet
+    Gynecol 1979;135:1062-5. 
+    Pyati SP, Pildes RS, Jacobs NM, et al. Penicillin in infants
+    weighing two kilograms or less with early-onset group B
+    streptococcal disease. N Engl J Med 1983;308:1383-9. 
+    Siegel JD, McCracken GHJ, Threlkeld N, Milvenan B, Rosenfeld
+    CR. Single dose penicillin prophylaxis against neonatal group B
+    streptococcal infections: a controlled trial in 18,738 newborn
+    infants. N Engl J Med 1980;303:769-75. 
+    Siegel JD, McCracken GHJ, Threlkeld N, DePasse BM, Rosenfeld
+    CR. Single-dose penicillin prophylaxis of neonatal group B
+    streptococcal disease. Lancet 1982;i:1426-30. 
+    Yow MD, Mason EO, Leeds LJ, Thompson PK, Clark DJ, Gardner SE.
+    Ampicillin prevents intrapartum transmission of group B
+    streptococcus. JAMA 1979;241:1245-7. 
+    Easmon CSF, Hastings MJG, Deeley J, Bloxham B, Rivers RPA,
+    Marwood R. The effect of intrapartum chemoprophylaxis on the
+    vertical transmission of group B streptococci. Br J Obstet
+ Gynaecol
+    1983;90:633-5. 
+    Boyer KM, Gadzala CA, Kelly PD, Gotoff SP. Selective
+    intrapartum chemoprophylaxis of neonatal group B streptococcal
+    early-onset disease. III. Interruption of mother-to-infant
+    transmission. J Infect Dis 1983;148:810-6. 
+    Matorras R, Garcia-Perea A, Omenaca F, Diez-Enciso M, Madero R,
+    Usandizaga JA. Intrapartum chemoprophylaxis of early-onset
+ group B
+    streptococcal disease. Eur J Obstet Gynecol Reprod Biol
+ 1991;40:57-62. 
+    Lim DV, Morales WJ, Walsh AF, Kazanis D. Reduction of morbidity
+    and mortality rates for neonatal group B streptococcal disease
+    through early diagnosis and chemoprophylaxis. J Clin Microbiol
+    1986;23:489-92. 
+    Allardice JG, Baskett TF, Seshia MMK, Bowman N, Malazdrewicz R.
+    Perinatal group B streptococcal colonization and infection. Am
+ J
+    Obstet Gynecol 1982;142:617-20. 
+    Garland SM, Fliegner JR. Group B streptococcus and neonatal
+    infections: the case for intrapartum chemoprophylaxis. Aust N Z
+ J
+    Obstet Gynaecol 1991;31:119-22. 
+    Boyer KM, Gotoff SP. Prevention of early-onset neonatal group
+    B streptococcal disease with selective intrapartum
+    chemoprophylaxis. N Engl J Med 1986;314:1665-9. 
+    Boyer KM, Gadzala CA, Burd LI, Fisher DE, Paton JB, Gotoff SP.
+    Selective intrapartum chemoprophylaxis of neonatal group B
+    streptococcal early-onset disease. I. Epidemiologic rationale.
+ J
+    Infect Dis 1983;148:795-801. 
+    Boyer KM, Gotoff SP. Antimicrobial prophylaxis of neonatal
+    group B streptococcal sepsis. Clin Perinatol 1988;15:831-50. 
+    Morales WJ, Lim DV, Walsh AF. Prevention of neonatal group B
+    streptococcal sepsis by the use of a rapid screening test and
+    selective intrapartum chemoprophylaxis. Am J Obstet Gynecol
+    1986;155:979-83. 
+    Tuppurainen N, Hallman M. Prevention of neonatal group B
+    streptococcal disease: intrapartum detection and
+ chemoprophylaxis
+    of heavily colonized parturients. Obstet Gynecol 1989;
+ 73:583-7. 
+    Morales WJ, Lim D. Reduction of group B streptococcal maternal
+    and neonatal infections in preterm pregnancies with premature
+    rupture of membranes through a rapid identification test. Am J
+    Obstet Gynecol 1987;157:13-6. 
+    Allen UD, Navas L, King SM. Effectiveness of intrapartum
+    penicillin prophylaxis in preventing early-onset group B
+    streptococcal infection: results of a meta-analysis. Can Med
+ Assoc
+    J 1993; 149:1659-65. 
+    Ohlsson A, Myhr TL. Intrapartum chemoprophylaxis of perinatal
+    group B streptococcal infections: a critical review of
+ randomized
+    controlled trials. Am J Obstet Gynecol 1994;170:910-7. 
+    American Academy of Pediatrics. Guidelines for prevention of
+    group B streptococcal infection by chemoprophylaxis. Pediatrics
+    1992;90:775-8. 
+    Minkoff H, Mead P. An obstetric approach to the prevention of
+    early-onset group B beta-hemolytic streptococcal sepsis. Am J
+    Obstet Gynecol 1986;154:973-7. 
+    Hankins GV, Chalas E. Group B streptococcal infections in
+    pregnancy: ACOG's recommendations. ACOG Newsletter 1993;37:2. 
+    American College of Obstetricians and Gynecologists. Survey
+    shows continued confusion over management of GBS in pregnancy.
+ ACOG
+    Newsletter 1994;38:1,10. 
+    Landon MB, Harger J, McNellis D, Mercer B, Thom EA. Prevention
+    of neonatal group B streptococcal infection. Obstet Gynecol
+    1994;84:460-2. 
+    Society of Obstetricians and Gynaecologists of Canada and
+    Canadian Pediatric Society. National consensus statement on the
+    prevention of early-onset group B streptococcal infections in
+ the
+    newborn. Journal of the Society of Obstetricians and
+ Gynaecologists
+    of Canada and Canadian Pediatric Society 1994;16:2271-8. 
+    Rouse DJ, Goldenberg RL, Cliver SP, Cutter GR, Mennemeyer ST,
+    Fargason CA. Strategies for the prevention of early-onset
+ neonatal
+    group B streptococcal sepsis: a decision analysis. Obstet
+ Gynecol
+    1994;83:483-94. 
+    Schwartz B, Jackson L. Invasive group B streptococcal disease
+    in adults. JAMA 1991;266:3284. 
+    Goodman LS, Gilman A, Gilman AG, eds. Goodman and Gilman's the
+    pharmacologic basis of therapeutics. 8th ed. New York: Pergamon
+    Press, 1990. 
+    Heim K, Alge A, Marth C. Anaphylactic reaction to ampicillin
+    and severe complication in the fetus. Lancet 1991;337:859-60. 
+    Cunningham R, Walker C, Ridgway E. Prosthetic hip-joint
+    infection associated with a penicillin-tolerant group B
+    streptococcus. J Infect 1992;25:77-81. 
+    Steinbrecher UP. Serious infection in an adult due to
+    penicillin-tolerant group B streptococcus. Arch Intern Med
+    1981;141:1714-5. 
+    Severin MJ, Wiley JL. Change in susceptibility of group B
+    streptococci to penicillin G from 1968 through 1975. Antimicrob
+    Agents Chemother 1976;10:380-1. 
+    McDuffie RS, McGregor JA, Gibbs RS. Adverse perinatal outcome
+    and resistant Enterobacteriaceae after antibiotic usage for
+    premature rupture of the membranes and group B streptococcus
+    carriage. Obstet Gynecol 1993;82:487-9. 
+    Amstey MS, Gibbs RS. Is penicillin G a better choice than
+    ampicillin for prophylaxis of neonatal group B streptococcal
+    infections? Obstet Gynecol 1994;84:1058-9. 
+    Gibbs RS, McGregor JA, Mead PB, Eschenbach DA, Hager WD, Sweet
+    RL. A survey of practices in infectious diseases by
+    obstetrician-gynecologists. Obstet Gynecol 1994;83:631-6. 
+    Yancey MK, Armer T, Clark P, Duff P. Assessment of rapid
+    identification tests for genital carriage of group B
+ streptococci.
+    Obstet Gynecol 1992;80:1038-47. 
+    Towers CV, Garite TJ, Friedman WW, Pircon RA, Nageotte MP.
+    Comparison of a rapid enzyme-linked immunosorbent assay test
+ and
+    the Gram stain for detection of group B streptococcus in
+ high-risk
+    antepartum patients. Am J Obstet Gynecol 1990;163:965-7. 
+    Mohle-Boetani J, Schuchat A, Plikaytis BD, Smith D, Broome CV.
+    Comparison of prevention strategies for neonatal group B
+    streptococcal infection: a population-based economic analysis.
+ JAMA
+    1993;270:1442-8. 
+    Stray-Pederson B. Economic evaluation of maternal screening to
+    prevent congenital syphilis. Sex Transm Dis 1983;10:167-72. 
+    Strickland DM, Yeomans ER, Hankins GDV. Cost effectiveness of
+    intrapartum screening and treatment for maternal group B
+    streptococci colonization. Am J Obstet Gynecol 1990;163:4-8. 
+    Yancey MK, Duff P. An analysis of the cost-effectiveness of
+    selected protocols for the prevention of neonatal group B
+    streptococcal infection. Obstet Gynecol 1994;83:367-71. 
+    Wiswell TE, Stoll BJ, Tuggle JM. Management of asymptomatic,
+    term gestation neonates born to mothers treated with
+ intrapartum
+    antibiotics. Pediatr Infect Dis J 1990;9:826-31. 
+    Pylipow M, Gaddis M, Kinney JS. Selective intrapartum
+    prophylaxis for group B streptococcus colonization: management
+ and
+    outcome of newborns. Pediatrics 1994;93:631-5. 
+    Gibbs RS, McDuffie RS, McNabb F, Fryer GE, Miyoshi T,
+    Merenstein G. Neonatal group B streptococcal sepsis during 2
+ years
+    of a universal screening program. Obstet Gynecol
+ 1994;84:496-500. 
+    Jafari HS, Schuchat A, Hilsdon R, Whitney C, Toomey K, Wenger
+    J. Barriers to prevention of perinatal group B streptococcal
+    disease. Pediatr Infect Dis J 1995;14:662-7. 
++-------------------------------------------------------------------
+-------+
+|            
+                                                              |
+|                    Erratum: Vol. 45, No. RR-7
+                            |
+|            
+                                                              |
+|            SOURCE: MMWR 45(31);679   DATE: Aug 09, 1996
+                  |
+|            
+                                                              |
+|      The MMWR Recommendations and Reports, "Prevention of
+ Perinatal      |
+|  Group B Streptococcal Disease: A Public Health Perspective,"
+            |
+|  contained two errors.
+                                                   |
+|            
+                                                              |
+|  Page 17, Box 1: Item 3 should read:
+                                     |
+|  3. Remove the swabs from the transport medium and inoculate both
+        |
+|  swabs together into selective broth medium. Todd-Hewitt broth
+           |
+|  supplemented with either colistin (10 ug/mL) and nalidixic acid
+ (15     |
+|  ug/mL) or with gentamicin (8 ug/mL) and nalidixic acid (15
+ ug/mL)       |
+|  may be used; appropriate commercially available options include
+ Lim     |
+|  or SBM broth.
+                                                           |
+|            
+                                                              |
+|  Page 20:  Figure_3 contained an arrow pointing in the
+ incorrect     |
+|  direction.  The corrected Figure_3E appears below.
+                  |
+|            
+                                                              |
++-------------------------------------------------------------------
+-------+ 
+Table_1
+Note:
+ To  print  large  tables  and  graphs  users  may  have  to  change  their  printer  settings  to
+landscape and use a small font size.
+TABLE  1.   Risk  for  early-onset  group  B  streptococcal  (GBS)  disease  (20),  by  prenatal
+maternal
+colonization status and intrapartum risk factors
+====================================================
+===========================================
+                   No. of
+                  episodes                                                    Early-onset
+                 early-onset     No. of        Attack Rate      Deliveries     GBS cases
+Risk status *    GBS disease   deliveries   (per 1000 births)       (%)           (%)
+-----------------------------------------------------------------------------------------------
+Total population     16           5,292            3.0             100.0         100.0
+Colonization+        14           1,029           13.6              19.4          87.5
+Colonization-         2           4,263            0.5              80.7          12.5
+Risk factors+        11           1,311            8.4              24.7          68.8
+Risk factors-         5           3,981            1.3              75.2          31.3
+Colonization+
+Risk factors+        10             245           40.8               4.6          62.5
+Colonization+
+Risk factors-         4             784            5.1              14.8          25.0
+Colonization-
+Risk factors+         1           1,066            0.9              20.0           6.2
+Colonization-
+Risk factors-         1           3,197            0.3              60.0           6.2
+-----------------------------------------------------------------------------------------------
+*  Colonization  assessed  by  prenatal  rectovaginal  cultures.  Risk  factors  defined  as
+rupture of
+  membranes  longer  than  12  hours,  <37  weeks'  gestation,  or  intrapartum
+temperature>99.5 F
+  (>37.5 C). "+" refers to present; "-" refers to absent.
+====================================================
+===========================================
+Return to top.Table_2
+Note:
+ To  print  large  tables  and  graphs  users  may  have  to  change  their  printer  settings  to
+landscape and use a small font size.
+TABLE  2.  Summary  of  antimicrobial  regimens  used  for  studies  of  intrapartum
+chemoprophylaxis for
+group B streptococcal (GBS) disease
+====================================================
+===============================================
+Agent                         Dose and schedule *                     Comments +
+---------------------------------------------------------------------------------------------------
+Ampicillin (47)         500 mg IV every 6 hrs         30/34 received only one dose before
+delivery
+Ampicillin (52)         500 mg IV                     Administered every 6 hrs
+Benzyl penicillin (48)  600 mg IM every 8 hrs         Erythromycin 100 mg IM for women
+                                                      allergic to penicillin
+Ampicillin (50)         500 mg IV every 6 hrs         46/57 received only one dose before
+                                                      delivery
+Penicillin (53)         1 mU IV every 6 hrs
+Ampicillin (54)         2 g IV load then 1 g IV       Mean duration of prophylaxis 5.4 hrs
+                        4 hrs
+Penicillin G (58)       5 mU IV every 6 hrs           If labor lasted 18 hrs, then penicillin
+                                                      V 1 mU should be administered orally
+                                                      every 8 hrs after initial IV therapy
+Ampicillin (59)         1 g IV every 6 hrs
+Ampicillin (57)         1 g IV every 6 hrs            Ampicillin levels measured in eight
+                                                      mother-infant pairs
+---------------------------------------------------------------------------------------------------
+* IV = intravenous; IM = intramuscular.
++ mU = million units.
+====================================================
+===============================================
+Return to top.Table_3
+Note:
+ To  print  large  tables  and  graphs  users  may  have  to  change  their  printer  settings  to
+landscape and use a small font size.
+TABLE 3. Summary of trials employing intrapartum chemoprophylaxis for prevention of
+neonatal colonization and early-onset group B streptococcal disease
+====================================================
+================================================
+                                       Neonatal colonization       Early-onset disease
+Study design,        Case selection   -----------------------    -----------------------
+ control selection *    criteria +     IC &   No IC   P value     IC   No IC   P value
+----------------------------------------------------------------------------------------
+R (47)               I                0/34    14/24    0.001     0/34   0/24      NA @
+ Random
+P/R (52)             I                4/57    62/136   <0.01     0/57   9/136    0.06
+ Nonrandom
+P (48)               PC               0/38    17/49    0.001      ND     ND       NA
+ Random
+P (50)               I or PC          2/60    24/65    <0.01     0/60   3/65     0.14
+ Random
+P (53)               PC                ND       ND       NA      16/     27/     0.04
+ Nonrandom                                                     30,197  26,915
+P (54)               PC and
+ Random               Pre/PROM        8/85    40/79    0.001     0/85   5/79     0.02
+P (54)               PC and
+ Nonrandom            Pre/PROM        5/82   102/233   <0.01     0/82   7/233    0.02
+P (58)               Heavy PC          ND       ND       NA      1/88  10/111    0.03
+ Random
+P/R (59)             Light I and
+ Nonrandom            PPROM            ND       ND       NA      0/29   6/37     0.03
+P/R (59)             Heavy I and
+ Nonrandom            PPROM            ND       ND       NA      0/7    7/11     0.01
+P (57)               Light PC         0/98    35/98    <0.01     0/98   0/98      NA
+ Random
+                     Heavy PC         0/37    24/30    <0.01     0/37   3/30     0.09
+----------------------------------------------------------------------------------------
+*  R=retrospective;  P/R=prospective  case  selection,  retrospective  control  selection;
+P=prospective.
++ I=intrapartum colonization; PC=prenatal colonization; Pre/PROM=preterm labor (<37
+weeks'
+  gestation)  or  prolonged  rupture  of  membranes  (>12  hours);  PPROM="preterm
+premature rup-
+  ture of membranes" (i.e., rupture of membranes at <=34 weeks' gestation and >12
+hours before
+  onset of labor).
+& IC=Intrapartum chemoprophylaxis; ND=not done.
+@ NA=not applicable.
+====================================================
+================================================
+Return to top.Table_4
+Note:
+ To  print  large  tables  and  graphs  users  may  have  to  change  their  printer  settings  to
+landscape and use a small font size.
+TABLE 4. Estimated impact of several strategies for the use of intrapartum antimicrobial
+prophylaxis (IAP) against early-onset group B streptococcal disease in a hypothetical
+population (adapted from 68).
+====================================================
+=======================================
+                                  Proportion of early-onset     Proportion of deliveries
+                                   GBS disease prevented             receiving IAP
+Prevention strategy                         (%)                            (%)
+-------------------------------------------------------------------------------------------
+Prenatal culture at 35-37 weeks'           86.0                           26.7
+ gestation; IAP for preterm
+ deliveries and all GBS carriers *
+Prenatal culture at 26-28 weeks'           50.7                            3.4 +
+ gestation; IAP for GBS carriers
+ who develop intrapartum risk
+ factors (e.g., fever, prolonged
+ rupture of membranes, <37 weeks'
+ gestation) (54)
+No prenatal cultures; IAP for all          68.8                          18.3 &
+ women with intrapartum risk
+ factors (e.g., fever, prolonged
+ rupture of membranes, <37 weeks'
+ gestation) @
+-------------------------------------------------------------------------------------------
+* Combination strategy; refer to Figure 1.
++ Percentage was estimated for a hypothetical population (68); actual proportion of
+  deliveries among who had prenatal screening cultures positive for GBS and who also
+  developed intrapartum risk factors was 4.6% (20).
+& Percentage was estimated for a hypothetical population (68); actual proportion of
+  deliveries among women who had intrapartum risk factors was 24.7% (20).
+@  Empiric  strategy  suggested  by  the  American  College  of  Obstetricians  and
+Gynecologists
+  in 1993 (64, 65); refer to Figure 2.
+====================================================
+=======================================
+Return to top.Table_B1
+Note:
+ To  print  large  tables  and  graphs  users  may  have  to  change  their  printer  settings  to
+landscape and use a small font size.
+BOX 1. Procedure for collecting and processing clinical specimens for culture
+of group b Streeptococcus
+====================================================
+=========================
+1. Obtain one or two swabs of the vaginal introitus and anorectum. Cervical
+   cultures are not acceptable; a speculum should not be used for culture
+   collection.
+2. Place the swabs into a transport medium. The swabs in a transport medium
+   will maintain GBS viability for up to 4 days at room temperature or under
+   refrigeration. Appropriate nonnutritive moist swab transport systems
+   (e.g. Amies') are commercially available.
+3. Remove the swabs from the transport medium and inoculate both swabs
+   together into selective broth medium. Todd-Hewitt broth supplemented with
+   either colistin (10 g/mL) and nalidixic acid (15 g/mL) or with gentamicin
+   (8 g/mL) and nalidixic acid (15 g/mL) may be used; appropriate
+   commercially available options include Lim or SBM broth.
+4. Incubate selective broth for 18-24 hrs. Subculture the broth to sheep
+   blood agar plate.
+5. Inspect and identify organisms suggestive of GBS (beta hemolytic or
+   nonhemolytic, gram-positive and catalase negative). If GBS is not
+   identified after incubation for 18-24 hrs on sheep blood agar plate,
+   reincubate and inspect at 48 hrs to identify suspected organisms.
+6. Various slide agglutination tests or other tests for GBS antigen
+   detection (e.g., genetic probe or fluorescent antibody) may be used for
+   specific identification, or the CAMP test may be employed for
+   presumptive identification.
+====================================================
+=========================
+Return to top.Figure_1Return to top.
+Figure_2Return to top.
+Table_B2
+Note:
+ To  print  large  tables  and  graphs  users  may  have  to  change  their  printer  settings  to
+landscape and use a small font size.
+BOX 2. Recommended regimens for intrapartum antimicrobial prophylaxis for
+perinatal group B streptococcal disease
+====================================================
+=========================
+Recommended             Penicillin G, 5 mU IV
+                        load, then 2.5 mUs IV every
+                        4 hrs until delivery
+Alternative             Ampicillin, 2 g IV load, then 1 g
+                        IV every 4 hrs until delivery
+If penicillin-allergic
+ Recommended            Clindamycin, 900 mg IV every 8 hrs
+                        until delivery
+ Alternative            Erythromycin, 500 mg IV every 6 hrs until delivery
+-----------------------------------------------------------------------------
+* Note: If patient is receiving treatment for amnionitis with an
+  antimicrobial agent active against group B streptococci (e.g., ampicillin,
+  penicillin, clindamycin, or erythromycin), additional prophylactic
+  antibiotics are not needed.
+====================================================
+=========================
+Return to top.Figure_3Return to top.
+Figure_3EReturn to top.
+Disclaimer
+   All MMWR HTML versions of articles are electronic conversions from ASCII text into
+HTML.  This conversion may have resulted in character translation or format errors in
+the HTML version.  Users should not rely on this HTML document, but are referred to the
+electronic  PDF  version  and/or  the  original  MMWR  paper  copy  for  the  official  text,
+figures,  and  tables.   An  original  paper  copy  of  this  issue  can  be  obtained  from  the
+Superintendent of Documents, U.S. Government Printing Office (GPO), Washington, DC
+20402-9371; telephone: (202) 512-1800. Contact GPO for current prices.**Questions or
+messages regarding errors in formatting should be addressed to mmwrq@cdc.gov.Page
+converted: 09/19/98
+ 
+    Baker CJ, Edwards MS. Group B streptococcal infections. In:
+    Remington J, Klein JO, eds. Infectious diseases of the fetus
+ and
+    newborn infant. 4th ed. Philadelphia: WB Saunders,
+ 1995:980-1054.  
+    Zangwill KM, Schuchat A, Wenger JD. Group B streptococcal
+    disease in the United States, 1990: report from a multistate
+ active
+    surveillance system. In: CDC surveillance summaries (November
+ 20).
+    MMWR 1992;41(No. SS-6):25-32.  
+    Farley MM, Harvey RC, Stull T, et al. A population-based
+    assessment of invasive disease due to group B streptococcus in
+    nonpregnant adults. N Engl J Med 1993;328:1807-11.  
+    Weisman LE, Stoll BJ, Cruess DF, et al. Early-onset group B
+    streptococcal sepsis: a current assessment. J Pediatr
+ 1992;121:428-33.  
+    Schwartz B, Schuchat A, Oxtoby MJ, Cochi SL, Hightower A,
+ Broome
+    CV. Invasive group B streptococcal disease in adults: a
+    population-based study in metropolitan Atlanta. JAMA
+ 1991;266:1112-4.  
+    Dillon HC, Khare S, Gray BM. Group B streptococcal carriage and
+    disease: a 6-year prospective study. J Pediatr 1987;110:31-6.  
+    Opal SM, Cross A, Palmer M, Almazan R. Group B streptococcal
+    sepsis in adults and infants. Contrasts and comparisons. Arch
+    Intern Med 1988;148:641-5.  
+    Pass MA, Gray BM, Khare S, Dillon HC. Prospective studies of
+    group B streptococcal infections in infants. J Pediatr
+ 1979;95:431-43.  
+    Ancona RJ, Ferrieri P, Williams PP. Maternal factors that
+    enhance the acquisition of group B streptococci by newborn
+ infants.
+    J Med Microbiol 1980;3:273-80.  
+    Lannering B, Larsson LE, Rojas J, Stahlman MT. Early onset
+    group B streptococcal disease. Seven year experience and
+ clinical
+    scoring system. Acta Paediatr Scand 1983;72:597-602.  
+    Gladstone IM, Ehrenkranz RA, Edberg SC, Baltimore RS. A
+    ten-year review of neonatal sepsis and comparison with the
+ previous
+    fifty-year experience. Pediatr Infect Dis J 1990;9:819-25.  
+    Anthony BF, Okada DM, Hobel CJ. Epidemiology of group B
+    Streptococcus: longitudinal observations during pregnancy. J
+ Infect
+    Dis 1978;137:524-30.  
+    Regan JA, Klebanoff MA, Nugent RP, Vaginal infections and
+    prematurity study group. The epidemiology of group B
+ streptococcal
+    colonization in pregnancy. Obstet Gynecol 1991;77:604-10.  
+    Yow MD, Leeds LJ, Mason EO, Clark DJ, Beachler CW. The natural
+    history of group B streptococcal colonization in the pregnant
+ woman
+    and her offspring. I. Colonization studies. Am J Obstet Gynecol
+    1980;137:34-8.  
+    Dillon HC, Gray E, Pass MA, Gray BM. Anorectal and vaginal
+    carriage of group B streptococci during pregnancy. J Infect Dis
+    1982;145:794-9.  
+    Boyer KM, Gadzala CA, Kelly PD, Burd LI, Gotoff SP. Selective
+    intrapartum chemoprophylaxis of neonatal group B streptococcal
+    early-onset disease. II. Predictive value of prenatal cultures.
+ J
+    Infect Dis 1983;148:802-9.  
+    Badri MS, Zawaneh S, Cruz AC, et al. Rectal colonization with
+    group B streptococcus: relation to vaginal colonization of
+ pregnant
+    women. J Infect Dis 1977;135:308-12.  
+    Baker CJ, Goroff DK, Alpert S, et al. Vaginal colonization with
+    group B streptococcus: a study of college women. J Infect Dis
+    1977;135:392-7.  
+    Ferrieri P, Blair LL. Pharyngeal carriage of group B
+    streptococci: detection by three methods. J Clin Microbiol
+    1977;6:136-9.  
+    Boyer KM, Gotoff SP. Strategies for chemoprophylaxis of GBS
+    early-onset infections. Antibiot Chemother 1985;35:267-80.  
+    Schuchat A, Oxtoby M, Cochi S, et al. Population-based risk
+    factors for neonatal group B streptococcal disease: results of
+ a
+    cohort study in metropolitan Atlanta. J Infect Dis
+ 1990;162:672-7.  
+    Schuchat A, Deaver-Robinson K, Plikaytis BD, Zangwill K,
+    Mohle-Boetani J, Wenger JD. Multistate case-control study of
+    maternal risk factors for neonatal group B streptococcal
+ disease.
+    Pediatr Infect Dis J 1994;13:623-9.  
+    Baker CJ, Kasper DL. Correlation of maternal antibody
+    deficiency with susceptibility to neonatal group B
+ streptococcal
+    infection. N Engl J Med 1976;294:753-6.  
+    Carstensen H, Christensen KK, Grennert L, Persson K, Polberger
+    S. Early-onset neonatal group B streptococcal septicaemia in
+    siblings. J Infect 1988;17:201-4.  
+    Faxelius G, Bremme K, Christensen KK, Christensen P, Ringertz
+    S. Neonatal septicemia due to group B streptococci -- perinatal
+ risk
+    factors and outcome of subsequent pregnancies. J Perinat Med
+    1988;16:423-30.  
+    Christensen KK, Dahlander K, Linden V, Svenningsen N,
+    Christensen P. Obstetrical care in future pregnancies after
+ fetal
+    loss in group B streptococcal septicemia. A prevention program
+    based on bacteriological and immunological follow-up. Eur J
+ Obstet
+    Gynecol Reprod Biol 1981;12:143-50.  
+    Wood EG, Dillon HC. A prospective study of group B
+    streptococcal bacteriuria in pregnancy. Am J Obstet Gynecol
+    1981;140:515-20.  
+    Moller M, Thomsen AC, Borch K, Dinesen K, Zdravkovic M. Rupture
+    of fetal membranes and premature delivery associated with group
+ B
+    streptococci in urine of pregnant women. Lancet 1984;ii:69-70.  
+    Liston TE, Harris RE, Foshee S, Null DM. Relationship of
+    neonatal pneumonia to maternal urinary and neonatal isolates of
+    group B streptococci. South Med J 1979;72:1410-2.  
+    Persson K, Christensen KK, Christensen P, Forsgren A, Jorgensen
+    C, Persson P. Asymptomatic bacteriuria during pregnancy with
+    special reference to group B streptococci. Scand J Infect Dis
+    1985;17:195-9.  
+    Pass MA, Khare S, Dillon HC. Twin pregnancies: incidence of
+    group B streptococcal colonization and disease. J Pediatr
+    1980;97:635-7.  
+    Edwards MS, Jackson CV, Baker CJ. Increased risk of group B
+    streptococcal disease in twins. JAMA 1981;245:2044-6.  
+    Cochi SL, Feldman RA. Estimating national incidence of group B
+    streptococcal disease: the effect of adjusting for birth
+ weight.
+    Pediatr Infect Dis J 1983;2:414-5.  
+    Easmon CSF, Hastings MJG, Clare AJ, et al. Nosocomial
+    transmission of group B streptococci. Br Med J 1981;283:459-61.
+  
+    Anthony BF, Okada DM, Hobel CJ. Epidemiology of the group B
+    streptococcus: maternal and nosocomial sources for infant
+    acquisitions. J Pediatr 1979;95:431-6.  
+    Yancey MK, Duff P, Clark P, Kurtzer T, Frentzen BH, Kubilis P.
+    Peripartum infection associated with vaginal group B
+ streptococcal
+    colonization. Obstet Gynecol 1994;84:816-9.  
+    Baker CJ, Edwards MS, Kasper DL. Role of antibody to native
+    type III polysaccharide of group B streptococcus in infant
+    infection. Pediatrics 1981;68:544-9.  
+    Baker CJ, Rench MA, Edwards MS, Carpenter RJ, Hays BM, Kasper
+    DL. Immunization of pregnant women with a polysaccharide
+ vaccine of
+    group B streptococcus. N Engl J Med 1988; 319:1180-5.  
+    Schuchat A, Wenger JD. Epidemiology of group B streptococcal
+    disease: risk factors, prevention strategies and vaccine
+    development. Epidemiol Rev 1994;16:374-402.  
+    Lewin EB, Amstey MS. Natural history of group B streptococcus
+    colonization and its therapy during pregnancy. Am J Obstet
+ Gynecol
+    1981;139:512-5.  
+    Merenstein GB, Todd WA, Brown G, et al. Group B beta-hemolytic
+    streptococcus: randomized controlled treatment study at term.
+    Obstet Gynecol 1980;55:315-8.  
+    Hall RT, Barnes W, Krishnan L, et al. Antibiotic treatment of
+    parturient women colonized with group B streptococci. Am J
+ Obstet
+    Gynecol 1976;124:630-4.  
+    Gardner SE, Yow MD, Leeds LJ, Thompson PK, Mason EO, Clark DJ.
+    Failure of penicillin to eradicate group B streptococcal
+    colonization in the pregnant woman: a couple study. Am J Obstet
+    Gynecol 1979;135:1062-5.  
+    Pyati SP, Pildes RS, Jacobs NM, et al. Penicillin in infants
+    weighing two kilograms or less with early-onset group B
+    streptococcal disease. N Engl J Med 1983;308:1383-9.  
+    Siegel JD, McCracken GHJ, Threlkeld N, Milvenan B, Rosenfeld
+    CR. Single dose penicillin prophylaxis against neonatal group B
+    streptococcal infections: a controlled trial in 18,738 newborn
+    infants. N Engl J Med 1980;303:769-75.  
+    Siegel JD, McCracken GHJ, Threlkeld N, DePasse BM, Rosenfeld
+    CR. Single-dose penicillin prophylaxis of neonatal group B
+    streptococcal disease. Lancet 1982;i:1426-30.  
+    Yow MD, Mason EO, Leeds LJ, Thompson PK, Clark DJ, Gardner SE.
+    Ampicillin prevents intrapartum transmission of group B
+    streptococcus. JAMA 1979;241:1245-7.  
+    Easmon CSF, Hastings MJG, Deeley J, Bloxham B, Rivers RPA,
+    Marwood R. The effect of intrapartum chemoprophylaxis on the
+    vertical transmission of group B streptococci. Br J Obstet
+ Gynaecol
+    1983;90:633-5.  
+    Boyer KM, Gadzala CA, Kelly PD, Gotoff SP. Selective
+    intrapartum chemoprophylaxis of neonatal group B streptococcal
+    early-onset disease. III. Interruption of mother-to-infant
+    transmission. J Infect Dis 1983;148:810-6.  
+    Matorras R, Garcia-Perea A, Omenaca F, Diez-Enciso M, Madero R,
+    Usandizaga JA. Intrapartum chemoprophylaxis of early-onset
+ group B
+    streptococcal disease. Eur J Obstet Gynecol Reprod Biol
+ 1991;40:57-62.  
+    Lim DV, Morales WJ, Walsh AF, Kazanis D. Reduction of morbidity
+    and mortality rates for neonatal group B streptococcal disease
+    through early diagnosis and chemoprophylaxis. J Clin Microbiol
+    1986;23:489-92.  
+    Allardice JG, Baskett TF, Seshia MMK, Bowman N, Malazdrewicz R.
+    Perinatal group B streptococcal colonization and infection. Am
+ J
+    Obstet Gynecol 1982;142:617-20.  
+    Garland SM, Fliegner JR. Group B streptococcus and neonatal
+    infections: the case for intrapartum chemoprophylaxis. Aust N Z
+ J
+    Obstet Gynaecol 1991;31:119-22.  
+    Boyer KM, Gotoff SP. Prevention of early-onset neonatal group
+    B streptococcal disease with selective intrapartum
+    chemoprophylaxis. N Engl J Med 1986;314:1665-9.  
+    Boyer KM, Gadzala CA, Burd LI, Fisher DE, Paton JB, Gotoff SP.
+    Selective intrapartum chemoprophylaxis of neonatal group B
+    streptococcal early-onset disease. I. Epidemiologic rationale.
+ J
+    Infect Dis 1983;148:795-801.  
+    Boyer KM, Gotoff SP. Antimicrobial prophylaxis of neonatal
+    group B streptococcal sepsis. Clin Perinatol 1988;15:831-50.  
+    Morales WJ, Lim DV, Walsh AF. Prevention of neonatal group B
+    streptococcal sepsis by the use of a rapid screening test and
+    selective intrapartum chemoprophylaxis. Am J Obstet Gynecol
+    1986;155:979-83.  
+    Tuppurainen N, Hallman M. Prevention of neonatal group B
+    streptococcal disease: intrapartum detection and
+ chemoprophylaxis
+    of heavily colonized parturients. Obstet Gynecol 1989;
+ 73:583-7.  
+    Morales WJ, Lim D. Reduction of group B streptococcal maternal
+    and neonatal infections in preterm pregnancies with premature
+    rupture of membranes through a rapid identification test. Am J
+    Obstet Gynecol 1987;157:13-6.  
+    Allen UD, Navas L, King SM. Effectiveness of intrapartum
+    penicillin prophylaxis in preventing early-onset group B
+    streptococcal infection: results of a meta-analysis. Can Med
+ Assoc
+    J 1993; 149:1659-65.  
+    Ohlsson A, Myhr TL. Intrapartum chemoprophylaxis of perinatal
+    group B streptococcal infections: a critical review of
+ randomized
+    controlled trials. Am J Obstet Gynecol 1994;170:910-7.  
+    American Academy of Pediatrics. Guidelines for prevention of
+    group B streptococcal infection by chemoprophylaxis. Pediatrics
+    1992;90:775-8.  
+    Minkoff H, Mead P. An obstetric approach to the prevention of
+    early-onset group B beta-hemolytic streptococcal sepsis. Am J
+    Obstet Gynecol 1986;154:973-7.  
+    Hankins GV, Chalas E. Group B streptococcal infections in
+    pregnancy: ACOG's recommendations. ACOG Newsletter 1993;37:2.  
+    American College of Obstetricians and Gynecologists. Survey
+    shows continued confusion over management of GBS in pregnancy.
+ ACOG
+    Newsletter 1994;38:1,10.  
+    Landon MB, Harger J, McNellis D, Mercer B, Thom EA. Prevention
+    of neonatal group B streptococcal infection. Obstet Gynecol
+    1994;84:460-2.  
+    Society of Obstetricians and Gynaecologists of Canada and
+    Canadian Pediatric Society. National consensus statement on the
+    prevention of early-onset group B streptococcal infections in
+ the
+    newborn. Journal of the Society of Obstetricians and
+ Gynaecologists
+    of Canada and Canadian Pediatric Society 1994;16:2271-8.  
+    Rouse DJ, Goldenberg RL, Cliver SP, Cutter GR, Mennemeyer ST,
+    Fargason CA. Strategies for the prevention of early-onset
+ neonatal
+    group B streptococcal sepsis: a decision analysis. Obstet
+ Gynecol
+    1994;83:483-94.  
+    Schwartz B, Jackson L. Invasive group B streptococcal disease
+    in adults. JAMA 1991;266:3284.  
+    Goodman LS, Gilman A, Gilman AG, eds. Goodman and Gilman's the
+    pharmacologic basis of therapeutics. 8th ed. New York: Pergamon
+    Press, 1990.  
+    Heim K, Alge A, Marth C. Anaphylactic reaction to ampicillin
+    and severe complication in the fetus. Lancet 1991;337:859-60.  
+    Cunningham R, Walker C, Ridgway E. Prosthetic hip-joint
+    infection associated with a penicillin-tolerant group B
+    streptococcus. J Infect 1992;25:77-81.  
+    Steinbrecher UP. Serious infection in an adult due to
+    penicillin-tolerant group B streptococcus. Arch Intern Med
+    1981;141:1714-5.  
+    Severin MJ, Wiley JL. Change in susceptibility of group B
+    streptococci to penicillin G from 1968 through 1975. Antimicrob
+    Agents Chemother 1976;10:380-1.  
+    McDuffie RS, McGregor JA, Gibbs RS. Adverse perinatal outcome
+    and resistant Enterobacteriaceae after antibiotic usage for
+    premature rupture of the membranes and group B streptococcus
+    carriage. Obstet Gynecol 1993;82:487-9.  
+    Amstey MS, Gibbs RS. Is penicillin G a better choice than
+    ampicillin for prophylaxis of neonatal group B streptococcal
+    infections? Obstet Gynecol 1994;84:1058-9.  
+    Gibbs RS, McGregor JA, Mead PB, Eschenbach DA, Hager WD, Sweet
+    RL. A survey of practices in infectious diseases by
+    obstetrician-gynecologists. Obstet Gynecol 1994;83:631-6.  
+    Yancey MK, Armer T, Clark P, Duff P. Assessment of rapid
+    identification tests for genital carriage of group B
+ streptococci.
+    Obstet Gynecol 1992;80:1038-47.  
+    Towers CV, Garite TJ, Friedman WW, Pircon RA, Nageotte MP.
+    Comparison of a rapid enzyme-linked immunosorbent assay test
+ and
+    the Gram stain for detection of group B streptococcus in
+ high-risk
+    antepartum patients. Am J Obstet Gynecol 1990;163:965-7.  
+    Mohle-Boetani J, Schuchat A, Plikaytis BD, Smith D, Broome CV.
+    Comparison of prevention strategies for neonatal group B
+    streptococcal infection: a population-based economic analysis.
+ JAMA
+    1993;270:1442-8.  
+    Stray-Pederson B. Economic evaluation of maternal screening to
+    prevent congenital syphilis. Sex Transm Dis 1983;10:167-72.  
+    Strickland DM, Yeomans ER, Hankins GDV. Cost effectiveness of
+    intrapartum screening and treatment for maternal group B
+    streptococci colonization. Am J Obstet Gynecol 1990;163:4-8.  
+    Yancey MK, Duff P. An analysis of the cost-effectiveness of
+    selected protocols for the prevention of neonatal group B
+    streptococcal infection. Obstet Gynecol 1994;83:367-71.  
+    Wiswell TE, Stoll BJ, Tuggle JM. Management of asymptomatic,
+    term gestation neonates born to mothers treated with
+ intrapartum
+    antibiotics. Pediatr Infect Dis J 1990;9:826-31.  
+    Pylipow M, Gaddis M, Kinney JS. Selective intrapartum
+    prophylaxis for group B streptococcus colonization: management
+ and
+    outcome of newborns. Pediatrics 1994;93:631-5.  
+    Gibbs RS, McDuffie RS, McNabb F, Fryer GE, Miyoshi T,
+    Merenstein G. Neonatal group B streptococcal sepsis during 2
+ years
+    of a universal screening program. Obstet Gynecol
+ 1994;84:496-500.  
+    Jafari HS, Schuchat A, Hilsdon R, Whitney C, Toomey K, Wenger
+    J. Barriers to prevention of perinatal group B streptococcal
+ 
+ 
+ 
+ disease.
+ Pediatr
+ Infect
+ Dis
+ J
+ 1995;14:662-7.
+ 
++-------------------------------------------------------------------
+-------+
+|            
+                                                              |
+|                    Erratum: Vol. 45, No. RR-7
+                            |
+|            
+                                                              |
+|            SOURCE: MMWR 45(31);679   DATE: Aug 09, 1996
+                  |
+|            
+                                                              |
+|      The MMWR Recommendations and Reports, "Prevention of
+ Perinatal      |
+|  Group B Streptococcal Disease: A Public Health Perspective,"
+            |
+|  contained two errors.
+                                                   |
+|            
+                                                              |
+|  Page 17, Box 1: Item 3 should read:
+                                     |
+|  3. Remove the swabs from the transport medium and inoculate both
+        |
+|  swabs together into selective broth medium. Todd-Hewitt broth
+           |
+|  supplemented with either colistin (10 ug/mL) and nalidixic acid
+ (15     |
+|  ug/mL) or with gentamicin (8 ug/mL) and nalidixic acid (15
+ ug/mL)       |
+|  may be used; appropriate commercially available options include
+ Lim     |
+|  or SBM broth.
+                                                           |
+|            
+                                                              |
+|  Page 20:  Figure_3 contained an arrow pointing in the
+ incorrect     |
+|  direction.  The corrected Figure_3E appears below.
+                  |
+|            
+                                                              |
++-------------------------------------------------------------------
+-------+  
+Disclaimer
+   All MMWR HTML versions of articles are electronic conversions from ASCII text into
+HTML.  This conversion may have resulted in character translation or format errors in
+the HTML version.  Users should not rely on this HTML document, but are referred to the
+electronic  PDF  version  and/or  the  original  MMWR  paper  copy  for  the  official  text,
+figures,  and  tables.   An  original  paper  copy  of  this  issue  can  be  obtained  from  the
+Superintendent of Documents, U.S. Government Printing Office (GPO), Washington, DC
+20402-9371;  telephone:  (202)  512-1800.  Contact  GPO  for  current  prices.  Page
+converted: 09/19/98 
+    HOME  |  
+    ABOUT MMWR  | 
+    MMWR SEARCH  | 
+    DOWNLOADS  | 
+    RSS 
+    |  
+    CONTACT
+POLICY  |  
+    DISCLAIMER  |  
+    ACCESSIBILITY 
+Morbidity and Mortality Weekly Report
+                Centers for Disease Control and Prevention
+                1600 Clifton Rd, MailStop E-90, Atlanta, GA 
+                  30333, U.S.A 
+Department of Healthand Human Services This page last reviewed 5/2/01 
+ 
+Source URL: https://www.cdc.gov/mmwr/preview/mmwrhtml/00043277.htm

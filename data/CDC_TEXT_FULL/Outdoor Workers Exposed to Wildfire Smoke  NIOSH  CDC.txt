@@ -1,0 +1,81 @@
+Official websites use .gov A .gov website belongs to an official government organization
+in  the  United  States.  Secure  .gov  websites  use  HTTPS  A  lock  (   )  or  https://  means
+you've  safely  connected  to  the  .gov  website.  Share  sensitive  information  only  on
+official,  secure  websites.  Wildfires  may  present  a  major  health  hazard  to  outdoor
+workers  from  exposure  to  smoke.  Image  by  NIOSH.  Wildland  fires  include  wildfires,
+prescribed fires (intentionally set fires for ecological benefit), and fires occurring in the
+wildland-urban  interface  (where  wildland  vegetation  and  urban  areas  meet).  Wildfire
+smoke is a complex mixture of gases and particles from burning vegetation and other
+materials. As a wildfire burns, different compounds are released in the smoke, such as
+carbon  monoxide,  carbon  dioxide,  hydrocarbons,  particulate  matter  (PM),  benzene,
+acrolein,  and  aldehydes.  While  exposure  to  wildfire  smoke  has  been  of  interest  to
+researchers and public health professionals for decades, it continues to be one of the
+least  understood  hazards  of  wildland  fires.  This  is  primarily  due  to  the  complexity  of
+wildfire  smoke,  as  the  smoke  is  made  up  of  many  different  types  and  amounts  of
+potentially toxic compounds and can change very quickly depending on factors in the
+wildfire  environment,  such  as  weather,  fire  behavior,  and  the  type  of  vegetation
+burning.  Because  of  this,  workers  may  be  exposed  to  varying  types  and  amounts  of
+compounds in wildfire smoke throughout their work shift or during different fire events.
+There is very limited information about how exposure to wildfire smoke impacts outdoor
+workers. However, taken together with research studies examining exposure to smoke
+from  wildland  fires  among  the  general  public,  along  with  assessments  of  the  health
+effects of exposures to specific components of wildfire smoke, there is clear potential
+for  such  exposures  to  result  in  adverse  health  outcomes.  The  risk  of  experiencing
+symptoms  and  adverse  health  effects  due  to  smoke  exposure  varies  from  person  to
+person.  Workers  can  have  different  individual  risk  factors  such  as  age  and  health
+conditions (e.g., pre-existing heart or lung disease) that make them more likely to be
+affected by wildfire smoke. Some health effects known or suspected to be caused by
+wildfire  smoke  include:  Workers  may  also  experience  varying  health  effects  when
+exposed to smoke. Long work schedules and physical demands of the work performed
+(resulting  in  higher  breathing  rates)  may  impact  a  worker’s  exposures  and  health
+response  to  wildfire  smoke.  Still,  the  scientific  community  does  not  fully  understand
+how  long-term,  repeated  exposures,  or  exposures  to  high  concentrations  of  wildfire
+smoke  may  affect  a  worker’s  health.  Additionally,  very  little  is  known  about  how
+exposure  to  many  different  compounds  at  the  same  time,  including  compounds
+released  from  the  burning  of  man-made  materials  (such  as  those  found  in  the
+wildland-urban  interface),  may  affect  a  worker’s  health.  Employers  should  be  aware
+that wildfire smoke may adversely affect the health of their workforce and prepare to
+take action to limit their workers’ exposures when a wildfire is emitting smoke in and
+around their work environment. Employers and workers should prepare for and plan to
+implement procedures to reduce exposures to smoke when necessary. If workers must
+work in areas with high levels of smoke, especially for long periods, or if a worker is
+sensitive  to  wildfire  smoke  and  feels  their  health  or  safety  is  negatively  impacted  by
+smoke exposure, the following steps can be implemented to reduce smoke exposure:
+Controlling exposures to occupational hazards is the fundamental method of protecting
+workers.  NIOSH  recommends  using  the  hierarchy  of  controls  to  determine  how  to
+implement feasible and effective workplace hazard control solutions. While elimination,
+substitution, and engineering and administrative controls are most effective in reducing
+workplace hazards, in some situations the use of personal protective equipment (PPE),
+such  as  the  use  of  respirators,  may  be  considered  to  limit  a  worker’s  exposure  to  a
+hazard in the workplace. A NIOSH Approved® filtering facepiece respirator (FFR), like
+an  N95®  respirator,  can  be  used  to  reduce  exposure  to  airborne  particulates  from
+wildfire smoke when the recommendations listed above cannot be implemented and it
+is feasible to obtain respirators. It is important to understand that FFRs do not protect
+against  gases,  such  as  carbon  monoxide.  If  an  employer  requires  their  employees  to
+use  respiratory  protection  to  limit  smoke  exposure  in  an  occupational  setting,  they
+must  always  do  it  as  part  of  a  comprehensive  respiratory  protection  program  as
+required under the Occupational Safety and Health Administration’s (OSHA) Respiratory
+Protection standard (29 CFR 1910.134)external icon. This includes medical evaluations,
+respirator  fit  testing,  and  training  of  the  workers  required  to  wear  respirators.
+ Additionally, when required in the occupational setting, tight-fitting respirators cannot
+be used by people with facial hair that interferes with the face seal. When respirators
+are used on a voluntary basis in an occupational setting, employers should follow the
+requirements  for  the  voluntary  use  of  respirators.  This  information  can  be  found  on
+the  OSHA  websiteexternal  icon.  Respirators,  such  as  an  N95®,  may  be  one  of  the
+easiest controls to implement for limiting a worker’s exposure to the particulate matter
+in wildland smoke, and in some cases may be the only option to protect some workers.
+Employers,  however,  may  need  to  consider  alternative  controls  and  solutions  when
+respirators  are  not  easily  available.  California  and  Oregon  OSHA  have  adopted
+permanent  rules  to  regulate  on-the-job  wildfire  smoke  exposure.  As  of  May  2023,
+Washington  Department  of  Labor  and  Industries  proposed  draft  language  for  a
+permanent wildfire smoke rule and encourages employers to voluntarily follow safety
+measures  in  the  expired  Wildfire  Smoke  emergency  rule.  Preparing  and  planning  for
+how to best implement the recommendations above in the workplace is critical. This is
+especially  true  in  areas  where  wildfire  smoke  exposure  is  common  and  workers  are
+required to perform their jobs even when the air quality is considered unhealthy or even
+hazardous. Working together, employers and workers can take steps to reduce workers’
+exposures to wildfire smoke. NIOSH National Institute of Environmental Health Sciences
+ Occupational Safety and Health Administration   U.S. Environmental Protection Agency 
+Cal/OSHA  University  of  California,  Los  Angeles  Labor  Occupational  Safety  and  Health
+Program
+Source URL: https://www.cdc.gov/niosh/topics/firefighting/wffsmoke.html

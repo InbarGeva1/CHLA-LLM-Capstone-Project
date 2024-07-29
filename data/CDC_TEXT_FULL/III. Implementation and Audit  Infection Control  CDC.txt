@@ -1,0 +1,65 @@
+A .gov website belongs to an official government organization in the United States. A
+lock (  ) or https:// means you've safely connected to the .gov website. Share sensitive
+information  only  on  official,  secure  websites.  Implementation  and  Audit  from  the
+Guideline  for  the  Prevention  and  Control  of  Norovirus  Gastroenteritis  Outbreaks  in
+Healthcare  Settings  (2011).  Category  I  recommendations  in  this  guideline  are  all
+considered strong recommendations and should be implemented. If it is not feasible to
+implement  all  of  these  recommendations  concurrently,  e.g.,  due  to  differences  in
+facility characteristics such as nursing homes and other non-hospital settings, priority
+should  be  given  to  the  recommendations  below.  A  limited  number  of  Category  II
+recommendations are included, and while these currently are limited by the strength of
+the  available  evidence,  they  are  considered  key  activities  in  preventing  further
+transmission  of  norovirus  in  healthcare  settings.  1.  Avoid  exposure  to  vomitus  or
+diarrhea.  Place  patients  on  Contact  Precautions  in  a  single  occupancy  room  if  they
+present  with  symptoms  consistent  with  norovirus  gastroenteritis.  (Category  IB)  (Key
+Question  1.A.1)  8.  During  outbreaks,  use  soap  and  water  for  hand  hygiene  after
+providing care or having contact with patients suspected or confirmed with norovirus
+gastroenteritis. (Category IB) (Key Question 3.C.1.b) 11. Consider limiting transfers to
+those for which the receiving facility is able to maintain Contact Precautions; otherwise,
+it  may  be  prudent  to  postpone  transfers  until  patients  no  longer  require  Contact
+Precautions. During outbreaks, medically suitable individuals recovering from norovirus
+gastroenteritis  can  be  discharged  to  their  place  of  residence.  (Category  II)  (Key
+Question 3.C.11) 17. In the absence of clinical laboratory diagnostics or in the case of
+delay in obtaining laboratory results, use Kaplan's clinical and epidemiologic criteria to
+identify  a  norovirus  gastroenteritis  outbreak.  (Category  IA)  (Key  Question  2.A.1)  28.
+Increase the frequency of cleaning and disinfection of patient care areas and frequently
+touched surfaces during outbreaks of norovirus gastroenteritis (e.g., consider increasing
+ward/unit level cleaning to twice daily to maintain cleanliness, with frequently touched
+surfaces  cleaned  and  disinfected  three  times  daily  using  EPA-approved  products  for
+healthcare settings). (Category IB) (Key Question 3.C.12.b.1) 42. Develop and adhere to
+sick  leave  policies  for  healthcare  personnel  who  have  symptoms  consistent  with
+norovirus  infection.  (Category  IB)  (Key  Question  3.C.3)  a.  Exclude  ill  personnel  from
+work  for  a  minimum  of  48  hours  after  the  resolution  of  symptoms.  Once  personnel
+return  to  work,  the  importance  of  performing  frequent  hand  hygiene  should  be
+reinforced,  especially  before  and  after  each  patient  contact.  (Category  IB)  (Key
+Question 3.C.3.a) 43. Establish protocols for staff cohorting in the event of an outbreak
+of norovirus gastroenteritis. Ensure staff care for one patient cohort on their ward and
+do not move between patient cohorts (e.g., patient cohorts may include symptomatic,
+asymptomatic  exposed,  or  asymptomatic  unexposed  patient  groups).   (Category
+IB)(Key Question 3.C.5.a) 51. As with all outbreaks, notify appropriate local and state
+health  departments,  as  required  by  state  and  local  public  health  regulations,  if  an
+outbreak of norovirus gastroenteritis is suspected. (Category IC) (Key Question 3.C.9.b)
+Use of performance measures may assist individual healthcare facilities, as well as local
+and state health departments to recognize increasing and peak activities of norovirus
+infection,  and  may  allow  for  prevention  and  awareness  efforts  to  be  implemented
+rapidly  or  as  disease  incidence  escalates.  Evaluate  fluctuations  in  the  incidence  of
+norovirus in healthcare settings using the National Outbreak Reporting System (NORS)
+[Current version of this document may differ from original.]. This system monitors the
+reporting
+ of
+ waterborne,
+ foodborne,
+ enteric
+ person-to-person,
+ and
+ animal
+contact-associated  disease  outbreaks  to  CDC  by  state  and  territorial  public  health
+agencies. This surveillance program was previously used only for reporting foodborne
+disease outbreaks, but it has now expanded to include all enteric outbreaks, regardless
+of  mode  of  transmission.  Additionally,  CDC  is  currently  implementing  a  national
+surveillance system (CaliciNet) for genetic sequences of noroviruses; this system may
+also  be  used  to  measure  changes  in  the  epidemiology  of  healthcare-associated
+norovirus infections. CDC provides information on infection control and clinical safety to
+help  reduce  the  risk  of  infections  among  healthcare  workers,  patients,  and  visitors.
+Languages Language Assistance Languages  Language Assistance 
+Source URL: https://www.cdc.gov/infection-control/hcp/norovirus-guidelines/implmentation-audit.html

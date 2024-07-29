@@ -1,0 +1,767 @@
+  Prepared by Elizabeth C. Briere, MD1 Lorry Rubin, MD2 Pedro L. Moro, MD3 Amanda
+Cohn, MD1 Thomas Clark, MD1 Nancy Messonnier, MD1 1Division of Bacterial Diseases,
+National  Center  for  Immunization  and  Respiratory  Diseases,  CDC  2  Steven  and
+Alexandra  Cohen  Children's  Medical  Center  of  New  York,  New  Hyde  Park,  New  York
+3Division of Healthcare Quality Promotion, National Center for Emerging and Zoonotic
+Infectious  Diseases,  CDC  Corresponding  preparer:  Elizabeth  C.  Briere,  MD,  National
+Center  for  Immunization  and  Respiratory  Diseases,  CDC,  1600  Clifton  Road  NE,  MS
+C-09,  Atlanta,  GA  30333.  E-mail:  ebriere@cdc.gov.  This  report  compiles  and
+summarizes  all  recommendations  from  CDC's  Advisory  Committee  on  Immunization
+Practices  (ACIP)  regarding  prevention  and  control  of  Haemophilus  influenzae  type  b
+(Hib)  disease  in  the  United  States.  As  a  comprehensive  summary  of  previously
+published recommendations, this report does not contain any new recommendations; it
+is  intended  for  use  by  clinicians,  public  health  officials,  vaccination  providers,  and
+immunization program personnel as a resource. ACIP recommends routine vaccination
+with  a  licensed  conjugate  Hib  vaccine  for  infants  aged  2  through  6  months  (2  or  3
+doses,  depending  on  vaccine  product)  with  a  booster  dose  at  age  12  through  15
+months. ACIP also recommends vaccination for certain persons at increased risk for Hib
+disease
+ (i.e.,
+ persons
+ who
+ have
+ early
+ component
+ complement
+ deficiencies,
+immunoglobulin deficiency, anatomic or functional asplenia, or HIV infection; recipients
+of  hematopoietic  stem  cell  transplant;  and  recipients  of  chemotherapy  or  radiation
+therapy for malignant neoplasms). This report summarizes current information on Hib
+epidemiology  in  the  United  States  and  describes  Hib  vaccines  licensed  for  use  in  the
+United  States.  Guidelines  for  antimicrobial  chemoprophylaxis  of  contacts  of  persons
+with Hib disease also are provided. Before 1985, Haemophilus influenzae type b (Hib)
+was the leading cause of bacterial meningitis and a common cause of other invasive
+diseases  (e.g.,  epiglottitis,  pneumonia,  septic  arthritis,  cellulitis,  purulent  pericarditis,
+and  bacteremia)  among  U.S.  children  aged  <5  years  (1).  Meningitis  occurred  in
+approximately two thirds of children with invasive Hib disease; 15%–30% of survivors
+had hearing impairment or severe permanent neurologic sequelae. Approximately 4%
+of all cases were fatal (2). The first polysaccharide Hib vaccine was introduced in the
+United  States  in  1985,  followed  by  conjugate  Hib  vaccines  in  1987  and  1989.  During
+1989–2000,  the  annual  incidence  of  invasive  Hib  disease  in  children  aged  <5  years
+decreased  by  99%,  to  less  than  one  case  per  100,000  children  (3–7).  During
+2000–2012, the average annual incidence rate of invasive Hib disease in children aged
+<5  years  in  the  United  States  remained  below  the  Healthy  People  2020  goal  of
+0.27/100,000
+ (8)
+ (data
+ available
+ at
+http://www.cdc.gov/abcs/reports-findings/surv-reports.html)  (Figures  1  and  2).  Studies
+have demonstrated that vaccination with Hib conjugate vaccine leads to decreases in
+oropharyngeal colonization among both vaccinated and unvaccinated children (9–11);
+the  prevalence  of  Hib  carriage  has  decreased  among  preschool-aged  children  from
+2%–7% in the prevaccine era to <1% in the vaccine era (9,12). Several Hib-containing
+vaccines  have  been  licensed  since  the  initial  Advisory  Committee  on  Immunization
+Practices (ACIP) recommendations on prevention and control of Hib disease published in
+1993  (13);  subsequent  publications  have  provided  additional  data  and  updated
+recommendations  for  these  vaccines  (14–17).  This  report  summarizes  previously
+published  ACIP  recommendations  on  prevention  and  control  of  Hib  disease  in
+immunocompetent  and  high-risk  populations  (14–18);  it  does  not  contain  new
+recommendations  and  is  intended  as  a  resource  for  clinicians,  public  health  officials,
+vaccination  providers,  and  immunization  program  personnel.  In  addition,  this  report
+summarizes current information on Hib epidemiology in the United States and describes
+Hib  vaccines  licensed  for  use  in  the  United  States.  Guidelines  for  antimicrobial
+chemoprophylaxis  of  contacts  of  persons  with  Hib  disease  also  are  provided.   ACIP's
+Meningococcal  and  Haemophilus  influenzae  type  b  Work  Group*  comprises  a  diverse
+group  of  health-care  providers  and  public  health  officials.  The  Work  Group  includes
+professionals from academic medicine (pediatrics, family medicine, internal medicine,
+and  infectious  disease  specialists),  federal  and  state  public  health  professionals,  and
+representatives
+ of
+ professional
+ medical
+ organizations.
+ Published
+ Hib
+ vaccine
+recommendations  were  the  primary  sources  of  data  used  by  the  Work  Group  in
+summarizing recommendations for the prevention and control of Hib disease, including
+the  evidence-based  2013  Infectious  Diseases  Society  of  America  clinical  practice
+guideline  for  vaccination  of  the  immunocompromised  host  (17–23).  Surveillance  data
+came  from  the  Active  Bacterial  Core  surveillance  (ABCs)  system  and  the  National
+Notifiable Diseases Surveillance System (NNDSS) (24). Data on the immunogenicity and
+safety of current licensed and available Hib vaccines were summarized on the basis of
+findings  from  a  literature  search  of  PubMed  and  Web  of  Science  databases  that  was
+completed  on  April  2,  2012.  A  nonsystematic  review  was  conducted  for  studies  on
+safety, effectiveness, and immunogenicity of the current Hib vaccines published from
+the time of vaccine licensure through March 2012. Because MenHibRix was licensed in
+June 2012, studies published before licensure also were reviewed. The literature search
+included clinical trials, randomized controlled trials, controlled clinical trials, evaluation
+studies,  and  comparative  studies  conducted  worldwide  and  published  in  English.  The
+Vaccine
+ Adverse
+ Events
+ Reporting
+ System
+ (VAERS)
+ (available
+ at
+http://www.vaers.hhs.gov)  also  was  searched  for  postlicensure  safety  data  for  the
+currently licensed and available Hib vaccines. During December 2012–February 2013,
+the Work Group held one teleconference meeting and the members communicated with
+each  other  via  e-mail  messages  to  review  current  recommendations  and  to  consider
+potential  revisions  to  the  statement.  A  summary  of  data  reviewed,  Work  Group
+discussions,  and  the  current  description  of  Hib  epidemiology  was  presented  at  the
+ACIP's February 2013 meeting. On February 20, 2013, ACIP members approved the Hib
+Vaccine Recommendations Statement. Modifications were made to the ACIP statement
+during  the  subsequent  review  process  at  CDC  to  update  and  clarify  wording  in  the
+report.  H.  influenzae  is  a  species  of  bacteria  that  has  encapsulated  (typeable)  or
+unencapsulated  (nontypeable)  strains.  Encapsulated  strains  express  one  of  six
+antigenically distinct capsular polysaccharides (types a, b, c, d, e, or f). Encapsulated H.
+influenzae nontype b strains, particularly type a, can cause invasive disease similar to
+Hib  disease  (25,26).  Nontypeable  strains  also  can  cause  invasive  disease  but  more
+commonly cause mucosal infections such as otitis media, conjunctivitis, and sinusitis.
+Hib  vaccines  only  protect  against  H.  influenzae  type  b  strains;  no  vaccines  against
+nontype  b  or  nontypeable  strains  currently  are  available.  H.  influenzae  colonizes  the
+upper respiratory tract of humans and is transmitted person-to-person by inhalation of
+respiratory droplets or by direct contact with respiratory tract secretions. The majority
+of Hib disease in the United States occurs among unimmunized and underimmunized
+infants  and  children  (those  who  have  an  incomplete  primary  series  or  are  lacking  a
+booster  dose)  and  among  infants  too  young  to  have  completed  the  primary
+immunization  series  (27)  (Figure  3).  Although  rare,  Hib  disease  after  full  vaccination
+with the primary series and booster dose does occur; among Hib case-patients aged <5
+years  with  age-appropriate  vaccine  status  reported  during  2002–2012  in  the  United
+States, 16% had completed the primary Hib series, and 43% had completed the full Hib
+series  (Figure  3).  Hib  disease  is  uncommon  in  adults  and  in  children  aged  >5  years.
+Additional
+ information
+ about
+ H.
+ influenzae
+ disease
+ is
+ available
+ at
+http://www.cdc.gov/hi-disease.  Persons  with  certain  immunocompromising  conditions
+are  considered  at  increased  risk  for  invasive  Hib  disease;  these  conditions  might
+include:  Children  who  develop  Hib  disease  despite  appropriate  vaccination  should  be
+evaluated for an immunological deficiency that predisposes them to Hib disease (28).
+Historically, American Indian/Alaska Native (AI/AN) populations have had higher rates of
+Hib disease and colonization than the general U.S. population, with a peak in disease at
+a  younger  age  (4–6  months)  than  among  other  U.S.  infant  populations  (6–7  months)
+(29–31).  Before  introduction  of  vaccine  in  1985,  rates  among  AN  children  were  five
+times  higher  than  rates  among  non-AN  children  in  Alaska  (4).  Although  rates  of  Hib
+disease  among  AI/AN  children  have  decreased  in  the  postvaccine  era,  they  remain
+higher  than  among  non-AI/AN  children.  During  1998–2009,  the  average  annual
+incidence of Hib disease in children aged <5 years in the United States was 8–10 times
+higher among AI/AN children (1.3/100,000) than it was among white (0.16/100,000) and
+black (0.12/100,000) children, respectively (27). The first Hib vaccine licensed for use in
+the  United  States  in  1985  was  a  monovalent  vaccine  consisting  of  purified
+polyribosylribitol phosphate (PRP) capsular material from type b strains. Although the
+vaccine  was  highly  effective  in  trials  in  Finland  among  children  aged  ≥18  months,
+postmarketing  effectiveness  studies  in  the  United  States  demonstrated  variable
+effectiveness  (-69%–88%)  (32).  PRP  vaccines  were  ineffective  in  children  aged  <18
+months because of the T lymphocyte-independent nature of the immune response to
+PRP  polysaccharide  (13).  Conjugation  of  the  PRP  polysaccharide  with  protein  carriers
+that contain T-lymphocyte epitopes confers T-lymphocyte-dependent characteristics to
+the vaccine. This conjugation enhances the immunologic response to the PRP antigen,
+particularly  in  young  infants,  and  results  in  immunologic  memory  (e.g.,  anamnestic
+response)  (33).  Studies  have  suggested  that  long-term  protection  from  invasive  Hib
+disease is correlated with the presence of anti-PRP levels ≥0.15 µg/ml in unvaccinated
+children and anti-PRP levels ≥1.0 µg/ml in vaccinated children (34,35). By 1989, three
+monovalent  Hib  conjugate  vaccines  were  licensed  for  use  among  children  aged  ≥15
+months (29). In late 1990, two of these conjugate vaccines were licensed for use among
+infants (36,37). Since 1990, additional Hib vaccines from numerous manufacturers have
+been  licensed  and  are  currently  used  in  the  United  States,  including  monovalent  Hib
+conjugate vaccines and combination vaccines that contain a Hib conjugate vaccine. No
+polysaccharide Hib vaccines are used currently in the United States. As of January 1,
+2014,  three  monovalent  PRP  polysaccharide-protein  conjugate  vaccines  had  been
+licensed by the Food and Drug Administration (FDA) and were available in the United
+States:  PRP-OMP  (PedvaxHIB,  Merck  and  Co.,  Inc.,  Whitehouse  Station,  New  Jersey),
+PRP-T  (ActHIB,  Sanofi  Pasteur,  Inc.,  Swiftwater,  Pennsylvania),  and  PRP-T  (Hiberix,
+GlaxoSmithKline, Research Triangle Park, North Carolina) (38) (Table 1). In December
+1990, PRP-OMP (PedvaxHIB) was licensed by FDA as a 2-dose primary series for infants
+at ages 2 and 4 months, with a booster dose (dose 3) at age 12 months (39). PRP-OMP
+contains purified PRP conjugated with an outer membrane protein complex (OMPC) of
+the B11 strain of Neisseria meningitidis serogroup B. Further information is available in
+the
+ package
+ insert
+ at
+http://www.fda.gov/downloads/BiologicsBloodVaccines/Vaccines/ApprovedProducts/UCM
+253652.pdf.  In  March  1993,  PRP-T  (ActHIB)  was  licensed  by  FDA  as  a  3-dose primary
+series for infants at ages 2, 4, and 6 months, with a booster dose (dose 4) at age 15
+months (40). This vaccine contains purified PRP conjugated with tetanus toxoid. Further
+information
+ is
+ available
+ in
+ the
+ package
+ insert
+ at
+http://www.fda.gov/downloads/BiologicsBloodVaccines/Vaccines/ApprovedProducts/UCM
+109841.pdf. In August 2009, PRP-T (Hiberix) was licensed by FDA for use as the booster
+dose (which will be dose 3 or 4, depending on vaccine type used for primary series) of
+the Hib vaccine series for children aged 15 months through 4 years who have received
+a Hib primary series (16). This vaccine contains purified PRP conjugated with tetanus
+toxoid.
+ Further
+ information
+ is
+ available
+ in
+ the
+ package
+ insert
+ at
+http://www.fda.gov/downloads/BiologicsBloodVaccines/Vaccines/ApprovedProducts/UCM
+179530.pdf.  As  of  January  1,  2014,  three  combination  vaccines  that  contain  an  H.
+influenzae type b conjugate vaccine had been licensed by FDA and were available in
+the  United  States:  PRP-OMP/HepB  (Comvax,  Merck  and  Co.,  Inc.,  Whitehouse  Station,
+New Jersey), DTaP-IPV/PRP-T (Pentacel, Sanofi Pasteur, Inc., Swiftwater, Pennsylvania),
+and MenCY/PRP-T (MenHibRix, GlaxoSmithKline, Inc., Rixensart, Belgium) (38) (Table 1).
+In October 1996, PRP-OMP/HepB (Comvax) was licensed by FDA for vaccination against
+invasive Hib disease and hepatitis B infection in infants at ages 2, 4, and 12 through 15
+months  (14).  This  vaccine  includes  the  antigenic  components  used  in  PedvaxHIB
+(PRP-OMP)  and  Recombivax  HB  (hepatitis  B  surface  antigen).  Further  information  is
+available
+ in
+ the
+ package
+ insert
+ at
+http://www.fda.gov/downloads/BiologicsBloodVaccines/Vaccines/ApprovedProducts/UCM
+109869.pdf.  In  June  2008,  DTaP/IPV/PRP-T  (Pentacel)  was  licensed  by  FDA  for
+vaccination  against  invasive  Hib  disease,  diphtheria,  tetanus,  pertussis,  and
+poliomyelitis  in  infants  at  ages  2,  4,  6,  and  15  through  18  months  (15).  It  is  not
+indicated for the DTaP/IPV booster dose at age 4 through 6 years. The vaccine includes
+the antigenic components used in ActHIB (PRP-T) and Poliovax. Further information is
+available
+ in
+ the
+ package
+ insert
+ at
+http://www.fda.gov/downloads/BiologicsBloodVaccines/Vaccines/ApprovedProducts/UCM
+109810.pdf.  In  June  2012,  MenCY/PRP-T  (MenHibRix)  was  licensed  by  FDA  for
+vaccination  against  invasive  Hib  disease  and  N.  meningitidis  serogroups  C  and  Y
+disease in infants at ages 2, 4, 6, and 12 through 15 months (17). Infants at increased
+risk  for  meningococcal  disease†  should  be  vaccinated  with  a  4-dose  series  of
+MenCY/PRP-T. Routine meningococcal vaccination is recommended only for infants who
+are at increased risk for meningococcal disease. However, MenCY/PRP-T may be used in
+any infant for routine vaccination against Hib. Further recommendations for use of the
+MenCY  component  of  MenCY/PRP-T  have  been  published  previously  (17).  Further
+vaccine
+ information
+ is
+ available
+ in
+ the
+ package
+ insert
+ at
+http://www.fda.gov/downloads/BiologicsBloodVaccines/Vaccines/ApprovedProducts/UCM
+308577.pdf.  Protective  antibody  levels  are  detected  for  both  PedvaxHib  and  ActHib
+after a primary series (41–43). However, the vaccines differ in the timing of antibody
+response. PedvaxHib produces a substantial antibody response after the first dose with
+an additional boost in geometric mean antibody concentration after the second or third
+dose  (41,42,44–46).  Therefore,  PedvaxHib  is  licensed  as  a  2-dose  primary  series.
+PedvaxHib  effectiveness  was  93%–100%  in  Navajo  infants  vaccinated  with  a  2-dose
+series  (13,41,47).  Geometric  mean  antibody  concentrations  remain  at  or  below  1.0
+µg/ml after the first and second dose of ActHIB, but a protective antibody response is
+seen  after  the  third  dose  (41,42,45,48,49).  Effectiveness  studies  for  ActHIB  were
+terminated early in the United States with licensure of the first Hib conjugate vaccine;
+no cases of invasive Hib disease were reported among vaccinees at the time of study
+termination  (13,47).  A  prospective  controlled  trial  of  PRP-T  among  56,000  subjects  in
+the  United  Kingdom  found  an  effectiveness  of  95%  (95%  confidence  interval  [CI]  =
+74%–100%)  (47).  Antibody  levels  decline  after  completion  of  the  primary  series  with
+PRP-T and PRP-OMP vaccines and a booster dose at age 12–15 months is necessary to
+maintain protective antibody levels. Booster doses of PedvaxHib, ActHib, and Hiberix at
+age 12–15 months provide levels of antibody that are protective against invasive Hib
+disease  (16,44,46,48,50,51).  Protective  antibody  responses  comparable  to  those
+detected  after  receipt  of  separately  administered  PedVaxHIB  and  Recombivax  HB
+vaccines are seen after the second primary dose and booster dose of Comvax vaccine
+(14,52).  Pentacel  and  MenHibRix  induce  protective  antibody  responses  that  are
+noninferior to separately administered PRP-T vaccines after the third primary dose and
+booster dose (53–59). No clinically significant immune interference has been observed
+with  any  of  the  available  monovalent  or  combination  Hib  vaccines  and  concomitant
+administration  of  other  routine  childhood  vaccines  (51,52,60–67;  ACIP,  unpublished
+data, 2009). In prelicensure trials, adverse reactions to PedvaxHib, ActHib, and Hiberix
+were
+ uncommon,
+ usually
+ mild,
+ and
+ generally
+ resolved
+ within
+ 12–24
+ hours
+(16,41,43,46,49,50).  Rates  of  adverse  reactions  to  Comvax,  Pentacel,  and  MenHibRix
+were  similar  to  those  seen  with  separately  administered  vaccines  (14,52–54,68).
+Postmarketing  surveillance  for  adverse  events  following  receipt  of  Hib  vaccines  has
+been conducted primarily by two systems in the United States: VAERS and the Vaccine
+Safety Datalink (VSD). VAERS is a national passive surveillance system operated jointly
+by  CDC  and  FDA  that  receives  reports  of  adverse  events  following  vaccination  from
+health-care personnel, manufacturers, vaccine recipients, and others (69). VAERS can
+generate, but not test, vaccine safety hypotheses and is subject to several limitations,
+including  reporting  biases  and  inconsistent  data  quality  (69).  VSD  is  a  collaboration
+between
+ CDC
+ and
+ nine
+ integrated
+ health-care
+ organizations
+ that
+ conducts
+population-based  vaccination  safety  studies  to  assess  hypotheses  that  arise  from
+review of medical literature, reports to VAERS, changes in immunization schedules, or
+introduction  of  new  vaccines  (70).  During  January  1,  1990–May  31,  2013,  VAERS
+received 29,047 reports involving receipt of Hib vaccines (PedvaxHIB, ActHIB, Hiberix,
+Comvax,  and  Pentacel)  in  the  United  States;  26,375  (91%)  reports  involved  children
+aged  <2  years.  Hib  vaccines  were  administered  concurrently  with  one  or  more  other
+vaccines  in  95%  of  case  reports.  The  median  time  from  vaccination  to  onset  of  an
+adverse  event  was  1  day.  The  most  frequently  reported  adverse  events  were  fever
+(31%),  crying  (11%),  injection  site  erythema  (11%),  irritability  (10%),  and  rash  (9%).
+Among all Hib vaccines reports, approximately 17% were coded as serious as defined in
+the Code of Federal Regulations (71) (i.e., report contained information that the event
+led to death, life-threatening illness, hospitalization, prolongation of hospitalization, or
+permanent  disability).  Among  the  5,062  reports  coded  as  serious,  the  most  frequent
+adverse events were fever (37%), vomiting (21%), convulsion (20%), irritability (17%),
+and intussusception (11%). In 97% of the intussusception reports, rotavirus vaccine was
+administered concomitantly and might have prompted reporting of this adverse event.
+VAERS received reports of 878 deaths following Hib containing vaccines that occurred
+during January 1, 1990–May 31, 2013. An autopsy report or other medical records was
+available for 620 (71%) of these deaths, among which the most frequent cause of death
+was sudden infant death syndrome (52%). Other causes of death included respiratory
+(9%), cardiovascular (5%), infectious (5%), neurologic (3%), and gastrointestinal (2%)
+conditions.  In  14%  of  reports,  the  cause  was  undetermined,  and  in  11%  of  reports,
+various  other  causes  were  reported  (e.g.,  asphyxia  and  blunt  force  trauma).  The
+reporting frequencies for Hib containing vaccines are similar to what has been observed
+with other recommended childhood vaccines. No unusual or unexpected safety patterns
+were observed in VAERS data for any Hib vaccines. No postlicensure safety studies of
+monovalent  Hib  vaccines  were  identified  by  the  literature  review.  However,  the  VSD
+conducted  an  observational  study  of  the  combination  Hib  vaccine,  DTaP-IPV-Hib
+(Pentacel), for the period September 2008–January 2011 (55). Compared with children
+who  received  DTaP-containing  control  vaccine  (i.e.,  without  Hib),  children  aged  1–2
+years  who  received  DTaP-IPV-Hib  vaccine  had  an  elevated  risk  for  fever  (RR  =  1.83;
+95% CI = 1.34–2.50). DTaP-IPV-Hib vaccine was not associated with any other medically
+attended  adverse  health  event.  An  independent  postmarketing  safety  evaluation  of
+Hib-HepB  (Comvax)  was  conducted  by  a  managed  care  organization  in  Seattle,
+Washington,  for  the  period  July  1997–December  2000  (72).  Using  ICD-9  codes,  the
+retrospective  cohort  study  evaluated  adverse  events  reported  1–30  days  following
+administration of Hib-HepB, compared with rates of adverse events among two control
+groups (historical control group and self-comparison group). A total of 27,802 vaccine
+doses  were  administered  during  the  study  period  with  111,129  diagnoses  recorded
+within 0–30 days following administration of Comvax in any health-care setting. There
+were 127 separate adverse event codes with significant elevated relative risks and 66
+codes  with  significantly  decreased  relative  risks  (p<0.5).  On  medical  record  review,
+there  was  no  consistent  pattern  to  respiratory  or  gastrointestinal  illnesses;  fever
+findings  appeared  to  be  explained  by  changes  in  data  collection  or  by  concomitant
+vaccination  with  measles,  mumps,  and  rubella  virus  vaccine.  Two  deaths  occurred
+within  the  study  period,  both  of  which  were  considered  unrelated  to  vaccination.  No
+consistent association was identified between serious adverse events and vaccination
+with  Hib-HepB,  and  the  vaccine  had  a  favorable  safety  profile.  ACIP  recommends
+routine  administration  of  a  conjugate  Hib  vaccine  series  (monovalent  vaccine
+[PedvaxHib  (PRP-OMP)  or  ActHib  (PRP-T)]  or  Hib  vaccine  in  combination  with  HepB
+[Comvax],  DTaP/IPV  [Pentacel],  or  MenCY  [MenHibRix])  beginning  at  age  2  months.
+Infants  aged  2–6  months  should  receive  a  3-dose  series  of  Hib  PRP-T  as  ActHib,
+Pentacel,  or  MenHibRix  or  a  2-dose  series  of  Hib  PRP-OMP  as  PedvaxHib  or  Comvax
+(Table 1). The first dose can be administered as early as age 6 weeks. A booster dose
+(which  will  be  dose  3  or  4  depending  on  vaccine  type  used  in  primary  series)  of  any
+licensed  conjugate  Hib  vaccine  (monovalent  vaccine  [PedvaxHib  (PRP-OMP),  ActHib
+(PRP-T),  or  Hiberix  (PRP-T)]  or  Hib  vaccine  in  combination  with  HepB  [Comvax]  or
+DTaP/IPV  [Pentacel]  or  MenCY  [MenHibRix])  is  recommended  at  age  12  through  15
+months  and  at  least  8  weeks  after  the  most  recent  Hib  vaccination  (Table  1).  Hib
+vaccine  has  been  found  to  be  immunogenic  in  patients  with  immunocompromising
+conditions  although  immunogenicity  varies  with  the  degree  of  immunocompetence
+(13,73–84). Patients at increased risk for invasive Hib disease who are vaccinated (have
+received  a  Hib  primary  series  and  a  booster  dose  at  age  ≥12  months)  do  not  need
+further  routine  immunization,  except  in  certain  situations  (Table  2).  Doses  for  either
+primary  series  (2-dose  or  3-dose)  should  be  administered  8  weeks  apart;  however,  if
+necessary, an interval of 4 weeks between doses is acceptable. If a PRP-OMP vaccine
+(PedvaxHIB  or  Comvax)  is  administered  for  both  doses  in  the  primary  series,  a  third
+primary  dose  is  not  indicated.  If  a  PRP-OMP  vaccine  (PedvaxHib  or  Comvax)  is  not
+administered for both doses in the primary series or there is uncertainty about which
+products were administered previously, a third primary series dose of a Hib conjugate
+vaccine is needed to complete the primary series. Any monovalent or combination Hib
+conjugate vaccine is acceptable for the booster dose (dose 3 or 4 depending on vaccine
+type  used  in  primary  series),  regardless  of  the  product  used  for  the  primary  series.
+Hiberix should be used only for the booster dose (dose 3 or 4, depending on the vaccine
+type  used  for  primary  series)  in  children  aged  12  months  through  4  years  who  have
+received at least 1 dose of Hib vaccine previously. If the first vaccination is delayed by
+>1
+ month,
+ the
+ recommended
+ catch-up
+ schedule
+ (available
+ at
+http://www.cdc.gov/vaccines/schedules/hcp/child-adolescent.html)  should  be  followed.
+The recommended catch-up schedule should be followed for children aged <12 months
+who  are  at  increased  risk  for  Hib  disease  and  have  delayed  or  no  Hib  vaccination.
+Catch-up guidance for children aged 12 through 59 months who are at increased risk
+for  Hib  disease  and  who  have  delayed  or  no  Hib  vaccination  is  described  below  (see
+"High-risk  groups";  Table  2).  Hib  meningitis  incidence  peaks  at  a  younger  age  (4–6
+months) among AI/AN infants than among other U.S. infant populations (6–7 months)
+(29–31).  Vaccination  with  a  2  dose  primary  series  of  a  Hib  vaccine  that  contains
+PRP-OMP  (PedvaxHIB  or  Comvax)  is  preferred  for  AI/AN  infants  to  provide  early
+protection  because  these  vaccines  produce  a  protective  antibody  response  after  the
+first  dose  (41–43,51,52,85).  If  the  first  vaccination  dose  is  delayed  by  >1  month,  the
+recommended
+ catch-up
+ schedule
+ (available
+ at
+http://www.cdc.gov/vaccines/schedules/hcp/child-adolescent.html)  should  be  followed.
+A booster dose (dose 3) of Hib vaccine is recommended at age 12 through 15 months;
+for the booster dose, there is no preferred vaccine formulation (i.e., any licensed Hib
+conjugate  vaccine  is  acceptable).  The  importance  of  this  early  protection  was
+demonstrated  in  Alaska  (30,86).  During  July  1991–January  1996,  a  PRP-OMP  vaccine
+was  used  statewide  in  Alaska  and  a  >90%  decrease  in  Hib  disease  rates  occurred
+among  AN  and  nonnative  children  (30,86).  During  1996–1997,  after  the  statewide
+vaccine  was  changed  to  a  combination  vaccine  that  included  a  non-OMP  Hib
+component, Hib incidence increased significantly (19.8 to 91.1 cases/100,000 children
+aged  <5  years,  p<0.001)  among  AN  children  while  remaining  unchanged  among
+nonnative children (30,86). Disease reappearance seemed to be attributable to the use
+of  a  Hib  vaccine  that  did  not  achieve  early  protective  antibody  concentrations  in
+children who had ongoing exposure to Hib via oropharyngeal colonization among close
+contacts.  After  returning  to  the  use  of  PRP-OMP  containing  vaccines  in  Alaska,  the
+incidence of Hib disease in AN children decreased to rates of fewer than six cases per
+100,00  children  aged  <5  years  (30,86).  Children  aged  <24  months  who  develop
+invasive  Hib  disease  can  remain  at  risk  for  developing  a  second  episode  because
+natural infection in this age group does not reliably result in development of protective
+antibody  levels.  These  children  should  be  considered  unvaccinated  regardless  of
+previous  Hib  vaccination  and  should  receive  Hib  vaccine  doses  according  to  the
+age-appropriate  schedule  for  unimmunized  children  (28,87–89).  Children  aged  <24
+months  who  develop  invasive  Hib  disease  should  receive  primary  vaccination  or
+re-vaccination with a second primary series beginning 4 weeks after onset of disease.
+Medically  stable  preterm  infants§  should  be  vaccinated  beginning  at  age  2  months
+according to the schedule recommended for other infants, on the basis of chronological
+age.  Persons  considered  at  increased  risk  for  invasive  Hib  disease  include  those  with
+functional  or  anatomic  asplenia,  HIV  infection,  immunoglobulin  deficiency  (including
+immunoglobulin  G2  subclass  deficiency),  or  early  component  complement  deficiency,
+recipients of a hematopoietic stem cell transplant, and those receiving chemotherapy
+or  radiation  therapy  for  malignant  neoplasms.  A  single  dose  of  any  licensed  Hib
+conjugate vaccine should be administered to unimmunized older children, adolescents,
+and adults who are asplenic or who are scheduled for an elective splenectomy. Some
+experts suggest administering a dose prior to elective splenectomy regardless of prior
+vaccination history (22). On the basis of limited data on the timing of Hib vaccination
+before splenectomy, experts suggest vaccination at least 14 days before the procedure
+(18,19,23) (Table 2). Unimmunized children aged ≥60 months who have HIV infection
+should receive 1 dose of Hib vaccine. Whether HIV-infected children who have received
+a full 3 or 4 dose vaccine series (depending on the vaccine type used for the primary
+series) will benefit from additional Hib doses is unknown. Because the incidence of Hib
+infections among HIV-infected adults is low, Hib vaccine is not recommended for adults
+with HIV infection (21,23) (Table 2). Children aged 12–59 months who are at increased
+risk  for  Hib  disease  (persons  with  asplenia,  HIV  infection,  immunoglobulin  deficiency,
+early  component  complement  deficiency,  or  chemotherapy  or  radiation  therapy
+recipients) and who received no doses or only 1 dose of Hib conjugate vaccine before
+age  12  months  should  receive  2  additional  doses  of  vaccine  8  weeks  apart;  children
+who received 2 or more doses of Hib conjugate vaccine before age 12 months should
+receive 1 additional dose, at least 8 weeks after the last dose (Table 2). Hib vaccination
+during  chemotherapy  or  radiation  therapy  should  be  avoided  because  of  possible
+suboptimal  antibody  response.  Patients  vaccinated  within  14  days  of  starting
+immunosuppressive therapy or while receiving immunosuppressive therapy should be
+considered unimmunized, and doses should be repeated beginning at least 3 months
+following  completion  of  chemotherapy.  Patients  who  were  vaccinated  more  than  14
+days  before  chemotherapy  do  not  require  revaccination,  with  the  exception  of
+recipients of a hematopoietic stem cell transplant who should be revaccinated with a
+3-dose  regimen  6–12  months  after  successful  transplant,  regardless  of  vaccination
+history  (80);  at  least  4  weeks  should  separate  doses  (Table  2).  Hib  vaccines  are
+administered  intramuscularly  in  individual  doses  of  0.5  mL.  Adverse  events  occurring
+after  administration  of  any  vaccine  should  be  reported  to  VAERS.  Reports  can  be
+submitted to VAERS online, by facsimile, or by mail. More information about VAERS is
+available by calling 1-800-822-7967 (toll-free) or online at http://vaers.hhs.gov. Studies
+have  demonstrated  that  any  combination  of  licensed  monovalent  Hib  conjugate
+vaccines  for  the  primary  and  booster  doses  provide  comparable  or  higher  antibody
+levels than with the same monovalent product (33,44–46,51,91–93). Therefore, licensed
+monovalent Hib conjugate vaccines are considered interchangeable for the primary as
+well  as  the  booster  doses  (dose  3  or  4,  depending  on  vaccine  type  used  for  primary
+series)  (18,94).  Data  on  the  interchangeability  of  combination  vaccines  with  other
+combination  vaccines  or  with  monovalent  vaccines  are  limited  (52,63).  Whenever
+feasible,  the  same  combination  vaccine  should  be  used  for  the  subsequent  doses;
+however, if a different brand is administered, the dose should be considered valid and
+need  not  be  repeated.  Adverse  reactions  to  Hib-containing  monovalent  vaccines  are
+uncommon, usually mild, and generally resolve within 12–24 hours (41–43,49). Rates of
+adverse  reactions  to  Hib  combination  vaccines  are  similar  to  those  observed  with
+separately  administered  vaccines  (14,33,52–54).  More  complete  information  about
+adverse  reactions  to  a  specific  vaccine  is  available  in  the  package  insert  for  each
+vaccine
+ and
+ from
+ CDC
+ at
+ http://www.cdc.gov/vaccines/vac-gen/side-effects.htm.
+Vaccination with a Hib-containing vaccine is contraindicated in infants aged <6 weeks.
+Vaccination with a Hib-containing vaccine is contraindicated among persons known to
+have a severe allergic reaction to any component of the vaccine. The tip caps of the
+Hiberix prefilled syringes might contain natural rubber latex, and the vial stoppers for
+Comvax,  ActHib,  and  PedvaxHIB  contain  natural  rubber  latex,  which  might  cause
+allergic reactions in persons who are latex-sensitive. Therefore, vaccination with these
+vaccines is contraindicated for persons known to have a severe allergic reaction to dry
+natural rubber latex (48,50–52). The vial stoppers for Pentacel and MenHibRix do not
+contain  latex  (63,95).  Vaccination  with  Comvax  is  contraindicated  in  patients  with  a
+hypersensitivity  to  yeast  (52).  As  with  all  pertussis-containing  vaccines,  benefits  and
+risk  should  be  considered  before  administering  Pentacel  to  persons  with  a  history  of
+fever  ≥40.5oC,  hypotonic-hyporesponsive  episode,  persistent  inconsolable  crying
+lasting  ≥3  hours  within  48  hours  after  receipt  of  a  pertussis-containing  vaccine,  or
+seizures  within  3  days  after  receiving  a  pertussis-containing  vaccine  (63).  Hib
+monovalent and combination conjugate vaccines are inactivated vaccines and may be
+administered to persons with immunocompromising conditions. However, immunologic
+response  to  the  vaccine  might  be  suboptimal  (18).  Secondary  cases  of  Hib  disease
+(illness  occurring  within  60  days  of  contact  with  a  patient)  occur  but  are  rare.
+Secondary attack rates are higher among household contacts aged <48 months (2.1%),
+especially those aged <12 months (6%) and <24 months (3%) (29). Data are conflicting
+on the risk for secondary illness among child care contacts, but it is thought to be lower
+than among household contacts (29). Rifampin is recommended for chemoprophylaxis
+because  it  achieves  high  concentrations  in  respiratory  secretions  and  eradicates
+nasopharyngeal  carriage  in  >95%  of  carriers  (96–99).  There  are  no  guidelines  for
+control  measures  around  cases  of  invasive  nontype  b  H.  influenzae  disease.
+Chemoprophylaxis  is  not  recommended  for  contacts  of  persons  with  invasive  disease
+caused by nontype b H. influenzae because cases of secondary transmission of disease
+have not been documented (100,101). Index patients who are treated with an antibiotic
+other  than  cefotaxime  or  ceftriaxone  and  are  aged  <2  years  should  receive  rifampin
+prior  to  hospital  discharge  (22).  Because  cefotaxime  and  ceftriaxone  eradicate  Hib
+colonization,  prophylaxis  is  not  needed  for  patients  treated  with  either  of  these
+antimicrobials. Rifampin chemoprophylaxis is recommended for index patients (unless
+treated with cefotaxime or ceftriaxone) and all household contacts in households with
+members aged <4 years who are not fully vaccinated or members aged <18 years who
+are  immunocompromised,  regardless  of  their  vaccination  status  (22).  Rifampin
+chemoprophylaxis  is  recommended  in  child  care  settings  when  two  or  more  cases  of
+invasive
+ Hib
+ disease
+ have
+ occurred
+ within
+ 60
+ days
+ and
+ unimmunized
+ or
+underimmunized  children  attend  the  facility  (22).  When  prophylaxis  is  indicated,  it
+should be prescribed for all attendees, regardless of age or vaccine status, and for child
+care  providers.  Hib  disease  was  once  a  leading  cause  of  bacterial  meningitis  among
+U.S. children aged <5 years. As a result of the introduction of Hib vaccines in the United
+States and sustained high vaccine coverage, Hib disease is now rare, with rates below
+the Healthy People 2020 objective. However, the risk for invasive Hib disease continues
+among unimmunized and underimmunized children, highlighting the importance of full
+vaccination  with  the  primary  series  and  booster  doses.  Although  Hib  disease  is
+uncommon,  continued  H.  influenzae  surveillance  with  complete  serotyping  data  is
+necessary  so  that  all  Hib  cases  are  identified  and  appropriate  chemoprophylaxis
+measures can be taken. *A list of the members of the Work Group appears on page
+14. †Infants with persistent complement component deficiencies, those with functional
+or anatomic asplenia (including sickle cell disease), healthy infants in communities with
+a meningococcal disease outbreak for whom vaccination is recommended, and infants
+traveling to or residing in areas with hyperendemic or epidemic meningococcal disease.
+§Infants  who  do  not  require  ongoing  management  for  serious  infection,  metabolic
+disease, or acute renal, cardiovascular, neurologic, or respiratory tract illness and who
+demonstrate a clinical course of sustained recovery and pattern of steady growth (90).
+FIGURE 1. Estimated annual incidence* of invasive Haemophilus influenzae type b (Hib)
+disease in children aged <5 years — United States, 1980–2012 Sources: 1980–1997: 
+National  Bacterial  Meningitis  Reporting  System  and  National  Notifiable  Diseases
+Surveillance (NNDSS) data; Adams WG, Deaver KA, Cochi SL, et al. Decline of childhood
+Haemophilus  influenzae  Type  b  (Hib)  disease  in  the  Hib  vaccine  era.  JAMA
+1993;269:221–6;  CDC.  Progress  toward  elimination  of  Haemophilus  influenzae  type  b
+disease among infants and children—United States, 1987–1995. MMWR 1996;45:901–6;
+CDC.  Progress  toward  elimination  of  Haemophilus  influenzae  type  b  disease  among
+infants  and  children—United  States,  1987–1997.  MMWR  1998;47:993–8.  1998–2009:
+NNDSS  and  Active  Bacterial  Core  Surveillance  (ABCs)  data.  2010–2012:  ABCs  cases
+estimated to the U.S. population. *Per 100,000 population. Alternate Text: The figure
+shows  the  estimated  incidence  per  100,000  population  of  invasive  Haemophilus
+influenzae Type b (Hib) disease in children aged <5 years in the United States during
+1980-2012.  Incidence  declined  precipitously  following  licensure  of  vaccines  for  use  in
+children aged ≥18 months and infants aged ≥2 months. FIGURE 2. Estimated annual
+incidence*  of  invasive  Haemophilus  influenzae  Type  b   infection  in  children  aged  <5
+years  —  United  States,  2000–2012  Sources:  National  Notifiable  Diseases  Surveillance
+and  Active  Bacterial  Core  Surveillance  (ABCs)  data.   *Per  100,000  population.
+Alternate  Text:  The  figure  shows  the  estimated  incidence  per  100,000  population  of
+invasive Haemophilus influenzae Type b disease in children aged <5 years in the United
+States  during  2000-2012.  Incidence  fell  below  the  Healthy  People  2020  goal  of  0.27
+cases per 100,000 population for all years shown since 2000 (it was slightly over the
+goal in 2000). FIGURE 3. Percentage of children aged <5 years with cases of invasive
+Haemophilus  influenzae  type  b  (Hib)  disease,*  by  vaccine  status  —  United  States
+2002–2012  Sources: Active Bacterial Core surveillance system and National Notifiable
+Diseases Surveillance System. *N = 265. An additional 57 children aged <5 years with
+Hib  had  unknown  vaccine  status  and  were  excluded.  †Among  those  with
+age-appropriate  vaccine  status,  41%  were  too  young  to  complete  the  primary  series,
+16% completed the primary series, and 43% completed the full series. Alternate Text:
+The  figure  shows  the  percentage  of  children  aged  <5  years  with  cases  of  invasive
+Haemophilus influenzae type b (Hib) disease in the United States during 2002-2012, by
+vaccine status. Among those with age-appropriate vaccine status, 41% were too young
+to complete the primary series, 16% completed the primary series, and 43% completed
+the  full  series.  TABLE  1.  Haemophilus  influenzae  type  b  (Hib)  conjugate  vaccines
+licensed  and  available  in  the  United  States  as  of  January  2014  Vaccine  product
+Manufacturer  Trade  Name  Components  Primary  series  Booster  dose  Monovalent
+vaccine PRP-OMP*,† Merck & Co, Inc PedvaxHIB PRP conjugated to OMP 2, 4 mos 12–15
+mos PRP-T sanofi pasteur ActHIB PRP conjugated to tetanus toxoid 2, 4, 6 mos 12–15
+mos PRP-T GlaxoSmithKline Hiberix PRP conjugated to tetanus toxoid Not licensed for
+primary  series  12–15  mos§  Combination  vaccine  PRP-OMP-HepB*,†  Merck  &  Co,  Inc
+Comvax  PRP-OMP  +  hepatitis  B  vaccine  2,  4  mos  12–15  mos  DTaP-IPV/PRP-T  sanofi
+pasteur  Pentacel  DTaP-IPV  +  PRP-T  2,  4,  6  mos  15–18  mos¶  MenCY/PRP-T**
+GlaxoSmithKline  MenHibRix  MenCY  +  PRP-T  2,  4,  6  mos  12–15  mos  Source:  Adapted
+from American Academy of Pediatrics. Haemophilus influenzae infections. Pickering L,
+Baker  C,  Kimberlin  D,  Long  S,  eds.  Red  book:  2012  report  of  the  Committee  on
+Infectious  Diseases.  Elk  Grove  Village,  IL:  American  Academy  of  Pediatrics;
+2012:345–52. *If a PRP-OMP vaccine is not administered as both doses in the primary
+series, or if there is uncertainty about which products were administered previously, a
+third  dose  of  Hib  conjugate  vaccine  is  needed  to  complete  the  primary  series.  
+†Preferred vaccine for American Indian/Alaska Native children.  §To facilitate timely
+booster  vaccination,  Hiberix  can  be  administered  as  early  as  age  12  months,  in
+accordance with Hib vaccination schedules for routine and catch-up immunization (CDC.
+Licensure  of  a  Haemophilus  influenzae  type  b  [Hib]  vaccine  [Hiberix]  and  updated
+recommendations for use of Hib vaccine. MMWR 2009;58:1008–9)  ¶The booster dose
+may be administered as early as age 12 months, provided that at least 6 months have
+elapsed  since  the  third  dose.  **Recommendations  for  the  MenCY  component  of
+MenCY/PRP-T have been published previously (CDC. Infant meningococcal vaccination:
+Advisory Committee on Immunization Practices (ACIP) recommendations and rationale.
+MMWR  2013;62:52–4).  TABLE  2.  Guidance  for  Haemophilus  influenzae  type  b  (Hib)
+vaccination  in  high-risk  groups  High-risk  group*  Hib  vaccine  guidance  Patients  aged
+<12 mos Follow routine Hib vaccination recommendations Patients aged 12–59 mos If
+unimmunized  or  received  0  or  1  dose  before  age  12  mos:  2  doses,  8  wks  apart  If
+received  ≥2  doses  before  age  12  mos:  1  dose  8  wks  after  last  dose  If  completed  a
+primary  series  and  received  a  booster  dose  at  age  ≥12  mos:  no  additional  doses
+Patients  aged  <60  months  undergoing  chemotherapy  or  radiation  therapy†  If  routine
+Hib doses administered ≥14 days before starting therapy: revaccination not required If
+dose administered within 14 days of starting therapy or given during therapy: repeat
+doses  starting  at  least  3  mos  following  therapy  completion  Patients  aged  ≥15  mos
+undergoing elective splenectomy If unimmunized:§ 1 dose prior to procedure¶ Asplenic
+patients aged >59 mos and adults If unimmunized:§ 1 dose HIV-infected children aged
+≥60  mos  If  unimmunized:§  1  dose  HIV-infected  adults  Hib  vaccination  is  not
+recommended Recipients of hematopoietic stem cell transplant, all ages Regardless of
+Hib  vaccination  history:  3  doses  (at  least  4  wks  apart)  beginning  6–12  mos  after
+transplant
+ *Persons
+ with
+ functional
+ or
+ anatomic
+ asplenia,
+ HIV
+ infection,
+immunoglobulin  deficiency  including  immunoglobulin  G2  subclass  deficiency,  or  early
+component complement deficiency, recipients of a hematopoietic stem cell transplant,
+and  those  receiving  chemotherapy  or  radiation  therapy  for  malignant  neoplasms.
+†Some experts suggest conducting serologic testing for these patients (Source: Rubin
+LG, Levin MJ, Ljungman P, et al. 2013 IDSA clinical practice guideline for vaccination of
+the  immunocompromised  host.  Clin  Infect  Dis  2013;[Epub  ahead  of  print]  doi:
+10.1093/cid/cit684).  §Patients  who  have  not  received  a  primary  series  and  booster
+dose or at least 1 dose of Hib vaccine after 14 months are considered unimmunized.
+¶Some experts suggest vaccination at least 14 days before the procedure (Sources:
+CDC.  General  recommendations  on  immunization:  recommendations  of  the  Advisory
+Committee  on  Immunization  Practices  [ACIP].  MMWR  2011;60[No.  RR-2];  CDC.
+Recommendations of the Advisory Committee on Immunization Practices (ACIP): use of
+vaccines  and  immune  globulins  in  persons  with  altered  immunocompetence.  MMWR
+1993;42[No. RR-4]; Rubin LG, Levin MJ, Ljungman P, et al. 2013 IDSA clinical practice
+guideline for vaccination of the immunocompromised host. Clin Infect Dis 2013;[Epub
+ahead  of  print]  doi:  10.1093/cid/cit684.)  Some  experts  suggest  administering  a  dose
+prior to elective splenectomy regardless of prior vaccination history (Source: American
+Academy  of  Pediatrics.  Haemophilus  influenzae  infections.  In:  Pickering  L,  Baker  C,
+Kimberlin  D,  Long  S,  eds.  Red  book:  2012  report  of  the  Committee  on  Infectious
+Diseases.  Elk  Grove  Village,  IL:  American  Academy  of  Pediatrics;  2012:345–52).
+Advisory  Committee  on  Immunization  Practices  Membership  as  of  February  21,  2013
+Chair: Jonathan Temte, MD, PhD, University of Wisconsin School of Medicine and Public
+Health,  Madison,  Wisconsin  Executive  Secretary:  Larry  Pickering,  MD,  National  Center
+for  Immunization  and  Respiratory  Diseases,  CDC,  Atlanta,  Georgia.  Members:  Nancy
+Bennett, MD, University of Rochester School of Medicine and Dentistry, Rochester, New
+York;  Joseph  Bocchini  Jr,  MD,  Louisiana  State  University  Health  Sciences  Center,
+Shreveport,  Louisiana;  Douglas  Campos-Outcalt,  MD,  University  of  Arizona  College  of
+Medicine,  Phoenix,  Arizona;  Tamera  Coyne-Beasley,  MD,  University  of  North  Carolina,
+Chapel  Hill,  North  Carolina;  Jeffrey  Duchin,  MD,  University  of  Washington,  Seattle,
+Washington;  Kathleen  Harriman,  PhD,  California  Department  of  Public  Health,
+Richmond,  California;  Lee  Harrison,  MD,  University  of  Pittsburgh,  Pittsburgh,
+Pennsylvania;  Renée  Jenkins,  MD,  Howard  University  School  of  Medicine,  District  of
+Columbia;  Ruth  Karron,  MD,  Johns  Hopkins  Bloomberg  School  of  Public  Health,
+Baltimore,  Maryland;  Wendy  Keitel,  MD,  Baylor  College  of  Medicine,  Houston,  Texas;
+Sara  Rosenbaum,  JD,  Georgetown  University,  District  of  Columbia;  Lorry  Rubin,  MD,
+Steven  and  Alexandra  Cohen  Children's  Medical  Center  of  New  York,  New  Hyde  Park,
+New York; Mark Sawyer, MD, University of California at San Diego, California; Marietta
+Vázquez,  MD,  Yale  University  School  of  Medicine,  New  Haven,  Connecticut.  Ex  Officio
+Members:  Vito  Caserta,  MD,  Health  Resources  and  Services  Administration,  Rockville,
+Maryland;  Jesse  Geibe,  MD,  Department  of  Defense,  CDC,  Atlanta,  Georgia;  Bruce
+Gellin, MD, National Vaccine Program Office, District of Columba; Richard Gorman, MD,
+National  Institutes  of  Health,  Bethesda,  Maryland;  Amy  Groom,  MPH,  Indian  Health
+Service,  Albuquerque,  New  Mexico;  Mary  Beth  Hance,  Centers  for  Medicare  and
+Medicaid Services, Baltimore, Maryland; Linda Kinsinger, MD, Department of Veterans
+Affairs,  Durham,  North  Carolina;  Wellington  Sun,  MD,  Food  and  Drug  Administration,
+Bethesda, Maryland. Liaison Representatives: American Academy of Family Physicians,
+Jamie  Loehr,  MD,  Ithaca,  New  York;  American  Academy  of  Pediatrics,  Michael  Brady,
+MD,  Ohio  State  University,  Columbus,  Ohio,  David  Kimberlin,  MD,  Birmingham,
+Alabama;  American  Academy  of  Physician  Assistants,  Marie-Michèle  Léger,  MPH,
+Alexandria,  Virginia;  American  College  Health  Association,  James  C.  Turner,  MD,
+Charlottesville,  Virginia;  American  College  of  Obstetricians  and  Gynecologists,  Laura
+Riley, MD, Boston, Massachusetts; American College of Physicians, Gregory Poland, MD,
+Rochester,  Minnesota;  American  Geriatrics  Society,  Kenneth  Schmader,  MD,  Durham,
+North Carolina; America's Health Insurance Plans, Mark Netoskie, MD, Houston, Texas;
+American  Medical  Association,  Litjen  Tan,  PhD,  Chicago,  Illinois;  American  Nurses
+Association,  Katie  Brewer,  MSN,  Silver  Springs,  Maryland;  American  Osteopathic
+Association,  Stanley  Grogg,  DO,  Tulsa,  Oklahoma;  American  Pharmacists  Association,
+Stephan  L.  Foster,  PharmD,  Memphis,  Tennessee;  Association  of  Immunization
+Managers, Kelly Moore, MD, Nashville, Tennessee; Association for Prevention Teaching
+and  Research,  W.  Paul  McKinney,  MD,  Louisville,  Kentucky;  Association  of  State  and
+Territorial Health Officials, José Montero, MD, Concord, New Hampshire; Biotechnology
+Industry  Organization,  Clement  Lewin,  PhD,  Cambridge,  Massachusetts;  Canadian
+National  Advisory  Committee  on  Immunization,  Bryna  Warshawsky,  MDCM,  London,
+Ontario, Canada; Council of State and Territorial Epidemiologists, Christine Hahn, MD,
+Boise, Idaho; Department of Health, United Kingdom, David M. Salisbury, MD, London,
+United  Kingdom;  Healthcare  Infection  Control  Practices  Advisory  Committee,  Alexis
+Elward, MD, St Louis, Missouri; Infectious Diseases Society of America, Kathleen Neuzil,
+MD,  Seattle,  Washington;  National  Association  of  County  and  City  Health  Officials,
+Matthew  Zahn,  MD,  Santa  Ana,  California;  National  Association  of  Pediatric  Nurse
+Practitioners,  Patricia  Stinchfield,  MPH,  St  Paul,  Minnesota;  National  Foundation  for
+Infectious  Diseases,  William  Schaffner,  MD,  Nashville,  Tennessee;  National  Medical
+Association,  Patricia  Whitley-Williams,  MD,  New  Brunswick,  New  Jersey;  National
+Vaccine  Advisory  Committee,  Walter  Orenstein,  MD,  Atlanta,  Georgia;  Pharmaceutical
+Research  and  Manufacturers  of  America,  Damian  A.  Braga,  Swiftwater,  Pennsylvania;
+Society  for  Adolescent  Health  and  Medicine,  Amy  Middleman,  MD,  Houston,  Texas;
+Society for Healthcare Epidemiology of America, Harry Keyserling, MD, Atlanta, Georgia.
+The ACIP Meningococcal and Haemophilus influenzae b Work Group Membership as of
+February  21,  2013  Chair:  Lorry  Rubin,  MD,  Steven  and  Alexandra  Cohen  Children's
+Medical Center of New York, New Hyde Park, New York Members: William Atkinson, MD;
+Carol Baker, MD, Baylor College of Medicine, Houston, Texas; Michael Brady, MD, Ohio
+State  University,  Columbus,  Ohio;  Douglas  Campos-Outcalt,  MD,  University  of  Arizona
+College  of  Medicine,  Phoenix,  Arizona;  Richard  Clover,  MD,  University  of  Louisville
+School  of  Public  Health,  Louisville,  Kentucky;  Kristen  Ehresmann,  MPH,  Minnesota
+Department  of  Health,  St.  Paul,  Minnesota;  Rachel  Herlihy,  MD,  Association  of
+Immunization
+ Managers,
+ Denver,
+ Colorado;
+ Lucia
+ Lee,
+ MD,
+ Food
+ and
+ Drug
+Administration,  Rockville,  Maryland;  Martin  Luta,  MD,  Delaware  Division  of  Public
+Health, Dover, Delaware; Michael Marcy, MD, University of Southern California School of
+Medicine,  Los  Angeles,  California;  W.  Paul  McKinney,  MD,  Association  for  Prevention
+Teaching  and  Research,  Louisville,  Kentucky;  Cody  Meissner,  MD,  Tufts  University
+School of Medicine, Boston, Massachusetts; Amy Middleman, MD, Society for Adolescent
+Health  and  Medicine,  Houston,  Texas;  Karen  O'Brien,  US  Army  Training  and  Doctrine
+Command,  Fort  Monroe,  Virginia;  Paul  Offit,  MD,  Children's  Hospital  of  Philadelphia,
+Philadelphia,  Pennsylvania;  Georges  Peter,  MD,  Rhode  Island  Hospital,  Providence,
+Rhode Island; David M. Salisbury, MD, Department of Health, London, United Kingdom;
+William  Schaffner,  MD,  National  Foundation  for  Infectious  Diseases,  Nashville,
+Tennessee; David Stephens, MD, Emory University School of Medicine, Atlanta, Georgia;
+James  C.  Turner,  MD,  American  College  Health  Association,  Charlottesville,  Virginia;
+Marietta  Vázquez,  MD,  Yale  University  School  of  Medicine,  New  Haven,  Connecticut.
+Contributors  (CDC):  Yabo  Akinsanya-Beysolow,  MD,  Elizabeth  C.  Briere,  MD,  Thomas
+Clark,  MD,  Amanda  C.  Cohn,  MD,  Jonathan  Duffy,  MD,  Jessica  MacNeil,  MPH,  Nancy
+Messonnier,  MD,  Ismael  Ortega-Sanchez,  PhD,  Shannon  Stokley,  MPH.   Use  of  trade
+names  and  commercial  sources  is  for  identification  only  and  does  not  imply
+endorsement by the U.S. Department of 
+Health and Human Services. References to non-CDC sites on the Internet are 
+provided as a service to MMWR readers and do not constitute or imply 
+endorsement of these organizations or their programs by CDC or the U.S. 
+Department of Health and Human Services. CDC is not responsible for the content 
+of pages found at these sites. URL addresses listed in MMWR were current as of 
+the date of publication. All MMWR HTML versions of articles are electronic conversions
+from typeset documents. 
+This  conversion  might  result  in  character  translation  or  format  errors  in  the  HTML
+version. 
+Users are referred to the electronic PDF version (http://www.cdc.gov/mmwr) 
+and/or the original MMWR paper copy for printable versions of official text, figures, and
+tables. 
+An  original  paper  copy  of  this  issue  can  be  obtained  from  the  Superintendent  of
+Documents, U.S. 
+Government Printing Office (GPO), Washington, DC 20402-9371; 
+telephone: (202) 512-1800. Contact GPO for current prices.
+**Questions or messages regarding errors in formatting should be addressed to 
+mmwrq@cdc.gov. How do I view different file formats (PDF, DOC, PPT, MPEG) on this
+site? 
+Source URL: https://www.cdc.gov/mmwr/preview/mmwrhtml/rr6301a1.htm

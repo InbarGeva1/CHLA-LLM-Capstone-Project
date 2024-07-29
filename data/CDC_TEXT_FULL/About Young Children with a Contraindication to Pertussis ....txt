@@ -1,0 +1,46 @@
+Official websites use .gov A .gov website belongs to an official government organization
+in  the  United  States.  Secure  .gov  websites  use  HTTPS  A  lock  (   )  or  https://  means
+you've  safely  connected  to  the  .gov  website.  Share  sensitive  information  only  on
+official, secure websites. DT= diphtheria toxoid- and tetanus toxoid-containing vaccine
+DTaP  =  diphtheria  toxoid-,  tetanus  toxoid-,  and  acellular  pertussis-containing  vaccine
+Td  =  tetanus  toxoid-  and  diphtheria  toxoid-containing  vaccine  CDC  recommends  a
+series of DTaP for children aged <7 years. For children aged <7 years who develop a
+contraindication  to  pertussis-containing  vaccines,  CDC  previously  recommended  DT
+instead  of DTaP.  Sanofi  Pasteur,  historically  the sole licensed  DT  manufacturer in  the
+United States, discontinued the vaccine in late 2022. Currently, there’s no licensed DT
+available  in  the  United  States.  The  current  Td  supply  is  adequate.  The  anticipated
+increase  in  Td  use  is  relatively  small,  considering  the  rarity  of  developing  a
+contraindication  to  pertussis-containing  vaccine.  There’s  only  one  contraindication
+specific to the pertussis component in DTaP: encephalopathy. Encephalopathy, within 7
+days  of  vaccination,  is  a  contraindication  when  it’s  not  attributable  to  another
+identifiable cause. Experts don’t know the exact number of people who experience this
+adverse  reaction,  but  data  suggest  it’s  extremely  rare.  A  family  history  of  a
+contraindication or reaction to pertussis-containing vaccines isn’t a contraindication for
+young children to receive DTaP. Healthcare providers can request a consultation from
+CDC’s  Clinical  Immunization  Safety  Assessment  service.  Td  contains  a  lower  dose
+(approximately 1/12th the amount) of diphtheria toxoid compared to DT. The impact of
+this  lower  dose  on  the  protection  provided  against  diphtheria  in  young  children  is
+uncertain. Available evidence suggests young children who receive Td in place of DTaP
+may have sub-optimal protection against diphtheria.1-7 No available data evaluate Td
+effectiveness  against  diphtheria  when  used  as  part  of  a  primary  series  in  young
+children. Several studies have looked at low-dose, diphtheria toxoid-containing vaccines
+used for a booster dose in children aged <7 years. Available data demonstrated mixed
+findings  regarding  the  level  of  protective  diphtheria  antibody  generated.2,3,4  Limited
+data are available on the use of Td for primary vaccination of older children and adults.
+Available  data  suggest  that  low-dose  diphtheria  toxoid-containing  vaccines  may  not
+reliably  generate  a  protective  diphtheria  response.5,6,7  CDC  recommends  young
+children  receive  DTaP  as  the  first  dose  in  the  diphtheria,  tetanus,  and  pertussis
+childhood  vaccination  series.  CDC  recommends  this  dose  at  2  months  of  age.  Keep
+reading:
+ Diphtheria,
+ Tetanus,
+ and
+ Pertussis
+ Vaccine
+ Recommendations
+ CDC
+recommends  continued  use  of  DTaP  unless  a  contraindication  to  pertussis-containing
+vaccines  develops.  For  young  children  with  a  contraindication  to  pertussis-containing
+vaccines, vaccine providers may administer Td for all recommended remaining doses in
+place of DTaP. Counsel concerned parents about:
+Source URL: https://www.cdc.gov/vaccines/vpd/dtap-tdap-td/hcp/td-offlabel.html

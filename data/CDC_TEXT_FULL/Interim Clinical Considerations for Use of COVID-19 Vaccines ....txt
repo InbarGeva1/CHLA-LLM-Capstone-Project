@@ -1,0 +1,70 @@
+Official websites use .gov A .gov website belongs to an official government organization
+in  the  United  States.  Secure  .gov  websites  use  HTTPS  A  lock  (   )  or  https://  means
+you've  safely  connected  to  the  .gov  website.  Share  sensitive  information  only  on
+official,  secure  websites.  On  June  27,  2024,  the  CDC  Director  adopted  the  ACIP’s
+recommendations  for  use  of  2024–2025  COVID-19  vaccines  in  people  ages  6  months
+and older as approved or authorized by FDA. The 2024–2025 vaccines are expected to
+be available in fall 2024. This page will be updated at that time to align with the new
+recommendations.  Learn  more.  Expiration  dates  vary  by  manufacturer  and  vaccine.
+Always check the expiration date or beyond-use date/time to ensure it has not passed.
+Never use expired vaccine or diluent. See the Interim Clinical Considerations for Use of
+COVID-19  Vaccines  in  the  United  States  for  information  on  interchangeability  of
+COVID-19 vaccines. Everyone ages 6 months and older vaccinated outside the United
+States  should  receive  at  least  1  dose  of  an  updated  (2023–2024  Formula)  COVID-19
+vaccine regardless of past COVID-19 vaccination history (e.g., vaccine type[s], vaccine
+manufacturer[s],  number  of  doses)  unless  they  received  an  updated  (2023–2024
+Formula)  COVID-19  vaccine  that  is  FDA-approved  or  FDA-authorized  (i.e.,  Moderna,
+Novavax,  Pfizer-BioNTech)  or  listed  for  emergency  use  by  the  World  Health
+Organization (WHO). COVID-19 vaccines that are listed for emergency use by WHO, but
+are not approved or authorized by FDA, have not been evaluated for efficacy or safety
+by CDC or ACIP. Recommendations for people who were vaccinated outside the United
+States, but have not received an updated (2023–2024 Formula) COVID-19 vaccine are
+as  follows:  Special  situation:  If  unable  to  determine  if  a  previously  received  vaccine
+dose was an updated (2023–2024 Formula) COVID-19 vaccine, do not count and follow
+guidance for administering an updated (2023–2024 Formula) COVID-19 vaccine dose. A
+vaccine  administration  error  is  any  preventable  event  that  might  cause  or  lead  to
+inappropriate use of vaccine or to patient harm. The package insert or EUA fact sheet
+for healthcare providers should be referenced for detailed information on storage and
+handling,  dosing  and  schedule,  dose  preparation,  and  administration  of  COVID-19
+vaccines.  The  information  provided  below  on  managing  vaccine  administration  errors
+should not be interpreted as a recommendation or promotion of unauthorized use of the
+vaccines.  For  all  vaccine  administration  errors:  COVID-19  vaccine  administration
+errors—even  those  not  associated  with  an  adverse  event—should  be  reported  to  the
+Vaccine  Adverse  Event  Reporting  System  (VAERS).  To  file  an  electronic  report,  see
+the  VAERS  website.  Table  B.  Interim  recommendations  for  COVID-19  vaccine
+administration errors and deviations *In addition to the minimum age, for children who
+are not moderately or severely immunocompromised, some experts suggest delaying
+the repeat dose for 8 weeks after the invalid dose based on the potential for increased
+reactogenicity and the rare risk of myocarditis and pericarditis associated with mRNA
+COVID-19  vaccines.  †If  the  administration  error  resulted  in  a  higher-than-authorized
+vaccine  dose,  in  general  a  subsequent  dose  may  still  be  administered  at  the
+recommended interval. However, if local or systemic side effects following vaccination
+are clinically concerning (outside of the expected side effect profile) or are ongoing at
+the time of the subsequent dose, this dose might be delayed, but this decision should
+be  assessed  on  a  case-by-case  basis.  ‡FDA  authorization  allows  for  dosing  options  in
+certain  situations  when  a  child  ages  from  a  younger  to  older  age  group;  see
+Transitioning from a younger to older age group. If the dosing is in accordance with the
+FDA EUA, it is not considered an error and VAERS reporting is not indicated. §For people
+ages  6  months–64  years  who  are  not  moderately  or  severely  immunocompromised,
+some experts suggest delaying the dose for 8 weeks after the dose given in error based
+on  the  potential  for  increased  reactogenicity  and  the  rare  risk  of  myocarditis  and
+pericarditis  observed  in  mRNA  (Moderna  or  Pfizer-BioNTech)  and  Novavax  COVID-19
+vaccine recipients, particularly males ages 12–39 years. For additional information, see
+Considerations for extended intervals for COVID-19 vaccine doses. ¶As of the date of
+this update, current manufacturer contact information is: See the package inserts and
+EUA  fact  sheets  for  the  most  up-to-date  manufacturer  information.  #Vaccine  doses
+administered  up  to  4  days  before  the  minimum  interval  may  be  counted  and  do  not
+need to be repeated. March 1, 2024 February 12, 2024 January 18, 2024 November 3,
+2023 October 24, 2023 October 6, 2023 September 15, 2023 May 12, 2023 May 1, 2023
+April 22, 2023 March 16, 2023 January 27, 2023 December 9, 2022 October 19, 2022
+October 12, 2022  September 23, 2022 September 2, 2022 August 22, 2022 August 11,
+2022 July 20, 2022 June 30, 2022 June 24, 2022 June 19, 2022 May 20, 2022 April 21,
+2022 March 30, 2022 February 22, 2022 February 11, 2022 January 6, 2022 December
+23, 2021 December 17, 2021 December 10, 2021 November 29, 2021 November 19,
+2021  November  17,  2021  November  3,  2021  October  25,  2021  September  27,  2021
+September  15,  2021  August  31,  2021  August  25,  2021  August  13,  2021  August  11,
+2021 August 6, 2021 July 16, 2021 July 2, 2021 June 1, 2021 May 14, 2021 April 27,
+2021 April 16, 2021 March 5, 2021 March 3, 2021 February 10, 2021
+Source
+ URL:
+https://www.cdc.gov/vaccines/covid-19/clinical-considerations/interim-considerations-us-appendix.html

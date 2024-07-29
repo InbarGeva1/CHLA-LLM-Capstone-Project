@@ -1,0 +1,29 @@
+A .gov website belongs to an official government organization in the United States. A
+lock (  ) or https:// means you've safely connected to the .gov website. Share sensitive
+information only on official, secure websites. The National Respiratory and Enteric Virus
+Surveillance System (NREVSS) is a laboratory-based system that monitors respiratory
+and  enteric  virus  activity.   The  National  Respiratory  and  Enteric  Virus  Surveillance
+System  (NREVSS)  monitors  the  following  viruses:  In  this  surveillance  system,
+participating  U.S.  laboratories  voluntarily  report  weekly  to  CDC  the  total  number  of
+tests performed to detect these viruses and the total number of those tests that were
+positive. They also report the specimen type, location, and week of collection. NREVSS
+allows for timely analysis of data to monitor viral seasons and circulation patterns. All
+data  graphs  on  this  site  are  updated  weekly.  NREVSS  was  created  in  the  1980s  to
+monitor seasonal trends in respiratory virus activity and was later expanded to include
+select enteric viruses. Influenza testing data reported to NREVSS is integrated with CDC
+Influenza  Surveillance.  Each  week,  participating  U.S.  laboratories  from  university  and
+community  hospitals,  state  and  county  public  health  departments,  and  commercial
+entities  voluntarily  report:  Reports  on  the  dashboard  only  include  results  from  either
+virus  antigen  detection  or  polymerase  chain  reaction  (PCR)  detection  methods.  CDC
+makes  NREVSS  data  available  through  this  website.  CDC  also  publishes  periodic
+summaries and alerts based on NREVSS data in CDC's Morbidity and Mortality Weekly
+Report  and  other  peer-reviewed  journals.  We  anticipate  that  NREVSS  will  continue  to
+play an important role in describing the temporal and geographic circulation patterns of
+respiratory  and  enteric  viruses—including  changes  in  the  typical  annual  circulation
+patterns and identifying viral outbreaks. NREVSS has proven to be a relatively simple
+and  practical  surveillance  system  that  will  continue  to  be  an  important  part  of  CDC's
+efforts to treat, prevent, and control respiratory and enteric viral diseases. The National
+Respiratory  and  Enteric  Virus  Surveillance  System  (NREVSS)  is  a  laboratory-based
+system  that  monitors  respiratory  and  enteric  virus  activity.  Languages  Language
+Assistance Languages  Language Assistance 
+Source URL: https://www.cdc.gov/nrevss/php/dashboard/index.html

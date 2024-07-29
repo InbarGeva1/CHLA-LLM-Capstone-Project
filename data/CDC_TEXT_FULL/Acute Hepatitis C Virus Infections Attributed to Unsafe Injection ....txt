@@ -1,0 +1,285 @@
+ Persons using assistive technology might not be able to fully access information in this
+file. For assistance, please send e-mail to: mmwrq@cdc.gov. Type 508 Accommodation
+and the title of the report in the subject line of e-mail. On January 2, 2008, the Nevada
+State Health Division (NSHD) contacted CDC concerning surveillance 
+reports received by the Southern Nevada Health District (SNHD) regarding two persons
+recently diagnosed with 
+acute hepatitis C. A third person with acute hepatitis C was reported the following day.
+This raised concerns about 
+an outbreak because SNHD typically confirms four or fewer cases of acute hepatitis C
+per year. Initial inquiries found 
+that  all  three  persons  with  acute  hepatitis  C  underwent  procedures  at  the  same
+endoscopy clinic (clinic A) within 
+35--90 days of illness onset. A joint investigation by SNHD, NSHD, and CDC was initiated
+on January 9, 2008. 
+The  epidemiologic  and  laboratory  investigation  revealed  that  hepatitis  C  virus  (HCV)
+transmission likely resulted from 
+reuse  of  syringes  on  individual  patients  and  use  of  single-use  medication  vials  on
+multiple patients at the clinic. 
+Health  officials  advised  clinic  A  to  stop  unsafe  injection  practices  immediately,  and
+approximately 40,000 patients of the 
+clinic were notified about their potential risk for exposure to HCV and other bloodborne
+pathogens. This report 
+focuses on the six cases of acute hepatitis C identified during the initial investigation,
+which is ongoing; additional cases of 
+acute  hepatitis  C  associated  with  exposures  at  clinic  A  might  be  identified.
+Comprehensive measures involving viral 
+hepatitis  surveillance,  health-care  provider  education,  public  awareness,  professional
+oversight, licensing, and improvements 
+in  medical  devices  can  help  detect  and  prevent  transmission  of  HCV  and  other
+bloodborne pathogens in 
+health-care settings. 
+ The  objectives  of  the  investigation  were  to  conduct  case-finding  and  review  health
+histories of infected persons, 
+to determine the source of transmission and implement control measures, to identify
+other patients at risk for 
+exposure,  and  to  assist  in  development  of  recommendations  to  prevent  HCV
+transmission in health-care settings. Persons 
+with acute hepatitis C were interviewed, and blood samples were obtained after these
+persons gave oral consent. 
+Blood samples were sent to CDC for testing for HCV genotype at the NS5b region and
+phylogenetic relatedness at 
+the  hypervariable  1  region  (HVR1)  to  help  determine  whether  a  common  source  of
+transmission existed 
+(1). Specimens also were tested for other bloodborne infections (hepatitis B virus [HBV])
+and human immunodeficiency virus [HIV]). 
+Case-finding activities included SNHD's review of acute hepatitis C surveillance records,
+cross-matching of local 
+HCV 
+laboratory records with clinic A procedure logs, review of medical records for patients
+who underwent procedures 
+at clinic A on the same day as HCV-infected persons, and serologic HCV, HBV, and HIV
+testing of staff. An 
+extensive review of the clinic practices and procedures also was conducted, including
+observation of several endoscopic 
+procedures  and  endoscopic  reprocessing,  observation  of  anesthesia  practices,  and
+interviews with staff members regarding 
+their infection-control practices. 
+ For  this  investigation,  a  person  was  defined  as  having  health-care--associated  acute
+hepatitis C if he or she 1) 
+had symptoms of acute hepatitis within 6 months of having a procedure performed at
+clinic A during July--December 
+2007; 2) had laboratory-confirmed HCV infection (antibodies 
+to HCV [anti-HCV]) by enzyme immunoassay (EIA) and recombinant immunoblot assay
+(RIBA) or EIA with an appropriate signal-to-cutoff ratio for a given assay, or presence 
+of  HCV  RNA  by  polymerase  chain  reaction  (PCR)  in  the  absence  of  acute  hepatitis  A
+virus (HAV); and 3) did not 
+have other risks for HCV infection. 
+ In  addition  to  the  three  persons  identified  initially,  three  other  persons  were
+determined to have 
+health-care--associated  acute  hepatitis  C,  for  a  total  of  six  cases  diagnosed  during
+July--December 2007. One of the three cases 
+was identified by review of surveillance records, another 
+by cross-matching local laboratory records with procedure records 
+at clinic A, and the third by physician report after the start of the investigation. The six
+persons ranged in age from 37 
+to 72 years; four were female. All had signs and symptoms of acute hepatitis, including
+jaundice, abdominal 
+discomfort,
+ and
+ laboratory
+ evidence
+ of
+ liver
+ inflammation
+ with
+ alanine
+aminotransferase (ALT) levels of 552--1,165 
+units/L.*  Four  of  the  six  persons  required  hospitalization  as  a  result  of  their  HCV
+infection. 
+ The six persons with acute hepatitis C had onset of symptoms in late October 2007 and
+November 2007, 
+35--90 days after undergoing procedures at clinic A 
+(Figure 1) and within the typical incubation period of 15--160 days. 
+None  had  significant  risk  factors  for  HCV  infection  and  none  had  other  common
+exposures. One of the procedures 
+was  performed  in  July  2007;  the  other  five  were  performed  on  the  same  day  in
+September 2007. Five persons (four 
+with  procedures  on  the  same  day)  for  whom  blood  specimens  were  available  at  the
+time of this report had HCV genotype 
+1a. The four who had procedures on the same day had viral sequences with 99%--100%
+genetic similarity at 
+HVR1, pointing to a common source of infection. The viral 
+sequence from the HCV-infected person who had the procedure 
+in  July  2007  was  not  genetically  related  to  the  other  cluster,  suggesting  a  separate
+transmission incident. 
+ During  the  2  days  in  which  persons  with  health-care--associated  hepatitis  C  had
+procedures at clinic A, 
+120 additional persons had procedures at the clinic. HCV test results for those persons
+are pending. Thirty-eight 
+staff  members  at  the  clinic  involved  in  direct  patient  care  were  available  for  testing
+during the investigation, and none 
+had  evidence  of  previous  or  current  HCV  infection.  None  of  the  persons  with
+health-care--associated acute hepatitis C 
+and none of the staff tested positive for HBV or HIV infections.
+ Inappropriate  reuse  of  syringes  on  individual  persons  and  use  of  medication  vials
+intended for single-person use 
+on  multiple  persons  was  identified  through  direct  observation  of  infection-control
+practices at clinic A 
+(Figure 2). Specifically, a clean needle and syringe were used to draw medication from
+a single-use vial of propofol, a 
+short-acting intravenous anesthetic agent. The medication was injected directly through
+an intravenous catheter into the 
+patient's arm. If a patient required more sedation, the needle was removed from the
+syringe and replaced with a new needle; 
+the new needle with the old syringe was used to draw more medication. Backflow from
+the patient's intravenous catheter 
+or  from  needle  removal  might  have  contaminated  the  syringe  with  HCV  and
+subsequently contaminated the 
+vial. Medication remaining in the vial was used to sedate the next patient. 
+ As soon as improper injection practices were observed, health officials advised clinic A
+to stop these practices 
+and educated staff about the risks. Clinic A is a free-standing private endoscopy clinic in
+southern Nevada that 
+primarily performed upper endoscopies and colonoscopies 
+(approximately 50--60 procedures a day, 5 days a week). For at least 
+the 4 years that clinic A occupied its existing location, the unsafe 
+injection practices had been commonly used among 
+some  staff  members  who  administered  anesthesia,  according  to  those  who  were
+interviewed. On 
+February 27, 2008, SNHD began notifying approximately 40,000 persons who 
+underwent procedures requiring anesthesia at the clinic from 
+March 1, 2004, through January 11, 2008, via mail and through the media, to 
+undergo screening for HCV, HBV, and HIV infections. 
+Results of this screening are pending.
+ Reported by: B Labus, MPH, L Sands, DO, P Rowley, Southern Nevada Health District,
+Las Vegas; IA Azzam, MD, Nevada State Dept of 
+Health and Human Svcs. SD Holmberg, MD, Div of Viral Hepatitis, National Center for
+HIV/AIDS, Viral Hepatitis, STD, and TB Prevention; JF 
+Perz, 
+DrPH,  PR  Patel,  MD,  Div  of  Healthcare  Quality  Promotion,  National  Center  for
+Preparedness, Detection, and Control of Infectious 
+Diseases; GE Fischer, MD, M Schaefer, MD, EIS officers, CDC.
+Editorial Note:
+  Although case-control studies have not 
+indicated an increased risk for acquiring HCV from 
+medical, surgical, or dental procedures in the United States 
+(2), outbreaks of HCV in health-care settings have long 
+been recognized (3). These outbreaks have been identified primarily through clusters of
+temporally related cases detected 
+by  routine  viral  hepatitis  surveillance,  a  method  that  likely  underestimates  the
+magnitude of transmission. Surveillance 
+for viral hepatitis typically is passive, with little or no 
+capacity to investigate cases suggestive of transmission during 
+health care and determine their cause (4). Among persons with acute HCV infections,
+60%--70% are asymptomatic 
+(2).  Additionally,  currently  available  laboratory  tests  cannot  distinguish  acute  from
+chronic HCV infection, which 
+makes identifying newly acquired cases difficult.
+ The  investigation  described  in  this  report  identified  six  cases  of  acute  hepatitis  C  in
+persons who 
+underwent procedures at clinic A 35--90 days before the onset of their illness. None of
+the persons had significant risk factors 
+for  HCV  infection  within  the  typical  incubation  period  (15--160  days  before  onset  of
+symptoms), and five of the cases 
+had procedures on the same day (September 21, 2007). The genetic relatedness of the
+viruses from case patients who 
+had procedures on September 21, 2007, supports the epidemiologic findings and points
+to a common source of 
+infection. The lack of genetic relatedness to the patient seen in July 2007 suggests a
+separate transmission incident. The 
+two distinct clusters suggest patient-to-patient transmission rather than staff-to-patient
+transmission. 
+ Most outbreaks of health-care--associated HCV have 
+involved patient-to-patient transmission attributed 
+to unsafe injection practices (3,5). The reuse of syringes and needles 
+or mishandling of medication vials usually have 
+been  implicated  (6--8).  In  some  situations,  syringes  or  needles  used  on  HCV-infected
+persons were directly reused on 
+other  persons.  In  other  instances,  syringes  or  needles  used  on  HCV-infected  persons
+were reused to draw medication from a 
+vial from which medicine was then drawn and administered to multiple persons, as was
+found in this investigation.
+ When gross errors or high-risk infection-control breaches that could lead to bloodborne
+pathogen transmission 
+are recognized, including unsafe injection practices, potentially exposed persons should
+be notified and tested, even 
+if transmission has not been confirmed (9). Those persons who are found to be infected
+can then obtain proper medical 
+care. In addition to approximately 40,000 notifications that occurred as a result of this
+outbreak, in unrelated incidents, 
+unsafe injection practices at three other outpatient clinics in two states have resulted in
+approximately 28,000 patient 
+notifications during the preceding year (CDC, unpublished data, 2008). These situations
+could have been avoided if standard 
+infection-control precautions, which include basic safe 
+injection practices, had been followed (Box) 
+(10).
+ This outbreak highlights the importance of surveillance and investigation in detecting
+viral hepatitis transmission 
+in  health-care  settings.  Prevention  of  transmission  in  these  settings  requires
+understanding and adherence to 
+recommended  infection-control  practices.  Medical  and  nursing  school  curricula  and
+other health-care professional training, 
+licensing,  and  continuing  education  requirements  should  include  infection-control
+content, including the safe handling 
+and  administration  of  parenteral  medications,  as  areas  of  competency.  Although
+hospitals employ 
+infection-control professionals and regularly evaluate 
+infection-control practices, such oversight might be limited in outpatient 
+settings  that  are  not  associated  with  hospitals.  As  use  of  these  settings  grows,
+appropriate methods will be needed to 
+provide  similar  oversight  for  outpatient  clinics.  Better  surveillance,  education,  and
+oversight are needed to detect and 
+prevent  bloodborne  pathogen  transmission  in  ambulatory  and  other  health-care
+settings.
+References
+ 
+ * The normal ALT range varies according to age, sex, and other factors. An upper limit
+of 28--55 units/L is generally considered normal. 
+ 
+ Use  of  trade  names  and  commercial  sources  is  for  identification  only  and  does  not
+imply endorsement by the U.S. Department of 
+Health and Human Services.References to non-CDC sites on the Internet are 
+provided as a service to MMWR readers and do not constitute or imply 
+endorsement of these organizations or their programs by CDC or the U.S. 
+Department of Health and Human Services. CDC is not responsible for the content 
+of pages found at these sites. URL addresses listed in MMWR were current as of 
+the date of publication.
+All MMWR HTML versions of articles are electronic conversions from typeset documents.
+This  conversion  might  result  in  character  translation  or  format  errors  in  the  HTML
+version. 
+Users are referred to the electronic PDF version (http://www.cdc.gov/mmwr) 
+and/or the original MMWR paper copy for printable versions of official text, figures, and
+tables. 
+An  original  paper  copy  of  this  issue  can  be  obtained  from  the  Superintendent  of
+Documents, U.S. 
+Government Printing Office (GPO), Washington, DC 20402-9371; 
+telephone: (202) 512-1800. Contact GPO for current prices. 
+**Questions or messages regarding errors in formatting should be addressed to 
+mmwrq@cdc.gov.  Use of trade names and commercial sources is for identification only
+and does not imply endorsement by the U.S. Department of 
+Health and Human Services.References to non-CDC sites on the Internet are 
+provided as a service to MMWR readers and do not constitute or imply 
+endorsement of these organizations or their programs by CDC or the U.S. 
+Department of Health and Human Services. CDC is not responsible for the content 
+of pages found at these sites. URL addresses listed in MMWR were current as of 
+the date of publication. All MMWR HTML versions of articles are electronic conversions
+from typeset documents. 
+This  conversion  might  result  in  character  translation  or  format  errors  in  the  HTML
+version. 
+Users are referred to the electronic PDF version (http://www.cdc.gov/mmwr) 
+and/or the original MMWR paper copy for printable versions of official text, figures, and
+tables. 
+An  original  paper  copy  of  this  issue  can  be  obtained  from  the  Superintendent  of
+Documents, U.S. 
+Government Printing Office (GPO), Washington, DC 20402-9371; 
+telephone:  (202)  512-1800.  Contact  GPO  for  current  prices.  Date  last  reviewed:
+5/15/2008
+ 
+    HOME  |  
+    ABOUT MMWR  | 
+    MMWR SEARCH  | 
+    DOWNLOADS  | 
+    RSS 
+    |  
+    CONTACT
+POLICY  |  
+    DISCLAIMER  |  
+    ACCESSIBILITY 
+Morbidity and Mortality Weekly Report
+                Centers for Disease Control and Prevention
+                1600 Clifton Rd, MailStop E-90, Atlanta, GA 
+                  30333, U.S.A 
+Department of Healthand Human Services 
+Source URL: https://www.cdc.gov/mmwr/preview/mmwrhtml/mm5719a2.htm

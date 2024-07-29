@@ -1,0 +1,39 @@
+Official websites use .gov A .gov website belongs to an official government organization
+in  the  United  States.  Secure  .gov  websites  use  HTTPS  A  lock  (   )  or  https://  means
+you've  safely  connected  to  the  .gov  website.  Share  sensitive  information  only  on
+official, secure websites. 
+Pneumococcal vaccine recommendations have been updated as of June 27, 2024,
+to  recommend  PCV21  for  adults.  This  page  will  be  updated  to  align  with  the  new
+recommendations. 
+ 
+The PneumoRecs VaxAdvisor Mobile App was updated on September 28, 2023, to
+reflect  CDC’s  updated  pediatric  pneumococcal  vaccination  recommendations.
+PneumoRecs VaxAdvisor is available for download on iOS and Android mobile devices.
+The PneumoRecs VaxAdvisor mobile app helps vaccination providers quickly and easily
+determine  which  pneumococcal  vaccines  a  patient  needs  and  when.  The  app
+incorporates
+ recommendations
+ for
+ all
+ ages
+ so
+ internists,
+ family
+ physicians,
+pediatricians, and pharmacists alike will find the tool beneficial. Users simply: Then the
+app  provides  patient-specific  guidance  consistent  with  the  immunization  schedule
+recommended  by  the  U.S.  Advisory  Committee  on  Immunization  Practices  (ACIP).
+Download  “PneumoRecs  VaxAdvisor”  free  for  iOS  and  Android  devices.  If  you  do  not
+have a device that supports the app, you can access a web version when connected to
+the  internet  through  a  mobile  device  or  computer.  If  you  use  the  web  version  of
+“PneumoRecs  VaxAdvisor,”  we  recommend  adjusting  the  screen  size  to  look  like  a
+smartphone for a better user experience. Updates: CDC will release guideline changes
+and enhancements to the app itself through app updates. PneumoRecs VaxAdvisor is a
+standalone  application  that  provides  patient-specific  guidance  consistent  with  the
+ACIP’s  pneumococcal  vaccination  recommendations.  Use  the  app  to  eliminate  the
+challenge  of  interpreting  and  synthesizing  multiple  vaccination  recommendation
+statements. The app doesn’t request or collect any personal identifying information. It
+also does not store any information. CDC welcomes your feedback and questions about
+PneumoRecs  VaxAdvisor.  If  you  have  technical  issues  or  a  question  about
+recommendations displayed by the app, please e-mail RDB@cdc.gov.
+Source URL: https://www.cdc.gov/vaccines/vpd/pneumo/hcp/pneumoapp.html

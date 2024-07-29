@@ -1,0 +1,183 @@
+Official websites use .gov A .gov website belongs to an official government organization
+in  the  United  States.  Secure  .gov  websites  use  HTTPS  A  lock  (   )  or  https://  means
+you've  safely  connected  to  the  .gov  website.  Share  sensitive  information  only  on
+official, secure websites. Photos by Shutterstock 
+ Elastomeric half mask respirators (EHMRs) are a type of air-purifying respirator and are
+reusable devices with exchangeable filter elements (cartridges or filters) that may be
+selected to provide the needed level of filtration (e.g., N95). The facepieces are made of
+synthetic or natural rubber material that allow repeated cleaning, disinfection, storage,
+and  reuse.  EHMRs  can  be  used  to  protect  against  gases,  vapors,  and  particles  if
+equipped with the appropriate filters or cartridges. Because the facepiece must form a
+tight  seal  against  the  user’s  face,  EHMRs  require  fit  testing  at  least  annually.  Learn
+more about NIOSH’s studies and the EHMR resources available in the sections below.
+NIOSH  is  currently  conducting  several  studies  related  to  elastomeric  half  mask
+respirators  (EHMRs).  These  studies  are  summarized  below.   JET  FIT  –  Just-in-time
+Elastomeric Training and Fit Testing
+This  project  aims  to  test  the  feasibility  of  rapidly  fit  testing  and  training  healthcare
+personnel to use EHMRs in place of N95 filtering facepiece respirators (FFRs) and other
+respiratory  protection  devices  (RPDs)  during  a  public  health  emergency.  NIOSH
+completed  data  collection  at  three  acute  care  hospitals  (affiliated  with  Emory
+University, Wayne State University, and The University of Texas) between October 2017
+and September 2020. NIOSH published early results (two of three hospitals) from this
+study  in  March  2020.  More  complete  methods  and  results  are  in  development  by
+NIOSH. Outputs from Study:
+Training  and  Fit  Testing  of  Health  Care  Personnel  for  Reusable  Elastomeric  Half-Mask
+Respirators Compared With Disposable N95 Respirators Pompeii, L A, Kraft, CS, et al.
+JAMA Research Letter. March 25, 2020. 
+RESPONSE  –  Randomized-controlled  Elastomeric  Studies  with  PCR  technology,  to
+determine disinfection Safety and Effectiveness
+The  purpose  of  this  project  is  to  identify  how  effective  various  disinfectants  are  at
+removing microorganisms from EHMRs as well as develop a protocol to train healthcare
+personnel to use disinfectant wipes to clean these respirators and check the efficacy of
+the cleaning. The project is currently underway, and it is being conducted at two acute
+care hospitals (affiliated with Emory University and The University of Texas). 
+REUSE – Routine Elastomeric Use and Evaluations in Healthcare
+This  3-6  month  project  will  focus  on  demonstrating  how  an  acute  care  hospital
+implements  and  uses  EHMRs  including  an  evaluation  of  a  single  disinfection  method.
+This project is scheduled to begin in early 2021 at three acute care hospitals (Emory
+University, Wayne State University, and The University of Texas). 
+Elastomeric Half Mask Respirator Implementation Guides
+Two  acute  care  hospitals  are  developing  an  implementation  guide  describing  the
+logistics for how they developed and implemented elastomeric respirator use at their
+institutions. The hospitals (affiliated with the University of Maryland and the Allegheny
+Health Network) are experienced EHMR users and currently use elastomeric half mask
+respirators in healthcare delivery. This project is currently underway and is expected to
+be completed by the end of February 2021. Outputs from Study:
+University of Maryland Implementation Guide to Support Use of Elastomeric Half Mask
+Respirators in Healthcare 
+Examination of Healthcare Personnel Perspectives and Concerns Regarding EHMR use
+in  a  Healthcare  Setting  and  Current  EHMR  use  Strategies  due  to  the  COVID-19
+Pandemic
+Two  acute  care  hospitals  (affiliated  with  the  University  of  Maryland  and  Allegheny
+Health  Network)  will  survey  and  examine  healthcare  personnel  perceptions  and
+concerns from wearing EHMRs. NIOSH expects nearly 1,000 healthcare personnel to be
+surveyed from these two hospitals. This project is currently underway and expected to
+be completed by the end of 2021. 
+NIOSH Nationwide EHMR Demonstration Projects
+NIOSH is continuing to explore strategies to increase the availability of disposable N95
+FFRs  by  leveraging  reusable  EHMRs  and  appropriate  filter  cartridges.  The  Strategic
+National Stockpile (SNS) plans to purchase EHMRs and filter cartridges for storage and
+distribution.  NIOSH  is  assisting  the  SNS  to  develop  this  nation-wide  distribution
+strategy.  In  collaboration  with  the  SNS,  NIOSH  prepared  a  Federal  Register  Notice  to
+request  information  from  the  public  regarding  the  deployment  and  use  of  EHMRs  in
+healthcare  settings  and  emergency  medical  services  organizations  during  infectious
+disease  outbreaks.  To  learn  more  about  this  effort,  please  view  the  Federal  Register
+Notice and archived webinar recording, NIOSH Elastomeric Half Mask Respirator (EHMR)
+Federal Register Notice Webinar. 
+Elastomeric  Half  Mask  Respirator  and  Filtering  Facepiece  Respirator  Exhalation  Valve
+Research Studies
+NIOSH  is  conducting  several  studies  on  respirator  exhalation  valves.  Additional
+information  about  these  studies  is  available  on  our  Respirator  Exhalation  Valve
+Research webpage. What are Air-Purifying Respirators? (2017)
+PDFpdf icon, Imageimage icon Understanding the Difference (Surgical masks, N95 FFRs,
+and Elastomerics) (2019)
+PDFpdf icon, Imageimage icon Types of Respiratory Protection (2019)
+PDFpdf  icon,  Image  Evaluation  of  Exhalation  Resistance  and  Inspired  Carbon  Dioxide
+Concentration in Elastomeric Half-Mask Respirators with Modified or Covered Exhalation
+Valves
+Though  modifying  or  covering  the  exhalation  valve  of  an  elastomeric  half-mask
+respirator  (EHMR)  may  improve  its  potential  efficacy  for  source  control,  it  could  also
+result in higher exhalation resistance or elevated concentrations of carbon dioxide gas
+(CO2) in the respirator facepiece and subsequently increase user discomfort and reduce
+user  acceptance.  This  study  explores  two  approaches  for  modifying  or  covering  the
+exhalation  valves  of  EHMRs:  (1)  modifying  EHMRs  to  filter  the  exhaled  breath  by
+removing  the  inhalation  valve  membranes  and  blocking  the  exhalation  valve;  (2)
+covering EHMR exhalation valves with surgical masks. Hospital Respiratory Protection
+Program Toolkit
+This toolkit was developed to assist hospitals in developing and implementing effective
+respiratory  protection  programs,  with  an  emphasis  on  preventing  the  transmission  of
+aerosol  transmissible  diseases  (ATDs)  to  healthcare  personnel.  Healthcare  personnel
+are paid and unpaid persons who provide patient care in a healthcare setting or support
+the  delivery  of  healthcare  by  providing  clerical,  dietary,  housekeeping,  engineering,
+security, or maintenance services. Healthcare personnel may potentially be exposed to
+ATD pathogens. Aerosols are particles or droplets suspended in air. ATDs are diseases
+transmitted  when  infectious  agents,  which  are  suspended  or  present  in  particles  or
+droplets,  contact  the  mucous  membranes  or  are  inhaled.  A  Guide  to  Air-Purifying
+Respirators
+Air-purifying  respirators  (APRs),  such  as  elastomeric  respirators,  work  by  removing
+gases,  vapors,  aerosols  (airborne  droplets  and  solid  particles),  or  a  combination  of
+contaminants  from  the  air  through  the  use  of  filters,  cartridges,  or  canisters.  These
+respirators  do  not  supply  oxygen  from  other  than  the  working  atmosphere,  and
+therefore  cannot  be  used  in  an  atmosphere  that  is  oxygen-deficient  or  immediately
+dangerous to life or health (IDLH). The appropriate respirator for a particular situation
+will depend on the environment and the contaminant(s). Advancements in Elastomeric
+Respirator Technology for Use as Source Control
+Elastomeric  half  mask  respirators  (EHMRs)  are  being  used  more  widely  in  U.S.
+healthcare  systems  because  they  can  be  cleaned,  disinfected,  and  reused.
+Manufacturers  have  developed  innovative  NIOSH-approved  EHMR  designs  that  both
+protect  the  wearer  as  well  as  provide  adequate  source  control.  Understanding
+respiratory protection options in Healthcare: The Overlooked Elastomeric
+In the healthcare industry, the importance of respiratory protection is often overlooked.
+Choosing  the  correct  respirator  for  the  exposure  level  and  work  task  is  a  critical
+component of a respiratory protection program. Supplementing the Supply of N95s with
+Reusable Elastomeric Half Mask Respirators
+The  high  demand  and  limited  supply  of  N95  FFRs  during  a  public  health  emergency
+have led organizations to rely on other types of respirators, such as reusable EHMRs.
+Certified Equipment List
+The  Certified  Equipment  List  is  a  tool  to  help  respirator  users,  safety  managers,
+industrial  hygienists,  and  others  find  NIOSH-approved  respirators.  Cleaning  and
+Disinfection  Perceptions  and  Use  Practices  Among  Elastomeric  Respirator  Users  in
+Healthcare
+Hines,  SE  et  al.  Workplace  Health  and  Safety  Disinfection  of  reusable  elastomeric
+respirators  by  health  care  workers:  A  feasibility  study  and  development  of  standard
+operating procedures
+Bessesen, M. T., Adams, J. C., Radonovich, L., & Anderson, J. (2015). American journal of
+infection  control,  43(6),  629-634.  Elastomeric  half  mask  respirators:  An  alternative  to
+disposable respirators and a solution to shortages during public health emergencies
+Greenawald LA; Haas EJ; D’Alessandro MM. (2021). Journal of the International Society
+of  Respiratory  Protection.  2021  Dec;  38(2):74-91  Hospital  respiratory  protection
+practices in 6 US states: A public health evaluation study
+Peterson,  K.,  Novak,  D.,  Stradtman,  L.,  Wilson,  D.,  &  Couzens,  L.  (2015).  American
+journal  of  infection  control,  43(1),  63-71.  Implementation  Guide  to  Support  Use  of
+Elastomeric Half Mask Respirators in Healthcare
+Hines  S,  Thurman  P,  McDiarmid  M.  University  of  Maryland  Implementation  Guide,
+February  3,  2021.  Implementation  of  an  Elastomeric  Mask  Program  as  a  Strategy  to
+Eliminate Disposable N95 Mask Use and Resterilization: Results from a Large Academic
+Medical Center
+Chalikonda S, Waltenbaugh H, Angelilli S, Dumont T, Kvasager C, Sauber T, Servello N,
+Singh  A,  Diaz-Garcia  R,  Journal  of  the  American  College  of  Surgeons  (2020)
+Implementing  Reusable  Elastomeric  Respirators  in  Health  Care:  Considerations  for
+Routine and Surge Use
+National Academy of Medicine Consensus Study. Clever, L.H., Rogers, B.M., Yost, O.C.,
+and Liverman, C.T. Editors, The National Academies Press, 2018. Qualitative Analysis of
+Origins  and  Evolution  of  an  Elastomeric  Respirator-based  Hospital  Respiratory
+Protection Program
+Hines,  SE,  Mueller,  N,  Oliver,  M,  Gucer,  P,  McDiarmid,  M.  Journal  of  the  International
+Society  for  Respiratory  Protection.  2017:34:95-111.  Stockpiling  supplies  for  the  next
+influenza pandemic
+Radonovich  LJ,  Magalian  PD,  Hollingsworth  MK,  Baracco  G.  Emerg  Infect  Dis.
+2009;15(6):e1.  doi:10.3201/eid1506.081196  Storage  and  Availability  of  Elastomeric
+Respirators in Health Care
+Hines,
+ SE,
+ Brown,
+ C,
+ Oliver,
+ M,
+ et
+ al.
+ Health
+ Security.
+ 2019:
+17:DOI:10.1089/hs.2019.0039.  Training  and  Fit  Testing  of  Health  Care  Personnel  for
+Reusable Elastomeric Half Mask Respirators Compared With Disposable N95 Respirators
+Pompeii, L A, Kraft, CS, et al. JAMA Research Letter. March 25, 2020. User Acceptance of
+Reusable Respirators in Healthcare
+Hines,  SE,  Brown,  C,  Oliver,  M,  Gucer,  P,  Frisch,  M,  Hogan,  R,  Roth,  T,  Chang,  J,
+McDiarmid, M. User acceptance of reusable respirators in healthcare. American Journal
+of  Infection  Control.  2019:47:648-655.  Using  public  feedback  about  the  use  of
+elastomeric half mask respirators to inform a national deployment study within health
+settings
+Haas EJ; Greenawald LA; Furek A; D’Alessandro MM. (2021). Journal of the International
+Society
+ of
+ Respiratory
+ Protection.
+ 2021
+ Dec;
+ 38(2):92-106
+ CDC—Elastomeric
+Respirators  for  U.S.  Healthcare  Delivery  (4/8/2020)  American  College  of  Medical
+Toxicology  (ACMT)—An  Alternative  to  Disposable  N95s:  The  Reusable  Elastomeric
+Half-Mask Respirator Experience (8/19/2020)
+Source URL: https://www.cdc.gov/niosh/npptl/respirators/elastomeric/default.html

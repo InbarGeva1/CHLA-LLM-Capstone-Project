@@ -1,0 +1,52 @@
+A .gov website belongs to an official government organization in the United States. A
+lock (  ) or https:// means you've safely connected to the .gov website. Share sensitive
+information only on official, secure websites. Effect of Cleaning on Sterilization Efficacy
+from the Guideline for Disinfection and Sterilization in Healthcare Facilities (2008). The
+effect  of  salt  and  serum  on  the  efficacy  of  low-temperature  sterilization  technologies
+has raised concern regarding the margin of safety of these technologies. Experiments
+have  shown  that  salts  have  the  greatest  impact  on  protecting  microorganisms  from
+killing426, 469. However, other studies have suggested that these concerns may not be
+clinically relevant. One study evaluated the relative rate of removal of inorganic salts,
+organic  soil,  and  microorganisms  from  medical  devices  to  better  understand  the
+dynamics of the cleaning process426. These tests were conducted by inoculating Alfa
+soil  (tissue-culture  media  and  10%  fetal  bovine  serum)  469  containing  106  G.
+stearothermophilus  spores  onto  the  surface  of  a  stainless-steel  scalpel  blade.  After
+drying  for  30  minutes  at  35°C  followed  by  30  minutes  at  room  temperature,  the
+samples  were  placed  in  water  at  room  temperature.  The  blades  were  removed  at
+specified times, and the concentration of total protein and chloride ion was measured.
+The results showed that soaking in deionized water for 60 seconds resulted in a >95%
+release rate of chloride ion from NaCl solution in 20 seconds, Alfa soil in 30 seconds,
+and fetal bovine serum in 120 seconds. Thus, contact with water for short periods, even
+in  the  presence  of  protein,  rapidly  leads  to  dissolution  of  salt  crystals  and  complete
+inactivation of spores by a low-temperature sterilization process (Table 10). Based on
+these experimental data, cleaning procedures would eliminate the detrimental effect of
+high  salt  content  on  a  low-temperature  sterilization  process.  These  articles  426,  469,
+721  assessing  low-temperature  sterilization  technology  reinforce  the  importance  of
+meticulous  cleaning  before  sterilization.  These  data  support  the  critical  need  for
+healthcare facilities to develop rigid protocols for cleaning contaminated objects before
+sterilization472. Sterilization of instruments and medical devices is compromised if the
+process  is  not  preceded  by  meticulous  cleaning.  The  cleaning  of  any  narrow-lumen
+medical device used in patient care presents a major challenge to reprocessing areas.
+While  attention  has  been  focused  on  flexible  endoscopes,  cleaning  issues  related  to
+other
+ narrow-lumen
+ medical
+ devices
+ such
+ as
+ sphinctertomes
+ have
+ been
+investigated913. This study compared manual cleaning with that of automated cleaning
+with a narrow-lumen cleaner and found that only retro-flushing with the narrow lumen
+cleaner provided adequate cleaning of the three channels. If reprocessing was delayed
+for  more  than  24  hours,  retro-flush  cleaning  was  no  longer  effective  and  ETO
+sterilization  failure  was  detected  when  devices  were  held  for  7  days  913.  In  another
+study  involving  simulated-use  cleaning  of  laparoscopic  devices,  Alfa  found  that
+minimally  the  use  of  retro-flushing  should  be  used  during  cleaning  of  non-ported
+laparoscopic  devices914.  CDC  provides  information  on  infection  control  and  clinical
+safety  to  help  reduce  the  risk  of  infections  among  healthcare  workers,  patients,  and
+visitors. Languages Language Assistance Languages  Language Assistance 
+Source
+ URL:
+https://www.cdc.gov/infection-control/hcp/disinfection-sterilization/cleaning-effect-sterilization.html

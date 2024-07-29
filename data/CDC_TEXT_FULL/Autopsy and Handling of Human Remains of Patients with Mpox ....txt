@@ -1,0 +1,57 @@
+Official websites use .gov A .gov website belongs to an official government organization
+in  the  United  States.  Secure  .gov  websites  use  HTTPS  A  lock  (   )  or  https://  means
+you've  safely  connected  to  the  .gov  website.  Share  sensitive  information  only  on
+official,  secure  websites.  All  post-mortem  procedures  require  adherence  to  standard
+precautions  with  the  use  of  appropriate  personal  protective  equipment  (PPE)  and
+facilities with appropriate safety features. Personnel who perform post-mortem care of
+remains  for  patients  with  confirmed  or  suspected  mpox  should  wear  PPE  as
+recommended for healthcare settings. The body should be prepared following routine
+healthcare facility procedures for cleaning and containing body fluids and then wrapped
+in a plastic shroud. Wrapping should be done to prevent contamination of the outside of
+the  shroud.  If  an  autopsy  is  performed,  the  shrouded  body  should  be  placed  on  a
+mortuary  stretcher  and  covered  with  a  clean  linen  sheet  for  transportation  to  the
+morgue. If the remains go directly to a mortuary, they should be placed in a body bag
+prior to removal. Dispose of gown and gloves after completing post-mortem care or if
+they  become  damaged.  People  transporting  prepared  and  covered  human  remains
+should wear gloves but are not required to wear other PPE. People who transfer remains
+from a mortuary stretcher onto the autopsy table should wear a gown, gloves, and eye
+protection. Personnel who perform or assist with the autopsy of patients with confirmed
+or  suspected  mpox  should  wear  the  following  PPE:  Before  an  autopsy  begins,  the
+following  engineering  strategies  and  facility  designs  should  be  considered:  The
+following safety procedures should be used for autopsies and post-mortem assessment
+of  mpox  cases:  Samples  should  be  taken  from  all  major  organs  when  possible.
+Particular attention and extensive sampling should include tissues demonstrating gross
+pathology  or  involvement  as  suggested  by  clinical  presentation.  Autopsy  specimens
+should include: Place representative tissues in 10% buffered formalin for a minimum of
+48  hours  and  no  longer  than  2  weeks.   Autopsy  brain  tissues  may  require  additional
+fixation  of  up  to  4  weeks.  After  fully  fixed,  specimens  should  undergo  processing,
+paraffin-embedding, and routine histopathologic evaluation. Formalin-fixed wet tissues
+and  formalin-fixed,  paraffin-embedded  tissue  blocks  should  be  stored  at  room
+temperature. A second set of representative fragments of tissues listed above should
+be  collected  using  sterile  techniques  and  placed  in  sterile  1.5-2  mL  screw-capped
+plastic vials with O-ring, or any tube with a gasket seal (leak-proof) that can be shipped
+under  the  required  conditions.  DO  NOT  ADD  ANY  VIRAL  TRANSPORT  MEDIA.  Ideally,
+specimens  should  be  stored  and  shipped  frozen  at  -20⁰C  or  lower  Disinfection
+Procedures after Autopsy: Infection Control: Healthcare Settings
+Guidelines  for  monitoring  healthcare  workers  who  have  unprotected  exposures  to
+patients  with  mpox  or  laboratory  specimens  from  these  patients.  OSHA’s  Respiratory
+Protection  Safety  and  Health  Topics  page  provides  additional  information  about
+respiratory  protection  programs,  including  training,  fit  testing,  and  compliance   [14.9
+MB, 124 Pages] resources. Formalin-fixed autopsy tissue specimens can be submitted
+to  CDC’s  Infectious  Diseases  Pathology  Branch  (IDPB)  for  additional  pathologic
+characterization,  and  immunohistochemical  (IHC)  testing  for  orthopoxviruses.  Testing
+for other infectious etiologies by methods including IHC and polymerase chain reaction
+(PCR)  may  also  be  performed  as  warranted  based  on  histopathologic  findings  and
+clinical  and  epidemiologic  history.  Acceptable  sample  criteria:  Please  contact  CDC’s
+Infectious Diseases Pathology Branch (IDPB) (pathology@cdc.gov) for pre-approval and
+specific submission instructions. Do not send specimens until pre-approval is provided
+by pathology@cdc.gov. For more information, see: Pathologic or Molecular Evaluation of
+Fixed Tissues for Possible Infectious Etiologies (CDC-10365). For fresh, frozen autopsy
+tissue  samples,  please  contact  the  Poxvirus  laboratory  (poxviruslab@cdc.gov)  for
+pre-approval  and  specific  submission  instructions.  Please  indicate  if  the  patient  was
+taking tecovirimat (TPOXX). For more information on labeling and packaging specimens
+for  transport  read  Submitting  Specimens  to  CDC  Shipping  and  Packing.  Healthcare
+providers, pathologists, medical examiners, and coroners:
+Please first contact your state, tribal, local, or territorial health department for approval
+of specimen submission to CDC.
+Source URL: https://www.cdc.gov/poxvirus/mpox/clinicians/autopsy.html

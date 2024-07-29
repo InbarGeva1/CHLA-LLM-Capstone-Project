@@ -1,0 +1,131 @@
+A .gov website belongs to an official government organization in the United States. A
+lock (  ) or https:// means you've safely connected to the .gov website. Share sensitive
+information  only  on  official,  secure  websites.   Factors  Affecting  the  Efficacy  of
+Disinfection  and  Sterilization  from  the  Guideline  for  Disinfection  and  Sterilization  in
+Healthcare Facilities (2008). The activity of germicides against microorganisms depends
+on a number of factors, some of which are intrinsic qualities of the organism, others of
+which are the chemical and external physical environment. Awareness of these factors
+should lead to better use of disinfection and sterilization processes and will be briefly
+reviewed.  More  extensive  consideration  of  these  and  other  factors  is  available
+elsewhere 13, 14, 16, 411-413. All other conditions remaining constant, the larger the
+number of microbes, the more time a germicide needs to destroy all of them. Spaulding
+illustrated this relation when he employed identical test conditions and demonstrated
+that it took 30 minutes to kill 10 B. atrophaeus (formerly Bacillus subtilis) spores but 3
+hours to kill 100,000 Bacillus atrophaeus spores. This reinforces the need for scrupulous
+cleaning  of  medical  instruments  before  disinfection  and  sterilization.  Reducing  the
+number  of  microorganisms  that  must  be  inactivated  through  meticulous  cleaning,
+increases the margin of safety when the germicide is used according to the labeling and
+shortens the exposure time required to kill the entire microbial load. Researchers also
+have  shown  that  aggregated  or  clumped  cells  are  more  difficult  to  inactivate  than
+monodispersed  cells  414.  The  location  of  microorganisms  also  must  be  considered
+when  factors  affecting  the  efficacy  of  germicides  are  assessed.  Medical  instruments
+with  multiple  pieces  must  be  disassembled  and  equipment  such  as  endoscopes  that
+have crevices, joints, and channels are more difficult to disinfect than are flat- surface
+equipment because penetration of the disinfectant of all parts of the equipment is more
+difficult. Only surfaces that directly contact the germicide will be disinfected, so there
+must be no air pockets and the equipment must be completely immersed for the entire
+exposure  period.  Manufacturers  should  be  encouraged  to  produce  equipment
+engineered for ease of cleaning and disinfection. Microorganisms vary greatly in their
+resistance  to  chemical  germicides  and  sterilization  processes  (Figure  1)  342  Intrinsic
+resistance  mechanisms  in  microorganisms  to  disinfectants  vary.  For  example,  spores
+are  resistant  to  disinfectants  because  the  spore  coat  and  cortex  act  as  a  barrier,
+mycobacteria have a waxy cell wall that prevents disinfectant entry, and gram-negative
+bacteria  possess  an  outer  membrane  that  acts  as  a  barrier  to  the  uptake  of
+disinfectants  341,  343-345.  Implicit  in  all  disinfection  strategies  is  the  consideration
+that the most resistant microbial subpopulation controls the sterilization or disinfection
+time.  That  is,  to  destroy  the  most  resistant  types  of  microorganisms  (i.e.,  bacterial
+spores),  the  user  needs  to  employ  exposure  times  and  a  concentration  of  germicide
+needed to achieve complete destruction. Except for prions, bacterial spores possess the
+highest  innate  resistance  to  chemical  germicides,  followed  by  coccidia  (e.g.,
+Cryptosporidium), mycobacteria (e.g., M. tuberculosis), nonlipid or small viruses (e.g.,
+poliovirus,  and  coxsackievirus),  fungi  (e.g.,  Aspergillus,  and  Candida),  vegetative
+bacteria  (e.g.,  Staphylococcus,  and  Pseudomonas)  and  lipid  or  medium-size  viruses
+(e.g., herpes, and HIV). The germicidal resistance exhibited by the gram-positive and
+gram-negative  bacteria  is  similar  with  some  exceptions  (e.g.,  P.  aeruginosa  which
+shows  greater  resistance  to  some  disinfectants)  369,  415,  416.  P.  aeruginosa  also  is
+significantly more resistant to a variety of disinfectants in its "naturally occurring" state
+than are cells subcultured on laboratory media 415, 417. Rickettsiae, Chlamydiae, and
+mycoplasma cannot be placed in this scale of relative resistance because information
+about  the  efficacy  of  germicides  against  these  agents  is  limited  418.  Because  these
+microorganisms  contain  lipid  and  are  similar  in  structure  and  composition  to  other
+bacteria, they can be predicted to be inactivated by the same germicides that destroy
+lipid viruses and vegetative bacteria. A known exception to this supposition is Coxiella
+burnetti, which has demonstrated resistance to disinfectants 419. With other variables
+constant, and with one exception (iodophors), the more concentrated the disinfectant,
+the  greater  its  efficacy  and  the  shorter  the  time  necessary  to  achieve  microbial  kill.
+Generally not recognized, however, is that all disinfectants are not similarly affected by
+concentration  adjustments.  For  example,  quaternary  ammonium  compounds  and
+phenol  have  a  concentration  exponent  of  1  and  6,  respectively;  thus,  halving  the
+concentration of a quaternary ammonium compound requires doubling its disinfecting
+time,  but  halving  the  concentration  of  a  phenol  solution  requires  a  64-fold  (i.e.,  26)
+increase in its disinfecting time 365, 413, 420. Considering the length of the disinfection
+time,  which  depends  on  the  potency  of  the  germicide,  also  is  important.  This  was
+illustrated  by  Spaulding  who  demonstrated  using  the  mucin-loop  test  that  70%
+isopropyl alcohol destroyed 104 M. tuberculosis in 5 minutes, whereas a simultaneous
+test with 3% phenolic required 2–3 hours to achieve the same level of microbial kill 14.
+Several  physical  and  chemical  factors  also  influence  disinfectant  procedures:
+temperature,  pH,  relative  humidity,  and  water  hardness.  For  example,  the  activity  of
+most disinfectants increases as the temperature increases, but some exceptions exist.
+Furthermore, too great an increase in temperature causes the disinfectant to degrade
+and weakens its germicidal activity and thus might produce a potential health hazard.
+An  increase  in  pH  improves  the  antimicrobial  activity  of  some  disinfectants  (e.g.,
+glutaraldehyde,  quaternary  ammonium  compounds)  but  decreases  the  antimicrobial
+activity  of  others  (e.g.,  phenols,  hypochlorites,  and  iodine).  The  pH  influences  the
+antimicrobial  activity  by  altering  the  disinfectant  molecule  or  the  cell  surface  413.
+Relative humidity is the single most important factor influencing the activity of gaseous
+disinfectants/sterilants,  such  as  EtO,  chlorine  dioxide,  and  formaldehyde.  Water
+hardness (i.e., high concentration of divalent cations) reduces the rate of kill of certain
+disinfectants  because  divalent  cations  (e.g.,  magnesium,  calcium)  in  the  hard  water
+interact with the disinfectant to form insoluble precipitates 13, 421. Organic matter in
+the  form  of  serum,  blood,  pus,  or  fecal  or  lubricant  material  can  interfere  with  the
+antimicrobial activity of disinfectants in at least two ways. Most commonly, interference
+occurs by a chemical reaction between the germicide and the organic matter resulting
+in  a  complex  that  is  less  germicidal  or  nongermicidal,  leaving  less  of  the  active
+germicide available for attacking microorganisms. Chlorine and iodine disinfectants, in
+particular,  are  prone  to  such  interaction.  Alternatively,  organic  material  can  protect
+microorganisms  from  attack  by  acting  as  a  physical  barrier  422,  423.  The  effects  of
+inorganic contaminants on the sterilization process were studied during the 1950s and
+1960s  424,  425.  These  and  other  studies  show  the  protection  by  inorganic
+contaminants of microorganisms to all sterilization processes results from occlusion in
+salt crystals 426, 427. This further emphasizes the importance of meticulous cleaning of
+medical devices before any sterilization or disinfection procedure because both organic
+and inorganic soils are easily removed by washing 426. Items must be exposed to the
+germicide  for  the  appropriate  minimum  contact  time.  Multiple  investigators  have
+demonstrated  the  effectiveness  of  low-level  disinfectants  against  vegetative  bacteria
+(e.g.,  Listeria,  E.  coli,  Salmonella,  VRE,  MRSA),  yeasts  (e.g.,  Candida),  mycobacteria
+(e.g., M. tuberculosis), and viruses (e.g., poliovirus) at exposure times of 30–60 seconds
+46-64.  By  law,  all  applicable  label  instructions  on  EPA-registered  products  must  be
+followed.  If  the  user  selects  exposure  conditions  that  differ  from  those  on  the
+EPA-registered product label, the user assumes liability for any injuries resulting from
+off-label  use  and  is  potentially  subject  to  enforcement  action  under  the  Federal
+Insecticide,  Fungicide,  and  Rodenticide  Act  (FIFRA).  All  lumens  and  channels  of
+endoscopic  instruments  must  contact  the  disinfectant.  Air  pockets  interfere  with  the
+disinfection process, and items that float on the disinfectant will not be disinfected. The
+disinfectant  must  be  introduced  reliably  into  the  internal  channels  of  the  device.  The
+exact times for disinfecting medical items are somewhat elusive because of the effect
+of  the  aforementioned  factors  on  disinfection  efficacy.  Certain  contact  times  have
+proved reliable (Table 1), but, in general, longer contact times are more effective than
+shorter  contact  times.  Microorganisms  may  be  protected  from  disinfectants  by
+production of thick masses of cells 428 and extracellular materials, or biofilms 429-435.
+Biofilms are microbial communities that are tightly attached to surfaces and cannot be
+easily  removed.  Once  these  masses  form,  microbes  within  them  can  be  resistant  to
+disinfectants  by  multiple  mechanisms,  including  physical  characteristics  of  older
+biofilms,  genotypic  variation  of  the  bacteria,  microbial  production  of  neutralizing
+enzymes,  and  physiologic  gradients  within  the  biofilm  (e.g.,  pH).  Bacteria  within
+biofilms  are  up  to  1,000  times  more  resistant  to  antimicrobials  than  are  the  same
+bacteria  in  suspension  436.  Although  new  decontamination  methods  437  are  being
+investigated  for  removing  biofilms,  chlorine  and  monochloramines  can  effectively
+inactivate  biofilm  bacteria  431  438.  Investigators  have  hypothesized  that  the
+glycocalyx-like  cellular  masses  on  the  interior  walls  of  polyvinyl  chloride  pipe  would
+protect embedded organisms from some disinfectants and be a reservoir for continuous
+contamination 429, 430, 439. Biofilms have been found in whirlpools 440, dental unit
+waterlines441,  and  numerous  medical  devices  (e.g.,  contact  lenses,  pacemakers,
+hemodialysis  systems,  urinary  catheters,  central  venous  catheters,  endoscopes)  434,
+436, 438, 442. Their presence can have serious implications for immunocompromised
+patients and patients who have indwelling medical devices. Some enzymes 436, 443,
+444  and  detergents  436  can  degrade  biofilms  or  reduce  numbers  of  viable  bacteria
+within  a  biofilm,  but  no  products  are  EPA-registered  or  FDA-cleared  for  this  purpose.
+CDC provides information on infection control and clinical safety to help reduce the risk
+of  infections  among  healthcare  workers,  patients,  and  visitors.  Languages  Language
+Assistance Languages  Language Assistance 
+Source URL: https://www.cdc.gov/infection-control/hcp/disinfection-sterilization/efficacy-factors.html

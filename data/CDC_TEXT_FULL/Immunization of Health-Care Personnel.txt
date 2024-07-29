@@ -1,0 +1,2213 @@
+  Persons using assistive technology might not be able to fully access information in this
+file. For assistance, please send e-mail to: mmwrq@cdc.gov. Type 508 Accommodation
+and the title of the report in the subject line of e-mail. Prepared by Abigail Shefer, MD1
+William Atkinson, MD1 Carole Friedman, DO1* David T. Kuhar, MD2 Gina Mootrey, DO1
+Stephanie R. Bialek, MD1 Amanda Cohn, MD1 Anthony Fiore, MD3  Lisa Grohskopf, MD1
+Jennifer L. Liang, DVM1 Suchita A. Lorick, DO1 Mona Marin, MD1 Eric Mintz, MD2 Trudy
+V. Murphy, MD4 Anna Newton, MPH2 Amy Parker Fiebelkorn, MSN, MPH1 Jane Seward,
+MBBS1  Gregory  Wallace,  MD1  1National  Center  for  Immunization  and  Respiratory
+Diseases 2National Center for Emerging and Zoonotic Infectious Diseases 3Center for
+Global  Health  4National  Center  for  HIV/AIDS,  Viral  Hepatitis,  STD,  and  TB  Prevention
+*Deceased.  The  material  in  this  report  originated  in  the  National  Center  for
+Immunization  and  Respiratory  Diseases,  Anne  Schuchat,  MD,  Director.  Corresponding
+preparer:  Abigail  Shefer,  MD,  National  Center  for  Immunization  and  Respiratory
+Diseases, 1600 Clifton Rd., MS A-19, Atlanta, GA 30333. Telephone: 404-639-8233; Fax:
+404-417-0791;  E-mail:  ams7@cdc.gov.  This  report  updates  the  previously  published
+summary  of  recommendations  for  vaccinating  health-care  personnel  (HCP)  in  the
+United  States  (CDC.  Immunization  of  health-care  workers:  recommendations  of  the
+Advisory Committee on Immunization Practices [ACIP] and the Hospital Infection Control
+Practices  Advisory  Committee  [HICPAC].  MMWR  1997;46[No.  RR-18]).  This  report  was
+reviewed  by  and  includes  input  from  the  Healthcare  (formerly  Hospital)  Infection
+Control  Practices  Advisory  Committee.  These  updated  recommendations  can  assist
+hospital administrators, infection-control practitioners, employee health clinicians, and
+HCP in optimizing infection prevention and control programs. The recommendations for
+vaccinating  HCP  are  presented  by  disease  in  two  categories:  1)  those  diseases  for
+which vaccination or documentation of immunity is recommended because of risks to
+HCP in their work settings for acquiring disease or transmitting to patients and 2) those
+for  which  vaccination  might  be  indicated  in  certain  circumstances.  Background
+information for each vaccine-preventable disease and specific recommendations for use
+of  each  vaccine  are  presented.  Certain  infection-control  measures  that  relate  to
+vaccination also are included in this report. In addition, ACIP recommendations for the
+remaining vaccines that are recommended for certain or all adults are summarized, as
+are considerations for catch-up and travel vaccinations and for work restrictions. This
+report summarizes all current ACIP recommendations for vaccination of HCP and does
+not  contain  any  new  recommendations  or  policies.  The  recommendations  provided  in
+this  report  apply,  but  are  not  limited,  to  HCP  in  acute-care  hospitals;  long-term--care
+facilities  (e.g.,  nursing  homes  and  skilled  nursing  facilities);  physician's  offices;
+rehabilitation centers; urgent care centers, and outpatient clinics as well as to persons
+who  provide  home  health  care  and  emergency  medical  services.  This  report  updates
+the previously published summary of recommendations of the Advisory Committee on
+Immunization Practices (ACIP) and the Healthcare (formerly Hospital) Infection Control
+Practices Advisory Committee (HICPAC) for vaccinating health-care personnel (HCP) in
+the  United  States  (1).  The  report,  which  was  reviewed  by  and  includes  input  from
+HICPAC, summarizes all current ACIP recommendations for vaccination of HCP and does
+not  contain  any  new  recommendations  or  policies  that  have  not  been  published
+previously. These recommendations can assist hospital administrators, infection-control
+practitioners,  employee  health  clinicians,  and  HCP  in  optimizing  infection  prevention
+and  control  programs.  HCP  are  defined  as  all  paid  and  unpaid  persons  working  in
+health-care settings who have the potential for exposure to patients and/or to infectious
+materials,  including  body  substances,  contaminated  medical  supplies  and  equipment,
+contaminated environmental surfaces, or contaminated air. HCP might include (but are
+not  limited  to)  physicians,  nurses,  nursing  assistants,  therapists,  technicians,
+emergency  medical  service  personnel,  dental  personnel,  pharmacists,  laboratory
+personnel, autopsy personnel, students and trainees, contractual staff not employed by
+the  health-care  facility,  and  persons  (e.g.,  clerical,  dietary,  housekeeping,  laundry,
+security,  maintenance,  administrative,  billing,  and  volunteers)  not  directly  involved  in
+patient care but potentially exposed to infectious agents that can be transmitted to and
+from HCP and patients (2). Because of their contact with patients or infective material
+from  patients,  many  HCP  are  at  risk  for  exposure  to  (and  possible  transmission  of)
+vaccine-preventable  diseases.  Employers  and  HCP  have  a  shared  responsibility  to
+prevent  occupationally  acquired  infections  and  avoid  causing  harm  to  patients  by
+taking reasonable precautions to prevent transmission of vaccine-preventable diseases.
+Vaccination programs are therefore an essential part of infection prevention and control
+for HCP. Optimal use of recommended vaccines helps maintain immunity and safeguard
+HCP from infection, thereby helping protect patients from becoming infected; pertinent
+ACIP  statements  on  various  individual  vaccines  and  diseases  have  been  published
+(Table  1).  Nationwide,  ongoing  implementation  of  these  vaccine  recommendations
+through  well-managed  vaccination  programs  could  substantially  reduce  both  the
+number of susceptible HCP in any setting in which they interact with patients and their
+risks  for  transmitting  vaccine-preventable  diseases  to  patients,  other  HCP,  and  other
+contacts  (3).  HICPAC  and  CDC  have  recommended  that  secure,  preferably
+computerized,  systems  should  be  used  to  manage  vaccination  records  for  HCP  so
+records  can  be  retrieved  easily  as  needed  (3).  Each  record  should  reflect  immunity
+status
+ for
+ indicated
+ vaccine-preventable
+ diseases
+ (i.e.,
+ documented
+ disease,
+vaccination  history,  or  serology  results)  as  well  as  vaccinations  administered  during
+employment and any documented episodes of adverse events after vaccination (4). For
+each  vaccine,  the  record  should  include  date  of  vaccine  administration  (including  for
+those  vaccines  that  might  have  been  received  prior  to  employment),  vaccine
+manufacturer and lot number, edition and distribution date of the language-appropriate
+Vaccine  Information  Statement  (VIS)  provided  to  the  vaccinee  at  the  time  of
+vaccination, and the name, address, and title of the person administering the vaccine
+(4).  Accurate  vaccination  records  can  help  to  rapidly  identify  susceptible  HCP  (i.e.,
+those with no history of vaccination or lack of documentation of immunity) during an
+outbreak situation and can help reduce costs and disruptions to health-care operations
+(5--7). HCP should be provided a copy of their vaccination records and encouraged to
+keep  it  with  their  personal  health  records  so  they  can  readily  be  made  available  to
+future  employers.  HICPAC  has  encouraged  any  facility  or  organization  that  provides
+direct patient care to formulate a comprehensive vaccination policy for all HCP (3). The
+American  Hospital  Association  has  endorsed  the  concept  of  vaccination  programs  for
+both  hospital  personnel  and  patients  (8).  To  ensure  that  all  HCP  are  up  to  date  with
+respect  to  recommended  vaccines,  facilities  should  review  HCP  vaccination  and
+immunity status at the time of hire and on a regular basis (i.e., at least annually) with
+consideration  of  offering  needed  vaccines,  if  necessary,  in  conjunction  with  routine
+annual disease-prevention measures (e.g., influenza vaccination or tuberculin testing).
+These  recommendations  (Tables  2  and  3)  should  be  considered  during  policy
+development.  Several  states  and  health-care  facilities  have  established  requirements
+relating  to  assessment  of  vaccination  status  and/or  administration  of  one  or  more
+vaccines  for  HCP  (9,10).  Disease-specific  outbreak  control  measures  are  described  in
+this report and elsewhere (3,11,12). All HCP should adhere to all other recommended
+infection-control  guidelines,  whether  or  not  they  are  individually  determined  to  have
+immunity  to  a  vaccine-preventable  disease.  In  2008,  the  ACIP  Immunization  of
+Health-Care Personnel Work Group (the Work Group) was formed as a subgroup of the
+ACIP
+ Adult
+ Immunization
+ Work
+ Group
+ to
+ update
+ the
+ previously
+ published
+recommendations  for  immunization  of  HCP.  The  Work  Group  comprised  professionals
+from  academic  medicine  (pediatrics,  family  medicine,  internal  medicine,  occupational
+and  environmental  medicine,  and  infectious  disease);  federal  and  state  public  health
+professionals; and liaisons from the Society for Healthcare Epidemiology of America and
+HICPAC.  The  Work  Group  met  monthly,  developed  an  outline  for  the  report,  worked
+closely  with  subject  matter  experts  at  CDC  (who  developed,  revised,  and  updated
+sections of the report), and provided subsequent critical review of the draft documents.
+The  approach  of  the  Work  Group  was  to  summarize  previously  published  ACIP
+recommendations and not to make new recommendations or policies; a comprehensive
+list of publications containing the various vaccine-specific recommendations is provided
+(Table 1). In February 2011, the updated report was presented to ACIP, which voted to
+approve  it.  The  recommendations  for  vaccination  of  HCP  are  presented  below  by
+disease  in  two  categories:  1)  those  diseases  for  which  routine  vaccination  or
+documentation of immunity is recommended for HCP because of risks to HCP in their
+work settings and, should HCP become infected, to the patients they serve and 2) those
+diseases  for  which  vaccination  of  HCP  might  be  indicated  in  certain  circumstances.
+Vaccines  recommended  in  the  first  category  are  hepatitis  B,  seasonal  influenza,
+measles, mumps, and rubella, pertussis, and varicella vaccines. Vaccines in the second
+category are meningococcal, typhoid, and polio vaccines. Except for influenza, all of the
+diseases  prevented  by  these  vaccines  are  notifiable  at  the  national  level  (13).  Main
+changes from the 1997 ACIP recommendations have been summarized (Box). On the
+basis of documented nosocomial transmission, HCP are considered to be at substantial
+risk  for  acquiring  or  transmitting  hepatitis  B,  influenza,  measles,  mumps,  rubella,
+pertussis, and varicella. Current recommendations for vaccination are provided below. 
+Epidemiology and Risk Factors Hepatitis B is an infection caused by the hepatitis B virus
+(HBV), which is transmitted through percutaneous (i.e., breaks in the skin) or mucosal
+(i.e.,  direct  contact  with  mucous  membranes)  exposure  to  infectious  blood  or  body
+fluids. The virus is highly infectious; for nonimmune persons, disease transmission from
+a  needlestick  exposure  is  up  to  100  times  more  likely  for  exposure  to  hepatitis  B  e
+antigen (HBeAg)--positive blood than to HIV-positive blood (14). HBV infection is a well
+recognized occupational risk for U.S. HCP and globally. The risk for HBV is associated
+with degree of contact with blood in the work place and with the hepatitis B e-antigen
+status of the source persons (15). The virus is also environmentally stable, remaining
+infectious  on  environmental  surfaces  for  at  least  7  days  (16).  In  2009  in  the  United
+States, 3,371 cases of acute HBV infection were reported nationally, and an estimated
+38,000  new  cases  of  HBV  infection  occurred  after  accounting  for  underreporting  and
+underdiagnosis  (17).  Of  4,519  persons  reported  with  acute  HBV  infection  in  2007,
+approximately  40%  were  hospitalized  and  1.5%  died  (18).  HBV  can  lead  to  chronic
+infection, which can result in cirrhosis of the liver, liver failure, liver cancer, and death.
+An estimated 800,000--1.4 million persons in the United States are living with chronic
+HBV  infection;  these  persons  serve  as  the  main  reservoir  for  continued  HBV
+transmission  (19).  Vaccines  to  prevent  hepatitis  B  became  available  in  the  United
+States  in  1981;  a  decade  later,  a  national  strategy  to  eliminate  HBV  infection  was
+implemented, and the routine vaccination of children was recommended (20). During
+1990--2009,  the  rate  of  new  HBV  infections  declined  approximately  84%,  from  8.5  to
+1.1 cases per 100,000 population (17); the decline was greatest (98%) among persons
+aged  <19  years,  for  whom  recommendations  for  routine  infant  and  adolescent
+vaccination have been applied. Although hepatitis B vaccine coverage is high in infants,
+children,  and  adolescents  (91.8%  in  infants  aged  19--35  months  and  91.6%  in
+adolescents  aged  13--17  years)  (21,22),  coverage  remains  lower  (41.8%  in  2009)  for
+certain adult populations, including those with behavioral risks for HBV infection (e.g.,
+men who have sex with men and persons who use injection drugs) (23). Hepatitis B in
+Health-Care Settings  During 1982, when hepatitis B vaccine was first recommended for
+HCP, an estimated 10,000 infections occurred among persons employed in a medical or
+dental field. By 2004, the number of HBV infections among HCP had decreased to an
+estimated  304  infections,  largely  resulting  from  the  implementation  of  routine
+preexposure vaccination and improved infection-control precautions (24--26). The risk
+for acquiring HBV infection from occupational exposures is dependent on the frequency
+of  percutaneous  and  mucosal  exposures  to  blood  or  body  fluids  (e.g.,  semen,  saliva,
+and  wound  exudates)  containing  HBV,  particularly  fluids  containing  HBeAg  (a  marker
+for  high  HBV  replication  and  viral  load)  (27--31).  The  risk  is  higher  during  the
+professional training period and can vary throughout a person's career (1). Depending
+on the tasks performed, health-care or public safety personnel might be at risk for HBV
+exposure; in addition, personnel providing care and assistance to persons in outpatient
+settings and those residing in long-term--care facilities (e.g., assisted living) might be at
+risk  for  acquiring  or  facilitating  transmission  of  HBV  infection  when  they  perform
+procedures  that  expose  them  to  blood  (e.g.,  assisted  blood-glucose  monitoring  and
+wound  care)  (32--34).  A  Federal  Standard  issued  in  December  1991  under  the
+Occupational  Safety  and  Health  Act  mandates  that  hepatitis  B  vaccine  be  made
+available  at  the  employer's  expense  to  all  health-care  personnel  who  are  exposed
+occupationally  to  blood  or  other  potentially  infectious  materials  (35).  The  Federal
+Standard  defines  occupational  exposure  as  reasonably  anticipated  skin,  eye,  mucous
+membrane,  or  parenteral  contact  with  blood  or  other  potentially  infectious  materials
+that  might  result  from  the  performance  of  an  employee's  duties  (35).  Occupational
+Safety  and  Health  Administration  (OSHA)  vaccination  practice  requirements  (e.g.,
+preexposure  and  postexposure  antibody  testing)  are  based  on  current  ACIP
+recommendations.  OSHA  regulations  might  have  accelerated  the  use  of  hepatitis  B
+vaccine  in  HCP  (36).  Data  from  a  national,  cross-sectional  survey  demonstrated  that
+during  2002--2003,  an  estimated  75%  of  HCP  had  received  the  3-dose  hepatitis  B
+vaccination  series  (37).  Since  2002,  rates  of  1-dose  and  3-dose  vaccination  coverage
+have  remained  stable.  Data  obtained  through  the  National  Health  Interview  Survey
+(NHIS) in 2009 demonstrated a ≥1-dose coverage rate of 75%--77% and a ≥3-dose rate
+of 67%--68% among HCP aged 18--49 years (23). Similarly, data obtained through the
+National  Immunization  Survey--Adult  (NIS-Adult)  in  2007  demonstrated  a  ≥3-dose
+coverage  of  62%  among  HCP  aged  18--64  years  (38).  The  Healthy  People  2020  goal
+(objective no. IID-15.3) of a hepatitis B vaccination coverage rate of 90% among HCP
+(39) has not been achieved. Vaccine Effectiveness, Duration of Immunity, and Vaccine
+Safety Vaccine Effectiveness The 3-dose vaccine series administered intramuscularly at
+0,  1,  and  6  months  produces  a  protective  antibody  response  in  approximately
+30%--55% of healthy adults aged ≤40 years after the first dose, 75% after the second
+dose,  and  >90%  after  the  third  dose  (40--42).  After  age  40  years,  <90%  of  persons
+vaccinated  with  3  doses  have  a  protective  antibody  response,  and  by  age  60  years,
+protective levels of antibody develop in approximately 75% of vaccinated persons (43).
+Smoking,  obesity,  genetic  factors,  and  immune  suppression  also  are  associated  with
+diminished immune response to hepatitis B vaccination (43--46). Duration of Immunity
+Protection  against  symptomatic  and  chronic  HBV  infection  has  been  documented  to
+persist  for  ≥22  years  in  vaccine  responders  (47).  Immunocompetent  persons  who
+achieve  hepatitis  B  surface  antibody  (anti-HBs)  concentrations  of  ≥10  mIU/mL  after
+preexposure  vaccination  have  protection  against  both  acute  disease  and  chronic
+infection.  Anti-HBs  levels  decline  over  time.  Regardless,  responders  continue  to  be
+protected, and the majority of responders will show an anamnestic response to vaccine
+challenge (47--51). Declines might be somewhat faster among persons vaccinated as
+infants  rather  than  as  older  children,  adolescents,  or  adults  and  among  those
+administered  recombinant  vaccine  instead  of  plasma  vaccine  (which  has  not  been
+commercially  available  in  the  United  States  since  the  late  1980s).  Although
+immunogenicity is lower among immunocompromised persons, those who achieve and
+maintain a protective antibody response before exposure to HBV have a high level of
+protection from infection (52). Among persons who do not respond to a primary 3-dose
+vaccine  series  (i.e.,  those  in  whom  anti-HBs  concentrations  of  ≥10  mIU/mL  were  not
+achieved), 25%--50% respond to an additional vaccine dose, and 44%--100% respond
+to  a  3-dose  revaccination  series  using  standard  or  high  dosage  vaccine  (43,53--58).
+Persons who  have measurable but low  (i.e.,  1--9 mIU/mL) levels of anti-HBs after the
+initial series have better response to revaccination than persons who have no anti-HBs
+(49,53,54).  Persons  who  do  not  have  protective  levels  of  anti-HBs  1--2  months  after
+revaccination
+ either
+ are
+ infected
+ with
+ HBV
+ or
+ can
+ be
+ considered
+ primary
+nonresponders;  for  the  latter  group,  genetic  factors  might  be  associated  with
+nonresponse  to  hepatitis  B  vaccination  (54,58,59).  ACIP  does  not  recommend  more
+than  two  vaccine  series  in  nonresponders  (52).  Vaccine  Safety   Hepatitis  B  vaccines
+have  been  demonstrated  to  be  safe  when  administered  to  infants,  children,
+adolescents,  and  adults  (52,60,61).  Although  rare  cases  of  arthritis  or  alopecia  have
+been associated temporally with hepatitis B vaccination, recent data do not support a
+causal relationship between hepatitis B vaccine and either arthritis or alopecia (61--63).
+During  1982--2004,  an  estimated  70  million  adolescents  and  adults  and  50  million
+infants and children in the United States received ≥1 dose of hepatitis B vaccine (52).
+The most frequently reported side effects in persons receiving hepatitis B vaccine are
+pain  at  the  injection  site  (3%--29%)  and  temperature  of  >99.9°F  (>37.7°C)  (1%--6%)
+(64--67).  However,  in  placebo-controlled  studies,  these  side  effects  were  reported  no
+more  frequently  among  persons  receiving  hepatitis  B  vaccine  than  among  persons
+receiving  placebo  (40,41,64--67).  Revaccination  is  not  associated  with  an  increase  in
+adverse events. Hepatitis B vaccination is contraindicated for persons with a history of
+hypersensitivity to yeast or any vaccine component (4,64--66). Persons with a history of
+serious  adverse  events  (e.g.,  anaphylaxis)  after  receipt  of  hepatitis  B  vaccine  should
+not  receive  additional  doses.  As  with  other  vaccines,  vaccination  of  persons  with
+moderate or severe acute illness, with or without fever, should be deferred until illness
+resolves  (4).  Vaccination  is  not  contraindicated  in  persons  with  a  history  of  multiple
+sclerosis,  Guillain-Barré  Syndrome,  autoimmune  disease  (e.g.,  systemic  lupus
+erythematosis and rheumatoid arthritis), or other chronic diseases. Pregnancy is not a
+contraindication to vaccination; limited data suggest that developing fetuses are not at
+risk  for  adverse  events  when  hepatitis  B  vaccine  is  administered  to  pregnant  women
+(4,68). Available vaccines contain noninfectious hepatitis B surface antigen (HBsAg) and
+do not pose any risk for infection to the fetus.  Two single-antigen hepatitis B vaccines,
+Recombivax  HB  (Merck  &  Co.,  Inc.,  Whitehouse  Station,  New  Jersey)  and  Engerix-B
+(GlaxoSmithKline Biologicals, Rixensart, Belgium) and one combination hepatitis A and
+hepatitis  B  vaccine,  Twinrix  (GlaxoSmithKline  Biologicals),  are  available  in  the  United
+States. Primary vaccination consists of ≥3 intramuscular doses of hepatitis B vaccine or
+of the combined hepatitis A and hepatitis B vaccine. The hepatitis vaccine series does
+not  need  to  be  restarted  if  the  second  or  third  dose  is  delayed.  Detailed  vaccination
+recommendations  are  available  in  previously  published  guidelines  (52).  Vaccine
+schedules
+ are
+ available
+ at
+http://www.cdc.gov/vaccines/recs/schedules/adult-schedule.htm#HCWs.
+ In
+ adults,
+hepatitis  B  vaccine  always  should  be  administered  into  the  deltoid  muscle.  Longer
+needles (up to 1.5 inches in length) might be required for obese adults (4). Preexposure
+ Unvaccinated and Incompletely Vaccinated HCP and Trainees: Pre- and Postvaccination
+Serologic  Testing  Postexposure   The  need  for  postexposure  prophylaxis  should  be
+evaluated
+ immediately
+ after
+ HCP
+ experience
+ any
+ percutaneous,
+ ocular,
+mucous-membrane or nonintact skin exposure to blood or body fluid in the workplace.
+Decisions to administer postexposure prophylaxis should be based on the HBsAg status
+of the source and the vaccination history and vaccine-response status of the exposed
+HCP  (Table  4)  (72).  Unvaccinated  and  Incompletely  Vaccinated  HCP  and  Trainees
+Vaccinated HCP and Trainees HCP and Trainees at Additional Risk  Other Considerations
+Epidemiology  and  Risk  Factors  Influenza  causes  an  estimated  average  of  >200,000
+hospitalizations  and  3,000--49,000  deaths  annually  in  the  United  States  (74--76).  The
+majority  of  influenza-related  severe  illnesses  and  deaths  occur  among  persons  with
+chronic medical conditions, infants and young children, seniors, and pregnant women
+(74--78). Reducing the risk for influenza among persons at higher risk for complications
+is  a  major  focus  of  influenza  prevention  strategies  (77).  Influenza  Transmission  in
+Health-Care Settings HCP are exposed to patients with influenza in the workplace and
+are  thus  at  risk  of  occupationally  acquired  influenza  and  of  transmitting  influenza  to
+patients and other HCP. In a cross-sectional survey of hospital house staff (physicians in
+training), 37% reported influenza-like illness during September--April, and 9% reported
+more than one respiratory illness. Length of illness varied (range: 1--10 days; mean: 7
+days), as did days of work missed (range: 0--10 days; mean: 0.7 days) (79). Infected
+HCP who continue to work while ill might transmit influenza to patients, many of whom
+are  at  increased  risk  for  severe  outcomes  from  influenza.  HCP  are  therefore
+recommended  for  routine  annual  influenza  vaccination  (77).  Few  randomized  trials  of
+the effect that influenza vaccination has on illness in HCP have been conducted. In one
+randomized trial of 427 HCP, influenza vaccination of HCP failed to decrease episodes of
+respiratory infection or duration of illness but was associated with a 28% decrease in
+absenteeism (from 1.4 days to 1.0 day) attributable to respiratory infections (80). No
+laboratory confirmation of influenza was obtained in this study. In another randomized
+trial  among  HCP,  vaccination  was  associated  with  a  significantly  lower  rate  of
+serological  evidence  of  influenza  infection,  with  a  vaccine  efficacy  rate  of  88%  for
+influenza A and 89% for influenza B (p<0.05) (81); however, no significant differences
+were  noted  in  days  of  febrile  respiratory  illness  or  absenteeism.  Influenza  can  cause
+outbreaks of severe respiratory illness among hospitalized persons and long-term-care
+residents  (82--90).  Influenza  outbreaks  in  hospitals  (86--88)  and  long-term--care
+facilities  (91)  have  been  associated  with  low  vaccination  rates  among  HCP.  One
+nonrandomized study demonstrated an increase in HCW vaccination rates and decrease
+in  nosocomially  acquired,  laboratory-confirmed  influenza  in  a  hospital  after  a  mobile
+cart--based  HCP  vaccination  program  was  introduced  (86).  Several  randomized
+controlled  studies  of  the  impact  of  HCP  vaccination  on  morbidity  and  mortality  in
+long-term  care  facilities  have  been  performed  (92--95).  These  studies  have
+demonstrated  substantial  decreases  in  all-cause  mortality  (92--95)  and  influenza-like
+illness  (92,94,95).  However,  studies  which  examine  and  demonstrate  efficacy  in
+preventing  more  specific  outcomes  (e.g.,  laboratory-confirmed  influenza  illness  and
+mortality)  are  lacking.  Recent  systematic  reviews  suggest  that  vaccination  of  HCP  in
+settings  in  which  patients  also  were  vaccinated  provided  significant  reductions  in
+deaths  among  elderly  patients  from  all  causes  and  deaths  from  pneumonia,  but  also
+note  that  additional  randomized  controlled  trials  are  warranted  (96,97),  as  are
+examination  of  more  specific  outcomes.  Preventing  influenza  among  HCP  who  might
+serve  as  sources  of  influenza  virus  transmission  provides  additional  protection  to
+patients at risk for influenza complications. Vaccination of HCP can specifically benefit
+patients  who  cannot  receive  vaccination  (e.g.,  infants  aged  <6  months  or  those  with
+severe allergic reactions to prior influenza vaccination), patients who respond poorly to
+vaccination  (e.g.,  persons  aged  ≥85  years  and  immune-compromised  persons),  and
+persons  for  whom  antiviral  treatment  is  not  available  (e.g.,  persons  with  medical
+contraindications).  Although  annual  vaccination  has  long  been  recommended  for  HCP
+and  is  a  high  priority  for  reducing  morbidity  associated  with  influenza  in  health-care
+settings  (98--100),  national  survey  data  have  demonstrated  that  the  vaccination
+coverage level during the 2008--09 season was 52.9% (101). Considerations Regarding
+Influenza Vaccination of HCP Barriers to HCP aceptance of influenza vaccination have
+included fear of vaccine side effects (particularly influenza-like symptoms), insufficient
+time  or  inconvenience,  perceived  ineffectiveness  of  the  vaccine,  perceived  low
+likelihood  of  contracting  influenza,  avoidance  of  medications,  and  fear  of  needles
+(79,102--109).  Factors  demonstrated  to  increase  vaccine  acceptance  include  a  desire
+for  self-protection,  previous  receipt  of  influenza  vaccine,  a  desire  to  protect  patients,
+and  perceived  effectiveness  of  vaccine  (79,105,106,109--112).  Strategies  that  have
+demonstrated  improvement  in  HCP  vaccination  rates  have  included  campaigns  to
+emphasize the benefits of HCP vaccination for staff and patients, vaccination of senior
+medical  staff  or  opinion  leaders,  removing  administrative  barriers  (e.g.,  costs),
+providing  vaccine  in  locations  and  at  times  easily  accessible  by  HCP,  and  monitoring
+and reporting HCP influenza vaccination rates (99,113--120). Intranasally administered
+live  attenuated  influenza  vaccine  (LAIV)  is  an  option  for  healthy,  nonpregnant  adults
+aged <50 years who dislike needles. The practice of obtaining signed declinations from
+HCP offered influenza vaccination has been adopted by some institutions but has not
+yet  been  demonstrated  to  exceed  coverage  rates  of  >70%--80%  (99,115,121--123).
+Institutions  that  require  declination  statements  from  HCP  who  refuse  influenza
+vaccination should educate and counsel these HCP about benefits of the vaccine. Each
+health-care facility should develop a comprehensive influenza vaccination strategy that
+includes targeted education about the disease, including disease risk among HCP and
+patients,  and  about  the  vaccine.  In  addition,  the  program  should  establish  easily
+accessible  vaccination  sites  and  inform  HCP  about  their  locations  and  schedule.
+Facilities  that  employ  HCP  should  provide  influenza  vaccine  at  no  cost  to  personnel
+(124).  The  most  effective  combination  of  approaches  for  achieving  high  influenza
+vaccination coverage among HCP likely varies by institution. Hospitals and health-care
+organizations  in  the  United  States  traditionally  have  employed  an  immunization
+strategy  that  includes  one  or  more  of  the  following  components:  education  about
+influenza,  easy  access  to  vaccine,  incentives  to  encourage  immunization,  organized
+campaigns,  institution  of  declination  policies,  and  legislative  and  regulatory  efforts
+(e.g.,  vaccination  requirements)  (99,  115,  121--126).  Beginning  January  1,  2007,  the
+Joint  Commission  on  Accreditation  of  Health-Care  Organizations  required  accredited
+organizations to offer influenza vaccinations to staff, including volunteers and licensed
+independent practitioners and to report coverage levels among HCP (127). Standards
+are available for measuring vaccination coverage among HCP as a measure of program
+performance within a health-care setting (128). Beginning January 2013, the Centers for
+Medicaid Services will require acute care hospitals to report HCP influenza vaccine as
+part of its hospital inpatient quality reporting program.* Vaccine Effectiveness, Duration
+of Immunity, and Vaccine Safety Effectiveness of influenza vaccines varies from year to
+year and depends on the age and health status of the person getting the vaccine and
+the  similarity  or  "match"  between  the  viruses  or  virus  in  the  vaccine  and  those  in
+circulation. Vaccine strains are selected for inclusion in the influenza vaccine every year
+based on international surveillance and scientists' estimations about which types and
+strains  of  viruses  will  circulate  in  a  given  year.  Annual  vaccination  is  recommended
+because the predominant circulating influenza viruses typically change from season to
+season  and,  because  immunity  declines  over  time  postvaccination  (77).  In
+placebo-controlled studies among adults, the most frequent side effect of vaccination
+was  soreness  at  the  vaccination  site  (affecting  10%--64%  of  patients)  that  lasted  <2
+days (129,130). These injection-site reactions typically were mild and rarely interfered
+with the recipient's ability to conduct usual daily activities. The main contraindication to
+influenza  vaccination  is  a  history  of  anaphylactic  hypersensitivity  to  egg  or  other
+components  of  the  vaccine.  A  history  of  Guillain-Barré  Syndrome  within  6  weeks
+following a previous dose of influenza vaccine is considered to be a precaution for use
+of influenza vaccines (77). Vaccination  Annual influenza vaccination is recommended
+for  all  persons  aged  ≥6  months  who  have  no  medical  contraindication;  therefore,
+vaccination  of  all  HCP  who  have  no  contraindications  is  recommended.  The  influenza
+vaccine is evaluated annually with one or more vaccine strains updated almost every
+year. In addition, antibody titers decline during the year after vaccination. Thus, annual
+vaccination with the current season's formulation is recommended. Annual vaccination
+is  appropriate  and  safe  to  begin  as  early  in  the  season  as  vaccine  is  available.  HCP
+should  be  among  the  groups  considered  for  prioritized  receipt  of  influenza  vaccines
+when vaccine supply is limited. Two types of influenza vaccines are available. LAIV is
+administered intranasally and is licensed for use in healthy nonpregnant persons aged
+2--49 years. The trivalent inactivated vaccine (TIV) is administered as an intramuscular
+injection and can be given to any person aged ≥6 months. Both vaccine types contain
+vaccine  virus  strains  that  are  selected  to  stimulate  a  protective  immune  response
+against the wild-type viruses that are thought to be most likely in circulation during the
+upcoming  season.  Use  of  LAIV  for  HCP  who  care  for  patients  housed  in  protective
+inpatient  environments  has  been  a  theoretic  concern,  but  transmission  of  LAIV  in
+health-care settings has not been reported. LAIV can be used for HCP who work in any
+setting, except those who care for severely immunocompromised hospitalized persons
+who  require  care  in  a  protective  environment.  HCP  who  themselves  have  a  condition
+that confers high risk for influenza complications, who are pregnant, or who are aged
+≥50  years  should  not  receive  LAIV  and  should  be  administered  TIV  instead.  An
+inactivated trivalent vaccine containing 60 mcg of hemagglutinin antigen per influenza
+vaccine  virus  strain  (Fluzone  High-Dose  [sanofi  pasteur])  is  an  alternative  inactivated
+vaccine for persons aged ≥65 years. Persons aged ≥65 years may be administered any
+of  the  standard-dose  TIV  preparations  or  Fluzone  High-Dose  (77).  The  majority  of  TIV
+preparations are administered intramuscularly. An intradermally administered TIV was
+licensed in May 2011 and is an alternative to other TIV preparations for persons aged
+18--64 years (131). Use of Antiviral Drugs for Treating Exposed Persons and Controlling
+Outbreaks Use of antiviral drugs for chemoprophylaxis or treatment of influenza is an
+adjunct  to  (but  not  a  substitute  for)  vaccination.  Oseltamivir  or  zanamivir  are
+recommended currently for chemoprophylaxis or treatment of influenza (132,133). TIV
+can  be  administered  to  exposed,  unvaccinated  HCP  at  the  same  time  as
+chemoprophylaxis,  but  LAIV  should  be  avoided  because  the  antiviral  medication  will
+prevent  viral  replication  needed  to  stimulate  a  vaccine  response  (77).  Antivirals  are
+used often among patients during outbreaks in closed settings such as long-term--care
+facilities but also can be administered to unvaccinated HCP during outbreaks, when an
+exposure to a person with influenza occurs, or after exposure when vaccination is not
+thought  to  be  protective  against  the  strain  to  which  a  vaccinated  HCP  was  exposed.
+Chemoprophylaxis  consists  of  1  dose  (of  either  antiviral  drug)  daily  for  10  days,  and
+treatment consists of 1 dose twice daily for 5 days. In many instances of HCP exposure,
+watchful  waiting  and  early  initiation  of  treatment  if  symptoms  appear  is  preferred
+rather than use of antiviral chemoprophylaxis immediately after exposure. The intensity
+and duration of the exposure and the underlying health status of the exposed worker
+are important factors in clinical judgments about whether to provide chemoprophylaxis.
+If chemoprophylaxis is used, the provider should base choice of the agent on whether
+the circulating strain or strains of influenza have demonstrated resistance to particular
+antivirals.  Program  Evaluation  Epidemiology  and  Risk  Factors   Measles  is  a  highly
+contagious rash illness that is transmitted by respiratory droplets and airborne spread.
+Severe complications, which might result in death, include pneumonia and encephalitis.
+Before  the  national  measles  vaccination  program  was  implemented  in  1963,  almost
+every person acquired measles before adulthood; an estimated 3--4 million persons in
+the  United  States  acquired  measles  each  year  (134).  Approximately  500,000  persons
+were reported to have had measles annually, of whom 500 persons died, 48,000 were
+hospitalized,  and  another  1,000  had  permanent  brain  damage  from  measles
+encephalitis  (134).  Through  a  successful  2-dose  measles  vaccination  program  (i.e.,  a
+first dose at age 12--15 months and a second dose between ages 4--6 years) (135) and
+better  measles  control  throughout  the  region  of  the  Americas  (136),  endemic
+transmission  of  measles  was  interrupted  in  the  United  States,  and  measles  was
+declared  eliminated  from  the  country  in  2000  (137).  However,  measles  remains
+widespread  in  the  majority  of  countries  outside  the  Western  Hemisphere,  with  an
+estimated  20  million  measles  cases  occurring  worldwide  (138)  and  approximately
+164,000  related  deaths  (139).  Thus,  the  United  States  continues  to  experience
+international  importations  that  might  lead  to  transmission  among  U.S.  residents  and
+limited
+ outbreaks,
+ especially
+ in
+ unvaccinated
+ populations
+ (140--143).
+ During
+2001--2008, a total of 557 confirmed measles cases were reported in the United States
+from 37 states and the District of Columbia (annual median: 56; range: 37 in 2004 to
+140  in  2008),  representing  an  annual  incidence  of  less  than  one  case  per  million
+population  (144).  Of  the  557  reported  case-patients,  126  (23%)  were  hospitalized
+(annual median: 16; range: 5--29); of these, at least five case-patients were admitted to
+intensive  care.  Two  deaths  were  reported,  both  in  2003  (144).  Of  the  557  reported
+case-patients during 2001--2008, a total of 223 (40%) were adults, including 156 (28%)
+aged 20--39 years and 67 (12%) aged ≥40 years. Of the 438 measles cases among U.S.
+residents, 285 (65%) cases were considered preventable (i.e., occurred among persons
+who  were  eligible  for  vaccination  but  were  unvaccinated)  (144).  The  remaining  153
+(35%) cases were considered nonpreventable. Cases were defined as nonpreventable if
+they  occurred  among  U.S.  resident  case-patients  who  had  received  ≥1  dose  of
+measles-containing  vaccine,  if  patients  were  vaccinated  as  recommended  if  traveling
+internationally, or if they were not vaccinated but had other evidence of immunity (i.e.,
+were  born  before  1957  and  therefore  presumed  immune  from  natural  disease  in
+childhood,
+ had
+ laboratory
+ evidence
+ of
+ immunity,
+ or
+ had
+ documentation
+ of
+physician-diagnosed  disease)  or  for  whom  vaccination  is  not  recommended.  During
+2001--2008, a total of 12.5% (one of eight) of measles cases reported to CDC among
+HCP occurred in persons born before 1957; the other seven cases occurred among HCP
+born  after  1957.  Measles-mumps-rubella  (MMR)  vaccination  policies  have  been
+enforced  with  variable  success  in  United  States  health-care  facilities  over  the  past
+decade.  Even  though  medical  settings  were  a  primary  site  of  measles  transmission
+during  the  1989--1991  measles  resurgence  (145,146),  as  of  September  2011,  only
+three  states  (New  York,  Oklahoma,  and  Rhode  Island)  had  laws  mandating  that  all
+hospital  personnel  have  proof  of  measles  immunity  and  did  not  allow  for  religious  or
+philosophic exemptions (147). Vaccine coverage in the United States is high; in 2010, a
+total  of  91.5%  of  children  aged  19--35  months  had  received  1  dose  of  MMR  vaccine
+(21);  during  2009--2010,  a  total  of  94.8%  of  kindergartners  had  evidence  of  2  doses
+(148);  and  in  2010,  a  total  of  90.5%  of  adolescents  had  evidence  of  2  doses  (22).
+Nationally representative data on MMR vaccine coverage of U.S. HCP are not available.
+Health-care--associated cases of measles are of public health concern. Because of the
+severity  of  measles,  infected  persons  are  likely  to  seek  medical  care  in  primary
+health-care  facilities,  emergency  departments,  or  hospitals  (141,149,150).  Medical
+settings  played  a  prominent  role  in  perpetuating  outbreaks  of  measles  transmission
+during  the  1989--1991  measles  resurgence  (145,146)  and  were  a  primary  site  of
+measles  transmission  in  a  health-care--associated  outbreak  in  2008  (149).  During
+2001--2008, a total of 27 reported measles cases were transmitted in U.S. health-care
+facilities, accounting for 5% of all reported U.S. measles cases. Because of the greater
+opportunity  for  exposure,  HCP  are  at  higher  risk  than  the  general  population  for
+becoming  infected  with  measles.  A  study  conducted  in  1996  in  medical  facilities  in  a
+county  in  Washington  state  indicated  that  HCP  were  19  times  more  likely  to  develop
+measles than other adults (151). During 2001--2008, in the 23 health-care settings in
+which measles transmission was reported, eight cases occurred among HCP, six (75%)
+of  whom  were  unvaccinated  or  had  unknown  vaccination  status.  One  health-care
+provider  was  hospitalized  in  an  intensive  care  unit  for  6  days  from  severe  measles
+complications  (142).  During  a  health-care--associated  measles  outbreak  in  Arizona  in
+2008 with 14 cases, six cases were acquired in hospitals, and one was acquired in an
+outpatient  setting.  One  unvaccinated  health-care  worker  developed  measles  and
+infected  a  hospital  emergency  room  patient  who  required  intensive  care  following
+hospital  admission  for  measles  (149).  High  costs  also  are  involved  in  evaluating  and
+containing  exposures  and  outbreaks  in  health-care  facilities,  as  well  as  a  substantial
+disruption of regular hospital routines when control measures are instituted, especially
+if hospitals do not have readily available data on the measles immunity status of their
+staff  and  others  included  in  the  facility  vaccination  program.  In  2005  in  Indiana,  one
+hospital  spent  more  than  $113,000  responding  to  a  measles  outbreak  (142),  and  in
+2008 in Arizona, two hospitals spent $799,136 responding to and containing cases in
+their facilities (149). The Arizona outbreak response required rapid review of measles
+documentation  of  14,844  HCP  at  seven  hospitals  and  emergency  vaccination  of
+approximately  4,500  HCP  who  lacked  documentation  of  measles  immunity.  Serologic
+testing at two hospitals among 1,583 HCP without documented history of vaccination or
+without documented laboratory evidence of measles immunity revealed that 138 (9%)
+of these persons lacked measles IgG antibodies (149). Vaccine Effectiveness, Duration
+of  Immunity  and  Seroprevalence  Studies,  and  Vaccine  Safety  Vaccine  Effectiveness
+MMR  vaccine  is  highly  effective  in  preventing  measles  with  a  1-dose  vaccine
+effectiveness  of  95%  when  administered  on  or  after  age  12  months  and  a  2-dose
+vaccine effectiveness of 99% (135). Duration of Immunity and Seroprevalence Studies
+Two  doses  of  live  measles  vaccine  are  considered  to  provide  long-lasting  immunity
+(135).  Although  antibody  levels  decline  following  vaccination,  a  study  examining
+neutralizing antibody levels up to 10 years following the second dose of MMR vaccine in
+children indicates that antibodies remain above the level considered protective (152).
+Studies  among  HCP  in  the  United  States  during  the  measles  resurgence  in  the  late
+1980s through early 1990s demonstrated that 4%--10% of all HCP lacked measles IgG
+antibodies  (153--156).  During  the  2008  Arizona  outbreak,  of  the  1,077  health-care
+providers born during or after 1957 without documented measles immunity, 121 (11%)
+were seronegative (149). In a study of measles seroprevalence among 469 newly hired
+HCP at a hospital in North Carolina who were born before 1957, and thus considered
+immune  by  age,  who  could  not  provide  written  evidence  of  immunity  to  measles,
+serologic testing indicated that six (1.3%) lacked measles IgG antibodies (157). Other
+serologic studies of hospital-based HCP indicate that 2%--9% of those born before 1957
+lacked antibodies to measles (156,158--160). A survey conducted during 1999-- 2004
+found  a  seroprevalence  of  measles  antibodies  of  95.9%  among  persons  in  the  U.S.
+population  aged  6--49  years  (161).  The  survey  indicated  that  the  lowest  prevalence,
+92.4%, was among adults born during 1967--1976 (161). A 1999 study of U.S. residents
+aged ≥20 years determined that 93% had antibodies to measles virus (162). Vaccine
+Safety   Measles  vaccine  is  administered  in  combination  with  the  mumps  and  rubella
+components  as  the  MMR  vaccine  in  the  United  States.  Monovalent  measles  vaccine
+rarely  has  been  used  in  the  United  States  in  the  past  2  decades  and  is  no  longer
+available.  After  decades  of  use,  evidence  demonstrates  that  MMR  vaccine  has  an
+excellent  safety  profile  (134).  The  majority  of  documented  adverse  events  occur  in
+children. In rare circumstances, MMR vaccination of adults has been associated with the
+following adverse events: anaphylaxis (approximately 1.0--3.5 occurrences per million
+doses administered) (134), thrombocytopenia from the measles component or rubella
+component  (a  rate  of  three  to  four  cases  for  every  100,000  doses)  (134),  and  acute
+arthritis from the rubella component (arthralgia develops among approximately 25% of
+rubella-susceptible  postpubertal  females  after  MMR  vaccination,  and  approximately
+10% have acute arthritis-like signs and symptoms) (135). When joint symptoms occur,
+they  generally  persist  for  1  day--3  weeks  and  rarely  recur  (135).  Chronic  joint
+symptoms attributable to the rubella component of the MMR vaccine are reported very
+rarely,  if  they  occur  at  all.  Evidence  does  not  support  an  association  between  MMR
+vaccination  and  any  of  the  following:  hearing  loss,  retinopathy,  optic  neuritis,
+Guillain-Barré Syndrome, type 1 diabetes, Crohn's disease, or autism (135,163--169). A
+woman can excrete the rubella vaccine virus in breast milk and transmit the virus to
+her  infant,  but  the  infection  remains  asymptomatic  (135).  Otherwise,  persons  who
+receive  MMR  or  its  component  vaccines  do  not  transmit  measles,  rubella,  or  mumps
+vaccine  viruses  (135).  No  transmission  of  MMR  vaccine  virus  in  a  health-care  setting
+has been documented. Vaccination All persons who work in health-care facilities should
+have  presumptive  evidence  of  immunity  to  measles.  This  information  should  be
+documented and readily available at the work location. Recently vaccinated HCP do not
+require  any  restriction  in  their  work  activities.  Presumptive  evidence  of  immunity  to
+measles  for  persons  who  work  in  health-care  facilities  includes  any  of  the  following:  
+Prevaccination  Testing  Prevaccination  antibody  screening  before  MMR  vaccination  for
+an  employee  who  does  not  have  adequate  presumptive  evidence  of  immunity  is  not
+necessary unless the medical facility considers it cost effective (134,170--172) although
+no  recent  studies  have  been  conducted.  For  HCP  who  have  2  documented  doses  of
+MMR vaccine or other acceptable evidence of immunity to measles, serologic testing for
+immunity is not recommended. In the event that a HCP who has 2 documented doses of
+MMR  vaccine  is  tested  serologically  and  determined  to  have  negative  or  equivocal
+measles titer results, it is not recommended that the person receive an additional dose
+of MMR vaccine. Such persons should be considered to have presumptive evidence of
+measles immunity. Documented age-appropriate vaccination supersedes the results of
+subsequent  serologic  testing.  Because  rapid  vaccination  is  necessary  to  halt  disease
+transmission, during outbreaks of measles, serologic screening before vaccination is not
+recommended. Use of Vaccine and Immune Globulin for Treating Exposed Persons and
+Controlling
+ Outbreaks
+ Following
+ airborne
+ infection--control
+ precautions
+ and
+implementing other infection-control measures are important to control the spread of
+measles but might fail to prevent all nosocomial transmission, because transmission to
+other  susceptible  persons  might  occur  before  illness  is  recognized.  Persons  infected
+with measles are infectious 4 days before rash onset through 4 days after rash onset.
+When a person who is suspected of having measles visits a health-care facility, airborne
+infection--control  precautions  should  be  followed  stringently.  The  patient  should  be
+asked  immediately  to  wear  a  medical  mask  and  should  be  placed  in  an
+airborne-infection  isolation  room  (i.e.,  a  negative  air-pressure  room)  as  soon  as
+possible. If an airborne-infection isolation room is not available, the patient should be
+placed in a private room with the door closed and be asked to wear a mask. If possible,
+only  staff  with  presumptive  evidence  of  immunity  should  enter  the  room  of  a  person
+with suspect or confirmed measles. Regardless of presumptive immunity status, all staff
+entering  the  room  should  use  respiratory  protection  consistent  with  airborne
+infection--control precautions (i.e., use of an N95 respirator or a respirator with similar
+effectiveness  in  preventing  airborne  transmission)  (3,150).  Because  of  the  possibility,
+albeit low (~1%), of measles vaccine failure in HCP exposed to infected patients (173),
+all HCP should observe airborne precautions in caring for patients with measles. HCP in
+whom measles occurs should be excluded from work until ≥4 days following rash onset.
+Contacts  with  measles-compatible  symptoms  should  be  isolated,  and  appropriate
+infection-control  measures  (e.g.,  rapid  vaccination  of  susceptible  contacts)  should  be
+implemented  to  prevent  further  spread  (174).  If  measles  exposures  occur  in  a
+health-care  facility,  all  contacts  should  be  evaluated  immediately  for  presumptive
+evidence of measles immunity. HCP without evidence of immunity should be offered the
+first dose of MMR vaccine and excluded from work from day 5--21 following exposure
+(135). HCP without evidence of immunity who are not vaccinated after exposure should
+be  removed  from  all  patient  contact  and  excluded  from  the  facility  from  day  5  after
+their first exposure through day 21 after the last exposure, even if they have received
+postexposure  intramuscular  immune  globulin  of  0.25  mL/kg  (40  mg  IgG/kg)  (135).
+Those with documentation of 1 vaccine dose may remain at work and should receive
+the  second  dose.  Case-patient  contacts  who  do  not  have  presumptive  evidence  of
+measles immunity should be vaccinated, offered intramuscular immune globulin of 0.25
+mL/kg  (40  mg  IgG/kg),  which  is  the  standard  dosage  for  nonimmunocompromised
+persons  (135),  or  quarantined  until  21  days  after  their  exposure  to  the  case-patient.
+Contacts  with  measles-compatible  symptoms  should  be  isolated,  and  appropriate
+infection-control measures should be implemented to prevent further spread. If immune
+globulin is administered to an exposed person, observations should continue for signs
+and symptoms of measles for 28 days after exposure because immune globulin might
+prolong the incubation period. Available data suggest that live virus measles vaccine, if
+administered  within  72  hours  of  measles  exposure,  will  prevent,  or  modify  disease
+(134).  Even  if  it  is  too  late  to  provide  effective  postexposure  prophylaxis  by
+administering MMR, the vaccine can provide protection against future exposure to all
+three  infections.  Identifying  persons  who  lack  evidence  of  measles  immunity  during
+contact  investigations  provides  a  good  opportunity  to  offer  MMR  vaccine  to  protect
+against  measles  as  well  as  mumps  and  rubella,  not  only  for  HCP  who  are  part  of  an
+organization's  vaccination  program,  but  also  for  patients  and  visitors.  If  an  exposed
+person is already incubating measles, MMR vaccination will not exacerbate symptoms.
+In these circumstances, persons should be advised that a measles-like illness occurring
+shortly  after  vaccination  could  be  attributable  either  to  natural  infection  or  to  the
+vaccine  strain.  In  such  circumstances,  specimens  should  be  submitted  for  viral  strain
+identification.  Epidemiology  and  Risk  Factors  Mumps  is  an  acute  viral  infection
+characterized by fever and inflammation of the salivary glands (usually parotitis) (175).
+The  spectrum  of  illness  ranges  from  subclinical  infection  (20%--40%)  to  nonspecific
+respiratory  illness,  sialadenitis  including  classic  parotitis,  deafness,  orchitis,  and
+meningoencephalitis; severity increases with age (175). In the prevaccine era, mumps
+was a common childhood illness, with approximately 186,000 mumps cases reported in
+the United States per year (176). After the introduction of the Jeryl Lynn strain mumps
+vaccine  in  1967  and  the  implementation  of  the  1-dose  mumps  vaccine  policy  for
+children  in  1977  (177),  reports  of  mumps  cases  in  the  United  States  declined  99%
+(178).  During  1986--1987,  an  increase  in  reported  mumps  cases  occurred,  primarily
+affecting  unvaccinated  adolescents  and  young  adults.  In  the  late  1980s,  sporadic
+outbreaks  continued  to  occur  that  affected  both  unvaccinated  and  1-dose  vaccinated
+adolescents  and  young  adults  (178).  In  1989,  a  second  dose  of  MMR  vaccine  was
+recommended nationwide for better measles control among school-aged children (179).
+Historically low rates of mumps followed with only several hundred reported cases per
+year  in  the  United  States  during  2000--2005.  In  1998,  a  national  goal  to  eliminate
+mumps was set for 2010 (180). However, in 2006, a total of 6,584 mumps cases were
+reported  in  the  United  States,  the  largest  U.S.  mumps  outbreak  in  nearly  20  years
+(181--183). Whereas overall national mumps incidence was 2.2 per 100,000 population,
+eight states in the Midwest were the most affected, with 2.5--66.1 cases per 100,000
+population  (183).  The  highest  incidence  (31.1  cases  per  100,000  population)  was
+among persons aged 18--24 years (e.g., college-aged students), the majority of whom
+had  received  2  doses  of  mumps-containing  vaccine.  Of  the  4,017  case-patients  for
+whom  age  and  vaccination  status  were  known,  1,786  (44%)  were  aged  ≥25  years
+(incidence:  7.2  cases  per  100,000  persons);  of  these  1,786  patients,  351  (20%)
+received at least 2 doses, 444 (25%) received 1 dose, 336 (19%) were unvaccinated,
+and  655  (37%)  had  unknown  vaccination  status.  Since  the  2006  resurgence,  two
+additional  large  U.S.  mumps  outbreaks  have  occurred,  both  during  2009--2010,  one
+among  members  of  a  religious  community  with  cases  occurring  throughout  the
+northeastern United States (184) and the other in Guam (185); both outbreaks primarily
+affected children and adolescents in crowded environments who had received 2 doses
+of vaccine. Vaccine coverage in the United States is high; in 2010, approximately 91.5%
+of  children  aged  19--35  months  had  received  1  dose  of  MMR  vaccine  (21);  during
+2009--2010, a total of 94.8% of kindergartners had evidence of 2 doses (148). In 2010,
+a total of 90.5% of adolescents had evidence of 2 doses (22). Nationally representative
+data on MMR vaccine coverage of U.S. HCP are not available. Mumps Transmission and
+the  Costs  of  Mitigating  Mumps  Exposures  in  Health-care  Settings  Although
+health-care--associated transmission of mumps is infrequent, it might be underreported
+because  of  the  high  percentage  (~20%--40%)  of  infected  persons  who  might  be
+asymptomatic (186--189). In a survey of 9,299 adults in different professions conducted
+in 1968, before vaccine was used routinely, the rate of mumps acquisition was highest
+among dentists and HCP, with rates of 18% among dentists and 15% among physicians
+(37%  for  pediatricians),  compared  with  9%  among  primary  and  secondary  school
+teachers and 2% among university staff members (190). In the postvaccine era, mumps
+transmission  also  has  been  documented  in  medical  settings  (191--193).  During  a
+Tennessee  mumps  outbreak  during  1986--1987,  a  total  of  17  (12%)  of  146  hospitals
+and  three  (50%)  of  six  long-term--care  facilities  reported  one  or  more  practices  that
+could contribute to the spread of mumps, including not isolating patients with mumps,
+assigning  susceptible  staff  to  care  for  patients  with  mumps,  and  not  immunizing
+susceptible  employees.  Health-care--associated  transmission  resulted  in  six  cases  of
+mumps  infections  among  health-care  providers  and  nine  cases  of  mumps  infections
+among  patients  (191).  In  Utah  in  1994,  two  health-care  providers  in  a  hospital
+developed  mumps  after  they  had  contact  with  an  infected  patient  (192).  During  the
+2006  outbreak,  one  health-care  facility  in  Chicago  experienced  ongoing  mumps
+transmission  lasting  4  weeks  (193).  During  the  2006  multistate  U.S.  outbreak,  144
+(8.5%)  of  1,705  adult  case-patients  in  Iowa  for  whom  occupation  was  known  were
+health-care  providers  (Iowa  Department  of  Public  Health,  unpublished  data,  2006).
+Whether transmission occurred from patients, coworkers, or persons in the community
+is unknown. During the 2009--2010 outbreak in the northeastern region of the United
+States, seven (0.2%) of the 3,400 case-patients were health-care providers, six of whom
+likely were infected by patients because they had no other known exposure. Exposures
+to mumps in health-care settings also can result in added economic costs because of
+furlough or reassignment of staff members from patient-care duties or closure of wards
+(194). In 2006, a Kansas hospital spent $98,682 containing a mumps outbreak (195).
+During a mumps outbreak in Chicago in 2006, one health-care facility spent $262,788
+controlling  the  outbreak  (193).  Vaccine  Effectiveness,  Duration  of  Immunity  and
+Seroprevalence Studies, and Vaccine Safety Vaccine Effectiveness MMR vaccine has a
+1-dose  vaccine  effectiveness  in  preventing  mumps  of  80%--85%  (range:  75%--91%)
+(175,196--199) and a 2-dose vaccine effectiveness of 79%--95% (199--202). In a study
+conducted on two Iowa college campuses during the 2006 mumps outbreak among a
+population  that  was  primarily  vaccinated  with  2  doses,  2-dose  vaccine  effectiveness
+ranged  from  79%  to  88%  (202).  Duration  of  Immunity  and  Seroprevalence  Studies
+Mumps antibody levels wane over time following the first or second dose of vaccination
+(203,204),  but  the  correlates  of  immunity  to  mumps  are  poorly  understood  and  the
+significance of these waning antibody levels is unclear. A study on a university campus
+in  Nebraska  in  2006  indicated  lower  levels  of  mumps  neutralizing  antibodies  among
+students who had been vaccinated with a second MMR dose >15 years previously than
+among  those  who  had  been  vaccinated  1--5  years  previously,  but  the  difference  was
+not statistically significant (p>0.05) (205). In a 2006 study on a university campus in
+Kansas, students with mumps were more likely to have received a second dose of MMR
+vaccine  ≥10  years  previously  than  were  their  roommates  without  mumps  (206).
+However,  another  2006  study  from  an  Iowa  college  campus  identified  no  such
+association  (202).  During  1999--2004,  national  seroprevalence  for  mumps  antibodies
+for persons aged 6--49 years was 90% (95% confidence interval [CI]: 88.8--91.1) (207).
+In the Nebraska study, 414 (94%) of the 440 participants were seropositive for mumps
+antibodies (205). A study in Kansas in 2006 indicated that 13% of hospital employees
+lacked  antibodies  to  the  mumps  virus  (195).  In  a  recent  study  on  mumps
+seroprevalence  among  381  newly  hired  health-care  personnel  at  a  hospital  in  North
+Carolina  who  were  born  before  1957  and  thus  considered  immune  by  age  and  who
+could not provide written evidence of immunity to mumps, serologic testing indicated
+that 14 (3.7%) lacked IgG antibodies to mumps (157). Vaccine Safety Mumps vaccine is
+administered  in  combination  with  the  measles  and  rubella  components  as  the  MMR
+vaccine in the United States. Monovalent mumps vaccine has rarely been used in the
+United States in the past 2 decades and is no longer available. After decades of use,
+evidence  demonstrates  that  MMR  vaccine  has  an  excellent  safety  profile.  The  most
+common adverse reactions to the mumps component of the MMR vaccine are parotitis
+10--14  days  after  vaccination  and  low-grade  fever  (175).  On  the  basis  of  biologic
+plausibility, orchitis, arthritis, or sensorineural deafness might rarely follow vaccination
+(175).  The  majority  of  documented  adverse  events  occur  in  children.  In  rare
+circumstances,  MMR  vaccination  of  adults  has  been  associated  with  anaphylaxis
+(approximately
+ 1.0--3.5
+ occurrences
+ per
+ million
+ doses
+ administered)
+ (134),
+thrombocytopenia  from  the  measles  component  or  rubella  component  (rate:  three  to
+four  cases  for  every  100,000  doses)  (134),  and  acute  arthritis  from  the  rubella
+component  (arthralgia  develops  among  approximately  25%  of  rubella-susceptible
+postpubertal  females  after  MMR  vaccination,  and  approximately  10%  have  acute
+arthritis-like  signs  and  symptoms)  (135).  When  joint  symptoms  occur,  they  generally
+persist for 1 day--3 weeks and rarely recur (135). Chronic joint symptoms attributable
+to the rubella component of the MMR vaccine are reported rarely, if they occur at all.
+Evidence  does  not  support  a  link  between  MMR  vaccination  and  hearing  loss,
+retinopathy, optic neuritis, Guillain-Barré Syndrome, type 1 diabetes, Crohn's disease,
+or autism (135,163--169). A woman can excrete the rubella vaccine virus in breast milk
+and  transmit  the  virus  to  her  infant,  but  the  infection  remains  asymptomatic  (135).
+Otherwise,  persons  who  receive  MMR  or  its  component  vaccines  do  not  transmit
+measles,  rubella,  or  mumps  vaccine  viruses  (135).  No  transmission  of  MMR  vaccine
+virus in a health-care setting has been documented. Vaccination All persons who work
+in health-care facilities should have presumptive evidence of immunity to mumps. This
+information should be documented and readily available at the work location. Recently
+vaccinated  HCP  do  not  require  any  restriction  in  their  work  activities.  Presumptive
+evidence of immunity to mumps for persons who work in health-care facilities includes
+any  of  the  following:   Prevaccination  Testing   For  HCP  who  do  not  have  adequate
+presumptive  evidence  of  mumps  immunity,  prevaccination  antibody  screening  before
+MMR vaccination is not necessary (135,175). For HCP who have 2 documented doses of
+MMR vaccine or other acceptable evidence of immunity to mumps, serologic testing for
+immunity  is  not  recommended.  In  the  event  that  a  health-care  provider  who  has  2
+documented  doses  of  MMR  vaccine  is  tested  serologically  and  determined  to  have
+negative  or  equivocal  mumps  titer  results,  it  is  not  recommended  that  the  person
+receive an additional dose of MMR vaccine. Such persons should be considered immune
+to  mumps.  Documented  age-appropriate  vaccination  supersedes  the  results  of
+subsequent serologic testing. Likewise, during outbreaks of mumps, serologic screening
+before vaccination is not recommended because rapid vaccination is necessary to halt
+disease  transmission.  Controlling  Mumps  Outbreaks  in  Health-Care  Settings  Placing
+patients  in  droplet  precautions  and  implementing  other  infection-control  measures  is
+important  to  control  the  spread  of  mumps  but  might  fail  to  prevent  all  nosocomial
+transmission,  because  transmission  to  other  susceptible  persons  might  occur  before
+illness  is  recognized  (208).  When  a  person  suspected  of  having  mumps  visits  a
+health-care facility, only HCP with adequate presumptive evidence of immunity should
+be exposed to the person, and in addition to standard precautions, droplet precautions
+should  be  followed.  The  index  case-patient  should  be  isolated,  and  respiratory
+precautions (gown and gloves) should be used for patient contact. Negative pressure
+rooms  are  not  required.  The  patient  should  be  isolated  for  5  days  after  the  onset  of
+parotitis,  during  which  time  shedding  of  virus  is  likely  to  occur  (209).  If  mumps
+exposures occur in a health-care facility, all contacts should be evaluated for evidence
+of  mumps  immunity.  HCP  with  no  evidence  of  mumps  immunity  who  are  exposed  to
+patients  with  mumps  should  be  offered  the  first  dose  of  MMR  vaccine  as  soon  as
+possible,  but  vaccine  can  be  administered  at  any  interval  following  exposure;  they
+should be excluded from duty from day 12 after the first unprotected exposure through
+day 25 after the most recent exposure. HCP with documentation of 1 vaccine dose may
+remain  at  work  and  should  receive  the  second  dose.  HCP  with  mumps  should  be
+excluded from work for 5 days from the onset of parotitis (209). Antibody response to
+the  mumps  component  of  MMR  vaccine  generally  is  believed  not  to  develop  soon
+enough to provide effective prophylaxis after exposure to suspected mumps (191,210),
+but data are insufficient to rule out a prophylactic effect. Nonetheless, the vaccine is
+not  recommended  for  prophylactic  purposes  after  exposure.  However,  identifying
+persons  who  lack  presumptive  evidence  of  mumps  immunity  during  contact
+investigations  provides  a  good  opportunity  to  offer  MMR  vaccine  to  protect  against
+mumps  as  well  as  measles  and  rubella,  not  only  for  HCP  who  are  part  of  an
+organization's  vaccination  program,  but  also  for  patients  and  visitors.  If  an  exposed
+person  already  is  incubating  mumps,  MMR  vaccination  will  not  exacerbate  the
+symptoms. In these circumstances persons should be advised that a mumps-like illness
+occurring  shortly  after  vaccination  is  likely  to  be  attributable  to  natural  infection.  In
+such  circumstances,  specimens  should  be  submitted  for  viral  strain  identification  to
+differentiate  between  vaccine  and  wild  type  virus.  Immune  globulin  is  not  routinely
+used  for  postexposure  protection  from  mumps  because  no  evidence  exists  that  it  is
+effective  (135).  Epidemiology  and  Risk  Factors  Rubella  (German  measles)  is  a  viral
+disease characterized by rash, low-grade fever, lymphadenopathy, and malaise (211).
+Although  rubella  is  considered  a  benign  disease,  transient  arthralgia  and  arthritis  are
+observed  commonly  in  infected  adults,  particularly  among  postpubertal  females.
+Chronic  arthritis  has  been  reported  after  rubella  infection,  but  such  reports  are  rare,
+and  evidence  of  an  association  is  weak  (212).  Other  complications  that  occur
+infrequently are thrombocytopenia and encephalitis (211). Infection is asymptomatic in
+25%--50% of cases (213). Clinical diagnosis of rubella is unreliable and should not be
+considered  in  assessing  immune  status.  Many  rash  illnesses  might  mimic  rubella
+infection and many rubella infections are unrecognized. The only reliable evidence of
+previous  rubella  infection  is  the  presence  of  serum  rubella  IgG  antibody  (211).  Of
+primary  concern  are  the  effects  that  rubella  can  have  when  a  pregnant  woman
+becomes infected, especially during the first trimester, which can result in miscarriages,
+stillbirths, therapeutic abortions, and congenital rubella syndrome (CRS), a constellation
+of  birth  defects  that  often  includes  blindness,  deafness,  mental  retardation,  and
+congenital  heart  defects  (211,213).  Postnatal  rubella  is  transmitted  through  direct  or
+droplet contact from nasopharyngeal secretions. The incubation period ranges from 12
+to 23 days (214,215). An ill person is most contagious when the rash first appears, but
+the period of maximal communicability extends from a few days before to 7 days after
+rash onset (213). Rubella is less contagious than measles. In the prevaccine era, rubella
+was  an  endemic  disease  globally  with  larger  epidemics  that  occurred;  in  the  United
+States,  rubella  epidemics  occurred  approximately  every  7  years  (211).  During  the
+1964--1965 global rubella epidemic, an estimated 12.5 million cases of rubella occurred
+in  the  United  States,  resulting  in  approximately  2,000  cases  of  encephalitis,  11,250
+fetal deaths attributable to spontaneous or surgical abortions, 2,100 infants who were
+stillborn  or  died  soon  after  birth,  and  20,000  infants  born  with  CRS.  The  economic
+impact of this epidemic in the United States alone was estimated at $1.5 billion in 1965
+dollars ($10 billion in 2010 dollars) (216). After the rubella vaccine was licensed in the
+United States in 1969, reported rubella cases decreased from 57,686 in 1969 to 12,491
+in 1976 (216), and CRS cases reported nationwide decreased from 68 in 1970 to 23 in
+1976  (217).  Declines  in  rubella  age-specific  incidence  occurred  in  all  age  groups,
+including adolescents and adults, but the greatest declines were among children aged
+<15 years (216). During 1977--1978, a resurgence of rubella occurred, primarily among
+older  adolescents  and  young  adults,  because  the  initial  vaccination  strategy  targeted
+children (218). During this resurgence, 62% of reported rubella cases occurred among
+persons aged >15 years compared with 23% of cases during 1966--1968 (135). As a
+result of the change in the epidemiologic profile of rubella, in 1977, ACIP modified its
+recommendations  to  include  the  vaccination  of  susceptible  postpubertal  girls  and
+women.  In  1989,  a  second  MMR  vaccination  dose  was  recommended  in  response  to
+large measles outbreaks nationwide (179). During 2001--2004, the annual numbers of
+rubella and CRS cases were extremely low, with 23 reported rubella cases in 2001, a
+total of 18 in 2002, a total of 7 in 2003, and a total of 9 in 2004 (219). Rubella was
+declared  eliminated  from  the  United  States  in  2004  (219,220).  During  2005--2009,  a
+total of 54 cases of rubella were reported; the majority of the cases occurred among
+persons aged >20 years. Of the reported cases, 23 (43%) were import-associated; only
+two outbreaks of rubella were reported during this time, and both involved only three
+cases  (CDC,  unpublished  data,  2009).  Since  2005,  only  four  cases  of  CRS  have  been
+reported,  with  two  cases  reported  in  2009;  three  (75%)  cases  were  acquired
+internationally, and the other had an unknown source (CDC, unpublished data, 2009).
+Rubella  importations  are  expected  to  continue  in  the  immediate  future.  As  of
+September 2011, only three states (i.e., New York, Oklahoma, and Rhode Island) had
+laws mandating that all hospital personnel have proof of rubella immunity and did not
+allow  for  religious  or  philosophical  exemptions  (147).  Additional  states  had
+requirements  for  specific  types  of  facilities  or  for  certain  employees  within  those
+facilities, but they did not have universal laws mandating proof of rubella immunity for
+all  hospital  personnel  (147).  MMR  vaccine  coverage  in  the  United  States  is  high;  in
+2010, an estimated 91.5% of children aged 19--35 months had received 1 dose of MMR
+vaccine (21); during 2009--2010, a total of 94.8% of kindergarteners had evidence of 2
+doses (148); and in 2010, a total of 90.5% of adolescents had evidence of 2 doses (22).
+Nationally representative data on MMR vaccine coverage of U.S. HCP are not available.
+Rubella  Transmission  and  the  Costs  of  Mitigating  Rubella  Exposures  in  Health-Care
+Settings  No  documented  transmission  of  rubella  to  HCP  or  other  hospital  staff  or
+patients  in  U.S.  health-care  facilities  has  occurred  since  elimination  was  declared.
+However, in the decades before elimination, rubella transmission was documented in at
+least  10  U.S.  medical  settings  (221--231)  and  led  to  outbreaks  with  serious
+consequences,  including  pregnancy  terminations,  disruption  of  hospital  routine,
+absenteeism from work, expensive containment measures, negative publicity, and the
+threat  of  litigation  (232).  In  these  outbreaks,  transmission  occurred  from  HCP  to
+susceptible coworkers and patients, as well as from patients to HCP and other patients.
+No  data  are  available  on  whether  HCP  are  at  increased  risk  for  acquiring  rubella
+compared  with  other  professions.  Vaccine  Effectiveness,  Duration  of  Immunity  and
+Seroprevalence
+ Studies,
+ and
+ Vaccine
+ Safety
+ Vaccine
+ Effectiveness
+ Vaccine
+effectiveness of the RA 27/3 rubella vaccine against clinical rubella is 95% (85%--99%
+CI) and >99% for clinical laboratory confirmed rubella (211,233). Antibody responses to
+rubella  as  part  of  MMR  vaccine  are  equal  (i.e.,  >99%)  to  those  seen  after  the
+single-antigen  RA  27/3  rubella  vaccine  (211,234).  Duration  of  Immunity  and
+Seroprevalence Studies In clinical trials, 97%--99% of susceptible persons who received
+a  single  dose  of  the  RA  27/3  rubella  vaccine  when  they  were  aged  ≥12  months
+developed
+ antibody
+ (211,235,236).
+ Two
+ studies
+ have
+ demonstrated
+ that
+vaccine-induced rubella antibodies might wane after 12--15 years (237,238); however,
+rubella  surveillance  data  do  not  indicate  that  rubella  and  CRS  are  increasing  among
+vaccinated  persons.  National  seroprevalence  for  rubella  antibodies  among  persons
+aged  6--49  years  during  1999--2004  was  91%  (239).  During  1986--1990,  serologic
+surveys  in  one  hospital  indicated  that  5%  of  HCP  (including  persons  born  in  1957  or
+earlier) did not have detectable rubella antibody (240). Earlier studies indicated that up
+to  14%--19%  of  U.S.  hospital  personnel,  including  young  women  of  childbearing  age,
+lacked  detectable  rubella  antibody  (225,241,242).  In  a  recent  study  on  rubella
+seroprevalence among 477 newly hired HCP at a hospital in North Carolina who were
+born before 1957, and thus considered immune by age, who could not provide written
+evidence  of  immunity  to  rubella,  serologic  testing  revealed  that  14  (3.1%)  lacked
+detectable levels of antibody to rubella (157). Because of the potential for contact with
+pregnant women in any type of health-care facility, all HCP should have documented
+presumptive  evidence  of  immunity  to  rubella.  History  of  disease  is  not  considered
+adequate  evidence  of  immunity.  Vaccine  Safety   Rubella  vaccine  is  administered  in
+combination  with  the  measles  and  mumps  components  as  the  MMR  vaccine  in  the
+United States. Monovalent rubella vaccine has been used rarely in the United States in
+the  past  2  decades  and  is  no  longer  available.  After  decades  of  use,  evidence
+demonstrates  that  MMR  vaccine  has  an  excellent  safety  profile.  The  most  common
+adverse reactions to the rubella component of the MMR vaccine are transient rashes,
+which usually appear 7--10 days after vaccination in approximately 5% of vaccinated
+persons,  or  transient  lymphadenopathy,  fever,  sore  throat,  and  headache  (135,211).
+The  majority  of  documented  adverse  events  occur  in  children.  In  rare  circumstances,
+MMR  vaccination  of  adults  has  been  associated  with  the  following  adverse  events:
+anaphylaxis (approximately 1.0--3.5 occurrences per million doses administered) (134),
+thrombocytopenia  from  the  measles  component  or  rubella  component  (rate:  three  to
+four  cases  for  every  100,000  doses)  (134),  and  acute  arthritis  from  the  rubella
+component  (arthralgia  develops  among  approximately  25%  of  rubella-susceptible
+postpubertal  females  after  MMR  vaccination,  and  approximately  10%  have  acute
+arthritis-like  signs  and  symptoms  from  the  rubella  component  of  the  vaccine)  (135).
+When joint symptoms occur, they generally persist for 1 day--3 weeks and rarely recur
+(135).  Chronic  joint  symptoms  attributable  to  the  rubella  component  of  the  MMR
+vaccine are very rarely reported, if they occur at all. As a result of the theoretic risk to
+the fetus, women should be counseled to avoid becoming pregnant for 28 days after
+receipt  of  a  rubella-containing  vaccine  (243).  However,  receipt  of  rubella-containing
+vaccine during pregnancy should not be a reason to consider termination of pregnancy;
+data  from  18  years  of  following  to  term  321  known  rubella-susceptible  women  who
+were  vaccinated  within  3  months  before  or  3  months  after  conception  indicated  that
+none  of  the  324  infants  born  to  these  mothers  had  malformations  compatible  with
+congenital  rubella  syndrome,  but  five  had  evidence  of  subclinical  rubella  infection
+(244).  The  estimated  risk  for  serious  malformations  to  fetuses  attributable  to  the
+mother receiving RA 27/3 vaccine is considered to range from zero to 1.6% (135,244).
+Evidence does not support a link between MMR vaccination and any of the following:
+hearing  loss,  retinopathy,  optic  neuritis,  Guillain-Barré  Syndrome,  type  1  diabetes,
+Crohn's  disease,  or  autism  (135,163--169).  A  woman  can  excrete  the  rubella  vaccine
+virus  in  breast  milk  and  transmit  the  virus  to  her  infant,  but  the  infection  remains
+asymptomatic (135). Otherwise, persons who receive MMR or its component vaccines
+do not transmit measles, rubella, or mumps vaccine viruses (135). No transmission of
+MMR  vaccine  virus  in  a  health-care  setting  has  been  documented.  Vaccination  All
+persons  who  work  in  health-care  facilities  should  have  presumptive  evidence  of
+immunity to rubella. Adequate rubella vaccination for HCP consists of 1 dose of MMR
+vaccine.  However,  because  of  the  2-dose  vaccination  requirements  for  measles  and
+mumps,  the  use  of  the  combined  MMR  vaccine  will  result  in  the  majority  of  HCP
+receiving  2  doses  of  rubella-containing  vaccine,  which  should  provide  an  additional
+safeguard  against  primary  rubella  vaccine  failure.  Recently  vaccinated  HCP  do  not
+require  any  restriction  in  their  work  activities.  Presumptive  evidence  of  immunity  to
+rubella  for  persons  who  work  in  health-care  facilities  includes  any  of  the  following:  
+Prevaccination  Testing   For  HCP  who  do  not  have  adequate  presumptive  evidence  of
+rubella  immunity,  prevaccination  antibody  screening  before  MMR  vaccination  is  not
+necessary unless the medical facility considers it cost effective (135). For HCP who have
+1  documented  dose  of  MMR  vaccine  or  other  acceptable  evidence  of  immunity  to
+rubella,  serologic  testing  for  immunity  is  not  recommended.  In  the  event  that  a
+health-care provider who has at least 1 documented dose of rubella-containing vaccine
+is  tested  serologically  and  determined  to  have  negative  or  equivocal  rubella  titer
+results,  receipt  of  an  additional  dose  of  MMR  vaccine  for  prevention  of  rubella  is  not
+recommended. Such persons should be considered immune to rubella. However, if the
+provider requires a second dose of measles or mumps vaccine, then a second dose of
+MMR should be administered. Documented age-appropriate vaccination supersedes the
+results of subsequent serologic testing. Likewise, during outbreaks of rubella, serologic
+screening  before  vaccination  is  not  recommended  because  rapid  vaccination  is
+necessary  to  halt  disease  transmission.  Controlling  Rubella  Outbreaks  To  prevent
+transmission  of  rubella  in  health-care  settings,  patients  suspected  to  have  rubella
+should  be  placed  in  private  rooms.  In  addition  to  standard  precautions,  droplet
+precautions should be followed until 7 days after onset of symptoms. Room doors can
+remain open, and special ventilation is not required. Any exposed HCP who do not have
+adequate  presumptive  evidence  of  rubella  immunity  should  be  excluded  from  duty
+beginning  7  days  after  exposure  to  rubella  and  continuing  through  either  1)  23  days
+after the most recent exposure or 2) 7 days after rash appears if the provider develops
+rubella (213--215). Exposed HCP who do not have adequate presumptive evidence of
+immunity who are vaccinated postexposure should be excluded from duty for 23 days
+after the most recent exposure to rubella because no evidence exists that postexposure
+vaccination is effective in preventing rubella infection (244). Neither rubella-containing
+vaccine  (244)  nor  immune  globulin  (IG)  (211,244)  is  effective  for  postexposure
+prophylaxis  of  rubella.  Although  intramuscular  administration  of  20  mL  of  immune
+globulin within 72 hours of rubella exposure might reduce the risk for rubella, it will not
+eliminate the risk (135,245); infants with congenital rubella have been born to women
+who  received  IG  shortly  after  exposure  (213).  In  addition,  administration  of  IG  after
+exposure  to  rubella  might  modify  or  suppress  symptoms  and  create  an  unwarranted
+sense  of  security  with  respect  to  transmission.  If  exposure  to  rubella  does  not  cause
+infection, postexposure vaccination with MMR vaccine should induce protection against
+subsequent infection of rubella, as well as measles and mumps. If the exposure results
+in  infection,  no  evidence  indicates  that  administration  of  MMR  vaccine  during  the
+presymptomatic or prodromal stage of illness increases the risk for vaccine-associated
+adverse events (213). Epidemiology and Risk Factors  Pertussis is a highly contagious
+bacterial  infection.  Secondary  attack  rates  among  susceptible  household  contacts
+exceed  80%  (246,247).  Transmission  occurs  by  direct  contact  with  respiratory
+secretions or large aerosolized droplets from the respiratory tract of infected persons.
+The incubation period is generally 7--10 days but can be as long as 21 days. The period
+of  communicability  starts  with  the  onset  of  the  catarrhal  stage  and  extends  into  the
+paroxysmal stage. Symptoms of early pertussis (catarrhal phase) are indistinguishable
+from  other  upper  respiratory  infections.  Vaccinated  adolescents  and  adults,  whose
+immunity from childhood vaccinations wanes 5--10 years after the most recent dose of
+vaccine (usually administered at age 4--6 years), are an important source of pertussis
+infection for susceptible infants. Infants too young to be vaccinated are at greatest risk
+for  severe  pertussis,  including  hospitalization  and  death.  The  disease  can  be
+transmitted from adults to close contacts, especially unvaccinated children. Vaccination
+coverage among infants and children for diphtheria and tetanus toxoids and acellular
+pertussis  (DTaP)  vaccine  remains  high.  In  2010,  coverage  for  children  aged  19--35
+months  who  have  received  ≥4  doses  of  DTaP/diphtheria  and  tetanus  toxoids  and
+pertussis  vaccine  (DTP)/diphtheria  and  tetanus  toxoids  vaccine  (DT)  was  84%  (21).
+Among children entering kindergarten for the 2009--2010 school year, DTaP coverage
+was 93% (148). Vaccination coverage for tetanus toxoid, reduced diphtheria toxoid and
+acellular  pertussis  (Tdap)  vaccine  was  68.7%  among  adolescents  in  2010  and  <7%
+among adults in 2009 (22,248). Tdap vaccination coverage among HCP was 17.0% in
+2009 (248). Disease in Health-Care Settings and Impact on Health-Care Personnel and
+Patients  In  hospital  settings,  transmission  of  pertussis  has  occurred  from  hospital
+visitors  to  patients,  from  HCP  to  patients,  and  from  patients  to  HCP  (249--252).
+Although of limited size (range: 2--17 patients and 5--13 staff), documented outbreaks
+were costly and disruptive. In each outbreak, HCP were evaluated for cough illness and
+required  diagnostic  testing,  prophylactic  antibiotics,  and  exclusion  from  work.  During
+outbreaks that occur in hospitals, the risk for contracting pertussis among patients or
+staff is often difficult to quantify because exposure is not well defined. Serologic studies
+conducted  among  hospital  staff  indicate  that  exposure  to  pertussis  is  much  more
+frequent  than  suggested  by  attack  rates  of  clinical  disease  (246,249--254).  In  one
+outbreak,  seroprevalence  of  pertussis  agglutinating  antibodies  among  HCP  correlated
+with the degree of patient contact and was highest among pediatric house staff (82%)
+and  ward  nurses  (71%)  and  lowest  among  nurses  with  administrative  responsibilities
+(35%) (251). A model to estimate the cost of vaccinating HCP and the net return from
+preventing  nosocomial  pertussis  was  constructed  using  probabilistic  methods  and  a
+hypothetical cohort of 1,000 HCP with direct patient contact followed for 10 years (255).
+Baseline  assumptions,  determined  from  data  in  the  literature,  included  incidence  of
+pertussis in HCP, ratio of identified exposures per HCP case, symptomatic percentage of
+seroconfirmed  pertussis  infections  in  HCP,  cost  of  infection-control  measures  per
+exposed  person,  vaccine  efficacy,  vaccine  coverage,  employment  turnover  rate,
+adverse  events,  and  cost  of  vaccine  (255).  In  a  10-year  period,  the  cost  of  infection
+control  would  be  $388,000  without  Tdap  vaccination  of  HCP  compared  with  $69,000
+with such a program (255). Introduction of a vaccination program would result in a net
+savings as high as $535,000 and a benefit-cost ratio of 2.38 (i.e., for every dollar spent
+on the vaccination program, the hospital would save $2.38 on control measures) (255).
+Vaccine  Effectiveness,  Duration  of  Immunity,  and  Vaccine  Safety  A  prelicensure
+immunogenicity  and  safety  study  in  adolescents  and  adults  of  a  vaccine  containing
+acellular  pertussis  estimated  vaccine  efficacy  to  be  92%  (256).  Recent  postlicensure
+studies of Tdap demonstrate vaccine effectiveness at 78% and 66% (257,258). Duration
+of immunity from vaccination has yet to be evaluated. Data from pre- and postlicensure
+studies support the safety of Tdap in adolescents and adults (259--263). Since the 2005
+Tdap  recommendations  for  HCP,  one  study  tried  to  determine  if  postexposure
+prophylaxis following pertussis exposure was necessary for Tdap-vaccinated HCP (264).
+During  the  study  period,  116  exposures  occurred  among  94  HCP.  Pertussis  infection
+occurred in 2% of those who received postexposure prophylaxis compared with 10% of
+those  who  did  not,  suggesting  a  possible  benefit  of  postexposure  prophylaxis  among
+Tdap-vaccinated HCP (264). Because Tdap coverage is suboptimal among HCP, and the
+duration of protection afforded by Tdap is unknown, vaccination status does not change
+the  approach  to  evaluate  the  need  for  postexposure  prophylaxis  in  exposed  HCP.
+Postexposure prophylaxis is necessary for HCP in contact with persons at risk for severe
+disease. Other HCP either should receive postexposure prophylaxis or be monitored for
+21  days  after  pertussis  exposure  and  treated  at  the  onset  of  signs  and  symptoms  of
+pertussis.  Recommended  postexposure  prophylaxis  antibiotics  for  HCP  exposed  to
+pertussis include azithromycin, clarithroymycin, or erythromycin. HCP are not at greater
+risk  for  diphtheria  or  tetanus  than  the  general  population.  Vaccination  Regardless  of
+age,  HCP  should  receive  a  single  dose  of  Tdap  as  soon  as  feasible  if  they  have  not
+previously  received  Tdap  and  regardless  of  the  time  since  their  most  recent  Td
+vaccination.  Vaccinating  HCP  with  Tdap  will  protect  them  against  pertussis  and  is
+expected  to  reduce  transmission  to  patients,  other  HCP,  household  members,  and
+persons in the community. Tdap is not licensed for multiple administrations; therefore,
+after  receipt  of  Tdap,  HCP  should  receive  Td  for  future  booster  vaccination  against
+tetanus and diphtheria. Hospitals and ambulatory-care facilities should provide Tdap for
+HCP  and  use  approaches  that  maximize  vaccination  rates  (e.g.,  education  about  the
+benefits  of  vaccination,  convenient  access,  and  the  provision  of  Tdap  at  no  charge).
+Prevaccination
+ Testing
+ Prevaccination
+ serologic
+ testing
+ is
+ not
+ recommended.
+Demonstrating Immunity Immunity cannot be demonstrated through serologic testing
+because serologic correlates of protection are not well established. Controlling Pertussis
+Outbreaks  in  Health-Care  Settings  Prevention  of  pertussis  transmission  in  health-care
+settings  involves  diagnosis  and  early  treatment  of  clinical  cases,  droplet  isolation  of
+infectious patients who are hospitalized, exclusion from work of HCP who are infectious,
+and  postexposure  prophylaxis.  Early  diagnosis  of  pertussis,  before  secondary
+transmission occurs, is difficult because the disease is highly communicable during the
+catarrhal stage, when symptoms are still nonspecific. Pertussis should be considered in
+the  differential  diagnoses  for  any  patient  with  an  acute  cough  illness  with  severe  or
+prolonged  paroxysmal  cough,  particularly  if  characterized  by  posttussive  vomiting,
+whoop,  or  apnea.  Nasopharyngeal  specimens  should  be  taken,  if  possible,  from  the
+posterior  nasopharynx  with  a  calcium  alginate  or  Dacron  swab  for  cultures  and/or
+polymerase chain reaction (PCR) assay. Health-care facilities should maximize efforts to
+prevent transmission of Bordetella pertussis. Precautions to prevent respiratory droplet
+transmission  or  spread  by  close  or  direct  contact  should  be  employed  in  the  care  of
+patients  admitted  to  hospital  with  suspected  or  confirmed  pertussis  (265).  These
+precautions  should  remain  in  effect  until  patients  are  improved  clinically  and  have
+completed at least 5 days of appropriate antimicrobial therapy. HCP in whom symptoms
+(i.e., unexplained rhinitis or acute cough) develop after known pertussis exposure might
+be at risk for transmitting pertussis and should be excluded from work until 5 days after
+the start of appropriate therapy (3). Data on the need for postexposure prophylaxis in
+Tdap-vaccinated HCP are inconclusive (264). Certain vaccinated HCP are still at risk for
+B.  pertussis.  Tdap  might  not  preclude  the  need  for  postexposure  prophylaxis.
+Postexposure  antimicrobial  prophylaxis  is  recommended  for  all  HCP  who  have
+unprotected exposure to pertussis and are likely to expose a patient at risk for severe
+pertussis (e.g., hospitalized neonates and pregnant women). Other HCP should either
+receive postexposure antimicrobial prophylaxis or be monitored daily for 21 days after
+pertussis  exposure  and  treated  at  the  onset  of  signs  and  symptoms  of  pertussis.
+Epidemiology and Risk Factors Varicella is a highly infectious disease caused by primary
+infection with varicella-zoster virus (VZV). VZV is transmitted from person to person by
+direct contact, inhalation of aerosols from vesicular fluid of skin lesions of varicella or
+herpes  zoster  (HZ),  a  localized,  generally  painful  vesicular  rash  commonly  called
+shingles, or infected respiratory tract secretions that also might be aerosolized (266).
+The  average  incubation  period  is  14--16  days  after  exposure  to  rash  (range:  10--21
+days). Infected persons are contagious an estimated 1--2 days before rash onset until
+all  lesions  are  crusted,  typically  4--7  days  after  rash  onset  (266).  Varicella  secondary
+attack  rates  can  reach  90%  among  susceptible  contacts.  Typically,  primary  infection
+with VZV results in lifetime immunity. VZV remains dormant in sensory-nerve ganglia
+and  can  reactivate  at  a  later  time,  causing  HZ.  Before  the  U.S.  childhood  varicella
+vaccination program began in 1995, approximately 90% of varicella disease occurred
+among  children  aged  <15  years  (266).  During  1997--2009,  national  varicella  vaccine
+coverage among children aged 19--35 months increased from 27% to 90%, leading to
+dramatic  declines  of  >85%  in  varicella  incidence,  hospitalizations,  and  deaths
+(267--269).  The  decline  in  disease  incidence  was  greatest  among  children  for  whom
+vaccination  was  recommended;  however,  declines  occurred  in  every  age  group
+including  infants  too  young  to  be  vaccinated  and  adults,  indicating  reduced
+communitywide transmission of VZV. Current incidence of varicella among adults is low
+(<0.1/1,000 population), and adult cases represent <10% of all reported varicella cases
+(270). National seroprevalence data from 1999--2004 demonstrated that, in the early
+vaccine era,  adults  continued  to  have high  immunity  to  varicella  (271).  In  this  study,
+98%  of  persons  aged  20--49  years  had  VZV-specific  IgG  antibodies.  However,  with
+declining likelihood of exposure to VZV, children and adolescents who did not receive 2
+doses of varicella vaccine could remain susceptible to VZV infection as they age into
+adulthood, when varicella can be more severe. The clinical presentation of varicella has
+changed since the implementation of the varicella vaccination program, with more than
+half of varicella cases reported in 2008 occurring among persons who were vaccinated
+previously,  the  majority  of  them  children.  Varicella  disease  in  vaccinated  children
+(breakthrough  varicella)  usually  has  a  modified  or  atypical  presentation;  the  rash  is
+typically mild, with <50 lesions that are more likely to be predominantly maculopapular
+than  vesicular  (266).  Fever  is  less  common,  and  the  duration  of  illness  is  shorter.
+Nevertheless, breakthrough varicella is infectious. One study indicated that vaccinated
+children  with  varicella  with  <50  lesions  were  only  one  third  as  infectious  as
+unvaccinated  children  whereas  those  with  ≥50  lesions  were  as  infectious  as
+unvaccinated children (272). Because the majority of adults are immune and few need
+vaccination, fewer breakthrough cases have been reported among adults than among
+children, and breakthrough varicella in adults has tended to be milder than varicella in
+unvaccinated adults (273,274). The epidemiology of varicella in tropical and subtropical
+regions differs from that in the United States. In these regions, a higher proportion of
+VZV infections are acquired later in life. Persons emigrating from these regions might
+be  more  likely  to  be  susceptible  to  varicella  compared  to  U.S.-born  persons  and,
+therefore,  are  at  a  higher  risk  for  developing  varicella  if  unvaccinated  and  exposed
+(275,276).  Disease  in  Health-Care  Settings  and  Impact  on  Health-Care  Personnel  and
+Patients  Although  relatively  rare  in  the  United  States  since  introduction  of  varicella
+vaccine, nosocomial transmission of VZV is well recognized and can be life-threatening
+to  certain  patients  (277--289).  In  addition  to  hospital  settings,  nosocomial  VZV
+transmission  has  been  reported  in  long-term--care  facilities  and  a  hospital-associated
+residential  facility  (290,291).  Sources  of  nosocomial  exposure  that  have  resulted  in
+transmission  include  patients,  HCP,  and  visitors  with  either  varicella  or  HZ.  Both
+localized  and  disseminated  HZ  in  immunocompetent  as  well  as  immunocompromised
+patients have been identified as sources of nosocomial transmission of VZV. Localized
+HZ has been demonstrated to be much less infectious than varicella; disseminated HZ
+is considered to be as infectious as varicella (266). Nosocomial transmission has been
+attributed  to  delays  in  the  diagnosis  or  reporting  of  varicella  or  HZ  and  in  failures  to
+implement  control  measures  promptly.  In  hospitals  and  other  health-care  settings,
+airborne transmission of VZV from patients with either varicella or HZ has resulted in
+varicella  in  HCP  and  patients  who  had  no  direct  contact  with  the  index  case-patient
+(284--288,291). Although all susceptible patients in health-care settings are at risk for
+severe  varicella  disease  with  complications,  certain  patients  without  evidence  of
+immunity are at increased risk: pregnant women, premature infants born to susceptible
+mothers, infants born at <28 weeks' gestation or who weigh ≤1,000 grams regardless
+of  maternal  immune  status,  and  immunocompromised  persons  of  all  ages  (including
+persons who are undergoing immunosuppressive therapy, have malignant disease, or
+are  immunodeficient).  VZV  exposures  among  patients  and  HCP  can  be  disruptive  to
+patient  care,  time-consuming,  and  costly  even  when  they  do  not  result  in  VZV
+transmission  (281,282,292).  Studies  of  VZV  exposure  in  health-care  settings  have
+documented  that  a  single  provider  with  unrecognized  varicella  can  result  in  the
+exposure  of  >30  patients  and  >30  employees  (292).  Identification  of  susceptible
+patients  and  staff,  medical  management  of  susceptible  exposed  patients  at  risk  for
+complications  of  varicella,  and  furloughing  of  susceptible  exposed  HCP  are
+time-consuming  and  costly  (281,282).  With  the  overall  reduction  in  varicella  disease
+attributable  to  the  success  of  the  vaccination  program,  the  risk  for  exposure  to  VZV
+from varicella cases in health-care settings is likely declining. In addition, an increasing
+proportion  of  varicella  cases  occur  in  vaccinated  persons  who  are  less  contagious.
+Diagnosis of varicella has become increasingly challenging as a growing proportion of
+cases occur in vaccinated persons in whom disease is mild, and HCP encounter patients
+with  varicella  less  frequently.  Although  not  currently  routinely  recommended  for  the
+diagnosis and management of varicella, laboratory testing of suspected varicella cases
+is likely to become increasingly useful in health-care settings, especially as the positive
+predictive  value  of  clinical  diagnosis  declines.  Vaccine  Effectiveness,  Duration  of
+Immunity, and Vaccine Safety Vaccine Effectiveness Formal studies to evaluate vaccine
+efficacy  or  effectiveness  have  not  been  performed  among  adults.  Studies  of  varicella
+vaccine effectiveness performed among children indicated good performance of 1 dose
+for  prevention  of  all  varicella  (80%--85%)  and  >95%  effectiveness  for  prevention  of
+moderate  and  severe  disease  (266,293).  Studies  have  indicated  that  a  second  dose
+among  children  produces  an  improved  humoral  and  cellular  immune  response  that
+correlates  with  improved  protection  against  disease  (266,294).  Varicella  vaccine
+effectiveness is expected to be lower in adults than in children. Adolescents and adults
+require 2 doses to achieve seroconversion rates similar to those seen in children after 1
+dose (266). A study of adults who received 2 doses of varicella vaccine 4 or 8 weeks
+apart and were exposed subsequently to varicella in the household estimated an 80%
+reduction  in  the  expected  number  of  cases  (295).  Duration  of  Immunity  Serologic
+correlates of protection against varicella using commercially available assays have not
+been  established  for  adults  (266).  In  clinical  studies,  detectable  antibody  levels  have
+persisted for at least 5 years in 97% of adolescents and adults who were administered 2
+doses  of  varicella  vaccine  4--8  weeks  apart,  but  boosts  in  antibody  levels  were
+observed  following  exposures  to  varicella,  which  could  account  for  the  long-term
+persistence  of  antibodies  after  vaccination  in  these  studies  (295).  Studies  have
+demonstrated  that  whereas  25%--31%  of  adult  vaccine  recipients  who  seroconverted
+lost  detectable  antibodies  1--11  years  after  vaccination  (273,296),  vaccine-induced
+VZV-specific  T-cell  proliferation  (marker  for  cell-mediated  immunity  [CMI])  was
+maintained in 94% of adults 1 and 5 years postvaccination (297). Disease was mild in
+vaccinated  persons  who  developed  varicella  after  exposure  to  VZV,  even  among
+vaccinees who did not seroconvert or who lost detectable antibody (273,274). Severity
+of illness and attack rates among vaccinated adults did not increase over time. These
+studies suggest that VZV-specific CMI affords protection to vaccinated adults, even in
+the absence of detectable antibody response. Vaccine Safety The varicella vaccine has
+an excellent safety profile. In clinical trials, the most common adverse events among
+adolescents  and  adults  were  injection-site  complaints  (24.4%  after  the  first  dose  and
+32.5% after the second dose) (266,295). Varicella-like rash at the injection site occurred
+in  3%  of  vaccine  recipients  after  the  first  dose  and  in  1%  after  the  second.  A
+nonlocalized rash occurred in 5.5% of vaccine recipients after the first dose and in 0.9%
+after the second, with a median number of lesions of five, at a peak of 7--21 and 0--23
+days postvaccination, respectively (295). Data on serious adverse events among adults
+after  varicella  vaccination  are  limited,  but  the  proportion  of  serious  adverse  events
+among  all  adverse  events  reported  to  the  Vaccine  Adverse  Events  Reporting  System
+during 1995--2005 was low (5%) among both children and adults (298). Serious adverse
+events reported among children included pneumonia, hepatitis, HZ (some hospitalized),
+meningitis  with  HZ,  ataxia,  encephalitis,  thrombocytopenic  purpura.  Not  all  adverse
+events  reported  after  varicella  vaccination  have  been  laboratory  confirmed  to  be
+attributable to the vaccine strain VZV (266,298). Risk for transmission of vaccine virus
+was assessed in placebo recipients who were siblings of vaccinated children and among
+healthy  siblings  of  vaccinated  leukemic  children  (266).  The  findings  suggest  that
+transmission of varicella vaccine virus from healthy persons to susceptible contacts is
+very  rare.  The  risk  might  be  increased  in  vaccinees  in  whom  a  varicella-like  rash
+develops  after  vaccination.  However,  this  risk  is  also  low.  The  benefits  of  vaccinating
+HCP  without  evidence  of  immunity  outweigh  this  extremely  low  potential  risk.  Since
+implementation  of  the  varicella  vaccine  program,  transmission  of  vaccine  virus  has
+been  documented  from  eight  persons  (all  of  whom  had  a  rash  after  vaccination)
+resulting  in  nine  secondary  infections  among  household  and  long-term--care  facility
+contacts  (299).  No  transmission  has  been  documented  from  vaccinated  HCP.
+Vaccination  Health-care  institutions  should  ensure  that  all  HCP  have  evidence  of
+immunity to varicella. This information should be documented and readily available at
+the work location. HCP without evidence of immunity to varicella should receive 2 doses
+of  varicella  vaccine  administered  4--8  weeks  apart.  If  >8  weeks  elapse  after  the  first
+dose, the second dose may be administered without restarting the schedule. Recently
+vaccinated HCP do not require any restriction in their work activities; however, HCP who
+develop  a  vaccine-related  rash  after  vaccination  should  avoid  contact  with  persons
+without  evidence  of  immunity  to  varicella  who  are  at  risk  for  severe  disease  and
+complications until all lesions resolve (i.e., are crusted over) or, if they develop lesions
+that  do  not  crust  (macules  and  papules  only),  until  no  new  lesions  appear  within  a
+24-hour  period.  Evidence  of  immunity  for  HCP  includes  any  of  the  following  (266):  In
+health-care  settings,  serologic  screening  before  vaccination  of  personnel  without
+evidence  of  immunity  is  likely  to  be  cost  effective.  Key  factors  determining
+cost-effectiveness include sensitivity and specificity of serologic tests, the nosocomial
+transmission  rate,  seroprevalence  of  VZV  antibody  in  the  personnel  population,  and
+policies  for  managing  vaccine  recipients  developing  postvaccination  rash  or  who  are
+exposed  subsequently  to  VZV.  Institutions  may  elect  to  test  all  unvaccinated  HCP,
+regardless  of  disease  history,  because  a  small  proportion  of  persons  with  a  positive
+history  of  disease  might  be  susceptible.  For  the  purpose  of  screening  HCP,  a  less
+sensitive  and  more  specific  commercial  ELISA  should  be  considered.  The  latex
+agglutination  test  can  produce  false-positive  results,  and  HCP  who  remained
+unvaccinated  because  of  false  test  results  subsequently  contracted  varicella  (289).
+Routine  testing  for  varicella  immunity  after  2  doses  of  vaccine  is  not  recommended.
+Available  commercial  assays  are  not  sensitive  enough  to  detect  antibody  after
+vaccination  in  all  instances.  Sensitive  tests  that  are  not  generally  available  have
+indicated  that  92%--99%  of  adults  develop  antibodies  after  the  second  dose  (266).
+Seroconversion does not always result in full protection against disease and, given the
+role  of  CMI  for  providing  long-term  protection,  absence  of  antibodies  does  not
+necessarily  mean  susceptibility.  Documented  receipt  of  2  doses  of  varicella  vaccine
+supersedes  results  of  subsequent  serologic  testing.  Health-care  institutions  should
+establish  protocols  and  recommendations  for  screening  and  vaccinating  HCP  and  for
+management of HCP after exposures in the work place. Institutions also should consider
+precautions for HCP in whom rash occurs after vaccination, although they should also
+consider the possibility of wild-type disease in HCP with recent exposure to varicella or
+HZ.  A vaccine to prevent HZ is available and recommended for all persons aged ≥60
+years without contraindications to vaccination. HZ vaccine is not indicated for HCP for
+the prevention of nosocomial transmission, but HCP aged ≥60 years may receive the
+vaccine on the basis of the general recommendation for HZ vaccination, to reduce their
+individual  risk  for  HZ.  Varicella  Control  Strategies   Appropriate  measures  should  be
+implemented to manage cases and control outbreaks (300). Patient Care Only HCP with
+evidence  of  immunity  to  varicella  should  care  for  patients  who  have  confirmed  or
+suspected  varicella  or  HZ.  Airborne  precautions  (i.e.,  negative  air-flow  rooms)  and
+contact precautions should be employed for all patients with varicella or disseminated
+HZ and for immunocompromised patients with localized HZ until disseminated infection
+is ruled out. These precautions should be kept in place until lesions are dry and crusted.
+If negative air-flow rooms are not available, patients should be isolated in closed rooms
+and should not have contact with persons without evidence of immunity to varicella. For
+immunocompetent  persons  with  localized  HZ,  standard  precautions  and  complete
+covering  of  the  lesions  are  recommended.  Postexposure  Management  of  HCP  and
+Patients Exposure to VZV is defined as close contact with an infectious person, such as
+close  indoor  contact  (e.g.,  in  the  same  room)  or  face-to-face  contact.  Experts  differ
+regarding the duration of contact; some suggest 5 minutes, and others up to 1 hour; all
+agree that it does not include transitory contact (301). All exposed, susceptible patients
+and HCP should be identified using the criteria for evidence of immunity. An additional
+criterion of evidence of immunity only for patients who are not immunocompromised or
+pregnant  is  birth  in  the  United  States  before  1980.  Postexposure  prophylaxis  with
+vaccination  or  varicella-zoster  immunoglobulin,  depending  on  immune  status,  of
+exposed HCP and patients without evidence of immunity is recommended (266). HCP
+who  have  received  2  doses  of  vaccine  and  who  are  exposed  to  VZV  (varicella,
+disseminated HZ, and uncovered lesions of a localized HZ) should be monitored daily
+during  days  8--21  after  exposure  for  fever,  skin  lesions,  and  systemic  symptoms
+suggestive of varicella. HCP can be monitored directly by occupational health program
+or  infection-control  practitioners  or  instructed  to  report  fever,  headache,  or  other
+constitutional  symptoms  and  any  atypical  skin  lesions  immediately.  HCP  should  be
+excluded from a work facility immediately if symptoms occur. HCP who have received 1
+dose  of  vaccine  and  who  are  exposed  to  VZV  (varicella,  disseminated  HZ,  and
+uncovered
+ lesions
+ of
+ a
+ localized
+ HZ)
+ (in
+ the
+ community
+ or
+ health-care
+setting/workplace) should receive the second dose within 3--5 days after exposure to
+rash  (provided  4  weeks  have  elapsed  after  the  first  dose).  After  vaccination,
+management is similar to that of 2-dose vaccine recipients. Those who did not receive a
+second  dose  or  who  received  the  second  dose  >5  days  after  exposure  should  be
+excluded  from  work  for  8--21  days  after  exposure.  Unvaccinated  HCP  who  have  no
+other evidence of immunity who are exposed to VZV (varicella, disseminated HZ, and
+uncovered  lesions  of  a  localized  HZ)  are  potentially  infective  from  days  8--21  after
+exposure  and  should  be  furloughed  during  this  period.  They  should  receive
+postexposure vaccination as soon as possible. Vaccination within 3--5 days of exposure
+to  rash  might  modify  the  disease  if  infection  occurred.  Vaccination  >5  days
+postexposure  is  still  indicated  because  it  induces  protection  against  subsequent
+exposures (if the current exposure did not cause infection). For HCP at risk for severe
+disease  for  whom  varicella  vaccination  is  contraindicated  (e.g.,  pregnant  or
+immunocomprosed
+ HCP),
+ varicella-zoster
+ immune
+ globulin
+ after
+ exposure
+ is
+recommended.  The  varicella-zoster  immune  globulin  product  currently  used  in  the
+United States, VariZIG (Cangene Corporation, Winnipeg, Canada), is available under an
+Investigational New Drug Application Expanded Access protocol; a sample release form
+is
+ available
+ at
+http://www.fda.gov/downloads/BiologicsBloodVaccines/SafetyAvailability/UCM176031.p
+df.  Varicella-zoster  immune  globulin  might  prolong  the  incubation  period  by  a  week,
+thus extending the time during which personnel should not work from 21 to 28 days. In
+case of an outbreak, HCP without evidence of immunity who have contraindications to
+vaccination should be excluded from the outbreak setting through 21 days after rash
+onset of the last identified case-patient because of the risk for severe disease in these
+groups.  If  the  VZV  exposure  was  to  localized  HZ  with  covered  lesions,  no  work
+restrictions are needed if the exposed HCP had previously received at least 1 dose of
+vaccine or received the first dose within 3--5 days postexposure. A second dose should
+be administered at the appropriate interval. HCP should be monitored daily during days
+8--21  after  exposure  for  fever,  skin  lesions,  and  systemic  symptoms  suggestive  of
+varicella and excluded from a work facility if symptoms occur. If at least 1 dose was not
+received,  restriction  from  patient  contact  is  recommended.  Health-care  facilities  and
+other organizations should consider including in their vaccination programs vaccines to
+prevent  meningococcal  disease,  typhoid  fever,  and  polio  for  HCP  who  have  certain
+health  conditions  or  who  work  in  laboratories  or  regions  outside  the  United  States
+where  the  risk  for  work-related  exposure  exists.  Epidemiology  and  Risk  Factors
+Meningococcal  disease  is  rare  among  adults  in  the  United  States  and  incidence  has
+decreased  to  historic  lows;  during  1998--2007  the  average  annual  incidence  of
+meningococcal  disease  was  0.28  (range:  0.26--0.31)  cases  per  100,000  population
+among  persons  aged  25--64  years  (302).  Routine  vaccination  with  meningococcal
+conjugate vaccine is recommended by ACIP for adolescents aged 11--18 years, with the
+primary  dose  at  age  11--12  years  and  the  booster  dose  at  age  16  years.  In  2010,
+coverage with meningococcal conjugate vaccine among persons aged 13--17 years was
+62.7%  (22).  Nosocomial  transmission  of  Neisseria  meningitidis  is  rare,  but  HCP  have
+become  infected  after  direct  contact  with  respiratory  secretions  of  infected  persons
+(e.g., managing of an airway during resuscitation) and in a laboratory setting. HCP can
+decrease  the  risk  for  infection  by  adhering  to  precautions  to  prevent  exposure  to
+respiratory droplets (303,304) and by taking antimicrobial chemoprophylaxis if exposed
+directly  to  respiratory  secretions.  Vaccine  Effectiveness,  Duration  of  Immunity,  and
+Vaccine  Safety  Two  quadrivalent  (A,  C,  W-135,  Y)  conjugate  meningococcal  vaccines
+(MCV4) are licensed for persons aged through 55 years (305,306). Both protect against
+two  of  the  three  serogroups  that  cause  the  majority  of  meningococcal  disease  in  the
+United  States  and  against  75%  of  disease  among  adults.  Available  data  indicate  that
+the  majority  of  persons  do  not  have  enough  circulating  functional  antibody  to  be
+protected  ≥5  years  after  a  single  dose  of  MCV4.  Both  vaccines  had  similar  safety
+profiles  in  clinical  trials.  Quadrivalent  (A,  C,  W-135,  Y)  meningococcal  polysaccharide
+vaccine  (MPSV4)  is  available  for  use  in  persons  aged  >55  years.  No  vaccine  for
+serogroup B meningococcal disease is licensed in the United States.  Vaccination MCV4
+is  not  recommended  routinely  for  all  HCP.  HCP  Recommended  to  Receive  Vaccine  to
+Prevent Meningococcal Disease A 2-dose vaccine series is recommended for HCP with
+known  asplenia  or  persistent  complement  component  deficiencies,  because  these
+conditions  increase  the  risk  for  meningococcal  disease.  HCP  traveling  to  countries  in
+which meningococcal disease is hyperendemic or epidemic also are at increased risk for
+infection  and  should  receive  vaccine.  Those  with  known  asplenia  or  persistent
+complement component deficiencies should receive a 2-dose vaccine series. All other
+HCP traveling to work to high-risk areas should receive a single dose of MCV4 before
+travel if they have never received it or if they received it >5 years previously. Clinical
+microbiologists and research microbiologists who might be exposed routinely to isolates
+of  N.  meningitides  should  receive  a  single  dose  of  MCV4  and  receive  a  booster  dose
+every 5 years if they remain at increased risk. Health-care personnel aged >55 years
+who have any of the above risk factors for meningococcal disease should be vaccinated
+with  MPSV4  (305).  HCP  Who  May  Elect  to  Receive  Vaccine  to  Prevent  Meningococcal
+Disease  HCP  with  known  HIV  infection  are  likely  at  increased  risk  for  meningococcal
+disease and may elect vaccination. If these HCP are vaccinated, they should receive a
+2-dose vaccine series (307). Booster Doses HCP who receive the 2-dose MCV4 vaccine
+series and/or remain in a group at increased risk should receive a booster dose every 5
+years  (306).  Postexposure  Management  of  Exposed  HCP  Postexposure  prophylaxis  is
+advised  for  all  persons  who  have  had  intensive,  unprotected  contact  (i.e.,  without
+wearing  a  mask)  with  infected  patients  (e.g.,  via  mouth-to-mouth  resuscitation,
+endotracheal intubation, or endotracheal tube management), including HCP who have
+been vaccinated with either the conjugate or polysaccharide vaccine (3). Antimicrobial
+prophylaxis can eradicate carriage of N. meningitidis and prevent infections in persons
+who  have  unprotected  exposure  to  patients  with  meningococcal  infections  (305).
+Rifampin,  ciprofloxacin,  and  ceftriaxone  are  effective  in  eradicating  nasopharyngeal
+carriage of N. meningitidis. In areas of the United States where ciprofloxacin-resistant
+strains  of  N.  meningitidis  have  been  detected  (as  of  August  30,  2011,  only  parts  of
+Minnesota  and  North  Dakota),  ciprofloxacin  should  not  be  used  for  chemoprophylaxis
+(308).  Azithromycin  can  be  used  as  an  alternative.  Ceftriaxone  can  be  used  during
+pregnancy.  Postexposure  prophylaxis  should  be  administered  within  24  hours  of
+exposure  when  feasible;  postexposure  prophylaxis  administered  >14  days  after
+exposure  is  of  limited  or  no  value  (305).  HCP  not  otherwise  indicated  for  vaccination
+may be recommended to be vaccinated with meningococcal vaccine in the setting of a
+community or institutional outbreak of meningococcal disease caused by a serogroup
+contained in the vaccine. Epidemiology and Risk Factors The incidence of typhoid fever
+declined steadily in the United States during 1900--1960 and has since remained low.
+During  1999--2006,  on  average,  237  cases  were  reported  annually  to  the  National
+Typhoid and Paratyphoid Fever Surveillance System (309). The median age of patients
+was  22  years  and  54%  were  male;  79%  reported  foreign  travel  during  the  30  days
+before onset of symptoms. Among international travelers, the risk for Salmonella Typhi
+infection appears to be highest for those who visit friends and relatives in countries in
+which typhoid fever is endemic and for those who visit (even for a short time) the most
+highly  endemic  areas  (e.g.,  the  Indian  subcontinent)  (310).  Increasing  resistance  to
+fluoroquinolones such as ciprofloxacin, which are used to treat multidrug-resistant. S.
+Typhi, has been seen particularly among travelers to south and southeast Asia (311).
+Isolates with decreased susceptibility to ciprofloxacin (DCS) do not qualify as resistant
+according  to  current  Clinical  and  Laboratory  Standards  Institute  criteria  but  are
+associated  with  poorer  clinical  outcomes  (311,312).  Resistance  to  nalidixic  acid,  a
+quinolone, is a marker for DCS and increased from 19% in 1999 to 59% in 2008 (313).
+Nine  isolates  resistant  to  ciprofloxacin  also  were  seen  during  this  time  period  (313).
+Although  overall  S.  Typhi  infections  have  declined  in  the  United  States,  increased
+incidence  and  antimicrobial  resistance  including  resistance  to  fluoroquinolones  have
+been seen for paratyphoid fever caused by Paratyphi A (314). No vaccines that protect
+against Paratyphi A infection are available. Transmission and Exposure in Health-Care
+Settings  During  1985--1994,  seven  cases  of  laboratory-acquired  typhoid  fever  were
+reported  among  persons  working  in  microbiology  laboratories,  only  one  of  whom  had
+been vaccinated (315). Additionally, S. Typhi might be transmitted nosocomially via the
+hands  of  infected  persons  (315).  Vaccine  Effectiveness,  Duration  of  Immunity,  and
+Vaccine  Safety  Two  typhoid  vaccines  are  distributed  in  the  United  States:  oral
+live-attenuated Ty21a vaccine (one enteric-coated capsule taken on alternate days for
+a total of four capsules) and the capsular polysaccharide parenteral vaccine (1 0.5 mL
+intramuscular  dose).  Both  vaccines  protect  50%--80%  of  recipients.  To  maintain
+immunity,  booster  doses  of  the  oral  vaccine  are  required  every  5  years,  and  booster
+doses of the injected vaccine are required every 2 years. Complication rates are low for
+both types of S. Typhi vaccines. During 1994--1999, serious adverse events requiring
+hospitalization occurred in an estimated 0.47 to 1.3 per 100,000 doses, and no deaths
+occurred  (310).  However,  live-attenuated  Ty21a  vaccine  should  not  be  used  among
+immunocompromised  persons,  including  those  infected  with  HIV  (316).  Theoretic
+concerns have been raised about the immunogenicity of live, attenuated Ty21a vaccine
+in
+ persons
+ concurrently
+ receiving
+ antimicrobials
+ (including
+ antimalarial
+chemoprophylaxis), viral vaccines, or immune globulin (317). A third type of vaccine, a
+parenteral  heat-inactivated  vaccine  associated  with  higher  reactogenicity,  was
+discontinued  in  2000  (310,318).   Vaccination  Microbiologists  and  others  who  work
+frequently  with  S.  Typhi  should  be  vaccinated  with  either  of  the  two  licensed  and
+available vaccines. Booster vaccinations should be administered on schedule according
+to  the  manufacturers'  recommendations.  Controlling  the  Spread  of  Typhoid  Fever
+Personal hygiene, particularly hand hygiene before and after all patient contacts, will
+minimize  risk  for  transmitting  enteric  pathogens  to  patients.  However,  HCP  who
+contract an acute diarrheal illness accompanied by fever, cramps, or bloody stools are
+likely  to  excrete  substantial  numbers  of  infective  organisms  in  their  feces.  Excluding
+these HCP from care of patients until the illness has been evaluated and treated can
+prevent transmission (3). Epidemiology and Risk Factors In the United States, the last
+indigenously acquired cases of poliomyelitis caused by wild poliovirus occurred in 1979,
+and  the  Americas  were  certified  to  be  free  of  indigenous  wild  poliovirus  in  1994
+(319,320).  With  the  complete  transition  from  use  of  oral  poliovirus  vaccine  (OPV)  to
+inactivated  poliovirus  vaccine  (IPV)  in  2000,  vaccine-associated  paralytic  poliomyelitis
+(VAPP) attributable to OPV also has been eliminated (321,322), so the risk for exposure
+to  any  live  poliovirus  in  the  United  States  is  limited.  However,  global  eradication  of
+poliomyelitis  has  not  yet  occurred,  so  reintroductions  of  poliovirus  into  the  United
+States are possible. Two cases of paralytic polio from vaccine-derived poliovirus have
+occurred since 2000 (one imported case in 2005 and one case in an immunodeficient
+person  in  2008),  and  evidence  of  limited  circulating  vaccine-derived  poliovirus  in  an
+undervaccinated  community  was  documented  in  2005  (323--325).  Transmission  and
+Exposure  in  Health-Care  Settings  Poliovirus  can  be  recovered  from  infected  persons,
+including from pharyngeal specimens, feces, urine, and (rarely) cerebrospinal fluid. HCP
+and laboratory workers might be exposed if they come into close contact with infected
+persons (e.g., travelers returning from areas where polio is endemic) or with specimens
+that contain poliovirus. Vaccine Effectiveness, Duration of Immunity, and Vaccine Safety
+Both IPV and OPV are highly immunogenic and effective when administered according
+to their schedules. In studies conducted in the United States, 3 doses of IPV resulted in
+100%  serocoversion  for  types  2  and  3  poliovirus  and  96%--100%  for  type  1  (326).
+Immunity  is  prolonged  and  might  be  lifelong.  IPV  is  well  tolerated,  and  no  serious
+adverse  events  have  been  associated  with  its  use.  IPV  is  an  inactivated  vaccine  and
+does not cause VAPP. IPV is contraindicated in persons with a history of hypersensitivity
+to  any  component  of  the  vaccine,  including  2-phenoxyethanol,  formaldehyde,
+neomycin,  streptomycin,  and  polymyxin  B.  OPV  is  no  longer  available  in  the  United
+States. Vaccination Because the majority of adults born in the United States are likely
+immune to polio as a result of vaccination during childhood, poliovirus vaccine is not
+routinely  recommended  for  persons  aged  ≥18  years.  The  childhood  recommendation
+for poliovirus vaccine consists of 4 doses at ages 2, 4, and 6--18 months and 4--6 years.
+However, vaccination is recommended for HCP who are at greater risk for exposure to
+polioviruses  than  the  general  population,  including  laboratory  workers  who  handle
+specimens  that  might  contain  polioviruses  and  HCP  who  have  close  contact  with
+patients who might be excreting wild polioviruses, including HCP who travel to work in
+areas  where  polioviruses  are  circulating.  Unvaccinated  HCP  should  receive  a  3-dose
+series  of  IPV,  with  dose  2  administered  4--8  weeks  after  dose  1,  and  dose  3
+administered 6--12 months after dose 2. HCP who have previously completed a routine
+series of poliovirus vaccine and who are at increased risk can receive a lifetime booster
+dose of IPV if they remain at increased risk for exposure. Available data do not indicate
+the need for more than a single lifetime booster dose with IPV for adults. Controlling the
+Spread  of  Poliovirus  Standard  precautions  always  should  be  practiced  when  handling
+biologic  specimens.  Suspect  cases  require  an  immediate  investigation  including
+collection  of  appropriate  laboratory  specimens  and  control  measures.  All  suspect  or
+confirmed  cases  should  be  reported  immediately  to  the  local  or  state  health
+department.  Certain  vaccines  are  recommended  for  adults  based  on  age  or  other
+individual risk factors but not because of occupational exposure (327). Vaccine-specific
+ACIP  recommendations  should  be  consulted  for  details  on  schedules,  indications,
+contraindications, and precautions for these vaccines. Managers of health-care facilities
+should implement catch-up vaccination programs for HCP who already are employed, in
+addition  to  developing  policies  for  achieving  high  vaccination  coverage  among  newly
+hired  HCP.  HCP  vaccination  records  could  be  reviewed  annually  during  the  influenza
+vaccination  season  or  concurrent  with  annual  TB  testing.  This  strategy  could  help
+prevent  outbreaks  of  vaccine-preventable  diseases.  Because  education,  especially
+when combined with other interventions such as reminder/recall systems and low or no
+out-of-pocket costs, enhances the success of many vaccination programs, informational
+materials should be available to assist in answering questions from HCP regarding the
+diseases,  vaccines,  and  toxoids  as  well  as  the  program  or  policy  being  implemented
+(120,328).  Conducting  educational  workshops  or  seminars  several  weeks  before  the
+initiation  of  a  catch-up  vaccination  program  might  promote  acceptance  of  program
+goals.  Travel  Hospital  personnel  and  other  HCP  who  perform  research  or  health-care
+work in foreign countries might be at increased risk for acquiring certain diseases that
+can  be  prevented  by  vaccines  recommended  in  the  United  States  (e.g.,  hepatitis  B,
+influenza,  MMR,  Tdap,  poliovirus,  varicella,  and  meningococcal  vaccines)  and
+travel-related  vaccines  (e.g.,  hepatitis  A,  Japanese  encephalitis,  rabies,  typhoid,  or
+yellow  fever  vaccines)  (329).  Elevated  risks  for  acquiring  these  diseases  might  stem
+from exposure to patients in health-care settings (e.g., poliomyelitis and meningococcal
+disease) but also might arise from circumstances unrelated to patient care (e.g., high
+endemicity of hepatitis A or exposure to arthropod-vector diseases [e.g., yellow fever]).
+All HCP should seek the advice of a health-care provider familiar with travel medicine at
+least  4--6  weeks  before  travel  to  ensure  that  they  are  up  to  date  on  routine
+vaccinations  and  that  they  receive  vaccinations  recommended  for  their  destination
+(329).  Although  bacille  Calmette-Guérin  vaccination  is  not  recommended  routinely  in
+the United States, HCP should discuss potential beneficial and other consequences of
+this  vaccination  with  their  health-care  provider.  Work  restrictions  for  susceptible  HCP
+(i.e., no history of vaccination or documented lack of immunity) exposed to or infected
+with  certain  vaccine-preventable  diseases  can  range  from  restricting  individual  HCP
+from patient contact to complete exclusion from duty (Table 5). A furloughed employee
+should be considered in the same category as an employee excluded from the facility.
+Specific  recommendations  concerning  work  restrictions  in  these  circumstances  have
+been  published  previously  (3,11).  The  following  persons  contributed  to  this  report:
+Rachel J. Wilson, Geoff A. Beckett, MPH, Division of Viral Hepatitis, National Center for
+HIV/AIDS,  Viral  Hepatitis,  STD,  and  TB  Prevention,  CDC;  LaDora  O.  Woods,  BS,  Carter
+Consulting,  Inc.,  Atlanta,  Georgia.  *  US  Department  of  Health  and  Human  Services.
+Medicare  program;  hospital  inpatient  prospective  payment  systems  for  acute  care
+hospitals  and  the  long-term  care  hospital  prospective  payment  system  and  FY2012
+rates; hospitals' FTE resident caps for graduate medical education payment; final rules.
+Federal  Register  2011;76:51631--3.  †  The  first  dose  of  measles-containing  vaccine
+should  be  administered  on  or  after  the  first  birthday;  the  second  dose  should  be
+administered  no  earlier  than  28  days  after  the  first  dose.  §  Measles  immunoglobulin
+(IgG) in the serum; equivocal results should be considered negative. ¶ The majority of
+persons  born  before  1957  are  likely  to  have  been  infected  naturally  and  may  be
+presumed immune, depending on current state or local requirements. For unvaccinated
+personnel  born  before  1957  who  lack  laboratory  evidence  of  measles  immunity  or
+laboratory  confirmation  of  disease,  health-care  facilities  should  consider  vaccinating
+personnel with 2 doses of MMR vaccine at the appropriate interval. For unvaccinated
+personnel  born  before  1957  who  lack  laboratory  evidence  of  measles  immunity  or
+laboratory confirmation of disease, health-care facilities should recommend 2 doses of
+MMR  vaccine  during  an  outbreak  of  measles.   **  The  first  dose  of  mumps-containing
+vaccine should be administered on or after the first birthday; the second dose should be
+administered no earlier than 28 days after the first dose.  †† Mumps immunoglobulin
+(IgG) in the serum; equivocal results should be considered negative.  §§ The majority of
+persons born before 1957 are likely to have been infected naturally between birth and
+1977, the year that mumps vaccination was recommended for routine use, and may be
+presumed immune, even if they have not had clinically recognizable mumps disease.
+(This might vary depending on current state or local requirements.) For unvaccinated
+personnel  born  before  1957  who  lack  laboratory  evidence  of  mumps  immunity  or
+laboratory  confirmation  of  disease,  health-care  facilities  should  consider  vaccinating
+personnel  with  2  doses  of  MMR  vaccine  at  the  appropriate  interval;  for  unvaccinated
+personnel  born  before  1957  who  lack  laboratory  evidence  of  mumps  immunity  or
+laboratory confirmation of disease, health-care facilities should recommend 2 doses of
+MMR vaccine during an outbreak of mumps.  ¶¶ Rubella immunoglobulin (IgG) in the
+serum;  equivocal  results  should  be  considered  negative.   ***  Depending  on  current
+state  or  local  requirements,  for  unvaccinated  personnel  born  before  1957  who  lack
+laboratory  evidence  of  rubella  immunity  or  laboratory  confirmation  of  infection  or
+disease,  health-care  facilities  should  consider  vaccinating  personnel  with  one  dose  of
+MMR  vaccine;  for  unvaccinated  personnel  born  before  1957  who  lack  laboratory
+evidence  of  rubella  immunity  or  laboratory  confirmation  of  infection  or  disease,
+health-care facilities should recommend 1 dose of MMR vaccine during an outbreak of
+rubella.  ††† Because rubella can occur in some persons born before 1957 and because
+congenital rubella and congenital rubella syndrome can occur in the offspring of women
+infected  with  rubella  virus  during  pregnancy,  birth  before  1957  is  not  acceptable
+evidence of rubella immunity for women who could become pregnant.  §§§ Commercial
+assays can be used to assess disease-induced immunity, but they often lack sensitivity
+to detect vaccine-induced immunity (i.e., they might yield false-negative results).  ¶¶¶
+Verification of history or diagnosis of typical disease can be provided by any health-care
+provider  (e.g.,  a  school  or  occupational  clinic  nurse,  nurse  practitioner,  physician
+assistant, or physician). For persons reporting a history of, or reporting with, atypical or
+mild cases, assessment by a physician or their designee is recommended, and one of
+the following should be sought: 1) an epidemiologic link to a typical varicella case or to
+a  laboratory-confirmed  case  or  2)  evidence  of  laboratory  confirmation  if  it  was
+performed at the time of acute disease. When such documentation is lacking, persons
+should not be considered as having a valid history of disease because other diseases
+might  mimic  mild  atypical  varicella.  BOX.  Summary  of  main  changes*  from  1997
+Advisory  Committee  on  Immunization  Practices/Hospital  (now  Healthcare)  Infection
+Control
+ Practices
+ Advisory
+ Committee
+ recommendations
+ for
+ immunization
+ of
+health-care personnel (HCP) Hepatitis B HCP and trainees in certain populations at high
+risk  for  chronic  hepatitis  B  (e.g.,  those  born  in  countries  with  high  and  intermediate
+endemicity)  should  be  tested  for  HBsAg  and  anti-HBc/anti-HBs  to  determine  infection
+status. Influenza Emphasis that all HCP, not just those with direct patient care duties,
+should  receive  an  annual  influenza  vaccination  Comprehensive  programs  to  increase
+vaccine  coverage  among  HCP  are  needed;  influenza  vaccination  rates  among  HCP
+within  facilities  should  be  measured  and  reported  regularly.  Measles,  mumps,  and
+rubella  (MMR)  History  of  disease  is  no  longer  considered  adequate  presumptive
+evidence  of  measles  or  mumps  immunity  for  HCP;  laboratory  confirmation  of  disease
+was  added  as  acceptable  presumptive  evidence  of  immunity.  History  of  disease  has
+never been considered adequate evidence of immunity for rubella. The footnotes have
+been  changed  regarding  the  recommendations  for  personnel  born  before  1957  in
+routine and outbreak contexts. Specifically, guidance is provided for 2 doses of MMR for
+measles  and  mumps  protection  and  1  dose  of  MMR  for  rubella  protection.  Pertussis
+HCP, regardless of age, should receive a single dose of Tdap as soon as feasible if they
+have not previously received Tdap. The minimal interval was removed, and Tdap can
+now
+ be
+ administered
+ regardless
+ of
+ interval
+ since
+ the
+ last
+ tetanus
+ or
+diphtheria-containing  vaccine.  Hospitals  and  ambulatory-care  facilities  should  provide
+Tdap for HCP and use approaches that maximize vaccination rates. Varicella Criteria for
+evidence  of  immunity  to  varicella  were  established.  For  HCP  they  include  written
+documentation with 2 doses of vaccine, laboratory evidence of immunity or laboratory
+confirmation  of  disease,  diagnosis  of  history  of  varicella  disease  by  health-care
+provider,  or  diagnosis  of  history  of  herpes  zoster  by  health-care  provider.
+Meningococcal  HCP  with  anatomic  or  functional  asplenia  or  persistent  complement
+component deficiencies should now receive a 2-dose series of meningococcal conjugate
+vaccine. HCP with HIV infection who are vaccinated should also receive a 2 dose series.
+Those  HCP  who  remain  in  groups  at  high  risk  are  recommended  to  be  revaccinated
+every 5 years. Abbreviations: HBsAg = Hepatitis B surface antigen; anti-HBc = hepatitis
+B  core  antibody;  anti-HBs  =  hepatitis  B  surface  antibody;  Tdap  =  tetanus  toxoid,
+reduced
+ diptheria
+ toxoid
+ and
+ acellular
+ pertussis
+ vaccine;
+ HIV
+ =
+ human
+immunodeficiency  virus.  *  Updated  recommendations  made  since  publication  of  the
+1997  summary  of  recommendations  (CDC  Immunization  of  health-care  workers:
+recommendations of the Advisory Committee on Immunization Practices [ACIP] and the
+Hospital Infection Control Practices Advisory Committee [HICPAC]. MMWR 1997;46[No.
+RR-18]).   TABLE  1.  Recommendations  for  immunization  practices  and  use  of
+immunobiologics  applicable  to  disease  prevention  among  health-care  personnel*  ---
+Advisory Committee on Immunization Practices (ACIP), June 9, 1989--August 26, 2011  
+Subject Publication in MMWR General recommendations on immunization 2011;60(No.
+RR-2)  Diphtheria,  tetanus,  and  pertussis  1991;40(No.  RR-10)  1997;46(No.  RR-7)
+Hepatitis B 1991;40;(No. RR-8)† 1991;40(No. RR-13) 2001;50(No. RR-11)† 2006;55(No.
+RR-16)  2008;57(No.  RR-8)†  Influenza§  2010;59(No.  RR-8)  2011;60:1128--32  Measles,
+mumps, rubella (MMR) 
+1998;47(No. RR-8) Meningococcal disease and outbreaks 
+2005;54(No. RR-7) 
+2011;60:72--6 Mumps (see also MMR and Measles) 
+1989;38:388--92, 397--400 
+2006;55;629--630 Pertussis, acellular (see also Diphtheria, tetanus, and pertussis) 
+2006;55(No. RR-3) 
+2006;55(No. RR-17) 
+2008;57(No. RR-4) 
+2011;60:13--15 Poliomyelitis 
+2000;49(No. RR-5) 
+2009;58:829--30 Rubella (see also MMR, Measles, and Mumps) 
+2001;50:1117 Typhoid 
+1994;43(No. RR-14) Varicella 
+2007;56(No. RR-4) * Persons who provide health care to patients or work in institutions
+that  provide  patient  care  (e.g.,  physicians,  nurses,  emergency  medical  personnel,
+dental  professionals  and  students,  medical  and  nursing  students,  laboratory
+technicians,  hospital  volunteers,  and  administrative  and  support  staff  in  health-care
+institutions).  Source:  U.S.  Department  of  Health  and  Human  Services.  Definition  of
+health-care
+ personnel
+ (HCP).
+ Available
+ at
+http://www.hhs.gov/ask/initiatives/vacctoolkit/definition.html.   †  This  report  provides
+guidance  from  CDC  and  is  not  an  ACIP  statement.  §  Each  year  influenza  vaccine
+recommendations  are  reviewed  and  amended  to  reflect  updated  information
+concerning  influenza  activity  in  the  United  States  for  the  preceding  influenza  season
+and to provide information on the vaccine available for the upcoming influenza season.
+These  recommendations  are  published  periodically  in  MMWR.  The  most  current
+published
+ recommendations
+ should
+ be
+ consulted
+ (available
+ at
+http://www.cdc.gov/vaccines/pubs/acip-list.htm).   TABLE  2.  Immunizing  agents  and
+immunization  schedules  for  health-care  personnel  (HCP)*   Generic  name  Primary
+schedule  and  booster(s)  Indications  Major  precautions  and  contraindications  Special
+considerations  Immunizing  agents  recommended  for  all  HCP  Hepatitis  B  (HB)
+recombinant vaccine 2 doses 4 weeks apart; third dose 5 months after second; booster
+doses not necessary; all doses should be administered IM in the deltoid Preexposure:
+HCP  at  risk  for  exposure  to  blood  or  body  fluids;  postexposure  (see  Table  4)  On  the
+basis  of  limited  data,  no  risk  for  adverse  effects  to  developing  fetuses  is  apparent.
+Pregnancy  should  not  be  considered  a  contraindication  to  vaccination  of  women.
+Previous  anaphylactic  reaction  to  common  baker's  yeast  is  a  contraindication  to
+vaccination.  The  vaccine  produces  neither  therapeutic  nor  adverse  effects  in
+HBV-infected  persons.  Prevaccination  serologic  screening  is  not  indicated  for  persons
+being vaccinated because of occupational risk but might be indicated for HCP in certain
+high-risk  populations.  HCP  at  high  risk  for  occupational†  contact  with  blood  or  body
+fluids should be tested 1--2 months after vaccination to determine serologic response.
+Hepatitis B immune globulin (HBIG) 0.06 mL/kg IM as soon as possible after exposure, if
+indicated   Postexposure  prophylaxis  (see  Table  4)  See  package  insert§  Influenza
+vaccine  (TIV  and  LAIV)  Annual  vaccination  with  current  seasonal  vaccine.  TIV  is
+available in IM and ID formulations. LAIV is administered intranasally. All HCP  History of
+severe  (e.g.,  anaphylactic)  hypersensitivity  to  eggs;  prior  severe  allergic  reaction  to
+influenza  vaccine  No  evidence  exists  of  risk  to  mother  of  fetus  when  the  vaccine  is
+administered  to  a  pregnant  woman  with  an  underlying  high-risk  condition.  Influenza
+vaccination is recommended for women who are or will be pregnant during influenza
+season because of increased risk for hospitalization and death. LAIV is recommended
+only  for  healthy,  non--pregnant  persons  aged  2--49  years.  Intradermal  vaccine  is
+indicated for persons aged 18--64 years. HCP who care for severely immunosuppressed
+persons  who  require  a  protective  environment  should  receive  TIV  rather  than  LAIV.
+Measles  live--virus  vaccine  2  doses  SC;  ≥28  days  apart  Vaccination  should  be
+recommended  for  all  HCP  who  lack  presumptive  evidence  of  immunity;¶  vaccination
+should  be  considered  for  those  born  before  1957.  Pregnancy;  immunocompromised
+persons,**
+ including
+ HIV-infected
+ persons
+ who
+ have
+ evidence
+ of
+ severe
+immunosuppression; anaphylaxis to gelatin or gelatin-containing products; anaphylaxis
+to  neomycin;  and  recent  administration  of  immune  globulin.  HCP  vaccinated  during
+1963--1967 with a killed measles vaccine alone, killed vaccine followed by live vaccine,
+or a vaccine of unknown type should be revaccinated with 2 doses of live measles virus
+vaccine. Mumps live--virus vaccine 2 doses SC; ≥28 days apart Vaccination should be
+recommended  for  all  HCP  who  lack  presumptive  evidence  of  immunity.††  Vaccination
+should  be  considered  for  those  born  before  1957.  Pregnancy;  immunocompromised
+persons,**
+ including
+ HIV-infected
+ persons
+ who
+ have
+ evidence
+ of
+ severe
+immunosuppression; anaphylaxis to gelatin or gelatin-containing products; anaphylaxis
+to neomycin HCP vaccinated before 1979 with either killed mumps vaccine or mumps
+vaccine of unknown type should consider revaccination with 2 doses of MMR vaccine. 
+Rubella  live-virus  vaccine  1  dose  SC;  (However,  due  to  the  2-dose  requirements  for
+measles and mumps vaccines, the use of MMR vaccine will result in most HCP receiving
+2 doses of rubella-containing vaccine.) Vaccination should be recommended for all HCP
+who  lack  presumptive  evidence  of  immunity.§§  Pregnancy;  immunocompromised
+persons**
+ including
+ HIV--infected
+ persons
+ who
+ have
+ evidence
+ of
+ severe
+immunosuppression; anaphylaxis to gelatin or gelatin--containing products; anaphylaxis
+to neomycin The risk for rubella vaccine--associated malformations in the offspring of
+women  pregnant  when  vaccinated  or  who  become  pregnant  within  1  month  after
+vaccination is negligible.¶¶ Such women should be counseled regarding the theoretical
+basis  of  concern  for  the  fetus.   TABLE  2.  (Continued)  Immunizing  agents  and
+immunization  schedules  for  health-care  personnel  (HCP)*   Generic  name  Primary
+schedule  and  booster(s)  Indications  Major  precautions  and  contraindications  Special
+considerations Tetanus and diphtheria (toxoids) and acellular pertussis (Tdap) 1 dose IM
+as soon as feasible if Tdap not already received and regardless of interval from last Td.
+After receipt of Tdap, receive Td for routine booster every 10 years. All HCP, regardless
+of age. History of serious allergic reaction (i.e., anaphylaxis) to any component of Tdap.
+Because of the importance of tetanus vaccination, persons with history of anaphylaxis
+to components in Tdap or Td should be referred to an allergist to determine whether
+they have a specific allergy to tetanus toxoid and can safely receive tetanus toxoid (TT)
+vaccine. Persons with history of encephalopathy (e.g., coma or prolonged seizures) not
+attributable to an identifiable cause within 7 days of administration of a vaccine with
+pertussis components should receive Td instead of Tdap.  Tetanus prophylaxis in wound
+management  if  not  yet  received  Tdap***  Varicella  vaccine  (varicella  zoster  virus
+live-virus vaccine) 2 doses SC 4--8 weeks apart if aged ≥13 years. All HCP who do not
+have  evidence  of  immunity  defined  as:  written  documentation  of  vaccination  with  2
+doses  of  varicella  vaccine:  laboratory  evidence  of  immunity†††  or  laboratory
+confirmation of disease; diagnosis or verification of a history of varicella disease by a
+health-care provider,§§§ or diagnosis or verification of a history of herpes zoster by a
+health-care
+ provider.
+ Pregnancy;
+ immunocompromised
+ persons;**
+ history
+ of
+anaphylactic reaction after receipt of gelatin or neomycin. Varicella vaccination may be
+considered  for  HIV-infected  adolescents  and  adults  with  CD4+  T-lymphocyte  count
+>200 cells/uL. Avoid salicylate use for 6 weeks after vaccination. Because 71%--93% of
+adults without a history of varicella are immune, serologic testing before vaccination is
+likely to be cost-effective. Varicella-zoster immune globulin  125U/10 kg IM (minimum
+dose:  125U;  maximum  dose:  625U)  Persons  without  evidence  of  immunity  who  have
+contraindications  for  varicella  vaccination  and  who  are  at  risk  for  severe  disease  and
+complications¶¶¶  known  or  likely  to  be  susceptible  who  have  direct,  nontransient
+exposure to an infectious hospital staff worker or patient Serologic testing may help in
+assessing  whether  to  administer  varicella--zoster  immune  globulin.  If  use  of
+varicella--zoster  immune  globulin  prevents  varicella  disease,  patient  should  be
+vaccinated subsequently. The varicella--zoster immune globulin product currently used
+in  the  United  States  (VariZIG)  (Cangene  Corp.  Winnipeg  Canada)  can  be  obtained  24
+hours  a  day  from  the  sole  authorized  U.S.  distributor  (FFF  Enterprises,  Temecula,
+California) at 1-800-843-7477 or http://www.fffenterprises.com. Other immunobiologics
+that might be indicated in certain circumstances for HCP Quadrivalent meningococcal
+conjugate  vaccine  (tetravalent  (A,C,Y,W)  for  HCP  ages  19--54  years,  Quadrivalent
+meningococcal polysaccharide vaccine for HCP age >55 years 1 dose; booster dose in 5
+years  if  person  remains  at  increased  risk  Clinical  and  research  microbiologists  who
+might  routinely  be  exposed  to  isolates  of  Neisseria  meningitidis  The  safety  of  the
+vaccine  in  pregnant  women  has  not  been  evaluated;  it  should  not  be  administered
+during pregnancy unless the risk for infection is high. TABLE 2. (Continued) Immunizing
+agents  and  immunization  schedules  for  health-care  personnel  (HCP)*   Generic  name
+Primary  schedule  and  booster(s)  Indications  Major  precautions  and  contraindications
+Special considerations Typhoid vaccine IM, and oral IM vaccine: 1 dose, booster every 2
+years.  Oral  vaccine:  4  doses  on  alternate  days.  Manufacturer  recommends
+revaccination  with  the  entire  4-dose  series  every  5  years.  Workers  in  microbiology
+laboratories  who  frequently  work  with  Salmonella  typhi.  Severe  local  or  systemic
+reaction  to  a  previous  dose.  Ty21a  (oral)  vaccine  should  not  be  administered  to
+immunocompromised  persons**  or  to  persons  receiving  antimicrobial  agents.
+Vaccination  should  not  be  considered  an  alternative  to  the  use  of  proper  procedures
+when handling specimens and cultures in the laboratory. Inactivated poliovirus vaccine
+(IPV)  For  unvaccinated  adults,  2  doses  should  be  administered  at  intervals  of  4--8
+weeks;  a  third  dose  should  be  administered  6--12  months  after  the  second  dose.
+Vaccination  is  recommended  for  adults  at  increased  risk  for  exposure  to  polioviruses
+including  health-care  personnel  who  have  close  contact  with  patients  who  might  be
+excreting  polioviruses.  Adults  who  have  previously  received  a  complete  course  of
+poliovirus vaccine may receive one lifetime booster if they remain at increased risk for
+exposure. Hypersensitivity or anaphylactic reactions to IPV or antibiotics contained in
+IPV.  IPV  contains  trace  amounts  of  streptomycin,  polymyxin  B,  and  neomycin.
+Abbreviations: IM = intramuscular; HBV = hepatitis B virus; HBsAg = hepatitis B surface
+antigen; SC = subcutaneous; HIV = human immunodeficiency virus; MMR = measles,
+mumps,  rubella  vaccine;  TB  =  tuberculosis;  HAV  =  hepatitis  A  virus;  IgA  =  immune
+globulin A; ID = intradermal; TIV = trivalent inactivated split-virus vaccines; LAIV = live
+attenuated  influenza  vaccine;  BCG  =  bacille  Calmette-Guérin;  OPV  =  oral  poliovirus
+vaccine.   *  Persons  who  provide  health  care  to  patients  or  work  in  institutions  that
+provide  patient  care  (e.  g.,  physicians,  nurses,  emergency  medical  personnel,  dental
+professionals  and  students,  medical  and  nursing  students,  laboratory  technicians,
+hospital  volunteers,  and  administrative  and  support  staff  in  health-care  institutions).
+Source:  U.S.  Department  of  Health  and  Human  Services.  Definition  of  health-care
+personnel
+ (HCP).
+ Available
+ at
+http://www.hhs.gov/ask/initiatives/vacctoolkit/definition.html.   †  Health-care  personnel
+and public safety workers at high risk for continued percutaneous or mucosal exposure
+to blood or body fluids include acupuncturists, dentists, dental hygienists, emergency
+medical  technicians,  first  responders,  laboratory  technologists/technicians,  nurses,
+nurse  practitioners,  phlebotomists,  physicians,  physician  assistants,  and  students
+entering these professions. Source: 
+CDC. A comprehensive immunization strategy to eliminate transmission of hepatitis B
+virus  infection  in  the  United  States:  recommendations  of  the  Advisory  Committee  on
+Immunization  Practices.  Part  II:  immunization  of  adults.  MMWR  2006;55(No.  RR-16).  §
+The package insert should be consulted to weigh the risks and benefits of giving HBIG
+to persons with IgA deficiency, or to persons who have had an anaphylactic reaction to
+an IgG containing biologic product. ¶ Written documentation of vaccination with 2 doses
+of live measles or MMR vaccine administered ≥28 days apart, or laboratory evidence of
+measles immunity, or laboratory confirmation of measles disease, or birth before 1957. 
+** Persons immunocompromised because of immune deficiency diseases, HIV infection
+(who  should  primarily  not  receive  BCG,  OPV,  and  yellow  fever  vaccines),  leukemia,
+lymphoma or generalized malignancy or immunosuppressed as a result of therapy with
+corticosteroids,
+ alkylating
+ drugs,
+ antimetabolites,
+ or
+ radiation.
+ 
+ ††
+ Written
+documentation of vaccination with 2 doses of live mumps or MMR vaccine administered
+≥28 days apart, or laboratory evidence of mumps immunity, or laboratory confirmation
+of mumps disease, or birth before 1957. §§ Written documentation of vaccination with 1
+dose of live rubella or MMR vaccine, or laboratory evidence of immunity, or laboratory
+confirmation  of  rubella  infection  or  disease,  or  birth  before  1957,  except  women  of
+childbearing potential who could become pregnant; though pregnancy in this age group
+would be exceedingly rare. ¶¶ Source: 
+CDC.  Revised  ACIP  recommendation  for  avoiding  pregnancy  after  receiving  a
+rubella-containing vaccine. MMWR 2001;50:1117.  *** Source:
+CDC. Update on adult immunization: recommendations of the Advisory Committee on
+Immunization Practices (ACIP). MMWR 1991:40(No. RR-12). ††† Commercial assays can
+be used to assess disease--induced immunity, but they often lack sensitivity to detect
+vaccine-induced immunity (i.e., they might yield false-negative results).  §§§ Verification
+of history or diagnosis of typical disease can be provided by any health-care provider
+(e.g.,  school  or  occupational  clinic  nurse,  nurse  practitioner,  physician  assistant,  or
+physician). For persons reporting a history of, or reporting with, atypical or mild cases,
+assessment by a physician or their designee is recommended, and one of the following
+should  be  sought:  1)  an  epidemiologic  link  to  a  typical  varicella  case  or  to  a
+laboratory--confirmed case or 2) evidence of laboratory confirmation if it was performed
+at the time of acute disease. When such documentation is lacking, persons should not
+be considered as having a valid history of disease because other diseases might mimic
+mild  atypical  varicella.  ¶¶¶  For  example,  immunocompromised  patients  or  pregnant
+women.  TABLE  3.  Summary  of  recommendations  for  immunization  of  health-care
+personnel*  (HCP)  with  special  certain  conditions  ---  Advisory  Committee  on
+Immunization  Practices,  United  States,  2011  Vaccine  Pregnancy  HIV  infection  Severe
+immunosuppression† Asplenia Renal failure Diabetes Alcoholism and alcoholic cirrhosis
+Hepatitis B  R R R R R R R Influenza R§ R R R R R R Measles, mumps, rubella C R¶ C R R
+R R Meningococcus UI UI UI R** UI UI UI IPV †† UI UI UI UI UI UI UI Pertussis, tetanus,
+diphtheria R R R R R R R Typhoid, inactivated Vi§§ UI UI UI UI UI UI UI Typhoid, Ty21a UI
+C  C  UI  UI  UI  UI  Varicella  C  UI¶¶  C  R  R  R  R  Abbreviations:  R  =  recommended;  C  =
+contraindicated; UI = use if indicated; IPV = inactivated poliovirus vaccine.  * Persons
+who provide health care to patients or work in institutions that provide patient care (e.
+g.,  physicians,  nurses,  emergency  medical  personnel,  dental  professionals  and
+students,  medical  and  nursing  students,  laboratory  technicians,  hospital  volunteers,
+and  administrative  and  support  staff  in  health-care  institutions).  Source:  U.S.
+Department of Health and Human Services. Definition of health-care personnel (HCP).
+Available  at  http://www.hhs.gov/ask/initiatives/vacctoolkit/definition.html.   †  Severe
+immunosuppression  can  be  caused  by  congenital  immunodeficiency,  leukemia,
+lymphoma, generalized malignancy or therapy with alkylating agents, antimetabolites,
+ionizing  radiation,  or  large  amounts  of  corticosteroids.   §  Women  who  are  or  will  be
+pregnant during the influenza season.  ¶ Contraindicated in HIV-infected persons who
+have  evidence  of  severe  immunosuppression.   **  Recommendation  is  based  on  the
+person's underlying condition rather than occupation.  †† Vaccination is recommended
+for unvaccinated HCP who have close contact with patients who may be excreting wild
+polioviruses. HCP who have had a primary series of oral poliovirus vaccine (OPV) or IPV
+who are directly involved with the provision of care to patients who may be excreting
+poliovirus  may  receive  another  dose  of  either  IPV  or  OPV.  Any  suspected  case  of
+poliomyelitis should be investigated immediately. If evidence suggests transmission of
+poliovirus,  control  measures  to  contain  further  transmission  should  be  instituted
+immediately.  §§ Capsular polysaccharide parenteral vaccine.  ¶¶ Varicella vaccine may
+be  considered  for  HIV-infected  adults  without  evidence  of  immunity  and  with  CD4
+T-lymphocyte  count  ≥200  cells/Ul.  TABLE  4.  Recommended  postexposure  prophylaxis
+for percutaneous or permucosal exposure to hepatitis B virus --- Advisory Committee on
+Immunization  Practices,  United  States  Vaccination  and  antibody  response  status  of
+exposed  person  Treatment  Source  HBsAg-positive  Source  HBsAg-negative  Source  not
+tested or status unknown Unvaccinated HBIG x 1; initiate HB vaccine series Initiate HB
+vaccine  series  Initiate  HB  vaccine  series  Previously  vaccinated  Known  responder  No
+treatment No treatment No treatment Known nonresponder After 3 doses HBIG x 1 and
+initiate  revaccination  No  treatment  If  known  high-risk  source,  treat  as  if  source  were
+HBsAg-positive After 6 doses HBIG x 2 (separated by 1 month) No treatment If known
+high-risk  source,  treat  as  if  source  were  HBsAg-positive  Antibody  response  unknown
+Test exposed person for anti-HBs If adequate,* no treatment If inadequate,* HBIG x 1
+and  vaccine  booster  No  treatment  Test  exposed  person  for  anti-HBs  If  adequate,*  no
+treatment  If  inadequate,*  initiate  revaccination  Abbreviations:  HBsAg  =  Hepatitis  B
+surface antigen; HBIG = hepatitis B immune globulin; anti-HBs = antibody to hepatitis B
+surface antigen; HB = hepatitis B. Source: Adapted from 
+CDC.  A  comprehensive  immunization  strategy  to  eliminate  transmission  of
+hepatitis  B  virus  infection  in  the  United  States:  recommendations  of  the  Advisory
+Committee  on  Immunization  Practices  (ACIP).  Part  II:  immunization  of  adults.  MMWR
+2006;55(No. RR-16). * A seroprotective (adequate) level of anti-HBs after completion of
+a  vaccination  series  is  defined  as  anti-HBs  ≥10  mlU/mL;  a  response  <  10  mlU/mL  is
+inadequate and is not a reliable indicator of protection. TABLE 5. Advisory Committee
+on Immunization Practices work restrictions for health-care personnel* (HCP) exposed
+to
+ or
+ infected
+ with
+ certain
+ vaccine-preventable
+ diseases
+ and
+ conditions
+Disease/Condition  Work restriction Duration Hepatitis B HCP positive for HBsAg (e.g.,
+acute  or  chronic  hepatitis  B  infection):  HCP  who  do  not  perform  exposure-prone
+invasive  procedures   No  restriction  unless  linked  epidemiologically  to  transmission  of
+hepatitis  B  virus  infection  Standard  precautions  always  should  be  observed  HCP  who
+perform  exposure-prone  invasive  procedures  These  HCP  should  not  perform
+exposure-prone  invasive  procedures  until  they  have  sought  counsel  from  an  expert
+review  panel,  which  should  review  and  recommend  the  procedures  the  worker  can
+perform, taking into account the specific procedure as well as the skill and technique of
+the  worker   Per  recommendation  of  expert  panel  Upper  respiratory  infections  HCP  in
+contact with persons at high risk for complications of influenza† Exclude from duty Until
+afebrile
+ ≥24
+ hours
+ (without
+ the
+ use
+ of
+ fever-reducing
+ medicines
+ such
+ as
+acetaminophen).  Those  with  ongoing  respiratory  symptoms  should  be  considered  for
+evaluation  by  occupational  health  to  determine  appropriateness  of  contact  with
+patients.  If  returning  to  care  for  patients  in  a  protective  environment  (e.g.,
+hematopoietic  stem  cell  transplant  patients),  consider  for  temporary  reassignment  or
+exclusion  from  work  for  7  days  from  symptom  onset  or  until  the  resolution  of
+symptoms,  whichever  is  longer.   Those  who  develop  acute  respiratory  symptoms
+without fever should be considered for evaluation by occupational health to determine
+appropriateness of contact with patients and can be allowed to work unless caring for
+patients  in  a  protective  environment;  these  personnel  should  be  considered  for
+temporary reassignment or exclusion from work for 7 days from symptom onset or until
+the  resolution  of  all  noncough  symptoms,  whichever  is  longer.  If  symptoms  such  as
+cough and sneezing are still present, HCP should wear a facemask during patient care
+activities. The importance of performing frequent hand hygiene (especially before and
+after each  patient contact) should  be reinforced.  Measles  Active Exclude from duty  4
+days after rash appears Postexposure (HCP without presumptive evidence of measles
+immunity)  Exclude  from  duty  5  days  after  first  exposure  through  21  days  after  last
+exposure and/or 4 days after the rash appears Mumps Active Exclude from duty 5 days
+after  onset  of  parotitis  Postexposure  (HCP  without  presumptive  evidence  of  mumps
+immunity)  Exclude  from  duty  12  days  after  first  exposure  through  25  days  after  last
+exposure or 5 days after onset of parotitis Pertussis Active Exclude from duty Beginning
+of  catarrhal  stage  through  third  week  after  onset  of  paroxysms  or  until  5  days  after
+start  of  effective  antimicrobial  therapy  Postexposure  Symptomatic  personnel  Exclude
+from duty 5 days after start of effective antimicrobial therapy Asymptomatic personnel
+-- HCP likely to expose a patient at risk for severe pertussis§ No restriction from duty;
+on  antimicrobial  prophylactic  therapy  Asymptomatic  personnel  --  other  HCP  No
+restriction from duty; can receive postexposure prophylaxis or be monitored for 21 days
+after pertussis exposure and treated at the onset of signs and symptoms of pertussis
+TABLE 5. (Continued) Advisory Committee on Immunization Practices work restrictions
+for
+ health-care
+ personnel*
+ (HCP)
+ exposed
+ to
+ or
+ infected
+ with
+ certain
+vaccine-preventable  diseases  and  conditions  Disease/Condition   Work  restriction
+Duration Rubella Active Exclude from duty 7 days after the rash appears Postexposure
+(personnel without evidence of rubella immunity) Exclude from duty 7 days after first
+exposure through 23 days after last exposure and/or 7 days after rash appears Varicella
+Active Exclude from duty Until all lesions dry and crust. If only lesions that do not crust
+(i.e.,  macules  and  papules),  until  no  new  lesions  appear  within  a  24-hour  period
+Postexposure  (HCP  without  evidence  of  varicella  immunity)  Exclude  from  duty  unless
+receipt of the second dose within 3-5 days after exposure 8th day after 1st exposure
+through 21st day (28th day if varicella-zoster immune globulin administered) after the
+last exposure; if varicella occurs, until all lesions dry and crust or, if only lesions that do
+not  crust  (i.e.,  macules  and  papules),  until  no  new  lesions  appear  within  a  24-hour
+period Herpes zoster Localized in immunocompetent person Cover lesions; restrict from
+care of high-risk patients¶ Until all lesions dry and crust Disseminated or localized in
+immunocompromised  person  until  disseminated  infection  is  ruled  out   Exclude  from
+duty  Until  all  lesions  dry  and  crust  Postexposure  (HCP  without  evidence  of  varicella
+immunity) Disseminated zoster or localized zoster with uncontained/uncovered lesions
+Exclude  from  duty  unless  receipt  of  the  second  dose  of  varicella  vaccine  within  3--5
+days  after  exposure  8th  day  after  1st  exposure  through  21st  day  (28th  day  if
+varicella-zoster  immune  globulin  administered)  after  the  last  exposure;  if  varicella
+occurs, until all lesions dry and crust or, if only lesions that do not crust (i.e., macules
+and papules), until no new lesions appear within a 24-hour period Localized zoster with
+contained/covered  lesions  For  HCP  with  at  least  1dose  of  varicella  vaccine,  no  work
+restrictions. For HCP with no doses of varicella vaccine, restrict from patient contact 8th
+day after 1st exposure through 21st day (28th day if varicella-zoster immune globulin
+administered) after the last exposure; if varicella occurs, until all lesions dry and crust
+or,  if  only  lesions  that  do  not  crust  (i.e.,  macules  and  papules),  until  no  new  lesions
+appear  within  a  24-hour  period  Abbreviation:  HBsAg  =  hepatitis  B  surface  antigen.
+Sources: Adapted from 
+CDC.
+ Recommendations
+ for
+ preventing
+ transmission
+ of
+ human
+immunodeficiency  virus  and  hepatitis  B  virus  to  patients  during  exposure-prone
+invasive procedures. MMWR 1991;40(No. RR-8); CDC. Guideline for isolation precautions
+in  hospitals:  recommendations  of  the  Hospital  Infection  Control  Practices  Advisory
+Committee  (HICPAC)  and  the  National  Center  for  Infectious  Diseases.  Infect  Control
+Hosp  Epidemiol  1996;17:53--80;  Williams  WW.  CDC  guideline  for  infection  control  in
+hospital personnel. Infect Control 1983;4(Suppl):326--49; 
+CDC. Immunization of health-care workers: recommendations of the Advisory
+Committee  on  Immunization  Practices  (ACIP)  and  the  Hospital  Infection  Control
+Practices  Advisory  Committee  (HICPAC).  MMWR  1997;46(No.  RR-18).  *  Persons  who
+provide health care to patients or work in institutions that provide patient care (e. g.,
+physicians,  nurses,  emergency  medical  personnel,  dental  professionals  and  students,
+medical  and  nursing  students,  laboratory  technicians,  hospital  volunteers,  and
+administrative and support staff in health-care institutions). Source: U.S. Department of
+Health  and  Human  Services.  Definition  of  health-care  personnel  (HCP).  Available  at
+http://www.hhs.gov/ask/initiatives/vacctoolkit/definition.html.  †  Includes  children  aged
+<5 years, adults aged ≥65 years, pregnant women, American Indians/Alaska Natives,
+persons aged <19 years who are receiving long-term aspirin therapy, and persons with
+certain high-risk medical conditions (i.e., asthma, neurologic and neurodevelopmental
+conditions,  chronic  lung  disease,  heart  disease,  blood  disorders,  endocrine  disorders,
+kidney disorders, liver disorders, metabolic disorders, weakened immune system due to
+disease  or  medication,  and  morbid  obesity).   §  Includes  hospitalized  neonates  and
+pregnant women. ¶ Includes patients who are susceptible to varicella and at increased
+risk
+ for
+ complications
+ of
+ varicella
+ (i.e.,
+ neonates,
+ pregnant
+ women,
+ and
+immunocompromised  persons  of  any  age).  Advisory  Committee  on  Immunization
+Practices  Membership  List,  February  2011  Chair:  Carol  Baker,  MD,  Baylor  College  of
+Medicine, Houston, Texas. Executive Secretary: Larry Pickering, MD, National Center for
+Immunization  and  Respiratory  Diseases,  CDC,  Atlanta,  Georgia.  Members:  Lance
+Chilton,  MD,  University  of  New  Mexico,  Albuquerque,  New  Mexico;  Paul  Cieslak,  MD,
+Oregon Public Health Division, Portland, Oregon; Tamera Coyne-Beasley, MD, University
+of  North  Carolina,  Chapel  Hill,  North  Carolina;  Jeffrey  Duchin,  MD,  University  of
+Washington,  Seattle,  Washington;  Kristen  Ehresmann,  MPH,  Minnesota  Department  of
+Health, St Paul, Minnesota; Janet Englund, MD, University of Washington and Children's
+Hospital and Regional Medical Center, Seattle, Washington; Renée Jenkins, MD, Howard
+University School of Medicine, District of Columbia; Franklyn Judson, MD, University of
+Colorado Health Sciences Center, Denver, Colorado; Wendy Keitel, MD, Baylor College
+of  Medicine,  Houston,  Texas;  Michael  Marcy,  MD,  UCLA  Center  for  Vaccine  Research,
+Torrance, California; Cody Meissner, MD, Tufts Medical Center, Boston, Massachusetts;
+Sara  Rosenbaum,  JD,  Georgetown  University,  District  of  Columbia;  Mark  Sawyer,  MD,
+University  of  California  at  San  Diego,  California;  Jonathan  Temte,  MD,  University  of
+Wisconsin  School  of  Medicine  and  Public  Health,  Madison,  Wisconsin.  Ex  Officio
+Members:  James  E.  Cheek,  MD,  Indian  Health  Service,  Albuquerque,  New  Mexico;
+Geoffrey  S.  Evans,  MD,  Health  Resources  and  Services  Administration,  Rockville,
+Maryland;  Jesse  Geibe,  MD,  Department  of  Defense,  CDC,  Atlanta,  Georgia;  Bruce
+Gellin, MD, National Vaccine Program Office, District of Columba; Richard Gorman, MD,
+National Institutes of Health, Bethesda, Maryland; Linda Murphy, Centers for Medicare
+and  Medicaid  Services,  Baltimore,  Maryland;  Norman  Baylor,  PhD,  Food  and  Drug
+Administration,  Bethesda,  Maryland;  Linda  Kinsinger,  MD,  Department  of  Veterans
+Affairs, Durham, North Carolina. Liaison Representatives: American Academy of Family
+Physicians,  Doug  Campos-Outcalt,  MD,  Phoenix,  Arizona;  American  Academy  of
+Pediatrics, Michael Brady, MD, Ohio State University, Columbus, Ohio, David Kimberlin,
+MD,  Birmingham,  Alabama;  American  Academy  of  Physician  Assistants,  Marie-Michèle
+Léger, MPH, Alexandria, Virgina; American College Health Association, James C. Turner,
+MD,  Charlottesville,  Virginia;  American  College  of  Obstetricians  and  Gynecologists,
+Stanley Gall, MD, Louisville, Kentucky; American College of Physicians, Gregory Poland,
+MD,  Rochester,  Minnesota;  American  Geriatrics  Society,  Kenneth  Schmader,  MD,
+Durham,  North  Carolina;  America's  Health  Insurance  Plans,  Mark  Netoskie,  MD,
+Houston,  Texas;  American  Medical  Association,  Litjen  Tan,  PhD,  Chicago,  Illinois;
+American  Nurses  Association,  Katie  Brewer,  MSN,  Silver  Springs,  Maryland;  American
+Osteopathic  Association,  Stanley  Grogg,  DO,  Tulsa,  Oklahoma;  American  Pharmacists
+Association,  Stephan  L.  Foster,  PharmD,  Memphis,  Tennessee;  Association  of
+Immunization  Managers,  Kelly  Moore,  MD,  Nashville,  Tennessee;  Association  for
+Prevention  Teaching  and  Research,  W.  Paul  McKinney,  MD,  Louisville,  Kentucky;
+Association  of  State  and  Territorial  Health  Officials,  José  Montero,  MD,  Concord,  New
+Hampshire;  Biotechnology  Industry  Organization,  Clement  Lewin,  PhD,  Cambridge,
+Massachusetts;  Canadian  National  Advisory  Committee  on  Immunization,  Joanne
+Langley,  MD,  Halifax,  Nova  Scotia,  Canada;  Council  of  State  and  Territorial
+Epidemiologists,  Christine  Hahn,  MD,  Boise,  Idaho;  Department  of  Health,  United
+Kingdom, David M. Salisbury, MD, London, United Kingdom; Healthcare Infection Control
+Practices Advisory Committee, Alexis Elward, MD, St Louis, Missouri; Infectious Diseases
+Society of America, Samuel L. Katz, MD, Durham, North Carolina; National Association
+of  County  and  City  Health  Officials,  Matthew  Zahn,  MD,  Louisville,  Kentucky;  National
+Association  of  Pediatric  Nurse  Practitioners,  Patricia  Stinchfield,  MPH,  St  Paul,
+Minnesota;  National  Foundation  for  Infectious  Diseases,  William  Schaffner,  MD,
+Nashville, Tennessee; National Immunization Council and Child Health Program, Mexico,
+Vesta  Richardson,  MD,  Mexico  City,  Mexico;  National  Medical  Association,  Patricia
+Whitley-Williams,  MD,  New  Brunswick,  New  Jersey;  National  Vaccine  Advisory
+Committee,  Guthrie  Birkhead,  MD,  Albany,  New  York;  Pharmaceutical  Research  and
+Manufacturers of America, Damian A. Braga, Swiftwater, Pennsylvania, Peter Paradiso,
+PhD,  Collegeville,  Pennsylvania;  Society  for  Adolescent  Health  and  Medicine,  Amy
+Middleman, MD, Houston, Texas; Society for Healthcare Epidemiology of America, Harry
+Keyserling,  MD,  Atlanta,  Georgia.  Immunization  of  Health-Care  Personnel  Work  Group
+Abigail Shefer, MD, National Center for Immunization and Respiratory Diseases, William
+Atkinson, MD, National Center for Immunization and Respiratory Diseases, Jane Seward,
+MBBS,  National  Center  for  Immunization  and  Respiratory  Diseases,  Elizabeth  Bolyard,
+MPH,  National  Center  for  Emerging  Zoonotic  Infectious  Diseases,  David  Kuhar,  MD,
+National Center for Emerging Zoonotic Infectious Diseases, Suchita Lorick, MD, National
+Center for Immunization and Respiratory Diseases, Gina Mootrey, DO, National Center
+for Immunization and Respiratory Diseases, CDC, Atlanta; Joseph Perz, DrPH, National
+Center for Emerging Zoonotic Infectious Diseases, CDC, Atlanta, Georgia; Paul Cieslak,
+MD,  Public  Health  Division,  Oregon  Health  Authority,  Portland,  Oregon;  Kristen
+Ehresmann, MPH, Minnesota Department of Health, St Paul, Minnesota; Alexis Elward,
+MD, Washington University School of Medicine, St Louis, Missouri; Harry Keyserling, MD,
+Emory  University  School  of  Medicine,  Atlanta,  Georgia;  ACIP  liaison  representatives:
+Jean  Haulman,  MD,  University  of  Washington,  Seattle,  Washington;  Mark  Russi,  MD,
+American  College  of  Occupational  and  Environmental  Medicine,  New  Haven,
+Connecticut; David Weber, MD, University of North Carolina, Chapel Hill, North Carolina.
+Use of trade names and commercial sources is for identification only and does not imply
+endorsement by the U.S. Department of 
+Health and Human Services. References to non-CDC sites on the Internet are 
+provided as a service to MMWR readers and do not constitute or imply 
+endorsement of these organizations or their programs by CDC or the U.S. 
+Department of Health and Human Services. CDC is not responsible for the content 
+of pages found at these sites. URL addresses listed in MMWR were current as of 
+the date of publication. All MMWR HTML versions of articles are electronic conversions
+from typeset documents. 
+This  conversion  might  result  in  character  translation  or  format  errors  in  the  HTML
+version. 
+Users are referred to the electronic PDF version (http://www.cdc.gov/mmwr) 
+and/or the original MMWR paper copy for printable versions of official text, figures, and
+tables. 
+An  original  paper  copy  of  this  issue  can  be  obtained  from  the  Superintendent  of
+Documents, U.S. 
+Government Printing Office (GPO), Washington, DC 20402-9371; 
+telephone: (202) 512-1800. Contact GPO for current prices.
+**Questions or messages regarding errors in formatting should be addressed to 
+mmwrq@cdc.gov. How do I view different file formats (PDF, DOC, PPT, MPEG) on this
+site? 
+Source URL: https://www.cdc.gov/mmwr/preview/mmwrhtml/rr6007a1.htm

@@ -1,0 +1,87 @@
+A .gov website belongs to an official government organization in the United States. A
+lock (  ) or https:// means you've safely connected to the .gov website. Share sensitive
+information only on official, secure websites. 
+Related Topics:
+ The False-Positive Investigation Toolkit provides mycobacteriology staff with resources
+to  recognize  potential  false-positive  results  and  to  assist  staff  in  false-positive
+investigations.  False-positive  Mycobacterium  tuberculosis  complex  (MTBC)  results  can
+be difficult to identify, investigate, and resolve. False-positive results often have serious
+implications  for  patient  isolation,  patient  therapy,  contact  investigations,  and
+unnecessary laboratory testing. Errors leading to false- positive results can be classified
+as  pre-analytic,  analytic,  or  post-analytic.  In  any  mycobacteriology  laboratory,
+cross-contamination,  mislabeling  errors,  specimen  mix-ups,  and  use  of  nonsterile
+reagents can cause the inadvertent transfer of bacilli from one specimen or culture to
+another  specimen  or  culture.  The  False-Positive  Investigation  Toolkit  provides
+mycobacteriology  staff  with  updated  resources  to  recognize  potential  false-positive
+results  and  to  assist  staff  in  false-positive  investigations.   False-Positive  Investigation
+Toolkit  The  toolkit's  primary  audience  is  mycobacteriology  laboratory  supervisors,
+technologists, and quality- assurance staff members. In addition, TB Control programs
+and  healthcare  providers  may  also  find  this  information  beneficial  when  investigating
+potential false-positive laboratory results. The toolkit includes a document that can be
+reviewed  and  referred  to  and  job  aids,  posters,  and  templates.  The  job  aids  and
+templates  can  be  modified  for  local  use  and  should  not  be  sent  to  CDC  for  data
+collection.   An  accompanying  online  interactive  case  study  training  module,
+Mycobacteriology  False-Positive  Case  Studies,  is  available  through  the  Association  of
+Public Health Laboratories. The training module walks through different scenarios of a
+potential  false-positive  investigation.  False-Positive  Investigation  Toolkit:  Pre-Analytic,
+Analytic,  and  Post  Analytic  Prevention  Practices  False  Positive  Investigation  Toolkit:
+Laboratory Monitoring False-Positive Investigation Toolkit: Monitoring for False-Positive
+Results
+ Outside
+ the
+ Laboratory
+ False-Positive
+ Investigation
+ Toolkit:
+ Initial
+Communication  of  a  Potential  False-Positive  False-Positive  Investigation  Toolkit:
+Laboratory  Areas  for  Investigations  False-Positive  Investigation  Toolkit:  Actions  Taken
+as a Result of an Investigation AFB: Acid-fast bacilli AFB culture: Acid-fast bacilli culture.
+The  inoculation  of  a  clinical  specimen  into  culture  media  such  as  Becton  Dickinson
+Mycobacteria  Growth  Indicator  Tube  (BD  MGIT  broth)  or  onto  Middlebrook  7H11  or
+Lowenstein-Jensen (LJ) media slant with incubation at 36±1°C for up to six (6) to eight
+(8) weeks and detection or observation of growth or no growth during this incubation
+period. AFB smear: Acid-fast bacilli smear. The microscopic examination of a Kinyoun,
+Ziehl-Neelsen,  or  fluorochrome  stain  of  a  clinical  specimen.  BacTec  MGIT™:
+Mycobacteria  Growth  Indicator  Tube,  Becton  Dickinson  and  Co.  A  commercial,
+nonradiometric,  broth-based  mycobacterial  culture  system.  BSC:  Biological  safety
+cabinet  CAP:  College  of  American  Pathologists  Contamination:  Inadvertent  addition  of
+target  analytes  to  samples  during  sample  collection,  transportation,  and  analysis
+process Cross-contamination: Act of spreading foreign or undesired material from one
+surface to another. Epidemiologic links: Term used to identify whether individuals have
+a  known  connection  through  case  interviews  or  contact  investigations.  False-Positive:
+Error  in  which  a  test  result  improperly  indicates  presence  of  a  condition,  such  as  a
+disease.  Genotype:  Genetic  constitution  of  an  individual  organism  used  to  distinguish
+different  strains  of  bacteria.  Isolate:  Culture  growth  of  microorganisms  isolated  for
+testing.  LIMS:  Laboratory  Information  Management  System  MTBC:  Mycobacterium
+tuberculosis
+ complex
+ Nonconforming
+ event
+ (NCE):
+ an
+ unapproved
+ departure
+(nonconformance)  from  a  documented  requirement  or  procedure  (e.g.,  regulation,
+statute, policy, procedure, customer requirement) NTM: Nontuberculous mycobacteria
+PHL: Public health laboratory PPE: Personal Protective Equipment. Equipment worn to
+minimize  exposure  to  hazards  that  cause  serious  workplace  injuries  and  illnesses.
+Quality control (QC): Processes and products used to ensure that testing procedures are
+performed accurately by achieving expected results. Specimen processing log: Log that
+is used in the laboratory to record when and how a specimen was processed, tested,
+and  resulted.  Sputum:  Mucous  secretion  from  the  lungs,  bronchi,  and  trachea  that  is
+expectorated  through  the  mouth.  TAT:  Turnaround  time  TB:  Tuberculosis  The  Clinical
+and  Laboratory  Standards  Institute  (CLSI)  Laboratory  Detection  and  Identification  of
+Mycobacteria,  2nd  ed.  M48  Mycobacteriology  Laboratory  Guidance  (2018)  has  been
+referenced throughout this toolkit1. Because of its broad use, this document should be
+consulted  when  further  guidance  is  warranted.  Additional  references  are  cited  as
+applicable. The findings and conclusions in this report are those of the author(s) and do
+not necessarily represent the views of the Centers for Disease Control and Prevention.
+Use of trade names and commercial sources is for identification only and does not imply
+endorsement by the U.S. Department of Health and Human Services. Special thanks to
+U.S. state and local public health laboratories and TB Programs and the Association of
+Public  Health  Laboratories  for  content  and  critical  review.  Tuberculosis  is  caused  by
+bacteria called Mycobacterium tuberculosis. The bacteria usually attack the lungs but
+can attack any part of the body. Languages Language Assistance Languages  Language
+Assistance 
+Source URL: https://www.cdc.gov/tb/php/false-positive-investigation-toolkit/index.html

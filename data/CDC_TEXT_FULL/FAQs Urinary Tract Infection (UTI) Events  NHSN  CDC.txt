@@ -1,0 +1,132 @@
+Official websites use .gov A .gov website belongs to an official government organization
+in  the  United  States.  Secure  .gov  websites  use  HTTPS  A  lock  (   )  or  https://  means
+you've  safely  connected  to  the  .gov  website.  Share  sensitive  information  only  on
+official,  secure  websites.  Catheter-Associated  Urinary  Tract  Infection  [CAUTI]  and
+Non-Catheter-Associated  Urinary  Tract  Infection  [UTI]  and  Other  Urinary  System
+Infection  [USI]   Surveillance  criteria  may  not  be  equally  sensitive  for  all  patient
+populations.   Patient  populations  in  which  the  UTI  criteria  may  not  be  as  sensitive
+include  spinal  cord  injury  patients,  those  with  brain  injuries,  and  heavily  sedated
+patients.  NHSN  constructed  its  Surveillance  definitions  to  balance  sensitivity  and
+specificity along with feasibility. A set of criteria that covered every subpopulation with
+high specificity and sensitivity would be too complicated to employ consistently across
+different  facilities.   Simply  follow  the  criteria  as  written  in  locations  in  which  you  are
+performing  CAUTI  surveillance.  Mechanical  ventilation  or  sedation  does  not  always
+mean that patients will not be able to verbalize pain.  Facilities should always perform
+physical  examination  and  assess  patients  for  non-verbal  communication  of  pain  or
+tenderness. My lab offers culture counts that are:  You must check with your laboratory
+to determine if they can identify whether at least 100,000 CFU/ml are identified in the
+urine culture, and if so to report it as ≥ 100,000 CFU/ml.  Some laboratories have been
+able to clarify this. If the laboratory cannot clarify the culture count and cannot say for
+certain  that  a  culture  has  at  least  100,000  CFU/ml  because  the  lab  reported  it  as
+75,000-100,000  CFU/ml,  do  not  use  that  culture  for  NHSN  UTI  surveillance.  No,  this
+urine  culture  is  not  eligible  for  use  in  an  NHSN  UTI  determination.   The  medical
+definition of flora is a group of organisms.  Any type of mixed flora makes a positive
+urine  culture  ineligible  for  use  to  meet  NHSN  UTI  criteria,  because  “mixed  flora”*
+implies that at least 2 organisms are present in addition to the identified organism.  The
+urine culture does not meet the criteria for a positive urine culture with 2 organisms or
+less and cannot be used to meet the NHSN UTI criteria.  * The same is true for perineal
+flora,  normal  flora,  and  vaginal  flora.   No.  NHSN  surveillance  identification  of  an
+organism to the genus level or the species level, for example Escherichia (genus) coli
+(species) or Staphylococcus species is as far as you can get for reporting purposes. The
+E. coli #1 and #2 is considered one organism, and then S. aureus would be considered
+the  second  organism.  Antimicrobial  susceptibility  results  and  colony  morphology
+difference do not equate to a report of separate organisms. This urine culture result is
+not > 2 organisms, and therefore, is an eligible specimen. I have a final lab result for a
+patient  in  my  possible  CAUTI  report:  Yes.  When  an  organisms  found  in  urine  are
+identified  to  the  same  genus  and  species  level  but  there  is  an  indication  of  different
+colony morphology or a different antibiogram (indicated by strain 1 or strain 2, colony A
+, colony B, for example), for purposes of NHSN UTI surveillance the organisms should be
+considered the same and if the sum total of the colony counts is ≥ 100,000 CFU/ml the
+culture  result  is  eligible  for  use  in  meeting  a  UTI  definition.   If  antibiograms  are
+available  and  the  sensitivities  differ  for  the  same  organisms,  always  report  the  more
+resistant panel.  Colony morphology, biotype, and drug sensitivity comparisons should
+not  be  used  to  differentiate  organisms  because  laboratory  testing  capabilities  and
+protocols vary between facilities. Do not add multiple cultures together.   More than 2
+organisms  in  a  single  urine  culture  suggests  the  possibility  of  contamination  of  the
+specimen. The same is not true for separate urine cultures with less than 3 organisms
+in  each.  In  this  example  the  first  culture  would  be  eligible  for  a  UTI.  If  no  UTI  was
+associated with that urine culture, then the second urine culture could be considered
+for a UTI, since no previous UTI RIT was set and there were not more than 2 organisms
+in  that  urine  culture.  Yes.   This  time  period  is  called  the  Repeat  Infection  Timeframe
+(RIT).  Please  see  the  information  on  RIT  found  in  Chapter  2  “Identifying
+Healthcare-associated
+ Infections”
+ in
+ the
+ NHSN
+ manual.
+ Identifying
+Healthcare-associated Infections [PDF – 1 MB]  No, the urine culture would be ineligible
+for use to meet NHSN UTI criteria, because there would be a total of three organisms
+present,  including  the  candida  (which  is  an  excluded  UTI  organism).   An  excluded
+organism, such as candida, can be in a positive urine culture, however, there can only
+be one other organism present that has > 100K CFU/ml to be an eligible urine culture. If
+the patient reports a fever > 38.0°C (or over 100.40 F), during the POA timeframe and
+within the IWP of a positive urine culture, this can be used to determine if the definition
+of  a  POA  infection  is  met.   A  general  report  of  “fever”  by  the  patient,  without  an
+accompanying  temperature  measurement,  may  not  be  used.  Urinary  retention  is  not
+the same as dysuria and cannot be used to meet the UTI definition.  Dysuria is defined
+as painful or uncomfortable urination. No, “with no other recognized cause” does not
+apply to these symptoms. In the presence of a positive urine culture which may have
+been collected as a differential diagnosis for suspicion of UTI, it would be very rare that
+there  is  another  associated  cause  for  urinary  urgency,  urinary  frequency  and  dysuria
+which  are  hallmark  UTI  symptoms.  Yes.  If  the  patient’s  urinary  urgency,  urinary
+frequency, or dysuria occurred when the indwelling urinary catheter was not in place at
+the  time  the  patient  experienced  the  urinary  urgency,  urinary  frequency,  or  dysuria,
+then the urinary urgency, urinary frequency, or dysuria can be used as an element even
+on  a  day  when  the  indwelling  urinary  catheter  was  in  place  for  part  of  the  day.
+Generalized  “low  back  pain”  in  the  medical  record  is  not  interpreted  as  CVA  pain  or
+tenderness, as there can be many causes of low back pain. Left, right, or bilateral lower
+back or flank pain is acceptable to describe costovertebral pain. There are many causes
+of  abdominal  pain  and  abdominal  pain  is  too  generalized  to  meet  the  localized  UTI
+symptom  of  suprapubic  tenderness.  Low  abdominal  pain,  (left/right  or  bilateral)  or
+bladder or pelvic pain or discomfort are acceptable documentation to meet NHSN’s UTI
+symptom of suprapubic tenderness. General guidance: UTI signs/symptoms within the
+IWP of a positive urine culture would seem to indicate the symptom is a UTI symptom
+related to the positive urine culture, which may have been collected based on suspicion
+of  UTI.  To  exclude  using  “with  no  other  recognized  cause,”  it  should  be  clear  the
+symptom relates to that cause and is clearly differentiated from a UTI symptom. Ideally,
+clinical decisions about “with no other recognized cause” for the UTI signs/symptoms of
+suprapubic tenderness or costovertebral angle pain or tenderness should be made by a
+physician  and/or  their  designee  in  your  organization  who  has  access  to  the  entire
+medical record and clinical picture.  The other recognized cause must occur during the
+current admission. Clinical judgment determination needs to be defended and backed
+up  by  physician  documentation  and  there  should  be  clear  rationale  in  the  event  the
+case is validated. Yes. Both practices may increase the risk of UTI, and these patients
+should be included in CAUTI surveillance. Only catheter-associated UTI data (both ABUTI
+and SUTI) are shared with CMS. Keep in mind that ABUTI may occur in patients with or
+without an indwelling urinary catheter. Therefore, if a patient in one of these locations
+has  an  ABUTI  and  an  indwelling  urinary  catheter  within  the  timeframe  to  meet  the
+device-associated rule, this is a CAUTI and is reportable to CMS if CAUTI reporting in the
+location  is  included  in  your  monthly  reporting  plan.  NHSN  surveillance  is  aimed  at
+identifying risk to the patient that is the result of device use in general, not risk from a
+specific device. NHSN does not allow for attribution to a specific device when entering a
+UTI event. You should attribute the UTI to the inpatient location where the patient was
+assigned  on  the  DOE.  No.  Patients  with  colovesical,  enterovesical,  or  rectovesical
+fistulae are not excluded from meeting the NHSN UTI definition. NHSN surveillance for
+infection  is  aimed  at  identifying  risk  to  the  patient  that  is  the  result  of  device  use  in
+general, not aimed at a specific device. An indwelling urinary catheter in place puts the
+patient  at  risk  and,  therefore,  is  included  in  CAUTI  surveillance.  The  purpose  of
+submitting a urine specimen for culture is to determine infection. The NHSN definitions
+currently account for contamination of urine specimens. NSHN excludes specimens with
+culture  results  of  more  than  two  organisms  (polymicrobial)  for  use  in  meeting  UTI
+definitions.  Yes.   Patients  who  have  neobladders  are  not  excluded  from  CAUTI
+surveillance.  NHSN  surveillance  definitions  account  for  contamination.   Urine  cultures
+that  result  with  >  2  eligible  organisms,  are  not  eligible  for  use  to  meet  NHSN  UTI
+criteria. No. Any urine specimen submitted for culture is eligible for review to see if that
+urine specimen meets NHSN UTI criteria. No.  Only the E. coli has a colony count eligible
+for use in meeting a UTI criteria.  Scenario 1 of the Secondary BSI guide (Appendix B of
+the  BSI  protocol  –   https://www.cdc.gov/nhsn/pdfs/pscmanual/4psc_clabscurrent.pdf
+[PDF – 900 KB]) states: At least one organism from the blood specimen must match an
+organism identified from the site-specific infection, in this case the urine, that is used as
+an element to meet the NHSN site-specific infection criterion.  The 50,000 CFU/ml MRSA
+is not used as an element in the UTI definition. In this example the BSI with MRSA only
+cannot be attributed as secondary to the UTI event. Additionally, the blood specimen
+must  have  a  collection  date  within  the  UTI  secondary  BSI  attribution  period.   NOTE:
+Please do not send Personal Identifiable Information through the NHSN email system. 
+ Training 
+ Newsletters / Members Meeting Updates 
+ E-mail Updates 
+ Health Department HAI/AR Programs To receive email updates about this page, enter
+your email address:  Questions about NHSN?Contact us: nhsn@cdc.gov
+Source URL: https://www.cdc.gov/nhsn/faqs/faq-uti.html

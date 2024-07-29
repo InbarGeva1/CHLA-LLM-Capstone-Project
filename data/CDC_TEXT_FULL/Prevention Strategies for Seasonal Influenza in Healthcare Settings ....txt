@@ -1,0 +1,261 @@
+Official websites use .gov A .gov website belongs to an official government organization
+in  the  United  States.  Secure  .gov  websites  use  HTTPS  A  lock  (   )  or  https://  means
+you've  safely  connected  to  the  .gov  website.  Share  sensitive  information  only  on
+official, secure websites. Guidelines and Recommendations As the signs and symptoms
+of  influenza-like-illness  can  be  similar  to  SARS-CoV-2  infection  and  other  respiratory
+infections,
+ please
+ refer
+ to
+ the
+ Interim
+ Infection
+ Prevention
+ and
+ Control
+Recommendations  for  Healthcare  Personnel  During  the  Coronavirus  Disease  2019
+(COVID-19)  Pandemic.   Additional  guidance  for  SARS-CoV-2,  including  diagnostic
+considerations,  guidance  for  specific  healthcare  settings  (e.g.,  long  term  care),
+assessing  risk  among  potentially  exposed  healthcare  personnel,  healthcare  personnel
+work  restrictions  and  criteria  for  return  to  work,  and  recommendations  on  the
+administration  of  SARS-CoV-2  immunization  can  be  found  on  the  COVID-19  website.
+This  updated  guidance  continues  to  emphasize  the  importance  of  a  comprehensive
+influenza  prevention  strategy  that  can  be  applied  across  the  entire  spectrum  of
+healthcare  settings.  CDC  will  continue  to  evaluate  new  information  as  it  becomes
+available  and  will  update  or  expand  this  guidance  as  needed.  Additional  information
+on  influenza  immunization,  prevention,  treatment,  and  control  can  be  found  on
+Seasonal Influenza (Flu) web site. For the purposes of this guidance, healthcare settings
+include, but are not limited to, acute-care hospitals; long-term care facilities, such as
+nursing  homes  and  skilled  nursing  facilities;  physicians’  offices;  urgent-care  centers,
+outpatient clinics; and home healthcare. This guidance is not intended to apply to other
+settings  whose  primary  purpose  is  not  healthcare,  such  as  schools  or  worksites,
+because  many  of  the  aspects  of  the  populations  and  feasible  countermeasures  will
+differ  substantially  across  settings.  However,  elements  of  this  guidance  may  be
+applicable  to  specific  sites  within  non-healthcare  settings  where  care  is  routinely
+delivered (e.g. a medical clinic embedded within a workplace or school). HCP refers to
+all persons, paid and unpaid, working in healthcare settings who have the potential for
+exposure  to  patients  and/or  to  infectious  materials,  including  body  substances,
+contaminated medical supplies and equipment, contaminated environmental surfaces,
+or  contaminated  air.  HCP  include,  but  are  not  limited  to,  physicians,  nurses,  nursing
+assistants,  therapists,  technicians,  emergency  medical  service  personnel,  dental
+personnel,  pharmacists,  laboratory  personnel,  autopsy  personnel,  students  and
+trainees,  contractual  personnel,  home  healthcare  personnel,  and  persons  not  directly
+involved  in  patient  care  (e.g.,  clerical,  dietary,  house-keeping,  laundry,  security,
+maintenance,  billing,  chaplains,  and  volunteers)  but  potentially  exposed  to  infectious
+agents  that  can  be  transmitted  to  and  from  HCP  and  patients.  This  guidance  is  not
+intended to apply to persons outside of healthcare settings for reasons discussed in the
+previous section. Influenza is primarily a community-based infection that is transmitted
+in households and community settings. Each year, 5% to 20% of U.S. residents acquire
+an influenza virus infection, and many will seek medical care in ambulatory healthcare
+settings (e.g., pediatricians’ offices, urgent-care clinics). In addition, more than 200,000
+persons,  on  average,  are  hospitalized  each  year  for  influenza-related  complications.
+Healthcare-associated influenza infections can occur in any healthcare setting and are
+most  common  when  influenza  is  also  circulating  in  the  community.  Therefore,  the
+influenza prevention measures outlined in this guidance should be implemented in all
+healthcare  settings.  Supplemental  measures  may  need  to  be  implemented  during
+influenza  season  if  outbreaks  of  healthcare-associated  influenza  occur  within  certain
+facilities,  such  as  long-term  care  facilities  and  hospitals  [refs:  Infection  Control
+Measures  for  Preventing  and  Controlling  Influenza  Transmission  in  Long-Term  Care
+Facilities]. Traditionally, influenza viruses have been thought to spread from person to
+person primarily through large-particle respiratory droplet transmission (e.g., when an
+infected  person  coughs  or  sneezes  near  a  susceptible  person).  Transmission  via
+large-particle  droplets  requires  close  contact  between  source  and  recipient  persons,
+because  droplets  generally  travel  only  short  distances  (approximately  6  feet  or  less)
+through the air. Indirect contact transmission via hand transfer of influenza virus from
+virus-contaminated  surfaces  or  objects  to  mucosal  surfaces  of  the  face  (e.g.,  nose,
+mouth) may also occur. Airborne transmission via small particle aerosols in the vicinity
+of  the  infectious  individual  may  also  occur;  however,  the  relative  contribution  of  the
+different modes of influenza transmission is unclear. Airborne transmission over longer
+distances, such as from one patient room to another has not been documented and is
+thought  not  to  occur.  All  respiratory  secretions  and  bodily  fluids,  including  diarrheal
+stools, of patients with influenza are considered to be potentially infectious; however,
+the risk may vary by strain. Detection of influenza virus in blood or stool in influenza
+infected  patients  is  very  uncommon.  Preventing  transmission  of  influenza  virus  and
+other  infectious  agents  within  healthcare  settings  requires  a  multi-faceted  approach.
+Spread of influenza virus can occur among patients, HCP, and visitors; in addition, HCP
+may  acquire  influenza  from  persons  in  their  household  or  community.  The  core
+prevention  strategies  include:  Successful  implementation  of  many,  if  not  all,  of  these
+strategies  is  dependent  on  the  presence  of  clear  administrative  policies  and
+organizational
+ leadership
+ that
+ promote
+ and
+ facilitate
+ adherence
+ to
+ these
+recommendations  among  the  various  people  within  the  healthcare  setting,  including
+patients,  visitors,  and  HCP.  These  administrative  measures  are  included  within  each
+recommendation
+ where
+ appropriate.
+ Furthermore,
+ this
+ guidance
+ should
+ be
+implemented  in  the  context  of  a  comprehensive  infection  prevention  program  to
+prevent transmission of all infectious agents among patients and HCP. 1. Promote and
+administer  seasonal  influenza  vaccine  Annual  vaccination  is  the  most  important
+measure to prevent seasonal influenza infection. Achieving high influenza vaccination
+rates  of  HCP  and  patients  is  a  critical  step  in  preventing  healthcare  transmission  of
+influenza from HCP to patients and from patients to HCP. According to current national
+guidelines,  unless  contraindicated,  vaccinate  all  people  aged  6  months  and  older,
+including HCP, patients and residents of long-term care facilities [refs: Prevention and
+Control  of  Influenza  with  Vaccines  and  Seasonal  Influenza  Vaccination  Resources  for
+Health Professionals]. Systematic strategies employed by some institutions to improve
+HCP vaccination rates have included providing incentives, providing vaccine at no cost
+to  HCP,  improving  access  (e.g.,  offering  vaccination  at  work  and  during  work  hours),
+requiring  personnel  to  sign  declination  forms  to  acknowledge  that  they  have  been
+educated  about  the  benefits  and  risks  of  vaccination,  and  mandating  influenza
+vaccination for all HCP without contraindication. Many of these approaches have been
+shown  to  increase  vaccination  rates;  tracking  influenza  vaccination  coverage  among
+HCP can be an important component of a systematic approach to protecting patients
+and  HCP.  Regardless  of  the  strategy  used,  strong  organizational  leadership  and  an
+infrastructure  for  clear  and  timely  communication  and  education,  and  for  program
+implementation,  have  been  common  elements  in  successful  programs.  More
+information  on  different  HCP  vaccination  strategies  can  be  found  in  the  Appendix:
+Influenza Vaccination Strategies. 2. Take Steps to Minimize Potential Exposures A range
+of  administrative  policies  and  practices  can  be  used  to  minimize  influenza  exposures
+before arrival, upon arrival, and throughout the duration of the visit to the healthcare
+setting.  Measures  include  screening  and  triage  of  symptomatic  patients  and
+implementation  of  respiratory  hygiene  and  cough  etiquette.  Respiratory  hygiene  and
+cough  etiquette  are  measures  designed  to  minimize  potential  exposures  of  all
+respiratory  pathogens,  including  influenza  virus,  in  healthcare  settings  and  should  be
+adhered to by everyone – patients, visitors, and HCP – upon entry and continued for the
+entire  duration  of  stay  in  healthcare  settings.  Before  Arrival  to  a  Healthcare  Setting
+Upon  Entry  and  During  Visit  to  a  Healthcare  Setting  3.  Monitor  and  Manage  Ill
+Healthcare Personnel HCP who develop fever and respiratory symptoms should be: HCP
+who  develop  acute  respiratory  symptoms  without  fever  may  still  have  influenza
+infection  and  should  be:  Facilities  and  organizations  providing  healthcare  services
+should:  4.  Adhere  to  Standard  Precautions  During  the  care  of  any  patient,  all  HCP  in
+every  healthcare  setting  should  adhere  to  standard  precautions,  which  are  the
+foundation  for  preventing  transmission  of  infectious  agents  in  all  healthcare  settings.
+Standard precautions assume that every person is potentially infected or colonized with
+a pathogen that could be transmitted in the healthcare setting. Elements of standard
+precautions that apply to patients with respiratory infections, including those caused by
+the  influenza  virus,  are  summarized  below.  All  aspects  of  standard  precautions  (e.g.,
+injection  safety)  are  not  emphasized  in  this  document  but  can  be  found  in  the  CDC
+Healthcare  Infection  Control  Practices  Advisory  Committee  (HICPAC)  guideline
+titled Guideline for Isolation Precautions: Preventing Transmission of Infectious Agents
+in
+ Healthcare
+ Settings,
+ Guidelines
+ for
+ Preventing
+ Healthcare-Associated
+Pneumonia and Guidelines for Hand Hygiene in Healthcare Settings Published 2002 pdf
+icon[495 KB, 56 pages]. Hand Hygiene Gloves Gowns 5. Adhere to Droplet Precautions
+6.  Use  Caution  when  Performing  Aerosol-Generating  Procedures  Some  procedures
+performed  on  patients  with  suspected  or  confirmed  influenza  infection  may  be  more
+likely  to  generate  higher  concentrations  of  infectious  respiratory  aerosols  than
+coughing, sneezing, talking, or breathing. These procedures potentially put HCP at an
+increased  risk  for  influenza  exposure.  Although  there  are  limited  data  available  on
+influenza  transmission  related  to  such  aerosols,  many  authorities  [refs:  WHO,
+recommend that additional precautions be used when such procedures are performed.
+These  include  some  procedures  that  are  usually  planned  ahead  of  time,  such  as
+bronchoscopy,  sputum  induction,  elective  intubation  and  extubation,  and  autopsies;
+and  some  procedures  that  often  occur  in  unplanned,  emergent  settings  and  can  be
+life-saving,  such  as  cardiopulmonary  resuscitation,  emergent  intubation  and  open
+suctioning  of  airways.  Ideally,  a  combination  of  measures  should  be  used  to  reduce
+exposures from these aerosol-generating procedures when performed on patients with
+suspected  or  confirmed  influenza.  However,  it  is  appropriate  to  take  feasibility  into
+account, especially in challenging emergent situations, where timeliness in performing
+a  procedure  can  be  critical  to  achieving  a  good  patient  outcome.  Precautions  for
+aerosol-generating procedures include: 7. Manage Visitor Access and Movement Within
+the  Facility  Limit  visitors  for  patients  in  isolation  for  influenza  to  persons  who  are
+necessary  for  the  patient’s  emotional  well-being  and  care.  Visitors  who  have  been  in
+contact  with  the  patient  before  and  during  hospitalization  are  a  possible  source  of
+influenza  for  other  patients,  visitors,  and  staff.  For  persons  with  acute  respiratory
+symptoms, facilities should develop visitor restriction policies that consider location of
+patient  being  visited  (e.g.,  oncology  units)  and  circumstances,  such  as  end-of-life
+situations, where exemptions to the restriction may be considered at the discretion of
+the facility. Regardless of restriction policy, all visitors should follow precautions listed
+in the respiratory hygiene and cough etiquette section. Visits to patients in isolation for
+influenza should be scheduled and controlled to allow for: 8. Monitor Influenza Activity
+Healthcare  settings  should  establish  mechanisms  and  policies  by  which  HCP  are
+promptly alerted about increased influenza activity in the community or if an outbreak
+occurs within the facility and when collection of clinical specimens for viral culture may
+help to inform public health efforts. Close communication and collaboration with local
+and  state  health  authorities  is  recommended.  Policies  should  include  designations  of
+specific  persons  within  the  healthcare  facility  who  are  responsible  for  communication
+with  public  health  officials  and  dissemination  of  information  to  HCP.  9.  Implement
+Environmental  Infection  Control  Detailed  information  on  environmental  cleaning  in
+healthcare  settings  can  be  found  in  CDC’s  Guidelines  for  Environmental  Infection
+Control  in  Health-Care  Facilities  and  Guideline  for  Isolation  Precautions:  Preventing
+Transmission  of  Infectious  Agents  in  Healthcare  Settings  [section  IV.F.  Care  of  the
+environment. Standard cleaning and disinfection procedures (e.g., using cleaners and
+water  to  preclean  surfaces  prior  to  applying  disinfectants  to  frequently  touched
+surfaces  or  objects  for  indicated  contact  times)  are  adequate  for  influenza  virus
+environmental  control  in  all  settings  within  the  healthcare  facility,  including  those
+patient-care areas in which aerosol-generating procedures are performed. Management
+of  laundry,  food  service  utensils,  and  medical  waste  should  also  be  performed  in
+accordance  with  standard  procedures.  There  are  no  data  suggesting  these  items  are
+associated with influenza virus transmission when these items are properly managed.
+Laundry and food service utensils should first be cleaned, then sanitized as appropriate.
+Some  medical  waste  may  be  designated  as  regulated  or  biohazardous  waste  and
+require special handling and disposal methods approved by the State authorities. 10.
+Implement Engineering Controls Consider designing and installing engineering controls
+to  reduce  or  eliminate  exposures  by  shielding  HCP  and  other  patients  from  infected
+individuals. Examples of engineering controls include installing physical barriers such as
+partitions in triage areas or curtains that are drawn between patients in shared areas.
+Engineering  controls  may  also  be  important  to  reduce  exposures  related  to  specific
+procedures  such  as  using  closed  suctioning  systems  for  airways  suction  in  intubated
+patients.  Another  important  engineering  control  is  ensuring  that  appropriate
+air-handling systems are installed and maintained in healthcare facilities. 11. Train and
+Educate  Healthcare  Personnel  Healthcare  administrators  should  ensure  that  all  HCP
+receive  job-  or  task-specific  education  and  training  on  preventing  transmission  of
+infectious agents, including influenza, associated with healthcare during orientation to
+the healthcare setting. This information should be updated periodically during ongoing
+education  and  training  programs.  Competency  should  be  documented  initially  and
+repeatedly, as appropriate, for the specific staff positions. A system should be in place
+to ensure that HCP employed by outside employers meet these education and training
+requirements through programs offered by the outside employer or by participation in
+the
+ healthcare
+ facility’s
+ program.
+ 12.
+ Administer
+ Antiviral
+ Treatment
+ and
+Chemoprophylaxis of Patients and Healthcare Personnel when Appropriate Refer to the
+CDC web site for the most current recommendations on the use of antiviral agents for
+treatment  and  chemoprophylaxis.  Both  HCP  and  patients  should  be  reminded  that
+persons  treated  with  influenza  antiviral  medications  continue  to  shed  influenza  virus
+while  on  treatment.  Thus,  hand  hygiene,  respiratory  hygiene  and  cough  etiquette
+practices  should  continue  while  on  treatment.  13.  Considerations  for  Healthcare
+Personnel  at  Higher  Risk  for  Complications  of  Influenza  HCP  at  higher  risk  for
+complications  from  influenza  infection  include  pregnant  women  and  women  up  to  2
+weeks postpartum, persons 65 years old and older, and persons with chronic diseases
+such as asthma, heart disease, diabetes, diseases that suppress the immune system,
+certain  other  chronic  medical  conditions,  and  morbid  obesity.  Vaccination  and  early
+treatment  with  antiviral  medications  are  very  important  for  HCP  at  higher  risk  for
+influenza  complications  because  they  can  decrease  the  risk  of  hospitalizations  and
+deaths. HCP at higher risk for complications should check with their healthcare provider
+if  they  become  ill  so  that  they  can  receive  early  treatment.  Some  HCP  may  identify
+themselves as being at higher risk of complications, and express concerns about their
+risks. These concerns should be discussed and the importance of careful adherence to
+these  guidelines  should  be  emphasized.  Work  accommodations  to  avoid  potentially
+high-risk  exposure  scenarios,  such  as  performing  or  assisting  with  aerosol-generating
+procedures  on  patients  with  suspected  or  confirmed  influenza,  may  be  considered  in
+some settings, particularly for HCP with more severe or unstable underlying disease.1
+Information about Facemasks: Information about Respirators: Key Facts about Influenza
+Clinical Information (signs and symptoms, modes of transmission, viral shedding) World
+Health Organization (WHO). Epidemic- and pandemic-prone acute respiratory diseases –
+Infection  prevention  and  control  in  health  care  Infection  Control  Measures  for
+Preventing  and  Controlling  Influenza  Transmission  in  Long-Term  Care  Facilities
+Preventing Opportunistic Infections in HSCT/Bone Marrow Transplant Recipients (p. 18)
+Seasonal  Influenza  Vaccination  Resources  for  Health  Professionals  Guidance  for
+Prevention  and  Control  of  Influenza  in  the  Peri-  and  Postpartum  Settings  Clinical
+Description  &  Lab  Diagnosis  of  Influenza  Treatment  (Antiviral  Drugs)  Influenza
+Vaccination  Strategies  Veterans  Health  Administration  Influenza  Manualpdf  icon  ¹In
+considering this guidance, employers should familiarize themselves with the Americans
+with  Disabilities  Act  of  1990  (Pub.  L.  101-336)  (ADA),  which  may  impact  how  they
+implement  this  guidance.  Details  specific  to  the  ADA  and  influenza  preparedness  are
+provided on the U.S. Equal Employment Opportunity Commission web site. To receive
+weekly email updates about Seasonal Flu, enter your email address:
+Source URL: https://www.cdc.gov/flu/professionals/infectioncontrol/healthcaresettings.htm

@@ -1,0 +1,391 @@
+A .gov website belongs to an official government organization in the United States. A
+lock (  ) or https:// means you've safely connected to the .gov website. Share sensitive
+information only on official, secure websites. Sterilizing practices from the Guideline for
+Disinfection  and  Sterilization  in  Healthcare  Facilities  (2008).  The  delivery  of  sterile
+products  for  use  in  patient  care  depends  not  only  on  the  effectiveness  of  the
+sterilization  process  but  also  on  the  unit  design,  decontamination,  disassembling  and
+packaging  of  the  device,  loading  the  sterilizer,  monitoring,  sterilant  quality  and
+quantity, and the appropriateness of the cycle for the load contents, and other aspects
+of  device  reprocessing.  Healthcare  personnel  should  perform  most  cleaning,
+disinfecting, and sterilizing of patient-care supplies in a central processing department
+in  order  to  more  easily  control  quality.  The  aim  of  central  processing  is  the  orderly
+processing of medical and surgical instruments to protect patients from infections while
+minimizing risks to staff and preserving the value of the items being reprocessed957.
+Healthcare  facilities  should  promote  the  same  level  of  efficiency  and  safety  in  the
+preparation of supplies in other areas (e.g., operating room, respiratory therapy) as is
+practiced in central processing. Ensuring consistency of sterilization practices requires a
+comprehensive  program  that  ensures  operator  competence  and  proper  methods  of
+cleaning and wrapping instruments, loading the sterilizer, operating the sterilizer, and
+monitoring  of  the  entire  process.  Furthermore,  care  must  be  consistent  from  an
+infection  prevention  standpoint  in  all  patient-care  settings,  such  as  hospital  and
+outpatient facilities. A sterilization process should be verified before it is put into use in
+healthcare  settings.  All  steam,  ETO,  and  other  low-temperature  sterilizers  are  tested
+with  biological  and  chemical  indicators  upon  installation,  when  the  sterilizer  is
+relocated, redesigned, after major repair and after a sterilization failure has occurred to
+ensure they are functioning prior to placing them into routine use. Three consecutive
+empty steam cycles are run with a biological and chemical indicator in an appropriate
+test  package  or  tray.  Each  type  of  steam  cycle  used  for  sterilization  (e.g.,
+vacuum-assisted,  gravity)  is  tested  separately.  In  a  prevacuum  steam  sterilizer  three
+consecutive empty cycles are also run with a Bowie-Dick test. The sterilizer is not put
+back into use until all biological indicators are negative and chemical indicators show a
+correct end-point response811-814, 819, 958. Biological and chemical indicator testing
+is also done for ongoing quality assurance testing of representative samples of actual
+products  being  sterilized  and  product  testing  when  major  changes  are  made  in
+packaging, wraps, or load configuration. Biological and chemical indicators are placed
+in  products,  which  are  processed  in  a  full  load.  When  three  consecutive  cycles  show
+negative  biological  indicators  and  chemical  indicators  with  a  correct  end  point
+response, you can put the change made into routine use811-814, 958. Items processed
+during  the  three  evaluation  cycles  should  be  quarantined  until  the  test  results  are
+negative.  The  central  processing  area(s)  ideally  should  be  divided  into  at  least  three
+areas:  decontamination,  packaging,  and  sterilization  and  storage.  Physical  barriers
+should  separate  the  decontamination  area  from  the  other  sections  to  contain
+contamination  on  used  items.  In  the  decontamination  area  reusable  contaminated
+supplies  (and  possibly  disposable  items  that  are  reused)  are  received,  sorted,  and
+decontaminated. The recommended airflow pattern should contain contaminates within
+the  decontamination  area  and  minimize  the  flow  of  contaminates  to  the  clean  areas.
+The American Institute of Architects 959recommends negative pressure and no fewer
+than six air exchanges per hour in the decontamination area (AAMI recommends 10 air
+changes per hour) and 10 air changes per hour with positive pressure in the sterilizer
+equipment  room.  The  packaging  area  is  for  inspecting,  assembling,  and  packaging
+clean, but not sterile, material. The sterile storage area should be a limited access area
+with a controlled temperature (may be as high as 75°F) and relative humidity (30-60%
+in all works areas except sterile storage, where the relative humidity should not exceed
+70%).819  The  floors  and  walls  should  be  constructed  of  materials  capable  of
+withstanding  chemical  agents  used  for  cleaning  or  disinfecting.  Ceilings  and  wall
+surfaces  should  be  constructed  of  non-shedding  materials.  Physical  arrangements  of
+processing areas are presented schematically in four references811, 819, 920, 957. As
+repeatedly  mentioned,  items  must  be  cleaned  using  water  with  detergents  or
+enzymatic cleaners 465, 466, 468 before processing. Cleaning reduces the bioburden
+and removes foreign material (i.e., organic residue and inorganic salts) that interferes
+with the sterilization process by acting as a barrier to the sterilization agent179, 426,
+457,  911,  912.  Surgical  instruments  are  generally  presoaked  or  prerinsed  to  prevent
+drying of blood and tissue. Precleaning in patient-care areas may be needed on items
+that  are  heavily  soiled  with  feces,  sputum,  blood,  or  other  material.  Items  sent  to
+central  processing  without  removing  gross  soil  may  be  difficult  to  clean  because  of
+dried secretions and excretions. Cleaning and decontamination should be done as soon
+as possible after items have been used. Several types of mechanical cleaning machines
+(e.g.,  utensil  washer-sanitizer,  ultrasonic  cleaner,  washer-sterilizer,  dishwasher,
+washer-disinfector)  may  facilitate  cleaning  and  decontamination  of  most  items.  This
+equipment  often  is  automated  and  may  increase  productivity,  improve  cleaning
+effectiveness,  and  decrease  worker  exposure  to  blood  and  body  fluids.  Delicate  and
+intricate objects and heat- or moisture-sensitive articles may require careful cleaning by
+hand.  All  used  items  sent  to  the  central  processing  area  should  be  considered
+contaminated  (unless  decontaminated  in  the  area  of  origin),  handled  with  gloves
+(forceps  or  tongs  are  sometimes  needed  to  avoid  exposure  to  sharps),  and
+decontaminated by one of the aforementioned methods to render them safer to handle.
+Items composed of more than one removable part should be disassembled. Care should
+be  taken  to  ensure  that  all  parts  are  kept  together,  so  that  reassembly  can  be
+accomplished efficiently811. Investigators have described the degree of cleanliness by
+visual  and  microscopic  examination.  One  study  found  91%  of  the  instruments  to  be
+clean visually but, when examined microscopically, 84% of the instruments had residual
+debris.  Sites  that  contained  residual  debris  included  junctions  between  insulating
+sheaths and activating mechanisms of laparoscopic instruments and articulations and
+grooves of forceps. More research is needed to understand the clinical significance of
+these  findings  960  and  how  to  ensure  proper  cleaning.  Personnel  working  in  the
+decontamination  area  should  wear  household-cleaning-type  rubber  or  plastic  gloves
+when  handling  or  cleaning  contaminated  instruments  and  devices.  Face  masks,  eye
+protection such as goggles or full-length faceshields, and appropriate gowns should be
+worn when exposure to blood and contaminated fluids may occur (e.g., when manually
+cleaning  contaminated  devices)961.  Contaminated  instruments  are  a  source  of
+microorganisms that could inoculate personnel through nonintact skin on the hands or
+through  contact  with  the  mucous  membranes  of  eyes,  nose,  or  mouth214,  811,  813.
+Reusable  sharps  that  have  been  in  contact  with  blood  present  a  special  hazard.
+Employees  must  not  reach  with  their  gloved  hands  into  trays  or  containers  that  hold
+these sharps to retrieve them214. Rather, employees should use engineering controls
+(e.g., forceps) to retrieve these devices. Once items are cleaned, dried, and inspected,
+those requiring sterilization must be wrapped or placed in rigid containers and should
+be  arranged  in  instrument  trays/baskets  according  to  the  guidelines  provided  by  the
+AAMI  and  other  professional  organizations454,  811-814,  819,  836,  962.  These
+guidelines state that hinged instruments should be opened; items with removable parts
+should be disassembled unless the device manufacturer or researchers provide specific
+instructions or test data to the contrary181; complex instruments should be prepared
+and  sterilized  according  to  device  manufacturer's  instructions  and  test  data;  devices
+with concave surfaces should be positioned to facilitate drainage of water; heavy items
+should be positioned not to damage delicate items; and the weight of the instrument
+set should be based on the design and density of the instruments and the distribution
+of metal mass811, 962. While there is no longer a specified sterilization weight limit for
+surgical sets, heavy metal mass is a cause of wet packs (i.e., moisture inside the case
+and  tray  after  completion  of  the  sterilization  cycle)963.  Other  parameters  that  may
+influence drying are the density of the wraps and the design of the set964. There are
+several choices in methods to maintain sterility of surgical instruments, including rigid
+containers,  peel-open  pouches  (e.g.,  self-sealed  or  heat-sealed  plastic  and  paper
+pouches), roll stock or reels (i.e., paper-plastic combinations of tubing designed to allow
+the user to cut and seal the ends to form a pouch) 454 and sterilization wraps (woven
+and  nonwoven).  Healthcare  facilities  may  use  all  of  these  packaging  options.  The
+packaging material must allow penetration of the sterilant, provide protection against
+contact  contamination  during  handling,  provide  an  effective  barrier  to  microbial
+penetration, and maintain the sterility of the processed item after sterilization 965. An
+ideal  sterilization  wrap  would  successfully  address  barrier  effectiveness,  penetrability
+(i.e., allows sterilant to penetrate), aeration (e.g., allows ETO to dissipate), ease of use,
+drapeability,  flexibility,  puncture  resistance,  tear  strength,  toxicity,  odor,  waste
+disposal, linting, cost, and transparency966. Unacceptable packaging for use with ETO
+(e.g.,  foil,  polyvinylchloride,  and  polyvinylidene  chlorine  [kitchen-type  transparent
+wrap])  814  or  hydrogen  peroxide  gas  plasma  (e.g.,  linens  and  paper)  should  not  be
+used  to  wrap  medical  items.  In  central  processing,  double  wrapping  can  be  done
+sequentially or nonsequentially (i.e., simultaneous wrapping). Wrapping should be done
+in such a manner to avoid tenting and gapping. The sequential wrap uses two sheets of
+the standard sterilization wrap, one wrapped after the other. This procedure creates a
+package within a package. The nonsequential process uses two sheets wrapped at the
+same time so that the wrapping needs to be performed only once. This latter method
+provides multiple layers of protection of surgical instruments from contamination and
+saves time since wrapping is done only once. Multiple layers are still common practice
+due  to  the  rigors  of  handling  within  the  facility  even  though  the  barrier  efficacy  of  a
+single  sheet  of  wrap  has  improved  over  the  years966.  Written  and  illustrated
+procedures  for  preparation  of  items  to  be  packaged  should  be  readily  available  and
+used  by  personnel  when  packaging  procedures  are  performed454.  All  items  to  be
+sterilized should be arranged so all surfaces will be directly exposed to the sterilizing
+agent.  Thus,  loading  procedures  must  allow  for  free  circulation  of  steam  (or  another
+sterilant) around each item. Historically, it was recommended that muslin fabric packs
+should not exceed the maximal dimensions, weight, and density of 12 inches wide × 12
+inches high × 20 inches long, 12 lbs, and 7.2 lbs per cubic foot, respectively. Due to the
+variety  of  textiles  and  metal/plastic  containers  on  the  market,  the  textile  and
+metal/plastic  container  manufacturer  and  the  sterilizer  manufacturers  should  be
+consulted  for  instructions  on  pack  preparation  and  density  parameters819.  There  are
+several  important  basic  principles  for  loading  a  sterilizer:  allow  for  proper  sterilant
+circulation;  perforated  trays  should  be  placed  so  the  tray  is  parallel  to  the  shelf;
+nonperforated  containers  should  be  placed  on  their  edge  (e.g.,  basins);  small  items
+should be loosely placed in wire baskets; and peel packs should be placed on edge in
+perforated or mesh bottom racks or baskets454, 811, 836. Studies in the early 1970s
+suggested that wrapped surgical trays remained sterile for varying periods depending
+on the type of material used to wrap the trays. Safe storage times for sterile packs vary
+with  the  porosity  of  the  wrapper  and  storage  conditions  (e.g.,  open  versus  closed
+cabinets). Heat-sealed, plastic peel-down pouches and wrapped packs sealed in 3-mil
+(3/1000 inch) polyethylene overwrap have been reported to be sterile for as long as 9
+months after sterilization. The 3-mil polyethylene is applied after sterilization to extend
+the  shelf  life  for  infrequently  used  items967.  Supplies  wrapped  in  double-thickness
+muslin  comprising  four  layers,  or  equivalent,  remain  sterile  for  at  least  30  days.  Any
+item  that  has  been  sterilized  should  not  be  used  after  the  expiration  date  has  been
+exceeded  or  if  the  sterilized  package  is  wet,  torn,  or  punctured.  Although  some
+hospitals  continue  to  date  every  sterilized  product  and  use  the  time-related  shelf-life
+practice,  many  hospitals  have  switched  to  an  event-related  shelf-life  practice.  This
+latter  practice  recognizes  that  the  product  should  remain  sterile  until  some  event
+causes the item to become contaminated (e.g., tear in packaging, packaging becomes
+wet, seal is broken)968. Event-related factors that contribute to the contamination of a
+product include bioburden (i.e., the amount of contamination in the environment), air
+movement,  traffic,  location,  humidity,  insects,  vermin,  flooding,  storage  area  space,
+open/closed  shelving,  temperature,  and  the  properties  of  the  wrap  material966,  969.
+There  are  data  that  support  the  event-related  shelf-life  practice970-972.  One  study
+examined the effect of time on the sterile integrity of paper envelopes, peel pouches,
+and nylon sleeves. The most important finding was the absence of a trend toward an
+increased  rate  of  contamination  over  time  for  any  pack  when  placed  in  covered
+storage971.  Another  evaluated  the  effectiveness  of  event-related  outdating  by
+microbiologically  testing  sterilized  items.  During  the  2-year  study  period,  all  of  the
+items tested were sterile972.Thus, contamination of a sterile item is event-related and
+the  probability  of  contamination  increases  with  increased  handling973.  Following  the
+sterilization  process,  medical  and  surgical  devices  must  be  handled  using  aseptic
+technique  in  order  to  prevent  contamination.  Sterile  supplies  should  be  stored  far
+enough  from  the  floor  (8  to  10  inches),  the  ceiling  (5  inches  unless  near  a  sprinkler
+head  [18  inches  from  sprinkler  head]),  and  the  outside  walls  (2  inches)  to  allow  for
+adequate  air  circulation,  ease  of  cleaning,  and  compliance  with  local  fire  codes  (e.g.,
+supplies must be at least 18 inches from sprinkler heads). Medical and surgical supplies
+should  not  be  stored  under  sinks  or  in  other  locations  where  they  can  become  wet.
+Sterile  items  that  become  wet  are  considered  contaminated  because  moisture  brings
+with it microorganisms from the air and surfaces. Closed or covered cabinets are ideal
+but  open  shelving  may  be  used  for  storage.  Any  package  that  has  fallen  or  been
+dropped on the floor must be inspected for damage to the packaging and contents (if
+the  items  are  breakable).  If  the  package  is  heat-sealed  in  impervious  plastic  and  the
+seal is still intact, the package should be considered not contaminated. If undamaged,
+items packaged in plastic need not be reprocessed. The sterilization procedure should
+be monitored routinely by using a combination of mechanical, chemical, and biological
+indicators to evaluate the sterilizing conditions and indirectly the microbiologic status of
+the processed items. The mechanical monitors for steam sterilization include the daily
+assessment of cycle time and temperature by examining the temperature record chart
+(or  computer  printout)  and  an  assessment  of  pressure  via  the  pressure  gauge.  The
+mechanical  monitors  for  ETO  include  time,  temperature,  and  pressure  recorders  that
+provide  data  via  computer  printouts,  gauges,  and/or  displays814.  Generally,  two
+essential  elements  for  ETO  sterilization  (i.e.,  the  gas  concentration  and  humidity)
+cannot be monitored in healthcare ETO sterilizers. Chemical indicators are convenient,
+are  inexpensive,  and  indicate  that  the  item  has  been  exposed  to  the  sterilization
+process. In one study, chemical indicators were more likely than biological indicators to
+inaccurately  indicate  sterilization  at  marginal  sterilization  times  (e.g.,  2  minutes)847.
+Chemical indicators should be used in conjunction with biological indicators, but based
+on  current  studies  should  not  replace  them  because  they  indicate  sterilization  at
+marginal sterilization time and because only a biological indicator consisting of resistant
+spores  can  measure  the  microbial  killing  power  of  the  sterilization  process.847,  974.
+Chemical indicators are affixed on the outside of each pack to show that the package
+has  been  processed  through  a  sterilization  cycle,  but  these  indicators  do  not  prove
+sterilization has been achieved. Preferably, a chemical indicator also should be placed
+on the inside of each pack to verify sterilant penetration. Chemical indicators usually
+are  either  heat-or  chemical-sensitive  inks  that  change  color  when  one  or  more
+sterilization  parameters  (e.g.,  steam-time,  temperature,  and/or  saturated  steam;
+ETO-time,  temperature,  relative  humidity  and/or  ETO  concentration)  are  present.
+Chemical  indicators  have  been  grouped  into  five  classes  based  on  their  ability  to
+monitor one or multiple sterilization parameters813, 819. If the internal and/or external
+indicator  suggests  inadequate  processing,  the  item  should  not  be  used815.  An
+air-removal
+ test
+ (Bowie-Dick
+ Test)
+ must
+ be
+ performed
+ daily
+ in
+ an
+ empty
+dynamic-air-removal sterilizer (e.g., prevacuum steam sterilizer) to ensure air removal.
+Biological  indicators  are  recognized  by  most  authorities  as  being  closest  to  the  ideal
+monitors  of  the  sterilization  process  974,  975  because  they  measure  the  sterilization
+process directly by using the most resistant microorganisms (i.e., Bacillus spores), and
+not by merely testing the physical and chemical conditions necessary for sterilization.
+Since the Bacillus spores used in biological indicators are more resistant and present in
+greater  numbers  than  are  the  common  microbial  contaminants  found  on  patient-care
+equipment,  the  demonstration  that  the  biological  indicator  has  been  inactivated
+strongly  implies  that  other  potential  pathogens  in  the  load  have  been  killed844.  An
+ideal  biological  monitor  of  the  sterilization  process  should  be  easy  to  use,  be
+inexpensive,  not  be  subject  to  exogenous  contamination,  provide  positive  results  as
+soon  as  possible  after  the  cycle  so  that  corrective  action  may  be  accomplished,  and
+provide  positive  results  only  when  the  sterilization  parameters  (e.g.,  steam-time,
+temperature, and/or saturated steam; ETO-time, temperature, relative humidity and/or
+ETO  concentration)  are  inadequate  to  kill  microbial  contaminates847.  Biological
+indicators are the only process indicators that directly monitor the lethality of a given
+sterilization process. Spores used to monitor a sterilization process have demonstrated
+resistance to the sterilizing agent and are more resistant than the bioburden found on
+medical devices179, 911, 912. B. atrophaeus spores (106) are used to monitor ETO and
+dry  heat,  and  G.  stearothermophilus  spores  (105)  are  used  to  monitor  steam
+sterilization,  hydrogen  peroxide  gas  plasma,  and  liquid  peracetic  acid  sterilizers.  G.
+stearothermophilus is incubated at 55-60°C, and B. atrophaeus is incubated at 35-37°C.
+Steam and low temperature sterilizers (e.g., hydrogen peroxide gas plasma, peracetic
+acid) should be monitored at least weekly with the appropriate commercial preparation
+of  spores.  If  a  sterilizer  is  used  frequently  (e.g.,  several  loads  per  day),  daily  use  of
+biological  indicators  allows  earlier  discovery  of  equipment  malfunctions  or  procedural
+errors and thus minimizes the extent of patient surveillance and product recall needed
+in the event of a positive biological indicator811. Each load should be monitored if it
+contains implantable objects. If feasible, implantable items should not be used until the
+results  of  spore  tests  are  known  to  be  negative.  Originally,  spore-strip  biological
+indicators  required  up  to  7  days  of  incubation  to  detect  viable  spores  from  marginal
+cycles  (i.e.,  when  few  spores  remained  viable).  The  next  generation  of  biological
+indicator was self-contained in plastic vials containing a spore-coated paper strip and a
+growth media in a crushable glass ampoule. This indicator had a maximum incubation
+of  48  hours  but  significant  failures  could  be  detected  in  £24  hours.  A  rapid-readout
+biological indicator that detects the presence of enzymes of G. stearothermophilus by
+reading  a  fluorescent  product  produced  by  the  enzymatic  breakdown  of  a
+nonfluorescent  substrate  has  been  marketed  for  the  more  than  10  years.  Studies
+demonstrate that the sensitivity of rapid-readout tests for steam sterilization (1 hour for
+132°C gravity sterilizers, 3 hrs for 121°C gravity and 132°C vacuum sterilizers) parallels
+that  of  the  conventional  sterilization-specific  biological  indicators  846,  847,  976,  977
+and  the  fluorescent  rapid  readout  results  reliably  predict  24-  and  48-hour  and  7-day
+growth978. The rapid-readout biological indicator is a dual indicator system as it also
+detects acid metabolites produced during growth of the G. stearothermophilusspores.
+This system is different from the indicator system consisting of an enzyme system of
+bacterial  origin  without  spores.  Independent  comparative  data  using  suboptimal
+sterilization cycles (e.g., reduced time or temperature) with the enzyme-based indicator
+system have not been published979. A new rapid-readout ETO biological indicator has
+been  designed  for  rapid  and  reliable  monitoring  of  ETO  sterilization  processes.  The
+indicator  has  been  clearedby  the  FDA  for  use  in  the  United  States400.  The
+rapid-readout  ETO  biological  indicator  detects  the  presence  of  B.  atrophaeus  by
+detecting a fluorescent signal indicating the activity of an enzyme present within the B.
+atrophaeus organism, beta-glucosidase. The fluorescence indicates the presence of an
+active  spore-associated  enzyme  and  a  sterilization  process  failure.  This  indicator  also
+detects  acid  metabolites  produced  during  growth  of  the  B.  atrophaeus  spore.  Per
+manufacturer's  data,  the  enzyme  always  was  detected  whenever  viable  spores  were
+present.  This  was  expected  because  the  enzyme  is  relatively  ETO  resistant  and  is
+inactivated  at  a  slightly  longer  exposure  time  than  the  spore.  The  rapid-readout  ETO
+biological  indicator  can  be  used  to  monitor  100%  ETO,  and  ETO-HCFC  mixture
+sterilization cycles. It has not been tested in ETO-CO2 mixture sterilization cycles. The
+standard  biological  indicator  used  for  monitoring  full-cycle  steam  sterilizers  does  not
+provide  reliable  monitoring  flash  sterilizers980.  Biological  indicators  specifically
+designed  for  monitoring  flash  sterilization  are  now  available,  and  studies  comparing
+them have been published846, 847, 981. Since sterilization failure can occur (about 1%
+for  steam)982,  a  procedure  to  follow  in  the  event  of  positive  spore  tests  with  steam
+sterilization has been provided by CDC and the Association of periOperative Registered
+Nurses (AORN). The 1981 CDC recommendation is that "objects, other than implantable
+objects, do not need to be recalled because of a single positive spore test unless the
+steam  sterilizer  or  the  sterilization  procedure  is  defective."  The  rationale  for  this
+recommendation is that single positive spore tests in sterilizers occur sporadically. They
+may  occur  for  reasons  such  as  slight  variation  in  the  resistance  of  the  spores983,
+improper use of the sterilizer, and laboratory contamination during culture (uncommon
+with self-contained spore tests). If the mechanical (e.g., time, temperature, pressure in
+the steam sterilizer) and chemical (internal and/or external) indicators suggest that the
+sterilizer  wasfunctioning  properly,  a  single  positive  spore  test  probably  does  not
+indicate sterilizer malfunction but the spore test should be repeated immediately 983. If
+the spore tests remain positive, use of the sterilizer should be discontinued until it is
+serviced1. Similarly, AORN states that a single positive spore test does not necessarily
+indicate a sterilizer failure. If the test is positive, the sterilizer should immediately be
+rechallenged for proper use and function. Items, other than implantable ones, do not
+necessarily  need  to  be  recalled  unless  a  sterilizer  malfunction  is  found.  If  a  sterilizer
+malfunction is discovered, the items must be considered nonsterile, and the items from
+the  suspect  load(s)  should  be  recalled,  insofar  as  possible,  and  reprocessed  984.  A
+suggested protocol for management of positive biological indicators is shown in Table
+12839. A more conservative approach also has been recommended 813 in which any
+positive spore test is assumed to represent sterilizer malfunction and requires that all
+materials processed in that sterilizer, dating from the sterilization cycle having the last
+negative  biologic  indicator  to  the  next  cycle  showing  satisfactory  biologic  indicator
+challenge  results,  must  be  considered  nonsterile  and  retrieved,  if  possible,  and
+reprocessed. This more conservative approach should be used for sterilization methods
+other  than  steam  (e.g.,  ETO,  hydrogen  peroxide  gas  plasma).  However,  no  action  is
+necessary if there is strong evidence for the biological indicator being defective 983or
+the  growth  medium  contained  a  Bacillus  contaminant985.  If  patient-care  items  were
+used  before  retrieval,  the  infection  control  professional  should  assess  the  risk  of
+infection  in  collaboration  with  central  processing,  surgical  services,  and  risk
+management staff. The factors that should be considered include the chemical indicator
+result  (e.g.,  nonreactive  chemical  indicator  may  indicate  temperature  not  achieved);
+the results of other biological indicators that followed the positive biological indicator
+(e.g.,  positive  on  Tuesday,  negative  on  Wednesday);  the  parameters  of  the  sterilizer
+associated  with  the  positive  biological  indicator  (e.g.,  reduced  time  at  correct
+temperature);  the  time-temperature  chart  (or  printout);  and  the  microbial  load
+associated  with  decontaminated  surgical  instruments  (e.g.,  85%  of  decontaminated
+surgical  instruments  have  less  than  100  CFU).  The  margin  of  safety  in  steam
+sterilization is sufficiently large that there is minimal infection risk associated with items
+in a load that show spore growth, especially if the item was properly cleaned and the
+temperature  was  achieved  (e.g.,  as  shown  by  acceptable  chemical  indicator  or
+temperature chart). There are no published studies that document disease transmission
+via  a  nonretrieved  surgical  instrument  following  a  sterilization  cycle  with  a  positive
+biological indicator. False-positive biological indicators may occur from improper testing
+or  faulty  indicators.  The  latter  may  occur  from  improper  storage,  processing,  product
+contamination,  material  failure,  or  variation  in  resistance  of  spores.  Gram  stain  and
+subculture of a positive biological indicator may determine if a contaminant has created
+a  false-positive  result839,  986.  However,  in  one  incident,  the  broth  used  as  growth
+medium  contained  a  contaminant,  B.  coagulans,which  resulted  in  broth  turbidity  at
+55°C985. Testing of paired biological indicators from different manufacturers can assist
+in  assessing  a  product  defect839.  False-positive  biological  indicators  due  to  extrinsic
+contamination when using self-contained biological indicators should be uncommon. A
+biological indicator should not be considered a false-positive indicator until a thorough
+analysis  of  the  entire  sterilization  process  shows  this  to  be  likely.  The  size  and
+composition  of  the  biological  indicator  test  pack  should  be  standardized  to  create  a
+significant challenge to air removal and sterilant penetration and to obtain interpretable
+results. There is a standard 16-towel pack recommended by AAMI for steam sterilization
+813,  819,  987  consisting  of  16  clean,  preconditioned,  reusable  huck  or  absorbent
+surgical towels each of which is approximately 16 inches by 26 inches. Each towel is
+folded  lengthwise  into  thirds  and  then  folded  widthwise  in  the  middle.  One  or  more
+biological indicators are placed between the eight and ninth towels in the approximate
+geometric  center  of  the  pack.  When  the  towels  are  folded  and  placed  one  on  top  of
+another, to form a stack (approximately 6 inch height) it should weigh approximately 3
+pounds and should have a density of approximately 11.3 pounds per cubic foot813. This
+test  pack  has  not  gained  universal  use  as  a  standard  pack  that  simulates  the  actual
+in-use conditions of steam sterilizers. Commercially available disposable test packs that
+have been shown to be equivalent to the AAMI 16 towel test pack also may be used.
+The test pack should be placed flat in an otherwise fully loaded sterilizer chamber, in
+the  area  least  favorable  to  sterilization  (i.e.,  the  area  representing  the  greatest
+challenge to the biological indicator). This area is normally in the front, bottom section
+of the sterilizer, near the drain811, 813. A control biological indicator from the lot used
+for testing should be left unexposed to the sterilant, and then incubated to verify the
+presterilization viability of the test spores and proper incubation. The most conservative
+approach would be to use a control for each run; however, less frequent use may be
+adequate  (e.g.,  weekly).  There  also  is  a  routine  test  pack  for  ETO  where  a  biological
+indicator is placed in a plastic syringe with plunger, then placed in the folds of a clean
+surgical towel, and wrapped. Alternatively, commercially available disposal test packs
+that have been shown to be equivalent to the AAMI test pack may be used. The test
+pack is placed in the center of the sterilizer load814. Sterilization records (mechanical,
+chemical,  and  biological)  should  be  retained  for  a  time  period  in  compliance  with
+standards (e.g., Joint Commission for the Accreditation of Healthcare Facilities requests
+3 years) and state and federal regulations. In Europe, biological monitors are not used
+routinely to monitor the sterilization process. Instead, release of sterilizer items is based
+on  monitoring  the  physical  conditions  of  the  sterilization  process  that  is  termed
+"parametric release." Parametric release requires that there is a defined quality system
+in place at the facility performing the sterilization and that the sterilization process be
+validated  for  the  items  being  sterilized.  At  present  in  Europe,  parametric  release  is
+accepted  for  steam,  dry  heat,  and  ionizing  radiation  processes,  as  the  physical
+conditions are understood and can be monitored directly988. For example, with steam
+sterilizers  the  load  could  be  monitored  with  probes  that  would  yield  data  on
+temperature,  time,  and  humidity  at  representative  locations  in  the  chamber  and
+compared  to  the  specifications  developed  during  the  validation  process.  Periodic
+infection control rounds to areas using sterilizers to standardize the sterilizer's use may
+identify  correctable  variances  in  operator  competence;  documentation  of  sterilization
+records, including chemical and biological indicator test results; sterilizer maintenance
+and  wrapping;  and  load  numbering  of  packs.  These  rounds  also  may  identify
+improvement  activities  to  ensure  that  operators  are  adhering  to  established
+standards.989 CDC provides information on infection control and clinical safety to help
+reduce  the  risk  of  infections  among  healthcare  workers,  patients,  and  visitors.
+Languages Language Assistance Languages  Language Assistance 
+Source URL: https://www.cdc.gov/infection-control/hcp/disinfection-sterilization/sterilizing-practices.html

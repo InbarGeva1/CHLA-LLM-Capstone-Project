@@ -1,0 +1,1014 @@
+ Persons using assistive technology might not be able to fully access information in this
+file. For assistance, please send e-mail to: mmwrq@cdc.gov. Type 508 Accommodation
+and the title of the report in the subject line of e-mail. Please note: An update has been
+published for this report. To view the update, please click here.
+ Prepared by
+Adelisa L. Panlilio, MD1
+Denise M. Cardo, MD1
+Lisa A. Grohskopf, MD2
+Walid Heneine, PhD2
+Clara Sue Ross, MD3
+1Division of Healthcare Quality Promotion, National Center for Infectious Diseases
+2Division of HIV/AIDS Prevention, National Center for HIV, STD, and TB Prevention
+3Division  of  Surveillance,  Hazard  Evaluations,  and  Field  Studies,  National  Institute  for
+Occupational Safety and Health
+ The  material  in  this  report  originated  in  the  National  Center  for  Infectious  Diseases,
+Anne Schuchat, MD, Acting Director; Division of Healthcare 
+Quality Promotion, Denise M. Cardo, MD, Director.
+ Corresponding  preparer:  Adelisa  L.  Panlilio,  MD,  MPH,  Division  of  Healthcare  Quality
+Promotion, National Center for Infectious Diseases, CDC, 
+1600  Clifton  Rd.,  NE,  MS  E-68,  Atlanta,  GA  30333.  Telephone:  404-498-1265;  Fax:
+404-498-1244; E-mail: 
+alp4@cdc.gov. 
+Summary
+ This report updates U.S. Public Health Service recommendations for the management
+of health-care personnel (HCP) 
+who  have  occupational  exposure  to  blood  and  other  body  fluids  that  might  contain
+human immunodeficiency virus 
+(HIV).  Although  the  principles  of  exposure  management  remain  unchanged,
+recommended HIV postexposure prophylaxis 
+(PEP) regimens have been changed. This report emphasizes adherence to HIV PEP when
+it is indicated for an exposure, 
+expert  consultation  in  management  of  exposures,  follow-up  of  exposed  workers  to
+improve adherence to PEP, and monitoring 
+for  adverse  events,  including  seroconversion.  To  ensure  timely  postexposure
+management and administration of HIV 
+PEP, clinicians should consider occupational exposures as urgent medical concerns.
+Introduction
+ Although  preventing  exposures  to  blood  and  body  fluids  is  the  primary  means  of
+preventing occupationally acquired 
+human immunodeficiency virus (HIV) infection, appropriate postexposure management
+is an important element of workplace 
+safety. In 1996, the first U.S. Public Health Service (PHS) recommendations for the use
+of postexposure prophylaxis (PEP) 
+after occupational exposure to HIV were published; these recommendations have been
+updated twice 
+(1--3). Since publication of the most recent guidelines in 2001, new antiretroviral agents
+have been approved by the Food and Drug 
+Administration (FDA), and additional information has 
+become available regarding the use and safety of HIV PEP. In August 2003, 
+CDC  convened  a  meeting  of  a  PHS  interagency  working  group*  and  consultants  to
+assess use of HIV PEP. On the basis of 
+this discussion, the PHS working group decided that updated recommendations for the
+management of occupational exposure 
+to HIV were warranted.
+ This  report  modifies  and  expands  the  list  of  antiretroviral  medications  that  can  be
+considered for use as PEP. This report 
+also emphasizes prompt management of occupational exposures, selection of tolerable
+regimens, attention to potential 
+drug interactions involving drugs that could be included in HIV PEP regimens and other
+medications, consultation with 
+experts  for  postexposure  management  strategies  (especially  determining  whether  an
+exposure has actually occurred) and selection 
+of HIV PEP regimens, use of HIV rapid testing, and counseling and follow-up of exposed
+personnel.
+ Recommendations on the management of occupational 
+exposures to hepatitis B virus or hepatitis C virus have 
+been published previously (3) and are not included in this report. Recommendations for
+nonoccupational (e.g., sexual, 
+pediatric, and perinatal) HIV exposures also have been published previously 
+(4--6).
+Definition of Health-Care Personnel and Exposure
+ The  definitions  of  health-care  personnel  (HCP)  and  occupational  exposures  are
+unchanged from those used in 2001 
+(3). The term HCP refers to all paid and unpaid persons working in health-care settings
+who have the potential for exposure 
+to  infectious  materials  (e.g.,  blood,  tissue,  and  specific  body  fluids  and  medical
+supplies, equipment, or environmental 
+surfaces contaminated with these substances). HCP might include, but are not limited
+to, emergency medical service personnel, 
+dental personnel, laboratory personnel, autopsy personnel, nurses, nursing assistants,
+physicians, technicians, therapists, 
+pharmacists, students and trainees, contractual staff not employed by the health-care
+facility, and persons not 
+directly involved in patient care but potentially exposed to blood and body fluids (e.g.,
+clerical, dietary, housekeeping, maintenance, and 
+volunteer personnel). The same principles of exposure management could be applied to
+other workers who have potential 
+for occupational exposure to blood and body fluids in other settings.
+ An exposure that might place HCP at risk for HIV infection is defined as a percutaneous
+injury (e.g., a needlestick or 
+cut  with  a  sharp  object)  or  contact  of  mucous  membrane  or  nonintact  skin  (e.g.,
+exposed skin that is chapped, abraded, 
+or afflicted with dermatitis) with blood, tissue, or other body fluids that are potentially
+infectious. In addition to blood 
+and  visibly  bloody  body  fluids,  semen  and  vaginal  secretions  also  are  considered
+potentially infectious. Although semen and 
+vaginal secretions have been implicated in the sexual transmission of HIV, they have
+not been implicated in occupational 
+transmission from patients to HCP. The following fluids also are considered potentially
+infectious: cerebrospinal fluid, synovial 
+fluid,  pleural  fluid,  peritoneal  fluid,  pericardial  fluid,  and  amniotic  fluid.  The  risk  for
+transmission of HIV infection from 
+these fluids is unknown; the potential risk to HCP from occupational exposures has not
+been assessed by epidemiologic studies 
+in health-care settings. Feces, nasal secretions, saliva, sputum, sweat, tears, urine, and
+vomitus are not considered 
+potentially  infectious  unless  they  are  visibly  bloody;  the  risk  for  transmission  of  HIV
+infection from these fluids and materials is low 
+(7).
+ Any direct contact (i.e., contact without barrier protection) to concentrated virus in a
+research laboratory or 
+production facility requires clinical evaluation. For human bites, clinical evaluation must
+include the possibility that both the 
+person  bitten  and  the  person  who  inflicted  the  bite  were  exposed  to  bloodborne
+pathogens. Transmission of HIV infection by 
+this route has been reported rarely, but not after an occupational exposure 
+(8--12).
+Risk for Occupational Transmission of HIV
+  The risks for occupational transmission of HIV have been described; risks vary with the
+type and severity of 
+exposure (2,3,7). In prospective studies of HCP, the average risk for HIV transmission
+after a percutaneous exposure to 
+HIV-infected  blood  has  been  estimated  to  be  approximately  0.3%  (95%  confidence
+interval [CI] = 0.2%--0.5%) 
+(7) and after a mucous membrane exposure, approximately 0.09% 
+(CI = 0.006%--0.5%) (3). Although episodes of HIV transmission 
+after nonintact skin exposure have been documented, the average risk for transmission
+by this route has not been 
+precisely  quantified  but  is  estimated  to  be  less  than  the  risk  for  mucous  membrane
+exposures. The risk for transmission after 
+exposure to fluids or tissues other than HIV-infected blood also has not been quantified
+but is probably considerably lower than 
+for blood exposures.
+ Epidemiologic and laboratory studies suggest that multiple factors might affect the risk
+for HIV transmission after 
+an  occupational  exposure  (3).  In  a  retrospective  case-control  study  of  HCP  who  had
+percutaneous exposure to HIV, 
+increased  risk  for  HIV  infection  was  associated  with  exposure  to  a  larger  quantity  of
+blood from the source person as indicated by 1) 
+a device (e.g., a needle) visibly contaminated with the patient's blood, 2) a procedure
+that involved a needle being 
+placed directly in a vein or artery, or 3) a deep injury. The risk also was increased for
+exposure to blood from source persons 
+with terminal illness, possibly reflecting either the higher titer of HIV in blood late in the
+course of acquired 
+immunodeficiency
+ syndrome
+ (AIDS)
+ or
+ other
+ factors
+ (e.g.,
+ the
+ presence
+ of
+syncytia-inducing strains of HIV). A laboratory study 
+that  demonstrated  that  more  blood  is  transferred  by  deeper  injuries  and  hollow-bore
+needles lends further support for the 
+observed variation in risk related to blood quantity 
+(3).
+ The use of source-person viral load as a surrogate measure of viral titer for assessing
+transmission risk has not yet 
+been  established.  Plasma  viral  load  (e.g.,  HIV  RNA)  reflects  only  the  level  of  cell-free
+virus in the peripheral blood; 
+latently  infected  cells  might  transmit  infection  in  the  absence  of  viremia.  Although  a
+lower viral load (e.g., <1,500 RNA copies/mL) 
+or one that is below the limits of detection probably 
+indicates a lower titer exposure, it does not rule out the possibility 
+of transmission.
+Antiretroviral Agents for PEP
+ Antiretroviral  agents  from  five  classes  of  drugs  are  currently  available  to  treat  HIV
+infection 
+(13,14).  These  include  the  nucleoside  reverse  transcriptase  inhibitors  (NRTIs),
+nucleotide reverse transcriptase inhibitors (NtRTIs), nonnucleoside 
+reverse transcriptase inhibitors (NNRTIs), protease inhibitors (PIs), and a single fusion
+inhibitor. Only antiretroviral agents 
+approved by FDA for treatment of HIV infection are included in these guidelines. The
+recommendations in this report 
+provide guidance for two- or-more drug PEP regimens on the basis of the level of risk
+for HIV transmission represented by 
+the exposure (Tables 1 and 2; 
+      Appendix).
+ 
+Toxicity and Drug Interactions of Antiretroviral Agents
+ Persons receiving PEP should complete a full 4-week regimen 
+(3). However, as a result of toxicity and side effects 
+among  HCP,  a  substantial  proportion  of  HCP  have  been  unable  to  complete  a  full
+4-week course of HIV PEP 
+(15--20). Because all antiretroviral agents have been associated with side effects (Table
+3), the toxicity profile of these agents, including 
+the  frequency,  severity,  duration,  and  reversibility  of  side  effects,  is  an  important
+consideration in selection of an HIV 
+PEP  regimen.  The  majority  of  data  concerning  adverse  events  have  been  reported
+primarily for persons with established 
+HIV infection receiving prolonged antiretroviral therapy and therefore might not reflect
+the experience of uninfected persons 
+who take PEP. Anecdotal evidence from clinicians knowledgeable about HIV treatment
+indicates that antiretroviral agents 
+are tolerated more poorly among HCP taking HIV PEP than among HIV-infected patients
+on antiretroviral medications.
+ Side effects have been reported frequently by persons taking antiretroviral agents as
+PEP 
+(15--23).  In  multiple  instances,  a  substantial  (range:  17%--47%)  proportion  of  HCP
+taking PEP after occupational exposures to HIV-positive sources did 
+not complete a full 4-week course of therapy because of inability to tolerate the drugs 
+(15--17,19,20).  Data  from  the  National  Surveillance  System  for  Health  Care  Workers
+(NaSH), CDC's occupational surveillance system for occupational exposures 
+and infections in hospitals, for June 1995--December 2004 indicate that 401 (46.9%) of
+921 HCP with at least one 
+follow-up  visit  after  starting  PEP  experienced  one  or  more  symptoms.  The  symptom
+reported most frequently was nausea 
+(26.5%),  followed  by  malaise  and  fatigue  (22.8%)  (CDC,  unpublished  data,  2005).  Of
+503 HCP who stopped HIV PEP 
+prematurely (<28 days), 361 (24.0%) did so because 
+of adverse effects of the drugs. Similar data have been reported from the 
+Italian Registry of Antiretroviral Postexposure Prophylaxis, which includes data primarily
+on HCP taking PEP but also collects 
+data on those taking PEP after nonoccupational exposures 
+(18). In multivariate analysis, those taking regimens that include PI 
+were  more  likely  to  experience  PEP-associated  side  effects  and  to  discontinue  PEP
+prematurely (<28 days). Because side effects 
+are  frequent  and  particularly  because  they  are  cited  as  a  major  reason  for  not
+completing PEP regimens as prescribed, the 
+selection of regimens should be heavily influenced toward those that are tolerable for
+short-term use.
+ In  addition,  all  approved  antiretroviral  agents  might  have  potentially  serious  drug
+interactions when used with certain 
+other  drugs,  requiring  careful  evaluation  of  concomitant  medications,  including
+over-the-counter medications and 
+supplements  (e.g.,  herbals),  used  by  an  exposed  person  before  prescribing  PEP  and
+close monitoring for toxicity of anyone receiving 
+these  drugs  (24--33)  (Tables  3--5).  PIs  and  NNRTIs  have  the  greatest  potential  for
+interactions with other drugs. 
+Information regarding potential drug interactions has been published 
+(13,24--33). Additional information is included in 
+the manufacturers' package inserts. Because of interactions, certain drugs should not
+be administered concomitantly with PIs 
+or  with  efavirenz  (EFV)  (Tables  4  and  5).  Consultation  with  a  pharmacist  might  be
+considered.
+ 
+Selection of HIV PEP Regimens
+ Determining  which  agents  and  how  many  to  use  or  when  to  alter  a  PEP  regimen  is
+primarily empiric 
+(34).  Guidelines  for  treating  HIV  infection,  a  condition  typically  involving  a  high  total
+body burden of HIV, recommend use of three or 
+more  drugs  (13,14);  however,  the  applicability  of  these  recommendations  to  PEP  is
+unknown. Among HIV-infected 
+patients,  combination  regimens  with  three  or  more  antiretroviral  agents  have  proved
+superior to monotherapy and 
+dual-therapy  regimens  in  reducing  HIV  viral  load,  reducing  incidence  of  opportunistic
+infections and death, and delaying onset of 
+drug  resistance  (13,14).  In  theory,  a  combination  of  drugs  with  activity  at  different
+stages in the viral replication cycle 
+(e.g., nucleoside analogues with a PI) might offer an additive preventive effect in PEP,
+particularly for occupational exposures 
+that  pose  an  increased  risk  for  transmission  or  for  transmission  of  a  resistant  virus.
+Although use of a three- (or more) drug 
+regimen might be justified for exposures that pose an increased risk for transmission,
+whether the potential added toxicity of a third 
+or fourth drug is justified for lower-risk exposures is uncertain, especially in the absence
+of data supporting increased efficacy 
+of 
+more drugs in the context of occupational PEP. Offering a two-drug regimen is a viable
+option, primarily because the 
+benefit of completing a full course of this regimen exceeds the benefit of adding the
+third agent and risking noncompletion 
+(35).  In  addition,  the  total  body  burden  of  HIV  is  substantially  lower  among  exposed
+HCP than among persons with established 
+HIV infection. For these reasons, the recommendations in this report provide guidance
+for two- and three- (or more) drug 
+PEP regimens on the basis of the level of risk for HIV transmission represented by the
+exposure (Tables 1 and 
+2; Appendix).
+ 
+Resistance to Antiretroviral Agents
+ Known or suspected resistance of the source virus to antiretroviral agents, particularly
+those that might be included in a 
+PEP regimen, is a concern for persons making decisions about PEP 
+(36). Drug resistance to all available antiretroviral agents 
+has been reported, and cross-resistance within drug classes is frequent 
+(37). Although occupational transmission of 
+drug-resistant  HIV  strains  has  been  reported  despite  PEP  with  combination  drug
+regimens 
+(36,38--40), the effect of exposure to a 
+resistant virus on transmission and transmissibility is not well understood.
+ Since publication of the previous guidelines, an additional report of an occupational HIV
+seroconversion 
+despite combination HIV PEP has been published (Table 6) 
+(38), bringing the total number of reports worldwide to six. 
+The exposure was a percutaneous injury sustained by a nurse performing a phlebotomy
+on a heavily treatment-experienced 
+patient.  At  the  time  of  the  exposure,  the  source  patient  was  failing  treatment  with
+stavudine (d4T), lamivudine (3TC), 
+ritonavir  (RTV),  and  saquinavir  (SQV)  and  had  a  history  of  previous  treatment  with
+zidovudine (ZDV) and zalcitabine 
+(ddC).  Genotypic  resistance  testing  performed  within  1  month  of  the  exposure
+suggested resistance to ZDV and 3TC. 
+Phenotypic testing confirmed resistance to 3TC but demonstrated relative susceptibility
+to ZDV and d4T. The source virus 
+demonstrated no evidence of resistance to nevirapine (NVP) or other NNRTIs. The initial
+HIV PEP regimen started within 95 minutes 
+of  the  exposure  was  ZDV,  3TC,  and  indinavir.  The  worker  was  referred  to  a  hospital
+where the regimen was changed within 
+6  hours  of  the  exposure  to  didanosine  (ddI),  d4T,  and  NVP  because  of  concerns
+regarding possible drug resistance to certain 
+or all of the components of the initial PEP regimen. The exposed worker stopped ddI 
+after 8 days because of symptoms but continued to take d4T and NVP, stopping at day
+24 because of a generalized macular pruritic rash and 
+mild thrombocytopenia. Seroconversion was documented at 3 months. Sequencing of
+viruses from the source and exposed 
+worker demonstrated their close relatedness. Virus 
+from the worker demonstrated the same resistance patterns as those in the 
+source patient. In addition, the worker's virus had a mutation suggesting resistance to
+the NNRTI class 
+(38).
+ Empiric  decisions  regarding  the  presence  of  antiretroviral  drug  resistance  are  often
+difficult because patients frequently 
+take  more  than  one  antiretroviral  agent.  Resistance  should  be  suspected  in  a  source
+patient when clinical progression of disease or 
+a  persistently  increasing  viral  load  or  decline  in  CD4+  T-cell  count  occurs  despite
+therapy, or when no virologic 
+response to therapy occurs. However, resistance testing of the source virus at the time
+of an exposure is impractical because the results 
+will not be available in time to influence the choice of the initial PEP regimen. No data
+suggest that modification of a 
+PEP  regimen  after  resistance  testing  results  become  available  (usually  1--2  weeks)
+improves efficacy of PEP 
+(41).
+Antiretroviral Drugs During Pregnancy
+ Data regarding the potential effects of antiretroviral drugs on the developing fetus or
+neonate are limited 
+(3). Carcinogenicity and mutagenicity are evident in certain in vitro screening tests for
+ZDV and all other FDA-licensed 
+NRTIs.  The  relevance  of  animal  data  to  humans  is  unknown;  however,  because
+teratogenic effects were reported among primates 
+at drug exposures similar to those representing human therapeutic exposure, pregnant
+women should not use efavirenz 
+(EFV). Indinavir (IDV) is associated with infrequent side 
+effects in adults (i.e., hyperbilirubinemia and renal stones) that could 
+be  problematic  for  a  newborn.  Because  the  half-life  of  IDV  in  adults  is  short,  these
+concerns might be relevant only if the drug 
+is  administered  shortly  before  delivery.  Other  concerns  regarding  use  of  PEP  during
+pregnancy have been raised by reports 
+of mitochondrial dysfunction leading to neurologic disease and death among uninfected
+children whose mothers had 
+taken  antiretroviral  drugs  to  prevent  perinatal  HIV  transmission  and  of  fatal  and
+nonfatal lactic acidosis in pregnant women 
+treated throughout gestation with a combination of d4T and ddI 
+(3).
+Management of Occupational Exposure by Emergency Physicians
+ Although PHS guidelines for the management of occupational exposures to HIV were
+first published in 1985 
+(42), HCP often are not familiar with these guidelines. Focus groups conducted among
+emergency department (ED) physicians in 
+2002 indicated that of 71 participants, >95% had not read the 2001 guidelines before
+being invited to participate 
+(43).  All  physicians  participating  in  these  focus  groups  had  managed  occupational
+exposures to blood or body fluids. They cited 
+three challenges in exposure management most frequently: evaluation of an unknown
+source patient or a source patient who 
+refused testing, inexperience in managing occupational HIV exposures, and counseling
+of exposed workers in busy EDs.
+Occupational HIV Exposure Management and PEP Use in U.S. Hospitals
+ Analysis of NaSH data for June 1995--December 2004 provides information regarding
+the management of 
+occupational exposure to HIV in a convenience sample of 95 U.S. hospitals. These data
+indicate improved adherence to 
+PHS recommendations concerning use of HIV PEP after occupational exposures. A total
+of 28,010 exposures to blood and 
+body  fluids  were  reported  by  these  hospitals  (CDC,  unpublished  data,  2005).  For  all
+25,510 exposures with known sources, 
+1,350 (5.3%) were to HIV-positive sources, 15,301 (60.0%) to HIV-negative sources, and
+8,859 (34.7%) to sources of 
+unknown  HIV  status.  Of  1,350  HCP  exposed  to  a  known  HIV-positive  source,  788
+(58.4%) started PEP, and 317 (49%) of 647 
+for whom follow-up information was available took PEP for 
+>21 days. The overall median duration of HIV PEP after exposure 
+to an HIV-positive source was 27 days, increasing from 10 days in 1995 to 26.5 days in
+2004; the overall median duration 
+of HIV PEP after exposure to an HIV-negative source was 2 days, decreasing from 7.5
+days in 1995 to 1 day in 2004. The use 
+of rapid HIV tests for evaluation of source patients has increased; during 1995--1997,
+none of 25 NaSH facilities used 
+rapid  HIV  tests,  whereas  in  2004,  a  total  of  21  (84%  )  did  (CDC,  unpublished  data,
+2005). Rapid HIV tests could result 
+in decreased use of PEP and spare personnel both undue anxiety and adverse effects of
+antiretroviral PEP 
+(44--47). The annual median time to initiation of PEP was 
+consistent (2 hours). Of 1,350 HCP with exposures to HIV-positive sources, 
+909 (67.1%) had at least one follow-up serologic test recorded, but only 289 (31.8%)
+had tests recorded at 4--6 months 
+(CDC, unpublished data, 2005).
+ In 1996, of 24 HCP taking PEP after exposure to HIV-positive sources, 10 (42%) took a
+three-drug PEP regimen 
+ compared with 30 (76.9%) of 39 in 2004 (CDC, unpublished data, 2005). 
+After 227 HIV exposures for which only a two-drug PEP regimen was recommended (i.e.,
+the exposure was to mucous membranes or skin or was a superficial 
+percutaneous injury and the source person did not have end-stage AIDS or acute HIV
+illness), 104 (45.8%) HCP initiated a 
+three-drug HIV PEP regimen. The National Clinicians' Post-Exposure Prophylaxis Hotline 
+(PEPline)† reports similar findings. 
+PEPline staff recommended changing or discontinuing PEP regimens for 45 (38%) of 118
+exposures involving source patients 
+with known viral load or CD4 cell count concerning which they were consulted during
+April 2002--March 2003 
+(48; R. Goldschmidt, PEPline, personal communication, 2004). For 14 (11.9%) HCP, the
+recommendation was to decrease 
+the number of drugs in the PEP regimens; for 22 (18.7%) HCP, the recommendation was
+to increase the number of drugs; 
+and for nine (7.6%), the recommendation was to change the PEP regimen, keeping the
+same number of drugs.
+Recommendations for the Management of HCP Potentially Exposed to HIV
+ Exposure prevention remains the primary strategy for 
+reducing occupational bloodborne pathogen infections. 
+However,  occupational  exposures  will  continue  to  occur,  and  PEP  will  remain  an
+important element of exposure management.
+HIV PEP
+ The recommendations provided in this report (Tables 1 and 
+2; Appendix) apply to situations in which HCP have 
+been  exposed  to  a  source  person  who  either  has  or  is  considered  likely  to  have  HIV
+infection. These recommendations are based 
+on  the  risk  for  HIV  infection  after  different  types  of  exposure  and  on  limited  data
+regarding efficacy and toxicity of PEP. If PEP 
+is offered and taken and the source is later determined to be HIV-negative, PEP should
+be discontinued. Although 
+concerns  have  been  expressed  regarding  HIV-negative  sources  being  in  the  window
+period for seroconversion, no case of 
+transmission involving an exposure source during the window period has been reported
+in the United 
+States (39). Rapid HIV testing of source patients can facilitate making timely decisions
+regarding use of HIV PEP after occupational exposures to sources 
+of 
+unknown HIV status. Because the majority of occupational HIV exposures do not result
+in transmission of HIV, 
+potential toxicity must be considered when prescribing PEP. Because of the complexity
+of selecting HIV PEP regimens, when 
+possible, these recommendations should be implemented in consultation with persons
+having expertise in antiretroviral therapy 
+and  HIV  transmission.  Reevaluation  of  exposed  HCP  should  be  strongly  encouraged
+within 
+72  hours  postexposure,  especially  as  additional  information  about  the  exposure  or
+source person becomes available.
+ 
+Timing and Duration of PEP
+ PEP should be initiated as soon as possible, preferably within hours rather than days of
+exposure. If a question 
+exists  concerning  which  antiretroviral  drugs  to  use,  or  whether  to  use  a  basic  or
+expanded regimen, the basic regimen should 
+be started immediately rather than delay PEP administration. The optimal duration of
+PEP is unknown. Because 4 weeks 
+of  ZDV  appeared  protective  in  occupational  and  animal  studies,  PEP  should  be
+administered for 4 weeks, if tolerated 
+(49--52).
+Recommendations for the Selection of Drugs for HIV PEP
+ The selection of a drug regimen for HIV PEP must balance the risk for infection against
+the potential toxicities of 
+the agent(s) used. Because PEP is potentially toxic, its use is not justified for exposures
+that pose a negligible risk for 
+transmission  (Tables  1  and  2).  The  initial  HIV  PEP  regimens  recommended  in  these
+guidelines should be viewed as suggestions that can 
+be changed if additional information is obtained concerning 
+the source of the occupational exposure (e.g., possible 
+treatment history or antiretroviral drug resistance) or if expert consultation is provided.
+Given the complexity of choosing 
+and administering HIV PEP, whenever possible, consultation 
+with an infectious diseases consultant or another physician who 
+has  experience  with  antiretroviral  agents  is  recommended,  but  it  should  not  delay
+timely initiation of PEP.
+ Consideration  should  be  given  to  the  comparative  risk  represented  by  the  exposure
+and information regarding the 
+exposure source, including history of and response to antiretroviral therapy based on
+clinical response, CD4+ T-cell counts, viral 
+load  measurements,  and  current  disease  stage.  When  the  source  person's  virus  is
+known or suspected to be resistant to one or 
+more of the drugs considered for the PEP regimen, the 
+selection of drugs to which the source person's virus is 
+unlikely  to  be  resistant  is  recommended;  expert  consultation  is  advised.  If  this
+information is not immediately available, initiation of PEP, if 
+indicated, should not be delayed; changes in the regimen can be made after PEP has
+started, as appropriate. For HCP who initiate 
+PEP, re-evaluation of the exposed person should occur within 72 hours postexposure,
+especially if additional information about 
+the exposure or source person becomes available.
+ PHS continues to recommend stratification of HIV PEP regimens based on the severity
+of exposure and 
+other  considerations  (e.g.,  concern  for  antiretroviral  drug  resistance  in  the  exposure
+source). The majority of HIV exposures 
+will warrant a two-drug regimen, using two NRTIs or one NRTI and one NtRTI (Tables 1
+and 
+2; Appendix). Combinations 
+that  can  be  considered  for  PEP  include  ZDV  and  3TC  or  emtricitabine  (FTC);  d4T  and
+3TC or FTC; and tenofovir (TDF) 
+and  3TC  or  FTC.  In  the  previous  PHS  guidelines,  a  combination  of  d4T  and  ddI  was
+considered one of the first-choice 
+PEP regimens; however, this regimen is no longer recommended because of concerns
+about toxicity (especially neuropathy 
+and pancreatitis) and the availability of more tolerable 
+alternative regimens (3).
+ The addition of a third (or even a fourth) drug should be considered for exposures that
+pose an increased risk 
+for transmission or that involve a source in whom antiretroviral drug resistance is likely.
+The addition of a third drug for PEP 
+after  a  high-risk  exposure  is  based  on  demonstrated  effectiveness  in  reducing  viral
+burden in HIV-infected persons. However, 
+no  definitive  data  exist  that  demonstrate  increased  efficacy  of  three-  compared  with
+two-drug HIV PEP regimens. 
+Previously,  IDV,  nelfinavir  (NFV),  EFV,  or  abacavir  (ABC)  were  recommended  as
+first-choice agents for inclusion in an 
+expanded PEP regimen (3).
+ PHS now recommends that expanded PEP regimens be PI-based. The PI preferred for
+use in expanded PEP regimens 
+is lopinavir/ritonavir (LPV/RTV). Other PIs acceptable for use in expanded PEP regimens
+include atazanavir, 
+fosamprenavir, RTV-boosted IDV, RTV-boosted SQV, or NFV (Appendix). Although side
+effects are common with NNRTIs, EFV may 
+be  considered  for  expanded  PEP  regimens,  especially  when  resistance  to  PIs  in  the
+source person's virus is known or 
+suspected. Caution is advised when EFV is used in women of childbearing age because
+of the risk of 
+teratogenicity.
+ Drugs  that  may  be  considered  as  alternatives  to  the  expanded  regimens,  with
+warnings about side effects and other 
+adverse events, are EFV or PIs as noted in the Appendix in combination with ddl and
+either 3TC or FTC. The fusion 
+inhibitor enfuvirtide (T20) has theoretic benefits for use in PEP 
+because its activity occurs before viral-host cell integration; however, 
+it 
+is  not  recommended  for  routine  HIV  PEP  because  of  the  mode  of  administration
+(subcutaneous injection twice 
+daily). Furthermore, use of T20 has the potential for production of anti-T20 antibodies
+that cross react with HIV gp41. This 
+could  result  in  a  false-positive,  enzyme  immunoassay  (EIA)  HIV  antibody  test  among
+HIV-uninfected patients. A 
+confirmatory  Western  blot  test  would  be  expected  to  be  negative  in  such  cases.  T20
+should only be used with expert consultation.
+ Antiviral drugs not recommended for use as PEP, primarily because of the higher risk
+for potentially serious or 
+life-threatening  adverse  events,  include  ABC,  delavirdine,  ddC,  and,  as  noted
+previously, the combination of ddI and d4T. 
+NVP should not be included in PEP regimens except with expert consultation because of
+serious reported side effects, 
+including  hepatotoxicty  (with  one  instance  of  fulminant  liver  failure  requiring  liver
+transplantation), rhabdomyolysis, 
+and hypersensitivity syndrome (53--55).
+ Because of the complexity of selection of HIV PEP regimens, consultation with persons
+having expertise in 
+antiretroviral  therapy  and  HIV  transmission  is  strongly  recommended.  Certain
+institutions have required consultation with a 
+hospital  epidemiologist  or  infectious  diseases  consultant  when  HIV  PEP  use  is  under
+consideration. This can be especially important 
+in  management  of  a  pregnant  or  breastfeeding  worker  or  a  worker  who  has  been
+exposed to a heavily 
+treatment-experienced source (Box 1).
+ Resources for consultation are available from the following sources:
+ 
+Postexposure Testing
+ HCP  with  occupational  exposure  to  HIV  should  receive  follow-up  counseling,
+postexposure testing, and medical 
+evaluation  regardless  of  whether  they  receive  PEP.  HIV-antibody  testing  by  enzyme
+immunoassay should be used to monitor HCP 
+for  seroconversion  for  >6  months  after  occupational  HIV  exposure.  After  baseline
+testing at the time of exposure, 
+follow-up testing could be performed at 6 weeks, 12 weeks, and 
+6 months after exposure. Extended HIV follow-up (e.g., for 12 
+months) is recommended for HCP who become infected with HCV after exposure to a
+source coinfected with HIV and 
+HCV. Whether extended follow-up is indicated in other circumstances (e.g., exposure to
+a source co-infected with HIV and HCV 
+in the absence of HCV seroconversion or for exposed 
+persons with a medical history suggesting an impaired ability to mount 
+an antibody response to acute infection) is unclear. Although rare instances of delayed
+HIV 
+seroconversion have been reported (56,57), the infrequency of this occurrence does not
+warrant adding to exposed persons' anxiety by routinely extending 
+the duration of postexposure follow-up. However, this should not preclude a decision to
+extend 
+follow-up  in  a  particular  situation  based  on  the  clinical  judgment  of  the  exposed
+person's health-care provider. The routine use of direct virus assays (e.g., 
+HIV p24 antigen EIA or tests for HIV ribonucleic acid) to detect infection among exposed
+HCP usually is not recommended 
+(58). Despite the ability of direct virus assays to detect HIV infection a few days earlier
+than EIA, the infrequency of 
+occupational  seroconversion  and  increased  costs  of  these  tests  do  not  warrant  their
+routine use in this setting. In addition, the relatively 
+high rate of false-positive results of these tests in this setting could lead to unnecessary
+anxiety or treatment 
+(59,60). Nevertheless, HIV testing should be performed on any 
+exposed person who has an illness compatible with an acute retroviral 
+syndrome, regardless of the interval since exposure. A person in whom HIV infection is
+identified should be 
+referred  for  medical  management  to  a  specialist  with  expertise  in  HIV  treatment  and
+counseling. 
+Health-care providers caring for persons with occupationally acquired HIV infection can
+report these cases to CDC at telephone 800-893-0485 or to their state 
+health departments.
+ 
+Monitoring and Management of PEP Toxicity
+ If PEP is used, HCP should be monitored for drug toxicity by testing at baseline and
+again 2 weeks after starting PEP. 
+The scope of testing should be based on medical conditions in the exposed person and
+the toxicity of drugs included in the 
+PEP  regimen.  Minimally,  laboratory  monitoring  for  toxicity  should  include  a  complete
+blood count and renal and hepatic 
+function  tests.  Monitoring  for  evidence  of  hyperglycemia  should  be  included  for  HCP
+whose regimens include any PI; if the 
+exposed  person  is  receiving  IDV,  monitoring  for  crystalluria,  hematuria,  hemolytic
+anemia, and hepatitis also should be included. 
+If  toxicity  is  noted,  modification  of  the  regimen  should  be  considered  after  expert
+consultation; 
+further diagnostic studies might be indicated.
+ Exposed  HCP  who  choose  to  take  PEP  should  be  advised  of  the  importance  of
+completing the prescribed 
+regimen. Information should be provided about potential drug 
+interactions and drugs that should not be taken with PEP, side effects 
+of  prescribed  drugs,  measures  to  minimize  side  effects,  and  methods  of  clinical
+monitoring for toxicity 
+during the follow-up period. HCP should be advised that evaluation of certain symptoms
+(e.g., rash, fever, back or abdominal pain, pain 
+on urination or blood in the urine, or symptoms of hyperglycemia (e.g., increased thirst
+or frequent urination) should not 
+be delayed.
+ HCP often fail to complete the recommended regimen 
+often because they experience side effects (e.g., nausea or 
+diarrhea).  These  symptoms  often  can  be  managed  with  antimotility  and  antiemetic
+agents or other medications that target 
+specific  symptoms  without  changing  the  regimen.  In  other  situations,  modifying  the
+dose interval (i.e., administering a lower dose 
+of  drug  more  frequently  throughout  the  day,  as  recommended  by  the  manufacturer)
+might facilitate 
+adherence to the regimen. Serious adverse 
+events§ should be reported to FDA's MedWatch program.
+ Although  recommendations  for  follow-up  testing,  monitoring,  and  counseling  of
+exposed HCP are unchanged from 
+those published previously (3), greater emphasis is needed on improving follow-up care
+provided to exposed HCP (Box 2). 
+This might result in increased adherence to HIV PEP regimens, better management of
+associated symptoms with 
+ancillary  medications  or  regimen  changes,  improved  detection  of  serious  adverse
+effects, and serologic testing among a larger 
+proportion  of  exposed  personnel  to  determine  if  infection  is  transmitted  after
+occupational exposures. Closer follow-up should in 
+turn reassure HCP who become anxious after these events 
+(61,62). The psychologic impact on HCP of needlesticks or exposure 
+to  blood  or  body  fluid  should  not  be  underestimated.  Providing  HCP  with  psychologic
+counseling should be an 
+essential component of the management and care of exposed HCP.
+Reevaluation and Updating of HIV PEP Guidelines
+ As new antiretroviral agents for treatment of HIV infection and additional information
+concerning early HIV infection 
+and  prevention  of  HIV  transmission  become  available,  the  PHS  Interagency  Working
+Group will assess the need to 
+update these guidelines. Updates will be published periodically as appropriate. 
+ Acknowledgments
+ David K. Henderson, MD, National Institutes of Health, Bethesda, Maryland; Kimberly A.
+Struble, PharmD, Food and 
+Drug Administration, Rockville, Maryland; and Abe Macher, MD, Health Resources and
+Services Administration, Rockville, Maryland, 
+assisted in the preparation of this report.
+References
+ * This interagency working group included representatives from CDC, FDA, the Health
+Resources and Services Administration, and the National Institutes 
+of  Health.  Information  included  in  these  recommendations  might  not  represent  FDA
+approval or approved labeling for the particular product or indications 
+in question. Specifically, the terms "safe" and "effective" might not be synonymous with
+the FDA-defined legal standard for product approval.
+ † Administered by staff members from the University of California at San Francisco and
+San Francisco General Hospital; supported by the Health Resources 
+and  Services  Administration  Ryan  White  CARE  Act  and  AIDS  Education  and  Training
+Centers, and by CDC.
+ § Defined by FDA as follows: "Any adverse drug experience occurring at any dose that
+results in any of the following outcomes: death, a life-threatening 
+adverse  drug  experience,  inpatient  hospitalization  or  prolongation  of  existing
+hospitalization, a persistent or significant disability/incapacity, or a congenital 
+anomaly/birth  defect.  Important  medical  events  that  may  not  result  in  death,  be
+life-threatening, or require hospitalization may be considered a serious adverse 
+drug experience when, based upon appropriate medical judgment, they may jeopardize
+the patient or subject and may require medical or surgical intervention 
+to prevent one of the outcomes listed in this definition" 
+(63).
+APPENDIX
+ 
+Basic and Expanded HIV Postexposure Prophylaxis Regimens
+ BASIC REGIMEN
+ Preferred dosing  --- ZDV: 300 mg twice daily or 200 mg three times daily, with food;
+total: 600 mg daily
+--- 3TC: 300 mg once daily or 150 mg twice daily
+--- Combivir: one tablet twice daily  Dosage forms 
+ --- ZDV: 100 mg capsule, 300 mg tablet --- 3TC: 150 or 300 mg tablet
+--- Combivir: tablet, 300 mg ZDV + 150 mg 3TC  Advantages  --- ZDV associated
+with decreased risk for HIV 
+transmission --- ZDV used more often than other drugs for PEP for health-care personnel
+(HCP)
+--- Serious toxicity rare when used for PEP
+--- Side effects predictable and manageable with antimotility and antiemetic agents
+--- Can be used by pregnant HCP --- Can be given as a single tablet (COMBIVIR™)
+twice daily
+ Disadvantages  --- Side effects (especially nausea and fatigue) common and might
+result in low adherence
+--- Source-patient virus resistance to this regimen 
+possible
+--- Potential for delayed toxicity (oncogenic/teratogenic) unknown
+ Preferred dosing  --- ZDV:  300 mg twice daily or 200 mg three times daily, with
+food; total: 
+600 mg/day, in 2--3 divided doses 
+--- FTC: 200 mg (one capsule) once daily
+ Dosage forms  --- ZDV: see above 
+--- FTC: 200 mg capsule
+ FTC  general  comments   ---  Nucleoside  analogue;  same  structure  as  3TC,  except
+fluoride residue at position 5 on pyrimidine ring
+--- Same resistance and safety profile as 3TC
+---  No  apparent  advantage  over  3TC;  tolerability  and  virologic  response  rates
+appear better than regimens containing 
+ddI + d4T  Advantages  --- ZDV: see above. 
+--- FTC
+ o Convenient (once daily)
+o Well tolerated
+o Long intracellular half-life (~40 hours)
+ Disadvantages  --- ZDV: see above. 
+--- FTC
+ o Rash perhaps more frequent than with 3TC
+o No long-term experience with this drug
+o Cross resistance to 3TC
+o Hyperpigimentation among non-Caucasians with long-term use: 3%
+ Preferred dosing  --- TDF: 300 mg once daily
+--- 3TC: 300 mg once daily or 150 mg twice daily
+ Dosage forms  --- TDF: 300 mg tablet 
+--- 3TC: see above  Advantages  --- 3TC: see above
+--- TDF  o Convenient dosing (single pill once daily)
+o Resistance profile activity against certain 
+thymidine analogue mutations 
+o Well tolerated
+ Disadvantages  --- TDF  o Same class warnings as nucleoside reverse 
+transcriptase inhibitors (NRTIs) 
+o Drug interactions
+o Increased TDF concentrations among persons 
+taking atazanavir and lopinavir/ritonavir; need to monitor 
+patients  for  TDF-associated  toxicities   ---  Preferred  dosage  of  atazanavir  if  used  with
+TDF: 300 mg + ritonavir 100 mg once daily + TDF 300 mg once daily
+ Preferred dosing  --- TDF: 300 mg once daily 
+--- FTC: 200 mg once daily
+--- As Truvada™: one tablet daily  Dosage forms  --- TDF: 300 mg tablet 
+--- FTC: see FTC
+--- Truvada™ (TDF 300 mg plus FTC 200 mg)  Advantages  --- FTC: see above
+--- TDF  o Convenient dosing (single pill once daily)
+ o Resistance profile activity against certain 
+thymidine analogue mutations  o Well tolerated
+ Disadvantages  --- TDF  o Same class warnings as NRTIs 
+o Drug interactions
+o  Increased  TDF  concentrations  among  persons  taking  atazanavir  and
+lopinavir/ritonavir; need to monitor 
+patients for TDF-associated toxicities 
+o  Preferred  dosing  of  atazanavir  if  used  with  TDF:  300  mg  +  ritonavir  100  mg
+once daily + TDF 300 mg once daily
+ 
+ ALTERNATE BASIC REGIMENS
+ Preferred dosing  --- 3TC: 300 mg once daily or 150 mg twice daily
+--- d4T: 40 mg twice daily (can use lower doses of 20--30 mg twice daily if toxicity
+occurs; equally 
+effective but less toxic among HIV-infected patients with peripheral neuropathy); 30 mg
+twice daily if body weight is <60 kg
+ Dosage forms
+ --- 3TC: see above 
+--- d4T: 15, 20, 30, and 40 mg tablet
+ Advantages  --- 3TC: see above
+--- d4T: gastrointestinal (GI) side effects rare
+ Disadvantages  --- Possibility that source-patient virus is resistant to this regimen
+--- Potential for delayed toxicity (oncogenic/teratogenic) unknown
+  Preferrred dosing  --- FTC: 200 mg daily
+--- d4T: 40 mg twice daily (can use lower doses of 
+20--30 mg twice daily if toxicity occurs; equally effective but less 
+toxic  among  HIV-infected  patients  who  developed  peripheral  neuropathy);  if  body
+weight is 
+<60 kg, 30 mg twice daily
+ Dosage forms  --- FTC: see above
+--- d4T: see above
+ Advantages  --- 3TC and FTC: see above; d4T's GI side effects rare
+ Disadvantages  --- Potential that source-patient virus is resistant to this regimen
+--- Unknown potential for delayed toxicity (oncogenic/teratogenic) unknown
+  Preferred dosing  --- 3TC: 300 mg once daily or 150 mg twice daily
+---  ddI:  Videx®  chewable/dispersible  buffered  tablets  can  be  administered  on  an
+empty stomach as either 200 mg 
+twice  daily  or  400  mg  once  daily.  Patients  must  take  at  least  two  of  the  appropriate
+strength tablets at each dose to 
+provide adequate buffering and prevent gastric acid degradation of ddI. Because of the
+need for adequate buffering, the 
+200-mg strength tablet should be used only as a component of a once-daily regimen.
+The dose is either 200 mg twice 
+daily or 400 mg once daily for patients weighing >60 kg and 125 mg twice daily or 250
+mg once daily for 
+patients weighing >60 kg.  Dosage forms  --- 3TC: 150 or 300 mg tablets
+---  ddI:  25,  50,  100,  150,  or  200  mg  buffered  white  tablets   Advantages   ---  ddI:
+once daily dosing option
+--- 3TC: see above
+ Disadvantages  --- Tolerability: diarrhea more common with buffered preparation than
+with enteric-coated preparation
+--- Associated with toxicity: peripheral neuropathy, pancreatitis, and lactic acidosis
+--- Must be taken on empty stomach except with TDF 
+--- Drug interactions
+--- 3TC: see above
+  Preferred dosing  --- FTC: 200 mg once daily
+--- ddI: see above  Dosage forms  --- ddI: see above 
+--- FTC: see above
+ Advantages  --- ddI: see above 
+--- FTC: see above
+ Disadvantages   ---  Tolerability:  diarrhea  more  common  with  buffered  than  with
+enteric-coated preparation
+--- Associated with toxicity: peripheral neuropathy, 
+pancreatitis, and lactic acidosis 
+--- Must be taken on empty stomach except with TDF 
+--- Drug interactions
+--- FTC: see above
+ 
+ PREFERRED EXPANDED REGIMEN
+ Basic regimen plus:
+ Preferred dosing  --- LPV/RTV: 400/100 mg = 3 capsules twice daily with food
+ Dosage  form   ---  LPV/RTV:  133/33  mg  capsules   Advantages   ---  Potent  HIV
+protease inhibitor
+--- Generally well-tolerated
+ Disadvantages  --- Potential for serious or life-threatening drug interactions (see 
+Table 4)
+---  Might  accelerate  clearance  of  certain  drugs,  including  oral  contraceptives
+(requiring alternative or 
+additional contraceptive measures for women taking these drugs)
+--- Can cause severe hyperlipidemia, especially hypertriglyceridemia
+--- GI (e.g., diarrhea) events common
+ 
+ ALTERNATE EXPANDED REGIMENS
+ Basic regimen plus one of the following:
+ Preferred dosing  --- ATV: 400 mg once daily, unless used in combination with TDF, in
+which case ATV should be boosted with 
+RTV, preferred dosing of ATV 300 mg + RTV: 100 mg once daily  Dosage forms  --- ATV:
+100, 150, and 200 mg capsules
+--- RTV:  100 mg capsule  Advantages  --- Potent HIV protease inhibitor
+--- Convenient dosing -- once daily
+--- Generally well tolerated
+ Disadvantages  --- Hyperbilirubinemia and jaundice common 
+--- Potential for serious or life-threatening drug interactions (see 
+Table 4)
+--- Avoid coadministration with proton pump inhibitors 
+---  Separate  antacids  and  buffered  medications  by  2  hours  and  H2-receptor
+antagonists by 12 hours to avoid 
+decreasing ATV levels
+--- Caution should be used with ATV and products known to induce PR prolongation
+(e.g., diltiazem)
+  Preferred dosing
+ --- FOSAPV: 1400 mg twice daily (without RTV) 
+--- FOSAPV: 1400 mg once daily + RTV 200 mg once daily 
+---  FOSAPV:  700  mg  twice  daily  +  RTV  100  mg  twice  daily   Dosage  form   ---
+FOSAPV: 700 mg tablets 
+---  RTV:  100  mg  capsule   Advantages   ---  Once  daily  dosing  when  given  with
+ritonavir  Disadvantages  --- Tolerability: GI side effects common
+--- Multiple drug interactions. Oral contraceptives 
+decrease fosamprenavir concentrations 
+--- Incidence of rash in healthy volunteers, especially when used with low doses of
+ritonavir. Differentiating between 
+early  drug-associated  rash  and  acute  seroconversion  can  be  difficult  and  cause
+extraordinary concern for the exposed person
+  Preferred dosing  --- IDV 800 mg + RTV 100 mg twice daily without 
+regard to food  Alternative dosing  --- IDV: 800 mg every 8 hours, on an empty stomach 
+Dosage forms  --- IDV:  200 mg, 333, and 400 mg capsule 
+--- RTV:  100 mg capsule  Advantages  --- Potent HIV inhibitor
+ Disadvantages  --- Potential for serious or life-threatening drug interactions (see 
+Table 4)
+--- Serious toxicity (e.g., nephrolithiasis) possible; 
+consumption of 8 glasses of fluid/day required 
+--- Hyperbilirubinemia common; must avoid this drug during late pregnancy
+--- Requires acid for absorption and cannot be taken 
+simultaneously with ddI, chewable/dispersible buffered 
+tablet formulation (doses must be separated by >1 hour)
+  Preferred dosing  --- SQV: 1,000 mg (given as Invirase) + RTV 100 mg, twice daily
+--- SQV : five capsules twice daily + RTV: one capsule twice daily
+ Dosage forms  --- SQV (Invirase): 200 mg capsule 
+---  RTV:  100  mg  capsule   Advantages   ---  Generally  well-tolerated,  although  GI
+events common
+ Disadvantages  --- Potential for serious or life-threatening drug interactions (see 
+Table 4)
+--- Substantial pill burden
+  Preferred dosing  --- NFV: 1,250 mg (2 x 625 mg or 5 x 250 mg tablets), twice daily
+with a meal
+ Dosage  forms   ---  NFV:  250  or  625  mg  tablet   Advantages   ---  Generally
+well-tolerated
+ Disadvantages
+ --- Diarrhea or other GI events common
+--- Potential for serious and/or life-threatening drug 
+interactions (see Table 4)
+  Preferred dosing  --- EFV: 600 mg daily, at bedtime  Dosage forms  --- EFV: 50, 100,
+200 capsules 
+---  EFV:  600  mg  tablet   Advantages   ---  Does  not  require  phosphorylation  before
+activation and might be active earlier than other antiretroviral agents 
+(a theoretic advantage of no demonstrated clinical benefit) 
+--- Once daily dosing
+ Disadvantages   ---  Drug  associated  with  rash  (early  onset)  that  can  be  severe  and
+might rarely progress to Stevens-Johnson syndrome
+---  Differentiating  between  early  drug-associated  rash  and  acute  seroconversion
+can be difficult and 
+cause extraordinary concern for the exposed person 
+--- Central nervous system side effects (e.g., dizziness, somnolence, insomnia, or
+abnormal dreaming) common; 
+severe  psychiatric  symptoms  possible  (dosing  before  bedtime  might  minimize  these
+side effects)
+--- Teratogen; should not be used during pregnancy 
+--- Potential for serious or life-threatening drug interactions (see 
+Table 5)
+ 
+ ANTIRETROVIRAL AGENTS GENERALLY NOT RECOMMENDED 
+FOR USE AS PEP
+ Disadvantages  --- Associated with severe hepatotoxicity (including at least one case of
+liver failure requiring liver transplantation in 
+an exposed person taking PEP) 
+---  Associated  with  rash  (early  onset)  that  can  be  severe  and  progress  to
+Stevens-Johnson syndrome
+---  Differentiating  between  early  drug-associated  rash  and  acute  seroconversion
+can be difficult and 
+cause extraordinary concern for the exposed person 
+---  Drug  interactions:  can  lower  effectiveness  of  certain  antiretroviral  agents  and
+other commonly used 
+medicines
+  Disadvantages   ---  Drug  associated  with  rash  (early  onset)  that  can  be  severe  and
+progress to Stevens-Johnson syndrome
+--- Multiple drug interactions
+  Disadvantages  --- Severe hypersensitivity reactions can occur, usually within the first
+6 weeks
+---  Differentiating  between  early  drug-associated  rash/hypersensitivity  and  acute
+seroconversion can be 
+difficult 
+  Disadvantages  --- Three times a day dosing
+--- Tolerability
+--- Weakest antiretroviral agent
+ ANTIRETROVIRAL AGENT FOR USE AS PEP ONLY WITH EXPERT CONSULTATION
+ Preferred dosing  --- T20: 90 mg (1 ml) twice daily by subcutaneous 
+injection
+ Dosage forms
+ --- T20: Single-dose vial, reconstituted to 90 mg/ml  
+ Advantages  --- New class
+--- Unique viral target; to block cell entry
+--- Prevalence of resistance low
+ Disadvantages  --- Twice-daily injection
+--- Safety profile: local injection site reactions
+--- Never studied among antiretroviral-naïve or HIV-negative patients
+---  False-positive  EIA  HIV  antibody  tests  might  result  from  formation  of  anti-T20
+antibodies that cross-react with 
+anti-gp41 antibodies  PHS Working Group on Occupational Postexposure 
+Prophylaxis: Adelisa L Panlilio, Denise M. Cardo, Division of Healthcare Quality 
+Promotion,  National  Center  for  Infectious  Diseases,  CDC;  Lisa  A.  Grohskopf;  Walid
+Heneine, Division of HIV/AIDS Prevention, National Center for HIV, 
+STD, and TB Prevention, CDC; Clara Sue Ross, Ahmed Gomaa; Division of Surveillance
+and Hazard Evaluations, and Field Studies, National Institute 
+for  Occupational  Safety  and  Health,  CDC;  Kimberly  A.  Struble,  Center  for  Drug
+Evaluation and Research, FDA; Abe Macher, HIV/AIDS Bureau, 
+HRSA; David K Henderson, Clinical Center, National Institutes of Health.
+ External  Consultants:  Henry  M.  Blumberg,  Grady  Memorial  Hospital;  Betty  Dong,
+National Clinicians' Postexposure Prophylaxis Hotline 
+(PEPline);  Ron  Goldschmidt,  University  of  California,  San  Francisco;  Michael  Saag,
+University of Alabama, Birmingham; Michael Tapper, Lenox Hill Hospital.
+ Use  of  trade  names  and  commercial  sources  is  for  identification  only  and  does  not
+imply endorsement by the U.S. Department of 
+Health and Human Services.References to non-CDC sites on the Internet are 
+provided as a service to MMWR readers and do not constitute or imply 
+endorsement of these organizations or their programs by CDC or the U.S. 
+Department of Health and Human Services. CDC is not responsible for the content 
+of pages found at these sites. URL addresses listed in MMWR were current as of 
+the date of publication.
+Disclaimer
+  
+All MMWR HTML versions of articles are electronic conversions from ASCII text 
+into HTML.  This conversion may have resulted in character translation or format errors
+in the HTML version.  
+Users  should  not  rely  on  this  HTML  document,  but  are  referred  to  the  electronic  PDF
+version and/or 
+the original MMWR paper copy for the official text, figures, and tables.  
+An  original  paper  copy  of  this  issue  can  be  obtained  from  the  Superintendent  of
+Documents, 
+U.S. Government Printing Office (GPO), Washington, DC 20402-9371; telephone: (202)
+512-1800. 
+Contact GPO for current prices.
+**Questions or messages regarding errors in formatting should be addressed to 
+mmwrq@cdc.gov.  Use of trade names and commercial sources is for identification only
+and does not imply endorsement by the U.S. Department of 
+Health and Human Services.References to non-CDC sites on the Internet are 
+provided as a service to MMWR readers and do not constitute or imply 
+endorsement of these organizations or their programs by CDC or the U.S. 
+Department of Health and Human Services. CDC is not responsible for the content 
+of pages found at these sites. URL addresses listed in MMWR were current as of 
+the date of publication. 
+Disclaimer
+  
+All MMWR HTML versions of articles are electronic conversions from ASCII text 
+into HTML.  This conversion may have resulted in character translation or format errors
+in the HTML version.  
+Users  should  not  rely  on  this  HTML  document,  but  are  referred  to  the  electronic  PDF
+version and/or 
+the original MMWR paper copy for the official text, figures, and tables.  
+An  original  paper  copy  of  this  issue  can  be  obtained  from  the  Superintendent  of
+Documents, 
+U.S. Government Printing Office (GPO), Washington, DC 20402-9371; telephone: (202)
+512-1800. 
+Contact GPO for current prices. Date last reviewed: 9/26/2005
+ 
+    HOME  |  
+    ABOUT MMWR  | 
+    MMWR SEARCH  | 
+    DOWNLOADS  | 
+    RSS 
+    |  
+    CONTACT
+POLICY  |  
+    DISCLAIMER  |  
+    ACCESSIBILITY 
+Morbidity and Mortality Weekly Report
+                Centers for Disease Control and Prevention
+                1600 Clifton Rd, MailStop E-90, Atlanta, GA 
+                  30333, U.S.A 
+Department of Healthand Human Services 
+Source URL: https://www.cdc.gov/mmwr/preview/mmwrhtml/rr5409a1.htm

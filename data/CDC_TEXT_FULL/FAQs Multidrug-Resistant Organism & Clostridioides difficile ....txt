@@ -1,0 +1,177 @@
+Official websites use .gov A .gov website belongs to an official government organization
+in  the  United  States.  Secure  .gov  websites  use  HTTPS  A  lock  (   )  or  https://  means
+you've  safely  connected  to  the  .gov  website.  Share  sensitive  information  only  on
+official, secure websites.  For NHSN reporting purposes, a CDI LabID event is a positive
+laboratory  test  result  for  C.  difficile  toxin  A  and/or  toxin  B  OR  any  detection  of
+toxin-producing  C.  difficile  organisms  by  culture  or  other  laboratory  means  on  an
+unformed stool specimen that conforms to the container. Testing methods include, but
+are not limited to, molecular assays such as PCR and/or toxin assays such as EIA.   If a
+multi-step testing algorithm is used to test for C. difficile toxins, refer to question #2
+below.  The  CDI  lab  result  (Antigen  Positive,  Toxin  Negative)  does  not  meet  NHSN
+definition  of  a  CDI-positive  laboratory  assay  since  the  toxin  result  is  negative.
+Regardless  of  the  method  or  sequence  of  testing,  when  testing  the  same  unformed
+stool  specimen,  the  result  of  the  last  test  performed  is  used  to  determine  if  the  CDI
+Laboratory Assay definition is met and a LabID event is submitted to NHSN.   Examples
+of different algorithms and interpretations for event reporting are provided in the MDRO
+protocol:   MDRO  protocol  [PDF  –  2  MB].  Only  when  the  final  report  has  specific  test
+times  attached  to  each  of  the  individual  testing  methods  (for  example,  antigen/toxin
+and PCR) can one make a valid determination of which test is performed first and which
+is  performed  last.  If  there  are  no  specific  test  times/time  stamps  attached  to  each
+individual  testing  method  on  the  final  lab  report,  consider  the  tests  as  performed
+simultaneously  and  any  positive  is  eligible  for  use.  NHSN  doesn’t  specify  collection
+methods;  Any  unformed  stool  specimen  testing  positive  for  C.  difficile  toxin  A  and/or
+toxin B is eligible for use in meeting the definition of CDI laboratory assay. Reporting
+should be done irrespective of method of collection (for example, stools collected from
+ostomies), and/or there being a change from the normal consistency or amount of the
+stool.   These  reporting  instructions  align  with  the  intent  of  LabID  Event  Reporting  to
+decrease  the  burden  for  gathering  information  beyond  the  specimen  collection  date
+and  admission  date  and  will  remove  subjectivity  and  simplify  interpretation  of  the
+GI-CDI  infection  criteria.   Specimens  labeled  something  other  than  ‘stool’  are  not
+eligible for use. The response should reflect the testing method used with the majority
+of  specimens  tested  (the  test  used  in  more  than  50%  of  all  testing  performed).   For
+example,  a  facility  rotates  between  three  testing  methods,  with  the  following
+proportions: NAAT only in 15% of specimens tested, GDH/EIA toxin in 45%, and GDH/EIA
+reflexed to NAAT for discrepant results in 40%.  The appropriate response is GDH/EIA
+given 85% of all testing is by GDH/EIA.  The response to the question is to be completed
+in  the  last  month  of  each  calendar-year  quarter  (March,  June,  September,  and
+December).   If  you  change  test  method  during  the  quarter,  compare  the  counts  for
+different  testing  to  identify  the  appropriate  response  to  the  testing  question.  The
+transfer rule does not apply to LabID Event reporting. LabID Events are attributed to the
+location of the patient at the time of specimen collection. The location of attribution for
+LabID  Events  is  based  on  the  inpatient  location  of  the  patient  at  time  of  specimen
+collection regardless of time spent or procedures performed in the location. There is 1
+special  case  scenario  available  for  use:   If  a  specimen  collected  in  an  affiliated
+outpatient clinic is positive for an MDRO or CDI, and the patient it is collected from is
+admitted  to  the  facility  on  the  SAME  calendar  date  into  an  inpatient  location  that  is
+monitoring LabID Events for the identified MDRO or CDI, the positive specimen can be
+reported as the first specimen for the patient in that admitting inpatient location for the
+month. If the facility is also monitoring outpatient LabID Events for the same MDRO or
+CDI  in  affiliated  outpatient  clinics  (FacWideOUT),  then  the  same  specimen  for  the
+patient would also be reported a second time for that outpatient location. The question
+is  used  to  define  a  C.  difficile  LabID  Event  as  community-onset  healthcare
+facility-associated (CO-HCFA) (community onset event collected from a patient who was
+discharged from the same facility ≤4 weeks prior to the current date of stool specimen
+collection).  The  question  refers  to  prior  discharge  from  the  same  facility  after  an
+inpatient stay and offers meaningful information for appropriate event categorization.
+Discharge from an outpatient location (also known as an encounter) such as emergency
+department and 24-hour observation unit are not eligible for use. This is a non-editable
+data  field  and  will  auto-fill  by  the  system  based  whether  a  MDRO  LabID  Event  was
+submitted  for  the  same  MDRO  and  same  patient  in  a  prior  month  (not  the  current
+month) at this reporting facility. If there is a previous LabID event for this organism type
+identified by NHSN in a prior month, the system will auto-populate with a “YES.”  Note: 
+This data field is NOT used in the calculation of SIRs.  Instructions for completion of the
+LabID  Event  form  can  be  found  on  the  following  site  (must  copy  and  paste  the  link):
+Instructions for completion of the LabID Event form [PDF – 100 KB]. For NHSN purposes,
+if the IRF is located inside of the ACH:  No. If monitoring all MRSA specimens, any MRSA
+isolate  from  the  same  patient  and  location  after  an  initial  report  of  MRSA  during  a
+calendar  month  is  considered  a  duplicate  MRSA  isolate  and  should  not  be  entered,
+except if it is a unique blood source.  If the first MRSA isolate for the month is from a
+blood source, no other non-blood MRSA isolates are reported for the calendar month for
+that  patient  and  location.   If  there  is  another  positive  MRSA  blood  isolate  from  same
+patient and location, there must be a full 14 days with no positive blood MRSA isolates
+for  the  patient  and  location  before  another  MRSA  Blood  LabID  Event  is  entered  into
+NHSN for the patient. See Figure 1 in MDRO and CDI Module (Chapter 12) [PDF – 3 MB]
+for algorithm for ALL SPECIMENS. NHSN doesn’t encourage assumptions; the lab report
+must identify the isolate as ‘MRSA’ [or some form of the name] or have a susceptibility
+pattern  which  meets  the  definition  to  qualify  for  event  reporting.  MRSA  includes  S.
+aureus cultured from any specimen that tests oxacillin-resistant, cefoxitin-resistant, or
+methicillin-resistant  by  standard  susceptibility  testing  methods,  or  any  laboratory
+finding  of  MRSA  (includes  but  not  limited  to  PCR  or  other  molecular  based  detection
+methods).  These  are  two  very  different  CDI  event  reporting  methods  that  are  each
+governed by different sets of rules and date timeframes.   CDI LabID Event Reporting is
+based strictly on the number of hospital days between the specimen collection date and
+the date the patient is admitted to the facility.  Facility admission date is considered
+Day 1. There is no consideration for clinical presentation.   Day of admission or the day
+after  =  present  on  admission  (POA)  Hospital  day  3  or  greater  =  HAI   Each  method
+requires a positive test for toxin-producing C. difficile on an unformed stool specimen.
+Note:   Although  diarrhea  is  not  a  specific  element  for  a  GI-CDI  event,  it  must  be
+checked when entering the GI-CDI event to validate that testing was performed on the
+appropriate  specimen  type.  NHSN  defines  an  encounter  as  a  patient  visit  to  an
+outpatient  location  (ED,  24-hour  observation)  and  is  independent  of  admission  to  the
+inpatient  facility.   Each  encounter  must  be  included  in  the  total  encounter  count
+regardless of admission to the facility. Instructions for completion of denominator data
+for  Infection  Surveillance  and/or  LabID  Events  is  found  at  (must  copy  and  paste  the
+link):
+ http://www.cdc.gov/nhsn/forms/instr/57_127.pdf
+ Total
+ Facility
+ Patient
+Days/Admissions  include  all  inpatient  locations  in  the  facility  including  units  with
+separate  CCNs  such  as  inpatient  rehabilitation  facility  (IRF)  and  inpatient  psychiatric
+facility  (IPF)  locations.  Line  2  records  the  total  facility  counts  minus  counts  from
+CMS-certified  inpatient  rehabilitation  units  (IRFs)  and  inpatient  psychiatric  units  (IPFs)
+with a unique CCN. This is not a count of patients with an MDRO. Line 3 records the
+total facility counts minus counts from CMS-certified inpatient rehabilitation units (IRFs)
+and inpatient psychiatric units (IPFs) with a unique CCN, and minus counts from all baby
+locations.  This is not a count of patients with CDI.   NOTE: Patient Days/Admissions on
+Line 2 and Line 3 of the FacWideIN form refer to the total number of patients housed in
+eligible  inpatient  locations  (FACWIDEIN)  in  your  facility,  regardless  of  the  patient’s
+MDRO  or  C.  difficile  infection  status.  Step-by-step  instructions  for  completing  this
+information  can  be  found  in  the  Instructions  for  Completion  of  MDRO  and  CDI
+Prevention Process and Outcome Measures Monthly Monitoring form (CDC 57.127) [PDF
+–  61  KB].  The  ‘Report  No  Events’  box  on  the  facility-wide  inpatient  (FacWideIN)  form
+should be checked if there were no LabID events reported in any inpatient location, not
+including units with separate CCNs. If applicable, the ‘Report No Events’ box must be
+checked  separately  for  each  individual  location,  that  is  for,  FacWideIN,  emergency
+departments, 24-hour observation units, units with separate CCNs (such as an IRF), and
+other locations the facility has provided summary data.  For example, all LabID events
+for  the  month  occur  in  the  ED;  you  should  check  the  ‘Report  No  Events’  box  on  the
+FacWideIN  summary  to  indicate  no  inpatient  events  were  submitted  for  the  month.  
+Review events for each reporting month to determine in which location a LabID event
+was reported. Check the ‘Report No Events’ box as needed on the appropriate summary
+forms to complete reporting requirements. For more information about resolving Alerts,
+refer to our Alert Guide: Alert Guide [PDF – 1 MB]. The First positive C. difficile specimen
+for the patient and the location is reported as a LabID event.  Once submitted, NHSN
+automatically applies a location level assignment of “CO” or “HO” based on the date of
+event.  An event occurring on HD 5 is categorized as a healthcare facility-onset (HO)
+CDI  for  the  admitting  facility  [HO  =  specimen  collection  date  was  ≥ 4  days  after
+inpatient  admission  to  the  facility].  The  categorization  is  irrespective  of  testing
+performed prior to admission to a facility or patient history. LabID Event reporting and
+categorizations  are  based  on  a  single  reporting  facility  and  for  FacWideIN  include
+inpatient,  emergency  department,  and  24-hour  observation  locations  in  the  reporting
+facility.  The  challenges  of  decreased  specificity  as  it  relates  to  true  infection  verses
+colonization  is  balanced  by  the  intent  of  the  categorizations  used  for  LabID  Events
+Reporting, which are:  These categorizations are based on the length of time between
+C. Difficile LabID Events for the same patient while in the same facility.  Specifically:  All
+patients  cared  for  /  housed  in  an  eligible  inpatient  unit  should  be  included  in  counts
+(numerator and denominator) for FacWideIN LabID Event reporting, including patients
+designated  as  “swing  bed”  and  “observation”  status.   Data  from  IRFs  and  IPFs  with
+separate CCNs are excluded from acute care hospitals’ FacWideIN LabID event SIRs.   
+The complete list of algorithms used to determine which events are counted in the SIR
+(for all facility types) can be found here: Troubleshooting the MRSA Bacteremia and CDI
+LabID Event SIR [PDF – 300 KB]. The MRSA bacteremia and CDI LabID Event Line Lists
+contain  indicator  variables  that  identify  which  events  are  counted  in  the  SIR.  The
+indicator  variables  for  acute  care  hospitals  are  listed  below  [Facility  wide  incidence
+SIR=  Facility  wide  Inpatient  (FacWideIN)  SIR:  Variable  will  display  as  1  or  0  for  each
+event:  NOTE:  separate  indicator  variables  are  available  for  CMS-certified  IRF  units.
+Refer to the Troubleshooting Guide: Troubleshooting Guide [PDF – 300 KB]. To show risk
+at  the  location/unit  level  where  the  patient  has  been  housed,  all  location/unit  level
+LabID events reported into the NHSN application will appear on the line list.  However,
+the categorizations assigned (HO vs. CO) on the line list are based only on the patient’s
+facility admission date and specimen collection date. This means that although the first
+reported LabID Event is categorized as CO if the specimen is collected fewer than four
+days  after  inpatient  admission,  a  subsequent  LabID  Event  submitted  to  NHSN  for  the
+same  patient,  but  a  different  location  will  be  categorized  as  HO  if  the  specimen  is
+collected on Day 4 or later after inpatient admission to the facility. Each LabID event is
+viewed  independently  of  other  events  at  this  level.  Note:  For  FacWideIN  reporting,
+however, duplicate LabID Events will be removed during analysis. Your SIR report will
+provide  a  more  accurate  description  of  your  FacWideIN  numbers.  CMS  guidance
+documents  and  reporting  requirements  can  be  found  on  the  NHSN  home  page  under
+“CMS  Requirements”  (must  copy  and  paste  the  link):   CMS  guidance  documents  and
+reporting requirements [PDF – 245 KB]. FacWideIN standardized infection ratios (SIRs)
+are  sent  to  CMS  for  those  hospitals  participating  in  the  Hospital  Inpatient  Quality
+Reporting  program.   The  numerator  of  the  SIR  is  a  count  of  the  following  events:
+Additional  data  such  as  community-onset  events  and  monthly  denominators  are
+incorporated into the SIR calculations that are submitted to CMS. To ensure complete
+reporting  of  MRSA  and  CDI,  refer  to  this  document:  How  to  Set  Up  Facility-Wide
+Inpatient MRSA Bacteremia and C. difficile LabID Event Reporting [PDF – 300 KB]. NOTE:
+Duplicate  LabID  Events  reported  at  the  location  level  are  excluded  from  SIR
+calculations.  For  more  information  about  the  algorithms  used  to  determine  which
+events  are  counted  in  the  SIR,  refer  to  our  LabID  Troubleshooting  Guide:  LabID
+Troubleshooting Guide [PDF – 250 KB]. 
+ Training 
+ Newsletters / Members Meeting Updates 
+ E-mail Updates 
+ Health Department HAI/AR Programs To receive email updates about this page, enter
+your email address:  Questions about NHSN?Contact us: nhsn@cdc.gov
+Source URL: https://www.cdc.gov/nhsn/faqs/faq-mdro-cdi.html

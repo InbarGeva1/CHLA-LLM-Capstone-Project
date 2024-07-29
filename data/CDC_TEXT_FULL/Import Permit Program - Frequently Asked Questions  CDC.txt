@@ -1,0 +1,334 @@
+Official websites use .gov A .gov website belongs to an official government organization
+in  the  United  States.  Secure  .gov  websites  use  HTTPS  A  lock  (   )  or  https://  means
+you've  safely  connected  to  the  .gov  website.  Share  sensitive  information  only  on
+official,  secure  websites.  For  answers  to  frequently  asked  questions  about  the
+importation  of  infectious  biological  materials  that  could  cause  disease  in  humans,
+please refer to the information below. Should you have any further questions, please
+contact  us  at  importpermit@cdc.gov.  The  Import  Permit  Program  (IPP)  uses  a  secure
+electronic  information  system,  eIPP,  to  conduct  all  program  business.  This  two-way
+portal,  accessible  by  both  the  program  and  those  seeking  import  permits,  is  used  to
+submit and share information. As of September 2018, the only way to apply for a CDC
+import  permit  is  by  using  this  system.  Additional  information  can  be  found  here.  All
+potential applicants are required to have a SAMS (Secure Access Management Services)
+account – which protects the security of the information by requiring users to enter a
+user  ID  and  password,  or  other  secure  credentials,  before  providing  access  to  the
+system – in order to access the eIPP system to apply for a permit.  If you do not yet
+have  a  SAMS  account  but  would  like  to  establish  one  in  order  to  submit  a  new
+application,  please  contact  us.  Only  applications  submitted  via  eIPP  will  be  accepted.
+Real-time  status  updates  are  available  on  the  permittees  dashboard  in  eIPP.  Options
+that can appear include: No. Currently, only one user can be connected to a SAMS/eIPP
+account.  Information  cannot  be  transferred  between  accounts.  No.  Currently,  SAMS
+accounts cannot be transferred from one individual to another. The permit cannot be
+transferred  to  someone  else  at  the  company.  Therefore,  someone  at  the  company
+would need to obtain a SAMS account and submit an application to obtain a permit. Yes,
+but  your  contact  information  will  need  to  be  updated  under  the  account  settings  tab
+within eIPP. Changes to your account username/email must be requested by contacting
+the  eIPP  Help  Desk.  Yes.  After  an  application  has  been  saved  as  a  draft  and  an
+application number has been generated, you are able to upload supporting documents
+using  the  “Upload  Attachment”  feature  that  is  displayed  at  the  bottom  of  the
+application below the discussion section. Required fields are marked by red asterisks (*)
+in  eIPP.  Applications  can  be  saved  as  a  draft,  but  can  only  be  submitted  when  all
+required  fields  are  completed.  Additional  assistance  with  filling  out  the  application  is
+available  from  the  Import  Permit  Program  by  email  at  importpermit@cdc.gov  or
+telephone at (404) 718-2077. Yes. The application must be resubmitted in eIPP. If the
+imported material is being sent from more than one sender, select “Add Sender & Add
+Template” to add additional senders. Currently, there are no limits on the number of
+senders  that  can  be  entered.  If  your  facility  will  receive  multiple  agents,  select  “Add
+Infectious  Biological  Agent  &  Add  Template”  to  include  the  scientific  name  of  all
+known/suspected  infectious  biological  agents  in  Section  D,  items  #5-11.  Currently,
+there  are  no  limits  on  the  number  of  agents/vectors  that  can  be  entered.  “Infectious
+biological agent” is defined as a microorganism [including, but not limited to, bacteria
+(including rickettsiae), viruses, fungi, or protozoa] or prion, whether naturally occurring,
+bioengineered,  or  artificial,  or  a  component  of  such  microorganism  or  prion  that  is
+capable  of  causing  communicable  disease  in  a  human.  If  the  specific  agents  are  not
+known, it is acceptable to list the genus and species of the vector in Section D, item #5
+(e.g.,  non-human  primates  such  as  rhesus  macaques  should  be  listed  as  Macaca
+mulatta and bats such as Egyptian fruit bats should be listed as Rousettus aegyptiacus).
+All requests for renewal of an existing import permit require the submission of a new
+application and current digital signature of the permittee via eIPP. To prevent lapses in
+the  import  permit  status,  it  is  recommended  that  permit  renewal  applications  be
+submitted  at  least  30  days  prior  to  the  expiration  date  on  the  current  permit.  Once
+approved,  a  downloadable  PDF  of  the  permit  will  be  available  in  eIPP.  Since  eIPP
+currently  does  not  have  an  email  alert  feature  to  notify  account  holders  of  status
+changes or to automatically email the approved permit, it is recommended that account
+holders  check  the  status  of  their  application  daily.  The  e-Tool  will  assist  you  in
+determining  if  an  import  permit  is  needed  to  import  infectious  biological  agents,
+infectious  substances,  and  vectors  into  the  United  States.  To  facilitate  clearance  of
+materials  that  do  not  require  a  CDC  import  permit,  each  shipment  must  be
+accompanied  by  a  certification  statement  from  the  sender  or  the  recipient  of  this
+material. The certification statement should include: No. Currently, there is no fee for
+processing  a  CDC  import  permit.  If  noted  as  a  condition  of  the  issued  permit,
+subsequent transfers of any infectious biological agent, infectious substance or vector
+within the United States will require an additional permit issued by the CDC. The CDC
+import permit is issued only to the importer located in the United States. The importer
+must take measures to help ensure that the shipper complies with all applicable legal
+requirements  concerning  the  packaging,  labeling,  and  shipment  of  infectious
+substances. Yes, other import restrictions can exist. The importation of specific animals
+and animal products from specific geographical areas into the United States is currently
+restricted.  Contact  the  U.S.  Fish  and  Wildlife  Service,  U.S.  State  Department  for
+additional
+ information.
+ Please
+ also
+ see
+https://www.cdc.gov/importation/bringing-an-animal-into-the-united-states/african-rode
+nts.html  DGMH’s  guidance  provides  recommended  methods  for  rendering  animal
+products to be used as hunting trophies noninfectious. Yes. The novel H7N9 Influenza A
+virus has caused infections in both humans and birds. APHIS and CDC have authority
+over the importation of all microorganisms which cause, or have the potential, to cause
+disease in animals or humans respectively, and so both agencies will issue permits for
+the  novel  H7N9  influenza  A  virus.  For  further  information,  please  contact  APHIS  at
+301-851-3300 (Option 1) or CDC at 404-718-2077. CDC will not issue a permit for Asian
+lineage H7N9 low path avian influenza until a USDA/APHIS permit has been obtained.
+Please
+ see
+https://www.aphis.usda.gov/animal_health/downloads/organisms_and_vectors/newasian
+-lineage-h7n9-requirements.pdf  for  more  information.  Please  upload  a  copy  of  your
+approved USDA/APHIS permit into eIPP. Infectious biological agent – A microorganism
+[including, but not limited to, bacteria (including rickettsiae), viruses, fungi, or protozoa]
+or  prion,  whether  naturally  occurring,  bioengineered,  or  artificial,  or  a  component  of
+such  microorganism  or  prion  that  is  capable  of  causing  communicable  disease  in  a
+human.  Infectious  substance  –  Any  material  that  is  known  or  reasonably  expected  to
+contain an infectious biological agent. Vector – Any animals (vertebrate or invertebrate)
+including  arthropods  or  any  noninfectious  self-replicating  system  (e.g.,  plasmids  or
+other  molecular  vector)  or  animal  products  (e.g.,  a  mount,  rug,  or  other  display  item
+composed of the hide, hair, skull, teeth, bones, or claws of an animal) that are known to
+transfer  or  are  capable  of  transferring  an  infectious  biological  agent  to  a  human.
+Animals  –  Any  member  of  the  animal  kingdom  except  a  human  including  an  animal
+product  (e.g.,  a  mount,  rug,  or  other  display  item  composed  of  the  hide,  hair,  skull,
+teeth, bones, or claws). Arthropods – Any living insect including crustaceans, spiders,
+scorpions,  etc.  capable  of  being  a  host  or  vector  of  human  disease.  Snails  –  Any
+freshwater  snails  (phylum  Mollusca,  class  Gastropoda)  capable  of  transmitting
+schistosomiasis. Bats – All live bats. See below for further information on obtaining an
+import permit for live bats. Bats may also require a permit from the U.S. Department of
+Interior,
+ Fish
+ and
+ Wildlife
+ Service.
+ For
+ additional
+ information,
+ see
+https://www.fws.gov/permits/?ref=topbar. Non-human primate material – All non-human
+primate  material  (e.g.  blood,  plasma,  tissue,  urine,  feces)  requires  an  import  permit,
+unless it has been specifically treated and rendered non-infectious. Please note that the
+described  material  may  require  a  permit  from  the  United  States  Department  of
+Agriculture (USDA)/Animal and Plant Health Inspection Service (APHIS) or be prohibited
+from importation under the USDA regulations. Information on USDA transport or import
+permits  is  available  at  https://www.aphis.usda.gov/aphis/ourfocus/importexport.  Yes.
+The  novel  H1N1  influenza  virus  has  genetic  components  of  both  swine  and  avian
+influenza  viruses  in  it  which  result  in  causing  infections  in  those  species.  APHIS  has
+authority  over  all  organisms  which  cause  or  have  the  potential  to  cause  disease  in
+animals; therefore, they issue permits for novel H1N1 influenza. For further information,
+contact  APHIS  at  301-734-3277.  The  issuance  and  expiration  dates  located  on  the
+import permit pertain only to the dates that the importer is allowed to import into the
+United States the infectious biological agents, infectious substances, and vectors listed
+on the import permit. The conditions for importation and continued possession listed on
+the permit remain in effect until the importer is no longer in possession of the imported
+material. In most cases, an import permit may not be required. Diagnostic specimens
+that  are  not  known  by  the  importer  to  contain,  or  suspected  by  the  importer  of
+containing,  an  infectious  biological  agent  and  is  accompanied  by  an  importer
+certification  statement  confirming  that  the  material  is  not  known  to  contain  or
+suspected  of  containing  an  infectious  biological  agent,  or  has  been  rendered
+noninfectious would not require a CDC import permit. No. CDC Import Permit Program
+does  not  currently  regulate  the  importation  of  a  toxin.  Yes.  Any  diagnostic  specimen
+known,  or  suspected  by  the  importer  of  containing,  any  infectious  biological  agent
+would require a CDC import permit. No. An animal not known to contain (or suspected
+of containing) an infectious biological agent or has been rendered noninfectious would
+not require a CDC import permit.  However, other regulations such as APHIS or U.S. Fish
+and  Wildlife  Service  regulations  may  apply  to  the  importation  of  this  material.  No.
+Organisms or parasites that are not infectious to humans do not require a CDC import
+permit. However, other regulations may apply to the importation of this material. No.
+Any product that is cleared, approved, licensed, or otherwise authorized under any of
+the following laws would not require a CDC import permit: It depends. Nucleic acids that
+can  produce  infectious  forms  of  any  infectious  biological  agent  would  require  a  CDC
+import  permit.  For  example,  viral  genomes  which  consist  of  positive  sense  RNA  are
+infectious when the purified viral RNA is applied to permissive cells in the absence of
+any  viral  proteins.  In  some  cases,  viral  genomes  which  are  composed  of
+double-stranded DNA are also infectious [e.g., genome of Cercopithecine Herpesvirus 1
+(Herpes B virus)]. Nucleic acids that cannot produce infectious forms of any infectious
+biological agent and are accompanied by an importer certification statement confirming
+that  the  material  is  not  known  to  contain  or  suspected  of  containing  an  infectious
+biological  agent  would  not  require  a  CDC  import  permit.  Yes.  Any  sample  known,  or
+suspected by the importer of containing, an infectious biological agent would require a
+CDC import permit. This product would not meet the exemption because the product is
+not approved or cleared by the Federal Food, Drug, and Cosmetic Act (21 U.S.C. 301 et
+seq.). However, if the material is not known to contain or suspected of containing an
+infectious biological agent, or has been rendered noninfectious, it would not require a
+CDC  import  permit.  The  material  must  be  accompanied  by  an  importer  certification
+statement  confirming  that  the  material  is  not  known  to  contain  or  suspected  of
+containing  an  infectious  biological  agent,  or  has  been  rendered  noninfectious.  You
+should safeguard the material and immediately report the incident to the CDC Import
+Permit  Program  either  by  email  at  importpermit@cdc.gov  or  by  telephone  at  (404)
+718-2077. No. However, please note that the exportation of biological agents of human,
+plant, and animal diseases may require a license from the Department of Commerce.
+Information may be obtained by calling the Department of Commerce Bureau of Export
+Administration at 202-482-4811 or through the internet at www.bis.doc.gov/Licensing.
+“Guidance  for  Importation  of  Human  Remains  into  the  United  States  for  Interment  or
+Subsequent
+ Cremation”
+ is
+ available
+ at
+http://www.cdc.gov/quarantine/human-remains.html. If the CDC Import Permit Program
+requires  an  additional  permit  for  subsequent  transfers  of  any  infectious  biological
+agent, infectious substance or vector within the United States, the requirement will be
+listed  as  a  condition  of  issuance  on  the  import  permit.  To  initiate  the  process  for  an
+additional permit, the recipient must submit an application through eIPP. Yes. Since the
+requirement  for  approval  of  subsequent  transfers  of  imported  materials  within  the
+United  States  was  noted  as  a  condition  on  the  issued  permit  to  the  importer,  the
+recipient is required to obtain a CDC import permit to receive this material. To initiate
+the process for a permit, the facility would need to submit an application through eIPP.
+The USDA’s Animal and Plant Health Inspection Service (APHIS) permits are required for
+the  import,  transit  and  release  of  regulated  animals,  animal  products,  veterinary
+biologics,  plants,  plant  products,  pests,  organisms,  soil,  and  genetically  engineered
+organisms.  Information  on  the  APHIS  permitting  requirements  is  available  at
+https://www.aphis.usda.gov/aphis/resources/permits.  A  permit  to  import,  or  receive
+through subsequent transfer, is valid only for the time period indicated on the issued
+permit. The issuance and expiration dates located on the import permit pertain only to
+the dates that the importer is allowed to import into the United States the infectious
+biological agents, infectious substances, and vectors listed on the import permit. The
+conditions  for  importation  and  continued  possession  listed  on  the  permit  remain  in
+effect until the importer is no longer in possession of the imported material. Please note
+that all requests for renewal of an existing import permit require the submission of a
+new application and current signature of the permittee. To prevent lapses in the import
+permit status, it is recommended that permit renewal applications be submitted at least
+30  days  prior  to  the  expiration  date  on  the  current  permit.  There  is  no  regulatory
+requirement in the import permit regulations for maintaining records of shipments for a
+specific  amount  of  time.  However,  the  CDC  Import  Permit  Program  recommends  that
+the permittee maintain records of shipments for at least 3 years. If your facility will no
+longer  be  importing  infectious  biological  agents,  infectious  substances,  or  vectors  of
+human disease into the United States, your facility should not complete an application
+to renew your facility’s import permit. However, the conditions specified on the permit
+apply until you no longer possess the material. No. The issuance of an import permit is
+not  an  authorization  to  hand  carry  the  imported  material  into  the  United  States.  The
+shipment  of  infectious  biological  agents,  infectious  substances,  or  vectors  of  human
+disease into the United States must be packaged, labeled, and shipped in accordance
+with  all  federal  and  international  regulations.  When  traveling  by  air,  the  biological
+materials must be declared to the airline and cannot be concealed in checked luggage.
+Contact  the  airline  and  U.S.  Customs  in  advance  to  ensure  compliance  with  their
+policies and procedures. No person may carry a hazardous material in the cabin of a
+passenger-carrying  aircraft  or  on  the  flight  deck  of  any  aircraft,  and  the  hazardous
+material  must  be  located  in  a  place  that  is  inaccessible  to  persons  other  than  crew
+members. Hazardous materials may be carried in a main deck cargo compartment of a
+passenger  aircraft  provided  that  the  compartment  is  inaccessible  to  passengers  and
+that it meets all certification requirements for a Class B aircraft cargo compartment in
+14 CFR 25.857(b) or for a Class C aircraft cargo compartment in 14 CFR 25.857(c). The
+facility  should  use  a  scientifically  supportable  method.  The  method  used  to  cause
+permanent  loss  of  biological  activity  must  be  reliable  and  based  on  the  agent’s
+sensitivity to the inactivating method. An acceptable method may consist of traditional
+methods  that  have  been  generally  recognized  in  the  scientific  community  and
+published in the scientific literature or a method developed in-house, but that method
+should  be  validated  as  applied.  While  there  is  no  requirement  to  notify  CDC  prior  to
+rendering  an  agent  non-infectious,  the  facility  should  incorporate  a  practice  of
+maintaining  records  on  file  in  support  of  materials  being  non-infectious.  Information
+from  CDC  on  the  MERS  CoV  is  available  at  http://www.cdc.gov/coronavirus/mers/.  An
+applicant who wishes to make an appeal would have 30 calendar days after receiving
+the denial to submit the appeal in writing to the CDC Director. The appeal must state
+the factual basis for the appeal and provide any supporting documentations to justify
+the appeal (e.g., documents that demonstrate the facility has the appropriate biosafety
+measures in place for working safely with the requested imported material). CDC will
+issue a written response, which would constitute final agency action. The applicant can
+submit the appeal to the CDC Director through the CDC Import Permit Program by email
+(importpermit@cdc.gov), fax [(404) 718-2093] or mail: CDC Import Permit Program
+1600 Clifton Rd, Mailstop A-46
+Atlanta, GA 30329 It depends. In general, a CDC import permit is not required for breast
+milk  from  a  healthy  human  when  being  imported  for  personal  use.  However,  if  the
+breast  milk  is  being  imported  for  research  or  diagnostic  purposes  and  is  reasonably
+expected  to  contain  a  biological  agent  that  is  infectious  to  humans  (e.g.,  human
+immunodeficiency  virus),  then  a  CDC  import  permit  is  required.  SARS-CoV-2  is  not  a
+select agent identified in the select agent regulations. Therefore, the possession, use
+and  transfer  of  SARS-CoV-2  is  not  regulated  by  the  Federal  Select  Agent  Program
+(FSAP).  On  February  11,  2020,  the  International  Committee  on  Taxonomy  of  Viruses
+(ICTV)  announced  that  taxonomically,  what  has  previously  been  referred  to  as
+2019-nCoV  should  now  be  referred  to  as  SARS-CoV-2.  The  “Severe  acute  respiratory
+syndrome-related  coronavirus:  The  species  and  its  viruses  –  a  statement  of  the
+Coronavirus
+ Study
+ Group”
+https://www.biorxiv.org/content/10.1101/2020.02.07.937862v1
+ 
+ indicates
+ that
+SARS-CoV-2 is not a descendent of SARS-CoV (a select agent), but is genetically closely
+related. The select agent regulations currently govern the possession, use and transfer
+of  viruses  identified  as  SARS-CoV,  not  viruses  identified  as  SARS-CoV-2.  The  positive
+strand RNA genome of SARS-COV is also a select agent because this genomic material
+represents  nucleic  acids  capable  of  generating  infectious  virus.  As  the  Federal  Select
+Agent  Program  gains  more  information  about  the  SARS-CoV-2,  we  will  reassess  the
+select agent status as needed. Any changes in the select agent status of SARS-CoV-2
+will  be  published  in  the  Federal  Register.  Vials  should  be  accurately  labeled  as
+SARS-CoV-2  to  ensure  that  there  is  a  clear  distinction  between  the  regulated  virus
+(SARS-CoV)  and  the  unregulated  virus  (SARS-CoV2).  It  depends.  The  Centers  for
+Disease Control and Prevention’s Import Permit Program may inspect an entity to verify
+the  importer  has  implemented  biosafety  measures  commensurate  with  the  hazard
+posed  by  the  infectious  biological  agent,  infectious  substance  and/or  vector  to  be
+imported,  and  the  level  of  risk  given  its  intended  use.  Laboratories  that  have  been
+inspected by either HHS/CDC or the U.S. Department of Agriculture’s Animal and Plant
+Health  Inspection  Service  (USDA/APHIS)  under  the  HHS  or  USDA  select  agent
+regulations  (42  CFR  Part  73,  9  CFR  Part  121,  or  7  CFR  Part  331)  will  not  require  an
+additional  inspection.  The  CDC’s  Import  Permit  Program  will  only  inspect  locations
+where the imported material will be used and stored to evaluate whether the importer’s
+biosafety measures (e.g., physical structure and features of the facility, and operational
+and procedural safeguards) are commensurate with the hazard posed by the infectious
+biological  agent,  infectious  substance,  and/or  vector,  and  the  level  of  risk  given  its
+intended use. Upon review of the application for import permit, the CDC Import Permit
+Program will contact your facility if an inspection is needed. The CDC’s Import Permit
+Program checklists are posted on the CDC’s Import Permit Program website. Yes. CDC
+limits the importation of bats under the authority of the Public Health Service Act (42
+U.S.C.  §  264)  based  on  the  significant  public  health  risks  associated  with  bats.
+Specifically,  bats  are  known  carriers  of  infectious  biological  agents  that  cause
+communicable and other diseases in humans. The most significant of these infectious
+biological agents are Nipah virus and viruses that cause communicable diseases such
+as  Ebola,  Marburg  Hemorrhagic  Fever,  Sudden  Acute  Severe  Respiratory  Syndrome
+(SARS),  and  rabies.  If  the  bat  is  a  native  species  of  the  United  States,  no  permit  is
+required to transfer the live bats. However, the CDC Import Permit Program requires a
+permit  for  the  transfer  of  live  bats  within  the  United  States  if  the  bat  was  previously
+imported  from  outside  of  the  United  States.  This  requirement  is  listed  as  a  condition
+indicated on the issued permit. To initiate the process for a permit, the facility would
+need  to  submit  the  “Application  for  Permit  to  Import  or  Transport  Live  Bats”  through
+eIPP. An importer must demonstrate an understanding of the risks which bats pose to
+public  health  and  provide  evidence  of  efforts  taken  to  protect  the  importer  and  the
+public from such risks. In order to make the determination that an importer will protect
+public  health,  through  this  notice,  and  in  addition  to  a  completed  application,  CDC
+requires: The Import Permit Program (IPP) uses a secure electronic information system,
+eIPP,  to  conduct  all  program  business.  This  two-way  portal,  accessible  by  both  the
+program and those seeking import permits, is used to submit and share information. As
+of  September  2018,  the  only  way  to  apply  for  a  CDC  import  permit  is  by  using  this
+system. Additional information can be found here. All potential applicants are required
+to  have  a  SAMS  (Secure  Access  Management  Services)  account  –  which  protects  the
+security of the information by requiring users to enter a user ID and password, or other
+secure credentials, before providing access to the system – in order to access the eIPP
+system to apply for a permit.  If you do not yet have a SAMS account but would like to
+establish one in order to submit a new application, please contact us. Only applications
+submitted  via  eIPP  will  be  accepted.  The  specific  measures  required  to  ensure  that
+infectious biological agents, infectious substances, and vectors are shipped safely are
+included in the Department of Transportation Hazardous Materials Regulations (49 CFR
+Parts 171-180). A condensed version of these measures can be found in the CDC/NIH
+publication Biosafety in Microbiological and Biomedical Laboratories. Requirements for
+All Infectious Substances The DOT regulations (49 CFR 171.15 and 171.16) require each
+person  in  physical  possession  of  a  hazardous  material,  including  an  infectious
+substance,  to  report  specific  types  of  transportation  incidents  that  involve  these
+materials.  Immediate  reporting  by  telephone  to  the  National  Response  Center  at
+1-800-424-8802  is  required  for  incidents  where  fire,  breakage,  spillage,  or  suspected
+contamination occurs that involves the shipment of infectious substances other than a
+patient specimen or regulated medical waste (See 49 CFR 171.15(b)(3)). In addition, a
+written report to DOT is required within 30 days of the discovery of the incident for any
+unintentional  release  of  hazardous  material  from  a  packaging  during  transportation,
+including those covered under 49 CFR 171.15 (See 49 CFR 171.16(a)). DOT regulations
+also require packages that contain infectious substances to be accompanied by several
+forms  of  hazard  communication,  as  applicable,  as  well  as  labeled  to  indicate  the
+infectious hazard (See 49 CFR 172.432 for a depiction of the required label). This label
+currently  includes  a  statement  for  reporting  a  damaged  package.  Please  refer  to  the
+Department of Transportation regulations (See 49 CFR 173.22 and 24) where it refers to
+the  integrity  of  the  packaging.  Imported  infectious  biological  agents,  infectious
+substances,  and  vectors  classified  as  a  Category  A  infectious  substance  must  be
+packaged  in  accordance  with  the  U.S.  Department  of  Transportation’s  (DOT’s)
+Hazardous Materials Regulations (HMR; 49 CFR Parts 171-180), and be accompanied by
+a  shipping  paper,  marking,  labeling,  and  note  the  appropriate  emergency  response
+information.  Please  see  the  Guidance  for  Completing  the  Shipper’s  Declaration  for
+Dangerous Goods for more information. The outer container of all Category A infectious
+substance  packages  must  display  the  following:  To  receive  email  updates  from  the
+Import Permit Program, enter your email address:
+Source URL: https://www.cdc.gov/orr/ipp/faq.htm

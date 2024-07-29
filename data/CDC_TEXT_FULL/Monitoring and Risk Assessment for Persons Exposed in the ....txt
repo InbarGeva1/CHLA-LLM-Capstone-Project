@@ -1,0 +1,77 @@
+Official websites use .gov A .gov website belongs to an official government organization
+in  the  United  States.  Secure  .gov  websites  use  HTTPS  A  lock  (   )  or  https://  means
+you've  safely  connected  to  the  .gov  website.  Share  sensitive  information  only  on
+official,  secure  websites.  This  guidance  is  intended  for  people  who  have  had  mpox
+exposures  in  the  community.  Guidance  for  exposures  in  healthcare  settings  can  be
+found  here:  Infection  Prevention  and  Control  of  Mpox  in  Healthcare  Settings.  Anyone
+with  an  exposure  to  people  or  animals  with  mpox  should  monitor  their  health  or  be
+monitored  for  signs  or  symptoms  consistent  with  mpox  for  21  days  after  their  last
+exposure.  Information  about  human-to-human  transmission  of  monkeypox  virus  is
+described  in  How  it  Spreads  |  Mpox  |  Poxvirus  |  CDC.  Monitoring  should  include
+assessing the person for signs and symptoms of mpox, including a thorough skin and
+mouth (oral) exam in good lighting. Skin examination can be performed by the person
+in isolation, a caregiver, or a healthcare provider and should include examination of the
+genitals and anus for rash or lesions. During the 21-day monitoring period: Isolation and
+prevention  practices  can  be  ended  prior  to  5  days  if  a  healthcare  provider  or  public
+health authority believes the rash, signs, or symptoms are not due to mpox and there is
+a clear alternative diagnosis made that doesn’t require isolation. The decision on when
+to  end  symptom  monitoring  and  home  isolation,  either  during  the  21-day  monitoring
+period  or  any  5-day  extension,  should  be  made  with  input  from  public  health
+authorities.  Individuals  exposed  to  monkeypox  virus  can  continue  their  routine  daily
+activities (e.g., go to work or school) as long as they do not have signs or symptoms
+consistent with mpox. To date, there have been no cases of mpox transmitted by blood
+transfusion, organ transplantation, or implantation, transplantation, infusion, or transfer
+of human cells, tissues, or cellular or tissue-based products (HCT/Ps). As a precaution,
+patients  with  exposures  should  not  donate  blood,  cells,  tissue,  breast  milk,  or  semen
+while  they  are  being  monitored  for  symptoms.  Given  the  morbidity  and  mortality
+among individuals awaiting organ transplantation, persons who have been exposed, but
+who  are  asymptomatic  and  without  evidence  of  monkeypox  virus  infection,  could  be
+considered  for  organ  donation  following  appropriate  risk-benefit  considerations.
+Decisions  on  how  to  monitor  exposed  persons  are  at  the  discretion  of  public  health
+authorities.  In  general,  the  type  of  monitoring  recommended  reflects  the  risk  for
+transmission,  with  more  active-monitoring  approaches  used  for  people  who  have  had
+higher-risk exposures. Self-monitoring approaches are usually sufficient for people with
+exposures that carry a lesser risk for transmission. Evsen higher-risk exposures may be
+appropriate for a self-monitoring strategy if public health authorities determine that it is
+appropriate.  Ultimately,  the  person’s  exposure  risk  level,  their  reliability  in  reporting
+signs or symptoms that might develop, the number of people needing monitoring, time
+since  exposure,  and  receipt  of  post  exposure  prophylaxis  (PEP)  are  all  factors  when
+determining  the  type  of  monitoring  to  be  used.  Some  people  may  be  unable  to
+communicate  onset  of  symptoms,  such  as  newborns,  young  children,  or  people  with
+cognitive disorders. Parents and other caregivers should watch for changes in behavior
+and  temperament  that  could  signal  that  the  person  is  experiencing  uncomfortable
+symptoms such as fatigue or headache. Each risk level category in the table below is
+intended to highlight the need for monitoring and assist with determining the need for
+postexposure  prophylaxis  (PEP).  The  exposure  risk  level  of  any  incident  may  be
+recategorized  to  another  risk  level  at  the  discretion  of  the  treating  clinician  or  public
+health  authorities  due  to  the  unique  circumstances  of  each  exposure  incident.  Mpox
+typically spreads through prolonged close, skin-to-skin contact with a person who has
+mpox, or their contaminated materials (e.g., clothing, bed sheets). Transmission during
+quick interactions (e.g., brief conversation), between people in close proximity has not
+been  reported  for  any  persons  with  mpox.  There  may  be  settings  in  which  contact
+tracing is not feasible due to the characteristics of the setting (e.g., level of crowding,
+types of interactions occurring). In settings where contact tracing is not feasible, people
+who spent time in the same area as someone with mpox should be considered to have
+intermediate or lower degree of exposure. For Monitoring and Postexposure Prophylaxis
+(PEP)  in  Individuals  Exposed  to  Mpox  Virus  in  a  Community  Setting  Exposure
+Characteristics
+ Recommendations
+ Exposure
+ Characteristics
+ Recommendations
+Exposure
+ Characteristics
+ Recommendations
+ Recommendations
+ Exposure
+Characteristics ¶ JYNNEOS and ACAM2000 are available for PEP † Disinfection using a
+disinfectant  registered  with  the  U.S.  Environmental  Protection  Agency  (EPA),  such  as
+those with an emerging viral pathogens claim found on EPA’s List Q Factors that may
+increase the risk of mpox transmission include (but are not limited to): the person with
+mpox had clothes that were soiled with bodily fluids or secretions (e.g., discharge, skin
+lesion  crusts  or  scabs  on  clothes)  or  was  coughing  while  not  wearing  a  mask  or
+respirator,  or  the  exposed  individual  is  not  previously  vaccinated  against  smallpox  or
+mpox.  People  who  may  be  at  increased  risk  for  severe  disease  include  (but  are  not
+limited  to):  young  children  (<1  year  of  age),  individuals  who  are  pregnant  or
+immunocompromised, and individuals with a history of atopic dermatitis or eczema.
+Source URL: https://www.cdc.gov/poxvirus/mpox/clinicians/monitoring.html

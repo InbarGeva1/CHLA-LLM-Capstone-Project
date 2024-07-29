@@ -1,0 +1,313 @@
+Official websites use .gov A .gov website belongs to an official government organization
+in  the  United  States.  Secure  .gov  websites  use  HTTPS  A  lock  (   )  or  https://  means
+you've  safely  connected  to  the  .gov  website.  Share  sensitive  information  only  on
+official, secure websites.   Disclaimer: Mention of any company name or product does
+not constitute endorsement by the National Institute for Occupational Safety and Health
+In June 1995, the National Institute for Occupational Safety and Health (NIOSH) updated
+and modernized the Federal regulation for certifying air-purifying particulate respirators
+[42 CFR Part 84]. The respirators certified under this new regulation are tested under
+much more demanding conditions, and they provide increased worker protection. These
+new respirators also provide significant cost savings: Estimates indicate that the health
+care  industry  alone  will  save  millions  of  dollars  as  a  result  of  this  new  generation  of
+practical  and  efficient  respirators.  This  guide  was  designed  to  explain  the  new
+regulation  and  to  provide  valuable  information  for  selecting  and  using  the  new
+respirators  certified  by  NIOSH.  We  greatly  appreciate  the  assistance  of  respirator
+manufacturers  and  others  in  making  this  information  available  to  all  employers  and
+respirator program managers. We believe this information will help protect the health
+and lives of U.S. workers who wear particulate filter respirators. Linda Rosenstock, M.D.,
+M.P.H.
+Director, National Institute for Occupational Safety and Health
+Centers for Disease Control and Prevention This document was initially drafted by Jeff
+Bryant  and  Walter  Ruch.  Technical  review  and  assistance  were  provided  by  Roland
+Berry  Ann,  Nancy  Bollinger,  Donald  Campbell,  Bryan  Hardin,  Linda  Martin,  Richard
+Metzler, Ernest Moyer, Robert Mullan, and Laurence Reed. We thank Judy Hudnall and
+Dick  Carlson  for  art  work  and  cover  design,  Anne  Hamilton  for  editing,  and  Diane
+Manning for preparation of the manuscript and the camera-ready copy. NIOSH thanks
+the American Industrial Hygiene Association (AIHA), particularly Anna-Marie DiPasquale,
+John  Meagher,  and  Tom  Nelson,  for  providing  the  facilities  and  organizing  the  joint
+AIHA/NIOSH technical workshop (July 1995). Thanks to all the workshop participants and
+many  reviewers  who  helped  in  completing  this  document.  This  summary  presents  a
+brief overview of what the respirator user needs to know about the new categories of
+particulate  respirators  certified  by  the  National  Institute  for  Occupational  Safety  and
+Health  (NIOSH).  NIOSH  has  developed  a  new  set  of  regulations  in  42  CFR*  84  (also
+referred  to  as  “Part  84”)  for  testing  and  certifying  nonpowered,  air-purifying,
+particulate-filter  respirators.  The  new  Part  84  respirators  have  passed  a  more
+demanding  certification  test  than  the  old  respirators  (e.g.,  dust  and  mist  [DM],  dust,
+fume  and  mist  [DFM],  spray  paint,  pesticide,  etc.)  certified  under  30  CFR  11  (also
+referred  to  as  “Part  11”).  Changes  in  the  new  regulations  involve  only  nonpowered,
+air-purifying,  particulate-filter  respirators.  Certification  requirements  for  all  other
+classes  of  respirators  (e.g.,  chemical  cartridges,  self-contained  breathing  apparatus
+[SCBA], airlines, gas masks without a particulate filter, powered air-purifying respirators
+[PAPRs]  equipped  with  high-efficiency  particulate  air  [HEPA]  filters,  etc.)  have  been
+transferred to Part 84 without change. Until further notice, the Occupational Safety and
+Health Administration (OSHA) is allowing the continued use of Part 11 particulate-filter
+respirators.  Under  Part  84,  NIOSH  is  allowing  manufacturers  to  continue  selling  and
+shipping Part 11 particulate filters as NIOSH-certified until July 10, 1998. The new Part
+84 regulation provides for nine classes of filters (three levels of filter efficiency,† each
+with three categories of resistance to filter efficiency degradation‡). The three levels of
+filter efficiency are 95%, 99%, and 99.97%. The three categories of resistance to filter
+efficiency degradation are labeled N, R, and P. The class of filter will be clearly marked
+on the filter, filter package, or respirator box. For example, a filter marked N95 would
+mean an N-series filter that is at least 95% efficient. Chemical cartridges that include
+particulate  filter  elements  will  carry  a  similar  marking  that  pertains  only  to  the
+particulate  filter  element.  The  new  classes  of  nonpowered  particulate  respirators
+require new decision logic for selection of the proper respirator. The selection process
+for  using  the  new  particulate  classification  is  discussed  fully  in  Section  II  (Detailed
+Guidelines  for  Use)  and  outlined  as  follows:  Note:  To  help  you  remember  the  filter
+series, use the following guide:  *Code of Federal Regulations. See CFR in references. 
+†Filter  efficiency  is  the  stated  percentage  of  particles  removed  from  the  air.   ‡Filter
+efficiency degradation is defined as a lowering of filter efficiency or a reduction in the
+ability of the filter to remove particles as a result of workplace exposure. The purpose of
+this user’s guide is (1) to familiarize respirator users with the new Part 84 certification
+regulations for particulate respirators, and (2) to provide guidance for the selection and
+use of the new particulate respirators. The new regulation became effective on July 10,
+1995, and replaces the old Part 11 regulation under which NIOSH and the Mine Safety
+and  Health  Administration  (MSHA)  jointly  certified  respirators  before  that  date.  These
+guidelines  are  written  for  those  responsible  for  establishing  and  administering  an
+acceptable respiratory protection program. These individuals should be knowledgeable
+about the basic elements of a respiratory protection program as required in the OSHA
+respiratory protection standard [29 CFR 1910.134] and as recommended in the NIOSH
+Guide  to  Industrial  Respiratory  Protection  [NIOSH  1987],  the  American  National
+Standard for Respiratory Protection (ANSI Z88.2-1992) [ANSI 1992], and the American
+Industrial Hygiene Association Respiratory Protection Manual [AIHA 1993]. The old Part
+11 respirator certification regulation [30 CFR 11] was promulgated in 1972. Some of the
+particulate filter certification tests dated from Bureau of Mines procedures during the
+1930s and were never significantly updated. New research, testing, and manufacturing
+technology have made the particulate filter certification procedures in Part 11 outdated.
+Only  certifications  of  nonpowered,  air-purifying,  particulate-filter  respirators  are
+affected by this change from Part 11 to Part 84. Powered, air-purifying, particulate-filter
+respirators will be addressed in a future revision to Part 84. The remaining portions of
+Part 11 are incorporated into Part 84 without change. This limited revision provides for
+certification tests using a worst-case penetrating aerosol (i.e., an aerosol that produces
+maximum filter penetration) so that the new certified filters can be used against any
+size  of  particulate  in  the  workplace.  Other  respirator  testing  and  certification
+procedures will be addressed through a series of future changes to Part 84. On July 10,
+1995, 30 CFR 11 was replaced by 42 CFR 84 as an active regulation. As of that date,
+NIOSH no longer accepts applications for new approvals or for extension of approvals
+under  Part  11  regulations.  All  nonpowered,  air-purifying,  particulate-filter  respirators
+approved under Part 84 must meet the new performance standard. However, the new
+regulation  permits  the  manufacture  and  sale  of  nonpowered  particulate  respirators
+certified  under  Part  11  until  July  10,  1998.  This  3-year  period  will  provide  time  for
+manufacturers to have new respirators approved and manufactured to meet demand.
+OSHA, MSHA, and other regulatory agencies have the authority to set a use deadline for
+30 CFR 11 filters purchased before July 10, 1998. A new sequence of approval numbers
+(TC-84A-xxxx) is used for nonpowered particulate respirators certified under Part 84. All
+other respirator types will continue to use the sequence of approval numbers previously
+used for Part 11 because the requirements for these other types have not changed. For
+example, the number series TC-13F-xxxx indicates an SCBA that is certified under the
+provisions of either the old Part 11 or the new Part 84. Similarly, PAPRs for particulates
+that  are  certified  under  the  new  Part  84  will  continue  to  be  numbered  with  the
+sequence  TC-21C-xxxx  (as  they  were  numbered  under  Part  11)  because  the
+certification requirements have not yet changed. Appendix A shows examples of the old
+Part  11  and  the  new  Part  84  certification  labels.  All  particulate  respirators  approved
+under Part 84 will have a certification label bearing the NIOSH and the Department of
+Health and Human Services (DHHS) emblems, whereas those approved under Part 11
+have the emblems of NIOSH and MSHA. This allows the user to distinguish particulate
+respirators  certified  before  July  10,  1995,  under  Part  11  from  particulate  respirators
+certified after that date under Part 84. The revised testing requirements for particulate
+filters  are  much  more  demanding  than  the  old  Part  11  tests,  and  they  provide  much
+better  evidence  of  the  filter’s  ability  to  remove  airborne  particles.  The  new
+requirements  are  consistent  with  20  years  of  advances  in  respiratory  protection
+technology. The Part 84 certification regulation provides for nine classes of filters (three
+levels  of  filter  efficiency,  with  three  categories  of  resistance  to  filter  efficiency
+degradation). The three levels of filter efficiency are 95%, 99%, and 99.97%. The three
+categories of resistance to filter efficiency degradation are labeled N (Not resistant to
+oil),  R  (Resistant  to  oil),  and  P  (oil  Proof)  (see  Table  1).  These  new  certification
+categories apply only to nonpowered, air-purifying, particulate-filter respirators. PAPRs
+for  particulates  will  be  approved  only  with  high-efficiency  filters.  PAPRs  will  not  be
+approved  with  DM  or  DFM  filters  under  Part  84.  This  rule  also  eliminates  the
+combination  categories  of  paint  spray  and  pesticide  respirator  approvals;  however,
+other combination respirators (e.g., particulates and acid gases or organic vapors) will
+be  certified  under  Part  84.   *NIOSH  will  be  conducting  and  encouraging  other
+researchers to conduct studies to assure that these service time recommendations are
+adequate.  If  research  indicates  the  need,  additional  service  time  limitations  may  be
+recommended by NIOSH for specific workplace conditions.  †NaCl = sodium chloride. 
+‡Limited by considerations of hygiene, damage, and breathing resistance.  §High (200
+mg) filter loading in the certification test is intended to address the potential for filter
+efficiency degradation by solid or water-based (i.e., non-oil) aerosols in the workplace.
+Accordingly,  there  is  no  recommended  service  time  limit  in  most  workplace  settings.
+However, in dirty workplaces (high aerosol concentrations), service time should only be
+extended  beyond  8  hours  of  use  (continuous  or  intermittent)  by  performing  an
+evaluation  in  specific  workplace  settings  that:  a)  demonstrates  extended  use  will  not
+degrade the filter efficiency below the certified efficiency level, or (b) demonstrates the
+total  mass  loading  of  the  filter  is  less  than  200  mg  (100  mg  per  filter  for  dual-filter
+respirators).   **DOP  oil  =  dioctyl  phthalate.   ††No  specific  service  time  limit  when  oil
+aerosols are not present. In the presence of oil aerosols, service time may be extended
+beyond 8 hours of use (continuous or intermittent) by (a) demonstrating that extended
+use  will  not  degrade  the  filter  efficiency  below  the  certified  efficiency  level,  or  (b)
+demonstrating that the total mass loading of the filter is less than 200 mg (100 mg per
+filter  for  dual-filter  respirators).   ‡‡The  P100  filter  must  be  color-coded  magenta.  The
+Part  84  Subpart  KK  HEPA  filter  on  a  PAPR  will  also  be  magenta,  but  the  label  will  be
+different  from  the  P100  filter,  and  the  two  filters  cannot  be  interchanged.  NIOSH
+established the new test criteria to simulate worst-case respirator use and very severe
+test  conditions.  These  filters  can  be  used  without  particle  size  analysis  or  filter
+penetration testing in the workplace. R- or P-series filters should be selected if there are
+oil  (e.g.,  lubricants,  cutting  fluids,  glycerine)  or  non-oil  aerosols  in  the  workplace.
+N-series filters should be used only for non-oil (i.e., solid and water-based) aerosols. 
+Note:  To  help  you  remember  the  filter  series,  use  the  following  guide:  The  filter
+certification  test  is  called  worst-case  (i.e.,  it  produces  maximum  filter  penetration)
+because the test conditions are the most severe that are likely to be encountered in a
+work  environment.  These  conditions  are:  The  degradation  categories  (N-,  R-,  and
+P-series) will be determined by using either sodium chloride (NaCl) or dioctyl phthalate
+(DOP)  as  the  test  aerosol.  NaCl  is  only  slightly  degrading  to  filter  efficiency,  whereas
+DOP  is  very  degrading.  Respirators  tested  with  NaCl  (i.e.,  N-series  filters)  are  not
+resistant to efficiency degradation by oils and should be used only in workplaces free of
+oil  aerosols.  Filters  passing  DOP  oil  tests  (i.e.,  R-  and  P-series  filters)  are  resistant  to
+efficiency degradation and can be used for protection against any aerosols (including
+oil-based particulates) in the workplace. The service life of all three categories of filters
+efficiency degradation (i.e., N-, R-, and P-series) is limited by considerations of hygiene,
+damage,  and  breathing  resistance.  All  filters  should  be  replaced  whenever  they  are
+damaged,  soiled,  or  causing  noticeably  increased  breathing  resistance  (e.g.,  causing
+discomfort to the wearer). R- or P-series filters can be used for protection against oil or
+non-oil aerosols. N-series filters should be used only for non-oil aerosols. Use and reuse
+of the P-series filters would be subject only to considerations of hygiene, damage, and
+increased  breathing  resistance.  Generally,  the use and  reuse of N-series filters would
+also  be  subject  only  to  considerations  of  hygiene,  damage,  and  increased  breathing
+resistance.  However,  for  dirty  workplaces  that  could  result  in  high  filter  loading  (i.e.,
+200  mg),  service  time  for  N-series  filters  should  be  extended  beyond  8  hours  of  use
+(continuous or intermittent) by performing an evaluation in specific workplace settings
+that:  (a)  demonstrates  extended  use  will  not  degrade  the  filter  efficiency  below  the
+efficiency level specified in Part 84, or (b) demonstrates the total mass loading of the
+filter(s) is less than 200 mg. The R-series filters should be used only for a single shift (or
+for 8 hours of continuous or intermittent use) when oil is present. However, service time
+for the R-series filters can be extended using the same two methods described above
+for  N-series  filters.  These  determinations  would  need  to  be  repeated  whenever
+conditions change or modifications are made to processes that could change the type
+of  particulate  generated  in  the  user’s  facility.  To  select  the  correct  respirator  for
+protection against particulates, the following conditions must be known: Multiplying the
+occupational exposure limit by the APF for a respirator gives the maximum workplace
+concentration  in  which  that  respirator  can  be  used.  For  example,  if  the  commonly
+accepted APF for a half-mask respirator is 10 and the PEL is 5 mg/m3, then 50 mg/m3 is
+the  highest  workplace  concentration  in  which  a  half-mask  respirator  can  be  used
+against that contaminant. If the workplace concentration is greater than 50 mg/m3, a
+more  protective  respirator  (with  a  higher  APF)  should  be  used.  In  no  case  should  an
+air-purifying  respirator  be  used  in  IDLH  concentrations.  Appendix  B  presents  a
+simplified  guideline  that  can  be  used  to  identify  an  appropriate  Part  84  particulate
+respirator  when  a  properly  selected  Part  11  respirator  is  already  in  use.  Appendix  C
+presents  a  flow  chart  that  can  be  used  to  select  the  appropriate  Part  84  particulate
+filters.  Appendix  D  presents  some  substance-specific  examples  of  Part  84  respirator
+selection.  Appendix  E  answers  questions  commonly  asked  about  Part  84  respirators.
+Note Concerning Part 11 Particulate Filters Because research shows that particles sized
+2 micrometers or smaller can penetrate some DM and DFM filters, these Part 11 filters
+should be used only when the mass median aerodynamic diameter (MMAD) is known to
+be  greater  than  2  micrometers  [NIOSH  1995].  If  this  diameter  is  less  than  2
+micrometers or is unknown, a Part 11 HEPA filter or any Part 84 filter should be used.
+Note on Respirator Fit OSHA requires that all respirators be properly fit-tested using a
+quantitative  or  qualitative  fit  test  when  initially  assigned  to  a  user  and  periodically
+thereafter.  In  addition  to  fit-testing,  your  respirator  manufacturer  has  recommended
+fit-checking procedures that should be followed by the user each time the respirator is
+worn.  The  only  respirators  certified  by  NIOSH  under  Part  11  that  meet  CDC  filtration
+efficiency  performance  criteria  for  protection  against  tuberculosis  (TB)  are  those  with
+HEPA filters. All nine classes of nonpowered, air-purifying, particulate-filter respirators
+certified under Part 84 meet or exceed the CDC filtration efficiency performance criteria
+[CDC 1994]. Several of the Part 84 particulate-filter respirators will be less expensive
+and  more  comfortable  than  Part  11  HEPA-filter  respirators,  and  they  are  likely  to  be
+more  readily  accepted  by  health  care  facilities  and  workers.  Health  care  delivery
+settings are generally free of oil aerosols that would be degrading to filter efficiency.
+Therefore,  N-,  R-,  or  P-series  respirators  are  appropriate  for  protection  against  TB  in
+health  care  settings  and  other  workplaces  in  which  oil  aerosols  are  absent;  these
+respirators  are  subject  to  replacement  as  necessary  by  considerations  of  hygiene,
+damage,  and  breathing  resistance.  Current  OSHA  policy  permits  the  use  of  a  Part  11
+HEPA  filter  or  any  Part  84  particulate  filter  for  protection  against  TB  [Miles  1995].
+Pending  completion  of  a  final  TB  standard,  respiratory  protection  against  TB  will  be
+regulated by OSHA under the current unrevised respirator standard [29 CFR 1910.134]
+and compliance policy directives. Additional information about respiratory protection for
+exposure to TB is found in Guidelines for Preventing the Transmission of Mycobacterium
+Tuberculosis  in  Health-Care  Facilities  [CDC  1994]  and  in  Protect  Yourself  Against
+Tuberculosis–A  Guide  for  Health  Care  Workers,  [NIOSH  1996].   §The  APF  (assigned
+protection factor) is the minimum anticipated level of protection provided by each type
+of respirator worn in accordance with an adequate respiratory protection program. For
+example,  an  APF  of  10  means  that  the  respirator  should  reduce  the  airborne
+concentration  of  a  particulate  by  a  factor  of  10  (or  to  10%  of  the  workplace
+concentration). OSHA currently sets APFs in some substance-specific standards. OSHA
+is  now  conducting  rulemaking  [29  CFR  1910.134]  that  will  set  uniform  APFs  for  all
+respirator types. Appendix A: Part 11 and Part 84 Labels for Various Filters Appendix B:
+Substitution of Part 84 Respirators for Part 11 Respirators Already In Use Appendix C:
+Flow  Chart  for  Selecting  Part  84  Particulate  Filters  Appendix  D:  Examples  of  Part  84
+Respirator Selection Appendix E: Commonly Asked Questions and Answers About Part
+84 Respirators AIHA [1993]. Respiratory protection: a manual and guideline. Fairfax, VA:
+American Industrial Hygiene Association. ANSI [1992]. American national standard for
+respiratory  protection.  New  York,  NY:  American  National  Standards  Institute,  ANSI
+Z88.2-1992. CDC [1994]. Guidelines for preventing the transmission of Mycobacterium
+tuberculosis  in  health-care  facilities,  1994.  MMWR  43(RR-13).  CFR.  Code  of  Federal
+regulations.  Washington,  DC:  U.S.  Government  Printing  Office,  Office  of  the  Federal
+Register. Miles JB Jr. [1995]. Memorandum of September 6, 1995, from John B. Miles, Jr.,
+Occupational  Safety  and  Health  Administration,  to  Regional  Administrators,  National
+Office Directorates, and Area Directors, Occupational Safety and Health Administration,
+U.S.  Department  of  Labor.  NIOSH  [1987].  NIOSH  guide  to  industrial  respiratory
+protection.  Cincinnati,  OH:  U.S.  Department  of  Health  and  Human  Services,  Public
+Health Service, Centers for Disease Control, National Institute for Occupational Safety
+and Health, DHHS (NIOSH) Publication No. 87-116. NIOSH [1994]. NIOSH pocket guide
+to chemical hazards. Cincinnati, OH: U.S. Department of Health and Human Services,
+Public  Health  Service,  Centers  for  Disease  Control,  National  Institute  for  Occupational
+Safety  and  Health,  DHHS  (NIOSH)  Publication  No.  94-116.  NIOSH  [1995].  NIOSH
+testimony  on  the  Occupational  Safety  and  Health  Administration’s  proposed  rule  on
+respiratory protection, June 8, 1995, OSHA Docket No. H-049. NIOSH policy statements.
+Cincinnati, OH: U.S. Department of Health and Human Services, Public Health Service,
+Centers  for  Disease  Control,  National  Institute  for  Occupational  Safety  and  Health.
+NIOSH  [1996].  Protect  yourself  against  tuberculosis–a  guide  for  health  care  workers.
+Cincinnati, OH: U.S. Department of Health and Human Services, Public Health Service,
+Centers  for  Disease  Control,  National  Institute  for  Occupational  Safety  and  Health,
+DHHS (NIOSH) Publication No. 96-102. This notice is the first update of the NIOSH Guide
+to  the  Selection  and  Use  of  Particulate  Respirators  Certified  under  42  CFR  part  84
+(NIOSH  No.  96-101)  published  in  January  1996.  It  modifies  the  NIOSH  service  time
+recommendations  for  P-series  particulate  respirators.  The  Guide  provided  that,  “Use
+and  reuse  of  the  P-series  filters  would  be  subject  only  to  considerations  of  hygiene,
+damage, and increased breathing resistance.” The Guide also stated that “NIOSH will
+be  conducting  and  encouraging  other  researchers  to  conduct  studies  to  assure  that
+these  service  time  recommendations  are  adequate.  If  research  indicates  the  need,
+additional  service  time  limitations  may  be  recommended  by  NIOSH  for  specific
+workplace  conditions.”  Recent  NIOSH  laboratory  studies  indicate  the  efficiency  of
+P-series filters may be significantly reduced with long term use in the presence of oil
+aerosols. Such long term oil exposure has resulted in the reduction in efficiency of P100
+filters  to  efficiencies  much  less  than  that  required  of  P95  filters.  In  some  workplace
+situations,  this  reduction  in  filter  efficiency  may  not  always  be  accompanied  by  an
+increase in breathing resistance that would signal the user to replace the filter, or filter
+element. This reduction in filter efficiency varies significantly from model to model and
+NIOSH can not make a single filter change recommendation that is appropriate for all
+models.  Therefore,  NIOSH  has  requested  each  manufacturer  of  P-series  filters  to
+establish  service  time  recommendations  as  part  of  their  user  instructions.  NIOSH
+expects  that  manufacturers  of  P-series  filters  will  provide  such  recommendations  as
+part of their customer support programs. These NIOSH recommendations are interim in
+that a full understanding of the degrading effects of workplace contaminants on filter
+efficiency is not yet available to NIOSH. In addition to continuing to study the degrading
+effects  of  workplace  aerosols  on  all  types  of  filters  certified  under  42  CFR  part  84,
+NIOSH  is  also  investigating  the  possible  degrading  effects  of  workplace  gases  and
+vapors  on  those  filters.  Respirator  users  are  also  reminded  that  the  provisions  of  the
+new  42  CFR  part  84  require  respirators  to  be  far  more  resistant  to  filter  degradation
+than did the provisions of 30 CFR part 11. That is only one of the reasons why NIOSH
+encourages  users  to  discontinue  the  use  of  particulate  respirators  certified  under  30
+CFR part 11 and switch to the new particulate respirators certified under 42 CFR part
+84. Users are also reminded that NIOSH has a long standing recommendation that all
+30 CFR part 11 particulate filters be replaced at least daily (once each work shift). This
+User  Notice  does  not  change  the  NIOSH  service  time  recommendations  made  in  the
+Guide  for  N-  and  R-  series  respirators.  The  current  NIOSH  service-time-limit
+recommendations for nonpowered particulate filter respirators are that filter elements
+should be replaced at the following frequencies: All filters. The service life of all filters is
+limited  by  considerations  of  hygiene,  damage,  and  breathing  resistance.  All  filters
+should  be  replaced  whenever  they  are  damaged,  soiled,  or  causing  noticeably
+increased  breathing  resistance.  N-series  filters  generally  should  be  used  and  reused
+subject only to considerations of hygiene, damage, and increased breathing resistance.
+However,  for  dirty  workplaces  that  could  result  in  high  filter  loading  (i.e.,  200  mg),
+service  time  for  N-series  filters  should  only  be  extended  beyond  8  hours  of  use
+(continuous or intermittent) by performing an evaluation in specific workplace settings
+that demonstrates: (a) that extended use will not degrade the filter efficiency below the
+efficiency level specified in Part 84, or (b) that the total mass loading of the filter(s) is
+less  than  200  mg.  These  determinations  would  need  to  be  repeated  whenever
+conditions change or modifications are made to processes that could change the type
+of particulate generated in the user’s facility. R-series filters should be used only for a
+single  shift  (or  for  8  hours  of  continuous  or  intermittent  use)  when  oil  is  present.
+However,  service  time  for  the  R-series  filters  can  be  extended  using  the  same  two
+methods described above for N-series filters. These determinations would need to be
+repeated  whenever  conditions  change  or  modifications  are  made  to  processes  that
+could  change  the  type  of  particulate  generated  in  the  user’s  facility.  P-series  filters
+should be used and reused in accordance with the manufacturer’s time-use limitation
+recommendations  when  oil  aerosols  are  present.  P-series  filters  should  be  used  and
+reused  subject  only  to  considerations  of  hygiene,  damage,  and  increased  breathing
+resistance if oil aerosols are not present. 30 CFR part 11 filters should be replaced at
+least  daily  or  more  often  if  breathing  resistance  becomes  excessive  or  if  the  filter
+suffers physical damage (tears, holes, etc.) Filter elements designed to be cleaned and
+reused  should  be  cleaned  at  least  daily  in  accordance  with  the  manufacturer’s
+instructions. Between uses, filters should be packaged to reduce exposure to conditions
+which cause filter degradation, such as high humidity.
+Source URL: https://www.cdc.gov/niosh/docs/96-101/default.html

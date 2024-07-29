@@ -1,0 +1,168 @@
+Official websites use .gov A .gov website belongs to an official government organization
+in  the  United  States.  Secure  .gov  websites  use  HTTPS  A  lock  (   )  or  https://  means
+you've  safely  connected  to  the  .gov  website.  Share  sensitive  information  only  on
+official, secure websites. This content provides clinicians and public health professionals
+with  key  information  and  evidence  for  clinical  considerations  when  diagnosing  and
+managing pediatric patients infected with SARS-CoV-2, the virus that causes COVID-19.
+For  evidence-based  treatment  recommendations  for  COVID-19,  visit  the  National
+Institutes  of  Health  (NIH)  COVID-19  Treatment  Guidelines  prepared  by  the  COVID-19
+Treatment Guidelines Panel. Also see the American Academy of Pediatrics (AAP) Critical
+Updates  on  COVID-19  and  the  Centers  for  Disease  Control  and  Prevention’s  (CDC’s)
+Variants  of  the  Virus  and  Vaccines  for  COVID-19.  View  Previous  Updates  The
+epidemiology of COVID-19 in the pediatric population has been challenging to establish
+for  several  reasons,  including  the  high  prevalence  of  asymptomatic  infection  and
+differences  in  testing  rates  between  children  and  adults1,2.  Studies  have  found  that
+compared  with  adults,  children  may  have  similar  or  higher  incidence  rates  of
+SARS-CoV-2  infection  but  more  frequently  experience  asymptomatic  infection  or  less
+severe symptoms3,4,5. Visit the Pediatric Data page of the COVID Data Tracker to view
+updated  case  trends  and  other  epidemiological  data  related  to  children  and  adults,
+including seroprevalence data. The incubation period for COVID-19 is thought to extend
+to  14  days,  but  studies  suggest  that  incubation  periods  may  differ  by  variant  of  the
+virus.  A  study  conducted  during  high  levels  of  Delta  variant  transmission  reported  a
+mean incubation period of 4.3 days, but the mean incubation periods of other variants,
+including  Alpha  and  Beta,  was  5  days6.  Studies  performed  during  high  levels  of
+Omicron variant transmission reported a median incubation period of 3 - 4 days7,8. The
+most  common  symptoms  of  COVID-19  in  children  are  fever  and  cough,  but  many
+children can experience sore throat, rhinorrhea, headache, fatigue, shortness of breath,
+or gastrointestinal symptoms, including nausea, vomiting, or diarrhea9,10,11,12. Some
+case  studies  conducted  during  high  levels  of  Omicron  variant  transmission  have
+reported a substantial increase in croup during a decline in the prevalence of all other
+respiratory  viral  pathogens  known  to  cause  croup13,14.  The  signs  and  symptoms  of
+COVID-19  in  children  can  be  similar  to  those  of  other  infections  and  noninfectious
+processes,  making  symptom-based  screening  for  identification  of  SARS-CoV-2  in
+children particularly challenging15. Testing for SARS-CoV-2 should be considered, even
+in  children  with  mild  symptoms.  Most  children  with  SARS-CoV-2  infection  experience
+asymptomatic or mild illness, but some children are at risk of developing severe illness,
+including  hospitalization,  admission  to  an  ICU,  placement  on  invasive  mechanical
+ventilation, and death16. Studies have found that some underlying medical conditions
+including  obesity;  diabetes;  cardiac,  lung,  and  neurologic  disorders;  and  medical
+complexity  increase  the  risk  of  severe  outcomes  from  COVID-1917,18,19,20,  and
+having more than one pre-existing comorbidity is associated with an increased risk of
+severe  illness18,21.  Studies  have  found  that  age  may  also  be  associated  with  risk  of
+severe illness, and an evaluation of surveillance data from children aged >7 days and
+<18  years  reported  that  infants  made  up  a  disproportionate  number  of  severe  acute
+COVID-19 cases22. Similarly, a study of hospitalization rates among children aged 0-17
+years  found  that  COVID-19–associated  hospitalization  rates  among  children  and
+adolescents during the Omicron period were four times as high as rates during the peak
+of  the  Delta  period,  and  children  aged  0-4  years  experienced  the  largest  increase  in
+hospitalization rates23. The rate of hospitalization among infants may be increased by
+the greater need for evaluation in young infants with fever, prematurity, the propensity
+for  very  young  children  to  develop  viral  co-infection,  and  ineligibility  for  vaccination,
+among  other  factors24,17,19.  Adolescents  aged  12-17  years  also  have  experienced
+higher  COVID-19–associated  hospitalization  rates  compared  to  children  aged  5-11
+years17. In addition to individual risk factors, the COVID-19 variant that is circulating at
+the  time  of  infection  could  have  an  impact  on  disease  severity.  Compared  to  prior
+periods,  studies  among  children  aged  0-17  years  conducted  during  the  Delta  variant
+predominant  period  found  increased  rates  of  hospitalization25,26.  Studies  that
+compared  the  Delta-  to  the  Omicron-  predominant  period  found  increased  rates  of
+hospitalization  during  the  Omicron-predominant  period,  but  pediatric  patients
+experienced  less  severe  disease  during  the  Omicron-predominant  period  than  in
+previous  waves23,27,28.  Studies  have  found  that  vaccination  is  effective  at  reducing
+risk  of  hospitalization29  in  children  and  adolescents  and  critical  illness  in
+adolescents29,30.  A  study  conducted  during  Omicron  predominance  found  that  the
+effectiveness  of  a  2-dose  mRNA  vaccine  against  symptomatic  infection  decreased
+rapidly,  and  among  adolescents,  vaccine  effectiveness  increased  after  a  booster
+dose31. Completion of a 2-dose mRNA COVID-19 vaccination series during pregnancy
+was associated with a reduced risk of hospitalization for COVID-19, including for critical
+illness, among infants younger than 6 months of age32. Recommendations and clinical
+considerations  for  administration  of  COVID-19  vaccination  can  be  found  at  CDC’s
+Interim Clinical Considerations for Use of COVID-19 Vaccines. Some children who are at
+risk for severe disease and have mild to moderate COVID-19 may benefit from antiviral
+treatment.  Information  on  Testing  Strategies:  Information  on  Antiviral  Treatment
+Options:  EVUSHELD™,  a  monoclonal  antibody  combination  that  was  used  for
+pre-exposure  prophylaxis  to  protect  against  SARS-CoV-2  infection,  is  not  currently
+authorized for emergency use in the United States because it is unlikely to be active
+against certain SARS-CoV-2 variants. According to the most recent CDC Nowcast data,
+these variants are projected to be responsible for more than 90% of current infections
+in the U.S. This means that EVUSHELD™ is not expected to provide protection against
+developing  COVID-19  if  exposed  to  those  variants.  Healthcare  facilities  and  providers
+with EVUSHELD™ should retain all products in the event that SARS-CoV-2 variants that
+are neutralized by EVUSHELD™ become more prevalent in the U.S. in the future. For
+more  information,  see  FDA’s  announcement.  Viral  tests,  including  nucleic  acid
+amplification  tests  (NAATs)  and  antigen  tests,  are  recommended  to  diagnose  acute
+infection  with  SARS-CoV-2.  Testing  is  important  to  identify  infection  and  prevent
+transmission of COVID-19. People who have symptoms of COVID-19 and close contacts
+of people with COVID-19 should be tested. More information on testing guidelines and
+strategies can be found at the CDC’s Overview of Testing for SARS-CoV-2, the Virus that
+Causes  COVID-19  webpage  and  the  Food  and  Drug  Administration’s  (FDA’s)
+recommendations  for  At-Home  COVID-19  Antigen  Testing.  Recommendations  can  be
+found at the CDC’s Preventing Spread of Respiratory Viruses When You’re Sick and the
+Isolation  and  Precautions  for  People  with  COVID-19  webpage.  Most  infants  born  to
+people  with  COVID-19  do  not  test  positive  for  the  virus  at  birth33,  so  the  American
+Academy of Pediatrics recommends testing healthy infants born to people infected with
+SARS-CoV-2  at  least  once  before  hospital  discharge,  and  as  close  to  discharge  as
+practical.  Newborns  with  signs  and  symptoms  of  COVID-19  should  be  tested  for
+SARS-CoV-2  immediately.  Schools  may  offer  diagnostic  testing  for  students  and  staff
+with symptoms of COVID-19 or who were exposed to someone with COVID-19. Testing,
+along with COVID-19 vaccination, proper masking, and other mitigation strategies can
+help  prevent  transmission  among  students,  staff,  and  family  members.  More
+information on testing and other recommendations for prevention of COVID-19 in the
+school setting can be found on the CDC’s Operational Guidance for K-12 Schools and
+Early  Care  and  Education  Programs  to  Support  Safe  In-Person  Learning  webpage.  For
+CDC’s  current  recommendations  for  prevention  of  COVID-19  in  healthcare  and
+community settings see: In addition to viral testing, many hospitalized and ambulatory
+patients will be evaluated with laboratory tests and radiographic studies. Many children
+will  have  abnormal  vital  signs  and  markers  of  inflammation  when  hospitalized  for
+COVID-1916.  A  study  of  over  10,000  hospitalized  children  found  that  lower  blood
+pressure,  higher  heart  and  respiratory  rate,  and  abnormal  markers  of  inflammation,
+including D-dimers and ferritin were associated with severe illness in children16. Chest
+radiographs  and  computed  tomography  (CT)  images  of  children  with  COVID-19  are
+frequently  normal34,35,  but  chest  radiographs  may  demonstrate  patchy  infiltrates  or
+opacities34,36.  The most common CT finding is patchy ground-glass opacification35.
+Most children with COVID-19 experience asymptomatic or mild to moderate infections
+that can be managed in the outpatient setting.  Outpatient management can include
+supportive care, consideration of therapeutics in eligible patients at risk for progression
+to  severe  illness,  and  education  on  measures  to  decrease  the  risk  of  transmission.
+Recommendations  on  clinical  management:  Some  children  with  COVID-19  will
+experience  severe  to  critical  illness  that  will  require  hospitalization.  Management  of
+severe  to  critical  COVID-19  may  include  treatment  of  hypoxemic  respiratory  failure,
+acute  respiratory  distress  syndrome  (ARDS),  septic  shock,  cardiac  dysfunction,
+thromboembolic disease, hepatic or renal dysfunction, central nervous system disease,
+and  exacerbation  of  underlying  comorbidities.  Some,  but  not  all,  of  the  medications
+authorized  for  the  treatment  of  severe  to  critical  COVID-19  in  adults,  have  been
+authorized  for  use  in  children.  More  information  on  therapeutic  and  clinical
+management  of  children  with  severe  to  critical  COVID-19  can  be  found  in  the  NIH
+COVID-19  Treatment  Guidelines.  MIS-C  generally  occurs  2-6  weeks  following
+SARS-CoV-2 infection, and it presents with fever, multisystem organ involvement, and
+elevated laboratory markers of inflammation. Patients with MIS-C are often critically ill,
+and studies suggest that more than 50% of patients can require ICU admission37,38,39.
+Diagnosing MIS-C can be difficult because the presentation of MIS-C may overlap with
+that of other conditions, including Kawasaki Disease, toxic shock syndrome, and severe
+acute COVID-1938,39. It is important to consider alternative diagnoses when evaluating
+children  suspected  of  having  MIS-C  and  to  pursue  testing  to  evaluate  multisystem
+involvement  as  indicated.  Studies  suggest  that  being  vaccinated  provides  protection
+from MIS-C41,42, and it is thus important to encourage all families to keep children who
+are eligible for the COVID-19 vaccine up to date on vaccination41.  Clinical treatment
+guidelines  for  MIS-C  that  describe  diagnosis  and  treatment  options  have  been
+developed by the American College of Rheumatology, the National Institutes of Health,
+and the American Academy of Pediatrics. For information to assist providers in speaking
+with patients and families about MIS-C, see Talking with Families and Caregivers. More
+information on MIS-C diagnosis and treatment considerations: PCCs are a wide range of
+new, returning, or ongoing symptoms or health conditions people can experience 4 or
+more weeks after first being infected with the virus that causes COVID-19.  Symptoms
+can last for extended periods of time. Children experience post-COVID conditions, but
+they appear to be affected less frequently than adults. Estimates of the proportion of
+children  who  experience  COVID-19  and  later  develop  post-COVID  conditions  range
+widely42.  Rates  of  post-COVID  conditions  seem  to  increase  with  age  among  children
+and  adolescents,  and  PCCs  are  found  more  often  in  people  who  had  severe  acute
+COVID-19  illness  than  in  people  with  mild  or  asymptomatic  illness42,43.   Commonly
+reported  symptoms  in  children  can  include  headache  and  fatigue,  but  many  organ
+systems  can  be  involved  and  some  children  experience  multiple  symptoms42,43.
+ Some studies of post-COVID conditions in children report that symptoms typically do
+not persist beyond 12 weeks42, while others have found that symptoms can linger for
+longer  periods43,44.  Additional  research  is  needed  to  learn  more  about  symptoms
+associated  with  post-COVID  conditions  in  the  pediatric  population.  When  caring  for
+patients  with  post-COVID  conditions,  clinicians  can  consult  CDC’s  General  Clinical
+Considerations  for  suggestions  on  initial  diagnostic  and  follow-up  evaluation.  More
+information  on  PCCs:  During  2020–2021,  there  were  significant  declines  in  outpatient
+pediatric visits and well-child check-ups, and many children have missed recommended
+screenings and vaccinations45,46,47, 48. The CDC recommends Healthcare providers
+use the Catch-up Immunization schedule to immunize children who are more than one
+month  behind  on  immunizations,  and  the  American  Academy  of  Pediatrics  (AAP)
+provides  clinical  Guidance  on  Providing  Pediatric  Well-Care  During  COVID-19.  For
+general guidance on pediatric preventive care, see the Bright Futures/AAP’s Periodicity
+Schedule for Recommendations for Preventive Pediatric Health Care and screenings by
+age and the CDC’s Immunization Schedule for ages 18 years or younger.  As of October
+17,  2022  As  of  December  30,  2020  As  of  August  14,  2020  To  receive  email  updates
+about COVID-19, enter your email address:
+Source URL: https://www.cdc.gov/coronavirus/2019-ncov/hcp/pediatric-hcp.html

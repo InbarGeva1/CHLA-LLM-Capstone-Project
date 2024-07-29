@@ -1,0 +1,119 @@
+Official websites use .gov A .gov website belongs to an official government organization
+in  the  United  States.  Secure  .gov  websites  use  HTTPS  A  lock  (   )  or  https://  means
+you've  safely  connected  to  the  .gov  website.  Share  sensitive  information  only  on
+official,  secure  websites.  Before  a  model  of  tight-fitting  respirator  can  be  used  in  the
+workplace, a qualitative or quantitative fit test must be performed to confirm that the
+respirator forms a tight seal against the user’s face, ensuring that the user will receive
+the expected level of protection. A qualitative fit test (QLFT) is a pass/fail test to assess
+respirator  fit  based  on  a  worker’s  response  to  a  test  agent.  More  information  on  fit
+testing
+ is
+ provided
+ at:
+https://www.cdc.gov/niosh/npptl/topics/respirators/disp_part/respsource3fittest.html
+The  agents  used  in  qualitative  fit  testing  are  usually  available  commercially  in
+convenient,  ready-to-use  packaging  that  contains  premade  dilutions  of  the  reagents.
+This  will  often  include  all  the  consumables  needed  to  perform  the  test  (stirrer,
+absorbent paper, nebulizer, etc.). When these ready-to-use packages are not available,
+the QLFT can be performed by using the required solutions prepared from commercially
+available
+ reagents.
+ The
+ Occupational
+ Safety
+ and
+ Health
+ Administration
+(OSHA)-accepted fit test protocols require that United States Pharmacopeia (USP)-grade
+reagents be used in the preparation of all of the required solutions. Instructions to make
+the OSHA-approved fit test and threshold check solutions for Saccharin Solution Aerosol
+Protocol, Bitrex® (Denatonium Benzoate) Solution Aerosol Qualitative Fit Test Protocol,
+and Isoamyl Acetate Protocol are provided below. Information on irritant smoke is not
+provided here. The OSHA-accepted fit test protocols provide complete instructions for
+conducting QLFTs with these agents. Test agents are used in a similar way in each of
+the protocols: a worker is initially tested without wearing the respirator to ensure that
+they are able to detect the agent by smell or taste. This is performed using a threshold
+check solution that is a dilution of the fit test solution. After ensuring the worker can
+smell or taste the agent, the worker puts on the respirator and fit testing is performed
+using the fit test solution. If the worker is able to smell or taste the agent while wearing
+the  respirator,  the  fit  test  fails  and  the  respirator  may  need  to  be  redonned  or
+repositioned and retested. If a fit test continues to fail, the worker will need to be fitted
+with  a  different  respirator.  The  instructions  provided  below  will  produce  the  two
+solutions needed to conduct qualitative respirator fit testing in accordance with OSHA’s
+Respiratory  Protection  Standard.  The  “fit  test  solution”  developed  from  these
+instructions uses saccharin sodium dihydrate, not sodium saccharin anhydrous, and is
+equivalent to the “fit test solution” listed at step(b)(5) of the Saccharin Solution Aerosol
+Protocol from OSHA. The “threshold check solution” developed from these instructions
+is  equivalent  to  the  “threshold  check  solution”  listed  as  step(a)(5)  of  the  Saccharin
+Solution  Aerosol  Protocol  from  OSHA.  The  instructions  make  about  100mL  of  fit  test
+solution  and  100mL  of  threshold  check  solution.  This  is  expected  to  be  enough  to
+complete about 30‒70 qualitative fit tests. The instructions provided below will produce
+the two solutions needed to conduct qualitative respirator fit testing in accordance with
+OSHA’s  Respiratory  Protection  Standard.  These  instructions  make  about  200mL  of  fit
+test solution and 100mL of threshold check solution. This is expected to be enough to
+complete about 30‒70 qualitative fit tests. The number of qualitative fit tests that can
+be performed depends on a host of factors. Administering this fit test requires the use
+of two nebulizers (one for the threshold check solution and one for the fit test solution)
+with 1mL of solution in each. Several fit tests can be performed using these nebulizers,
+but the nebulizers should be thoroughly rinsed with water, shaken dry, and refilled at
+least  every  four  hours  as  listed  in  step(a)(14)  of  the  Bitrex®  (Denatonium  Benzoate)
+Solution Aerosol Fit Test Protocol from OSHA. This chemical is considered hazardous by
+the  2012  OSHA  Hazard  Communication  Standard  (29  CFR  1910.1200).  Creating  a
+mixture of Denatonium Benzoate in a secondary container requires a Secondary Label
+that  includes  the  identity  of  the  hazardous  chemical  within  the  container  and  the
+hazards the components present. For convenience, Figure 1 provides suggested labels.
+Do NOT use tap water, spring water, or mineral water. Preparation of 5% NaCl Solution
+This solution is used as an intermediate solution for the preparation of the final fit test
+solution and the final threshold check solution. Preparation of Fit Test Solution Stir well,
+ensuring  that  all  of  the  solids  dissolve.  If  necessary,  apply  gentle  heat  (the  solution
+should not exceed 45°C or 113°F) while stirring to help dissolve the solids. This your
+final  fit  test  solution.  Preparation  of  Threshold  Check  Solution   Figure  1:  Denatonium
+Benzoate  Solutions  Secondary  Labels.  The  label  on  the  left  should  be  printed  and
+attached to container 2 for the Denatonium Benzoate fit test solution. The label on the
+right  should  be  printed  and  attached  to  container  3  for  the  Denatonium  Benzoate
+threshold check solution. Image NOTE: label originated from the Fisher Scientific SDS
+for denatonium benzoate This is not to be used for filtering facepiece respirators such
+as N95® or P100® The isoamyl acetate protocol, commonly referred to as banana oil,
+is  not  appropriate  to  use  for  the  qualitative  fit  testing  of  particulate  respirators,
+including  any  filtering  facepiece  respirators  (e.g.,  N95®,  P100®).  Elastomeric
+respirators  fit  tested  with  the  IAA  protocol,  must  be  equipped  with  an  organic  vapor
+filter/cartridge.  The  instructions  provided  below  will  produce  the  solutions  needed  to
+conduct  qualitative  respirator  fit  testing  in  accordance  with  OSHA’s  Respiratory
+Protection Standard. The solution used to determine the worker’s ability to detect the
+odor of the IAA is named “odor test solution” and is made by diluting the pure reagents
+as described below. The pure reagent (straight from its original container) is applied to
+a paper towel (or similar porous material) during the qualitative fit test. This document
+was prepared by Michelangelo Di Giuseppe, Jonisha Pollard, William King, and Evanly Vo
+of  the  National  Personal  Protective  Technology  Laboratory,  National  Institute  for
+Occupational  Safety  and  Health.  NIOSH  [2018].  Healthcare  respiratory  protection
+resources. Pittsburgh, PA: U.S. Department of Health and Human Services, Centers for
+Disease Control and Prevention, National Institute for Occupational Safety and Health,
+National
+ Personal
+ Protective
+ Technology
+ Laboratory.
+https://www.cdc.gov/niosh/npptl/hospresptoolkit/fittesting.html  OSHA  [2004].  Appendix
+A  to  §1910.134—Fit  testing  procedures  (mandatory).  Part  I.  OSHA―Accepted  fit  test
+protocols.
+ A.
+ Fit
+ testing
+ procedures—general
+ requirements.
+ Washington,
+ DC:
+Department
+ of
+ Labor,
+ Occupational
+ Safety
+ and
+ Health
+ Administration.
+https://www.osha.gov/laws-regs/regulations/standardnumber/1910/1910.134AppA  N95
+is  a  certification  mark  of  the  U.S.  Department  of  Health  and  Human  Services  (HHS)
+registered  in  the  United  States  and  several  international  jurisdictions.  P100  is  a
+certification  mark  of  the  U.S.  Department  of  Health  and  Human  Services  (HHS)
+registered in the United States. Bitrex is a registered trademark of Macfarlan Smith Ltd.
+Source URL: https://www.cdc.gov/niosh/npptl/QualitativeFitTesting.html

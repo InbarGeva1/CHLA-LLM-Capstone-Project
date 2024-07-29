@@ -1,0 +1,37 @@
+Official websites use .gov A .gov website belongs to an official government organization
+in  the  United  States.  Secure  .gov  websites  use  HTTPS  A  lock  (   )  or  https://  means
+you've  safely  connected  to  the  .gov  website.  Share  sensitive  information  only  on
+official, secure websites. Where can I find guidance on what’s required to report to CMS
+for my facility type? Where can I find the exact language of the CMS Reporting Program
+for  my  facility  type?  Where  can  I  find  tips  to  make  sure  my  NHSN  facility  is  set  up
+correctly to report to CMS? I need some guidance on how to set up locations within my
+NHSN facility to comply with CMS reporting. Where can I find this information? Where
+can I get a waiver to indicate that my acute care facility doesn’t fit the requirements to
+report  to  CMS?  Where  can  I  direct  my  questions  regarding  CMS  payment  and/or
+validation or any other questions not related to NHSN reporting?  Top of Page Do I need
+to confer rights or join a CMS group in order to share my data with CMS for reporting
+purposes? How does my data get from NHSN to CMS? Why do some facility types report
+rates and others report SIRs to CMS? What are the data submission deadlines for CMS
+reporting? Where can I see what data will be sent to CMS from my NHSN facility? What
+if the data in CMS’ Hospital Compare don’t match the data that I had in NHSN? Where
+can I find information on how to validate my data? CDC offers guidance on validation of
+CLABSI, CAUTI, COLO and HYST SSI, and MRSA Bacteremia and CDI LabID event data
+within your facility. Guidance is located on the NHSN Data Validation web page.  Top of
+Page My CCN wasn’t validated when I enrolled my facility into NHSN. What do I do now
+and how will that affect my CMS reporting? I share a CMS Certification Number (CCN)
+with a sister healthcare facility(s). What happens to our data when it gets submitted to
+CMS? My facility has been bought out or combined with another facility and I now have
+a different CCN. What should I do to make sure this change is captured within my NHSN
+facility?  Top of Page What training do I need to complete before I can submit my data?
+Where  can  I  find  the  training  courses?  My  facility  isn’t  an  acute  care  hospital.  Do  I
+complete  the  same  trainings?  How  often  do  I  need  to  complete  the  NHSN  trainings?
+ Top  of  Page  Does  each  NHSN  user  need  his/her  own  SAMS  credentials?  Do  I  need
+separate  SAMS  credentials  to  access  other  parts  of  NHSN  such  as  the  Healthcare
+Personnel  Safety  Component?  For  additional  SAMS  FAQs  please  see  the  SAMS  NHSN
+User FAQ webpage .  Top of Page 
+ Training 
+ Newsletters / Members Meeting Updates 
+ E-mail Updates 
+ Health Department HAI/AR Programs To receive email updates about this page, enter
+your email address:  Questions about NHSN?Contact us: nhsn@cdc.gov
+Source URL: https://www.cdc.gov/nhsn/faqs/cms/faq_cms_hai.html

@@ -1,0 +1,42 @@
+A .gov website belongs to an official government organization in the United States. A
+lock (  ) or https:// means you've safely connected to the .gov website. Share sensitive
+information only on official, secure websites. Reuse of Single-Use Medical Devices from
+the Guideline for Disinfection and Sterilization in Healthcare Facilities (2008). The reuse
+of single-use medical devices began in the late 1970s. Before this time most devices
+were  considered  reusable.  Reuse  of  single-use  devices  increased  as  a  cost-saving
+measure. Approximately 20 to 30% of U.S. hospitals reported that they reuse at least
+one type of single-use device. Reuse of single-use devices involves regulatory, ethical,
+medical, legal and economic issues and has been extremely controversial for more than
+two decades.990 The U.S. public has expressed increasing concern regarding the risk of
+infection and injury when reusing medical devices intended and labeled for single use.
+Although some investigators have demonstrated it is safe to reuse disposable medical
+devices such as cardiac electrode catheters, 991-993 additional studies are needed to
+define  the  risks  994  and  document  the  benefits.  In  August  2000,  FDA  released  a
+guidance document on single-use devices reprocessed by third parties or hospitals.995
+In this guidance document, FDA states that hospitals or third-party reprocessors will be
+considered  "manufacturers"  and  regulated  in  the  same  manner.  A  reused  single-use
+device will have to comply with the same regulatory requirements of the device when it
+was originally manufactured. This document presents FDA's intent to enforce premarket
+submission  requirements  within  6  months  (February  2001)  for  class  III  devices  (e.g.,
+cardiovascular intra-aortic balloon pump, transluminal coronary angioplasty catheter);
+12 months (August 2001) for class II devices (e.g., blood pressure cuff, bronchoscope
+biopsy  forceps);  and  18  months  (February  2002)  for  class  I  devices  (e.g.,  disposable
+medical scissors, ophthalmic knife). FDA uses two types of premarket requirements for
+nonexempt class I and II devices, a 510(k) submission that may have to show that the
+device is as safe and effective as the same device when new, and a premarket approval
+application. The 510(k) submission must provide scientific evidence that the device is
+safe and effective for its intended use. FDA allowed hospitals a year to comply with the
+nonpremarket  requirements  (registration  and  listing,  reporting  adverse  events
+associated with medical devices, quality system regulations, and proper labeling). The
+options for hospitals are to stop reprocessing single-use devices, comply with the rule,
+or  outsource  to  a  third-party  reprocessor.  FDA  guidance  document  does  not  apply  to
+permanently  implantable  pacemakers,  hemodialyzers,  opened  but  unused  single-use
+devices, or healthcare settings other than acute-care hospitals. The reuse of single use
+medical  devices  continues  to  be  an  evolving  area  of  regulations.  For  this  reason,
+healthcare  workers  should  refer  to  FDA  for  the  latest  guidance.  996  CDC  provides
+information on infection control and clinical safety to help reduce the risk of infections
+among  healthcare  workers,  patients,  and  visitors.  Languages  Language  Assistance
+Languages  Language Assistance 
+Source
+ URL:
+https://www.cdc.gov/infection-control/hcp/disinfection-sterilization/reuse-single-use-devices.html

@@ -1,0 +1,67 @@
+A .gov website belongs to an official government organization in the United States. A
+lock (  ) or https:// means you've safely connected to the .gov website. Share sensitive
+information only on official, secure websites. These recommendations provide guidance
+on  preventing  and  controlling  measles  in  healthcare  settings.  Measles  is  most
+commonly  acquired  from  persons  in  the  household  or  community,  but  spread  of
+measles can also occur in healthcare settings.1 While the most important measure to
+prevent measles transmission in all settings is ensuring community immunization, core
+measles prevention in healthcare settings requires a multi-faceted approach including:
+This  interim  guidance  should  be  implemented  in  the  context  of  a  comprehensive
+infection  prevention  program  to  prevent  transmission  of  all  infectious  agents  among
+patients, HCP, and visitors. Definition of healthcare personnel (HCP): "HCP" includes all
+paid  and  unpaid  persons  working  in  healthcare  settings  who  have  the  potential  for
+exposure  to  patients  and/or  to  infectious  materials,  including  body  substances,
+contaminated medical supplies and equipment, contaminated environmental surfaces,
+or  contaminated  air.  HCP  include  but  are  not  limited  to,  emergency  medical  service
+personnel,
+ nurses,
+ nursing
+ assistants,
+ physicians,
+ technicians,
+ therapists,
+phlebotomists, pharmacists, students and trainees, contractual staff not employed by
+the healthcare facility, and persons not directly involved in patient care, but who could
+be exposed to infectious agents that can be transmitted in the healthcare setting (e.g.,
+clerical,  dietary,  environmental  services,  laundry,  security,  engineering  and  facilities
+management, administrative, billing, and volunteer personnel). Definition of healthcare
+settings:  "Healthcare  settings"  refers  to  places  where  healthcare  is  delivered  and
+includes,  but  is  not  limited  to,  acute  care  facilities,  long-term  acute  care  facilities,
+inpatient  rehabilitation  facilities,  nursing  homes  and  assisted  living  facilities,  home
+healthcare, vehicles where healthcare is delivered (e.g., mobile clinics), and outpatient
+facilities, such as dialysis centers, physician offices, and others. Definition of exposure
+to measles for HCP in healthcare settings: HCP exposures to measles in a healthcare
+setting  include  spending  any  time  while  unprotected  (i.e.,  not  wearing  recommended
+respiratory protection): * Measles has been reported to survive in air for up to 2 hours.
+For  spaces  with  a  defined  rate  of  air  changes  per  hour  (ACH),  see  the  following  for
+additional  considerations  about  estimating  the  time  for  99.9%  removal  efficiency  of
+airborne  contaminants:  Table  B1  "Air  changes/hour  (ACH)  and  time  required  for
+airborne-contaminant
+ removal
+ by
+ efficiency"
+ from
+ the
+ 2003
+ Guidelines
+ for
+Environmental  Infection  Control  in  Health-Care  Facilities.  Instruct  Emergency  Services
+to  notify  the  receiving  facility/accepting  physician  in  advance  when  transporting  a
+patient  with  known  or  suspected  measles  For  information  on  Standard  and  Airborne
+precautions,  refer  to  the  Guideline  for  Isolation  Precautions:   Precautions  to  Prevent
+Transmission  of  Infectious  Agents.  For  information  on  AIIR  requirements,  refer  to  the
+2007 Guideline for Isolation Precautions: Preventing Transmission of Infectious Agents
+in  Healthcare  Settings  –  Glossary.  Detailed  information  on  environmental  cleaning  in
+healthcare settings can be found in CDC's These recommendations have been updated
+and can be found in CDC's Infection Control in Healthcare Personnel: Epidemiology and
+Control  of  Selected  Infections  Transmitted  Among  Healthcare  Personnel  and  Patients:
+Measles Section Updated March 28, 2024 These recommendations have been updated
+and can be found in CDC's Infection Control in Healthcare Personnel: Epidemiology and
+Control  of  Selected  Infections  Transmitted  Among  Healthcare  Personnel  and  Patients:
+Measles  Section  Updated  March  28,  2024  In  the  event  of  an  outbreak  or  exposure
+involving large numbers of patients who require Airborne Precautions: Interim Infection
+Prevention  and  Control  Recommendations  for  Measles  in  Healthcare  Settings  CDC
+provides information on infection control and clinical safety to help reduce the risk of
+infections  among  healthcare  workers,  patients,  and  visitors.  Languages  Language
+Assistance Languages  Language Assistance 
+Source URL: https://www.cdc.gov/infection-control/hcp/measles/index.html

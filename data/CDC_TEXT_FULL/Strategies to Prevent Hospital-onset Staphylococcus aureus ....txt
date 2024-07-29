@@ -1,0 +1,43 @@
+A .gov website belongs to an official government organization in the United States. A
+lock (  ) or https:// means you've safely connected to the .gov website. Share sensitive
+information only on official, secure websites. 
+Related Topics:
+ A summary of strategies for acute care facilities that want to implement interventions
+to prevent hospital-onset Staphylococcus aureus Bloodstream Infections (HO SA BSIs).
+The  specific  interventions  listed  below  are  not  intended  for  use  in  response  to  an
+outbreak and are intended for adult inpatient units. Infection control practices should
+be reinforced on an ongoing basis, including the use of competency-based training and
+monitoring of adherence with feedback of results for practices including hand hygiene,
+environmental  cleaning  and  disinfection,  and  use  of  personal  protective  equipment.
+Hospitals  should  work  to  implement  the  CDC  Core  Elements  of  Hospital  Antibiotic
+Stewardship  Programs.  Core  and  supplemental  strategies  for  consideration  are  listed
+below.  Core  strategies  are  supported  by  published  evidence;  supplemental  strategies
+are  generally  supported  by  less  evidence  and  could  be  considered  for  use  when
+reduction  goals  are  not  met  after  implementation  of  core  interventions  or  when
+facilities  need  to  implement  a  more  aggressive  prevention  strategy.  The  first  step  in
+developing a HO SA BSI prevention strategy is to review recent episodes of HO SA BSI
+to  identify  common  risk  factors  and  underlying  syndromes  that  can  help  identify  the
+populations  to  prioritize.  Elements  that  could  be  reviewed  include  associated
+syndromes  (e.g.,  wound  infections  or  pneumonia)  that  may  have  led  to  the  BSI,  unit
+types,  presence  of  indwelling  devices  such  as  central  venous  catheters  (CVCs),  and
+prior invasive procedures or surgeries. Based on this review of facility-level data, the
+most impactful core and supplemental strategies can be chosen. Pursue a strategy to
+reduce carriage of S. aureus among all patients admitted to intensive care units (ICUs)
+(see table for summary of decolonization and pathogen reduction strategies) including:
+ Pursue a strategy to reduce carriage of S. aureus for patients hospitalized with CVCs or
+midline  catheters  outside  the  ICU  For  patients  undergoing  high  risk  surgeries  (e.g.
+cardiothoracic
+ (CT),
+ orthopedic,
+ and
+ neurosurgery),
+ use
+ an
+ intranasal
+antistaphylococcal  antibiotic/antiseptic  (e.g.  mupirocin  or  iodophor)  and  chlorhexidine
+wash or wipes prior to surgery.A Possible regimens:  Consider chlorhexidine bathing or
+wipes  for  up  to  5  days  prior  to  surgery  for  all  surgical  patients*,  not  just  those
+undergoing  high  risk  surgeries  Staphylococcus  aureus  (staph)  is  a  germ  found  on
+people’s skin. Most of the time, staph does not cause any harm but sometimes staph
+causes infections. Languages Language Assistance Languages  Language Assistance 
+Source URL: https://www.cdc.gov/staphylococcus-aureus/hcp/prevent-in-acute-care-facilities/index.html

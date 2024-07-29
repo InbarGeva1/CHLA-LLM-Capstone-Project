@@ -1,0 +1,203 @@
+A .gov website belongs to an official government organization in the United States. A
+lock (  ) or https:// means you've safely connected to the .gov website. Share sensitive
+information  only  on  official,  secure  websites.  Varicella-Zoster  Virus  from  the  Infection
+Control  in  Healthcare  Personnel:  Epidemiology  and  Control  of  Selected  Infections
+Transmitted
+ Among
+ Healthcare
+ Personnel
+ and
+ Patients
+ (2024)
+ guideline.
+Varicella-zoster virus (VZV) is a DNA virus that is a member of the herpesvirus group.
+Primary  infection  with  VZV  causes  varicella  (chickenpox),  and  reactivation  of  latent
+infection causes herpes zoster (shingles). Healthcare-associated transmission of VZV is
+well recognized,45 although reports of transmission in healthcare settings have become
+less  common  since  the  introduction  of  the  varicella  vaccine.6789  Sources  for
+healthcare-associated  transmission  include  patients,  healthcare  personnel  (HCP),  and
+visitors  with  either  varicella  or  herpes  zoster.10  Prevention  of  transmission  of  VZV  in
+healthcare settings involves (a) ensuring HCP have evidence of immunity to varicella11;
+(b)  using  infection  prevention  and  control  practices  as  recommended  by  CDC  
+(https://www.cdc.gov/infection-control/hcp/isolation-precautions/appendix-a-type-durati
+on.html#V)12;  (c)  administering  postexposure  prophylaxis  (PEP)  to  susceptible  HCP
+exposed to varicella or herpes zoster; and (d) excluding potentially infectious HCP from
+work.13 CDC recommends that susceptible HCP should not enter the room of a patient
+with  varicella,  disseminated  herpes  zoster,  or  localized  herpes  zoster  if  immune
+caregivers  are  available.14  The  criteria  for  evidence  of  immunity  to  varicella  
+(https://www.cdc.gov/mmwr/preview/mmwrhtml/rr5604a1.htm#box)15
+ and
+recommendations
+ for
+ varicella
+ vaccination
+ of
+ HCP
+(https://www.cdc.gov/mmwr/preview/mmwrhtml/rr5604a1.htm;
+ 
+https://www.cdc.gov/mmwr/preview/mmwrhtml/rr6007a1.htm)310  are  maintained  by
+CDC and the Advisory Committee on Immunization Practices (ACIP). VZV can be spread
+from  person  to  person  by  direct  contact,  inhalation  of  small  particles  from  vesicular
+fluid of skin lesions of acute varicella or herpes zoster that remain suspended in the air,
+and possibly through infectious respiratory secretions from patients with varicella that
+also  may  be  suspended  in  the  air.16   Unprotected  (e.g.,  not  wearing  recommended
+personal  protective  equipment)  contact  with  patients  with  varicella  or  disseminated
+herpes  zoster,  their  secretions,  or  air  containing  infectious  particles  is  typically
+considered  an  exposure  to  VZV.  Exposures  in  healthcare  settings  may  include
+unprotected  entry  into  a  source  patient’s  room  (or  shared  air  space)  or  touching
+vesicular fluid from skin lesions without personal protective equipment. Experts differ
+regarding  the  duration  of  exposure  to  an  infectious  patient  (e.g.,  being  in  the  same
+room) that is needed for transmission. Sources suggest time frames from 5 minutes to
+up  to  1  hour.3  Using  a  shorter  time  frame  (e.g.,  5  minutes)  for  considering  an
+unprotected  HCP  to  be  exposed,  might  better  ensure  that  HCP  at  risk  for  developing
+disease are identified. Brief, unprotected entry into a source patient’s room (or shared
+air  space)  without  touching  the  patient  or  surfaces  is  generally  not  considered  an
+exposure.  VZV  can  also  spread  from  a  person  with  active  localized  herpes  zoster  to
+cause  varicella  in  a  susceptible  person  (i.e.,  who  has  never  had  varicella  or  has  not
+received varicella vaccine).17 The lesions of localized (or disseminated) herpes zoster
+are  infectious  until  they  dry  and  crust  over;  covering  the  lesions  reduces  the  risk  of
+transmission to others. For HCP with localized herpes zoster, covering lesions serves the
+two-fold purpose of reducing the risk of transmission to others, as well as protecting the
+compromised skin from contamination and potential secondary infection. Data on the
+efficacy  of  one  type  of  covering  (e.g.,  sterile  bandage,  gauze,  clothing,  etc.)  versus
+another for preventing virus transmission are limited.1819 Some facilities have policies
+regarding what types of dressings may be used to cover lesions for HCP with localized
+herpes zoster to report to work. Varicella, or chickenpox, is the acute, infectious febrile
+rash illness that results from primary infection with VZV.2021 After primary infection,
+VZV establishes latency in the sensory nerve ganglia. Herpes zoster, or shingles, is the
+reactivation of latent VZV and occurs in approximately one-third of those infected over
+their  lifetime.  The  incubation  period  for  varicella  is  on  average  14  to  16  days  after
+exposure  to  a  varicella  or  a  herpes  zoster  rash,  with  a  range  of  10  to  21  days.22  A
+person with varicella is considered contagious from 1-2 days before rash onset until all
+lesions have crusted.22 A person with active herpes zoster is contagious when the rash
+is  vesicular,  and  no  longer  infectious  to  others  once  the  rash  has  crusted  over.17
+Herpes  zoster  is  less  contagious  than  varicella,  and  the  risk  of  a  person  with  herpes
+zoster  spreading  the  virus  is  low  if  the  rash  is  covered.1417  A  varicella-like  rash  can
+occur at the injection site after receipt of varicella vaccine and is generally self-limited.
+Transmission  of  vaccine  virus  to  others  is  rare.2023  More  information  about  the
+transmission
+ of
+ vaccine
+ virus
+ can
+ be
+ accessed
+ from
+ the
+ CDC
+ website
+(https://www.cdc.gov/mmwr/preview/mmwrhtml/rr5604a1.htm).3
+ Varicella
+ is
+ highly
+contagious,  with  secondary  infection  occurring  in  61-100%  of  susceptible  household
+contacts.  Varicella  is  characterized  by  a  pruritic,  maculopapular  vesicular  rash  that
+evolves  into  noninfectious  dried  crusts  over  a  4-7  day  period.21  A  mild  prodrome  of
+fever  and  malaise  may  occur  1  to  2  days  before  rash  onset,  particularly  in  adults.22
+Acute  varicella  is  generally  mild  and  self-limited,  but  it  may  be  associated  with
+complications.20  Immunocompromised  and  pregnant  adults  without  evidence  of
+immunity
+ to
+ varicella
+ are
+ at
+ increased
+ risk
+ for
+ severe
+ varicella
+(https://www.cdc.gov/chickenpox/hcp/#high-risk-people).24
+ Examples
+ of
+immunocompromised HCP at high risk for severe varicella include those with leukemia
+or  lymphoma,  cellular  immune-deficiencies,  and  on  medications  that  suppress  the
+immune  system  such  as  high  dose  steroids  or  chemotherapeutic  agents.16
+Immunocompromised  persons  are  at  risk  for  developing  visceral  dissemination,
+pneumonia, hepatitis, encephalitis, and disseminated intravascular coagulopathy.24 In
+addition, they can present with increased numbers of skin lesions that may be atypical
+(i.e.,  hemorrhagic),  that  can  continue  to  develop,  and  that  can  have  longer  duration
+than  immunocompetent  hosts  with  varicella.  Pregnant  persons  without  evidence  of
+immunity to varicella are at risk for complications of varicella, such as VZV pneumonia,
+with  increased  frequency  and  severity  in  the  3rd  trimester.  If  an  individual  develops
+varicella  in  the  first  or  early  second  trimester  of  pregnancy,  the  baby  is  at  risk  for
+congenital  varicella  syndrome; if the individual  develops a  varicella  rash  from 5 days
+before  to  2  days  after  delivery,  the  baby  is  at  risk  for  neonatal  varicella.24
+Breakthrough varicella is infection occurring in a vaccinated person more than 42 days
+post-vaccination.22  Breakthrough  disease  is  generally  milder  than  disease  in
+unvaccinated persons, often with fewer than 50 skin lesions, mostly maculopapular with
+few vesicles, compared with 300 or more skin lesions, mostly vesicular in unvaccinated
+persons.22  Given  its  modified  clinical  presentation,  breakthrough  varicella  can  be
+challenging  for  practitioners  to  recognize.  Persons  with  breakthrough  disease  are  still
+contagious to others, though they usually are less so than unvaccinated persons with
+varicella.2225  Herpes zoster usually presents as a vesicular rash with pain and itching
+in a localized dermatomal distribution.26 The rash may also be disseminated – defined
+as the appearance of lesions outside the primary or adjacent dermatomes – mainly in
+immunocompromised  persons.26  Postherpetic  neuralgia  (PHN),  or  pain  in  the  area  of
+the  rash  that  persists  after  the  lesions  have  resolved,  is  a  complication  of  herpes
+zoster.2026  The clinical diagnosis of varicella has become increasingly challenging as a
+growing proportion of cases occur in vaccinated persons in whom disease is mild and
+modified,  and  HCP  encounter  patients  with  varicella  less  frequently.327  Given  these
+factors,  laboratory  testing  to  confirm  the  diagnosis  in  affected  HCP  has  become
+increasingly  important.  Polymerase  chain  reaction  (PCR)  is  the  laboratory  testing
+method  of  choice  to  confirm  varicella.  Ideal  samples  for  testing  are  vesicular  fluid  or
+crusts from skin lesions.2829 VZV may also be isolated in tissue culture, although this
+method is less sensitive and requires several days to obtain results.2021 The signs and
+symptoms of herpes zoster are usually distinctive enough to make an accurate clinical
+diagnosis once the rash has appeared.30 However, clinical diagnosis of herpes zoster
+might not be possible in the absence of a rash, and laboratory testing can confirm VZV
+infection when the rash may be similar in appearance to other diseases, such as herpes
+simplex virus.303132 Additional information regarding VZV testing is available on the
+CDC
+ website
+ 
+ (https://www.cdc.gov/chickenpox/lab-testing/index.html)33
+ and
+(https://www.cdc.gov/shingles/hcp/diagnosistesting.html).30   ACIP  recommends  that
+exposed  HCP  without  evidence  of  immunity  to  varicella  receive  postexposure
+vaccination
+ as
+ soon
+ as
+ possible
+(https://www.cdc.gov/mmwr/preview/mmwrhtml/rr5604a1.htm)3   Vaccination  within  3
+to  5  days  of  exposure  may  modify  the  disease  if  infection  occurs.3  Vaccination  6  or
+more  days  after  exposure  is  still  indicated  because  it  induces  protection  against
+subsequent exposures.3 For HCP without evidence of immunity to varicella who have a
+contraindication  to  varicella  vaccination  and  are  at  increased  risk  for  severe  disease
+(e.g.,
+ pregnant,
+ immunocompromised),
+ varicella-zoster
+ immune
+ globulin
+ is
+recommended to be administered as soon as possible (within 10 days) after exposure
+to VZV.23 Administration of immune globulin can prolong the incubation period to 28
+days after exposure.2 Detailed information regarding dosage and administration of PEP
+is
+ available
+ on
+ the
+ CDC
+ website
+ 
+(https://www.cdc.gov/mmwr/preview/mmwrhtml/mm6228a4.htm;
+https://www.cdc.gov/mmwr/preview/mmwrhtml/rr5604a1.htm).2,3,33
+ 
+ For
+immunocompetent  HCP  with  localized  herpes  zoster  that  can  be  completely  covered,
+risk for transmission to patients or other HCP is low, and these HCP typically remain at
+work. Restricting these HCP from providing direct care to those at high risk for severe
+varicella  (https://www.cdc.gov/chickenpox/hcp/#high-risk-people)24  might  provide  an
+added layer of protection for these patients, but is not readily implemented when these
+patients are not easily identified (e.g., evidence of immunity to varicella is unknown).
+Hence,  restricting  these  HCP  from  caring  for  patients  at  high  risk  for  severe  varicella
+may  be  reasonably  applied  in  selected  situations  (e.g.,  restricted  from  caring  for
+patients  placed  in  a  protective  environment,  such  as  a  hematopoietic  stem  cell
+transplant unit or neonatal intensive care unit). CDC provides information on infection
+control  and  clinical  safety  to  help  reduce  the  risk  of  infections  among  healthcare
+workers, patients, and visitors. Languages Language Assistance Languages  Language
+Assistance 
+Source
+ URL:
+https://www.cdc.gov/infection-control/hcp/healthcare-personnel-epidemiology-control/varicella.html

@@ -1,0 +1,247 @@
+Official websites use .gov A .gov website belongs to an official government organization
+in  the  United  States.  Secure  .gov  websites  use  HTTPS  A  lock  (   )  or  https://  means
+you've  safely  connected  to  the  .gov  website.  Share  sensitive  information  only  on
+official,  secure  websites.  This  overview  describes  current  information  on  the  types  of
+tests used to detect SARS-CoV-2 infection and their intended uses. This information is
+intended  for  use  by  healthcare  providers,  public  health  professionals,  and  those
+organizing  and  implementing  testing  in  non-healthcare  settings.  Information  for  the
+general  public  on  COVID-19  testing  is  also  available.  People  who  are  tested  for
+COVID-19 should receive clear information on: Individuals tested are required to receive
+patient  fact  sheets  as  part  of  the  test’s  Emergency  Use  Authorization  (EUA).
+SARS-CoV-2  co-infection  with  another  pathogen,  including  a  respiratory  virus,
+bacterium,
+ or
+ fungus,
+ has
+ been
+ documented,
+ particularly
+ in
+ hospitalized
+patients.(10,11)  Detection  of  a  different  respiratory  pathogen  does  not  rule  out
+SARS-CoV-2  infection.  Testing  for  other  causes  of  respiratory  illness,  in  addition  to
+testing  for  SARS-CoV-2,  may  be  considered,  depending  on:  More  information  on
+coinfection  and  recommendations  on  antimicrobial  stewardship  or  systematic
+approaches  to  using  antimicrobials  can  be  found  on  CDC’s  Testing  Guidance  for
+Clinicians When SARS-CoV-2 and Influenza Viruses are Co-circulating and the Infectious
+Diseases  Society  of  America  (IDSA)  COVID-19  Real-Time  Learning  Network.  Several
+markers  of  inflammation  and  abnormal  coagulation  are  associated  with  severe
+COVID-19  illness.(12,13)  Studies  found  that  hospitalized  patients  with  COVID-19  may
+have  coagulation  abnormalities  including  increased  D-dimer  concentration,  a  modest
+decrease in platelet count, and a prolongation of the prothrombin time.(13) One study
+that  compared  markers  of  inflammation  in  patients  with  and  without  COVID-19
+observed  modestly  lower  leukocyte,  lymphocyte,  and  platelet  counts  and  higher
+hemoglobin  values  in  patients  with  COVID-19.(12)  This  study  also  noted  that  serum
+albumin,  neutrophil  to  lymphocyte  ratio,  and  red  cell  distribution  width  were  each
+associated  with  disease  severity.(12)  Viral  tests,  including  nucleic  acid  amplification
+tests (NAATs, such as PCR tests), antigen tests and other tests (such as breath tests)
+are used as diagnostic tests to detect current infection with SARS-CoV-2, determine the
+need  for  prevention  measures  like  isolation,  and  inform  an  individual’s  medical  care.
+Viral  tests  can  also  be  used  as  screening  tests.  Viral  tests:  Positive  viral  test  results
+indicate current, or sometimes recent, infection and the person with COVID-19 should
+follow CDC recommendations for isolation. Negative viral test results mean the test did
+not detect the virus, but this doesn’t rule out that you could have an infection. These
+results represent a snapshot of the time around specimen collection and could change
+if the same test was performed again in one or more days. Negative antigen test results
+should  be  repeated  following  FDA  guidance.  Antibody  (or  serology)  tests  are  used  to
+test for the presence of antibodies from previous infection or vaccination and can aid in
+fulfilling the case definition for multisystem inflammatory syndrome in children (MIS-C)
+and  adults  (MIS-A).2  Antibody  testing  does  not  diagnose  current  infection.  Antibody
+testing  is  primarily  used  for  public  health  surveillance  and  epidemiologic  purposes.
+Antibody  tests  detect  specific  antibodies  that  target  different  parts  (nucleocapsid  or
+spike  protein)  of  the  virus.  Detection  of  anti-nucleocapsid  antibody  indicates
+SARS-CoV-2  infection,  while  anti-spike  protein  antibody  may  be  induced  by  COVID-19
+vaccination  or  by  SARS-CoV-2  infection.  This  should  be  considered  when  choosing
+whether  to  test  for  antibodies  originating  from  past  infection  versus  those  from
+vaccination. 
+FDA continually monitors the accuracy of COVID-19 tests. Their website provides
+up-to-date information on the impact of viral mutations on COVID-19 tests. See FDA’s
+list of In Vitro Diagnostics Emergency Use Authorizations for more information about the
+performance and interpretation of specific authorized tests. Diagnostic testing is
+intended  to  identify  current  infection.  It  is  performed  when  a  person  has  signs  or
+symptoms  consistent  with  COVID-19  or  is  asymptomatic  but  has  recent  known  or
+suspected  exposure  to  someone  with  COVID-19.  Screening  testing  is  intended  to
+identify  people  with  COVID-19  who  are  asymptomatic  or  do  not  have  any  known,
+suspected, or reported exposure to someone with COVID-19. Public health surveillance
+testing  is  conducted  to  specifically  monitor  population-level  burden  of  disease,  or  to
+characterize the incidence and prevalence of SARS-CoV-2 infection. Surveillance testing
+is  primarily  used  to  gain  information  at  a  population  level,  rather  than  an  individual
+level,  and  involves  testing  of  de-identified  specimens.  Surveillance  testing  results  are
+not reported back to the individual. As such, surveillance testing cannot be used for an
+individual’s  healthcare  decision-making  or  individual  public  health  actions,  such  as
+isolation. Examples of public health surveillance testing are genomic surveillance and
+wastewater surveillance. When choosing which test to use, it is important to understand
+the  purpose  of  the  testing  (diagnostic  or  screening),  test  performance  in  context  of
+current COVID-19 incidence, need for rapid results, and other considerations (See Table
+1).   Positive  predictive  values  (probability  that  the  person  testing  positive  is  actually
+infected) and negative predictive values (probability that the person testing negative is
+actually  not  infected)  of  NAAT  and  antigen  tests  vary  depending  upon  the  pretest
+probability.  Pretest  probability  considers  both  the  prevalence  of  COVID-19  in  the
+community and the clinical context of the individual being tested. CDC provides general
+information  on  sensitivity,  specificity,  and  positive  and  negative  predictive  values  for
+antigen  tests  and  antibody  tests.  For  information  on  a  specific  test,  refer  to  FDA’s
+website.  Table  1  summarizes  some  characteristics  of  NAATs  and  antigen  tests  to
+consider  for  a  testing  program.  Laboratories  that  perform  screening  or  diagnostic
+testing for SARS-CoV-2 must have a CLIA certificate and meet regulatory requirements.
+Tests that have received an EUA from FDA for point-of-care (POC) use can be performed
+with a CLIA certificate of waiver. Vaccination does not affect the results of someone’s
+SARS-CoV-2 diagnostic or screening tests (NAAT, antigen or other diagnostic tests). The
+main effect of vaccination on SARS-CoV-2 testing is related to antibody testing. Because
+mRNA  COVID-19  vaccines  use  the  SARS-CoV-2  spike  protein  to  generate  an  immune
+response,  a  positive  serologic  (antibody)  test  for  spike  protein  IgM/IgG  could  indicate
+either previous infection or vaccination. Antibody testing is not currently recommended
+to  assess  a  person’s  protection  against  SARS-CoV-2  infection  or  severe  COVID-19
+following COVID-19 vaccination or prior infection, or to assess the need for vaccination
+in  an  unvaccinated  person.  Antibody  testing  can  be  used  in  the  diagnosis  of
+Multisystem  Inflammatory  Syndrome  in  Children  (MIS-C)  or  Multisystem  Inflammatory
+Syndrome  in  Adults  (MIS-A).  To  evaluate  for  evidence  of  previous  infection  in  a
+vaccinated  individual,  use  an  antibody  test  specifically  evaluating  IgM/IgG  to  the
+nucleocapsid protein. For example, specific antibody tests can be used for public health
+surveillance.
+ Intended
+ Use
+ Intended
+ Use
+ Diagnose
+ current
+ infection
+Diagnose  current  infection  Diagnose  current  infection  Diagnose  current  infection
+Analyte  Detected  Analyte  Detected  Viral  ribonucleic  acid  (RNA)  Viral  ribonucleic  acid
+(RNA)  Viral  antigens  Viral  antigens  Specimen  Type(s)  Specimen  Type(s)  Nasal,
+Nasopharyngeal,
+ Oropharyngeal,
+ Sputum,
+ Saliva
+ Nasal,
+ Nasopharyngeal,
+Oropharyngeal,
+ Sputum,
+ Saliva
+ Nasal,
+ Nasopharyngeal
+ Nasal,
+ Nasopharyngeal
+Sensitivity Sensitivity Varies by test, but generally high for laboratory-based tests and
+moderate-to-high  for  point-of-care  (POC)  tests  Varies  by  test,  but  generally  high  for
+laboratory-based tests and moderate-to-high for point-of-care (POC) tests Less sensitive
+than NAATs. Varies by test and depending on the course of infection+* Less sensitive
+than  NAATs.  Varies  by  test  and  depending  on  the  course  of  infection+*  Specificity
+Specificity High High High High Test Complexity Test Complexity Varies by test Varies
+by  test  Relatively  easy  to  use  Relatively  easy  to  use  Authorized  for  Use  at  the
+Point-of-Care Authorized for Use at the Point-of-Care Most are not, some are Most are
+not,  some  are  Most  are,  some  are  not  Most  are,  some  are  not  Turnaround  Time
+Turnaround Time Most 1–3 days; some are rapid with results in 15 minutes Most 1–3
+days; some are rapid with results in 15 minutes Ranges from 15 minutes to 30 minutes
+Ranges  from  15  minutes  to  30  minutes  Cost/Test  Cost/Test  ~$75-$100/test
+~$75-$100/test ~$5-$50/test ~$5-$50/test Advantages Advantages Most sensitive test
+method available Short turnaround time for NAAT POC tests, but few available Usually
+does not need to be repeated to confirm results Most sensitive test method available
+Short turnaround time for NAAT POC tests, but few available Usually does not need to
+be  repeated  to  confirm  results  Short  turnaround  time  (approximately  15  minutes)  ◊
+Cost-effective  Some  can  be  performed  at-home,  or  anywhere  else  Short  turnaround
+time (approximately 15 minutes) ◊ Cost-effective Some can be performed at-home, or
+anywhere  else  Disadvantages  Disadvantages  Longer  turnaround  time  for  lab-based
+tests  (1–3  days)  Higher  cost  per  test  After  an  infection  has  ended,  and  the  risk  of
+transmission has passed, people may have detectable RNA and test positive for up to
+90  days  Longer  turnaround  time  for  lab-based  tests  (1–3  days)  Higher  cost  per  test
+After an infection has ended, and the risk of transmission has passed, people may have
+detectable RNA and test positive for up to 90 days Negative tests should be confirmed
+by  NAAT  or  repeated  as  recommended  by  FDA  Less  sensitive  (more  false  negative
+results)  compared  to  NAATs,  especially  among  asymptomatic  people  and  with  some
+variants Negative tests should be confirmed by NAAT or repeated as recommended by
+FDA Less sensitive (more false negative results) compared to NAATs, especially among
+asymptomatic people and with some variants * As noted in the labeling for authorized
+over-the-counter  antigen  tests:  negative  results  should  be  treated  as  presumptive
+(meaning  that  they  are  preliminary  results).  Negative  results  do  not  rule  out
+SARS-CoV-2 infection and should not be used as the sole basis for treatment or patient
+management  decisions,  including  infection  control  decisions.  Please  see  FDA
+guidance  on the use of at-home COVID-19 antigen tests. † The decreased sensitivity of
+antigen tests might be offset if the POC antigen tests are repeated more frequently. ◊
+Refers to point-of-care antigen tests only. Social determinants of health may influence
+access  to  testing.   For  example,  travel  time  may  limit  access  to,  and  use  of,  testing
+services for those who have limited access to transportation and who live in areas with
+fewer  public  transit  services  and  schedules.  Racial  and  ethnic  disparities  in  test  site
+distribution have been found.3 Other factors that may affect both access to, and use of,
+testing services include: Delays in testing may also delay seeking care and treatment
+(when sick) as well as delays in self-isolation that could reduce the spread of the virus
+to others. CDC’s COVID-19 Response Health Equity Strategy outlines a plan to reduce
+the  disproportionate  burden  of  COVID-19  among  people  in  some  racial  and  ethnic
+minority  groups,  people  with  disabilities,  and  other  population  groups  (e.g.,  essential
+and frontline workers, people living in rural or frontier areas) who have experienced a
+disproportionate burden of COVID-19. One component to move towards greater health
+equity is ensuring availability of resources, including access to testing for populations
+who  have  experienced  longstanding,  systemic  health  and  social  inequities.  All
+population  groups,  including  racial  and  ethnic  minority  groups,  should  have  equal
+access to affordable, quality, and timely SARS-CoV-2 testing—with fast turnaround time
+for results—for diagnosis and screening. Efforts should be made to address barriers that
+might overtly or inadvertently create inequalities in testing. In addition, completeness
+of race and ethnicity data is an important factor in understanding the impact the virus
+has on racial and ethnic minority populations. When possible, healthcare providers and
+public  health  professionals  should  ask  and  record  race  and  ethnicity  for  anyone
+receiving a reportable test result and ensure these data are reported with the person’s
+test  results  to  facilitate  understanding  the  impact  of  COVID-19  on  racial  and  ethnic
+minority  populations.  Some  strategies  to  achieve  health  equity  in  testing  access  and
+availability include: Positive test results using a viral test (NAAT, antigen or other tests)
+in individuals with signs or symptoms consistent with COVID-19 indicate that the person
+has  COVID-19.  A  negative  antigen  test  in  individuals  with  signs  or  symptoms  of
+COVID-19 should be repeated following FDA recommendations or confirmed by NAAT.
+For more information, see Antigen Test Algorithm. Additionally, consider other illnesses
+with similar symptoms that may require testing. For many diseases, including flu, early
+diagnosis  and  prompt  treatment  are  very  important  for  preventing  severe  illness.
+Anyone  who  tests  positive  should  isolate  at  home  or,  if  in  a  healthcare  setting,  be
+placed on appropriate precautions. Some people should receive treatment. Most people
+with COVID-19 have mild illness and can recover at home. For more information, see
+CDC’s  COVID-19  isolation  guidance.  Viral  testing  is  recommended  for  individuals  who
+have been exposed to someone with COVID-19. People who have had an exposure to
+someone known or suspected of having COVID-19 should be tested at least 5 days after
+the exposure. If symptoms develop before 5 days, they should get tested immediately.
+People  with  a  positive  test  result  should  follow  CDC’s  COVID-19  isolation  guidance.  If
+someone has had exposure to someone with COVID-19 and is asymptomatic, but has
+had COVID-19 within the past 30 days*, testing to identify a new infection is generally
+not  recommended.  If  someone  has  become  newly  symptomatic  after  having  had
+COVID-19  within  the  past  30  days*,  antigen  tests  should  be  used  to  identify  a  new
+infection.  If  they  test  negative,  they  should  repeat  the  antigen  test  following  FDA
+recommendations. If someone had exposure to another person with COVID-19, but the
+exposed  individual  has  had  COVID-19  within  the  past  31-90  days*,  consider  using
+antigen  tests  (rather  than  an  NAAT,  such  as  a  PCR  test)  to  identify  a  new  infection.
+ They should get tested at least 5 full days after their exposure.  If they test negative
+with  an  antigen  test,  they  should  repeat  the  antigen  test  following  FDA
+recommendations. *The clock starts from the day the person is tested (not the day they
+received their positive test result) or their original onset of symptoms, whichever came
+first.  Some  adults  with  severe  illness  or  who  are  moderately  or  severely
+immunocompromised  may  produce  replication-competent  virus  beyond  10  days  that
+may warrant extending duration of isolation and precautions. A test-based strategy for
+ending  isolation  in  these  patients  may  be  considered  in  consultation  with  infectious
+disease experts. For more information, including on retesting people previously infected
+with  SARS-CoV-2,  visit  Preventing  Spread  of  Respiratory  Viruses  When  You’re  Sick.
+Testing  asymptomatic  people  without  recent  known  or  suspected  exposure  to
+SARS-CoV-2 for early identification, isolation, and disease prevention Screening testing
+allows  early  identification  and  isolation  of  people  who  are  asymptomatic  or
+pre-symptomatic and who might be unknowingly transmitting virus. Screening testing
+may  be  most  valuable  in  specific  settings  where  early  identification  is  essential  to
+reducing transmission and mitigating risk for severe disease among populations at high
+risk.  When  COVID-19  hospital  admission  levels  are  high,  CDC  recommends
+implementing screening testing in certain high-risk settings. When screening testing is
+used, it should be applied to participants regardless of vaccination status. Any type of
+viral  test  can  be  used  for  screening  purposes;  however,  consider  the  characteristics
+(including  accessibility,  accuracy  and  efficiency)  of  different  test  types  to  determine
+which best suits screening testing needs. People without symptoms and without known
+exposure to COVID-19 do not need to take any special actions while awaiting screening
+test  results.  Settings  that  should  be  prioritized  for  screening  testing  include  facilities
+and situations where transmission risk is high and the population served is at high risk
+of severe outcomes from COVID-19 or there is limited access to healthcare, including:
+Serial  screening  testing  is  less  effective  at  reducing  COVID-19’s  impacts  in  settings
+where disease rates are lower, risk of spread is lower, and risk of severe illness is lower.
+Because of this, CDC does not recommend serial screening testing in most lower risk
+settings.  Public  health  surveillance  testing  may  sample  a  certain  percentage  of  a
+specific  population  to  monitor  for  increasing  or  decreasing  infection  rate  or  to
+determine  the  population  effect  from  community  interventions.  An  example  of  public
+health surveillance testing is when a state public health department samples a random
+percentage of all people in a city on a rolling basis to assess local infection rates and
+trends. CDC is working with state, local, territorial, academic, and commercial partners
+to conduct surveillance testing to better understand COVID-19 in the United States. For
+more on surveillance conducted by CDC: Updates as of May 27, 2022 As of January 21,
+2022 As of October 22, 2021 As of August 2, 2021 As of July 1, 2021 As of June 14, 2021
+As of September 18, 2020 As of August 24, 2020 As of July 17, 2020 As of July 2, 2020
+To receive email updates about COVID-19, enter your email address:
+Source URL: https://www.cdc.gov/coronavirus/2019-ncov/hcp/testing-overview.html

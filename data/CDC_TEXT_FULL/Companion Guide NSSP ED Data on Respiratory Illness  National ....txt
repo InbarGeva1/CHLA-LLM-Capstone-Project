@@ -1,0 +1,61 @@
+A .gov website belongs to an official government organization in the United States. A
+lock (  ) or https:// means you've safely connected to the .gov website. Share sensitive
+information only on official, secure websites. This companion guide offers an in-depth
+look  at  how  respiratory  illness  cases  can  be  extracted  from  syndromic  surveillance
+data.  Diagnostic  codes  and  clinical  terms  used  to  create  definitions  for  diagnosed
+COVID-19, influenza and RSV are outlined below. The National Syndromic Surveillance
+Program (NSSP) is a collaboration among CDC, local and state health departments, with
+private sector partners. Together, these partners collect, share, and analyze automated
+electronic  healthcare  data  in  near-real  time.  The  national  data  include  emergency
+departments  in  all  50  states,  the  District  of  Columbia,  and  Guam.  View  the  coverage
+map  here.  Diagnostic  codes  and  clinical  terms  were  used  to  create  definitions  for
+diagnosed  COVID-19,  influenza,  and  RSV.  Jurisdiction-level  data  are  not  shown  for
+Missouri  because  the  proportion  of  records  with  a  discharge  diagnosis  is  low.
+Jurisdiction-level  data  are  not  shown  for  New  Hampshire,  South  Dakota,  and
+Washington  to  ensure  data  use  and  other  sharing  agreements  are  appropriately
+addressed prior to public release. Guam is not shown due to small counts. Emergency
+department visits were assigned to the Morbidity and Mortality Weekly Report (MMWR)
+week they occurred; MMWR weeks begin on Sunday and end on the following Saturday.
+MMWR week #1 of an MMWR year is the first week of the year that has at least four
+days  in  the  calendar  year.  Variability  in  testing  practices  for  different  viruses  and  in
+different  age  groups  may  lead  to  under-ascertainment  of  respiratory  infections  in
+electronic  healthcare  data,  including  emergency  department  visits.  Patients  who  are
+less likely to be tested are less likely to be included. These data are based on electronic
+diagnostic codes transmitted automatically in near real-time, and hospital practices for
+assigning  these  codes  can  vary.  These  data  are  dynamic  and  update  as  codes  are
+added  and  changed.  The  weekly  percent  of  emergency  department  visits  with
+COVID-19 diagnosis on this site are not designed to match the percentages shown on
+the CDC COVID Data Tracker. Metrics will differ across websites due to factors such as
+updates on different days of the week or different calculations, such as presentation of
+a  7-day  moving  average  on  daily  data  rather  than  weekly  totals.  Data  will  also  differ
+from  state  websites  due  to  different  update  schedules,  calculations,  or  definitions.
+These data are not a random sample and are not intended to capture data from every
+hospital. While these data are not designed to be randomly sampled or comprehensive,
+they provide a useful overall indicator of trends in emergency department use. For data
+that are presented as a percentage, each respiratory illness is presented as a percent
+of all emergency department visits by age group. For example, the COVID-19 data show
+emergency  department  visits  for  children  ages  5-11  with  diagnosed  COVID-19  as  a
+fraction  of  all  emergency  department  visits  for  children  ages  5-11.  The  following
+discharge diagnoses (DD) and clinical terms are included: International Classification of
+Diseases,
+ Tenth
+ Revision,
+ Clinical
+ Modification
+ (ICD-10-CM),
+ the
+ International
+Classification  of  Diseases,  Ninth  Revision,  Clinical  Modification  (ICD-9-CM),  and
+Systematized Nomenclature of Medicine – Clinical Terms (SNOMED CT). Please note that
+conditions  can  be  defined  in  different  ways  in  electronic  healthcare  data,  and  some
+jurisdictions  may  use  different  definitions.  Short  codes  listed  capture  all  codes
+underneath  (J09  captures  J09.X1-J09.X9).  Definition  name  in  the  NSSP  Electronic
+Surveillance  System  for  the  Early  Notification  of  Community-Based  Epidemics
+(ESSENCE)  system:  CDC  COVID-Specific  DD  v1  Definition  name  in  the  NSSP  ESSENCE
+system:  CDC  Influenza  DD  v1  Definition  name  in  the  NSSP  ESSENCE  system:  CDC
+Respiratory  Syncytial  Virus  DD  v1  To  improve  public  health,  NSSP  helps  gather  and
+provide  syndromic  data  from  collaborations  with  state  and  local  health  departments
+and others. Languages Language Assistance Languages  Language Assistance 
+Source
+ URL:
+https://www.cdc.gov/nssp/php/onboarding-resources/companion-guide-ed-data-respiratory-illness.html

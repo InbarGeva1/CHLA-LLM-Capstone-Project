@@ -1,0 +1,50 @@
+A .gov website belongs to an official government organization in the United States. A
+lock (  ) or https:// means you've safely connected to the .gov website. Share sensitive
+information  only  on  official,  secure  websites.  Controlling  exposures  to  hazards  in  the
+workplace  is  vital  to  protecting  workers.  The  hierarchy  of  controls  is  a  way  of
+determining  which  actions  will  best  control  exposures.   The  hierarchy  of  controls  has
+five levels of actions to reduce or remove hazards. The preferred order of action based
+on  general  effectiveness  is:  Using  this  hierarchy  can  lower  worker  exposures  and
+reduce risk of illness or injury. Elimination removes the hazard at the source. This could
+include  changing  the  work  process  to  stop  using  a  toxic  chemical,  heavy  object,  or
+sharp  tool.  It  is  the  preferred  solution  to  protect  workers  because  no  exposure  can
+occur. Substitution is using a safer alternative to the source of the hazard. An example
+is  using  plant-based  printing  inks  as  a  substitute  for  solvent-based  inks.  When
+considering  a  substitute,  it's  important  to  compare  the  potential  new  risks  of  the
+substitute  to  the  original  risks.  This  review  should  consider  how  the  substitute  will
+combine with other agents in the workplace. Effective substitutes reduce the potential
+for harmful effects and do not create new risks. Elimination and substitution can be the
+most difficult actions to adopt into an existing process. These methods are best used at
+the design or development stage of a work process, place, or tool. At the development
+stage, elimination and substitution may be the simplest and cheapest option. Another
+good opportunity to use elimination and substitution is when selecting new equipment
+or  procedures.  Prevention  through  Design  is  an  approach  to  proactively  include
+prevention when designing work equipment, tools, operations, and spaces. Engineering
+controls reduce or prevent hazards from coming into contact with workers. Engineering
+controls can include modifying equipment or the workspace, using protective barriers,
+ventilation,  and  more.  The  NIOSH  Engineering  Controls  Database  has  examples  of
+published  engineering  control  research  findings.  The  most  effective  engineering
+controls:  Engineering  controls  can  cost  more  upfront  than  administrative  controls  or
+PPE. However, long-term operating costs tend to be lower, especially when protecting
+multiple workers. In addition, engineering controls can save money in other areas of the
+work process or facility operation. Administrative controls establish work practices that
+reduce the duration, frequency, or intensity of exposure to hazards. This may include:
+PPE  is  equipment  worn  to  minimize  exposure  to  hazards.  Examples  of  PPE  include
+gloves, safety glasses, hearing protection, hard hats, and respirators. When employees
+use  PPE,  employers  should  implement  a  PPE  program.  While  elements  of  the  PPE
+program  depend  on  the  work  process  and  the  identified  PPE,  the  program  should
+include: Employers should not rely on PPE alone to control hazards when other effective
+control  options  are  available.  PPE  can  be  effective,  but  only  when  workers  use  it
+correctly  and  consistently.  PPE  might  seem  to  be  less  expensive  than  other  controls,
+but can be costly over time. This is especially true when used for multiple workers on a
+daily basis. When other control methods are unable to reduce the hazardous exposure
+to safe levels, employers must provide PPE. This includes: Administrative controls and
+PPE require significant and ongoing effort by workers and their supervisors. They are
+useful when employers are in the process of implementing other control methods from
+the hierarchy. Additionally, administrative controls and PPE are often applied to existing
+processes where hazards are not well controlled. 
+The Occupational Safety and Health Act of 1970 established NIOSH as a research
+agency focused on the study of worker safety and health, and empowering employers
+and  workers  to  create  safe  and  healthy  workplaces.  Languages  Language
+Assistance Languages  Language Assistance 
+Source URL: https://www.cdc.gov/niosh/hierarchy-of-controls/about/index.html

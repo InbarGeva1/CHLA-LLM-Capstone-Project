@@ -1,0 +1,322 @@
+Official websites use .gov A .gov website belongs to an official government organization
+in  the  United  States.  Secure  .gov  websites  use  HTTPS  A  lock  (   )  or  https://  means
+you've  safely  connected  to  the  .gov  website.  Share  sensitive  information  only  on
+official, secure websites. Weekly / March 11, 2016 / 65(9);235–241 On March 3, 2016,
+this  report  was  posted  online  as  an  MMWR  Early  Release.  Lindsey  M.  Weiner,  MPH1;
+Scott  K.  Fridkin,  MD1;  Zuleika  Aponte-Torres,  MPH1;  Lacey  Avery,  MA1;  Nicole  Coffin,
+MA1; Margaret A. Dudeck, MPH1; Jonathan R. Edwards, MStat1; John A. Jernigan, MD1;
+Rebecca  Konnor,  MPH1;  Minn  M.  Soe,  MBBS,  MPH1;  Kelly  Peterson1;  L.  Clifford
+McDonald, MD1 (View author affiliations) • Antibiotic-resistant (AR) bacteria can make
+infections  impossible  to  treat,  especially  given  the  extensive  resistance  frequently
+encountered  in  health  care  facilities.  Of  18  AR  bacteria  identified  by  CDC  as  public
+health  threats,  six,  in  addition  to  Clostridium  difficile,  cause  health  care–associated
+infections (HAIs). • Three common HAIs associated with catheters placed in a vein or
+the bladder and procedures (operations) include: central-line associated blood stream
+infections (CLABSIs), catheter-associated urinary tract infections (CAUTIs), and surgical
+site infections (SSIs). • Preventing these HAIs is an important strategy for reducing the
+impact of AR bacteria on human health, including the prevention of sepsis and death.
+Considerable  progress  has  been  made  for  some  but  not  all  HAIs.  Compared  with
+baseline historic data from 5–8 years earlier, CLABSIs decreased by 50% and SSIs by
+17%  in  2014.  Whereas  CAUTIs  appear  unchanged  from  baseline,  there  have  been
+recent decreases. C. difficile infections in hospitals decreased 8% during 2011–2014. •
+In 2014, the chance that an HAI was caused by one of the six AR threat bacteria was
+one in seven in short-term acute care hospitals but higher in other health care settings
+such as long-term acute care hospitals where it was one in four. • Physicians, nurses,
+and health care leaders, working together with the help of CDC, other federal agencies,
+and other partners, need to consistently combine strategies to prevent catheter- and
+procedure-related HAIs, prevent the spread of AR bacteria, and improve antibiotic use,
+thereby  preventing  further  patient  harm  caused  by  AR  HAIs.  •  Additional  information
+available  at  http://www.cdc.gov/vitalsigns.  Views  equals  page  views  plus  PDF
+downloads  Background:  Health  care–associated  antibiotic-resistant  (AR)  infections
+increase patient morbidity and mortality and might be impossible to successfully treat
+with  any  antibiotic.  CDC  assessed  health  care–associated  infections  (HAI),  including
+Clostridium difficile infections (CDI), and the role of six AR bacteria of highest concern
+nationwide  in  several  types  of  health  care  facilities.  Methods:  During  2014,
+approximately  4,000  short-term  acute  care  hospitals,  501  long-term  acute  care
+hospitals, and 1,135 inpatient rehabilitation facilities in all 50 states reported data on
+specific  infections  to  the  National  Healthcare  Safety  Network.  National  standardized
+infection ratios and their percentage reduction from a baseline year for each HAI type,
+by facility type, were calculated. The proportions of AR pathogens and HAIs caused by
+any  of  six  resistant  bacteria  highlighted  by  CDC  in  2013  as  urgent  or  serious  threats
+were determined. Results: In 2014, the reductions in incidence in short-term acute care
+hospitals and long-term acute care hospitals were 50% and 9%, respectively, for central
+line-associated  bloodstream  infection;  0%  (short-term  acute  care  hospitals),  11%
+(long-term  acute  care  hospitals),  and  14%  (inpatient  rehabilitation  facilities)  for
+catheter-associated  urinary  tract  infection;  17%  (short-term  acute  care  hospitals)  for
+surgical site infection, and 8% (short-term acute care hospitals) for CDI. Combining HAIs
+other  than  CDI  across  all  settings,  47.9%  of  Staphylococcus  aureus  isolates  were
+methicillin  resistant,  29.5%  of  enterococci  were  vancomycin-resistant,  17.8%  of
+Enterobacteriaceae  were  extended-spectrum  beta-lactamase  phenotype,  3.6%  of
+Enterobacteriaceae  were  carbapenem  resistant,  15.9%  of  Pseudomonas  aeruginosa
+isolates were multidrug resistant, and 52.6% of Acinetobacter species were multidrug
+resistant. The likelihood of HAIs caused by any of the six resistant bacteria ranged from
+12%  in  inpatient  rehabilitation  facilities  to  29%  in  long-term  acute  care  hospitals.
+Conclusions: Although there has been considerable progress in preventing some HAIs,
+many  remaining  infections  could  be  prevented  with  implementation  of  existing
+recommended  practices.  Depending  upon  the  setting,  more  than  one  in  four  of  HAIs
+excluding  CDI  are  caused  by  AR  bacteria.  Implications  for  Public  Health  Practice:
+Physicians, nurses, and health care leaders need to consistently and comprehensively
+follow all recommendations to prevent catheter- and procedure-related infections and
+reduce the impact of AR bacteria through antimicrobial stewardship and measures to
+prevent  spread.  Top  Antibiotic-resistant  (AR)  bacteria  are  a  worldwide  public  health
+threat.  A  2013  CDC  report  outlined  the  top  18  urgent,  serious,  and  concerning  AR
+threats in the United States (1). Among the 15 urgent and serious threats, seven are
+bacteria  predominately  acquired  during  health  care.  Clostridium  difficile  is  included
+among these; although C. difficile is not drug-resistant, the infections it causes and its
+spread  are  exacerbated  by  inappropriate  antibiotic  use  and  inadequate  infection
+control,  similar  to  the  six  other  AR  bacteria.  Preventing  health  care–associated
+infections  (HAIs)  provides  immediate  benefit  in  reducing  the  impact  of  antibiotic
+resistance on human health. When combined with antibiotic stewardship and steps to
+prevent  transmission  as  outlined  in  the  National  Action  Plan  to  Combat  Antibiotic
+Resistant Bacteria (2), preventing HAIs is critical to reducing the public health threat of
+AR  bacteria.  More  than  half  of  hospitalized  patients  are  receiving  antibiotics  on  any
+given  day  (3),  and  about  one  in  25  have  one  or  more  HAIs  (4).  During  2011  an
+estimated 722,000 HAIs occurred in U.S acute care hospitals, and approximately 75,000
+patients with HAIs died during hospitalization (4). More than half of these HAIs include
+C. difficile infections (CDIs), urinary tract infections, bloodstream infections, or surgical
+site infections (SSIs). The HAI National Action Plan (5) calls for CDC to monitor progress
+toward established goals through the National Healthcare Safety Network (NHSN). This
+report describes progress toward reducing HAIs in the United States and describes the
+frequency of six AR bacteria of urgent or serious public health concern among reported
+HAIs in 2014. Top HAI data on central line-associated bloodstream infections (CLABSIs),
+catheter-associated urinary tract infections (CAUTIs), surgical site infections (SSIs), and
+laboratory-identified CDI events for 2014 were reported to NHSN from hospitals in all 50
+states, the District of Columbia, and Puerto Rico, using standard NHSN definitions (6–8).
+Data  are  presented  separately  for  acute  care  hospitals  (including  critical  access
+hospitals),  long-term  acute  care  hospitals,  and  inpatient  rehabilitation  facilities,
+because  reporting  timelines  and  type  of  HAIs  reported  varied  among  the  different
+settings. Standardized infection ratios (SIRs), a statistic used to track HAIs over time,
+were used to compare the observed number of infections reported during 2014 with the
+predicted  number  of  infections,  based  on  national  aggregate  data  reported  during  a
+historical baseline time period. SIRs for different infections were adjusted for key risk
+factors  (9–11).  Baseline  time  periods  among  short-term  acute  care  hospitals  were
+2006–2008  for  CLABSIs  and  SSIs,  2009  for  CAUTIs,  and  2010–2011  for  CDIs.  Among
+long-term  acute  care  hospitals  and  inpatient  rehabilitation  facilities  the  baseline  time
+period was 2013 for both CLABSIs and CAUTIs. The SSI data include 10 procedures that
+approximate  procedures  included  in  the  Centers  for  Medicare  and  Medicaid  Services
+Surgical  Care  Improvement  Project  and  were  performed  during  2014  (10).  Pathogen
+and  susceptibility  data  are  provided  by  the  facility’s  designated  clinical  microbiology
+laboratory.  No  more  than  three  pathogens  per  HAI  could  be  reported.  Susceptibility
+results for each pathogen were reported as “susceptible,” “intermediate,” “resistant,”
+or  “not  tested”  (12).  The  six  AR  phenotypes  included  the  urgent  threat  of
+carbapenem-resistant
+ Enterobacteriaceae,
+ along
+ with
+ the
+ serious
+ threats
+ of
+methicillin-resistant
+ Staphylococcus
+ aureus,
+ vancomycin-resistant
+ enterococci,
+extended-spectrum beta-lactamase phenotype Enterobacteriaceae, multidrug-resistant
+(MDR) P. aeruginosa, and MDR Acinetobacter species. The criteria used to define each
+phenotype approximated interim standard definitions for defining multidrug resistance
+as  used  in  the  CDC  AR  Threat  Report  (1),  along  with  updated  criteria  for
+carbapenem-resistant Enterobacteriaceae (13). A pooled mean percentage of resistant
+pathogens, based on the sum of pathogens that tested resistant, divided by the sum of
+pathogens  tested,  was  calculated  for  each  threat  pathogen  by  HAI  type  and  facility
+type.  In  addition,  the  likelihood  that  an  HAI  was  associated  with  any  of  the  six
+antibiotic-resistant  threat  pathogens  was  calculated  as  the  sum  of  HAIs  with  any
+resistant phenotype divided by the sum of HAIs reported (regardless of whether another
+pathogen or, in the case of SSI, no pathogen was reported). Top In 2014, approximately
+4,000 acute care hospitals (3,655 reported CLABSI data, 3,791 reported data on CAUTI,
+3,994 reported CDI, and 3,618 reported SSI), 501 long-term acute care hospitals, and
+1,135  inpatient  rehabilitation  facilities  contributed  data.  Within  acute  care  hospitals,
+17,758  CLABSIs,  35,760  CAUTIs,  101,074  hospital-onset  CDIs,  and  15,927  SSIs  from
+selected  procedures  were  reported.  The  corresponding  SIRs  (and  95%  confidence
+intervals)  were  0.495  (0.488–0.502)  for  CLABSI,  1.00  (0.990–1.010)  for  CAUTI,  0.924
+(0.918–0.929)  for  CDI,  and  0.827  (0.815–0.840)  for  SSI,  corresponding  to  percentage
+decreases compared with the historical baseline assessment ranging from 0% (CAUTI)
+to  50%  (CLABSI)  (Figure).  The  percentage  change  from  2013  to  2014  was  −8%  for
+CLABSI,  −5%  CAUTI,  +4%  for  CDI,  and  +2%  for  SSI.  Among  long-term  acute  care
+hospitals,  2,928  CLABSIs  and  4,467  CAUTIs  were  reported;  after  risk  adjustment,  the
+SIRs  were  0.909  (0.876–0.942)  for  CLABSI  and  0.893  (0.867–0.920)  for  CAUTI,
+corresponding to 9% and 11% decreases, respectively, compared with baseline. Within
+inpatient  rehabilitation  facilities,  1,449  CAUTIs  were  reported,  for  an  SIR  of  0.856
+(0.813–0.901) or a 14% reduction compared with baseline. Combining HAIs across all
+settings,  47.9%  of  S.  aureus  infections  were  resistant  to  methicillin,  29.5%  of
+enterococci  were  resistant  to  vancomycin,  17.8%  of  Enterobacteriaceae  were
+extended-spectrum  beta-lactamase  phenotype,  3.6%  of  Enterobacteriaceae  were
+carbapenem-resistant,  15.9%  of  P.  aeruginosa,  and  52.6%  of  Acinetobacter  species
+were  MDR.  Notably,  the  percentage  resistance  varied  by  facility  type  and  was
+consistently  higher  in  long-term  acute  care  hospitals  (Table).  During  2014,  the
+likelihood  of  any  of  the  six  AR  threat  bacteria  varied  by  HAI  type  and  facility  type.
+Overall, among short-term acute care hospitals, 14% of all HAIs were caused by one of
+the  six  AR  threat  bacteria,  including  18%  of  CLABSIs  (3,348  of  18,373),  15%  of  SSIs
+(2,583  of  17,512),  10%  of  CAUTIs  (3,601  of  34,621).  Among  long-term  acute  care
+hospitals,  28%  of  CLABSIs  (808  of  2,873)  and  29%  of  CAUTIs  (1,251  of  4,293)  were
+caused by one of these organisms, and among inpatient rehabilitation facilities, 12% of
+CAUTIs (164 of 1,349) were caused by one of these six bacteria. Pooled over all facility
+types,  14.9%  of  the  79,021  HAIs  reported  were  associated  with  one  of  the  AR  threat
+pathogens. Top In the United States, approximately 2 million persons become ill every
+year  with  AR  infections,  and  approximately  23,000  die.  This  report  is  the  first  to
+combine national data on AR bacteria threats with progress on HAI prevention. In 2014,
+the incidence of CLABSI in acute care hospitals reached the 2013 goal established by
+the HAI Action Plan (5), decreasing 50% during 2008–2014. This is important given the
+high morbidity, mortality, and excess costs associated with CLABSIs (14,15), which are
+partially  related  to  the  frequency  with  which  methicillin-resistant  Staphylococcus
+aureus,  vancomycin-resistant  enterococci,  and  extended-spectrum  beta-lactamase
+phenotype  Enterobacteriaceae  cause  these  infections  (Table).  In  addition,  CAUTIs  in
+acute  care  hospitals  decreased  overall  by  5%  during  2013–2014  and,  although  not
+quantified  in  this  report,  declined  24%  in  non–intensive  care  unit  (ICU)  settings  since
+baseline.* In long-term acute care hospitals, both CLABSIs and CAUTIs have decreased
+as  have  CAUTIs  in  inpatient  rehabilitation  facilities.  The  importance  of  preventing
+CAUTIs in all settings is highlighted by the frequency with which vancomycin-resistant
+enterococci,  extended-spectrum  beta-lactamase  phenotype  Enterobacteriaceae,  and
+(especially
+ in
+ long-term
+ acute
+ care
+ hospitals)
+ carbapenem-resistant
+Enterobacteriaceae,  cause  these  infections  (Table).  Collaboration  across  the  U.S.
+Department  of  Health  and  Human  Services  (HHS),  including  CDC,  the  Office  of  the
+Assistant Secretary of Health, the Centers for Medicare and Medicaid Services, and the
+Agency for Health Research and Quality has been important in achieving this success.
+For  example,  Centers  for  Medicare  and  Medicaid  Services  reporting  and  payment
+incentives  have  led  to  greater  transparency  and  accountability,  and  their  Hospital
+Engagement and Quality Innovation Networks have promoted best practices. C. difficile
+has  been  recently  recognized  as  the  most  common  HAI  pathogen  in  acute  care
+hospitals  (4).  In  2011,  it  caused  an  overall  total  of  453,000  infections,  and  29,000
+patients died within 30 days of diagnosis (16); 94% of all CDIs are related to various
+precedent or concurrent health care exposures (17). The CDI SIR in acute care hospitals
+decreased  only  8%  overall  during  2011–2014,  and  more  concerning,  increased  4%
+during 2013–2014. More work is needed to ensure that patients are safe from C. difficile
+and AR bacteria. Controlling AR threats is linked to preventing the occurrence of HAIs,
+reducing selective pressure by improving overall antibiotic stewardship, and preventing
+the  spread  of  AR  bacteria  within  and  between  facilities.  Preventing  catheter-  and
+procedure-related  infections  can  be  accomplished  by  always  following  recommended
+indications  and  guidelines  for  insertion,  maintenance,  and  removal  of  vascular  and
+bladder  catheters.  CDC  and  its  partners  are  implementing  new  HHS-proposed  HAI
+targets for December 2020, using 2015 NHSN data as its new baseline. A key strategy
+for reaching these goals is the Targeted Assessment for Prevention strategy to identify
+gaps  in  infection  control  in  facilities  with  a  disproportionate  number  of  HAIs  (18).  In
+addition  to  reducing  the  need  for  antibiotics  used  in  treatment,  preventing  HAIs
+prevents  complications  of  infection,  including  sepsis,  a  major  cause  of  death  In
+conjunction  with  HAI  prevention  is  implementation  of  hospital  antibiotic  stewardship
+programs  (19).  This  is  accomplished  by  always  obtaining  cultures  when  starting
+necessary antibiotics and, especially in septic patients, doing so promptly, using culture
+results to reassess the continued need for antibiotics, discontinuing antibiotics that are
+no longer needed or to which AR has developed, and using the appropriate drug at the
+proper dose and administration frequency. Antibiotic exposure is well recognized as the
+most important modifiable risk factor for CDI, and antibiotic stewardship is potentially
+the most effective CDI prevention strategy (17,19). The emergence and spread of the
+hypervirulent,  fluoroquinolone-resistant,  ribotype  027  strain  of  C.  difficile  in  North
+America and Europe was facilitated by increased use of fluoroquinolones (20). Reducing
+unnecessary use of this antibiotic class has been instrumental in facilities where control
+of this strain has been achieved (21,22). What is less widely recognized is the role that
+disruption of the human microbiome has on increasing patients’ risk for acquiring AR
+strains  of  other  HAI  pathogens  (23)  and,  once  colonized,  developing  infection  (24).
+Genes  that  confer  resistance  can  be  carried  on  the  same  plasmid  or  chromosome  as
+genes that increase bacterial virulence, leading to the emergence of highly adapted AR
+HAI  pathogens  (25).  CDC  summarizes  core  elements  of  successful  stewardship
+programs,  which  can  help  assure  the  prompt  initiation  of  necessary  antibiotics  and
+reduce unnecessary antibiotic use, thereby reducing the risk of CDI and AR infections,
+improving  individual  patient  outcomes,  and  saving  health  care  dollars  (19).  In
+conjunction  with  HAI  prevention  and  antibiotic  stewardship,  the  third  necessary
+strategy  is  the  prevention  of  cross  transmission.  To  achieve  this,  physicians,  nurses,
+and  health  care  leaders  need  to  improve  hand  hygiene,  room  cleaning,  and  use  of
+personal protective equipment, and be aware of HAI outbreaks caused by AR bacteria in
+their hospital or region. In the case of C. difficile, which is unique among the AR threat
+bacteria  in  forming  spores,  special  environmental  measures  might  also  be  needed  to
+prevent transmission (17). Because AR strains might be more virulent than other strains
+and  thereby  more  likely  to  colonize  and  infect  patients  already  receiving  antibiotics,
+interrupting  transmission  of  these  strains  reduces  both  the  number  of  HAIs  and  the
+likelihood  that  an  HAI  is  caused  by  an  AR  threat.  To  assist  clinicians,  health  care
+leaders,  and  state  and  local  public  health  authorities  to  learn  when  well-adapted
+resistant strains are emerging and spreading in a region, CDC is working with partners
+to  build  networks  to  better  detect  and  respond  to  AR  threats  and  to  make  antibiotic
+resistance data from health care facilities more readily accessible through a new HAI
+Antibiotic Resistance Patient Safety Atlas.† Over one of every four HAIs reported from
+long-term  acute  care  hospitals  were  caused  by  AR  bacteria.  Moreover,  limited  data
+suggest  CDI  incidence  in  long-term  acute  care  hospitals  might  be  several  fold  higher
+than  in  short-term  acute  care  hospitals  (26,27).  One  contributing  factor  is  patient
+transfer from intensive care units of acute care hospitals where their microbiomes have
+been disrupted by exposure to antibiotics and where they have been colonized with AR
+threat bacteria (28). Long-term acute care hospitals are facilities that can transmit or
+amplify antibiotic resistance within a community of interconnected health care facilities
+(29).  It  is  critical  for  interconnected  health  care  facilities  to  work  together  for  early
+detection and response to emerging AR threats; coordinated prevention initiatives have
+the  biggest  impact  on  a  community  or  region  overall  (30).  Through  sharing  of
+information, practical expertise, and regional leadership, coordinated activity can have
+a  larger  impact  on  preventing  transmission  and  infections  with  antibiotic-resistant
+bacteria than hospitals working alone. The findings in this report are subject to at least
+two  limitations.  First,  infections  included  in  SIR  calculations  were  a  subset  of  all  the
+infections evaluated for AR. The latter included infection events reported from any type
+of SSI, and infections occurring in locations regardless of eligibility to calculate a SIR.
+Second,  the  reported  resistance  relied  on  the  manual  reporting  of  the  facility  staff,
+based on reports provided by the clinical laboratory, and might contain inaccurate test
+results, data entry errors, and some incomplete information. Despite these limitations,
+these data provide important information on the status of HAI infection prevention in
+the United States in 2014 and the persistent challenge of preventing the spread of AR
+bacteria in a variety of inpatient health care settings. Preventing HAIs and the spread of
+antibiotic  resistance  is  possible  if  physicians,  nurses,  and  health  care  leaders
+consistently  and  comprehensively  follow  all  recommendations  to  prevent  HAIs,
+including  prevention  of  catheter-  and  procedure-related  infections,  antimicrobial
+stewardship,  and  implementation  of  measures  to  prevent  spread.  Top  Corresponding
+author: L. Clifford McDonald, ljm3@cdc.gov, 404-639-3833. Top 1Division of Healthcare
+Quality Promotion, National Center for Emerging and Zoonotic Infectious Diseases, CDC.
+Top
+ Top
+ *
+ http://www.cdc.gov/hai/progress-report/index.html.
+ 
+ †
+http://www.cdc.gov/hai/surveillance/ar-patient-safety-atlas.html.  Top  *  First  year  with
+calculated SIR value, 1.00. Baseline periods were 2006–2008 for CLABSI and SSI, 2009
+for  CAUTI,  and  2010–2011  for  CDI.  Data  were  calculated  using  the  latest  year  of  the
+baseline period. † SSI data are inclusive of the 10 selected procedures that approximate
+the procedures included in the Centers for Medicare & Medicaid Services Surgical Care
+Improvement Project and were performed during 2014. § Device-associated infections
+include
+ both
+ intensive
+ care
+ unit
+ (ICU)
+ and
+ non-ICU
+ locations.
+http://www.cdc.gov/hai/surveillance/nhsn_nationalreports.html.
+ Top
+ Abbreviations:
+%R  =  %  resistant  to  antibiotics;  CAUTI  =  catheter-associated  urinary  tract  infection;
+CLABSI  =  central  line-associated  bloodstream  infection;  ESBL  =  extended-spectrum
+beta-lactamase;  SSI  =  surgical  site  infection.  *Empty  cells  indicate  no  reporting
+occurred  for  that  HAI  type.  †Insufficient  data;  fewer  than  20  isolates  tested  for
+resistance. Top Suggested citation for this article: Weiner LM, Fridkin SK, Aponte-Torres
+Z,  et  al.   Vital  Signs:  Preventing  Antibiotic-Resistant  Infections  in  Hospitals  —  United
+States,
+ 2014.
+ MMWR
+ Morb
+ Mortal
+ Wkly
+ Rep
+ 2016;65:235–241.
+ DOI:
+http://dx.doi.org/10.15585/mmwr.mm6509e1. 
+MMWR  and  Morbidity  and  Mortality  Weekly  Report  are  service  marks  of  the  U.S.
+Department of Health and Human Services.
+Use of trade names and commercial sources is for identification only and does not imply
+endorsement by the U.S. Department of 
+Health and Human Services. References to non-CDC sites on the Internet are 
+provided as a service to MMWR readers and do not constitute or imply 
+endorsement of these organizations or their programs by CDC or the U.S. 
+Department of Health and Human Services. CDC is not responsible for the content 
+of pages found at these sites. URL addresses listed in MMWR were current as of 
+the  date  of  publication.  All  HTML  versions  of  MMWR  articles  are  generated  from  final
+proofs through an automated process. 
+This  conversion  might  result  in  character  translation  or  format  errors  in  the  HTML
+version. 
+Users are referred to the electronic PDF version (https://www.cdc.gov/mmwr) 
+and/or the original MMWR paper copy for printable versions of official text, figures, and
+tables. 
+ Questions or messages regarding errors in formatting should be addressed to 
+mmwrq@cdc.gov.
+Source URL: https://www.cdc.gov/mmwr/volumes/65/wr/mm6509e1.htm

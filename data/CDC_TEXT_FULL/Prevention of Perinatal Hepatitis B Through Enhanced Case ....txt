@@ -1,0 +1,330 @@
+Persons using assistive technology might not be able to fully access information in this
+file. For assistance, please send e-mail to: mmwrq@cdc.gov. Type 508 Accommodation
+and the title of the report in the subject line of e-mail. Each year, an estimated 20,000
+infants are born to women in
+the United States who are positive for hepatitis B surface antigen
+(HBsAg). These infants are at high risk for perinatal hepatitis B
+virus (HBV) infection and for chronic liver disease as adults. To
+identify newborns who require immunoprophylaxis to prevent
+perinatal HBV infection (1-4), all vaccine advisory groups have
+recommended routine HBsAg screening of all pregnant women during an
+early prenatal visit in each pregnancy. Federal funding to support
+perinatal hepatitis B-prevention programs became available in 1990,
+and by 1992, programs had been implemented in all 50 states and the
+District of Columbia. Specific objectives of these programs are to
+ensure that 1) all pregnant women are tested for HBsAg, and 2)
+infants born to HBsAg-positive women receive hepatitis B immune
+globulin (HBIG) and hepatitis B vaccine at birth, with follow-up
+doses of vaccine at ages 1 and 6 months (5). This report describes
+the case-management features of successful hepatitis B-prevention
+programs in Connecticut during 1994-95 and in the United States
+during 1994.  Connecticut  In 1992, the Connecticut Department of Public Health
+implemented a perinatal hepatitis B-prevention program and
+recommended that 1) HBsAg-positive women be contacted before
+delivery and educated about HBV infection, 2) the infant's
+pediatrician and delivery hospital be informed of the mother's
+HBsAg status, and 3) a tracking system be used to ensure the infant
+receives appropriate postexposure prophylaxis. Local health
+departments (LHDs) initially were responsible for providing
+management  to  mother/infant  pairs.   Enhanced  case  management  (ECM)  was
+implemented in two counties
+in July 1994 and a third county in April 1995. In addition to use
+of the basic recommendations, the ECM program employed a full-time
+nurse (hired by the state) who worked on a flexible schedule to
+manage all mother/infant pairs in the three-county area and a
+computer-based tracking system to identify pending births to
+infected mothers and the need for follow-up vaccine doses for
+infants. To evaluate program effectiveness, outcomes in the ECM
+program were compared with the LHD programs for HBsAg-positive
+women  identified  during  1994-95.   During  1994-95,  the  ECM  program  identified  64
+HBsAg-positive
+pregnant women and maintained contact with all of these women
+throughout their pregnancies. During this period, LHD programs
+identified 71 HBsAg-positive pregnant women and established and/or
+maintained contact with 58 (82%). The mothers in the LHD programs
+resided in 27 different local health jurisdictions. Three of these
+jurisdictions managed greater than or equal to 10 mothers, and 18
+each managed one.  Documented compliance with the recommendation to administer
+HBIG and the first dose of hepatitis B vaccine within 24 hours of
+birth was higher in the ECM group (100%) than in the LHD group
+(90%) (Table 1). In addition, the rate of completion of the
+three-dose series by 6-8 months after birth was higher in the ECM
+program (91%) than the LHD programs (48%). No infants were lost to
+follow-up in the ECM program; in comparison, seven (12%) infants in
+the LHD programs were lost to follow-up without documentation that
+the series was completed.  United States  In March 1996, CDC conducted a survey to
+assess the
+effectiveness of the 58 federally funded perinatal hepatitis
+B-prevention programs for infants born to HBsAg-positive women in
+the United States during 1994. Of 8252 infants born to
+HBsAg-positive women, 7362 (89%) received HBIG and the first dose
+of hepatitis B vaccine at birth, and 5042 (61%) completed
+prophylaxis by age 6-8 months.  As part of this survey, program coordinators completed
+a
+questionnaire about key programmatic elements; 48 (76%) of the 58
+programs provided complete information. ECM techniques associated
+with an increased likelihood of vaccination of infants born to
+HBsAg-positive mothers (Table_1) included routine reminders to
+HBsAg-positive women that their status should be reported to the
+delivery hospital, reporting of the maternal HBsAg status on the
+newborn metabolic screening card or birth certificate, routine
+reminders to the prenatal-care providers that the mother's HBsAg
+status should be reported to the delivery hospital, and use of a
+computer-based tracking system for HBsAg-positive pregnant women
+and their infants.  Reported by: AJ Roome, MPH, M Rak, JL Hadler, MD, State
+Epidemiologist, Connecticut Dept of Public Health. Epidemiology and
+Surveillance Div, National Immunization Program; Hepatitis Br, Div
+of Viral and Rickettsial Diseases, National Center for Infectious
+Diseases, CDC.  Editorial Note: Administration of appropriate immunoprophylaxis is
+approximately 90% effective in preventing perinatal HBV
+transmission (6). Because infants who are incompletely vaccinated
+with hepatitis B vaccine are at increased risk for perinatal HBV
+infection and less likely to be protected against infection
+compared with completely vaccinated children, timely provision of
+HBIG and the appropriate doses of vaccine is essential to
+prevention (7).  The findings in this report indicate that, compared with all
+U.S. infants born to HBsAg-positive women, a substantially higher
+proportion of such infants in the ECM program in Connecticut
+received HBIG and were completely vaccinated with hepatitis B
+vaccine by age 6-8 months. One potential explanation for the
+increase in Connecticut was the use of comprehensive
+case-management techniques, including employment of staff
+specifically for the program, use of a computer-based tracking
+system, and use of reminder letters. Similar techniques improved
+case management in the national survey. In addition, reporting of
+maternal HBsAg status on newborn metabolic screening cards or birth
+certificates may help to ensure infants are vaccinated in the
+hospital and entered into tracking and recall systems at the state
+health department.  Perinatal hepatitis B-prevention programs without intensive
+case management have been only moderately successful in ensuring
+that children of HBsAg-positive mothers are identified and complete
+the vaccine series by age 6-8 months. For example, in 1988, an
+evaluation of patients served by a large municipal hospital
+indicated that only 65% of infants at risk for perinatal HBV
+infection had received both HBIG and hepatitis B vaccine within 7
+days after delivery (8). In addition, among 832 infants identified
+by a neonatal hepatitis B surveillance and vaccination program in
+New York City in 1988, only 59% had received HBIG and completed the
+vaccine series by age 18 months (9).  Although this report did not include cost analysis,
+previous
+studies associate substantial cost savings with prevention of
+perinatal HBV transmission (10). For example, the estimated
+lifetime medical costs for one patient with cirrhosis of the liver
+(without transplantation) is $87,000; however, the costs associated
+with the techniques employed by the ECM program were not estimated.
+In addition, the integration of perinatal HBV-prevention programs
+with existing and new perinatal screening programs (e.g., maternal
+screening for human immunodeficiency virus and group B
+streptococcal infections) may improve overall cost effectiveness of
+these programs and facilitate comprehensive case management for
+other diseases that affect newborns.  A national health objective for the year 2000 is to
+reduce by
+approximately 80% the number of perinatal HBV infections in the
+United States (objective 20.3). Based on the national survey
+described in this report, only half of all births to HBsAg-positive
+mothers in the United States are reported to a perinatal hepatitis
+B-prevention program and entered into a tracking system. Based on
+recent studies, widespread use of comprehensive case-management
+techniques similar to those used by newborn metabolic screening
+programs are needed to achieve the year 2000 objective.  References 
+    CDC. Protection against viral hepatitis: recommendations of the
+    Immunization Practices Advisory Committee (ACIP). MMWR
+ 1990;39(no.
+    RR-2). 
+    Committee on Obstetrics: Maternal and Fetal Medicine.
+ Guidelines for
+    hepatitis B virus screening and vaccination during pregnancy.
+    Washington, DC: American College of Obstetrics and Gynecology,
+ 1990. 
+    American Academy of Pediatrics. 1994 Red book: report of the
+ Committee
+    on Infectious Diseases. 23rd ed. Elk Grove Village, Illinois:
+ American
+    Academy of Pediatrics, 1994:224-38. 
+    American Academy of Family Physicians. Recommendations for
+ hepatitis B
+    preexposure vaccination and postexposure prophylaxis. Kansas
+ City,
+    Missouri: American Academy of Family Physicians, August 1992.
+ (Reprint
+    no. 529). 
+    CDC. Hepatitis surveillance report no. 56. Atlanta, Georgia: US
+    Department of Health and Human Services, Public Health Service,
+ CDC,
+    1995. 
+    Stevens CE, Taylor PE, Tong MJ, et al. Yeast-recombinant
+ hepatitis B
+    vaccine: efficacy with hepatitis B immune globulin in
+ prevention of
+    perinatal hepatitis B virus transmission. JAMA 1987;257:2612-6.
+ 
+    Kohn MA, Farley TA, Scott C. The need for more aggressive
+ follow-up of
+    children born to hepatitis B surface antigen positive mothers:
+ lessons
+    learned from the Louisiana Perinatal Hepatitis B Immunization
+ Program.
+    Pediatr Infect Dis J 1996;15:535-40. 
+    Birnbaum JM, Bromberg K. Evaluation of prophylaxis against
+ hepatitis B
+    in a large municipal hospital. Am J Infect Control
+ 1992;20:172-6. 
+    Henning KJ, Pollack DM, Friedman SM. A neonatal hepatitis B
+    surveillance and vaccination program: New York City, 1987 to
+ 1988. Am J
+    Public Health 1992;82:885-8. 
+    Margolis HS, Coleman PJ, Brown RE, et al. Prevention of
+ hepatitis B
+    virus transmission by immunization: an economic analysis of
+ current
+    recommendations. JAMA 1995;274:1201-8. 
+Table_1
+Note:
+ To  print  large  tables  and  graphs  users  may  have  to  change  their  printer  settings  to
+landscape and use a small font size.
+TABLE 1. Number and percentage of infants who were born to HBsAg * -positive women
+and received hepatitis B immune
+globulin (HBIG) and the vaccine series for hepatitis B, by program and characteristics --
+Connecticut, 1994-95, and United
+States, 1994
+====================================================
+====================================================
+============================
+                                                   Infants who received      Infants who received third
+                                  No. infants      HBIG and hepatitis B      dose of hepatitis B vaccine
+                                    born to          vaccine at birth           6-8 months after birth
+                                 HBsAg-positive  ------------------------    ----------------------------
+Program/Characteristic               women        No.     (%)     p value     No.      (%)       p
+value
+---------------------------------------------------------------------------------------------------------
+Connecticut
+ Use enhanced case-management
+  (ECM) techniques
+   Yes (ECM program)                    64         64    (100)     0.01 +      58      (91)      <0.01
+   No (local health department
+    program &)                          58         52    ( 90)                 28      (48)
+United States @
+ Provide reminders to HBsAg-
+  positive women to report their
+  status to delivery hospital
+   Yes                                6717       5978    ( 89)     0.16      4500      (67)      <0.01
+   No                                  949        835    ( 88)                522      (55)
+ Report maternal HBsAg
+  status on newborn metabolic
+  screening card or birth
+  certificate **
+   Yes                                4995       4545    ( 91)    <0.01      3347      (67)
+   No                                 2617       2224    ( 85)               1649      (63)
+ Provide reminders to prenatal-
+  care providers to report
+  mother's HBsAg status
+  to delivery hospital
+   Yes                                6786       6107    ( 90)    <0.01      4547      (67)      <0.01
+   No                                  880        713    ( 81)                493      (56)
+ Have computerized system
+  to track HBsAg-positive
+  pregnant women and their
+  infants
+   Yes                                6778       6168    ( 91)    <0.01      4541      (67)      <0.01
+   No                                  888        693    ( 78)                471      (53)
+---------------------------------------------------------------------------------------------------------
+ * Hepatitis B surface antigen.
+ + Fisher exact two-tailed test.
+ & Documented compliance with the recommendation to administer HBIG and hepatitis
+B vaccine was verified with a chart review.
+ @ Only 48 of the 58 programs in the United States reported complete data. Data from
+these programs were obtained from both active
+   and passive surveillance systems.
+** Excludes data for 54 infants for whom data were unknown.
+====================================================
+====================================================
+============================
+Return to top.
+Disclaimer
+   All MMWR HTML versions of articles are electronic conversions from ASCII text into
+HTML.  This conversion may have resulted in character translation or format errors in
+the HTML version.  Users should not rely on this HTML document, but are referred to the
+electronic  PDF  version  and/or  the  original  MMWR  paper  copy  for  the  official  text,
+figures,  and  tables.   An  original  paper  copy  of  this  issue  can  be  obtained  from  the
+Superintendent of Documents, U.S. Government Printing Office (GPO), Washington, DC
+20402-9371; telephone: (202) 512-1800. Contact GPO for current prices.**Questions or
+messages regarding errors in formatting should be addressed to mmwrq@cdc.gov.Page
+converted: 09/19/98
+ 
+    CDC. Protection against viral hepatitis: recommendations of the
+    Immunization Practices Advisory Committee (ACIP). MMWR
+ 1990;39(no.
+    RR-2).  
+    Committee on Obstetrics: Maternal and Fetal Medicine.
+ Guidelines for
+    hepatitis B virus screening and vaccination during pregnancy.
+    Washington, DC: American College of Obstetrics and Gynecology,
+ 1990.  
+    American Academy of Pediatrics. 1994 Red book: report of the
+ Committee
+    on Infectious Diseases. 23rd ed. Elk Grove Village, Illinois:
+ American
+    Academy of Pediatrics, 1994:224-38.  
+    American Academy of Family Physicians. Recommendations for
+ hepatitis B
+    preexposure vaccination and postexposure prophylaxis. Kansas
+ City,
+    Missouri: American Academy of Family Physicians, August 1992.
+ (Reprint
+    no. 529).  
+    CDC. Hepatitis surveillance report no. 56. Atlanta, Georgia: US
+    Department of Health and Human Services, Public Health Service,
+ CDC,
+    1995.  
+    Stevens CE, Taylor PE, Tong MJ, et al. Yeast-recombinant
+ hepatitis B
+    vaccine: efficacy with hepatitis B immune globulin in
+ prevention of
+    perinatal hepatitis B virus transmission. JAMA 1987;257:2612-6.
+  
+    Kohn MA, Farley TA, Scott C. The need for more aggressive
+ follow-up of
+    children born to hepatitis B surface antigen positive mothers:
+ lessons
+    learned from the Louisiana Perinatal Hepatitis B Immunization
+ Program.
+    Pediatr Infect Dis J 1996;15:535-40.  
+    Birnbaum JM, Bromberg K. Evaluation of prophylaxis against
+ hepatitis B
+    in a large municipal hospital. Am J Infect Control
+ 1992;20:172-6.  
+    Henning KJ, Pollack DM, Friedman SM. A neonatal hepatitis B
+    surveillance and vaccination program: New York City, 1987 to
+ 1988. Am J
+    Public Health 1992;82:885-8.  
+    Margolis HS, Coleman PJ, Brown RE, et al. Prevention of
+ hepatitis B
+    virus transmission by immunization: an economic analysis of
+ current
+    recommendations. JAMA 1995;274:1201-8.  
+Disclaimer
+   All MMWR HTML versions of articles are electronic conversions from ASCII text into
+HTML.  This conversion may have resulted in character translation or format errors in
+the HTML version.  Users should not rely on this HTML document, but are referred to the
+electronic  PDF  version  and/or  the  original  MMWR  paper  copy  for  the  official  text,
+figures,  and  tables.   An  original  paper  copy  of  this  issue  can  be  obtained  from  the
+Superintendent of Documents, U.S. Government Printing Office (GPO), Washington, DC
+20402-9371;  telephone:  (202)  512-1800.  Contact  GPO  for  current  prices.  Page
+converted: 09/19/98 
+    HOME  |  
+    ABOUT MMWR  | 
+    MMWR SEARCH  | 
+    DOWNLOADS  | 
+    RSS 
+    |  
+    CONTACT
+POLICY  |  
+    DISCLAIMER  |  
+    ACCESSIBILITY 
+Morbidity and Mortality Weekly Report
+                Centers for Disease Control and Prevention
+                1600 Clifton Rd, MailStop E-90, Atlanta, GA 
+                  30333, U.S.A 
+Department of Healthand Human Services This page last reviewed 5/2/01 
+ 
+Source URL: https://www.cdc.gov/mmwr/preview/mmwrhtml/00042966.htm

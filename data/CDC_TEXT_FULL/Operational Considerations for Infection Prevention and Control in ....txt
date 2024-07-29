@@ -1,0 +1,93 @@
+Official websites use .gov A .gov website belongs to an official government organization
+in  the  United  States.  Secure  .gov  websites  use  HTTPS  A  lock  (   )  or  https://  means
+you've  safely  connected  to  the  .gov  website.  Share  sensitive  information  only  on
+official,  secure  websites.  The  Centers  for  Disease  Control  and  Prevention  (CDC)  is
+working closely with international partners to respond to the coronavirus disease-2019
+(COVID-19)  pandemic.  CDC  provides  technical  assistance  to  help  other  countries
+increase  their  ability  to  prevent,  detect,  and  respond  to  health  threats,  including
+COVID-19.  This  document  is  provided  by  CDC  and  is  intended  for  use  in  non-U.S.
+healthcare  settings.  As  of  June  30,  2021   This  document  outlines  strategies  to
+implement  infection  prevention  and  control  (IPC)  guidance  in  non-U.S.  outpatient
+facilities  in  areas  of  widespread  community  transmission  of  severe  acute  respiratory
+syndrome  coronavirus  2  (SARS-CoV-2),  the  virus  that  causes  the  coronavirus
+disease-2019  (COVID-19).  Clinics  and  other  facilities  that  provide  outpatient  services
+play an important role in a healthcare system’s response to COVID-19 and are critical to
+provide  continued  essential  health  services.  This  information  complements  available
+IPC  guidance  for  COVID-19  from  the  World  Health  Organization  (WHO).  These
+operational considerations are intended for use by health workers, including managers
+and  IPC  teams  at  outpatient  facilities  in  non-U.S.  healthcare  settings.  Outpatient
+facilities  can  include:  The  purpose  of  IPC  in  outpatient  facilities  during  the  COVID-19
+pandemic is to: IPC activities in outpatient facilities should be planned, carried out, and
+supervised by designated health workers with IPC experience (i.e., IPC team or an IPC
+focal point). In accordance with WHO guidance on core components of IPC programs,
+district  and  national  IPC  management  should  support  facility  IPC  focal  points.  For
+example,  district-  or  national-level  IPC  management  can  help  ensure  availability  of
+supplies to support good IPC practices, support education and training of the healthcare
+workforce,  and  provide  feedback  on  outcomes.  This  role  for  district  or  national  IPC
+programs is especially relevant during the COVID-19 pandemic. In settings with limited
+or  no  IPC  infrastructure,  establishing  minimum  requirements  for  national-  and
+facility-level measures to protect patients and health workers is critical. There are four
+operational  steps  to  consider  when  planning  outpatient  service  continuation  in  the
+context of COVID-19: Patients with suspected COVID-19 will likely present to outpatient
+facilities.  Optimizing  facility  preparedness  to  receive  patients  with  COVID-19
+symptoms can help limit the exposure risk for other patients and health workers. When
+community  transmission  of  SARS-CoV-2  is  suspected,  facility  leadership  and  the  IPC
+focal  point  should  review  IPC  guidance  and  operational  considerations  for  healthcare
+facilities  and  follow  national  IPC  guidance  to  prepare  facilities  to  safely  triage  and
+manage  patients  with  COVID-19  symptoms.  Consider  the  following  measures:
+Infrastructure and healthcare workforce for IPC Despite facility prevention measures to
+reduce the risk of SARS-CoV-2 transmission, patients with possible COVID-19 will still be
+seen. Preparing facilities to receive patients with COVID-19 symptoms can help limit the
+risk of exposure to patients and staff. Facility leadership and the IPC focal point should
+review  WHO’s  guidance,  Infection  prevention  and  control  during  health  care  when
+coronavirus  disease  (‎COVID-19)‎  is  suspected  or  confirmed,  and  follow  national  IPC
+guidance  to  begin  preparing  facilities  to  safely  triage  and  manage  patients  with
+respiratory illness, including COVID-19. Modifying outpatient operations is important to
+reduce crowding and to prevent the mixing of infectious with noninfectious patients at
+facilities, and prevent transmission of SARS-CoV-2. Coordinating with local public health
+authorities  can  expand  strategies  available  to  an  individual  facility  (e.g.,  identifying
+alternate  care  sites  for  essential  health  services).  Additionally,  in  communities  with
+widespread  community  transmission  of  COVID-19,  implementing  source  control  for
+patients,  visitors,  and  health  workers  at  facilities  through  universal  use  of  masks  can
+also  reduce  transmission  of  SARS-CoV-2.  While  nonmedical  masks  are  recommended
+for  the  general  population,  medical  masks  per  WHO  recommendations  should  be
+prioritized for health workers or vulnerable populations, including people aged 60 years
+or  over,  those  with  underlying  conditions,  such  as  cardiovascular  disease,  diabetes,
+chronic
+ lung
+ disease,
+ cancer,
+ cerebrovascular
+ disease,
+ or
+ people
+ with
+immunosuppression. Strategies to reduce risk of SARS-CoV-2 transmission in outpatient
+facilities by modifying service delivery are described below. Modifications to outpatient
+operations  for  essential  health  services   Modifications  to  outpatient  operations  for
+non-essential  health  services  during  COVID-19  Modifications  to  outpatient  operations
+for  patients  who  are  acutely  ill  or  have  symptoms  consistent  with  COVID-19  To
+minimize  the  risk  of  SARS-CoV-2  transmission  at  outpatient  facilities,  the  use  of
+alternate  care  sites  or  non-facility-based  models  of  healthcare  delivery  may  be
+considered  to  separate  patients  in  need  of  essential  health  services  from  patients
+seeking care for acute illness. Alternate care sites include community-based locations,
+such as unoccupied schools or stadiums, that might be temporarily out of use due to
+local  mitigation  measures.  Such  sites  offer  the  benefit  of  space  to  allow  appropriate
+physical distancing of health workers and patients. However, since these sites are not
+primarily intended for the delivery of healthcare, their structure might not be suitable
+for  outpatient  services  that  require  physical  exams  and  are  best  used  to  deliver
+single-purpose care (e.g., drug pick-ups, immunizations, or well-child visits). Similarly,
+non-facility-based care, which includes outreach services to people’s homes or mobile
+services,  help  minimize  crowding  at  healthcare  facilities  while  maintaining  essential
+health  services.  IPC  is  always  needed  wherever  healthcare  is  delivered,  including
+alternate  care  sites  and  non-facility-based  care.  At  a  minimum,  health  workers
+delivering care in these settings require education and training in good IPC practices,
+including  standard  and  transmission-based  precautions.  Patients  and  health  workers
+should maintain physical separation of at least 1 meter from others at all times based
+on  WHO  recommendations,  which  differ  from  CDC  recommendation  of  ≥6  feet  (≥1.8
+meters).  Additional  IPC  considerations  for  specific  situations  are  below:  [1]If  they  are
+not  near  aerosol-generating  procedures,  WHO  recommends  that  health  workers
+providing direct care to COVID-19 patients should wear a medical mask (in addition to
+other PPE that are part of droplet and contact precautions). Health workers involved in
+aerosol-generating procedures require N95s, not medical masks.
+Source URL: https://www.cdc.gov/coronavirus/2019-ncov/hcp/non-us-settings/outpatient.html

@@ -1,0 +1,218 @@
+A .gov website belongs to an official government organization in the United States. A
+lock (  ) or https:// means you've safely connected to the .gov website. Share sensitive
+information only on official, secure websites. CDC's Global AR Lab & Response Network
+supports  partners  in  detecting  and  responding  to  antimicrobial  resistance  across  the
+One Health spectrum.    Every country has varying levels of resources and might face
+different  AR  threats.  For  example,  some  countries  have  limited  capacity  to  diagnose
+and  track  antimicrobial-resistant  germs  in  healthcare  facilities,  which  adds  to  the
+difficulty of implementing effective treatment and prevention programs. The Global AR
+Lab & Response Network improves the detection of existing and emerging AR threats
+and  identifies  risk  factors  that  drive  the  emergence  and  spread  of  resistance  across
+healthcare,  community,  and  environmental  settings.  These  settings  are  impacted  by
+many types of pathogens, including healthcare-associated, sexually transmitted, fungal,
+enteric,  and  invasive  bacterial  and  respiratory.  This  global  network  also  supports
+response  to  AR  threats  and  informs  global  prevention  strategies.  This  work:  Since  its
+launch,  more  than  20  organizations  have  implemented  collaboration  in  nearly  50
+countries as part of the Global AR Lab & Response Network, tackling threats including:
+CDC's  antimicrobial  resistance  investments,  collectively  known  as  the  Antimicrobial
+Resistance Solutions Initiative (AR Solutions Initiative), support the AR Lab Network. The
+AR  Solutions  Initiative  combats  antimicrobial  resistance  by  investing  in  national
+infrastructure  to  detect,  respond,  contain  and  prevent  resistant  infections  across
+healthcare  settings,  communities,  the  food  supply  and  the  environment  (water,  soil).
+The  Antibiotic  Resistance  in  Communities  and  Hospitals  (ARCH)  research  consortium
+aims to better understand the burden, molecular epidemiology, and drivers of resistant
+bacteria  in  humans  in  multiple  low-  and  middle-income  countries  by  tracking
+colonization (carrying and potentially spreading harmful pathogens without infection) in
+communities and healthcare settings. Researchers are using whole genome sequencing
+to  explore  isolate  relatedness,  transmission  (spread)  dynamics,  and  patterns  of
+resistance across the community and hospital environments. The data from the studies
+will improve our understanding of the source of new resistance threats, how prevalent
+or widespread the threat is, and how we can tailor prevention strategies to mitigate the
+impact.  Additional  collaborative  work  is  happening  through  CDC's  Global  Action  in
+Healthcare Network to address emerging threats in healthcare settings through rapid
+detection and response. Bangladesh  icddr,b is the principal investigator for the project
+in  Bangladesh  working  to  carry  out  study  activities  in  Dhaka.  This  work  is  also
+supported  by  the  CDC-Bangladesh  Country  Office.  Chile   UDD  is  the  principal
+investigator for the project in Chile, carrying out study activities in multiple sites across
+the  country.  This  work  is  also  supported  by  the  CDC-South  America  Regional  Office.
+Botswana   The  University  of  Pennsylvania  is  the  principal  investigator  for  the  ARCH
+project  in  Botswana.  They  work  with  the  University  of  Botswana  to  carry  out  project
+activities  in  Gaborone  and  Francistown.  This  work  is  also  supported  by  the
+CDC-Botswana Country Office. Kenya and Guatemala  WSU is the principal investigator
+for projects in Kenya and Guatemala. In Kenya, the team works with the University of
+Nairobi to carry out ARCH activities in informal settlements in Nairobi. This work is also
+supported by the CDC-Kenya Country Office. In Guatemala, the WSU team works with
+Universidad del Valle de Guatemala to carry out activities in Quetzaltenango, a city in
+the  western  highlands.  This  work  is  also  supported  by  the  CDC-Central  America
+Regional  Office.  Strengthening  global  and  national  surveillance  systems  of  Neisseria
+gonorrhoeae through the Enhanced Gonococcal Antimicrobial Surveillance Programme
+(EGASP)   Experts  are  expanding  the  Enhanced  Gonococcal  Antimicrobial  Surveillance
+Programme  (EGASP),  a  CDC  and  WHO  initiative  monitoring  trends  in  antimicrobial
+susceptibility  of  Neisseria  gonorrhoeae.  Gonorrhea  is  a  sexually  transmitted  disease
+that  can  spread  easily  and  has  progressively  developed  resistance  to  the  antibiotics
+used  to  treat  it.  Data  from  EGASP  sites  will  strengthen  understanding  of  how
+drug-resistant  gonorrhea  spreads  in  geographically  diverse  areas  and  inform  national
+and  international  clinical  treatment  guidelines.  Strengthening  a  national  surveillance
+system for antimicrobial-resistant Candida in Brazil  Experts are expanding the Brazilian
+Antimicrobial  Resistance  Surveillance  System  (BR-GLASS)  to  improve  monitoring  of
+antimicrobial-resistant  Candida  speciesin  Brazil.  This  work  enhances  infection
+prevention  and  control  strategies,  improves  patient  outcomes  and  protects  the
+healthcare  workforce.  Building  capacity  for  sentinel  fungal  disease  surveillance  at
+hospitals  in  Bangladesh   Experts  are  building  capacity  for  sentinel  fungal  disease
+surveillance  at  hospitals  in  Bangladesh  through  improved  laboratory  and  clinical
+capacity  to  identify  and  treat  priority  fungal  diseases,  including  antifungal-resistant
+germs.  Experts  are  also  assessing  infection  prevention  and  control  (IPC)  baseline
+capacity and providing trainings tailored to existing resources and capacity, as well as
+trainings on best practices for IPC measures pertaining to Candida auris. Building and
+improving  laboratory  capacity  to  identify  Candida  species  in  Colombia   Experts  are
+strengthening national fungal reference laboratory capacity to identify invasive fungal
+bloodstream  infections  caused  by  Candida  species  in  Colombia.  This  will  enhance
+surveillance
+ for
+ emerging
+ drug-resistant
+ Candida
+ species.
+ Surveillance
+ of
+antimicrobial-resistant  Candida  auris  in  a  Pakistan  healthcare  system   Experts  are
+building local capacity to detect, track, and report antimicrobial-resistant Candida auris
+and  other  antimicrobial-resistant  Candida  species  at  Aga  Khan  University  Hospital  in
+Pakistan with an emphasis on a description of molecular mechanisms of antimicrobial
+resistance. This work will inform the response when threats are detected and put into
+place the mechanisms for molecular detection of outbreaks. Strengthening laboratory
+capacity to detect Candida species in Georgia Experts are helping Georgia's Richard M.
+Lugar Center for Public Health Research expand national and regional capacity to test
+and detect resistance to antifungals at sentinel laboratories and hospitals. This project
+focuses  on  the  detection  of  Candida  infections.  Georgia  NCDC  will  assess  its  current
+ability  to  test  for  antifungal  resistance.  Then  they  will  create  a  national  plan  to  track
+candidemia,  which  is  a  bloodstream  infection  with  Candida.  The  national  plan  will
+integrate  candidemia  surveillance  into  existing  antimicrobial  resistance  surveillance
+systems. Georgia NCDC will also increase laboratory capacity to identify Candida and
+perform  antimicrobial  susceptibility  testing.  To  better  protect  patients  in  healthcare
+settings,  experts  will  create  materials  to  support  infection  prevention  and  control
+practices  of  Candida  auris.  These  activities  will  guide  national  efforts  against
+antimicrobial resistance and reporting through the Global Antimicrobial Resistance and
+Use  Surveillance  System (GLASS),  an  initiative  led  by  the  World  Health  Organization.
+Monitoring and preventing antimicrobial-resistant Candida auris in Pakistan  Experts are
+improving the capacity to detect, monitor, and control emerging antimicrobial-resistant
+Candida  auris  in  Pakistan  healthcare  settings.  This  work  will  enhance  infection
+prevention  and  control  strategies,  improving  patient  outcomes,  and  protecting  the
+healthcare workforce. Monitoring and preventing antimicrobial-resistant Candida auris
+in Kenya (MAP-AMR Kenya)  Experts are improving the capacity to detect, monitor, and
+control  emerging  antimicrobial-resistant  Candida  auris  in  Kenya's  healthcare  settings.
+This  work  will  enhance  infection  prevention  and  control  strategies,  improving  patient
+outcomes  and  protecting  the  healthcare  workforce.  Building  regional  surveillance
+capacity for antifungal-resistant germs in Southern Africa Experts are building regional
+surveillance  capacity  for  antifungal-resistant  germs,  with  priority  on  Candida  species
+and Cryptococcus species. Experts are also building capacity for fungal bioinformatics
+and  whole  genome  sequencing  in  South  Africa,  with  plans  to  incorporate  data  from
+South  Africa  and  regional  country  partner  labs  into  FungiNet  Global.  Improving
+detection of enteric (gut) pathogens including those that are resistant to antimicrobials
+across PulseNet Asia Pacific  There is limited information in the Asia Pacific region on
+the occurrence and severity of enteric disease outbreaks and associated antimicrobial
+susceptibility  patterns.  APHL  works  with  PulseNet  International  across  Australia,
+Bangladesh, China, Hong Kong, India, Japan, Korea, Malaysia, New Zealand, Philippines,
+Taiwan, Thailand, Vietnam to increase enteric disease data and facilitate data sharing
+between countries. Experts are also working on expanding whole genome sequencing
+(WGS). WGS is a laboratory test used to identify an organism's unique DNA. This will
+help scientists and public health professionals in these countries better understand the
+spread of enteric bacterial disease and antimicrobial resistance to stop the spread of
+disease and better protect communities. Improving detection of enteric (gut) pathogens
+including those that are resistant to antimicrobials across PulseNet Middle East There is
+little information available on the occurrence and severity of enteric disease outbreaks
+in  the  Middle  East  and  North  Africa  (MENA)  region.  Specifically,  more  information  is
+needed  about  extensively  drug-resistant  (XDR)  Salmonella  Typhi  and  resistant  Vibrio
+cholera. CRDF Global is working with PulseNet International to increase data collection
+and  sharing  between  countries  in  the  region.  Experts  are  also  working  on  expanding
+whole  genome  sequencing  (WGS).  WGS  is  a  laboratory  test  used  to  identify  an
+organism's unique DNA. This will help scientists and public health professionals in these
+countries  better  understand  the  spread  of  enteric  bacterial  disease  and  antimicrobial
+resistance to stop the spread of disease and better protect communities.   Improving
+water,  sanitation,  and  hygiene  and  environmental  monitoring  in  Kenya  to  address
+drug-resistant  enteric  pathogen  transmission   Water,  sanitation  and  hygiene  (WASH)
+systems are critical to human health, survival, and development, yet poorly functioning
+systems may be spreading antimicrobial-resistant enteric pathogens and their genes. In
+countries challenged in providing adequate sanitation for their entire populations, the
+role  of  the  environment  may  be  significant  in  contributing  to  exposure  to
+antimicrobial-resistant enteric pathogens. In Kenya, APHL, FHI360, and WSU work with
+local  laboratories  to  improve  environmental  monitoring  of  antimicrobial-resistant
+enteric pathogens—for example in water and wastewater systems—and work to assess
+risk  factors  for  exposure  to  those  pathogens  to  understand  and  improve  prevention
+measures.  Improving  prevention  and  response  efforts  for  drug-resistant  typhoid  in
+Pakistan  Experts  are  improving  ongoing  prevention  and  response  efforts  for
+drug-resistant typhoid in Pakistan by assessing risk factors such as current typhoid case
+management  practices  by  healthcare  providers  (i.e.,  prescribing  practices),  typhoid
+conjugate vaccine (TCV) hesitancy and access, as well as water, sanitation, and hygiene
+practices. Experts are also developing and implementing training materials for typhoid
+surveillance  and  outbreak  response  for  the  Pakistan  Field  Epidemiology  Training
+Program.  Extensively  drug-resistant  (XDR)  typhoid  emergence  in  Pakistan  has  limited
+treatment  options  and  vaccination  strategies  using  TCV  can  help  prevent  the  further
+spread of antimicrobial resistant strains and reduce the risk of development of a strain
+resistant to all available oral antibiotics, which could result in high typhoid-associated
+mortality in low- and middle-income countries. Continuing to monitor typhoid cases to
+inform  targeted  efforts,  including  TCV  vaccination,  can  help  to  prevent  the  spread  of
+XDR typhoid within Pakistan and globally. Carbapenem-resistant Enterobacterales (CRE)
+and  Extended  Spectrum  Cephalosporin-resistant  Enterobacterales  (ESCrE)  bacteria
+(germs) can resist many antibiotics. This makes it difficult to treat the infections they
+cause,  leading  to  negative  health  outcomes.  Spending  time  in  healthcare  settings  or
+taking antibiotics both increase the risk of CRE and ESCrE. Washington State University
+is  working  with  Universidad  del  Valle  de  Guatemala  and  CDC  to  learn  how  bacteria
+spread,  especially  within  the  community.  The  project  focuses  on  One  Health,  which
+recognizes the connection between the health of people, animals, and the environment.
+Experts will look at individuals who carry these bacteria on or in their bodies but show
+no symptoms. As part of the project, they will interview people about their interactions
+with animals, farming, and water treatment practices. They'll also test livestock, pets,
+milk,  and  drinking  water  for  CRE  and  ESCrE.  The  results  of  this  project  will  help
+understand  if  the  risk  of  CRE  and  ESCrE  colonization  is  related  to  interactions  with
+animals or sanitation and hygiene practices contribute to the spread of these bacteria.
+This  information  will  help  experts  to  recommend  effective  One  Health  prevention
+strategies.   Developing a framework for wastewater and environmental surveillance in
+low-  and  middle-income  countries  Water  Environment  Foundation,  along  with  their
+implementing  partners,  is  leveraging  existing  work  and  knowledge,  including
+experience gained from hosting U.S. National Wastewater Surveillance System (NWSS)
+Communities  of  Practice  (CoPs),  to  develop  a  strategic  framework  for  the  design  and
+implementation of wastewater and environmental surveillance (WES) CoPs in low- and
+middle-income  countries  (LMICs).  LMICs,  where  non-sewered  sanitation  is  often
+common, face unique challenges for implementing WES and CoPs may be a useful tool
+to facilitate peer-to-peer learning and resource sharing. This work includes collaborating
+to  develop  a  guidance  document  for  global  WES  CoPs  that  will  encompass  who  to
+involve;  appropriate  missions,  visions,  and  goals;  suggested  platforms  for  data  and
+resource  sharing;  pros  and  cons  of  various  CoP  structures  (e.g.,  by  country,  region,
+subject matter, language, state of program development), and critical gaps in research.
+This document will provide strategies and best practices from which funders, Ministries
+of Health, and non-government organizations can draw upon to establish and expand
+WES  in  their  countries.  Partners  will  conduct  a  small-scale  CoP  utilizing  the  strategic
+framework and feedback will be gathered to improve or expand upon this work. WES
+will allow countries to monitor for emerging public health threats such as antimicrobial
+resistance  and  other  disease  targets  in  communities  and  to  respond  to  such  threats.
+Enhancing  global  laboratory  capacity  in  Mexico  and  Brazil  to  detect,  assess,  and
+respond  to  emerging  antimicrobial  resistance  in  Bordetella  pertussis   Experts  are
+strengthening laboratory system data reporting and improving antimicrobial resistance
+detection  and  response  for  Bordetella  pertussis  in  Mexico  and  Brazil.  These  activities
+will  help  identify  emerging  resistance  for  this  pathogen  and  help  respond  when  and
+where  outbreaks  occur.  A  vaccine-preventable  disease,  Bordetella  pertussis  was
+recently  added  to  CDC's  antimicrobial-resistant  Watch  List  as  a  potential  growing
+threat.    Improving  detection  and  response  to  antimicrobial-resistant  Meningococcal
+disease  in  Burkina  Faso  and  Togo   Experts  are  reinforcing  surveillance  systems  for
+antimicrobial-resistant Neisseria meningitidis in Burkina Faso and Togo. The data and
+findings from this project will guide public health decision making and planning for how
+to track and respond to the threat of meningitis outbreaks in partner countries and the
+broader  region.  Improving  capacity  to  detect  and  monitor  emerging  antimicrobial
+resistance  in  bacterial  respiratory  pathogens,  with  a  focus  on  Streptococcus
+pneumoniae, in Indonesia  Experts are building on existing work with CDC to enhance
+capacity of clinical laboratories at select secondary or tertiary hospitals in Indonesia for
+identification  and  characterization  of  antimicrobial-resistant  respiratory  germs,  with  a
+focus  on  Streptococcus  pneumoniae.  This  project  will  also  create  guidelines  and
+opportunities for other regional facilities to replicate the laboratories' successes. Email
+GARLRN@cdc.gov  for  more  information  about  the  Global  Antimicrobial  Resistance
+Laboratory  and  Response  Network.  In  April  2023,  CDC  hosted  their  AMR  Exchange
+webinar, highlighting some initiatives from some of our dedicated partners of the Global
+Antimicrobial  Resistance  Laboratory  and  Response  Network.  These  partners  form  a
+collaborative  network,  helping  CDC  transform  how  the  world  addresses  antimicrobial
+resistance  threats  across  One  Health.  The  panel  included  experts  from  the  Federal
+University  of  São  Paulo,  Association  of  Public  Health  Laboratories,  The  Ohio  State
+University  and  Centers  for  Disease  Control  and  Prevention.  CDC’s  Antimicrobial
+Resistance  Laboratory  Networks  support  domestic  and  global  lab  testing  across  One
+Health. Languages Language Assistance Languages  Language Assistance 
+Source URL: https://www.cdc.gov/antimicrobial-resistance-laboratory-networks/php/about/global.html

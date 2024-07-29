@@ -1,0 +1,283 @@
+Official websites use .gov A .gov website belongs to an official government organization
+in  the  United  States.  Secure  .gov  websites  use  HTTPS  A  lock  (   )  or  https://  means
+you've  safely  connected  to  the  .gov  website.  Share  sensitive  information  only  on
+official, secure websites. Weekly / November 3, 2023 / 72(44);1183–1189 Elise Caruso,
+MPH1; Joan M. Mangan, PhD1; Allison Maiuri, MPH1; Beth Bouwkamp, MPH1,2; Nickolas
+DeLuca,  PhD1  (View  author  affiliations)  What  is  already  known  about  this  topic?  CDC
+recommends testing persons at increased risk for tuberculosis (TB) infection as part of
+routine health care using TB blood tests, when possible, and if a diagnosis of latent TB
+infection  (LTBI)  is  made,  prescribing  a  short-course  treatment  regimen.  In  2022,
+approximately three quarters of reported U.S. TB cases occurred among non–U.S.-born
+persons.  What  is  added  by  this  report?  Among  3,647  health  care  providers,
+approximately one half (53%) reported routinely testing non–U.S.-born patients for TB.
+More  than  one  half  (59%)  reported  prescribing  any  LTBI  treatment;  33%  reported
+prescribing  short-course  regimens.  In  addition,  41%  referred  patients  to  a  health
+department  for  treatment.  What  are  the  implications  for  public  health  practice?
+Identifying  and  overcoming  barriers  to  recommended  testing  and  treatment  is
+important  to  prevent  disease  and  achieve  TB  elimination  goals.  Views  equals  page
+views plus PDF downloads Table 1 Table 2 Table 3 CDC recommends testing persons at
+increased  risk  for  tuberculosis  (TB)  infection  as  part  of  routine  health  care,  using  TB
+blood  tests,  when  possible,  and,  if  a  diagnosis  of  latent  TB  infection  (LTBI)  is  made,
+prescribing  a  rifamycin-based,  3-  or  4-month  treatment  regimen  (short-course)  to
+prevent the development of TB disease. In 2022, approximately three quarters (73%) of
+reported  TB  cases  in  the  United  States  occurred  among  non–U.S.-born  persons.  To
+assess TB-related practices among health care providers (HCPs) in the United States,
+CDC
+ analyzed
+ data
+ from
+ the
+ 2020–2022
+ Porter
+ Novelli
+ DocStyles
+ surveys.
+Approximately  one  half  (53.3%)  of  HCPs  reported  routinely  testing  non–U.S.-born
+patients for TB, and of those who did, 35.7% exclusively ordered recommended blood
+tests, 44.2% exclusively ordered skin tests, and 20.2% ordered TB skin tests and blood
+tests. One third (33.0%) of HCPs reported prescribing recommended short-course LTBI
+treatment regimens, and 4.0% reported doing none of the treatment practices available
+for patients with LTBI (i.e., prescribing short-course regimens, longer course regimens,
+or referring patients to a health department). Further efforts are needed to identify and
+overcome  barriers  for  providers  to  test  for  and  treat  persons  at  risk  for  TB.  Top  CDC
+estimates  that  up  to  13  million  persons  in  the  United  States  have  latent  tuberculosis
+infection (LTBI) (1). Approximately 5%–10% of persons with LTBI in the United States
+who  remain  untreated  will  develop  tuberculosis  (TB)  disease  at  some  point  in  their
+lifetime.  TB  disease  is  infectious  and  can  be  fatal.  In  2022,  approximately  three
+quarters (73%) of reported TB cases in the United States occurred among non–U.S.-born
+persons (2). The most common countries of birth among non–U.S.-born persons with TB
+have been China India, Mexico, Philippines, and Vietnam.* Efforts to eliminate TB in the
+United  States  include  finding  and  treating  persons  with  TB  disease,  expanding  LTBI
+testing and treatment to prevent progression to TB disease, and addressing disparities
+among  groups  disproportionately  experiencing  impacts  of  TB.  Since  1992,  TB  cases
+have  generally  decreased  in  the  United  States;  however,  ongoing  TB  prevention  and
+control  efforts  are  needed  to  continue  this  trend  and  achieve  TB  elimination  in  the
+United  States  (<1  case  per  million  persons  annually)  (2).  Persons  who  were  born  in
+countries  where  TB  disease  is  common  are  at  increased  risk  for  TB  infection  (3).  In
+addition,  many  persons  born  outside  the  United  States  have  received  the  Bacille
+Calmette-Guérin  (BCG)  TB  vaccine.  This  vaccine  is  often  given  to  infants  and  small
+children  in  countries  where  TB  is  common  to  decrease  the  risk  for  childhood  TB
+meningitis and disseminated disease; however, it is not thought to prevent pulmonary
+TB  disease  in  adolescents  and  adults,  and  protection  wanes  over  time  (4).  Having
+previously  received  the  BCG  vaccine  can  cause  a  false-positive  reaction  to  TB  skin
+tests, leading to falsely diagnosing TB infection or conversely, misattributing a positive
+TB  test  result  to  childhood  BCG  vaccination,  even  though  the  patient  does  have  TB
+infection  (5).  TB  blood  tests  are  not  affected  by  previous  BCG  vaccination.  When
+possible, CDC recommends that health care providers (HCPs) test persons at risk for TB
+using  TB  blood  tests  (interferon-gamma  release  assays),  and  if  a  diagnosis  of  LTBI  is
+made, prescribe a short-course LTBI treatment regimen in preference to longer course
+6-  or  9-month  isoniazid  monotherapy  (2,6).  Persons  at  increased  risk  for  TB  infection
+should be tested for TB infection as part of routine health care (6). TB-related questions
+were added to the Porter Novelli DocStyles survey to assess HCP testing and treatment
+practices. Top Porter Novelli conducts online surveys of U.S. HCPs. TB questions were
+included in the 2020, 2021, and 2022 DocStyles annual fall surveys. Each year Porter
+Novelli  sets  quotas  to  collect  completed  surveys  from  1,000  primary  care  physicians
+(i.e.,  family  practitioners  and  internists)  and  250  each  of  obstetricians/gynecologists,
+pediatricians,  and  nurse  practitioners  or  physician  assistants.  Respondents  must
+practice  in  the  United  States;  actively  see  patients;  work  in  an  individual,  group,  or
+inpatient or hospital practice; and have been practicing for ≥3 years. Respondents were
+asked,  “Do  you  routinely  test  non–U.S.-born  patients  for  tuberculosis  (TB)?”  and
+instructed to select one of the following response options: “Yes, with a TB blood test,”
+“Yes,  with  a  TB  skin  test,”  “Yes,  with  a  TB  blood  test  and  skin  test,”  “No,  I  do  not
+regularly  test  for  TB,”  “I  refer  patients  to  the  health  department,”  and  “Prefer  not  to
+answer.”  Respondents  were  also  asked  to  select  all  of  the  following  LTBI  treatment
+regimens  they  prescribe:  “Isoniazid  &  Rifapentine  –  3  months  (3HP),”  “Rifampin  –  4
+months  (4R),”  “Isoniazid  &  Rifampin  –  3  months  (3HR),”  “Isoniazid  –  6  months  (6H),”
+“Isoniazid – 9 months (9H),” “I refer patients to the health department,” and “None of
+these.” Additional information on methods and response rates is available on the Porter
+Novelli  website.†  Data  from  the  three  survey  years  were  combined  by  retaining
+variables that were consistent among the years and, for respondents who participated
+in  more  than  1  year,  respondents’  most  recent  survey  participation  year  of  data.
+DocStyles  respondents  who  responded  “prefer  not  to  answer”  to  either  TB  question
+were excluded (47), and obstetricians/gynecologists were excluded because they were
+not  asked  questions  about  TB  (563).  Data  from  3,647  DocStyles  respondents  for
+2020–2022 were retained and analyzed. Percentages were calculated for demographic
+characteristics and TB-related variables. Pearson’s chi-square and Fisher’s exact tests
+were  performed  to  examine  associations  between  demographic  characteristics  and
+responses  to  TB  questions.  Associations  were  considered  statistically  significant  if
+p-values  were  <0.05.  For  significant  chi-square  associations,  post-hoc  calculations  of
+adjusted standardized residuals were performed. Bonferroni corrections were applied to
+chi-square  p-values  and  adjusted  standardized  residual  critical  values  to  reduce  the
+likelihood of type I error (7). Analyses were conducted using SPSS software (version 27;
+IBM).  This  activity  was  reviewed  by  CDC,  deemed  not  research,  and  was  conducted
+consistent with applicable federal law and CDC policy.§ Top Among 3,647 respondents,
+approximately one half (1,945; 53.3%) reported routinely testing non–U.S.-born patients
+for TB. A total of 1,446 (39.6%) reported not regularly testing non–U.S.-born patients for
+TB,  and  256  (7.0%)  reported  referring  non–U.S.-born  patients  to  a  health  department
+for  TB  testing  (Table  1).  The  groups  with  the  highest  proportion  reporting  that  they
+routinely test non–U.S.-born patients for TB were pediatricians (63.1%), providers aged
+>55  years  (60.3%),  those  in  practice  for  >25  years  (60.4%),  and  those  practicing  in
+group outpatient settings (56.7%). The HCPs with the highest percentage reporting that
+they did not regularly test non–U.S.-born patients for TB (50.2%) were those working in
+inpatient or hospital practices. The HCP groups with the highest percentage reporting
+referring  non–U.S.-born  patients  to  a  health  department  for  TB  testing  were  nurse
+practitioners  (14.1%)  and  those  working  in  rural  settings  (12.8%).  Among  the  1,945
+providers  who  reported  regularly  testing  non–U.S.-born  patients  for  TB,  859  (44.2%)
+reported  using  TB  skin  tests,  694  (35.7%)  reported  using  TB  blood  tests,  and  392
+(20.2%)  reported  using  TB  skin  tests  and  blood  tests  (Table  2).  Among  the  859
+respondents who reported using a TB skin test, this practice was more prevalent among
+those who worked in rural settings (59.6% of respondents practicing in rural settings).
+Among  all  3,647  respondents,  one  third  (1,203;  33.0%)  reported  prescribing
+recommended short-course regimens to treat LTBI, 1,349 (37.0%) reported prescribing
+longer  course  treatments,  and  1,490  (40.9%)  reported  referring  patients  to  a  health
+department for LTBI treatment (Table 3) (responses were not mutually exclusive). More
+than  one  half  (59.1%)  reported  prescribing  any  LTBI  treatment  (either  short-  or
+long-course  regimens).  By  provider  group  characteristic,  those  who  most  commonly
+prescribed  short-course  treatment  regimens  included  internists  (41.1%),  those
+practicing in urban settings (39.4%), and in inpatient or hospital practices (39.7%). The
+highest  percentages  of  providers  who  reported  referring  patients  to  a  health
+department  for  LTBI  treatment  were  nurse  practitioners  (64.3%),  physician  assistants
+(60.7%), and those working in rural settings (56.4%). Among providers across all U.S.
+Census  Bureau  regions,  those  in  the  West  reported  the  lowest  prevalence  of  health
+department  referrals  for  LTBI  treatment  (32.0%),  but  when  offering  treatment,  these
+providers  most  often  reported  prescribing  longer-course  LTBI  treatment  regimens
+(43.6%).  Overall,  9.6%  of  physician  assistants  reported  doing  “none  of  these”  LTBI
+treatment  practices,  the  highest  prevalence  among  all  specialty  groups  (2.2%  family
+practitioner, 3.9% internist, 6.2% nurse practitioner, and  3.2% pediatrician). Top  CDC
+and the U.S. Preventive Services Task Force recommend testing persons at increased
+risk for TB infection as part of routine health care (3). HCPs are encouraged to use TB
+blood tests to test for TB infection; however, blood tests might not be available to all
+HCPs (3). It is not generally recommended to use both a TB skin test and a TB blood
+test to test the same person (3). Although recommended short-course LTBI treatment
+regimens  are  effective,  safe,  and  associated  with  higher  completion  rates  than  are
+longer regimens (8), more HCPs indicated that they prescribe longer regimens or refer
+patients to a health department, with only one third reporting prescribing short-course
+regimens. The reasons for this were not identified in the survey; however, because of
+limited  supplies  of  recommended  drugs  and  intermittent  shortages  (9),  short-course
+regimens  might  not  be  available  at  all  times  for  all  HCPs.  Because  not  all  health
+departments  provide  LTBI  treatment  or  have  the  capacity  to  manage  LTBI  patients,
+future  work  is  needed  to  identify  barriers  and  implement  interventions  to  facilitate
+prescribing  LTBI  treatment  and  managing  LTBI  patients  by  primary  care  providers.
+Overall, U.S. TB case rates have declined during the past 2 decades (2); however, this
+trend  could  stagnate  if  actions  to  prevent  TB  are  not  implemented  by  HCPs  serving
+groups  experiencing  disproportionate  risk  for  TB  and  progressing  from  LTBI  to  TB
+disease. Because of gaps in provider knowledge and practice identified in this analysis
+of  DocStyles  results,  priorities  include  continuing  medical  education  about  TB  testing
+and  LTBI  treatment,  especially  among  physician  assistants  and  nurse  practitioners;
+implementing interventions to improve HCP adherence to recommended practices (e.g.,
+electronic  medical  record  prompts);  and  identifying  provider  groups  that  might  need
+resources  to  overcome  barriers  to  implementing  recommended  TB  testing  and  LTBI
+treatment.  The  findings  in  this  report  are  subject  to  at  least  four  limitations.  First,
+surveys relied on self-reported data, which are subject to recall and social desirability
+biases.  Second,  because  participant  characteristics  might  differ  from  the  overall  U.S.
+HCP population, results are not generalizable. Third, closed-ended survey questions did
+not allow for nuance in response. Finally, HCPs’ reasons for LTBI testing and treatment
+practices  were  not  collected.  Despite  these  limitations,  DocStyles  surveys  provide
+valuable insights and can help guide outreach, education, and training efforts. CDC and
+partners  provide  resources¶  for  providers  on  recommended  practices  for  testing  and
+treating TB and LTBI. To eliminate TB in the United States, further efforts are needed to
+address barriers for providers to test for and treat persons at risk for TB. Top Deanne
+Weber,  Porter  Novelli  Public  Services;  Fred  Fridinger,  Office  of  Communications,  CDC.
+Top  Corresponding  author:  Elise  Caruso,  ecaruso@cdc.gov.  Top  1Division  of
+Tuberculosis  Elimination,  National  Center  for  HIV,  Viral  Hepatitis,  STD,  and  TB
+Prevention,  CDC;  2Oak  Ridge  Institute  for  Science  and  Education,  Oak  Ridge,
+Tennessee. Top All authors have completed and submitted the International Committee
+of  Medical  Journal  Editors  form  for  disclosure  of  potential  conflicts  of  interest.  No
+potential
+ conflicts
+ of
+ interest
+ were
+ disclosed.
+ Top
+ *
+https://www.cdc.gov/tb/statistics/reports/2021/table11.htm
+ †
+https://styles.porternovelli.com/docstyles  §  45  C.F.R.  part  46,  21  C.F.R.  part  56;  42
+U.S.C.  Sect.  241(d);  5  U.S.C.  Sect.  552a;  44  U.S.C.  Sect.  3501  et  seq.  ¶
+https://www.cdc.gov/tb/education/provider_edmaterials.htm
+ Top
+ Top
+ Abbreviation:
+TB = tuberculosis.
+* Respondents were asked to select one response to the question “Do you routinely test
+non–U.S.-born  patients  for  tuberculosis  (TB)?”  Those  who  selected  “Prefer  not  to
+answer” were removed from the DocStyles sample (47). Percentages might not sum to
+100 because of rounding.
+† Responses of “TB skin test,” “TB blood test,” or “TB skin test and blood test” were
+grouped into the category of “Any type of TB test” for analysis.
+§ Associations between provider characteristics and responses to TB testing questions
+were  calculated  using  Pearson’s  chi-square  tests  with  Bonferroni-corrected  p-values
+unless otherwise indicated, in which case Fisher’s exact test was used.
+¶ Value is statistically significant at p<0.05.
+** Adjusted standardized residual ≤−3.6, indicating significantly less than expected cell
+value.
+†† Adjusted standardized residual ≥3.6, indicating significantly greater than expected
+cell value.
+§§ The “Other” option for gender was not available in the 2020 survey.
+¶¶  Because  of  small  cell  sizes,  significance  was  calculated  using  the  Monte  Carlo
+approximation  for  Fisher’s  exact  test  (based  on  10,000  sampled  tables  at  a  99%  CI).
+Adjusted standardized residuals were not calculated.
+*** https://www2.census.gov/geo/pdfs/maps-data/maps/reference/us_regdiv.pdf
+††† Determined by the question, “How would you describe the community where you
+primarily work?” Top Abbreviation: TB = tuberculosis.
+* Respondents were asked to select one response to the question “Do you routinely test
+non–U.S.-born  patients  for  tuberculosis  (TB)?”  Those  who  selected  “Prefer  not  to
+answer” were removed from the DocStyles sample (47). Percentages might not sum to
+100 because of rounding.
+† Associations between provider characteristics and responses to TB testing questions
+were  calculated  using  Pearson’s  chi-square  tests  with  Bonferroni-corrected  p-values
+unless otherwise indicated, in which case Fisher’s exact test was used.
+§ The “Other” option for gender was not available in the 2020 survey.
+¶  Because  of  small  cell  sizes,  significance  was  calculated  using  the  Monte  Carlo
+approximation  for  Fisher’s  exact  test  (based  on  10,000  sampled  tables  at  a  99%  CI).
+Adjusted standardized residuals were not calculated.
+** https://www2.census.gov/geo/pdfs/maps-data/maps/reference/us_regdiv.pdf
+†† Based on responses to the question, “How would you describe the community where
+you primarily work?”
+§§ Adjusted standardized residual ≤−3.6, indicating significantly less than expected cell
+value.
+¶¶ Adjusted standardized residual ≥3.6, indicating significantly greater than expected
+cell value.
+***  Value  is  statistically  significant  at  p<0.05.  Top  Abbreviations:  3HP  =  3  months  of
+once-weekly isoniazid plus rifapentine; 3HR = 3 months of daily isoniazid plus rifampin;
+4R  =  4  months  of  daily  rifampin;  6H  =  6  months  of  daily  or  twice  weekly  isoniazid;
+9H = 9 months of daily or twice weekly isoniazid; LTBI = latent tuberculosis infection.
+* Respondents could select more than one response. Respondents were asked to select
+one  response  to  the  question,  “Do  you  routinely  test  non–U.S.-born  patients  for
+tuberculosis (TB)?” Those who selected “Prefer not to answer” were removed from the
+DocStyles sample (47). Percentages might not sum to 100 because of rounding.
+†  Associations  between  provider  characteristics  and  selection  or  nonselection  of
+response  options  for  LTBI  testing  variable  were  calculated  using  Pearson’s  chi-square
+tests  with  Bonferroni-corrected  p-values  unless  otherwise  indicated,  in  which  case
+Fisher’s exact test was used.
+§ Value is statistically significant at p<0.05.
+¶ Adjusted standardized residual ≤−3.6, indicating significantly less than expected cell
+value.
+** Adjusted standardized residual ≥3.6, indicating significantly greater than expected
+cell value.
+†† The “Other” option for gender was not available in the 2020 survey.
+§§  Because  of  small  cell  sizes,  significance  was  calculated  using  the  Monte  Carlo
+approximation  for  Fisher’s  exact  test  (based  on  10,000  sampled  tables  at  a  99%  CI).
+Adjusted standardized residuals were not calculated.
+¶¶ https://www2.census.gov/geo/pdfs/maps-data/maps/reference/us_regdiv.pdf
+*** Determined by the question, “How would you describe the community where you
+primarily work?” Top Suggested citation for this article: Caruso E, Mangan JM, Maiuri A,
+Bouwkamp  B,  DeLuca  N.  Tuberculosis  Testing  and  Latent  Tuberculosis  Infection
+Treatment Practices Among Health Care Providers — United States, 2020–2022. MMWR
+Morb
+ Mortal
+ Wkly
+ Rep
+ 2023;72:1183–1189.
+ DOI:
+http://dx.doi.org/10.15585/mmwr.mm7244a2. 
+MMWR  and  Morbidity  and  Mortality  Weekly  Report  are  service  marks  of  the  U.S.
+Department of Health and Human Services.
+Use of trade names and commercial sources is for identification only and does not imply
+endorsement by the U.S. Department of 
+Health and Human Services. References to non-CDC sites on the Internet are 
+provided as a service to MMWR readers and do not constitute or imply 
+endorsement of these organizations or their programs by CDC or the U.S. 
+Department of Health and Human Services. CDC is not responsible for the content 
+of pages found at these sites. URL addresses listed in MMWR were current as of 
+the  date  of  publication.  All  HTML  versions  of  MMWR  articles  are  generated  from  final
+proofs through an automated process. 
+This  conversion  might  result  in  character  translation  or  format  errors  in  the  HTML
+version. 
+Users are referred to the electronic PDF version (https://www.cdc.gov/mmwr) 
+and/or the original MMWR paper copy for printable versions of official text, figures, and
+tables. 
+ Questions or messages regarding errors in formatting should be addressed to 
+mmwrq@cdc.gov.
+Source URL: https://www.cdc.gov/mmwr/volumes/72/wr/mm7244a2.htm

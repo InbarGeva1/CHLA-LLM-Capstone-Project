@@ -1,0 +1,399 @@
+Persons using assistive technology might not be able to fully access information in this
+file. For assistance, please send e-mail to: mmwrq@cdc.gov. Type 508 Accommodation
+and  the  title  of  the  report  in  the  subject  line  of  e-mail.  NOTICE   This  issue  of  MMWR
+Recommendations and Reports (Volume 39, No.
+RR-9) is a reprint of two articles published in the December 1,
+1989, edition of the Journal of the American Medical Association.
+The articles are reprinted, with permission, in the MMWR series
+of publications as a service to the readership.  The tables of state and territorial disease
+requirements
+provide summary information and were current as of March 1, 1989.
+Readers should contact state health departments for current and
+complete information on reporting requirements in individual
+states.
+Mandatory Reporting of Infectious Diseases by Clinicians
+Terence L. Chorba, MD, MPH
+Ruth L. Berkelman, MD
+Susan K. Safford, MD
+Norma P. Gibbs
+Harry F. Hull, MD  Reporting of cases of communicable disease is important in the
+planning and evaluation of disease prevention and control
+programs, in the assurance of appropriate medical therapy, and in
+the detection of common-source outbreaks. In the United States,
+the authority to require notification of cases of disease resides
+in the respective state legislatures. We examined the laws and
+regulations of health departments of all US jurisdictions to
+ascertain diseases and conditions currently required to be
+reported in each state or territory. We present herein the state
+reporting requirements for infectious diseases and infectious
+disease-related conditions. To obtain additional information
+regarding time frames for reporting, agencies to which reports
+are required, persons required to report, and specific conditions
+under which reports are required, the reader is referred to the
+statutes and health department regulations of the respective
+states.  Reporting of cases of infectious diseases and related
+conditions has been and remains a vital step in controlling and
+preventing the spread of communicable disease. These reports are
+useful in many ways, including assurance of provision of
+appropriate medical therapy (eg, for tuberculosis), detection of
+common-source outbreaks (eg, in food-borne outbreaks), and
+planning and evaluating prevention and control programs (eg, for
+vaccine-preventable diseases). The epidemic of the acquired
+immunodeficiency syndrome, the recent increase in tuberculosis in
+young adults, the reemergence of malaria as a health threat to
+travelers, and the potential spread of dengue fever to the
+continental United States have all contributed to the renewed
+interest in the surveillance of infectious diseases.
+ The control and prevention of infectious disease has
+traditionally been a primary health mandate. Systematic reporting
+of various diseases in the United States began in 1874 when the
+State Board of Health of Massachusetts inaugurated a plan for the
+weekly voluntary reporting of prevalent diseases by physicians
+(1). A sample postcard was designed to "reduce to the minimum the
+expenditure of time and trouble incident to the service asked of
+busy medical men (2)." In 1883, Michigan became the first US
+jurisdiction to mandate the reporting of specific infectious
+diseases. By 1901, all states required notification of selected
+communicable diseases to local health authorities. However, the
+poliomyelitis epidemic in 1916 and the influenza pandemic of 1918
+heightened interest in reporting requirements, resulting in the
+participation of all states in national morbidity reporting by
+1925. Today, all states and territories of the United States
+participate in a national morbidity reporting system and
+regularly report aggregate or case-specific data for 49
+infectious diseases and related conditions to the Centers for
+Disease Control (CDC) in Atlanta, Ga (3).  In the United States, the authority to require
+notification of
+cases of disease resides in the respective state legislatures. In
+some states, authority is enumerated in statutory provisions; in
+other states, authority to require reporting has been given to
+state boards of health; still other states require reports both
+under statutes and under health department regulations. Variation
+among states also exists among conditions and diseases to be
+reported, time frames for reporting, agencies receiving reports,
+persons required to report, and conditions under which reports
+are required. In many states, local health departments provide
+epidemiologic services; as a consequence, health care providers
+in many states are encouraged to report diseases directly to
+local health departments rather than to the state health
+department.  Compilations of disease-reporting requirements in the United
+States were last published by the US Public Health Service in
+1933 (4) and 1944 (5). To ascertain diseases and conditions
+currently required to be reported in each state, we examined the
+laws and regulations of health departments of all the states, the
+District of Columbia, the Commonwealth of Puerto Rico, Guam,
+American Samoa, the Commonwealth of the Northern Mariana Islands,
+and the US Virgin Islands (hereafter referred to as states). This
+information was provided by the Council of State and Territorial
+Epidemiologists (CSTE) through the respective state
+epidemiologists. Among reportable diseases identified at the
+outset of this project were more than 160 infectious diseases or
+infectious disease-related conditions, 90 diseases caused by
+occupational exposures, 23 other environmental diseases, 29
+congenital or noninfectious childhood conditions, and 6 diseases
+of unknown etiology. In addition, the laws relating to morbidity
+in some states specify that cases of certain classes of disease
+shall be notifiable, eg, "diseases which are known or suspected
+to be related to environmental exposure to toxic-hazardous
+material" (Alaska) or "the occurrence of any increase in
+incidence of disease of unknown or unusual etiology" (Hawaii).  The Table summarizes
+the infectious diseases and infectious
+disease-related conditions reportable (or in process of being
+made reportable) in at least 10 states for physicians and other
+health care providers as of March 1, 1989. Diseases are presented
+in the nomenclature used by the majority of states or, where
+appropriate, in the nomenclature recommended by the American
+Public Health Association (6). Where appropriate, eponymic terms
+have been changed to internationally accepted format.
+Consequently, there is variation between the terms used in this
+Table and those used in some state statutes or regulations.
+Diseases reportable in fewer than 10 states are not included
+unless nomenclature used in some states could be interpreted to
+denote diseases or conditions for which different nomenclature
+was used in other states (see Table footnotes). A semicolon (;)
+is provided to demarcate separate reporting requirements for
+conditions described by the same nomenclature. For example,
+Ohio's reporting requirements for streptococcal disease, site
+unspecified, are presented as "NZ;n," denoting a reporting
+requirement for streptococcal B infections in newborns and a
+reporting requirement for total numbers of streptococcal
+infections.  Many states also have infectious disease-reporting requirements
+for laboratories, but these are not presented herein. In
+addition, the National Childhood Vaccine Injury Act of 1986
+requires that health care providers who administer certain
+vaccines and toxoids are required by law to record permanently
+certain information and to report to the US Department of Health
+and Human Services selected adverse events occurring after
+vaccination. Events occurring after receipt of publicly purchased
+vaccines are reported through local, county, and/or state health
+departments to the CDC on its Report of Adverse Events Following
+Immunization (CDC form 71.19). Events occurring after receipt of
+a privately purchased vaccine usually are reported directly to
+the Food and Drug Administration (FDA) on its Adverse Reaction
+Report (FDA form 1639) by the health care provider or the
+manufacturer; this form, which may be duplicated, can be obtained
+directly from the FDA and is also printed in the FDA Drug
+Bulletin,  the  physician's  edition  of  the  Physician's  Desk   Reference,  USP  Drug
+Information for Health Care Providers, and 
+AMA Drug Evaluations. Readers are referred elsewhere (7) for
+details of this surveillance system and requirements for
+recording and reporting. The accompanying article details state reporting requirements
+for occupational diseases (8). To obtain additional information
+regarding time frames for reporting, agencies to which reports
+are required, persons required to report, specific conditions
+under which reports are required, and reporting requirements for
+laboratories, the reader is referred to the statutes and health
+department regulations of the respective states.
+ In most developed countries, systems for reporting notifiable
+diseases have evolved as the basis of infectious disease
+surveillance (9-11). In the United States, the federal Quarantine
+Act of 1878 authorized the US Public Health Service to collect
+morbidity data for use in quarantine measures against cholera,
+smallpox, and yellow fever. The Quarantine Act of 1893 authorized
+the US Public Health Service to collect morbidity information
+each week from state and local public health authorities
+throughout the United States. Since 1961, the CDC has had the
+responsibility of operating the National Notifiable Diseases
+Surveillance System, for the purpose of tabulating and
+disseminating summary morbidity data. The CSTE determines the
+list of diseases in collaboration with the CDC, revising it
+annually as needed; the list includes those infectious diseases
+for which data can provide a basis for state and local agencies
+to plan more effective programs for disease prevention and
+control.  The Table presented herein underscores substantial differences
+among states as to the specific list of diseases for which
+reporting is required. Similar differences exist for the lists of
+reportable diseases in other countries as well, including the
+various Canadian provinces and territories (12). These different
+reporting requirements merit examination in light of the public
+health significance of the diseases, other states' reporting
+requirements, and the potential for use of alternate data sources
+(13). In addition, the lack of uniformity among states regarding
+the case definitions for many diseases has made comparisons
+between states difficult. For example, some states have required
+any person with a culture positive for Salmonella to be reported,
+whereas other states have required reporting of culture-positive
+individuals only if they were symptomatic (14). To facilitate
+comparison of surveillance data among states, standardized case
+definitions for the nationally notifiable diseases have been
+developed by the CDC and the CSTE and were approved by the CSTE
+in May 1989 (15). It is hoped that these definitions will also
+facilitate interstate reciprocal notification of disease; in
+agreement with the CSTE, the CDC provides forms to state health
+departments for reciprocal notification for (1) cases of all
+diseases having onset in one state but hospitalized or
+transferring to another state; (2) cases of reportable diseases
+having onset within the state but presumably infected in another
+state; and (3) cases regarding which epidemiologic information or
+other public health action may be needed, eg, contact tracing
+(3).  Most infectious disease surveillance systems rely primarily on
+receipt of case reports from physicians and other health care
+providers. These data are usually incomplete and may not be
+representative for certain populations; completeness of reporting
+has been estimated to vary from 6% to 90% for many of the common
+notifiable diseases (16). However, if the level of completeness
+is consistent over time, these data usually are the best source
+of information regarding the temporal and geographic trends and
+the characteristics of the persons affected. Clinician-based
+surveillance has also been useful in identifying common-source
+outbreaks of diseases, eg, hepatitis A (17), hepatitis B (18,19),
+and  hepatitis  non-A,  non-B  (20).   To  encourage  partnership  with  those  physicians  or
+other health
+professionals who report, most state health departments use
+newsletters to provide feedback of data to the health care
+professionals who contribute to the database. The CDC reports
+surveillance data weekly in the Morbidity and Mortality Weekly
+Report and annually in its Summary of Notifiable Diseases. Media
+coverage, driven by community and medical interest in newly
+emerging diseases or conditions, may also improve reporting. For
+example, a significant increase in reporting of toxic shock
+syndrome  was  observed  after  media  publicity  first  appeared  (21).   Surveillance
+activities are often strengthened when the disease
+is given a high priority, such as when primary prevention of most
+or all cases is feasible (eg, measles), or when the disease is
+severe and newly emerging (eg, the acquired immunodeficiency
+syndrome, toxic shock syndrome). These activities frequently
+include working closely with hospitals to identify cases,
+reviewing hospital discharge records, and working closely with
+clinicians who are likely to diagnose and treat patients.
+Examples of such increased surveillance activities include those
+to estimate rates of occurrence and to describe the epidemiology
+of toxic shock syndrome (22) and hepatitis non-A, non-B (23), to
+determine the adequacy of treatment of gonorrhea in a community
+(24), and to monitor the occurrence of Reye's syndrome following
+public warning to avoid use of salicylates in young febrile
+children (25). Some surveillance systems are unique, being
+designed to fit the specific needs of the disease or condition;
+for example, nationwide surveillance for Guillain-Barre syndrome
+following the initiation of the National Influenza Immunization
+Program in October 1976 was accomplished through a network of
+neurologists (26).  Generally, there has been growing interest in surveillance
+systems for infectious diseases that need not be based (or rely
+completely) on mandatory reporting by clinicians; many states
+have developed reporting requirements for laboratories and/or
+hospitals, especially for those diseases requiring specific
+laboratory results for confirmation. Others have used
+provider-based surveillance systems (9,27), periodic reviews of
+hospital discharge summaries for selected infectious diseases
+(28), laboratory-based surveillance systems (14,29,30), and other
+non-provider-based systems (31,32). However, none of these
+systems have proved completely successful either. Provider
+networks may provide more detailed information, but the
+provider's patients may not be representative of the general
+population. Also, although existing databases such as
+computerized hospital discharge summaries are useful to evaluate
+the National Notifiable Diseases Surveillance System, a lack of
+timeliness often precludes the computerized hospital database
+from being the primary source of such data. In addition, there
+remain diseases (eg, Lyme disease) for which there is no
+sensitive and specific laboratory test and that, although
+serious, may be treated on an outpatient basis and thus could not
+be  identified  by  many  of  these  alternate  data  sets.   The  tools  for  surveillance  are
+improving. Computer-based
+telecommunication has improved the efficiency of disease
+reporting, and databases may be better managed and analyzed. The
+National Electronic Telecommunications System for Surveillance,
+formerly the Epidemiologic Surveillance Project, is a
+computer-based telecommunications system initiated in 1984 for
+reporting disease surveillance data to the CDC (33). All states
+now use this system for the weekly reporting of cases of 44 of
+the 49 nationally notifiable diseases. The computerized system
+allows more case detail and analytic capability than previously,
+when only summary reports were available by telephone; disease
+distribution can be mapped by county, onset dates of disease can
+be examined more precisely, and comparative information on the
+distribution of age, race, and sex is available. There is also an
+increasing sophistication of statistical methods for evaluating
+surveillance data (eg, to estimate completeness of reporting) and
+for  analysis  (eg,  to  detect  spatial  and  temporal  trends)  (34).   The  usefulness  of
+surveillance data and the programs to which
+the data are applied vary with the disease, but generally such
+data are used to monitor short- and long-term trends, to alert
+health professionals to important changes in trends, and to
+estimate the magnitude of morbidity and mortality. Surveillance
+facilitates epidemiologic and laboratory research, both by
+providing cases for more detailed investigation or a case-control
+study and by directing which research avenues are most important.
+More specifically, all individuals reported with selected
+diseases (eg, tuberculosis, syphilis) are routinely followed up
+by health departments either directly or through their physician
+or other health care provider to ensure initiation of appropriate
+therapy for the individual. Health departments also provide
+diagnostic tests and prophylactic therapy, as needed, for
+contacts of persons with infectious conditions such as hepatitis
+and tuberculosis. Counseling and partner notification activities
+may be provided to persons such as those infected with human
+immunodeficiency virus. Reports of unusual clusters of disease
+are often followed by an epidemic investigation to identify and
+remove any common-source exposure or to reduce other associated
+risks of transmission. For example, of 307 domestic epidemic
+assistance requests received by the CDC in fiscal years 1985
+through 1988, a total of 134 (44%) were for problems related to
+specific diseases reportable in the requesting jurisdictions
+(CDC, unpublished data, 1989); this does not take into account
+the majority of epidemics that are handled at a state or county
+level.  Surveillance data also provide the basis for determining public
+health priorities and for planning and implementing prevention
+and control programs. Policymakers use these data to determine
+overall priorities for resources for public health programs, and,
+in certain instances, these data may be the basis for geographic
+distribution of funds for treatment (eg, federal reimbursement to
+states for zidovidine (azidothymidine, or AZT) therapy in
+individuals with severe human immunodeficiency virus disease). In
+addition to directing resources, these data are the basis for
+evaluating the success or failure of prevention and control
+programs (eg, initiatives to reduce the incidence of
+vaccine-preventable diseases). The CDC also provides surveillance
+data to the World Health Organization in accordance with
+international reporting standards designed to limit the spread of
+quarantinable  and  vaccine-preventable  diseases  (35).   Thus,  through  participation  in
+disease-reporting systems,
+physicians and other health care providers are integral to
+ensuring that public health resources are used most effectively.
+However, during training of clinicians, little attention has been
+given to the legal requirements or the importance of reporting. A
+study of New York City physicians demonstrated that many do not
+know the requirements or methods for reporting in their state;
+reasons given by physicians for nonreporting included not knowing
+which diseases are required to be reported, not knowing how a
+disease should be reported, concerns regarding confidentiality,
+and perceptions that the list of reportable diseases is too
+extensive (36). A more recent study in Vermont concluded that
+physicians often failed to report because they assumed that the
+laboratory would have reported the case (37). Certainly, for many
+diseases, the laboratory is a vital component, but the physician
+and other primary health care providers are still integral to
+disease-reporting  systems.   Although  surveillance  systems  do  not  need  complete
+reporting to
+be useful, underreporting may adversely affect public health
+efforts by distorting trends observed in the incidence of disease
+(38,39), distorting attributable risk estimates for disease
+acquisitions (22,38), preventing accurate assessment of potential
+benefits or impact of control programs (40), preventing timely
+identification of disease outbreaks (39,41), distorting observed
+periods at risk and geographic distribution of cases (39), and
+undermining the success of prevention and control programs for
+tuberculosis, sexually transmitted diseases, and other
+communicable diseases, such as immunization programs (10,24,42).  The participation
+of the clinician is critical in determining
+the value of a reporting system as a basis for directing
+prevention and control activities and as an indicator of their
+success or failure. Thus, the role of the physicians and others
+providing health care has changed little since it was underscored
+in a US Public Health Service document 74 years ago:
+Unfortunately many participating physicians have little knowledge
+of the methods of health administration and . . . frequently
+expect the health department in some mysterious manner to control
+disease without placing upon them (the physicians) the burden and
+privilege of cooperating by the notification of the occurrence of
+cases. The practicing physician...is essentially an adjunct of
+the health department, for unless he performs his part the health
+department is in large measure helpless (1).  We wish to express our appreciation for
+the assistance of
+Deborah Collier, Elliott Churchill, MA, Anthony Burton, Lyle
+Conrad, MD, and Steven Teutsch, MD, of the Epidemiology Program
+Office; Jeffrey Sacks, MD, and Stephen Thacker, MD, of the Center
+for Environmental Health and Injury Control; Miriam Alter, PhD,
+of the Center for Infectious Diseases; and the many state and
+territorial epidemiologists and other health department staff who
+enabled us to assemble this report. A list of the state and
+territorial epidemiologists and their office addresses and
+commercial  telephone  numbers  as  of  November  1,  1989,  follows:   From  the
+Epidemiology Program Office, Centers for Disease
+Control, Atlanta, GA (Drs Chorba, Berkelman, and Safford and Ms
+Gibbs); and the New Mexico Health and Environment Department,
+Santa Fe (Dr Hull).
+Reprint requests to the Centers for Disease Control, 1600 Clifton
+Rd  NE,  Mailstop  F36,  Atlanta,  GA  30333  (Dr  Chorba).  Disclaimer    All  MMWR  HTML
+documents  published  before  January  1993  are  electronic  conversions  from  ASCII  text
+into HTML.  This conversion may have resulted in character translation or format errors
+in the HTML version.  Users should not rely on this HTML document, but are referred to
+the  original  MMWR  paper  copy  for  the  official  text,  figures,  and  tables.   An  original
+paper copy of this issue can be obtained from the Superintendent of Documents, U.S.
+Government  Printing  Office  (GPO),  Washington,  DC  20402-9371;  telephone:  (202)
+512-1800. Contact GPO for current prices.**Questions or messages regarding errors in
+formatting  should  be  addressed  to  mmwrq@cdc.gov.   Disclaimer    All  MMWR  HTML
+documents  published  before  January  1993  are  electronic  conversions  from  ASCII  text
+into HTML.  This conversion may have resulted in character translation or format errors
+in the HTML version.  Users should not rely on this HTML document, but are referred to
+the  original  MMWR  paper  copy  for  the  official  text,  figures,  and  tables.   An  original
+paper copy of this issue can be obtained from the Superintendent of Documents, U.S.
+Government  Printing  Office  (GPO),  Washington,  DC  20402-9371;  telephone:  (202)
+512-1800. Contact GPO for current prices. Page converted: 08/05/98 
+    HOME  |  
+    ABOUT MMWR  | 
+    MMWR SEARCH  | 
+    DOWNLOADS  | 
+    RSS 
+    |  
+    CONTACT
+POLICY  |  
+    DISCLAIMER  |  
+    ACCESSIBILITY 
+Morbidity and Mortality Weekly Report
+                Centers for Disease Control and Prevention
+                1600 Clifton Rd, MailStop E-90, Atlanta, GA 
+                  30333, U.S.A 
+Department of Healthand Human Services This page last reviewed 5/2/01 
+ 
+Source URL: https://www.cdc.gov/mmwr/preview/mmwrhtml/00001665.htm

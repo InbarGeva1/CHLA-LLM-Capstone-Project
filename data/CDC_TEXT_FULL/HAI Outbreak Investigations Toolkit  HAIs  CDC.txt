@@ -1,0 +1,28 @@
+A .gov website belongs to an official government organization in the United States. A
+lock (  ) or https:// means you've safely connected to the .gov website. Share sensitive
+information only on official, secure websites. 
+Related Topics:
+ The purpose of this toolkit is to provide the resources to systematically collect data as
+part of an HAI outbreak investigation.     The following are tools for conducting an HAI
+Outbreak  Investigation,  an  Abstraction  Form  and  a  User's  Guide  with  instructions  for
+completing  the  Abstraction  Form.  The  Abstraction  Form  was  designed  for  common
+healthcare-associated infections and can be modified depending on the nature of the
+outbreak  investigation.  Tailoring  the  Abstraction  Form  may  require  additional
+consultation  with  subject  matter  experts  in  the  field  or  a  review  of  the  scientific
+literature  describing  similar  outbreaks  in  the  past.  HAI  Outbreak  Investigation  User's
+Guide for Completing the Abstraction Form HAI Outbreak Investigation Abstraction Form
+HAI  Prevention,  Control  and  Outbreak  Response  for  Public  Health  and  Healthcare
+Introduction to the Patient Notification Toolkit Preventing MDROs Laboratory Resources
+for  HAIs  Council  for  Outbreak  Response:  Healthcare  Associated  Infections  and
+Antimicrobial-Resistant  Pathogens  Investigation  and  Control  of  Vancomycin-Resistant
+Staphylococcus  aureus  (VRSA):  2015  Update  Viral  Hepatitis:  Guide  for  Investigating
+Outbreaks in Health Care Settings Strategies for Coordinating with Policymakers About
+Outbreak  Investigations  in  Healthcare  Settings  HAI  Prevention  and  Control  for
+Healthcare  Outbreaks  and  infection  control  breaches  in  health  care  settings:
+Considerations for patient notification - ScienceDirect Guidelines and Guidance Library
+Tools and resources HAIs are associated with medical devices, complications following
+surgery, transmission between patients and healthcare workers, antibiotic overuse, and
+more. Languages Language Assistance Languages  Language Assistance 
+Source
+ URL:
+https://www.cdc.gov/healthcare-associated-infections/php/toolkit/outbreak-investigations-toolkit.html

@@ -1,0 +1,83 @@
+A .gov website belongs to an official government organization in the United States. A
+lock (  ) or https:// means you've safely connected to the .gov website. Share sensitive
+information  only  on  official,  secure  websites.  Introduction  from  the  Guidelines  for
+Environmental  Infection  Control  in  Health-Care  Facilities  (2003).  The  health-care
+environment  contains  a  diverse  population  of  microorganisms,  but  only  a  few  are
+significant  pathogens  for  susceptible  humans.  Microorganisms  are  present  in  great
+numbers  in  moist,  organic  environments,  but  some  also  can  persist  under  dry
+conditions. Although pathogenic microorganisms can be detected in air and water and
+on  fomites,  assessing  their  role  in  causing  infection  and  disease  is  difficult.11  Only  a
+few reports clearly delineate a "cause and effect" with respect to the environment and
+in particular, housekeeping surfaces. Eight criteria are used to evaluate the strength of
+evidence  for  an  environmental  source  or  means  of  transmission  of  infectious  agents
+(Box  2).11,  12Applying  these  criteria  to  disease  investigations  allows  scientists  to
+assess the contribution of the environment to disease transmission. An example of this
+application  is  the  identification  of  a  pathogen  (e.g.,  vancomycin-resistant  enterococci
+[VRE]) on an environmental surface during an outbreak. The presence of the pathogen
+does not establish its causal role; its transmission from source to host could be through
+indirect  means  (e.g.,  via  hand  transferal).11  The  surface,  therefore,  would  be
+considered one of a number of potential reservoirs for the pathogen, but not the "de
+facto"  source  of  exposure.  An  understanding  of  how  infection  occurs  after  exposure,
+based on the principles of the "chain of infection," is also important in evaluating the
+contribution  of  the  environment  to  health-care  associated  disease.13  All  of  the
+components  of  the  "chain"  must  be  operational  for  infection  to  occur  (Box  3).  The
+presence  of  the  susceptible  host  is  one  of  these  components  that  underscores  the
+importance of the health-care environment and opportunistic pathogens on fomites and
+in  air  and  water.  As  a  result  of  advances  in  medical  technology  and  therapies  (e.g.,
+cytotoxic  chemotherapy  and  transplantation  medicine),  more  patients  are  becoming
+immunocompromised in the course of treatment and are therefore at increased risk for
+acquiring health-care associated opportunistic infections. Trends in health-care delivery
+(e.g.,  early  discharge  of  patients  from  acute  care  facilities)  also  are  changing  the
+distribution of patient populations and increasing the number of immunocompromised
+persons  in  nonacute-care  hospitals.  According  to  the  American  Hospital  Association
+(AHA),  in  1998,  the  number  of  hospitals  in  the  United  States  totaled  6,021;  these
+hospitals had a total of 1,013,000 beds,14representing a 5.5% decrease in the number
+of  acute-care  facilities  and  a  10.2%  decrease  in  the  number  of  beds  over  the  5-year
+period 1994–1998.14 In addition, the total average daily number of patients receiving
+care in U.S. acute-care hospitals in 1998 was 662,000 (65.4%) – 36.5% less than the
+1978  average  of  1,042,000.14  As  the  number  of  acute-care  hospitals  declines,  the
+length  of  stay  in  these  facilities  is  concurrently  decreasing,  particularly  for
+immunocompetent patients. Those patients remaining in acute-care facilities are likely
+to  be  those  requiring  extensive  medical  interventions  who  therefore  at  high  risk  for
+opportunistic  infection.  The  growing  population  of  severely  immunocompromised
+patients  is  at  odds  with  demands  on  the  health-care  industry  to  remain  viable  in  the
+marketplace;  to  incorporate  modern  equipment,  new  diagnostic  procedures,  and  new
+treatments; and to construct new facilities. Increasing numbers of health-care facilities
+are  likely  to  be  faced  with  construction  in  the  near  future  as  hospitals  consolidate  to
+reduce costs, defer care to ambulatory centers and satellite clinics, and try to create
+more  "home-like"  acute-care  settings.  In  1998,  approximately  75%  of  health-care
+associated construction projects focused on renovation of existing outpatient facilities
+or the building of such facilities;15 the number of projects associated with outpatient
+health  care  rose  by  17%  from  1998  through  1999.16  An  aging  population  is  also
+creating  increasing  demand  for  assisted-living  facilities  and  skilled  nursing  centers.
+Construction of assisted-living facilities in 1998 increased 49% from the previous year,
+with 138 projects completed at a cost of $703 million.16 Overall, from 1998 to 1999,
+health-care  associated  construction  costs  increased  by  28.5%,  from  $11.56  billion  to
+$14.86  billion.16  Environmental  disturbances  associated  with  construction  activities
+near  health-care  facilities  pose  airborne  and  waterborne  disease  threats  risks  for  the
+substantial number of patients who are at risk for health-care associated opportunistic
+infections.  The  increasing  age  of  hospitals  and  other  health-care  facilities  is  also
+generating ongoing need for repair and remediation work (e.g., installing wiring for new
+information  systems,  removing  old  sinks,  and  repairing  elevator  shafts)  that  can
+introduce or increase contamination of the air and water in patient-care environments.
+Aging  equipment,  deferred  maintenance,  and  natural  disasters  provide  additional
+mechanisms for the entry of environmental pathogens into high-risk patient-care areas.
+Architects,  engineers,  construction  contractors,  environmental  health  scientists,  and
+industrial  hygienists  historically  have  directed  the  design  and  function  of  hospitals'
+physical  plants.  Increasingly,  however,  because  of  the  growth  in  the  number  of
+susceptible  patients  and  the  increase  in  construction  projects,  the  involvement  of
+hospital  epidemiologists  and  infection-control  professionals  is  required.  These  experts
+help  make  plans  for  building,  maintaining,  and  renovating  health-care  facilities  to
+ensure  that  the  adverse  impact  of  the  environment  on  the  incidence  of  health-care
+associated infections is minimal. The following are examples of adverse outcomes that
+could  have  been  prevented  had  such  experts  been  involved  in  the  planning  process:
+The  purpose  of  this  guideline  is  to  provide  useful  information  for  both  health-care
+professionals  and  engineers  in  efforts  to  provide  a  safe  environment  in  which  quality
+health  care  may  be  provided  to  patients.  The  recommendations  herein  provide
+guidance to minimize the risk for and prevent transmission of pathogens in the indoor
+environment.  *  These  criteria  are  listed  in  order  of  strength  of  evidence.  +  Adapted
+from references 11 and 12. * Adapted from reference 13. CDC provides information on
+infection  control  and  clinical  safety  to  help  reduce  the  risk  of  infections  among
+healthcare workers, patients, and visitors. Languages Language Assistance Languages 
+Language Assistance 
+Source URL: https://www.cdc.gov/infection-control/hcp/environmental-control/introduction.html

@@ -1,0 +1,58 @@
+A .gov website belongs to an official government organization in the United States. A
+lock (  ) or https:// means you've safely connected to the .gov website. Share sensitive
+information  only  on  official,  secure  websites.  Abstract  from  the  Guidelines  for
+Environmental  Infection  Control  in  Health-Care  Facilities  (2003).  Although  the
+environment  serves  as  a  reservoir  for  a  variety  of  microorganisms,  it  is  rarely
+implicated  in  disease  transmission  except  in  the  immunocompromised  population.
+Inadvertent exposures to environmental opportunistic pathogens (e.g., Aspergillus spp.
+and  Legionella  spp.)  or  airborne  pathogens  (e.g.,  Mycobacterium  tuberculosis  and
+varicella-zoster  virus)  may  result  in  infections  with  significant  morbidity  and/or
+mortality. Lack of adherence to established standards and guidance (e.g., water quality
+in dialysis, proper ventilation for specialized care areas such as operating rooms, and
+proper  use  of  disinfectants)  can  result  in  adverse  patient  outcomes  in  health-care
+facilities. The objective is to develop an environmental infection-control guideline that
+reviews  and  reaffirms  strategies  for  the  prevention  of  environmentally-mediated
+infections, particularly among health-care workers and immunocompromised patients.
+The recommendations are evidence-based whenever possible. The contributors to this
+guideline  reviewed  predominantly  English-language  articles  identified  from  MEDLINE
+literature  searches,  bibliographies  from  published  articles,  and  infection-control
+textbooks.  Articles  dealing  with  outbreaks  of  infection  due  to  environmental
+opportunistic microorganisms and epidemiological- or laboratory experimental studies
+were  reviewed.  Current  editions  of  guidelines  and  standards  from  organizations  (i.e.,
+American  Institute  of  Architects  [AIA],  Association  for  the  Advancement  of  Medical
+Instrumentation  [AAMI],  and  American  Society  of  Heating,  Refrigeration,  and
+Air-Conditioning Engineers [ASHRAE]) were consulted. Relevant regulations from federal
+agencies  (i.e.,  U.S.  Food  and  Drug  Administration  [FDA];  U.S.  Department  of  Labor,
+Occupational  Safety  and  Health  Administration  [OSHA];  U.S.  Environmental  Protection
+Agency [EPA]; and U.S. Department of Justice) were reviewed. Some topics did not have
+well-designed,  prospective  studies  nor  reports  of  outbreak  investigations.  Expert
+opinions  and  experience  were  consulted  in  these  instances.  Reports  of  outbreak
+investigations,  epidemiological  assessment  of  outbreak  investigations  with  control
+strategies,  and  in  vitro  environmental  studies  were  assessed.  Many  of  the
+recommendations are derived from empiric engineering concepts and reflect industry
+standards.  A  few  of  the  infection-control  measures  proposed  cannot  be  rigorously
+studied  for  ethical  or  logistical  reasons.  Infections  caused  by  the  microorganisms
+described in this guideline are rare events, and the effect of these recommendations on
+infection  rates  in  a  facility  may  not  be  readily  measurable.  Therefore,  the  following
+steps  to  measure  performance  are  suggested  to  evaluate  these  recommendations:
+Infection-control  strategies  and  engineering  controls,  when  consistently  implemented,
+are  effective  in  preventing  opportunistic,  environmentally-related  infections  in
+immunocompromised  populations.  Adherence  to  proper  use  of  disinfectants,  proper
+maintenance  of  medical  equipment  that  uses  water  (e.g.,  automated  endoscope
+reprocessors  and  hydrotherapy  equipment),  water-quality  standards  for  hemodialysis,
+and  proper  ventilation  standards  for  specialized  care  environments  (i.e.,  airborne
+infection isolation [AII], protective environment [PE], and operating rooms [ORs]), and
+prompt  management  of  water  intrusion  into  facility  structural  elements  will  minimize
+health-care  associated  infection  risks  and  reduce  the  frequency  of  pseudo-outbreaks.
+Routine  environmental  sampling  is  not  advised  except  in  the  few  situations  where
+sampling is directed by epidemiologic principles and results can be applied directly to
+infection  control  decisions,  and  for  water  quality  determinations  in  hemodialysis.
+Continued  compliance  with  existing  environmental  infection  control  measures  will
+decrease  the  risk  of  health-care  associated  infections  among  patients,  especially  the
+immunocompromised, and health-care workers. CDC provides information on infection
+control  and  clinical  safety  to  help  reduce  the  risk  of  infections  among  healthcare
+workers, patients, and visitors. Languages Language Assistance Languages  Language
+Assistance 
+Source
+ URL:
+https://www.cdc.gov/infection-control/hcp/environmental-infection-control-guidelines/abstract.html

@@ -1,0 +1,189 @@
+Persons using assistive technology might not be able to fully access information in this
+file. For assistance, please send e-mail to: mmwrq@cdc.gov. Type 508 Accommodation
+and  the  title  of  the  report  in  the  subject  line  of  e-mail.       Deaths  from  infectious
+diseases have declined markedly in the United States during the 20th century (Figure
+1). This decline contributed to a sharp drop in infant and child mortality (1,2) and to the
+29.2-year increase in life expectancy (2). In 1900, 30.4% of all deaths occurred among
+children aged less than 5 years; in 1997, that percentage was only 1.4%. In 1900, the
+three  leading  causes  of  death  were  pneumonia,  tuberculosis  (TB),  and  diarrhea  and
+enteritis, which (together with diphtheria) caused one third of all deaths (Figure 2). Of
+these  deaths,  40%  were  among  children  aged  less  than  5  years  (1).  In  1997,  heart
+disease  and  cancers  accounted  for  54.7%  of  all  deaths,  with  4.5%  attributable  to
+pneumonia, influenza, and human immunodeficiency virus (HIV) infection (2). Despite
+this overall progress, one of the most devastating epidemics in human history occurred
+during  the  20th  century:  the  1918  influenza  pandemic  that  resulted  in  20  million
+deaths, including 500,000 in the United States, in less than 1 year--more than have died
+in  as  short  a  time  during  any  war  or  famine  in  the  world  (3).  HIV  infection,  first
+recognized in 1981, has caused a pandemic that is still in progress, affecting 33 million
+people and causing an estimated 13.9 million deaths (4). These episodes illustrate the
+volatility  of  infectious  disease  death  rates  and  the  unpredictability  of  disease
+emergence.      Public health action to control infectious diseases in the 20th century is
+based on the 19th century discovery of microorganisms as the cause of many serious
+diseases  (e.g.,  cholera  and  TB).  Disease  control  resulted  from  improvements  in
+sanitation  and  hygiene,  the  discovery  of  antibiotics,  and  the  implementation  of
+universal childhood vaccination programs. Scientific and technologic advances played a
+major  role  in  each  of  these  areas  and  are  the  foundation  for  today's  disease
+surveillance  and  control  systems.  Scientific  findings  also  have  contributed  to  a  new
+understanding of the evolving relation between humans and microbes (5). CONTROL OF
+INFECTIOUS DISEASES Sanitation and Hygiene      The 19th century shift in population
+from  country  to  city  that  accompanied  industrialization  and  immigration  led  to
+overcrowding  in  poor  housing  served  by  inadequate  or  nonexistent  public  water
+supplies and waste-disposal systems. These conditions resulted in repeated outbreaks
+of  cholera,  dysentery,  TB,  typhoid  fever,  influenza,  yellow  fever,  and  malaria.       By
+1900, however, the incidence of many of these diseases had begun to decline because
+of  public  health  improvements,  implementation  of  which  continued  into  the  20th
+century. Local, state, and federal efforts to improve sanitation and hygiene reinforced
+the concept of collective "public health" action (e.g., to prevent infection by providing
+clean drinking water). By 1900, 40 of the 45 states had established health departments.
+The  first  county  health  departments  were  established  in  1908  (6).  From  the  1930s
+through  the  1950s,  state  and  local  health  departments  made  substantial  progress  in
+disease prevention activities, including sewage disposal, water treatment, food safety,
+organized  solid  waste  disposal,  and  public  education  about  hygienic  practices  (e.g.,
+foodhandling  and  handwashing).  Chlorination  and  other  treatments  of  drinking  water
+began  in  the  early  1900s  and  became  widespread  public  health  practices,  further
+decreasing the incidence of waterborne diseases. The incidence of TB also declined as
+improvements in housing reduced crowding and TB-control programs were initiated. In
+1900, 194 of every 100,000 U.S. residents died from TB; most were residents of urban
+areas.  In  1940  (before  the  introduction  of  antibiotic  therapy),  TB  remained  a  leading
+cause of death, but the crude death rate had decreased to 46 per 100,000 persons (7). 
+    Animal and pest control also contributed to disease reduction. Nationally sponsored,
+state-coordinated  vaccination  and  animal-control  programs  eliminated  dog-to-dog
+transmission  of  rabies.  Malaria,  once  endemic  throughout  the  southeastern  United
+States,  was  reduced  to  negligible  levels  by  the  late  1940s;  regional  mosquito-control
+programs  played  an  important  role  in  these  efforts.  Plague  also  diminished;  the  U.S.
+Marine Hospital Service (which later became the Public Health Service) led quarantine
+and ship inspection activities and rodent and vector-control operations. The last major
+rat-associated  outbreak  of  plague  in  the  United  States  occurred  during  1924-1925  in
+Los  Angeles.  This  outbreak  included  the  last  identified  instance  of  human-to-human
+transmission  of  plague  (through  inhalation  of  infectious  respiratory  droplets  from
+coughing  patients)  in  this  country.  Vaccination       Strategic  vaccination  campaigns
+have virtually eliminated diseases that previously were common in the United States,
+including  diphtheria,  tetanus,  poliomyelitis,  smallpox,  measles,  mumps,  rubella,  and
+Haemophilus  influenzae  type  b  meningitis  (8).  With  the  licensure  of  the  combined
+diphtheria  and  tetanus  toxoids  and  pertussis  vaccine  in  1949,  state  and  local  health
+departments instituted vaccination programs, aimed primarily at poor children. In 1955,
+the introduction of the Salk poliovirus vaccine led to federal funding of state and local
+childhood vaccination programs. In 1962, a federally coordinated vaccination program
+was  established  through  the  passage  of  the  Vaccination  Assistance  Act--landmark
+legislation  that  has  been  renewed  continuously  and  now  supports  the  purchase  and
+administration  of  a  full  range  of  childhood  vaccines.       The  success  of  vaccination
+programs in the United States and Europe inspired the 20th-century concept of "disease
+eradication"--the  idea  that  a  selected  disease  could  be  eradicated  from  all  human
+populations  through  global  cooperation.  In  1977,  after  a  decade-long  campaign
+involving 33 nations, smallpox was eradicated worldwide--approximately a decade after
+it had been eliminated from the United States and the rest of the Western Hemisphere.
+Polio and dracunculiasis may be eradicated by 2000. Antibiotics and Other Antimicrobial
+Medicines       Penicillin  was  developed  into  a  widely  available  medical  product  that
+provided quick and complete treatment of previously incurable bacterial illnesses, with
+a wider range of targets and fewer side effects than sulfa drugs. Discovered fortuitously
+in  1928,  penicillin  was  not  developed  for  medical  use  until  the  1940s,  when  it  was
+produced  in  substantial  quantities  and  used  by  the  U.S.  military  to  treat  sick  and
+wounded soldiers.      Antibiotics have been in civilian use for 57 years (see box 1) and
+have  saved  the  lives  of  persons  with  streptococcal  and  staphylococcal  infections,
+gonorrhea, syphilis, and other infections. Drugs also have been developed to treat viral
+diseases  (e.g.,  herpes  and  HIV  infection);  fungal  diseases  (e.g.,  candidiasis  and
+histoplasmosis);  and  parasitic  diseases  (e.g.,  malaria).  The  microbiologist  Selman
+Waksman  led  much  of  the  early  research  in  discovering  antibiotics  (see  box  2).
+However, the emergence of drug resistance in many organisms is reversing some of the
+therapeutic  miracles  of  the  last  50  years  and  underscores  the  importance  of  disease
+prevention.  TECHNOLOGIC  ADVANCES  IN  DETECTING  AND  MONITORING  INFECTIOUS
+DISEASES      Technologic changes that increased capacity for detecting, diagnosing,
+and  monitoring  infectious  diseases  included  development  early  in  the  century  of
+serologic  testing  and  more  recently  the  development  of  molecular  assays  based  on
+nucleic  acid  and  antibody  probes.  The  use  of  computers  and  electronic  forms  of
+communication  enhanced  the  ability  to  gather,  analyze,  and  disseminate  disease
+surveillance data. Serologic Testing      Serologic testing came into use in the 1910s and
+has become a basic tool to diagnose and control many infectious diseases. Syphilis and
+gonorrhea,  for  example,  were  widespread  early  in  the  century  and  were  difficult  to
+diagnose,  especially  during  the  latent  stages.  The  advent  of  serologic  testing  for
+syphilis helped provide a more accurate description of this public health problem and
+facilitated  diagnosis  of  infection.  For  example,  in  New  York  City,  serologic  testing  in
+1901 indicated that 5%-19% of all men had syphilitic infections (9). Viral Isolation and
+Tissue Culture      The first virus isolation techniques came into use at the turn of the
+century. They involved straining infected material through successively smaller sieves
+and  inoculating  test  animals  or  plants  to  show  the  purified  substance  retained
+disease-causing  activity.  The  first  "filtered"  viruses  were  tobacco  mosaic  virus  (1882)
+and  foot-and-mouth  disease  virus  of  cattle  (1898).  The  U.S.  Army  Command  under
+Walter  Reed  filtered  yellow  fever  virus  in  1900.  The  subsequent  development  of  cell
+culture in the 1930s paved the way for large-scale production of live or heat-killed viral
+vaccines.  Negative  staining  techniques  for  visualizing  viruses  under  the  electron
+microscope were available by the early 1960s. Molecular Techniques      During the last
+quarter  of  the  20th  century,  molecular  biology  has  provided  powerful  new  tools  to
+detect and characterize infectious pathogens. The use of nucleic acid hybridization and
+sequencing  techniques  has  made  it  possible  to  characterize  the  causative  agents  of
+previously  unknown  diseases  (e.g.,  hepatitis  C,  human  ehrlichiosis,  hantavirus
+pulmonary  syndrome,  acquired  immunodeficiency  syndrome  [AIDS],  and  Nipah  virus
+disease).      Molecular tools have enhanced capacity to track the transmission of new
+threats  and  find  new  ways  to  prevent  and  treat  them.  Had  AIDS  emerged  100  years
+ago,  when  laboratory-based  diagnostic  methods  were  in  their  infancy,  the  disease
+might have remained a mysterious syndrome for many decades. Moreover, the drugs
+used to treat HIV-infected persons and prevent perinatal transmission (e.g., replication
+analogs and protease inhibitors) were developed based on a modern understanding of
+retroviral replication at the molecular level. CHALLENGES FOR THE 21ST CENTURY     
+Success  in  reducing  morbidity  and  mortality  from  infectious  diseases  during  the  first
+three  quarters  of  the  20th  century  led  to  complacency  about  the  need  for  continued
+research  into  treatment  and  control  of  infectious  microbes  (10).  However,  the
+appearance of AIDS, the re-emergence of TB (including multidrug-resistant strains), and
+an  overall  increase  in  infectious  disease  mortality  during  the  1980s  and  early  1990s
+(Figure  1)  provide  additional  evidence  that  as  long  as  microbes  can  evolve,  new
+diseases  will  appear.  The  emergence  of  new  diseases  underscores  the  importance  of
+disease  prevention  through  continual  monitoring  of  underlying  factors  that  may
+encourage  the  emergence  or  re-emergence  of  diseases.       Molecular  genetics  has
+provided a new appreciation of the remarkable ability of microbes to evolve, adapt, and
+develop  drug  resistance  in  an  unpredictable  and  dynamic  fashion  (see  box  3).
+Resistance  genes  are  transmitted  from  one  bacterium  to  another  on  plasmids,  and
+viruses  evolve  through  replication  errors  and  reassortment  of  gene  segments  and  by
+jumping  species  barriers.  Recent  examples  of  microbial  evolution  include  the
+emergence  of  a  virulent  strain  of  avian  influenza  in  Hong  Kong  (1997-98);  the
+multidrug-resistant W strain of M. tuberculosis in the United States in 1991 (11); and
+Staphylococcus aureus with reduced susceptibility to vancomycin in Japan in 1996 (12)
+and the United States in 1997 (13,14).      For continued success in controlling infectious
+diseases,  the  U.S.  public  health  system  must  prepare  to  address  diverse  challenges,
+including the emergence of new infectious diseases, the re-emergence of old diseases
+(sometimes  in  drug-resistant  forms),  large  foodborne  outbreaks,  and  acts  of
+bioterrorism. Ongoing research on the possible role of infectious agents in causing or
+intensifying certain chronic diseases (including diabetes mellitus type 1, some cancers
+[15-17],  and  heart  conditions  [18,19  ])  also  is  imperative.  Continued  protection  of
+health  requires  improved  capacity  for  disease  surveillance  and  outbreak  response  at
+the local, state, federal, and global levels; the development and dissemination of new
+laboratory
+ and
+ epidemiologic
+ methods;
+ continued
+ antimicrobial
+ and
+ vaccine
+development;  and  ongoing  research  into  environmental  factors  that  facilitate  disease
+emergence  (20).  Reported  by:  National  Center  for  Environmental  Health;  National
+Center for Health Statistics; National Center for Infectious Diseases, CDC. 
+Disclaimer
+  
+All MMWR HTML versions of articles are electronic conversions from ASCII text
+into HTML.  This conversion may have resulted in character translation or format errors
+in the HTML version.
+Users  should  not  rely  on  this  HTML  document,  but  are  referred  to  the  electronic  PDF
+version and/or
+the original MMWR paper copy for the official text, figures, and tables.
+An  original  paper  copy  of  this  issue  can  be  obtained  from  the  Superintendent  of
+Documents,
+U.S. Government Printing Office (GPO), Washington, DC 20402-9371; telephone: (202)
+512-1800.
+Contact GPO for current prices. Page converted: 7/29/99 
+    HOME  |  
+    ABOUT MMWR  | 
+    MMWR SEARCH  | 
+    DOWNLOADS  | 
+    RSS 
+    |  
+    CONTACT
+POLICY  |  
+    DISCLAIMER  |  
+    ACCESSIBILITY 
+Morbidity and Mortality Weekly Report
+                Centers for Disease Control and Prevention
+                1600 Clifton Rd, MailStop E-90, Atlanta, GA 
+                  30333, U.S.A 
+Department of Healthand Human Services This page last reviewed 5/2/01 
+ 
+Source URL: https://www.cdc.gov/mmwr/preview/mmwrhtml/mm4829a1.htm

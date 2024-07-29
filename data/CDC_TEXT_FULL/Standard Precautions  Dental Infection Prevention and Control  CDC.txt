@@ -1,0 +1,134 @@
+A .gov website belongs to an official government organization in the United States. A
+lock (  ) or https:// means you've safely connected to the .gov website. Share sensitive
+information only on official, secure websites. Standard Precautions are designed to both
+protect  dental  health  care  personnel  (DHCP)  and  prevent  DHCP  from  spreading
+infections among patients. Standard Precautions are the minimum infection prevention
+practices that apply to all patient care, regardless of suspected or confirmed infection
+status  of  the  patient,  in  any  setting  where  health  care  is  delivered.  Standard
+Precautions include: Each element of Standard Precautions is described in the following
+sections. Education and training are critical elements of Standard Precautions, because
+they help DHCP make appropriate decisions and comply with recommended practices.
+When Standard Precautions alone cannot prevent transmission, they are supplemented
+with  Transmission-Based  Precautions.  This  second  tier  of  infection  prevention  is  used
+when  patients  have  diseases  that  can  spread  through  contact,  droplet  or  airborne
+routes  (e.g.,  skin  contact,  sneezing,  coughing),  and  are  always  used  in  addition  to
+Standard Precautions. Dental settings are not typically designed to carry out all of the
+Transmission-Based Precautions (e.g., Airborne Precautions for patients with suspected
+tuberculosis,  measles,  or  chickenpox)  that  are  recommended  for  hospital  and  other
+ambulatory  care  settings.  Patients,  however,  do  not  usually  seek  routine  dental
+outpatient  care  when  acutely  ill  with  diseases  requiring  Transmission-Based
+Precautions.   Nonetheless,  DHCP  should  develop  and  carry  out  systems  for  early
+detection and management of potentially infectious patients at initial points of entry to
+the dental setting. To the extent possible, this includes rescheduling non-urgent dental
+care  until  the  patient  is  no  longer  infectious  or  referral  to  a  dental  setting  with
+appropriate infection prevention precautions when urgent dental treatment is needed.
+Hand hygiene is the most important measure to prevent the spread of infections among
+patients  and  DHCP.  Education  and  training  programs  should  thoroughly  address
+indications  and  techniques  for  hand  hygiene  practices  before  performing  routine  and
+oral surgical procedures. For routine dental examinations and nonsurgical procedures,
+use  water  and  plain  soap  (hand  washing),  or  antimicrobial  soap  (hand  antisepsis)
+specific  for  health  care  settings,  or  use  an  alcohol-based  hand  rub.  Although
+alcohol-based  hand  rubs  are  effective  for  hand  hygiene  in  health  care  settings,  soap
+and water should be used when hands are visibly soiled (e.g., dirt, blood, body fluids).
+For  surgical  procedures,  A  perform  a  surgical  hand  scrub  before  putting  on  sterile
+surgeon's  gloves.  For  all  types  of  hand  hygiene  products,  follow  the  product
+manufacturer's  label  for  instructions.  Complete  guidance  on  how  and  when  hand
+hygiene  should  be  performed,  including  recommendations  regarding  surgical  hand
+antisepsis  and  artificial  nails,  can  be  found  in  the  Guideline  for  Hand  Hygiene  in
+Health-Care  Settings.  Personal  protective  equipment  (PPE)  refers  to  wearable
+equipment that is designed to protect DHCP from exposure to or contact with infectious
+agents. PPE that is appropriate for various types of patient interactions and effectively
+covers  personal  clothing  and  skin  likely  to  be  soiled  with  blood,  saliva,  or  other
+potentially infectious materials (OPIM) should be available. These include gloves, face
+masks,  protective  eye  wear,  face  shields,  and  protective  clothing  (e.g.,  reusable  or
+disposable  gown,  jacket,  laboratory  coat).  Examples  of  appropriate  use  of  PPE  for
+adherence to Standard Precautions include: DHCP should be trained to select and put
+on  appropriate  PPE  and  remove  PPE  so  that  the  chance  for  skin  or  clothing
+contamination  is  reduced.  Hand  hygiene  is  always  the  final  step  after  removing  and
+disposing of PPE. Training should also stress preventing further spread of contamination
+while  wearing  PPE  by:  The  application  of  Standard  Precautions  and  guidance  on
+appropriate selection and an example of putting on and removal of personal protective
+equipment  is  described  in  detail  in  the  2007  Guideline  for  Isolation  Precautions.
+Respiratory  hygiene/cough  etiquette  infection  prevention  measures  are  designed  to
+limit  the  transmission  of  respiratory  pathogens  spread  by  droplet  or  airborne  routes.
+The strategies target primarily patients and individuals accompanying patients to the
+dental  setting  who  might  have  undiagnosed  transmissible  respiratory  infections,  but
+also apply to anyone (including DHCP) with signs of illness including cough, congestion,
+runny nose, or increased production of respiratory secretions. DHCP should be educated
+on preventing the spread of respiratory pathogens when in contact with symptomatic
+persons.  Respiratory  hygiene/cough  etiquette  measures  were  added  to  Standard
+Precautions  in  2007.  Additional  information  related  to  respiratory  hygiene/cough
+etiquette
+ can
+ be
+ found
+ in
+ the
+ 2007
+ Guideline
+ for
+ Isolation
+ Precautions.
+Recommendations  for  preventing  the  spread  of  influenza  are  available  at:  Infection
+Control in Health Care Facilities | CDC. Most percutaneous injuries (e.g., needlestick, cut
+with a sharp object) among DHCP involve burs, needles, and other sharp instruments.
+Implementation  of  the  OSHA  Bloodborne  Pathogens  Standard  has  helped  to  protect
+DHCP  from  blood  exposure  and  sharps  injuries.  However,  sharps  injuries  continue  to
+occur  and  pose  the  risk  of  bloodborne  pathogen  transmission  to  DHCP  and  patients.
+Most  exposures  in  dentistry  are  preventable;  therefore,  each  dental  practice  should
+have  policies  and  procedures  available  addressing  sharps  safety.  DHCP  should  be
+aware of the risk of injury whenever sharps are exposed. When using or working around
+sharp devices, DHCP should take precautions while using sharps, during cleanup, and
+during  disposal.  Engineering  and  work-practice  controls  are  the  primary  methods  to
+reduce  exposures  to  blood  and  OPIM  from  sharp  instruments  and  needles.  Whenever
+possible,  engineering  controls  should  be  used  as  the  primary  method  to  reduce
+exposures to bloodborne pathogens. Engineering controls remove or isolate a hazard in
+the  workplace  and  are  frequently  technology  based  (e.g.,  self-sheathing  anesthetic
+needles, safety scalpels, and needleless IV ports). Employers should involve those DHCP
+who  are  directly  responsible  for  patient  care  (e.g.,  dentists,  hygienists,  dental
+assistants)  in  identifying,  evaluating,  and  selecting  devices  with  engineered  safety
+features at least annually and as they become available. Other examples of engineering
+controls  include  sharps  containers  and  needle  recapping  devices.  When  engineering
+controls  are  not  available  or  appropriate,  work-practice  controls  should  be  used.
+Work-practice controls are behavior-based and are intended to reduce the risk of blood
+exposure by changing the way DHCP perform tasks, such as using a one-handed scoop
+technique for recapping needles between uses and before disposal. Other work-practice
+controls include not bending or breaking needles before disposal, not passing a syringe
+with  an  unsheathed  needle  by  hand,  removing  burs  before  disassembling  the
+handpiece  from  the  dental  unit,  and  using  instruments  in  place  of  fingers  for  tissue
+retraction  or  palpation  during  suturing  and  administration  of  anesthesia.  All  used
+disposable  syringes  and  needles,  scalpel  blades,  and  other  sharp  items  should  be
+placed  in  appropriate  puncture-resistant  containers  located  close  to  the  area  where
+they  are  used.  Sharps  containers  should  be  disposed  of  according  to  state  and  local
+regulated  medical  waste  rules.  For  more  information  about  sharps  safety,  see  the
+Guidelines  for  Infection  Control  in  Dental  Health-Care  Settings—2003,  the  CDC
+Workbook  for  Designing,  Implementing,  and  Evaluating  a  Sharps  Injury  Prevention
+Program,  and  the  CDC  Sample  Screening  and  Device  Evaluation  Forms  for  Dentistry.
+Safe  injection  practices  are  intended  to  prevent  transmission  of  infectious  diseases
+between one patient and another, or between a patient and DHCP during preparation
+and  administration  of  parenteral  (e.g.,  intravenous  or  intramuscular  injection)
+medications.  Safe  injection  practices  are  a  set  of  measures  DHCP  should  follow  to
+perform  injections  in  the  safest  possible  manner  for  the  protection  of  patients.  DHCP
+most  frequently  handle  parenteral  medications  when  administering  local  anesthesia,
+during  which  needles  and  cartridges  containing  local  anesthetics  are  used  for  one
+patient  only  and  the  dental  cartridge  syringe  is  cleaned  and  heat  sterilized  between
+patients.  Other  safe  practices  described  here  primarily  apply  to  use  of  parenteral
+medications  combined  with  fluid  infusion  systems,  such  as  for  patients  undergoing
+conscious sedation. Unsafe practices that have led to patient harm include (1) use of a
+single syringe—with or without the same needle—to administer medication to multiple
+patients,  (2)  reinsertion  of  a  used  syringe—with  or  without  the  same  needle—into  a
+medication vial or solution container (e.g., saline bag) to obtain additional medication
+for  a  single  patient  and  then  using  that  vial  or  solution  container  for  subsequent
+patients,  and  (3)  preparation  of  medications  in  close  proximity  to  contaminated
+supplies  or  equipment.  Safe  injection  practices  were  covered  in  the  Special
+Considerations section (Aseptic Technique for Parenteral Medications) of the 2003 CDC
+dental guidelines. However, because of reports of transmission of infectious diseases by
+inappropriate  handling  of  injectable  medications,  CDC  now  considers  safe  injection
+practices to be a formal element of Standard Precautions. Complete guidance on safe
+injection  practices  can  be  found  in  the  2007  Guideline  for  Isolation  Precautions.
+Additional materials, including a list of frequently asked questions from providers and a
+patient notification toolkit, are also available. CDC protects patients and providers by
+developing  recommendations  that  guide  infection  prevention  and  control  practices
+wherever  dental  care  is  delivered.  Languages  Language  Assistance  Languages  
+Language Assistance 
+Source URL: https://www.cdc.gov/dental-infection-control/hcp/summary/standard-precautions.html

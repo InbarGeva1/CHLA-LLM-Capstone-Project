@@ -1,0 +1,52 @@
+A .gov website belongs to an official government organization in the United States. A
+lock (  ) or https:// means you've safely connected to the .gov website. Share sensitive
+information only on official, secure websites. Research methods for the Infection Control
+in  Healthcare  Personnel  (2023),  from  the  Infection  Control  in  Healthcare  Personnel:
+Infrastructure and Routine Practices for Occupational Infection Prevention and Control
+Services  guideline (2019). This document is an update of four sections of Part I of the
+Guideline for infection control in health care personnel, 1998, and their corresponding
+recommendations  in  Part  II:  The  sections  were  updated  by  experts  in  occupational
+health,  infectious  diseases,  and  infection  prevention  and  control  (IPC).  Updates  were
+informed by a systematic review of recent articles published in peer-reviewed journals
+and  databases  of  systematic  reviews,  guidelines,  and  regulations.  All  updates  were
+vetted  at  public  meetings  of  the  Healthcare  Infection  Control  Practices  Advisory
+Committee (HICPAC) (See Appendix 1. Contributors).  The questions developed to guide
+the  literature  search  were:  The  infrastructure  and  delivery  of  healthcare  to  patients,
+and  hence  the  provision  of  occupational  IPC  services  to  healthcare  personnel  (HCP),
+have changed since the publication of the Guideline for infection control in health care
+personnel,  1998.  CDC  conducted  a  targeted  literature  search  for  recent  articles
+consistent with current approaches in occupational IPC service delivery to HCP. Search
+strategies  were  formulated  using  a  combination  of  Medical  Subject  Headings  (MeSH)
+terms and key words to identify literature that focused on at least one of the eight OHS
+IPC elements. Four searches were performed in MEDLINE, EMBASE, and CINAHL, or the
+Cochrane Database of Systematic reviews. Searches sought: In addition to the results of
+the systematic review, CDC (KI, DK) searched relevant websites and systematic review
+repositories of government agencies and nongovernmental organizations (Table A3.5)
+for  additional  guidelines,  regulations,  program  evaluations,  quality  improvement
+initiatives,  and  systematic  reviews.  CDC  (MD,  KI,  DK,  AO,  KR,  DT)  conducted  the  title
+and abstract screening and the full text review using the below inclusion and exclusion
+criteria.  Inclusion  Criteria:  Articles  were  retrieved  if  they  were:  Exclusion  Criteria:
+Articles were excluded if they were: Figure A3.1 depicts the process of screening and
+selecting  articles.  Very  few  relevant  intervention  studies  were  found  in  indexed
+databases,  and  many  lacked  well-defined  interventions,  a  comparison  group,  large
+study  size,  or  longitudinal  follow-up.  The  authors  formulated  recommendations  based
+on  current  federal  regulations,  standards,  and  recommendations,  or  informed  by:
+Authors  recused  themselves  from  decisions  pertaining  to  the  development  of
+recommendations  when  there  was  a  perceived  or  actual  conflict  of  interest.  HICPAC
+classified  all  recommendations  as  good  practice  statements  based  on  professional
+experience  and  scientific  evidence  that  indicated  a  high  probability  that  the
+recommended action would do more good than harm1. Drafts of the updated sections
+and recommendations were presented at public HICPAC meetings in March 2016, July
+2016,  and  December  2016.  Input  from  HICPAC  and  the  public  were  incorporated  into
+subsequent  drafts.  The  draft  recommendations  and  narrative  were  provisionally
+approved by HICPAC at the December 2016 meeting2. Following further revisions, CDC
+then  submitted  the  guideline  to  CDC  clearance  and  subsequent  posting  to
+Regulations.gov for public comment. The comments were compiled and reviewed with a
+revised draft document at the May 2019 HICPAC meeting. The document was approved
+by HICPAC on May 17, 2019. CDC provides information on infection control and clinical
+safety  to  help  reduce  the  risk  of  infections  among  healthcare  workers,  patients,  and
+visitors. Languages Language Assistance Languages  Language Assistance 
+Source
+ URL:
+https://www.cdc.gov/infection-control/hcp/healthcare-personnel-infrastructure-routine-practices/methods.
+html

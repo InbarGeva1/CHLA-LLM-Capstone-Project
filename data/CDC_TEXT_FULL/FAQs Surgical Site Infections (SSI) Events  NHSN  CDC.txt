@@ -1,0 +1,197 @@
+Official websites use .gov A .gov website belongs to an official government organization
+in  the  United  States.  Secure  .gov  websites  use  HTTPS  A  lock  (   )  or  https://  means
+you've  safely  connected  to  the  .gov  website.  Share  sensitive  information  only  on
+official,  secure  websites.   Please  note  it  is  very  important  to  provide  NHSN  your
+thoughts regarding the case you are requesting for review.  Please provide specifics as
+to  the  criteria  you  have  considered  and  which  elements  of  the  criteria  you  have
+determined  the  patient  does  or  does  not  meet.   If  you  are  unable  to  make  a
+determination, please let us know specifically why you are unable to decide and clearly
+outline your question(s). Our hope is that the case review process will be educational
+for  you  for  making  future  determinations.    Please  provide  the  following  information
+when sending NHSN a question for SSI case review:  NHSN does not mandate reporting.
+ A  facility  selects  reporting  and  indicates  this  via  the  NHSN  Monthly  Reporting  Plan
+(MRP). A facility is required to report data (procedure and SSI event) that represents the
+selections  on  the  MRP.   Selections  for  reporting  included  in  the  MRP  may  depend  on
+their own internal facility risk assessment, any state required reporting, and/or any CMS
+required reporting. Appendix B in the SSI protocol [PDF – 586 KB] provides clarity and
+support  for  Denominator  Reporting  Instruction  #6  (which  addresses  the  same  NHSN
+operative  procedure  category  performed  via  separate  incisions).  Appendix  B  provides
+guidance  on  correct  procedure  reporting  when  multiple  procedures  of  the  same
+category  are  performed  per  patient  per  calendar  day  via  separate  incisions  (with  an
+explanation  for  each  of  the  12  procedure  categories  found  within  this  instruction).
+Denominator Reporting Instruction #6 is found on page 9-25 of the SSI protocol [PDF –
+586  KB]  and  Appendix  B  begins  on  page  9-40  of  the  SSI  protocol  [PDF  –  586  KB].
+‘Detected’ should be answered as “RF”. Per the Instructions for Completion of Surgical
+Site Infection (SSI) Form (CDC 57.120) definition for ‘Event Details: Detected’: Check RF
+if SSI was identified due to patient readmission to the facility where the procedure was
+originally performed. Check “RF” regardless of readmission to a prior facility. See the
+SSI event Table of Instructions [PDF – 500 KB] ‘Event Details: Detected’ for complete
+guidance.  The  ICD-10-PCS  or  CPT  operative  procedure  codes  are  required  to  identify
+NHSN operative procedures. Only NHSN operative procedures begin an SSI surveillance
+period and only NHSN operative procedures are eligible for SSI attribution.  Non-NHSN
+operative  procedures  do  not  set  a  surveillance  period  nor  are  they  eligible  for  SSI
+attribution.   Following  a  non-NHSN  operative  procedure,  site-specific  infection  criteria
+(found in Chapter 17 [PDF – 621 KB] – CDC/NHSN Surveillance Definitions for Specific
+Types  of  Infections)  may  be  reviewed  to  determine  if  HAI  criteria  can  be  applied.   A
+return trip to the OR via the same surgical site ends the surveillance period for the prior
+NHSN  operative  procedure  and  begins  a  new  SSI  surveillance  period  if  an  NHSN
+operative  procedure  is  performed.  The  surveillance  period  for  an  NHSN  operative
+procedure  is  not  determined  by  the  presence  or  absence  of  an  implant.   The  SSI
+surveillance period is determined by the NHSN operative procedure category.  Table 2
+found on page 9-16 within the SSI protocol [PDF – 586 KB] provides guidance related to
+surveillance periods for SSI for each of the NHSN operative procedure categories. No.
+The  only  organisms  excluded  from  SSI  event  reporting  are  found  in  the  SSI  protocol
+[PDF – 1 MB] on page 9-18 (SSI Event Reporting Instruction #1 Excluded Organisms).
+The Infection Window Period (IWP), Present on Admission (POA), Healthcare-associated
+Infection  (HAI),  and  Repeat  Infection  Timeframe  (RIT)  definitions  do  not  apply  to  SSI
+surveillance.  SSI surveillance is based on a 30- or 90-day SSI surveillance period, which
+is  determined  by  the  NHSN  operative  procedure  category  and  the  tissue  level  of  SSI
+event.  SSI guidelines do not offer a strict timeframe for elements of criteria to occur
+but in NHSN’s experience, all elements required to meet an SSI criterion usually occur
+within a 7-10 day timeframe with typically no more than 2-3 days between elements. To
+ensure that all elements associate to the SSI, the elements must occur in a relatively
+tight  timeframe.  For  example,  an  element  that  occurs  on  day  2  of  the  surveillance
+period with another element that occurs three weeks later should not be used to cite an
+SSI. Each case differs based on the individual elements occurring and the type of SSI
+but the DOE for an SSI must occur within the appropriate 30- or 90-day SSI surveillance
+period. There is no standard, clinically agreed upon definition for purulence.  For NHSN
+surveillance  purposes,  the  descriptors  “pus”  or  “purulence”  are  sufficient  gross
+anatomic evidence of infection.  When the terms ‘pus’ or ‘purulence’ are not written in
+the  medical  record,  NHSN  has  allowed  determinations  for  purulence  based  off
+descriptors.  Documentation  that  uses  a  color  descriptor  and  a  consistency  descriptor
+(from the list below) in combination is acceptable to indicate ‘purulence’.  For example,
+fluid only described as yellow, or only described as thick, is not sufficient. However, if
+the  terms  are  combined,  then  they  may  be  more  representative  of  purulence  (for
+example:  fluid  described  as  thick  and  yellow).  Color  Green  Yellow  Consistency  Milky
+Thick  Creamy  Opaque  Viscous    NOTE:  The  following  descriptors  cannot  be  used  to
+define  purulence/infection:  ‘Cloudy’,  ‘turbid’,  ‘murky’  or  the  odor  of  a  wound.  Gram
+stain results such as WBCs or PMNs cannot be used to define purulence within the SSI
+protocol  [PDF  –  1  MB].  Yes.   Patient-reported  signs  and  symptoms  are  an  important
+aspect  of  SSI  surveillance  and  are  useable  within  the  SSI  definitions  if  documented
+within  the  patient  medical  record.   Patient  reported  purulence  documented  in  the
+medical  record  by  a  healthcare  professional  is  acceptable  for  use  with  SSI  criterion
+(even if the provider doesn’t document purulence).  A specific date/timeframe must be
+documented in the patient medical record to indicate the purulence occurred within the
+SSI  surveillance  period.  Contamination  does  not  exclude  a  procedure  from  being
+reported in your denominator if the procedure is one selected for surveillance in your
+MRP nor would it exclude an SSI event from being reported if SSI criteria are met within
+the  surveillance  period  following  the  procedure.  PATOS  is  determined  by  evidence  of
+infection documented in the narrative portion of the operative note or report of surgery
+(the  surgeon’s  description  of  what  is  seen/done  during  the  procedure).   Traditionally,
+NHSN  uses  the  part  of  the  operative  note  labeled  ‘description  of  procedure’  or
+‘procedure  details’  as  the  surgical  narrative.  The  language/verbiage  in  the  surgical
+narrative  must  clearly  reflect  infection  is  ‘seen’  during  the  operative  procedure  and
+should  additionally  include  reference  to  the  tissue  level  where  the  infection  is  seen.  
+There is not a ‘standard’ format used with operative notes so within SSI Event Reporting
+Instruction  #3  NHSN  provides  examples  of  headings  not  considered  eligible  as  the
+surgical narrative for use with PATOS: procedure title, indication for surgery, and/or a
+pre/post op diagnosis. A ‘Findings’ section within the operative report, if a reflection of
+what the surgeon ‘sees’ present at time of surgery, can be used as a surgical narrative
+with  a  PATOS  determination.   SSI  Event  Reporting  Instruction  #3  addresses  PATOS.  
+See SSI Protocol [PDF – 1 MB] for complete details. Additionally, a Quick Learn “Surgical
+Site Infection (SSI) Event PATOS – Infection Present at Time of Surgery” can be found
+here: PATOS – Quick Learn [Video – 6 min]. Yes. PATOS SSI events and the procedures
+to which they are linked are reported to NHSN. SSI events that are PATOS = YES are not
+excluded from SSI event reporting and must be entered into NHSN if you are following
+the procedure category in your monthly reporting plan. NOTE: An SSI event must first
+be identified within the surveillance period following an NHSN operative procedure to
+answer the PATOS question that is found on the SSI event form. NHSN does not make
+recommendations  about  wound  class.  The  wound  class  is  assigned  by  someone
+participating in the surgical case. The IP should not modify the wound class based on
+their interpretation of the operative note. If it is determined that an error was made in
+wound class assignment, the IP should work with the OR to validate this error with the
+OR  making  any  such  change  in  the  medical  record.  The  application  does  not  offer
+Wound  Class  Clean  (C)  a  choice  for  the  following  procedure  categories:  APPY,  BILI,
+CHOL,  COLO,  REC,  SB  and  VHYS.  Procedures  in  these  categories  that  are  assigned  a
+Clean (C) wound class do not meet the definition of an NHSN operative procedure and
+should not be included in denominator reporting for NHSN SSI surveillance. Excluding
+a  procedure  from  the  denominator  for  procedure  data  should  be  made  on  a
+case-by-case basis with knowledge of the procedure and after review of the operative
+report. We recommend that you document the rationale for excluding a procedure in
+your facility’s surveillance records in the event an explanation is needed in the future.
+Gross anatomic evidence of infection is evidence of infection elicited or visualized on
+physical examination or observed during an invasive procedure.  This includes findings
+elicited  on  physical  examination  of  a  patient  during  admission  or  subsequent
+assessments of the patient and may include findings noted during a medical/invasive
+procedure, dependent upon the location of the infection as well as the NHSN infection
+criterion.  Examples:  NOTE:  Imaging  test  evidence  of  infection  cannot  be  applied  to
+meet gross anatomic evidence of infection.  Imaging test evidence has distinct findings
+in the NHSN definitions (for example, IAB ‘3b’). No. The presence of stool/feces and/or
+blood  in  the  intraabdominal  space  without  purulence  or  abscess  is  considered
+contamination but not infection, therefore cannot be used as gross anatomic evidence
+of  infection.  NHSN  defines  aseptically  obtained  as  “obtained  in  a  manner  to  prevent
+introduction  of  organisms  from  the  surrounding  tissues  into  the  specimen  being
+collected”.  Swabs collected at the bedside or in the OR can be aseptically obtained. 
+There is a misconception by some that only cultures obtained in the OR are aseptic. 
+While  there  are  general  guidelines  for  the  collection  of  optimum  wound  specimens,
+specific  procedures  for  specimen  collection  and  transport  is  institution  dependent.  
+Infection prevention professionals should review these practices with their clinical staff
+and  laboratory  colleagues  to  ensure  that  aseptic  technique  is  being  used  to  obtain
+wound specimens. For purposes of NHSN surveillance, it is the expectation that proper
+technique  for  specimen  collection  is  being  performed.   If  a  wound  specimen  was
+collected and sent to the lab for culture, the findings are eligible for use in SSI criteria
+(no exclusions).  Culture results such as “Mixed flora” or “Mixed cutaneous flora” alone
+cannot  be  reported  to  NHSN  as  there  is  no  such  pathogen  option  in  this  list  of
+pathogens.   Wound  culture  results  with  this  finding  may  require  review  for  proper
+technique based on the facility/lab protocol for proper wound specimen collection. Yes. 
+An SSI can only be a primary infection and must be reported if criteria are met.  There
+may  be  additional  primary  infections  present  which  may  also  be  reportable.  This  will
+depend  on  the  individual  details  of  the  case.  SSI  Event  Reporting  Instruction  #10
+identifies three bullet points that must be met in entirety before the exclusion can be
+considered.   Note  that  tissue  levels  that  are  not  entered  are  still  eligible  for  SSI.  For
+example, if within an SSI surveillance period a superficial debridement of the surgical
+site is performed, and the deep incisional level and organ/space level are not entered, a
+subsequent  deep  incisional  or  organ/space  SSI  following  the  superficial  debridement
+may  be  an  SSI  attributable  to  the  index  COLO  procedure.   First,  confirm  that  all
+available data sources have been reviewed, including the surgical records, to locate a
+height  and  weight.   Within  the  application,  the  height  and  weight  field  must  have  a
+value > 0. If a height and/or weight is not available, NHSN recommends a height of 1ft,
+0  in  and  weight  of  1  lb.  This  will  signal  to  NHSN  that  these  data  are  outliers  due  to
+unavailable data and will not be used in risk adjustment. It is very important to have a
+system or process in place for collecting this information, so that the data used in risk
+adjustment  and  factored  into  the  SIR  analysis  is  accurate.  For  information  on  how  to
+report  height  and  weight  in  NHSN,  including  its  uses  in  SSI  analysis,  please  see:
+Reporting  Height  and  Weight  for  Procedures  in  NHSN  [PDF  –  500  KB]  No.   Post-op
+occurrences  and  complications  are  not  an  exclusion  for  monitoring  for  an  SSI  and
+reporting an SSI if SSI criteria are met.  If SSI criteria are met within the appropriate SSI
+surveillance  period,  an  SSI  is  reported.  This  is  addressed  on  page  9-22  of  the  SSI
+protocol  [PDF  –  1  MB]  under  SSI  Event  Reporting  Instruction  #11.    Yes.   Trauma  is
+defined  in  NHSN  as  “blunt  or  penetrating  traumatic  injury.”  Therefore,  if  the  surgery
+was performed because of a recent fall, for example, a hip prosthesis (HPRO) following
+a fall, then indicate Trauma = Yes on the SSI event form. No.  The trauma field is to be
+used to document trauma that occurred before the surgery and resulted in the need for
+the surgery.  For example, inadvertent organ injuries (such as an organ nick) that occur
+during  a  procedure  are  not  considered  a  trauma  case.  Clinical  correlation  refers  to
+physician documentation of antimicrobial treatment for site-specific infection related to
+equivocal  (not  clearly  identified  )  findings  of  infection  on  imaging  test.  For  example,
+when applying intraabdominal infection (IAB) criterion 3b, the finding of ‘fluid collection
+seen in the lower abdominal cavity’ on an imaging test may or may not represent an
+infection.  This finding is not clearly identified as an infection and should be confirmed
+with clinical evidence that an infection is present.  In the case of IAB criterion 3b, the
+clinical  evidence  required  is  physician  documentation  of  antimicrobial  therapy  for
+treating  the  intraabdominal  infection.  “With  no  other  recognized  cause”  means  the
+sign/symptom  is  eligible  for  use  in  meeting  the  SSI  criteria  unless  there  is  physician
+documentation  within  the  medical  record  that  specifically  states  the  sign/symptom  is
+due to a condition other than an SSI. The determination to exclude a sign/symptom with
+no  other  recognized  cause  must  be  made  by  the  local  facility  based  on  the
+documentation available in the medical record. Clinical judgment determination needs
+to be defended and backed up by physician documentation and there should be clear
+rationale  in  the  event  the  case  is  validated.  When  monitoring  an  NHSN  operative
+procedure  category  in  your  MRP,  the  entire  SSI  protocol  [PDF  –  586  KB]  must  be
+followed  and  you  must  report  all  SSIs  for  that  procedure  category.  This  includes
+superficial  incisional,  deep  incisional  and  organ/space  SSI  events.  If  a  superficial
+incisional  SSI  progresses  to  meet  SSI  criteria  at  a  deeper  tissue  level  within  the
+designated surveillance period following an NHSN operative procedure, the event type
+and date of event must be edited to reflect the deepest tissue level where SSI criteria
+are met during the surveillance period.  See SSI Event Reporting Instruction #4 on page
+9-20 in the SSI protocol [PDF – 586 KB] for full details.    NOTE:  If a patient meets both
+organ/space BONE and MED criteria report the SSI event as organ/space MED. No. An
+‘antimicrobial indication’ is not the same as a diagnosis and cannot be used to meet
+Superficial  Incisional  SSI  criterion  ‘d’  (diagnosis  of  a  superficial  incisional  SSI  by  a
+physician* or physician designee).      
+ Training 
+ Newsletters / Members Meeting Updates 
+ E-mail Updates 
+ Health Department HAI/AR Programs To receive email updates about this page, enter
+your email address:  Questions about NHSN?Contact us: nhsn@cdc.gov
+Source URL: https://www.cdc.gov/nhsn/faqs/faq-ssi.html

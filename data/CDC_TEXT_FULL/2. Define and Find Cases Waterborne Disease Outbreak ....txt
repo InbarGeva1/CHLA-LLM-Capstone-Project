@@ -1,0 +1,59 @@
+Official websites use .gov A .gov website belongs to an official government organization
+in  the  United  States.  Secure  .gov  websites  use  HTTPS  A  lock  (   )  or  https://  means
+you've  safely  connected  to  the  .gov  website.  Share  sensitive  information  only  on
+official, secure websites. Health officials develop a case definition to identify which ill
+persons will be classified as part of the outbreak. Case definitions should be sensitive
+enough to include all cases, and specific enough to only identify the cases involved in
+the outbreak. Case definitions may include details about: There might be several case
+definitions  during  an  outbreak  investigation,  each  with  a  different  purpose.  For
+example, one case definition might be for confirmed illnesses and another for probable
+illnesses. The number of illnesses that meet the case definition is called the case count.
+As the investigation proceeds with more information about the illnesses and outbreak,
+the case definition will be further refined to include compatible symptoms, laboratory
+confirmation,  and  onset  dates.  It  is  important  to  document  the  case  definition
+development  throughout  the  investigation.  The  Council  of  State  and  Territorial
+Epidemiologists (CSTE) has developed case definitions for many waterborne pathogens
+based  on  uniform  criteria  used  to  define  a  disease  for  public  health  surveillance  that
+can  be  reviewed  on  the  National  Notifiable  Disease  Surveillance  System  (NNDSS)
+website.  These  case  definitions  may  be  helpful  in  determining  if  a  case  is  confirmed,
+probable,  or  suspected  in  an  outbreak.  Case  Definition  Example  Setting:  Time:  Onset
+between Jan 2012-Dec 2012 Geographic Range: Residents of State A or State B Clinical
+Description: A gastrointestinal illness characterized by diarrhea and one or more of the
+following:  diarrhea  duration  of  72  hours  or  more,  abdominal  cramping,  vomiting,  or
+anorexia.  Laboratory  Criteria  for  Diagnosis  Confirmed:  Evidence  of  Cryptosporidium
+organisms or DNA in stool, intestinal fluid, tissue samples, biopsy specimens, or other
+biological  sample  by  certain  laboratory  methods  with  a  high  positive  predictive  value
+(PPV),  e.g.,  Probable:  The  detection  of  Cryptosporidium  antigen  by  a  screening  test
+method, such as immunochromatographic card/rapid card test; or a laboratory test of
+unknown method. Case Classification Probable: A case with supportive laboratory test
+results  for  Cryptosporidium  spp.  infection  using  a  method  listed  in  the  probable
+laboratory  criteria.  When  the  diagnostic  test  method  on  a  laboratory  test  result  for
+cryptosporidiosis cannot be determined, the case can only be classified as probable, OR
+A  case  that  meets  the  clinical  criteria  and  is  epidemiologically  linked  to  a  confirmed
+case. Confirmed: A case that is diagnosed with Cryptosporidium spp. infection based on
+laboratory testing using a method listed in the confirmed criteria. Comments Persons
+who  have  a  diarrheal  illness  and  are  epidemiologically  linked  to  a  probable  case
+because
+ that
+ individual
+ was
+ only
+ diagnosed
+ with
+ cryptosporidiosis
+ by
+ an
+immunocard/rapid test/or unknown test method cannot be classified as probable cases.
+These epi-links can be considered suspect cases only. At the beginning of an outbreak
+investigation, it is important to identify as many potential cases as defined by the case
+definition as possible to guide determination of a common source or sources. The first
+illnesses that are recognized can be only a small part of the total outbreak. Identifying
+more persons who are ill is integral to understanding the magnitude, timing, severity,
+and  possible  sources  of  the  outbreak  for  public  health  officials.  Using  the  case
+definition, investigators search for more illnesses related to the outbreak by: To receive
+updates  highlighting  our  recent  work  to  prevent  infectious  disease,  enter  your  email
+address:
+Source
+ URL:
+https://www.cdc.gov/healthywater/emergency/waterborne-disease-outbreak-investigation-toolkit/define-c
+ases.html

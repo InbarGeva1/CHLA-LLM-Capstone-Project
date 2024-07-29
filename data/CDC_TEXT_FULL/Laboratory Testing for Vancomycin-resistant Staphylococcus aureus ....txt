@@ -1,0 +1,83 @@
+A .gov website belongs to an official government organization in the United States. A
+lock (  ) or https:// means you've safely connected to the .gov website. Share sensitive
+information only on official, secure websites. 
+Related Topics:
+ To  survive,  germs  can  develop  defense  strategies,  called  resistance  mechanisms
+against  treatment  drugs,  like  antibiotics  and  antifungals.  Germs  can  share  their
+resistance  mechanisms  with  other  germs  and  can  carry  genes  for  many  types  of
+resistance. All VRSA have contained the vancomycin resistance gene vanA, commonly
+found  in  vancomycin-resistant  enterococci  (VRE).  The  VanA  gene  typically  confers
+(provides) high-level vancomycin resistance (MICs= 512-1024 µg/ml).  All VRSA isolates
+detected
+ and
+ confirmed
+ in
+ the
+ U.S.
+ to
+ date
+ have
+ also
+ been
+ methicillin
+(oxacillin)-resistant (MRSA) due to the mecA gene. Some VRSA-positive patients have a
+history  of  infections  caused  by  both  VRE  containing  vanA  and  MRSA.  The  vanA
+determinant  likely  transferred  from  the  VRE  to  the  MRSA  strain  via  plasmids  or
+transposons,  resulting  in  the  VRSA.  For  vancomycin-intermediate  S.  aureus  (VISA),
+vancomycin must bind to the growing cell wall complex and reach the cell membrane to
+inhibit  cell  growth.  Most  VISA  isolates  are  methicillin  (oxacillin)-resistant.  Both
+automated and non-automated susceptibility testing methods can detect VISA/VRSA. It
+should  be  noted  that  disk  diffusion  is  not  a  recommended  method  for  testing
+vancomycin susceptibility in S. aureus. Information about susceptibility testing methods
+and  their  limitations  should  be  made  available  to  healthcare  providers.  Providers  can
+request  additional  testing  when  they  suspect  reduced  susceptibility  to  vancomycin.
+Tests typically used to detect VRSA
+ Tests typically used to detect VISA
+ Laboratorians should perform broth microdilution and agar dilution according to Clinical
+and  Laboratory  Standards  Institute  (CLSI)  guidelines,  which  include  the  following
+recommendations:  Laboratorians  should  perform  vancomycin  agar  screening  for  S.
+aureus  according  to  CLSI  guidelines.  The  vancomycin  agar  screen  test  uses
+commercially prepared agar plates to screen pure cultures of bacteria for vancomycin
+resistance.  These  plates  contain  BHI  agar  and  6  µg/ml  of  vancomycin.  Spot  10µl
+inoculum  of  a  0.5  McFarland  suspension  on  the  agar  using  a  micropipette  (final
+concentration=106  CFU/ml).  Alternatively,  dip  a  swab  in  the  McFarland  suspension,
+express the excess liquid, and spot an area of 10-15 mm in diameter or streak a portion
+of  the  plate.  For  quality  control,  laboratories  should  use  Enterococcus  faecalis  ATCC
+29212 as the susceptible control and E. faecalis ATCC 51299 as the resistant control. 
+You  can  test  up  to  eight  isolates  per  plate  but  should  always  perform  quality  control
+each day of testing.  Plates prepared in-house using various lots of media performed
+inconsistently  and  were  inferior  to  those  obtained  commercially  (CDC  unpublished
+data). Performance of commercially prepared plates varies by individual manufacturer.
+There  are  several  antimicrobial  agents  that  usually  retain  activity  against  VISA  and
+VRSA isolates (e.g., daptomycin, linezolid and ceftaroline). Laboratories should perform
+AST for these agents and any others considered for clinical treatment. The laboratory of
+the  Division  of  Healthcare  Quality  Promotion  at  CDC  can  perform  this  testing.   It  is
+essential to send probable isolates of VRSA to health departments and CDC as quickly
+as possible, even if the laboratory has the capability to test additional agents in-house;
+to facilitate organism confirmation and enhance infection control efforts. Laboratorians
+should send isolates to CDC by their local or state health department. Keep repeated
+subcultures  to  a  minimum  before  storage  and  shipping.  See  CDC  Test  Directory  for
+specific  shipping  guidance.  •Vancomycin-intermediate  S.  aureus:  MIC  =  4-8
+μg/mL•Vancomycin-resistant  S.  aureus:  MIC  =  ≥16  μg/mL1    The  vast  majority  of
+suspected  VRSA  are  due  to  a  mixed  culture  of  VRE  and  MRSA.  Verify  any
+vancomycin-intermediate  or  vancomycin-resistant  result  for  S.  aureus  by  restreaking
+the isolate for purity and repeating a validated MIC method and organism identification.
+Send any S. aureus for which the vancomycin MIC is >=8 µg/ml to a referral laboratory.
+When  laboratorians  suspect  VISA/VRSA,  it's  critical  they  promptly:   VISA  and  VRSA
+should be reported to CDC through the National Notifiable Disease Surveillance System
+(NNDSS). Suspected VRSA (i.e., isolates that have been confirmed to be pure and are
+vancomycin-resistant on repeat AST) should be promptly reported to state/local health
+authorities and subsequently to CDC for public health investigation.  CLSI is a global,
+interdisciplinary,  nonprofit,  standards-developing  and  educational  organization  that
+promotes  the  development  and  use  of  voluntary  consensus  standards  and  guidelines
+within  the  healthcare  community.   Definition  of  term:  glycopeptide   The  term
+glycopeptide  refers  to  a  group  of  antimicrobial  agents  that  includes  vancomycin  and
+teicoplanin. Since the first two VISA isolates in the United States were also resistant to
+teicoplanin, the term glycopeptide-intermediate S. aureus (GISA) indicates this broader
+resistance profile. While GISA may be a more specific term for strains intermediate to
+both vancomycin and teicoplanin, not all VISA strains are intermediate to teicoplanin;
+therefore,  VISA  is  a  more  accurate  and  widely  used  term.  Staphylococcus  aureus
+(staph) is a germ found on people’s skin. Most of the time, staph does not cause any
+harm  but  sometimes  staph  causes  infections.  Languages  Language  Assistance
+Languages  Language Assistance 
+Source URL: https://www.cdc.gov/staphylococcus-aureus/php/laboratories/index.html

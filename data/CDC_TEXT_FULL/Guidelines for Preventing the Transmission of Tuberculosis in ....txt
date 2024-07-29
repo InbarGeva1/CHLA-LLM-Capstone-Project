@@ -1,0 +1,1525 @@
+Persons using assistive technology might not be able to fully access information in this
+file. For assistance, please send e-mail to: mmwrq@cdc.gov. Type 508 Accommodation
+and the title of the report in the subject line of e-mail. Samuel W. Dooley, Jr., M.D.
+Kenneth G. Castro, M.D.
+Mary D. Hutton, B.S.N., M.P.H.
+Robert J. Mullan, M.D.
+Jacquelyn A. Polder, B.S.N., M.P.H.
+Dixie  E.  Snider,  Jr.,  M.D.,  M.P.H.   Summary   The  transmission  of  tuberculosis  is  a
+recognized risk in
+health-care settings. Several recent outbreaks of tuberculosis in
+health-care settings, including outbreaks involving
+multidrug-resistant strains of Mycobacterium tuberculosis, have
+heightened concern about nosocomial transmission. In addition,
+increases in tuberculosis cases in many areas are related to the
+high risk of tuberculosis among persons infected with the human
+immunodeficiency virus (HIV). Transmission of tuberculosis to
+persons with HIV infection is of particular concern because they
+are at high risk of developing active tuberculosis if infected.
+Health-care workers should be particularly alert to the need for
+preventing tuberculosis transmission in settings in which persons
+with HIV infection receive care, especially settings in which
+cough-inducing procedures (e.g., sputum induction and aerosolized
+pentamidine  (AP)  treatments)  are  being  performed.   Transmission  is  most  likely  to
+occur from patients with
+unrecognized pulmonary or laryngeal tuberculosis who are not on
+effective antituberculosis therapy and have not been placed in
+tuberculosis (acid-fast bacilli (AFB)) isolation. Health-care
+facilities in which persons at high risk for tuberculosis work or
+receive care should periodically review their tuberculosis
+policies and procedures, and determine the actions necessary to
+minimize the risk of tuberculosis transmission in their
+particular settings.  The prevention of tuberculosis transmission in health-care
+settings requires that all of the following basic approaches be
+used: a) prevention of the generation of infectious airborne
+particles (droplet nuclei) by early identification and treatment
+of persons with tuberculous infection and active tuberculosis, b)
+prevention of the spread of infectious droplet nuclei into the
+general air circulation by applying source-control methods, c)
+reduction of the number of infectious droplet nuclei in air
+contaminated with them, and d) surveillance of
+health-care-facility personnel for tuberculosis and tuberculous
+infection. Experience has shown that when inadequate attention is
+given to any of these approaches, the probability of tuberculosis
+transmission is increased.  Specific actions to reduce the risk of tuberculosis
+transmission should include a) screening patients for active
+tuberculosis and tuberculous infection, b) providing rapid
+diagnostic services, c) prescribing appropriate curative and
+preventive therapy, d) maintaining physical measures to reduce
+microbial contamination of the air, e) providing isolation rooms
+for persons with, or suspected of having, infectious
+tuberculosis, f) screening health-care-facility personnel for
+tuberculous infection and tuberculosis, and g) promptly
+investigating  and  controlling  outbreaks.   Although  completely  eliminating  the  risk  of
+tuberculosis
+transmission in all health-care settings may be impossible,
+adhering to these guidelines should minimize the risk to persons
+in these settings.
+This document was prepared in consultation with experts in
+tuberculosis, acquired immunodeficiency syndrome,
+infection-control and hospital epidemiology, microbiology,
+ventilation and industrial hygiene, respiratory therapy, nursing,
+and emergency medical services.  
+    INTRODUCTION  
+        Purpose of Document
+        The purpose of this document is to review the mode and risk of
+        tuberculosis transmission in health-care settings and to make
+        recommendations for reducing the risk of transmission to persons
+        in health-care settings--including workers, patients, volunteers,
+        and visitors. The document may also serve as a useful resource
+        for educating health-care workers about tuberculosis. Several
+        outbreaks of tuberculosis in health-care settings, including
+        outbreaks involving multidrug-resistant strains of M.
+        tuberculosis, have been reported to CDC during the past 2 years
+        (1; CDC, unpublished data). In addition, CDC has recently
+        received numerous requests for information about reducing
+        tuberculosis transmission in health-care settings. Much of the
+        increased concern is due to the occurrence of tuberculosis among
+        persons infected with HIV (2), who are at increased risk of
+        contracting tuberculosis both from reactivation of a latent
+        tuberculous infection (3) and from a new infection (4).
+        Therefore, in this document, emphasis is given to the
+        transmission of tuberculosis among persons with HIV infection,
+        although the majority of patients with tuberculosis in most areas
+        of the country do not have HIV infection.  These recommendations consolidate and
+update previously
+published CDC recommendations (5-10). The recommendations are
+applicable to all settings in which health care is provided. In
+this document, the term "tuberculosis," in the absence of
+modifiers, refers to a clinically apparent active disease process
+caused by M. tuberculosis (or, rarely, M. Bovis or M. africanum).
+The terms "health-care-facility personnel" and
+"health-care-facility workers" refer to all persons working in a
+health-care setting--including physicians, nurses, aides, and
+persons not directly involved in patient care (e.g., dietary,
+housekeeping, maintenance, clerical, and janitorial staff, and
+volunteers).
+B.  Epidemiology,  Transmission,  and  Pathogenesis  of  Tuberculosis   Tuberculosis  is  not
+evenly distributed throughout all segments
+of the population of the United States. Groups known to have a
+high incidence of tuberculosis include blacks, Asians and Pacific
+Islanders, American Indians and Alaskan Natives, Hispanics,
+current or past prison inmates, alcoholics, intravenous (IV) drug
+users, the elderly, foreign-born persons from areas of the world
+with a high prevalence of tuberculosis (e.g., Asia, Africa, the
+Caribbean, and Latin America), and persons living in the same
+household  as  members  of  these  groups  (5).   M.  tuberculosis  is  carried  in  airborne
+particles, known as
+droplet nuclei, that can be generated when persons with pulmonary
+or laryngeal tuberculosis sneeze, cough, speak, or sing (11). The
+particles are so small (1-5 microns) that normal air currents
+keep them airborne and can spread them throughout a room or
+building (12). Infection occurs when a susceptible person inhales
+droplet nuclei containing M. tuberculosis, and bacilli become
+established in the alveoli of the lungs and spread throughout the
+body. Two to ten weeks after initial human infection with M.
+tuberculosis, the immune response usually limits further
+multiplication and spread of the tuberculosis bacilli. For a
+small proportion of newly infected persons (usually less than
+1%), initial infection rapidly progresses to clinical illness.
+However, for another group (approximately 5%-10%), illness
+develops after an interval of months, years, or decades, when the
+bacteria begin to replicate and produce disease (11). The risk of
+progression to active disease is markedly increased for persons
+with HIV infection (3).  The probability that a susceptible person will become infected
+depends upon the concentration of infectious droplet nuclei in
+the air. Patient factors that enhance transmission are discussed
+more fully in section II.B.3. Environmental factors that enhance
+transmission include a) contact between susceptible persons and
+an infectious patient in relatively small, enclosed spaces, b)
+inadequate ventilation that results in insufficient dilution or
+removal of infectious droplet nuclei, and c) recirculation of air
+containing infectious droplet nuclei.  Tuberculosis transmission is a recognized risk in
+health-care
+settings (13-21). The magnitude of the risk varies considerably
+by type of health-care setting, patient population served, job
+category, and the area of the facility in which a person works.
+The risk may be higher in areas where patients with tuberculosis
+are provided care before diagnosis (e.g., clinic waiting areas
+and emergency rooms) or where diagnostic or treatment procedures
+that stimulate patient coughing are performed. Nosocomial
+transmission of tuberculosis has been associated with close
+contact with infectious patients, as well as procedures such as
+bronchoscopy (16), endotracheal intubation and suctioning with
+mechanical ventilation (17,18), open abscess irrigation (19), and
+autopsy (20,21). Sputum induction and aerosol treatments that
+induce cough may also increase the potential for tuberculosis
+transmission (22). Health-care workers should be particularly
+alert to the need for preventing tuberculosis transmission in
+health-care settings in which persons with HIV infection receive
+care, especially if cough-inducing procedures such as sputum
+induction and AP treatments are being performed.
+II. General Principles of Tuberculosis Control in Health-Care
+Settings  
+    Approaches to Tuberculosis Control
+    An effective tuberculosis-control program requires the early
+    identification, isolation, and treatment of persons with active
+    tuberculosis. Health-care facilities in which persons at high
+    risk for tuberculosis work or receive care should periodically
+    review their tuberculosis policies and procedures, and determine
+    the actions necessary to minimize the risk of tuberculosis
+    transmission in their particular settings. The prevention of
+    tuberculosis transmission in health-care settings requires that
+    all of the following basic approaches be used: a) preventing the
+    generation of infectious droplet nuclei, b) preventing the spread
+    of infectious droplet nuclei into the general air circulation, c)
+    reducing the number of infectious droplet nuclei in air
+    contaminated with them, d) following guidelines for cleaning,
+    disinfecting, and sterilizing contaminated items, and e)
+    conducting surveillance for tuberculosis transmission to
+    health-care-facility personnel. Experience has shown that when
+    inadequate attention is given to any of these measures, the
+    probability of tuberculosis transmission is increased.  Specific actions to reduce the
+risk of tuberculosis
+transmission should include the following:
+--Screening patients for active tuberculosis and tuberculous
+infection.
+--Providing rapid diagnostic services.
+--Prescribing appropriate curative and preventive therapy.
+--Maintaining physical measures to reduce microbial contamination
+of the air.
+--Providing isolation rooms for persons with, or suspected of
+having, infectious tuberculosis.
+--Screening health-care-facility personnel for tuberculous
+infection and tuberculosis.
+--Promptly  investigating  and  controlling  outbreaks.   B.  Preventing  Generation  of
+Infectious Droplet Nuclei  
+    Early identification and treatment of persons with tuberculous
+    infection  Early identification of persons with tuberculous infection and
+application of preventive therapy are effective in preventing the
+development of tuberculosis (5). Persons at increased risk of
+tuberculosis (see section I.B.), or for whom the consequences of
+tuberculosis may be especially severe, should be screened for
+tuberculous infection to identify those for whom preventive
+treatment is indicated. The tuberculin skin test is the only
+method currently available that demonstrates infection with M.
+tuberculosis in the absence of active tuberculosis (11).
+2. Early identification and treatment of persons with active
+tuberculosis  An effective means of preventing tuberculosis transmission is
+preventing the generation of infectious droplet nuclei by persons
+with infectious tuberculosis. This can be accomplished by early
+identification, isolation, and treatment of persons with active
+tuberculosis. Tuberculosis may be more difficult to diagnose
+among persons with HIV infection; the diagnosis may be overlooked
+because of an atypical clinical or radiographic presentation
+and/or the simultaneous occurrence of other pulmonary infections
+(e.g., Pneumocystis carinii pneumonia (PCP)). Among persons with
+HIV infection, the difficulty in making a diagnosis may be
+further compounded by impaired responses to tuberculin skin tests
+(23,24), low sensitivity of sputum smears for detecting AFB (25),
+or overgrowth of cultures with Mycobacterium avium complex (MAC)
+among  patients  with  both  MAC  and  M.  tuberculosis  infections  (26).   A  diagnosis  of
+tuberculosis should be considered for any
+patient with persistent cough or other symptoms compatible with
+tuberculosis, such as weight loss, anorexia, or fever. Diagnostic
+measures for identifying tuberculosis should be instituted among
+such patients. These measures include history, physical
+examination, tuberculin skin test, chest radiograph, and
+microscopic examination and culture of sputum or other
+appropriate specimens (11,27). Other diagnostic methods, such as
+bronchoscopy or biopsy, may be indicated in some cases (28,29).
+The probability of tuberculosis is increased by finding a
+positive reaction to a tuberculin skin test or a history of a
+positive skin test, a history of previous tuberculosis,
+membership in a group at high risk for tuberculosis (see section
+I.B.), or a history of exposure to tuberculosis. Active
+tuberculosis is strongly suggested if the diagnostic evaluation
+reveals AFB in sputum, a chest radiograph is suggestive of
+tuberculosis, or the person has symptoms highly suggestive of
+tuberculosis (e.g., productive cough, night sweats, anorexia, and
+weight loss). Tuberculosis may occur simultaneously with other
+pulmonary infections, such as PCP.  
+    Tuberculin skin test.
+    The Mantoux technique (intradermal injection of 0.1 ml of
+    purified protein derivative (PPD) containing 5 tuberculin units
+    (TU)) should be used as a diagnostic aid to detect tuberculous
+    infection. Although tuberculin skin tests are less than 100%
+    sensitive and specific for detection of infection with M.
+    tuberculosis, no better diagnostic method has been devised.
+    Tuberculin skin tests should be interpreted according to current
+    guidelines (5,11). For persons with HIV infection, a reaction of
+    greater than or equal to 5 mm is considered positive.  A negative skin test does not
+rule out tuberculosis disease or
+infection. Because of the possibility of a false-negative result,
+the tuberculin skin test should never be used to exclude the
+possibility of active tuberculosis among persons for whom the
+diagnosis is being considered, even if reactions to other
+skin-test antigens are positive. Persons with HIV infection are
+more likely to have false-negative skin tests than are persons
+without HIV infection (23,24,30). The likelihood of a
+false-negative skin test increases as the stage of HIV infection
+advances (CDC/Florida Department of Health and Rehabilitative
+Services/New York City Department of Health, unpublished data).
+For this reason, a history of a positive tuberculin reaction is
+meaningful, even if the current skin-test result is negative.  b. Chest radiograph.  The
+radiographic presentation of pulmonary tuberculosis among
+patients with HIV infection may be unusual (31). Typical apical
+cavitary disease is less common among persons with HIV infection.
+They may have infiltrates in any lung zone, often associated with
+mediastinal and/or hilar adenopathy, or they may have a normal
+chest  radiograph.   c.  Bacteriology.   Smear  and  culture  examination  of  three  to  five
+sputum specimens
+collected on different days is the main diagnostic procedure for
+pulmonary tuberculosis (11). Sputum smears that fail to
+demonstrate AFB do not exclude the diagnosis of tuberculosis.
+Studies indicate that 50%-80% of patients with pulmonary
+tuberculosis have positive sputum smears. Sputum smears from
+patients with HIV infection and pulmonary tuberculosis may be
+less likely to reveal AFB than those from immunocompetent
+patients, a finding believed to be consistent with the lower
+frequency of cavitary pulmonary disease observed among
+HIV-infected persons (23,25).  A positive sputum culture, with organisms identified as
+M.
+tuberculosis, provides a definitive diagnosis of tuberculosis.
+Conventional laboratory methods may require 4-8 weeks for species
+identification; however, the use of radiometric culture
+techniques and genetic probes facilitates more rapid detection
+and identification of mycobacteria (32,33). Mixed mycobacterial
+infection (either simultaneous or sequential) may occur and may
+obscure the recognition of M. tuberculosis clinically and in the
+laboratory (26). The use of genetic probes for both MAC and M.
+tuberculosis may be useful for identifying mixed mycobacterial
+infections in clinical specimens.  3. Determining infectiousness of tuberculosis patients 
+The infectiousness of a person with tuberculosis correlates
+with the number of organisms that are expelled into the air,
+which, in turn, correlates with the following factors: a)
+anatomic site of disease, b) presence of cough or other forceful
+expirational maneuvers, c) presence of AFB in the sputum smear,
+d) willingness or ability of the patient to cover his or her
+mouth when coughing, e) presence of cavitation on chest
+radiograph, f) length of time the patient has been on adequate
+chemotherapy, g) duration of symptoms, and h) administration of
+procedures that can enhance coughing (e.g., sputum induction).  The most infectious
+persons are those with pulmonary or
+laryngeal tuberculosis. Those with extrapulmonary tuberculosis
+are usually not infectious, with the following exceptions: a)
+nonpulmonary disease located in the respiratory tract or oral
+cavity, or b) extrapulmonary disease that includes an open
+abscess or lesion in which the concentration of organisms is
+high, especially if drainage from the abscess or lesion is
+extensive (19). Although the data are limited, findings suggest
+that tuberculosis patients with acquired immunodeficiency
+syndrome (AIDS), if smear positive, have infectiousness similar
+to that of tuberculosis patients without AIDS (CDC/New York City
+Department  of  Health,  unpublished  data).   Infectiousness  is  greatest  among  patients
+who have a productive
+cough, pulmonary cavitation on chest radiograph, and AFB on
+sputum smear (6). Infection is more likely to result from
+exposure to a person who has unsuspected pulmonary tuberculosis
+and who is not receiving antituberculosis therapy or from a
+person with diagnosed tuberculosis who is not receiving adequate
+therapy, because of patient noncompliance or the presence of
+drug-resistant organisms. Administering effective
+antituberculosis medications has been shown to be strongly
+associated with a decrease in infectiousness among persons with
+tuberculosis (34). Effective chemotherapy reduces coughing, the
+amount of sputum, and the number of organisms in the sputum.
+However, the length of time a patient must be on effective
+medication before becoming noninfectious varies (35); some
+patients are never infectious, whereas those with unrecognized or
+inadequately treated drug-resistant disease may remain infectious
+for weeks or months. Thus, decisions about terminating isolation
+precautions should be made on a case-by-case basis.  In general, persons suspected of
+having active tuberculosis and
+persons with confirmed tuberculosis should be considered
+infectious if cough is present, if cough-inducing procedures are
+performed, or if sputum smears are known to contain AFB, and if
+these patients are not on chemotherapy, have just started
+chemotherapy, or have a poor clinical or bacteriologic response
+to chemotherapy. A person with tuberculosis who has been on
+adequate chemotherapy for at least 2-3 weeks and has had a
+definite clinical and bacteriologic response to therapy
+(reduction in cough, resolution of fever, and progressively
+decreasing quantity of bacilli on smear) is probably no longer
+infectious. Most tuberculosis experts agree that
+noninfectiousness in pulmonary tuberculosis can be established by
+finding sputum free of bacilli by smear examination on three
+consecutive days for a patient on effective chemotherapy. Even
+after isolation precautions have been discontinued, caution
+should be exercised when a patient with tuberculosis is placed in
+a room with another patient, especially if the other patient is
+immunocompromised.  C. Preventing Spread of Infectious Droplet Nuclei via
+Source-Control Methods  In high-risk settings, certain techniques can be applied to
+prevent or to reduce the spread of infectious droplet nuclei into
+the general air circulation. The application of these techniques,
+which are called source-control methods because they entrap
+infectious droplet nuclei as they are emitted by the patient, or
+"source" (36), is especially important during performance of
+medical procedures likely to generate aerosols containing
+infectious particles.  
+    Local exhaust ventilation
+    Local exhaust ventilation is a source-control technique that
+    removes airborne contaminants at or near their sources (37). The
+    use of booths for sputum induction or administration of
+    aerosolized medications (e.g., AP) is an example of local exhaust
+    ventilation for preventing the spread of infectious droplet
+    nuclei generated by these procedures into the general air
+    circulation. Booths used for source control should be equipped
+    with exhaust fans that remove nearly 100% of airborne particles
+    during the time interval between the departure of one patient and
+    the arrival of the next. The time required for removing a given
+    percentage of airborne particles from an enclosed space depends
+    upon the number of air exchanges per hour (Table 1, page 26),
+    which is determined by the capacity of the exhaust fan in cubic
+    feet per minute (cfm), the number of cubic feet of air in the
+    room or booth, and the rate at which air is entering the room or
+    booth at the intake source.  The exhaust fan should maintain negative pressure in
+the booth
+with respect to adjacent areas, so that air flows into the booth.
+Maintaining negative pressure in the booth minimizes the
+possibility that infectious droplet nuclei in the booth will move
+into adjacent rooms or hallways. Ideally, the air from these
+booths should be exhausted directly to the outside of the
+building (away from air-intake vents, people, and animals, in
+accordance with federal, state, and local regulations concerning
+environmental discharges). If direct exhaust to the outside is
+impossible, the air from the booth could be exhausted through a
+properly designed, installed, and maintained high-efficiency
+particulate air (HEPA) filter; however, the efficacy of this
+method has not been demonstrated in clinical settings (see
+section II.D.2.a.).
+2. Other source-control methods  A simple but important source-control technique is for
+infectious patients to cover all coughs and sneezes with a
+tissue, thus containing most liquid drops and droplets before
+evaporation can occur (38). A patient's use of a properly fitted
+surgical mask or disposable, valveless particulate respirator
+(PR) (see section II.D.2.c.) also may reduce the spread of
+infectious particles. However, since the device would need to be
+worn constantly for the protection of others, it would be
+practical in only very limited circumstances (e.g., when a
+patient is being transported within a medical facility or between
+facilities).  D. Reducing Microbial Contamination of Air  Once infectious droplet nuclei
+have been released into room
+air, they should be eliminated or reduced in number by
+ventilation, which may be supplemented by additional measures
+(e.g., trapping organisms by high-efficiency filtration or
+killing organisms with germicidal ultraviolet (UV) irradiation
+(100-290 nanometers)). Health-care-facility workers may also
+reduce the risk of inhaling contaminated air by using PRs.  Although for the past 2-3
+decades ventilation and, to a lesser
+extent, UV lamps and face masks have been used in health-care
+settings to prevent tuberculosis transmission, few published data
+exist on which to evaluate their effectiveness and liabilities or
+to draw conclusions about the role each method should play. From
+a theoretical standpoint, none of the four methods (ventilation,
+UV irradiation, high-efficiency filtration, and face masks)
+appears to be ideal. None of the methods used alone or in
+combination can completely eliminate the risk of tuberculosis
+transmission; however, when used with the other infection-control
+measures outlined in this document, they can substantially reduce
+the risk.  
+    General ventilation
+    Ventilation standards for indoor air quality have been
+    published by the American Society of Heating, Refrigerating, and
+    Air Conditioning Engineers, Inc. (ASHRAE) (39). Specific
+    recommendations for health-care facilities have been published by
+    ASHRAE (40) and by the Federal Health Resources and Services
+    Administration (41). Meeting these standards should reduce the
+    probability of tuberculosis transmission in clinical settings;
+    however, some highly infectious patients may transmit infection
+    even if these ventilation standards are met.  
+        Dilution and removal of airborne contaminants.
+        Appropriate ventilation maintains air quality by two
+        processes--dilution and removal of airborne contaminants (42).
+        Dilution reduces the concentration of contaminants in a room by
+        introducing air that does not contain those contaminants into the
+        room. Air is then removed from the room by exhaust directly to
+        the outside or by recirculation into the general ventilation
+        system of the building. Continuously recirculating air in a room
+        or in a building may result in the accumulation or concentration
+        of infectious droplet nuclei. Air that is likely contaminated
+        with infectious droplet nuclei should be exhausted to the
+        outside, away from intake vents, people, and animals, in
+        accordance with federal, state, and local regulations for
+        environmental discharges.  
+        Air mixing.
+        Proper ventilation requires that within-room mixing of air
+        (ventilation efficiency) must be adequate (42). Air mixing is
+        enhanced by locating air-supply outlets at ceiling level and
+        exhaust inlets near the floor, thus providing downward movement
+        of clean air through the breathing zone to the floor area for
+        exhaust.  
+        Direction of air flow.
+        For control of tuberculosis transmission, the direction of air
+        flow is as important as dilution. The direction of air flow is
+        determined by the differences in air pressure between adjacent
+        areas, with air flowing from higher pressure areas to lower
+        pressure areas.  In an area occupied by a patient with infectious tuberculosis,
+air should flow into the potentially contaminated area (the
+patient's room) from adjacent areas. The patient's room is said
+to  be  under  lower  or  negative  pressure.   Proper  air  flow  and  pressure  differentials
+between areas of a
+health-care facility are difficult to control because of open
+doors, movement of patients and staff, temperature, and the
+effect of vertical openings (e.g., stairwells and elevator
+shafts) (40). Air-pressure differentials can best be maintained
+in completely closed rooms. An open door between two areas may
+reduce any existing pressure differential and could reduce or
+eliminate the desired effect. Therefore, doors should remain
+closed, and the close fit of all doors and other closures of
+openings between pressurized areas should be maintained. For
+critical areas in which the direction of air flow must be
+maintained while allowing for patient or staff movement between
+adjacent areas, an appropriately pressurized anteroom may be
+indicated.  Examples of factors that can change the direction of air flow
+include the following: a) dust in exhaust fans, filters, or
+ducts, b) malfunctioning fans, c) adjustments made to the
+ventilation system elsewhere in the building, or d) or automatic
+shut down of outside air introduction during cold weather. In
+areas where the direction of air flow is important, trained
+personnel should monitor air flow frequently to ensure that
+appropriate conditions are maintained.  Each area to which an infectious tuberculosis
+patient might be
+admitted should be evaluated for its potential for the spread of
+tuberculosis bacilli. Modifications to the ventilation system, if
+needed, should be made by a qualified ventilation engineer.
+Individual evaluations should address factors such as the risk of
+tuberculosis among the patient population served, special
+procedures that may be performed, and ability to make the
+necessary changes.  Too much ventilation in an area can create problems. In
+addition to incurring additional expense at marginal benefits,
+occupants bothered by the drafts may elect to shut down the
+system entirely. Furthermore, if the concentration of infectious
+droplet nuclei in an area is high, the levels of ventilation that
+are practical to achieve may be inadequate to completely remove
+the contaminants (43).
+2. Potential supplemental approaches  
+    HEPA filtration.
+    For general-use areas (e.g., emergency rooms and waiting areas)
+    of health-care facilities, recirculating the air is an
+    alternative to using large percentages of outside air for general
+    ventilation. If air is recirculated, care must be taken to ensure
+    that infection is not transmitted in the process. Although they
+    can be expensive, HEPA filters, which remove at least 99.97% of
+    particles greater than 0.3 microns in diameter, have been shown
+    to be effective in clearing the air of Aspergillus spores, which
+    are in the size range of 1.5-6 microns (44-46). The ability of
+    HEPA filters to remove tuberculosis bacilli from the air has not
+    been studied, but tuberculosis-containing droplet nuclei are
+    approximately 1-5 microns in diameter, about the same size as
+    Aspergillus spores; therefore, HEPA filters theoretically should
+    remove infectious droplet nuclei. HEPA filters may be used in
+    general-use areas, but should not be used to recirculate air from
+    a  tuberculosis  isolation  room  back  into  the  general  circulation.   Applications  in
+preventing nosocomial Aspergillus infection
+have included using HEPA filters in centralized air-handling
+units and using whole-wall HEPA filtration units with laminar air
+flow in patient rooms. In addition, portable HEPA filtration
+units, which filter the air in a room rather than filtering
+incoming air, have been effective in reducing nosocomial
+Aspergillus infections (45,46). Such units have been used as an
+interim solution for retrofitting old areas of hospitals.
+Although these units should not be substituted for other accepted
+tuberculosis isolation procedures, they may be useful in
+general-use areas (e.g., waiting rooms and emergency rooms) where
+an increased risk of exposure to tuberculosis may exist, but
+where other methods of air control may be inadequate.  When HEPA filters are to be
+installed at a facility, qualified
+personnel must assess and design the air-handling system to
+assure adequate supply and exhaust capacity. Proper installation,
+testing, and meticulous maintenance are critical if a HEPA filter
+system is used (40). Improper design, installation, or
+maintenance could permit infectious particles to circumvent
+filtration and escape into the ventilation (42). The filters
+should be installed to prevent leakage between filter segments
+and between the filter bed and its frame. A regular maintenance
+program is required to monitor HEPA filters for possible leakage
+and for filter loading. A manometer should be installed in the
+filter system to provide an accurate means of objectively
+determining the need for filter replacement. Installation should
+allow for maintenance without contaminating the delivery system
+or the area served.  HEPA-filtered, recirculated air should not be used if the
+contaminants contain carcinogenic agents. Qualified personnel
+should maintain, decontaminate, and dispose of HEPA filters.
+b.  Germicidal  UV  irradiation.   The  use  of  germicidal  UV  lamps  (wavelengths  100-290
+nm) to
+prevent tuberculosis transmission in occupied spaces is
+controversial. UV lamps installed in the exhaust air ducts from
+the rooms of patients with infectious tuberculosis were shown to
+prevent infection of guinea pigs, which are highly susceptible to
+tuberculosis (34). On the basis of this finding, other studies
+(47-50), and the experience of tuberculosis clinicians and
+mycobacteriologists during the past 2-3 decades, CDC has
+continued to recommend UV lamps (with appropriate safeguards to
+prevent short-term overexposure) as a supplement to ventilation
+in settings where the risk of tuberculosis transmission is high
+(6,8,11,51-54). Their efficacy in clinical settings has not been
+demonstrated under controlled conditions, but there is a
+theoretical and experiential basis for believing they are
+effective (43,55,56). Thus, individual health-care facilities may
+need to consider, on a case-by-case basis, using these lamps in
+settings with a high risk of tuberculosis transmission (see
+section I.B.). UV lamps are less effective in areas with a
+relative humidity of greater than 70% (57). The potential for
+serious adverse effects of short- and long-term exposure to
+germicidal UV has been identified as a major concern (58; NIOSH,
+unpublished report (Health Hazard Evaluation Report, HETA
+90-122-L2073)).  The two most common types of UV installation are wall- or
+ceiling-mounted room fixtures for disinfecting the air within a
+room and irradiation units for disinfecting air in supply ducts.
+Wall- or ceiling-mounted fixtures act by disinfecting upper room
+air, and their effectiveness depends in part upon the mixing of
+air in the room. Organisms must be carried by air currents from
+the lower portion of the room to within the range of the UV
+radiation from the fixtures. These fixtures are most likely to be
+effective in locations where ceilings are high, but some
+protection may be afforded in areas with ceilings as low as 8
+feet. To be maximally effective, lamps should be left on day and
+night (59).  Installing UV lamps in ventilation ducts may be beneficial in
+facilities that recirculate the air. UV exposure of air in ducts
+can be direct and more intense than that provided by room
+fixtures and may be effective in disinfecting exhaust air. Duct
+installations provide no protection against tuberculosis
+transmission to any person who is in the room with an infectious
+patient. As with HEPA filters, UV installations in ducts may be
+used in general-use areas but should not be used to recirculate
+air from a tuberculosis isolation room back into the general
+circulation.  The main concern about UV lamps is safety. Short-term
+overexposure to UV irradiation can cause keratoconjunctivitis and
+erythema of the skin (60). However, with proper installation and
+maintenance, the risk of short-term overexposure is low.
+Long-term exposure to UV irradiation is associated with increased
+risk of basal cell carcinoma of the skin and with cataracts (58).
+To prevent overexposure of health-care-facility personnel and
+patients, UV lamp configurations should meet applicable safety
+guidelines (60).  When UV lamps are used in air-supply ducts, a warning sign
+should be placed on doors that permit access to the duct lamps.
+The sign should indicate that looking at the lamps is a safety
+hazard. In addition, warning lights outside doors permitting
+access to duct lamps should indicate whether the lamps are on or
+off. The duct system should be engineered to prevent UV emissions
+from  the  duct  from  radiating  into  potentially  occupied  spaces.   Consultation  from  a
+qualified expert should be obtained before
+and after UV lamps are installed. After installation, the safety
+and effectiveness of UV irradiation must be checked with a UV
+meter and fixtures adjusted as necessary. Bulbs should be
+periodically checked for dust, cleaned as needed, and replaced at
+the end of the rated life of the bulb. Maintenance personnel
+should be cautioned that fixtures should be turned off before
+inspection or servicing. A timing device that turns on a red
+light at the end of the rated life of the lamp is available to
+alert maintenance personnel that the lamp needs to be replaced.
+c. Disposable PRs for filtration of inhaled air.
+1.)  For  persons  exposed  to  tuberculosis  patients.   Appropriate  masks,  when  worn  by
+health-care providers or other
+persons who must share air space with a patient who has
+infectious tuberculosis, may provide additional protection
+against tuberculosis transmission. Standard surgical masks may
+not be effective in preventing inhalation of droplet nuclei (61),
+because some are not designed to provide a tight face seal and to
+filter out particulates in the droplet nucleus size range (1-5
+microns). A better alternative is the disposable PR. PRs were
+originally developed for industrial use to protect workers.
+Although the appearance and comfort of PRs may be similar to that
+of cup-shaped surgical masks, they provide a better facial fit
+and better filtration capability. However, the efficacy of PRs in
+protecting susceptible persons from infection with tuberculosis
+has not been demonstrated.  PRs may be most beneficial in the following situations: a)
+when
+appropriate ventilation is not available and the patient's signs
+and symptoms suggest a high potential for infectiousness, b) when
+the patient is potentially infectious and is undergoing a
+procedure that is likely to produce bursts of aerosolized
+infectious particles or to result in copious coughing or sputum
+production, regardless of whether appropriate ventilation is in
+place, and c) when the patient is potentially infectious, has a
+productive cough, and is unable or unwilling to cover coughs.  Comfort influences the
+acceptability of PRs. Generally, the
+more efficient the PRs, the greater is the work of breathing
+through them and the greater the perceived discomfort. A proper
+fit is vital to protect against inhaling droplet nuclei. When
+gaps are present, air will preferentially flow through the gaps,
+allowing the PR to function more like a funnel than a filter,
+thus providing virtually no protection (61).
+2.)  For  tuberculosis  patients.   Masks  or  PRs  worn  by  patients  with  suspected  or
+confirmed
+tuberculosis may be useful in selected circumstances (see section
+II.C.2.). PRs used by patients should be valveless. Some PRs have
+valves to release expired air, and these would not be appropriate
+for patients to use.
+E.  Decontamination:  Cleaning,  Disinfecting,  and  Sterilizing   Guidelines  for  cleaning,
+disinfecting, and sterilizing
+equipment have been published (10,62,63). The rationale for
+cleaning, disinfecting, or sterilizing patient-care equipment can
+be understood more readily if medical devices, equipment, and
+surgical materials are divided into three general categories
+(critical items, semi-critical items, and noncritical items)
+based  on  the  potential  risk  of  infection  involved  in  their  use.   Critical  items  are
+instruments such as needles, surgical
+instruments, cardiac catheters, or implants that are introduced
+directly into the bloodstream or into other normally sterile
+areas of the body. These items should be sterile at the time of
+use.  Semi-critical items are items such as noninvasive flexible and
+rigid fiberoptic endoscopes or bronchoscopes, endotracheal tubes,
+or anesthesia breathing circuits that may come in contact with
+mucous membranes but do not ordinarily penetrate body surfaces.
+Although sterilization is preferred for these instruments, a
+high-level disinfection procedure that destroys vegetative
+microorganisms, most fungal spores, tubercle bacilli, and small,
+nonlipid viruses may be used. Meticulous physical cleaning before
+sterilization  or  high-level  disinfection  is  essential.   Noncritical  items  are  those  that
+either do not ordinarily touch
+the patient or touch only intact skin. Such items include
+crutches, bedboards, blood pressure cuffs, and various other
+medical accessories. These items do not transmit tuberculous
+infection. Consequently, washing with a detergent is usually
+sufficient.  Facility policies should identify whether cleaning,
+disinfecting, or sterilizing an item is indicated to decrease the
+risk of infection. Procedures for each item depend on its
+intended use. Generally, critical items should be sterilized,
+semi-critical items should be sterilized or cleaned with
+high-level disinfectants, and noncritical items need only be
+cleaned with detergents or low-level disinfectants. Decisions
+about decontamination processes should be based on the intended
+use of the item and not on the diagnosis of the patient for whom
+the item was used. Selection of chemical disinfectants depends on
+the intended use, the level of disinfection required, and the
+structure  and  material  of  the  item  to  be  disinfected.   Although  microorganisms  are
+normally found on walls, floors,
+and other surfaces, these environmental surfaces are rarely
+associated with transmission of infections to patients or
+health-care-facility personnel. This is particularly true with
+organisms such as tubercle bacilli, which generally require
+inhalation by the host for infection to occur. Therefore,
+extraordinary attempts to disinfect or sterilize environmental
+surfaces are rarely indicated. However, routine cleaning (which
+can be achieved with a hospital-grade, Environmental Protection
+Agency-approved germicide divided by isinfectant) is recommended
+(63). The same routine daily cleaning procedures used in other
+hospital or facility rooms should be used to clean rooms of
+patients who are on AFB isolation precautions.
+F. Conducting Surveillance for Tuberculosis Transmission to
+Health-Care-Facility Personnel  A tuberculosis screening and prevention program for
+health-care-facility personnel should be established for
+protecting both health-care-facility personnel and patients.
+Personnel with tuberculous infection without evidence of current
+(active) disease should be identified, because preventive
+treatment with isoniazid may be indicated (5). In addition, the
+screening program will enable public health personnel to evaluate
+the effectiveness of current infection-control practices.
+Recommendations for screening and surveillance are detailed in
+section III.A.7.
+III. Recommendations  The following recommendations are divided into two categories: 
+    general recommendations applicable to all health-care
+    settings, including special precautions for cough-inducing
+    procedures, and b) recommendations for selected specific
+    health-care settings. Facilities should adapt these
+    recommendations as appropriate for individual circumstances.  
+    Recommendations Applicable to All Health-Care Settings  
+        Early identification and preventive treatment of persons who
+        have tuberculous infection and are at high risk for active
+        tuberculosis
+        --Persons belonging to groups at risk for tuberculosis (see
+        section I.B.) should be screened with a Mantoux tuberculin skin
+        test. Those with positive skin tests should be evaluated for
+        preventive therapy according to current guidelines (5).
+        --All persons with HIV infection or with risk factors for HIV
+        infection should be given a Mantoux tuberculin skin test. Those
+        with positive skin tests or histories of positive skin tests, for
+        whom diagnostic evaluation for active tuberculosis is negative,
+        should be evaluated for preventive therapy according to current
+        guidelines (5).  
+        Early identification and treatment of persons with active
+        tuberculosis
+        --Vigorous efforts should be made to identify patients with
+        active tuberculosis in a timely manner and to place them on
+        appropriate therapy (see section II.B.2.). Pulmonary tuberculosis
+        should always be included in the differential diagnosis of
+        persons with pulmonary signs or symptoms, and appropriate
+        diagnostic measures should be instituted.
+        --For patients with pulmonary signs or symptoms that are
+        initially ascribed to other etiologies, evaluation for
+        co-existing tuberculosis should be repeated if the patient does
+        not respond to appropriate therapy for the presumed etiology of
+        the pulmonary abnormalities (see section II.B.2.).
+        --In health-care facilities, isolation precautions should be
+        applied for patients who are suspected or confirmed to have
+        active tuberculosis and who may be infectious (see sections
+        II.B.3 and III.B.1.a.).
+        --Procedure-specific precautions should be applied for
+        cough-inducing or aerosol-generating procedures (see section
+        III.A.5.).
+        --Patients with suspected or confirmed tuberculosis should be
+        reported to the appropriate health department so that standard
+        procedures for identifying and evaluating tuberculosis contacts
+        can be initiated.  
+        Ventilation
+        --Staff of inpatient facilities should either include an engineer
+        or other professional with expertise in ventilation or industrial
+        hygiene, or the facility should have this expertise available
+        from a consultant. These persons should work closely with the
+        infection-control committee in the control of airborne
+        infections.
+        --Ventilation for health-care facilities should be developed and
+        maintained in consultation with experts in ventilation
+        engineering who also have hospital ventilation experience.
+        Facility design should meet local and state requirements.
+        Specific recommendations for health-care facilities have been
+        published by ASHRAE and HRSA (40,41) (see section II.D.).
+        --The direction of air flow in health-care facilities should be
+        set up and maintained so that air flows from clean areas to
+        less-clean areas. In areas of a facility in which tuberculosis
+        transmission is a potential problem, direction of air flow should
+        be monitored frequently. Periodic checks with smoke tubes or
+        smoke sticks provide a sensitive indication of air-flow direction
+        (see section II.D.1.c.).
+        --Facilities serving populations with a high prevalence of
+        tuberculosis may need to enhance ventilation or use supplemental
+        approaches in areas of the facility where patients with
+        tuberculosis are likely to be found (e.g., waiting areas,
+        emergency rooms, radiology suites, or treatment rooms) or where
+        skin tests of personnel demonstrate an increased risk of
+        tuberculosis transmission (see section II.D.2.).  
+        Potential supplemental environmental approaches  
+            High-efficiency filtration
+            If air from potentially contaminated general-use areas (e.g.,
+            emergency rooms or clinic waiting areas) cannot be exhausted
+            directly to the outside, HEPA filters with test efficiencies of
+            greater than or equal to 99.97% may be useful for removing
+            infectious organisms from air before recirculation in a room or
+            before return to common supply ducts. If HEPA filters are used,
+            they must be designed, installed, maintained, and disposed of in
+            accordance with all applicable regulations and manufacturers'
+            recommendations (see section II.D.2.a.). HEPA filters should not
+            be used to recirculate air from a tuberculosis isolation room
+            back into the general circulation.  
+            Germicidal UV irradiation
+            For settings in which the risk of tuberculosis transmission is
+            high (see section I.B.), UV lamps have been used to supplement
+            ventilation (see section II.D.2.b.). The decision to use UV lamps
+            should be made on a case-by-case basis. If UV lamps are used,
+            applicable safety guidelines should be followed (see section
+            II.D.2.b.). UV lamps are not recommended for use in small rooms
+            or booths where nebulizing devices will be used. UV units
+            installed in ducts should not be used to recirculate air from a
+            tuberculosis isolation room back into the general circulation.  
+            Disposable PRs for filtration of inhaled air
+            PRs (see section II.D.2.c.) should be provided by health-care
+            facilities and worn by persons in the same room with a patient
+            whose signs and symptoms suggest a high potential for
+            infectiousness and by those performing procedures that are likely
+            to produce bursts of droplet nuclei, such as bronchoscopy,
+            endotracheal suctioning, and administration of AP.
+            Wearers should be adequately trained in the use and disposal of
+            PRs and should carefully follow manufacturers' instructions.
+            Ideally, a respirator program consistent with the guidelines
+            found in Department of Health and Human Services (DHHS), National
+            Institute for Occupational Safety and Health (NIOSH), Publication
+            No. 87-116, Guide to Industrial Respiratory Protection (64) and
+            the requirements of the Occupational Safety and Health
+            Administration (OSHA) General Industry Occupational Safety and
+            Health Standards (29 Code of Federal Regulations Part 1910.134)
+            should be implemented. Such a program includes training, fit
+            testing, care and maintenance, and medical monitoring.
+            5. Procedure-specific precautions  
+            Diagnostic sputum induction
+            Sputum induction performed on patients who may have tuberculosis
+            should be carried out in an individual room or booth with
+            negative pressure relative to adjacent rooms and hallways,
+            ideally with room or booth air exhausted directly to the outside
+            and away from all windows and air intake ducts (see section
+            II.C.1.). Patients should remain in the booth or treatment room
+            (or go outside, weather permitting) and not return to common
+            waiting areas until coughing has subsided. Time should be allowed
+            between patients so that any droplet nuclei that have been
+            introduced into the air can be removed. This time will vary
+            according to the efficiency of the ventilation or filtration used
+            (Table 1, page 26). Health-care-facility personnel collecting
+            induced sputum should wear PRs if it is necessary for them to be
+            in the room with the patient during the procedure (see section
+            II.D.2.c.).  
+            Administration of AP
+            All patients should be screened for active tuberculosis before AP
+            therapy is initiated. Screening should include medical history,
+            tuberculin skin test, and a baseline chest radiograph (see
+            section II.B.2).
+            Before each subsequent AP treatment, patients should be evaluated
+            for symptoms highly suggestive of tuberculosis, such as the
+            development of a productive cough or cough and fever. If such
+            symptoms are elicited, a diagnostic evaluation should be
+            initiated.
+            If active tuberculosis is found or suspected, the patient should
+            be placed on antituberculosis chemotherapy. AP treatments should
+            be administered to patients who may have active tuberculosis only
+            in a room or booth as described for sputum induction.
+            Ideally, AP treatments for all patients should be administered in
+            an individual room or booth as described for sputum induction
+            (see sections II.C.1. and III.A.5.a.). Adequate time should be
+            allowed between patients for removal of residual pentamidine and
+            any infectious organisms from the air when treatment rooms or
+            booths are to be reused (Table 1, page 26).
+            Workers administering AP should wear PRs whenever they must be in
+            the room or booth during administration of AP to patients who
+            have, or are at high risk of having, tuberculosis (see section
+            II.D.2.c.).
+            After they have received AP, patients should not return to common
+            waiting areas until coughing subsides.  
+            Bronchoscopy
+            Bronchoscopy should be performed in rooms that have adequate
+            ventilation, good distribution of air flow, and air exhausted
+            directly to the outside--in accordance with federal, state, and
+            local regulations for environmental discharges--or recirculated
+            through HEPA filters. Ideally, bronchoscopy should be performed
+            in rooms with negative pressure relative to adjacent areas. If
+            bronchoscopy must be performed in positive-pressure rooms (such
+            as operating rooms), the risk of infectious tuberculosis should
+            be ruled out beforehand.
+            Additional protection may be afforded by local exhaust
+            ventilation employed near the patient's head to exhaust most
+            organisms near their source (see section II.C.1.) or by the use
+            of UV lamps in treatment areas where bronchoscopies are performed
+            (see section II.D.2.b.).
+            Persons who must be in the room with the patient during
+            bronchoscopy should wear PRs (see section II.D.2.c.).  
+            Endotracheal intubation/suctioning
+            Rooms occupied by intubated patients who may have active
+            tuberculosis should be provided with ventilation as described for
+            patient isolation rooms (see section III.B.1.a.). Persons
+            performing endotracheal suctioning on patients who have suspected
+            or confirmed active tuberculosis should wear PRs.  
+            Other procedures
+            Other aerosol treatments, cough-inducing procedures, or
+            aerosol-generating procedures should be administered as described
+            for AP administration (see section II.C.1.).
+            6. Decontamination: cleaning, disinfecting, and sterilizing
+            --Decisions about decontamination processes should be based on
+            the intended use of the item and not on the diagnosis of the
+            patient for whom the item was used (see section II.E.).
+            --Generally, critical items should be sterilized, semi-critical
+            items should be sterilized or cleaned with high-level
+            disinfectants, and noncritical items need only be cleaned with
+            detergents or low-level disinfectants. Meticulous physical
+            cleaning before sterilization or a high level of disinfection is
+            essential (see section II.E.).
+            --The same routine, daily cleaning procedures used in other
+            hospital or facility rooms should be used to clean rooms of
+            patients who are on AFB isolation precautions (see section
+            II.E.).
+            7. Conducting surveillance for tuberculosis transmission  
+            Surveillance and reporting
+            Health-care facilities providing care to patients at risk for
+            tuberculosis should maintain active surveillance for tuberculosis
+            among patients and health-care-facility personnel and for
+            skin-test conversions among health-care-facility personnel. When
+            tuberculosis is suspected or diagnosed, public health authorities
+            should be notified so that appropriate contact investigation can
+            be performed. Data on the occurrence of tuberculosis and
+            skin-test conversions among patients and health-care-facility
+            personnel should be collected and analyzed to estimate the risk
+            of tuberculosis transmission in the facility and to evaluate the
+            effectiveness of infection-control and screening practices.
+            At the time of employment, all health-care facility personnel,
+            including those with a history of Bacillus of Calmette and Guerin
+            (BCG) vaccination, should receive a Mantoux tuberculin skin test
+            unless a previously positive reaction can be documented or
+            completion of adequate preventive therapy or adequate therapy for
+            active disease can be documented.
+            Initial and follow-up tuberculin skin tests should be
+            administered and interpreted according to current guidelines
+            (5,11).
+            Health-care-facility personnel with a documented history of a
+            positive tuberculin test, or adequate treatment for disease or
+            preventive therapy for infection, should be exempt from further
+            screening unless they develop symptoms suggestive of
+            tuberculosis.
+            Periodic retesting of PPD-negative health-care workers should be
+            conducted to identify persons whose skin tests convert to
+            positive (11). In general, the frequency of repeat testing should
+            be based on the risk of developing new infection.
+            Health-care-facility workers who may be frequently exposed to
+            patients with tuberculosis or who are involved with potentially
+            high-risk procedures (e.g., bronchoscopy, sputum induction, or
+            aerosol treatments given to patients who may have tuberculosis)
+            should be retested at least every 6 months. Health-care-facility
+            personnel in other areas should be retested annually. Data on
+            skin-test conversions should be periodically reviewed so that the
+            risk of acquiring new infection may be estimated for each area of
+            the facility. On the basis of this analysis, the frequency of
+            retesting may be altered accordingly.  
+            Evaluation of health-care-facility personnel after unprotected
+            exposure to tuberculosis
+            In addition to periodic screening, health-care-facility personnel
+            and patients should be evaluated if they have been exposed to a
+            potentially infectious tuberculosis patient for whom the
+            infection-control procedures outlined in this document have not
+            been taken. Unless a negative skin test has been documented
+            within the preceding 3 months, each exposed health-care-facility
+            worker (except those already known to be positive reactors)
+            should receive a Mantoux tuberculin skin test as soon as possible
+            after exposure and should be managed in the same way as other
+            contacts (5). If the initial skin test is negative, the test
+            should be repeated 12 weeks after the exposure ended. Exposed
+            persons with skin-test reactions greater than or equal to 5 mm or
+            with symptoms suggestive of tuberculosis should receive chest
+            radiographs. Persons with previously known positive skin-test
+            reactions who have been exposed to an infectious patient do not
+            require a repeat skin test or a chest radiograph unless they have
+            symptoms suggestive of tuberculosis.  
+            Evaluation and management of health-care-facility personnel
+            with positive skin tests or symptoms that may be due to
+            tuberculosis
+            Health-care-facility personnel with positive tuberculin skin
+            tests or with skin-test conversions on repeat testing or after
+            exposure should be clinically evaluated for active tuberculosis
+            (11). Persons with symptoms suggestive of tuberculosis should be
+            evaluated regardless of skin-test results. If tuberculosis is
+            diagnosed, appropriate therapy should be instituted according to
+            published guidelines (65). Personnel diagnosed with active
+            tuberculosis should be offered counseling and HIV-antibody
+            testing (27).
+            Health-care-facility personnel who have positive tuberculin skin
+            tests or skin-test conversions but do not have clinical
+            tuberculosis should be evaluated for preventive therapy according
+            to published guidelines (5,65). Personnel with positive skin
+            tests should be evaluated for risk of HIV infection. If HIV
+            infection is considered a possibility, counseling and
+            HIV-antibody testing should be strongly encouraged (27).
+            All persons with a history of tuberculosis or positive tuberculin
+            tests are at risk for contracting tuberculosis in the future.
+            These persons should be reminded periodically that they should
+            promptly report any pulmonary symptoms. If symptoms of
+            tuberculosis should develop, the person should be evaluated
+            immediately.  
+            Routine and follow-up chest radiographs
+            Routine chest films are not required for asymptomatic,
+            tuberculin-negative health-care-facility personnel. After the
+            initial chest radiograph is taken, personnel with positive
+            skin-test reactions do not need repeat chest radiographs unless
+            symptoms develop that may be due to tuberculosis (66).  
+            Work restrictions
+            Health-care-facility personnel with current pulmonary or
+            laryngeal tuberculosis pose a risk to patients and other
+            personnel while they are infectious; therefore, stringent work
+            restrictions for these persons are necessary. They should be
+            excluded from work until adequate treatment is instituted, cough
+            is resolved, and sputum is free of bacilli on three consecutive
+            smears. Health-care-facility personnel with current tuberculosis
+            at sites other than the lung or larynx usually do not need to be
+            excluded from work if concurrent pulmonary tuberculosis has been
+            ruled out. Personnel who discontinue treatment before the
+            recommended course of therapy has been completed should not be
+            allowed to work until treatment is resumed, an adequate response
+            to therapy is documented, and they have negative sputum spears on
+            three consecutive days.
+            Health-care-facility personnel who are otherwise healthy and
+            receiving preventive treatment for tuberculous infection should
+            be allowed to continue usual work activities.
+            Health-care facility personnel who cannot take or do not accept
+            or complete a full course of preventive therapy should have their
+            work situations evaluated to determine whether reassignment is
+            indicated. Work restrictions may not be necessary for otherwise
+            healthy persons who do not accept or complete preventive therapy.
+            These persons should be counseled about the risk of contracting
+            disease and should be instructed to seek evaluation promptly if
+            symptoms develop that may be due to tuberculosis, especially if
+            they have contact with high-risk patients (i.e., patients at high
+            risk for severe consequences if they become infected).  
+            Consultation
+            Consultation on tuberculosis surveillance, screening, and other
+            methods to reduce tuberculosis transmission should be available
+            from state health department tuberculosis-control programs.
+            Facilities are encouraged to use the services of health
+            departments in planning and implementing their surveillance and
+            screening programs.
+            B. Precautions for Specific Settings  
+            Hospitals and other inpatient facilities  
+                Tuberculosis (AFB) isolation precautions
+                In hospitals and other inpatient facilities, any patient
+                suspected or known to have infectious tuberculosis should be
+                placed in AFB isolation in a private room.
+                ASHRAE (40) and HRSA (41) have published recommendations for
+                ventilation in AFB isolation rooms. These recommendations specify
+                that rooms should have at least six total air changes per hour,
+                including at least two outside air changes per hour, with
+                sufficient within-room air distribution to dilute or remove
+                tuberculosis bacilli from locations where health-care-facility
+                personnel or visitors are likely to be exposed.
+                The direction of air flow should be set up and maintained so that
+                air flows into the room from the hallway (negative pressure) to
+                minimize possible spread of tuberculosis bacilli into the general
+                health-care setting.
+                The direction of air flow should be monitored while the room is
+                being used for AFB isolation. The use of flutter strips provides
+                a means of constantly observing the direction of air flow. Smoke
+                tubes or smoke sticks are also a quick, simple means of
+                determining the direction of air flow.
+                Air from the room should be exhausted directly to the outside of
+                the building and away from intake vents, people, and animals, in
+                accordance with federal, state, and local regulations concerning
+                environmental discharges. Germicidal UV lamps may be considered
+                as a supplement to ventilation to further decrease the number of
+                infectious droplet nuclei in the air (see sections II.D.2.b. and
+                III.A.4.b.).
+                Isolation-room doors must be kept closed to maintain control over
+                the direction of air flow.
+                Optionally, a separate anteroom may serve as an airlock to
+                minimize the potential for droplet nuclei to spread from the
+                patient's area to adjacent areas. To work effectively, the
+                anteroom must have directional airflow.
+                Persons who enter a room in which AFB isolation precautions are
+                in place should wear PRs (see section II.D.2.c.).
+                The patient should remain in the isolation room with the door
+                closed and should be instructed to cover nose and mouth with a
+                tissue during coughing and sneezing. If the patient must leave
+                the room (e.g., for a medical procedure that cannot be done at
+                the bedside) while potentially infectious, s/he should wear a
+                properly fitted surgical mask or valveless PR (see section
+                II.C.2.).
+                AFB isolation precautions may be discontinued and the patient
+                placed in a private room when s/he is improving clinically, cough
+                has substantially decreased, and the number of organisms on
+                sequential sputum smears is decreasing. Usually, this occurs
+                within 2-3 weeks after tuberculosis medications are begun.
+                Failure to take medications as prescribed and the presence of
+                drug-resistant disease are the two most common reasons for a
+                patient's remaining infectious. When a patient is likely to be
+                infected with drug-resistant organisms, AFB precautions should be
+                applied until the patient is improving and the sputum smear is
+                negative for AFB. Placing a tuberculosis patient in a room with
+                other patients is not advisable, especially immunosuppressed
+                patients, until the sputum smear is free of bacilli on three
+                consecutive days (see section II.B.3.).  
+                Transport, radiology, and treatment rooms
+                When a patient who may have infectious tuberculosis must be
+                transported outside the AFB isolation room, s/he should wear a
+                properly fitted surgical mask or valveless PR (see section
+                II.C.2.)..
+                Ideally, an area in the treatment or radiology department should
+                be specially ventilated for AFB isolation patients. If this is
+                not possible, the patient should be returned to the isolation
+                room as soon as is practical.
+                Health-care-facility workers performing procedures on patients
+                with potentially infectious tuberculosis should wear a PR,
+                especially if the procedure itself induces cough (see section
+                II.D.2.c.).
+                Treatment rooms in which patients who have undiagnosed pulmonary
+                disease and who are at high risk for active tuberculosis are
+                evaluated should meet the ventilation standards for AFB isolation
+                rooms. ASHRAE recommends that treatment rooms have at least six
+                air changes per hour (40).
+                Treatment rooms in which cough-inducing procedures are performed
+                should meet the specifications outlined under procedure-specific
+                precautions.  
+                Intensive-care units (ICUs)
+                ASHRAE recommends that ventilation in ICUs should provide at
+                least six total air changes per hour, including at least two
+                outside air changes per hour (40). If air is recirculated in the
+                ICU, it should be passed through properly designed, installed,
+                and maintained HEPA filters before being recirculated.
+                Installation of UV lamps might be considered in ICUs in which
+                there is a high risk of tuberculosis transmission (see section
+                I.B.).
+                Any ICU patient who may have infectious tuberculosis should be
+                placed in a private room in which ventilation meets the
+                recommendations for AFB isolation.
+                Endotracheal suctioning of patients who may have infectious
+                tuberculosis should be carried out as described under
+                procedure-specific precautions (see section III.A.5.d.)
+                ICU patients with undiagnosed pulmonary symptoms who may have
+                infectious tuberculosis should have respiratory secretions
+                submitted for AFB smear and culture (see section II.B.2.).  
+                Emergency rooms
+                Ventilation in emergency rooms, including waiting areas, should
+                be designed and maintained to reduce the risk of tuberculosis
+                transmission, (39-41). ASHRAE recommends that emergency room
+                waiting areas have at least 10 air changes per hour (40).
+                In facilities serving populations with a high incidence of
+                tuberculosis (see section I.B.), germicidal UV lamps and/or HEPA
+                filters in the emergency room may provide additional benefit when
+                used to supplement ventilation (see section II.D.2.).  
+                Laboratories
+                Laboratories should adhere to previously published
+                recommendations concerning control of tuberculosis transmission
+                (67).  
+                Autopsy rooms
+                ASHRAE recommends that autopsy rooms have ventilation that
+                provides at least 12 total air changes per hour (40). In
+                addition, these rooms should have good distribution of air flow
+                in the room, negative pressure with respect to adjacent areas,
+                and room air exhausted directly to the outside of the building.
+                PRs should be worn by personnel performing procedures that may
+                aerosolize infectious particles (e.g., sawing, irrigating).  
+                Hospices
+                All tuberculosis-control recommendations for inpatient facilities
+                apply to hospices.  
+                Nursing homes
+                Published recommendations for prevention and control of
+                tuberculosis in nursing homes should be followed (68).  
+                    Correctional facilities
+                    Published recommendations for prevention and control of
+                    tuberculosis in correctional facilities should be followed (54).
+                    Prison medical facilities should follow the recommendations
+                    outlined in this document.
+                    2. Ambulatory-care facilities
+                    --Health-care employers in outpatient settings should be aware of
+                    the risk of tuberculosis among their patient population. They
+                    should be especially aware of the increased risk among persons
+                    who have both HIV infection and tuberculous infection, and they
+                    should develop infection-control policies accordingly.
+                    --Persons who have HIV infection or who are otherwise at risk for
+                    contracting tuberculosis should receive a tuberculin skin test,
+                    and the results should be noted in the patient's medical record.
+                    Tuberculosis diagnostic procedures should be initiated if signs
+                    and symptoms of tuberculosis develop (see section II.B.2.).
+                    --Ambulatory patients who have pulmonary symptoms of uncertain
+                    etiology should be instructed to cover their mouths and noses
+                    when coughing or sneezing; they should spend a minimum of time in
+                    common waiting areas (see section II.C.2.).
+                    --Personnel who are the first point of contact in facilities
+                    serving patients at risk for tuberculosis should be trained to
+                    recognize, and bring to the attention of the appropriate person,
+                    any patients with symptoms suggestive of tuberculosis (see
+                    section II.B.2.), such as a productive cough of greater than 3
+                    weeks' duration, especially when accompanied by other
+                    tuberculosis symptoms, such as weight loss, fever, fatigue, and
+                    anorexia.
+                    --Ventilation in clinics serving patients who are at high risk
+                    for tuberculosis (see section I.B.) should be designed and
+                    maintained to reduce the risk of tuberculosis transmission
+                    (39-41) (see section II.D.). This is particularly important if
+                    immunosuppressed patients are treated in the same or a nearby
+                    area. In some settings, (see section I.B.), enhanced ventilation
+                    or air-disinfection techniques (e.g., HEPA filters or germicidal
+                    UV lamps, see sections II.D.2.a. and II.D.2.b.) may be
+                    appropriate for common areas such as waiting rooms. Air from
+                    clinics serving patients at high risk for tuberculosis should not
+                    be recirculated unless it is first passed through an effective
+                    high-efficiency filtration system.
+                    --In outpatient settings where cough-inducing procedures are
+                    carried out, procedure-specific AFB precautions should be
+                    implemented (see sections II.C. and III.A.5.).  3. Emergency medical
+services
+--When emergency-medical-response personnel or others must
+transport patients with confirmed or suspected active
+tuberculosis, a mask or valveless PR should be fitted on the
+patient. If this is not possible, the worker should wear a PR
+(see sections II.C.2. and II.D.2.c.). If feasible, the rear
+windows of the vehicle should be kept open and the heating and
+air conditioning system set on a nonrecirculating cycle.
+--Emergency-response personnel should be routinely screened for
+tuberculosis at regular intervals. They should also be included
+in the follow-up of contacts of a patient with infectious
+tuberculosis (see section III.A.7.).  4. Home-health services
+--For persons visiting the home of patients with suspected or
+confirmed infectious tuberculosis, precautions may be necessary
+to prevent exposure to air containing droplet nuclei until
+infectiousness has been eliminated by chemotherapy. These
+precautions include instructing patients to cover coughs and
+sneezes. The worker should wear a PR when entering the home or
+the patient's room.
+--Respiratory precautions in the home may be discontinued when
+the patient is improving clinically, cough has decreased, and the
+number of organisms in the sputum smear is decreasing. Usually
+this occurs within 2-3 weeks after tuberculosis medications are
+begun. Failure to take medications as prescribed and the presence
+of drug-resistant disease are the two most common reasons for a
+patient's failure to improve clinically. Home health-care
+personnel can assist in preventing tuberculosis transmission by
+educating the patient about the importance of taking medications
+as prescribed (unless adverse effects are seen).
+--If immunocompromised persons or young children live in the home
+with a patient who has infectious pulmonary or laryngeal
+tuberculosis, temporary relocation should be considered until the
+patient has negative sputum smears.
+--If cough-inducing procedures (such as AP) are performed in the
+home of a patient who may have infectious tuberculosis, they
+should be administered in a well-ventilated area away from other
+household members. Persons who perform these procedures should
+wear PRs while performing them.
+--Home health-care workers should be included in an
+employer-sponsored tuberculosis screening and prevention program
+(see section III.A.7.).
+--Early identification and treatment of persons with tuberculosis
+is important. Home health-care personnel and patients who are at
+risk for contracting active tuberculosis should be reminded
+periodically of the importance of having pulmonary symptoms
+evaluated.
+--Close contacts of any patient with active infectious
+tuberculosis should be evaluated for tuberculous infection and
+managed according to CDC and American Thoracic Society guidelines
+(5,65).  IV. Research Needs  Additional research is needed regarding the airborne
+transmission of tuberculosis including the following: a) better
+quantitating the risk of tuberculosis transmission in a variety
+of health-care settings, b) assessing the acceptability,
+efficacy, adverse impact, and cost-effectiveness of currently
+available methods for preventing transmission, and c) developing
+better methods for preventing transmission. These needs also
+extend to other infections transmitted by the airborne route.
+Currently, large numbers of immunosuppressed persons, including
+patients infected with HIV, are being brought together in
+health-care settings in which procedures are used that induce the
+generation of droplet nuclei. Research is needed to fill many of
+the gaps in current knowledge and to lead to new and better
+guidelines for protecting patients and personnel in these
+settings.  V. Glossary of Abbreviations  AFB
+Acid-fast bacilli--organisms that retain certain stains, even
+after being washed with acid alcohol. Most are mycobacteria. When
+seen on a stained smear of sputum or other clinical specimen, a
+diagnosis of tuberculosis should be considered.  AIDS
+Acquired immunodeficiency syndrome--an advanced stage of
+disease caused by infection with the human immunodeficiency virus
+(HIV). A patient with AIDS is especially susceptible to other
+infections.  AP
+Aerosolized pentamidine--drug treatment given to patients with
+HIV infection to treat or to prevent Pneumocystis carinii
+pneumonia. The drug is put into solution, the solution is
+aerosolized, and the patient inhales the aerosol.  ASHRAE
+American Society of Heating, Refrigerating, and Air
+Conditioning Engineers, Inc.  HEPA
+High-efficiency particulate air filter.
+HIV
+Human immunodeficiency virus--the virus that causes AIDS.
+HRSA
+Health Resources and Services Administration.
+PCP
+Pneumocystis carinii pneumonia--this organism does not cause
+disease among persons with a normal immune system.  PR
+A disposable, particulate respirator (respiratory protective
+device (face mask)) that is designed to filter out particles 1-5
+microns in diameter.  Tuberculous infection
+A condition in which tuberculosis organisms (M. tuberculosis,
+M. bovis, or M. africanum) are present in the body, but no active
+disease is evident.  Tuberculosis transmission
+Spread of tuberculosis organisms from one person to another,
+usually through the air.  UV
+Ultraviolet.  References  
+    CDC.  Nosocomial  transmission  of  multidrug-resistant   tuberculosis  to  health  care
+workers and HIV-infected patients in
+an urban hospital--Florida. MMWR 1990;39:718-22.  2. Pitchenik AR, Fertel D, Bloch AB.
+Mycobacterial disease:
+epidemiology, diagnosis, treatment, and prevention. Clin Chest
+Med 1988;9:425-41.  3. Selwyn PA, Hartel D, Lewis VA, et al. A prospective study of
+the risk of tuberculosis among intravenous drug users with human
+immunodeficiency virus infection. N Engl J Med 1989;320:545-50.  4. Di Perri G, Cruciani
+M, Danzi MC, et al. Nosocomial epidemic
+of active tuberculosis among HIV-infected patients. Lancet
+1989;23/30:1502-04.  5. CDC. Screening for tuberculosis and tuberculous infection in
+high-risk populations, and The use of preventive therapy for
+tuberculous infection in the United States: recommendations of
+the Advisory Committee for Elimination of Tuberculosis. MMWR
+1990;39(no. RR-8).  6. American Thoracic Society, CDC. Control of tuberculosis. Am
+Rev Respir Dis 1983;128:336-42.  7. American Thoracic Society, Ad Hoc Committee of
+the Scientific
+Assembly on Tuberculosis. Screening for pulmonary tuberculosis in
+institutions. Am Rev Respir Dis 1977;115:901-6.  8. CDC. Guidelines for prevention of TB
+transmission in
+hospitals. Atlanta, Georgia: US Department of Health and Human
+Services, Public Health Service, 1982; DHHS publication
+no.(CDC)82-8371.  9. Williams WW. Guideline for infection control in hospital
+personnel. Infect Control 1983;4(suppl):326-49.
+10. Garner JS, Simmons BP. Guideline for isolation precautions in
+hospitals. Infect Control 1983;4(suppl):245-325.
+11. American Thoracic Society, CDC. Diagnostic standards and
+classification of tuberculosis. Am Rev Respir Dis
+1990;142:725-35.).
+12. Wells WF. Aerodynamics of droplet nuclei. In: Airborne
+contagion and air hygiene. Cambridge: Harvard University Press,
+1955:13-9.
+13. Barrett-Connor E. The epidemiology of tuberculosis in
+physicians. JAMA 1979;241:33-8.
+14. Brennen C, Muder RR, Muraca PW. Occult endemic tuberculosis
+in a chronic care facility. Infect Control Hosp Epidemiol
+1988;9:548-52.
+15. Goldman KP. Tuberculosis in hospital doctors. Tubercle
+1988;69:237-40.
+16. Catanzaro A. Nosocomial tuberculosis. Am Rev Respir Dis
+1982;125:559-62.
+17. Ehrenkranz NJ, Kicklighter JL. Tuberculosis outbreak in a
+general hospital: evidence of airborne spread of infection. Ann
+Intern Med 1972;77:377-82.
+18. Haley CE, McDonald RC, Rossi L, et al. Tuberculosis epidemic
+among hospital personnel. Infect Control Hosp Epidemiol
+1989;10:204-10.
+19. Hutton MD, Stead WW, Cauthen GM, et al. Nosocomial
+transmission of tuberculosis associated with a draining
+tuberculous abscess. J Infect Dis 1990;161:286-95.
+20. Kantor HS, Poblete R, Pusateri SL. Nosocomial transmission of
+tuberculosis from unsuspected disease. Am J Med 1988;84:833-8.
+21. Lundgren R, Norrman E, Asberg I. Tuberculous infection
+transmitted at autopsy. Tubercle 1987;68:147-50.
+22. CDC. Mycobacterium tuberculosis transmission in a health
+clinic--Florida, 1988. MMWR 1989;38:256-64.
+23. Pitchenik AE, Cole C, Russell BW, et al. Tuberculosis,
+atypical mycobacteriosis, and the acquired immunodeficiency
+syndrome among Haitian and non-Haitian patients in South Florida.
+Ann Intern Med 1984;101:641-5.
+24. Maayan S, Wormser GP, Hewlett D, et al. Acquired
+immunodeficiency syndrome (AIDS) in an economically disadvantaged
+population. Arch Intern Med 1985;145:1607-12.
+25. Klein NC, Duncanson FP, Lenox TH III, et al. Use of
+mycobacterial smears in the diagnosis of pulmonary tuberculosis
+in AIDS/ARC patients. Chest 1989;95:1190-2.
+26. Burnens AP, Vurma-Rapp U. Mixed mycobacterial
+cultures-occurrence in the clinical laboratory. Zbl Bakt 1989;
+271:85-90.
+27. CDC. Tuberculosis and human immunodeficiency virus infection:
+recommendations of the Advisory Committee for the Elimination of
+Tuberculosis (ACET). MMWR 1989;38:236-8,243-50.
+28. Willcox PA, Benator SR, Potgieter PD. Use of flexible
+fiberoptic bronchoscope in diagnosis of sputum-negative pulmonary
+tuberculosis. Thorax 1982;37:598-601.
+29. Willcox PA, Potgieter PD, Bateman ED, Benator SR. Rapid
+diagnosis of sputum-negative miliary tuberculosis using the
+flexible fiberoptic bronchoscope. Thorax 1986;41:681-4.
+30. Canessa PA, Fasano L, Lavecchia MA, Torraca A, Schiattone ML.
+Tuberculin skin test in asymptomatic HIV seropositive carriers
+(Letter). Chest 1989;96:1215-6.
+31. Pitchenik AE, Rubinson HA. The radiographic appearance of
+tuberculosis in patients with the acquired immune deficiency
+syndrome (AIDS) and pre-AIDS. Am Rev Respir Dis 1985;131:393-6.
+32. Kiehn TE, Cammarata R. Laboratory diagnosis of mycobacterial
+infection in patients with acquired immunodeficiency syndrome. J
+Clin Microbiol 1986;24:708-11.  33. Crawford JT, Eisenach KD, Bates JH. Diagnosis of
+tuberculosis: present and future. Semin Resp Infect
+1989;4:171-81.
+34. Riley RL, Mills CC, O'Grady F, Sultan LU, Wittstadt F,
+Shivpuri DN. Infectiousness of air from a tuberculosis ward. Amer
+Rev Respir Dis 1962;85:511-25.
+35. Noble RC. Infectiousness of pulmonary tuberculosis after
+starting chemotherapy: review of the available data on an
+unresolved question. Am J Infect Control 1981;9:6-10.
+36. Woods JE. Cost avoidance and productivity in owning and
+operating buildings (state of the art review). Occup Med
+1989;4:753-70.
+37. American Conference of Governmental Industrial Hygienists.
+Industrial ventilation: a manual of recommended practice.
+Lansing, Michigan:ACGIH, 1988.
+38. Riley RL. Airborne infection. Am J Med 1974;57:466-75.
+39. American Society of Heating, Refrigerating, and Air
+Conditioning Engineers. Ventilation for acceptable indoor air
+quality. Atlanta, Georgia: ASHRAE, Inc., 1989 Standard 62-1989.
+40. American Society of Heating, Refrigerating, and Air
+Conditioning Engineers. 1987 ASHRAE handbook: heating,
+ventilating, and air-conditioning systems and applications.
+Atlanta, Georgia: American Society of Heating, Refrigerating, and
+Air Conditioning Engineers, Inc., 1987:23.1-23.12.
+41. Health Resources and Services Administration. Guidelines for
+construction and equipment of hospital and medical facilities.
+Rockville, Maryland.: US Department of Health & Human Services,
+Public Health Service, 1984;PHS publication no.(HRSA)84-14500.
+42. Woods JE, Rask DR. Heating, ventilation, air-conditioning
+systems: the engineering approach to methods of control. In:
+Kundsin RB, ed. Architectural design and indoor microbial
+pollution. New York: Oxford University Press, 1988:123-53.
+43. Riley RL, Nardell EA. Clearing the air: the theory and
+application of UV air disinfection. Am Rev Respir Dis
+1989;139:1286-94.
+44. Sherertz RJ, Belani A, Kramer BS, et al. Impact of air
+filtration on nosocomial Aspergillus infections. Am J Med
+1987;83:709-18.
+45. Rhame FS, Streifel AJ, Kersey JH, McGlave PB. Extrinsic risk
+factors for pneumonia in the patient at high risk of infection.
+Am J Med 1984;76:42-52.
+46. Opal SM, Asp AA, Cannady PB, Morse PL, Burton LJ, Hammer PG.
+Efficacy of infection control measures during a nosocomial
+outbreak of disseminated Aspergillus associated with hospital
+construction. J Infect Dis 1986;153:63-47.
+47. Collins FM. Relative susceptibility of acid-fast and
+non-acid-fast bacteria to ultraviolet light. Appl Microbiol
+1971;21:411-13.
+48. David HL, Jones WD Jr, Newman CM. Ultraviolet light
+inactivation and photoreactivation in the mycobacteria. Infect
+Immun 1971;4:318-19.
+49. David HL. Response of mycobacteria to ultraviolet light
+radiation. Am Rev Respir Dis 1973;108:1175-85.
+50. Riley RL, Knight M, Middlebrook G. Ultraviolet susceptibility
+of BCG and virulent tubercle bacilli. Am Rev Respir Dis
+1976;113:413-18.
+51. National Tuberculosis and Respiratory Disease Association.
+Guidelines for the general hospital in the admission and care of
+tuberculous patients. Am Rev Respir Dis 1969;99:631-3.
+52. CDC. Notes on air hygiene: summary of conference on air
+disinfection. Arch Environ Health 1971;22:473-4.
+53. Schieffelbein CW Jr, Snider DE Jr. Tuberculosis control among
+homeless populations. Arch Intern Med 1988;148:1843-6.
+54. CDC. Prevention and control of tuberculosis in correctional
+institutions: recommendations of the Advisory Committee for the
+Elimination of Tuberculosis. MMWR 1989;38:313-20,325.
+55. Stead WW. Clearing the air: the theory and application of
+ultraviolet air disinfection (Letter). Am Rev Respir Dis
+1989;140:1832.
+56. Macher JM. Ultraviolet radiation and ventilation to help
+control tuberculosis transmission: guidelines prepared for
+California Indoor Air Quality Program. Berkeley, CA: Air and
+Industrial Hygiene Laboratory, 1989.
+57. Riley RL, Kaufman JE. Effect of relative humidity on the
+inactivation of airborne Serratia marcescens by ultraviolet
+radiation. Appl Microbiol 1972;23:1113-20.
+58. The biological effects of ultraviolet radiation (with
+emphasis on the skin). In: Urbach F, ed. Proceedings of the 1st
+International Conference Sponsored Jointly by the Skin and Cancer
+Hospital, Temple University Health Sciences Center and the
+International Society of Biometeorology. Oxford, England:
+Pergamon Press, 1969.
+59. Riley RL. Ultraviolet air disinfection for control of
+respiratory contagion. In: Kundsin RB, ed. Architectural design
+and indoor microbial pollution. New York: Oxford University
+Press, 1988:175-97.
+60. National Institute for Occupational Safety and Health.
+Criteria for a recommended standard . . . occupational exposure
+to ultraviolet radiation. Washington, DC: National Institute for
+Occupational Safety and Health, 1972;publication
+no.(HSM)73-110009.
+61. Pippin DJ, Verderame RA, Weber KK. Efficacy of face masks in
+preventing inhalation of airborne contaminants. J Oral Maxillofac
+Surg 1987;45:319-23.
+62. Rutala WA. APIC guidelines for selection and use of
+disinfectants. Am J Infect Control 1990;18:99-117.
+63. Garner JS, Favero MS. Guideline for handwashing and hospital
+environmental control. Atlanta, Georgia: US Department of Health
+and Human Services, Public Health Service, CDC, 1985.
+64. NIOSH. Guide to industrial respiratory protection.
+Cincinnati, Ohio: US Department of Health and Human Services,
+Public Health Service, Centers for Disease Control, National
+Institute for Occupational Safety and Health. 1987;DHHS (NIOSH)
+publication no.87-116.
+65. American Thoracic Society, CDC. Treatment of tuberculosis and
+tuberculosis infection in adults and children, 1986. Am Rev
+Respir Dis 1986;134:355-63.
+66. Barrett-Connor E. The periodic chest roentgenogram for the
+control of tuberculosis in health care personnel. Am Rev Respir
+Dis 1980;122:153-5.
+67. Strong BE, Kubica GP. Isolation and identification of
+Mycobacterium tuberculosis. Atlanta, Georgia: US Department of
+Health and Human Services, Public Health Service, CDC, 1981; HHS
+publication no.(CDC)81-8390.
+68. CDC. Prevention and control of tuberculosis in facilities
+providing long-term care to the elderly. MMWR 1990;39(No. RR-10).
+69. Mutchler JE. Principles of ventilation. In: National
+Institute for Occupational Safety and Health. The industrial
+environment--its evaluation and control. Washington, DC: National
+Institute for Occupational Safety and Health, 1973. 
+Disclaimer
+   All MMWR HTML documents published before January 1993 are electronic conversions
+from ASCII text into HTML.  This conversion may have resulted in character translation
+or format errors in the HTML version.  Users should not rely on this HTML document, but
+are referred to the original MMWR paper copy for the official text, figures, and tables. 
+An  original  paper  copy  of  this  issue  can  be  obtained  from  the  Superintendent  of
+Documents,  U.S.  Government  Printing  Office  (GPO),  Washington,  DC  20402-9371;
+telephone:  (202)  512-1800.  Contact  GPO  for  current  prices.**Questions  or  messages
+regarding errors in formatting should be addressed to mmwrq@cdc.gov.  
+Disclaimer
+   All MMWR HTML documents published before January 1993 are electronic conversions
+from ASCII text into HTML.  This conversion may have resulted in character translation
+or format errors in the HTML version.  Users should not rely on this HTML document, but
+are referred to the original MMWR paper copy for the official text, figures, and tables. 
+An  original  paper  copy  of  this  issue  can  be  obtained  from  the  Superintendent  of
+Documents,  U.S.  Government  Printing  Office  (GPO),  Washington,  DC  20402-9371;
+telephone: (202) 512-1800. Contact GPO for current prices. Page converted: 08/05/98 
+    HOME  |  
+    ABOUT MMWR  | 
+    MMWR SEARCH  | 
+    DOWNLOADS  | 
+    RSS 
+    |  
+    CONTACT
+POLICY  |  
+    DISCLAIMER  |  
+    ACCESSIBILITY 
+Morbidity and Mortality Weekly Report
+                Centers for Disease Control and Prevention
+                1600 Clifton Rd, MailStop E-90, Atlanta, GA 
+                  30333, U.S.A 
+Department of Healthand Human Services This page last reviewed 5/2/01 
+ 
+Source URL: https://www.cdc.gov/mmwr/preview/mmwrhtml/00001897.htm

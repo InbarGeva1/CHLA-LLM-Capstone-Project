@@ -1,0 +1,89 @@
+A .gov website belongs to an official government organization in the United States. A
+lock (  ) or https:// means you've safely connected to the .gov website. Share sensitive
+information only on official, secure websites. 
+Related Topics:
+ When a pregnant person has HBV infection, it can pose a serious risk to their infant at
+birth. Infants with HBV infection have about a 90% chance of developing a chronic HBV
+infection.  Testing pregnant people for hepatitis B and providing pregnant people and
+infants with appropriate treatment and vaccination is the best way to prevent perinatal
+HBV infection.  The most common cause of perinatal HBV infection is when a pregnant
+person  with  HBV  infection  gives  birth  and  the  infant  does  not  receive  postexposure
+immunoprophylaxis  (hepatitis  B  birth  dose  and  hepatitis  B  immune  globulin  [HBIG])
+within 12 hours of birth1. An infant can also develop HBV infection through contact with
+blood or other bodily fluids from a person with HBV infection.  HBV infection can occur
+either  with  or  without  symptoms.  HBV  infection  can  be  identified  in  pregnant  people
+and infants with a confirmed positive hepatitis B surface antigen (HBsAg) test result. 
+Acute  hepatitis  B  infection  that  does  not  resolve  progresses  to  chronic,  or  long-term,
+HBV infection. The risk for chronic HBV infection varies according to the age at infection
+and is greatest among young children. Approximately 90% of infants with HBV infection
+and 30% of children between ages 1–5 years with HBV infection will develop a chronic
+HBV  infection.  By  contrast,  approximately  95%  of  adults  with  HBV  infection  recover
+completely  and  do  not  become  chronically  infected.   In  2021,  an  estimated  17,827
+infants  were  born  to  HBsAg-positive  people  in  the  United  States,  representing  nearly
+0.5% of all births. Births to US-born and non-US-born people comprised 79% and 20% of
+all births, respectively, and 46% and 53% of estimated births to HBsAg-positive people,
+respectively.2  CDC  collects,  analyzes,  and  reports  outcome  data  on  infants  born  to
+people  with  HBV  infection.  This  intervention  is  called  the  Perinatal  Hepatitis  B
+Prevention  Program  (PHBPP).3   Learn  more  about  PHBPP  outcome  data.   Infants  and
+children younger than 5 are typically asymptomatic.  If symptoms develop, they usually
+appear about 90 days after exposure (range: 60–150 days).  When present, signs and
+symptoms of HBV infection can include:  Learn more about signs and symptoms of HBV
+infection.  CDC's  Advisory  Committee  on  Immunization  Practices  (ACIP)  recommends
+that  all  infants  receive  hepatitis  B  vaccine  (HepB)  at  birth,  regardless  of  the  HBV
+infection status of the birthing parent1. Infants born to HBsAg-positive people require
+HepB  vaccine  and  HBIG  within  12  hours  of  birth  to  protect  them  from  infection.
+However,  because  errors  or  delays  in  testing,  reporting,  and  documenting  perinatal
+HBsAg status can and do occur, administering the first dose of HepB vaccine soon after
+birth to all infants acts as a safety net, reducing the risk for perinatal transmission when
+the HBsAg status of the parent is either unknown or incorrectly documented at delivery.
+Also,  initiating  the  HepB  vaccine  series  at  birth  has  been  shown  to  increase  a  child's
+likelihood  of  completing  the  vaccine  series  on  schedule.   Clinicians  should  screen  all
+pregnant  people  for  HBsAg  during  each  pregnancy,  preferably  in  the  first  trimester,
+regardless  of  vaccination  status,  chronic  disease,  or  testing  history.  A  confirmed
+positive  HBsAg  test  result  indicates  current  HBV  infection.   Clinicians  should  test  all
+infants born to an HBsAg-positive person that have completed the HepB vaccine series.
+Clinicians should test the infants for HBsAg and antibody to hepatitis B surface antigen
+(anti-HBs) at 9–12 months of age, or 1–2 months after vaccine series completion if the
+series is delayed.  To learn more about perinatal screening and testing, see perinatal
+testing guidelines. Once a clinician has confirmed test results, they can make treatment
+and management decisions. All infants born to people who are HBsAg-positive should
+receive  HepB  vaccine  and  HBIG  within  12  hours  of  birth,  administered  at  different
+injection sites (e.g., separate limbs). Only single-antigen HepB vaccine should be used
+for  the  birth  dose.   *  Administer  the  final  dose  no  earlier  than  6  months  of  age
+(minimum  age  of  164  days  includes  4-day  grace  period).  Complete  PVST  at  9–12
+months of age (or 1–2 months after final dose if series is delayed) by testing for ONLY
+HBsAg  and  anti-HBs.  Do  NOT  test  for  anti-HBc.  The  HepB  vaccine  series  should  be
+completed  according  to  the  recommended  schedule  above  for  infants  born  to  an
+HBsAg-positive parent. The final dose in the series should not be administered before
+the age of 24 weeks (164 days). Download a printable version of this vaccination series
+here.  Other important things to keep in mind:  For more information on management of
+infants, see Tip Sheet — Hepatitis B Screening, Testing, and Management of Pregnant
+Persons  for  Obstetricians.   Clinicians  should  provide  all  pregnant  persons  who  test
+HBsAg-positive  with:   HBV  infection  in  a  pregnant  person  poses  a  serious  risk  to  an
+infant at birth. Without timely postexposure immunoprophylaxis, approximately 90% of
+infants  born  to  HBsAg-positive  people  in  the  US  will  acquire  chronic  HBV  infection,
+approximately one-fourth of whom will eventually die from chronic liver disease.  CDC,
+in collaboration with the Council of State and Territorial Epidemiologists, has developed
+case definitions to provide uniform clinical and laboratory-testing criteria of identifying
+and  reporting  nationally  notifiable  infections  diseases.   To  learn  more  about
+classification  of  perinatal  hepatitis  B  cases,  visit  the:  National  Notifiable  Diseases
+Surveillance System (NNDSS).  HBV infection in a pregnant person poses a serious risk
+to  an  infant  at  birth.  Without  timely  postexposure  immunoprophylaxis,  approximately
+90%  of  infants  born  to  HBsAg-positive  people  in  the  US  will  acquire  chronic  HBV
+infection,  approximately  one-fourth  of  whom  will  eventually  die  from  chronic  liver
+disease.  Since 1990, CDC has funded public health jurisdictions (regions managed by
+state or local public health agencies) to identify pregnant people with HBV infection and
+case manage their infants to prevent parent-to-child transmission of HBV infection. The
+national PHBPP aims to ensure infants born to people with HBV infection receive timely
+postexposure immunoprophylaxis, complete a full series of HepB vaccine, and receive
+PVST  after  a  complete  series  to  confirm  immunity,  identify  infants  needing
+revaccination, and identify infants who are infected. PHBPP-funded jurisdictions follow
+these  infants  for  up  to  24  months  to  monitor  completion  of  these  recommended
+interventions.3 Learn more about PHBPP outcome data.  When a Pregnant Woman Has
+Hepatitis B: These one-page resource covers the preventative measures a parent with
+hepatitis  B  can  take  to  protect  their  baby.  Hepatitis  B  and  Your  Baby:  This  one-page
+resource covers the benefits of Hep B vaccine for parents and their infants. Learn more
+about  hepatitis  B,  a  liver  disease  caused  by  the  hepatitis  B  virus  (HBV).  Find  HBV
+information  for  the  public  and  health  professionals.  Languages  Language  Assistance
+Languages  Language Assistance 
+Source URL: https://www.cdc.gov/hepatitis-b/hcp/perinatal-provider-overview/index.html

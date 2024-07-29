@@ -1,0 +1,70 @@
+Official websites use .gov A .gov website belongs to an official government organization
+in  the  United  States.  Secure  .gov  websites  use  HTTPS  A  lock  (   )  or  https://  means
+you've  safely  connected  to  the  .gov  website.  Share  sensitive  information  only  on
+official,  secure  websites.  CDC  works  with  federal,  state,  and  local  partners  to  reduce
+antibiotic  resistance  and  protect  the  public’s  health.  This  work  includes  investigating
+outbreaks  caused  by  resistant  bacteria,  identifying  new  antibiotic  resistance  threats,
+and recommending ways to help prevent illnesses and outbreaks caused by resistant
+bacteria. The National Antimicrobial Resistance Monitoring System (NARMS) assists in
+outbreak investigations by testing bacteria from sick people, animals, and retail meats
+for antibiotic resistance. When paired with information collected during interviews with
+sick people about what they ate or were exposed to before becoming ill, resistance data
+can  provide  investigators  with  clues  about  the  source  of  outbreaks.  This  glossary
+defines  some  key  terms  related  to  antibiotic  resistance  that  CDC  uses  to  describe
+multistate  outbreak  investigations.  Antibiotic:  A  drug  that  kills  or  stops  the  growth  of
+bacteria.  Antibiotics  are  a  type  of  antimicrobial.  Penicillin  and  ciprofloxacin  are
+examples  of  antibiotics.  Antibiotic  resistance:  Antimicrobial  resistance  of  bacteria.
+Antibiotic  resistance  testing  (also  known  as  antimicrobial  susceptibility  testing):
+Laboratory testing performed on bacteria to find out if they are resistant to one or more
+antibiotics.  Antimicrobial:  A  substance,  such  as  an  antibiotic,  that  kills  or  stops  the
+growth  of  microbes,  including  bacteria,  fungi,  or  viruses.  Antimicrobials  are  grouped
+according to the microbes they act against (antibiotics, antifungals, and antivirals). Also
+referred to as drugs. Antimicrobial resistance: The ability of a microbe (germ) to resist
+the effects of a drug. Antimicrobial-resistant germs are not killed by the drugs that are
+typically  used  against  them  and  may  continue  to  multiply.  Antimicrobial  resistance
+includes  antibacterial,  antifungal,  and  antiviral  resistance.  Learn  more  about
+antimicrobial  resistance.  Antimicrobial  susceptibility  testing  (AST):  Laboratory  testing
+performed on microbes to find out if they are susceptible or resistant to one or more
+drugs.  Results  of  antimicrobial  susceptibility  testing  show  if  bacteria  are  susceptible
+(can be treated with the drug), intermediate (may be treatable with the drug, but may
+require  adjusted  dosage),  or  resistant  (cannot  be  treated  with  drug).  AST  is  also
+referred  to  as  antibiotic  susceptibility  testing  when  tests  are  being  performed  on
+bacteria.  Bacteria:  Single-celled  organisms  that  live  in  and  around  us  with  a  distinct
+structure  from  other  microbes.  Bacteria  can  be  helpful,  but  can  also  cause  illnesses
+such  as  strep  throat,  ear  infections,  and  pneumonia.  Drug  class:  Antibiotics  are
+categorized into classes of drugs. Each class is defined by the way it kills or stops the
+growth of bacteria. NARMS uses the Clinical and Laboratory Standards Institute’s drug
+classes   to  categorize  antibiotics.  Genes:  Genes,  which  are  made  up  of  DNA,  are  the
+basic units that define the characteristics of every organism. Genes carry information
+that  determine  traits,  such  as  eye  color  in  humans  and  resistance  to  antibiotics  in
+bacteria.  Genome:  A  genome  is  an  organism’s  complete  set  of  genes  that  carry  the
+genetic  instructions  for  building  and  maintaining  that  organism.  Isolates:  Bacteria
+isolated  from  a  specimen  (e.g.,  stool,  blood,  food).  Microbes:  Living  organisms,  like
+bacteria,  fungi,  or  viruses,  which  can  cause  infections  or  disease.  Also  referred  to  as
+germs.  Multidrug-resistant  (MDR)  isolate:  CDC  typically  uses  this  term  to  refer  to  an
+isolate  that  is  resistant  to  at  least  one  antibiotic  in  three  or  more  drug  classes.
+Non-susceptible isolate: An isolate that is either resistant or not completely susceptible
+to  one  or  more  antibiotics.  Organism:  any  living  thing,  including  humans,  animals,
+plants,  and  microbes.  Panel:  A  set  of  antibiotics  used  to  determine  if  an  isolate  is
+resistant to antibiotics and, if so, which ones. The set of antibiotics used differs by type
+of  bacteria  being  tested.  Predicted  resistance  pattern:  The  antimicrobial  resistance
+expected  based  on  analysis  of  an  organism’s  genome.  This  analysis  identifies
+resistance genes and mutations. Resistant isolate: An isolate that is resistant to one or
+more  antibiotics.  Resistance  determinant  (or  resistance  mechanism):  A  catch-all  term
+that includes both resistance genes and resistance mutations that give a microbe the
+ability to resist the effects of one or more drugs. Resistance gene: A gene that gives
+microbes  the  ability  to  resist  the  effects  of  one  or  more  drugs.  The  gene  may  be
+naturally  present  in  the  microbe,  or  it  may  be  transferred  from  other  microbes.
+Resistance  mutation:  A  change  in  the  normal  genetic  code  that  gives  a  microbe  the
+ability to resist the effects of one or more drugs. Resistance pattern: A description of
+the antibiotic resistance testing results for an isolate. Resistance profile: A description
+of the resistance patterns for all isolates in an investigation. A resistance profile differs
+from  a  resistance  pattern,  which  refers  to  the  characteristics  of  a  single  isolate.
+Specimen:  A  sample  collected  for  laboratory  testing.  During  outbreak  investigations,
+samples  may  be  collected  from  the  blood,  stool,  or  another  location  of  a  human  or
+animal, and from food and the environment. Susceptible isolate: An isolate that is not
+resistant to any of the antibiotics tested. Whole genome sequencing: A technology that
+determines the genetic code (genome) of an organism (for example, people, bacteria,
+and viruses). Learn more about whole genome sequencing. NARMS Isolate Submission
+Login
+Source URL: https://www.cdc.gov/narms/resources/glossary.html

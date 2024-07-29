@@ -1,0 +1,617 @@
+A .gov website belongs to an official government organization in the United States. A
+lock (  ) or https:// means you've safely connected to the .gov website. Share sensitive
+information only on official, secure websites. Recommendations from the Guideline for
+Isolation  Precautions:  Preventing  Transmission  of  Infectious  Agents  in  Healthcare
+Settings  (2007).  These  recommendations  are  designed  to  prevent  transmission  of
+infectious agents among patients and healthcare personnel inpatients with suspected
+or  proven  SARS  all  settings  where  healthcare  is  delivered.  As  in  other  CDC/HICPAC
+guidelines, each recommendation is categorized on the basis of existing scientific data,
+theoretical  rationale,  applicability,  and  when  possible,  economic  impact.  The
+CDC/HICPAC  system  for  categorizing  recommendations  is  as  follows:  Category  IA
+Strongly  recommended  for  implementation  and  strongly  supported  by  well-designed
+experimental, clinical, or epidemiologic studies. Category IB Strongly recommended for
+implementation and supported by some experimental, clinical, or epidemiologic studies
+and  a  strong  theoretical  rationale.  Category  IC  Required  for  implementation,  as
+mandated  by  federal  and/or  state  regulation  or  standard.  Category  II  Suggested  for
+implementation  and  supported  by  suggestive  clinical  or  epidemiologic  studies  or  a
+theoretical  rationale.  No  recommendation;  unresolved  issue.  Practices  for  which
+insufficient evidence or no consensus regarding efficacy exists. Healthcare organization
+administrators should ensure the implementation of recommendations in this section.
+I.A. Incorporate preventing transmission of infectious agents into the objectives of the
+organization's  patient  and  occupational  safety  programs.543-546,  561,  620,  626,  946
+Category IB/IB I.B. Make preventing transmission of infectious agents a priority for the
+healthcare  organization.  Provide  administrative  support,  including  fiscal  and  human
+resources for maintaining infection control programs.434, 548, 549, 559, 561, 566, 662,
+552, 562-564, 946 Category IB/IB I.B.1. Assure that individuals with training in infection
+control are employed by or are available by contract to all healthcare facilities so that
+the infection control program is managed by one or more qualified individuals.552, 566,
+316,  575,  947,  573,  576,  946  Category  IB/IB  I.B.1.a.  Determine  the  specific  infection
+control  full-time  equivalents  (FTEs)  according  to  the  scope  of  the  infection  control
+program, the complexity of the healthcare facility or system, the characteristics of the
+patient  population,  the  unique  or  urgent  needs  of  the  facility  and  community,  and
+proposed  staffing  levels  based  on  survey  results  and  recommendations  from
+professional organizations.434, 549, 552, 566, 316, 569, 573, 575, 948, 949 Category
+IB I.B.2. Include prevention of healthcare-associated infections (HAI) as one determinant
+of bedside nurse staffing levels and composition, especially in high-risk units.585-589,
+590, 592, 593, 551, 594, 595, 418, 596, 597, 583 Category IB I.B.3. Delegate authority
+to infection control personnel or their designees (e.g., patient care unit charge nurses)
+for making infection control decisions concerning patient placement and assignment of
+Transmission-Based Precautions.549, 434, 857, 946 Category IB I.B.4. Involve infection
+control personnel in decisions on facility construction and design, determination of AIIR
+and  Protective  Environment  capacity  needs  and  environmental  assessments.11,  13,
+950, 951, 12 Category IB/IB I.B.4.a. Provide ventilation systems required for a sufficient
+number of AIIRs (as determined by a risk assessment) and Protective Environments in
+healthcare facilities that provide care to patients for whom such rooms are indicated,
+according  to  published  recommendations.11-13,  15  Category  IB/IB  I.B.5.  Involve
+infection  control  personnel  in  the  selection  and  post-implementation  evaluation  of
+medical equipment and supplies and changes in practice that could affect the risk of
+HAI.952,  953  Category  IB  I.B.6.  Ensure  availability  of  human  and  fiscal  resources  to
+provide  clinical  microbiology  laboratory  support,  including  a  sufficient  number  of
+medical technologists trained in microbiology, appropriate to the healthcare setting, for
+monitoring  transmission  of  microorganisms,  planning  and  conducting  epidemiologic
+investigations,  and  detecting  emerging  pathogens.  Identify  resources  for  performing
+surveillance  cultures,  rapid  diagnostic  testing  for  viral  and  other  selected  pathogens,
+preparation  of  antimicrobial  susceptibility  summary  reports,  trend  analysis,  and
+molecular  typing  of  clustered  isolates  (performed  either  on-site  or  in  a  reference
+laboratory) and use these resources according to facility-specific epidemiologic needs,
+in consultation with clinical microbiologists.553, 609, 610, 612, 617, 954, 614, 603, 615,
+616,  605,  599,  554,  598,  606,  607  Category  IB  I.B.7.  Provide  human  and  fiscal
+resources  to  meet  occupational  health  needs  related  to  infection  control  (e.g.,
+healthcare personnel immunization, post-exposure evaluation and care, evaluation and
+management  of  healthcare  personnel  with  communicable  infections.739,  12,  17,
+879-881, 955, 134, 690 Category IB/IB I.B.8. In all areas where healthcare is delivered,
+provide supplies and equipment necessary for the consistent observance of Standard
+Precautions, including hand hygiene products and personal protective equipment (e.g.,
+gloves, gowns, face and eye protection).739, 559, 946 Category IB/IB I.B.9. Develop and
+implement policies and procedures to ensure that reusable patient care equipment is
+cleaned  and  reprocessed  appropriately  before  use  on  another  patient.11,  956,  957,
+958, 959, 836, 87, 11, 960, 961 Category IA/IB I.C. Develop and implement processes to
+ensure oversight of infection control activities appropriate to the healthcare setting and
+assign responsibility for oversight of infection control activities to an individual or group
+within  the  healthcare  organization  that  is  knowledgeable  about  infection  control.434,
+549,  566  Category  II  I.D.  Develop  and  implement  systems  for  early  detection  and
+management  (e.g.,  use  of  appropriate  infection  control  measures,  including  isolation
+precautions, PPE) of potentially infectious persons at initial points of patient encounter
+in  outpatient  settings  (e.g.,  triage  areas,  emergency  departments,  outpatient  clinics,
+physician offices) and at the time of admission to hospitals and long-term care facilities
+(LTCF).9,  122,  134,  253,  827  Category  IB  I.E.  Develop  and  implement  policies  and
+procedures  to  limit  patient  visitation  by  persons  with  signs  or  symptoms  of  a
+communicable infection. Screen visitors to high-risk patient care areas (e.g., oncology
+units,  hematopoietic  stem  cell  transplant  [HSCT]  units,  intensive  care  units,  other
+severely  immunocompromised  patients)  for  possible  infection.43,  24,  41,  962,
+963Category
+ IB
+ I.F.
+ Identify
+ performance
+ indicators
+ of
+ the
+ effectiveness
+ of
+organization-specific measures to prevent transmission of infectious agents (Standard
+and  Transmission-Based  Precautions),  establish  processes  to  monitor  adherence  to
+those  performance  measures  and  provide  feedback  to  staff  members.704,  739,  705,
+708, 666, 964, 667, 668, 555 Category IB II.A. Provide job- or task-specific education
+and training on preventing transmission of infectious agents associated with healthcare
+during  orientation  to  the  healthcare  facility;  update  information  periodically  during
+ongoing  education  programs.  Target  all  healthcare  personnel  for  education  and
+training,  including  but  not  limited  to  medical,  nursing,  clinical  technicians,  laboratory
+staff;  property  service  (housekeeping),  laundry,  maintenance  and  dietary  workers;
+students, contract staff and volunteers. Document competency initially and repeatedly,
+as  appropriate,  for  the  specific  staff  positions.  Develop  a  system  to  ensure  that
+healthcare personnel employed by outside agencies meet these education and training
+requirements  through  programs  offered  by  the  agencies  or  by  participation  in  the
+healthcare facility's program designed for full-time personnel.126, 559, 561, 562, 655,
+681-684, 686, 688, 689, 702, 893, 919, 965 Category IB II.A.1. Include in education and
+training  programs,  information  concerning  use  of  vaccines  as  an  adjunctive  infection
+control measure.17, 611, 690, 874 Category IB II.A.2. Enhance education and training
+by applying principles of adult learning, using reading level and language appropriate
+material  for  the  target  audience,  and  using  online  educational  tools  available  to  the
+institution.658,  694,  695,  697,  698,  700,  966  Category  IB  II.B.  Provide  instructional
+materials  for  patients  and  visitors  on  recommended  hand  hygiene  and  Respiratory
+Hygiene/Cough  Etiquette  practices  and  the  application  of  Transmission-Based
+Precautions.9,
+ 709,
+ 710,
+ 963
+ Category
+ II
+ III.A.
+ Monitor
+ the
+ incidence
+ of
+epidemiologically-important organisms and targeted HAIs that have substantial impact
+on  outcome  and  for  which  effective  preventive  interventions  are  available;  use
+information collected through surveillance of high-risk populations, procedures, devices
+and highly transmissible infectious agents to detect transmission of infectious agents in
+the healthcare facility.566, 671, 672, 675, 687, 919, 967, 968, 673, 969, 970 Category
+IA III.B. Apply the following epidemiologic principles of infection surveillance.671, 967,
+673, 969, 663, 664 Category IB III.C. Develop and implement strategies to reduce risks
+for transmission and evaluate effectiveness.566, 673, 684, 970, 963, 971 Category IB
+III.D.  When  transmission  of  epidemiologically-important  organisms  continues  despite
+implementation  and  documented  adherence  to  infection  prevention  and  control
+strategies,  obtain  consultation  from  persons  knowledgeable  in  infection  control  and
+healthcare epidemiology to review the situation and recommend additional measures
+for  control.566  247,  687  Category  IB  III.E.  Review  periodically  information  on
+community
+ or
+ regional
+ trends
+ in
+ the
+ incidence
+ and
+ prevalence
+ of
+epidemiologically-important organisms (e.g., influenza, RSV, pertussis, invasive group A
+streptococcal  disease,  MRSA,  VRE)  (including  in  other  healthcare  facilities)  that  may
+impact transmission of organisms within the facility.398, 687, 972, 973, 974 Category II
+Assume  that  every  person  is  potentially  infected  or  colonized  with  an  organism  that
+could be transmitted in the healthcare setting and apply the following infection control
+practices during the delivery of health care. IV.A.1. During the delivery of healthcare,
+avoid unnecessary touching of surfaces in close proximity to the patient to prevent both
+contamination  of  clean  hands  from  environmental  surfaces  and  transmission  of
+pathogens  from  contaminated  hands  to  surfaces.72,  73,  739,  800,  975{CDC,  2001
+#970  Category  IB/IB  IV.A.2.  When  hands  are  visibly  dirty,  contaminated  with
+proteinaceous  material,  or  visibly  soiled  with  blood  or  body  fluids,  wash  hands  with
+either  a  nonantimicrobial  soap  and  water  or  an  antimicrobial  soap  and  water.559
+Category IA IV.A.3. If hands are not visibly soiled, or after removing visible material with
+nonantimicrobial  soap  and  water,  decontaminate  hands  in  the  clinical  situations
+described  in  IV.A.3.a-f..  The  preferred  method  of  hand  decontamination  is  with  an
+alcohol-based  hand  rub.562,  978  Alternatively,  hands  may  be  washed  with  an
+antimicrobial  soap  and  water.  Frequent  use  of  alcohol-based  hand  rub  immediately
+following  handwashing  with  nonantimicrobial  soap  may  increase  the  frequency  of
+dermatitis.559 Category IB IV.A.3.a. Before having direct contact with patients.664, 979
+Category  IB  IV.A.3.b.  After  contact  with  blood,  body  fluids  or  excretions,  mucous
+membranes, nonintact skin, or wound dressings.664 Category IA IV.A.3.c. After contact
+with  a  patient's  intact  skin  (e.g.,  when  taking  a  pulse  or  blood  pressure  or  lifting  a
+patient).167,  976,  979,  980  Category  IB  IV.A.3.d.  If  hands  will  be  moving  from  a
+contaminated-body  site  to  a  clean-body  site  during  patient  care.  Category  II  IV.A.3.e.
+After  contact  with  inanimate  objects  (including  medical  equipment)  in  the  immediate
+vicinity  of  the  patient.72,  73,  88,  800,  981,  982  Category  II  IV.A.3.f.  After  removing
+gloves.728, 741, 742 Category IB IV.A.4. Wash hands with non-antimicrobial soap and
+water  or  with  antimicrobial  soap  and  water  if  contact  with  spores  (e.g.,  C.  difficile  or
+Bacillus anthracis) is likely to have occurred. The physical action of washing and rinsing
+hands  under  such  circumstances  is  recommended  because  alcohols,  chlorhexidine,
+iodophors, and other antiseptic agents have poor activity against spores.559, 956, 983
+Category II IV.A.5. Do not wear artificial fingernails or extenders if duties include direct
+contact with patients at high risk for infection and associated adverse outcomes (e.g.,
+those in ICUs or operating rooms).30, 31, 559, 722-724 Category IA IV.A.5.a. Develop
+an  organizational  policy  on  the  wearing  of  non-natural  nails  by  healthcare  personnel
+who  have  direct  contact  with  patients  outside  of  the  groups  specified  above.984
+Category  II  IV.B.1.a.  Wear  PPE,  as  described  in  IV.B.2-4,when  the  nature  of  the
+anticipated  patient  interaction  indicates  that  contact  with  blood  or  body  fluids  may
+occur.739, 780, 896 Category IB/IB IV.B.1.b. Prevent contamination of clothing and skin
+during the process of removing PPE (see Figure). Category II IV.B.1.c. Before leaving the
+patient's room or cubicle, remove and discard PPE.18, 739 Category IB/IB IV.B.2.a. Wear
+gloves  when  it  can  be  reasonably  anticipated  that  contact  with  blood  or  other
+potentially  infectious  materials,  mucous  membranes,  nonintact  skin,  or  potentially
+contaminated intact skin (e.g., of a patient incontinent of stool or urine) could occur.18,
+728,  739,  741,  780,  985  Category  IB/IB  IV.B.2.b.  Wear  gloves  with  fit  and  durability
+appropriate  to  the  task.559,  731,  732,  739,  986,  987  Category  IB  IV.B.2.b.i.  Wear
+disposable  medical  examination  gloves  for  providing  direct  patient  care.  IV.B.2.b.ii.
+Wear disposable medical examination gloves or reusable utility gloves for cleaning the
+environment  or  medical  equipment.  IV.B.2.c.  Remove  gloves  after  contact  with  a
+patient  and/or  the  surrounding  environment  (including  medical  equipment)  using
+proper  technique  to  prevent  hand  contamination  (see  Figure).  Do  not  wear  the  same
+pair of gloves for the care of more than one patient. Do not wash gloves for the purpose
+of  reuse  since  this  practice  has  been  associated  with  transmission  of  pathogens.559,
+728, 741-743, 988 Category IB IV.B.2.d. Change gloves during patient care if the hands
+will move from a contaminated body-site (e.g., perineal area) to a clean body-site (e.g.,
+face). Category II IV.B.3.a. Wear a gown, that is appropriate to the task, to protect skin
+and  prevent  soiling  or  contamination  of  clothing  during  procedures  and  patient-care
+activities  when  contact  with  blood,  body  fluids,  secretions,  or  excretions  is
+anticipated.739,  780,  896  Category  IB/IC  IV.B.3.a.i.  Wear  a  gown  for  direct  patient
+contact  if  the  patient  has  uncontained  secretions  or  excretions.24,  88,  89,  739,  744
+Category IB/IC IV.B.3.a.ii. Remove gown and perform hand hygiene before leaving the
+patient's environment24, 88, 89, 739, 744 Category IB/IC IV.B.3.b. Do not reuse gowns,
+even for repeated contacts with the same patient. Category II IV.B.3.c. Routine donning
+of  gowns  upon  entrance  into  a  high  risk  unit  (e.g.,  ICU,  NICU,  HSCT  unit)  is  not
+indicated.365,  747-750  Category  IB  IV.B.4.a.  Use  PPE  to  protect  the  mucous
+membranes of the eyes, nose and mouth during procedures and patient-care activities
+that  are  likely  to  generate  splashes  or  sprays  of  blood,  body  fluids,  secretions  and
+excretions. Select masks, goggles, face shields, and combinations of each according to
+the need anticipated by the task performed.113, 739, 780, 896 Category IB/IB IV.B.5.
+During aerosol-generating procedures (e.g., bronchoscopy, suctioning of the respiratory
+tract  [if  not  using  in-line  suction  catheters],  endotracheal  intubation)  in  patients  who
+are  not  suspected  of  being  infected  with  an  agent  for  which  respiratory  protection  is
+otherwise  recommended  (e.g.,  M.  tuberculosis,  SARS  or  hemorrhagic  fever  viruses),
+wear one of the following: a face shield that fully covers the front and sides of the face,
+a  mask  with  attached  shield,  or  a  mask  and  goggles  (in  addition  to  gloves  and
+gown).95, 96, 113, 126, 93, 94, 134 Category IB IV.C.1. Educate healthcare personnel
+on  the  importance  of  source  control  measures  to  contain  respiratory  secretions  to
+prevent  droplet  and  fomite  transmission  of  respiratory  pathogens,  especially  during
+seasonal outbreaks of viral respiratory tract infections (e.g., influenza, RSV, adenovirus,
+parainfluenza virus) in communities.14, 24, 684, 10, 262 Category IB IV.C.2. Implement
+the following measures to contain respiratory secretions in patients and accompanying
+individuals who have signs and symptoms of a respiratory infection, beginning at the
+point  of  initial  encounter  in  a  healthcare  setting  (e.g.,  triage,  reception  and  waiting
+areas in emergency departments, outpatient clinics and physician offices).20, 24, 145,
+902,  989  IV.C.2.a.  Post  signs  at  entrances  and  in  strategic  places  (e.g.,  elevators,
+cafeterias)  within  ambulatory  and  inpatient  settings  with  instructions  to  patients  and
+other  persons  with  symptoms  of  a  respiratory  infection  to  cover  their  mouths/noses
+when coughing or sneezing, use and dispose of tissues, and perform hand hygiene after
+hands  have  been  in  contact  with  respiratory  secretions.  Category  II  IV.C.2.b.  Provide
+tissues  and  no-touch  receptacles  (e.g.,foot-pedal-operated  lid  or  open,  plastic-lined
+waste  basket)  for  disposal  of  tissues.20  Category  II  IV.C.2.c.  Provide  resources  and
+instructions  for  performing  hand  hygiene  in  or  near  waiting  areas  in  ambulatory  and
+inpatient settings; provide conveniently-located dispensers of alcohol-based hand rubs
+and, where sinks are available, supplies for handwashing.559, 903 Category IB IV.C.2.d.
+During periods of increased prevalence of respiratory infections in the community (e.g.,
+as  indicated  by  increased  school  absenteeism,  increased  number  of  patients  seeking
+care  for  a  respiratory  infection),  offer  masks  to  coughing  patients  and  other
+symptomatic  persons  (e.g.,  persons  who  accompany  ill  patients)  upon  entry  into  the
+facility  or  medical  office.126,  899,  898  and  encourage  them  to  maintain  special
+separation,  ideally  a  distance  of  at  least  3  feet,  from  others  in  common  waiting
+areas.23,  103,  111,  114,  20,  134  Category  IB  IV.C.2.d.i.  Some  facilities  may  find  it
+logistically  easier  to  institute  this  recommendation  year-round  as  a  standard  of
+practice. Category II IV.D.1. Include the potential for transmission of infectious agents in
+patient-placement decisions. Place patients who pose a risk for transmission to others
+(e.g.,  uncontained  secretions,  excretions  or  wound  drainage;  infants  with  suspected
+viral  respiratory  or  gastrointestinal  infections)  in  a  single-patient  room  when
+available.24,  430,  435,  796,  797,  806,  990,  410,  793  Category  IB  IV.D.2.  Determine
+patient  placement  based  on  the  following  principles:  Category  II  IV.E.1.  Establish
+policies  and  procedures  for  containing,  transporting,  and  handling  patient-care
+equipment  and  instruments/devices  that  may  be  contaminated  with  blood  or  body
+fluids.18,  739,  975  Category  IB/IB  IV.E.2.  Remove  organic  material  from  critical  and
+semi-critical instrument/devices, using recommended cleaning agents before high level
+disinfection  and  sterilization  to  enable  effective  disinfection  and  sterilization
+processes.836, 991, 992 Category IA IV.E.3. Wear PPE (e.g., gloves, gown), according to
+the  level  of  anticipated  contamination,  when  handling  patient-care  equipment  and
+instruments/devices  that  is  visibly  soiled  or  may  have  been  in  contact  with  blood  or
+body  fluids.18,  739,  975  Category  IB/IB  IV.F.1.  Establish  policies  and  procedures  for
+routine  and  targeted  cleaning  of  environmental  surfaces  as  indicated  by  the  level  of
+patient contact and degree of soiling.11 Category II IV.F.2. Clean and disinfect surfaces
+that  are  likely  to  be  contaminated  with  pathogens,  including  those  that  are  in  close
+proximity  to  the  patient  (e.g.,  bed  rails,  over  bed  tables)  and  frequently-touched
+surfaces in the patient care environment (e.g., door knobs, surfaces in and surrounding
+toilets  in  patients'  rooms)  on  a  more  frequent  schedule  compared  to  that  for  other
+surfaces  (e.g.,  horizontal  surfaces  in  waiting  rooms).11,  73,  740,  746,  993,  994,  72,
+800,  835,  995  Category  IB  IV.F.3.  Use  EPA-registered  disinfectants  that  have
+microbiocidal (i.e., killing) activity against the pathogens most likely to contaminate the
+patient-care environment. Use in accordance with manufacturer's instructions.842-844,
+956,  996  Category  IB/IB  IV.F.3.a.  Review  the  efficacy  of  in-use  disinfectants  when
+evidence of continuing transmission of an infectious agent (e.g., rotavirus, C. difficile,
+norovirus) may indicate resistance to the in-use product and change to a more effective
+disinfectant  as  indicated.275,  842,  847  Category  II  IV.F.4.  In  facilities  that  provide
+health  care  to  pediatric  patients  or  have  waiting  areas  with  child  play  toys  (e.g.,
+obstetric/gynecology offices and clinics), establish policies and procedures for cleaning
+and  disinfecting  toys  at  regular  intervals.379,  80  Category  IB  *  IV.F.4.a.  Use  the
+following principles in developing this policy and procedures: Category II IV.F.5. Include
+multi-use electronic equipment in policies and procedures for preventing contamination
+and  for  cleaning  and  disinfection,  especially  those  items  that  are  used  by  patients,
+those used during delivery of patient care, and mobile devices that are moved in and
+out of patient rooms frequently (e.g., daily).850, 851, 852, 997 Category IB IV.F.5.a. No
+recommendation  for  use  of  removable  protective  covers  or  washable  keyboards.
+Unresolved  issue  IV.G.1.  Handle  used  textiles  and  fabrics  with  minimum  agitation  to
+avoid contamination of air, surfaces and persons.739, 998, 999 Category IB/IB IV.G.2. If
+laundry chutes are used, ensure that they are properly designed, maintained, and used
+in  a  manner  to  minimize  dispersion  of  aerosols  from  contaminated  laundry.11,  13,
+1000, 1001 Category IB/IB The following recommendations apply to the use of needles,
+cannulas that replace needles, and, where applicable, intravenous delivery systems.454
+IV.H.1.
+ Use
+ aseptic
+ technique
+ to
+ avoid
+ contamination
+ of
+ sterile
+ injection
+equipment.1002,  1003  Category  IA  IV.H.2.  Do  not  administer  medications  from  a
+syringe to multiple patients, even if the needle or cannula on the syringe is changed.
+Needles, cannulae and syringes are sterile, single-use items; they should not be reused
+for  another  patient  nor  to  access  a  medication  or  solution  that  might  be  used  for  a
+subsequent  patient.453,  919,  1004,  1005  Category  IA  IV.H.3.  Use  fluid  infusion  and
+administration sets (i.e., intravenous bags, tubing and connectors) for one patient only
+and
+ dispose
+ appropriately
+ after
+ use.
+ Consider
+ a
+ syringe
+ or
+ needle/cannula
+contaminated  once  it  has  been  used  to  enter  or  connect  to  a  patient's  intravenous
+infusion  bag  or  administration  set.453  Category  IB  IV.H.4.  Use  single-dose  vials  for
+parenteral  medications  whenever  possible.453  Category  IA  IV.H.5.  Do  not  administer
+medications from single-dose vials or ampules to multiple patients or combine leftover
+contents  for  later  use.369,  453,  1005  Category  IA  IV.H.6.  If  multidose  vials  must  be
+used, both the needle or cannula and syringe used to access the multidose vial must be
+sterile.453,  1002  Category  IA  IV.H.7.  Do  not  keep  multidose  vials  in  the  immediate
+patient
+ treatment
+ area
+ and
+ store
+ in
+ accordance
+ with
+ the
+ manufacturer's
+recommendations;  discard  if  sterility  is  compromised  or  questionable.453,  1003
+Category  IA  IV.H.8.  Do  not  use  bags  or  bottles  of  intravenous  solution  as  a  common
+source  of  supply  for  multiple  patients.453,  1006  Category  IB  Wear  a  surgical  mask
+when  placing  a  catheter  or  injecting  material  into  the  spinal  canal  or  subdural  space
+(i.e.,  during  myelograms,  lumbar  puncture  and  spinal  or  epidural  anesthesia).906,
+907-909, 910, 911, 912-914, 918, 1007 Category IBosure to bloodborne pathogens.739
+Category  IB  Adhere  to  federal  and  state  requirements  for  protection  of  healthcare
+personnel from exposure to bloodborne pathogens.739 Category IB V.A.1. In addition to
+Standard
+ Precautions,
+ use
+ Transmission-Based
+ Precautions
+ for
+ patients
+ with
+documented  or  suspected  infection  or  colonization  with  highly  transmissible  or
+epidemiologically-important pathogens for which additional precautions are needed to
+prevent  transmission  (see  Appendix  A).24,  93,  126,  141,  306,  806,  1008  Category  IA
+V.A.2.  Extend  duration  of  Transmission-Based  Precautions,  (e.g.,  Droplet,  Contact)  for
+immunosuppressed  patients  with  viral  infections  due  to  prolonged  shedding  of  viral
+agents that may be transmitted to others.928, 931-933, 1009-1011 Category IA  V.B.1.
+Use  Contact  Precautions  as  recommended  in  Appendix  A  for  patients  with  known  or
+suspected  infections  or  evidence  of  syndromes  that  represent  an  increased  risk  for
+contact transmission. For specific recommendations for use of Contact Precautions for
+colonization  or  infection  with  MDROs,  go  to  Management  of  Multidrug-Resistant
+Organisms  in  Healthcare  Settings  2006.870  V.B.2.a.  In  acute  care  hospitals,  place
+patients  who  require  Contact  Precautions  in  a  single-patient  room  when  available.24,
+687, 793, 796, 797, 806, 837, 893, 1012, 1013 Category IB When single-patient rooms
+are  in  short  supply,  apply  the  following  principles  for  making  decisions  on  patient
+placement: If it becomes necessary to place a patient who requires Contact Precautions
+in  a  room  with  a  patient  who  is  not  infected  or  colonized  with  the  same  infectious
+agent:  V.B.2.b.  In  long-term  care  and  other  residential  settings,  make  decisions
+regarding patient placement on a case-by-case basis, balancing infection risks to other
+patients  in  the  room,  the  presence  of  risk  factors  that  increase  the  likelihood  of
+transmission,  and  the  potential  adverse  psychological  impact  on  the  infected  or
+colonized  patient.920,  921  Category  II  V.B.2.c.  In  ambulatory  settings,  place  patients
+who  require  Contact  Precautions  in  an  examination  room  or  cubicle  as  soon  as
+possible.20  Category  II  V.B.3.a.  GlovesWear  gloves  whenever  touching  the  patient's
+intact skin24, 89, 134, 559, 746, 837 or surfaces and articles in close proximity to the
+patient (e.g., medical equipment, bed rails).72, 73, 88, 837 Don gloves upon entry into
+the  room  or  cubicle.  Category  IB   V.B.3.b.  Gowns  V.B.3.b.i.  Wear  a  gown  whenever
+anticipating  that  clothing  will  have  direct  contact  with  the  patient  or  potentially
+contaminated  environmental  surfaces  or  equipment  in  close  proximity  to  the  patient.
+Don  gown  upon  entry  into  the  room  or  cubicle.  Remove  gown  and  observe  hand
+hygiene before leaving the patient-care environment.24, 88, 134, 745, 837 Category IB
+V.B.3.b.ii. After gown removal, ensure that clothing and skin do not contact potentially
+contaminated  environmental  surfaces  that  could  result  in  possible  transfer  of
+microorganism to other patients or environmental surfaces.72, 73 Category II V.B.4.a.
+In acute care hospitals and long-term care and other residential settings, limit transport
+and  movement  of  patients  outside  of  the  room  to  medically-necessary  purposes.
+Category  II  V.B.4.b.  When  transport  or  movement  in  any  healthcare  setting  is
+necessary, ensure that infected or colonized areas of the patient's body are contained
+and  covered.  Category  II  V.B.4.c.  Remove  and  dispose  of  contaminated  PPE  and
+perform hand hygiene prior to transporting patients on Contact Precautions. Category II
+V.B.4.d. Don clean PPE to handle the patient at the transport destination. Category II
+V.B.5.  Patient-care  equipment  and  instruments/devices  V.B.5.a.  Handle  patient-care
+equipment  and  instruments/devices  according  to  Standard  Precautions.739,  836
+Category IB/IB V.B.5.b. In acute care hospitals and long-term care and other residential
+settings, use disposable noncritical patient-care equipment (e.g., blood pressure cuffs)
+or  implement  patient-dedicated  use  of  such  equipment.  If  common  use  of  equipment
+for multiple patients is unavoidable, clean and disinfect such equipment before use on
+another  patient.24,  88,  796,  836,  837,  854,  1016  Category  IB  V.B.5.c.  In  home  care
+settings V.B.5.c.i. Limit the amount of non-disposable patient-care equipment brought
+into  the  home  of  patients  on  Contact  Precautions.  Whenever  possible,  leave
+patient-care equipment in the home until discharge from home care services. Category
+II  V.B.5.c.ii.  If  noncritical  patient-care  equipment  (e.g.,  stethoscope)  cannot  remain  in
+the home, clean and disinfect items before taking them from the home using a low- to
+intermediate-level  disinfectant.  Alternatively,  place  contaminated  reusable  items  in  a
+plastic bag for transport and subsequent cleaning and disinfection. Category II V.B.5.d.
+In ambulatory settings, place contaminated reusable noncritical patient-care equipment
+in a plastic bag for transport to a soiled utility area for reprocessing. Category II V.B.6.
+Environmental  measuresEnsure  that  rooms  of  patients  on  Contact  Precautions  are
+prioritized  for  frequent  cleaning  and  disinfection  (e.g.,  at  least  daily)  with  a  focus  on
+frequently-touched surfaces (e.g., bed rails, overbed table, bedside commode, lavatory
+surfaces in patient bathrooms, doorknobs) and equipment in the immediate vicinity of
+the  patient.11,  24,  88,  746,  837  Category  IB  V.B.7.  Discontinue  Contact  Precautions
+after  signs  and  symptoms  of  the  infection  have  resolved  or  according  to
+pathogen-specific  recommendations  in  Appendix  A.  Category  IB'  V.C.1.  Use  Droplet
+Precautions  as  recommended  in  Appendix  A  for  patients  known  or  suspected  to  be
+infected with pathogens transmitted by respiratory droplets (i.e., large-particle droplets
+>5µ in size) that are generated by a patient who is coughing, sneezing or talking.14,
+23,  Steinberg,  1969  #1708,  41,  95,  103,  111,  112,  755,  756,  989,  1017  Category  IB
+V.C.2.a.  In  acute  care  hospitals,  place  patients  who  require  Droplet  Precautions  in  a
+single-patient room when available Category II When single-patient rooms are in short
+supply,  apply  the  following  principles  for  making  decisions  on  patient  placement:  *
+V.C.2.a.i.  Prioritize  patients  who  have  excessive  cough  and  sputum  production  for
+single-patient room placement Category II * V.C.2.a.ii. Place together in the same room
+(cohort) patients who are infected the same pathogen and are suitable roommates.814,
+816  Category  IB  If  it  becomes  necessary  to  place  patients  who  require  Droplet
+Precautions in a room with a patient who does not have the same infection: * V.C.2.a.iii.
+Avoid placing patients on Droplet Precautions in the same room with patients who have
+conditions  that  may  increase  the  risk  of  adverse  outcome  from  infection  or  that  may
+facilitate  transmission  (e.g.,  those  who  are  immunocompromised,  have  or  have
+anticipated prolonged lengths of stay). Category II * V.C.2.a.iv. Ensure that patients are
+physically  separated  (i.e.,  >3  feet  apart)  from  each  other.  Draw  the  privacy  curtain
+between beds to minimize opportunities for close contact.103, 104, 410 Category IB *
+V.C.2.a.v.  Change  protective  attire  and  perform  hand  hygiene  between  contact  with
+patients in the same room, regardless of whether one patient or both patients are on
+Droplet  Precautions.741-743,  988,  1014,  1015  Category  IB  V.C.2.b.  In  long-term  care
+and  other  residential  settings,  make  decisions  regarding  patient  placement  on  a
+case-by-case  basis  after  considering  infection  risks  to  other  patients  in  the  room  and
+available  alternatives.410  Category  II  V.C.2.c.  In  ambulatory  settings,  place  patients
+who require Droplet Precautions in an examination room or cubicle as soon as possible.
+Instruct
+ patients
+ to
+ follow
+ recommendations
+ for
+ Respiratory
+ Hygiene/Cough
+Etiquette.447, 448, 9, 828 Category II V.C.3.a. Don a mask upon entry into the patient
+room  or  cubicle.14,  23,  41,  103,  111,  113,  115,  827  Category  IB  V.C.3.b.  No
+recommendation  for  routinely  wearing  eye  protection  (e.g.,  goggle  or  face  shield),  in
+addition  to  a  mask,  for  close  contact  with  patients  who  require  Droplet  Precautions.
+Unresolved issue V.C.3.c. For patients with suspected or proven SARS, avian influenza
+or pandemic influenza, refer to the following websites for the most recommendations
+([These  links  are  no  longer  active:  www.cdc.gov/ncidod/sars/;  www.cdc.gov/flu/avian/;
+www.pandemicflu.gov/) Similar information may be found at Severe Acute Respiratory
+Syndrome (SARS); Pandemic Influenza; and Pandemic Awareness, accessed November
+3, 2016.]134, 1018, 1019 V.C.4.a. In acute care hospitals and long-term care and other
+residential  settings,  limit  transport  and  movement  of  patients  outside  of  the  room  to
+medically-necessary  purposes.  Category  II  V.C.4.b.  If  transport  or  movement  in  any
+healthcare  setting  is  necessary,  instruct  patient  to  wear  a  mask  and  follow  CDC's
+Respiratory  Hygiene/Cough  Etiquette  in  Healthcare  Settings  [Current  version  of  this
+document  may  differ  from  original.].  Category  IB  V.C.4.c.  No  mask  is  required  for
+persons transporting patients on Droplet Precautions. Category II V.C.4.d. Discontinue
+Droplet  Precautions  after  signs  and  symptoms  have  resolved  or  according  to
+pathogen-specific  recommendations  in  Appendix  A.  Category  IB  V.D.1.  Use  Airborne
+Precautions  as  recommended  in  Appendix  A  for  patients  known  or  suspected  to  be
+infected  with  infectious  agents  transmitted  person-to-person  by  the  airborne  route
+(e.g.,
+ M
+ tuberculosis,12
+ measles,34,
+ 122,
+ 1020
+ chickenpox,123,
+ 773,
+ 1021
+disseminated  herpes  zoster.1022  Category  IA/IB  V.D.2.a.  In  acute  care  hospitals  and
+long-term care settings, place patients who require Airborne Precautions in an AIIR that
+has  been  constructed  in  accordance  with  current  guidelines.11-13  Category  IA/IB
+V.D.2.a.i. Provide at least six (existing facility) or 12 (new construction/renovation) air
+changes per hour. V.D.2.a.ii. Direct exhaust of air to the outside. If it is not possible to
+exhaust  air  from  an  AIIR  directly  to  the  outside,  the  air  may  be  returned  to  the
+air-handling  system  or  adjacent  spaces  if  all  air  is  directed  through  HEPA  filters.
+V.D.2.a.iii. Whenever an AIIR is in use for a patient on Airborne Precautions, monitor air
+pressure daily with visual indicators (e.g., smoke tubes, flutter strips), regardless of the
+presence  of  differential  pressure  sensing  devices  (e.g.,  manometers).11,  12,  1023,
+1024  V.D.2.a.iv.  Keep  the  AIIR  door  closed  when  not  required  for  entry  and  exit.
+V.D.2.b.  When  an  AIIR  is  not  available,  transfer  the  patient  to  a  facility  that  has  an
+available AIIR.12 Category II V.D.2.c. In the event of an outbreak or exposure involving
+large  numbers  of  patients  who  require  Airborne  Precautions:  V.D.2.d.  In  ambulatory
+settings:  V.D.3.  Personnel  restrictionsRestrict  susceptible  healthcare  personnel  from
+entering the rooms of patients known or suspected to have measles (rubeola), varicella
+(chickenpox),  disseminated  zoster,  or  smallpox  if  other  immune  healthcare  personnel
+are  available.17,  775  Category  IB  V.D.4.a.  Wear  a  fit-tested  NIOSH-approved  N95  or
+higher level respirator for respiratory protection when entering the room or home of a
+patient when the following diseases are suspected or confirmed: * V.D.4.a.i. Infectious
+pulmonary  or  laryngeal  tuberculosis  or  when  infectious  tuberculosis  skin  lesions  are
+present and procedures that would aerosolize viable organisms (e.g., irrigation, incision
+and  drainage,  whirlpool  treatments)  are  performed.12,  1025,  1026  Category  IB  *
+V.D.4.a.ii.
+ Smallpox
+ (vaccinated
+ and
+ unvaccinated).
+ Respiratory
+ protection
+ is
+recommended for all healthcare personnel, including those with a documented "take"
+after  smallpox  vaccination  due  to  the  risk  of  a  genetically  engineered  virus  against
+which the vaccine may not provide protection, or of exposure to a very large viral load
+(e.g.,  from  high-risk  aerosol-generating  procedures,  immunocompromised  patients,
+hemorrhagic  or  flat  smallpox.108,  129  Category  II  V.D.4.b.  ~  Suspected  measles,
+chickenpox or disseminated zoster. No recommendation is made regarding the use of
+PPE by healthcare personnel who are presumed to be immune to measles (rubeola) or
+varicella-zoster based on history of disease, vaccine, or serologic testing when caring
+for an individual with known or suspected measles, chickenpox or disseminated zoster,
+due  to  difficulties  in  establishing  definite  immunity.1027,  1028  Unresolved  issue
+V.D.4.c. ~ Suspected measles, chickenpox or disseminated zoster. No recommendation
+is  made  regarding  the  type  of  personal  protective  equipment  (i.e.,  surgical  mask  or
+respiratory  protection  with  a  N95  or  higher  respirator)  to  be  worn  by  susceptible
+healthcare  personnel  who  must  have  contact  with  patients  with  known  or  suspected
+measles, chickenpox or disseminated herpes zoster. Unresolved issue V.D.5.a. In acute
+care  hospitals  and  long-term  care  and  other  residential  settings,  limit  transport  and
+movement of patients outside of the room to medically-necessary purposes. Category II
+V.D.5.b. If transport or movement outside an AIIR is necessary, instruct patients to wear
+a  surgical  mask,  if  possible,  and  observe  Respiratory  Hygiene/Cough  Etiquette.12
+Category II V.D.5.c. For patients with skin lesions associated with varicella or smallpox
+or draining skin lesions caused by M. tuberculosis, cover the affected areas to prevent
+aerosolization  or  contact  with  the  infectious  agent  in  skin  lesions.108,  1025,  1026,
+1029-1031 Category IB V.D.5.d. Healthcare personnel transporting patients who are on
+Airborne Precautions do not need to wear a mask or respirator during transport if the
+patient is wearing a mask and infectious skin lesions are covered. Category II Immunize
+or provide the appropriate immune globulin to susceptible persons as soon as possible
+following  unprotected  contact  (i.e.,  exposed)  to  a  patient  with  measles,  varicella  or
+smallpox:
+ Category
+ IA
+ V.D.7.
+ Discontinue
+ Airborne
+ Precautions
+ according
+ to
+pathogen-specific  recommendations  in  Appendix  A.  Category  IB  V.D.8.  Consult  CDC's
+"Guidelines  for  Preventing  the  Transmission  of  Mycobacterium  tuberculosis  in
+Health-Care Settings, 2005."12 and the "Guideline for Environmental Infection Control
+in  Health-Care  Facilities."11  for  additional  guidance  on  environment  strategies  for
+preventing  transmission  of  tuberculosis  in  healthcare  settings.  The  environmental
+recommendations in these guidelines may be applied to patients with other infections
+that  require  Airborne  Precautions.  VI.A.  Place  allogeneic  hematopoietic  stem  cell
+transplant (HSCT) patients in a Protective Environment as described in the "Guideline to
+Prevent Opportunistic Infections in HSCT Patients," 15 the "Guideline for Environmental
+Infection  Control  in  Health-Care  Facilities,"11  and  the  "Guidelines  for  Preventing
+Health-Care-Associated  Pneumonia,  2003"14  to  reduce  exposure  to  environmental
+fungi (e.g., Aspergillus sp).157, 158 Category IB VI.B. No recommendation for placing
+patients  with  other  medical  conditions  that  are  associated  with  increased  risk  for
+environmental  fungal  infections  (e.g.,  aspergillosis)  in  a  Protective  Environment.11
+Unresolved  issue  VI.C.  For  patients  who  require  a  Protective  Environment,  implement
+the  following  (see  Table  5).11,  15  VI.C.1.  Environmental  controls  VI.C.1.a.  ~  Filter
+incoming  air  using  central  or  point-of-use  high  efficiency  particulate  (HEPA)  filters
+capable of removing 99.97% of particles ≥0.3 µm in diameter.13 Category IB VI.C.1.b.
+~ Direct room airflow with the air supply on one side of the room that moves air across
+the  patient  bed  and  out  through  an  exhaust  on  the  opposite  side  of  the  room.13
+Category  IB  VI.C.1.c.  ~  Ensure  positive  air  pressure  in  room  relative  to  the  corridor
+(pressure differential of ≥2.5 Pa [0.01-in water gauge]).13 Category IB  Correction [April
+2019]:  Pressure  differential  changed  from  ≥ 12.5  to  ≥ 2.5.  VI.C.1.c.i.  Monitor  air
+pressure  daily  with  visual  indicators  (e.g.,  smoke  tubes,  flutter  strips).11,  1024
+Category  IA  VI.C.1.d.  ~  Ensure  well-sealed  rooms  that  prevent  infiltration  of  outside
+air.13 Category IB VI.C.1.e. ~ Ensure at least 12 air changes per hour.13 Category IB
+VI.C.2. Lower dust levels by using smooth, nonporous surfaces and finishes that can be
+scrubbed, rather than textured material (e.g., upholstery). Wet dust horizontal surfaces
+whenever  dust  detected  and  routinely  clean  crevices  and  sprinkler  heads  where  dust
+may  accumulate.940,  941  Category  II  VI.C.3.  Avoid  carpeting  in  hallways  and  patient
+rooms  in  areas.941  Category  IB  VI.C.4.  Prohibit  dried  and  fresh  flowers  and  potted
+plants.942-944 Category II VI.D. Minimize the length of time that patients who require a
+Protective  Environment  are  outside  their  rooms  for  diagnostic  procedures  and  other
+activities.11,  158,  945  Category  IB  VI.E.  During  periods  of  construction,  to  prevent
+inhalation  of  respirable  particles  that  could  contain  infectious  spores,  provide
+respiratory protection (e.g., N95 respirator) to patients who are medically fit to tolerate
+a  respirator  when  they  are  required  to  leave  the  Protective  Environment.945,  158
+Category  II  VI.E.1.a.  No  recommendation  for  fit-testing  of  patients  who  are  using
+respirators.  Unresolved  issue  VI.E.1.a.  No  recommendation  for  use  of  particulate
+respirators  when  leaving  the  Protective  Environment  in  the  absence  of  construction.
+Unresolved  issue  VI.F.  Use  of  Standard  and  Transmission-Based  Precautions  in  a
+Protective  Environment.  VI.F.1.  Use  Standard  Precautions  as  recommended  for  all
+patient interactions. Category IA VI.F.2. Implement Droplet and Contact Precautions as
+recommended  for  diseases  listed  in  Appendix  A.  Transmission-Based  precautions  for
+viral
+ infections
+ may
+ need
+ to
+ be
+ prolonged
+ because
+ of
+ the
+ patient's
+immunocompromised  state  and  prolonged  shedding  of  viruses.930,  1010,  928,  932,
+1011  Category  IB  VI.F.3.  ~  Barrier  precautions  (e.g.,  masks,  gowns,  gloves)  are  not
+required  for  healthcare  personnel  in  the  absence  of  suspected  or  confirmed  infection
+unless  indicated  according  to  Standard  Precautions  or  if  recommended  for  source
+control  (e.g.,  mask)  for  any  individual  entering  the  protective  environment  room.15
+Category II VI.F.4. Implement Airborne Precautions for patients who require a Protective
+Environment room and who also have an airborne infectious disease (e.g., pulmonary or
+laryngeal  tuberculosis,  acute  varicella-zoster).  Category  IA  VI.F.4.a.  Ensure  that  the
+Protective  Environment  is  designed  to  maintain  positive  pressure.13  Category  IB
+VI.F.4.b. Use an anteroom to further support the appropriate air-balance relative to the
+corridor and the Protective Environment; provide independent exhaust of contaminated
+air to the outside or place a HEPA filter in the exhaust duct if the return air must be
+recirculated.13,  1041  Category  IB  VI.F.4.c.  If  an  anteroom  is  not  available,  place  the
+patient in an AIIR and use portable, industrial-grade HEPA filters in the room to enhance
+filtration of spores.1042 Category II CDC provides information on infection control and
+clinical safety to help reduce the risk of infections among healthcare workers, patients,
+and visitors. Languages Language Assistance Languages  Language Assistance 
+Source URL: https://www.cdc.gov/infection-control/hcp/isolation-precautions/recommendations.html

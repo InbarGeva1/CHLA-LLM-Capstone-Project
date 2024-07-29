@@ -1,0 +1,1077 @@
+Persons using assistive technology might not be able to fully access information in this
+file. For assistance, please send e-mail to: mmwrq@cdc.gov. Type 508 Accommodation
+and the title of the report in the subject line of e-mail. FREQUENTLY USED TERMS  The
+following are the recommended definitions for key terms in
+tuberculosis (TB) control laws:
+Active TB. TB disease as demonstrated by clinical,  bacteriologic, and/or radiographic
+evidence. Persons who have not
+completed a course of anti-TB treatment are considered to have
+active TB and may be infectious.
+Adherent. Taking anti-TB medications as prescribed.
+Case. An occurrence of active TB.
+Commitment.  The  confinement  of  a  person  who  has  infectious  TB   or  who  is
+noninfectious, but who has not adhered to prescribed
+treatment. The purpose of commitment, which occurs under judicial
+or administrative order, is to prevent the transmission of
+ tubercle
+bacilli to others, to prevent the development of drug-resistant
+organisms, or to ensure that persons receive a complete course of
+treatment.
+Contact. A person exposed to a patient who has infectious TB.
+Contact
+ investigation.
+ Interviewing,
+ counseling,
+ educating,
+ 
+ examining,
+ and
+investigating activities directed at persons who
+have been in close contact with patients who have infectious TB.
+Detention.  The  temporary  confinement  of  a  person  who  has  or   who  is  suspected  of
+having TB.
+Directly Observed Therapy (DOT). Treatment in which  health-care providers or other
+designated persons observe
+ patients
+ingesting anti-TB medications.
+Enabler. Anything that helps the patient to more readily  complete therapy (e.g., bus
+fare and gasoline).
+Exposure. The sharing of air with a person who has infectious  tuberculosis.
+Incentive.  Anything  that  motivates  the  patient  to  adhere  to   treatment  (e.g.,  food,
+coupons, and personal items).
+Infected.  Having  been  exposed  to  someone  with  infectious   tuberculosis,  or  having  a
+positive response to a tuberculin skin
+test, but not having clinical or radiographic evidence of
+ disease.
+Some patients who are anergic may not respond to a skin test but
+still be infected.
+Infectious TB. TB disease in a communicable or infectious  stage as determined by a
+chest radiograph, the bacteriologic
+examination of body tissues or secretions, or other diagnostic
+procedures.
+Isolation. An infection control practice designed to prevent  the transmission of tubercle
+bacilli.
+Nonadherent.
+ Not
+ taking
+ medications
+ as
+ prescribed
+ or
+ not
+ 
+ following
+ the
+recommendations of the attending physician or
+ health
+officer for the management of TB.
+Noninfectious.  Not  capable  of  transmitting  tubercle  bacilli.   A  determination  of
+non-infectiousness can be made when a patient
+shows significant clinical improvement (e.g., the resolution of
+cough and/or fever) and has negative sputum smears on 3
+ consecutive
+days.
+Quarantine. A limitation on the movement of persons exposed  to, or infected with, TB
+to prevent the exposure of other
+ persons.
+Suspected  Case.  A  person  with  signs  or  symptoms  of  TB  for  whom   the  results  of
+diagnostic studies are still pending completion.
+Tuberculosis  (TB).  Disease  caused  by  Mycobacterium  tuberculosis   complex  (i.e.,  M.
+tuberculosis, Mycobacterium bovis, or
+Mycobacterium africanum).
+TB  Control  Officer.  A  person  appointed  by  the  state  to  be   responsible  for  the
+administration of state TB programs.  Summary  Because of its communicable nature,
+tuberculosis (TB) is
+treated differently than other airborne infectious diseases, as
+there are many state laws specific to the control of TB. Many of
+these laws predate the current public health recommendations for
+the prevention and control of TB. In 1989, CDC published A
+Strategic Plan for the Elimination of Tuberculosis in the United
+States that was developed by the Advisory Committee (now Council)
+for the Elimination of Tuberculosis (ACET) (1). The Plan called for
+the establishment of a national goal of TB elimination (i.e.,
+achieving a case rate of less than 1 per million population) by the
+year 2010. One of the methods for improving disease containment in
+the Plan was for the use of quarantine measures for nonadherent
+patients. The Plan called for revision of state and local laws to
+"facilitate the cure of persons with infectious tuberculosis," (1).
+The issue of outdated state TB laws was also identified as a
+problem in the National Action Plan to Combat Multidrug-resistant
+Tuberculosis (2 ).  In response to this issue, CDC conducted a survey of state TB
+control laws and ACET developed recommendations to address
+discrepancies between previously published recommendations and
+guidelines for the control of TB and state TB control laws. In
+order to address these discrepancies, states updating TB control
+laws should incorporate current recommendations and guidelines from
+CDC, ACET, and the American Thoracic Society. State laws should
+permit policies and practices to be rapidly reviewed and amended as
+new data becomes available and new recommendations and guidelines
+are published.  INTRODUCTION  In 1989, the Advisory Committee (now Council) for the
+Elimination of Tuberculosis (ACET) published A Strategic Plan for
+the Elimination of Tuberculosis in the United States (1). The plan
+promoted the goal of eliminating tuberculosis (TB) (i.e., achieving
+a case rate of less than 1 per million population) in the United
+States by the year 2010. However, the plan was not fully
+implemented, and the number of TB cases reported in the United
+States increased. From 1953 to 1984, the number of reported TB
+cases in the United States declined at a rate of approximately 5%
+per year -- from greater than 84,000 cases in 1953 to approximately
+22,000 cases in 1984. However, from 1985 through 1992, reported TB
+cases increased 20%. In 1992, 26,673 cases of TB were reported in
+the United States -- an incidence rate of 10.5 per 100,000
+population. The cases from 1985 through 1992 represent an excess of
+greater than 51,000 cases based on the 1980-1984 trend. The
+increase in TB cases has been attributed to human immunodeficiency
+virus (HIV)-associated TB, immigration from countries with high TB
+prevalence, substance abuse, homelessness, poverty, and a
+deterioration in the public health infrastructure, among other
+factors.  The increase in cases of drug-resistant TB is also of concern.
+From 1982 through 1986, the proportion of new cases resistant to
+both isoniazid and rifampin was 0.5%, but by 1991 the proportion
+had increased to 3.3%. Likewise, the proportion of TB cases among
+recurrent cases resistant to both drugs increased from 3.0% (1982-
+1986) to 7.2% (1991).  Drug resistance is prevalent in certain areas. For example, in
+a survey of cases in New York City, 33% had organisms resistant to
+isoniazid or rifampin and 19% had organisms resistant to both
+drugs. Resistance to both drugs lengthens the course of treatment
+from 6 months to 18-24 months, increases the cost of treatment, and
+decreases  the  cure  rate  from  approximately  100%  to  60%.   Several  outbreaks  of
+multidrug-resistant TB (MDRTB) have
+occurred in institutional settings. From 1990 through 1992, CDC
+participated in investigations of outbreaks in hospitals and
+correctional facilities that involved nearly 300 cases of MDRTB.
+These patients had a mortality rate of 43%-89%. To address the
+problem of MDRTB, in December 1991 the CDC Director convened a TB
+Task Force composed of representatives of federal agencies. In
+1992, the TB Task Force developed a National Action Plan to Combat
+Multidrug-Resistant Tuberculosis, which details steps to be taken
+by federal agencies regarding MDRTB.  Interventions listed in the National Action Plan
+(e.g., the
+rapid reporting of confirmed and suspected TB cases) are addressed
+in state TB-control laws and regulations. The National Action Plan
+recommends that states revise their laws and regulations to
+facilitate the cure of persons with infectious TB. In the fall of
+1991, CDC conducted a survey of state TB-control laws and
+regulations. One of the objectives of the National Action Plan was
+for ACET and CDC to develop recommendations that address legal
+issues of TB controls and to publish these recommendations by 1993.
+This report summarizes the results of the survey and provides
+recommendations to assist states in revising their TB-control laws
+and regulations. These recommendations also may be applicable to
+county and municipal health departments. Documents summarizing
+recommendations and guidelines from ACET, the American Lung
+Association (ALA), the American Thoracic Society (ATS), and CDC are
+provided  in  the  bibliography.   The  goal  of  state  TB-control  programs  should  be  to
+prevent,
+control, and eventually eliminate TB. To protect the public from
+TB, these programs should ensure that persons with TB receive
+appropriate treatment. In addition, states should develop and
+encourage implementation of comprehensive programs that address the
+needs of persons who have TB, including the integration of TB
+services with drug and alcohol treatment programs and the expansion
+of public education, particularly for populations at increased risk
+for TB. States also should require the application of recommended
+infection control measures in health-care facilities and
+congregate-living settings (e.g., correctional facilities).  METHODS  TB-control officers in
+all states were asked to provide copies
+of their TB-control laws and regulations to CDC. Certain provisions
+of these laws and regulations were examined: TB reporting
+requirements (i.e., the persons required to report cases of TB, the
+time frame for reporting, penalties for failure to report, and the
+duty to report patients who do not adhere to prescribed treatment),
+the restriction of some persons from activities or employment, the
+screening of certain populations, contact investigation, procedures
+for control and treatment, penalties for patients who do not adhere
+to prescribed treatment, the provision of treatment facilities, and
+the financing of treatment (Appendix). After the laws and
+regulations were examined, the TB-control officers reviewed the
+findings for their respective states to clarify any discrepancies.
+A draft of the survey and recommendations was made available for
+public comment from October 2 through November 16, 1992. Public
+comments were solicited through a notice published in the Morbidity
+and Mortality Weekly Report (3). A total of 48 persons representing
+private organizations and state, county, and local health
+departments provided comments about the draft.  RESULTS AND RECOMMENDATIONS 
+Reporting  Requirements   Persons  Required  to  Report  Cases  of  TB   All  states  require
+designated health-care professionals to
+report cases of TB to local or state health departments. Physicians
+are most frequently required to report cases of TB (42 states).
+Others required to report test results or cases are laboratory
+directors (33 states), hospitals and hospital administrators (31
+states), other health-care workers (23 states), school authorities
+(22 states), nursing home administrators (15 states), and hospital
+infection control officers (six states). Eight states also require
+parents and guardians to report cases of TB among household
+members. Cases are reported by all states to CDC using the Report
+of Verified Case of Tuberculosis (CDC Form 72.9).  Recommendation  
+    States should require health-care providers and allied
+    professionals who diagnose TB or treat or otherwise care for TB
+    patients to report confirmed or suspected cases to the
+ appropriate
+    health agency. Among these providers and professionals are
+    physicians, pharmacists, nurses, infection control officers,
+    medical examiners, morticians, and the administrators of
+    laboratories or other facilities where TB patients receive
+    health-care services. Appropriate systems should be developed
+ that
+    maximize the reporting of new cases and minimize the reporting
+ of
+    duplicate cases and suspected cases and that protect the
+    confidentiality of reports.  Time Frame for Reporting  State laws regarding the time
+allowed for reporting cases of
+TB vary from reporting at the time of diagnosis to within 1 week of
+diagnosis. Thirteen states require reporting at the time of
+diagnosis, 14 states within 24 hours of diagnosis, seven states
+within 48 hours, three states within 72 hours, and six states
+within 1 week. Six states do not specify a time frame for
+reporting.  In nine states, the time frame for reporting cases of TB
+depends on the reporting source. For example, physicians may be
+required to report cases of TB within 7 days of diagnosis, whereas
+institutions in the same state are required to report cases within
+48 hours. Reporting requirements for laboratory directors vary from
+reporting at the time of identification of Mycobacterium
+tuberculosis to reporting results once a week.  Recommendations  
+    Confirmed and suspected cases should be reported within 2
+    working days of identification of M. tuberculosis to the health
+    agency with primary responsibility for TB control in that
+    jurisdiction. Reporting should be based on a diagnosis or a
+    presumptive diagnosis. Local health departments should report
+    confirmed and suspected cases to the state TB-control agency
+ within
+    1 working day of notification.  
+    When a case of TB is identified as being drug resistant, the
+    case should be reported again within 2 working days in a manner
+    consistent with the reporting of confirmed and suspected cases
+ of
+    TB. The report of drug-resistant TB also should include the
+ results
+    of susceptibility tests.  
+    All bacteriologic and pathologic laboratories that perform
+    diagnostic services or perform related drug-susceptibility tests
+    for M. tuberculosis should be required to report the results for
+    any person whose sputa, gastric contents, or other specimens
+    submitted for examination reveal the presence of tubercle
+ bacilli.
+    These results should be reported to the local health department
+    within 1 working day of identification.  
+    Laboratories that perform diagnostic services on specimens
+    from other states should be required to report the results to
+ the
+    state health department TB program from which the specimen was
+    received. Reports should include the patient's name, address,
+ and
+    physician, and the person or agency referring the positive
+ specimen
+    for laboratory evaluation.  Failure to Report Cases of TB  Twenty-nine states have
+statutory authority to impose a
+penalty on persons who are required to report TB cases but fail to
+do so. Five states impose a penalty only when the failure to report
+a case is willful. Those persons found guilty of failing to report
+cases  may  be  convicted  of  a  misdemeanor  and  fined  from  $5  to  $500.  
+Recommendation  
+    Because the rapid and accurate reporting of TB cases is
+    critical to the management of TB patients, states should have
+ the
+    authority to impose a penalty for the willful failure to report
+    confirmed and suspected cases of TB within the required time
+ frame.
+    In addition to imposing a penalty, states may refer reporting
+    violations to professional licensing boards or, in the instance
+ of
+    a laboratory, to the licensing agency.  Duty to Report Nonadherent * Patients  Eleven
+states require health-care providers to report
+nonadherent patients. Two states also require the attending
+physician to notify the state health department when a patient has
+completed treatment for TB.  Recommendations  
+    TB patients who have demonstrated an inability or an
+    unwillingness to adhere to a prescribed treatment regimen should
+ be
+    classified as nonadherent. Patients should be considered unable
+ or
+    unwilling to adhere to prescribed treatment if they do not
+ report
+    for directly observed therapy (DOT), refuse medication, or show
+    other evidence of not taking medications as prescribed (e.g.,
+    incorrect pill counts or urine test showing no evidence of drug
+    metabolites).  
+    Any health-care professional who is aware of a nonadherent TB
+    patient should contact the appropriate health official for
+    necessary interventions. The health official or a designated
+    representative should meet with the patient to determine why the
+    patient is nonadherent. The patient may be unwilling to continue
+    treatment because the medication is causing side effects,
+ because
+    the patient may have difficulty obtaining additional medication,
+ or
+    because the patient believes the medication is no longer
+ necessary.
+    After determining why the patient is not adhering to the
+ treatment
+    regimen, the health official should take appropriate action,
+ such
+    as seeking court-ordered DOT.  Additional Reporting Recommendations  Reporting
+requirements should include any confirmed or
+suspected case of active disease caused by M. tuberculosis complex
+(i.e., M. tuberculosis, Mycobacterium bovis, and/or Mycobacterium
+africanum). State laws also should require drug susceptibility
+tests for all patients for whom a specimen is available. The
+results should be reported to local and/or state health
+departments. Reporting laws should require that all reports and
+records of clinical or laboratory examination for the presence of
+TB be kept in a confidential registry maintained by the state
+health agency.  When not prohibited by law, states also should require that
+information on the patient's HIV infection status, when known, be
+included in TB case reports. From a surveillance perspective, the
+inclusion of the patient's HIV status is important to determine the
+impact of the HIV epidemic on TB cases; this information also is
+important for case management and prioritizing contact
+investigations.  If HIV-related information is reported, states should ensure
+that this information is protected under their specific HIV and
+acquired immunodeficiency syndrome (AIDS) reporting laws and
+confidentiality laws. If a state does not have specific HIV or AIDS
+confidentiality laws, it should ensure that HIV-related information
+is protected by applicable confidentiality laws for infectious
+diseases, communicable diseases, or sexually transmitted diseases,
+or by other provisions for the protection of patient medical
+records.  Health agencies that maintain both an HIV or AIDS registry and
+a TB registry should permit the sharing of information between the
+registries to assist in case finding, particularly when the HIV or
+AIDS registry has information regarding persons infected with TB
+whose names have not been reported to the TB registry. Information
+about a person's HIV or AIDS status must be protected, even when it
+is reported to or shared with another division within a health
+department.  Federally assisted substance-abuse treatment programs must
+report HIV- and TB-related information for all patients in a manner
+consistent with federal regulations for completing Confidentiality
+of Alcohol and Drug Abuse Patient Records **. Once the information
+from such treatment programs is reported to states, the information
+should be protected in a manner consistent with the regulations.  Management of TB
+Cases  Provision of Treatment  Sixteen states specify that state-supported outpatient
+treatment must be made available for persons with TB. Twenty-nine
+states recommend that TB patients voluntarily seek treatment before
+health officials seek state intervention.  Recommendations  
+    State laws should require that all TB patients receive
+    immediate treatment according to the most recent ATS/CDC and
+ ACET
+    treatment guidelines. These guidelines include a) the
+ examination
+    of persons exposed to TB and persons suspected of having active
+ TB,
+    b) the treatment of persons who have latent infection or active
+ TB,
+    c) the duration of treatment, and d) the means for preventing TB
+    patients from infecting other people. States also should require
+    that health-care providers document patients' adherence to
+    prescribed therapy.  
+    States should require that health-care workers providing care
+    to patients with confirmed or suspected TB develop
+ individualized,
+    comprehensive treatment plans for all TB patients. The plans
+ should
+    be developed in cooperation with the patients and the
+ appropriate
+    health department and discussed with patients before they are
+    discharged from treatment facilities. In addition, clinicians or
+    other designated persons in all correctional facilities should
+    develop individualized, comprehensive discharge plans for all
+    TB-infected inmates who will be released from the facility
+ before
+    they complete the prescribed course of therapy.  
+    Patients who do not adhere to self-administered therapy should
+    receive DOT. In addition, states should require the isolation of
+    nonadherent, infectious patients while they are receiving
+    treatment. Persons who have drug-resistant TB should be treated
+    according to the most recent CDC treatment guidelines for
+    drug-resistant TB.  Penalty for Nonadherent Patients  Three states have provisions for
+imposing a fine on TB
+patients who do not adhere to treatment. Four states specify
+certain behaviors that violate TB laws (e.g., breaking quarantine
+or willfully transmitting disease), and 29 states provide that
+anyone who violates the TB-control law may be quarantined. Two
+states have provisions for imposing an undefined penalty on
+nonadherent patients. In one state, violation of a treatment plan
+or disruptive behavior within an institution justifies transfer to
+a correctional facility where treatment will be provided.  Recommendation  
+    Penalties for nonadherent behavior should be levied only after
+    the use of incentives, enablers, voluntary or ordered DOT, and
+    commitment for inpatient management have failed to result in
+    adherence to treatment.  Restrictions for Persons Infected with TB  Sixteen states
+require that persons infected or suspected of
+being infected with TB be restricted from various activities.
+Typically, state laws require that persons infected with TB be
+excluded from work until they are no longer infectious or until the
+absence of TB has been medically demonstrated.  Recommendation  
+    Restricting the activities of a person with TB should be based
+    on whether the person has infectious TB and poses a risk to
+ others.
+    Restrictions should be terminated when the person is no longer
+    infectious.   Quarantine  of  Persons  with  TB   Forty-three  states  provide  for  the
+quarantine of TB patients
+within their own homes. States define quarantine broadly and
+specifically. Statutes and regulations also provide guidelines for
+the movement of patients outside of the home. Thirty-five states
+specify that a quarantine should last until the person is no longer
+infectious. However, the health officer with jurisdiction over the
+patient frequently determines the exact length of quarantine.  Recommendation  
+    Quarantine, the traditional public health intervention of
+    isolating persons who are exposed to an infectious disease but
+ are
+    not yet infected, is no longer an appropriate TB control
+ measure.
+    For patients with active TB who adhere to treatment, temporary
+    restriction to their primary residence may adequately protect
+    others from exposure. Such patients should be restricted to
+ their
+    residence until they are noninfectious. Appropriate residence
+    facilities should be designated for the care of homeless persons
+    infected  with  active  TB.   Commitment  of  Persons  with  Infectious  TB  to  Treatment
+Facilities  Forty-two states permit the commitment of TB patients to
+treatment facilities. However, the legal process for commitment and
+the duration of commitment vary in each state. Twenty-four states
+require that persons committed for TB treatment remain hospitalized
+until they no longer pose a health threat to others. Many state
+laws specify that this condition be met when a patient becomes
+noninfectious. Seven states recommend that a patient remain
+hospitalized until cured, and six states allow commitment of
+persons with infectious TB for an unspecified period of time.  Some states allow patients
+who have been committed to petition
+the court for a discharge and/or to appeal the decision. One state
+provides the patient the right to petition the court for discharge
+after 6 months, and nine states allow the patient to appeal the
+commitment.  Recommendations  
+    Before committing TB patients for inpatient treatment, states
+    should adopt step-by-step interventions beginning with DOT and
+    supplemented by incentives and enablers. If a patient does not
+    voluntarily adhere to DOT, the next step may be DOT that is
+ ordered
+    by a public health official or a court. Only after the patient
+ has
+    demonstrated an inability or an unwillingness to adhere to
+    treatment regimens should admission to a treatment facility be
+    initiated. Commitment for inpatient management should be viewed
+ as
+    the last measure for treatment of persons infected with TB.
+    However, when a person who has active, infectious TB refuses to
+ be
+    isolated, emergency detention to isolate the person is
+ appropriate.  
+    State laws should permit the involuntary isolation and
+    detention of noninfectious patients who, after being offered
+ less
+    restrictive alternatives, refuse to adhere to a treatment
+ regimen
+    or to complete treatment. These persons are at risk for
+    drug-resistant TB, which can be transmitted to others.  
+    Commitment laws should specify a) where patients will be
+    treated, b) the duration of commitment (e.g., until treatment is
+    complete or until there is evidence that the patient will adhere
+ to
+    the remainder of the treatment regimen), and c) the
+ reimbursement
+    mechanism for the treatment.  
+    States should authorize the examination of persons suspected
+    of having TB and the emergency isolation and detention of
+ persons
+    who have infectious TB. Such laws will permit local health
+ officers
+    to examine the contacts of persons with infectious TB who are
+    unwilling to seek evaluation and/or treatment. The laws would
+    permit local health officers to isolate and detain persons who
+ have
+    infectious TB but who are unable or unwilling to receive
+ treatment
+    to prevent transmission. The court review of emergency detention
+    should expeditiously follow the isolation of TB patients in a
+    treatment facility. Voluntary treatment should be pursued;
+ however,
+    appropriate commitment procedures should be initiated
+ immediately
+    for patients who do not consent to isolation and treatment.  
+    As in commitment proceedings under state mental health laws,
+    any law under which a person may be examined, isolated,
+ detained,
+    committed, and/or treated for TB must meet due process and equal
+    protection requirements under state and federal statutes and
+    constitutions. Also, all patients who are subject to these legal
+    proceedings  should  be  represented  by  legal  counsel.   Commitment  Orders.  When
+determining whether the commitment of
+a person with TB is necessary to protect the health of the public,
+local health officers should determine whether that person presents
+a substantial risk for infecting others or developing
+drug-resistant disease. This determination should be based on an
+individualized assessment of the situation, including consideration
+of the following factors:  
+    Laboratory results or, in the absence of laboratory tests,
+    clinical signs and symptoms of infectious TB;  
+    Previous treatment for TB but failure to complete therapy for
+    reasons unrelated to access to treatment or medication;  
+    Adherence to prescribed therapy;  
+    Risk for infecting others depending on the patient's housing
+    and employment situation;  
+    Laboratory tests or a history of nonadherence to anti-TB
+    chemotherapy indicate possible infection with drug-resistant M.
+    tuberculosis.  When local health officers determine that commitment is
+necessary to protect the health of the public, they should issue a
+commitment order in writing to local authorities. The order should
+specify the name of the infected person, the period of time during
+which the order is to remain effective, the facility to which the
+person will be committed, and other terms or conditions necessary
+to protect the health of the public. When an order is issued, a
+copy of the order should be given to the person named in the order.
+  The commitment order should require that the person infected
+with TB be isolated until he/she is determined to be noninfectious.
+This decision should be based on laboratory results demonstrating
+that the person is smear negative and asymptomatic or based on the
+local health officer's determination that the person has completed
+a course of therapy consistent with the most recent ATS/CDC
+treatment recommendations. The person also should be ordered to
+receive treatment in a hospital or other appropriate facility until
+cured, unless the person's voluntary completion of the ordered
+therapy can be ensured. If the person refuses to consent to the
+ordered treatment, the health officer should have the authority to
+extend  the  commitment  order  as  necessary.   After  receiving  information  that  a
+commitment order has been
+violated, health officers should notify the appropriate official in
+the jurisdiction (e.g., a judge in the county where the person
+resides) that a violation of the order has occurred. This
+notification should be in writing and should explain the rationale
+for  the  hospitalization  and  the  facts  about  the  violation.   Treatment  Facilities   State
+statutes and regulations provide for TB treatment at
+public hospitals, sanitoria, and private hospitals that have
+entered into agreements for such treatment with states.
+Thirty-three states provide or approve facilities for the treatment
+of TB patients. Twenty-one states have adopted detailed guidelines
+for the testing, monitoring, and care of the TB patient in
+treatment facilities.  Recommendations  
+    To more efficiently treat TB patients, states should permit
+    cities, counties, or groups of counties to establish and
+ maintain
+    a variety of facilities for treating persons infected with TB.
+ Such
+    facilities include shelters for the homeless, halfway houses,
+ and
+    short- or long-term care facilities such as hospitals.  
+    State health departments should develop standards based on the
+    current ATS/CDC recommendations and guidelines for local
+ TB-control
+    programs and facilities to use in treating TB and controlling
+ its
+    transmission.  Financing of Treatment  TB-control statutes in 46 states specify that
+the state will
+provide some reimbursement for patient care. Payment provisions
+vary among these states. For example, three states provide funding
+for the treatment of indigent patients only; three states offer
+sliding-scale payments according to the patient's financial status;
+and six states require that if a patient has third-party insurance,
+the third-party payor must be the first payor and the state the
+payor of last resort.  Recommendation  
+    States should specify how the treatment of TB patients will be
+    paid. The patient's inability to pay for treatment should not be
+ a
+    barrier to receiving effective treatment. Assuring treatment for
+    all patients, regardless of their ability to pay, is critical to
+    preventing  the  transmission  of  TB  in  the  community.   Investigation  of  TB  Cases  
+Forty-nine states require the investigation of reported cases
+of TB. Forty-five states specify that an investigation can be
+conducted when a health official receives a report of a confirmed
+or suspected case of TB. Forty-one states authorize health
+departments to investigate under certain circumstances, such as
+when a health officer suspects or knows of a case of TB.
+Twenty-nine states specifically require contact investigations for
+reported cases of TB.  Recommendations  
+    States should require local health officers to conduct
+    immediate contact investigations for all reported or suspected
+    cases of pulmonary TB. During the investigations, each health
+    officer should be authorized to examine and order the isolation
+ of
+    persons suspected of having or known to have infectious TB and
+ to
+    detain persons known to be nonadherent to prescribed therapy.  
+    Health officers should be authorized to order a physical
+    examination of persons suspected of having TB. The examination
+    order should be submitted in writing and should specify the name
+ of
+    the person to be examined, the time and the place where the
+    examination is to be conducted, the medical basis for the
+    examination order, and any other terms or conditions necessary
+ to
+    protect the health of the public. In addition, health officers
+    should have the authority to review all patient records of both
+    public and private institutions, clinics, and practices where TB
+    patients  are  treated.   Screening  for  TB   Forty-four  states  require  that  certain
+populations be screened
+for TB. Screening is frequently required for school employees (20
+states), employees of medical facilities (18 states), and day care
+employees (11 states). TB testing is typically required before the
+start of employment. Eleven states also require that schoolchildren
+be screened for TB.  Recommendation  
+    To eliminate TB, states must interrupt the transmission of
+    tubercle bacilli by preventing, identifying, and treating
+    TB-infected persons. TB screening may include screening for
+ latent
+    TB infection, active disease, or both. Screening requirements
+    should be based on an analysis of epidemiologic data (including
+    disease frequency and the demographic and geographic
+ distribution
+    of disease in the community) and morbidity trends, and
+    ALA/ATS/CDC/ACET recommendations and guidelines for screening
+    populations, institutions (including health-care and
+ correctional
+    facilities), and personnel.  TB-Control Officers  State laws and regulations generally
+do not designate a
+TB-control officer to supervise the state TB-control program.
+However, every state currently has a designated person responsible
+for their state TB-control program.  Recommendation  
+    Each state should designate a TB-control officer to supervise
+    TB-control programs. These officers should have sufficient
+    authority to address the current problems in TB control.  Responsibilities. TB-control
+officers should be responsible
+for all statewide TB- control activities. They should cooperate
+with local health departments and other appropriate organizations
+to conduct or supervise clinics that diagnose, treat, and control
+TB throughout the state. The officers should maintain a registry of
+all cases, suspected cases, and contacts.  Authority. To conduct TB-control measures,
+TB-control officers
+must have the authority to examine all records, reports, and other
+data pertaining to confirmed and suspected TB patients. The records
+of the TB-control officer must be confidential and the identity of
+patients must not be disclosed, except where disclosure is
+necessary as part of official TB-control activities.  In addition, the officers should have
+the authority to examine
+or order the examination of any person known to have or suspected
+of having TB. The officers also should be authorized to perform or
+order any laboratory tests or radiographic examinations necessary
+to  diagnose  and  treat  any  patient  who  has  TB.   TB-control  officers  should  have  the
+authority to issue
+emergency examination, isolation, and detention orders for persons
+suspected of having active TB, and issue commitment orders for
+persons who have active TB or who are nonadherent to the prescribed
+therapy. Such decisions should be based on guidelines issued by the
+state health department. TB-control officers also should be
+directed to cooperate with state and federal agencies in the
+prevention  and  control  of  TB.   CONCLUSION   A  survey  of  state  TB-control  laws  and
+regulations indicates
+that states differ in their approach to the control of TB. This
+report provides recommendations from the ACET that can be used in
+revising state TB-control laws. The purpose of providing these
+recommendations is to increase uniformity among TB-control
+programs. These recommendations also are designed to encourage
+states to adopt flexible TB-control laws and regulations that will
+accommodate new TB-control recommendations and guidelines as they
+are published.  The goal of TB-control programs is to eliminate TB by
+appropriately treating persons infected with TB, to safeguard the
+confidentiality and civil liberties of persons who have TB, and to
+protect them from unlawful discrimination because of their disease
+(see box Table_B1).  References 
+    CDC. A strategic plan for the elimination of tuberculosis in the
+    United States. MMWR 1989; 38(S-3). 
+    CDC. National action plan to combat multidrug-resistant
+    tuberculosis; Meeting the challenge of multidrug-resistant
+    tuberculosis: summary of a conference; Management of persons
+    exposed to multidrug-resistant tuberculosis. MMWR 1992;41(No.
+    RR-11). 
+    CDC. Review of draft survey and recommendations of tuberculosis
+    control laws in the United States. MMWR 1992;41:735. 
+Bibliography 
+American Thoracic Society/CDC. Control of tuberculosis in the
+United States. Am Rev Respir Dis 1992;146:1623-33. 
+CDC/American Thoracic Society. Core curriculum on
+tuberculosis. 2nd ed. Atlanta: US Department of Health and Human
+Services, Public Health Service, 1991. 
+American Thoracic Society/CDC. Diagnostic standards and
+classification of tuberculosis. Am Rev Respir Dis 1990;142:725-35. 
+CDC. Snider D, Hutton M. Improving patient compliance in
+tuberculosis treatment programs. 1989. 
+CDC. Prevention and control of tuberculosis among homeless
+persons: recommendations of the Advisory Council for the
+Elimination of Tuberculosis. MMWR 1992;41(No. RR-5):13-21. 
+CDC. Prevention and control of tuberculosis in U.S.
+communities with at-risk minority populations: recommendations of
+the Advisory Council for the Elimination of Tuberculosis. MMWR
+1992;41(No. RR-5):1-11. 
+American Thoracic Society/CDC. Treatment of tuberculosis and
+tuberculosis infection in adults and children. Am Rev Respir Dis
+1986;134:355-65. 
+CDC. The use of preventive therapy for tuberculosis infection
+in the United States: recommendations of the Advisory Committee for
+Elimination of Tuberculosis. MMWR 1990;39(No. RR-8):9-12. 
+CDC. Approaches to improving adherence to antituberculosis
+therapy -- South Carolina and New York, 1986-1991. MMWR 1993;42:
+74-5,81. 
+CDC. Screening for tuberculosis and tuberculous infection in
+high-risk populations: recommendations of the Advisory Committee
+for Elimination of Tuberculosis. MMWR 1990;39:(No. RR-8):9-12. 
+CDC. Prevention and control of tuberculosis in migrant farm
+workers: recommendations of the Advisory Council for the
+Elimination of Tuberculosis. MMWR 1992;41(No. RR-10). 
+CDC. Prevention and control of tuberculosis in facilities
+providing long-term care to the elderly: recommendations of the
+Advisory Council for the Elimination of Tuberculosis. MMWR
+1990;39(No. RR-10). 
+CDC. Initial therapy for tuberculosis in the era of multidrug
+resistance: recommendations of the Advisory Council for the
+Elimination of Tuberculosis. MMWR 1992:42(No. RR-7). 
+CDC. Purified protein derivative (PPD)-tuberculin anergy and
+HIV infection: guidelines for anergy testing and management of
+anergic persons at risk of tuberculosis. MMWR 1991;40(No.RR-5): 27-
+32. 
+CDC. Control of tuberculosis in correctional facilities: a
+guide for health-care workers. Atlanta: US Department of Health and
+Human Services, Public Health Service, 1992. 
+CDC. Prevention and control of tuberculosis in correctional
+institutions: recommendations of the Advisory Committee for the
+Elimination of Tuberculosis. MMWR 1989;38:313-32,325. 
+CDC. Guidelines for preventing the transmission of
+tuberculosis in health-care settings, with special focus on
+HIV-related issues. MMWR 1990;39(No. RR-17). 
+    * States use different terms to describe patients who do not follow
+    a prescribed treatment regimen, including "noncompliant" and
+    "noncooperative." Throughout this document, the term "nonadherent"
+    is used to describe patients who do not follow a prescribed
+    treatment regimen. 
+    ** 42 CFR 2.32.
+    +-------------------------------------------------------------------
+------+
+    |                       Erratum: Vol. 42, No. RR-15
+                       |
+    |            
+                                                             |
+    |               SOURCE: MMWR 42(50);983 DATE: Dec. 24, 1993
+               |
+    |            
+                                                             |
+    |      In the MMWR Recommendations and Reports, "Tuberculosis
+ Control     |
+    | Laws -- United States, 1993: Recommendations of the Advisory
+            |
+    | Council for the Elimination of Tuberculosis (ACET)," dated
+ November     |
+    | 12, 1993, on page 1, the first sentence of the summary should
+ read      |
+    | "Because of its communicable nature and because there are many
+          |
+    | state laws specific to the control of tuberculosis (TB), TB is
+          |
+    | managed differently than other airborne infectious diseases."
+           |
+    |            
+                                                             |
+    +-------------------------------------------------------------------
+------+
+Table_B1
+Note:
+ To  print  large  tables  and  graphs  users  may  have  to  change  their  printer  settings  to
+landscape and use a small font size.
+             Goals for state tuberculosis control programs
+====================================================
+=======================
+States should have systems that incorporate the following
+guidelines:
+- Ensure the mandatory reporting of each confirmed and suspected
+  case of TB, and observe local laws and regulations protecting
+  patient confidentiality;
+- Examine persons at high risk for TB infection and disease,
+  prescribe the appropriate preventive or curative treatment for
+  these persons, and monitor their treatment;
+- Monitor the treatment of patients, and require that a treatment
+  plan be devised for all hospitalized patients before they are
+  discharged;
+- Ensure the rapid laboratory examination of specimens and
+  reporting of results to the appropriate health department and the
+  requesting clinician;
+- Ensure that TB-infected patients receive treatment until they are
+  cured;
+- Protect the health of the public by isolating and treating
+  persons who have infectious TB and detaining persons who, although
+  not infectious, are unwilling or unable to complete their treatment
+  and are at risk for becoming infectious and for acquiring
+  drug-resistant TB;
+- Finance the treatment of indigent patients.
+====================================================
+=======================
+Return to top.
+Disclaimer
+   All MMWR HTML versions of articles are electronic conversions from ASCII text into
+HTML.  This conversion may have resulted in character translation or format errors in
+the HTML version.  Users should not rely on this HTML document, but are referred to the
+electronic  PDF  version  and/or  the  original  MMWR  paper  copy  for  the  official  text,
+figures,  and  tables.   An  original  paper  copy  of  this  issue  can  be  obtained  from  the
+Superintendent of Documents, U.S. Government Printing Office (GPO), Washington, DC
+20402-9371; telephone: (202) 512-1800. Contact GPO for current prices.**Questions or
+messages regarding errors in formatting should be addressed to mmwrq@cdc.gov.Page
+converted: 09/19/98
+ 
+    CDC. A strategic plan for the elimination of tuberculosis in the
+    United States. MMWR 1989; 38(S-3).  
+    CDC. National action plan to combat multidrug-resistant
+    tuberculosis; Meeting the challenge of multidrug-resistant
+    tuberculosis: summary of a conference; Management of persons
+    exposed to multidrug-resistant tuberculosis. MMWR 1992;41(No.
+    RR-11).  
+    CDC. Review of draft survey and recommendations of tuberculosis
+    control  laws  in  the  United  States.  MMWR  1992;41:735.   Bibliography   American
+Thoracic Society/CDC. Control of tuberculosis in the
+United States. Am Rev Respir Dis 1992;146:1623-33.  CDC/American Thoracic Society.
+Core curriculum on
+tuberculosis. 2nd ed. Atlanta: US Department of Health and Human
+Services,  Public  Health  Service,  1991.   American  Thoracic  Society/CDC.  Diagnostic
+standards and
+classification  of  tuberculosis.  Am  Rev  Respir  Dis  1990;142:725-35.   CDC.  Snider  D,
+Hutton M. Improving patient compliance in
+tuberculosis  treatment  programs.  1989.   CDC.  Prevention  and  control  of  tuberculosis
+among homeless
+persons: recommendations of the Advisory Council for the
+Elimination  of  Tuberculosis.  MMWR  1992;41(No.  RR-5):13-21.   CDC.  Prevention  and
+control of tuberculosis in U.S.
+communities with at-risk minority populations: recommendations of
+the Advisory Council for the Elimination of Tuberculosis. MMWR
+1992;41(No.  RR-5):1-11.   American  Thoracic  Society/CDC.  Treatment  of  tuberculosis
+and
+tuberculosis infection in adults and children. Am Rev Respir Dis
+1986;134:355-65.  CDC. The use of preventive therapy for tuberculosis infection
+in the United States: recommendations of the Advisory Committee for
+Elimination  of  Tuberculosis.  MMWR  1990;39(No.  RR-8):9-12.   CDC.  Approaches  to
+improving adherence to antituberculosis
+therapy -- South Carolina and New York, 1986-1991. MMWR 1993;42:
+74-5,81.  CDC. Screening for tuberculosis and tuberculous infection in
+high-risk populations: recommendations of the Advisory Committee
+for Elimination of Tuberculosis. MMWR 1990;39:(No. RR-8):9-12.  CDC. Prevention and
+control of tuberculosis in migrant farm
+workers: recommendations of the Advisory Council for the
+Elimination of Tuberculosis. MMWR 1992;41(No. RR-10).  CDC. Prevention and control of
+tuberculosis in facilities
+providing long-term care to the elderly: recommendations of the
+Advisory Council for the Elimination of Tuberculosis. MMWR
+1990;39(No. RR-10).  CDC. Initial therapy for tuberculosis in the era of multidrug
+resistance: recommendations of the Advisory Council for the
+Elimination of Tuberculosis. MMWR 1992:42(No. RR-7).  CDC. Purified protein derivative
+(PPD)-tuberculin anergy and
+HIV infection: guidelines for anergy testing and management of
+anergic persons at risk of tuberculosis. MMWR 1991;40(No.RR-5): 27-
+32.  CDC. Control of tuberculosis in correctional facilities: a
+guide for health-care workers. Atlanta: US Department of Health and
+Human  Services,  Public  Health  Service,  1992.   CDC.  Prevention  and  control  of
+tuberculosis in correctional
+institutions: recommendations of the Advisory Committee for the
+Elimination  of  Tuberculosis.  MMWR  1989;38:313-32,325.   CDC.  Guidelines  for
+preventing the transmission of
+tuberculosis in health-care settings, with special focus on
+HIV-related issues. MMWR 1990;39(No. RR-17).  
+    * States use different terms to describe patients who do not follow
+    a prescribed treatment regimen, including "noncompliant" and
+    "noncooperative." Throughout this document, the term "nonadherent"
+    is used to describe patients who do not follow a prescribed
+    treatment regimen. 
+    ** 42 CFR 2.32.
+    +-------------------------------------------------------------------
+------+
+    |                       Erratum: Vol. 42, No. RR-15
+                       |
+    |            
+                                                             |
+    |               SOURCE: MMWR 42(50);983 DATE: Dec. 24, 1993
+               |
+    |            
+                                                             |
+    |      In the MMWR Recommendations and Reports, "Tuberculosis
+ Control     |
+    | Laws -- United States, 1993: Recommendations of the Advisory
+            |
+    | Council for the Elimination of Tuberculosis (ACET)," dated
+ November     |
+    | 12, 1993, on page 1, the first sentence of the summary should
+ read      |
+    | "Because of its communicable nature and because there are many
+          |
+    | state laws specific to the control of tuberculosis (TB), TB is
+          |
+    | managed differently than other airborne infectious diseases."
+           |
+    |            
+                                                             |
+    +-------------------------------------------------------------------
+------+
+Table_B1
+Note:
+ To  print  large  tables  and  graphs  users  may  have  to  change  their  printer  settings  to
+landscape and use a small font size.
+             Goals for state tuberculosis control programs
+====================================================
+=======================
+States should have systems that incorporate the following
+guidelines:
+- Ensure the mandatory reporting of each confirmed and suspected
+  case of TB, and observe local laws and regulations protecting
+  patient confidentiality;
+- Examine persons at high risk for TB infection and disease,
+  prescribe the appropriate preventive or curative treatment for
+  these persons, and monitor their treatment;
+- Monitor the treatment of patients, and require that a treatment
+  plan be devised for all hospitalized patients before they are
+  discharged;
+- Ensure the rapid laboratory examination of specimens and
+  reporting of results to the appropriate health department and the
+  requesting clinician;
+- Ensure that TB-infected patients receive treatment until they are
+  cured;
+- Protect the health of the public by isolating and treating
+  persons who have infectious TB and detaining persons who, although
+  not infectious, are unwilling or unable to complete their treatment
+  and are at risk for becoming infectious and for acquiring
+  drug-resistant TB;
+- Finance the treatment of indigent patients.
+====================================================
+=======================
+Return to top.
+Disclaimer
+   All MMWR HTML versions of articles are electronic conversions from ASCII text into
+HTML.  This conversion may have resulted in character translation or format errors in
+the HTML version.  Users should not rely on this HTML document, but are referred to the
+electronic  PDF  version  and/or  the  original  MMWR  paper  copy  for  the  official  text,
+figures,  and  tables.   An  original  paper  copy  of  this  issue  can  be  obtained  from  the
+Superintendent of Documents, U.S. Government Printing Office (GPO), Washington, DC
+20402-9371; telephone: (202) 512-1800. Contact GPO for current prices.**Questions or
+messages regarding errors in formatting should be addressed to mmwrq@cdc.gov.Page
+converted: 09/19/98
+ 
+    ** 42 CFR 2.32.
+    +-------------------------------------------------------------------
+------+
+    |                       Erratum: Vol. 42, No. RR-15
+                       |
+    |            
+                                                             |
+    |               SOURCE: MMWR 42(50);983 DATE: Dec. 24, 1993
+               |
+    |            
+                                                             |
+    |      In the MMWR Recommendations and Reports, "Tuberculosis
+ Control     |
+    | Laws -- United States, 1993: Recommendations of the Advisory
+            |
+    | Council for the Elimination of Tuberculosis (ACET)," dated
+ November     |
+    | 12, 1993, on page 1, the first sentence of the summary should
+ read      |
+    | "Because of its communicable nature and because there are many
+          |
+    | state laws specific to the control of tuberculosis (TB), TB is
+          |
+    | managed differently than other airborne infectious diseases."
+           |
+    |            
+                                                             |
+    +-------------------------------------------------------------------
+------+
+Table_B1
+Note:
+ To  print  large  tables  and  graphs  users  may  have  to  change  their  printer  settings  to
+landscape and use a small font size.
+             Goals for state tuberculosis control programs
+====================================================
+=======================
+States should have systems that incorporate the following
+guidelines:
+- Ensure the mandatory reporting of each confirmed and suspected
+  case of TB, and observe local laws and regulations protecting
+  patient confidentiality;
+- Examine persons at high risk for TB infection and disease,
+  prescribe the appropriate preventive or curative treatment for
+  these persons, and monitor their treatment;
+- Monitor the treatment of patients, and require that a treatment
+  plan be devised for all hospitalized patients before they are
+  discharged;
+- Ensure the rapid laboratory examination of specimens and
+  reporting of results to the appropriate health department and the
+  requesting clinician;
+- Ensure that TB-infected patients receive treatment until they are
+  cured;
+- Protect the health of the public by isolating and treating
+  persons who have infectious TB and detaining persons who, although
+  not infectious, are unwilling or unable to complete their treatment
+  and are at risk for becoming infectious and for acquiring
+  drug-resistant TB;
+- Finance the treatment of indigent patients.
+====================================================
+=======================
+Return to top.
+Disclaimer
+   All MMWR HTML versions of articles are electronic conversions from ASCII text into
+HTML.  This conversion may have resulted in character translation or format errors in
+the HTML version.  Users should not rely on this HTML document, but are referred to the
+electronic  PDF  version  and/or  the  original  MMWR  paper  copy  for  the  official  text,
+figures,  and  tables.   An  original  paper  copy  of  this  issue  can  be  obtained  from  the
+Superintendent of Documents, U.S. Government Printing Office (GPO), Washington, DC
+20402-9371; telephone: (202) 512-1800. Contact GPO for current prices.**Questions or
+messages regarding errors in formatting should be addressed to mmwrq@cdc.gov.Page
+converted: 09/19/98
+ 
+Table_B1
+Note:
+ To  print  large  tables  and  graphs  users  may  have  to  change  their  printer  settings  to
+landscape and use a small font size.
+             Goals for state tuberculosis control programs
+====================================================
+=======================
+States should have systems that incorporate the following
+guidelines:
+- Ensure the mandatory reporting of each confirmed and suspected
+  case of TB, and observe local laws and regulations protecting
+  patient confidentiality;
+- Examine persons at high risk for TB infection and disease,
+  prescribe the appropriate preventive or curative treatment for
+  these persons, and monitor their treatment;
+- Monitor the treatment of patients, and require that a treatment
+  plan be devised for all hospitalized patients before they are
+  discharged;
+- Ensure the rapid laboratory examination of specimens and
+  reporting of results to the appropriate health department and the
+  requesting clinician;
+- Ensure that TB-infected patients receive treatment until they are
+  cured;
+- Protect the health of the public by isolating and treating
+  persons who have infectious TB and detaining persons who, although
+  not infectious, are unwilling or unable to complete their treatment
+  and are at risk for becoming infectious and for acquiring
+  drug-resistant TB;
+- Finance the treatment of indigent patients.
+====================================================
+=======================
+Return to top.
+Disclaimer
+   All MMWR HTML versions of articles are electronic conversions from ASCII text into
+HTML.  This conversion may have resulted in character translation or format errors in
+the HTML version.  Users should not rely on this HTML document, but are referred to the
+electronic  PDF  version  and/or  the  original  MMWR  paper  copy  for  the  official  text,
+figures,  and  tables.   An  original  paper  copy  of  this  issue  can  be  obtained  from  the
+Superintendent of Documents, U.S. Government Printing Office (GPO), Washington, DC
+20402-9371; telephone: (202) 512-1800. Contact GPO for current prices.**Questions or
+messages regarding errors in formatting should be addressed to mmwrq@cdc.gov.Page
+converted: 09/19/98
+ 
+Disclaimer
+   All MMWR HTML versions of articles are electronic conversions from ASCII text into
+HTML.  This conversion may have resulted in character translation or format errors in
+the HTML version.  Users should not rely on this HTML document, but are referred to the
+electronic  PDF  version  and/or  the  original  MMWR  paper  copy  for  the  official  text,
+figures,  and  tables.   An  original  paper  copy  of  this  issue  can  be  obtained  from  the
+Superintendent of Documents, U.S. Government Printing Office (GPO), Washington, DC
+20402-9371;  telephone:  (202)  512-1800.  Contact  GPO  for  current  prices.  Page
+converted: 09/19/98 
+    HOME  |  
+    ABOUT MMWR  | 
+    MMWR SEARCH  | 
+    DOWNLOADS  | 
+    RSS 
+    |  
+    CONTACT
+POLICY  |  
+    DISCLAIMER  |  
+    ACCESSIBILITY 
+Morbidity and Mortality Weekly Report
+                Centers for Disease Control and Prevention
+                1600 Clifton Rd, MailStop E-90, Atlanta, GA 
+                  30333, U.S.A 
+Department of Healthand Human Services This page last reviewed 5/2/01 
+ 
+Source URL: https://www.cdc.gov/mmwr/preview/mmwrhtml/00030715.htm

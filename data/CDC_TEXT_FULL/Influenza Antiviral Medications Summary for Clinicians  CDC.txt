@@ -1,0 +1,246 @@
+Official websites use .gov A .gov website belongs to an official government organization
+in  the  United  States.  Secure  .gov  websites  use  HTTPS  A  lock  (   )  or  https://  means
+you've  safely  connected  to  the  .gov  website.  Share  sensitive  information  only  on
+official, secure websites. The information on this page should be considered current for
+the  2023-2024  influenza  season  for  clinical  practice  regarding  the  use  of  influenza
+antiviral medications. Clinicians may also wish to consult the IDSA antiviral treatment
+and  antiviral  chemoprophylaxis  recommendations,  and  the  ATS-IDSA  Adult  CAP
+Guidelines. Antiviral treatment is recommended as soon as possible for any patient with
+suspected or confirmed influenza who: Decisions about starting antiviral treatment for
+patients  with  suspected  influenza  should  not  wait  for  laboratory  confirmation  of
+influenza  virus  infection.  Empiric  antiviral  treatment  should  be  started  as  soon  as
+possible  in  the  above  priority  groups.  Clinicians  can  consider  early  empiric  antiviral
+treatment  of  non-higher-risk  outpatients  with  suspected  influenza  based  upon  clinical
+judgment if treatment can be initiated within 48 hours of illness onset. During periods
+of  community  co-circulation  of  influenza  viruses  and  SARS-CoV-2,  empiric  antiviral
+treatment  of  influenza  is  recommended  as  soon  as  possible  for  the  following  priority
+groups:  a)  hospitalized  patients  with  respiratory  illness;  b)  outpatients  with  severe,
+complicated,  or  progressive  respiratory  illness;  and  c)  outpatients  at  higher  risk  for
+influenza complications who present with any acute respiratory illness symptoms (with
+or  without  fever).  Antiviral  medications  with  activity  against  influenza  viruses  are  an
+important  adjunct  to  influenza  vaccine  in  the  control  of  influenza.  Download  Table  1.
+Antiviral Medications Recommended for Treatment and Chemoprophylaxis of Influenza
+[41  KB,  2  pages]  Abbreviations:  N/A  =  not  applicable,  COPD  =  chronic  obstructive
+pulmonary  disease.  In  October  2019,  FDA  approved  an  indication  for  baloxavir
+treatment of acute uncomplicated influenza within 2 days of illness onset in people 12
+years and older at high risk of developing influenza-related complications, based upon
+the  findings  of  a  clinical  trial  (Ison,  2020).  In  this  clinical  trial  of  early  initiation  of
+antiviral  treatment  for  uncomplicated  influenza  in  highrisk  patients,  baloxavir  was
+superior  to  placebo  and  had  similar  overall  efficacy  to  oseltamivir  in  the  time  to
+alleviation  of  symptoms.  For  patients  with  influenza  B  virus  infection,  baloxavir
+significantly  reduced  the  median  time  to  improvement  of  symptoms  compared  with
+oseltamivir  by  more  than  24  hours.  For  patients  with  influenza  B  virus  infection,
+baloxavir  significantly  reduced  the  median  time  to  improvement  of  symptoms
+compared  with  oseltamivir  by  more  than  24  hours.  However,  there  are  no  available
+data  for  baloxavir  treatment  of  influenza  in  pregnant  people,  immunocompromised
+people,  or  in  people  with  severe  influenza  who  are  not  hospitalized.  In  August  2022,
+FDA  expanded  approval  of  baloxavir  for  treatment  of  acute  uncomplicated  influenza
+within 2 days of illness onset in children aged 5 years to <11 years who are otherwise
+healthy  package  insert  XOFLUZA  [963  KB,  22  pages].  This  was  based  upon  the
+secondary  clinical  outcomes  of  a  randomized  clinical  trial  of  baloxavir  versus
+oseltamivir  for  treatment  of  uncomplicated  influenza  in  children  aged  1  year  to  <12
+years
+ (Baker,
+ 2021).
+ A
+ randomized
+ clinical
+ trial
+ reported
+ that
+ combination
+neuraminidase  inhibitor  (primarily  oseltamivir)  and  baloxavir  for  treatment  of
+hospitalized influenza patients aged ≥12 years did not result in superior clinical benefit
+(time  to  clinical  improvement)  compared  with  neuraminidase  inhibitor  and  placebo
+(Kumar, 2022). In November 2020, FDA expanded approval of baloxavir to include post
+exposure  prophylaxis  of  influenza  for  persons  aged  ≥12  years  within  48  hours  of
+contact with an individual with influenza, based on the findings of a clinical trial among
+household  contacts  of  index  patient  with  influenza  (Ikematsu,  2020).  In  this  study,
+baloxavir  post-exposure  prophylaxis  (PEP)  of  influenza  in  household  members  (19%
+were  younger  than  12  years;  73%  received  baloxavir  within  24  hours  of  onset  of
+symptoms in the index household case who received antiviral treatment) significantly
+reduced the risk of laboratory confirmed by 86% among those who received baloxavir
+PEP than among those who received placebo (1.9% [7 of 374] vs. 13.6% [51 of 375];
+adjusted risk ratio, 0.14; 95% confidence interval [CI], 0.06 to 0.30; P<0.001). In August
+2022, FDA expanded approval of baloxavir for post-exposure prophylaxis of influenza in
+persons  aged  5  years  and  older  within  48  hours  of  contact  with  an  individual  with
+influenza package insert XOFLUZA [963 KB, 22 pages]. *Oral or enterically administered
+oseltamivir  is  the  recommended  antiviral  for  patients  with  severe,  complicated,  or
+progressive illness who are not hospitalized, and for hospitalized influenza patients. For
+hospitalized  patients  who  cannot  tolerate  or  absorb  oral  or  enterically  administered
+oseltamivir  because  of  suspected  or  known  gastric  stasis,  malabsorption,  or
+gastrointestinal  bleeding,  intravenous  peramivir  may  be  considered  (Lee,  2017;  de
+Jong, 2014; Ison, 2014; Ison, 2013).  There are insufficient data to support general use
+of  inhaled  zanamivir  and  intravenous  peramivir  in  patients  with  severe  influenza
+disease. There are no available data from clinical trials on use of baloxavir treatment in
+patients with severe influenza disease who are not hospitalized. **Oral oseltamivir and
+oral baloxavir are available treatment options for patients at higher risk for influenza
+complication  depending  upon  their  underlying  conditions  and  age  (Table  1).  Data  on
+use  of  peramivir  or  zanamivir  are  very  limited  in  high-risk  outpatients  with  influenza.
+Figure:  Guide  for  considering  influenza  testing  and  treatment  when  influenza  viruses
+are  circulating  in  the  community  (regardless  of  influenza  vaccination  history)1  
+Complete footnotes for this algorithm are available. 1Although all children younger than
+5 years old are considered at higher risk for complications from influenza, the highest
+risk is for those younger than 2 years old, with the highest hospitalization and death
+rates  among  infants  younger  than  6  months  old.  Because  many  children  with  mild
+febrile
+ respiratory
+ illness
+ might
+ have
+ other
+ viral
+ infections
+ (e.g.,
+SARS-CoV-2,  respiratory  syncytial  virus,  rhinovirus,  parainfluenza  virus,  or  human
+metapneumovirus),  knowledge  of  other  respiratory  viruses  as  well  as  influenza  virus
+strains circulating in the community is important for treatment decisions. The following
+recommendations do not necessarily represent FDA-approved uses of antiviral products
+but are based on published observational studies and expert opinion and are subject to
+change as the developmental status of investigational products and the epidemiologic
+and virologic features of influenza change over time. Antiviral Agent Antiviral Agent Use
+Use  Children  Children  Adults  Adults  Oral  Oseltamivir  Oral  Oseltamivir  Treatment  (5
+days)1 Treatment (5 days)1 If younger than 1 yr old2: 3 mg/kg/dose twice daily3,4 If 1
+yr or older, dose varies by child’s weight: 15 kg or less, the dose is 30 mg twice a day
+>15 to 23 kg, the dose is 45 mg twice a day >23 to 40 kg, the dose is 60 mg twice a
+day >40 kg, the dose is 75 mg twice a day If younger than 1 yr old2: 3 mg/kg/dose
+twice daily3,4 If 1 yr or older, dose varies by child’s weight: 15 kg or less, the dose is 30
+mg twice a day >15 to 23 kg, the dose is 45 mg twice a day >23 to 40 kg, the dose is
+60 mg twice a day >40 kg, the dose is 75 mg twice a day 75 mg twice daily 75 mg
+twice daily Chemoprophylaxis (7 days)5 Chemoprophylaxis (7 days)5 If child is younger
+than 3 months old, use of oseltamivir for chemoprophylaxis is not recommended unless
+situation is judged critical due to limited data in this age group. If child is 3 months or
+older and younger than 1 yr old2 3 mg/ kg/dose once daily3 If 1 yr or older, dose varies
+by child’s weight: 15 kg or less, the dose is 30 mg once a day >15 to 23 kg, the dose is
+45 mg once a day >23 to 40 kg, the dose is 60 mg once a day >40 kg, the dose is 75
+mg  once  a  day  If  child  is  younger  than  3  months  old,  use  of  oseltamivir  for
+chemoprophylaxis is not recommended unless situation is judged critical due to limited
+data in this age group. If child is 3 months or older and younger than 1 yr old2 3 mg/
+kg/dose once daily3 If 1 yr or older, dose varies by child’s weight: 15 kg or less, the
+dose is 30 mg once a day >15 to 23 kg, the dose is 45 mg once a day >23 to 40 kg, the
+dose is 60 mg once a day >40 kg, the dose is 75 mg once a day 75 mg once daily 75
+mg once daily Inhaled Zanamivir6 Inhaled Zanamivir6 Treatment (5 days) Treatment (5
+days) 10 mg (two 5-mg inhalations) twice daily
+(FDA approved and recommended for use in children 7 yrs or older) 10 mg (two 5-mg
+inhalations) twice daily
+(FDA approved and recommended for use in children 7 yrs or older) 10 mg (two 5-mg
+inhalations) twice daily 10 mg (two 5-mg inhalations) twice daily Chemoprophylaxis (7
+days)5 Chemoprophylaxis (7 days)5 10 mg (two 5-mg inhalations) once daily
+(FDA  approved  for  and  recommended  for  use  in  children  5  yrs  or  older)  10  mg  (two
+5-mg inhalations) once daily
+(FDA  approved  for  and  recommended  for  use  in  children  5  yrs  or  older)  10  mg  (two
+5-mg  inhalations)  once  daily  10  mg  (two  5-mg  inhalations)  once  daily  Intravenous
+Peramivir7 Intravenous Peramivir7 Treatment (1 day)1 Treatment (1 day)1 (6 months to
+12 yrs of age) One 12 mg/kg dose, up to 600 mg maximum, via intravenous infusion for
+a  minimum  of  15  minutes  (FDA  approved  and  recommended  for  use  in  children  6
+months  or  older)  (6  months  to  12  yrs  of  age)  One  12  mg/kg  dose,  up  to  600  mg
+maximum,  via  intravenous  infusion  for  a  minimum  of  15  minutes  (FDA  approved  and
+recommended  for  use  in  children  6  months  or  older)  (13  yrs  and  older)  One  600  mg
+dose, via intravenous infusion for a minimum of 15 minutes (13 yrs and older) One 600
+mg  dose,  via  intravenous  infusion  for  a  minimum  of  15  minutes  Chemoprophylaxis8
+Chemoprophylaxis8 Not recommended Not recommended N/A N/A Oral Baloxavir9 Oral
+Baloxavir9  Treatment  (1  day)  Treatment  (1  day)  (5  yrs  and  older  weighing  <20  kg:
+single dose of 2 mg/kg by suspension; weighing 20 kg to <80 kg: single dose of 40 mg
+by  tablet  or  suspension;  weighing  ≥80  kg:  single  dose  of  80  mg  by  tablet  or
+suspension) FDA approved and recommended for use in otherwise healthy children 5
+yrs and older. (5 yrs and older weighing <20 kg: single dose of 2 mg/kg by suspension;
+weighing 20 kg to <80 kg: single dose of 40 mg by tablet or suspension; weighing ≥80
+kg: single dose of 80 mg by tablet or suspension) FDA approved and recommended for
+use in otherwise healthy children 5 yrs and older. Weight <80 kg: One 40 mg dose;
+Weight ≥80 kg: One 80 mg dose9 Weight <80 kg: One 40 mg dose;
+Weight  ≥80  kg:  One  80  mg  dose9  Chemoprophylaxis9  Chemoprophylaxis9  FDA
+approved for post-exposure prophylaxis for persons aged 5 years and older. Dosage is
+the  same  as  for  treatment.  FDA  approved  for  post-exposure  prophylaxis  for  persons
+aged 5 years and older. Dosage is the same as for treatment. Dosage is the same as to
+treatment  Dosage  is  the  same  as  to  treatment  Download  Table  2.  Recommended
+Dosage
+ and
+ Duration
+ of
+ Influenza
+ Antiviral
+ Medications
+ for
+ Treatment
+ or
+Chemoprophylaxis [48 KB, 2 pages] Abbreviations: N/A = not approved A randomized
+clinical  trial  reported  that  combination  neuraminidase  inhibitor  (primarily  oseltamivir)
+and baloxavir for treatment of hospitalized influenza patients aged ≥12 years did not
+result  in  superior  clinical  benefit  (time  to  clinical  improvement)  compared  with
+neuraminidase inhibitor and placebo (Kumar, 2022). Oral baloxavir is approved by the
+FDA  for  post-exposure  prophylaxis  of  influenza  for  persons  aged  ≥5  years  within  48
+hours  of  contact  with  an  individual  with  influenza.  Patients  with  Uncomplicated
+Influenza  Hospitalized  Patients  Dose  adjustment  of  oseltamivir  is  recommended  for
+patients  with  creatinine  clearance  between  10  and  60  mL/min  and  patients  with
+end-stage  renal  disease  (ESRD)  undergoing  hemodialysis  or  continuous  peritoneal
+dialysis  receiving  oseltamivir  for  the  treatment  or  chemoprophylaxis  of  influenza.
+Oseltamivir  is  not  recommended  for  patients  with  ESRD  not  undergoing  dialysis.  The
+recommended
+ doses
+ are
+ detailed
+ in
+ Table
+ 3;
+ duration
+ of
+ treatment
+ and
+chemoprophylaxis is the same as recommended for patients with normal renal function.
+The  dose  of  intravenous  peramivir  should  be  reduced  for  patients  with  baseline
+creatinine  clearance  below  50  mL/min  (see  Table  3).  No  dose  adjustment  is
+recommended for inhaled zanamivir for a 5-day course of treatment for patients with
+renal  impairment.  Pharmacokinetic  analysis  did  not  identify  a  clinically  meaningful
+effect of renal function on the pharmacokinetics of baloxavir in patients with creatinine
+clearance  50  mL/min  and  above.  The  effects  of  severe  renal  impairment  on  the
+pharmacokinetics  of  baloxavir  marboxil  or  its  active  metabolite,  baloxavir,  have  not
+been  evaluated.  Creatinine  Clearance  Creatinine  Clearance  Recommended  Treatment
+Regimen
+ Recommended
+ Treatment
+ Regimen
+ Recommended
+ Chemoprophylaxis
+Regimen
+ Recommended
+ Chemoprophylaxis
+ Regimen
+ Oral
+ Oseltamivir1
+ Oral
+Oseltamivir1  Creatinine  clearance  61  to  90  mL/min  Creatinine  clearance  61  to  90
+mL/min  75  mg  twice  a  day  75  mg  twice  a  day  75  mg  once  daily  75  mg  once  daily
+Creatinine  clearance  31  to  60  mL/min  Creatinine  clearance  31  to  60  mL/min  30  mg
+twice a day 30 mg twice a day 30 mg once daily 30 mg once daily Creatinine clearance
+11 to 30 mL/min Creatinine clearance 11 to 30 mL/min 30 mg once daily 30 mg once
+daily  30  mg  every  other  day  30  mg  every  other  day  ESRD  Patients  on  Hemodialysis
+Creatinine clearance ≤10 mL/min ESRD Patients on Hemodialysis Creatinine clearance
+≤10 mL/min 30 mg after every hemodialysis cycle. Treatment duration not to exceed 5
+days2 30 mg after every hemodialysis cycle. Treatment duration not to exceed 5 days2
+30 mg after alternate hemodialysis cycles3 30 mg after alternate hemodialysis cycles3
+ESRD Patients on Continuous Ambulatory Peritoneal Dialysis4 Creatinine clearance ≤10
+mL/min  ESRD  Patients  on  Continuous  Ambulatory  Peritoneal  Dialysis4  Creatinine
+clearance ≤10 mL/min A single 30 mg dose administered immediately after a dialysis
+exchange A single 30 mg dose administered immediately after a dialysis exchange 30
+mg once weekly immediately after dialysis exchange 30 mg once weekly immediately
+after  dialysis  exchange  Intravenous  Peramivir  (single  dose)5  Intravenous  Peramivir
+(single dose)5 Creatinine clearance ≥50 mL/min Creatinine clearance ≥50 mL/min 600
+mg 600 mg N/A N/A Creatinine clearance 30 to 49 mL/min Creatinine clearance 30 to 49
+mL/min  200  mg  200  mg  N/A  N/A  Creatinine  clearance  10  to  29  mL/min  Creatinine
+clearance  10  to  29  mL/min  100  mg  100  mg  N/A  N/A  ESRD  Patients  on  Hemodialysis
+ESRD  Patients  on  Hemodialysis  Dose  administered  after  dialysis  at  a  dose  adjusted
+based  on  creatinine  clearance  Dose  administered  after  dialysis  at  a  dose  adjusted
+based  on  creatinine  clearance  Download  Table  3.  Recommended  Oseltamivir  and
+Peramivir  Dose  Adjustments  for  Treatment  or  Chemoprophylaxis  of  Influenza  in  Adult
+Patients with Renal Impairment or End Stage Renal Disease (ESRD) on Dialysis* [35 KB,
+2 pages]  * From package inserts for oseltamivir and peramivir; see FDA Influenza (Flu)
+Antiviral  Drugs  and  Related  Information.  Abbreviations:  N/A  =  approved,  not
+recommended  For  more  information,  visit  the  Seasonal  Influenza  (Flu)  site,
+email CDC-INFO, or call CDC at 800-CDC-INFO (English and Spanish) or 888-232-6348
+(TTY). More information for clinicians on influenza diagnostic testing is available. More
+Clinicians  should  contact  their  local  or  state  health  department  for  information  about
+current  local  influenza  activity.  CDC’s  FluView  report  gives  Information  regarding
+national influenza activity weekly during influenza season. More A more complete list of
+influenza antiviral references is available. More To receive weekly email updates about
+Seasonal Flu, enter your email address:
+Source URL: https://www.cdc.gov/flu/professionals/antivirals/summary-clinicians.htm

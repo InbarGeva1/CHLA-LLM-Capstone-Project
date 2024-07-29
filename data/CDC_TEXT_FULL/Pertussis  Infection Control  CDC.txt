@@ -1,0 +1,121 @@
+A .gov website belongs to an official government organization in the United States. A
+lock (  ) or https:// means you've safely connected to the .gov website. Share sensitive
+information  only  on  official,  secure  websites.  Pertussis  from  the  Infection  Control  in
+Healthcare  Personnel:  Epidemiology  and  Control  of  Selected  Infections  Transmitted
+Among  Healthcare  Personnel  and  Patients  (2024)  guideline.  Healthcare-associated
+transmission  of  Bordetella  pertussis  (B.  pertussis)  has  involved  both  patients  and
+healthcare personnel (HCP); nonimmunized infants and children are at greatest risk for
+severe  morbidity  and  mortality123456789101112.  Serologic  studies  of  HCP  suggest
+that they may be infected with pertussis much more frequently than indicated by attack
+rates  of  clinical  disease1314.  Prevention  of  transmission  of  B.  pertussis  in  healthcare
+settings involves: 51315 16 Guidelines for pertussis vaccination of HCP are maintained
+by ACIP in Prevention of Pertussis, Tetanus, and Diphtheria with Vaccines in the United
+States:
+ Recommendations
+ of
+ the
+ ACIP
+(https://www.cdc.gov/mmwr/volumes/67/rr/rr6702a1.htm).
+ 131718In
+ addition,
+information  and  recommendations  addressing  the  potential  need  for  revaccination  of
+HCP  with  Tdap  are  available  from  the  CDC  webpage  Evaluating  Revaccination  of
+Healthcare
+ Personnel
+ with
+ Tdap:
+ Factors
+ to
+ Consider
+(https://www.cdc.gov/vaccines/vpd/pertussis/tdap-revac-hcp.html).17  During  pertussis
+outbreaks in healthcare settings, the risk for HCP contracting pertussis is often difficult
+to quantify because exposure is not well-defined13. Transmission of B. pertussis occurs
+through  deposition  of  respiratory,  oral,  or  nasal  secretions  from  an  infected  source
+person on the mucous membranes of a susceptible host. Unprotected (e.g., not wearing
+a  facemask),  close,  face-to-face  contact  with  an  infectious  source  person  or  contact
+with their secretions may be considered an exposure to pertussis. Close contact may
+include, but is not limited to, performing a physical examination on, feeding, or bathing
+a
+ patient;
+ bronchoscopy;
+ intubation;
+ or
+ administration
+ of
+ bronchodilators.
+Determination of close contact may be more inclusive in settings where interaction with
+persons  at  increased  risk  for  severe  pertussis  is  more  likely.  Pertussis  is  highly
+contagious; secondary attack rates exceed 80% in susceptible household contacts1920.
+The  incubation  period  is  usually  5  to  10  days,  but  symptoms  may  develop  up  to  3
+weeks  after  exposure21.  The  clinical  course  of  pertussis  infection  has  3  stages:
+catarrhal,  paroxysmal,  and  convalescent.  Populations  at  increased  risk  for  serious
+complications  and  death  from  severe  pertussis  include:  Symptomatic  persons  who
+receive  effective  antimicrobial  therapy  for  pertussis  are  no  longer  contagious  after  5
+days of appropriate treatment1323. The period of communicability starts at the onset of
+the  catarrhal  stage  and  extends  into  the  paroxysmal  stage,  up  to  3  weeks  after  the
+onset of paroxysms21. Prevention of secondary transmission of pertussis is especially
+difficult  during  the  early  stages  of  the  disease  because  pertussis  is  highly
+communicable  in  the  catarrhal  stage,  when  symptoms  are  nonspecific  and  the
+diagnosis is uncertain. Furthermore, clinical symptoms in adults and adolescents may
+be  less  severe  than  in  children  and  young  infants  and  may  not  be  recognized  as
+pertussis21.  Diagnosis  of  pertussis  is  typically  made  based  upon  compatible  clinical
+history  and  diagnostic  laboratory  testing.  Although  culture  is  considered  the  "gold
+standard"  for  establishing  a  diagnosis  of  pertussis,  polymerase  chain  reaction  (PCR)
+provides  sensitive  results  more  rapidly2425.  More  detailed  information  regarding
+testing  persons  for  pertussis  is  available  on  the  CDC  Pertussis  (Whooping  Cough)
+Diagnostic
+ Testing
+ website
+(https://www.cdc.gov/pertussis/clinical/diagnostic-testing/specimen-collection-diagnosis.
+html).26 Other Bordetella species (e.g., B. parapertussis, B. holmesii) may be detected
+and can occur alone or simultaneously with B. pertussis infection2728293031. Although
+the  clinical  presentation  for  B.  parapertussis  is  similar  to  that  of  B.  pertussis,  B.
+parapertussis  usually  causes  less  severe  disease,  which  may  be  related  to  its  lack  of
+production of pertussis toxin27283233. One report from 1971 estimated that 3-4% of
+patients with parapertussis develop clinical disease, compared to 75% with pertussis33.
+The  severity  of  parapertussis  illness  among  special  populations,  such  as  infants  and
+immunocompromised persons, is unclear, with few hospitalizations and related deaths
+reported343536373839.  Data  on  the  effectiveness  of  antibiotics  for  the  treatment  or
+chemoprophylaxis of B. parapertussis are also limited. Some states have parapertussis
+postexposure and illness management guidance, and some institutions choose to apply
+pertussis strategies for parapertussis2540. Vaccinated HCP may still be susceptible to
+pertussis due to waning immunity, lack of response to the vaccine, immunosuppression,
+or  other  factors.  Because  vaccinated  HCP  may  still  be  at  risk  for  pertussis  infection,
+vaccination  does  not  preclude  the  need  for  PEP,  when  indicated131718.  Data  on  the
+efficacy of, and need for, PEP in Tetanus, Diphtheria, Pertussis (Tdap)-vaccinated HCP
+are inconclusive, but studies suggest that it may minimize transmission513414243. The
+preferred  agents  for  postexposure  prophylaxis  are  azithromycin,  erythromycin,  and
+clarithromycin44.  Trimethoprim-sulfamethoxazole  (TMP-SMZ)  may  also  be  used  as  an
+alternative agent. Detailed information regarding dosage and administration of PEP is
+available  in  the  Recommended  Antimicrobial  Agents  for  the  Treatment  and
+Postexposure
+ Prophylaxis
+ of
+ Pertussis,
+ 2005
+ CDC
+ Guidelines
+(https://www.cdc.gov/mmwr/preview/mmwrhtml/rr5414a1.htm).44
+ Information
+ and
+recommendations on the potential need for booster doses of vaccine during outbreaks
+or periods of increased risk for healthcare-associated transmission of pertussis can be
+found
+ on
+ the
+ CDC
+ Pertussis
+ (Whooping
+ Cough)
+ website
+(https://www.cdc.gov/pertussis/outbreaks.html).45
+ CDC
+ provides
+ information
+ on
+infection  control  and  clinical  safety  to  help  reduce  the  risk  of  infections  among
+healthcare workers, patients, and visitors. Languages Language Assistance Languages 
+Language Assistance 
+Source
+ URL:
+https://www.cdc.gov/infection-control/hcp/healthcare-personnel-epidemiology-control/pertussis.html

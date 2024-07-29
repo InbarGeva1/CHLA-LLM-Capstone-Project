@@ -1,0 +1,141 @@
+A .gov website belongs to an official government organization in the United States. A
+lock (  ) or https:// means you've safely connected to the .gov website. Share sensitive
+information only on official, secure websites. 
+Related Topics:
+ Healthcare-associated infections (HAI) are a significant burden globally, with millions of
+patients  affected  each  year.1  These  infections  affect  both  high-  and  limited-resource
+healthcare settings, but in limited-resource settings, rates are approximately twice as
+high (15 out of every 100 patients versus 7 out of every 100 patients). Furthermore,
+infection rates within certain patient populations, including surgical patients, patients in
+intensive-care
+ units
+ (ICU),
+ and
+ neonatal
+ units,
+ are
+ significantly
+ higher
+ in
+limited-resource  settings.  It  is  well  documented  that  environmental  contamination  in
+healthcare settings plays a role in the transmission of HAIs.23 Therefore, environmental
+cleaning is a fundamental intervention for infection prevention and control (IPC). It is a
+multifaceted intervention that involves cleaning and disinfection (when indicated) of the
+environment alongside other key program elements (e.g., leadership support, training,
+monitoring,  and  feedback  mechanisms).  To  be  effective,  environmental  cleaning
+activities must be implemented within the framework of the facility IPC program, and
+not as a standalone intervention. It is also essential that IPC programs advocate for and
+work  with  facility  administration  and  government  officials  to  budget  and  operate  and
+maintain adequate water, sanitation, and hygiene (WASH) infrastructure to ensure that
+environmental  cleaning  can  be performed  according  to  best practices.  In  a  variety  of
+healthcare  settings,  environmental  contamination  has  been  significantly  associated
+with
+ transmission
+ of
+ pathogens
+ in
+ major
+ outbreaks
+ of
+ methicillin-resistant
+Staphylococcus aureus (MRSA), vancomycin-resistant enterococci (VRE), Clostridioides
+difficile (C. diff), and more recently in protracted outbreaks of Acinetobacter baumannii.
+Outbreak  investigations  have  determined  that  the  risk  of  patient  colonization  and
+infection increased significantly if the patient occupied a room that had been previously
+occupied by an infected or colonized patient. Therefore, the role of immediate patient
+care environment—particularly, environmental surfaces within the patient zone that are
+frequently touched by or in direct physical contact with the patient such as bed rails,
+bedside  tables  and  chairs—in  facilitating  survival  and  subsequent  transfer  of
+microorganisms  was  established.45678910  However,  it  is  important  to  note  that
+environmental transmission of HAIs can occur by different pathways. It has also been
+documented that some healthcare-associated pathogens can survive on environmental
+surfaces for months.3 In 2006, a laboratory-based study documented the survival times
+of  a  range  of  significant  healthcare-associated  pathogens,  including  gram-negative
+bacilli,  and  found  that  they  could  persist  much  longer  in  the  environment  than  was
+previously understood. For example, Acinetobacter spp. survived up to 5 months and
+Klebsiella spp. up to 30 months.1112 The actual survival times in healthcare settings
+vary  considerably  based  on  factors  such  as  temperature,  humidity,  and  surface type.
+Figure 1 (below) illustrates the environmental transmission pathway in general terms.
+Microorganisms  are  transferred  from  the  environment  to  a  susceptible  host  through:
+Contaminated hands or gloves will also continue to spread microorganisms around the
+environment.  Figure  1  also  shows  how  these  pathways  can  be  broken  and  highlights
+that  environmental  cleaning  and  hand  hygiene  (preceded  by  glove  removal,  as
+applicable)  can  break  this  chain  of  transmission.  As  seen  in  Figure  1,  colonized  or
+infected  patients  can  contaminate  environmental  surfaces  and  noncritical  equipment.
+Microorganisms  from  these  contaminated  environmental  surfaces  and  noncritical
+equipment  can  be  transferred  to  a  susceptible  patient  in  two  ways:  Contaminated
+hands or gloves of healthcare personnel, caretakers, and visitors can also contaminate
+environmental surfaces in this way. Proper hand hygiene and environmental cleaning
+can  prevent  transfer  of  microorganisms  to  healthcare  personnel,  caretakers,  and
+visitors  and  to  susceptible  patients.  Evidence  is  increasing  but  remains  limited  that
+effective  environmental  cleaning  strategies  reduce  the  risk  of  transmission  and
+contribute  to  outbreak  control.713141516171819202122  Consequently,  the  use  of
+multiple (i.e., a bundle) interventions as well as an overall multi-modal approach to IPC
+activities  and  programs  is  recommended,  for  both  the  outbreak  and  routine  settings.
+Environmental cleaning is part of Standard Precautions, which should be applied to all
+patients in all healthcare facilities. It is important to implement environmental cleaning
+programs within the framework of facility level IPC programs. Where possible—during
+staff  training  and  education,  for  example—consider  generating  synergies  and
+highlighting  the  relationship  between  environmental  cleaning  and  hand  hygiene
+activities in preventing environmental transmission of HAIs. Facility level IPC programs
+include multiple elements, ranging from surveillance for HAIs to training and education
+for  all  healthcare  workers  on  IPC.  The  World  Health  Organization  (WHO)  has  defined
+core  components  of  IPC  programs  in  Guidelines  on  core  components  of  infection
+prevention and control programmes at the national and acute health care facility level.
+Environmental  cleaning  is  addressed  explicitly  within  Core  Component  8:  Built
+environment,  materials  and  equipment  for  IPC  at  the  facility  level.  But  other
+components  include  important  aspects  for  the  implementation  of  environmental
+cleaning  as  well,  such  as:  At  the  national  level,  it  is  important  that  these  Core
+Components  (2,  3  and  6)  include  frameworks  and  guidance  to  inform  facility  level
+approaches to environmental cleaning. Given the wide range of IPC responsibilities at
+acute healthcare facilities, implementation of robust IPC programs requires a dedicated,
+trained  IPC  team  (or  at  least  a  focal  person).  The  IPC  team  should  consult  and  be
+involved in the technical aspects of the environmental cleaning program (e.g., training,
+policy  development).  A  separate  team  is  recommended  for  the  overall  management
+and  implementation  of  the  environmental  cleaning  program.  In  small  primary  care
+facilities with limited inpatient services, the IPC team or focal person might be directly
+responsible  for  managing  environmental  cleaning  activities.  Healthcare  facilities  must
+have  adequate  water  supply  and  sanitation  infrastructure  (e.g.,  safe  wastewater
+disposal)  to  perform  environmental  cleaning  according  to  best  practices.  A  recent
+global  report  summarized  the  critical  lack  of  access  to  basic  water,  sanitation,  and
+hygiene  (WASH)  services  in  healthcare  facilities  in  resource-limited  settings,  which
+hinders  the  ability  of  facilities  to  implement  effective  environmental  cleaning
+programs.23  In  response  to  the  identified  need  to  improve  WASH  in  Healthcare
+facilities,  WHO  and  UNICEF  have  engaged  partners  and  proposed  practical  steps  to
+improve  WASH  services.  Notably,  this  includes  using  and  reporting  on:  The  following
+best practices for environmental cleaning in resource-limited settings are proposed as a
+standard reference and a resource to: These best practices are derived directly from a
+variety
+ of
+ best
+ practices
+ and
+ cleaning
+ standard
+ documents
+ from
+ several
+English-speaking  high-resource  settings,  most  notably,  the  United  States  of  America,
+Canada, the United Kingdom, and Australia. These documents have been generated by
+a  combination  of  expert  opinion  and  ranking  of  the  current  evidence.  See  Further
+reading for a list of the documents that have been used extensively in the development
+of these best practices. These best practices were developed by a committee of experts
+in  environmental  cleaning  in  resource-limited  settings.  Using  a  consensus-driven
+process,  we  have  included  the  best  practices  most  relevant  and  achievable  for  the
+target context. For example, the best practices in ICUs in this document include more
+frequent  environmental  cleaning  than  recommended  in  several  of  the  referenced
+documents  because  of  the  increased  HAI  risk  and  burden  in  ICUs  in  resource-limited
+settings.  Alternatively,  the  use  of  no-touch  and  novel  disinfection  devices,  which  are
+increasingly  common  in  high-resource  settings,  were  excluded  from  this  document
+because of their prohibitive cost and limited evidence on their effectiveness in reducing
+HAIs  in  resource-limited  settings.  This  is  a  living  document  that  will  be  updated  and
+improved as new evidence becomes available. The purpose of these best practices is to
+improve and standardize the implementation of environmental cleaning in patient care
+areas in all healthcare facilities in resource-limited settings. This document is intended
+for  healthcare  facility  staff  who  have  a  role  in  the  development,  management,  or
+oversight of environmental cleaning services (internal or contracted) for the healthcare
+facility. The best practices are divided into three chapters, described below and shown
+relationally in Figure 2 below. HAIs are associated with medical devices, complications
+following  surgery,  transmission  between  patients  and  healthcare  workers,  antibiotic
+overuse, and more. Languages Language Assistance Languages  Language Assistance 
+Source URL: https://www.cdc.gov/healthcare-associated-infections/hcp/cleaning-global/introduction.html

@@ -1,0 +1,76 @@
+A .gov website belongs to an official government organization in the United States. A
+lock (  ) or https:// means you've safely connected to the .gov website. Share sensitive
+information  only  on  official,  secure  websites.  Appendix  A:  Type  and  Duration  of
+Precautions  Recommended  for  Selected  Infections  and  Conditions  from  the  Guideline
+for  Isolation  Precautions:  Preventing  Transmission  of  Infectious  Agents  in  Healthcare
+Settings (2007). Use Contact Precautions for a minimum of 48 hours after the resolution
+of  symptoms  or  to  control  institutional  outbreaks.  Persons  who  clean  areas  heavily
+contaminated with feces or vomitus may benefit from wearing masks since virus can be
+aerosolized  from  these  body  substances  [142,  147  148];  ensure  consistent
+environmental cleaning and disinfection with focus on restrooms even when apparently
+unsoiled [273, 1064]. Hypochlorite solutions may be required when there is continued
+transmission  [290-292].  Alcohol  is  less  active,  but  there  is  no  evidence  that  alcohol
+antiseptic  handrubs  are  not  effective  for  hand  decontamination  [294].  Cohorting  of
+affected  patients  to  separate  airspaces  and  toilet  facilities  may  help  interrupt
+transmission  during  outbreaks.  Gastroenteritis,  Noroviruses  Precaution  Update  [April
+2019]
+Update: The Type of Precaution was updated from “Standard” to “Contact + Standard”
+to  align  with  Guideline  for  the  Prevention  and  Control  of  Norovirus  Gastroenteritis
+Outbreaks in Healthcare Settings (2011). Interim Measles Infection Control [July 2019]
+ See  Interim  Infection  Prevention  and  Control  Recommendations  for  Measles  in
+Healthcare  Settings     Update:  The  Healthcare  Infection  Control  Practices  Advisory
+Committee (HICPAC) voted to change the recommendation of isolation for persons with
+mumps  from  9  days  to  5  days  based  on  this  2008  MMWR  reportUpdated
+Recommendations  for  Isolation  of  Persons  with  Mumps  (accessed  September  2018).
+Single patient room preferred. Cohorting an option. Postexposure chemoprophylaxis for
+household contacts and HCWs with prolonged exposure to respiratory secretions [863].
+Recommendations  for  Tdap  vaccine  in  adults  under  development.  Tdap  Vaccine
+Recommendations [2018] Update: Current recommendations can be found at Tdap / Td
+ACIP  Vaccine  Recommendations  (accessed  September  2018).  See  Streptococcal
+Disease  (group  A  Streptococcus)  below  Contact  Precautions  if  skin  lesions  present.
+Susceptible  HCWs  should  not  enter  room  if  immune  caregivers  are  available.  No
+recommendation  for  wearing  face  protection  (e.g.,  a  surgical  mask)  if  immune.
+Pregnant  women  who  are  not  immune  should  not  care  for  these  patients  [17,  33].
+Administer vaccine within 3 days of exposure to non-pregnant susceptible individuals.
+Place  exposed  susceptible  patients  on  Droplet  Precautions;  exclude  susceptible
+healthcare  personnel  from  duty  from  day  5  after  first  exposure  to  day  21  after  last
+exposure,  regardless  of  postexposure  vaccine.  Airborne  preferred;  Droplet  if  AIIR
+unavailable. N95 or higher respiratory protection; surgical mask if N95 unavailable; eye
+protection  (goggles,  face  shield);  aerosol-generating  procedures  and  “supershedders”
+highest  risk  for  transmission  via  small  droplet  nuclei  and  large  droplets  [93,  94,  96].
+Vigilant
+ environmental
+ disinfection
+ (see
+ [This
+ link
+ is
+ no
+ longer
+ active:
+www.cdc.gov/ncidod/sars.  Similar  information  may  be  found  at  CDC  Severe  Acute
+Respiratory  Syndrome  (SARS)  (accessed  September  2018).])  Contact  Precautions  for
+draining  wound  as  above;  follow  recommendations  for  antimicrobial  prophylaxis  in
+selected conditions [160]. Each of the 3 sputum specimens should be collected 8 -24
+hours  apart,  and  at  least  1  should  be  an  early  morning  specimen.  Susceptible  HCWs
+should not enter room if immune caregivers are available; no recommendation for face
+protection  of  immune  HCWs;  no  recommendation  for  type  of  protection  (i.e.,  surgical
+mask  or  respirator)  for  susceptible  HCWs.  In  immunocompromised  host  with  varicella
+pneumonia,  prolong  duration  of  precautions  for  duration  of  illness.  Varicella
+Post-exposure  Prophylaxis  Update  [April  2019]   Update:  Postexposure  prophylaxis:
+provide  postexposure  vaccine  ASAP  but  within  120  hours;  for  susceptible  exposed
+persons for whom vaccine is contraindicated (immunocompromised persons, pregnant
+women, newborns whose mother’s varicella onset is <5 days before delivery or within
+48  hours  after  delivery)  provide  varicella  zoster  immune  globulin  as  soon  as  possible
+after exposure and within 10 days. Use Airborne for exposed susceptible persons and
+exclude exposed susceptible healthcare workers beginning 8 days after first exposure
+until  21  days  after  last  exposure  or  28  if  received  varicella  zoster  immune  globulin,
+regardless  of  postexposure  vaccination.  [1036]  Ebola  Virus  Disease  for  Healthcare
+Workers [2014]
+Update: Recommendations for healthcare workers can be found at Ebola For Clinicians.
+(accessed September 2018). CDC provides information on infection control and clinical
+safety  to  help  reduce  the  risk  of  infections  among  healthcare  workers,  patients,  and
+visitors. Languages Language Assistance Languages  Language Assistance 
+Source
+ URL:
+https://www.cdc.gov/infection-control/hcp/isolation-precautions/appendix-a-type-duration.html

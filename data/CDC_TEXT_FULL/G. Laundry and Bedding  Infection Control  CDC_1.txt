@@ -1,0 +1,340 @@
+A .gov website belongs to an official government organization in the United States. A
+lock (  ) or https:// means you've safely connected to the .gov website. Share sensitive
+information only on official, secure websites. Laundry and bedding guidelines from the
+Guidelines for Environmental Infection Control in Health-Care Facilities (2003). Laundry
+in a health-care facility may include bed sheets and blankets, towels, personal clothing,
+patient apparel, uniforms, scrub suits, gowns, and drapes for surgical procedures.1245
+Although contaminated textiles and fabrics in health-care facilities can be a source of
+substantial  numbers  of  pathogenic  microorganisms,  reports  of  health-care  associated
+diseases  linked  to  contaminated  fabrics  are  so  few  in  number  that  the  overall  risk  of
+disease transmission during the laundry process likely is negligible. When the incidence
+of  such  events  are  evaluated  in  the  context  of  the  volume  of  items  laundered  in
+health-care  settings  (estimated  to  be  5  billion  pounds  annually  in  the  United
+States),1246  existing  control  measures  (e.g.,  standard  precautions)  are  effective  in
+reducing the risk of disease transmission to patients and staff. Therefore, use of current
+control  measures  should  be  continued  to  minimize  the  contribution  of  contaminated
+laundry  to  the  incidence  of  health-care  associated  infections.  The  control  measures
+described in this section of the guideline are based on principles of hygiene, common
+sense, and consensus guidance; they pertain to laundry services utilized by health-care
+facilities,  either  inhouse  or  contract,  rather  than  to  laundry  done  in  the  home.
+Contaminated textiles and fabrics often contain high numbers of microorganisms from
+body  substances,  including  blood,  skin,  stool,  urine,  vomitus,  and  other  body  tissues
+and  fluids.  When  textiles  are  heavily  contaminated  with  potentially  infective  body
+substances, they can contain bacterial loads of 106 –108 CFU/100 cm2 of fabric.1247
+Disease  transmission  attributed  to  health-care  laundry  has  involved  contaminated
+fabrics  that  were  handled  inappropriately  (i.e.,  the  shaking  of  soiled  linens).  Bacteria
+(Salmonella spp., Bacillus cereus), viruses (hepatitis B virus [HBV]), fungi (Microsporum
+canis),  and  ectoparasites  (scabies)  presumably  have  been  transmitted  from
+contaminated  textiles  and  fabrics  to  workers  via  In  these  events,  however,
+investigations could not rule out the possibility that some of these reported infections
+were  acquired  from  community  sources.  Through  a  combination  of  soil  removal,
+pathogen removal, and pathogen inactivation, contaminated laundry can be rendered
+hygienically  clean.  Hygienically  clean  laundry  carries  negligible  risk  to  health-care
+workers  and  patients,  provided  that  the  clean  textiles,  fabric,  and  clothing  are  not
+inadvertently  contaminated  before  use.   Top  of  Page  OSHA  defines  contaminated
+laundry  as  "laundry  which  has  been  soiled  with  blood  or  other  potentially  infectious
+materials  or  may  contain  sharps."967  The  purpose  of  the  laundry  portion  of  the
+standard  is  to  protect  the  worker  from  exposure  to  potentially  infectious  materials
+during  collection,  handling,  and  sorting  of  contaminated  textiles  through  the  use  of
+personal  protective  equipment,  proper  work  practices,  containment,  labeling,  hazard
+communication,  and  ergonomics.  Experts  are  divided  regarding  the  practice  of
+transporting  clothes  worn  at  the  workplace  to  the  healthcare  worker's  home  for
+laundering.  Although  OSHA  regulations  prohibit  home  laundering  of  items  that  are
+considered  personal  protective  apparel  or  equipment  (e.g.,  laboratory  coats),967
+experts disagree about whether this regulation extends to uniforms and scrub suits that
+are  not  contaminated  with  blood  or  other  potentially  infectious  material.  Health-care
+facility policies on this matter vary and may be inconsistent with recommendations of
+professional  organizations.1253,  1254  Uniforms  without  blood  or  body  substance
+contamination presumably do not differ appreciably from street clothes in the degree
+and  microbial  nature  of  soilage.  Home  laundering  would  be  expected  to  remove  this
+level of soil adequately. However, if health-care facilities require the use of uniforms,
+they  should  either  make  provisions  to  launder  them  or  provide  information  to  the
+employee regarding infection control and cleaning guidelines for the item based on the
+tasks being performed at the facility. Health-care facilities should address the need to
+provide this service and should determine the frequency for laundering these items. In
+a recent study examining the microbial contamination of medical students' white coats,
+the students perceived the coats as "clean" as long as the garments were not visibly
+contaminated  with  body  substances,  even  after  wearing  the  coats  for  several
+weeks.1255 The heaviest bacterial load was found on the sleeves and the pockets of
+these garments; the organisms most frequently isolated were Staphylococcus aureus,
+diphtheroids,  and  Acinetobacter  spp.1255  Presumably,  the  sleeves  of  the  coat  may
+make  contact  with  a  patient  and  potentially  serve  to  transfer  environmentally  stable
+microorganisms among patients. In this study, however, surveillance was not conducted
+among  patients  to  detect  new  infections  or  colonizations.  The  students  did,  however,
+report that they would likely replace their coats more frequently and regularly if clean
+coats  were  provided.1255  Apart  from  this  study,  which  documents  the  presence  of
+pathogenic bacteria on health-care facility clothing, reports of infections attributed to
+either  the  contact  with  such  apparel  or  with  home  laundering  have  been  rare.  1256,
+1257  Laundry  services  for  health-care  facilities  are  provided  either  in-house  (i.e.,
+on-premise laundry [OPL]), co-operatives (i.e., those entities owned and operated by a
+group of facilities), or by off-site commercial laundries. In the latter, the textiles may be
+owned  by  the  health-care  facility,  in  which  case  the  processor  is  paid  for  laundering
+only. Alternatively, the textiles may be owned by the processor who is paid for every
+piece laundered on a "rental" fee. The laundry facility in a health-care setting should be
+designed for efficiency in providing hygienically clean textiles, fabrics, and apparel for
+patients  and  staff.  Guidelines  for  laundry  construction  and  operation  for  health-care
+facilities,  including  nursing  facilities,  have  been  published.120,  1258  The  design  and
+engineering standards for existing facilities are those cited in the AIA edition in effect
+during the time of the facility's construction.120 A laundry facility is usually partitioned
+into two separate areas – a "dirty" area for receiving and handling the soiled laundry
+and a "clean" area for processing the washed items.1259 To minimize the potential for
+recontaminating  cleaned  laundry  with  aerosolized  contaminated  lint,  areas  receiving
+contaminated  textiles  should  be  at  negative  air  pressure  relative  to  the  clean
+areas.1260–1262 Laundry areas should have handwashing facilities readily available to
+workers. Laundry workers should wear appropriate personal protective equipment (e.g.,
+gloves  and  protective  garments)  while  sorting  soiled  fabrics  and  textiles.967  Laundry
+equipment should be used and maintained according to the manufacturer's instructions
+to prevent microbial contamination of the system.1250, 1263 Damp textiles should not
+be left in machines overnight.1250 The laundry process starts with the removal of used
+or  contaminated  textiles,  fabrics,  and/or  clothing  from  the  areas  where  such
+contamination occurred, including but not limited to patients' rooms, surgical/operating
+areas,  and  laboratories.  Handling  contaminated  laundry  with  a  minimum  of  agitation
+can  help  prevent  the  generation  of  potentially  contaminated  lint  aerosols  in
+patient-care  areas.967,  1259  Sorting  or  rinsing  contaminated  laundry  at  the  location
+where  contamination  occurred  is  prohibited  by  OSHA.967  Contaminated  textiles  and
+fabrics  are  placed  into  bags  or  other  appropriate  containment  in  this  location;  these
+bags are then securely tied or otherwise closed to prevent leakage.967 Single bags of
+sufficient  tensile  strength  are  adequate  for  containing  laundry,  but  leak-resistant
+containment  is  needed  if  the  laundry  is  wet  and  capable  of  soaking  through  a  cloth
+bag.1264 Bags containing contaminated laundry must be clearly identified with labels,
+color-coding, or other methods so that health-care workers handle these items safely,
+regardless  of  whether  the  laundry  is  transported  within  the  facility  or  destined  for
+transport to an off-site laundry service.967 Typically, contaminated laundry originating
+in  isolation  areas  of  the  hospital  is  segregated  and  handled  with  special  practices;
+however, few, if any, cases of health-care associated infection have been linked to this
+source.1265  Single-blinded  studies  have  demonstrated  that  laundry  from  isolation
+areas  is  no  more  heavily  contaminated  with  microorganisms  than  laundry  from
+elsewhere  in  the  hospital.1266  Therefore,  adherence  to  standard  precautions  when
+handling  contaminated  laundry  in  isolation  areas  and  minimizing  agitation  of  the
+contaminated  items  are  considered  sufficient  to  prevent  the  dispersal  of  potentially
+infectious aerosols.6 Contaminated textiles and fabrics in bags can be transported by
+cart or chute.1258, 1262 Laundry chutes require proper design, maintenance, and use,
+because  the  piston-like  action  of  a  laundry  bag  traveling  in  the  chute  can  propel
+airborne  microbial  contaminants  throughout  the  facility.1267–1269  Laundry  chutes
+should  be  maintained  under  negative  air  pressure  to  prevent  the  spread  of
+microorganisms from floor to floor. Loose, contaminated pieces of laundry should not be
+tossed into chutes, and laundry bags should be closed or otherwise secured to prevent
+the contents from falling out into the chute.1270 Health-care facilities should determine
+the point in the laundry process at which textiles and fabrics should be sorted. Sorting
+after washing minimizes the exposure of laundry workers to infective material in soiled
+fabrics,  reduces  airborne  microbial  contamination  in  the  laundry  area,  and  helps  to
+prevent  potential  percutaneous  injuries  to  personnel.1271  Sorting  laundry  before
+washing  protects  both  the  machinery  and  fabrics  from  hard  objects  (e.g.,  needles,
+syringes, and patients' property) and reduces the potential for recontamination of clean
+textiles.1272  Sorting  laundry  before  washing  also  allows  for  customization  of  laundry
+formulas based on the mix of products in the system and types of soils encountered.
+Additionally,  if  work  flow  allows,  increasing  the  amount  of  segregation  by  specific
+product  types  will  usually  yield  the  greatest  amount  of  work  efficiency  during
+inspection,  folding,  and  pack-making  operations.1253  Protective  apparel  for  the
+workers  and  appropriate  ventilation  can  minimize  these  exposures.  967,  1258–1260
+Gloves used for the task of sorting laundry should be of sufficient thickness to minimize
+sharps  injuries.967  Employee  safety  personnel  and  industrial  hygienists  can  help  to
+determine  the  appropriate  glove  choice.  Fabrics,  textiles,  and  clothing  used  in
+health-care  settings  are  disinfected  during  laundering  and  generally  rendered  free  of
+vegetative pathogens (i.e., hygienically clean), but they are not sterile.1273 Laundering
+cycles  consist  of  flush,  main  wash,  bleaching,  rinsing,  and  souring.1274  Cleaned  wet
+textiles,  fabrics,  and  clothing  are  then  dried,  pressed  as  needed,  and  prepared  (e.g.,
+folded and packaged) for distribution back to the facility. Clean linens provided by an
+off-site  laundry  must  be  packaged  prior  to  transport  to  prevent  inadvertent
+contamination  from  dust  and  dirt  during  loading,  delivery,  and  unloading.  Functional
+packaging  of  laundry  can  be  achieved  in  several  ways,  including  The  antimicrobial
+action  of  the  laundering  process  results  from  a  combination  of  mechanical,  thermal,
+and  chemical  factors.1271,  1275,  1276  Dilution  and  agitation  in  water  remove
+substantial  quantities  of  microorganisms.  Soaps  and  detergents  function  to  suspend
+soils  and  also  exhibit  some  microbiocidal  properties.  Hot  water  provides  an  effective
+means of destroying microorganisms.1277 A temperature of at least 160°F (71°C) for a
+minimum of 25 minutes is commonly recommended for hot-water washing.2 Water of
+this temperature can be provided by steam jet or separate booster heater.120 The use
+of  chlorine  bleach  assures  an  extra  margin  of  safety.1278,  1279  A  total  available
+chlorine  residual  of  50–150  ppm  is  usually  achieved  during  the  bleach  cycle.1277
+Chlorine
+ bleach
+ becomes
+ activated
+ at
+ water
+ temperatures
+ of
+ 135°F–145°F
+(57.2°C–62.7°C). The last of the series of rinse cycles is the addition of a mild acid (i.e.,
+sour) to neutralize any alkalinity in the water supply, soap, or detergent. The rapid shift
+in  pH  from  approximately  12  to  5  is  an  effective  means  to  inactivate  some
+microorganisms.1247  Effective  removal  of  residual  alkali  from  fabrics  is  an  important
+measure in reducing the risk for skin reactions among patients. Chlorine bleach is an
+economical, broad-spectrum chemical germicide that enhances the effectiveness of the
+laundering process. Chlorine bleach is not, however, an appropriate laundry additive for
+all fabrics. Traditionally, bleach was not recommended for laundering flame-retardant
+fabrics, linens, and clothing because its use diminished the flame-retardant properties
+of the treated fabric.1273 However, some modern-day flame retardant fabrics can now
+tolerate chlorine bleach. Flame-retardant fabrics, whether topically treated or inherently
+flame retardant, should be thoroughly rinsed during the rinse cycles, because detergent
+residues  are  capable  of  supporting  combustion.  Chlorine  alternatives  (e.g.,  activated
+oxygen-based laundry detergents) provide added benefits for fabric and color safety in
+addition  to  antimicrobial  activity.  Studies  comparing  the  antimicrobial  potencies  of
+chlorine  bleach  and  oxygen-based  bleach  are  needed.  Oxygen-based  bleach  and
+detergents used in health-care settings should be registered by EPA to ensure adequate
+disinfection  of  laundry.  Health-care  workers  should  note  the  cleaning  instructions  of
+textiles,  fabrics,  drapes,  and  clothing  to  identify  special  laundering  requirements  and
+appropriate hygienic cleaning options.1278 Although hot-water washing is an effective
+laundry  disinfection  method,  the  cost  can  be  substantial.  Laundries  are  typically  the
+largest  users  of  hot  water  in  hospitals.  They  consume  50%–75%  of  the  total  hot
+water,1280  representing  an  average  of  10%–15%  of  the  energy  used  by  a  hospital.
+Several  studies  have  demonstrated  that  lower  water  temperatures  of  71°F–77°F
+(22°C–25°C) can reduce microbial contamination when the cycling of the washer, the
+wash  detergent,  and  the  amount  of  laundry  additive  are  carefully  monitored  and
+controlled.1247,  1281–1285  Low-temperature  laundry  cycles  rely  heavily  on  the
+presence  of  chlorine-  or  oxygen-activated  bleach  to  reduce  the  levels  of  microbial
+contamination. The selection of hot- or cold-water laundry cycles may be dictated by
+state  health-care  facility  licensing  standards  or  by  other  regulation.  Regardless  of
+whether hot or cold water is used for washing, the temperatures reached in drying and
+especially during ironing provide additional significant microbiocidal action.1247 Dryer
+temperatures and cycle times are dictated by the materials in the fabrics. Man-made
+fibers  (i.e.,  polyester  and  polyester  blends)  require  shorter  times  and  lower
+temperatures.  After  washing,  cleaned  and  dried  textiles,  fabrics,  and  clothing  are
+pressed, folded, and packaged for transport, distribution, and storage by methods that
+ensure their cleanliness until use.2 State regulations and/or accrediting standards may
+dictate the procedures for this activity. Clean/sterile and contaminated textiles should
+be transported from the laundry to the health-care facility in vehicles (e.g., trucks, vans,
+and  carts)  that  allow  for  separation  of  clean/sterile  and  contaminated  items.
+Clean/sterile  textiles  and  contaminated  textiles  may  be  transported  in  the  same
+vehicle,  provided  that  the  use  of  physical  barriers  and/or  space  separation  can  be
+verified to be effective in protecting the clean/sterile items from contamination. Clean,
+uncovered/unwrapped textiles stored in a clean location for short periods of time (e.g.,
+uncovered and used within a few hours) have not been demonstrated to contribute to
+increased  levels  of  health-care  acquired  infection.  Such  textiles  can  be  stored  in
+convenient places for use during the provision of care, provided that the textiles can be
+maintained dry and free from soil and body-substance contamination. In the absence of
+microbiologic  standards  for  laundered  textiles,  no  rationale  exists  for  routine
+microbiologic sampling of cleaned health-care textiles and fabrics.1286 Sampling may
+be  used  as  part  of  an  outbreak  investigation  if  epidemiologic  evidence  suggests  that
+textiles, fabrics, or clothing are a suspected vehicle for disease transmission. Sampling
+techniques  include  aseptically  macerating  the  fabric  into  pieces  and  adding  these  to
+broth media or using contact plates (RODAC plates) for direct surface sampling.1271,
+1286 When evaluating the disinfecting properties of the laundering process specifically,
+placing  pieces  of  fabric  between  two  membrane  filters  may  help  to  minimize  the
+contribution  of  the  physical  removal  of  microorganisms.1287  Washing  machines  and
+dryers in residential-care settings are more likely to be consumer items rather than the
+commercial,  heavy-duty,  large  volume  units  typically  found  in  hospitals  and  other
+institutional  health-care  settings.  Although  all  washing  machines  and  dryers  in
+health-care  settings  must  be  properly  maintained  for  performance  according  to  the
+manufacturer's  instructions,  questions  have  been  raised  about  the  need  to  disinfect
+washers and dryers in residential-care settings. Disinfection of the tubs and tumblers of
+these  machines  is  unnecessary  when  proper  laundry  procedures  are  followed;  these
+procedures  involve  Infection  has  not  been  linked  to  laundry  procedures  in
+residential-care  facilities,  even  when  consumer  versions  of  detergents  and  laundry
+additives are used. Some textile items (e.g., surgical drapes and reusable gowns) must
+be  sterilized  before  use  and  therefore  require  steam  autoclaving  after  laundering.7
+Although  the  American  Academy  of  Pediatrics  in  previous  guidelines  recommended
+autoclaving for linens in neonatal intensive care units (NICUs), studies on the microbial
+quality  of  routinely  cleaned  NICU  linen  have  not  identified  any  increased  risk  for
+infection  among  the  neonates  receiving  care.1288  Consequently,  hygienically  clean
+linens are suitable for use in this setting.997 The use of sterile linens in burn therapy
+units  remains  unresolved.  Coated  or  laminated  fabrics  are  often  used  in  the
+manufacture of PPE. When these items become contaminated with blood or other body
+substances, the manufacturer's instructions for decontamination and cleaning take into
+account  the  compatibility  of  the  rubber  backing  with  the  chemical  germicides  or
+detergents used in the process. The directions for decontaminating these items should
+be  followed  as  indicated;  the  item  should  be  discarded  when  the  backing  develops
+surface  cracks.  Dry  cleaning,  a  cleaning  process  that  utilizes  organic  solvents  (e.g.,
+perchloroethylene)  for  soil  removal,  is  an  alternative  means  of  cleaning  fabrics  that
+might be damaged in conventional laundering and detergent washing. Several studies,
+however,  have  shown  that  dry  cleaning  alone  is  relatively  ineffective  in  reducing  the
+numbers  of  bacteria  and  viruses  on  contaminated  linens;1289,  1290  microbial
+populations are significantly reduced only when dry-cleaned articles are heat pressed.
+Dry cleaning should therefore not be considered a routine option for health-care facility
+laundry  and  should  be  reserved  for  those  circumstances  in  which  fabrics  can  not  be
+safely cleaned with water and detergent.1291 An issue of recent concern involves the
+use of disposable (i.e., single use) versus reusable (i.e., multiple use) surgical attire and
+fabrics  in  health-care  settings.1292  Regardless  of  the  material  used  to  manufacture
+gowns and drapes, these items must be resistant to liquid and microbial penetration.7,
+1293–  1297  Surgical  gowns  and  drapes  must  be  registered  with  FDA  to  demonstrate
+their safety and effectiveness. Repellency and pore size of the fabric contribute to gown
+performance,  but  performance  capability  can  be  influenced  by  the  item's  design  and
+construction.1298,  1299  Reinforced  gowns  (i.e.,  gowns  with  double-layered  fabric)
+generally are more resistant to liquid strike-through.1300, 1301 Reinforced gowns may,
+however, be less comfortable. Guidelines for selection and use of barrier materials for
+surgical gowns and drapes have been published.1302 When selecting a barrier product,
+repellency  level  and  type  of  barrier  should  be  compatible  for  the  exposure
+expected.967  However,  data  are  limited  regarding  the  association  between  gown  or
+drape  characteristics  and  risk  for  surgical  site  infections.7,  1303  Health-care  facilities
+must ensure optimal protection of patients and health-care workers. Not all fabric items
+in health care lend themselves to single-use. Facilities exploring options for gowns and
+drapes should consider the expense of disposable items and the impact on the facility's
+waste-management  costs  once  these  items  are  discarded.  Costs  associated  with  the
+use of durable goods involve the fabric or textile items; staff expenses to collect, sort,
+clean, and package the laundry; and energy costs to operate the laundry if on-site or
+the costs to contract with an outside service.1304, 1305 Manufacturers are increasingly
+incorporating  antibacterial  or  antimicrobial  chemicals  into  consumer  and  health-care
+items.  Some  consumer  products  bearing  labels  that  indicate  treatment  with
+antimicrobial chemicals have included pens, cutting boards, toys, household cleaners,
+hand  lotions,  cat  litter,  soaps,  cotton  swabs,  toothbrushes,  and  cosmetics.  The
+"antibacterial" label on household cleaning products, in particular, gives consumers the
+impression  that  the  products  perform  "better"  than  comparable  products  without  this
+labeling,  when  in  fact  all  household  cleaners  have  antibacterial  properties.  In  the
+health-care setting, treated items may include children's pajamas, mattresses, and bed
+linens  with  label  claims  of  antimicrobial  properties.  These  claims  require  careful
+evaluation to determine whether they pertain to the use of antimicrobial chemicals as
+preservatives  for  the  fabric  or  other  components  or  whether  they  imply  a  health
+claim.1306,  1307  No  evidence  is  available  to  suggest  that  use  of  these  products  will
+make consumers and patients healthier or prevent disease. No data support the use of
+these items as part of a sound infection-control strategy, and therefore, the additional
+expense  of  replacing  a  facility's  bedding  and  sheets  with  these  treated  products  is
+unwarranted.  EPA  has  reaffirmed  its  position  that  manufacturers  who  make  public
+health claims for articles containing antimicrobial chemicals must provide evidence to
+support those claims as part of the registration process.1308 Current EPA regulations
+outlined  in  the  Treated  Articles  Exemption  of  the  Federal  Insecticide,  Fungicide,  and
+Rodenticide  Act  (FIFRA)  require  manufacturers  to  register  both  the  antimicrobial
+chemical  used  in  or  on  the  product  and  the  finished  product  itself  if  a  public  health
+claim  is  maintained  for  the  item.  The  exemption  applies  to  the  use  of  antimicrobial
+chemicals for the purpose of preserving the integrity of the product's raw material(s).
+The  U.S.  Federal  Trade  Commission  (FTC)  is  evaluating  manufacturer  advertising  of
+products with antimicrobial claims.1309 Standard mattresses and pillows can become
+contaminated with body substances during patient care if the integrity of the covers of
+these items is compromised. The practice of sticking needles into the mattress should
+be avoided. A mattress cover is generally a fitted, protective material, the purpose of
+which  is  to  prevent  the  mattress  from  becoming  contaminated  with  body  fluids  and
+substances. A linen sheet placed on the mattress is not considered a mattress cover.
+Patches for tears and holes in mattress covers do not provide an impermeable surface
+over the mattress. Mattress covers should be replaced when torn; the mattress should
+be replaced if it is visibly stained. Wet mattresses, in particular, can be a substantial
+environmental  source  of  microorganisms.  Infections  and  colonizations  caused  by
+Acinetobacter  spp.,  MRSA,  and  Pseudomonas  aeruginosa  have  been  described,
+especially  among  burn  patients.1310–1315  In  these  reports,  the  removal  of  wet
+mattresses  was  an  effective  infection-control  measure.  Efforts  were  made  to  ensure
+that pads and covers were cleaned and disinfected between patients using disinfectant
+products  compatible  with  mattress-cover  materials  to  ensure  that  these  covers
+remained  impermeable  to  fluids.1310–1314  Pillows  and  their  covers  should  be  easily
+cleanable,  preferably  in  a  hot  water  laundry  cycle.1315  These  should  be  laundered
+between patients or if contaminated with body substances. Air-fluidized beds are used
+for the care of patients immobilized for extended periods of time because of therapy or
+injury (e.g., pain, decubitus ulcers, and burns).1316 These specialized beds consist of a
+base unit filled with microsphere beads fluidized by warm, dry air flowing upward from
+a diffuser located at the bottom of the unit. A porous, polyester filter sheet separates
+the patient from direct contact with the beads but allows body fluids to pass through to
+the beads. Moist beads aggregate into clumps which settle to the bottom where they
+are  removed  as  part  of  routine  bed  maintenance.  Because  the  beads  become
+contaminated with the patient's body substances, concerns have been raised about the
+potential  for  these  beds  to  serve  as  an  environmental  source  of  pathogens.  Certain
+pathogens (e.g., Enterococcus spp., Serratia marcescens, Staphylococcus aureus, and
+Streptococcus fecalis) have been recovered either from the microsphere beads or the
+polyester  sheet  after  cleaning.1317,  1318  Reports  of  cross-contamination  of  patients,
+however,  are  few.1318  Nevertheless,  routine  maintenance  and  between-patient
+decontamination procedures can minimize potential risks to patients. Regular removal
+of  bead  clumps,  coupled  with  the  warm,  dry  air  of  the  bed,  can  help  to  minimize
+bacterial growth in the unit.1319–1321 Beads are decontaminated between patients by
+high heat (113°F–194°F [45°C–90°C], depending on the manufacturer's specifications)
+for  at  least  1  hour;  this  procedure  is  particularly  important  for  the  inactivation  of
+Enterococcus spp. which are relatively resistant to heat.1322, 1323 The polyester filter
+sheet  requires  regular  changing  and  thorough  cleaning  and  disinfection,  especially
+between patients.1317, 1318, 1322, 1323 Microbial contamination of the air space in
+the immediate vicinity of a properly maintained air-fluidized bed is similar to that found
+in air around conventional bedding, despite the air flow out of the base unit and around
+the  patient.1320,  1324,  1325  An  operational  air-fluidized  bed  can,  however,  interfere
+with  proper  pressure  differentials,  especially  in  negative-pressure  rooms;1326  the
+effect varies with the location of the bed relative to the room's configuration and supply
+and  exhaust  vent  locations.  Use  of  an  air-fluidized  bed  in  a  negative-pressure  room
+requires consultation with a facility engineer to determine appropriate placement of the
+bed. CDC provides information on infection control and clinical safety to help reduce the
+risk  of  infections  among  healthcare  workers,  patients,  and  visitors.  Languages
+Language Assistance Languages  Language Assistance 
+Source URL: https://www.cdc.gov/infection-control/hcp/environmental-control/laundry-bedding.html

@@ -1,0 +1,1309 @@
+  Persons using assistive technology might not be able to fully access information in this
+file. For assistance, please send e-mail to: mmwrq@cdc.gov. Type 508 Accommodation
+and the title of the report in the subject line of e-mail. Prepared by  Amanda C. Cohn,
+MD1 Jessica R. MacNeil, MPH1 Thomas A. Clark, MD1 Ismael R. Ortega-Sanchez, PhD2
+Elizabeth  Z.  Briere,  MD1  H.  Cody  Meissner,  MD3  Carol  J.  Baker,  MD4  Nancy  E.
+Messonnier, MD1 1Division of Bacterial Diseases, National Center for Immunization and
+Respiratory Diseases, CDC 2Division of Viral Diseases, National Center for Immunization
+and  Respiratory  Diseases,  CDC  3Tufts  University  School  of  Medicine,  Boston,
+Massachusetts 4Baylor College of Medicine, Houston, Texas The material in this report
+originated  in  the  National  Center  for  Immunization  and  Respiratory  Diseases,  Anne
+Schuchat,  MD,  Director,   and  the  Division  of  Bacterial  Diseases,  Rana  Hajjeh,  MD,
+Director.   Corresponding  preparer:  Amanda  C.  Cohn,  MD,  National  Center  for
+Immunizations  and  Respiratory  Diseases,  CDC.  Telephone:  404-639-6039;  E-mail:
+acohn@cdc.gov. Meningococcal disease describes the spectrum of infections caused by
+Neisseria meningiditis, including meningitdis, bacteremia, and bacteremic pneumonia.
+Two  quadrivalent  meningococcal  polysaccharide-protein  conjugate  vaccines  that
+provide  protection  against  meningococcal  serogroups  A,  C,  W,  and  Y  (MenACWY-D
+[Menactra,  manufactured  by  Sanofi  Pasteur,  Inc.,  Swiftwater,  Pennsylvania]  and
+MenACWY-CRM
+ [Menveo,
+ manufactured
+ by
+ Novartis
+ Vaccines,
+ Cambridge,
+Massachusetts])  are  licensed  in  the  United  States  for  use  among  persons  aged  2
+through 55 years. MenACWY-D also is licensed for use among infants and toddlers aged
+9  through  23  months.  Quadrivalent  meningococcal  polysaccharide  vaccine  (MPSV4
+[Menommune, manufactured by sanofi pasteur, Inc., Swiftwater, Pennsylvania]) is the
+only vaccine licensed for use among persons aged ≥56 years. A bivalent meningococcal
+polysaccharide
+ protein
+ conjugate
+ vaccine
+ that
+ provides
+ protection
+ against
+meningococcal  serogroups  C  and  Y  along  with  Haemophilus  influenzae  type  b  (Hib)
+(Hib-MenCY-TT  [MenHibrix,  manufactured  by  GlaxoSmithKline  Biologicals,  Rixensart,
+Belgium]) is licensed for use in children aged 6 weeks through 18 months. This report
+compiles  and  summarizes  all  recommendations  from  CDC's  Advisory  Committee  on
+Immunization  Practices  (ACIP)  regarding  prevention  and  control  of  meningococcal
+disease  in  the  United  States,  specifically  the  changes  in  the  recommendations
+published  since  2005  (CDC.  Prevention  and  control  of  meningococcal  disease:
+recommendations of the Advisory Committee on Immunization Practices [ACIP]. MMWR
+2005;54[No.
+ RR-7]).
+ As
+ a
+ comprehensive
+ summary
+ of
+ previously
+ published
+recommendations,  this  report  does  not  contain  any  new  recommendations;  it  is
+intended for use by clinicians as a resource. ACIP recommends routine vaccination with
+a quadrivalent meningococcal conjugate vaccine (MenACWY) for adolescents aged 11
+or  12  years,  with  a  booster  dose  at  age  16  years.  ACIP  also  recommends  routine
+vaccination for persons at increased risk for meningococcal disease (i.e., persons who
+have  persistent  complement  component  deficiencies,  persons  who  have  anatomic  or
+functional  asplenia,  microbiologists  who  routinely  are  exposed  to  isolates  of  N.
+meningitidis,  military  recruits,  and  persons  who  travel  to  or  reside  in  areas  in  which
+meningococcal  disease  is  hyperendemic  or  epidemic).  Guidelines  for  antimicrobial
+chemoprophylaxis  and  for  evaluation  and  management  of  suspected  outbreaks  of
+meningococcal  disease  also  are  provided.  This  report  compiles  and  summarizes  all
+recommendations  from  CDC's  Advisory  Committee  on  Immunization  Practices  (ACIP)
+regarding  prevention  and  control  of  meningococcal  disease  in  the  United  States,
+specifically  the  changes  in  the  recommendations  published  since  2005  (1),  and
+describes  the  process  undertaken  and  the  rationale  used  in  support  of  these
+recommendations.  This  report  is  a  comprehensive  summary  of  previously  published
+recommendations  (Box  1)  and  does  not  contain  any  new  recommendations;  it  is
+intended
+ for
+ use
+ by
+ clinicians
+ as
+ a
+ resource.
+ Guidelines
+ for
+ antimicrobial
+chemoprophylaxis  (Appendix  A)  and  evaluation  and  management  of  suspected
+outbreaks  of  meningococcal  disease  (Appendix  B)  also  are  provided.  Meningococcal
+disease describes the spectrum of infections caused by Neisseria meningitidis, including
+meningitis,  bacteremia,  and  bacteremic  pneumonia.  Meningococcal  disease  develops
+rapidly,  typically  among  previously  healthy  children  and  adolescents,  and  results  in
+high  morbidity  and  mortality.  For  unknown  reasons,  incidence  has  declined  since  the
+peak  of  disease  in  the  late  1990s,  and  approximately  800–1,200  cases  are  reported
+annually in the United States. This decline began before implementation of routine use
+of  meningococcal  vaccines  in  adolescents  and  have  occurred  in  all  serogroups.  Four
+vaccines are licensed in the United States and provide protection against four (A, C, W,
+and Y) and two (C and Y)  serogroups (Table 1). Vaccines that protect against serogroup
+B  meningococcal  disease  are  not  available  in  the  United  States.  Meningococcal
+vaccination  is  recommended  for  groups  at  increased  risk  for  disease.  These  groups
+include  adolescents,  persons  with  certain  medical  conditions,  and  persons  with
+increased  risk  for  exposure.  Among  these  risk  groups,  the  number  of  vaccine  doses
+(i.e., 2- or 4-dose primary series or a single dose with or without a booster dose) and
+vaccine  product  are  determined  by  the  indication  for  vaccination  and  age.  In  certain
+situations  such  as  special  dosing  regimens  (i.e.,  booster  dose[s]  or  serial  vaccination
+and 2-dose primary series for persons aged ≥2 years), off-label use of meningococcal
+vaccine has been recommended. Special dosing regimens have been recommended on
+the  basis  of  data  from  studies  of  immunologic  response  to  vaccination,  postlicensure
+observational data, and the need for long-term protection in certain risk groups (2–4).
+ACIP recommendations for meningococcal vaccination have been summarized (Box 2).
+Details regarding dosing (2- or 4-dose primary series or a single dose with or without a
+booster  dose),  contraindications,  precautions,  and  special  circumstances  (e.g.,
+adolescents infected with human immunodeficiency virus [HIV] and asplenic children)
+are described elsewhere in this report (see Recommendations for Use of Meningococcal
+Vaccines).  ACIP's Meningococcal Vaccines Work Group* (the Work Group) revised the
+meningococcal  vaccine  recommendations  on  the  basis  of  the  most  current  data  on
+safety,  efficacy,  and  immunogenicity  of  meningococcal  vaccines.  The  Work  Group
+comprises a diverse group of health-care providers and public health officials, including
+professionals  from  academic  medicine  (pediatrics,  family  practice,  internal  medicine,
+and  infectious  disease  specialists),  federal  and  state  public  health  professionals,  and
+representatives  of  provider  organizations.  Since  2006,  the  Work  Group  has  held
+teleconference meetings monthly and has held in-person meetings once or twice a year
+to discuss recently published studies, review current guidelines, and consider potential
+revisions  to  the  recommendations.  During  these  meetings,  CDC  staff  members,
+pharmaceutical  manufacturer  representatives,  and  other  academic  partners  delivered
+presentations  on  meningococcal  disease  epidemiology,  immunogenicity  and  safety  of
+meningococcal vaccines, cost effectiveness, programmatic considerations, and vaccine
+effectiveness studies.  The Work Group considers published, peer-reviewed studies as
+the primary source of data in making recommendations for the prevention and control
+of  meningococcal  disease.  In  addition,  unpublished  data  (e.g.,  immunogenicity  and
+safety  data  in  age  groups  outside  the  licensed  indication)  that  are  relevant  to  issues
+under  discussion  also  were  considered.  Randomized,  controlled  clinical  trials  for
+meningococcal  vaccines  are  unable  to  evaluate  clinical  efficacy  because  of  the  low
+incidence  of  meningococcal  disease;  because  efficacy  cannot  be  measured,
+immunogenicity  data  are  used  as  a  surrogate  for  efficacy  for  licensure.   In  addition,
+because  rare  adverse  events  might  not  be  observed  in  prelicensure  clinical  trials
+because  of  the  limited  number  of  subjects  enrolled,  postlicensure  observational  data
+also  were  used  in  the  assessment  of  meningococcal  vaccines.  Observational  data
+included reports of vaccine failures, a postlicensure case-control study, Vaccine Adverse
+Events Reporting System (VAERS) data (12), and safety data collected from the Vaccine
+Safety Datalink (VSD) (13). Data reviewed on the incidence and burden of disease came
+from the Active Bacterial Core surveillance (ABCs) system and the National Notifiable
+Diseases Surveillance System (NNDSS) (14). The evidence for the benefits and risks of
+meningococcal vaccination in infants and toddlers was evaluated using the Grading of
+Recommendations,  Assessment,  Development,  and  Evaluation  (GRADE)  framework
+(GRADE evidence tables for toddler and infant meningococcal vaccine are available at
+http://www.cdc.gov/vaccines/acip/recs/GRADE/mening-vac-infants.html).  Summaries  of
+the data reviewed and Work Group discussions were presented to ACIP before changes
+were proposed to the recommendations. Proposed changes to meningococcal vaccine
+recommendations  were  presented  at  nine  ACIP  meetings  from  October  2007  through
+October 2012. During these nine meetings, recommendations were approved either as
+submitted or as amended and approved by ACIP, and ACIP members approved a draft
+of this report in April 2012. During the review process, CDC modified the statement to
+update and clarify wording in the report. Meningococcal disease is a bacterial infection
+caused by N. meningitidis. Meningococcal disease usually presents clinically as one of
+three  syndromes:  meningitis  (50.2%),  bacteremia  (37.5%),  or  bacteremic  pneumonia
+(9.2%)  (15).  N.  meningitidis  colonizes  mucosal  surfaces  of  the  nasopharynx  and  is
+transmitted through direct contact with large-droplet respiratory tract secretions from
+patients  or  asymptomatic  carriers.  Nasopharyngeal  carriage  rates  are  highest  in
+adolescents  and  young  adults  (16,17),  who  serve  as  reservoirs  for  transmission  of  N.
+meningitidis.  Invasive  disease  is  an  infrequent  consequence  of  nasopharyngeal
+colonization.   During  2005–2011,  an  estimated  800–1,200  cases  of  meningococcal
+disease occurred annually in the United States, representing an incidence of 0.3 cases
+per 100,000 population (CDC, unpublished data, 2012). Incidence has declined annually
+since  a  peak  of  disease  in  the  late  1990s  (Figure  1).  Even  before  routine  use  of  a
+meningococcal  conjugate  vaccine  in  adolescents  was  recommended  in  2005,  the
+overall annual incidence of meningococcal disease had decreased 64%, from 1.1 cases
+per  100,000  population  in  1996  to  0.4  cases  per  100,000  population  in  2005.  Since
+2005,  declines  have  occurred  among  all  age  groups  and  in  all  vaccine-containing  
+serogroups. In addition, incidence of disease attributable to serogroup B, a serogroup
+not included in the vaccine, declined for reasons that are not known. Although disease
+incidence  is  at  historic  lows,  the  overall  case-fatality  ratio  remains  at  10%–15%,  and
+11%–19% of survivors have long-term sequelae (e.g., neurologic disability, limb or digit
+loss,  and  hearing  loss)  (15,18,19).  Serogroups  B,  C,  and  Y  are  the  major  causes  of
+meningococcal  disease  in  the  United  States,  each  accounting  for  approximately  one
+third of cases. However, the proportion of cases caused by each serogroup varies by
+age group. Approximately 60% of disease among children aged 0 through 59 months is
+caused  by  serogroup  B  N.  meningitidis,  which  is  not  prevented  by  currently  licensed
+vaccines (Table 1) (15). Serogroups C, Y, or W, which are included in vaccines available
+in the United States, cause 73% of all cases of meningococcal disease among persons
+aged  ≥11  years  (CDC,  unpublished  data,  2012).  In  the  United  States,  approximately
+98%  of  cases  of  meningococcal  disease  are  sporadic;  however,  outbreaks  of
+meningococcal  disease  continue  to  occur  (20).  During  2010,  two  serogroup  C
+meningococcal  outbreaks  were  reported  to  CDC  (CDC,  unpublished  data,  2010);  in
+these  two  instances,  meningococcal  conjugate  vaccination  was  recommended  for  a
+target  age  group  in  the  community  by  local  and  state  health  officials  as  a  control
+measure.
+ These
+ outbreaks
+ ended
+ shortly
+ after
+ vaccination
+ campaigns
+ were
+implemented,  but  whether  vaccination  prevented  additional  cases  from  occurring  is
+unknown (21). In 2010, two serogroup B outbreaks also were reported to CDC. Cases
+associated  with  all  reported  outbreaks  accounted  for  108  (1.5%)  of  the  7,343  cases
+reported  to  CDC  during  2005–2011  (CDC,  unpublished  data,  2012).  Incidence  of
+meningococcal disease peaks among persons in three age groups: infants and children
+aged  <5  years,  adolescents  and  young  adults  aged  16  through  21  years,  and  adults
+aged ≥65 years (CDC, unpublished data; Table 2; Figure 2). The highest incidence in
+the  first  5  years  of  life  occurs  among  infants  aged  0  through  5  months;  47%  of
+serogroup  C  and  Y  disease  among  children  aged  0  through  59  months  occurs  before
+age  6  months.  Approximately  60%  of  disease  in  the  first  year  of  life  is  caused  by
+serogroup  B.  Licensure  in  2005  of  the  first  MenACWY  vaccine  made  it  possible  to
+address the second peak in disease incidence, which occurs in late adolescence. The
+third  peak  in  incidence  occurs  among  adults  aged  ≥65  years;  approximately  60%  of
+these  cases  are  caused  by  serogroup  Y,  and  43%  are  characterized  by  bacteremic
+pneumonia. The highest case-fatality ratio (23.8%) is observed among adults aged ≥65
+years  (15).   Since  2006,  the  National  Immunization  Survey–Teen  (22)  has  assessed
+vaccination  coverage  annually  among  adolescents  aged  13  through  17  years.  Among
+this age group, coverage with MenACWY has increased from 10.2% in 2006 to 70.5% in
+2011 (22,23); coverage by state in 2011 ranged from 27.6% to 92.1% (23). One method
+for  assessing  the  impact  of  MenACWY  is  to  monitor  changes  in  disease  incidence
+caused  by  vaccine  serogroups.  During  2005–2009,  MenACWY-D  was  the  only
+meningococcal
+ conjugate
+ vaccine
+ licensed
+ in
+ the
+ United
+ States.
+ Therefore,
+postlicensure data  primarily  reflect  use of  MenACWY-D.  During  2009 and  2010,  when
+routine  vaccine  use  was  recommended  and  supply  was  sufficient,  incidence  of
+serogroup  C  and  Y  meningococcal  disease  declined  among  adolescents  aged  11
+through 18 years. Incidence did not decline in other age groups, suggesting an impact
+of  vaccination  on  adolescent  disease,  but  no  evidence  of  herd  protection  (Table  3).
+During 2006–2010 (i.e., in the first 5 years after routine use of meningococcal vaccine
+was recommended), CDC received reports of approximately 30 cases of serogroups C
+and  Y  meningococcal  disease  among  persons  who  had  received  the  vaccine.  The
+case-fatality ratio was similar among persons who had received vaccine compared with
+those  who  were  unvaccinated  (CDC,  unpublished  data,  2012).  To  assess  vaccine
+effectiveness among adolescents, CDC carried out a simulation study of breakthrough
+disease  (i.e.,  cases  that  occur  among  vaccine  recipients)  and  a  case-control  study
+(24,25). The first estimate of vaccine effectiveness was based on a simulation approach
+that  calculated  the  expected  number  of  cases  in  vaccinated  persons.  The  expected
+number  of  breakthrough  cases  was  calculated  from  available  vaccine  coverage  and
+disease incidence data, and estimates of expected vaccine effectiveness were based on
+prelicensure  serologic  evidence  of  immune  response.  When  the  number  of  expected
+cases  was  compared  with  the  observed  number  of  breakthrough  cases,  vaccine
+effectiveness during 2005–2008 was estimated to be 80%–85%  (24). Of the 13 reports
+of  breakthrough  disease  for  which  data  on  underlying  conditions  were  available,  four
+persons  had  underlying  conditions  or  behaviors  associated  with  an  increased  risk  for
+bacterial infections, including 1) Type 1 diabetes mellitus; 2) current smoking; 3) history
+of  bacterial  meningitis  and  recurrent  infections;  and  4)  aplastic  anemia,  paroxysmal
+nocturnal hemoglobinuria, and receipt of eculizumab (which blocks complement protein
+C5)  (24).  A  case-control  study  evaluating  the  vaccine  effectiveness  of  meningococcal
+conjugate vaccine in adolescents began in January 2006 (25). Because MenACWY-D was
+the  only  licensed  conjugate  vaccine  until  February  2010,  the  preliminary  results
+provided in this report are estimates for MenACWY-D only. As of  August 29, 2012, a
+total  of  157  case-patients  and  180  controls  were  enrolled  in  the  effectiveness  study.
+The  overall  estimate  of  vaccine  effectiveness  in  adolescents  vaccinated  0  through  6
+years earlier was 69% (95% confidence interval [CI] = 50%–81%). Vaccine effectiveness
+was  82%  (CI  =  54%–93%)  for  adolescents  vaccinated  <1  year  earlier,  80%  (CI  =
+52%–92%)  for  adolescents  vaccinated  1–<2  years  earlier,  71%  (CI  =  34%–87%)  for
+adolescents  vaccinated  2–<3  years  earlier,  and  59%  (CI  =  5%–83%)  for  adolescents
+vaccinated 3–<6 years earlier (25). Although CIs around the point estimates are wide,
+these  results  suggest  that  vaccine  effectiveness  wanes  over  time.   Risk  factors  for
+meningococcal disease can be grouped into organism, host, and environmental factors.
+Noncapsular  strains  of  N.  meningitidis  are  less  virulent  than  capsular  strains.  More
+virulent  strains  of  N.  meningitidis  can  circulate  in  a  population  and  cause  increased
+incidence  of  disease  or  increased  mortality  (26).  Persons  who  have  persistent  (i.e.,
+genetic) deficiencies in the common complement pathway (e.g., C3, properdin, Factor
+D,  Factor  H,  or  C5–C9)  have  up  to  a  10,000-fold  increased  risk  for  meningococcal
+disease and can experience recurrent disease (27,28). Although persons with anatomic
+or  functional  asplenia  also  appear  to  be  at  increased  risk  for  meningococcal  disease,
+the  data  are  less  compelling  than  data  that  demonstrate  the  increased  risk  for
+pneumococcal  disease  in  patients  with  asplenia  (29).  Antecedent  viral  infection,
+household  crowding,  chronic  underlying  illness,  and  both  active  and  passive  smoking
+are associated with increased risk for meningococcal disease (30–36). Early U.S. studies
+of risk factors for meningococcal disease demonstrated that blacks and persons of low
+socioeconomic status were at higher risk for meningococcal disease than other persons
+(37,38); however, race and low socioeconomic status also are considered markers for
+other  risk  factors  (e.g.,  smoking  and  household  crowding)  (31).  As  disease  incidence
+has decreased, differences by race also have decreased, and no difference in disease
+incidence  exists  now  between  blacks  and  whites  (15).  One  study  of  meningococcal
+disease among clinical microbiologists who work routinely with N. meningitidis isolates
+demonstrated  an  attack  rate  of  13  cases  per  100,000  microbiologists  and  increased
+case-fatality  ratios.  Of  the  16  cases  identified,  15  occurred  in  clinical  microbiologists
+who were not using respiratory protection at the time of exposure (39,40). Health-care
+personnel in general are not identified as a high-risk group unless a person is exposed
+to  respiratory  secretions  of  someone  with  meningococcal  disease.  Because  the
+incidence  of  both  meningococcal  disease  and   HIV  infection  are  low  in  the  United
+States,  studies  have  not  established  HIV  as  an  independent  risk  factor  for
+meningococcal  infection  (32,41).  A  recent  study  in  the  ABCs  sites  demonstrated  that
+the  cumulative  average  incidence  of  meningococcal  disease  among  patients  aged  25
+through  64  years  who  meet  CDC's  surveillance  case  definition  for  acquired  immune
+deficiency  syndrome  (AIDS)  was  3.5  cases  per  100,000  person  years  (CI  =  2.0–5.6),
+compared with an incidence of 0.3 cases per 100,000 person years (CI = 0.2–0.3) for
+persons  of  the  same  age  group  in  the  general  population  (rate  ratio:  12.6;  CI  =
+7.9–20.2) (42). These incidence rates were not adjusted for potential confounding risk
+factors such as smoking; however, the incidence of meningococcal disease is higher in
+persons  with  AIDS  compared  with  the  general  adult  population.  Studies  conducted  in
+the  1990s  that  focused  on  quantifying  the  risk  for  meningococcal  disease  among
+college students demonstrated that the overall incidence among college students was
+similar to or somewhat lower than that observed among persons of approximately the
+same age in the general population (43). However, in a case-control study involving 50
+cases  among  college  students  (44),  multivariate  analysis  indicated  that  first-year
+college students living in residence halls were at higher risk for meningococcal disease
+than other students (matched odds ratio [OR]: 3.6; CI = 1.6–8.5). Other studies in the
+1990s  yielded  similar  results  (45,46).  In  2000,  before  licensure  of  meningococcal
+conjugate  vaccines,  ACIP  recommended  that  first-year  college  students  living  in
+residence
+ halls
+ consider
+ vaccination
+ with
+ the
+ quadrivalent
+ meningococcal
+polysaccharide vaccine (MPSV4), which was licensed in 1981 (47). Since the 2000 ACIP
+recommendation,  many  colleges  have  required  all  matriculating  students  to  be
+vaccinated.  Thirty-six  states  and  the  District  of  Columbia  have  mandates  requiring
+education of college students about meningococcal vaccines or proof of meningococcal
+vaccination
+ for
+ attendance
+ (a
+ list
+ of
+ these
+ states
+ is
+ available
+ at
+http://www.immunize.org/laws/menin.asp).  When  the  first  meningococcal  conjugate
+vaccine  was  licensed  in  2005,  ACIP  recommended  that  all  first-year  college  students
+living  in  residence  halls  be  vaccinated  with  MenACWY-D  (1).   Four  meningococcal
+vaccines that contain purified capsular polysaccharide(s) alone or that are conjugated
+to a carrier protein are licensed and available in the United States for the prevention of
+invasive  disease  caused  by  N.  meningitidis  serogroups  A,  C,  W  and  Y  (Table  1).  As
+stated  in  the  package  inserts  (Table  1),  for  the  quadrivalent  meningococcal
+polysaccharide  vaccine  (MPSV4),  effectiveness  of  the  vaccine  (A  and  C  components)
+was supported by clinical efficacy data from studies with meningococcal monovalent A
+and  C  and  bivalent  A/C  polysaccharide  vaccines,  and  inferred  by  use  of  serum
+bactericidal antibody assay (SBA) (Y and W components) as an indicator of protection
+against
+ serogroup-specific
+ meningococcal
+ disease.
+ Effectiveness
+ of
+ the
+ three
+meningococcal conjugate vaccines, which were licensed after MPSV4, was inferred by
+comparing  SBA  measurements  of  the  new  vaccine  with  corresponding  antibody
+responses of the U.S.-licensed meningococcal vaccine representing the standard of care
+at the time (among persons aged 2 through 55 years) or by achieving a seroresponse at
+or  above  a  predefined  bactericidal  antibody  titer  (among  children  aged  2  through  23
+months).  Protection  against  invasive  meningococcal  disease  is  mediated  by  serum
+bactericidal  antibodies  to  meningococcal  capsular  polysaccharides  or  to  protein
+antigens. Studies have demonstrated that almost all persons who developed invasive
+serogroup  C  meningococcal  disease  had  sera  that  lacked  bactericidal  activity  to  the
+pathogenic  meningococcal  strain  (48,49).  In  contrast,  persons  with  detectable  SBA
+against a specific strain rarely developed disease. Complement-dependent bactericidal
+activity can be measured reliably by use of a serum bactericidal antibody assay with a
+human  (hSBA)  or  baby  rabbit  (rSBA)  complement  source.  A  defined  bactericidal
+antibody titer that is indicative of protection against invasive meningococcal disease is
+assay-dependent. When sera are tested using a human complement source, SBA titers
+≥1:4  are  considered  protective.  Because  of  greater  susceptibility  of  meningococci  to
+lysis  by  rabbit  complement,  antibody  titers  measured  by  an  rSBA  assay  are  elevated
+compared  with  titers  generated  by  an  hSBA  assay  (50–52).  Population-based
+surveillance  data  from  the  United  Kingdom  indicate  that  following  mass  vaccination
+with meningococcal serogroup C conjugate vaccine, bactericidal titers between 1:8 and
+1:64, measured by rSBA, can be protective (53). Antibody titers measured by rSBA and
+hSBA assays are not directly comparable. MPSV4, a quadrivalent (serogroups A, C, Y,
+and  W)  meningococcal  polysaccharide  vaccine  (Menomune,  manufactured  by  Sanofi
+Pasteur,  Inc.,  Swiftwater,  Pennsylvania),  was  licensed  in  1981.  MPSV4  is  approved  by
+FDA for use as a single dose in persons aged ≥2 years. Each dose consists of 50 µg of
+each  of  the  four  purified  capsular  polysaccharides  from  serogroups  A,  C,  W,  and  Y.
+MPSV4 is available in single-dose (0.5-mL) and 10-dose (5-mL) vials and is administered
+as  a  subcutaneous  injection.  Further  information  is  provided  in  the  package  insert
+(available
+ at
+http://www.fda.gov/downloads/BiologicsBloodVaccines/Vaccines/ApprovedProducts/UCM
+131653.pdf).  Conjugation  (i.e.,  covalent  coupling)  of  a  meningococcal  capsular
+polysaccharide  to  a  protein  carrier  that  contains  T-lymphocyte  epitopes  changes  the
+nature
+ of
+ the
+ human
+ immune
+ response
+ to
+ the
+ polysaccharide
+ from
+T-lymphocyte–independent  to  T-lymphocyte–dependent.  Conjugation  results  in  an
+improved primary response to the polysaccharide antigen, especially in infants, and a
+stronger anamnestic response (i.e., immunologic memory) at reexposure (54). As of July
+2012, two quadrivalent (serogroups A, C, Y, and W) and one bivalent (serogroups C and
+Y)  meningococcal  polysaccharide-protein  conjugate  vaccines  have  been  licensed  by
+FDA:  MenACWY-D  (Menactra,  manufactured  by  sanofi  pasteur,  Inc.,  Swiftwater,
+Pennsylvania),
+ MenACWY-CRM
+ (Menveo,
+ manufactured
+ by
+ Novartis
+ Vaccines,
+Cambridge,
+ Massachusetts),
+ and
+ Hib-MenCY-TT
+ (MenHibrix,
+ manufactured
+ by
+GlaxoSmithKline Biologicals, Rixensart, Belgium).  MenACWY-D was licensed by FDA in
+January  2005.  MenACWY-D  is  approved  by  FDA  as  a  single  dose  for  persons  aged  2
+through 55 years and as a 2-dose series in children aged 9 through 23 months. A single
+0.5-mL  dose  of  MenACWY-D  contains  4  µg  each  of  capsular  polysaccharide  from
+serogroups  A,  C,  Y,  and  W  conjugated  to  approximately  48  µg  of  diphtheria  toxoid.
+MenACWY-D  is  available  in  single-dose  vials  and  is  administered  as  an  intramuscular
+injection.  More  information  is  provided  in  the  package  insert  (available  at
+http://www.fda.gov/downloads/BiologicsBloodVaccines/Vaccines/ApprovedProducts/UCM
+131170.pdf). MenACWY-D often will be administered concomitantly with other vaccines
+(e.g.,  with  typhoid  vaccines  in  international  travelers  or  with  other  routinely
+recommended  vaccinations  in  adolescents  and  young  children).  As  stated  in  the
+package  insert  (Table  1),  concomitant  administration  of  MenACWY-D  and  typhoid
+vaccines  (Typhoid  Vi  Polysaccharide  Vaccine,  manufactured  by  Sanofi  Pasteur,  Inc.,
+Swiftwater,  Pennsylvania)  was  evaluated  in  persons  aged  18  through  55  years,  and
+concomitant  administration  of  MenACWY-D  and  Td  (Tetanus  and  Diphtheria  Toxoids
+Adsorbed,  For  Adult  Use;  manufactured  by  Sanofi  Pasteur,  Inc.,  Swiftwater,
+Pennsylvania)  vaccine  was  evaluated  in  persons  aged  11  through  17  years.
+Concomitant  administration  of  typhoid  vaccine  and  MenACWY-D  did  not  affect  the
+immunogenicity  of  either  vaccine.  The  proportion  of  participants  with  a  fourfold  or
+greater  increase  in  rSBA  titer  to  meningococcal  serogroups  C,  Y,  and  W  was  higher
+when  MenACWY-D  was  administered  with  Td  (86%–96%)  than  when  MenACWY-D  was
+administered  1  month  following  administration  of  Td  (65%–91%).  Antitetanus  and
+antidiphtheria  antibody  responses  were  similar  in  both  study  groups.   Affect  on
+immunogenicity
+ varied
+ by
+ vaccine
+ administerd
+ concomitantly.
+ Concomitant
+administration of MMRV (measles, mumps, rubella, and varicella combination vaccine)
+and the fourth dose of PCV7 (7-valent pneumococcal conjugate vaccine) and a second
+MenACWY-D dose was evaluated in children aged 12 months who had received the first
+MenACWY-D  dose  at  age  9  months.  Lower  geometric  mean  concentrations  (GMCs)  of
+IgG  antibodies  to  some  pneumococcal  serotypes  were  observed  compared  with
+corresponding IgG GMCs when PCV7 was administered alone. The noninferiority criteria
+(twofold differences in IgG GMC) for the prespecified pneumococcal endpoints were not
+met for PCV7 serotypes 4, 6B, and 18C (10). However, the IgG antibody responses and
+opsonophagocytic  responses  to  the  seven  pneumococcal  vaccine  serotypes  were  still
+robust.  No  interference  with  immune  responses  to  antigens  contained  in  MMRV  was
+observed.  Details  about  these  studies  are  provided  in  the  package  insert.
+MenACWY-CRM was licensed by FDA in February 2010. MenACWY-CRM is approved by
+FDA  as  a  single  dose  for  persons  aged  2  through  55  years.  A  single  0.5-mL  dose  of
+vaccine  contains  10  µg  of  capsular  polysaccharide  from  serogroup  A  and  5  µg  of
+capsular  polysaccharide  from  serogroups  C,  Y,  and  W  conjugated  to  approximately
+33–64  µg  of  CRM197,  a  naturally  occurring,  nontoxic  form  of  diphtheria  toxin  from
+Corynebacterium  diphtheriae.  MenACWY-CRM  must  be  prepared  by  reconstituting  the
+lyophilized  serogroup  A  conjugate  with  the  liquid  serogroups  C,  W,  and  Y  conjugate
+components.  More  information  is  provided  in  the  package  insert  (available  at
+http://www.fda.gov/downloads/BiologicsBloodVaccines/Vaccines/ApprovedProducts/UCM
+201349.pdf).  MenACWY-CRM  is  likely  to  be  administered  concomitantly  with  tetanus
+and  diphtheria  toxoids  and  acellular  pertussis  vaccine  absorbed  (Tdap)  because  both
+vaccines
+ are
+ routinely
+ recommended
+ for
+ adolescents.
+ Concomitant
+ use
+ of
+MenACWY-CRM and Tdap was evaluated in an open-label, randomized, controlled study
+conducted  among  adolescents  aged  11  through  18  years.  Antibody  responses  to
+pertussis  antigens  were  lower  when  MenACWY-CRM  and  Tdap  were  administered
+concomitantly  than  when  MenACWY-CRM  was  administered  1  month  following  Tdap:
+antipertussis  toxin  GMCs  were  51  versus  63  EIA  Units  (EU)/mL,  antifilamentous
+hemagglutinin  GMCs  were  342  versus  511  EU/mL,  and  antipertactin  GMCs  were  819
+versus  1,197  EU/mL,  respectively.  Because  no  serologic  correlates  of  protection  for
+pertussis have been established, the clinical implications of the lower pertussis antigen
+responses  are  unknown.  Immune  responses  to  MenACWY-CRM  and  to  diphtheria  and
+tetanus toxoid antigens in Tdap were similar. Details about this study are provided in
+the
+ package
+ insert
+ (available
+ at
+http://www.fda.gov/downloads/BiologicsBloodVaccines/Vaccines/ApprovedProducts/UCM
+201349.pdf).   Hib-MenCY-TT  was  licensed  by  FDA  in  June  2012.  Hib-MenCY-TT  is
+approved  by  FDA  as  a  4-dose  series  for  children  aged  6  weeks  through  18  months.
+Hib-MenCY-TT  is  supplied  as  a  sterile,  lyophilized  powder  that  is  reconstituted  at  the
+time of use with the accompanying saline diluent for intramuscular injection. A single
+0.5mL  dose  of  vaccine  contains  5  µg  of  capsular  polysaccharide  from  serogroups  C
+conjugated  to  approximately  5  µg  of  tetanus  toxoid,  5  µg  of  capsular  polysaccharide
+from serogroup Y conjugated to approximately 6.5 µg of tetanus toxoid, and 2.5 µg of
+Haemophilus  influenzae  type  b  capsular  polysaccharide  conjugated  to  approximately
+6.25 µg of tetanus toxoid. More information is provided in the package insert (available
+at
+http://www.fda.gov/downloads/BiologicsBloodVaccines/Vaccines/ApprovedProducts/UCM
+308577.pdf).  Concomitant  administration  with  routinely  recommended  vaccines  is
+anticipated.  Hib-MenCY-TT  was  co-administered  with  DTaP-HepB-IPV  and  7-valent
+pneumococcal  conjugate  vaccine  (PCV7)  at  ages  2,  4,  and  6  months,  and  with
+measles-mumps-rubella, varicella, and PCV7 vaccines at age 12–15 months. In clinical
+trials, no decreased immunogenicity of coadministered vaccines was observed (55,56).
+A randomized, controlled, multicenter study evaluated the percentage of subjects with
+hSBA titers ≥1:8 at 2 months after the second dose was administered at age 4 months.
+In the group vaccinated with Hib-MenCY-TT, 94% and 83% of subjects achieved hSBA
+antibody titers ≥1:8 for meningococcal serogroups C and Y, respectively, after dose 2
+(57).  Rates  of  local  and  systemic  adverse  events  observed  after  administration  of
+Hib-MenCY-TT were comparable to rates observed after administration of Hib-TT. Thus,
+Hib-MenCY-TT was found to be safe and immunogenic for both Hib and meningococcal
+serogroups  C  and  Y.  The  immunogenicity  and  clinical  efficacy  of  serogroups  A  and  C
+meningococcal  polysaccharide  vaccines  are  well-  established.  The  serogroup  A
+polysaccharide induces antibody response among children as young as age 3 months,
+although a response comparable with that occurring in adults is not achieved until age
+4 to 5 years; the serogroup C component is poorly immunogenic among recipients aged
+<24 months (58–60). The serogroups A and C vaccines have demonstrated estimated
+clinical  efficacies  of  ≥85%  among  school-aged  children  and  adults  during  outbreaks
+(61–64). Although clinical protection has not been documented, vaccination with Y and
+W polysaccharides induces production of bactericidal antibodies (65–67). The antibody
+responses  to  each  of  the  four  polysaccharides  in  the  quadrivalent  vaccine  are
+serogroup specific and independent (i.e., there is no cross-protection). Reduced clinical
+efficacy has not been demonstrated among persons who have received multiple doses
+of  polysaccharide  vaccine.  However,  serologic  studies  have  indicated  that  multiple
+doses  of  serogroup  A  and  C  polysaccharide  vaccine  can  cause  immunologic
+hyporesponsiveness (i.e., a reduced antibody response after subsequent doses with the
+same  polysaccharide  antigen)  to  group  A  (68,69)  and  C  polysaccharide  (70,71).
+Hyporesponsiveness to serogroups C and A polysaccharides can be overcome partially
+by vaccination with serogroup C or A conjugate vaccine (72).  An advantage of vaccines
+in  which  proteins  are  conjugated  to  polysaccharide  antigens  is  their  ability  to  elicit
+immunologic  memory.  Meningococcal  conjugate  vaccines  prime  the  immune  system,
+and  immunologic  memory  persists  even  in  the  absence  of  detectable  bactericidal
+antibodies. However, while vaccine-induced immunologic memory might be protective
+against  infection  with  other  disease-causing  encapsulated  bacteria,  the  presence  of
+detectable  circulating  antibody  appears  to  be  important  for  protection  against  N.
+meningitidis. In most cases, meningococcal infection progresses rapidly, with fulminant
+disease occurring within 1–4 days after invasion of normally sterile body sites.  Studies
+of  antibody  response  kinetics  following  boosting  with  serogroup  C  meningococcal
+vaccines  in  the  United  Kingdom  have  demonstrated  that  up  to  10  days  might  be
+required to achieve protective rSBA titers ≥1:8 in healthy young adults (73). If antibody
+is not present in sufficient quantity before colonization, this delay in antibody synthesis
+might not be rapid enough to protect against infection with N. meningitidis. Analyses of
+breakthrough  disease  among  previously  vaccinated  persons  in  the  United  Kingdom
+identified evidence of immunologic priming but low SBA activity at the time of disease
+onset. Although infected persons demonstrated a boost response to N. meningitidis and
+bactericidal antibody levels increased, the response was not rapid enough to prevent
+disease  (74).  Therefore,  circulating  bactericidal  antibody  at  the  time  of  exposure
+appears  to  be  critical  for  protection  against  meningococcal  disease.  Meningococcal
+vaccination  coverage  has  increased  in  the  United  States,  but  no  evidence  of  herd
+protection  has  been  demonstrated  (75).  However,  herd  protection  has  been  an
+important  component  associated  with  long-term  protection  with  use  of  serogroup  C
+meningococcal  vaccine  in  the  United  Kingdom  and  other  countries.  Evidence  of  herd
+protection after the MenC vaccine program was implemented in the United Kingdom,
+where catch-up campaigns led rapidly to high coverage in all persons aged 2 months
+through  22  years,  included  reduction  in  nasopharyngeal  carriage  of  serogroup  C  N.
+meningitidis and reduction of serogroup C disease in unvaccinated age groups (infants
+too  young  to  be  vaccinated  and  adults  aged  ≥25  years)  (76,77).  One  year  after
+introduction of MenC vaccine in the United Kingdom, serogroup C carriage was reduced
+66% among students aged 15 through 17 years (78). Attack rates among unvaccinated
+children aged <1 year in the United Kingdom also declined 67% in the 4 years following
+vaccine introduction.  During 1998–2009, the incidence of serogroup C disease in the
+United Kingdom in persons aged >25 years decreased from 0.55 per 100,000 persons
+to 0.02 per 100,000 persons, and the total number of cases in infants aged <3 months
+decreased from 13 in 1998 to one in 2009 (79). The vaccination program in the United
+Kingdom effectively eliminated a single highly virulent clone that had high expression
+of  the  polysaccharide  capsule  (80).  Variability  of  strains,  different  vaccines,  and
+different  target  populations  likely  account  for  the  differences  in  vaccine  impact
+observed to date in the United States compared with the United Kingdom. Longitudinal
+vaccine  effectiveness  studies  as  well  as  evaluation  of  persistence  of  antibody  after
+vaccination  with  MenACWY  vaccines  are  critical  to  monitoring  duration  of  protection.
+Persistence  of  detectable  bactericidal  antibodies  3  years  after  a  single  vaccination
+(administered  at  age  11  through  18  years)  and  antibody  responses  consistent  with
+immunologic boosting have been observed in adolescent MenACWY-D recipients. Lower
+bactericidal antibody titers to each of the four serogroups were observed 3 to 5 years
+postvaccination  relative  to  bactericidal  antibody  responses  observed  1  month  after  a
+single MenACWY dose (81,82). For serogroup C, geometric mean antibody titers (GMTs)
+declined by as much as 90% over 3 years. The proportion of adolescents vaccinated at
+age 11 years with MenACWY-D determined to have protective antibodies 3 years later
+was 71%–95% (81). Antibody persistence following MenACWY-CRM vaccination also has
+been described. Among persons vaccinated with a single dose of MenACWY-CRM at age
+11 through 18 years, approximately 65% maintained hSBA ≥1:8 for serogroups C and Y
+at 21 months and 36 months postvaccination (83,84). These serologic data have been
+summarized  (Table  4);  the  data  are  consistent  with  results  of  studies  discussed
+previously  in  this  report  that  suggest  waning  vaccine  effectiveness.   Other  serologic
+studies conducted among infants and young children demonstrate a similar decline in
+hSBA  titers.  The  proportion  of  children  aged  2  years  with  hSBA  titers  ≥1:4  6  months
+following a single vaccination with MenACWY-D was approximately 50% for serogroups
+C, Y, and W-135 (85,86). In another study, approximately 60 infants were vaccinated at
+age  9  months  and  at  age  12  or  15  months,  and  hSBA  titers  were  measured
+approximately 3 years after the second dose. Fewer than half of the study subjects had
+maintained  an  hSBA  titer  ≥1:8  for  any  of  the  meningococcal  serogroups  (ACIP,
+unpublished data, 2011). Among infants who received a 4-dose series of Hib-MenCY-TT,
+83% and 70% of subjects had persistence of bactericidal antibody for serogroups C and
+Y,  respectively,  5  years  after  the  fourth  dose  (87).  In  three  separate  studies,
+bactericidal antibody responses after a booster dose of MenACWY-D were evaluated in
+adolescents 3 years after receiving a MenACWY-D primary dose (administered at age
+11 through 18 years), in children 5 years after receiving a MenACWY-D primary dose
+(administered at age 2 through 10 years) and after a booster dose of MenACWY-CRM in
+adolescents  3  years  after  a  MenACWY-CRM  primary  dose  (administered  at  age  11
+through 18 years) (ACIP, unpublished data, 2009), At both 3 and 5 years after the first
+MenACWY  conjugate  vaccine  dose,  revaccination  with  the  same  MenACWY  conjugate
+vaccine  elicited  substantially  higher  GMTs  compared  with  the  titers  elicited  after  a
+single  primary  dose.  In  the  MenACWY-D  booster  studies,  when  rSBA  was  used  as  a
+measure  of  immune  response,  a  dose  administered  5  years  after  the  first  dose
+(administered  at  age  2  through  10  years)  elicited  a  GMT  for  serogroup  C  of  23,613
+compared with 9,045 among meningococcal vaccine-naïve subjects aged 7 through 15
+years who had received a single primary dose (ACIP, unpublished data, 2010).  In all of
+the studies, local and systemic reactions following a booster dose of either MenACWY
+conjugate vaccine were comparable with reactions in persons receiving a primary dose
+of  the  same  vaccine.  The  duration  of  protection  after  a  booster  dose  in  adolescents,
+when administered at ages 16 through 18 years, is not known, but expert members of
+the Work Group expect protection to last through at least age 21 years. A booster dose
+of  MenACWY-D  in  children  initially  vaccinated  with  MenACWY-D  at  age  9  months  and
+then  at  age  12  or  15  months  was  evaluated  3  years  after  the  second  administered
+dose. Following booster immunization, at least 98% of children achieved an hSBA titer
+≥1:8  to  each  of  the  serogroups.  ACIP  evaluated  the  data  available  and  decided  to
+recommend a booster dose of MenACWY for persons who remained at increased risk for
+meningococcal disease and for adolescents at age 16 years.  Limited data suggest that
+different  conjugate  vaccine  products  can  be  used  interchangeably.  The  safety  and
+immunogenicity  of  MenACWY-CRM  vaccination  have  been  evaluated  in  adolescents  3
+years after they received a single dose of MenACWY-CRM or MenACWY-D administered
+at age 11 through 18 years (88). Following revaccination with MenACWY-CRM, ≥99% of
+persons  previously  immunized  with  MenACWY-CRM  or  MenACWY-D  had  hSBA  titers
+≥1:8.  The  solicited  adverse  event  rates  (including  injection-site  reactions)  reported
+after revaccination were similar to the rates reported after primary immunization (88).
+No  data  exist  on  the  use  of  MenACWY-D  following  primary  vaccination  with
+MenACWY-CRM.  Asplenic persons are at increased risk for invasive infection caused by
+many encapsulated bacteria, including N. meningitidis. Moreover, the mortality rate is
+40%–70%  among  these  persons  when  they  become  infected  with  N.  meningitidis.
+Asplenic persons achieve significantly lower geometric mean rSBA titers than healthy
+persons  after  vaccination  with  a  meningococcal  C  conjugate  vaccine,  with  20%  not
+achieving rSBA titers ≥1:8. This proportion was reduced to 7% when a second dose of
+vaccine  was  administered  to  nonresponders  2  months  later  (2),  suggesting  that  a
+2-dose primary series might be effective in achieving higher circulating antibody levels
+and  persistence  of  bactericidal  antibodies.  The  complement  pathway  is  important  in
+prevention  of  meningococcal  disease,  and  N.  meningitidis  is  the  primary  bacterial
+pathogen  affecting  persons  with  inherited  late  component  complement  or  properidin
+deficiency.  Although  persons  with  late-component  complement  deficiency  are  able  to
+mount  an  overall  antibody  response  equal  to  or  greater  than  complement-sufficient
+persons  after  vaccination  with  MPSV4,  antibody  titers  wane  more  rapidly  in  persons
+with  complement  component  deficiency,  and  higher  antibody  levels  are  needed  for
+other  clearance  mechanisms,  such  as  opsonization  to  function  (27,28).  Although
+persons  with  HIV  infection  are  not  at  as  high  a  risk  for  meningococcal  disease  as
+persons  with  persistent  complement  component  deficiency  or  asplenia,  reduced
+antibody responses following meningococcal vaccination have been reported in persons
+with  HIV  infection  (3,4).  Two  studies  have  investigated  the  response  rates  to
+MenACWY-D  among  HIV-infected  adolescents  and  children  (3,4).  Among  HIV-infected
+adolescents  and  young  adults  vaccinated  with  a  single  dose  at  age  11  through  24
+years, response rates to vaccination measured by rSBA titers ≥1:128 were 86%, 55%,
+73%,  and  72%  for  serogroups  A,  C,  Y,  and  W,  respectively.  Response  rates  were
+significantly lower among patients with a CD4+ T-lymphocyte percentage of <15% (p =
+0.003)  or  viral  loads  >10,000  copies/mL  (p  =  0.005)  (4).   Surveillance  for  adverse
+events  following  receipt  of  meningococcal  conjugate  vaccines  has  been  performed
+primarily  by  two  systems  in  the  United  States,  VAERS  and  VSD.  VAERS  is  a  national
+passive surveillance system operated jointly by CDC and FDA that receives reports of
+adverse  events  following  vaccination  from  health-care  personnel,  manufacturers,
+vaccine  recipients,  and  others.  The  VAERS  reporting  form  collects  information  about
+vaccine recipient demographics, vaccines administered, recipient medical history, and
+signs  and  symptoms  of  adverse  events.  VAERS  can  generate,  but  not  test,  vaccine
+safety hypotheses and is subject to several limitations, including reporting biases and
+inconsistent  data  quality  (12.)  Passive  surveillance  data  from  VAERS  should  be
+interpreted with caution. The VSD project is a collaborative effort between CDC and 10
+managed  care  organizations.  The  VSD  project  allows  for  planned  vaccination  safety
+studies  as  wells  as  timely  investigations  of  hypotheses  that  arise  from  review  of
+medical  literature,  reports  to  VAERS,  changes  in  immunization  schedules,  or
+introduction of new vaccines (13). From licensure of MenACWY-D in January 14, 2005,
+through  September  30,  2011,  VAERS  received  8,592  reports  involving  receipt  of
+MenACWY-D in the United States; 89.0% reports involved persons aged 11 through 19
+years. MenACWY-D was administered alone in 22.5% of case reports. The median time
+from vaccination to onset of an adverse event was 1 day. Males accounted for 40.6% of
+the reported events. The most frequently reported adverse events were fever 16.8%,
+headache  16.0%,  injection  site  erythema  14.6%,  and  dizziness  13.4%.  Syncope
+previously  has  been  identified  as  an  adverse  event  following  any  vaccination,  with  a
+higher proportion of syncope events reported to VAERS having occurred in adolescents
+compared  with  other  age  groups  (89).  Syncope  was  reported  in  10.0%  of  reports
+involving  MenACWY-D.  Among  all  MenACWY-D  reports,  563  (6.6%)  were  coded  as
+serious  (i.e.,  resulted  in  death,  life-threatening  illness,  hospitalization,  prolongation  of
+hospitalization,  or  permanent  disability).   Among  those  reports  coded  as  serious,  the
+most  frequent  adverse  events  reported  included  headache  (37.5%),  fever  (32.5%),
+vomiting  (23.6%),  and  nausea  (22.2%).  Cases  of  Guillain-Barré  Syndrome  (GBS)  were
+recorded in 86 (15.3%) reports coded as serious, although the diagnosis has not been
+validated by medical records for all reports. A total of 24 (0.3%) deaths were reported,
+each  of  which  was  documented  by  autopsy  report  or  other  medical  records  and
+occurred  in  persons  aged  10  through  23  years.   Among  the  24  reports  of  death,  11
+(45.8%)  indicated  that  the  cause  of  death  was  meningococcal  infection  (nine  with  a
+serogroup included in the vaccine and two with a nonvaccine serogroup). Among the
+other 13 (54.2%) reports of death, which occurred from the day of vaccination to 127
+days following vaccination, stated causes of death were cardiac (five), neurologic (two),
+infectious (two), behavioral (i.e., suicide) (two), rheumatologic (one), and unexplained
+(one). There was no pattern among these reports. Except for the finding of GBS, which
+was further evaluated and is discussed below, no signals were identified in VAERS after
+MenACWY-D  vaccination.  During  February  19,  2010–September  30,  2011,  VAERS
+received  284  reports  of  adverse  events  following  receipt  of  MenACWY-CRM  in  the
+United States. Approximately three fourths (78.9%) of the reported events concerned
+persons aged 11 through 19 years. Males were the subject of 44.0% of reports; 45.4%
+of reports involved other vaccines administered at the same time, and 4.2% of reports
+were  coded  as  serious.  One  death  was  reported,  with  the  cause  of  death  stated  as
+unexplained. The median time from vaccination to adverse event onset was 0 days (the
+day  of  vaccination).  The  most  common  adverse  event  reported  was  injection-site
+erythema (19.7%) followed by injection-site swelling (13.7%). Syncope was reported in
+8.8%  of  reports.  No  cases  of  GBS  were  reported.  Administration  errors  (e.g.,  wrong
+diluent  used  or   subcutaneous  injection)  without  adverse  events  were  described  in
+15.5%  of  reports  involving  MenACWY-CRM.  In  2005,  shortly  after  licensure  of
+MenACWY-D, several cases of Guillain-Barré Syndrome (GBS) were reported to VAERS
+(90,91).  Symptom  onset  clustered  approximately  14  days  after  vaccination  with
+MenACWY-D.  No  deaths  were  reported,  and  most  persons  recovered  fully.  ACIP
+reviewed the data at the time and determined that the potential small increased risk for
+GBS post-MenACWY-D vaccination was outweighed by the protection that the vaccine
+offers against meningococcal disease (92). However, because the risk for recurrence of
+GBS after meningococcal vaccination was unknown, FDA considered previous history of
+GBS a contraindication for use of this vaccine (93). A large retrospective cohort study of
+adolescents aged 11 through 21 years that was conducted during 2005–2008 included
+approximately 1.4 million persons vaccinated with MenACWY-D (94). In an analysis that
+took into account the missing data, estimates of the attributable risk for GBS ranged
+from zero to 1.5 additional cases of GBS per 1 million vaccines within the 6-week period
+following
+ vaccination
+(http://www.fda.gov/downloads/BiologicsBloodVaccines/Vaccines/ApprovedProducts/UC
+M131170.pdf). VSD conducts near-real time surveillance for adverse events and tests
+vaccine  safety  hypotheses  (13).  The  system  collects  medical  care  and  vaccination
+information  on  approximately  9  million  members.  VSD  uses  Rapid  Cycle  Analysis  to
+monitor  vaccine  safety  in  near  real-time.  Each  week,  the  number  of  outcomes  in
+vaccinated  persons  is  compared  with  the  expected  number  of  outcomes  in  the
+comparison group using maximized sequential probability ratio testing (95). No cases of
+GBS were identified within 1–42 days following 889,684 vaccine doses of MenACWY-D
+administered during January 2005–March 2010 (ACIP, unpublished data, 2010). In June
+2010, after reviewing the two safety studies, ACIP voted to remove the precaution for
+persons  with  a  history  of  GBS  because  the  benefits  of  meningococcal  vaccination
+outweigh the risk for recurrent GBS in these persons. A history of GBS continues to be
+listed  as  a  precaution  in  the  package  inserts  for  MenACWY-D  (available  at
+http://www.fda.gov/downloads/BiologicsBloodVaccines/Vaccines/ApprovedProducts/UCM
+131170.pdf)
+ and
+ MenACWY-CRM
+ (available
+ at
+http://www.fda.gov/downloads/BiologicsBloodVaccines/Vaccines/ApprovedProducts/UCM
+201349.pdf). Since the June 2010 ACIP meeting, no specific concerns have been raised
+about the risk for GBS in persons who both have a history of this condition and have
+been  vaccinated  with  meningococcal  conjugate  vaccine  (96).   During  January  1,
+2005–June 30, 2010, a total of 80 reports were submitted to VAERS regarding pregnant
+women  or  infants  born  to  women  who  received  MenACWY-D  during  pregnancy.  The
+majority (57.5%) of women were vaccinated in the first trimester (0 through 13 weeks
+of gestation). Thirty-three (41.3%) reports indicated no adverse events, and the reason
+for submitting the report to VAERS was vaccine exposure during pregnancy (pregnancy
+category C)†. No maternal deaths were reported. The most common pregnancy-specific
+adverse  event  was  spontaneous  abortion  (12  cases;  15%)  and  the  most  common
+nonpregnancy specific adverse event was nausea, with or without vomiting (four cases;
+5%).  One  case  of  a  congenital  anomaly  (aqueductal  stenosis  with  severe
+ventriculomegaly  in  a  newborn)  was  reported.  However,  no  concerning  patterns  of
+adverse  events  after  MenACWY-D  in  pregnancy  were  identified.  Two  postlicensure
+studies have evaluated use of Tdap when administered simultaneously or sequentially
+with MenACWY (97,98). In a clinical trial to evaluate administration of one Tdap product
+(Boostrix, GSK) and MenACWY-D, immune responses to the meningococcal serogroups
+and  to  pertussis,  diphtheria,  and  tetanus  were  similar  regardless  of  whether  the  two
+vaccines  were  administered  simultaneously  or  separated  by  30  days.  There  were  no
+differences  in  the  safety  evaluation  in  either  of  the  groups.  In  a  postlicensure
+surveillance study using VSD data, the risk for medically attended adverse events was
+low (0–2.6 per 10,000 vaccinations) and similar regardless of whether persons received
+Tdap and MenACWY simultaneously or sequentially (98).  As part of the evaluation of
+the  adolescent  vaccination  program,  a  cost-effectiveness  analysis  was  performed  to
+compare the cost-effectiveness of the following three vaccination strategies: 1) a single
+dose at age 11 years, 2) a single dose at age 15 years, and 3) a dose at age 11 years
+with  a  booster  dose  at  age  16  years  (ACIP,  unpublished  data,  2010).  The  economic
+costs and benefits of these meningococcal vaccination strategies in adolescents were
+assessed from a societal perspective (99,100). A multivariable analysis was performed
+with a Monte Carlo simulation in which multiple parameters were varied simultaneously
+over  specified  probability  distributions.  These  parameters  included  disease  incidence
+(46%–120%  of  the  10-year  average),  case-fatality  ratio  (34%–131%  of  the  10-year
+average),  rates  of  long-term  sequelae,  acute  meningococcal  disease  costs  (i.e.,
+inpatient  care,  parents'  work  loss,  public  health  response,  and  premature  mortality
+costs),  lifetime  direct  and  indirect  costs  of  meningococcal  disease  sequelae  (i.e.,
+long-term special education and reduced productivity), and cost of vaccine and vaccine
+administration (range: $64–$114). Vaccination coverage (37%–90%) and initial vaccine
+efficacy  (39%–99%)  also  were  varied  for  evaluation  purposes.  The  vaccine  was
+assumed to be 93% effective in the first year, and then waning immunity was modeled
+as a linear decline over the next 9 years unless a booster dose was administered. The
+vaccine effectiveness of the second dose was assumed to be higher with a slower rate
+of  waning  immunity.  The  results  of  the  cost-effectiveness  analysis  indicate  that  a
+2-dose series at ages 11 years and 16 years has a similar cost-effectiveness compared
+with moving the single dose to age 15 years or maintaining the single dose at 11 years.
+However,  the  number  of  cases  and  deaths  prevented  is  substantially  higher  with  the
+2-dose  strategy  (Table  5).  Meningococcal  disease  can  cause  severe  and  devastating
+illness.  Disease  incidence  is  low  and  has  decreased  since  the  late  1990s  before
+widespread vaccination of adolescents with MenACWY. Meningococcal disease occurs in
+all age groups, with an overall incidence in 2011 of 0.2 cases per 100,000 population.
+The burden of disease is highest among infants aged <1 year (2.6 cases per 100,000
+persons), young adults aged 16 through 21 years (0.4 cases per 100,000 persons), and
+persons  aged  ≥65  years  (0.3  cases  per  100,000  persons)  (CDC,  unpublished  data,
+2012).  Among  infants,  disease  incidence  peaks  within  the  first  6  months  of  life,  and
+most  cases  in  this  age  group  are  caused  by  serogroup  B  (see  Future  Meningococcal
+Vaccines, Areas for Research, and Public Education). Rates of nasopharyngeal carriage
+are  highest  in  adolescents  and  young  adults  (16,17),  and  adolescents  are  likely  the
+main  source  of  transmission  of  the  organism  to  persons  in  other  age  groups.  The
+vaccines  licensed  currently  are  recommended  routinely  for  adolescents  and  other
+persons  at  increased  risk  for  meningococcal  disease.  After  licensure  of  the  first
+MenACWY vaccine in 2005, the initial supply of vaccine was not sufficient to vaccinate
+all adolescents. ACIP prioritized vaccination for persons aged 11 or 12 years, persons
+entering high school, and first-year college students living in residence halls. Two years
+later,  in  2007,  after  reviewing  information  on  the  adequacy  of  vaccine  supply,  ACIP
+expanded its recommendation for routine 1-dose vaccination at the earliest opportunity
+for all adolescents aged 11 through 18 years. At the time, some experts predicted that
+the  vaccine  would  be  effective  for  up  to  10  years,  providing  protection  through  the
+period  of  highest  risk  in  late  adolescence  and  early  adulthood.  Since  the  2005  ACIP
+recommendations,
+ additional
+ data
+ have
+ led
+ to
+ improved
+ understanding
+ of
+meningococcal conjugate vaccines, including new data on duration of vaccine-induced
+immunity. Antibody persistence studies indicate that circulating antibody declines 3 to
+5  years  after  a  single  dose  of  MenACWY.  In  addition,  results  from  a  vaccine
+effectiveness study demonstrate waning effectiveness, and many adolescents are not
+protected  5  years  after  vaccination.  ACIP  concluded  that  a  single  dose  of
+meningococcal  conjugate  vaccine  administered  at  age  11  or  12  years  is  unlikely  to
+protect most adolescents through the period of increased risk at ages 16 through 21
+years.  On  the  basis  of  this  information,  in  2010,  ACIP  considered  two  options  to
+optimize protection through late adolescence into early adulthood: 1) moving the single
+recommended dose to age 15 years or 2) retaining the recommended dose at ages 11
+or  12  years  and  adding  a  booster  dose  at  age  16  years.  The  benefits  of  the  booster
+dose  and  a  desire  to  continue  to  protect  younger  adolescents  prompted  the
+recommendation for a routine booster dose at age 16 years (7). In 2010, ACIP revised
+the recommendations for dosing regimens (e.g., primary series and booster doses) for
+persons  who  have  functional  or  anatomic  asplenia,  who  have  persistent  complement
+component deficiencies, or who have HIV infection and are otherwise recommended to
+be  vaccinated.  For  these  immunosuppressed  persons,  a  2-dose  primary  series  was
+recommended  instead  of  a  single  dose  (7).  For  persons  with  persistent  complement
+component deficiency, a 2-dose primary series will help achieve the high levels of SBA
+needed to confer protection in the absence of effective opsonization. For persons with
+asplenia  or  HIV,  a  2-dose  primary  series  will  increase  the  likelihood  of  a  sufficient
+primary  immune  response.  Booster  doses  after  primary  vaccination  are  important  for
+persons with prolonged increased risk (persons with asplenia, persons with complement
+component  deficiencies,  and  microbiologists)  to  ensure  high  levels  of  SBA  are
+maintained over time.  In 2011 and 2012, ACIP voted to recommend meningococcal 
+vaccination  for  children  aged  2  through  23  months  who  are  at  increased  risk  for
+disease. ACIP does not recommend routine vaccination of children aged ≤10 years. The
+number  of  infants  and  young  children  who  are  or  will  be  at  increased  risk  for
+meningococcal disease is limited. ACIP reviewed the burden of meningococcal disease
+among infants and children aged ≤10 years. In the United States, during 1993–2011,
+average annual rates of meningococcal disease were higher among children aged ≤59
+months. However, approximately 60% of disease among children aged ≤59 months is
+caused  by  serogroup  B  N.  meningitidis  which  is  not  prevented  by  Hib-MenCY-TT  or
+MenACWY-D.  In  addition,  the  highest  incidence  in  the  first  5  years  of  life  occurs  in
+infants aged 0 through 6 months, many of whom are too young to have received the
+minimum 2 or 3 doses of vaccine that likely are needed to provide protection. Of the
+205 cases of meningococcal disease in children aged <59 months that occur annually,
+it  is  estimated  that  a  universal  infant  meningococcal  vaccination  program  would
+prevent 40–50 cases (approximately 25% of cases in this age group) (CDC, unpublished
+data,  2012).  The  epidemiology  of  meningococcal  disease  is  dynamic,  and  rates  of
+disease could increase in the future requiring a reassessment of immunization strategy.
+ ACIP recommends routine administration of a MenACWY vaccine for all persons aged
+11 through 18 years (Table 6). A single dose of vaccine should be administered at age
+11  or  12  years,  and  a  booster  dose  should  be  administered  at  age  16  years.
+Adolescents who receive their first dose at age 13 through 15 years should receive a
+booster  dose  at  age  16  through18  years.  The  minimum  interval  between  doses  of
+MenACWY is 8 weeks. Adolescents who receive a first dose after their 16th birthday do
+not  need  a  booster  dose  unless  they  become  at  increased  risk  for  meningococcal
+disease. Persons aged 19 through 21 years are not recommended routinely to receive
+MenACWY. MenACWY may be administered up to age 21 years as catch-up vaccination
+for those who have not received a dose after their 16th birthday. Health-care personnel
+should use every opportunity to provide the booster dose when indicated, regardless of
+the  vaccine  brand  used  for  the  previous  dose  or  doses.  Persons  at  increased  risk  for
+meningococcal  disease  also  are  recommended  for  routine  meningococcal  vaccination
+(Tables
+ 6
+ and
+ 7).
+ Vaccine
+ product,
+ number
+ of
+ doses,
+ and
+ booster
+ dose
+recommendations are based on age and risk factor and are described below in detail for
+each  risk  group.  In  general:  MenACWY  or  Hib-MenCYTT  is  recommended  for  use  in
+control of outbreaks caused by vaccine-preventable serogroups (A, C, Y, and W-135) of
+N. meningitidis (Appendix B). An outbreak is defined by the occurrence of at least three
+confirmed  or  probable  primary  cases  of  meningococcal  disease  caused  by  the  same
+serogroup in ≤3 months, with a resulting primary attack rate of ≥10 cases per 100,000
+population.  For  calculation  of  this  threshold,  population-based  rates  are  used  rather
+than  age-specific  attack  rates.  MenACWY  is  preferred  if  the  population  targeted  for
+vaccination includes age groups for which MenACWY is licensed (i.e., 9 months through
+55  years).  Detailed  recommendations  on  evaluation  and  management  of  suspected
+outbreaks  of  meningococcal  disease  are  provided  (Appendix  B).   Routine  vaccination
+against  meningococcal  disease  is  not  recommended  for  children  aged  2  months
+through 10 years. Hib-MenCY-TT is licensed as a 4-dose primary series for children aged
+6  weeks  through  18  months.  Hib-MenCY-TT  can  be  administered  in  any  infant  for
+routine vaccination against Hib and will offer some protection against serogroups C and
+Y meningococcal disease; 4 doses of Hib-MenCY-TT fulfill the primary series and booster
+dose  Hib  immunization  recommendations.  If  the  reason  for  use  of  Hib-MenCY-TT
+vaccine is to achieve protection against serogroups C and Y, it should be used for all 4
+doses  of  Hib  vaccine.  Infants  and  children  who  received  Hib-MenCY-TT  and  are
+travelling  to  areas  with  high  endemic  rates  of  meningococcal  disease  such  as  the
+"meningitis belt" are not protected against serogroups A and W-135 and should receive
+a quadrivalent meningococcal conjugate vaccine licensed for children aged ≥9 months
+before  travel.  MenACWY-D  is  licensed  as  a  2-dose  primary  series  for  children  aged  9
+through  23  months  and  as  a  single  dose  for  children  ages  2  through  10  years.
+MenACWY-CRM  is  licensed  as  a  single  dose  for  children  aged  2  through  10  years.
+Children  who  receive  Hib-MenCY-TT,  MenACWY,  or  both  Hib-MenCY-TT  and  MenACWY
+before their 10th birthday should receive the routinely recommended doses at age 11
+or  12  years  and  at  age  16  years.  MenACWY-D,  MenACWY-CRM,  and  Hib-MenCY-TT
+vaccines are administered intramuscularly, and MPSV4 is administered subcutaneously.
+Individual  doses  of  all  vaccines  are  0.5  mL.  In  persons  aged  2  through  55  years,
+MenACWY and MPSV4 vaccines can be administered concomitantly with other vaccines,
+but  at  a  different  anatomic  site,  if  feasible.  Because  of  limited  data  suggesting
+immunologic  blunting  of  the  meningococcal  vaccine,  MenACWY-D  should  be
+administered  to  children  aged  2  through  6  years  either  before,  at  the  same  time,  or
+more than 6 months after receipt of DTaP. If MenACWY-D is administered inadvertently
+in  the  6  months  after  receipt  of  DTaP,  the  dose  does  not  need  to  be  repeated.
+MenACWY-CRM may be administered at any time in relation to DTaP administration. If a
+child  is  traveling  to  a  high-risk  area  or  is  part  of  a  community  outbreak,  waiting  to
+administer  MenACWY-D  following  receipt  of  DTaP  is  not  recommended,  even  if  there
+may  be  blunting.  There  is  no  evidence  of  immunologic  blunting  between  Tdap  and
+MenACWY  when  either  MenACWY-D  or  MenACWY-CRM  is  administered  following
+administration  of  Tdap.  In  children  aged  2  through  18  months,  Hib-MenCY-TT  can  be
+administered  concomitantly  with  other  vaccines,  but  at  a  different  anatomic  site,  if
+feasible. In children aged 9 through 23 months, MenACWY-D can be administered with
+other vaccines concomitantly in healthy children at different anatomic sites, if feasible.
+Children  with  asplenia  should  not  receive  MenACWY-D  concomitantly  with  PCV13;  if
+MenACWY-D  is  used  in  persons  with  asplenia,  it  should  be  administered  at  least  4
+weeks  after  completion  of  all  PCV13  doses.  All  health-care  personnel  administering
+vaccinations should be aware of the potential for syncope after vaccination, especially
+among  adolescents,  and  should  take  appropriate  measures  to  prevent  potential
+injuries.  If  syncope  occurs,  the  vaccine  recipient  should  be  observed  until  symptoms
+resolve. Providers should strongly consider observing patients for 15 minutes after they
+are  vaccinated  (97).  Vaccination  with  MenACWY,  MPSV4,  or  Hib-MenCY-TT  is
+contraindicated  among  persons  known  to  have  a  severe  allergic  reaction  to  any
+component  of  the  vaccine,  including  diphtheria  or  tetanus  toxoid.  ACIP  does  not
+consider  a  history  of  GBS  to  be  a  contraindication  or  precaution  for  meningococcal
+vaccination.  Recommended  vaccinations  can  be  administered  to  persons  with  minor
+acute illness (e.g., diarrhea or mild upper-respiratory tract infection with or without low
+grade fever). Vaccination should be deferred for persons with moderate or severe acute
+illness  until  the  person's  condition  improves  (101).  Because  MenACWY,  MPSV4,  and
+Hib-MenCY-TT are inactivated vaccines, they can be administered to persons who are
+immunosuppressed  as  a  result  of  disease  or  medications;  however,  response  to  the
+vaccine might be less than optimal.  To date, no randomized, controlled clinical trials
+have  been  conducted  primarily  to  evaluate  use  of  MPSV4  or  MenACWY  vaccines  in
+pregnant or lactating women. VAERS reports of exposure to MPSV4 during pregnancy
+have  not  identified  adverse  effects  among  either  pregnant  women  or  newborns  of
+women vaccinated during pregnancy. From VAERS reports available for women found to
+be  pregnant  at  the  time  of  MenACWY-D  vaccination,  no  major  safety  concerns
+associated  with  vaccination  have  been  identified  in  the  mother  or  fetus.  Pregnancy
+should  not  preclude  vaccination  with  MenACWY  or  MPSV4,  if  indicated.  Women  of
+childbearing age who become aware that they were pregnant at the time of MenACWY
+vaccination  should  contact  their  health-care  provider  or  the  vaccine  manufacturer  so
+that their experience might be captured in the manufacturer's registry of vaccination
+during  pregnancy.  Any  adverse  event  following  receipt  of  MenACWY,  MPSV4  or
+Hib-MenCY-TT vaccine should be reported to VAERS at telephone 1-800-822-7967 or at
+http://vaers.hhs.gov/index.   MenACWY  vaccines  were  licensed  on  the  basis  of  data
+regarding safety and short-term immunogenicity. However, immunogenicity data alone
+are  insufficient  to  predict  vaccine  effectiveness  and  herd  immunity  effect,  which
+depends  largely  on  the  ability  of  vaccine  to  alter  transmission  patterns.  Multiple
+changes  to  the  recommendations  have  been  made  since  2005  (Box  1);  the  effect  of
+these changes needs to be monitored over time for their effectiveness and impact on
+disease  to  be  assessed.  Because  serogroup  B  capsular  polysaccharide  is  poorly
+immunogenic  in  humans,  vaccine  development  for  serogroup  B  N.  meningitidis  has
+focused on common proteins, including the outer membrane vessicles (OMV) of specific
+epidemic  strains.  Efficacy  of  OMV  vaccines  has  been  demonstrated  among  older
+children and adults but not among infants and young children, in whom rates of disease
+are  highest  (102–105).  In  addition,  the  variability  in  OMV  strains  causing  endemic
+disease  will  likely  limit  their  usefulness  in  the  United  States  (106,107).  Two  vaccines
+developed to prevent serogroup B vaccine are in late-stage clinical development in the
+United  States.  A  multicomponent  serogroup  B  meningococcal  vaccine  (4CMenB),
+approved  for  use  in  Europe  by  the  European  Medicines  Agency  in  January  2013,  was
+developed by sequencing the meningococcal B genome and testing surface antigens for
+their ability to elicit an immunogenic response. Three novel antigens identified, factor-H
+binding  protein  (fHbp),  Neisserial  adhesion  A  (NadA),  and  Neisseria  heparin  binding
+antigen  (NHBA),  were  combined  with  OMV  from  the  New  Zealand  epidemic  strain
+NZ98/254  (108).  The  second  vaccine,  bivalent  recombinant  lipoprotein  2086  vaccine,
+contains two families of the same protein, fHbp, as 4CMenB (109). When these vaccines
+are  licensed,  vaccines  to  prevent  all  five  serogroups  that  cause  most  meningococcal
+disease  worldwide  will  be  available  for  the  first  time.  However,  extensive  research  is
+needed  to  understand  better  how  to  conduct  optimal  implementation  of  noncapsular
+based  meningococcal  vaccines.  Although  the  signs  and  symptoms  of  meningococcal
+disease  are  frequently  nonspecific,  increasing  awareness  for  meningococcal  disease
+can result in earlier medical care-seeking behavior and improved clinical outcomes. In
+addition,  educating  adolescents  and  their  parents  about  the  benefits  of  receiving
+MenACWY is key to preventing a substantial number of cases of meningococcal disease.
+Finally, educating policy makers and the general public about the benefits of receiving
+MenACWY  vaccine  might  improve  vaccination  coverage  rates  and  substantially
+decrease  the  burden  of  meningococcal  disease  in  the  United  States.   *A  list  of  the
+Work  Group  appears  on  Page  28.  †FDA  classification  categories  available  at
+http://chemm.nlm.nih.gov/pregnancycategories.htm  ACIP  Membership  List  As  of  June
+2012  Chair:  Carol  Baker,  MD,  Baylor  College  of  Medicine,  Houston,  Texas.  Executive
+Secretary:  Larry  Pickering,  MD,  National  Center  for  Immunization  and  Respiratory
+Diseases, CDC, Atlanta, Georgia. Members: Nancy Bennett, MD, University of Rochester
+School of Medicine and Dentistry, Rochester, New York; Joseph Bocchini, MD, Louisiana
+State
+ University
+ Health
+ Sciences
+ Center,
+ Shreveport,
+ Louisiana;
+ Douglas
+Campos-Outcalt,  MD,  University  of  Arizona  College  of  Medicine,  Phoenix,  Arizona;
+Tamera  Coyne-Beasley,  MD,  University  of  North  Carolina,  Chapel  Hill,  North  Carolina;
+Jeffrey Duchin, MD, University of Washington, Seattle, Washington; Kristen Ehresmann,
+MPH, Minnesota Department of Health, St. Paul, Minnesota; Renée Jenkins, MD, Howard
+University School of Medicine, District of Columbia; Wendy Keitel, MD, Baylor College of
+Medicine,  Houston,  Texas;  Michael  Marcy,  MD,  UCLA  Center  for  Vaccine  Research,
+Torrance, California; Cody Meissner, MD, Tufts Medical Center, Boston, Massachusetts;
+Sara  Rosenbaum,  JD,  Georgetown  University,  District  of  Columbia;  Mark  Sawyer,  MD,
+University  of  California  at  San  Diego,  California;  Jonathan  Temte,  MD,  University  of
+Wisconsin School of Medicine and Public Health, Madison, Wisconsin; Marietta Vázquez,
+MD, Yale University School of Medicine, New Haven, Connecticut. Ex Officio Members:
+Geoffrey  S.  Evans,  MD,  Health  Resources  and  Services  Administration,  Rockville,
+Maryland;  Jesse  Geibe,  MD,  Department  of  Defense,  CDC,  Atlanta,  Georgia;  Bruce
+Gellin, MD, National Vaccine Program Office, District of Columba; Richard Gorman, MD,
+National  Institutes  of  Health,  Bethesda,  Maryland;  Amy  Groom,  MPH,  Indian  Health
+Service,  Albuquerque,  New  Mexico;  Mary  Beth  Hance,  Centers  for  Medicare  and
+Medicaid Services, Baltimore, Maryland; Linda Kinsinger, MD, Department of Veterans
+Affairs,  Durham,  North  Carolina;  Wellington  Sun,  MD,  Food  and  Drug  Administration,
+Bethesda, Maryland. Liaison Representatives: American Academy of Family Physicians,
+Jamie  Loehr,  MD,  Ithaca,  New  York;  American  Academy  of  Pediatrics,  Michael  Brady,
+MD, Columbus, Ohio, David Kimberlin, MD, Birmingham, Alabama; American Academy
+of  Physician  Assistants,  Marie-Michèle  Léger,  MPH,  Alexandria,  Virgina;  American
+College  Health  Association,  James  C.  Turner,  MD,  Charlottesville,  Virginia;  American
+College  of  Obstetricians  and  Gynecologists,  Laura  Riley,  MD,  Boston,  Massachusetts;
+American College of Physicians, Gregory Poland, MD, Rochester, Minnesota; American
+Geriatrics  Society,  Kenneth  Schmader,  MD,  Durham,  North  Carolina;  America's  Health
+Insurance  Plans,  Mark  Netoskie,  MD,  Houston,  Texas;  American  Medical  Association,
+Litjen  Tan,  PhD,  Chicago,  Illinois;  American  Nurses  Association,  Katie  Brewer,  MSN,
+Silver Springs, Maryland; American Osteopathic Association, Stanley Grogg, DO, Tulsa,
+Oklahoma;  American  Pharmacists  Association,  Stephan  L.  Foster,  PharmD,  Memphis,
+Tennessee;  Association  of  Immunization  Managers,  Kelly  Moore,  MD,  Nashville,
+Tennessee; Association for Prevention Teaching and Research, W. Paul McKinney, MD,
+Louisville, Kentucky; Association of State and Territorial Health Officials, José Montero,
+MD,  Concord,  New  Hampshire;  Biotechnology  Industry  Organization,  Clement  Lewin,
+PhD,
+ Cambridge,
+ Massachusetts;
+ Canadian
+ National
+ Advisory
+ Committee
+ on
+Immunization,  Bryna  Warshawsky,  MDCM,  Ontario,  Canada;  Council  of  State  and
+Territorial  Epidemiologists,  Christine  Hahn,  MD,  Boise,  Idaho;  Department  of  Health,
+United Kingdom, David M. Salisbury, MD, London, United Kingdom; Healthcare Infection
+Control Practices Advisory Committee, Alexis Elward, MD, St. Louis, Missouri; Infectious
+Diseases  Society  of  America,  Kathleen  Neuzil,  MD,  Seattle,  Washington;  National
+Association of County and City Health Officials, Matthew Zahn, MD, Louisville, Kentucky;
+National Association of Pediatric Nurse Practitioners, Patricia Stinchfield, MPH, St. Paul,
+Minnesota;  National  Foundation  for  Infectious  Diseases,  William  Schaffner,  MD,
+Nashville, Tennessee; National Immunization Council and Child Health Program, Mexico,
+Vesta  Richardson,  MD,  Mexico  City,  Mexico;  National  Medical  Association,  Patricia
+Whitley-Williams,  MD,  New  Brunswick,  New  Jersey;  National  Vaccine  Advisory
+Committee,  Walter  Orenstein,  MD,  Atlanta,  Georgia;  Pharmaceutical  Research  and
+Manufacturers  of  America,  Damian  A.  Braga,  Swiftwater,  Pennsylvania,;  Society  for
+Adolescent  Health  and  Medicine,  Amy  Middleman,  MD,  Houston,  Texas;  Society  for
+Healthcare  Epidemiology  of  America,  Harry  Keyserling,  MD,  Atlanta,  Georgia.  
+Meningococcal  Vaccines  Work  Group  Chair:  Lorry  Rubin,  MD,  Steven  and  Alexandra
+Cohen  Children's  Medical  Center  of  New  York,  New  Hyde  Park,  New  York.  Members:
+Carol Baker, MD, Baylor College of Medicine, Houston, Texas; Michael Brady, MD, Ohio
+State  University,  Columbus,  Ohio;  Douglas  Campos-Outcalt,  MD,  University  of  Arizona
+College  of  Medicine,  Phoenix,  Arizona;  Richard  Clover,  MD,  University  of  Louisville
+School  of  Public  Health,  Lousiville,  Kentucky;  Kristen  Ehresmann,  MPH,  Minnesota
+Department  of  Health,  St.  Paul,  Minnesota;  Lucia  Lee,  MD,  Food  and  Drug
+Administration,  Rockville,  Maryland;  Martin  Luta,  MD,  Delaware  Division  of  Public
+Health,  Dover,  Delaware;  Michael  Marcy,  MD,  UCLA  Center  for  Vaccine  Research,
+Torrence,  California;  W.  Paul  McKinney,  MD,  Association  for  Prevention  Teaching  and
+Research, Louisville, Kentucky; Cody Meissner, MD, Tufts University School of Medicine,
+Boston,  Massachusetts;  Amy  Middleman,  MD,  Society  for  Adolescent  Health  and
+Medicine,  Houston,  Texas;  Karen  O'Brien,  MD,  US  Army  Training  and  Doctrine
+Command,  Fort  Monroe,  Virginia;  Paul  Offit,  MD,  Children's  Hospital  of  Philadelphia,
+Philadelphia,  Pennsylvania;  Georges  Peter,  MD,   Rhode  Island  Hospital,  Providence,
+Rhode  Island;  William  Schaffner,  MD,  National  Foundation  for  Infectious  Diseases,
+Nashville,  Tennessee;  David  Stephens,  MD,  Emory  University  School  of  Medicine,
+Atlanta,  Georgia;  James  C.  Turner,  MD,  American  College  Health  Association,
+Charlottesville, Virginia; Marietta Vázquez, MD, Yale University School of Medicine, New
+Haven, Connecticut. Contributors:  William Atkinson, MD; Elizabeth Briere, MD; Thomas
+Clark, MD; Jonathan Duffy, MD;  Jessica MacNeil, MPH; Nancy E. Messonnier, MD; Ismael
+R.  Ortega-Sanchez,  PhD;  Shannon  Stokley,  MPH,  CDC,  Atlanta,  Georgia.  Secretariat
+(CDC): Amanda C. Cohn, MD, CDC, Atlanta, Georgia. BOX 1. Timeline of meningococcal
+conjugate  vaccine  ACIP  recommendations,  2005  —  2012  2005:  Licensure  of  and  first
+recommendation  for  routine  vaccination  of  adolescents  with  MenACWY-D.*  2006:
+Because of limited vaccine supply, vaccination was first limited to cohorts of children
+entering high school and entering college and persons aged 11–55 years at increased
+risk  for  meningococcal  disease.†   2007:  After  vaccine  supply  became  sufficient,  ACIP
+recommended vaccination for all adolescents aged 11–18 years.§ ACIP recommended
+vaccination of children aged 2–10 years at increased risk for meningococcal disease.¶ 
+2009:  ACIP  recommended  booster  dose  for  persons  who  remain  at  increased  risk  for
+meningococcal  disease,  administered  every  5  years  except  for  children  who  received
+their  previous  dose  prior  to  their  seventh  birthday;  these  children  should  receive  a
+booster  dose  3  years  after  their  previous  dose.**   2010:  The  Food  and  Drug
+Administration  licensed  a  second  vaccine  product,  MenACWY-CRM.††  ACIP  added  a
+booster dose at age 16 years and recommended a 2-dose primary series for all persons
+with  asplenia,  persistent  complement  component  deficiency,  and  for  persons  with
+human immunodeficiency virus infection.§§  2011: ACIP recommended a 2-dose primary
+series  for  children  aged  9–23  months  at  increased  risk  for  meningococcal  disease.¶¶
+2012:  ACIP  recommended  a  4-dose  primary  series  of  Hib-MenCY-TT  for  children  aged
+2–18  months  at  increased  risk  for  meningococcal  disease.***   *Source:  CDC
+Prevention  and  control  of  meningococcal  disease:  recommendations  of  the  Advisory
+Committee  on  Immunization  Practices  (ACIP).  MMWR  2005;54(No.  RR-7).    †  Source:
+CDC.  Notice  to  readers:  limited  supply  of  meningococcal  conjugate  vaccine,
+recommendation  to  defer  vaccination  of  persons  aged  11–12  years.   MMWR
+2006:55;567–8.  § Source: CDC. Revised recommendations of the Advisory Committee
+on  Immunization  Practices  to  vaccinate  all  persons  aged  11–18  years  with
+meningococcal
+ conjugate
+ vaccine.
+ MMWR
+ 2007;56:794–5.
+ 
+ ¶
+ Source:
+ CDC.
+Recommendation  from  the  Advisory  Committee  on  Immunization  Practices  (ACIP)  for
+use  of  quadrivalent  meningococcal  conjugate  vaccine  (MCV4)  in  children  aged  2–10
+years at increased risk for invasive meningococcal disease. MMWR 2007;56:1265–6.  **
+Source: CDC. Updated recommendation from the Advisory Committee on Immunization
+Practices  (ACIP)  for  revaccination  of  persons  at  prolonged  increased  risk  for
+meningococcal  disease.  MMWR  2009;58:1042–3.   ††  Source:  CDC.  Licensure  of  a
+meningococcal conjugate vaccine (Menveo) and guidance for use—Advisory Committee
+on Immunization Practices (ACIP), 2010. MMWR 2010;59:273.  §§ Source: CDC. Updated
+recommendations  for  use  of  meningococcal  conjugate  vaccines—Advisory  Committee
+on  Immunization  Practices  (ACIP),  2010.  MMWR  2011;60:72–6.   ¶¶  Source:  CDC.
+Recommendation of the Advisory Committee on Immunization Practices (ACIP) for use
+of quadrivalent meningococcal conjugate vaccine (MenACWY-D) among children aged 9
+through  23  months  at  increased  risk  for  invasive  meningococcal  disease.  MMWR
+2011;60:1391–2.   ***Source:  CDC.  Infant  meningococcal  vaccination:  Advisory
+Committee  on  Immunization  Practices  (ACIP)  recommendations  and  rationale.  MMWR
+2013;62:52–4. TABLE 1. Licensed meningococcal vaccines — United States, 1981–2012
+Formulation  Type  Trade  name   Manufacturer  Licensed  (yr)  Age  group  Dose(s)
+Serogroups  MPSV4* Polysaccharide Menomune Sanofi Pasteur 1981 ≥2 yrs Single dose
+A, C, W, and Y MenACWY-D† Conjugate Menactra Sanofi Pasteur 2005 11–55 yrs Single
+dose  A,  C,  W,  and  Y  MenACWY-D†  Conjugate  Menactra  Sanofi  Pasteur  2007  2–10  yrs
+Single dose A, C, W, and Y MenACWY-D† Conjugate Menactra Sanofi Pasteur 2011 9–23
+mos  2-dose  series  A,  C,  W,  and  Y  MenACWY-CRM§  Conjugate  Menveo   Novartis  2010
+11–55 yrs Single dose A, C, W, and Y MenACWY-CRM§ Conjugate Menveo Novartis 2011
+2–10  yrs  Single  dose  A,  C,  W,  and  Y  Hib-MenCY-TT¶  Conjugate  MenHibrix
+GlaxoSmithKline 2012 6 wks–18 mos 4-dose series C and Y *Package insert available
+at
+http://www.fda.gov/downloads/BiologicsBloodVaccines/Vaccines/ApprovedProducts/UCM
+308370.pdf.
+ 
+ †Package
+ insert
+ available
+ at
+http://www.fda.gov/downloads/BiologicBloodVaccines/Vaccines/ApprovedProducts/UCM1
+31170.pdf.
+ 
+ §Package
+ insert
+ available
+ at
+http://www.fda.gov/downloads/BiologicsBloodVaccines/Vaccines/ApprovedProducts/UCM
+201349.pdf.
+ 
+ ¶Package
+ insert
+ available
+ at
+http://www.fda.gov/downloads/BiologicsBloodVaccines/Vaccines/ApprovedProducts/UCM
+308577.pdf.   BOX  2.  Meningococcal  vaccination  recommendations  —  Advistory
+Committee  on  Immunization  Practices,  2013   ACIP  recommends  meningococcal
+vaccination for the following groups: FIGURE 1. Rate* of meningococcal disease, by year
+—  United  States,  1970–2011†  Source:  CDC,  Unpublished  data,  National  Notifiable
+Diseases  Surveillance  System  (NNDSS)  for  1970–1996  and  Active  Bacterial  Core
+surveillance  (ABCs)  system  for  1997–2011.  *  Per  100,000  population.  †ABCs  cases
+from 1997–2011 estimated to the U.S. population. In 2010, estimated case counts from
+ABCs  were  lower  than  cases  reported  to  NNDSS  and  might  not  be  representative.
+Alternate  Text:  This  figure  shows  the  rate  per  100,000  population  of  meningococcal
+disease in the United States during 1970-2011 by year, using data from the National
+Notifiable  Diseases  Surveillance  System  for  1970-1996  and  from  the  Active  Bacterial
+Core surveillance system for 1997-2011. Incidence has declined annually since a peak
+of disease in the late 1990s. TABLE 2. Average annual estimated number and rate* of
+cases  of  meningococcal  disease,  by  age  group  and  serogroup  —  United  States,
+2002–2011† Age group Serogroup B Serogroup C Serogroup Y Other§ Total No.  (Rate)
+No.  (Rate) No.  (Rate) No. (Rate) No. (Rate) < 1 yr 117 (2.8) 14  (0.3) 38  (0.9) 8  (0.2)
+177  (4.3)  0–5 mos 74 (3.6) 5  (0.3) 23  (1.1) 6  (0.3) 108  (5.3) 6–11 mos 43 (2.1) 9 
+(0.4) 15  (0.7) 2  (0.1) 69  (3.4) 1 yr 28 (0.7) 9  (0.2) 2  (0.1) 3  (0.1) 42  (1.0) 2–4 yrs 38
+(0.3) 16  (0.1) 8  (0.1) 7  (0.1) 69  (0.6) 5–10 yrs 31 (0.1) 16  (0.1) 12 (0) 3 (0) 62  (0.3)
+11–18 yrs 28 (0.1) 43  (0.1) 43  (0.1) 10 (0) 124  (0.4) 19–21 yrs 26 (0.2) 23  (0.2) 16 
+(0.1) 3 (0) 68  (0.5) 22–24 yrs 21 (0.2) 22  (0.2) 7  (0.1) 1 (0) 51  (0.4) 25–64 yrs 93
+(0.1) 129  (0.1) 125  (0.1) 21 (0) 368  (0.2) ≥65 yrs 20 (0.1) 33  (0.1) 114  (0.3) 19  (0.1)
+186   (0.5)  Total  402  (0.1)  305  (0.1)  365  (0.1)  76  (0)  1,146  (0.4)  Source:  CDC,
+Unpublished data, Active Bacterial Core surveillance (ABCs) system, 2002–2011. *Per
+100,000  population.  †ABCs  cases  from  2002–2011  estimated  to  the  U.S.  population
+with 18% correction for underreporting. In 2010, estimated case counts from ABCs were
+lower than cases reported to the National Notifiable Diseases Surveillance System and
+might  not  be  representative.  §Includes  serogroup  W135,  nongroupable,  and  other
+serogroups. FIGURE 2. Rate* of meningococcal disease, by age group — United States,
+2002–2011†  Source:  Unpublished  data,  Active  Bacterial  Core  surveillance  (ABCs)
+system. *Per 100,000 population. †ABCs cases from 2002–2011 estimated to the U.S.
+population with 18% correction for nonculture-confirmed cases. In 2010, estimated case
+counts from ABCs were lower than cases reported to the National Notifiable Diseases
+Surveillance System  and might not be representative. Alternate Text: This figure shows
+the rate per 100,000 population of meningococcal disease in the United States during
+2002-2011 by age group, using data from the Active Bacterial Core surveillance system.
+Incidence of meningococcal disease peaks among persons in three age groups: infants
+and children aged <5 years, adolescents and young adults aged 16 through 21 years,
+and adults aged ≥65 years.  TABLE 3. Rate* of meningococcal disease, by age group
+and serogroup — United States, 1998–2011† Years Serogroup C, Y, W  Serogroup B  <1
+yr 11–19 yrs ≥20 yrs <1 yr 11–19 yrs ≥20 yrs Rate (CI) Rate (CI) Rate (CI) Rate (CI)
+Rate (CI) Rate (CI) 1998–1999 5.86 (4.24–7.90) 1.13 (0.90–1.41) 0.47 (0.41–0.54) 3.32
+(2.21–4.86)  0.22  (0.13–0.36)  0.14  (0.11–0.19)  2000–2001  2.32  (1.45–3.55)  0.71
+(0.54–0.91)  0.38  (0.33–0.44)  4.30  (3.02–5.95)  0.27  (0.17–0.41)  0.13  (0.10–0.17)
+2002–2003  2.06  (1.23–3.26)  0.55  (0.40–0.73)  0.25  (0.21–0.30)  4.30  (3.06–5.90)  0.20
+(0.12–0.32)  0.11  (0.09–0.15)  2004–2005  0.77  (0.33–1.55)  0.27  (0.17–0.39)  0.17
+(0.14–0.21)  3.10  (2.10–4.42)  0.11  (0.06–0.20)  0.07  (0.05–0.09)  2006–2007  1.20
+(0.61–2.11)  0.31  (0.21–0.45)  0.23  (0.19–0.28)  2.11  (1.32–3.22)  0.05  (0.02–0.12)  0.06
+(0.04–0.09)  2008–2009  0.93  (0.48–1.69)  0.15  (0.08–0.26)  0.23  (0.19–0.27)  2.92
+(1.99–4.18)  0.10  (0.04–0.18)  0.07  (0.05–0.10)  2010–2011  1.37  (0.74–2.33)  0.05
+(0.02–0.12)  0.14  (0.11–0.18)  1.33  (0.72–2.29)  0.00  (0.00–0.05)  0.03  (0.02–0.05)
+Abbreviation:  CI  =  95%  confidence  interval.  Source:  CDC,  Unpublished  data,  Active
+Bacterial  Core  surveillance  (ABCs)  system,  1998–2011.  *Per  100,000  population.
+†ABCs cases from 1998–2011 estimated to the U.S. population with 18% correction for
+nonculture-confirmed cases. In 2010, estimated case counts from ABCs were lower than
+cases reported to the National Notifiable Diseases Surveillance System and might not
+be representative. TABLE 4. Summary of serogroup C bactericidal antibody persistence
+as determined by serum bactericidal antibody assay (SBA) 2–5 years after vaccination
+with  meningococcal  vaccines  —  United  States,  2006–2010  Age  group  at  vaccination
+(yrs)  Yrs post- vaccination  Serogroup C SBA Vaccine  Vaccine recepients No.  % with
+protective antibody levels  11–18*  2  % hSBA ≥1:8 Menveo  273  62 Menactra 185 58
+11–18†  3   %  rSBA  ≥1:128  Menactra   71  75  MPSV4  72  60  2–10†  5   %  rSBA  ≥1:128
+Menactra  161 55 MPSV4 207 42 11–18† 5  % rSBA ≥1:128 Menactra 50 56 MPSV4 68
+62  11–17§  5  %  hSBA  ≥1:8  Menveo  50  72  MPSV4  50  62  Abbreviations:  hSBA  =  SBA
+using  human  complement;  rSBA  =  SBA  using  baby  rabbit  complement;  MPSV4  =
+quadrivalent  meningococcal  polysaccharide  vaccine.  *Source:  Gill  C,  Baxter  R,
+Anemona A, Ciavarro G, Dull P. Persistence of immune responses after a single dose of
+Novartis  meningococcal  serogroup  A,  C,  W-135  and  Y  CRM-197  conjugate  vaccine
+(Menveo)  or  Menactra  among  healthy  adolescents.  Human  Vaccines  2010;6:881–7.
+†Source:  Advisory  Committee  on  Immunization  Practices,  unpublished  data,  2009.
+§Source:  Jacobson  RM,  Jackson  LA,  Reisinger  K,  Izu  A,  Odrljin  T,  Dull  T.  Antibody
+persistence  and  response  to  a  booster  dose  of  a  quadrivalent  conjugate  vaccine  for
+meningococcal disease in adolescents. Pediatr Infect Dis J [Epublished ahead of print].
+DOI:  10.1097/INF.0b013e318279ac38.  TABLE  5.  Summary  of  cost-effectiveness
+analyses  of  different  strategies  for  adolescent  vaccination  —  United  States  Dosage
+Cases averted Deaths averted QALY saved Cost per QALY saved ($)  No. (Range) No. 
+(Range)  No.   (Range)  No.   (Range)  1  dose  at  11  yrs  94  (43–165)  11  (5–20)  736
+(330–1,130)  256,000  (84,000–650,000)  1  dose  at  15  yrs  115  (51–205)  14  (6–25)  850
+(390–1,380) 219,000 (63,000–600,000) 1 dose at 11 yrs with booster dose at 16 yrs 184
+(92–308) 22 (11–40) 1,442 (610– 2,130) 212,000 (67,000–535,000) Abbreviation: QALY
+=  quality-adjusted  life  years.  Source:  Unpublished  data  with  updated  estimates,
+Advisory Committee on Immunization Practices (ACIP) meeting, October 2010. Methods
+described  in  Shepard  CW,  Ortega-Sanchez  IR,  Scott  RD  2nd,  Rosenstein  NE.
+Cost-effectiveness  of  conjugate  meningococcal  vaccination  strategies  in  the  United
+States. Pediatrics 2005;115:1220–32. TABLE 6. Recommended meningococcal vaccines
+for use in children and adults — Advisory Committee on Immunization Practices (ACIP),
+United  States,  2012  Age  group  Vaccine  Status  2  mos–10  yrs  MenACWY-D  (Menactra,
+Sanofi)*  Not  routinely  recommended;  see  Table  7  for  persons  at  increased  risk
+MenACWY-CRM  (Menveo,  Novartis)†  Not  routinely  recommended;  see  Table  7  for
+persons at increased risk HibMenCY-TT (MenHibrix, GSK)§ Not routinely recommended;
+see  Table  7  for  persons  at  increased  risk  11–21  yrs  MenACWY-D  or  MenACWY-CRM
+Primary:
+ Booster:
+ 22–55
+ yrs
+ MenACWY-D
+ or
+ MenACWY-CRM
+ Not
+ routinely
+recommended; see Table 7 for persons at increased risk ≥56 yrs MPSV4, MenACWY-D,
+or  MenACWY-CRM  Not  routinely  recommended;  see  Table  7  for  persons  at  increased
+risk Source: Adapted from American Academy of Pediatrics. Meningococcal infections.
+In: Pickering LK, Baker CJ, Kimberlin DW, Long SS, eds. Red book: 2012 report of the
+Committee  on  Infectious  Diseases.  29th  ed.  Elk  Grove,  IL:  American  Academy  of
+Pediatrics;  2012:500–9.  *Licensed  only  for  persons  aged  9  months–55  years.
+†Licensed only for persons aged 2–55 years. Under investigation for use at ages 2, 4,
+6, and 12–15 months. §Licensed only for children aged 6 weeks–18 months. TABLE 7.
+Recommended  immunization  schedule  and  intervals  for  persons  at  increased  risk  for
+meningococcal disease — Advisory Committee on Immunization Practices (ACIP), United
+States,  2012*  Age  group  Subgroup  Primary  vaccination  Booster  dose†  2–18  mos  with
+high-risk  conditions§   Children  who:  4  doses  of  Hib-MenCY-TT  (MenHibrix),  at  2,  4,  6,
+and 12–15 months Person remains at increased risk and completed the primary dose or
+series at age: 9–23 mos with high-risk conditions¶ Children who: 2 doses of MenACWY-D
+(Menactra),  12  weeks  apart**  2–55  yrs  with  high-risk  conditions  and  not  vaccinated
+previously Persons who: 2 doses of MenACWY, 8–12 weeks apart†† Persons who: 1 dose
+of MenACWY†† Source: Adapted from American Academy of Pediatrics. Meningococcal
+infections.  In:  Pickering  LK,  Baker  CJ,  Kimberlin  DW,  Long  SS,  eds.  Red  book:  2012
+report  of  the  Committee  on  Infectious  Diseases.  29th  ed.  Elk  Grove,  IL:  American
+Academy  of  Pediatrics;  2012:  500–9.  *Includes  persons  who  have  persistent
+complement deficiencies (e.g., C5–C9, properdin, factor H, or factor D), and anatomic or
+functional  asplenia;  travelers  to  or  residents  of  countries  in  which  meningococcal
+disease  is  hyperendemic  or  epidemic;  and  persons  who  are  part  of  a  community
+outbreak of a vaccine-preventable serogroup.  †If the person remains at increased risk
+for meningococcal disease.  §Infants and children who received Hib-MenCY-TT and are
+travelling  to  areas  with  high  endemic  rates  of  meningococcal  disease  such  as  the
+African "meningitis belt" are not protected against serogroups A and W-135 and should
+receive a quadrivalent meningococcal vaccination licensed for children aged ≥9 months
+prior to travel.  ¶Because of high risk for invasive pneumococcal disease, children with
+functional or anatomic asplenia should not be immunized with MenACWY-D (Menactra)
+before  age  2  years  to  avoid  interference  with  the  immune  response  to  the
+pneumococcal conjugate vaccine (PCV) series. **If an infant is receiving the vaccine
+prior  to  travel,  2  doses  may  be  administered  as  early  as  8  weeks  apart.   ††If
+MenACWY-D is used, it should be administered at least 4 weeks after completion of all
+PCV doses. Use of trade names and commercial sources is for identification only and
+does  not  imply  endorsement  by  the  U.S.  Department  of  Health  and  Human  Services.
+References to non-CDC sites on the Internet are provided as a service to MMWR readers
+and do not constitute or imply endorsement of these organizations or their programs by
+CDC or the U.S. Department of Health and Human Services. CDC is not responsible for
+the content of pages found at these sites. URL addresses listed in MMWR were current
+as  of  the  date  of  publication.  All  MMWR  HTML  versions  of  articles  are  electronic
+conversions  from  typeset  documents.  This  conversion  might  result  in  character
+translation  or  format  errors  in  the  HTML  version.  Users  are  referred  to  the  electronic
+PDF  version  (http://www.cdc.gov/mmwr)  and/or  the  original  MMWR  paper  copy  for
+printable  versions  of  official  text,  figures,  and  tables.  An  original  paper  copy  of  this
+issue can be obtained from the Superintendent of Documents, U.S. 
+Government  Printing  Office  (GPO),  Washington,  DC  20402-9371;  telephone:  (202)
+512-1800. Contact GPO for current prices.
+**Questions  or  messages  regarding  errors  in  formatting  should  be  addressed  to
+mmwrq@cdc.gov. How do I view different file formats (PDF, DOC, PPT, MPEG) on this
+site? 
+Source URL: https://www.cdc.gov/mmwr/preview/mmwrhtml/rr6202a1.htm

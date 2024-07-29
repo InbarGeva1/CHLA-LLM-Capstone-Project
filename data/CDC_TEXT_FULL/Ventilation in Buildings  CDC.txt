@@ -1,0 +1,688 @@
+Official websites use .gov A .gov website belongs to an official government organization
+in  the  United  States.  Secure  .gov  websites  use  HTTPS  A  lock  (   )  or  https://  means
+you've  safely  connected  to  the  .gov  website.  Share  sensitive  information  only  on
+official,  secure  websites.  View  Previous  Changes  Ventilation  is  a  term  with  different
+meanings to different people. For the purpose of this webpage, “ventilation” includes: *
+These  air  cleaning  techniques  are  sometimes  referred  to  as  “equivalent  ventilation.”
+They are not a substitute for meeting minimum outdoor air delivery requirements that
+may be specified in national, state, and local building codes. When indoors, ventilation
+mitigation  strategies  can  help  reduce  viral  particle  concentration.  The  lower  the
+concentration,  the  less  likely  viral  particles  can  be  inhaled  into  the  lungs  (potentially
+lowering  the  inhaled  dose);  contact  eyes,  nose,  and  mouth;  or  fall  out  of  the  air  to
+accumulate on surfaces.  Although it isn’t known exactly how much the concentration of
+viral  particles  in  air  needs  to  be  reduced  to  start  reducing  risk  of  viral  infection,
+ventilation mitigation strategies still provide a reasonable approach to reducing risk. 
+Not  all  interventions  will  work  in  all  scenarios  and  their  selection  must  be  carefully
+evaluated prior to adoption. These ventilation interventions can reduce the spread of
+disease, but they will not eliminate risk completely. These interventions are intended to
+lower transmission risk by lowering the concentration of infectious aerosols in a room. 
+However,  the  overall  transmission  reduction  is  less  likely  to  apply  to  people  who  are
+very  close  (e.g.  face-to-face)  to  the  infectious  source.  Some  of  the  following
+interventions  are  based  on  COVID-19  Technical  Resources  published  by  ASHRAE  (a
+professional  organization  formerly  known  as  the  American  Society  of  Heating,
+Refrigerating, and Air Conditioning Engineers). The Clean Air in Buildings Challenge is a
+national  call  to  action  that  highlights  a  range  of  recommendations  and  resources
+available  to  assist  with  reducing  risks  from  airborne  viruses  and  other  indoor
+contaminants. Create your clean indoor air action plan today. In addition to buildings,
+vehicles – including public transportation such as buses, subways, trains, school buses,
+carpools,  and  rideshares  –  are  also  areas  where  ventilation  improvements  can  be
+applied  to  reduce  the  spread  of  airborne  viruses  and  lower  the  risk  of  exposure.  The
+recommendations  presented  here  are  not  intended  to  replace  guidance  that  may
+already exist in national, state, and local standards and guidelines.  For example, some
+healthcare  spaces  have  specified  ventilation  requirements  intended  to  prevent  and
+control infectious diseases. For spaces where existing standards and guidelines specify
+lower ventilation rates than the recommendations presented here, building owners and
+managers  are  encouraged  to  consider  adoption  of  the  more  protective  guidance.
+Important:  For  interventions  listed  below  that  are  marked  with  “**,”  consulting  with
+professionals experienced in the proper selection, implementation, and commissioning
+of  HVAC  improvements  is  strongly  encouraged.   Their  experience  should  preferably
+include  the  building,  system,  and  occupancy  types  under  evaluation.   Other
+interventions  may  require  similar  consultation,  depending  upon  the  knowledge  and
+experience of the individuals responsible for implementing changes to the building. This
+measure  will  potentially  increase  energy  costs.  Use  of  an  energy  recovery  ventilator
+(ERV) can lessen the potential energy and system implications of increased outdoor air.
+When possible, aim for 5 or more air changes per hour (ACH) of clean air to help reduce
+the  number  of  germs  in  the  air.  This  can  be  achieved  through  any  combination  of
+central  ventilation  system,  natural  ventilation,  or  additional  devices  that  provide
+equivalent  ACH  (eACH†)  to  your  existing  ventilation.   Supplying  or  exhausting  an
+amount of air (use the larger of the two values but do not add them together) that is
+equal to all the air in a space is called an air change.  Multiplying that amount by 5 and
+delivering it over one hour results in 5 ACH. 
+ACH =
+cfm
+×
+60
+ Area×Height 
+ Note:  See  FAQ  #2  and  FAQ  #5  for  examples  on  how  the  ACH  calculation  may  be
+applied. While there is insufficient science to identify an optimum ventilation strategy
+for  all  spaces,  5  ACH  is  what  portable  air  cleaners  provide  (as  eACH)  when  properly
+sized following the Environmental Protection Agency’s guidance [2.9 MB, 7 pages] on
+the selection of portable air cleaners. Five ACH will not guarantee totally safe air in any
+space,  but  it  reduces  the  risk  of  exposure  to  germs  and  other  harmful  air
+contaminants.   Rather  than  a  hard-and-fast  rule,  the  5  ACH  target  provides  a  rough
+guide  to  air  change  levels  likely  to  be  helpful  in  reducing  infectious  particles.  For
+example,  increasing  ventilation  from  2  to  5  ACH  substantially  reduces  the  time  to
+remove airborne contaminants. † Some air cleaning and air treatment devices do not
+bring  in  outdoor  air.  Instead,  they  clean  or  treat  the  indoor  air  to  reduce  the
+concentration of infectious particles. Thus, they give eACH without the need or expense
+of  conditioning  outdoor  air.  Note  that  eACH  depends  on  the  contaminant.  An  air
+treatment device that provides eACH for particles may not be effective against other
+contaminants  such  as  gases  and  vapors.  The  ventilation  interventions  listed  above
+come  with  a  range  of  initial  costs  and  operating  costs,  which,  along  with  risk
+assessment  factors  –  such  as  community  incidence  rates  and  the  adoption  of  other
+interventions  –  may  affect  the  selection  of  ventilation  mitigation  strategies.  The
+following are examples of cost estimates for different strategies: Intervention Strategy
+Intervention  Strategy  Up-front  Cost  Up-front  Cost  Ongoing  Daily  Interaction  Ongoing
+Daily  Interaction  Ongoing  Maintenance  Requirements  and  Incremental  Energy  Usage
+Ongoing Maintenance Requirements and Incremental Energy Usage Opening windows
+Opening windows No No Yes Yes Expanded operation of dedicated exhaust ventilation
+Expanded operation of dedicated exhaust ventilation No No No No Repositioning HVAC
+outdoor air dampers Repositioning HVAC outdoor air dampers No No No No Switching
+thermostats from “Auto” to “On” or adjusting building HVAC control systems to disable
+Demand  Controlled  Ventilation  (DCV)  Switching  thermostats  from  “Auto”  to  “On”  or
+adjusting  building  HVAC  control  systems  to  disable  Demand  Controlled  Ventilation
+(DCV) No No No No Using fans to increase effectiveness of open windows Using fans to
+increase  effectiveness  of  open  windows  <  $100  <  $100  Yes  Yes  Repositioning
+supply/exhaust  diffusers  to  create  directional  airflow  Repositioning  supply/exhaust
+diffusers  to  create  directional  airflow  <  $100  <  $100  No  No  Adding  in-room  HEPA
+fan/filter  systems  Adding  in-room  HEPA  fan/filter  systems  $500  (approximately)  $500
+(approximately)  Yes  Yes  Adding  upper  room  UVGI  [Typical  classroom  requires  2-3
+fixtures]  Adding  upper  room  UVGI  [Typical  classroom  requires  2-3  fixtures]  <  $1500
+(approx.  per  fixture)  <  $1500  (approx.  per  fixture)  No  (unless  manual  activation)  No
+(unless manual activation) Adding in-duct UVGI to treat moving air Adding in-duct UVGI
+to treat moving air Varied, more cost-effective (<$0.25/cfm) with larger systems Varied,
+more  cost-effective  (<$0.25/cfm)  with  larger  systems  No  No  Some  SARS-CoV-2  viral
+particles might travel from one space to another through an HVAC system. However,
+this  is  not  known  to  be  a  significant  risk  for  disease  transmission.  While  airflow
+distribution within an occupied space is an important factor worth evaluation (see FAQ
+#11),  outbreak  investigations  have  predominantly  found  that  COVID-19  transmission
+occurs  between  an  infected  person  and  uninfected  persons  in  the  same  space.  Viral
+RNA has reportedly been found on return air grilles, in return air ducts, and on heating,
+ventilation, and air conditioning (HVAC) filters, but detecting viral RNA alone does not
+imply that the virus was capable of transmitting disease. One research group reported
+that the use of a new air-sampling method allowed them to find viable viral particles
+within  a  COVID-19  patient’s  hospital  room  with  good  ventilation,  filtration  and
+ultraviolet (UV) treatment (at distances as far as 16 feet from the patient). However,
+the concentration of viable virus detected was believed to be too low to cause disease
+transmission. There may be some implications for HVAC systems associated with these
+findings,  but  it  is  too  early  to  conclude  that  with  certainty.  While  airflows  within  a
+particular  space  may  help  spread  disease  among  people  in  that  space,  there  is  no
+definitive  evidence  to  date  that  viable  virus  has  been  transmitted  through  an  HVAC
+system to result in disease transmission to people in other spaces served by the same
+system. Healthcare facilities have ventilation requirements in place to help prevent and
+control infectious diseases that are associated with some healthcare environments. For
+more  information,  see  the  CDC  Guidelines  for  Environmental  Infection  Control  in
+Health-Care  Facilities.  Non-healthcare  (e.g.,  businesses  and  schools)  building  owners
+and managers should, at a minimum, maintain building ventilation systems according
+to  state  and  local  building  codes  and  applicable  guidelines.  Ensuring  appropriate
+outdoor air and ventilation rates is a practical step to ensure good indoor air quality.
+However, these codes do not address infection prevention in non-healthcare buildings
+and  code  minimum  ventilation  may  be  insufficient  to  protect  indoor  occupants  under
+some circumstances (e.g., high incidence rates, occupants near one another, crowded
+spaces, etc.). The time required for dilution will depend on room ventilation airflow and
+its effectiveness. While large droplets (100 micrometers [µm] and larger) will settle to
+surrounding surfaces within seconds, smaller particles can stay suspended in the air for
+much  longer.  It  can  take  several  minutes  for  particles  10  µm  in  size  to  settle,  while
+particles 5 µm and smaller may not settle for hours or even days. Dilution ventilation
+and  particle  filtration  are  commonly  used  to  remove  these  smaller  particles  from  the
+air. Larger particles can also be removed using these strategies, but since they fall out
+of the air quickly, they might not have a chance to get captured by filtration systems.
+Delivering (or exhausting) an amount of air that is equal to a room’s volume is called an
+“air change.”  Delivering this amount of air over a 60-minute period is called an “air
+change per hour” (ACH).  The time required to remove airborne particles from a space
+can be estimated using Table B.1 in the CDC’s Guidelines for Environmental Infection
+Control in Health-Care Facilities (2003). The estimates assume the source of infectious
+particles is no longer present in the space.  The estimates in the table are based upon
+the  rate  that  particle-free  air  is  delivered  to  the  room  and  the  desired  removal
+efficiency  (99%  or  99.9%).  The  particle-free  air,  measured  in  air  changes  per  hour
+(ACH), can be uncontaminated supply air or the clean exhaust from a High Efficiency
+Particulate  Air  (HEPA)  fan/filtration  system  [See  HEPA  filtration  discussion  below].
+Although there are some highly contagious airborne diseases (like measles) where CDC
+provides
+ specific
+ guidance
+ for
+ 99.9%
+ clearance
+ wait
+ times,
+ the
+ general
+recommendation in CDC’s Guidelines for Environmental Infection Control in Health-Care
+Facilities  is  to  wait  to  allow  for  a  99%  reduction  of  any  generated  airborne  particles
+before re-entering the room. In the absence of guidance specifying a longer wait period
+for COVID-19, the wait time associated with 99% clearance is an appropriate target for
+healthcare and other spaces where an infectious occupant is reasonably anticipated to
+be present. Regardless of whether the 99% or 99.9% column on Table B.1 is used, the
+value in the table is usually an under-estimation of the actual dilution clearance time as
+noted in the table’s footnotes which include the following statement: “The times given
+assume  perfect  mixing  of  the  air  within  the  space  (i.e.,  mixing  factor  =  1).  However,
+perfect mixing usually does not occur. Removal times will be longer in rooms or areas
+with  imperfect  mixing  or  air  stagnation.”  Appropriate  use  of  Table  B.1  to  establish
+clearance times from any space requires multiplying the time in the table by a mixing
+factor (k) that ranges between 1 and 10. This factor represents how well the ventilation
+system mixes and dilutes the concentration of airborne particles within the room. As a
+rule of thumb, rooms with higher airflow rates (6 ACH and higher) and good placement
+of  supply  and  exhaust  grilles  (hospital  airborne  infection  isolation  rooms)  are
+considered to have “good” mixing and thus a mixing factor of k = 3 is often used for
+these spaces. In that case, the time identified from Table B.1 should be multiplied by 3
+to  determine  the  actual  clearance  time  prior  to  re-entry.  Nonventilated  or  poorly
+ventilated  spaces  have  typical  values  of  k  ranging  from  8  to  10.  Increased  ACH
+generally leads to reductions in k, although k can also be reduced by the use of a fan in
+the  space,  which  does  not  have  an  impact  on  ACH.  Ultimately,  wait  times  can  be
+reduced by increasing ACH, reducing k, or a combination of both. Example 1.  Given: A
+room measuring 12 feet x 10 feet with a ceiling height of 10 feet is served with a 100%
+outdoor air ventilation system that delivers 65 cubic feet per minute (cfm) of supply air
+(Qs = 65 cfm) and exhausts 80 cfm of air from the room (Qe = 80 cfm). The room has
+average air mixing, so assign k = 5. Question: How much time is required to reduce the
+airborne concentration by 99 percent? Solution: Since Qe is larger than Qs by 15 cfm,
+the heating, ventilation, and air conditioning (HVAC) system is pulling 15 cfm of air into
+the  room  from  adjacent  areas  (i.e.,  the  room  is  under  negative  pressure).  For  this
+example,  the  15  cfm  of  transfer  air  is  assumed  to  be  free  of  infectious  airborne
+particles. The clean volumetric air flow rate (Q) is the larger value between Qs and Qe,
+so Q = 80 cfm. Calculate the air changes per hour: ACH = [Q x 60] / (room volume) =
+(80 cfm x 60) / (12’ x 10’ x 10’) = 4800/1200 = 4.0 ACH Using Table B.1 the perfect
+mixing  wait  time  based  on  4  ACH  and  a  99%  reduction  of  airborne  particles  is  69
+minutes.  Using  the  mixing  factor  of  5,  the  estimated  wait  time  for  99%  reduction  of
+airborne contaminants in the room is 5 x 69 = 345 minutes or 5 hours and 45 minutes.
+Note: Determining the true value of the mixing factor is difficult and requires special
+equipment  to  measure  air  flows  and  conduct  tracer  gas  decay  testing.  Thus,
+conservative estimates of k are often used (as described above). Also, the addition of
+an air cleaning device (e.g., an in-room HEPA filtration unit) within the same room will
+reduce  the  wait  time.  The  flow  rate  from  the  air  cleaning  device  can  be  added  to  Q
+determined above, which will increase the overall ACH in the room. The air movement
+created  by  the  air  cleaning  device  can  also  decrease  the  value  of  k.  Together,  the
+increased ACH and decreased k can help substantially reduce wait times. See Example
+2  at  the  bottom  of  FAQ  #5  for  more  information,  including  an  example  of  the
+calculations.  Yes,  filters  with  higher  collection  efficiencies  can  provide  significant
+reductions in viral particle concentrations. Filters for use in heating, ventilation, and air
+conditioning  (HVAC)  systems  are  generally  tested  under  procedures  outlined  in
+ANSI/ASHRAE  Standard  52.2-2017-Method  of  Testing  General  Ventilation  Air-Cleaning
+Devices  for  Removal  Efficiency  by  Particle  Size.  This  standard  was  developed  by
+ASHRAE,  a  global  society  focused  on  building  systems,  indoor  air  quality,  and
+sustainability in the built environment. Based on the filtration efficiency determined by
+the  testing  procedures,  filters  are  assigned  a  Minimum  Efficiency  Reporting  Value
+(MERV).  The  MERV  provides  a  measure  of  the  “filter  efficiency”  over  the  range  of
+particle  sizes  prescribed  in  the  test  procedure.  MERV  values  range  from  1  to  16  and
+higher  MERV  values  correspond  to  more  efficient  filters.  Research  shows  that  the
+particle  size  of  SARS-CoV-2  is  around  0.1  micrometer  (µm).  However,  the  virus
+generally  does  not  travel  through  the  air  by  itself.  These  viral  particles  are  human
+generated,  so  the  virus  is  trapped  in  respiratory  droplets  and  droplet  nuclei  (dried
+respiratory  droplets)  that  are  larger  than  an  individual  virus.  Most  of  the  respiratory
+droplets and particles exhaled during talking, singing, breathing, and coughing are less
+than 5 µm in size. CDC recommends using MERV 13 filters or filters with the highest
+efficiency  possible,  without  having  detrimental  effects  on  overall  HVAC  system
+performance. ASHRAE has similar guidance, which is to “use combinations of filters and
+air cleaners that achieve MERV 13 or better levels of performance for air recirculated by
+HVAC systems.” The simplest way to meet this guidance is to use a MERV 13 filter in
+your  appropriately-designed  HVAC  system,  if  the  system  is  able  to  operate  properly
+with  it  installed.   Alternatively,  other  effective  air  cleaning  technologies  can  also  be
+used to help meet this performance target. A MERV 13 filter is at least 50% efficient at
+capturing particles in the 0.3 µm to 1.0 µm size range and 85% efficient at capturing
+particles  in  the  1  µm  to  3  µm  size  range.  Collectively  these  particles  are  capable  of
+remaining  airborne  for  hours  and  are  most  associated  with  deep  lung  penetration.  A
+MERV 14 filter is at least 75% and 90% efficient, respectively, at capturing those same
+particles.  Efficiencies  for  MERV  15  and  MERV  16  filters  are  even  higher.  Thus,  the
+recommended  filters  are  significantly  more  efficient  at  capturing  particles  of  concern
+than a commonly-used MERV 8 filter, which is only around 20% efficient in the 1 µm to
+3 µm size range and is not rated for capture efficiency of the smaller 0.3 µm to 1.0 µm
+particles.  Increasing  filtration  efficiency  can  increase the pressure drop  (resistance to
+air flow) across the filters. This can lead to increased fan energy, reduced airflow rates,
+and/or  issues  controlling  indoor  temperature  and  relative  humidity  levels.  Scientific
+developments  in  filter  design  and  manufacturing  have  reduced  the  amount  of  the
+increased pressure drop and its resulting impact on HVAC operations, but not all filters
+have  adopted  the  newer  technology.  Prior  to  a  filtration  upgrade,  the  specific  filters
+under consideration should be investigated for their pressure drop ratings at the flow
+rate(s)  of  intended  use  and  the  potential  impacts  of  that  pressure  drop  evaluated
+against  the  capabilities  of  the  existing  HVAC  system.  High-efficiency  particulate  air
+(HEPA) filters are even more efficient at filtering human-generated infectious particles
+than  MERV  16  filters.  However,  outside  of  a  few  unique  applications,  HEPA  filters  are
+rarely used in central HVAC systems. [See FAQ #5 on HEPA filters and in-room HEPA air
+cleaners  to  learn  more  about  them  and  their  application  in  protective  air  cleaning].
+Directional  airflow  is  a  protective  ventilation  concept  where  air  movement  flows  in  a
+clean-to-less-clean  direction.  This  ventilation  concept  is  applied  to  areas  where  the
+“clean” environment requires a higher level of protection and/or where the “less-clean”
+environment  has  a  higher  risk  of  containing  airborne  contaminants  (activities  or
+occupancy  by  individuals  with  a  higher  risk  of  being  infectious).  Examples  of  “clean”
+spaces might include healthcare facility triage stations or rooms/corridors adjacent to
+higher risk activities. Examples of “less-clean” spaces might include spaces that contain
+known/suspect  infectious  persons  or  spaces  where  a  known  activity  has  increased
+likelihood of generating infectious airborne particles. The creation of directional airflow
+can  be  accomplished  within  a  particular  space  or  between  two  adjacent  spaces.  This
+can be done passively, through intentional placement of supply and exhaust heating,
+ventilation,  and  air  conditioning  (HVAC)  grilles,  or  by  the  intentional  creation  of
+pressure differentials between adjacent spaces through specification of offset exhaust
+and supply air flow rates. Creation of the directional airflow can also be done actively,
+through  the  use  of  fans  exhausting  through  open  windows,  strategic  placement  of
+ductwork  attached  to  in-room  HEPA  filtration  units,  or  dedicated  exhaust  systems
+(installed or portable) that generate a desired airflow by exhausting air out of windows,
+doorways,  or  through  temporary  ducts.  In  specific  settings,  specialized  local  control
+ventilation interventions that establish the desired airflow directions can also be used
+(see the NIOSH Ventilated Headboard). Directional airflows must be evaluated carefully.
+Testing of the directional airflow effectiveness can be accomplished using visual tracer
+techniques  that  use  “smoke  tubes”  or  handheld  “fog  generators.”  Other  tools,  such
+electronic  monitors  or  visual  aids  to  monitor  pressure  differences  can  be  used  when
+directional airflow is established between two adjacent spaces. To reduce the potential
+for  directing  airflow  from  infectious  towards  non-infectious  space  occupants,  it  is
+important that the “clean” and “less-clean” space determinations be established using
+infection  control  risk  assessment  considerations.  By  definition,  a  High  Efficiency
+Particulate Air (HEPA) filter is at least 99.97% efficient at capturing particles 0.3 µm in
+size.  This  0.3  µm  particle  approximates  the  most  penetrating  particle  size  (MPPS)
+through  the  filter.  HEPA  filters  are  even  more  efficient  at  capturing  particles
+larger and smaller than the MPPS. Thus, HEPA filters are no less than 99.97% efficient at
+capturing human-generated viral particles associated with COVID-19. Research shows
+that the particle size of SARS-CoV-2 is around 0.1 micrometer (µm). However, the virus
+generally  does  not  travel  through  the  air  by  itself.  These  viral  particles  are
+human-generated,  so  the  virus  is  trapped  in  respiratory  droplets  and  droplet  nuclei
+(dried  respiratory  droplets)  that  are  larger.  Most  of  the  respiratory  droplets  and
+particles exhaled during talking, singing, breathing, and coughing are less than 5 µm in
+size.  The  excellent  capture  efficiency  of  HEPA  filters  comes  at  a  cost,  namely  the
+significant pressure drop (and energy) required to move air through the HEPA filter.  For
+this  reason,  most  traditional  HVAC  systems  are  not  able  to  use  HEPA  filters  and  are
+limited  to  the  use  of  less-efficient  filters.   To  account  for  the  increased  pressure
+requirements,  HEPA  filtration  units  often  combine  a  HEPA  filter  with  a  dedicated  fan
+system.  In-room  HEPA  air  cleaners  that  combine  a  HEPA  filter  with  a  powered  fan
+system are a preferred option for auxiliary air cleaning, especially in higher risk settings
+such  as  health  clinics,  vaccination,  and  medical  testing  locations,  workout  rooms,  or
+public waiting areas. Other settings that could benefit from in-room HEPA filtration can
+be identified using typical risk assessment parameters, such as community incidence
+rates,  facemask  compliance  expectations,  and  room  occupant  density.  While  these
+systems  do  not  bring  in  outdoor  dilution  air,  they  are  effective  at  cleaning  air  within
+spaces to reduce the concentration of airborne particulates, including SARS-CoV-2 viral
+particles.  Thus,  they  give  equivalent  air  exchanges  without  the  need  for  conditioning
+outdoor  air.  In  choosing  an  in-room  HEPA  air  cleaner,  select  a  system  that  is
+appropriately sized for the area in which it will be installed. This determination is made
+based  on  the  air  flow  through  the  unit,  which  is  typically  reported  in  cubic  feet  per
+minute (cfm). Many portable HEPA filtration units are assigned a Clean Air Delivery Rate
+(CADR) (See EPA’s Guide To Air Cleaners In The Home), which is noted on a label in the
+operator’s manual, on the shipping box, and/or on the filtration unit itself. The CADR is
+an established standard defined by the Association of Home Appliance Manufacturers
+(AHAM). Participating portable air cleaner manufacturers have their products certified
+by an independent laboratory, so the end user can be assured it performs according to
+the manufacturer’s claims. The CADR is generally reported in cfm for products sold in
+the  United  States.  The  paragraphs  below  describe  how  to  select  an  appropriate  air
+cleaner  based  on  the  size  of  the  room  in  which  it  will  be  used.  The  procedure  below
+should  be  followed  whenever  possible.  If  an  air  cleaner  with  the  appropriate  CADR
+number or higher is not available, select a unit with a lower CADR rating. The unit will
+still provide incrementally more air cleaning than having no air cleaner at all. In a given
+room, the larger the CADR, the faster it will clean the room air. Three CADR numbers
+are given on the AHAM label, one each for smoke, dust, and pollen. The smoke particles
+are  the  smallest,  so  that  CADR  number  applies  best  to  viral  particles  related  to
+COVID-19 and other viral respiratory diseases. The label also shows the largest room
+size (in square feet [ft2]) that the unit is appropriate for, assuming a standard ceiling
+height of up to 8 feet. If the ceiling height is taller, multiply the room size (ft2) by the
+ratio of the actual ceiling height (ft) divided by 8. For example, a 300 ft2 room with an
+11-foot ceiling will require a portable air cleaner labeled for a room size of at least 415
+ft2 (300 × [11/8] = 415). The CADR program is designed to rate the performance of
+smaller room air cleaners typical for use in homes and offices. For larger air cleaners,
+and for smaller air cleaners whose manufacturers choose not to participate in the AHAM
+CADR  program,  select  a  HEPA  unit  based  on  the  suggested  room  size  (ft2)  or  the
+reported air flow rate (cfm) provided by the manufacturer. Consumers might take into
+consideration that these values often reflect ideal conditions which overestimate actual
+performance. For air cleaners that provide a suggested room size, the adjustment for
+rooms taller than 8 feet is the same as presented above. For units that only provide an
+air flow rate, follow the “2/3 rule” to approximate a suggested room size. To apply this
+rule for a room up to 8 feet tall, choose an air cleaner with an air flow rate value (cfm)
+that is at least 2/3 of the floor area (ft2). For example, a standard 300 ft2 room requires
+an  air  cleaner  that  provides  at  least  200  cfm  of  air  flow  (300  ×  [2/3]  =  200).  If  the
+ceiling height is taller, do the same calculation and then multiply the result by the ratio
+of the actual ceiling height (ft) divided by 8. For example, the 300 ft2 room described
+above, but with an 11-foot ceiling, requires an air cleaner that can provide at least 275
+cfm  of  air  flow  (200  ×  [11/8]  =  275).  While  smaller  HEPA  fan  systems  tend  to  be
+stand-alone units, many larger units allow flexible ductwork to be attached to the air
+inlet and/or outlet (note that larger ducted units don’t fall under the “room air cleaner”
+description  and  may  not  have  a  CADR  rating).  Using  ductwork  and  placing  the  HEPA
+system  strategically  in  the  space  can  help  provide  desired  clean-to-less-clean  airflow
+patterns  where  needed.  Ducted  HEPA  systems  can  also  be  used  to  establish  direct
+source  capture  interventions  for  patient  treatment  and  /or  testing  scenarios  (See
+CDC/NIOSH  discussion  on  Ventilated  Headboard).  Depending  on  the  size  of  the  HEPA
+fan/filter units and how the facility in which they are being used is configured, multiple
+small  in-room  HEPA  units  deployed  to  high-risk  areas  may  be  more  useful  than  one
+large HEPA unit serving a combined space. Example 2. Given: The room described in
+Example  1  at  the  bottom  of  FAQ  #2  is  now  augmented  with  a  portable  HEPA  air
+cleaning  device  with  a  smoke  CADR  of  120  cfm  (Qhepa  =  120  cfm).  The  added  air
+movement  within  the  room  improves  overall  mixing,  so  assign  k  =  3.  Question:  How
+much  time  is  saved  to  achieve  the  same  99%  reduction  in  airborne  contaminants  by
+adding the portable HEPA device to the room? Solution: The addition of the HEPA filter
+device provides additional clean air to the room. Here, the clean volumetric air flow rate
+(Q)  is:  Q  =  Qe  +  Qhepa  =  80  cfm  +  120  cfm  =  200  cfm.  ACH  =  [Q  x  60]  /  (room
+volume) = (200 cfm x 60) / (12’ x 10’ x 10’) = 12,000/1,200 = 10 ACH. Using Table B.1,
+the perfect mixing wait time based on 10 ACH and a 99% reduction of airborne particles
+is 28 minutes. Using the mixing factor of 3, the estimated wait time for 99% reduction
+of airborne contaminants in the room is 3 x 28 = 84 minutes. Thus, the increased ACH
+and  lower  k  value  associated  with  the  portable  HEPA  filtration  unit  reduced  the  wait
+time from the original 5 hours and 45 minutes to only 1 hour and 24 minutes, saving a
+total of 4 hours and 21 minutes before the room could be safely reoccupied. Adding the
+portable  HEPA  unit  increased  the  equivalent  ventilation  rate  and  improved  room  air
+mixing.  This  resulted  in  over  a  75%  reduction  in  time  for  the  room  to  be  cleared  of
+potentially-infectious  airborne  particles.   Yes,  when  an  appropriate  dose  of  UVGI  is
+applied.  Ultraviolet  germicidal  irradiation  (UVGI),  otherwise  known  as  germicidal
+ultraviolet (GUV), is an air and surface treatment tool used in many different settings,
+such as residential, commercial, educational, and healthcare settings. The technology
+uses ultraviolet (UV) energy to inactivate (kill) microorganisms, including viruses, when
+designed and installed correctly. UVGI can inactivate viruses in the air and on surfaces.*
+The design and sizing of effective UVGI treatment systems requires specific knowledge
+and  experience.  Seek  consultation  with  a  reputable  UVGI  manufacturer  or  an
+experienced UVGI system designer prior to installing UVGI systems. These professionals
+can  assist  by  properly  designing,  installing,  and  commissioning  the  system  for  your
+specific  setting.  *Note:  CDC’s  recommendation  for  primary  surface  disinfection  in
+occupied environments is to follow the CDC/EPA guidance for surface disinfection.  UVGI
+devices can take many shapes and sizes.  They can also be mounted in various places.
+Depending on the manufacturers’ claims, these devices may be regulated as pesticide
+devices by the EPA and require efficacy data.  In addition, the site where the product is
+manufactured may also require registration.  See the EPA’s Pesticide Devices: A Guide
+for Consumers for additional information. Upper-room UVGI
+Upper-room (or upper-air) UVGI uses specially designed UVGI fixtures mounted on walls
+or ceilings to create a treatment zone of ultraviolet (UV) energy that is focused up and
+away from people. These fixtures treat air as it circulates from mechanical ventilation,
+ceiling  fans,  or  natural  air  movement.  The  advantage  of  upper-room  UVGI  is  that  it
+treats the air closer to and above people who are in the room. Since the 1980s, UVGI
+systems  have  been  widely  used  for  control  of  tuberculosis  (TB).  The  CDC  guidance
+Environmental  Control  for  Tuberculosis:  Basic  Upper-Room  Ultraviolet  Germicidal
+Irradiation Guidelines for Healthcare Settings provides information on appropriate UVGI
+system  design,  related  safe  operation,  and  maintenance.  Based  on  data  from  other
+human  coronaviruses,  a  UVGI  system  designed  to  protect  against  the  spread  of  TB
+should  be  effective  at  inactivating  SARS-CoV-2  and  therefore  prevent  spread.  While
+small  spaces  may  require  a  single  UVGI  fixture,  most  UVGI  systems  usually  require
+multiple  UV  fixtures  to  be  effective.  For  example,  a  rectangular-shaped  waiting  room
+with  10–30  occupants  will  require  2–3  upper-air  UVGI  fixtures.  As  part  of  system
+installation,  care  must  be  taken  to  control  the  amount  of  UV  energy  directed  or
+reflected into the lower occupied space. Reputable UVGI manufacturers or experienced
+UVGI system designers will take the necessary measurements and make any required
+adjustments  to  prevent  harmful  UV  exposures  to  people  in  the  space.  Potential
+Application: Can be used as an additional layer of protection to treat the air (kill germs)
+in indoor spaces; most useful in spaces that host large gatherings or where the risk of
+disease transmission is high. In-duct UVGI
+In-duct  UVGI  systems  are  installed  within  a  heating,  ventilation,  and  air  conditioning
+(HVAC)  system.  These  systems  are  designed  to  serve  one  of  two  purposes:  1)  Coil
+treatment  UVGI  keeps  HVAC  coils,  drain  pans,  and  wetted  surfaces  free  of  microbial
+growth.  These  devices  produce  relatively  low  levels  of  UV  energy.  This  energy  is
+continually  delivered  24  hours  a  day,  which  is  why  they  are  effective.  Coil  treatment
+UVGI devices are not designed for treating the air and should not be installed for this
+purpose. Potential Application: Can be used to reduce HVAC maintenance and improve
+operational  efficiency  within  large,  commercial  HVAC  systems  or  residential  HVAC
+systems;  not  recommended  for  inactivating  airborne  pathogens.  2)  Air  treatment
+UVGI  systems  can  be  effective  at  applying  intense  UV  energy  to  inactivate  airborne
+pathogens  as  they  flow  within  the  HVAC  duct.  HVAC  air  treatment  UVGI  systems
+generally  require  more  powerful  UV  lamps  or  a  greater  number  of  lamps,  or  both,  to
+provide the necessary UVGI required to inactivate pathogens in a short period of time.
+Air  treatment  systems  are  often  placed  immediately  downstream  of  the  HVAC  coils.
+This  location  keeps  the  coil,  drain  pan,  and  wetted  surfaces  free  of  microbial  growth
+and  also  treats  the  moving  air.  Potential  Application:  Can  be  used  inside  any  HVAC
+system to reduce the concentration of infectious airborne pathogens. Whole-room UVGI
+Whole-room  UVGI  (commonly  referred  to  as  Far-UV)  uses  specially  designed  UVGI
+fixtures  mounted  on  walls  or  ceilings  to  create  a  treatment  zone  of  ultraviolet  (UV)
+energy that extends throughout an occupied space. While standard UVGI fixtures emit
+UV energy at a wavelength around 254 nanometers (nm), far-UV devices use different
+lamps to emit UV energy at a wavelength around 222 nm. Aside from the wavelength, a
+major  difference  between  the  two  technologies  is  that  standard  UVGI  systems  are
+generally  designed  to  avoid  exposing  people  to  the  UV  energy,  while  many  far-UV
+devices are marketed as safe for exposing people and their direct environment to UV
+energy.  Recent research has indicated 222 nm energy is much safer for humans than
+once thought. In fact, the American Conference of Governmental Industrial Hygienists
+(ACGIH) recently increased their Threshold Limit Values (TLVs) 7-fold for eyes and over
+20-fold  for  skin  exposed  to  222  nm  energy.  This  increase  was  in  response  to  data
+showing  222  nm  energy  does  not  penetrate  the  tear  layer  of  the  eye  or  the  layer  of
+dead  skin  (stratum  corneum)  that  protect  living  skin  beneath.  Research  studies  also
+indicate  that  far-UV  wavelengths  can  effectively  inactivate  microorganisms,  including
+human  coronaviruses,  when  appropriate  UV  doses  are  applied  under  experimental
+conditions. However, there are still some questions about how effective 222 nm energy
+can  be  in  real  occupied  spaces  against  human-generated  pathogens  when  UV
+exposures are controlled to safe limits. Far-UV is a promising technology that may well
+prove  to  be  effective  at  treating  air  and  surfaces,  without  some  of  the  safety
+precautions required for standard UVGI. Due to the potential promise this technology
+represents,  there  are  substantial  private  and  public  research  activities  underway  to
+further  validate  claims  of  safety  and  efficacy.   In  the  near  term,  whole-room  UVGI  is
+best  viewed  as  new  and  emerging  technology.  Consumers  considering  an  emerging
+technology  such  as  Far-UV  should  read  FAQ  #8  on  emerging  technologies  below.
+Potential Application: Air and surface treatment in occupied indoor environments. CDC
+recommends using technologies that are known to work and will not cause harm. Be
+cautious when considering an emerging new technology.  Do your homework, to include
+requesting  proof  of  performance  and  safety  under  real-world,  as-used  conditions.
+Depending on the manufacturers’ claims, these devices may be regulated as pesticide
+devices by the EPA and require efficacy data.  In addition, the site where the product is
+manufactured may also require registration.  See the EPA’s Pesticide Devices: A Guide
+for Consumers for additional information. CDC does not provide recommendations for,
+or  against,  any  manufacturer  or  product.  There  are  numerous  technologies  being
+heavily  marketed  to  provide  air  treatment  during  the  ongoing  COVID-19  pandemic.
+Common  among  these  are  ionization,  dry  hydrogen  peroxide,  and  chemical  fogging.
+Some  products  on  the  market  include  combinations  of  these  technologies.  These
+products  generate  ions,  reactive  oxidative  species  (ROS,  which  are  marketed  using
+many names), or chemicals into the air as part of the air treatment process. People in
+spaces treated by these products are also exposed to these ions, ROS, or chemicals.
+Some  research  has  found  these  exposures  may  be  harmful  under  certain  conditions,
+including  high  concentrations  or  vulnerable  populations.  While  variations  of  these
+technologies have been around for decades, relative to other air cleaning or treatment
+methods,  they  have  a  less-documented  track  record  when  it  comes  to  treating  large
+and fast volumes of moving air within heating, ventilation, and air conditioning (HVAC)
+systems  or  even  inside  individual  rooms.  This  does  not  necessarily  imply  the
+technologies  do  not  work  as  advertised.  However,  in  the  absence  of  an  established
+body  of  peer-reviewed  evidence  showing  proven  efficacy  and  safety  under  as-used
+conditions, the technologies are still considered by many to be “emerging.” As with all
+emerging technologies, consumers are encouraged to exercise caution and to do their
+homework.  A  manufacturer’s  reference to  regulation  and/or  product  registration,  with
+national or local authorities, does not always imply specific product efficacy or safety.
+Consumers  should  research  the  technology,  attempting  to  match  any  specific  claims
+against the intended use of the product. Consumers should request testing data that
+quantitively  demonstrates  a  clear  protective  benefit  and  occupant  safety  under
+conditions  consistent  with  the  intended  use.  When  considering  air  treatment
+technologies that potentially or intentionally expose building occupants, the safety data
+should be applicable to all occupants, including those with health conditions that could
+be aggravated by the air treatment. In transient spaces, where average exposures to
+the public may be temporary, it is important to also consider occupational exposures
+for  workers  that  must  spend  prolonged  periods  in  the  space.  Preferably,  the
+documented  performance  data  under  as-used  conditions  should  be  available  from
+multiple  sources,  some  of  which  should  be  independent,  third-party  sources.
+Unsubstantiated claims of performance or limited case studies with only one device in
+one  room  and  no  reference  controls  should  be  questioned.  At  a  minimum,  when
+considering  the  acquisition  and  use  of  products  with  technology  that  may  generate
+ozone (a gas with potentially harmful health effects), verify that the equipment meets
+UL  2998  standard  certification  (Environmental  Claim  Validation  Procedure  (ECVP)  for
+Zero Ozone Emissions from Air Cleaners) which is intended to validate that no ozone is
+produced. Yes, carbon dioxide (CO2) monitoring can provide information on ventilation
+in  a  given  space,  which  can  be  used  to  enhance  protection  against  COVID-19
+transmission.  Strategies  incorporating  CO2  monitors  range  in  cost  and  complexity.
+However,  greater  cost  and  complexity  does  not  always  mean  greater  protection.
+Limited  information  exists  regarding  a  direct  link  associating  CO2  concentration  to  a
+risk of COVID-19 transmission. Changes in CO2 concentrations can indicate a change in
+room occupancy and be used to adjust the amount of outdoor air delivered. However,
+CO2 concentrations cannot predict who has COVID-19 infection and might be spreading
+the  virus,  the  amount  of  airborne  viral  particles  produced  by  infected  people,  or
+whether  the  HVAC  system  is  effective  at  diluting  and  removing  viral  concentrations
+near  their  point  of  generation.  Ventilation  based  on  CO2  measurements  cannot
+recognize  the  increased  risk  of  transmission  when  multiple  room  occupants  are
+infected.
+ In
+ some
+ well-designed,
+ well-characterized,
+ well-maintained
+ HVAC
+environments,  the  use  of  fixed  CO2  monitors  can  be  informative.  When  used,  these
+monitors are often incorporated into demand-controlled ventilation (DCV) systems that
+are designed with a primary intent of maximizing energy efficiency through reductions
+in  outdoor  air  delivery.  However,  during  times  of  high  community  transmission,
+guidance  is  often  to  deactivate  DCV  systems  and  exceed  minimum  ventilation
+whenever  possible,  in  addition  to  enhanced  filtration,  and  other  intervention-focused
+considerations. Traditionally, CO2 monitoring systems are expensive, require extensive
+knowledge to accurately install and set up, and require sophisticated control programs
+to effectively interact with the building heating, ventilation and air conditioning (HVAC)
+systems  in  real  time.  They  were  not  designed  to  protect  building  occupants  from
+disease  transmission.  Fixed-position  CO2  monitors  measure  CO2  concentration  as  an
+indicator of the number of people in the space. As the CO2 concentration increases, the
+HVAC DCV system increases the amount of outdoor air ventilation in the space to dilute
+CO2 (and vice versa). The number of CO2 sensors, the placement of those sensors, and
+their calibration and maintenance are collectively a large and complex issue that must
+not  be  overlooked.  For  example,  the  CO2  concentration  measured  by  a  fixed,
+wall-mounted  monitor  may  not  always  represent  the  actual  concentrations  in  the
+occupied space. If air currents from the room HVAC, or even make-up air from windows,
+flows
+ directly
+ over
+ this
+ monitor
+ location,
+ the
+ corresponding
+ concentration
+measurements  will  be  artificially  low.  If  the  room  has  good  air  mixing,  the  measured
+concentration  should  approximate  the  true  concentration,  but  rooms  are  rarely  well
+mixed,  particularly  in  older  buildings  with  aging  ventilation  systems  (or  none  at  all).
+Also, if an elevated CO2 concentration results in an air flow increase to one room, that
+air  may  be  “stolen”  from  other  rooms  on  the  same  HVAC  system.  This  may  result  in
+elevated CO2 concentrations in those other spaces which the HVAC system is unable to
+control. A more modest, cost-efficient, and accurate use of CO2 monitoring is the use of
+portable  instruments  combined  with  HVAC  systems  that  do  not  have  modulating
+setpoints  based  on  CO2  concentrations.  The  CO2  meter  can  be  purchased  for  under
+$300  and  its  measurements  can  be  collected/logged  near  the  breathing  zones  of
+occupied  areas  of  each  room.  It  is  critical  to  select  calibrated  CO2  meters  whose
+sensors are reliable and accurate to draw meaningful inferences from measured indoor
+CO2 concentrations. Under this approach, validate that the HVAC system is operating
+appropriately  and  is  meeting  or  exceeding  code-minimum  outdoor  air  requirements
+based on current use and occupancy. Next, measure the resulting CO2 concentrations
+in  rooms  under  as-used  conditions  using  a  handheld  portable  CO2  meter.  These
+observations  will  be  the  CO2  baseline  concentrations  for  each  room  under  the  HVAC
+operating  conditions  and  occupancy  levels.  One  potential  target  for  the  baseline
+concentrations  that  is  used  to  represent  good  ventilation  is  CO2  readings  below  800
+parts  per  million  (ppm).  It  is  important  to  note,  however,  that  a  single  concentration
+value  may  not  be  an  appropriate  target  for  all  space  types  and  occupancies  for  the
+purposes  of  assessing  the  ventilation  rate  (see  ASHRAE  Position  Document  on  Indoor
+Carbon  Dioxide).  Once  a  target  concentration  is  identified,  compare  your  baseline
+concentrations  to  the  target  concentration.  If  a  baseline  measurement  is  above  the
+target,  reevaluate  the  context  under  which  the  measurement  was  obtained  and  if
+warranted, investigate the ability to increase outdoor air delivery. If unable to get below
+your target CO2 value, increased reliance on enhanced air filtration (including in-room
+HEPA  air  cleaners)  may  be  necessary.  Once  the  baseline  concentrations  are
+established, take periodic measurements in each space and compare those to the initial
+baselines.  As  long  as  ventilation  airflow  is  unchanged  (outdoor  air  or  total  air)  and
+occupancy  capacity  is  not  increased,  future  portable  CO2  concentrations  that  exceed
+110%  of  the  baseline  concentrations  indicate  a  potential  problem  that  should  be
+investigated.  Generally,  no.   Temperature  and  humidity  can  both  influence  the
+transmission of infectious diseases, including COVID-19, but that influence has practical
+limitations in occupied spaces of buildings. Research on the impact of temperature has
+shown  that  SARS-CoV-2,  the  virus  that  causes  COVID-19,  is  sensitive  to  elevated
+temperatures,  with  over  99.99%  inactivation  in  only  a  few  minutes  at  70°C  (158°F).
+However, this temperature is far outside the limits of human comfort and could damage
+some  building  materials.  While  temperatures  lower  than  70°C  (158°F)  are  also
+effective,  the  required  exposure  time  for  inactivation  increases  as  the  temperature
+decreases.  So,  elevated  temperatures  offer  the  potential  for  decontamination  of
+SARS-CoV-2 virus in the air or on surfaces, but the use of increased temperature solely
+for  decontamination  is  not  generally  recommended  and  is  not  realistic  for  occupied
+spaces.  Based  on  current  evidence,  it  is  not  clear  whether,  in  practice,  increasing
+humidity  could  significantly  reduce  transmission  of  COVID-19  beyond  the  reductions
+that result from using good ventilation and filtration.  Several scientific research studies
+have  concluded  that  influenza  and  SARS-CoV-2  viruses  do  not  survive  as  well  in
+environments  with  higher  humidity  compared  with  lower  humidity.  However,  the
+reasons for this are unclear, and artificial experimental factors like the size of the liquid
+droplets  used  in  the  experiments  and  the  composition  of  the  liquid  containing  the
+viruses affect the results. Thus, there is still debate within the scientific community over
+how much humidity affects virus survival outside of the laboratory. Adding humidity to
+indoor  environments,  especially  in  very  cold  climates,  can  also  introduce  additional
+challenges to the building environment.  CDC and standards-setting organizations like
+ASHRAE  do  not  make  recommendations  about  controlling  indoor  humidity  to  reduce
+virus survival, although humidity recommendations are made for other reasons, such as
+prevention of dust mite and mold growth or reduction of static electricity.  While not
+affecting  transmission,  there  are  peer-reviewed  studies  that  suggest  preventing
+excessive dryness in the air could help maintain the effectiveness of the human body’s
+immune system. Yes, but with caution. While fans alone cannot make up for a lack of
+outdoor  air,  fans  can  be  used  to  increase  the  effectiveness  of  open  windows,  as
+described  in  the  CDC  list  of  ventilation  mitigation  strategies.  Fans  can  also  be  used
+indoors to improve room air mixing. Improved room air mixing helps distribute supplied
+clean  air  and  dilute  viral  particle  concentrations  throughout  the  room,  which  reduces
+the  likelihood  of  stagnant  air  pockets  where  viral  concentrations  can  accumulate.  As
+with all fan use during the COVID-19 pandemic, take care to minimize the potential to
+create  air  patterns  that  flow  directly  across  one  person  onto  another:  Fans  can  also
+enable  clean-to-less-clean  directional  airflow.  Such  applications  should  be  evaluated
+closely  to  avoid  unintended  consequences  and  only  adopted  when  supported  by  a
+safety risk assessment. Barriers can help or barriers can hurt.  It depends on where and
+how they are deployed. Barriers can physically separate spaces that are next to each
+other. When used for infection control, the barrier is intended to prevent someone on
+one  side  of  the  barrier  from  exposing  a  person  on  the  other  side  of  the  barrier  to
+infectious  fluids,  droplets,  and  particles.  Whether  a  barrier  interferes  with  improved
+ventilation  depends  on  how  it  is  installed.  Protective  barriers  can  sometimes  help
+improve  ventilation,  but  they  can  sometimes  hinder  ventilation  too.  Sometimes  they
+have  no  effect  on  ventilation.  Protective  barriers  can  assist  with  improved  ventilation
+when  used  to  facilitate  directional  airflows  or  desired  pressure  differentials  between
+clean  and  less-clean  spaces.  The  barrier  can  be  aligned  with  the  intended  airflow  to
+help direct it towards a desired location, such as an HVAC return air grille or an in-room
+HEPA  air  cleaner  inlet.  Example  scenarios  for  this  type  of  barrier  deployment  include
+those where there is a known source of potentially infectious aerosols, such as a dental
+operatory  or  COVID-19  testing  station.  Alternatively,  the  barrier  might  be  placed
+between  two  areas  to  better  isolate  one  side  of  the  barrier  from  the  other.  In  this
+configuration,  the  barrier  can  also  assist  the  HVAC  design  scheme  in  establishing  a
+desired  pressure  differential  between  the  adjacent  spaces.  If  necessary,  small
+pass-through  openings  or  a  retractable  panel  incorporated  into  the  barrier  can  allow
+transfer  of  physical  objects  from  one  side  to  the  other.  Examples  where  this  type  of
+barrier  application  might  be  applied  include  a  receptionist’s  desk  or  a  ticket  booth.
+When not carefully installed, barriers can sometimes hinder good ventilation. Barriers
+can  unintentionally  interrupt  the  airflow  distribution  within  a  space,  thus  allowing  a
+concentration  build-up  of  human-generated  or  other  aerosols  that  may  remain
+suspended  in  the  air  for  minutes  to  hours.  In  this  case,  people  could  be  exposed  to
+higher  concentrations  of  infectious  aerosols  than  they  would  without  the  barriers  in
+place. The larger the barrier, the greater the likelihood that this may occur. To reduce
+this  likelihood,  ensure  that  barriers  are  correctly  positioned  for  the  anticipated
+occupancy  and  that  they  are  no  larger  than  necessary  to  prevent  direct  transfer  of
+respiratory droplets that could “spray” directly from one person onto another. Any time
+barriers are deployed, airflow distribution testing with tracer “smoke” or handheld fog
+generators  should  be  conducted.  This  testing  can  assist  in  evaluating  airflow
+distribution  within  the  occupied  spaces.  If  stagnant  air  pockets  are  seen  to  occur,
+barrier  redesign  or  reorientation  can  help  to  minimize  the  occurrence.  Airflow
+distribution modifications such as adjusting the positioning of supply air louvers or the
+discharge  of  in-room  air  cleaners  can  also  assist  in  eliminating  the  development  of
+stagnant  air  pockets.  Note:   The  installation  of  barriers  should  not  interfere  with
+emergency  egress  or  with  the  protective  function  of  fire  sprinklers.   When  in  doubt,
+consultation with local code and fire officials is encouraged. Yes, when built and used
+correctly,  they  can  be  a  protective  temporary  intervention.  Adding  filtration  and  air
+movement to a space is generally better than doing nothing when it comes to reducing
+potential  risks  from  viral  particles  in  the  air.   Well-constructed  do-it-yourself  (DIY)  air
+cleaners can serve this purpose. When constructed with great attention to detail, DIY air
+cleaners have been shown to be effective.  Their effectiveness and safety have been
+supported by the U.S. Environmental Protection Agency (EPA) to reduce wildfire smoke
+indoors.  The particle sizes associated with wildfire smoke include the 1 – 3 micrometer
+(µm)  particles  associated  with  human-generated  viral  particles,  like  those  that  cause
+COVID-19.   Thus,  DIY  air  cleaners  can  help  reduce  exposure  to  those  airborne  viral
+particles.  DIY  air  cleaners  are  appropriate  during  emergencies,  for  short-term  use,  or
+when  obtaining  commercially-available  air  cleaners,  for  whatever  reason,  is  not
+possible.   However,  DIY  air  cleaners  should  not  be  used  as  a  permanent,  long-term
+solution  for  in-room  air  cleaning.   Commercially-available  portable  air  cleaners  with
+high-efficiency particulate air (HEPA) filters are preferred and should be used whenever
+possible.  These units have an established Clean Air Delivery Rate (CADR), which is an
+established  standard  defined  by  the  Association  of  Home  Appliance  Manufacturers
+(AHAM).  For more information, see the Environmental Protection Agency (EPA) Guide
+To Air Cleaners In The Home). Participating portable air cleaning manufacturers have
+their products certified by independent laboratories to assure they perform according to
+the manufacturer’s claims. DIY air cleaners are generally assembled from box fans and
+square heating, ventilation and air conditioning (HVAC) filters.  Different configurations
+can be found online that use anywhere from 1 to 5 HVAC filters.  A common version,
+using  4  HVAC  filters  is  often  referred  to  as  a  Corsi-Rosenthal  Box.  Regardless  of  the
+design, the HVAC filters are sealed to the inlet side of the box fan.  Using multiple filters
+can  reduce  the  resistance  to  air  flow,  allowing  the  fan  to  move  more  air  when  more
+filters are used in the design. Air cleaning is achieved when the fan pulls contaminated
+air through the filter and releases the filtered air back into the space through the fan
+outlet.  For these to provide effective air cleaning, they must be assembled properly to
+eliminate air leaks between individual filters (when multiple filters are used) and where
+the filters are sealed to the box fan itself.  Adequate amounts of duct tape should be
+used  to  prevent  leaks  during  assembly.  Air  leaks  reduce  the  effectiveness  of  the  air
+cleaner, and this effect can be magnified as the HVAC filter(s) load with dust and the
+resistance  through  the  filter(s)  increases.  In  addition  to  air  leaks  resulting  in  filter
+bypass, the overall performance of DIY air cleaners will depend on the individual box
+fan  and  HVAC  filters  selected.  Individual  units  may  perform  better  or  worse  than
+expected.  Unless the completed DIY air cleaner is thoroughly tested, a rating akin to
+the CADR will be unknown.  However, the performance of well-assembled DIY units can
+be approximated by measuring the air exhausted from the fan (using an air flow hood
+or other similar equipment to measure air flow) and multiplying by the efficiency of the
+filters at capturing 1 to 3 micrometer (µm) particles.  As an example, MERV 13 filters
+are  at  least  85%  efficient  at  capturing  particles  in  that  size  range.   A  DIY  air  cleaner
+capable of moving 300 cubic feet per minute (cfm) of air through MERV 13 filters, would
+provide 255 cfm (300 cfm × 0.85 = 255 cfm) of ”clean” air.  However, keep in mind
+that is simply an approximation and likely represents the best-case performance. While
+similar to commercially available HEPA air cleaners, the introduction of DIY air cleaners
+in a space can introduce new issues that need to be considered.  Electrical cords for the
+fan need to be secured to prevent causing a tripping hazard.  The DIY air cleaners can
+create  enough  noise  to  create  difficulties  communicating  verbally.   This  often  causes
+the units to be turned off or operated at a lower and less-effective fan setting, which
+defeats the purpose of having the air cleaner in the first place.  As with all air cleaners,
+the DIY units need to be positioned in the room to prevent strong air flows from one
+person directly over another. As of June 2, 2021 As of March 23, 2021 To receive email
+updates about COVID-19, enter your email address:
+Source URL: https://www.cdc.gov/coronavirus/2019-ncov/community/ventilation.html

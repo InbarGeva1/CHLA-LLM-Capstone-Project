@@ -1,0 +1,250 @@
+ Persons using assistive technology might not be able to fully access information in this
+file. For assistance, please send e-mail to: mmwrq@cdc.gov. Type 508 Accommodation
+and the title of the report in the subject line of e-mail. Electronic medical record (EMR)
+systems have the 
+potential to improve reporting of notifiable diseases beyond 
+either traditional clinician-initiated or automated 
+laboratory-based reporting systems. Traditional clinician-initiated 
+passive surveillance is burdensome to clinicians and often incomplete and delayed 
+(1,2). Electronic laboratory reporting addresses these limitations 
+(3,4) but often lacks information needed for public health purposes (e.g., patient signs 
+and symptoms, prescribed treatments, and pregnancy status). Laboratory systems also
+do not integrate multiple 
+laboratory  tests  to  satisfy  a  case  definition.  Many  EMRs,  however,  contain  this
+information and store it in a form that is 
+amenable to electronic analysis and reporting. Consequently, EMR-based reporting has
+the potential to provide active 
+notifiable  disease  surveillance  that  is  more  timely,  complete,  and  clinically  detailed.
+This report summarizes findings from a 
+pilot  EMR-based  electronic  surveillance  system  in  Massachusetts,  which  documented
+increases of 39% in reported 
+chlamydia  and  53%  in  reported  gonorrhea  for  the  period  June  2006--July  2007,
+compared with the existing passive 
+surveillance  system.  Eighty-one  instances  of  pregnancy  not  identified  by  passive
+surveillance were reported by the electronic 
+system  in  patients  with  chlamydia  or  gonorrhea.  In  addition,  the  electronic  system
+identified 20 cases of pelvic 
+inflammatory disease and four cases of acute hepatitis A, compared with none and one,
+respectively, reported via the passive 
+system. Improved reporting can help public health departments better allocate limited
+resources for targeted investigations 
+and interventions.
+ The Massachusetts Department of Public Health, the Department of Ambulatory Care
+and Prevention at 
+Harvard Medical School and Harvard Pilgrim Health Care, and Atrius Health collaborated
+under the auspices of the 
+CDC  Center  of  Excellence  in  Public  Health  Informatics  at  Harvard  Pilgrim  Health  Care
+and Children's Hospital in Boston 
+to create a system called Electronic Support for Public Health (ESP) 
+(5). Atrius Health is a multispecialty group 
+practice that provides primary care and outpatient specialty services to approximately
+600,000 children and adults at 35 
+clinical facilities in eastern Massachusetts. ESP is designed to be compatible with most
+commercial EMR systems. Data 
+on patient visits are exported from the EMR system to an independent ESP server every
+24 hours. Transfer of data is 
+an important aspect of ESP's compatibility with most EMR systems. Export of data also
+enables analysis without 
+burdening  the  medical  practice  EMR  system.  The  ESP  server  is  secured  behind  the
+practice's electronic firewall to ensure the 
+security of sensitive clinical information.
+ ESP was activated in January 2007 and populated with data beginning in June 2006.
+Data transferred from the 
+EMR system to ESP include patient demographics, vital signs, test orders, test results,
+prescriptions, diagnostic codes, 
+and  health-care  provider  details.  These  data  were  regularly  analyzed  by  ESP  for
+evidence of four notifiable 
+diseases:  chlamydia,  gonorrhea,  pelvic  inflammatory  disease,  and  acute  hepatitis  A.
+Cases were defined on the basis 
+of combinations of test orders, test results, medication prescriptions, and 
+International Statistical Classification of 
+Diseases and Related Health Problems, Ninth Revision 
+(ICD-9) diagnostic codes. ESP case definitions were modeled after 
+CDC surveillance definitions but limited to the coded data captured by EMRs 
+(Table).  When  one  of  the  four  notifiable  diseases  was  detected,  ESP  generated  an
+electronic report and transmitted it to the state health department via 
+the Internet. The report included the patient's name and contact information, clinician's
+name and contact 
+information, disease diagnosed, laboratory test results, prescriptions, pregnancy status,
+and any patient symptoms that 
+were inferred from ICD-9 codes in the electronic record. During the study period, the
+practice's conventional 
+reporting  continued  routinely,  independent  of  ESP,  under  the  auspices  of  an
+infection-control practitioner in some facilities 
+and through spontaneous clinician initiative in others. The practice's personnel were not
+informed of cases identified by ESP.
+ For the period June 2006--July 2007, ESP reported 758 cases of chlamydia, 95 cases of
+gonorrhea, 20 cases of 
+pelvic inflammatory disease, and four cases of acute hepatitis A. The charts of all cases
+identified by ESP were 
+manually reviewed and matched with conventional, passive surveillance case reports in
+health department records. Compared 
+with passive, paper-based reporting, ESP increased the number of chlamydia reports by
+39% (758 cases versus 545) 
+and  gonorrhea  by  53%  (95  cases  versus  62).  In  addition,  ESP  identified  20  cases  of
+pelvic inflammatory disease 
+cases, compared with none identified by passive surveillance, and four cases of acute
+hepatitis A, compared with one.
+ A total of six cases of chlamydia in health department records were not detected by
+ESP. Chart reviews revealed five 
+of these to be false positives. The one true case missed by ESP had been miscoded in
+the EMR system that fed data to 
+ESP.  All  cases  of  gonorrhea,  pelvic  inflammatory  disease,  and  acute  hepatitis  A
+detected by passive surveillance also 
+were identified by ESP.
+ All ESP case reports included patient treatment information and pregnancy status. In
+contrast, passive 
+surveillance  reports  included  pregnancy  status  for  5%  of  cases  and  treatment
+information for 88% of cases. ESP reported 81 cases 
+of pregnancy in females with chlamydia or gonorrhea that were not noted on passive
+surveillance reports. Spellings 
+of patient names on passive surveillance reports were compared with spellings in ESP
+data. Passive surveillance 
+reports had a 5% rate of transcription errors, compared with no 
+errors in ESP reports.
+ Reported by: M Klompas, MD, R Lazarus, MBBS, MPH, R Platt, MD, Dept of Ambulatory
+Care and Prevention, Harvard Medical School 
+and  Harvard  Pilgrim  Health  Care;  X  Hou,  MSc,  Channing  Laboratory,  Brigham  and
+Women's Hospital and Harvard Medical School; FX Campion, 
+MD, B Kruskal, MD, PhD, Atrius Health and Harvard Medical School, Boston; G Haney,
+MPH, W Dumas, J Daniel, MPH, A DeMaria, 
+MD,  Massachusetts  Dept  of  Public  Health.  SJN  McNabb,  PhD,  Div  of  Integrated
+Surveillance Systems and Services, National Center for Public 
+Health Informatics, CDC.
+Editorial Note:
+  This comparison of EMR-based detection and reporting of four notifiable diseases with 
+traditional methods illustrates that automated, active surveillance 
+using EMR data has the potential to improve public 
+health monitoring by ensuring that cases are reported and by 
+enhancing the timeliness, accuracy, and clinical detail of 
+reports. Improved reporting can help public health departments better allocate limited
+resources for targeted investigations 
+and interventions. For example, ESP has the potential to reliably identify high-priority
+cases for intervention, such 
+as  untreated  chlamydia  or  gonorrhea  in  women  who  are  pregnant.  EMR-based
+surveillance and reporting also 
+might  support  additional  public  health  practices,  such  as  populating  immunization
+information systems or 
+enabling statistical analyses for outbreak detection and 
+investigation.
+ Currently,  EMR-based  surveillance  cannot  obviate  the  need  for  additional  data
+collection by public 
+health  department  personnel  for  certain  cases.  EMRs  typically  do  not  contain  certain
+pieces of key epidemiologic data in 
+a coded form that can be identified readily by electronic 
+algorithms. Examples include case contacts, risky 
+behaviors,  foreign  travel,  and  relevant  occupations  (e.g.,  food  handler  or  day  care
+worker).
+ ESP  complements  the  existing  National  Electronic  Diseases  Surveillance  System
+(NEDSS), established by CDC in 
+2001 to enable local and state health departments to send electronic data to CDC for
+public health monitoring 
+of notifiable conditions nationwide (6). NEDSS-compatible 
+systems currently operate in 38 states and the District 
+of Columbia (7). ESP can facilitate electronic collection and transmission of case reports
+from health-care providers to 
+local 
+and state public health departments, which in turn can use NEDSS-compatible systems
+to deliver summary data 
+to CDC.
+ Different  strategies  for  implementing  EMR-based  case  detection  and  reporting  will
+need to be developed for 
+different kinds of medical organizations. The stand-alone, server-based implementation
+of ESP described in this 
+report  is  designed  for  large  practices  or  health  information  exchanges.  Incorporating
+ESP logic into commercial EMR software 
+or  developing  stand-alone  ESP  modules  that  can  operate  side  by  side  with  EMRs  on
+clinicians' office-based computers 
+also should be feasible. Source code for ESP is freely available (at 
+http://esphealth.org) under an open source 
+license compatible with commercial development.
+ Widespread  implementation  of  electronic  case  detection  and  reporting  is  currently
+limited by the slow pace 
+of  adoption  of  EMRs  by  clinical  practices,  variation  in  coding  practices  among
+proprietary EMR systems, and an 
+absence of standards for identifying cases using electronic data alone. As of 2006, only
+29% of ambulatory medical 
+practices were using EMR systems (8). In addition, the breadth of information collected
+by EMR systems varies 
+substantially.  EMRs  that  do  not  include  prescription  data,  for  example,  limit  the
+sensitivity and specificity of some electronic 
+disease-detection  algorithms  (9).  Further,  different  EMR  systems  use  different
+proprietary coding systems. ESP does 
+include tools to translate proprietary codes into standard nomenclatures; however, use
+of this translation requires 
+customization for each system. Finally, existing case definitions for notifiable diseases 
+(10) incorporate clinical descriptors such as 
+"acute  onset  of  symptoms"  or  "undue  fatigue"  or  "jaundice"  that  are  inconsistently
+noted on EMRs.
+ Development of ESP continues. The system has added reporting of acute hepatitis B,
+acute hepatitis C, and 
+active tuberculosis. In addition, ESP's portability is being assessed by installing it in a
+regional health information 
+exchange populated by a different EMR system. Meanwhile, development of electronic
+case definitions and widespread 
+adoption of standard laboratory test nomenclatures, consensus lists of treatments, and
+standard reporting elements will 
+facilitate  more  meaningful,  comparable,  and  widespread  electronic  reporting  of
+notifiable diseases.
+ Acknowledgment
+ This report is based, in part, on the contributions of J Dunn, MPH, Dept of Ambulatory
+Care and Prevention, Harvard Medical School 
+and Harvard Pilgrim Health Care, Boston, Massachusetts.
+References
+ Use  of  trade  names  and  commercial  sources  is  for  identification  only  and  does  not
+imply endorsement by the U.S. Department of 
+Health and Human Services.References to non-CDC sites on the Internet are 
+provided as a service to MMWR readers and do not constitute or imply 
+endorsement of these organizations or their programs by CDC or the U.S. 
+Department of Health and Human Services. CDC is not responsible for the content 
+of pages found at these sites. URL addresses listed in MMWR were current as of 
+the date of publication.
+Disclaimer  
+All MMWR HTML versions of articles are electronic conversions from ASCII text 
+into HTML.  This conversion may have resulted in character translation or format errors
+in the HTML version.  
+Users  should  not  rely  on  this  HTML  document,  but  are  referred  to  the  electronic  PDF
+version and/or 
+the original MMWR paper copy for the official text, figures, and tables.  
+An  original  paper  copy  of  this  issue  can  be  obtained  from  the  Superintendent  of
+Documents, 
+U.S. Government Printing Office (GPO), Washington, DC 20402-9371; telephone: (202)
+512-1800. 
+Contact GPO for current prices.
+**Questions or messages regarding errors in formatting should be addressed to 
+mmwrq@cdc.gov.  Use of trade names and commercial sources is for identification only
+and does not imply endorsement by the U.S. Department of 
+Health and Human Services.References to non-CDC sites on the Internet are 
+provided as a service to MMWR readers and do not constitute or imply 
+endorsement of these organizations or their programs by CDC or the U.S. 
+Department of Health and Human Services. CDC is not responsible for the content 
+of pages found at these sites. URL addresses listed in MMWR were current as of 
+the date of publication. Disclaimer  
+All MMWR HTML versions of articles are electronic conversions from ASCII text 
+into HTML.  This conversion may have resulted in character translation or format errors
+in the HTML version.  
+Users  should  not  rely  on  this  HTML  document,  but  are  referred  to  the  electronic  PDF
+version and/or 
+the original MMWR paper copy for the official text, figures, and tables.  
+An  original  paper  copy  of  this  issue  can  be  obtained  from  the  Superintendent  of
+Documents, 
+U.S. Government Printing Office (GPO), Washington, DC 20402-9371; telephone: (202)
+512-1800. 
+Contact GPO for current prices. Date last reviewed: 4/9/2008
+ 
+    HOME  |  
+    ABOUT MMWR  | 
+    MMWR SEARCH  | 
+    DOWNLOADS  | 
+    RSS 
+    |  
+    CONTACT
+POLICY  |  
+    DISCLAIMER  |  
+    ACCESSIBILITY 
+Morbidity and Mortality Weekly Report
+                Centers for Disease Control and Prevention
+                1600 Clifton Rd, MailStop E-90, Atlanta, GA 
+                  30333, U.S.A 
+Department of Healthand Human Services 
+Source URL: https://www.cdc.gov/mmwr/preview/mmwrhtml/mm5714a4.htm

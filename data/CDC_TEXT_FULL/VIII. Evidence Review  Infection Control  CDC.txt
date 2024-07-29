@@ -1,0 +1,910 @@
+A .gov website belongs to an official government organization in the United States. A
+lock (  ) or https:// means you've safely connected to the .gov website. Share sensitive
+information  only  on  official,  secure  websites.  Evidence  Review  from  the  Guideline  for
+the  Prevention  and  Control  of  Norovirus  Gastroenteritis  Outbreaks  in  Healthcare
+Settings (2011). To answer this question, the quality of evidence was evaluated among
+risk  factors  identified  in  57  studies.  In  areas  for  which  the  outcome  of  symptomatic
+norovirus  infection  was  available,  this  was  considered  the  critical  outcome  in
+decision-making. The evidence for this question consisted of one systematic review,56
+51 observational,57-62,62-64,64-77,77-107and 4 descriptive studies,108-111 as well as
+one basic science study.112 The paucity of randomized controlled trials (RCT) and the
+large  number  of  observational  studies  greatly  influenced  the  quality  of  evidence
+supporting the conclusions in the evidence review. Based on the available evidence, the
+risk  factors  were  categorized  as  host,  viral  or  environmental  characteristics.  Host
+characteristics were further categorized into demographics, clinical characteristics, and
+laboratory characteristics. Environmental characteristics were further categorized into
+institution, pets, diet, and exposure. The findings of the evidence review and the grades
+for  all  clinically  relevant  outcomes  are  shown  in  Evidence  and  Grade  Table  1.
+Low-quality  evidence  was  available  to  support  age  as  a  risk  factor  for  norovirus
+infection,57-60,62-64  and  very  low-quality  evidence  to  support  black  race  as  a
+protective factor.64 Three studies indicated that persons over the age of 65 may be at
+greater risk than younger patients for prolonged duration and recovery from diarrhea in
+healthcare  settings.57-59  Studies  including  children  under  the  age  of  five  showed  an
+increased risk of household transmission as well as asymptomatic infection compared
+with older children and adults.60,62 A single but large-scale observational study among
+military  personnel  found  blacks  to  be  at  lower  risk  of  infection  than  whites.64  Very
+low-quality  evidence  failed  to  demonstrate  meaningful  differences  in  the  risk  of
+infection  corresponding  to  strata  on  the  basis  of  educational  background  (in  the
+community  setting).61  Based  upon  very  low-quality  evidence,  outbreaks  originating
+from  patients  were  more  likely  to  affect  a  large  proportion  of  patients  than  were
+outbreaks  originating  from  staff.56  Exposure  to  vomitus  and  patients  with  diarrhea
+increased  the  likelihood  that  long-term  care  facility  staff  would  develop  norovirus
+infection.66  The  search  did  not  identify  studies  that  established  a  clear  association
+between  sex  and  symptomatic  norovirus  infection  or  complications  of  norovirus
+infection.57,59,  79,  98  Low-quality  evidence  from  one  prospective  controlled  trial  did
+not  identify  sex  as  a  significant  predictor  of  symptomatic  norovirus  in  univariate
+analyses.57  There  is  low-quality  evidence  suggesting  that  sex  is  not  a  risk  factor  for
+protracted  illness  or  complications  of  norovirus  infection  including  acute  renal  failure
+and hypokalemia.57 Review of the available studies revealed very low-quality evidence
+identifying clinical characteristics as risk factors for norovirus infection.57,60,65,68 One
+small study found hospitalized children with human immunodeficiency virus (HIV) and
+chronic  diarrhea  were  more  likely  to  have  symptomatic  infection  with  small  round
+structured virus (SRSV) than those without HIV and affected with chronic diarrhea.65,68
+Adult  patients  with  symptomatic  norovirus  receiving  immunosuppressive  therapy  or
+admitted with underlying trauma were at risk for a greater than 10% rise in their serum
+creatinine.57  Norovirus-infected  patients  with  cardiovascular  disease  or  having  had  a
+renal transplant were at greater risk for a decrease in their potassium levels by greater
+than 20%.57 Observational, univariate study data also supported an increased duration
+of  diarrhea  (longer  than  two  days)  among  hospitalized  patients  of  advanced  age  and
+those  with  malignancies.57This  search  did  not  reveal  data  on  the  risk  of  norovirus
+acquisition  among  those  co-infected  with  other  acute  gastrointestinal  infections,  such
+as C. difficile. There was very low-quality evidence to support limited protective effects
+of serum antibody levels against subsequent norovirus infection.74-76 In two challenge
+studies,  adult  and  pediatric  subjects  with  prior  exposure  to  norovirus  showed  higher
+antibody  titers  than  found  in  previously  unexposed  subjects  after  initial  infection  and
+after challenge.74,76 The detection of preexisting serum antibody does not appear to
+correlate  with  protection  against  subsequent  norovirus  challenge,  nor  did  increasing
+detectable  pre-existing  antibody  titres  correlate  with  attenuations  in  the  clinical
+severity of disease.7475 In one study, symptoms such as vomiting, nausea, headaches,
+and arthralgia were correlated with increasing antibody titres.74 In a serial challenge
+study, 50% of participants (n=6) developed infection, and upon subsequent challenge
+27-42  months  later,  only  those  same  participants  developed  symptoms.  A  third
+challenge  4-8  weeks  after  the  second  series  resulted  in  symptoms  in  just  a  single
+volunteer.76 Pre-existing antibody may offer protection to susceptible persons only for
+a  limited  window  of  time,  on  the  order  of  a  few  weeks.  The  search  strategy  did  not
+reveal data on the persistence of immunity to norovirus nor elevations in antibody titers
+that  were  consistently  suggestive  of  immunity.  Review  of  the  outlined  studies
+demonstrated  high-quality  evidence  to  support  the  protective  effects  of  human  host
+non-secretor  genotypes  against  norovirus  infection.70-72,113  Two  observational
+studies  and  one  intervention  study  examined  volunteers  with  and  without  the
+expression of the secretor (FUT2) genotype after norovirus challenge.70-72 Statistically
+significant  differences  were  reported  with  secretor-negative  persons  demonstrating  a
+greater  likelihood  of  protection  against,  or  innate  resistance  to  symptomatic  and
+asymptomatic  norovirus  infection  than  seen  in  persons  with  secretor-positive
+genotypes. This search did not reveal data on the dose-response effects of norovirus in
+persons  with  homozygous  and  heterozygous  secretor  genotypes.  Because  the
+FUT2-mediated  secretor  positive  phenotype  appears  to  confer  susceptibility  to
+subsequent norovirus infection following challenge, there is an association between this
+phenotype  and  measurable  circulating  antibody  (suggesting  prior  infection)  in  the
+population.  One  study  estimated  that  80%  of  the  population  is  secretor-positive  (or
+susceptible to norovirus) and 20% is secretor-negative (resistant to norovirus challenge
+independent  of  inoculum  dose).  Among  susceptible  persons,  approximately  35%  are
+protected  from  infection.  This  protection  is  potentially  linked  to  a  memory-mediated
+rapid mucosal IgA response to norovirus exposure that is not seen in the other 45% of
+susceptibles,  who  demonstrate  delayed  mucosal  IgA  and  serum  IgG  responses.72
+Although elevated antibody levels following infection appear to confer some protective
+immunity  to  subsequent  challenge,  paradoxically,  measurable  antibody  titers  in  the
+population  may  be  a  marker  of  increased  susceptibility  to  norovirus  because  of  the
+association  between  such  antibodies  and  FUT2-positive  status.  There  was  low-quality
+evidence  suggesting  any  association  of  ABO  blood  type  with  the  risk  of  norovirus
+infection.69,72,73,77,78,114,115  An  RCT  suggested  that  persons  with  histo-blood
+group type O was associated with an increased risk of symptomatic or asymptomatic
+norovirus  infection  among  secretor-positive  patients.72  Binding  of  norovirus  to  the
+mucosal  epithelium  may  be  facilitated  by  ligands  associated  with  type-O  blood.  The
+other  blood  types—A,  B,  and  AB—were  not  associated  with  norovirus  infection  after
+controlling for secretor status. Three studies showed no protective effect of any of the
+blood types against norovirus.69,77,78 The search strategy did not reveal prospective
+cohort  data  to  correlate  the  role  of  ABO  blood  types  with  risk  of  norovirus  infection.
+There was very low-quality evidence to suggest an association of virus characteristics
+with  norovirus  infection.57,108-110  Very  low-quality  descriptive  evidence  suggested
+that  increases  in  overall  norovirus  activity  may  result  from  the  emergence  of  new
+variants  among  circulating  norovirus  strains,  and  strains  may  differ  in  pathogenicity,
+particularly  among  GII.3  and  GII.4  variants.108-110  In  recent  years,  GII.4  strains  are
+increasingly  reported  in  the  context  of  healthcare-associated  outbreaks,  but  further
+epidemiologic  and  laboratory  studies  are  required  to  expand  on  this  body  of
+information. This search did not identify studies examining genotypic characteristics of
+viruses  associated  with  healthcare-acquired  norovirus  infection.  Very  low-quality
+evidence  was  available  to  support  the  association  of  institutional  characteristics  with
+symptomatic norovirus infection.82,99 Among two observational studies, the number of
+beds within a ward, nurse understaffing, admission to an acute care hospital (compared
+to  smaller  community-based  facilities),  and  having  experienced  a  prior  outbreak  of
+norovirus gastroenteritis within the past 30 days were all possible risk factors for new
+infections.82,99  These  increased  institutional  risks  were  identified  from  univariate
+analyses in pediatric and adult hospital populations. There were statistically significant,
+increased  risks  of  infection  among  those  admitted  to  geriatric,  mental  health,
+orthopedic, and general medicine wards. The review process did not reveal data on the
+comparative  risks  of  infection  among  those  admitted  to  private  and  shared  patient
+rooms.  Review  of  the  outlined  studies  demonstrated  very  low-quality  evidence  to
+support exposure to pets (e.g., cats and dogs) as a risk factor for norovirus infection.61
+One  case-control  study  examined  pet  exposure  among  households  in  the  community
+and  concluded  that  the  effect  of  cats  was  negligible.61  The  single  study  did  not
+demonstrate  any  evidence  of  transmission  between  pets  and  humans  of  norovirus
+infection.  This  search  strategy  did  not  reveal  studies  that  evaluated  the  impact  of
+therapy pets in healthcare settings during outbreaks of norovirus gastroenteritis or data
+examining  domestic  animals  as  reservoirs  for  human  infection.  There  was  low-quality
+evidence  to  suggest  that  extrinsically  contaminated  food  items  are  commonly
+implicated
+ as
+ vehicles
+ of
+ norovirus
+ exposure
+ in
+ healthcare
+settings.61,77,80,84,86,87,89-97,100-102,104-107,111  Nineteen  observational  studies
+itemized
+ statistically
+ significant
+ food
+ sources
+ implicated
+ in
+ community
+outbreaks.80,81,84,86,87,89-97,100,101,104-106  Common  to  most  of  these  food
+sources was a symptomatic or asymptomatic food-handler. Sauces, sandwiches, fruits
+and vegetables, salads, and other moisture-containing foods were most often cited as
+extrinsically
+ contaminated
+ sources
+ of
+ outbreaks
+ of
+ norovirus
+ gastroenteritis.
+Importantly, these data reflected the breadth of foods that can become contaminated.
+Tap  water  and  ice  were  also  associated  with  norovirus  contamination  during  an
+outbreak  with  an  ill  food-handler.  This  literature  review  did  not  identify  studies  that
+examined the introduction of intrinsically contaminated produce or meats as a nidus for
+norovirus  infection  and  dissemination  within  healthcare  facilities.  This  review
+demonstrated high-quality evidence to suggest that proximity to infected persons with
+norovirus
+ is
+ associated
+ with
+ increased
+ risk
+ of
+ symptomatic
+infection.61,62,64,79,83,88,98,103,111  Eight  observational  studies  found  statistically
+significant factors such as proximate exposure to an infected source within households
+or  in  crowded  quarters  increased  infection  risk,  as  did  exposures  to  any  or  frequent
+vomiting  episodes  61,62,64,79,83,88,98,103.  These  data  suggest  person-to-person
+transmission  is  dependent  on  close  or  direct  contact  as  well  as  short-range  aerosol
+exposures.  One  observational  study  established  a  linear  relationship  between  a  point
+source  exposure  and  attack  rate  based  on  proximity  to  an  infected  and  vomiting
+source.88 This search process did not identify studies that quantified the spatial radius
+necessary  for  transmission  to  successfully  occur.  1.A.1  Avoid  exposure  to  vomitus  or
+diarrhea. Place patients on Contact Precautions in a single occupancy room if they have
+symptoms  consistent  with  norovirus  gastroenteritis.  (Category  IB)  (Key  Question  1A)
+1.A.2.a  Consider  longer  periods  of  isolation  or  cohorting  precautions  for  complex
+medical patients (e.g., those with cardiovascular, autoimmune, immunosuppressive, or
+renal disorders) as they can experience protracted episodes of diarrhea and prolonged
+viral shedding. Patients with these or other comorbidities have the potential to relapse
+and  facilities  may  choose  longer  periods  of  isolation  based  on  clinical  judgment.
+(Category II) (Key Question 1A) 1.C.1 Consider the development and adoption of facility
+policies  to  enable  rapid  clinical  and  virological  confirmation  of  suspected  cases  of
+symptomatic  norovirus  infection  while  implementing  prompt  control  measures  to
+reduce the magnitude of a potential norovirus outbreak. (Category II) (Key Question 1C)
+1.C.3.a  To  prevent  food-related  outbreaks  of  norovirus  gastroenteritis  in  healthcare
+settings,  food  handlers  must  perform  hand  hygiene  prior  to  contact  with  or  the
+preparation  of  food  items  and  beverages  (FDA  Food  CodeExternalExternal[Current
+version  of  this  document  may  differ  from  original.]).  (Category  IC)  (Key  Question  1C)
+1.C.3.b  Personnel  who  work  with,  prepare  or  distribute  food  must  be  excluded  from
+duty if they develop symptoms of acute gastroenteritis. Personnel should not return to
+these activities until a minimum of 48 hours after the resolution of symptoms or longer
+as  required  by  local  health  regulations  (FDA  Food  CodeExternalExternal  [Current
+version  of  this  document  may  differ  from  original.]).  (Category  IC)  (Key  Question  1C)
+1.C.4 If norovirus infection is suspected, adherence to PPE use according to Contact and
+Standard  Precautions  is  recommended  for  individuals  entering  the  patient  care  area
+(i.e., gowns and gloves upon entry) to reduce the likelihood of exposure to infectious
+vomitus  or  fecal  material.  (Category  IB)  (Key  Question  1C)  To  address  this  question,
+studies that provided test characteristics for the diagnosis of norovirus or outbreaks of
+norovirus gastroenteritis were critically reviewed. The available data examined the use
+of clinical criteria for the diagnosis of an outbreak of norovirus, methods of specimen
+collection for the diagnosis of a norovirus outbreak, and characteristics of tests used to
+diagnose norovirus. The evidence consisted of 33 diagnostic studies.17,18,116-146 The
+findings  from  the  evidence  review  and  the  grades  of  evidence  for  clinically  relevant
+outcomes  are  shown  in  Evidence  and  Grade  Table  2.  There  was  moderate  quality
+evidence  from  a  single  diagnostic  study  supporting  the  use  of  the  Kaplan  criteria  to
+detect  outbreaks  of  norovirus  gastroenteritis.16,116  Of  362  confirmed  gastroenteritis
+outbreaks with complete clinical or laboratory data, the sensitivity of the Kaplan Criteria
+to  detect  an  outbreak  of  norovirus  gastroenteritis  without  an  identified  bacterial
+pathogen  was  68.2%,  with  a  specificity  of  98.6%.  The  positive  predictive  value  (PPV)
+was  97.1%  and  the  negative  predictive  value  was  81.8%.  Individual  criteria,  such  as
+vomiting  among  >50%  of  a  patient  cohort,  brief  duration  of  illness  (12-60  hours),  or
+mean incubation time of 24-48 hours, demonstrated high sensitivities (85.8-89.2%), but
+specificities were low (60.7-69.6%). The use of additional criteria, such as the ratios of
+fever-to-vomiting and diarrhea-to-vomiting, provided sensitivities of 90.1% and 96.6%,
+and  specificities  of  46.6%  and  44.5%,  respectively.  Applied  to  the  1141  outbreaks  of
+unconfirmed etiology, suspected norovirus or bacterial sources with complete data, the
+Kaplan criteria estimated that 28% of all 1998-2000 CDC-reported foodborne outbreaks
+might be attributable to norovirus. The searchstrategy did not identify studies that have
+assessed  the  utility  of  the  Kaplan  criteria  in  healthcare-associated  outbreaks  of
+norovirus gastroenteritis. There was low-quality evidence from three diagnostic studies
+outlining the minimum number of stool samples from symptomatic patients required to
+confirm  an  outbreak  of  norovirus  gastroenteritis.117,119,120,122,123  In  modeling
+analyses  using  a  hypothetical  test  demonstrating  100%  sensitivity  and  100%
+specificity,  obtaining  a  positive  EIA  result  from  two  or  more  submitted  samples
+demonstrated  a  sensitivity  of  52.2-57%,  with  a  peak  in  sensitivity  when  at  least  one
+from a total of six submitted samples was positive for norovirus (71.4-92%). Specificity
+was  100%  when  at  least  one  positive  EIA  was  obtained  from  a  minimum  of  two
+submitted  stool  samples.  Using  a  reverse  transcriptase  polymerase  chain  reaction
+(RT-PCR) method, if at least one positive test was identified among 2 to 4 submitted
+stool specimens from symptomatic persons, the test sensitivity was greater than 84%.
+When 5-11 stool samples were submitted and at least 2 were confirmed as positive, the
+sensitivity  of  PCR  was  greater  than  92%.  When  at  least  one  stool  specimen  was
+submitted for identification, PCR confirmed norovirus as the causative agent in a larger
+proportion  of  outbreaks  than  those  using  EM  or  ELISA  methods,  and  is  currently  the
+Gold  Standard.  This  evaluation  was  unable  to  determine  how  diagnostic  test
+characteristics are affected by the timing of specimen collection relative to the disease
+process.
+ 28
+ diagnostic
+ studies17,18,118-120,122,124-139,141-145,147
+ and
+ 1
+descriptive study121 that evaluated the test characteristics of EIA such as ELISA, EM,
+reverse  transcriptase  PCR,  and  nucleic  acid  sequence-based  amplification  (NASBA)  in
+the  detection  of  norovirus  in  human  fecal  specimens  were  summarized.  Test
+characteristics  for  the  most  common  or  commercially-available  norovirus  diagnostics
+are  summarized  in  the  following  Box.  2.A.1  In  the  absence  of  clinical  laboratory
+diagnostics or in the case of delay in obtaining laboratory results, use Kaplan's clinical
+and epidemiologic criteria to identify a norovirus gastroenteritis outbreak (see Table 3
+for Kaplan's criteria (Category IA) (Key Question 2A) 2.A.2 Further research is needed to
+compare  the  Kaplan  criteria  with  other  early  detection  criteria  for  outbreaks  of
+norovirus  gastroenteritis  in  healthcare  settings,  and  to  assess  whether  additional
+clinical  or  epidemiologic  criteria  can  be  applied  to  detect  norovirus  clusters  or
+outbreaks in healthcare settings. (No recommendation/ unresolved issue)(Key Question
+2A)  2.B  Consider  submitting  stool  specimens  as  early  as  possible  during  a  suspected
+norovirus gastroenteritis outbreak and ideally from individuals during the acute phase
+of illness (within 2-3 days of onset). It is suggested that healthcare facilities consult with
+state or local public health regarding the types of and number of specimens to obtain
+for  testing.  (Category  II)  (Key  Question  2B)  2.C  Use  effective  laboratory  diagnostic
+protocols  for  testing  of  suspected  cases  of  viral  gastroenteritis  (e.g.,  refer  to  the
+Centers  for  Disease  Control  and  Prevention  (CDC's  Updated  Norovirus  Outbreak
+Management  and  Disease  Prevention  Guidelines[PDF  –  854  KB]).  (Category  IB)  (Key
+Question 2C) (%) Sensitivity (%) Specificity (%) Positive Predictive Value (%) Negative
+Predictive Value * Range from studies that reported test characteristics To address this
+question,  69  studies58,63,66,79,83-85,87,89,92,102,103,112,148-203  were  critically
+reviewed for evidence of interventions that might prevent or attenuate an outbreak of
+norovirus.  The  available  data  dealt  with  viral  shedding,  recovery  of  norovirus,  and
+components  of  an  outbreak  prevention  or  containment  program,  including  the  use  of
+medications. The evidence consisted of 1 randomized controlled trial,202 1 systematic
+review,153
+ 20
+ basic
+ science
+ studies,112,162,163,185-201
+ 43
+ descriptive
+studies,58,63,79,83-85,87,89,92,102,103,149-152,154-161,165-184
+ and
+ 4
+observational  studies.66,148,164,203  The  findings  from  the  evidence  review  and  the
+grades of evidence for clinically relevant outcomes are shown in Evidence and Grade
+Tables  for  Question  3  in  the  Appendix.  This  review  did  not  identify  studies
+demonstrating  direct  associations  between  viral  shedding  and  infectivity.  However,
+there was low-quality evidence to support an association between age and duration of
+viral shedding.149,150 One observational study suggested that children under the age
+of six months may be at an increased risk of prolonged viral shedding (greater than two
+weeks), even after the resolution of symptoms.148 Other findings suggest that infants
+can shed higher titers of virus than levels reported in other age groups.149 High-quality
+evidence was available to demonstrate the presence of viral shedding in asymptomatic
+subjects, and low-quality evidence demonstrating that shedding can persist for up to 22
+days  following  infection  and  5  days  after  the  resolution  of  symptoms.150-152  The
+search strategy employed did not identify studies that correlated other clinical factors
+to  duration  of  viral  shedding.  There  was  low-quality  evidence  positively  associating
+fomite contamination with norovirus infection.153-159,161,163,194 Similarly, there was
+low-quality  evidence  demonstrating  transfer  of  norovirus  from  fomites  to  hands.194
+One  basic  science  study  demonstrated  that  norovirus  on  surfaces  can  be  readily
+transferred to other fomites (telephones, taps, door handles) via fingertips in 30-50% of
+opportunities  even  when  virus  has  been  left  to  dry  for  15  minutes.194  There  was
+moderate
+ quality
+ evidence
+ examining
+ the
+ norovirus
+ contamination
+ of
+ the
+environment.153-159,161,163  A  single  systematic  review  evaluated  5  outbreaks  with
+environmental  sampling  data.153  Three  of  those  outbreaks  confirmed  environmental
+contamination with norovirus. Of the over 200 swabs examined from the 5 outbreaks in
+this review, 36% identified norovirus contamination on various fomites such as curtains,
+carpets, cushions, commodes and toilets, furnishings and equipment within 3-4 feet of
+the  patient,  handrails,  faucets,  telephones,  and  door  handles.  However,  in  two
+outbreaks  from  which  47  environmental  samples  were  collected,  norovirus  was  not
+detected. Additional studies detected norovirus on kitchen surfaces, elevator buttons,
+and other patient equipment. 154-157, 194 There was low-quality evidence regarding
+the  duration  of  norovirus  persistence.154,155,157-159,161  Norovirus  can  persist  in  a
+dried  state  at  room  temperature  for  up  to  21-28  days  and,  in  a  single  observational
+study,  was  undetectable  in  areas  of  previously  known  contamination  after  5  months
+had  elapsed.159  Laboratory  studies  comparing  FCV  and  MNV-1  also  demonstrated
+persistence of virus in both dried and in fecal suspensions for a minimum of seven days
+on stainless steel preparations at 4ºC and at room temperature.20 Within a systematic
+review,  it  was  observed  that  norovirus  may  remain  viable  in  carpets  up  to  12  days,
+despite  regular  vacuuming.153  Similarly,  a  cultivable  surrogate  for  human  strains  of
+norovirus (FCV) was detected on computer keyboards and mice, as well as telephone
+components  up  to  72  hrs  from  its  initial  inoculation.156  This  search  strategy  did  not
+find studies in which the recovery of norovirus from fomites, food, and water sources
+was directly associated with transmission of infection in healthcare settings; however
+transmission  from  these  sources  has  been  well  documented  in  other  settings.  There
+was  low-quality  evidence  suggesting  that  foods  and  food-preparation  surfaces  are
+significant sources of norovirus transmission in healthcare settings.112,162,163 There
+was  moderate  quality  evidence  among  three  basic  science  studies  to  suggest  that
+norovirus  can  be  recovered  from  foods  such  as  meats  and  produce  as  well  as  from
+utensils and non-porous surfaces (e.g., stainless steel, laminate, ceramics) upon which
+foods  are  prepared.112,162,163  Two  of  these  studies,  comprised  of  low-quality
+evidence,  suggested  that  the  transfer  of  diluted  aliquots  of  norovirus  from  stainless
+steel surfaces to wet and dry food, and through contaminated gloves was detectable
+using  PCR  methods.  Norovirus  transfer  was  statistically  more  efficient  when  it  was
+inoculated  onto  moist  surfaces  compared  to  dry  ones.162,163  There  was  low-quality
+evidence  to  suggest  that  norovirus  persists  for  longer  periods  in  meats  compared  to
+other foods and non-porous surfaces, both at 4ºC and at room temperature.112 There
+was  moderate  quality  evidence  demonstrating  that  over  a  period  of  7  days  after
+application, both human norovirus genogroup I and a surrogate (FCV) could be detected
+among all surfaces tested.112,162 Within the first hour, the log10 of FCV titers declined
+by  2-3,  with  an  additional  drop  of  2-4  after  48  hours  elapsed.162  Food  and
+food-preparation areas can serve as a common source of contamination with norovirus
+in the absence of cleaning and disinfection. This search strategy did not identify studies
+that  measured  the  contribution  of  norovirus-contaminated  water  to  outbreaks  in  the
+healthcare  setting.  However,  there  was  moderate  quality  evidence  to  suggest  that
+norovirus  could  be  recovered  from  water.155,158,160  Among  three  outbreaks  that
+examined  water  as  a  source,  one  identified  norovirus  in  3  of  7  water  samples.160In
+outbreaks in the community, which were outside the scope of this review, contaminated
+surface water sources, well water, and recreational water venues have been associated
+with  outbreaks  of  norovirus  gastroenteritis.204  As  with  most  infection-prevention  and
+control activities, multiple strategies are instituted simultaneously during outbreaks in
+healthcare settings. Thus, it is difficult to single out particular interventions that may be
+more  influential  than  others,  as  it  is  normally  a  combination  of  prudent  interventions
+that reduce disease transmission. Numerous studies cite the early recognition of cases
+and  the  rapid  implementation  of  infection  control  measures  as  key  to  controlling
+disease  transmission.  The  following  interventions  represent  a  summary  of  key
+components in light of published primary literature and addressed in seminal guidelines
+on outbreaks of norovirus gastroenteritis. Q3.C.1.a Handwashing with soap and water
+Very  low-quality  evidence  was  available  to  confirm  that  handwashing  with  soap  and
+water
+ prevents
+ symptomatic
+ norovirus
+infections.63,66,79,85,89,102,103,165,166,168-171,173-177,183  Several  descriptive
+studies  emphasized  hand  hygiene  as  a  primary  prevention  behavior  and  promoted  it
+simultaneously  with  other  practical  interventions.  Several  outbreaks  centered  in
+healthcare  augmented  or  reinforced  hand  hygiene  behavior  as  an  early  intervention
+and
+ considered
+ it
+ an
+ effective
+ measure
+ aimed
+ at
+ outbreak
+control.103,165,168,170,174,176,177,183  The  protocols  for  hand  hygiene  that  were
+reviewed included switching to the exclusive use of handwashing with soap and water,
+and  a  blend  of  handwashing  with  the  adjunct  use  of  alcohol-based  hand  sanitizers.
+Additional  guidance  is  available  in  the  2002  HICPAC  Guideline  for  Hand  Hygiene  in
+Health-Care  Settings  Cdc-pdfCdc-pdf[PDF  –  494  KB].  Q3.C.1.b  Alcohol-based  hand
+sanitizers Very low-quality evidence was available to suggest that hand hygiene using
+alcohol-based  hand  sanitizers  may  reduce  the  likelihood  of  symptomatic  norovirus
+infection.66,87,169,171,205  Several  studies  used  FDA-compliant  alcohol-based  hand
+antiseptics  during  periods  of  norovirus  activity  as  an  adjunct  measure  of  hand
+hygiene.66,87,168,169,171,205,206  Two  studies  used  a  commercially  available  95%
+ethanol-based hand sanitizer along with handwashing with soap and water; but without
+a  control  group  and  with  hand  hygiene  comprising  one  of  several  interventions,  the
+relative  contribution  of  hand  hygiene  to  attenuating  transmission  was  difficult  to
+evaluate.169,171  In  the  laboratory,  even  with  95%  ethanol  products,  the  maximum
+mean reduction in log10 titer reduction was 2.17.193 Evidence to evaluate the efficacy
+of alcohol-based hand disinfectants consisted of basic science studies using FCV as a
+surrogate  for  norovirus.  Moderate  quality  evidence  supported  ethanol  as  a  superior
+active  ingredient  in  alcohol-based  hand  disinfectants  compared  to  1-propanol,
+particularly when simulated organic loads (e.g. fecal material) were used in conjunction
+with exposure to norovirus.189,191,193,196 The use of hand sanitizers with mixtures of
+ethanol and propanol have shown effectiveness against FCV compared to products with
+single  active  ingredients  (70%  ethanol  or  propanol)  under  controlled  conditions.189
+There  were  no  studies  available  to  evaluate  the  effect  of  non-alcohol  based  hand
+sanitizers on norovirus persistence on skin surfaces. Q3.C.1.c Role of artificial nails Very
+low-quality  evidence  suggested  that  the  magnitude  in  reduction  of  a  norovirus
+surrogate  (FCV)  using  a  spectrum  of  soaps  and  hand  disinfectants  was  significantly
+greater among volunteers with natural nails compared to those with artificial nails.197
+A subanalysis showed that longer fingernails were associated with consistently greater
+hand  contamination.  Further  evidence  summarizing  the  impact  of  artificial  and  long
+fingernails  in  healthcare  settings  can  be  found  in  the  HICPAC  Guideline  for  Hand
+Hygiene  in  Health-Care  Settings  Cdc-pdfCdc-pdf[PDF  –  494  KB].  Very  low-quality
+evidence among 1 observational66 and 13 descriptive studies167-173,176-179,181,183
+support  the  use  of  personal  protective  equipment  (PPE)  as  a  prevention  measure
+against symptomatic norovirus infection. A single retrospective study failed to support
+the  use  of  gowns  as  a  significantly  protective  measure  against  norovirus  infection
+during  the  outbreak  among  staff  but  did  not  consider  the  role  of  wearing  gowns  in
+avoiding patient-to-patient transmission.66 Mask or glove use was not evaluated in the
+self-administered  questionnaire  used  in  the  study.  Several  observational  and
+descriptive studies emphasized the use of gloves and isolation gowns for routine care of
+symptomatic  patients,  with  the  use  of  masks  recommended  when  staff  anticipated
+exposure
+ to
+ emesis
+ or
+ circumstances
+ where
+ virus
+ may
+ be
+aerosolized.167-173,176-179,181,183 The use of PPE was advocated for both staff and
+visitors  in  two  outbreak  studies.169,179  There  was  very  low-quality  evidence  among
+several  studies  to  support  the  implementation  of  staff  exclusion  policies  to  prevent
+symptomatic
+ norovirus
+ infections
+ in
+ healthcare
+settings.84,85,92,165,167-169,172,174,176,177,179-181,183,184  Fifteen  descriptive
+studies  emphasized  granting  staff  sick  time  from  the  time  of  symptom  onset  to  a
+minimum
+ of
+ 24
+ hours
+ after
+ symptom
+resolution.84,85,92,167-169,172,176,177,179,180,183,184  The  majority  of  studies
+opted  for  48  hours  after  symptom  resolution  before  staff  could  return  to  the
+workplace.84,92,167,169,172,176,177,179,180,183,184 One study instituted a policy to
+exclude  symptomatic  staff  from  work  until  they  had  remained  symptom-free  for  72
+hours.168 While selected studies have identified the ability of persons to shed virus for
+protracted  periods  post-infection,  it  is  not  well  understood  whether  virus  detection
+translates  to  norovirus  infectivity.  The  literature  search  was  unable  to  determine
+whether  return  to  work  policies  were  effective  in  reducing  secondary  transmission  of
+norovirus  in  healthcare  facilities.  There  was  very  low-quality  evidence  among  several
+descriptive  studies  to  support  patient  cohorting  or  placing  patients  on  Contact
+Precautions  as  an  intervention  to  prevent  symptomatic  norovirus  infections  in
+healthcare settings.87,166-171,173,176,177,179-182,184 No evidence was available to
+encourage the use of Contact Precautions for sporadic cases, and the standard of care
+in these circumstances is to manage such cases with Standard Precautions (See 2007
+Guideline  for  Isolation  Precautions:  Preventing  Transmission  of  Infectious  Agents  in
+Healthcare Settings). Fifteen descriptive studies used isolation precautions or cohorting
+practices
+ as
+ a
+ primary
+ means
+ of
+ outbreak
+management.87,166-171,173,176,177,179-182,184  Patients  were  cared  for  in  single
+occupancy  (e.g.,  private)  rooms,  physically  grouped  into  cohorts  of  symptomatic,
+exposed  but  asymptomatic,  or  unexposed  within  a  ward,  or  alternatively,  with  entire
+wards  placed  under  Contact  Precautions.  Exposure  status  typically  was  based  on  a
+person's symptoms and/or physical and temporal proximity to norovirus activity. A few
+studies  cited  restricting  patient  movements  within  the  ward,  suspending  group
+activities, and special considerations for therapy or other medical appointments during
+outbreak
+ periods
+ as
+ adjunct
+ measures
+ to
+ control
+ the
+ spread
+ of
+norovirus.63,169,182,183  Very  low-quality  evidence  supported  the  implementation  of
+staff  cohorting  and  the  exclusion  of  non-essential  staff  and  volunteers  to  prevent
+symptomatic  norovirus  infections.87,103,165,168-170,172,173,177,179,180,182,183
+All studies addressing this topic were descriptive. Staff was designated to care for one
+cohort of patients (symptomatic, exposed but asymptomatic, or unexposed). Exposed
+staff was discouraged from working in unaffected clinical areas and from returning to
+care  for  unexposed  patients  before,  at  a  minimum,  allowing  48  hours  from  their  last
+putative  exposure  to  elapse.177  The  search  strategy  did  not  identify  healthcare
+personnel other than nursing, medical, environmental services, and paramedical staff
+who were assigned to staff cohorting. There were no identified studies that evaluated
+the infectious risk of assigning recovered staff as caregivers for asymptomatic patients.
+Low-quality  evidence  was  available  to  support  ward  closure  as  an  intervention  to
+prevent  symptomatic  norovirus  infections.85,164-166,168,173,176-179,183,184  Ward
+closure  focused  on  temporarily  suspending  transfers  in  or  out  of  the  ward,  and
+discouraged  or  disallowed  staff  from  working  in  clinical  areas  outside  of  the  closed
+ward. One prospective controlled study evaluating 227 ward-level outbreaks between
+2002  and  2003  demonstrated  that  outbreaks  were  significantly  shorter  (7.9  vs.  15.4
+days, p<0.01) when wards were closed to new admissions.164 The mean duration of
+ward closure was 9.65 days, with a loss of 3.57 bed-days for each day the ward was
+closed.  The  duration  of  ward  closure  in  the  descriptive  studies  examined  was
+dependent on facility resources and magnitude of the outbreaks. Allowing at least 48
+hours from the resolution of the last case, followed by thorough environmental cleaning
+and  disinfection  was  common  before  re-opening  a  ward.  Other  community-based
+studies  have  used  closures  as  an  opportunity  to  perform  thorough  environmental
+cleaning  and  disinfection  before  re-opening.  Two  studies  moved  all  patients  with
+symptoms  of  norovirus  infection  to  a  closed  infectious  disease  ward  and  then
+performed thorough terminal cleaning of the vacated area.170,172 In most instances,
+studies defended that it was preferable to minimize patient movements and transfers in
+an effort to contain environmental contamination. There was very low-quality evidence
+demonstrating  the  impact  of  restriction  and/or  screening  of  visitors  for  symptoms
+consistent  with  norovirus  infection.168,170,173,182,183  In  two  studies,  visitors  were
+screened for symptoms of gastroenteritis using a standard questionnaire or evaluated
+by  nursing  staff  prior  to  ward  entry  as  part  of  multi-faceted  outbreak  control
+measures.168,170 Other studies restricted visitors to immediate family, suspended all
+visitor privileges, or curtailed visitors from accessing multiple clinical areas.182,183 The
+reviewed  literature  failed  to  identify  research  that  considered  the  impact  of  different
+levels  of  visitor  restrictions  on  outbreak  containment.  There  was  very  low-quality
+evidence  on  the  impact  of  staff  and/or  patient  education  on  symptomatic  norovirus
+infections.166,168,169,172,173,182  Six  studies  simply  described  education  promoted
+during outbreaks.166,168,169,172,173,182 Content for education included recognizing
+symptoms  of  norovirus,  understanding  basic  principles  of  disease  transmission,
+understanding  the  components  of  transmission-based  precautions,  patient  discharges
+and  transfer  policies,  as  well  as  cleaning  and  disinfection  procedures.  While  many
+options are available, the studies that were reviewed used posters to emphasize hand
+hygiene  and  conducted  one-on-one  teaching  with  patients  and  visitors,  as  well  as
+holding  departmental  seminars  for  staff.  The  literature  reviewed  failed  to  identify
+research  that  examined  the  impact  of  educational  measures  on  the  magnitude  and
+duration  of  outbreaks  of  norovirus  gastroenteritis,  or  what  modes  of  education  were
+most  effective  in  promoting  adherence  to  outbreak  measures.  There  was  very
+low-quality  evidence  to  suggest  that  surveillance  for  norovirus  activity  was  an
+important measure in preventing symptomatic infection.58,84,166,170 Four descriptive
+studies  identified  surveillance  as  a  component  of  outbreak  measurement  and
+containment. Establishing a working case definition and performing active surveillance
+through contact tracing, admission screening, and patient chart review were suggested
+as  actionable  items  during  outbreaks.  There  was  no  available  literature  to  determine
+whether  active  case-finding  and  tracking  of  new  norovirus  cases  were  directly
+associated  with  shorter  outbreaks  or  more  efficient  outbreak  containment.  Very
+low-quality evidence was available to support the benefits of having established written
+policies and a pre-arranged communication framework in facilitating the prevention and
+management  of  symptomatic  norovirus  infections.63,84,172,182-184Six  descriptive
+studies  outlined  the  need  for  mechanisms  to  disseminate  outbreak  information  and
+updates to staff, laboratory liaisons, healthcare facility administration, and public health
+departments. 63,84,172,182-184 The search of the literature did not yield any studies
+to demonstrate that facilities with written norovirus policies already in place had fewer
+or shorter outbreaks of norovirus gastroenteritis. There was very low-quality evidence
+examining the benefit of delayed discharge or transfer for patients with symptomatic
+norovirus infection.172,179,183,184 Transfer of patients after symptom resolution was
+supported  in  one  study  but  discouraged  unless  medically  necessary  in  three  others.
+Discharge  home  was  supported  once  a  minimum  of  48  hours  had  elapsed  since  the
+patient's  symptoms  had  resolved.  For  transfers  to  long-term  care  or  assisted  living,
+patients were held for five days after symptom resolution before transfer occurred. The
+literature  search  was  unable  to  identify  studies  that  compared  the  impact  of
+conservative  patient  discharge  policies  for  recovered,  asymptomatic  patients.
+Q3.C.12.a  Targeted  surface  disinfection  Very  low-quality  evidence  was  available  to
+support  cleaning  and  disinfection  of  frequently  touched  surfaces  to  prevent
+symptomatic  norovirus  infection.79,153,168,183  One  systematic  review153  and  three
+descriptive  studies79,168,183  highlighted  the  need  to  routinely  clean  and  disinfect
+frequently  touched  surfaces  (e.g.,  patient  and  staff  bathrooms  and  clean  and  dirty
+utility  rooms,  tables,  chairs,  commodes,  computer  keyboards  and  mice,  and  items  in
+close  proximity  to  symptomatic  patients).  One  systematic  review153  and  two
+descriptive  studies102,177,183,184  supported-steam  cleaning  carpets  once  an
+outbreak  was  declared  over.  Within  the  review,  a  single  case  report  suggested  that
+contaminated carpets may contain viable virus for a minimum of twelve days even after
+routine  dry  vacuuming.153  Routine  cleaning  and  disinfection  of  non-porous  flooring
+were  supported  by  several  studies,  with  particular  attention  to  prompt  cleaning  of
+visible  soiling  from  emesis  or  fecal  material.153,168  There  were  no  studies  directly
+addressing the impact of surface disinfection of frequently touched areas on outbreak
+prevention or containment. Q3.C.12.b Process of environmental disinfection There was
+very  low-quality  evidence  supportive  of  enhanced  cleaning  during  an  outbreak  of
+norovirus
+ gastroenteritis.168,170,177,179
+ Several
+ studies
+ cited
+ increasing
+ the
+frequency
+ of
+ cleaning
+ and
+ disinfection
+ during
+ outbreaks
+ of
+ norovirus
+gastroenteritis.168,170,177,179 Ward-level cleaning was performed once to twice per
+day,  with  frequently  touched  surfaces  and  bathrooms  cleaned  and  disinfected  more
+frequently  (e.g.,  hourly,  once  per  shift,  or  three  times  daily).  Studies  also  described
+enhancements to the process of environmental cleaning. Environmental services staff
+wore
+ PPE
+ while
+ cleaning
+ patient-care
+ areas
+ during
+ outbreaks
+ of
+ norovirus
+gastroenteritis.176,177,179,205  Personnel  first  cleaned  the  rooms  of  unaffected
+patients and then moved to the symptomatic patient areas 159. Adjunct measures to
+minimize  environmental  contamination  from  two  descriptive  studies  included  labeling
+patient commodes and expanding the cleaning radius for enhanced cleaning within the
+immediate  patient  area  to  include  other  proximal  fixtures  and  equipment.170,177  In
+another study, mop heads were changed at an interval of once every three rooms.168
+This  literature  search  was  not  able  to  identify  whether  there  was  an  association  with
+enhanced  cleaning  regimens  during  outbreaks  of  norovirus  gastroenteritis  and  the
+attenuation in outbreak magnitude or duration. Q3.C.12.c Patient-service items There
+was very low-quality evidence to support the cleaning of patient equipment or service
+items  to  reduce  symptomatic  norovirus  infections.168,172,177  Three  descriptive
+studies  suggested  that  patient  equipment/service  items  be  cleaned  and  disinfected
+after  use,  with  disposable  patient  care  items  discarded  from  patient  rooms  upon
+discharge.168,172,177 A single descriptive study used disposable dishware and cutlery
+for symptomatic patients.172 There were no identified studies that directly examined
+the  impact  of  disinfection  of  patient  equipment  on  outbreaks  of  norovirus
+gastroenteritis. Q3.C.12.d Fabrics Very low-quality evidence was available to examine
+the  impact  of  fabric  disinfection  on  norovirus  infections.153,168,177,183  One
+systematic  review153  and  three  descriptive  studies168,177,183  suggested  changing
+patient  privacy  curtains  if  they  are  visibly  soiled  or  upon  patient  discharge.  One
+descriptive  study  suggested  that  soiled,  upholstered  patient  equipment  should  be
+steam  cleaned135,  159.  If  this  was  not  possible,  those  items  were  discarded.  Two
+descriptive  studies  emphasized  careful  handling  of  soiled  linens  to  minimize
+re-aerosolization of virus.177,183 Wheeling hampers to the bedside or using hot soluble
+hamper
+ bags
+ (e.g.,
+ disposable)
+ were
+ suggested
+ mechanisms
+ to
+ reduce
+self-contamination.  This  literature  search  did  not  identify  studies  that  examined  the
+direct  impact  of  disinfection  of  fabrics  on  outbreaks  of  norovirus  gastroenteritis  or
+whether  self-  contamination  with  norovirus  was  associated  with  new  infection.
+Q.3.C.12.e Cleaning and disinfection agents The overall quality of evidence on cleaning
+and
+ disinfection
+ agents
+ was
+ very
+low.63,83,87,89,153,167,168,170,174,176-179,182,184  The  outcomes  examined  were
+symptomatic  norovirus  infection,  inactivation  of  human  norovirus,  and  inactivation  of
+FCV. Evidence for efficacy against norovirus was usually based on studies using FCV as
+a  surrogate.  However,  FCV  and  norovirus  exhibit  different  physiochemical  properties
+and it is unclear whether inactivation of FCV reflects efficacy against human strains of
+norovirus.
+ One
+ systematic
+ review153
+ and
+ 14
+ descriptive
+studies63,83,87,89,167,168,170,174,176-179,182,184
+ outlined
+ strategies
+ for
+containing  environmental  bioburden.  The  majority  of  outbreaks  were  managed  with
+sodium  hypochlorite  in  various  concentrations  as  the  primary  disinfectant.  The
+concentrations  for  environmental  cleaning  among  these  studies  ranged  from  0.1%  to
+6.15% sodium hypochlorite. There was found moderate quality evidence to examine the
+impact of disinfection agents on human norovirus inactivation.187,194,201 Three basic
+science  studies  evaluated  the  virucidal  effects  of  select  disinfectants  against
+norovirus.187,194,201  A  decline  of  3  in  the  log10  of  human  norovirus  exposed  to
+disinfectants  in  the  presence  of  fecal  material,  a  fetal  bovine  serum  protein  load,  or
+both was achieved with 5% organic acid after 60 minutes of contact time, 6000 ppm
+free  chlorine  with  15  minutes  of  contact  time,  or  a  1  or  2%  peroxide  solution  for  60
+minutes.187 This study also demonstrated that the range of disinfectants more readily
+inactivated  FCV  than  human  norovirus  samples,  suggesting  that  FCV  may  not  have
+equivalent  physical  properties  to  those  of  human  norovirus.  One  basic  science  study
+demonstrated  a  procedure  to  eliminate  norovirus  (genogroup  II)  from  a  melamine
+substrate  using  a  two  step  process  –  a  cleaning  step  to  remove  gross  fecal  material,
+followed  by  a  5000-ppm  hypochlorite  product  with  a  one  minute  contact  time.194
+Cleaning  with  a  detergent,  or  using  a  disinfectant  alone  failed  to  eliminate  the  virus.
+Moderate  quality  evidence  was  available  on  the  impact  of  disinfection  agents  on  the
+human  norovirus  surrogate,  FCV.185,187,188,190-192,198-200  Nine  basic  science
+studies
+ evaluated
+ the
+ activity
+ of
+ several
+ disinfectants
+ agents
+ against
+FCV.185,187,188,190-192,198-200  Only  a  single  study  showed  equivalent  efficacy
+between  a  quaternary  ammonium  compound  and  1000  ppm  hypochlorite  on
+non-porous  surfaces.188  In  contrast,  selected  quaternary  ammonium  based-products,
+ethanol,  and  a  1%  anionic  detergent  were  all  unable  to  inactivate  FCV  beyond  a
+reduction  of  1.25  in  the  log10  of  virus,  compared  to  1000  ppm  and  5000  ppm
+hypochlorite, 0.8% iodine, and 0.5% glutaraldehyde products.200 4% organic acid, 1%
+peroxide,  and  >2%  aldehyde  products  showed  inactivation  of  FCV  but  only  with
+impractical  contact  times  exceeding  1  hour.187  Studies  of  disinfecting  non-porous
+surfaces  and  hands  evaluated  the  efficacy  of  varying  dilutions  of  ethanol  and
+isopropanol and determined that 70-90% ethanol was more efficacious at inactivating
+FCV compared to isopropanol, but unable to achieve a reduction of 3 in the log10 of the
+viral titer (99.9%), even after 10 minutes of contact.191 Other studies have shown that
+combinations of phenolic and quaternary ammonium compounds and peroxyacetic acid
+were  only  effective  against  FCV  if  they  exceeded  the  manufacturers'  recommended
+concentrations  by  a  factor  of  2  to  4.199  The  included  basic  science  studies  agents
+demonstrating  complete  inactivation  of  FCV  were  those  containing  hypochlorite,
+glutaraldehyde,  hydrogen  peroxide,  iodine,  or  >5%  sodium  bicarbonate  active
+ingredients.  Not  all  of  these  products  are  feasible  for  use  in  healthcare  settings.  In
+applications to various fabrics (100% cotton, 100% polyester, and cotton blends), FCV
+was inactivated completely by 2.6% glutaraldehyde, and showed >90% reductions of
+FCV titers when phenolics, 2.5% or 10% sodium bicarbonate, or 70% isopropanol were
+evaluated.190  In  carpets  consisting  of  olefin,  polyester,  nylon,  or  blends,  2.6%
+glutaraldehyde  demonstrated  >99.7%  inactivation  of  FCV,  with  other  disinfectants
+showing  moderate  to  modest  reductions  in  FCV  titers.190The  experimental  use  of
+monochloramine  as  an  alternative  disinfectant  to  free  chlorine  in  water  treatment
+systems  only  demonstrated  modest  reductions  in  viral  titer  after  3  hours  of  contact
+time.  The  literature  search  did  not  evaluate  publications  using  newer  methods  for
+environmental disinfection, such as ozone mist from a humidifying device, fumigation,
+UV  irradiation,  and  fogging.  This  search  strategy  was  unable  to  find  well-designed
+studies that compared virucidal efficacy of products on human norovirus, FCV, or other
+surrogate  models  among  commonly  used  hospital  disinfectants  agents  to  establish
+practical standards, conditions, concentrations, and contact times. Ongoing laboratory
+studies  are  now  exploring  murine  models  as  a  surrogate  that  may  exhibit  greater
+similarity to human norovirus than FCV. Forthcoming research using this animal model
+may  provide  clearer  direction  regarding  which  disinfectants  reduce  norovirus
+environmental
+ contamination
+ from
+ healthcare
+ environments,
+ while
+ balancing
+occupational safety issues with the practicality of efficient and ready-to-use products.
+There  was  very  low-quality  evidence  suggesting  that  select  medications  may  reduce
+the  risk  of  illness  or  attenuate  symptoms  of  norovirus.202,203  Among  elderly
+psychiatric patients, those on antipsychotic drugs plus trihexyphenidyl or benztropine
+were  less  likely  to  become  symptomatic,  as  were  those  taking  psyllium  hydrophilic
+mucilloid.203  The  pharmacodynamics  to  explain  this  outcome  are  unknown,  and  it  is
+likely that these medications may either be a surrogate marker for another biologically
+plausible protective factor, or may impact norovirus through central or local effects on
+gastrointestinal motility. Those who received nitazoxanide, an anti-protozoal drug, were
+more  likely  to  exhibit  longer  periods  of  norovirus  illness  than  those  patients  who
+received placebo.202 The search strategy used in this review did not identify research
+that considered the effect of anti-peristaltics on the duration or outcomes of norovirus
+infection. 3.A.1 Consider extending the duration of isolation or cohorting precautions for
+outbreaks among infants and young children (e.g., under 2 years), even after resolution
+of  symptoms,  as  there  is  a  potential  for  prolonged  viral  shedding  and  environmental
+contamination.  Among  infants,  there  is  evidence  to  consider  extending  contact
+precautions  for  up  to  5  days  after  the  resolution  of  symptoms.  (Category  II)  (Key
+Question 3A) 3.A.2 Further research is needed to understand the correlation between
+prolonged  shedding  of  norovirus  and  the  risk  of  infection  to  susceptible  patients.  (No
+recommendation/ unresolved issue) (Key Question 3A) 3.B.1 Perform routine cleaning
+and  disinfection  of  frequently  touched  environmental  surfaces  and  equipment  in
+isolation and cohorted areas, as well as high-traffic clinical areas. Frequently touched
+surfaces  include,  but  are  not  limited  to,  commodes,  toilets,  faucets,  hand/bedrailing,
+telephones,  door  handles,  computer  equipment,  and  kitchen  preparation  surfaces.
+(Category IB) (Key Question 3B) 3.B.2 Remove all shared or communal food items for
+patients or staff from clinical areas for the duration of the outbreak. (Category IB) (Key
+Question 3B) 3.C.1.a. Actively promote adherence to hand hygiene among healthcare
+personnel,  patients,  and  visitors  in  patient  care  areas  affected  by  outbreaks  of
+norovirus  gastroenteritis.  (Category  IB)  (Key  Question  3C)  3.C.1.b.  During  outbreaks,
+use  soap  and  water  for  hand  hygiene  after  providing  care  or  having  contact  with
+patients  suspected  or  confirmed  with  norovirus  gastroenteritis.  (Category  IB)  (Key
+Question 3C) 3.C.1.b.1. For all other hand hygiene indications (e.g., when hands are not
+visibly  soiled  and  have  not  been  in  contact  with  diarrheal  patients,  contaminated
+surfaces, or other body fluids) refer to the 2002 HICPAC Guideline for Hand Hygiene in
+Health-Care Settings Cdc-pdf[PDF – 494 KB]), which includes the indications for use of
+FDA-compliant alcohol based hand sanitizer. (Category IB) (Key Question 3C) 3.C.1.b.2.
+Consider  ethanol-based  hand  sanitizers  (60-95%)  as  the  preferred  active  agent
+compared  to  other  alcohol  or  non-alcohol  based  hand  sanitizer  products  during
+outbreaks of norovirus gastroenteritis. (Category II) (Key Question 3C) 3.C.1.b.3. Further
+research is required to directly evaluate the efficacy of alcohol-based hand sanitizers
+against  human  strains  of  norovirus,  or  against  a  surrogate  virus  with  properties
+convergent  with  human  strains  of  norovirus.  (No  recommendation/  unresolved  issue)
+(Key Question 3C) 3.C.2.a Use a surgical or procedure mask and eye protection or a full
+face  shield  if  there  is  an  anticipated  risk  of  splashes  to  the  face  during  the  care  of
+patients, particularly among those who are vomiting. (Category IB) (Key Question 3C)
+3.C.3  Develop  and  adhere  to  sick  leave  policies  for  healthcare  personnel  who  have
+symptoms consistent with norovirus infection. (Category IB) (Key Question 3C) 3.C.3.a
+Exclude  ill  personnel  from  work  for  a  minimum  of  48  hours  after  the  resolution  of
+symptoms. Once personnel return to work, the importance of performing frequent hand
+hygiene  should  be  reinforced,  especially  before  and  after  each  patient  contact.
+(Category IB) (Key Question 3C) 3.C.4.a During outbreaks, place patients with norovirus
+gastroenteritis on Contact Precautions for a minimum of 48 hours after the resolution of
+symptoms  to  prevent  further  transmission.  (Category  IB)  (Key  Question  3C)  3.C.4.b
+When  patients  with  norovirus  gastroenteritis  cannot  be  accommodated  in  single
+occupancy  rooms,  efforts  should  be  made  to  separate  them  from  asymptomatic
+patients.  Dependent  upon  facility  characteristics,  approaches  for  cohorting  patients
+during  outbreaks  may  include  placing  patients  in  multi-occupancy  rooms,  or
+designating  patient  care  areas  or  contiguous  sections  within  a  facility  for  patient
+cohorts.  (Category  IB)  (Key  Question  3C)  3.C.4.c  Consider  minimizing  patient
+movements within a ward or unit during norovirus gastroenteritis outbreaks. (Category
+II) (Key Question 3C) 3.C.4.c.1 Consider restricting symptomatic and recovering patients
+from leaving the patient-care area unless it is for essential care or treatment to reduce
+the  likelihood  of  environmental  contamination  and  transmission  of  norovirus  in
+unaffected clinical areas. (Category II) (Key Question 3C) 3.C.4.d Consider suspending
+group activities (e.g., dining events) for the duration of a norovirus outbreak. (Category
+II)(Key  Question  3C)  3.C.5.a  Establish  protocols  for  staff  cohorting  in  the  event  of  an
+outbreak of norovirus gastroenteritis. Ensure staff care for one patient cohort on their
+ward  and  do  not  move  between  patient  cohorts  (e.g.,  patient  cohorts  may  include
+symptomatic,  asymptomatic  exposed,  or  asymptomatic  unexposed  patient  groups).
+(Category  IB)  (Key  Question  3C)  3.C.5.b  Staff  who  have  recovered  from  recent
+suspected norovirus infection associated with this outbreak may be best suited to care
+for  symptomatic  patients  until  the  outbreak  resolves.  (Category  II)  (Key  Question  3C)
+3.C.5.c  Exclude  non-essential  staff,  students,  and  volunteers  from  working  in  areas
+experiencing  outbreaks  of  norovirus  gastroenteritis.  (Category  IB)  (Key  Question  3C)
+3.C.6  Consider  the  closure  of  wards  to  new  admissions  or  transfers  as  a  measure  to
+attenuate the magnitude of an outbreak of norovirus gastroenteritis. The threshold for
+ward closure varies and depends on risk assessments by infection prevention personnel
+and facility leadership. (Category II) (Key Question 3C) 3.C.7.a Establish visitor policies
+for  acute  gastroenteritis  (e.g.,  norovirus)  outbreaks.  (Category  IB)  (Key  Question  3C)
+3.C.7.b  Restrict  non-essential  visitors  from  affected  areas  of  the  facility  during
+outbreaks  of  norovirus  gastroenteritis.  (Category  IB)  (Key  Question  3C)  3.C.7.b.1  For
+those affected areas where it is necessary to have continued visitor privileges during
+outbreaks,  screen  and  exclude  visitors  with  symptoms  consistent  with  norovirus
+infection  and  ensure  that  they  comply  with  hand  hygiene  and  Contact  Precautions.
+(Category  IB)  (Key  Question  3C)  3.C.8.a  Provide  education  to  staff,  patients,  and
+visitors, including recognition of norovirus symptoms, preventing infection, and modes
+of  transmission  upon  the  recognition  and  throughout  the  duration  of  a  norovirus
+gastroenteritis  outbreak.  (Category  IB)  (Key  Question  3C)  3.C.8.b  Consider  providing
+educational  sessions  and  making  resources  available  on  the  prevention  and
+management of norovirus before outbreaks occur, as part of annual trainings, and when
+sporadic  cases  are  detected.  (Category  II)(Key  Question  3C)  3.C.9.a  Begin  active
+case-finding when a cluster of acute gastroenteritis cases is detected in the healthcare
+facility. Use a specified case definition, and implement line lists to track both exposed
+and  symptomatic  patients  and  staff.  Collect  relevant  epidemiological,  clinical,  and
+demographic data as well as information on patient location and outcomes. (Category
+IB) (Key Question 3C) 3.C.9.b As with all outbreaks, notify appropriate local and state
+health  departments,  as  required  by  state  and  local  public  health  regulations,  if  an
+outbreak  of  norovirus  gastroenteritis  is  suspected.  (Category  IC)  (Key  Question  3C)
+3.C.10  Develop  written  policies  that  specify  the  chains  of  communication  needed  to
+manage  and  report  outbreaks  of  norovirus  gastroenteritis.  Key  stakeholders  such  as
+clinical  staff,  environmental  services,  laboratory  administration,  healthcare  facility
+administration  and  public  affairs,  as  well  as  state  or  local  public  health  authorities,
+should be included in the framework. (Category IB) (Key Question 3C) 3.C.10.a Provide
+timely  communication  to  personnel  and  visitors  when  an  outbreak  of  norovirus
+gastroenteritis is identified and outline what policies and provisions need to be followed
+to prevent further transmission (Category IB)(Key Question 3C) 3.C.11 Consider limiting
+transfers  to  those  for  which  the  receiving  facility  is  able  to  maintain  Contact
+Precautions; otherwise, it may be prudent to postpone transfers until patients no longer
+require
+ Contact
+ Precautions.
+ During
+ outbreaks,
+ medically
+ suitable
+ individuals
+recovering from norovirus gastroenteritis can be discharged to their place of residence.
+(Category II) (Key Question 3C) 3.C.12.a Clean and disinfect shared equipment between
+patients  using  EPA-registered  products  with  label  claims  for  use  in  healthcare.  Follow
+the  manufacturer's  recommendations  for  application  and  contact  times.  The  EPA  lists
+products  with  activity  against  norovirus  on  their  website  (Selected  EPA-registered
+DisinfectantsExternal  [Current  version  of  this  document  may  differ  from  original.]).
+(Category  IC)  (Key  Question  3C)  3.C.12.b.1  Increase  the  frequency  of  cleaning  and
+disinfection of patient care areas and frequently touched surfaces during outbreaks of
+norovirus  gastroenteritis  (e.g.,  consider  increasing  ward/unit  level  cleaning  to  twice
+daily to maintain cleanliness, with frequently touched surfaces cleaned and disinfected
+three  times  daily  using  EPA-approved  products  for  healthcare  settings).  (Category  IB)
+(Key Question 3C) 3.C.12.b.2 Clean and disinfect surfaces starting from the areas with a
+lower  likelihood  of  norovirus  contamination  (e.g.,  tray  tables,  counter  tops)  to  areas
+with highly contaminated surfaces (e.g., toilets, bathroom fixtures). Change mop heads
+when  a  new  bucket  of  cleaning  solution  is  prepared,  or  after  cleaning  large  spills  of
+emesis or fecal material. (Category IB) (Key Question 3C) 3.C.12.c.1 Consider discarding
+all disposable patient-care items and laundering unused linens from patient rooms after
+patients  on  isolation  for  norovirus  gastroenteritis  are  discharged  or  transferred.
+Facilities can minimize waste by limiting the number of disposable items brought into
+rooms/areas  on  Contact  Precautions.  (Category  II)  (Key  Question  3C)  3.C.12.c.2  No
+additional  provisions  for  using  disposable  patient  service  items  such  as  utensils  or
+dishware are suggested for patients with symptoms of norovirus infection. Silverware
+and dishware may undergo normal processing and cleaning using standard procedures.
+(Category II) (Key Question 3C) 3.C.12.c.3 Use Standard Precautions for handling soiled
+patient-service items or linens, including the use of appropriate PPE. (Category IB) (Key
+Question 3C) 3.C.12.d.1 Consider avoiding the use of upholstered furniture and rugs or
+carpets  in  patient  care  areas,  as  these  objects  are  difficult  to  clean  and  disinfect
+completely. If this option is not possible, immediately clean soilage, such as emesis or
+fecal  material,  from  upholstery,  using  a  manufacturer-approved  cleaning  agent  or
+detergent. Opt for seating in patient-care areas that can withstand routine cleaning and
+disinfection.  (Category  II)  (Key  Question  3C)  3.C.12.d.2  Consider  steam  cleaning  of
+upholstered  furniture  in  patient  rooms  upon  discharge.  Consult  with  manufacturer's
+recommendations  for  cleaning  and  disinfection  of  these  items.  Consider  discarding
+items that cannot be appropriately cleaned/disinfected. (Category II) (Key Question 3C)
+3.C.12.d.3 During outbreaks, change privacy curtains when they are visibly soiled and
+upon patient discharge or transfer. (Category IB) (Key Question 3C) 3.C.12.d.4 Handle
+soiled linens carefully, without agitating them, to avoid dispersal of virus. Use Standard
+Precautions, including the use of appropriate PPE (e.g., gloves and gowns), to minimize
+the  likelihood  of  cross-contamination.  (Category  IB)  (Key  Question  3C)  3.C.12.d.5
+Double  bagging,  incineration,  or  modifications  for  laundering  are  not  indicated  for
+handling  or  processing  soiled  linen.  (Category  II)  (Key  Question  3C)  3.C.12.e.1  Clean
+surfaces  and  patient  equipment  prior  to  the  application  of  a  disinfectant.  Follow  the
+manufacturer's  recommendations  for  optimal  disinfectant  dilution,  application,  and
+surface  contact  time  with  an  EPA-approved  product  with  claims  against  norovirus.
+(Category  IC)  (Key  Question  3C)  3.C.12.e.2  More  research  is  required  to  clarify  the
+effectiveness of cleaning and disinfecting agents against norovirus, either through the
+use  of  surrogate  viruses  or  the  development  of  human  norovirus  culture  system.  (No
+recommendation/  unresolved  issue)  (Key  Question  3C)  3.C.12.e.3  More  research  is
+required to clarify the effectiveness and reliability of fogging, UV irradiation, and ozone
+mists  to  reduce  norovirus  environmental  contamination.  (No  recommendation/
+unresolved issue) (Key Question 3C) 3.C.12.e.4 More research is required to evaluate
+the virucidal capabilities of alcohol-based as well as non-alcohol based hand sanitizers
+against  norovirus.  (No  recommendation/  unresolved  issue)  (Key  Question  3C)  3.D
+Further research is required to evaluate the utility of medications that may attenuate
+the duration and severity of norovirus illness. (No recommendation/ unresolved issue)
+(Key Question 3D) CDC provides information on infection control and clinical safety to
+help  reduce  the  risk  of  infections  among  healthcare  workers,  patients,  and  visitors.
+Languages Language Assistance Languages  Language Assistance 
+Source URL: https://www.cdc.gov/infection-control/hcp/norovirus-guidelines/evidence-review.html

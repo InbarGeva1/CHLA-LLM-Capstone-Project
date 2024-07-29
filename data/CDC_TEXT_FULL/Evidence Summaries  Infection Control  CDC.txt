@@ -1,0 +1,386 @@
+A .gov website belongs to an official government organization in the United States. A
+lock (  ) or https:// means you've safely connected to the .gov website. Share sensitive
+information  only  on  official,  secure  websites.  Evidence  Summaries  from  the
+Recommendations for Prevention and Control of Infections in NICU Patients: S. aureus
+(2020) guideline. Key Question 1. What are effective strategies for preventing S. aureus
+transmission from colonized or infected NICU patients to other patients, and do these
+strategies  differ  between  MRSA  and  MSSA  or  in  the  setting  of  an  outbreak?  Key
+Question  2.  If  active  surveillance  is  conducted,  which  anatomic  sampling  sites  and
+laboratory assays most effectively identify S. aureus colonization in NICU patients? To
+address these questions, studies were considered that examined interventions for the
+prevention of transmission of S. aureus, including methicillin-resistant S. aureus (MRSA)
+or  methicillin-sensitive  S.  aureus  (MSSA),  from  colonized  or  infected  NICU  patients  to
+other patients. The search strategy predominantly identified studies describing multiple
+infection prevention and control strategies implemented simultaneously or sequentially.
+In  multi-intervention  studies,  it  is  not  possible  to  distinguish  the  effectiveness  of
+individual interventions, and it is likely that a combination of interventions led to any
+reported  reductions  in  healthcare-associated  transmission  of  S.  aureus.  The
+interventions described in these studies include core infection prevention and control
+strategies,  institution  of  preemptive  Contact  Precautions,  changes  in  hand  hygiene
+protocols, use of polymerase chain reaction (PCR) compared to conventional culture for
+testing,  active  surveillance  testing,  and  decolonization  of  NICU  patients.  The  benefits
+weighed  in  evaluating  the  evidence  included  the  outcomes  of  reduction  in  S.  aureus
+infection, colonization, and transmission (a composite measure including both infection
+and  colonization),  attributable  mortality,  and  length  of  stay.  Harms  included  the
+outcomes of antimicrobial resistance and product-related adverse events. The outcome
+deemed  critical  to  decision-making  was  reduction  in  S.  aureus  infections.  For  the
+purposes  of  this  analysis,  healthcare-associated  transmission  within  the  NICU  is
+suggested by an increase in cases of S. aureus colonization or infection as determined
+by cultures obtained for clinical indications or surveillance purposes. The evidence for
+these  questions  consisted  of  20  observational  studies.[2–9,11,17,23,32,38,52–58]  The
+findings of the evidence review and the grades for all critical and important outcomes
+are  provided  in  the  Appendix.  (Appendix  Section  3.)  The  search  identified  12
+observational  studies  [2–5,7,8,11,32,54–56,58]  that  implemented  multiple  infection
+prevention  and  control  strategies  simultaneously  to  prevent  and  control  S.  aureus
+transmission.  Nine  studies[3–8,32,55,56]  implemented  multi-intervention  strategies  to
+prevent  MRSA:  2  in  the  outbreak  setting,[3,6]  and  7  in  the  non-outbreak
+setting.[4,5,7,8,32,55,56]  One  study[54]  implemented  multi-intervention  strategies  to
+prevent  MSSA  in  the  non-outbreak  setting,  and  2  non-outbreak  studies[2,58]
+implemented these strategies to reduce S. aureus transmission. For the purposes of this
+analysis,  multi-intervention  infection  prevention  and  control  strategies  included  a
+combination  of  the  following  interventions:  All  studies  retrieved  in  this  analysis
+implemented  a  combination  of  some  or  all  of  these  interventions.  The  independent
+effect  of  each  of  these  interventions  cannot  be  determined  due  to  the  concurrent
+implementation of the measures. The optimal combination of infection prevention and
+control strategies could not be determined because all studies implemented different
+combinations  of  infection  prevention  and  control  strategies  in  both  the  endemic  and
+outbreak settings and reported heterogeneous outcome measures. It is notable that all
+7  studies[2,8,10,32,54–56]  that  reported  a  reduction  in  S.  aureus,  MRSA,  or  MSSA
+infections  included  the  intervention  of  infant  decolonization.  In  these  studies,  infant
+decolonization was frequently implemented after other infection prevention and control
+strategies were not successful in controlling transmission. The added implementation of
+Contact  Precautions  for  MRSA,  versus  Standard  Precautions  alone  for  MSSA,  is  the
+primary  difference  in  the  infection  prevention  and  control  strategies  implemented
+between  studies.  The  evidence  suggests  a  benefit  to  implementing  multiple  infection
+prevention and control strategies to reduce S. aureus transmission. This conclusion is
+based on overall reductions in S. aureus infections[2,8,10,32,54,56] and the composite
+outcome  of  transmission,  which  included  both  infected  and  colonized  infants.[6]  The
+benefit of implementing multi-intervention strategies to reduce S. aureus colonization
+as  a  sole  outcome  measure  could  not  be  determined  due  to  inconsistency  in  results
+across studies[4,5,32,55]; however, the results of one study[4] suggesting no benefit in
+the endemic setting were likely confounded by the emergence of an outbreak strain.
+The overall quality of this evidence was rated as low. The harms data reported in these
+studies was limited. One study[7] reported no difference in unadjusted length of stay
+and  attributable  mortality.  (Appendix  Section  3.A.1.a.,  Table  11)  Three  studies[3,6,8]
+suggest  a  benefit  to  implementing  multi-intervention  strategies  to  reduce  MRSA
+transmission.  However,  the  evidence  suggests  mixed  results  regarding  the  benefit  of
+implementing
+ multi-intervention
+ strategies
+ to
+ reduce
+ MRSA
+ infections
+ and
+colonization.[4,5,7,8,32,56,58]  It  is  notable  that  2  of  the  3  studies  reporting  the
+outcome  of  MRSA  transmission  were  conducted  in  the  outbreak  setting,  and  both  of
+these  studies[3,6]  reported  a  reduction  of  transmission.  Again,  data  were  limited  on
+harms,  and  only  one  study[7]  reported  no  change  in  unadjusted  length  of  stay  and
+attributable  mortality.  A  reduction  in  MRSA  transmission  was  seen  in  2  studies[3,6]
+conducted  in  the  outbreak  setting.  The  combination  of  interventions  implemented  in
+the outbreak and non-outbreak setting were similar. (Appendix Section 3.A.1.a., Table
+12)  Multi-intervention  strategy  data  are  limited  for  MSSA,  with  only  one  study[54]
+suggesting  a  reduction  in  MSSA  bacteremia  following  the  implementation  of  multiple
+infection prevention and control strategies. No harm outcomes were reported for this
+comparison.  (Appendix  Section  3.A.1.a.,  Table  13)  Recommendations  on  strategies
+considered foundational to infection prevention and control across healthcare settings
+can be found in the Core Infection Prevention and Control Practices for Safe Healthcare
+Delivery in All Settings – Recommendations of the HICPAC (2017) document.[1] In the
+setting  of  endemic  MRSA,  there  is  limited  evidence  of  benefit  to  implementing
+preemptive  Contact  Precautions  for  outborn  infants  until  their  colonization  status  is
+confirmed  as  negative.  A  decrease  in  MRSA  transmission  rate  was  observed  after
+implementation of preemptive Contact Precautions; however, this evidence consisted of
+one study[52] which also reported a 25% increase in hand hygiene compliance during
+the  intervention  period,  likely  confounding  the  results.  This  study  did  not  report
+adjusted  morbidity  or  attributable  mortality.  (Appendix  Section  3.A.1.b.,  Table  14)
+Evidence  from  one  study[53]  suggests  benefit  to  implementing  a  new  hand  hygiene
+protocol which incorporated multiple policy changes, including implementing universal
+glove  use  and  changing  the  cleansing  agent  from  a  chlorhexidine  hand  wash  to  a
+chlorhexidine-alcohol  hand  rub.  This  study[53]  found  a  decrease  in  the  incidence  of
+MRSA septicemia with the institution of this new hand hygiene protocol. No changes in
+either  mean  length  of  stay  or  infection-related  mortality  were  associated  with  the
+implementation  of  the  interventions  associated  with  this  policy.  (Appendix  Section
+3.A.1.c.,  Table  15)  Active  surveillance  testing  of  NICU  patients  to  identify
+newly-colonized  infants  to  guide  implementation  of  infection  prevention  and  control
+measures,  such  as  Contact  Precautions  or  decolonization,  has  been  shown  to  be  of
+benefit  in  the  context  of  an  outbreak,  increased  incidence  of  infection,  or  ongoing
+healthcare-associated
+ transmission.[2,4,5,8–11,58]
+ Observational
+ studies
+ report
+decreased incidence of infection and colonization. In most studies, the anterior nares
+were sampled; the umbilicus, rectum, axilla, and groin were also sampled. (Appendix
+Section  3.A.1.d.)  The  evidence  retrieved  suggests  that  implementation  of  active
+surveillance testing to guide implementation of infection control strategies results in a
+reduction  in  S.  aureus  infection[2,4,7–11]  and  transmission.[3,6]  The  evidence  of
+benefit was inconsistent for the outcome of S. aureus colonization.[2,4,5,58] The quality
+of evidence for these outcomes was rated as low. (Appendix Section 3.A.1.d., Table 16)
+There was evidence of reduction in MRSA transmission after using active surveillance
+testing to guide implementation of multiple infection prevention and control strategies.
+Two  of  the  3  studies[3,6]  reporting  this  outcome  were  conducted  in  the  outbreak
+setting.
+ The
+ evidence
+ suggests
+ no
+ reduction
+ in
+ MRSA
+ infections
+ with
+ the
+implementation  of  active  surveillance  testing.  Two  studies  reported  the  outcome  of
+MRSA colonization, and the results were inconsistent.[4,58] (Appendix Section 3.A.1.d.,
+Table  17)  Two  non-outbreak  studies[9,11]  employed  active  surveillance  to  guide  the
+implementation  of  infection  prevention  and  control  measures  to  prevent  MSSA.  One
+study[9]  implemented  decolonization  of  MSSA-colonized  infants,  and  the  other
+study[11] provided decolonization to very low birthweight infants with central venous or
+peripheral catheters. Both reported reductions in composite MSSA infections[9] or MSSA
+bloodstream infection (BSI) and pneumonia.[11] (Appendix Section 3.A.1.d., Table 18)
+Thirteen studies reported varying frequencies of active surveillance testing to detect S.
+aureus  colonization  in  NICU  infants.  In  these  studies,  active  surveillance  testing  was
+performed:  One  study[32]  implemented  routine  surveillance  on  a  monthly  basis,  and
+one tested all intubated patients weekly and added admission screening for "increased
+burden."[58]  The  interventions  implemented  for  patients  following  results  of
+surveillance cultures also varied among the studies, which affects the interpretability of
+the  results.  (Appendix  Section  3.A.1.e.)  Five  studies  found  a  reduction  in  S.  aureus
+infection  from  implementing  active  surveillance  testing  on  admission  and  weekly
+thereafter.  Two  of  these  studies[2,17]  conducted  admission  screening  for  all  infants,
+and 3 conducted admission screening for outborn infants only.[8–10] One non-outbreak
+study[7]  implementing  active  surveillance  testing  on  admission  and  weekly  for  all
+infants  found  no  reduction  in  MRSA  infections.  The  choice  of  the  optimal  target
+population for conducting active surveillance testing can be guided by epidemiology in
+the facility and unit. (Appendix Section 3.A.1.e., Tables 19 – 22) The interpretability of
+the  impact  of  conducting  weekly  surveillance  testing  is  limited  due  to  inconsistent
+results  in  the  outcomes  of  infection  and  colonization  across  studies.[4,11,58]  These
+studies  were  conducted  in  the  non-outbreak  setting;  however,  one  study4  saw
+reductions  in  MRSA  colonization  that  were  not  sustained  during  a  period  of
+overcrowding  and  the  introduction  of  a  new  MRSA  strain.  One  outbreak  study3
+suggested a benefit to implementing admission screening for all infants in the outbreak
+setting.  (Appendix  Section  3.A.1.e.,  Tables  21  –  25)  To  address  this  question,  studies
+providing test characteristics for the detection of S. aureus were critically reviewed. The
+available data on detection of S. aureus examined the characteristics of tests and the
+choice  of  anatomical  sites  for  sampling  for  active  surveillance  testing  for  S.  aureus.
+Laboratory  methods  available  to  detect  S.  aureus  colonization  included  culture-based
+methods and molecular testing methods. The evidence consists of one diagnostic study
+examining  S.  aureus  colonization[19]  and  5  diagnostic  studies  examining  MRSA
+colonization.[18,20–22,57] (Appendix Section 3.A.1.f. – 3.A.1.g.) One diagnostic study19
+compared  assays  to  detect  S.  aureus  and  reported  higher  sensitivity  and  negative
+predictive  value  for  real-time  PCR  than  for  culture-based  methods  using  broth
+enrichment techniques. Results for specificity and positive predictive value to detect S.
+aureus were the same for PCR and culture. In this study, culture-based methods were
+used as the reference standard upon which the results were calculated. While this study
+conducted susceptibility testing, results were reported in aggregate for S. aureus, and
+not for MRSA or MSSA. (Appendix Section 3.A.1.f., Table 26) Evidence from 2 diagnostic
+studies[18,20]  suggests  high  sensitivity,  specificity,  and  negative  predictive  value  of
+PCR  for  detecting  MRSA.  However,  evidence  from  both  studies  suggested  that  the
+positive predictive value of PCR was low. In the study finding a positive predictive value
+of 41%,[18] 7 PCR-positive results were negative on culture: 5 of the 7 cultured positive
+for  MSSA  via  nasal  swabs.  In  these  studies,  culture-based  methods  were  used  as  the
+reference standard upon which the results were calculated. (Appendix Section 3.A.1.f.,
+Table  27)  One  observational  outbreak  study[38]  found  a  benefit  to  changing  from
+culture-based  testing  methods  to  real-time  PCR  testing  to  analyze  active  surveillance
+samples during an MRSA outbreak. This study reported a decrease in both the MRSA
+infection  rate  and  the  MRSA  transmission  rate.  This  study  also  reported  moderate
+compliance  with  hand  hygiene  protocols  and  Contact  Precautions  and  did  not  assess
+any  adverse  events.  (Appendix  Section  3.A.1.f.,  Table  28)  IMPLEMENTATION
+CONSIDERATIONS  Although  PCR  may  have  higher  sensitivity,  multiple  considerations
+influence  which  test  a  facility  may  use  to  screen  for  S.  aureus  colonization.  These
+include,  but  are  not  limited  to,  outbreak  identification;  turnaround  time;  performance
+characteristics  of  the  test;  use  in  clinical  management;  the  number  of  specimens
+combined  with  the  capabilities  of  the  laboratory  providing  the  service;  and  resource
+utilization.  Depending  on  laboratory  capacity,  molecular  diagnostic  testing  methods
+such as PCR may be more useful in circumstances such as identifying an outbreak when
+there may be an increased volume of cultures to process and a faster turnaround time
+is needed. However, culture-based methods provide the benefit of lower cost and the
+ability  to  assess  pathogen  susceptibility  patterns  to  guide  patient  treatment,  and  to
+assess  genetic  relatedness  of  other  strains  for  outbreak  detection.  Either  PCR  or
+culture-based methods are acceptable, and facilities and providers can balance these
+situation-specific  needs  to  select  the  assay  that  best  benefits  their  NICU  patients.
+Evidence from 3 diagnostic studies[21,22,57] demonstrated that swabs taken from the
+nares had higher sensitivity and negative predictive value for MRSA than swabs taken
+from the umbilical and rectal areas. While one study[22] concluded that nasal cultures
+are sufficient to detect MRSA in the majority of colonized neonates, another study[21]
+suggested  that  sampling  from  2  sites  would  increase  sensitivity.  (Appendix  Section
+3.A.1.g.,  Table  29)  The  literature  search  did  not  reveal  studies  that  provided  test
+characteristics for the detection of MSSA; data on the appropriate target populations; or
+the ideal timing or frequency for active surveillance testing for S. aureus. The literature
+search did not reveal studies examining the optimal anatomical site for detection of S.
+aureus or MSSA. IMPLEMENTATION CONSIDERATIONS The available evidence suggests
+that  the  nares  samples  will  yield  high  sensitivity  when  screening  NICU  patients  for
+MRSA and that other sites can be sampled to optimize sensitivity of screening strategy.
+Although evidence on performance of various biologic samples for detecting MSSA and
+S.  aureus  is  not  available,  it  is  likely  that  evidence  for  MRSA  applies  due  to  biologic
+similarities. In general, testing and sampling strategies that apply to MRSA also apply to
+MSSA; however, future research may provide greater insight into this issue. Eliminating
+the  carrier  state  was  associated  with  decreases  in  infections  and  colonization  in  the
+NICU  when  there  was  evidence  of  ongoing  healthcare-associated  transmission  and
+when there was increased incidence of infection.[9–11,18] No studies retrieved by this
+literature  search  examined  these  interventions  as  a  stand-alone  strategy  in  outbreak
+settings. In 5 studies,[9–11,17,23] all colonized infants received decolonization. Two of
+these studies[9,10] were conducted in the same facility at different time periods and
+found  this  strategy  was  associated  with  reductions  in  S.  aureus  infections.  One
+study[10] observed reductions in infections, but not reductions in colonization of other
+NICU  patients.  One  study[11]  that  provided  prophylactic  decolonization  and
+chlorhexidine bathing only to very low birthweight (VLBW) infants with central venous
+and peripheral venous catheters found reductions in S. aureus infections in all infants in
+the NICU. Two studies[9,10] that provided all NICU patients mupirocin decolonization,
+regardless  of  colonization  status,  found  reductions  in  S.  aureus  infections  in  all  NICU
+patients. (Appendix Section 3.A.1.h.) The literature search did not retrieve studies that
+compared  different  decolonization  strategies  or  regimens  in  NICU  patients.  Four
+studies[9–11,23]  examined  the  implementation  of  decolonization  of  colonized  infants,
+and  all  found  reductions  in  S.  aureus  infections.  Two  of  these  studies[9,10]  were
+performed  in  a  single  center  NICU  population  and  examined  the  impact  of  infant
+decolonization  on  MSSA[9]  and  on  S.  aureus  as  a  whole.[10]  One  study[23]  found  no
+difference in MRSA colonization between the group that was decolonized and the group
+that was not decolonized. The fourth study[11] found reductions in MSSA-attributable
+infections  after  implementing  surveillance  and  decolonization  of  only  MSSA-colonized
+infants  with  IVs.  All  of  these  studies  were  conducted  in  non-outbreak  settings.
+(Appendix Section 3.A.1.h., Tables 30 – 32) Two studies[11,17] examined prophylactic
+use  of  decolonization  agents.  One[11]  targeted  VLBW  infants  with  central  and
+peripheral lines with intranasal decolonization and chlorhexidine bathing, and one[17]
+decolonized all infants in the NICU every 5 weeks with intranasal mupirocin. Both found
+a reduction in S. aureus infections; however, the prophylactic decolonization regimens
+and  choice  of  agents  were  too  dissimilar  to  determine  the  optimal  prophylactic
+strategy. (Appendix Section 3.A.1.h., Table 33) Decolonization regimens varied across
+the  studies  and  included  intranasal  mupirocin[17];  mupirocin  ointment  applied  to  the
+nares  and  umbilicus[23]  or  to  the  nares,  umbilicus,  eroded  skin,  and  wounds[2];
+intranasal mupirocin with chlorhexidine bathing for select patients[9,10]; and intranasal
+mupirocin and octenidin washes.[11] Octenidin is not approved by the US Food & Drug
+Administration (FDA) for use in US healthcare settings. All studies suggested reductions
+in S. aureus infection and transmission. (Appendix Section 3.A.1.h., Tables 30 – 33) Two
+studies[11,23] examined adverse events associated with the decolonization protocols,
+and  found  none.  Safety  concerns  exist,  however,  for  the  2  most  commonly  utilized
+decolonizing  agents.  The  FDA  has  not  determined  the  safety  and  effectiveness  for
+intranasal  mupirocin  in  children  younger  than  12  years  of  age.  Specifically,  the
+FDA-approved drug label states that pharmacokinetic data in neonates and premature
+infants  suggests  that  significant  systemic  absorption  can  occur  following  intranasal
+administration of mupirocin. Additionally, chlorhexidine bathing products may be used
+"with care" in premature infants or infants under 2 months of age. These products may
+cause irritation or chemical burns in these patients. (Appendix Section 3.A.1.h., Tables
+30 – 33) Four studies[2,9,17,23] examined S. aureus isolates for increased antimicrobial
+resistance  to  the  decolonizing  agent  during  the  study  period.  Two  studies[9,23]
+examined resistance after the implementation of targeted decolonization of colonized
+infants  and  found  no  increase  in  resistance  associated  with  targeted  decolonization.
+Two  studies[2,17]  examined  resistance  after  the  implementation  of  a  universal
+decolonization strategy that prophylactically decolonized all NICU infants. One study[2]
+reported  no  resistance,  and  the  other[17]  reported  a  small  increase  in  mupirocin
+resistance  associated  with  universal  decolonization.  The  studies  that  reported
+mupirocin resistance evaluated the development of resistance over shorter periods of
+time. There is greater concern regarding the evolution of harms, such as resistance to
+the  decolonizing  agent,  if  it  is  applied  broadly  to  an  entire  population  in  a  unit.
+(Appendix Section 3.A.1.h., Tables 30 – 33) There are concerns that decolonization can
+have  farther-reaching  effects  than  resistance  and  can  alter  the  microbiome  of  NICU
+patients. One study reported that while the authors could not exclude the possibility of
+pathogen  replacement,  they  found  no  changes  in  either  the  central  line-associated
+bloodstream  infection  (CLABSI)  rate  or  the  pathogen  distribution  contributing  to
+CLABSIs  among  infants  who  were  decolonized  with  mupirocin.[17]  (Appendix  Section
+3.A.1.h., Tables 30 – 33) Key Question 3. What are the risk factors and risk indicators for
+S. aureus infection in NICU patients, and do they differ between MRSA and MSSA or in
+the setting of an outbreak? Key Question 4. What are the risk factors and risk indicators
+for S. aureus colonization in NICU patients, and do they differ between MRSA and MSSA
+or  the  setting  of  an  outbreak?  The  evidence  retrieved  for  non-modifiable  risk  factors
+and risk indicators consists of 29 observational studies. Many of the studies reported
+differences in the presence of these characteristics between S. aureus-positive and S.
+aureus-negative  infants;  however,  these  results  were  not  statistically  significant.
+Additionally, many possible risk factors and risk indicators were assessed in only one
+study,  which  precludes  drawing  conclusions  as  to  their  importance.  Several  studies
+reported  composite  outcomes  of  colonization  or  infection  rather  than  reporting
+colonization  and  infection  rates  separately,  which  hinders  the  ability  to  assess  the
+association of risk factors and risk indicators with each specific outcome. A summary of
+the evidence on risk factors and risk indicators analyzed in at least 2 studies follows.
+The findings of the evidence review and the summary of potential risk factors and risk
+indicators  across  studies  are  provided  in  the  Appendix  (Appendix  Section  3.B.)  Lower
+birthweight[2,33,60–62]  and  younger  gestational  age[2,33,60]  were  reported  to  be
+significantly  associated  with  S.  aureus  and  MRSA  infection  in  NICU  patients.  An
+association was reported between prior colonization and S. aureus infection,[2,23] while
+sex[2,61–63]  was  not  associated  with  S.  aureus  infection;  one  of  these  studies[62]
+analyzed  a  composite  outcome  that  included  colonization.  Inconsistent  results  across
+studies
+ suggest
+ an
+ unclear
+ association
+ between
+ race[60,62]
+ and
+ multiple
+gestation[33,60] for S. aureus and MRSA infection. Data were limited to formulate any
+conclusions  regarding  risk  factors  and  risk  indicators  for  MSSA  infection;  however,  3
+studies[26,30,64]  compared  risk  factors  and  risk  indicators  for  MRSA  and  MSSA
+infection.  These  studies  found  a  significantly  higher  incidence  of  MSSA  infections  in
+older  infants;  however,  gestational  age  was  not  different  between  these  infants,
+suggesting  that  a  longer  length  of  stay  may  affect  an  infant's  likelihood  of  acquiring
+MSSA  infections  when  compared  with  MRSA  infections.  Only  one  study[33]  examined
+risk factors and risk indicators for MRSA infections in the outbreak setting, which was
+insufficient to formulate conclusions regarding the differences between risk factors and
+risk indicators for infection between the endemic and the outbreak settings. (Appendix
+Section  3.B.1.,  Tables  42  –  45)  Multiple  gestation[33,60,65]  and  administration  of
+antibacterial therapy[65,66] were significantly associated with MRSA colonization. It is
+notable  that  administration  of  antibacterial  therapy  is  a  potentially  modifiable  risk
+factor to prevent MRSA colonization; however, infants in the NICU are severely ill, and
+administration  of  these  antibiotics  is  necessary  and  likely  unavoidable.  The  literature
+search  did  not  retrieve  any  studies  demonstrating  the  optimal  duration  of  antibiotic
+therapy to prevent MRSA colonization; thus, no recommendation can be formulated to
+guide practitioners on the duration of systemic antibacterial therapy that may prevent
+MRSA colonization. (Appendix Section 3.B.1.b., Table 46) As with MRSA infection, lower
+birthweight  was  associated  with  MRSA  colonization[21,23,33,38,41,60,62,65,67];  it
+should be noted that 3 of these studies[38,62,67] analyzed composite outcomes that
+included
+ infection.
+ Age
+ at
+ NICU
+ admission,[21,23,62,65,68]
+ delivery
+method,[4,45,66,68,69]
+ gender,[21,23,41,45,60,62,66–74]
+ race,[62,67–69,73,74]
+maternal age,[68,69] malformation,[4,65] the presence of a central venous catheter or
+endotracheal  intubation,[63,66,68,70]  and  occurrence  of  surgical  procedures[66,68]
+were not associated with MRSA colonization. Due to conflicting results across studies,
+there  was  unclear  association  between  MRSA  colonization  status  and  gestational
+age,[4,21,23,33,41,45,60,65,66,68–71,74] inborn status,[4,21,23,41,45,60,65,66,74,75]
+Apgar
+ score,[4,65,69,70]
+ retinopathy
+ of
+ prematurity,[68,71]
+ length
+ of
+ NICU
+stay,[65,66,73]  and  healthcare  personnel  hand  hygiene[68,76]  compliance.  Lower
+birthweight[33,38,67] is the only risk factor found in the literature for MRSA colonization
+in  the  outbreak  setting.  This  association  may  be  confounded  because  2  of  these
+studies[38,67] analyzed composite outcomes that included infection. (Appendix Section
+3.B.1.b., Table 46 – 52) No risk factors or risk indicators for MSSA colonization in NICU
+patients
+ were
+ found
+ in
+ the
+ literature.
+ Younger
+ gestational
+ age,[77,78]
+birthweight,[68,78] delivery method,[68,77] gender,[68,78] healthcare personnel hand
+hygiene
+ compliance,[68,77]
+ presence
+ of
+ central
+ venous
+ catheter,[20,74]
+ and
+occurrence of surgical procedure[63,64] were not associated with MSSA colonization in
+the available evidence. There was an unclear association between Apgar score[77,78]
+and  MSSA  colonization  due  to  conflicting  results  across  studies.  Data  were  limited  to
+confer  any  difference  in  risk  factors  and  risk  indicators  for  MSSA  colonization  status
+between the endemic and outbreak settings. (Appendix Section 3.B.1.c., Table 53 – 58).
+Additional  studies  would  elucidate  modifiable  risk  factors  and  risk  indicators  for  S.
+aureus  transmission  and  infection  to  test  novel  interventions  to  prevent  S.  aureus
+disease. CDC provides information on infection control and clinical safety to help reduce
+the  risk  of  infections  among  healthcare  workers,  patients,  and  visitors.  Languages
+Language Assistance Languages  Language Assistance 
+Source URL: https://www.cdc.gov/infection-control/hcp/nicu-saureus/evidence-summaries.html

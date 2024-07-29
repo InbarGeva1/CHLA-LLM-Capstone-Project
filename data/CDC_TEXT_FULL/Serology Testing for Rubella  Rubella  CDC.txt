@@ -1,0 +1,89 @@
+A .gov website belongs to an official government organization in the United States. A
+lock (  ) or https:// means you've safely connected to the .gov website. Share sensitive
+information only on official, secure websites. 
+Related Topics:
+ Rubella-virus  specific  IgM  antibodies  (rubella  IgM)  develop  shortly  after  primary
+infection  or  vaccination.  Rubella-virus  specific  IgG  antibodies  (rubella  IgG)  become
+detectable by day four after rash onset in rubella infections and reach peak levels in the
+following one to two weeks. While rubella IgM persists for up to three months, rubella
+IgG can last a lifetime. Although rubella was officially declared to be eliminated from
+the United States in 2004, ongoing rubella activity in many other countries can result in
+imported  sporadic  U.S.  cases  or  outbreaks.   Detection  of  specific  IgM  antibodies  in  a
+serum  sample  collected  within  the  first  few  days  after  rash  onset  can  provide
+presumptive  evidence  of  a  recent  rubella  virus  infection.  The  optimum  time-point  for
+collection  of  serum  is  five  days  after  the  onset  of  symptoms  (fever  and  rash)  when
+>90% of cases will be IgM positive. On the day of rash onset only about 50% of cases
+are  IgM  positive.  Therefore,  if  serum  that  collected  less  than  five  days  after  onset  is
+negative,  a  second  sample  would  be  necessary  to  confirm  or  rule  out  rubella.  When
+CDC  receives  serum  samples  to  test  for  clinically  suspected  rubella,  CDC  also
+determines  the  anti-rubella  IgM  or  IgG  status  for  each  sample  to  aid  in  case
+classification.  The  interpretation  of  rubella  laboratory  results  must  always  take  into
+account  relevant  clinical  and  epidemiological  data.  Since  no  assay  is  100%  specific,
+serology testing of non-rubella cases occasionally produces false positive IgM results. In
+the  United  States  where  endemic  circulation  of  wild-type  rubella  virus  has  been
+eliminated  and  the  chance  of  contracting  the  disease  domestically  is  low,  most
+suspected  cases  are  not  rubella.   Rash  and  fever  illnesses  are  more  likely  due  to  a
+number of other rash–causing illnesses such as parvovirus B19, enteroviruses such as
+coxsackieviruses and echoviruses, or human herpesvirus–6 (roseola). The presence of
+rheumatoid factor can also result in a false positive IgM. Due to the possibility of false
+positive results, IgM should not be included in routine testing to determine evidence of
+prior rubella immunity. It is important to distinguish IgM reactivity caused by primary
+infection  from  that  caused  by  IgM  persistence  or  cross-reactivity  with  other  antigens,
+especially in pregnant people. The measurement of rubella IgG antibody avidity can be
+used  to  distinguish  between  recent  exposure  to  rubella  and  more  distant  rubella
+exposure.  Antibody  avidity  (the  overall  strength  of  binding  between  the  antigen  and
+antibody) increases with time; this is known as maturation of the immune response. As
+the  immune  response  matures,  low  avidity  antibodies  are  replaced  with  high  avidity
+antibodies.  Avidity differences can be detected by using protein denaturants such as
+diethylamine  (DEA)  in  the  washing  step  of  an  enzyme-linked  immunoassay  (EIA)  for
+rubella IgG.  The cut-off between low and high avidities has to be established by using
+standardized  sera  and  a  particular  EIA  kit.  Detection  of  rubella  IgM  by  enzyme
+immunoassay  (EIA)  is  used  to  confirm  suspected  cases  of  acute  rubella  infection  and
+congenital rubella syndrome (CRS). IgM is typically detectable between 4 and 30 days
+after rash onset in acute rubella infection and for up to six months after birth in CRS
+cases. A person may also be rubella IgM positive after recent vaccination. Detection of
+rubella IgG by EIA is used to assess immunity to rubella. EIA can reliably detect rubella
+IgG  concentrations  greater  than  10  IU/ml,  which  is  the  cutoff  for  defining  rubella
+immunity  used  in  the  United  States.  Rubella  IgG  serology  testing  should  be  used  for
+assessing rubella immunity before, during, and after pregnancy. Routine IgM screening
+of  pregnant  people  is  not  recommended.  Rubella  IgM  testing  in  asymptomatic,
+unexposed pregnant people is inappropriate because false positive results can occur,
+which can be misleading. Rubella IgM testing in pregnant people should be limited to
+suspected rubella cases. However, providers sometimes inappropriately order IgM tests
+to  assess  rubella  immunity.  CRS  was  eliminated  from  the  United  States  in  2004,  but
+cases  can  still  be  imported  by  pregnant  people  who  contract  rubella  in  an  endemic
+country. In rare cases, CRS can occur in the United States when susceptible pregnant
+people  are  exposed  to  confirmed  rubella  cases.  CRS  cases  can  be  diagnosed  in
+newborns and young infants using detection of rubella IgM. Suspected cases should be
+tested as close to birth as possible and again at 1 month of age if the initial IgM test is
+negative. If paired sera are to be collected, the second sample should be collected 14 to
+21  days  after  the  acute  specimen  was  collected.  At  3  months  of  age,  approximately
+50% of cases would still have detectable rubella IgM in their serum. Additionally, the
+presence of rubella IgG in an infant after the decline of maternal antibodies (9 months
+of age) and the absence of vaccination or exposure to rubella will confirm CRS. If IgM
+testing  is  inappropriately  performed  and  an  IgM  positive  result  is  obtained  for  an
+asymptomatic  pregnant  patient  with  no  history  of  rubella  exposure,  the  IgM  positive
+result should be confirmed by retesting in a different laboratory with a different EIA test
+format.  Preferably,  testing  should  be  performed  by  an  IgM  capture  EIA  because  IgM
+capture assays are more specific than indirect IgM EIA assays. Testing for rubella IgG
+avidity  can  be  used  to  distinguish  between  recent  exposure  to  rubella  and  a  more
+distant  exposure.  Avidity  testing  is  most  useful  in  early  pregnancy  to  help  rule  out  a
+rubella infection in the first trimester, when the risk of congenital defects due to rubella
+is highest. It is not as useful in late pregnancy because avidity will be high by the third
+trimester  if  infection  occurred  in  the  first  trimester.  Rubella  reverse  transcription
+polymerase  chain  reaction  (RT-PCR)  assay  can  also  be  used  to  confirm  acute  rubella
+infection, but its utility is limited because of the narrow window when the virus can be
+detected  in  clinical  samples  in  acquired  rubella  cases.  In  respiratory  samples,  rubella
+RNA  is  typically  detectable  from  two  days  before  rash  onset  to  four  days  after  rash
+onset.  In  elimination  settings,  the  positive  predictive  value  of  rubella  RT-PCR  in  a
+respiratory  sample  from  an  asymptomatic,  IgM-positive  pregnant  patient  is  low.
+Currently used rubella RT-PCR assays have not been validated for testing amniotic fluid
+or  other  fetal  specimens  and  should  not  be  used  for  confirmation  of  suspected  CRS.
+Although  amniotic  fluid  has  been  considered  for  detection  of  rubella  RNA  by  RT-PCR
+when  fetal  infection  is  suspected,  the  sensitivity  of  this  method  is  less  than  86%,
+particularly  before  the  21st  week  of  gestation.  RT-PCR  assays  on  throat  swabs,
+nasopharyngeal swabs, and urine specimens from a neonate are used for confirmation
+of suspected CRS cases. Rubella is contagious. Most children and adults usually have
+mild  illness  with  a  rash  starting  on  the  face.  Protect  yourself  with  the  MMR  vaccine.
+Languages Language Assistance Languages  Language Assistance 
+Source URL: https://www.cdc.gov/rubella/php/laboratories/serology-testing.html

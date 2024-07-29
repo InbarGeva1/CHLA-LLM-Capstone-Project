@@ -1,0 +1,586 @@
+Official websites use .gov A .gov website belongs to an official government organization
+in  the  United  States.  Secure  .gov  websites  use  HTTPS  A  lock  (   )  or  https://  means
+you've  safely  connected  to  the  .gov  website.  Share  sensitive  information  only  on
+official, secure websites. Q1: What does NHSN require for AR data submission? The first
+step is to ensure your facility has an Admission Discharge Transfer (ADT) system and an
+electronic Laboratory Information System (LIS) or electronic access to the required data
+elements.  Your  facility  also  should  have  the  ability  to  package  the  data  into
+standardized Clinical Document Architecture (CDA) format for upload into NHSN. NHSN
+does not allow manual entry due to the amount of data submitted each month. As a
+result, many facilities use a vendor system to package and submit the AR data via CDA.
+As of May 2023, all vendors that submit data to the NHSN AR Option are required to
+pass Synthetic Data Set (SDS) validation. The  AR SDS Validation website lists vendors
+that have an NHSN-validated AR reporting solution. You may already use one of these
+vendors currently to submit other types of data to NHSN so start there to see if 1) your
+facility has the capability to submit these data already using your current vendor or 2)
+your  current  vendor  offers  this  capability  with  an  “add  on”  feature.  Some  facilities
+leverage internal IT/informatics resources to report these data. However, this does take
+specialized knowledge of coding and data aggregation. For this reason, NHSN does not
+recommend this option for most facilities. Please note facilities that create their AR CDA
+files in-house using their own “homegrown” IT or informatics resources must also pass
+AR SDS Validation. You can find the details on what data are required to be reported on
+our NHSN AUR Module webpage within the AUR Protocol. If your facility would like to
+begin submitting Antimicrobial Use (AU) and AR data for the Centers for Medicare and
+Medicaid  Services  (CMS)  Promoting  Interoperability  (PI)  Program,  please  see  the
+additional guidance document [PDF – 356 KB]. If your facility is interested/considering
+taking up this work internally, you’ll find the AU and AR CDA toolkits, which contain the
+sample CDA files, link to the CDA Implementation Guide, helpful hints, etc., on the CDA
+Submission Support Portal website.   Q2: Can our facility still submit AR data to NHSN
+even  if  we  don’t  perform  our  own  on-site  antimicrobial  susceptibility  testing?  It
+depends. If the off-site laboratory is sending susceptibility results back to your facility
+and  your  facility  has  electronic  access  to  the  required  data  elements,  then  yes,  your
+facility may still be able to submit AR data. Please work with your software vendor to
+determine  if  your  antimicrobial  susceptibility  data  are  in  a  format  conducive  to
+electronic  reporting.  Facilities  should  not  employ  manual  means  of  data  collection  to
+report AR Option data to NHSN.   Q3: Do I need Secure Access Management Services
+(SAMS)  credentials  to  view  or  submit  AR  data  to  NHSN?  Yes,  you  will  need  SAMS
+credentials  to  submit  and/or  view  AR  data.  If  you  are  new  to  NHSN,  a  user  with
+administrative rights at your facility, such as the Facility Administrator, must first add
+you  to  the  NHSN  AR  Option  following  the  steps  in  Q4  in  the  General  Submission
+Requirements section. After being invited to NHSN, review and accept the NHSN Rules
+of Behavior and complete the SAMS enrollment process [PDF – 542 KB]. All NHSN users
+must  follow  these  steps  before  using  the  application.  While  waiting  for  your  SAMS
+credentials, you can complete the trainings in the AUR Educational Roadmap. After you
+receive your SAMS credentials, you’ll be able to log into your NHSN facility. You can find
+more information about SAMS on the About SAMS webpage.   Q4: How do I add a user
+to view/upload data into the AR Option? A user with administrative rights, such as the
+Facility Administrator, must follow these steps to add users to the NHSN AR Option: For
+complete  details  and  instructions,  please  refer  to  the  NHSN  AUR  User  Rights
+document  [PDF  –  350  KB].    Q5:  How  do  I  include  the  AR  Option  in  my  Monthly
+Reporting Plan? NHSN requires a Monthly Reporting Plan for every month that you plan
+to submit AR data.     NOTE: You do not have to check the AU boxes unless you also
+plan  to  submit  AU  Option  data.  Please  note  that  the  AUR  Measure  of  the  CMS  PI
+Program is attestation-based so CDC will not share AUR data with CMS, even if included
+in  the  Monthly  Reporting  Plan.  View  the  complete  list  of  data  required  for  each  CMS
+Quality Reporting Program [PDF – 1 MB].   Q6: Can we submit AR Option data if we’re
+not submitting Antimicrobial Use (AU) data? Yes. Facilities can submit AR Option data
+separately without submitting AU Option data. However, to get credit for participation
+in  the  CMS  PI  Program,  CMS  requires  facilities  to  submit  data  for  both  AR  and  AU
+Options.  Refer  to  CDC’s  PI  Program  Guidance  for  NHSN  Facilities  [PDF  –  356  KB]  for
+more information.   Q7: What qualifies as an AR Event? An AR Event contains isolate
+level antimicrobial susceptibility results for a specific organism. An isolate is defined as
+a  population  of  a  single  organism  observed  in  a  culture  obtained  from  a  patient
+specimen.  The  isolate  must  meet  the  four  criteria  below:  Please  note,  your  facility
+should  report  all  eligible  isolates  that  meet  the  reporting  guidelines  outlined  in  the
+NHSN  AUR  Module  Protocol  [PDF  –  1  MB]  to  NHSN  regardless  of  the  antimicrobial
+resistance of the isolated organism. This means that even isolates that are susceptible
+to all required antimicrobials are eligible to be reported to the AR Option.   Q8: What
+locations  are  eligible  for  AR  Option  Event  reporting?  NHSN  strongly  encourages
+reporting  specimens  from  all  NHSN  defined  inpatient  locations  (including  inpatient
+procedural  areas  like  operating  rooms)  and  three  select  outpatient  locations
+(Emergency  Department,  Pediatric  Emergency  Department,  and  24-hour  Observation
+Area) at each facility.   Q9: What specimen sources are acceptable for AR reporting?
+Your facility can report all specimen sources included in the Specimen Source tab of the
+Information
+ Data
+ Model
+ (IDM)
+ spreadsheet
+ with
+ an
+ “X”
+ in
+ the
+ “Valueset:
+ARSpecimenSource”  column  to  the  AR  Option.  The  Specimen  Source  tab  in  the  IDM
+provides  further  breakdown  of  the  specimen  sources  into  the  specific  categories
+outlined  in  the  AR  Option  Protocol:  Note:  The  AR  Option  does  not  include  wound
+specimens.  The  IDM  is  found  within  the  AR  Toolkit  located  on  the  CDA  Submission
+Support  Portal  website.    Q10:  What  organisms  are  eligible  for  AR  Option  reporting?
+Facilities and vendors should refer to the AR Option Pathogen Roll-up Workbook found
+in  the  Antimicrobial  Resistance  Toolkit  for  organisms  eligible  for  AR  Option  reporting
+and the complete list of their associated SNOMED codes. All organisms in the Workbook
+are eligible for reporting. Refer to the AR Option Pathogen Roll-up Reference Guide, also
+found  in  the  AR  Toolkit,  for  guidance  using  the  workbook  and  determining  which
+SNOMED  codes  are  accepted  into  NHSN.    Q11:  How  can  I  remove  missing  AR  Event
+data alerts? The NHSN Alerts tell you that you haven’t yet submitted data for something
+listed in your Monthly Reporting Plan. The Missing Event alert is specifically telling you
+that you have reported AR Option summary data for those location/month(s), but you
+have not yet reported AR Events. Missing Event alerts will appear on the Missing Events
+tab of the alert screen as shown in the screenshot below:   To clear the Missing Event
+alerts, you will need to submit the AR Event CDA files for the month(s) listed on your
+alerts  screen.  If  you  thought  you  had  already  uploaded  these  data,  there  is  a  good
+chance  an  error  occurred  during  the  original  upload  process  and  these  specific  files
+failed to import. During the re-submission process, make sure you pay special attention
+to any errors that may show up on the PDF submission report. Once you have uploaded
+these data, be sure to generate new datasets. It would be rare, but not unheard of, to
+have zero AR Events to report for a given month based on the criteria for determining
+whether something is an AR Event. For example, any urine specimen in which E. coli
+was  cultured  would  be  eligible  to  be  reported  regardless  of  the  susceptibility  of  that
+organism  to  the  drugs  tested  by  the  lab.  However,  if  there  were  zero  specimens
+collected  with  eligible  organisms  for  these  months,  you  can  click  the  “Report  No
+Events” box for the month(s) in question on the Alerts screen. View our guide for more
+information on how to report no events [PDF – 395 KB]. If you do not yet have AR Event
+reporting  from  your  vendor  software  set  up,  we  request  that  instead  of  clicking  the
+“Report  No  Events”  box,  you  remove  the  AR  Option  check  boxes  on  your  Monthly
+Reporting Plan for the time being. Clicking the “Report No Events” box, tells NHSN that
+your  facility  identified  no  specimens  that  met  the  criteria  for  an  AR  Event  (in  other
+words, a “true zero”). It would not be appropriate to “Report No Events” because you
+were not able to report AR Events from your vendor software. See Q5 in the General
+Submission  Requirements  section  for  how  to  edit  the  Monthly  Reporting  Plan.    Q12:
+How can I remove missing AR Summary data alerts? The Missing Summary Data alert is
+specifically telling you that you have not yet reported AR summary records for those
+location(s)/month(s) listed in your Monthly Reporting Plan. Missing Summary alerts will
+appear  on  the  Missing  Summary  tab  of  the  alert  screen  as  shown  in  the  screenshot
+below:  To  clear  the  Missing  Summary  Data  alerts,  you  will  need  to  submit  the  AR
+summary  records  (also  known  as  the  “denominator”  data)  for  the  month(s)  listed  on
+your alerts screen. If you thought you had already uploaded these data, there is a good
+chance  an  error  occurred  during  the  original  upload  process  and  these  specific  files
+failed to import. During the re-submission process, make sure you pay special attention
+to any errors that may show up on the PDF submission report. Once you have uploaded
+these data, be sure to generate new datasets.   Q13: How should date of admission be
+defined?  For  the  AUR  Module,  the  number  of  admissions  is  defined  as  the  aggregate
+number of admissions to any of the inpatient locations within the facility (facility-wide
+inpatient) starting on the first day of each calendar month through the last day of the
+calendar  month.  An  admission  is  counted  when  the  patient  arrives  in  an  NHSN
+designated  inpatient  location  regardless  of  patient  status  (for  example,  inpatient,
+observation). Further, an admission to an inpatient unit is counted even if the patient is
+discharged that same calendar day. Additionally, a patient transfer from an inpatient to
+an  outpatient  location  then  back  to  an  inpatient  location  is  counted  as  two  separate
+admissions. Please note, the admissions definition used in the AUR Module is different
+than the definition used in the NHSN MDRO/CDI Module. Within the AR Event file, the
+date of admission is the calendar date that the patient physically locates to an inpatient
+location.  If  the  specimen  was  collected  in  an  outpatient  location  (for  example,
+Emergency Department), use the admission status variable as a guide. If the admission
+status  variable  is  “True”  (Yes),  then  use  the  date  the  patient  was  admitted  to  the
+inpatient location for this field. If the admission status variable is “False” (No), then use
+the encounter date (the date the patient arrived in the first outpatient location) for this
+field.   Q14: I’m from a state health department. Could you tell me the names and NHSN
+OrgIDs  of  the  facilities  submitting  AR  data  from  my  state?  Yes.  NHSN’s  updated
+Agreement  to  Participate  and  Consent  allows  the  NHSN  Team  to  share  specific
+information  with  State  &  Local  Health  Departments,  Veterans  Affairs  (VA),  and
+Department  of  Defense  (DoD)  for  prevention  purposes  such  as  the  NHSN  OrgIDs  and
+names of facilities submitting AU and/or AR data into NHSN. Please send your request
+to NHSN@cdc.gov. For the purposes of disease surveillance and prevention, state, local,
+and territorial health departments can have a special Data Use Agreement (DUA) with
+the  CDC,  which  allows  them  to  gain  access  to  NHSN  data  from  the  facilities  in  their
+jurisdiction.  Facilities  in  your  jurisdiction  are  automatically  added  to  a  Group  through
+the  DUA  process  and  health  departments  do  not  have  to  wait  for  facilities  to  accept
+Confer Rights Template. You can find more information about the DUA process in the
+DUA Announcement.   Q15: Does the Centers for Medicare and Medicaid Services (CMS)
+require  reporting  to  the  NHSN  AUR  Module?  Beginning  in  CY  2024,  CMS  finalized
+changes  to  the  Medicare  Promoting  Interoperability  (PI)  Program  for  eligible  hospitals
+and critical access hospitals (CAHs) that include a new AUR Surveillance measure under
+the  Public  Health  and  Clinical  Data  Exchange  Objective.  To  obtain  credit  for  calendar
+year 2024, eligible hospitals and CAHs must attest to being in active engagement with
+CDC’s  NHSN  to  submit  AUR  data  for  the  EHR  reporting  period,  or  else  claim  an
+applicable exclusion. Further, to meet the CMS PI Program requirement, facilities must
+use CEHRT updated to meet 2015 Edition Cures Update criteria, including criteria at 45
+CFR  170.315  (f)(6).   Refer  to  CDC’s  Promoting  Interoperability  Program  webpage  for
+more information. Q1: When is the deadline to upload AR Summary and AR Event CDA
+files  into  NHSN  each  month?  The  AR  Summary  CDA  file  is  a  summary  of  the  entire
+month and, as such, facilities should not submit the AR Summary CDA file to NHSN any
+earlier than the first day of the subsequent month. For example, a facility may upload
+October  AR  Summary  data  beginning  November  1.  NHSN  recommends  that  facilities
+submit both AR Summary and AR Event data files to NHSN for a given calendar month
+by  the  end  of  the  subsequent  calendar  month  to  make  the  data  most  actionable  by
+your facility. However, facilities should wait at least seven calendar days following the
+end  of  the  month  before  submitting  AR  Event  data  to  ensure  the  lab  completed  all
+susceptibility  testing  and  reported  results  to  the  electronic  health  record  (EHR).
+Facilities  participating  in  AUR  reporting  to  get  credit  for  the  CMS  PI  Program  must
+upload data for the calendar year by February 1 of the following year in order to have
+all submissions included in the annual report summarizing AUR submission status.   Q2:
+Can  we  submit  AR  and  AU  CDA  files  together  in  the  same  CDA  zip  file?  Yes,  but  for
+manual upload into the NHSN application, all the files in the zipped file must be from
+one facility. If submitting files via DIRECT CDA Automation, the zipped file can contain
+CDA  files  for  multiple  facilities.  For  both  manual  and  DIRECT  CDA  Automation
+submission,  the  zipped  CDA  file  can  contain  up  to  1000  files  or  be  2  MB  in  size,
+whichever comes first. Please note, the application only allows alphanumeric, hyphen,
+and  underscores  in  the  CDA  file  names  and  zip  file  names.  The  application  does  not
+allow special characters in file or zip file names.   Q3: How do I know if all the CDA files I
+am  submitting  together  in  the  same  zip  file  were  successfully  uploaded  into  NHSN?
+Sometimes, when you are batch uploading multiple AR files, some files will successfully
+upload, and others will not. Here is a screenshot of what it looks like when you submit
+files together and you have some records pass and others fail. Note that both the Error
+Report and Submit buttons are enabled: If you click on the Events tab in the Validation
+Results table, you can see the files that passed and failed validation by looking in the
+Status column. In this instance, 13 records were submitted. Four passed validation and
+nine failed. When you click the Submit button, the application will only accept the four
+files that successfully passed validation. The PDF report generated after you click the
+Submit button will also show the file(s) that successfully imported and the files that did
+not pass NHSN validation and were therefore not imported. Please view and save the
+PDF report for your records each time you import data into the AR Option. Below is an
+example of the PDF report that shows you which files passed validation and which files
+failed  validation.  For  each  file  that  failed,  the  reasons  for  failure  are  included  in  the
+section below the record information. The NHSN Help Desk requires information from
+the PDF report to assist users with inquiries related to data import errors.   Q4: When I
+try  to  upload  my  AR  files,  I  get  an  error  message  that  says,  “Antimicrobial  Use  and
+Resistance  Module  not  followed  for  this  month,  year,  and  location.”  What  does  that
+mean  and  how  do  I  fix  it?  If  you  receive  this  error  for  a  specimen  collected  in  an
+inpatient location, it means that you have not included FacWideIN for this month and
+year  in  the  Antimicrobial  Resistance  portion  of  your  Monthly  Reporting  Plan.  If  you
+receive this error for a specimen collected in a 24-hour Observation Unit, Emergency
+Department  or  Pediatric  Emergency  Department  then  you  have  not  included  that
+location for that month and year in the Antimicrobial Resistance portion of your Monthly
+Reporting Plan. Therefore, you’ll need to add the location(s) (either FacWideIN or the
+specific  outpatient  location)  to  the  Antimicrobial  Resistance  portion  of  your  Monthly
+Reporting Plan for every month you plan to submit AR data. NHSN will not accept any
+data that is out of plan. To edit your Monthly Reporting Plan, follow the steps in Q5 in
+the  General  Submission  Requirements  section.  After  you  have  edited  your  Monthly
+Reporting Plan to include the AR data you are wanting to upload, NHSN should accept
+the CDA file for that month, year, and location. If you have verified FacWideIN or the
+specific  24-hour  Observation  Unit,  Emergency  Department  or  Pediatric  Emergency
+Department  is  on  your  Monthly  Reporting  Plan,  incorrect  location  information  in  your
+CDA file could be the cause of this error. See the question below for details on location
+errors.    Q5:  When  I  try  to  upload  my  AR  files,  I  get  an  error  message  that  says  my
+location does not exist and I need to add it to my NHSN facility. I know my location is
+already in NHSN. What does this error mean? The location in the CDA file must be the
+exact  match  of  the  “Your  Code”  value,  “NHSN  HL7  code”  and  location  type  of  the
+values  in  the  NHSN  Location  Manager  (see  screenshot  below).  This  error  message  is
+telling  you  that  the  location  name  used  in  your  CDA  file  does  not  match  a  location
+currently mapped in your NHSN facility. To see how your locations are mapped within
+NHSN, select Facility in the left-hand navigation bar and then Locations and Find. If you
+don’t have access to this section of your NHSN facility, please reach out to your NHSN
+Facility  Administrator  to  have  them  export  the  location  list  (Facility  >  Locations  >
+Export  Location  List)  so  you  can  compare  what’s  in  NHSN  to  what’s  in  your  vendor
+system.  Decide  the  best  way  to  rectify  the  differences  (update  NHSN  or  update  the
+vendor  software)  with  your  Infection  Control/Infection  Prevention  department.  Once
+you’ve  matched  the  locations  across  both  systems,  re-export  your  AR  CDA  files  and
+import them into NHSN.   Q6: When trying to import an AR Event CDA file I received the
+following error: Unable to determine panel drug size. What does this mean? Based on
+the organism reported, the NHSN application requires you to include specific drugs in
+the  CDA  file.  The  list  of  drugs  for  each  organism  is  called  the  drug  panel  and  the
+number of drugs included in each panel varies. The organism and corresponding drug
+panel can be found in Appendix F of the AUR Module Protocol  [PDF – 1 MB]. Work with
+your  vendor  to  ensure  the  CDA  file  includes  all  required  drugs.  The  CDA  file  must
+include all drugs in the specific panel regardless of whether the lab tested them.   Q7:
+How far back can we submit AR Option data? Retrospective data submission is always
+encouraged! Your facility can submit AR Option data as far back as January 2012, if you
+have  existing  Monthly  Reporting  Plans  during  that  time,  or  January  of  the  previous
+calendar  year  (if  no  Monthly  Reporting  Plans  previously  existed).  Below  are  two
+scenarios  to  help  explain  this:  Q1:  We  noticed  a  mistake  in  our  AR  Summary  record.
+Can we just resubmit the file? There are two options for correcting AR Summary files:
+Manual Deletion: To manually delete the record, log into NHSN, select ‘Summary Data’
+from the navigation menu on the left side and then select ‘Delete AUR Data’. Use the
+Summary Data Type drop down menu to select ‘Antimicrobial Resistance Data.’ Select
+the  Location  Code  (for  example,  FACWIDEIN,  Emergency  Department),  and  use  the
+Month and Year drop down menus to select the month/year you’d like to delete from
+NHSN. Then click the ‘Delete’ button to delete the record. See the screen shot below for
+reference. Succession Management: Your vendor software may be able to automatically
+update AR summary files in NHSN using succession management. Many vendors have
+implemented this feature by allowing users to simply export a new version of the file
+but be sure to work with your vendor to determine if this approach is appropriate for
+you.  Please  note  that  succession  management  does  not  allow  you  to  delete  a  record
+without  overwriting  it  with  a  new  record  for  that  location/month.    Q2:  We  noticed  a
+mistake in our AR Event record. Can we just resubmit the file? There are two options:
+Manual  Deletion:  To  manually  delete  the  event  record,  log  into  NHSN,  select  ‘Event’
+from the navigation menu on the left side and then select ‘Find’. Use the Event Type
+drop down menu to select ‘AR – Antimicrobial Resistance’ and optionally input any other
+identifying information. Select ‘Find’.   Next locate the AR Event you want to delete on
+the Event List table. Check the box in the Delete column next to the AR Event. Click the
+‘Delete’ button at the top of the column to delete the event. Succession Management:
+Your vendor software may be able to automatically update AR Event files in NHSN using
+succession  management.  Many  vendors  have  implemented  this  feature  by  allowing
+users to simply export a new version of the file but be sure to work with your vendor to
+determine  if  this  approach  is  appropriate  for  you.  Please  note  that  succession
+management does not allow you to delete a record without overwriting it with a new
+record for that patient.   Q3: When using Succession Management, can I delete records
+without replacing them? No. Succession management will only overwrite or replace an
+existing record with a new record. If you need to completely delete an AR Event or AR
+Summary record without replacing it with an updated version, you’ll need to follow the
+steps in Q1 and Q2 above to manually delete the record. Q1: Do the 14-day (blood &
+CSF) and 1 per month (urine & lower respiratory) duplicate rules extend across calendar
+months? The 14-day duplicate rule for invasive specimens (blood & CSF) does extend
+across calendar months. Even across calendar months there should be 14 days with no
+positive  culture  result  from  the  laboratory  for  the  patient  and  specific  organism
+SNOMED code before your facility can report another invasive source AR Event in NHSN
+for the same patient and specific organism SNOMED code. See the below example to
+visualize  the  14-day  duplicate  rule  for  invasive  sources:    However,  the  1  per  month
+duplicate rule for non-invasive specimens (urine or lower respiratory) does not extend
+across calendar months. For urine and lower respiratory specimen isolates, report the
+first  non-invasive  source  AR  Event  per  month.  Report  no  more  than  1  non-invasive
+specimen  per  patient  per  organism  to  NHSN  per  calendar  month.  See  the  below
+example to visualize the 1 per month duplicate rule for non-invasive sources:   Q2: Do
+the 14-day (blood & CSF) and 1 per month (urine & lower respiratory) duplicate rules
+extend  across  patient  admissions?  Both  the  14-day  duplicate  rule  for  invasive
+specimens  (blood  &  CSF)  and  1  per  month  duplicate  rule  for  non-invasive  specimens
+(urine & lower respiratory) extend across patient admissions. See the examples below
+for  clarification.  Invasive  specimen  (blood  &  CSF)  example  of  the  14-day  rule  for  a
+specific  organism  from  a  single  patient  across  admissions:    Non-invasive  specimen
+(urine & lower respiratory) example of the 1 per month rule for a specific organism from
+a single patient across admissions:   Q3: Do the 14-day (blood & CSF) and 1 per month
+(urine  &  lower  respiratory)  duplicate  rules  apply  to  specimens  collected  while  the
+patient  was  at  another  healthcare  facility?  No.  The  14-day  duplicate  rule  for  invasive
+specimens  (blood  &  CSF)  &  1  per  month  duplicate  rule  for  non-invasive  specimens
+(urine & lower respiratory) apply only to specimens collected in the reporting facility.
+Do not include specimens obtained while the patient was at another healthcare facility
+in the 14-day (blood & CSF) or 1 per month (urine & lower respiratory) calculations.  
+Q4: Do the 14-day (blood & CSF) and 1 per month (urine & lower respiratory) duplicate
+rules apply to multiple pathogens identified across a 14-day period? No. The duplicate
+rules  are  specific  to  a  single  pathogen.  If  the  laboratory  identifies  another  pathogen,
+regardless  of  the  specimen  source  or  the  date  the  previous  pathogen  was  identified,
+this is not considered a duplicate event. The subsequent pathogens should be reported
+as AR Events. See the example below for clarification.   Q1: Should I report preliminary
+antimicrobial  susceptibility  test  results  to  NHSN?  No.  You  should  report  only  final  or
+corrected  susceptibility  testing  results  to  NHSN.  Do  not  report  preliminary  laboratory
+results for NHSN AR Option reporting. Facilities should wait at least seven calendar days
+following the end of the month before submitting data to ensure the lab completed all
+susceptibility testing and reported final results back to the EHR.   Q2: If I’m not able to
+send  susceptibility  data  for  specific  tests  (minimum  inhibitory  concentration  [MIC],
+E-Test, Kirby-Bauer [KB]), can I still participate in AR reporting? Yes, facilities can still
+participate if they are still able to send the final interpretation provided by the lab for
+the  given  drug.  NHSN  requires  the  specific  test  result  interpretations  for  MIC,  E-Test,
+and  KB  are  included  in  the  AR  Event  CDA  file.  However,  if  your  facility  cannot  send
+test-specific data, report these tests as “Not Tested” in the CDA file.   Q3: My laboratory
+suppresses some susceptibility test results. Can I still participate in the AR Option if I’m
+unable  to  send  all  susceptibility  results?  Data  suppression  prevents  complete
+antimicrobial  susceptibility  data  from  being  reported  to  the  AR  Option.  We  have
+observed  that  there  are  two  types  of  suppression.  The  first  is  that  the  testing
+instrument  suppresses  the  results  for  organism-drug  combinations  that  are  not
+supposed to be reported for microbiology purposes, such as ampicillin for Pseudomonas
+aeruginosa.  The  second  is  data  suppression  for  the  purpose  of  antimicrobial
+stewardship;  for  example,  suppressing  carbapenems  for  E.  coli  isolates  that  are
+susceptible  to  first,  second,  or  third  generation  cephalosporins  to  reduce  the  use  of
+carbapenems. For purpose #1, we would recommend keeping those results suppressed
+and  not  submitting  them  to  NHSN.  For  the  organism-drug  combinations  that  are
+suppressed for purpose #2, generally we would recommend that, if feasible, allow labs
+to release complete AST results to the EHR and perform data suppression at the EHR
+level (as opposed to suppression at the susceptibility testing instrument or laboratory
+information system level). This way, complete data will still be available in the EHR and
+theoretically  should  be  available  for  data  extraction  and  submission  for  surveillance
+purposes.  You  might  need  to  work  with  your  microbiology  lab  to  identify  which
+combinations  belong  to  which  purpose.  However,  if  your  facility  cannot  obtain  and/or
+send suppressed data to the NHSN AR Option, NHSN will accept the data your facility is
+able  to  provide.  Please  be  sure  that  your  vendor  is  using  ‘Not  Tested’  for  the
+unavailable tests/drugs. The NHSN application will not accept AR Event CDA files that
+do  not  contain  all  the  required  drugs  for  a  given  organism.    Q4:  Should  I  report  an
+isolate to the AR Option if all drugs tested were Susceptible? Yes. Isolates are eligible
+for  reporting  to  the  AR  Option  regardless  of  the  susceptibility  results.    Q5:  Should  I
+report  an  isolate  to  the  AR  Option  if  my  laboratory  did  not  test  for  all  required
+antimicrobials  but  did  test  at  least  one  non-required  drug?  Yes.  Isolates  where  the
+laboratory did not test for all NHSN required antimicrobials but did test for at least one
+non-required  antimicrobial  are  eligible  for  NHSN  AR  Option  reporting.  For  example,  if
+your  laboratory  tested  a  Staphylococcus  aureus  isolate  for  the  non-required  drug
+oritavancin,  but  not  for  any  NHSN  required  antimicrobials,  that  isolate  would  still  be
+considered eligible for reporting to the AR Option. In this case, your facility would report
+“Not  Tested”  for  the  required  antimicrobials.     Q6:  Should  I  report  an  isolate  if  my
+laboratory did not perform any susceptibility testing? No. Your facility must perform at
+least one antimicrobial test for an isolate to be eligible for inclusion in the AR Option.
+For example, if your facility does not routinely perform susceptibility testing on Candida
+albicans
+ isolates
+ from
+ non-invasive
+ sites,
+ you
+ would
+ not
+ include
+ Candida
+albicans  isolates  from  urine  specimens  in  your  AR  Event  reporting.  However,  if  a
+provider requested testing on a Candida albicans isolate and your laboratory performed
+at least one antimicrobial test, then this specific Candida albicans isolate from the urine
+specimen  would  be  eligible  for  inclusion  in  the  AR  Option  and  should  be  reported
+regardless of the result of this test.    Q7: If the laboratory reports additional information
+beyond required drugs in the NHSN drug panels, should I report those drugs to NHSN?
+No. Do not report additional drugs to NHSN. NHSN will only accept the drugs listed in
+the  specific  organism’s  drug  panel.    Q8:  If  the  penicillin-binding  protein  2a  (PBP2a)
+and/or polymerase chain reaction (PCR) mec-gene variables are not available from the
+electronic data for Staphylococcus aureus, should I still report this organism to NHSN?
+NHSN requires that Staphylococcus aureus isolate CDA files include the PBP2a and PCR
+mec-gene test variables. However, facilities unable to electronically obtain the results
+of the PBP2a-agglutination and/or PCR mec-gene tests for Staphylococcus aureus may
+report  “Unknown”  for  these  specific  tests  in  the  AR  Event  CDA  file.    Q9:   If  my
+laboratory  performs  the  same  specific  test  (E-Test,  MIC,  KB)  on  the  same  isolate  but
+they produce conflicting results, what should we report to the NHSN application for the
+final interpretation? Report the final interpretation provided by the laboratory. If your
+laboratory provides no final interpretation, then report the most resistant interpretation
+(Not Susceptible [NS] > Resistant [R] > Intermediate [I] > Susceptible-Dose Dependent
+[S-DD] > Susceptible [S] > Not Tested [NA]). For example, if your laboratory performs
+two  E-Tests  for  the  same  drug  on  the  same  isolate  and  one  produces  “Intermediate”
+(“I”) and the other produces “Susceptible” (“S”), report “Intermediate” (“I”) as the final
+interpretation  for  that  specific  drug  susceptibility.    Q10:  If  my  laboratory  performs
+multiple  specific  antimicrobial  tests  (E-Test,  MIC,  KB)  on  the  same  isolate  and  they
+produce conflicting results, what should we report to the NHSN application for the final
+interpretation?  Report  the  final  interpretation  provided  by  the  laboratory.  If  your
+laboratory provides no final interpretation, then report the most resistant specific test
+interpretation as the final interpretation (NS > R > I > S-DD > S > NA). For example, if
+drug  susceptibility  results  produced  MIC  =  “Resistant”  (“R”)  and  E-Test  =
+“Intermediate”  (“I”)  but  your  laboratory  provides  no  final  interpretation,  report
+“Resistant” (“R”) as the final interpretation for that specific drug susceptibility.   Q11: If
+two  isolates  from  the  same  day  have  conflicting  susceptibilities  to  the  panel  of
+antimicrobials  tested,  which  isolate  should  I  report?  Report  the  isolate  with  the  most
+resistant final interpretation (NS > R > I > S-DD > S > NA). If your laboratory does not
+provide  a  final  interpretation,  report  the  isolate  with  the  higher  amount  of  drug
+resistance based on the number of antimicrobials testing first “Not Susceptible” (“NS”),
+if equal amount of “NS” then move to the amount of “Resistant” (“R”), then “I”, then
+“S-DD”, then “S”. If it cannot be determined which isolate is the most resistant, report
+the isolate that was the first entered into the LIS. For example, suppose the laboratory
+isolated Staph aureus from two blood specimens collected from the same patient on the
+same calendar day and provided no final interpretation. The first isolate tested resistant
+to  three  of  the  eight  antimicrobials  tested  and  the  second  isolate  tested  resistant  to
+four  of  the  eight  antimicrobials  tested.  Report  the  second  isolate  to  NHSN  since  it
+showed the higher amount of resistance.   Q12: If my LIS does not differentiate between
+Penicillin G and Penicillin V, how should I report my penicillin susceptibility results? If
+the  LIS  does  not  differentiate  between  Penicillin  G  and  Penicillin  V,  list  susceptibility
+results under Penicillin G and report Penicillin V as not tested.   Q13: If my LIS produces
+meningitis  and  non-meningitis  breakpoint  results,  which  should  I  report  to  the  NHSN
+application? If the LIS produces meningitis and non-meningitis breakpoint results, rely
+on  the  specimen  source  to  determine  which  susceptibility  results  to  report.  If  the
+specimen source is CSF, report the meningitis breakpoint susceptibility. If the specimen
+source  is  blood,  urine,  or  lower  respiratory,  report  the  non-meningitis  breakpoint
+susceptibility.    Q14:  Will  NHSN  add  the  D-Test  or  other  testing  methods  to  the  AR
+Option?  No. At this time, NSHN will not add additional laboratory testing methods, such
+as  the  D-Test,  to  the  AR  Option  requirements.  Q1:  How  do  I  count  AR  Option
+denominator data? Report combined denominator data for all inpatient locations within
+the  facility  (FacWideIN)  monthly.  This  includes  patient  days  (the  number  of  patients
+present in the facility at the same time on each day of the month, summed across all
+days in the month) and admissions (the number of admissions to an inpatient location
+in  the  facility  each  month).  A  patient  is  counted  in  the  patient  days  and  admissions
+count for the facility if they are physically located in an NHSN-defined inpatient location
+regardless  of  patient  status  (for  example,  inpatient,  observation).  Further,  a  patient
+admitted to an inpatient unit is counted as an admission even if they were discharged
+that  same  calendar  day.  Additionally,  a  patient  transfer  from  an  inpatient  to  an
+outpatient  location  then  back  to  an  inpatient  location  is  counted  as  two  separate
+admissions.  Neither  the  FacWideIN  patient  days  nor  admissions  denominators  should
+include the counts from outpatient locations (ED, pediatric ED, and 24-hour observation
+area).  Facilities  should  also  report  AR  Option  denominator  data  from  the  outpatient
+locations  included  in  their  AR  Option  reporting  plan  (ED,  pediatric  ED,  and  24-hr
+observation area). The number of outpatient encounters for the month for that location
+is included in each individual outpatient location AR Summary file. Each patient visit to
+the  outpatient  location  counts  as  a  single  encounter.    Q2:  How  do  I  count  patient
+admissions  for  AR  calculations  when  a  patient’s  stay  extends  from  one  month  to
+another? The day a patient enters the door to a facility or a location is the date of their
+admission to that facility or location regardless of patient status (for example, inpatient,
+observation).  If  the  patient  remains  in  an  inpatient  location  and  the  facility  does  not
+discharge the patient, then that stay is all part of the same admission, no matter how
+long.  A  stay  that  continues  across  multiple  calendar  months,  assuming  the  patient
+remains in an inpatient location the entire stay, is still only one admission counted in
+the  month  the  patient  was  originally  admitted.  If  the  patient  discharges  and  then
+returns on a separate calendar day, then count the patient as a new admission with a
+new admission date. If the patient discharges and then returns on the same calendar
+day, then do not count the patient as another admission.   Q3: Are Patient Days and
+Admissions  reported  for  outpatient  locations  for  the  AR  Option?  Patient  Days  and
+Admissions are not reported for outpatient locations for the AR Option. These location
+types  report  outpatient  encounters  only.  Additionally,  outpatient  locations  are  not
+included in the FacWideIN patient day and admission counts.   Q1: How do I view my AR
+Option data once I’ve uploaded it into NHSN? You can view AR Option data using the
+NHSN Analysis function. You can find specific details on the AR Option analysis in the
+AUR Module Protocol [PDF – 3 MB] or in the Analysis Resources section of the NHSN AUR
+Module webpage. Additionally, NHSN developed short analysis Quick Reference Guides
+to assist with viewing, modifying, and interpreting the AR Option event and summary
+data:  Remember to generate data sets within your NHSN facility before running your
+analysis reports so the data set includes any newly uploaded data. See question below
+for information on generating data sets.   Q2: I uploaded AR Option data but I don’t see
+it when I run my reports within analysis. What happened to my data? Newly uploaded
+data  do  not  appear  in  the  analysis  reports  until  you  generate  new  data  sets  within
+NHSN. Your data set is a snapshot of the data currently in your NHSN facility during the
+time  period  specified  when  you  click  the  “Generate  New  Data  Sets”  button.  Always
+generate new data sets after uploading data into NHSN. See the Generating Datasets
+Guide [PDF – 359 KB] for more information. Note: Each NHSN user has their own data
+sets. You may not see the same data as your coworkers if you generated data sets at
+different times or with different parameters.   Q3: What are the differences between AR
+Events  and  AR  Organisms  within  the  analysis  reports?  AR  Events  include  all  events
+reported into the AR Option regardless of susceptibility results (specifically, a positive
+culture). Reports for AR Organisms allow you to analyze AR Events from your facility (or
+group)  in  which  a  specific  antimicrobial  resistant  organism  (or  “phenotype”)  was
+identified.  CDC  has  defined  16  AR  Option  phenotypes  of  epidemiologic  importance.
+Criteria and definitions for the pre-defined phenotypes can be found in Appendix I of the
+AUR  Module  Protocol  [PDF  –  3  MB].    Q4:  How  do  I  read  the  AR  Event  Line  List?  The
+Antimicrobial  Resistance  Event  Line  List  report  is  an  organized,  detailed  list  of  each
+record a facility reports into NHSN. You may have to modify the report by filtering by
+month,  pathogen,  specimen,  or  other  variable  as  the  default  settings  may  produce  a
+report that is too lengthy to be useful and/or displayed. Users can review the report to
+verify the data imported successfully and can also be helpful for data validation. Below
+is an example AR Event Line List report showing fictitious data and a description of how
+to read this report:  
+The  Laboratory  isolated  Stenotrophomonas  maltophilia  from  a  patient’s  cerebrospinal
+fluid  collected  in  the  MSICU  on  October  14,  2021.  This  isolate  was  resistant  to
+cefiderocol, ceftazidime, chloramphenicol, levofloxacin, and minocycline. The laboratory
+did  not  test  for  sulfamethoxazole  with  trimethoprim.  (Please  note  that  data  on  this
+report are fictitious and for example only.) You can find more information about the AR
+Event  Line  List  in  the  Antimicrobial  Resistance  Event  Line  List  quick  reference  guide
+[PDF – 323 KB].   Q5: How do I read the AR Summary Line List?  The AR Summary line
+list  is  a  report  summarizing  denominator  data  reported  into  NHSN  for  FacWideIN  and
+the  individual  outpatient  locations.  For  FacWideIN,  this  includes  data  on  patient  days
+and  admissions  whereas  outpatient  encounters  are  reported  for  the  outpatient
+locations.  By  default,  this  report  also  includes  the  “Report  No  AR  Events”  variable.
+Information on how to modify the AR Summary Line List, for example filtering by month
+or changing the variables displayed, is available in our AR Denominator Line List [PDF –
+394 KB] quick reference guide. NHSN has also developed a guide for more information
+on how to report no AR events [PDF – 394 KB]. Below is an example AR Summary Line
+List report showing fictitious data and a description of how to read this report: Please
+note that data on this report are fictitious and for example only.  
+This report includes the default variables included in the AR summary line list report.
+The first line shows that in January 2021 for FacWideIN, there were 5,241 patient days
+and  264  admissions.  The  second  line  shows  in  July  2021  for  EMER,  there  were  375
+patient encounters. The third line shows in July 2021 for FacWideIN, there were 2,350
+patient  days  and  460  admissions  reported.  In  January  2021,  the  Report  No  AR  Event
+variable  =  N,  indicating  that  there  are  AR  Events  reported  for  that  calendar  month.
+However, in both rows for July 2021, the Report No AR Event variable = Y, indicating
+that there were no AR Events to be reported for that calendar month and the facility
+checked  the  “Report  No  Events”  boxes  for  both  FacWideIN  and  EMER.    Q6:  What
+validation checks should I conduct on my AR Option data? NHSN provides guidance on
+recommended  AR  validation  [PDF  –  400  KB].  This  guidance  is  helpful  for  all  facilities
+including those implementing AR Option reporting, those that have undergone a vendor
+system change, and those that have been reporting for years. Suppression can lead to
+significant  biases  in  the  antimicrobial  resistance  data  available  for  surveillance  or
+infection  control.  Facilities  should  make  every  effort  to  report  all  antimicrobial
+resistance data that meet the NHSN protocol requirements, regardless of whether those
+data  are  suppressed  from  clinical  end  users.  Refer  to  Q3  in  the  Laboratory  Testing
+Results  section  for  more  information.  Review  of  AR  Option  data,  including  the  steps
+outlined  in  the  AR  Validation  guidance  [PDF  –  400  KB],  can  be  an  important  step  in
+ensuring data reported to NHSN are complete and accurate.   Q7: Could you provide
+more details on the NHSN AR Option Facility-Wide Antibiogram calculation? The NHSN
+facility-wide antibiogram shows the organisms from the specimens reported into the AR
+Option for a specified time period of interest. It lists all antimicrobials and the percent
+of isolates that were susceptible (S) to the antimicrobial. Below is the calculation: The
+percent susceptible is only calculated when 30 or more isolates were tested for a drug.  
+Q8: Is the antibiogram produced in NHSN the same as the antibiogram produced by my
+lab? No, if your lab uses CLSI M39 guidance, the antibiograms will be different. While
+the NHSN AR Option Protocol and the CLSI M39 guidance differ in deduplication rules,
+the  results  should  be  similar.  Further,  both  can  be  used  to  guide  the  selection  of
+empirical  antimicrobial  therapy.  When  a  longer  period  of  the  analysis  is  applied  the
+NHSN-CLSI difference is likely to be larger but not be huge. If you see a large difference,
+we recommend reviewing and validating the data [PDF – 1MB]. Also, NHSN users should
+keep  in  mind  that  NHSN  AR  Option  surveillance  does  not  include  specimen  sources
+other than blood, CSF, lower respiratory tract, or urine. Other specimen types, such as
+wound  cultures,  can  be  included  in  your  lab  produced  M39  antibiogram.  As  a  result,
+only  specimen-specific  antibiograms  can  be  compared,  and  use  of  NHSN  AR  Option
+surveillance data as guidance for empirical antimicrobial therapy is limited to infections
+of specific infection sites (bacteremia, pneumonia, central nervous system infections, or
+UTI).      Q9:  How  do  I  read  the  NHSN  AR  Option  Facility-Wide  Antibiogram?  The
+facility-wide antibiogram table displays the calculated percent susceptible (%S) for each
+organism-antimicrobial  combination  for  the  time  period  of  interest.  Users  can  modify
+the  antibiogram  table  to  further  customize  this  output.  Additional  information  on  the
+antibiogram is available in the antibiogram quick reference guide  [PDF – 537 KB].
+Below  is  an  example  of  a  facility-wide  antibiogram  showing  fictitious  data  and  a
+description of how to read it:    Please note that data on this report are fictitious and for
+example only.  
+The column headers list the organism category and specific pathogen while the rows
+represent each antimicrobial, sorted by drug class. In this example, 49% of the Candida
+glabrata  isolates  tested  were  susceptible  to  fluconazole.  Cells  with  “.”  represent
+organism/drug  combinations  for  which  there  were  less  than  30  isolates  tested.  Cells
+shaded  in  grey  represent  non-valid  organism/drug  combinations.  For  the  full  drug
+name,  see  the  List  of  Antimicrobial  Agents  Eligible  for  AUR  Module  [XLS  –
+479KB]  spreadsheet,  which  is  found  in  the  Supporting  Materials  section  of  the  AUR
+Module  webpage.    Q10:  How  are  AR  Events  classified  as  community-onset  (CO)  or
+healthcare  facility-onset  (HO)?  NHSN  automatically  calculates  AR  Event  onset
+categorization based on the number of hospital days between the date the patient is
+admitted  to  the  facility  and  the  specimen  collection  date.  Facility  admission  date  is
+considered  Day  1.  The  table  and  graphic  below  indicate  the  onset  of  an  AR  Event
+collected on specific hospital days. Please note: any specimen collected in an outpatient
+location will be categorized as community-onset (CO).
+  Q11: Could you provide more details on the calculation of the AR Option Incidence and
+Prevalence  Rates?  The  AR  Option  Incidence  and  Prevalence  reports  utilize  AR  Event
+data and AR Summary data to calculate the incidence and prevalence rates for specific
+pathogens  (or  pathogen  groups)  and  AR  phenotypes  [PDF  –  1MB].  We  use  the  term
+incidence  for  our  hospital-onset  AR  Events.  We  use  the  term  prevalence  for  our
+community-onset AR Events. Rates are provided for each individual specimen type (i.e.,
+blood,  urine,  cerebrospinal  fluid,  lower  respiratory)  and  for  all  specimen  types
+combined.  Incidence  Rate  =    Community-onset  Prevalence  Rate  =    Outpatient
+Prevalence Rate =   Q12: Are the data in the AR incidence and prevalence reports the
+same as the data in the rate tables in the Multidrug-Resistant Organism & Clostridioides
+difficile  Infection  (MDRO/CDI)  Module?  No,  AR  Option  reporting  is  separate  and
+independent of events reported through the MDRO/CDI Module. The AR Option and the
+MDRO/CDI Module use different definitions for event and summary data. For example,
+the two modules include different specimen sources and different de-duplication rules.
+Additionally, while the patient days definition used in the AR Option is the same as the
+definition  used  in  the  MDRO/CDI  Module,  the  admissions  definition  used  in  the  AR
+Option is different than the definition used in the MDRO/CDI Module.   
+ Training 
+ Newsletters / Members Meeting Updates 
+ E-mail Updates 
+ Health Department HAI/AR Programs To receive email updates about this page, enter
+your email address:  Questions about NHSN?Contact us: nhsn@cdc.gov
+Source URL: https://www.cdc.gov/nhsn/faqs/faq-ar.html

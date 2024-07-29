@@ -1,0 +1,92 @@
+Official websites use .gov A .gov website belongs to an official government organization
+in  the  United  States.  Secure  .gov  websites  use  HTTPS  A  lock  (   )  or  https://  means
+you've  safely  connected  to  the  .gov  website.  Share  sensitive  information  only  on
+official,  secure  websites.  NARMS  tests  isolates  to  determine  their  antibiotic
+susceptibility.  This  task  is  accomplished  by  finding  the  lowest  concentration  of  a
+particular  antibiotic  that  will  inhibit  the  growth  of  the  bacteria,  which  is  called  the
+minimum  inhibitory  concentration  (MIC).  Currently  CDC  NARMS  routinely  tests  for
+susceptibility  to  18  antibiotic  agents  that  are  in  12  classes  of  drugs.  The  names  and
+classes of drugs and the testing methods used for susceptibility testing depend on the
+type  of  bacteria  being  tested:  *  N/A  indicates  that  no  MIC  range  of  intermediate
+susceptibility exists
+†Cefepime  MICs  above  the  susceptible  range,  but  below  the  resistant  range  are
+designated by CLSI to be susceptible-dose dependent (S-DD)
+‡CLSI breakpoints are not established for streptomycin;  interpretive standards used are
+NARMS-established  breakpoints  for  resistance  monitoring  and  should  not  be  used  to
+predict clinical efficacy. During 1996–2013 resistance was defined as ≥64 µg/mL; the
+breakpoint  was  updated  to  ≥32  µg/mL  in  2014.  The  2014  breakpoint  could  not  be
+applied to previous years due to limited concentrations tested.
+§ Broad-spectrum β-lactam antimicrobial agent only tested for non-typhoidal Salmonella
+isolates displaying ceftriaxone and/or ceftiofur resistance during 2011–2015.
+¶ CLSI updated the ceftriaxone interpretive standards in January 2010. NARMS Human
+Isolate reports for 1996 through 2008 used susceptible ≤8 μg/mL, intermediate 16–32
+μg/mL, and resistant ≥64 μg/mL.
+**CLSI  breakpoints  for  azithromycin  are  only  established  for  Salmonella  ser.  Typhi.
+Interpretive  criteria  for  Salmonella  ser.  Typhi  are  based  on  MIC  distribution  data  and
+limited  clinical  data.  The  azithromycin  interpretive  standards  used  for  Salmonella
+serotypes  other  than  ser.  Typhi  are  NARMS-established  breakpoints  for  resistance
+monitoring and should not be used to predict clinical efficacy.
+††Concentration  range  used  for  azithromycin  during  2011–2015  ‡‡CLSI  updated  the
+ciprofloxacin  interpretive  standards  for  Salmonella  in  January,  2012.  NARMS  Human
+Isolate  Reports  for  1996  through  2010  used  susceptible  ≤1  µg/mL,  intermediate  2
+µg/mL,  and  resistant  ≥4  µg/mL.  *  N/A  indicates  that  no  MIC  range  of  intermediate
+susceptibility exists
+†  CLSI  breakpoints  are  not  established  for  streptomycin;   interpretive  standards  used
+are NARMS-established breakpoints for resistance monitoring and should not be used to
+predict clinical efficacy. During 1999–2013 resistance was defined as ≥64 µg/mL; the
+breakpoint  was  updated  to  ≥32  µg/mL  in  2014.  The  2014  breakpoint  could  not  be
+applied to previous years due to limited concentrations tested.
+‡ CLSI updated the ceftriaxone interpretive standards in January, 2010. NARMS Human
+Isolate reports for 1999 through 2008 used susceptible ≤8 μg/mL, intermediate 16-32
+μg/mL, and resistant ≥64 μg/mL.
+§ CLSI  interpretive standards for azithromycin are only established for Shigella sonnei
+and Shigella flexneri. In December 2015, CLSI established epidemiological cutoff values
+(ECVs) for Shigella species sonnei and flexneri. The ECVs should not be used as clinical
+breakpoints  and  CLSI  uses  the  terms  “wild-type”  and  “non-wild-type”  instead  of
+susceptible  and  resistant,  respectively,  to  reflect  the  nature  of  the  populations  of
+bacteria  in  each  group  and  to  highlight  that  these  categories  are  not  to  be  used  to
+predict clinical efficacy. The azithromycin  interpretive standards used for other Shigella
+species are NARMS-established breakpoints for resistance monitoring and should not be
+used to predict clinical efficacy.
+¶ Concentration range used for azithromycin during 2011–2015.
+** CLSI updated the ciprofloxacin interpretive standards for Shigella in January, 2019.
+NARMS  Human  Isolate  Reports  for  1996  through  2015  used  susceptible  ≤1  µg/mL,
+intermediate  2  µg/mL,  and  resistant  ≥4  µg/mL.  *  N/A  indicates  that  no  MIC  range  of
+intermediate susceptibility exists
+†CLSI breakpoints are not established for streptomycin; interpretive standards used are
+NARMS-established  breakpoints  for  resistance  monitoring  and  should  not  be  used  to
+predict clinical efficacy. During 1996–2013 resistance was defined as ≥64 µg/mL; the
+breakpoint  was  updated  to  ≥32  µg/mL  in  2014.  The  2014  breakpoint  could  not  be
+applied to previous years due to limited concentrations tested.
+‡ CLSI updated the ceftriaxone interpretive standards in January, 2010. NARMS Human
+Isolate Reports for 1996 through 2008 used susceptible ≤8 µg/mL, intermediate 16-32
+µg/mL, and resistant ≥64 µg/mL.
+§CLSI  breakpoints  are  not  established  for  azithromycin  and  E.  coli;  interpretive
+standards  used  are  NARMS-established  breakpoints  for  resistance  monitoring  and
+should not be used to predict clinical efficacy.
+¶ Concentration range used for azithromycin during 2011–2015
+**  CLSI  updated  the  ciprofloxacin  interpretive  standards  for  E.  coli  in  January,  2019.
+NARMS  Human  Isolate  Reports  for  1996  through  2015  used  susceptible  ≤1  µg/mL,
+intermediate 2 µg/mL, and resistant ≥4 µg/mL. * Etest dilution range used before 2005
+† MIC interpretative standard is based on epidemiological cutoff values established by
+the  European  Committee  on  Antimicrobial  Susceptibility  Testing  (EUCAST  –  last
+accessed on 7/21/2017). This approach was adopted in 2012 and applied to all years.
+EUCAST  uses  the  terms  “wild-type”  and  “non-wild-type”  instead  of  susceptible  and
+resistant, respectively, to reflect the nature of the populations of bacteria in each group
+and to highlight that these categories are not to be used to predict clinical efficacy.
+‡ A telithromycin ECV for Campylobacter coli is not currently published by EUCAST. We
+apply the previously published [PDF – 3 pages] ECV of 4 µg/mL to all C. coli isolates,
+designating  “wild-type”  isolates  (MIC  ≤4  µg/mL)  as  sensitive  and  “non-wild-type”
+isolates  (MIC  ≥8  µg/mL)  as  resistant.  *N/A  indicates  that  no  MIC  range  of  either
+intermediate or resistant susceptibility exists
+† Etest dilution range used before 2015
+‡ Concentration range used for azithromycin in 2015
+§CLSI  has  only  established  a  susceptible  breakpoint  (≤2  µg/mL)  for  azithromycin  and
+cautions that the utility of this interpretation for Vibrio species other than V. cholerae is
+uncertain due to limited clinical or in vitro MIC data. Because of this, NARMS will not
+apply any interpretive criteria to azithromycin MICs for non-cholerae Vibrio until further
+data are available.
+¶  CLSI  updated  the  imipenem  interpretive  standards  in  October,  2015.  The  previous
+breakpoints  were  susceptible  ≤4  µg/mL,  intermediate  8  µg/mL,  and  resistant  ≥16
+µg/mL. NARMS Isolate Submission Login
+Source URL: https://www.cdc.gov/narms/antibiotics-tested.html

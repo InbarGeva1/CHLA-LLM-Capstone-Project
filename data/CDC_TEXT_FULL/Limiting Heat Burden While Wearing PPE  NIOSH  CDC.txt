@@ -1,0 +1,52 @@
+Official websites use .gov A .gov website belongs to an official government organization
+in  the  United  States.  Secure  .gov  websites  use  HTTPS  A  lock  (   )  or  https://  means
+you've  safely  connected  to  the  .gov  website.  Share  sensitive  information  only  on
+official,  secure  websites.  Yes,  wearing  PPE  and  certain  clothing  ensembles  can  often
+increase  your  risk  for  heat-related  illnesses.  PPE  (e.g.,  waterproof  aprons,  surgical
+gowns,  surgical  caps,  respirators,  face  shields,  boots,  and  gloves):  For  additional
+information, see 3.3 Effects of Clothing on Heat Exchange in the NIOSH Criteria for a
+Recommended  Standard:  Occupational  Exposure   to  Heat  and  Hot  Environments.
+Wearing  certain  types  of  PPE  can  increase  core  body  temperature  (i.e.,  internal
+temperature) more quickly than wearing other types of PPE in the same environment.
+Yes,  wearable  PPE  that  protects  against  heat  exposures  are  called  auxiliary  cooling
+systems or personal cooling systems (e.g., water-cooled garments, air-cooled garments,
+cooling  vests,  and  wetted  overgarments)  and  can  range  in  simplicity,  cost,  and
+maintenance. In situations, where heat stress levels exceed the NIOSH recommended
+occupational  exposure  limit  (RAL  or  REL),  some  form  of  heat-protective  clothing  or
+equipment should be provided. Wearable personal cooling systems could also be used
+during  a  rest  period  where  the  worker  is  not  actively  engaged  in  work.  Core  body
+temperature decreases relatively slowly, and simply stopping hard work will not result
+in an immediate decrease. Therefore, increasing the rate of heat removal from the body
+would reduce the risk for heat-related illness. Using wearable personal cooling systems
+could  reduce the time required  to  lower core body  temperature.  For example,  during
+rest  breaks:  This  reduces  body  core  temperature  and  allows  for  a  more  rapid
+“rehabilitation”  during  the  rest  break.  Wearable  personal  cooling  systems  have
+limitations within a work setting, such as: For additional information, see 6.3 Personal
+Protective  Clothing  and  Auxiliary  Body  Cooling  in  the  NIOSH  Criteria  for  a
+Recommended Standard: Occupational Exposure  to Heat and Hot Environments. NIOSH
+Science Blog: Heat Stress Imposed by PPE Worn in Hot and Humid Environments NIOSH
+Limiting Heat Burden While Wearing PPE
+Training  slides  developed  for  healthcare  workers  providing  care  in  West  African
+countries affected by the Ebola outbreak. NIOSH Prevent Heat-related Illness Poster
+Basic reminders for workers exposed to heat and wearing PPE. Ali M. Aljaroudi, Darren
+S. Kadis, Amit Bhattacharya, Amanda Strauch, Tyler D. Quinn & W. Jon Williams (2020)
+Effect of continuous cooling on inhibition and attention while wearing firefighter’s PPE in
+a hot environment, Journal of Occupational and Environmental Hygiene, 17:5, 243-252,
+DOI: 10.1080/15459624.2020.1726933 Roberge RJ, Kim JH, Coca A. Protective facemask
+impact on human thermoregulation: an overview. Ann Occup Hyg. 2012;56(1):102‐112.
+doi:10.1093/annhyg/mer069 Kim JH, Coca A, Williams WJ, Roberge RJ. Effects of liquid
+cooling  garments  on  recovery  and  performance  time  in  individuals  performing
+strenuous
+ work
+ wearing
+ a
+ firefighter
+ ensemble.
+ J
+ Occup
+ Environ
+ Hyg.
+2011;8(7):409‐416.  doi:10.1080/15459624.2011.584840  Nag  PK,  Pradhan  CK,  Nag  A,
+Ashtekar SP, Desai H. Efficacy of a water-cooled garment for auxiliary body cooling in
+heat. Ergonomics. 1998;41(2):179‐187. doi:10.1080/001401398187233
+Source URL: https://www.cdc.gov/niosh/topics/heatstress/heat_burden.html

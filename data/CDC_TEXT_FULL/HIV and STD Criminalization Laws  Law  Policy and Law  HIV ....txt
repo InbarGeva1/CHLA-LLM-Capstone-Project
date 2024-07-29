@@ -1,0 +1,69 @@
+Official websites use .gov A .gov website belongs to an official government organization
+in  the  United  States.  Secure  .gov  websites  use  HTTPS  A  lock  (   )  or  https://  means
+you've  safely  connected  to  the  .gov  website.  Share  sensitive  information  only  on
+official, secure websites. Updated December 19, 2023 As of 2023, 34 states have laws
+that criminalize HIV exposure. CDC researched and analyzed the relevant laws for the
+50  states,  the  District  of  Columbia,  and  Puerto  Rico  then  categorized  them  into  four
+categories.  General  criminal  statutes,  such  as  reckless  endangerment  and  attempted
+murder, can be used to criminalize behaviors that can potentially expose another to HIV
+and or an STD. Many states have laws that fall into more than one of the categories
+listed above. For this analysis, only HIV-specific laws are captured for states with both
+HIV-specific  laws  and  STD/communicable/infectious  disease  laws.  Only  HIV  or
+STD/communicable/infectious  disease  laws  are  captured  for  states  with  both  HIV  or
+STD/communicable/infectious disease laws and sentence enhancement statutes. During
+the  early  years  of  the  HIV  epidemic,  many  states  implemented  HIV-specific  criminal
+exposure laws to discourage behavior that might lead to transmission, promote safer
+sex practices, and, in some cases, receive funds to support HIV prevention activities.
+These laws were passed at a time when very little was known about HIV including how
+HIV  was  transmitted  and  how  best  to  treat  the  virus.  Many  of  these  state  laws
+criminalize behaviors that cannot transmit HIV – such as biting or spitting – and apply
+regardless  of  actual  transmission,  or  intent.  After  over  30  years  of  HIV  research  and
+significant biomedical advancements to treat and prevent HIV transmission, many state
+laws  are  now  outdated  and  do  not  reflect  our  current  understanding  of  HIV.  In  many
+cases, this same standard is not applied to other treatable diseases. Further, these laws
+have been shown to increase stigma, exacerbate disparities, and may discourage HIV
+testing.  Criminalize  or  Control  Actions  Through  HIV-Specific  Statutes  and  Regulations
+(n=21)  Criminalize  or  Control  Actions  Through  STD/Communicable/Infectious  Diseases
+Specific Statutes (n=13) Sentence Enhancement Statutes (n=5) None/General Criminal
+Statutes  (n=13)  Criminalization  of  potential  HIV  exposure  is  largely  a  matter  of  state
+law, with some Federal legislation addressing criminalization in discrete areas, such as
+blood donation and prostitution. These laws vary as to what behaviors are criminalized
+or what behaviors result in additional penalties. Several states criminalize one or more
+behaviors  that  pose  a  low  or  negligible  risk  for  HIV  transmission.  In  13  states,  laws
+require  people  with  HIV  who  are  aware  of  their  status  to  disclose  their  status  to  sex
+partners,  and  4  states  require  disclosure  to  needle-sharing  partners.  The  maximum
+sentence length for violating an HIV-specific statute is also a matter of state law. Some
+states  have  a  maximum  sentence  length  up  to  life  in  prison,  while  others  have
+maximum sentence lengths that are less than 10 years. However, only 10 states have
+laws  that  account  for  HIV  prevention  measures,  such  as  condom  use,  antiretroviral
+therapy (ART), and pre-exposure prophylaxis (PrEP) use. Since 2014, at least thirteen
+states  have  modernized  or  repealed  their  HIV  criminal  laws:  California,  Colorado,
+Georgia, Illinois, Iowa, Michigan, Missouri, Nevada, New Jersey, North Carolina, Virginia,
+and Washington. Changes include moving HIV prevention issues from the criminal code
+to disease control regulations, requiring intent to transmit, actual HIV transmission, or
+providing  defenses  for  taking  measures  to  prevent  transmission,  including  viral
+suppression  or  being  noninfectious,  condom  use,  and  partner  PrEP  use.  CDC  in
+collaboration with ChangeLab Solutions developed a HIV criminalization legal and policy
+assessment tool to assist jurisdictions in evaluating their laws to ensure they align with
+current  scientific  and  medical  evidence.  This  tool  aims  to  help  public  health
+professionals,  policymakers,  legal  counsel,  and  partners  understand  how  HIV
+criminalization  laws  intersect  with  data  privacy  laws  in  their  jurisdictions  and  to
+facilitate  conversations  among  partners.  CDC  is  also  collaborating  with  ChangeLab
+Solutions to establish a learning lab to help states apply the HIV criminalization legal
+and policy assessment tool. The following resources from the Center for HIV Law and
+Policy provide a broad overview of HIV criminalization in the United States. Specifically,
+these  resources  address  the  science  of  HIV,  provide  background  literature  on  the
+history and practices of HIV criminalization, and the current status of HIV criminalization
+laws and statutes in the United States. The following case studies provide an in-depth
+analysis  of  the  HIV  criminalization  laws,  practices,  convictions,  and  sentencing
+outcomes in a variety of states. The Williams Institute: State Case Studies: The current
+federal guidance from the U.S. Department of Justice on HIV criminalization practices
+and  reform  is  provided  below.  The  following  resources  represent  a  sample  of  articles
+from  the  legal  and  scientific  research  communities.  The  information  presented  here
+does not constitute legal advice and does not represent the legal views of the Centers
+for Disease Control and Prevention or the Department of Health and Human Services,
+nor  is  it  a  comprehensive  analysis  of  all  legal  provisions  relevant  to  HIV.  This
+information  is  subject  to  change  and  does  not  contain  measures  implemented  by
+counties, cities, or other localities. Use of any provision herein should be contemplated
+only in conjunction with advice from legal counsel.    
+Source URL: https://www.cdc.gov/hiv/policies/law/states/exposure.html

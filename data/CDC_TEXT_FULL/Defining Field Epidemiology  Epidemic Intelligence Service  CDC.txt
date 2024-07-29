@@ -1,0 +1,411 @@
+Official websites use .gov A .gov website belongs to an official government organization
+in  the  United  States.  Secure  .gov  websites  use  HTTPS  A  lock  (   )  or  https://  means
+you've  safely  connected  to  the  .gov  website.  Share  sensitive  information  only  on
+official,  secure  websites.  Richard  A.  Goodman,  James  W.  Buehler,  and  Joshua  A.  Mott
+Although  epidemiologists  work  in  field  settings  in  different  contexts,  the  term  field
+epidemiology  as  used  in  this  manual  describes  investigations  initiated  in  response  to
+urgent  public  health  problems.  A  primary  goal  of  field  epidemiology  is  to  guide,  as
+quickly as possible, the processes of selecting and implementing interventions to lessen
+or  prevent  illness  or  death  when  such  problems  arise.  Despite  continuing  changes  in
+the contexts within which epidemiologists operate, as well as the types and quantity of
+information  that  epidemiologists  have  at  their  disposal,  the  core  principles  of  field
+epidemiology  remain  largely  constant.  The  constellation  of  problems  faced  by
+epidemiologists who investigate urgent public health problems shapes the definition of
+field  epidemiology.  For  example,  consider  the  following  scenario:  At  8:30  am  on
+Monday, August 2, 1976, Dr. Robert B. Craven, an Epidemic Intelligence Service (EIS)
+officer  assigned  to  the  Center  for  Disease  Control’s  (CDC)  Viral  Diseases  Division,
+received  a  telephone  call  from  a  nurse  at  a  veterans’  hospital  in  Philadelphia,
+Pennsylvania. The nurse reported two cases of severe respiratory illness (including one
+death)  in  persons  who  had  attended  the  recent  American  Legion  Convention  in
+Philadelphia.  Subsequent  conversations  with  local  and  state  public  health  officials
+revealed that 18 persons who had attended the convention during July 21–24 had died
+during  July  26–August  2,  primarily  from  pneumonia.  By  the  evening  of  August  2,  an
+additional 71 cases had been identified among Legionnaires. As a consequence of this
+information,  a  massive  epidemiologic  investigation  was  immediately  initiated  that
+involved local, state, and federal public health agencies. This problem became known
+as  the  outbreak  of  Legionnaires’  disease,  and  the  investigation  of  the  problem  led
+directly to discovery of the bacterial pathogen, Legionella pneumophila (1,2), enabling
+further  studies  of  the  nature  and  modes  of  transmission  of  this  organism,  the
+epidemiology,  and  natural  history  of  Legionella  infections,  as  well  as  more  precise
+recommendations  for  prevention  and  treatment.  The  Legionnaires’  disease  outbreak
+and  the  public  health  response  it  triggered  illustrate  the  raison  d’être  for  field
+epidemiology. Using this epidemic as an example, we can define field epidemiology as
+the application of epidemiology under the following general conditions: Although field
+investigations of acute problems share many characteristics with prospectively planned
+epidemiologic  studies,  they  differ  in  at  least  three  important  aspects.  Although  the
+timing  of  acute  public  health  problems  that  prompt  field  investigations  is  typically
+unexpected,  emergencies  often  unmask  latent  threats  to  health  that  had  gone
+unrecognized  or  had  been  “waiting  to  happen.”  For  example,  sporadic  or  epidemic
+illness might be inevitable if restaurants fail to adhere to food management guidelines,
+if hospitals fail to properly sterilize instruments, if employers fail to maintain workplace
+safety standards, or if members of social networks engage in unsafe sexual behaviors.
+As  a  result,  field  investigations  can  prompt  both  immediate  interventions  and  longer
+term recommendations, or they can identify problems that require further study after
+the  immediate  problem  has  been  addressed.  Experiences  during  2014–2016  with  the
+Ebola  virus  disease  (EVD)  outbreak  in  West  Africa  underscore  how  networks  of
+professionals trained in the basics of field epidemiology can play key roles in mitigating
+the health and economic effects of emerging disease threats, such as EVD. When left
+unchecked in many locations in West Africa, the EVD outbreak resulted in more than
+28,000 cases and 11,000 deaths (3,4). However, in July 2014, when a case of EVD was
+introduced  into  Nigeria,  epidemiologists,  in  close  partnership  with  the  Ministry  of
+Health,  nongovernmental  organizations,  and  other  community  members,  conducted
+rapid field investigations to prevent further transmission (5). Given the population size
+of  Nigeria,  timely  epidemiologic  response  might  have  helped  to  avert  a  considerably
+larger  disaster.  The  concepts  and  methods  used  in  field  investigations  derive  from
+clinical medicine, epidemiology, laboratory and behavioral sciences, decision theory, an
+expanding  array  of  other  scientific  disciplines,  skill  in  communications,  and  common
+sense. In this manual, the guidelines and approaches for conducting epidemiologic field
+investigations  reflect  the  urgency  of  discovering  causative  factors,  use  of  evolving
+multifaceted  methods,  and  need  to  make  timely  practical  recommendations.  Health
+departments become aware of possible disease outbreaks or other acute public health
+problems  in  different  ways.  Situations  might  gain  attention  because  astute  clinicians
+recognize  unusual  patterns  of  disease  among  their  patients  and  alert  health
+departments,  surveillance  systems  for  monitoring  disease  or  hazard  trends  detect
+increases, the diagnosis of a single case of a rare disease heralds a broader problem or
+potential threat, or members of the public are concerned and contact authorities. After
+such  alerts,  the  first  step  is  to  decide  whether  to  conduct  a  field  investigation.  Initial
+assessments  might  dispel  concerns  or  affirm  that  further  investigation  is  warranted.
+After initiated, decisions must be made at successive stages about how far to pursue an
+investigation. These decisions are necessary to make the most effective use of public
+health  resources,  including  capacities  to  conduct  field  investigations  and  optimize
+opportunities for disease prevention. In addition to the need to develop and implement
+control  measures  to  end  threats  to  the  public’s  health,  such  as  the  Legionnaires’
+disease and EVD outbreaks, other determinants that shape field investigations include
+(1) epidemiologic, programmatic, and resource considerations; (2) public and political
+considerations;  (3)  research  and  learning  opportunities;  (4)  legal  obligations;  and  (5)
+training  needs.  Certain  disease  control  programs  at  national,  state,  and  local  levels
+have specific and extensive requirements for epidemiologic investigation. For example,
+as  part  of  the  measles  elimination  effort  in  the  United  States,  a  measles  outbreak  is
+defined  as  a  chain  of  transmission  including  three  or  more  cases  linked  in  time  and
+space  (6).  Accordingly,  every  case  of  measles  might  be  investigated  to  identify  and
+vaccinate  susceptible  persons  and  to  evaluate  other  control  strategies,  such  as  the
+exclusion  from  school  of  children  who  cannot  provide  proof  of  vaccination.  This
+recommendation reflects the epidemiology of measles in the United States, where most
+cases  result  from  travel-related  introduction  of  measles  into  the  country  and  where
+vaccination  programs  have  dramatically  reduced  the  incidence  of  measles  although
+pockets  of  vulnerability  to  transmission  remain.  Additional  situations  in  which
+investigations are likely to be initiated after the diagnoses of individual cases include
+the emergence of highly pathogenic infections, such as influenza A(H5N1) and A(H7N9)
+in Asia and Middle East respiratory syndrome coronavirus. Given past experiences with
+influenza pandemics and severe acute respiratory syndrome (SARS), detection of such
+events  have  prompted  multiple  field  investigations.  The  diagnoses  of  individual
+illnesses that might be associated with bioterrorism also should prompt investigations,
+at least to the point of dismissing concerns that exposure resulted from an intentional
+act.  For  example,  diagnosis  of  a  case  of  inhalation  anthrax  in  a  photo  editor  for  a
+national  media  company  in  2001,  an  occupation  not  associated  with  exposure  to
+naturally occurring anthrax, was the first of 22 cases of terrorism-related anthrax and
+five  associated  deaths  that  were  exhaustively  investigated  (7)  and  led  to  massive
+increases in investments in public health emergency preparedness in the United States.
+The anthrax attacks and other bioterrorism-related concerns brought about a lowering
+of  the  threshold  of  suspicion  necessary  for  triggering  a  full  field  investigation  (8,9).
+Different  clinical,  laboratory,  and  surveillance  technologies  have  the  potential  to
+enhance  recognition  of  situations  that  merit  investigation,  including  detection  of
+individual  cases  of  disease  that  might  signal  a  larger  threat  to  public  health,  early
+detection of disease outbreaks, or detection of environmental hazards that can result in
+widespread disease. Conversely, the potential benefits of these technologies might be
+offset by increasing the likelihood of detecting situations that do not represent public
+health threats yet require time and resources to draw that conclusion. At the individual
+level, the advent of multipathogen detection platforms also enables the simultaneous
+detection  of  multiple  viruses  and  bacteria  in  a  single  clinical  specimen.  Although  this
+technology  can  provide  important  clinical  health  benefits,  it  can  challenge  efforts  to
+distinguish  pathogens  that  are  potentially  related  to  disease  outbreaks  versus
+organisms that are merely commensal (10). At the outbreak level, the advent of highly
+automated public health surveillance systems that incorporate statistical algorithms to
+detect unusual trends can provide an early warning for the onset of outbreaks as well
+as  statistical  aberrations  that  do  not  herald  substantial  threats  (11).  At  the  level  of
+environmental  monitoring,  debates  surrounding  proposed  enhancements  in  the
+pathogen  monitoring  capacities  of  the  US  BioWatch  system  for  detecting  airborne
+biological  hazards  included  consideration  of  the  potential  for  more  frequent  alerts
+resulting  from  the  detection  of  naturally  occurring  microbes  that  do  not  represent
+substantial  public  health  threats  (12).  Global  disease  elimination  and  eradication
+programs,  international  preparedness  and  coordination  for  emerging  threats,  and
+advances in surveillance and laboratory technologies have helped to strengthen public
+health.  However,  these  developments  also  place  new  pressures  on  epidemiology
+program managers to prioritize resources. Any expenditure of public resources should
+be judicious. Field investigations can be costly in personnel time and other resources
+and  can  incur  opportunity  costs  by  detracting  from  other  public  health  activities.  In
+addition, field investigations consume the time and effort of persons investigated and of
+persons whose collaboration is often essential. Thus, the capacity to conduct field work
+can  be  limited  not  only  by  the  resources  or  capacity  of  individual  public  health
+agencies,  but  also  by  competing  demands  of  other  programs  within  an  agency  or  by
+other situational demands. Resource constraints also might shape the extent to which
+investigations are conducted. In the United States, state health departments might help
+local governments when needed, and state or local health departments might request
+assistance  from  the  CDC  when  their  capacities  are  exceeded  by  the  demands  of  an
+event. Globally, the World Health Organization and its network of regional offices serve
+as resources to national governments. Scrutiny from the public, political leaders, and
+the media can occur at all stages of field investigations, including the stage when initial
+assessments  are  conducted  to  determine  whether  a  field  investigation  is  warranted.
+This scrutiny can affect the perceived urgency of a situation or the perceived need for
+investigations. The importance that others attach to problems and the conclusions that
+others  draw  from  initial  knowledge  of  situations  might  differ  from  or  align  with  the
+positions of epidemiologists responsible for conducting field investigations or those of
+more senior public health officials responsible for determining when field investigations
+should  be  started.  In  certain  instances,  a  citizen’s  alert  can  lead  to  recognition  of  a
+major public health problem, such as with Lyme disease in Lyme, Connecticut, in 1976
+(13). In other cases, however, public concerns and attendant pressures might lead to
+investigations  that  otherwise  are  premature  or  unlikely  to  be  fruitful  from  a  scientific
+perspective but are critical in terms of community relations. Small clusters of disease
+(e.g., leukemia or adverse fetal outcomes) are an example of problems that frequently
+generate  substantial  public  concern.  Perceived  clusters  of  disease  might  prove  to
+represent unrelated events after formal scrutiny; small clusters of disease might occur
+by chance alone, and field investigations are often inconclusive and only occasionally
+yield  new  information  about  etiologic  links  to  putative  exposures  (14).  However,
+because community members might perceive a health threat, and certain clusters do
+represent  specific  preventable  risks,  some  public  health  agencies  have  developed
+standard  procedures  for  investigating  such  clusters  even  though  the  likelihood  of
+identifying  a  remediable  cause  is  low  (15).  Determining  how  long  an  investigation
+should be continued can become a matter of public controversy. A decision to postpone
+interventions  pending  completion  of  thorough  epidemiologic  investigations  might  be
+perceived as community experimentation or bureaucratic delay. For example, in a large
+Escherichia coli enteric disease outbreak at Crater Lake National Park, Oregon, in 1975,
+a 1-day delay in implementing control measures to obtain more definitive epidemiologic
+data  resulted  in  a  Congressional  hearing  and  charges  of  a  cover-up  (16).  Because
+almost all outbreaks are “natural experiments,” they present opportunities to address
+questions of importance both to basic scientists and to persons in the applied science of
+public health practice. Even when a clear policy exists for control of a specific problem,
+investigation can still provide opportunities to identify new agents and risk factors for
+infection or disease, define the clinical spectrum of disease, measure the effect of new
+control  measures  or  clinical  interventions,  assess  the  usefulness  of  microbiologic  or
+other biological markers, or evaluate the utility of new diagnostic tests. Recognition of
+newly  emergent  or  reemerging  diseases  often  prompts  aggressive  investigations
+because  of  the  potential  for  extensive,  life-threatening  illness.  Certain  diseases  are
+initially  recognized  only  on  the  occasion  of  an  epidemic,  although  subsequent
+investigations and studies enable retrospective diagnosis of earlier occurrences, as well
+as  more  complete  characterization  of  the  spectrum  of  clinical  manifestations  and
+epidemiology. For example, as referred to earlier, after L. pneumophilia was discovered
+and  a  serologic  test  developed,  subsequent  studies  showed  that,  in  addition  to  the
+severe  illness  manifest  in  the  1976  Philadelphia  outbreak,  Legionella  infection
+commonly results in mild disease or asymptomatic infection. Often, when new diseases
+are  detected,  they  are  recognized  in  their  most  severe  or  distinctive  stage,  followed
+later by recognition of a broader spectrum of illness. The initial recognition of certain
+other  problems—such  as  toxic  shock  syndrome,  influenza  A(H1N1)pdm09,  AIDS,
+Hantavirus pulmonary syndrome, West Nile virus disease, and SARS—was followed by
+aggressive investigations that enabled analogous understanding of the natural history
+and disease spectrum of these infections. One caveat is that dramatic outbreaks and
+investigations that identify previously unrecognized pathogens and that yield a wealth
+of new scientific insights are unusual; more commonly, field investigations of outbreaks
+identify familiar pathogens and modes of transmission. Yet, even for familiar diseases
+and  modes  of  exposure  or  transmission,  investigations  are  warranted  to  interrupt
+outbreaks and understand the evolving context in which outbreaks occur. For example,
+the  changing  prevalence  of  underlying  conditions  (e.g.,  obesity,  diabetes,  and
+cardiovascular  disease)  among  the  US  population  and  demographic  characteristics
+(e.g., cultural determinants and age) of the population have the potential to alter host
+susceptibility  and,  indeed,  the  epidemiologic  consequences  of  exposure  to  pathogens
+and other hazards. Certain outbreaks that initially appear to be routine might lead to
+important  epidemiologic  discoveries.  For  example,  in  1983,  investigators  pursued  a
+cluster of diarrhea cases, an extremely common problem, to extraordinary lengths (17).
+As a result, the investigators were able to trace the chain of transmission of a unique
+strain  of  multiply  antibiotic-resistant  Salmonella  back  from  the  affected  persons  to
+hamburger they ate, to the meat supplier, and, ultimately, to the specific animal source
+herd. This investigation played a key role in clarifying the link between antibiotic use in
+the  cattle  industry  and  subsequent  antibiotic-resistant  infection  in  humans.  Field
+investigations  frequently  require  access  to  patients’  private  medical  records,  queries
+about  private  behaviors,  analyses  of  private  enterprises  putatively  responsible  for
+illness-causing  exposures,  reviews  of  proprietary  information,  or  assessments  of
+reported putative errors of healthcare providers or health product manufacturers. These
+tasks  may  be  necessary  to  complete  an  objective,  defensible  field  investigation,  but
+each  is  also  fraught  with  considerable  ethical  and  legal  overtones  (see  Chapter  13).
+Findings from some investigations are likely to be used as testimony in civil or criminal
+trials  (18).  In  these  situations,  investigations  might  be  carried  further  than  they
+otherwise  would  be.  For  example,  investigations  in  situations  where  criminal  actions
+might  be  suspected  to  have  played  a  role  (19)  might  carry  additional  legal
+requirements  for  establishing  a  chain  of  custody  of  evidence,  which  is  necessary  for
+criminal prosecutions. The anthrax attacks during fall 2001 and related concerns about
+bioterrorism have stimulated other advanced and carefully designed legal measures to
+facilitate joint epidemiologic and criminal investigations. An example of such measures
+is  a  protocol  developed  by  the  New  York  City  Department  of  Health  and  Mental
+Hygiene, New York City Police Department, and Federal Bureau of Investigation to guide
+in  the  interviewing  of  patients  during  joint  investigations  by  public  health  and  law
+enforcement  professionals  representing  those  agencies  (20).  Similar  collaborations
+exist  at  the  federal  level  (21).  By  analogy  to  clerkships  in  medical  school  and
+postgraduate residencies, outbreak investigations provide opportunities for training in
+basic  epidemiologic  skills.  Just  as  clinical  training  often  is  accomplished  at  the  same
+time  patient  care  is  delivered,  training  in  field  epidemiology  often  simultaneously
+assists  in  developing  skills  in  and  the  delivery  of  disease  control  and  prevention.  For
+example,  since  1951,  CDC’s  EIS  Program  has  provided  assistance  to  state  and  local
+health departments while simultaneously training health professionals in the practice of
+applied  epidemiology  (22,23).  Changes  in  the  epidemiologic  capacities  of  state  and
+local  health  departments  (24)  also  highlight  the  need  for  workforce  training  and
+education  on  an  expanded  set  of  skills,  such  as  bioinformatics,  health  economics,
+communications, systems thinking, and laboratory techniques. Globally, more than 70
+Field Epidemiology Training Programs have been modeled after EIS but are owned by
+individual  countries  and  ministries  of  health.  These  Field  Epidemiology  Training
+Programs provide similar on-the-job training but within the context of specific cultures,
+partners,  capacities,  and  public  health  systems  (25).  An  epidemiologist  investigating
+problems in the field faces unique challenges that sometimes constrain the ideal use of
+scientific  methods.  In  contrast  to  prospectively  planned  studies,  which  generally  are
+based  on  carefully  developed  and  refined  protocols,  field  investigations  must  rely  on
+data  sources  that  are  immediately  available,  less  readily  controlled,  and  subject  to
+change  with  successive  hours  or  days.  In  addition  to  possible  limitations  in  data
+sources,  factors  that  pose  challenges  for  epidemiologists  during  field  investigations
+include  sampling  considerations,  availability  of  specimens,  effects  of  publicity,
+reluctance  of  persons  to  participate,  and  conflicting  pressures  to  intervene.  New
+technologies  hold  the  promise  of  mitigating  some  of  these  challenges.  Field
+investigations often use information abstracted from different sources, such as hospital,
+outpatient  medical,  or  school  health  records.  These  records  vary  substantially  in
+completeness  and  accuracy  among  patients,  healthcare  providers,  and  facilities
+because  entries  are  made  for  purposes  other  than  conducting  epidemiologic  studies.
+Moreover, rapid and substantive transitions have occurred for several key information
+sources—as, for example, in the growing use of electronic medical records, hospital and
+managed-care data systems, and laboratory information management systems. These
+automated  systems  can  facilitate  access  to  needed  records  but  might  not  be
+compatible with meeting the needs of or supporting specific record access by external
+investigators.  Thus,  the  quality  of  such  records  as  sources  of  data  for  epidemiologic
+investigations can be substantially less than the quality of information obtained when
+investigators  can  exert  greater  control  through  the  use  of  standardized,  pretested
+questionnaires;  physical  or  laboratory  examinations;  or  other  prospectively  designed,
+rather  than  retrospective,  data  collection  methods.  These  transitions  necessitate  that
+epidemiologists involved in field investigations increasingly might need to know how to
+use these data sources and, therefore, possess the requisite skills needed to analyze
+them.  The  increasing  use  of  social  media  and  email  can  facilitate  outreach  to  and
+queries of persons who might have common exposures in an outbreak situation, such
+as participants in an organized event linked to a common-source exposure. Recently,
+social media networks have been used to assist in identifying contacts of persons with
+sexually transmitted diseases who might be at high risk and should be considered for
+targeted  prophylaxis.  These  communication  tools  have  provided  added  insight  into
+social  links  and  high-risk  behaviors  and  have  been  used  to  guide  and  augment  data
+collected  from  traditional  case  investigation  methodologies  (26).  In  a  planned
+prospective  study,  the  epidemiologist  determines  appropriate  sample  sizes  that  are
+based  on  statistical  requirements  for  power  to  draw  conclusions  about  associations
+between exposures and health outcomes. In contrast, outbreaks can involve a relatively
+small  number  of  persons,  thereby  imposing  substantial  restrictions  on  study  design,
+statistical  power,  and  other  aspects  of  analysis.  These  restrictions,  in  turn,  place
+limitations  on  the  inferences  and  conclusions  that  can  be  drawn  from  a  field
+investigation. However, communication technologies between jurisdictions can now be
+used to help alleviate this problem. For example, the electronic Epidemic Information
+Exchange (Epi-X) was developed for CDC officials, state and local health departments,
+poison  control  centers,  and  other  public  health  professionals  to  access  and  share
+preliminary health surveillance information (27). Although a primary motivation for this
+system was to enhance the recognition of multistate events or the multistate dispersion
+of  persons  with  disease  exposures  in  a  single  state  or  outside  the  United  States,  the
+resulting  cross-jurisdictional  collaboration  has  the  additional  benefit  of  increasing
+potential  sample  sizes  for  field  investigations.  Because  the  field  investigator  usually
+arrives on the scene after the fact, collection of necessary environmental or biological
+specimens is not always possible. For example, suspected food items might have been
+entirely eaten or discarded, a suspected water system might have been flushed, or ill
+persons might have recovered, thereby precluding collection of specimens during the
+acute phase of illness when certain tests are most likely to be informative. Under these
+conditions, the epidemiologist depends on the diligence of healthcare providers who are
+first  to  evaluate  the  affected  persons  and  on  the  recall  of  affected  persons,  their
+relatives, or other members of the affected community. This challenge increasingly is
+counterbalanced by expanding technologies in the laboratory to help in using routinely
+collected  specimens  to  determine  sources  of  outbreaks.  For  example,  PulseNet  is  a
+national  laboratory  network  that  enables  the  use  of  DNA  fingerprinting  to  detect
+thousands of local and multistate outbreaks (28), thereby enabling epidemiologists to
+rapidly implement control measures for food safety problems that would not otherwise
+be recognized. As another example, in 2015, epidemiologists investigated the largest
+HIV  outbreak  in  the  United  States  since  1996.  Phylogenetic  analyses  of  target  genes
+within the human immunodeficiency and hepatitis C viruses enabled epidemiologists to
+retrospectively  determine  and  intervene  in  the  link  between  specific  outbreak  strains
+and local needle-sharing networks using contaminated equipment (29). Acute disease
+outbreaks  often  generate  considerable  local  attention  and  publicity.  In  this  regard,
+media coverage can assist the investigation by helping to develop information, identify
+cases, or promote and help implement control measures. Conversely, such publicity can
+cause affected persons and others in the community to develop preconceptions about
+the  source  or  cause  of  an  outbreak,  which  in  turn  can  lead  to  potential  biases  in
+comparative  studies  or  failure  to  fully  explore  alternate  hypotheses.  As  government
+employees,  field  epidemiologists  are  obligated  to  communicate  with  the  public  about
+what  is  known,  what  is  unknown,  and  what  actions  are  being  taken  to  assess  public
+health threats. Many reporters, in turn, endeavor to find and bring this information to
+the public’s attention. That said, reporters in pursuit of the most current information on
+the  investigation  can  demand  a  considerable  amount  of  epidemiologists’  time  to  the
+detriment of the field investigation itself. Ensuring that a member of the response team
+has the time and skills to communicate effectively with reporters can be essential to
+the  success  of  a  field  investigation  and  to  disease  control  and  prevention  efforts,
+particularly  in  high-profile  situations.  Frequently  during  the  course  of  an  event,  as
+information unfolds and as field epidemiologists test, reject, or accept and reshape and
+retest  hypotheses,  recommendations  for  interventions  might  evolve  or  become  more
+focused. Apprising affected parties and the public of the rationale for these changes is
+important  to  ensure  the  credibility  of  the  field  epidemiologists  and  of  public  health
+recommendations  (see  Chapter  12).  In  recent  years,  CDC  and  other  public  health
+agencies  have  used  social  media  tools  to  disseminate  health  messages.  Although
+unskilled use of this medium during an ongoing investigation can pose challenges, such
+as spreading misperceptions or fostering information biases, social media also can be
+an  effective  means  for  expanding  the  reach  of  pertinent  evidence-based  health
+messages (30). Although health departments are empowered to conduct investigations
+and gain access to records, voluntary and willing participation of involved parties (e.g.,
+case-patients,  persons  potentially  exposed  to  pathogens,  owners  or  operators  of
+settings in which exposure or transmission might have occurred) is more conducive to
+successful  investigations  than  compelled  participation.  In  addition,  persons  whose
+livelihoods or related interests are at risk might be reluctant to cooperate voluntarily.
+This  reluctance  often  can  be  the  case  for  common-source  outbreaks  associated  with
+restaurants and other public establishments, in environmental or occupational hazard
+investigations,  or  among  healthcare  providers  suspected  as  being  sources  for
+transmission of infectious diseases, such as hepatitis B. When involved parties do not
+willingly cooperate, delays can compromise access to and quality of information (e.g.,
+by introducing bias and by decreasing statistical power). Epidemiologists who conduct
+field investigations are often working in a fishbowl-type of environment. Epidemiologists
+conducting  field  investigations  and  the  public  health  officials  under  whose  direction
+they work must weigh the need for further investigation against the need for immediate
+intervention, often in the face of strong and varying opinions of affected persons and
+others  in  the  community.  In  the  absence  of  definitive  information  about  the  source,
+cause,  or  potential  impact  of  a  problem,  the  various  parties  affected  by  a  particular
+situation  might  view  implementation  of  a  plausible  control  measure  differently.  The
+action might be welcomed by those who favor erring on the side of protecting health
+and challenged by those who question the rationale for interventions absent definitive
+information about the cause or source of illness, particularly if their economic or other
+personal  interests  are  threatened.  Delaying  interventions  might  allow  time  to  obtain
+more  definitive  information,  but  such  delays  also  might  lead  to  additional  illness.
+Although  this  dilemma  is  not  unique  to  field  epidemiology  within  the  realm  of  public
+health practice, the heightened urgency of acute situations can elevate the emotional
+impact  on  all  involved  parties.  Field  investigations  are  sometimes  perceived  to
+represent  what  is  sometimes  called  “quick  and  dirty”  epidemiology.  This  perception
+might  reflect  the  inherent  nature  of  circumstances  for  which  rapid  responses  are
+required. However, these requirements for action do not justify epidemiologic shortcuts.
+Rather, they underscore for the field epidemiologist the importance of combining good
+science  with  prudent  judgment.  A  better  description  of  a  good  epidemiologic  field
+investigation  would  be  “quick  and  appropriate.”  In  judging  an  epidemiologic  field
+investigation, consideration should be given to the quality of the science, opportunities
+and constraints that shaped the context of the investigation, and judgment applied in
+using  the  findings  to  take  public  health  actions.  The  goal  should  be  to  maximize  the
+scientific  quality  of  the  field  investigation  in  the  face  of  the  full  range  of  limitations,
+pressures, and responsibilities imposed on the investigator(s). Thus, the standards for
+an epidemiologic field investigation are that it (1) is timely; (2) addresses an important
+public health problem in the community, as defined by standard public health measures
+(e.g.,  attack  rates,  apparent  or  potential  serious  illness,  or  death)  or  community
+concern; (3) examines resource needs early and deploys them appropriately; (4) uses
+appropriate methods of descriptive and/or analytic epidemiology that make optimal use
+of  all  appropriate  available  data;  (5)  engages  expertise,  when  indicated,  from  other
+public  health  sciences,  such  as  microbiology,  toxicology,  psychology,  anthropology,
+informatics, economics, laboratory sciences, or statistics; (6) probes causality to enable
+identification  of  the  source  and/or  etiology  of  the  problem  (31);  (7)  identifies
+evidence-based  options  for  immediate  control  and  longterm  interventions;  and  (8)  is
+conducted in active collaboration with colleagues who have policy, legal, programmatic,
+communication,  or  administrative  roles  to  ensure  that  the  evidence  from  the
+investigation is used optimally. This chapter has provided a definition of and framework
+for field epidemiology in a modern and evolving context. Key developments in public
+health practice during recent decades reflect the growing recognition and formalization
+of field epidemiology, including establishment of field epidemiology training programs
+in  affiliation  with  ministries  of  health  and  other  national-level  public  health  agencies
+around the world (32). Other examples of this trend include the development of field
+epidemiology courses and tracks within curriculum offerings of schools of public health
+(33); undergraduate programs, and even middle school and high school programs in the
+United States; the emergence of organizations that promote or link national-level field
+epidemiology programs (34); and the growth of a body of literature related to the field
+epidemiology  worldwide  (35,36).  CDC’s  own  workforce  development  program  in  field
+epidemiology, EIS, has operated continuously since its creation in 1951 and has helped
+to train more than 4,500 professionals in this discipline (37,38). As the discipline of field
+epidemiology  continues  to  evolve,  new  developments  and  trends  are  shaping  its
+ongoing  incorporation  within  public  health  practice.  Examples  of  these  developments
+include the following. Field epidemiology draws on general epidemiologic principles and
+methods,  and
+ field
+ epidemiologists  face  questions  that  are  familiar  to  all
+epidemiologists  regardless  of  where  they  work,  including  questions  about  how  study
+methods  are  shaped  by  logistical  constraints  and  about  the  amount  of  information
+necessary to recommend or take action. Likewise, field epidemiologists are affected by
+trends that influence the practice of epidemiology in general, such as public concerns
+about  the  privacy  of  health  information,  the  increasing  automation  of  health
+information,  and  the  growth  in  use  of  the  Internet.  Field  epidemiology  is  unique,
+however, in compressing and pressurizing these concerns in the context of acute public
+health emergencies and other events and in thrusting the epidemiologist irretrievably
+into  the  midst  of  the  administrative,  legal,  and  ethical  domains  of  policy-making  and
+public health action. Portions of this chapter as incorporated within previous editions of
+this  book  were  adapted  from  Goodman  RA,  Buehler  JW,  Koplan  JP.  The  epidemiologic
+field  investigation:  science  and  judgment  in  public  health  practice.  Am  J  Epidemiol.
+1990;132:91–96.   <  Previous  Section:  Table  of  Contents  Next  Chapter  2:  Initiating
+Operations  >   The  fellowship  application  period  and  host  site  application  period  are
+closed.  For  questions  about  the  EIS  program,  please  contact  us  directly  at
+EISApplication@cdc.gov.
+Source URL: https://www.cdc.gov/eis/field-epi-manual/chapters/Defining-Field-Epi.html

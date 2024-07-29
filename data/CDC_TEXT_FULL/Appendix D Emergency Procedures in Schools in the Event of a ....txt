@@ -1,0 +1,76 @@
+Official websites use .gov A .gov website belongs to an official government organization
+in  the  United  States.  Secure  .gov  websites  use  HTTPS  A  lock  (   )  or  https://  means
+you've  safely  connected  to  the  .gov  website.  Share  sensitive  information  only  on
+official,  secure  websites.  Four  major  sources  of  regulations  are  may  apply  to
+emergencies involving a chemical spill. A brief overview of the major requirements of
+these regulations follows. This OSHA regulation gives the requirements of plans for the
+effective  evacuation  and  accounting  for  employees  in  case  of  an  emergency,  e.g.,
+chemical spill. The written evacuation plan must address, at a minimum, the following:
+All employees who assist in the evacuation must be trained on how to implement their
+function.  Post  emergency  telephone  numbers  near  telephones,  on  employee  notice
+boards, and in other conspicuous locations (see OSHA 29 CFR 1910.165). All employees
+who  are  affected  by  the  evacuation  plan  must  be  trained  in  its  contents  and
+implementation. Update the plan and training as procedures and or evacuation routes
+change. The EPA regulations (40 CFR 265.30 to 265.56) establish procedures to ensure
+that  emergencies  are  planned  for  and  minimized  in  order  to  successfully  protect  the
+environment  and  surrounding  community  (See  the  Hazardous  Waste  checklist).  To
+minimize hazards from releases of hazardous materials to air, soil, or surface water, the
+written  plan  must  include  the  following:  This  plan  must  be  kept  up-to-date  and
+submitted  to  local  police,  fire,  and  rescue  departments  and  to  the  local  emergency
+planning committee and any emergency response teams who may respond to such an
+event.  Required  steps  for  handling  emergencies  include  the  following:  The  OSHA
+Hazardous Waste Operations and Emergency Response standard covers procedures for
+handling a chemical spill by designated responders and employees who respond from
+outside  the  immediate  release  area.  Responses  to  incidental  releases  of  hazardous
+substances where the substance can be absorbed, neutralized, or otherwise controlled
+at the time of release by employees in the immediate release area or by maintenance
+personnel  are  not  considered  to  be  emergency  responses  within  the  scope  of  the
+standard. Students or teachers should not respond to significant spills because of the
+extensive  training  requirements  and  equipment  needed.  Trained  State,  county,  or
+municipal  hazardous  materials  response  teams  should  be  brought  in  if  such  a  spill
+occurs.  These  teams  will  follow  the  requirements  of  the  hazardous  waste  operations
+and emergency response standard that ensures that emergency responders work safely
+during spill cleanup activities. They will have a written plan that covers the following:
+This regulation also requires that an emergency coordinator be designated and that an
+incident  command  system  be  followed.  Positive  pressure  supplied-air  respirators  are
+required until air monitoring indicates that less protection is safe for the area. Training
+requirements for responders vary depending on the level of activity in the emergency
+response. Personnel responsible for stopping leaks and cleaning spills must be trained
+to  the  hazardous  materials  technician  level  (minimum  24  hours  training  annually).
+Medical surveillance is also required for these responders. If teachers or maintenance
+employees respond to minor spills, they must have had training covering the hazards of
+the  spilled  material  and  the  correct  response  actions.  They  also  must  have  the
+appropriate  personal  protective  equipment  along  with  training  on  how  to  use  it.  In
+addition,  they  must  know  how  to  dispose  of  the  spilled  material  following  all  Federal
+and  State  regulations.  The  regulations  listed  below  may  apply  to  staff  with  these
+responsibilities:  A  sample  emergency  response  procedure  consistent  with  the  above
+regulations  is  presented  here  to  help  schools  formulate  their  compliance  plans.  Each
+chemical spill incident is a unique occurrence, and procedures for handling such spill
+may vary among emergency response teams. In this section, NIOSH describes the usual
+steps  taken  during  an  emergency  response  incident  and  suggests  practical  ways  to
+prepare for a chemical spill to cooperate with the emergency responders and incident
+commander.  However,  NIOSH  does  not  imply  that  these  written  suggestions  are  the
+only ways to prepare for and assist in a chemical spill incident. Review all classrooms to
+identify  spill  hazards.  All  teachers  and  students  should  be  trained  to  recognize
+hazardous material spills and what procedures to follow. This instruction should include
+information about the effects of hazardous materials on humans and the environment.
+If  a  spill  is  beyond  the  cleanup  capability  of  the  person  who  created  the  spill  or
+custodial  staff,  follow  these  procedures:  The  fire  department  may  dispatch  their
+hazardous  materials  emergency  response  team  (HAZMAT)  to  handle  the  spill.  The
+HAZMAT  incident  commander  is  usually  the  fire  department  chief  and  is  the  senior
+person  responsible  for  directing  all  activities  during  the  cleanup  effort.  The  incident
+commander  may  take  the  following  steps:  The  incident  commander  will  determine
+when  it  is  safe  to  reoccupy  the  classroom  or  building  by  considering  air  monitoring
+results  and  checking  all  potentially  affected  classroom  equipment  for  evidence  of
+pressure  buildup  or  leaks,  etc.  After  the  completion  of  the  emergency  response,  the
+incident  commander  may  convene  all  responders,  the  classroom  teacher,  and  the
+appropriate school administrators to critique the handling of the response, to determine
+the  cause  of  the  incident,  and  to  identify  future  preventive  measures.  Hazardous
+chemical waste is regulated by EPA. See Hazardous Waste Self-Inspection Checklist the
+checklist on Hazardous Waste. Compliance with all of these regulations is essential to
+ensure  the  safe  and  effective  resolution  of  hazardous  materials  spills.  The  planning
+regulations  can  be  met  by  preparing  separate  plans  or  by  developing  a  separate
+evacuation  plan  and  integrating  the  requirements  of  all  regulations  into  a  single
+coordinated  plan.  Schools  should  also  establish  communication  with  the  nearest
+hazardous materials response team to facilitate prompt action if the need arises.
+Source URL: https://www.cdc.gov/niosh/docs/2004-101/append.html

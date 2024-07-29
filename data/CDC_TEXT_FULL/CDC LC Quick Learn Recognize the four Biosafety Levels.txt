@@ -1,0 +1,197 @@
+This  Quick  Learn  Lesson  will  take  approximately  15  minutes  to  complete.  When  you
+have  completed  this  lesson,  you  will  be  able  to  recognize  characteristics  of  the  four
+biological  safety  levels.  Suppose  you  are  a  laboratory  microbiologist  working  with  a
+potentially harmful microbe. Precautions must be taken in the laboratory to make sure
+you  and  others  are  not  infected.  These  are  just  a  few  of  the  questions  that  can  be
+answered through an understanding of biosafety and the four biosafety levels (BSLs).
+Microbe Microbes are organisms, such as bacteria and viruses that are too small to be
+seen by the naked eye. What is Biosafety? 
+Biosafety is the application of safety precautions that reduce a laboratorian’s
+risk of exposure to a potentially infectious microbe and limit contamination of the work
+environment and, ultimately, the community. What are Biosafety Levels (BSLs)?
+There  are  four  biosafety  levels.  Each  level  has  specific  controls  for  containment  of
+microbes and biological agents. The primary risks that determine levels of containment
+are  infectivity,  severity  of  disease,  transmissibility,  and  the  nature  of  the  work
+conducted. Origin of the microbe, or the agent in question, and the route of exposure
+are also important. Each biosafety level has its own specific containment controls that
+are  required  for  the  following:  Route  of  Exposure  Route  of  exposure  is  the  way  a
+microbe gains access to a living organism. There are four main routes of exposure The
+biosafety levels range from BSL-1 to BSL-4. Each biosafety level builds on the controls
+of  the  level  before  it.  Every  microbiology  laboratory,  regardless  of  biosafety  level,
+follows  standard  microbiological  practices.  You  will  learn  about  each  level  on  the
+following screens.
+ Standard  Microbiological  Practices  Standard  microbiological  practices  are  those
+practices that are common to all laboratories. These practices may include If you work
+in a lab that is designated a BSL-1, the microbes there are not known to consistently
+cause disease in healthy adults and present minimal potential hazard to laboratorians
+and the environment. An example of a microbe that is typically worked with at a BSL-1
+is  a  nonpathogenic  strain  of  E.  coli.  Specific  considerations  for  a  BSL-1  laboratory
+include  the  following:   Laboratory  practices  Safety  equipment  Facility  construction
+Nonpathogenic A nonpathogenic microbe is one that is not capable of causing disease.
+Personal Protective Equipment (PPE) 
+Equipment worn to minimize exposure to a variety of hazards. Examples of PPE include
+laboratory  coats,  gowns,  gloves,  eye  protection,  face  shields,  shoe  covers,  and
+respirators. BSL-2 builds upon BSL-1.  If you work in a lab that is designated a BSL-2,
+the microbes there pose moderate hazards to laboratorians and the environment.  The
+microbes are typically indigenous and associated with diseases of varying severity. An
+example  of  a  microbe  that  is  typically  worked  with  at  a  BSL-2  laboratory  is
+Staphylococcus aureus. Indigenous Indigenous microbes are those that are commonly
+found in the geographic region. In addition to BSL-1 considerations,  BSL-2 laboratories
+have  the  following  containment  requirements:  Laboratory  practices  Safety  equipment
+Facility construction Autoclave Equipment used to decontaminate biological hazardous
+waste or to sterilize equipment and supplies by subjecting them to high pressure and
+saturated  steam  Biological  Safety  Cabinet  (BSC)  A  ventilated  cabinet  designed  to
+provide  personnel,  product,  and  environmental  protection  when  appropriate  practices
+and procedures are followed Eyewash An apparatus used to physically wash the eyes if
+they  are  contaminated  by  infectious  microbes,  foreign  materials,  or  other  substances
+Face Shields A protective device commonly used to shield the wearer's face and eyes
+from  hazards  such  as  the  splashing,  spraying,  or  splattering  of  potentially  harmful
+infectious materials BSL-3 builds upon the containment requirements of BSL-2. If you
+work in a lab that is designated BSL-3, the microbes there can be either indigenous or
+exotic,  and  they  can  cause  serious  or  potentially  lethal  disease  through  respiratory
+transmission. Respiratory transmission is the inhalation route of exposure. One example
+of  a  microbe  that  is  typically  worked  with  in  a  BSL-3  laboratory  is  Mycobacterium
+tuberculosis, the bacteria that causes tuberculosis. In addition to BSL-2 considerations, 
+BSL-3 laboratories have the following containment requirements: Laboratory practices
+Safety  equipment  Facility  construction  Respirator  A  protective  device  that  covers  the
+nose  and  mouth  or  the  entire  face  or  head.   Lab  respirators  filter  out  infectious  or
+harmful  particles;  some  supply  the  wearer  with  HEPA-filtered  air.  Appropriate
+respirators are chosen based on the type of work being performed. BSL-4 builds upon
+the  containment  requirements  of  BSL-3  and  is  the  highest  level  of  biological  safety.
+There are a small number of BSL-4 labs in the United States and around the world. The
+microbes  in  a  BSL-4  lab  are  dangerous  and  exotic,  posing  a  high  risk  of
+aerosol-transmitted infections. Infections caused by these microbes are frequently fatal
+and without treatment or vaccines. Two examples of microbes worked with in a BSL-4
+laboratory  include  Ebola  and  Marburg  viruses.  In  addition  to  BSL-3  considerations,  
+BSL-4 laboratories have the following containment requirements: Laboratory practices
+Safety equipment Facility construction Class III BSC A gas-tight sealed container that is
+designed to allow for the manipulation of objects, hazardous substances, or infectious
+disease agents. Class III BSCs have a HEPA filtered air supply and double HEPA filtered
+exhaust.   They  provide  the  ultimate  protection  for  personnel,  product,  and  the
+environment.
+ Positive  Pressure  Protective  Suit  Highly  specialized,  totally  encapsulating  industrial
+protection garments worn only within special biocontainment or maximum containment
+(BSL-4) laboratory facilities. The positive pressure in the suit will force air to flow out if
+the  suit  is  damaged.  Now  that  you  have  learned  about  the  four  biosafety  levels,  it's
+your turn to identify the correct BSL in the examples on the following screens. Select
+the  Next  icon  to  begin.  Select  the  biosafety  level  described  by  the  conditions  of  the
+following example. Levels are listed below. A microbiology graduate student is working
+on  a  project  under  the  following  conditions:  BSL-1  BSL-2  BSL-3  BSL-4  Exercise  1:
+Correct That is correct!
+This  example  suggests  a  BSL-1  laboratory  where  there  is  minimal  risk  of  infection.  A
+nonpathogenic  strain  of  E.  coli  is  being  used,  and  work  is  conducted  on  a  standard
+laboratory bench. Special PPE and facility construction are not necessary. Exercise 1:
+Incorrect That is incorrect!The correct answer is BSL-1.
+This  example  suggests  a  BSL-1  laboratory  where  there  is  minimal  risk  of  infection.  A
+nonpathogenic  strain  of  E.  coli  is  being  used,  and  work  is  conducted  on  a  standard
+laboratory bench. Special PPE and facility construction are not necessary. Exercise 1:
+Incorrect That is incorrect!The correct answer is BSL-1.
+This  example  suggests  a  BSL-1  laboratory  where  there  is  minimal  risk  of  infection.  A
+nonpathogenic  strain  of  E.  coli  is  being  used,  and  work  is  conducted  on  a  standard
+laboratory bench. Special PPE and facility construction are not necessary. Exercise 1:
+Incorrect That is incorrect!The correct answer is BSL-1.
+This  example  suggests  a  BSL-1  laboratory  where  there  is  minimal  risk  of  infection.  A
+nonpathogenic  strain  of  E.  coli  is  being  used,  and  work  is  conducted  on  a  standard
+laboratory  bench.  Special  PPE  and  facility  construction  are  not  necessary.  Select  the
+biosafety level shown in the photo below. Click on the photo for a larger image. BSL-1
+BSL-2 BSL-3 BSL-4  Exercise 2: Incorrect That is incorrect!
+The correct answer is BSL-3.
+This photograph suggests a BSL-3 laboratory. The laboratorian is working within a BSC
+and is wearing a powered air purifying respirator, gloves, and a solid-front gown.
+ Exercise 2: Incorrect That is incorrect!
+The correct answer is BSL-3.
+This photograph suggests a BSL-3 laboratory. The laboratorian is working within a BSC
+and is wearing a powered air purifying respirator, gloves, and a solid-front gown.
+ Exercise 2: Correct That is correct!
+This photograph suggests a BSL-3 laboratory. The laboratorian is working within a BSC
+and is wearing a powered air purifying respirator, gloves, and a solid-front gown.
+ Exercise 2: Incorrect That is incorrect!
+The correct answer is BSL-3.
+This photograph suggests a BSL-3 laboratory. The laboratorian is working within a BSC
+and is wearing a powered air purifying respirator, gloves, and a solid-front gown.
+ Select the biosafety level described by the conditions of the following example. Levels
+are listed below.
+                                  
+Work is conducted on a standard laboratory bench in a contained area.
+PPE,  including  a  lab  coat,  gloves,  and  eye  protection  are  being  used  to  reduce
+accidental infection.
+BSL-1
+BSL-2
+BSL-3
+BSL-4
+Exercise 3: Incorrect
+That is incorrect!
+The correct answer is BSL-2.
+This  scenario  suggests  a  BSL-2  laboratory.  The  laboratorian  is  working  with  a
+pathogenic  strain  of  Staphylococcus,  which  poses  moderate  risk  of  infection.  Work  is
+conducted  on  a  standard  laboratory  bench  within  a  contained  area,  and  the
+laboratorian is wearing appropriate PPE to reduce the risk of accidental infection.
+Exercise 3: Correct
+That is correct!
+This  scenario  suggests  a  BSL-2  laboratory.  The  laboratorian  is  working  with  a
+pathogenic  strain  of  Staphylococcus,  which  poses  moderate  risk  of  infection.  Work  is
+conducted  on  a  standard  laboratory  bench  within  a  contained  area,  and  the
+laboratorian is wearing appropriate PPE to reduce the risk of accidental infection.
+Exercise 3: Incorrect
+That is incorrect!
+The correct answer is BSL-2.
+This  scenario  suggests  a  BSL-2  laboratory.  The  laboratorian  is  working  with  a
+pathogenic  strain  of  Staphylococcus,  which  poses  moderate  risk  of  infection.  Work  is
+conducted  on  a  standard  laboratory  bench  within  a  contained  area,  and  the
+laboratorian is wearing appropriate PPE to reduce the risk of accidental infection.
+Exercise 3: Incorrect
+That is incorrect!
+The correct answer is BSL-2.
+This  scenario  suggests  a  BSL-2  laboratory.  The  laboratorian  is  working  with  a
+pathogenic  strain  of  Staphylococcus,  which  poses  moderate  risk  of  infection.  Work  is
+conducted  on  a  standard  laboratory  bench  within  a  contained  area,  and  the
+laboratorian is wearing appropriate PPE to reduce the risk of accidental infection.
+ BSL-1 BSL-2 BSL-3 BSL-4 Exercise 3: Incorrect That is incorrect!
+The correct answer is BSL-2.
+This  scenario  suggests  a  BSL-2  laboratory.  The  laboratorian  is  working  with  a
+pathogenic  strain  of  Staphylococcus,  which  poses  moderate  risk  of  infection.  Work  is
+conducted  on  a  standard  laboratory  bench  within  a  contained  area,  and  the
+laboratorian  is  wearing  appropriate  PPE  to  reduce  the  risk  of  accidental  infection.
+Exercise 3: Correct That is correct!
+This  scenario  suggests  a  BSL-2  laboratory.  The  laboratorian  is  working  with  a
+pathogenic  strain  of  Staphylococcus,  which  poses  moderate  risk  of  infection.  Work  is
+conducted  on  a  standard  laboratory  bench  within  a  contained  area,  and  the
+laboratorian is wearing appropriate PPE to reduce the risk of accidental infection.
+ Exercise 3: Incorrect That is incorrect!
+The correct answer is BSL-2.
+This  scenario  suggests  a  BSL-2  laboratory.  The  laboratorian  is  working  with  a
+pathogenic  strain  of  Staphylococcus,  which  poses  moderate  risk  of  infection.  Work  is
+conducted  on  a  standard  laboratory  bench  within  a  contained  area,  and  the
+laboratorian  is  wearing  appropriate  PPE  to  reduce  the  risk  of  accidental  infection.
+Exercise 3: Incorrect That is incorrect!
+The correct answer is BSL-2.
+This  scenario  suggests  a  BSL-2  laboratory.  The  laboratorian  is  working  with  a
+pathogenic  strain  of  Staphylococcus,  which  poses  moderate  risk  of  infection.  Work  is
+conducted  on  a  standard  laboratory  bench  within  a  contained  area,  and  the
+laboratorian is wearing appropriate PPE to reduce the risk of accidental infection. Select
+the biosafety level shown in the following photograph below.  Click on the photo for a
+larger image. BSL-1 BSL-2 BSL-3 BSL-4  Exercise 4: Incorrect That is incorrect!
+The correct answer is BSL-4.
+This  image  suggests  a  BSL-4  laboratory.  The  scientist  is  working  within  a  BSC.  He  is
+wearing a full-body, air-supplied, positive pressure protective suit.
+ Exercise 4: Incorrect That is incorrect!
+The correct answer is BSL-4.
+This  image  suggests  a  BSL-4  laboratory.  The  scientist  is  working  within  a  BSC.  He  is
+wearing a full-body, air-supplied, positive pressure protective suit.
+ Exercise 4: Incorrect That is incorrect!
+The correct answer is BSL-4.
+This  image  suggests  a  BSL-4  laboratory.  The  scientist  is  working  within  a  BSC.  He  is
+wearing a full-body, air-supplied, positive pressure protective suit.
+ Exercise 4: Correct That is correct!
+This  image  suggests  a  BSL-4  laboratory.  The  scientist  is  working  within  a  BSC.  He  is
+wearing a full-body, air-supplied, positive pressure protective suit.
+ Congratulations! 
+                                      You should now be able to recognize characteristics of the four
+biological safety levels.
+If you would like additional information or resources on the topic of biosafety, select the
+Next icon. 
+To view other Quick Learn Lessons, visit CDC Learning Connection.
+                                  For more information on biosafety and laboratory practice, review
+the  following  web  resources:  For  more  Quick-Learn  lessons  please  visit  CDC  Learning
+Connection
+Source URL: https://www.cdc.gov/training/quicklearns/biosafety/

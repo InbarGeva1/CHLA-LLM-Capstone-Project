@@ -1,0 +1,231 @@
+  Persons using assistive technology might not be able to fully access information in this
+file. For assistance, please send e-mail to: mmwrq@cdc.gov. Type 508 Accommodation
+and the title of the report in the subject line of e-mail. An estimated 25,000 infants are
+born  to  hepatitis  B  surface  antigen  (HBsAg)-positive  women  annually  in  the  United
+States (1). With no intervention, 40%–90% of these infants will acquire hepatitis B virus
+(HBV)  infection  (2,3).  Approximately  90%  of  infected  infants  develop  chronic  HBV
+infection, with a 15%–25% risk for premature death from cirrhosis or cancer of the liver
+(4). To prevent perinatal HBV transmission, the Advisory Committee on Immunization
+Practices  (ACIP)  recommends  that  infants  born  to  HBsAg-positive  women  receive
+postexposure  prophylaxis  with  hepatitis  B  vaccine  (HepB)  and  hepatitis  B  immune
+globulin  (HBIG)  within  12  hours  of  birth,  and  complete  the  3-dose  HepB  series.  To
+determine  infant  outcomes  after  postexposure  prophylaxis,  ACIP  recommends
+postvaccination  serologic  testing  (PVST)  at  age  9–18  months  (4).  To  evaluate  the
+implementation of these recommendations, CDC assessed outcomes at age 24 months
+(through  2011)  among  infants  born  to  HBsAg-positive  women  enrolled  during
+2008–2009  in  Enhanced  Perinatal  Hepatitis  B  Case  Management  Projects  (EPHBP).  Of
+4,214  EPHBP-managed  infants  who  completed  ≥3  HepB  doses,  63.7%  had  reported
+PVST results, 13.3% had reported PVST results but infant age was unknown, and 23.0%
+had  no  reported  PVST  results.  Of  2,683  infants  with  PVST  results  by  age  24  months,
+93.3% were protected, 1.2% were infected, 3.2% remained susceptible, and 2.3% had
+indeterminate  results.  ACIP-recommended  postexposure  prophylaxis  was  highly
+effective among infants who completed vaccination and received PVST. PVST is critical
+for guiding medical management of infants born to HBsAg-positive women, identifying
+infants with HBV infection and in need of further care, and monitoring progress toward
+the  elimination  of  perinatal  HBV  transmission.   In  2007,  CDC  funded  EPHBP  to
+characterize  HBsAg-positive  pregnant  women  and  assess  outcomes  among  their
+infants.  Five  project  sites,  in  Florida,  Michigan,  Minnesota,  New  York  City,  and  Texas
+(excluding cities of Houston and San Antonio), collected and reported data to CDC. Data
+of women enrolled in EPHBP during 2008–2009 were reviewed; maternal characteristics
+from  the  first  pregnancy  on  record  were  used.  Records  of  all  infants  born  to  these
+women were reviewed to age 24 months; PVST records were examined for infants who
+completed  ≥3  HepB  doses  (with  and  without  HBIG).  Of  infants  with  reported  PVST
+results
+ and
+ date,
+ HBV
+ serology
+ status
+ was
+ categorized
+ as
+ "protected"
+(anti-HBs-positive, HBsAg-negative), "HBV-infected" (anti-HBs-negative, HBsAg-positive;
+anti-HBs-positive,
+ HBsAg-positive;
+ or
+ anti-HBs
+ unreported,
+ HBsAg-positive),
+"susceptible"  (anti-HBs-negative,  HBsAg-negative),  or  "indeterminate"  (all  other  result
+combinations).  A  protective  anti-HBs  result  was  defined  as  ≥10  mIU/mL.  Records  of
+susceptible infants were reviewed for revaccination and repeat PVST. Bivariate analysis
+of  mother/infant  pairs  was  used  to  examine  associations  between  maternal
+characteristics  (age,  race/ethnicity,  place  of  birth,  primary  language)  and  infant
+outcomes (≥3 HepB doses, PVST receipt); significant variables were evaluated further
+in  a  multivariable  logistic  regression  model.   EPHBP  managed  5,075  infants  born  to
+4,938  HBsAg-positive  women  in  2008–2009.  Most  of  the  women  were  aged  20–39
+years,  self-identified  as  Asian/Pacific  Islander  (API)  or  non-Hispanic  black,  were
+foreign-born, and almost half indicated a primary language other than English (Table 1).
+Maternal characteristics were not significantly associated with infant receipt of ≥3 HepB
+doses.  Infants  born  to  women  who  were  Hispanic  (odds  ratio  [OR]  =  0.43;  95%
+confidence interval [CI] = 0.31–0.61), U.S.-born (OR = 0.60; CI = 0.47–0.75), or whose
+primary language was English (OR = 0.66; CI = 0.56–0.78) were significantly less likely
+to  receive  PVST  compared  to  infants  born  to  women  who  were  non-Hispanic,
+foreign-born, and whose primary language was non-English, respectively. Infants born
+to API women (OR = 1.50; CI = 1.29–1.74) were significantly more likely to receive PVST
+compared to infants born to non-API women. After controlling for maternal place of birth
+(U.S.-born  versus  foreign-born)  and  primary  language  (English  versus  non-English),
+infants  born  to  API  women  were  slightly  more  likely  to  receive  PVST  than  infants  of
+non-API  women  (OR  =  1.09,  p<0.001).   By  age  24  months,  4,214  EPHBP-managed
+infants  received  ≥3  HepB  doses  (Table  2).  Although  3,244  (77.0%)  of  these  infants
+received  PVST,  412  (9.8%)  received  incomplete  PVST,  either  anti-HBs  only  (41)  or
+HBsAg  only  (371).  Among  the  4,214  EPHBP-managed  infants,  2,073  (49.1%)  were
+tested  at  age  9–18  months;  259  (6.2%)  were  tested  before  age  9  months  and  351
+(8.4%) were tested after age 18 months. Age at testing was unknown (not reported) for
+561  (13.3%)  infants.  Most  (355)  incomplete  results  were  from  one  site  where  infants
+were tested only for HBsAg and test dates were not reported  (Table 3).  Of the 2,683
+infants  with  reported  PVST  dates  and  results,  114  remained  susceptible  after  initial
+vaccination and PVST. Of these infants, 29 received three additional HepB doses and
+repeat  PVST,  as  recommended  by  ACIP;  27  were  protected  and  two  remained
+susceptible. Overall, 93.3% of tested infants were protected, 1.2% were infected, 3.2%
+remained susceptible, and 2.3% had indeterminate results (Table 4).  Ruthie Benson,
+Texas Dept of State Health Svcs. Susan A. Crowley, Minnesota Dept of Health. Cristina
+Dusek,  Florida  Dept  of  Health.  Julie  Lazaroff,  MPH,  New  York  City  Dept  of  Health  and
+Mental Hygiene, New York. Kenneth Onye, MPH, Michigan Dept of Community Health.
+Emily A. Smith, MPH, Tanja Y. Walker, MPH, Sarah F. Schillie, MD, Trudy V. Murphy, MD,
+Div  of  Viral  Hepatitis,  National  Center  for  HIV/AIDS,  Viral  Hepatitis,  STD,  and  TB
+Prevention;  Jane  Zucker,  MD,  Immunization  Services  Div,  National  Center  for
+Immunization  and  Respiratory  Diseases,  CDC.  Corresponding  contributor:  Emily  A.
+Smith,  uvo8@cdc.gov,  404-718-8514.   ACIP-recommended  postexposure  prophylaxis
+for  infants  born  to  HBsAg-positive  mothers  protects  85%–95%  of  infants  from
+perinatally acquired HBV infection (4). Since 1990, CDC has funded perinatal hepatitis B
+prevention programs to identify HBsAg-positive pregnant women and ensure that their
+infants  receive  postexposure  prophylaxis,  including  PVST.  PVST  identifies  infants  who
+are protected, remain susceptible after a primary HepB series, or develop HBV infection
+and  should  be  referred  for  continuing  medical  care  (4–6).   Among  infants  born  to
+HBsAg-positive mothers and managed by perinatal hepatitis B prevention programs in
+the United States, and who received ≥3 HepB doses, PVST rates by age 15–27 months
+increased from 25% in 1994 to 56% in 2008 (1). In another study, 57% of infants born
+to  HBsAg-positive  mothers  during  2003–2005  received  HBsAg  testing  (7).  In
+comparison,  77.0%  of  EPHBP-managed  infants  received  PVST,  and  63.7%  had  known
+serologic  outcomes  (Table  3).  Although  rates  of  PVST  have  increased,  this  analysis
+highlights areas in need of improvement. Strategies are needed to increase the rates
+for  overall  testing  and  testing  for  both  anti-HBs  and  HBsAg,  which  are  required  to
+confirm  outcomes.  Of  infants  in  EPHBP,  9.8%  received  only  one  of  the  two
+recommended  serologic  tests.  An  anti-HBs  result  <10  mIU/mL  is  insufficient  to
+determine whether the infant is susceptible or is HBV-infected. Alone, an anti-HBs result
+≥10 mIU/mL does not confirm that the infant is protected; the HBsAg result also must
+be negative. A negative HBsAg test result by itself does not indicate whether the infant
+is  protected  by  vaccination  or  remains  susceptible.   ACIP  recommends  PVST  at  age
+9–18 months (4). Infants should be tested starting at age 9 months, if at least 1 month
+has  passed  since  the  last  HepB  dose,  to  ensure  that  all  HBV-infected  infants  are
+identified*  (4,8).  Of  EPHBP-managed  infants,  14.6%  received  PVST  outside  of  the
+recommended  time  frame,  and  13.3%  had  an  unknown  age  at  testing.  Infants  who
+remain  susceptible  after  an  initial  HepB  series  without  timely  PVST  to  prompt
+revaccination  have  continuing  risk  for  transmission  from  household  contacts  with
+chronic HBV infection. Intervals ≥4 months between the final HepB dose and PVST have
+been associated with waning of anti-HBs titers, which might fail to confirm protection
+and  result  in  unnecessary  revaccination  (6,9).   In  this  analysis,  infants  born  to  API
+women  were  significantly  more  likely  to  receive  PVST.  Previous  studies  have  yielded
+mixed  results  (5,6,10).  A  study  examining  data  from  1992–2000  found  that  infants
+whose mothers were non-Hispanic white, were aged <20 years, were U.S.-born, or had
+a household income <$15,000 were less likely to receive PVST (6,10). In another study,
+however,  PVST  did  not  differ  significantly  by  maternal  age  or  race  among  infants
+managed  by  the  Louisiana  Office  of  Public  Health  (5).   The  results  of  this  study  are
+subject  to  at  least  two  limitations.  First,  results  from  the  EPHBP  sites  might  not  be
+representative  of  all  births  to  HBsAg-positive  women  in  the  United  States;
+EPHBP-managed women and infants comprise about 25% of CDC's estimated births to
+HBsAg-positive women. Second, the completeness of reporting PVST results to CDC was
+not  examined.  However,  overall  PVST  rates  of  EPHBP-managed  infants  were  high
+compared with rates reported in other studies (1,7).  To achieve optimal prevention of
+perinatal  HBV  infection,  HBsAg-positive  pregnant  women  must  be  identified  before
+delivery,  and  their  infants  must  complete  appropriate  and  timely  postexposure
+prophylaxis. PVST (anti-HBs and HBsAg) as soon as age 9 months and at least 1 month
+after  the  last  HepB  dose  has  been  given  determines  if  infants  are  susceptible  and
+should  be  revaccinated  and  retested,  or  are  infected  and  require  additional  medical
+care. Although universal recommendations for HepB vaccination have been published
+(4), no universal recommendations for HBV screening of infants or children have been
+issued. HBV infection usually is asymptomatic, and therefore is unlikely to be detected
+without testing, until complications arise. Conducting timely PVST and reporting results
+to  public  health  officials  ensures  that  infants  born  to  HBsAg-positive  women  receive
+appropriate follow-up, and is a key element of surveillance to monitor progress toward
+the elimination of perinatal HBV transmission.  Immunization Svcs Div, National Center
+for  Immunization  and  Respiratory  Diseases,  CDC.   *Infants  who  complete  the  HepB
+series with the Haemophilus influenzae type b combination product (COMVAX, Merck &
+Co.) at age 12–15 months are eligible for PVST 1 month after the last dose (2).  What is
+already  known  on  this  topic?   Infants  born  to  hepatitis  B  surface  antigen-positive
+women have a 40%–90% chance of acquiring hepatitis B virus (HBV) infection. Infected
+infants have a 90% risk of chronic HBV infection, which can result in premature death
+from liver failure or cancer. Postexposure immunoprophylaxis in infancy prevents 85%
+to 95% of perinatal infections. To determine infant outcomes, including whether infants
+require  additional  vaccination  for  protection,  postvaccination  serologic  testing  is
+recommended  1  month  after  completing  the  hepatitis  B  vaccine  series  (age  9–18
+months).   What  is  added  by  this  report?   Among  infants  with  reported  outcomes,
+postvaccination  serologic  testing  data  from  Enhanced  Perinatal  Hepatitis  B  Case
+Management  Projects  indicated  that  timely  postexposure  prophylaxis  might  be  93%
+effective  in  protecting  infants  from  perinatal  hepatitis  B  infection.  However,  23.0%  of
+infants had no reported postvaccination serologic testing.  What are the implications for
+public  health  practice?   Postvaccination  serologic  testing  (hepatitis  B  surface  antigen
+[HBsAg]  and  hepatitis  B  surface  antigen  antibody)  for  infants  born  to  HBsAg-positive
+women  is  important  to  determine  appropriate  infant  medical  follow-up.  Test  results
+should  be  reported  to  perinatal  hepatitis  B  program  coordinators  who  can  assist
+families in assuring infant protection and who monitor progress toward elimination of
+perinatal hepatitis B virus transmission.  TABLE 1. Characteristics of hepatitis B surface
+antigen-positive pregnant women (N = 4,938) — Enhanced Perinatal Case Management
+Project,  Florida,  Michigan,  Minnesota,  New  York  City,  and  Texas,  2008–2011
+Characteristic No. (%) Age ≤19 yrs 146 (3.0) 20–29 yrs 2,464 (49.9) 30–39 yrs 2,153
+(43.6)  ≥40  yrs  175  (3.5)  Race/Ethnicity  Asian/Pacific  Islander  2,961  (60.0)  Black,
+non-Hispanic 1,195 (24.2) White, non-Hispanic 367 (7.4) Hispanic 168 (3.4) Other* 53
+(1.1) Not reported 194 (3.9) Place of birth U.S.-born 453 (9.2) Foreign-born 3,855 (78.1)
+Not reported 630 (12.7) Primary language English 1,539 (31.2) Non-English 2,280 (46.2)
+Not  reported  1,119  (22.6)  *Defined  as  Alaska  Native/Native  American  or  multiracial.
+TABLE 2. Vaccination status of infants born to HBsAg-positive pregnant women, at age
+24  months  (N  =  5,075)  —  Enhanced  Perinatal  Case  Management  Project,  Florida,
+Michigan, Minnesota, New York City, and Texas, 2008–2011 Vaccination status No. (%)
+Completed ≥3 HepB doses 4,214 (83.0) HBIG, ≥3 HepB doses 4,173 (82.2) No HBIG, ≥3
+HepB doses 41 (0.8) Incomplete vaccination (lost to follow-up) 861 (17.0) HBIG, 2 HepB
+doses 728 (14.3) No HBIG, 2 HepB doses 5 (0.1) HBIG, 1 HepB dose 111 (2.2) No HBIG,
+1 HepB dose 15 (0.3) HBIG, no HepB doses 2 (<0.1) Abbreviations: HBsAg = hepatitis B
+surface  antigen;  HBIG  =  hepatitis  B  immune  globulin;  HepB  =  hepatitis  B  vaccine.
+TABLE  3.  Postvaccination  serologic  testing  (PVST)  among  infants  who  received  ≥3
+doses of HepB by age 24 months (N = 4,214) — Enhanced Perinatal Case Management
+Project, Florida, Michigan, Minnesota, New York City, and Texas, 2008–2011 PVST status
+No.  (%)  Reported  serologic  markers  tested  3,244  (77.0)  Anti-HBs  and  HBsAg*  2,832
+(67.2) Anti-HBs only 41 (1.0) HBsAg only 371 (8.8) Reported serologic testing (by age)
+2,683 (63.7) <9 mos 259 (6.2) 9–12 mos 1,204 (28.5) 13–18 mos 869 (20.6) ≥19 mos
+351  (8.4)  Unknown†  561  (13.3)  No  reported  PVST  970  (23.0)  Abbreviations:  HepB  =
+hepatitis B vaccine; anti-HBs = hepatitis B surface antigen antibody; HBsAg = hepatitis
+B  surface  antigen.  *If  infant  received  testing  for  HBsAg  and  anti-HBs  on  different
+dates, the later test date was used. †Age at testing could not be calculated because
+test  dates  were  not  reported.  TABLE  4.  Serologic  outcomes  of  infants  with  reported
+PVST results, by age 24 months (N = 2,683)* — Enhanced Perinatal Case Management
+Project, Florida, Michigan, Minnesota, New York City, and Texas, 2008–2011 Serologic
+outcome  No.  (%)  Protected  2,504  (93.3)  Anti-HBs-positive,†  HBsAg-negative  2,504
+(93.3)
+ HBV-infected
+ 32
+ (1.2)
+ Anti-HBs-negative,
+ HBsAg-positive
+ 28
+ (1.0)
+Anti-HBs-positive,  HBsAg-positive  2  (<0.1)  Anti-HBs,§  HBsAg-positive  2  (<0.1)
+Susceptible 87 (3.2) Anti-HBs-negative, HBsAg-negative 87 (3.2) Indeterminate 60 (2.3)
+Anti-HBs-positive,  HBsAg§   36  (1.3)  Anti-HBs-negative,  HBsAg§   1  (<0.1)  Anti-HBs,  §
+HBsAg-negative  18  (0.7)  Anti-HBs,  §  HBsAg§   5  (0.2)  Abbreviations:  PVST  =
+postvaccination  serologic  testing;  anti-HBs  =  hepatitis  B  surface  antigen  antibody;
+HBsAg = hepatitis B surface antigen. *Infant PVST outcome was excluded if test date
+was  not  reported  (n  =  561).   †Defined  as  titer  result  ≥10  mIU/mL.  §Serologic  test
+result  not  reported.  Use  of  trade  names  and  commercial  sources  is  for  identification
+only and does not imply endorsement by the U.S. Department of 
+Health and Human Services. References to non-CDC sites on the Internet are 
+provided as a service to MMWR readers and do not constitute or imply 
+endorsement of these organizations or their programs by CDC or the U.S. 
+Department of Health and Human Services. CDC is not responsible for the content 
+of pages found at these sites. URL addresses listed in MMWR were current as of 
+the date of publication. All MMWR HTML versions of articles are electronic conversions
+from typeset documents. 
+This  conversion  might  result  in  character  translation  or  format  errors  in  the  HTML
+version. 
+Users are referred to the electronic PDF version (http://www.cdc.gov/mmwr) 
+and/or the original MMWR paper copy for printable versions of official text, figures, and
+tables. 
+An  original  paper  copy  of  this  issue  can  be  obtained  from  the  Superintendent  of
+Documents, U.S. 
+Government Printing Office (GPO), Washington, DC 20402-9371; 
+telephone: (202) 512-1800. Contact GPO for current prices.
+**Questions or messages regarding errors in formatting should be addressed to 
+mmwrq@cdc.gov. How do I view different file formats (PDF, DOC, PPT, MPEG) on this
+site? 
+Source URL: https://www.cdc.gov/mmwr/preview/mmwrhtml/mm6138a4.htm

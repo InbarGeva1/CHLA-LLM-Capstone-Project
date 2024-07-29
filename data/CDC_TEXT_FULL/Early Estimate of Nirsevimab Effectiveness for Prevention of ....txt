@@ -1,0 +1,363 @@
+Official websites use .gov A .gov website belongs to an official government organization
+in  the  United  States.  Secure  .gov  websites  use  HTTPS  A  lock  (   )  or  https://  means
+you've  safely  connected  to  the  .gov  website.  Share  sensitive  information  only  on
+official,  secure  websites.  Weekly  /  March  7,  2024  /  73(9);209–214  Please  note:  This
+report has been corrected. Heidi L. Moline, MD1; Ayzsa Tannis, MPH1; Ariana P. Toepfer,
+MPH1; John V. Williams, MD2,3; Julie A. Boom, MD4,5; Janet A. Englund, MD6; Natasha
+B.  Halasa,  MD7;  Mary  Allen  Staat,  MD8,9;  Geoffrey  A.  Weinberg,  MD10;  Rangaraj
+Selvarangan, PhD11; Marian G. Michaels, MD2,3; Leila C. Sahni, PhD4,5; Eileen J. Klein,
+MD6;  Laura  S.  Stewart,  PhD7;  Elizabeth  P.  Schlaudecker,  MD8,9;  Peter  G.  Szilagyi,
+MD10; Jennifer E. Schuster, MD12; Leah Goldstein, MPH1; Samar Musa, MPH2,3; Pedro
+A. Piedra, MD4,5; Danielle M. Zerr, MD6; Kristina A. Betters, MD7; Chelsea Rohlfs, MBA9;
+Christina  Albertin,  MPH10;  Dithi  Banerjee,  PhD12;  Erin  R.  McKeever,  MPH1;  Casey
+Kalman, MPH1; Benjamin R. Clopper, MPH1; New Vaccine Surveillance Network Product
+Effectiveness Collaborators; Meredith L. McMorrow, MD1,*; Fatimah S. Dawood, MD1,*
+(View author affiliations) What is already known about this topic? Respiratory syncytial
+virus (RSV) is the leading cause of hospitalization among U.S. infants. In August 2023,
+CDC  recommended  nirsevimab,  a  long-acting  monoclonal  antibody,  to  protect  infants
+aged <8 months against RSV-associated lower respiratory tract infection in their first
+RSV season. What is added by this report? Nirsevimab effectiveness was 90% against
+RSV-associated  hospitalization  in  infants  in  their  first  RSV  season.  Median  time  from
+receipt of nirsevimab to symptom onset was start highlight45 days (IQR = 19–76). What
+are  the  implications  for  public  health  practice?  To  reduce  the  risk  for  RSV-associated
+hospitalization,  infants  should  be  protected  by  maternal  RSV  vaccination  or  infant
+receipt  of  nirsevimab.  Respiratory  syncytial  virus  (RSV)  is  the  leading  cause  of
+hospitalization  among  infants  in  the  United  States.  In  August  2023,  CDC’s  Advisory
+Committee  on  Immunization  Practices  recommended  nirsevimab,  a  long-acting
+monoclonal  antibody,  for  infants  aged  <8  months  to  protect  against  RSV-associated
+lower respiratory tract infection during their first RSV season and for children aged 8–19
+months at increased risk for severe RSV disease. In phase 3 clinical trials, nirsevimab
+efficacy  against  RSV-associated  lower  respiratory  tract  infection  with  hospitalization
+was  81%  (95%  CI  =  62%–90%)  through  150  days  after  receipt;  post-introduction
+effectiveness  has  not  been  assessed  in  the  United  States.  In  this  analysis,  the  New
+Vaccine
+ Surveillance
+ Network
+ evaluated
+ nirsevimab
+ effectiveness
+ against
+RSV-associated hospitalization among infants in their first RSV season during October 1,
+2023–February 29, 2024. Among 699 infants hospitalized with acute respiratory illness,
+59 (8%) received nirsevimab ≥7 days before symptom onset. Nirsevimab effectiveness
+was  90%  (95%  CI  =  75%–96%)  against  RSV-associated  hospitalization  with  a  median
+time  from  receipt  to  symptom  onset  of  45  days  (IQR  =  19–76  days).  The  number  of
+infants  who  received  nirsevimab  was  too  low  to  stratify  by  duration  from  receipt;
+however, nirsevimab effectiveness is expected to decrease with increasing time after
+receipt because of antibody decay. Although nirsevimab uptake and the interval from
+receipt  of  nirsevimab  were  limited  in  this  analysis,  this  early  estimate  supports  the
+current  nirsevimab  recommendation  for  the  prevention  of  severe  RSV  disease  in
+infants.  Infants  should  be  protected  by  maternal  RSV  vaccination  or  infant  receipt  of
+nirsevimab. Top Respiratory syncytial virus (RSV) is the leading cause of hospitalization
+in U.S. infants, responsible for 50,000–80,000 hospitalizations annually in children aged
+<5 years (1,2). The highest hospitalization rates occur during the first months of life,
+and  risk  declines  with  increasing  age  in  infancy  and  during  early  childhood  (3).  In
+August
+ 2023,
+ CDC’s
+ Advisory
+ Committee
+ on
+ Immunization
+ Practices
+ (ACIP)
+recommended nirsevimab, a long-acting monoclonal antibody, for all infants aged <8
+months  born  during  or  entering  their  first  RSV  season,  and  for  children  aged  8–19
+months at increased risk for severe RSV disease and entering their second RSV season
+(4).  In  a  pooled  analysis  of  data  from  prelicensure  randomized  placebo-controlled
+clinical trials, 1 dose of nirsevimab given at age <8 months was 79% efficacious against
+medically attended RSV-associated lower respiratory tract infection and 81% efficacious
+against  RSV-associated  lower  respiratory  tract  infection  with  hospitalization  through
+150 days after injection (4). In September 2023, a maternal RSV vaccine also became
+available to prevent RSV disease in young infants. ACIP recommends either nirsevimab
+or maternal RSV vaccination to protect infants born during or entering their first RSV
+season (5). In October 2023, in response to nirsevimab shortages, CDC recommended
+that  health  care  settings  with  limited  supply  of  nirsevimab  prioritize  nirsevimab  for
+infants  aged  <6  months  and  infants  with  underlying  conditions  at  highest  risk  for
+severe disease (6). In January 2024, additional doses of nirsevimab became available,
+and  CDC  recommended  that  health  care  settings  with  adequate  nirsevimab  supply
+return  to  the  original  ACIP  recommendations  for  nirsevimab  use  (7).  This  analysis
+provides  the  first  U.S.  estimate  for  post-introduction  nirsevimab  effectiveness  among
+U.S. infants during their first RSV season. Top The New Vaccine Surveillance Network
+(NVSN)  is  a  population-based,  prospective  surveillance  platform  for  acute  respiratory
+illness  (ARI)  in  infants,  children,  and  adolescents  aged  <18  years  that  monitors
+pediatric respiratory viruses at seven U.S. pediatric academic medical centers to assess
+immunization  effectiveness.†  Demographic,  clinical,  and  immunization  data  were
+systematically
+ collected
+ through
+ parent/guardian
+ interviews,
+ medical
+ record
+abstraction, and state immunization information systems. Respiratory specimens were
+collected  from  enrolled  children  and  tested  for  RSV  and  other  common  respiratory
+viruses  by  real-time  reverse  transcription–polymerase  chain  reaction.§  Receipt  of
+nirsevimab  was  ascertained  through  parent  report  and  verified  through  state
+immunization  information  systems,  birth  hospital,  or  primary  care  provider  records.¶
+Infants  were  eligible  for  this  analysis  if  they  were  aged  <8  months  as  of  October  1,
+2023,  or  born  after  October  1,  2023,  were  hospitalized  with  ARI**  during  October  1,
+2023–February 29, 2024, and had verified nirsevimab status, reported gestational age
+at birth, and medical record review to assess for underlying medical conditions. Infants
+were excluded if they were enrolled before nirsevimab became available at their site,††
+received  any  doses  of  palivizumab,  had  reported  maternal  RSV  vaccination  during
+pregnancy, or inconclusive or unknown RSV test results. For a site to be included in this
+analysis, at least five infants enrolled at the site had to have received nirsevimab ≥7
+days  before  symptom  onset.  Nirsevimab  effectiveness  against  RSV-associated
+hospitalization was estimated using a test-negative, case-control design. Case-patients
+were infants who received a positive RSV test result. Control patients were infants who
+received  a  negative  RSV  test  result.  Infants  were  considered  nirsevimab  recipients  if
+they received nirsevimab ≥7 days before symptom onset to account for RSV incubation
+period and time to peak antibody concentration.§§ Infants who received nirsevimab <7
+days  before  symptom  onset  were  excluded.  Pearson’s  chi-square  tests  were  used  to
+compare demographic characteristics among case-patients and control patients and by
+nirsevimab status. Effectiveness was estimated using multivariable logistic regression
+models, comparing the odds of receipt of nirsevimab among case-patients and control
+patients.  Regression  models  controlled  for  age  at  enrollment  in  months,  month  of
+illness,  enrollment  site,  and  presence  of  one  or  more  high-risk  medical  conditions  for
+severe  RSV  disease.¶¶  Preterm  status  (birth  at  <28,  28–31,  32–33,  34–36,  and  ≥37
+weeks’ gestation) and insurance type were evaluated as potential confounders but did
+not  change  estimates  and  were  not  included  in  the  final  model.  Effectiveness  was
+calculated  as  (1− adjusted  odds  ratio)  ×  100%.  Analyses  were  conducted  using  SAS
+software (version 9.4; SAS Institute). This activity was reviewed by CDC, deemed not
+research, and was conducted consistent with applicable federal law and CDC policy.***
+Top  Among  1,036  eligible  infants,  699  infants  at  four  sites  met  inclusion  criteria,†††
+including  407  (58%)  case-patients  and  292  (42%)  control  patients  (Table).  Receipt  of
+nirsevimab  was  more  frequent  among  infants  with  high-risk  medical  conditions  than
+those without these conditions (46% versus 6%, p<0.001). There was no difference in
+the frequency of receipt of nirsevimab by preterm status or insurance type. Time since
+receipt of nirsevimab to ARI symptom onset ranged from 7 to 127 days with a median
+of 45 days (IQR = 19–76 days) (Figure). Overall, six (1%) case-patients and 53 (18%)
+control patients received nirsevimab; among all included infants, receipt of nirsevimab
+ranged from 4% to 12% by site. Nirsevimab effectiveness was 90% (95% CI = 75–96)
+against  RSV-associated  hospitalization.  Top  In  this  multisite  analysis  of  699  infants
+hospitalized  with  ARI  during  their  first  RSV  season,  receipt  of  nirsevimab  was  90%
+effective against RSV-associated hospitalization at a median of 45 days from receipt of
+nirsevimab to ARI symptom onset. This early effectiveness estimate supports existing
+recommendations for the prevention of severe RSV disease in infants in their first RSV
+season.  The  strengths  of  this  first  estimate  of  U.S.  post-introduction  nirsevimab
+effectiveness  include  enrollment  of  infants  using  a  standardized  ARI  definition,
+systematic RSV testing, and receipt of nirsevimab verification with state immunization
+information systems or medical records for all infants. However, it is important to note
+that nirsevimab effectiveness during a full RSV season is expected to be lower than the
+estimate reported here, because antibody levels from passive immunization wane over
+time.  In  this  analysis,  the  median  interval  from  receipt  of  nirsevimab  was  45  days,
+whereas  the  median  duration  of  the  U.S.  RSV  season  before  the  COVID-19  pandemic
+was  189  days  (8).  In  clinical  trials,  nirsevimab  remained  highly  efficacious  against
+RSV-associated  lower  respiratory  tract  infection  in  infants  through  150  days  after
+receipt  of  nirsevimab,  consistent  with  an  extended  half-life  of  63–73  days  (9).
+Estimating  effectiveness  under  real-world  conditions  for  the  full  duration  of  an  RSV
+season and in children aged 8–19 months at high risk for severe RSV disease who are
+recommended  to  receive  nirsevimab  before  their  second  RSV  season  remains
+important. Thus, CDC will continue to monitor nirsevimab effectiveness. The findings in
+this  report  are  subject  to  at  least  five  limitations.  First,  only  a  small  proportion  of
+hospitalized  infants  with  ARI  received  nirsevimab,  likely  in  part  because  of  delayed
+availability  in  this  first  season  of  introduction  and  intermittent  supply  shortages,  and
+infants  who  received  nirsevimab  were  more  likely  to  have  underlying  conditions.§§§
+Thus,  results  might  not  be  fully  generalizable  to  all  infants  eligible  for  receipt  of
+nirsevimab  in  their  first  RSV  season.  Second,  the  low  number  of  case-patients  who
+received  nirsevimab  did  not  allow  for  stratified  estimates  by  time  since  receipt  of
+nirsevimab.  Third,  because  nirsevimab  became  available  at  most  sites  in  the  United
+States after seasonal RSV circulation began, some infants in this analysis might have
+had  RSV  infection  before  receipt  of  nirsevimab,  which  might  have  affected  estimated
+effectiveness. Fourth, nirsevimab effectiveness was not estimated by dosage (50 mg for
+infants  weighing  <5  kg  or  100  mg  for  infants  weighing  ≥5  kg)  because  nirsevimab
+dosage was not ascertained. Finally, the effectiveness estimate in this report is limited
+to the prevention of RSV-associated hospitalization. RSV among infants also causes a
+considerable  increase  in  outpatient  and  emergency  department  visits;  additional
+studies  are  warranted  to  assess  nirsevimab  effectiveness  against  these  outcomes.
+Receipt  of  a  single  dose  of  nirsevimab  was  highly  effective  against  RSV-associated
+hospitalization in infants entering their first RSV season. This finding supports current
+CDC recommendations that all infants should be protected by maternal RSV vaccination
+or infant receipt of nirsevimab, to reduce the risk for RSV-associated hospitalization in
+their  first  RSV  season  (4,6).  Top  Ruth  Link-Gelles,  Coronavirus  and  Other  Respiratory
+Viruses  Division,  National  Center  for  Immunization  and  Respiratory  Diseases,  CDC;
+Amanda Payne, Coronavirus and Other Respiratory Viruses Division, National Center for
+Immunization  and  Respiratory  Diseases,  CDC;  Ryan  Wiegand,  Coronavirus  and  Other
+Respiratory  Viruses  Division,  National  Center  for  Immunization  and  Respiratory
+Diseases, CDC; Ximena Aguilera Correa, Department of Pediatrics, Vanderbilt University
+Medical Center; Claudia Guevara Pulido, Department of Pediatrics, Vanderbilt University
+Medical  Center;  Hanna  Grioni,  Department  of  Pediatrics,  Seattle  Children’s  Hospital;
+Bonnie  Strelitz,  Department  of  Pediatrics,  Seattle  Children’s  Hospital;  Vasanthi
+Avadhanula, Baylor College of Medicine; Flor M. Munoz, Texas Children’s Hospital and
+Baylor  College  of  Medicine;  Wende  Fregoe,  Department  of  Pediatrics,  University  of
+Rochester  Medical  Center  and  University  of  Rochester–Golisano  Children’s  Hospital;
+Saranya  Peri,  Department  of  Pathology  and  Laboratory  Medicine,  Children’s  Mercy
+Kansas  City;  Anjana  Sasidharan,  Department  of  Pathology  and  Laboratory  Medicine,
+Children’s Mercy Kansas City; Monika Johnson, Department of Pediatrics, University of
+Pittsburgh  School  of  Medicine;  Klancie  Dauer,  Department  of  Pediatrics,  University  of
+Pittsburgh
+ School
+ of
+ Medicine.
+ Top
+ Corresponding
+ author:
+ Heidi
+ L.
+ Moline,
+ick6@cdc.gov.  Top  1Coronavirus  and  Other  Respiratory  Viruses  Division,  National
+Center for Immunization and Respiratory Diseases, CDC; 2UPMC Children’s Hospital of
+Pittsburgh, Pittsburgh, Pennsylvania; 3Department of Pediatrics, University of Pittsburgh
+School  of  Medicine,  Pittsburgh,  Pennsylvania;  4Texas  Children’s  Hospital,  Houston,
+Texas; 5Baylor College of Medicine, Houston, Texas; 6Department of Pediatrics, Seattle
+Children’s  Hospital,  Seattle,  Washington;  7Department  of  Pediatrics,  Vanderbilt
+University  Medical  Center,  Nashville,  Tennessee;  8Division  of  Infectious  Diseases,
+Cincinnati  Children’s  Hospital  Medical  Center,  Cincinnati,  Ohio;  9Department  of
+Pediatrics, University of Cincinnati College of Medicine, Cincinnati, Ohio; 10Department
+of
+ Pediatrics,
+ University
+ of
+ Rochester
+ Medical
+ Center
+ and
+ University
+ of
+Rochester–Golisano  Children’s  Hospital,  Rochester,  New  York;  11Department  of
+Pathology  and  Laboratory  Medicine,  Children’s  Mercy  Hospital,  Kansas  City,  Missouri;
+12Department  of  Pediatrics  Children’s  Mercy  Hospital,  Kansas  City,  Missouri.  Top  All
+authors have completed and submitted the International Committee of Medical Journal
+Editors  form  for  disclosure  of  potential  conflicts  of  interest.  John  V.  Williams  reports
+institutional  support  from  the  National  Institutes  of  Health  (NIH);  compensation  for
+service  on  Quidel’s  scientific  advisory  board  through  2022  and  service  on  GSK
+Independent  Data  Monitoring  Committee;  honorarium  for  Infectious  Diseases  of
+Children  conference  lecture;  payments  for  participation  on  Independent  Data
+Monitoring  Committee,  GSK,  Data  Safety  Monitoring  Board,  and  National  Institute  of
+Allergy  and  Infectious  Diseases  IMPAACT  study.  Janet  A.  Englund  reports  institutional
+support  from  GSK,  and  consulting  fees  from  AstraZeneca,  Meissa  Vaccines,  Moderna,
+and  Sanofi  Pasteur.  Natasha  B.  Halasa  reports  grants  from  Sanofi  and  Quidel  and
+consulting fees from Genetech. Mary Allen Staat reports institutional support from NIH
+and  receipt  of  royalties  from  UpToDate.  Geoffrey  A.  Weinberg  reports  institutional
+support  from  the  New  York  State  Department  of  Health  AIDS  Institute  and  honoraria
+from Merck & Co. for writing and editing textbook chapters in the Merck & Co. Merck
+Manual. Rangaraj Selvarangan reports grants from Hologic, BioFire, Becton Dickinson,
+Luminex,  and  Cepheid  and  honoraria  for  serving  on  a  GSK  advisory  board.  Marian  G.
+Michaels  reports  support  from  NIH.  Elizabeth  P.  Schlaudecker  reports  institutional
+support  from  Pfizer-BioNTech,  support  for  attending  a  Pediatric  Infectious  Diseases
+Society  meeting,  uncompensated  service  on  NIH  Data  Safety  Monitoring  Board  and
+Division  of  Microbiology  and  Infectious  Diseases  Data  Safety  Monitoring  Board,
+honorarium from Sanofi Pasteur, uncompensated membership in the World Society of
+Pediatric  Infectious  Diseases,  and  uncompensated  service  as  committee  chair  for  the
+Pediatric Infectious Diseases Society. Jennifer E. Schuster reports institutional support
+from NIH, Food and Drug Administration, and State of Missouri; speaking honoraria from
+the  Missouri  American  Academy  of  Pediatrics;  and  payment  for  participation  on  the
+board  of  the  Association  of  American  Medical  Colleges  Advisory  (AAMC)  for  a  grant
+awarded to AAMC for vaccine confidence. Pedro A. Piedra reports grants or contracts
+from  Icosavax,  Mapp  Biologics,  Merck,  Sanofi-Pasteur,  GSK,  Blue  Lake  Biotechnology,
+Shionogi,  and  IgM  Biosciences;  and  reports  consulting  fees  from  Takada,  Pfizer,
+Moderna,  Merck,  and  Sanofi-Pasteur.  No  other  potential  conflicts  of  interest  were
+disclosed.  Top  *  These  senior  authors  contributed  equally  to  this  report.  †  Children’s
+Mercy  Hospital,  Kansas  City,  Missouri;  Cincinnati  Children’s  Hospital  Medical  Center,
+Cincinnati, Ohio; Golisano Children’s Hospital, Rochester, New York; Seattle Children’s
+Hospital,  Seattle,  Washington;  Texas  Children’s  Hospital,  Houston,  Texas;  UPMC
+Children’s  Hospital  of  Pittsburgh,  Pittsburgh,  Pennsylvania;  Vanderbilt  University
+Medical Center, Nashville, Tennessee. § All enrolled children are tested for the following
+viruses:
+ adenoviruses,
+ SARS-CoV-2,
+ rhinovirus/enterovirus,
+ RSV,
+ human
+metapneumovirus,  enterovirus-D68,  parainfluenza  viruses,  human  coronaviruses,  and
+influenza  viruses.  ¶  Primary  care  provider  record  verification  was  performed  in  sites
+without  mandatory  reporting  of  nirsevimab  administration  to  state  immunization
+information  systems.  **  ARI  is  defined  as  one  or  more  of  the  following  signs  or
+symptoms  present  for  <14  days  before  enrollment  encounter:  fever,  cough,  earache,
+nasal  congestion,  runny  nose,  sore  throat,  vomiting  after  coughing,  wheezing,
+shortness of breath, rapid or shallow breathing, apnea, apparent life-threatening event,
+or  brief  resolved  unexplained  event.  ††  2023:  Houston,  Texas,  October  5;  Nashville,
+Tennessee,  October  8;  Seattle,  Washington,  October  8;  Cincinnati,  Ohio,  October  10;
+Kansas City, Missouri, November 1; Pittsburgh, Pennsylvania, November 2; Rochester,
+New  York  November  6.  §§  In  clinical  trials,  peak  neutralizing  antibody  concentration
+levels  were  reached  in  adults  by  day  6  after  intramuscular  administration.
+https://www.accessdata.fda.gov/drugsatfda_docs/label/2023/761328s000lbl.pdf
+ ¶¶
+High-risk  medical  conditions  were  defined  as  chronic  lung  disease  of  prematurity
+(bronchopulmonary  dysplasia,  bronchiolitis  obliterans,  chronic  respiratory  failure  with
+continuous  positive  airway  pressure/bilevel  positive  airway  pressure/ventilator,
+pulmonary hypertension, or interstitial lung disease) (11); hemodynamically significant
+congenital heart disease (abnormalities of aortic arch, hypoplastic left heart syndrome,
+pulmonary  atresia,  tricuspid  atresia,  Tetralogy  of  Fallot,  transposition  of  the  great
+arteries,  partial  or  total  anomalous  pulmonary  venous  return,  other  abnormalities  of
+heart  valves,  double  outlet  right  ventricle,  or  other  severe  congenital  heart
+malformations)  (21);  severe  immunocompromise  (one);  severe  cystic  fibrosis  (two);
+neuromuscular  disease  (autonomic  dysfunction,  instability  or  dysautonomia,  agenesis
+or hypoplasia of the corpus callosum, muscular dystrophy or spinal muscular atrophy,
+disorders  of  tone,  or  other  neuromuscular  condition)  (11);  or  congenital  pulmonary
+abnormalities that impair the ability to clear secretions (none). *** 45 C.F.R. part 46, 21
+C.F.R. part 56; 42 U.S.C. Sect. 241(d); 5 U.S.C. Sect. 552a; 44 U.S.C. Sect. 3501 et seq.
+††† Among the 337 infants excluded from this analysis, reasons for exclusion included
+enrollment at a site with fewer than five infants who had received nirsevimab (296 from
+Rochester, Cincinnati, and Kansas City), receipt of nirsevimab <7 days before symptom
+onset (20), missing or inconclusive RSV test result (20), maternal receipt of RSV vaccine
+during pregnancy (22), and receipt of palivizumab (10); reasons for exclusion are not
+mutually
+ exclusive.
+ §§§
+https://www.cdc.gov/vaccines/imz-managers/coverage/rsvvaxview/index.html
+(Accessed  January  30,  2024).  Top  Top  Abbreviations:  BPAP  =  bilevel  positive  airway
+pressure;  CPAP  =  continuous  positive  airway  pressure;  NA  =  not  applicable;
+RSV = respiratory syncytial virus.
+* Overall, 337 infants enrolled during the analysis period were excluded. Reasons for
+exclusion  included  enrollment  at  sites  with  fewer  than  five  infants  who  had  received
+nirsevimab (296 from Rochester, Cincinnati, and Kansas City), receipt of nirsevimab <7
+days before symptom onset (20), missing or inconclusive RSV test result (20), maternal
+receipt of RSV vaccine during pregnancy (22), and receipt of palivizumab (10); reasons
+for exclusion are not mutually exclusive.
+† Current season receipt of nirsevimab documented by registry or provider (654: 94%)
+or medical record only (45: 6%).
+§ Pearson’s chi-square tests were used to compare demographic characteristics among
+case-patients and control patients and by receipt of nirsevimab.
+¶ <28 weeks (12: 2%); 28–31 weeks (12: 2%); 32–33 weeks (48: 7%); 34–36 weeks (74:
+11%).
+**  High-risk  medical  conditions  were  defined  as  chronic  lung  disease  of  prematurity
+(bronchopulmonary  dysplasia,  bronchiolitis  obliterans,  chronic  respiratory  failure  with
+CPAP/BIPAP/ventilator,  pulmonary  hypertension  [neonatal,  primary,  or  secondary],  or
+interstitial  lung  disease)  (12);  hemodynamically  significant  congenital  heart  disease
+(abnormalities  of  aortic  arch,  hypoplastic  left  heart  syndrome,  pulmonary  atresia,
+tricuspid atresia, Tetralogy of Fallot, transposition of the great arteries, partial or total
+anomalous pulmonary venous return, other abnormalities of heart valves, double outlet
+right
+ ventricle,
+ or
+ other
+ congenital
+ heart
+ malformations)
+ (21);
+ severe
+immunocompromise  (one);  severe  cystic  fibrosis  (two);  neuromuscular  disease
+(autonomic  dysfunction,  instability  or  dysautonomia,  agenesis  or  hypoplasia  of  the
+corpus callosum, muscular dystrophy or spinal muscular atrophy, disorders of tone, or
+other neuromuscular condition) (12); or congenital pulmonary abnormalities that impair
+the ability to clear secretions (none).
+††  Persons  of  Hispanic  or  Latino  (Hispanic)  origin  might  be  of  any  race  but  are
+categorized  as  Hispanic;  all  racial  groups  are  non-Hispanic.  Top  Abbreviation:  RSV  =
+respiratory syncytial virus. * Days 0–6 are not included because infants with receipt of
+nirsevimab  within  7  days  of  symptom  onset  were  excluded  from  this  analysis.  Top
+Suggested citation for this article: Moline HL, Tannis A, Toepfer AP, et al. Early Estimate
+of  Nirsevimab  Effectiveness  for  Prevention  of  Respiratory  Syncytial  Virus–Associated
+Hospitalization Among Infants Entering Their First Respiratory Syncytial Virus Season —
+New Vaccine Surveillance Network, October 2023–February 2024. MMWR Morb Mortal
+Wkly Rep 2024;73:209–214. DOI: http://dx.doi.org/10.15585/mmwr.mm7309a4. 
+MMWR  and  Morbidity  and  Mortality  Weekly  Report  are  service  marks  of  the  U.S.
+Department of Health and Human Services.
+Use of trade names and commercial sources is for identification only and does not imply
+endorsement by the U.S. Department of 
+Health and Human Services. References to non-CDC sites on the Internet are 
+provided as a service to MMWR readers and do not constitute or imply 
+endorsement of these organizations or their programs by CDC or the U.S. 
+Department of Health and Human Services. CDC is not responsible for the content 
+of pages found at these sites. URL addresses listed in MMWR were current as of 
+the  date  of  publication.  All  HTML  versions  of  MMWR  articles  are  generated  from  final
+proofs through an automated process. 
+This  conversion  might  result  in  character  translation  or  format  errors  in  the  HTML
+version. 
+Users are referred to the electronic PDF version (https://www.cdc.gov/mmwr) 
+and/or the original MMWR paper copy for printable versions of official text, figures, and
+tables. 
+ Questions or messages regarding errors in formatting should be addressed to 
+mmwrq@cdc.gov.
+Source URL: https://www.cdc.gov/mmwr/volumes/73/wr/mm7309a4.htm

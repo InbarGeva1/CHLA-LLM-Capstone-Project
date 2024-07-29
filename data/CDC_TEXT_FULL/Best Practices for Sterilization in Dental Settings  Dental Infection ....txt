@@ -1,0 +1,77 @@
+A .gov website belongs to an official government organization in the United States. A
+lock (  ) or https:// means you've safely connected to the .gov website. Share sensitive
+information  only  on  official,  secure  websites.  CDC  provides  recommendations  for  the
+sterilization  process  in  the  Guideline  for  Disinfection  and  Sterilization  in  Healthcare
+Facilities  (2008)  as  well  as  on  page  21–25  and  42–44  of  the  Guidelines  for  Infection
+Control  in  Dental  Health-Care  Settings  —  2003  and  in  the  Summary  of  Infection
+Prevention in Dental Settings: Basic Expectations for Safe Care. CDC recommends that
+dental  health  care  personnel  be  familiar  with  the  recommended  practices  for
+reprocessing patient-care items. Always follow manufacturer's validated Instructions for
+Use  when  reprocessing  items.  Patient-care  items  are  categorized  depending  on  the
+potential risk for transmission of infection. Critical‎ items penetrate soft tissue or bone.
+These items have the highest risk of transmitting infections and should always be heat
+sterilized. Semicritical items touch mucous membranes, like the inside of the cheeks or
+the  gums.  These  items  have  a  lower  risk  of  transmission  than  critical  items.  Most
+semicritical items can (and therefore should) be heat sterilized. If they cannot tolerate
+heat sterilization, they should be processed using a high-level disinfectant. ‎ Noncritical
+items only contact unbroken skin. These items have the lowest risk of transmission. In
+most cases, noncritical items can ‎be cleaned and, if visibly soiled, low-level disinfected. 
+Cleaning  is  the  basic  first  step  in  all  decontamination  processes.  Cleaning  removes
+debris  and  organic  contamination  from  instruments.  Blood,  saliva,  and  other
+contamination  can  cause  the  disinfection  or  sterilization  process  to  fail  if  it  is  not
+removed.  Debris can be removed from an instrument in several ways. Dental health
+care personnel may scrub the instrument manually with a surfactant or detergent and
+water.  Dental  health  care  personnel  may  also  use  automated  equipment  (e.g.,
+ultrasonic  cleaner,  washer-disinfector)  and  chemical  agents.  Using  automated
+equipment  can  be  more  efficient  and  safer  than  manually  cleaning  contaminated
+instruments.  If manual cleaning is performed:  After cleaning, instruments should be
+rinsed  with  water  to  remove  chemical  or  detergent  residue.  Take  care  to  minimize
+splashing. After cleaning, instruments should be allowed to dry thoroughly before they
+are packaged, wrapped or otherwise contained. Wet instruments can compromise the
+packaging  material's  integrity  and  ability  to  maintain  sterility.  Once  dry,  instruments
+should  be  inspected  and  then  wrapped,  packaged,  or  placed  into  container  systems
+before  heat  sterilization.  Packaging  materials  allow  for  penetration  of  the  sterilization
+agent and maintain sterility of the processed item after sterilization. Dental health care
+personnel  should  follow  the  manufacturer's  instructions  for  packaging  patient-care
+items. This includes following instructions for the item being sterilized, the packaging,
+and  any  sterilization  equipment  being  used.   Before  placing  packaged  instruments  in
+the  sterilizer,  at  a  minimum,  include  the  following  information  on  the  label:  This
+information  helps  dental  health  care  personnel  retrieve  items  in  the  event  of  an
+instrument  processing  or  sterilization  failure.  The  majority  of  patient-care  items  in
+dentistry  are  heat-tolerant  and  therefore  should  be  heat  sterilized.  Follow  the
+manufacturer's  recommendations  for  sterilization  times,  temperatures,  and  other
+operating  parameters  for  all  equipment  and  supplies  used  during  reprocessing.  This
+includes correct use of containers, wraps, and chemical or biological indicators.  If the
+manufacturer's  instructions  for  use  are  not  clear,  contact  the  manufacturer  for
+assistance.   Ideally,  sterile  instruments  and  supplies  should  be  stored  in  covered  or
+closed cabinets. They should not be stored under sinks or in other places where they
+might become wet. Storage practices for wrapped sterilized instruments can be either
+date-  or  event-related.  For  date-related  shelf-life  practices,  sterilized  packages  are
+expiration-dated  and  used  on  a  "first  in,  first  out"  basis.  Event-related  shelf-life
+practices recognize that the product should remain sterile indefinitely, unless an event
+causes it to become contaminated (such as torn or wet packaging).  Dental health care
+personnel should inspect packaging of sterilized instruments before opening and use to
+ensure  the  material  has  not  been  compromised  (wet,  torn,  or  punctured)  during
+storage. If a package has been compromised, the contents should be reprocessed—that
+is,  cleaned,  packaged,  and  heat-sterilized  again—before  patient  use.  The  use  of
+heat-sensitive  semicritical  items  that  must  be  processed  with  liquid  chemical
+germicides is discouraged. Heat-tolerant or disposable alternatives are available for the
+majority  of  such  items.  If  heat-sensitive  instruments  must  be  used,  they  can  be
+sterilized  or  high-level  disinfected  by  soaking  them  in  a  liquid  chemical  germicide
+cleared by FDA as sterilants.  However, these powerful chemicals are highly toxic and
+manufacturer
+ instructions—for
+ example,
+ regarding
+ dilution,
+ immersion
+ time,
+temperature,  and  disposal—and  safety  precautions  for  using  chemical  sterilants  or
+high-level  disinfectants  must  be  followed  precisely.   This  video,  from  CDC's
+Foundations:  Building  the  Safest  Dental  Visit  training,  describes  the  workflow  pattern
+for  a  sterilization  area  that  ensures  devices  and  instruments  clearly  flow  from
+high-contamination  areas  to  clean  and  sterile  areas.  CDC  protects  patients  and
+providers by developing recommendations that guide infection prevention and control
+practices  wherever  dental  care  is  delivered.  Languages  Language  Assistance
+Languages  Language Assistance 
+Source URL: https://www.cdc.gov/dental-infection-control/hcp/dental-ipc-faqs/dental-sterilization.html

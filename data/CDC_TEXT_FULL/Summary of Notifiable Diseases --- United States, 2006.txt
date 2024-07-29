@@ -1,0 +1,1783 @@
+ Persons using assistive technology might not be able to fully access information in this
+file. For assistance, please send e-mail to: mmwrq@cdc.gov. Type 508 Accommodation
+and the title of the report in the subject line of e-mail. Please note: 
+Errata have been published for this article. To view the errata, please 
+click here and here. 
+ Prepared by
+Scott J.N. McNabb, PhD
+Ruth Ann Jajosky, DMD 
+Patsy A. Hall-Baker, Annual Summary Coordinator
+Deborah A. Adams
+Pearl Sharp
+Carol Worsham 
+Willie J. Anderson
+J. Javier Aponte
+Gerald F. Jones
+David A. Nitschke 
+Araceli Rey, MPH 
+Michael S. Wodajo 
+Division of Integrated Surveillance Systems and Services,
+National Center for Public Health Informatics,
+Coordinating Center for Health Information and Service, CDC
+ The Summary of Notifiable Diseases --- United States, 2006 
+contains the official statistics, in tabular and graphic form, for the 
+reported occurrence of nationally notifiable infectious diseases in the 
+United States for 2006. Unless otherwise noted, the data are final 
+totals for 2006 reported as of June 30, 2007. These statistics are 
+collected and compiled from reports sent by state and territorial health 
+departments to the National Notifiable Diseases Surveillance System (NNDSS), 
+which is operated by CDC in collaboration with the Council of State and 
+Territorial Epidemiologists (CSTE). The Summary is available at 
+http://www.cdc.gov/mmwr/summary.html. This site also includes 
+publications from previous years.
+ The Highlights section presents noteworthy epidemiologic and prevention 
+information for 2006 for selected diseases and additional information to 
+aid in the interpretation of surveillance and disease-trend data. Part 1 
+contains tables showing incidence data for the nationally notifiable 
+infectious diseases during 2006.* The tables provide the number of cases 
+reported to CDC for 2006 as well as the distribution of cases by month, 
+geographic location, and the patient's demographic characteristics (age, 
+sex, race, and ethnicity). Part 2 contains graphs and maps that depict 
+summary data for certain notifiable infectious diseases described in 
+tabular form in Part 1. Part 3 contains tables that list the number of 
+cases of notifiable diseases reported to CDC since 1975. This section 
+also includes a table enumerating deaths associated with specified 
+notifiable diseases reported to CDC's National Center for Health 
+Statistics (NCHS) during 2002--2004. The Selected Reading section 
+presents general and disease-specific references for notifiable 
+infectious diseases. These references provide additional information on 
+surveillance and epidemiologic concerns, diagnostic concerns, and 
+disease-control activities.
+ Comments and suggestions from readers are welcome. To increase the 
+usefulness of future editions, comments about the current report and 
+descriptions of how information is or could be used are invited. 
+Comments should be sent to Public Health Surveillance Team --- NNDSS, 
+Division of Integrated Surveillance Systems and Services, National 
+Center for Public Health Informatics at soib@cdc.gov.
+Background
+ The infectious diseases designated as notifiable at the national level 
+during 2006 are listed on page 5. A notifiable disease is one for which 
+regular, frequent, and timely information regarding individual cases is 
+considered necessary for the prevention and control of the disease. A 
+brief history of the reporting of nationally notifiable infectious 
+diseases in the United States is available at 
+http://www.cdc.gov/epo/dphsi/nndsshis.htm. In 1961, CDC assumed 
+responsibility for the collection and publication of data on nationally 
+notifiable diseases. NNDSS is neither a single surveillance system nor a 
+method of reporting. Certain NNDSS data are reported to CDC through 
+separate surveillance information systems and through different 
+reporting mechanisms; however, these data are aggregated and compiled 
+for publication purposes.
+ Notifiable disease reporting at the local level protects the public's 
+health by ensuring the proper identification and follow-up of cases. 
+Public health workers ensure that persons who are already ill receive 
+appropriate treatment; trace contacts who need vaccines, treatment, 
+quarantine, or education; investigate and halt outbreaks; eliminate 
+environmental hazards; and close premises where spread has occurred. 
+Surveillance of notifiable conditions helps public health authorities to 
+monitor the impact of notifiable conditions, measure disease trends, 
+assess the effectiveness of control and prevention measures, identify 
+populations or geographic areas at high risk, allocate resources 
+appropriately, formulate prevention strategies, and develop public 
+health policies. Monitoring surveillance data enables public health 
+authorities to detect sudden changes in disease occurrence and 
+distribution, detect changes in health-care practices, develop and 
+implement public health programs and interventions, and contribute data 
+to monitor global trends.
+ The list of nationally notifiable infectious diseases is revised 
+periodically. A disease might be added to the list as a new pathogen 
+emerges, or a disease might be deleted as its incidence declines. Public 
+health officials at state and territorial health departments and CDC 
+collaborate in determining which diseases should be nationally 
+notifiable. CSTE, with input from CDC, makes recommendations annually 
+for additions and deletions. Although disease reporting is mandated by 
+legislation or regulation at the state and local levels, state reporting 
+to CDC is voluntary. Reporting completeness of notifiable diseases is 
+highly variable and related to the condition or disease being reported (1). 
+The list of diseases considered notifiable varies by state and year. 
+Current and historic national public health surveillance case 
+definitions used for classifying and enumerating cases consistently 
+across reporting jurisdictions are available at 
+http://www.cdc.gov/epo/dphsi/nndsshis.htm.
+Revised International Health Regulations
+ In May 2005, the World Health Assembly adopted revised International 
+Health regulations (IHR) (2) that went into effect in the United 
+States on July 18, 2007. This international legal instrument governs the 
+role of the World Health Organization (WHO) and its member countries, 
+including the United States, in identifying, responding to and sharing 
+information about Public Health Emergencies of International Concern 
+(PHEIC). A PHEIC is an extraordinary event that 1) constitutes a public 
+health risk to other countries through international spread of disease, 
+and 2) potentially requires a coordinated international response.
+ The IHR are designed to prevent and protect against the international 
+spread of diseases while minimizing the effect on world travel and 
+trade. Countries that have adopted these rules have a much broader 
+responsibility to detect, respond to, and report public health 
+emergencies that potentially require a coordinated international 
+response in addition to taking preventive measures. The IHR will help 
+countries work together to identify, respond to, and share information 
+about public health emergencies of international concern.
+ The revised IHR represent a conceptual shift from a predefined disease 
+list to a framework of reporting and responding to events on the basis 
+of an assessment of public health criteria, including seriousness, 
+unexpectedness, and international travel and trade implications. PHEIC 
+are events that fall within those criteria (further defined in a 
+decision algorithm in Annex 2 of the revised IHR). Four conditions 
+always constitute a PHEIC and do not require the use of the IHR decision 
+instrument in Annex 2: Severe Acute Respiratory Syndrome (SARS), 
+smallpox, poliomyelitis caused by wild-type poliovirus, and human 
+influenza caused by a new subtype. Any other event requires the use of 
+the decision algorithm in Annex 2 of the IHR to determine if it is a 
+potential PHEIC. Examples of events that require the use of the decision 
+instrument include, but are not limited to, cholera, pneumonic plague, 
+yellow fever, West Nile fever, viral hemorrhagic fevers, and 
+meningococcal disease. Other biologic, chemical, or radiologic events 
+might fit the decision algorithm and also must be reportable to WHO. All 
+WHO member states are required to notify WHO of a potential PHEIC. WHO 
+makes the final determination about the existence of a PHEIC.
+ Health-care providers in the United States are required to report 
+diseases, conditions, or outbreaks as determined by local, state, or 
+territorial law and regulation, and as outlined in each state's list of 
+reportable conditions. All health-care providers should work with their 
+local, state, and territorial health agencies to identify and report 
+events that might constitute a potential PHEIC occurring in their 
+location. U.S. State and Territorial Departments of Health have agreed 
+to report information about a potential PHEIC to the most relevant 
+federal agency responsible for the event. In the case of human disease, 
+the U.S. State or Territorial Departments of Health will notify CDC 
+rapidly through existing formal and informal reporting mechanisms (3). 
+CDC will further analyze the event based on the decision algorithm in 
+Annex 2 of the IHR and notify the U.S. Department of Health and Human 
+Services (DHHS) Secretary's Operations Center (SOC), as appropriate.
+ DHHS has the lead role in carrying out the IHR, in cooperation with 
+multiple federal departments and agencies. The HHS SOC is the central 
+body for the United States responsible for reporting potential events to 
+the WHO. The United States has 48 hours to assess the risk of the 
+reported event. If authorities determine that a potential PHEIC exists, 
+the WHO member country has 24 hours to report the event to the WHO.
+ An IHR decision algorithm in Annex 2 has been developed to help countries 
+determine whether an event should be reported. If any two of the 
+following four questions can be answered in the affirmative, then a 
+determination should be made that a potential PHEIC exists and WHO 
+should be notified:
+Is the public health impact of the event serious? 
+Is the event unusual or unexpected? 
+Is there a significant risk of international spread? 
+Is there a significant risk of international travel or trade 
+restrictions? 
+ Additonal information concerning IHR is available at
+http://www.who.int/csr/ihr/en, 
+http://www.globalhealth.gov/ihr/index.html, 
+http://www.cdc.gov/cogh/ihregulations.htm, and 
+http://www.cste.org/PS/2007ps/2007psfinal/ID/07-ID-06.pdf.
+ At its annual meeting in June 2007, the Council of State and 
+Territorial Epidemiologists (CSTE) approved a position statement to 
+support the implementation of the 2005 IHR in the United States (3). 
+CSTE also approved a position statement in support of the 2005 IHR 
+adding initial detections of novel influenza A virus infections to the 
+list of nationally notifiable diseases reportable to NNDSS, beginning in 
+January 2007 (4).
+ * No cases of diphtheria, neuroinvasive or nonneuroinvasive western 
+equine encephalitis virus disease, paralytic poliomyelitis, severe acute 
+respiratory syndrome--associated coronavirus (SARS-CoV), smallpox, 
+yellow fever, or varicella deaths were reported in the United States in 
+2006; these conditions do not appear in the tables in Part 1. For 
+certain other nationally notifiable diseases, incidence data were 
+reported to CDC but are not included in the tables or graphs of this
+Summary. Data on chronic hepatitis B and hepatitis C virus 
+infection (past or present) are not included because they are undergoing 
+data quality review. CDC is upgrading its national surveillance data 
+management system for human immunodeficiency virus (HIV) and acquired 
+immunodeficiency syndrome (AIDS). During this transition, CDC is not 
+updating AIDS or HIV infection surveillance data. Therefore, no updates 
+are provided for HIV and AIDS data in this 
+Summary. 
+ † The 2005 CSTE position statement approving changes to 
+the AIDS case definition for adults and adolescents aged
+>13 years is pending final review and publication in MMWR.
+ § In accord with position statements approved by CSTE in 
+2005, the national surveillance case definitions for hepatitis C virus 
+infection (past or present), legionellosis, and meningococcal disease 
+were revised.  ¶ Beginning in 2006, STEC replaced the Enterohemorrhagic
+Escherichia coli infection category that was previously 
+nationally notifiable.
+ Provisional data concerning the reported occurrence of nationally 
+notifiable infectious diseases are published weekly in MMWR. 
+After each reporting year, staff in state and territorial health 
+departments finalize reports of cases for that year with local or county 
+health departments and reconcile the data with reports previously sent 
+to CDC throughout the year. Notifiable disease reports are the 
+authoritative and archival counts of cases. They are approved by the 
+appropriate chief epidemiologist from each submitting state or territory 
+before being compiled and published in the
+Summary. 
+ Data in the Summary are derived primarily from reports 
+transmitted to CDC from health departments in the 50 states, five 
+territories (American Samoa, the Commonwealth of the Northern Mariana 
+Islands, Guam, Puerto Rico, and the U.S. Virgin Islands), New York City, 
+and the District of Columbia. Data were reported for 
+MMWR weeks 1--52, which correspond to the period for the week 
+ending January 7, 2006, through the week ending December 30, 2006. More 
+information regarding infectious notifiable diseases, including case 
+definitions, is available at 
+http://www.cdc.gov/epo/dphsi/phs.htm. Policies for reporting 
+notifiable disease cases can vary by disease or reporting jurisdiction. 
+The case-status categories used to determine which cases reported to 
+NNDSS are published, by disease or condition, and are listed in the 
+print criteria column of the 2006 NNDSS event code list (available at 
+http://www.cdc.gov/epo/dphsi/phs/files/NNDSSeventcodelistJanuary2007.pdf).
+ Final data for certain diseases are derived from the surveillance 
+records of the CDC programs listed below. Requests for further 
+information regarding these data should be directed to the appropriate 
+program.
+ Coordinating Center for Health Information and Service
+National Center for Health Statistics (NCHS) 
+Office of Vital and Health Statistics Systems (deaths from selected 
+notifiable diseases)
+ Coordinating Center for Infectious Diseases
+National Center for HIV/AIDS, Viral Hepatitis, STD, and TB Prevention 
+(NCHHSTP) 
+Division of HIV/AIDS Prevention (AIDS and HIV infection)
+Division of STD Prevention (chancroid; Chlamydia trachomatis, 
+genital infection; gonorrhea; and syphilis)
+Division of Tuberculosis Elimination (tuberculosis)
+ National Center for Immunization and Respiratory Diseases 
+Influenza Division (influenza-associated pediatric mortality)
+Division of Viral Diseases (poliomyelitis, varicella deaths, and 
+SARS-CoV) 
+National Center for Zoonotic, Vector-Borne, and Enteric Diseases
+Division of Vector-Borne Infectious Diseases (arboviral diseases) 
+Division of Viral and Rickettsial Diseases (animal rabies)
+ Population estimates for the states are from the NCHS bridged-race 
+estimates of the July 1, 2000--July 1, 2005 U.S. resident population 
+from the vintage 2005 postcensal series by year, county, age, sex, race, 
+and Hispanic origin, prepared under a collaborative arrangement with the 
+U.S. Census Bureau. This data set was released on August 16, 2005, and 
+is available at 
+http://www.cdc.gov/nchs/about/major/dvs/popbridge/popbridge.htm. 
+Populations for territories are 2005 estimates from the U.S. Census 
+Bureau International Data Base Data Access--Display Mode, available at 
+http://www.census.gov/ipc/www/idb/summaries.html. The choice of 
+population denominators for incidence reported in MMWR is based 
+on 1) the availability of census population data at the time of 
+preparation for publication and 2) the desire for consistent use of the 
+same population data to compute incidence reported by different CDC 
+programs. Incidence in the Summary is calculated as the number of 
+reported cases for each disease or condition divided by either the U.S. 
+resident population for the specified demographic population or the 
+total U.S. residential population, multiplied by 100,000. When a 
+nationally notifiable disease is associated with a specific age 
+restriction, the same age restriction is applied to the population in 
+the denominator of the incidence calculation. In addition, population 
+data from states in which the disease or condition was not notifiable or 
+was not available were excluded from incidence calculations. Unless 
+otherwise stated, disease totals for the United States do not include 
+data for American Samoa, Guam, Puerto Rico, the Commonwealth of the 
+Northern Mariana Islands, or the U.S. Virgin Islands.
+Interpreting Data  Incidence data in the Summary are presented by the date of 
+report to CDC as determined by the 
+MMWR week and year assigned by the state or territorial health 
+department, except for the domestic arboviral diseases, which are 
+presented by date of diagnosis. Data are reported by the state in which 
+the patient resided at the time of diagnosis. For certain nationally 
+notifiable infectious diseases, surveillance data are reported 
+independently to different CDC programs. Thus, surveillance data 
+reported by other CDC programs might vary from data reported in the
+Summary because of differences in 1) the date used to aggregate 
+data (e.g., date of report or date of disease occurrence), 2) the timing 
+of reports, 3) the source of the data, 4) surveillance case definitions, 
+and 5) policies regarding case jurisdiction (i.e., which state should 
+report the case to CDC).
+ Data reported in the Summary are useful for analyzing disease 
+trends and determining relative disease burdens. However, reporting 
+practices affect how these data should be interpreted. Disease reporting 
+is likely incomplete, and completeness might vary depending on the 
+disease. The degree of completeness of data reporting might be 
+influenced by the diagnostic facilities available; control measures in 
+effect; public awareness of a specific disease; and the interests, 
+resources, and priorities of state and local officials responsible for 
+disease control and public health surveillance. Finally, factors such as 
+changes in methods for public health surveillance, introduction of new 
+diagnostic tests, or discovery of new disease entities can cause changes 
+in disease reporting that are independent of the true incidence of 
+disease.
+ Public health surveillance data are published for selected 
+racial/ethnic populations because these variables can be risk markers 
+for certain notifiable diseases. Race and ethnicity data also can be 
+used to highlight populations for focused prevention efforts. However, 
+caution must be used when drawing conclusions from reported race and 
+ethnicity data. Different racial/ethnic populations might have different 
+patterns of access to health care, potentially resulting in data that 
+are not representative of actual disease incidence among specific 
+racial/ethnic populations. Surveillance data reported to NNDSS are in 
+either individual case-specific form or summary form (i.e., aggregated 
+data for a group of cases). Summary data often lack demographic 
+information (e.g., race); therefore, the demographic-specific rates 
+presented in the
+Summary might be underestimated.
+ In addition, not all race and ethnicity data are collected uniformly 
+for all diseases. For example, certain disease programs collect data on 
+race and ethnicity using one or two variables, based on the 1977 
+standards for collecting such data issued by the Office of Management 
+and the Budget (OMB). However, beginning in 2003, certain CDC programs, 
+such as the tuberculosis program, implemented OMB's 1997 revised 
+standards for collecting such data; these programs collect data on 
+multiple races per person using multiple race variables. In addition, 
+although the recommended standard for classifying a person's race or 
+ethnicity is based on self-reporting, this procedure might not always be 
+followed.
+Transition in NNDSS Data Collection and 
+Reporting
+ Before 1990, data were reported to CDC as cumulative counts rather 
+than individual case reports. In 1990, states began electronically 
+capturing and reporting individual case reports (without personal 
+identifiers) to CDC using the National Electronic Telecommunication 
+System for Surveillance (NETSS). In 2001, CDC launched the National 
+Electronic Disease Surveillance System (NEDSS), now a component of the 
+Public Health Information Network (http://www.cdc.gov/phin), 
+to promote the use of data and information system standards that advance 
+the development of efficient, integrated, and interoperable surveillance 
+information systems at the local, state, and federal level. One of the 
+objectives of NEDSS is to improve the accuracy, completeness, and 
+timeliness of disease reporting at the local, state, and national level 
+(5). CDC has developed the NEDSS Base System (NBS), a public 
+health surveillance information system that can be used by states that 
+do not wish to develop their own NEDSS-based systems. NBS can capture 
+data that already are in electronic form (e.g., electronic laboratory 
+results, which are needed for case confirmation) rather than requiring 
+that these data be entered manually as in the NETSS application. In 
+2006, NBS was used by 16 states to transmit nationally notifiable 
+infectious diseases to CDC. Additional information concerning NEDSS is 
+available  at  http://www.cdc.gov/NEDSS.   5.  National  Electronic  Disease  Surveillance
+System Working Group. 
+National Electronic Disease Surveillance System (NEDSS): a 
+standards-based approach to connect public health and clinical medicine. 
+J Public Health Manag Pract 2001;7:43--50.
+Highlights for 2006  Below are summary highlights for certain national notifiable 
+diseases. Highlights are intended to assist in the interpretation of 
+major occurrences that affect disease incidence or surveillance trends 
+(e.g., outbreaks, vaccine licensure, or policy changes).
+Anthrax  In February 2006, the first naturally-occurring case of inhalation 
+anthrax in the United States since 1976 occurred in a New York City 
+resident. His exposure to Bacillus anthracis spores was 
+determined to be the result of making traditional African drums using 
+hard-dried animal hides that were contaminated with spores (1). 
+The patient recovered with treatment (2). A subsequent, 
+unrelated, fatal case of inhalation anthrax occurred in July 2006 in 
+Scotland; exposure was suspected to result from the playing of 
+traditional African drums. In both cases, the animal hides were 
+suspected to originate from west Africa. These events demonstrate a 
+previously unrecognized risk for serious illness and death from 
+inhalation anthrax resulting from the making and playing of animal-skin 
+drums.
+ Naturally occurring anthrax epizootics in animal populations continue 
+to be reported in the United States annually. In 2006, epizootics were 
+reported in four states, affecting livestock in Minnesota, North Dakota, 
+and South Dakota and livestock and wildlife in Texas.
+ During 2006, for the second consecutive year, West Nile virus (WNV) 
+activity was detected in all 48 contiguous states; in one state 
+(Washington), human cases were reported for the first time (1). 
+Cases of WNV disease in humans were reported from 731 counties in 43 
+states and the District of Columbia. Of these cases, 35% were West Nile 
+neuroinvasive disease (WNND), 61% were uncomplicated fever, and 4% were 
+clinically unspecified. Of the cases with WNND, 12% were fatal. The 
+number of WNND cases reported was the highest since 2003; approximately 
+10% of these cases were from Idaho, which previously had reported very 
+few cases. Since WNV was first recognized in the United States in 1999, 
+a median of 1,229 (mean:1,238; range:19--2,946) WNND cases have been 
+reported annually.
+ Botulism is a severe paralytic illness caused by the toxins of 
+Clostridium botulinum. Exposure to toxin can occur by ingestion 
+(foodborne botulism) or by in situ production from C. botulinum 
+colonization of a wound (wound botulism) or the gastrointestinal tract 
+(infant botulism and adult intestinal colonization of botulism) (1). 
+In addition to the National Notifiable Diseases Surveillance System, CDC 
+maintains intensive surveillance for cases of botulism in the United 
+States. In 2006, cases were attributed to foodborne botulism, wound 
+botulism, and infant botulism.
+ In 2006, two cattle herds in one state were reported by the U.S. 
+Department of Agriculture (USDA) to be affected by brucellosis. USDA has 
+designated 48 states and three territories as being free of cattle 
+brucellosis, with one state regaining and another state losing 
+Brucellosis Class Free state status (1). Brucella abortus 
+remains enzootic in elk and bison in the greater Yellowstone National 
+Park area, and 
+Brucella suis is enzootic in feral swine in the southeast. Hunters 
+exposed to these animals might be at increased risk for infection. Human 
+cases can occur among immigrants and travelers returning from countries 
+with endemic brucellosis and are associated with consumption of 
+unpasteurized milk or soft cheeses. Pathogenic Brucella species 
+are considered category B biologic threat agents because of a high 
+potential for aerosol transmission (2). For the same reason, 
+biosafety level 3 practices, containment, and equipment are recommended 
+for laboratory manipulation of isolates (3).
+ Cases of cholera continue to be rare in the United States. The number 
+of cases reported in 2006 was slightly higher than the average number of 
+cases per year reported during 2001--2005 (4.6) (1). Foreign 
+travel continues to be the primary source of illness for cholera in the 
+United States. Cholera remains a global threat to health, particularly 
+in areas with poor access to improved water and sanitation, such as 
+sub-Saharan Africa (2). All patients with domestic exposure had 
+consumed seafood (3). Crabs harvested from the U.S. Gulf Coast 
+continue to be a common source of cholera, especially during warmer 
+months, when environmental conditions favor the growth and survival of 
+Vibrio species in marine water.
+ In 2006, the number of cryptosporidiosis cases continued to increase. 
+This follows a dramatic increase in the number of cases in 2005. The 
+reasons for this increase are unclear but might reflect changes in 
+jurisdictional reporting patterns; increased testing for 
+Cryptosporidium 
+following the introduction of nitazoxanide, the first licensed treatment for 
+the disease (1); or a real increase in infection and disease 
+caused by 
+Cryptosporidium. This drug introduction might have affected clinical 
+practice by increasing the likelihood of health-care providers 
+requesting 
+Cryptosporidium testing, leading to an increase in subsequent 
+case reports.
+ Although cryptosporidiosis is widespread geographically in the United 
+States, a higher incidence is reported by northern states (2). 
+However, this observation is difficult to interpret because of 
+differences in cryptosporidiosis surveillance systems and reporting 
+among states.
+ As in previous years, cryptosporidiosis case reports were clearly 
+influenced by cryptosporidiosis outbreaks. Although cryptosporidiosis 
+affects persons in all age groups, the number of reported cases was 
+highest among children aged 1--9 years. A tenfold increase in 
+transmission of cryptosporidiosis occurred during summer through early 
+fall compared with winter, coinciding with increased use of recreational 
+water by younger children, which is a known risk factor for 
+cryptosporidiosis. Transmission through recreational water is 
+facilitated by the substantial number of 
+Cryptosporidium oocysts that can be shed by a single person; the 
+extended periods of time that oocysts can be shed (3); the low 
+infectious dose (4); the resistance of 
+Cryptosporidium oocysts to chlorine (5); and the prevalence of 
+improper pool maintenance (i.e., insufficient disinfection, filtration, 
+and recirculation of water), particularly of children's wading pools (6).
+ Human monocytic ehrlichiosis and human granulocytic ehrlichiosis (now 
+known as human [granulocytic] anaplasmosis) are emerging tick-borne 
+diseases that became nationally notifiable in 1999. Because 
+identification and reporting of these diseases remain incomplete, areas 
+shown in the maps on pages 49--50 of this summary might not be 
+definitive predictors for overall distribution or regional prevalence. 
+Increases in numbers of reported cases of human rickettsial infections 
+might result from several factors, including but not limited to 
+increases in vector tick populations, increases in human-tick contact as 
+a result of encroachment into tick habitat through suburban/rural 
+recreational activities and housing construction; changes in case 
+definitions, case report forms, and laboratory tests; and increased use 
+of active surveillance methods to supplement previously passive 
+surveillance methods as a result of increased resource availability and 
+perception of high case density in newly surveyed areas.
+ The pathogen responsible for human granulocytic ehrlichiosis, genus 
+Ehrlichia, has been reclassified and now belongs to the genus 
+Anaplasma. Diseases resulting from infection with Ehrlichia 
+chaffeensis, Anaplasma phagocytophilum (formerly Ehrlichia 
+phagocytophila), and other pathogens (comprising 
+Ehrlichia ewingii and undifferentiated species) have been referred to 
+respectively by the acronyms "HME," "HGE," and "Ehrlichiosis 
+(unspecified or other agent)." The case definitions for these diseases 
+have been modified by a resolution adopted at the June 2007 meeting of 
+the Council of State and Territorial Epidemiologists; the new category 
+names and the new case definitions became effective January 1, 2008 (1).
+ In 2006, rates of gonorrhea in the United States increased for the 
+second consecutive year (1). Increases in gonorrhea rates in 
+eight western states during 2000--2005 have been described previously (2). 
+Increases in quinolone-resistant Neisseria gonorrhoeae in 2006 
+led to changes in national guidelines that now limit the recommended 
+treatment of gonorrhea to a single class of drugs, the cephalosporins (3). 
+The combination of increases in gonorrhea morbidity with increases in 
+resistance and decreased treatment options have increased the need for 
+better understanding of the epidemiology of gonorrhea.
+ Before the introduction of effective vaccines, 
+Haemophilus influenzae type b (Hib) was the leading cause of bacterial 
+meningitis and other invasive bacterial disease among children aged <5 
+years. Incidence of invasive Hib disease began to decline dramatically 
+in the late 1980s, coincident with licensure of conjugate Hib vaccines; 
+incidence has declined >99% compared with the prevaccine era (1). 
+During 2006, approximately 8% of all cases of invasive 
+Haemophilus influenzae (Hi) disease reported among children aged 
+<5 years were attributed to Hib, reflecting successful delivery of 
+highly effective conjugate Hib vaccines to children beginning at age 2 
+months (2). Nevertheless, for approximately 50% of reported 
+cases, serotype information was either unknown or missing, and some of 
+these also might be Hib cases. Accurate laboratory information is 
+essential to correctly identify the serotype of the causative Hi isolate 
+and to assess progress toward elimination of Hib invasive disease (3).
+ The number of cases of Hansen disease (HD) reported in the United 
+States peaked at 361 in 1985 and has declined since 1988. In 2006, cases 
+were reported from 20 states and two territories. HD is not highly 
+transmissible; cases appear to be related predominantly to immigration. 
+HD outpatient clinics operated under the guidance and direction of the 
+U.S. Department of Health and Human Services, Health Resources and 
+Services Administration exist in Phoenix, Arizona; Los Angeles, 
+Martinez, and San Diego, California; Miami, Florida; Chicago, Illinois; 
+Baton Rouge, Louisiana; Boston, Massachusetts; New York City, New York; 
+San Juan, Puerto Rico; Austin, Dallas, Harlingen, Houston, and San 
+Antonio, Texas; and Seattle, Washington. Services provided to HD 
+patients include diagnosis, treatment, follow-up of patients and 
+contacts, disability prevention and monitoring, education, and a 
+referral system for HD health-care services. Approximately 6,500 person 
+in the United States are living with HD. Additional information 
+regarding access to clinical care is available at 
+http://www.hrsa.gov/hansens.
+Hemolytic Uremic Syndrome, Postdiarrheal
+ Hemolytic uremic syndrome (HUS) is characterized by the triad of 
+hemolytic anemia, thrombocytopenia, and renal insufficiency. The most 
+common etiology of HUS in the United States is infection with Shiga 
+toxin-producing Escherichia coli, principally 
+E. coli O157:H7 (1). Approximately 8% of persons infected with E. 
+coli O157:H7 progress to HUS (2). During 2006, the majority of 
+reported cases occurred among children aged <5 years.
+ An early and severe influenza season during 2003--2004 was associated 
+with deaths in children in multiple states, prompting CDC to request 
+that all state, territorial, and local health departments report 
+laboratory confirmed influenza-associated pediatric deaths in children 
+aged <18 years (1,2). During the 2003--04 influenza season, 153 
+pediatric influenza-associated deaths were reported to CDC by 40 state 
+health departments (3). In June 2004, the Council of State and 
+Territorial Epidemiologists added influenza-associated pediatric 
+mortality to the list of conditions reportable to the National 
+Notifiable Diseases Surveillance System (NNDSS) (4). Cumulative 
+year-to-date incidence data are published each week in 
+MMWR Table I for low-incidence nationally notifiable diseases.  During 2006, a total of
+43 influenza-associated pediatric deaths were 
+reported to CDC. The median age at death was 4 years (range: 28 days--17 
+years): seven children (16%) were aged <6 months; 12 (28%) were aged 
+6--23 months; five (12%) were aged 24--59 months; and 19 (44%) were aged 
+>5 years. In 2006, approximately half of all influenza-associated 
+pediatric deaths occurred in the inpatient setting; a slight increase 
+occurred in the number of children who died in the emergency room or 
+outside the hospital compared with 2005 (22 and 17, respectively). 
+Twenty (47%) children had one or more underlying or chronic condition, 
+and 21 (53%) were previously healthy. The more common chronic conditions 
+reported included moderate to severe developmental delay (n = 8), 
+neuromuscular disorders (n = 5), chronic pulmonary disease (n = 5), 
+seizure disorder (n = 4), and asthma (n = 4). Bacterial coinfections 
+were confirmed in seven children. Pathogens cultured were 
+Staphylococcus aureus, sensitivity not done; Staphylococcus 
+aureus, methicillin-sensitive; Streptococcus viridans; Group 
+A Streptococcus; Pseudomonas aeruginosa, and one infection with 
+an unidentified gram-negative bacteria. Of the six (14%) children who 
+received 
+>1 dose of influenza vaccine before the onset of illness during the 
+2005--06 season, only three were fully vaccinated. The current 
+recommendations of the Advisory Committee on Immunization Practices 
+highlight the importance of administering 2 doses of influenza vaccine 
+for previously unvaccinated children aged 6 months--<9years (5). 
+Continued surveillance of severe influenza-related mortality is 
+important to monitor the impact of influenza and the possible effects of 
+interventions in children.
+ During 2005--2006, nationwide legionellosis case counts increased for 
+the second year in a row. In 2005, in collaboration with CDC, the 
+Council for State and Territorial Epidemiologists adopted a position 
+statement to improve reporting of travel-associated legionellosis (1); 
+this might have resulted in an increase in case reporting. Nearly all 
+regions of the United States, with the exception of the West North 
+Central area, reported more cases in 2006 than in 2005. Other possible 
+explanations for the increase include an actual increase in disease 
+incidence or increased use of 
+Legionella diagnostic tests.
+ Listeriosis is a rare but severe infection caused by Listeria 
+monocytogenes that has been a nationally notifiable disease since 
+2000. Listeriosis is primarily foodborne and occurs most frequently 
+among persons who are older, pregnant, or immunocompromised. During 
+2005, the majority of reported cases occurred among persons aged >65 
+years.  Molecular subtyping of L. monocytogenes isolates and sharing 
+of that information through PulseNet has enhanced the ability of public 
+health officials to detect and investigate outbreaks. Recent outbreaks 
+have been linked to ready-to-eat deli meat (1) and unpasteurized 
+cheese (2). During 2006, the incidence of listeriosis in FoodNet 
+active surveillance sites was 0.3 cases per 100,000 population, 
+representing a decrease of 34% compared with 1996--1998; however, 
+incidence remained higher than at its lowest point in 2002 (3).
+ All clinical isolates should be submitted to state public health 
+laboratories for pulsed-field gel electrophoresis (PFGE) pattern 
+determination, and all persons with listeriosis should be interviewed by 
+a public health official or health-care provider using a standard 
+Listeria case form (available at 
+http://www.cdc.gov/nationalsurveillance/ListeriaCaseReportFormOMB0920-0004.pdf).
+Rapid analysis of surveillance data will allow identification of 
+possible  food  sources  of  outbreaks.   In  2006,  the  Council  of  State  and  Territorial
+Epidemiologists (CSTE) 
+approved a modified case classification for measles, simultaneously with 
+those for rubella and congenital rubella syndrome (1). Because 
+measles is no longer endemic in the United States, its future 
+epidemiology in the U.S. will reflect its global epidemiology. The 
+modification of the case classification clearly identifies the origin of 
+each case and will help define the impact of imported cases on the 
+epidemiology of measles in the United States.
+ As in recent years, 95% of confirmed measles cases reported during 
+2006 were import-associated. Of these, 31 cases were internationally 
+imported, 20 resulted from exposure to persons with imported infections, 
+and in one case, virologic evidence indicated an imported source. The 
+sources for the remaining three cases were classified as unknown because 
+no link to importation was detected. Nearly half of all cases occurred 
+among adults aged 20--39 years, and 20% occurred in adults aged >40 
+years. Four outbreaks occurred during 2006 (size range: 3--18 cases), 
+all from imported sources. Three imported cases occurred in each of two 
+outbreaks, with no secondary transmission. In another outbreak; one 
+imported case and two secondary cases occurred in an immigrant 
+community. In the fourth outbreak, 18 cases occurred among persons aged 
+25--46 years, most of whom had unknown vaccination histories. The 
+primary exposure setting for this outbreak was a large office building 
+and nearby businesses. Five case-patients were foreign born, including 
+the index case-patient, who had arrived in the United States 9 days 
+before  onset  of  symptoms.   Measles  can  be  prevented  by  adhering  to
+recommendations for 
+vaccination, including guidelines for travelers (2,3). Although 
+the elimination of endemic measles in the United States has been 
+achieved, and population immunity remains high (4), an outbreak 
+can occur when measles is introduced into a susceptible group, often at 
+significant cost to control (5).
+ Neisseria meningitidis is a leading cause of bacterial 
+meningitis and sepsis in the United States. Rates of meningococcal 
+disease are highest among infants, with a second peak at age 18 years (1). 
+The proportion of cases caused by each serogroup of N. meningitidis 
+varies by age group. Among adolescents aged 11--19 years, 75% of cases 
+are caused by serogroups contained in the tetravalent (A,C,Y,W-135) 
+meningococcal conjugate vaccine ([MCV4] Menactra® (Sanofi 
+Pasteur, Swiftwater, Pennsylvania). The majority of cases in infants are 
+caused by serogroup B, for which no vaccine is licensed in the United 
+States.  MCV4 is licensed for persons aged 2--55 years. In 2007, CDC's 
+Advisory Committee on Immunization Practices revised recommendations for 
+routine use of MCV4 to include children aged 11--12 years at the 
+preadolescent vaccination visit and adolescents aged 13--18 years at the 
+earliest opportunity (2). MCV4 also is recommended for college 
+freshmen living in dormitories and other populations aged 2--55 years at 
+increased risk for meningococcal disease (1). Further reductions 
+in meningococcal disease could be achieved with the development of an 
+effective serogroup B vaccine.  Since vaccine licensure in 1967, the number of cases
+of mumps in the 
+United States has declined steadily. Since 2001, an average of 265 mumps 
+cases (range: 231--293 cases) has been reported each year (1). 
+However, in 2006, the largest mumps outbreak in >20 years occurred, with 
+>5,000 cases reported (1--3). The outbreak began in Iowa in 
+December 2005, peaked in April 2006, and declined to lower levels of 
+reporting during summer 2006 (3). The majority of cases occurred 
+during March--May, 2006 (3). The outbreak was primarily focal in 
+geographic distribution; 84% of cases were reported by six contiguous 
+midwestern states (Illinois, Iowa, Kansas, Nebraska, South Dakota, and 
+Wisconsin) (3). In contrast to the childhood age range 
+traditionally associated with mumps disease, young adults aged 18--24 
+years were the age group most highly affected (1--3). In 2006, a 
+total of 63% of reported cases occurred in females; previously, no 
+gender differences in case rates had been reported (3).
+ In response to the outbreak, the Advisory Committee on Immunization 
+Practices (ACIP) updated criteria for mumps immunity and mumps 
+vaccination recommendations (4). Acceptable presumptive evidence 
+of immunity to mumps includes one of the following: 1) documentation of 
+adequate vaccination, 2) laboratory evidence of immunity, 3) birth 
+before 1957, or 4) documentation of physician-diagnosed mumps. 
+Documentation of adequate vaccination now requires 2 doses of a live 
+mumps virus vaccine for school-aged children (grades K--12) and adults 
+at high risk (i.e., persons who work in health-care facilities, 
+international travelers, and students at post--high school educational 
+institutions). Health-care workers born before 1957 without other 
+evidence of immunity should now consider 1 dose of live mumps vaccine. 
+During an outbreak, a second dose of live mumps vaccine should be 
+considered for children aged 1--4 years and adults at low risk if 
+affected by the outbreak; health-care workers born before 1957 without 
+other evidence of immunity should strongly consider 2 doses of live 
+mumps vaccine.
+ In 2006, incidence of reported pertussis decreased to 5.35 cases per 
+100,000 population after peaking during 2004--2005 at 8.9 per 100,000. 
+Infants aged <6 months, who are too young to be fully vaccinated, had 
+the highest reported rate of pertussis (84.21 per 100,000 population), 
+but adolescents aged 10--19 years and adults aged >20 years contributed 
+the greatest number of reported cases. Adolescents and adults might be a 
+source of transmission of pertussis to young infants who are at higher 
+risk for severe disease and death and are recommended to be vaccinated 
+with tetanus toxoid, reduced diphtheria toxoid, and acellular pertussis 
+vaccine (Tdap) (1,2). In 2006, coverage with Tdap in adolescents 
+aged 13--17 years was 10.8%, compared with 49.4% coverage with tetanus 
+and diphtheria toxoids vaccine (Td) (3). The decrease in reported 
+pertussis incidence in 2006 is unlikely to be related to use of Tdap and 
+is more likely related to the cyclical nature of disease.  The number of human plague
+cases reported in 2006 was the greatest 
+number since 1994 and was fourfold higher than the average for the 
+preceding 5 years. Six cases were classified as primary septicemic 
+plague, approximately twice the usual frequency of this disease 
+manifestation. Nearly half of the cases reported in 2006 were from New 
+Mexico (n = 8); two of these cases were fatal. Although factors 
+governing the occurrence of plague are incompletely understood, the 
+disease appears to fluctuate naturally in response to climactic factors.
+Poliomyelitis, Paralytic and Polio Virus 
+Infections
+ In 2006, the Council of State and Territorial Epidemiologists (CSTE) 
+recommended revision of the surveillance case definition for paralytic 
+poliomyelitis to include nonparalytic poliovirus infection and the 
+addition of non-paralytic poliovirus infection to the list of nationally 
+notifiable diseases reported through the National Notifiable Diseases 
+Surveillance System (1). These changes resulted from the 
+identification in 2005 of a type 1 vaccine-derived poliovirus (VDPV) 
+infection among unvaccinated Minnesota Amish children who were not 
+paralyzed (2). Public health officials should remain alert that 
+paralytic poliomyelitis or poliovirus infections might occur in 
+high-risk (i.e., unvaccinated or undervaccinated) populations and should 
+report any detected poliovirus infections attributed to either wild or 
+vaccine-derived polioviruses and any paralytic poliomyelitis cases.
+ Psittacosis is an avian zoonosis with a spectrum of disease that 
+ranges from a mild influenza-like illness to severe pneumonia with 
+multiorgan involvement. Case reports of psittacosis in 2006 increased 
+slightly compared with the previous four years. Further information 
+regarding diagnosis, treatment, and prevention of psittacosis is 
+available at 
+http://www.avma.org/pubhlth/psittacosis.asp.
+Rabies  During 2006, the majority (92%) of animal rabies cases were reported 
+in wild animal species. Overall an 8.2% increase in rabies cases was 
+reported in animals compared with 2005 (1). In the United States 
+five animal species are recognized as reservoir species for various 
+rabies virus variants over defined geographic regions: raccoons (eastern 
+United States), bats (various species, all U.S. states except Hawaii), 
+skunks (North Central United States, South Central United States, and 
+California), foxes (Alaska, Arizona, and Texas), and mongoose (Puerto 
+Rico). During 2006, bats became the second most reported species with 
+rabies.
+ Reported cases of rabies in domestic animals remain low in part 
+because of high vaccination rates. Dog-to-dog transmission has not been 
+reported in 2 years, making the United States free of the canine rabies 
+virus variant in 2006. As in the past decade, cats were the most 
+commonly reported domestic animal with rabies during 2006.
+ Vaccination programs to control rabies in wild carnivores were 
+ongoing through the distribution of baits containing an oral rabies 
+vaccine in the Eastern United States and Texas. Oral rabies vaccination 
+programs in Texas are being maintained as a barrier to prevent the 
+reintroduction of canine rabies from Mexico. Oral rabies vaccination 
+programs are also being conducted in the Eastern United States to 
+attempt to stop the westward spread of the raccoon rabies virus variant. 
+Active surveillance conducted by the U. S. Department of Agriculture 
+(USDA) to monitor oral rabies vaccination programs were further enhanced 
+by the deployment of the Direct Rapid Immunohistochemical Test (DRIT) 
+which USDA began implementing in the last half of 2005 after receiving 
+training on its use at CDC. This test is used for screening the large 
+number of samples collected by USDA in the field, reducing the burden on 
+state laboratories and allowing for faster processing of surveillance 
+samples (2).
+ Three cases of human rabies were identified during 2006: one in a 
+male aged 16 years from Texas, one in a female aged 10 years from 
+Indiana, and one in a male aged 11 years from California. The cases in 
+Texas and Indiana were attributable to bat-associated rabies virus 
+variants; free-tailed bat and sliver-haired bat respectively. The case 
+in California was associated with a canine variant from the Philippines. 
+The patient had recently immigrated from the Philippines where an 
+exposure to a dog was noted approximately 2 years before onset of rabies 
+(2).
+ During 2006, as in previous years, the majority of reported cases 
+occurred among persons aged <5 years. Since 1993, the most frequently 
+reported isolates have been 
+Salmonella enterica serotype Typhimurium and S. enterica serotype 
+Enteritidis (1). The epidemiology of 
+Salmonella has been changing over the past decade. 
+Salmonella serotype Typhimurium has decreased in incidence, while 
+incidence of serotypes Newport, Mississippi, and Javiana have increased. 
+Specific control programs might have led to the reduction of serotype 
+Enteritidis infections, which have been associated with the consumption 
+of internally contaminated eggs. Rates of antibiotic resistance among 
+several serotypes have been increasing; a substantial proportion of 
+serotypes Typhimurium and Newport isolates are resistant to multiple 
+drugs (2).
+ The epidemiology of Salmonella infections is based on serotype 
+characterization; in 2005, the Council of State and Territorial 
+Epidemiologists adopted a position statement for serotype-specific 
+reporting of laboratory-confirmed salmonellosis cases (3). 
+However, reporting through the National Notifiable Diseases Surveillance 
+System (NNDSS) does not include serotype; serotypes for Salmonella 
+isolates are reported through the Public Health Laboratory Information 
+System (PHLIS). The National Electronic Disease Surveillance System 
+(NEDSS) or compatible systems eventually will replace PHLIS; users of 
+NEDSS or compatible systems should report serotype in NEDSS.
+ Escherichia coli O157:H7 has been nationally notifiable since 
+1994 (1). National surveillance for all Shiga toxin-producing 
+E. coli (STEC), under the name enterohemorrhagic E. coli 
+(EHEC), began in 2001. As of January 1, 2006, the nationally notifiable 
+diseases case definition designation changed from EHEC to STEC, and 
+serotype-specific reporting was implemented (2). Because 
+diagnosis solely on the basis of detection of Shiga toxin does not 
+sufficiently protect the public's health, characterizing STEC isolates 
+by serotype and pulsed-field gel electrophoresis (PFGE) patterns is 
+critical to detect, investigate, and control outbreaks. Screening of 
+stool specimens by clinical diagnostic laboratories for Shiga toxin by 
+enzyme immunoassay, subsequent bacterial culture using sorbitol 
+MacConkey agar (SMAC), and forwarding enrichment broths from Shiga 
+toxin-positive specimens that do not yield STEC O157 to state or local 
+public health laboratories are important for public health surveillance 
+of STEC infections (3).
+ Healthy cattle, which harbor the organism as part of the bowel flora, 
+are the main animal reservoir of STEC. The majority of reported 
+outbreaks are caused by contaminated food or water. The substantial 
+decline in cases reported during 2002--2003 coincided with industry and 
+regulatory control activities and with a decrease in the contamination 
+of ground beef (4). However, during 2005--2006, incidence of 
+human STEC infections increased. Reasons for the increases are not 
+known. Three large multistate outbreaks of E. coli O157 
+infections during fall 2006 caused by contaminated spinach and lettuce 
+suggest that produce that is consumed raw is an important source of STEC 
+infection (5,6).
+ During 1978--2003, the number of shigellosis cases reported to CDC 
+consistently exceeded 17,000. The approximately 14,000 cases of 
+shigellosis reported to CDC in 2004 represented an all-time low. This 
+number increased to approximately 16,000 in 2005 and decreased slightly 
+in 2006. 
+Shigella sonnei infections continue to account for >75% of shigellosis in 
+the United States (1). Certain cases of shigellosis are acquired 
+during international travel (2,3). In addition to spread from one 
+person to another, 
+shigellae can be transmitted through contaminated foods, sexual contact, 
+and water used for drinking or recreational purposes (1). 
+Resistance to ampicillin and trimethoprim-sulfamethoxazole among S. 
+sonnei strains in the United States remains common (4).
+ In 1994, the Council of State and Territorial Epidemiologists (CSTE) 
+adopted a position statement making drug-resistant Streptococcus 
+pneumoniae (DRSP) invasive disease a nationally notifiable disease (1). 
+In 2000, in anticipation of the routine introduction of the 7-valent 
+pneumococcal conjugate vaccine (PCV7) (2), CSTE made invasive 
+pneumococcal disease (IPD) among children aged <5 years nationally 
+notifiable (3). Consequently, the National Notifiable Diseases 
+Surveillance System (NNDSS) had two event codes for reporting IPD that 
+were not mutually exclusive: DRSP among persons of all ages and IPD 
+among  children  aged  <5  years.   To  avoid  submissions  of  duplicate  reports,  CSTE
+modified the case 
+classification of DRSP and IPD in 2006. Under the modified case 
+definition, which became effective in January 2007, cases with isolates 
+causing IPD from children aged <5 years for whom antibacterial 
+susceptibilities are available and determined to be DRSP should be 
+reported only as DRSP, and cases with isolates causing IPD from children 
+aged <5 years who are susceptible or for which susceptibilities are not 
+available should be reported only as IPD in children aged <5 years (4). 
+Only susceptible IPD episodes among children aged <5 years are reported 
+in this Summary. In 2006, for the first time after several years 
+of increasing case counts, the number of cases of pneumococcal disease 
+in both reportable categories declined. The initial increases in 
+reported cases likely represented improvements in surveillance and 
+possibly duplicate reporting of DRSP and IPD cases during the first few 
+years after the adoption of the 2000 position statement. Other data 
+sources have demonstrated substantial declines in the incidence of IPD 
+and DRSP among children and adults after introduction of PCV7 (5,6).
+ Although PCV7 has been recommended for use in children since 2000, 
+recommendations for use of the 23-valent pneumococcal polysaccharide 
+vaccine for adults aged >65 years and for older children and adults with 
+underlying illnesses were updated in 1997 (7). Cases of 
+susceptible IPD among persons aged >5 years are not nationally 
+notifiable.  States are encouraged to evaluate their own pneumococcal disease 
+surveillance programs (8). CSTE also has recommended that 
+technology for pneumococcal serotyping using polymerase chain reaction 
+(PCR) (9) should be shared with state public health laboratories 
+to improve surveillance for vaccine- and nonvaccine-preventable IPD 
+among children aged <5 years (4). PCR is used by the majority of 
+state public health laboratories to detect a variety of infectious 
+diseases; therefore, this technology should allow most, if not all, 
+state health departments to enhance surveillance for vaccine-preventable 
+IPD. With better data, public health officials will be able to assess 
+the burden of vaccine-preventable IPD and to evaluate current PCV7 
+immunization  programs.   In  2006,  primary  and  secondary  (P&S)  syphilis  cases
+reported to CDC 
+increased for the sixth consecutive year (1). During 2005--2006, 
+the number of P&S syphilis cases reported to CDC increased 11.8%. 
+Overall increases in rates during 2001--2006 were observed primarily 
+among men (2). However, after decreasing during 2001--2004, the 
+rate of primary and secondary syphilis among women increased, from 0.8 
+cases per 100,000 population in 2004 to 1.0 cases per 100,000 population 
+in 2006. During 2005--2006, P&S syphilis increased among persons of all 
+races and ethnicities.
+ In 2005, CDC requested that all state health departments report the 
+sex of partners of persons with syphilis. In 2006, of all P&S syphilis 
+cases reported from the 30 areas (29 states and Washington, D.C.) for 
+which complete data were available, 64% occurred among men who have sex 
+with men (3).
+ Although the majority of cases of syphilis in the United States occur 
+among men who have sex with men, recent increases in the number of cases 
+reported among women suggest that heterosexually transmitted syphilis 
+might be an emerging problem. In collaboration with partners throughout 
+the United States, CDC updated the Syphilis Elimination Plan for 
+2005--2010 and is now working to implement it (4). Collaboration 
+with multiple organizations, public health professionals, the private 
+medical community, and other partners is essential for the successful 
+elimination of syphilis in the United States.
+ In 2006, incidence of reported tetanus and case fatality continued to 
+be low. No neonatal cases were reported. The majority of cases occurred 
+among persons aged 25--59 years and those aged >60 years. Mortality from 
+tetanus was associated with diabetes, intravenous drug use, and advanced 
+age, especially in the setting of unknown vaccination status.
+Typhoid Fever  Despite recommendations that travelers to countries in which typhoid
+fever is endemic should be vaccinated with either of two effective 
+vaccines available in the United States, approximately three fourths of 
+all cases occur among persons who reported international travel during 
+the preceding month and were not immunized. Persons visiting South Asia 
+appear to be at particular risk, even during short visits (1). 
+Salmonella Typhi strains with decreased susceptibility to 
+ciprofloxacin are increasingly frequent in that region and might require 
+treatment with alternative antimicrobial agents (2,3). Although 
+the number of 
+S. Typhi infections is decreasing, the number of illnesses attributed to
+S. Paratyphi A infection is increasing. In a cross-sectional 
+laboratory-based surveillance study conducted by CDC, 80% of patients 
+with paratyphoid fever acquired their infections in South Asia, and 75% 
+were infected with nalidixic acid-resistant strains. A vaccine for 
+paratyphoid fever is needed (4).
+ Since implementation of the varicella vaccine program in 1995, 
+varicella morbidity and mortality have declined substantially. During 
+1995--2006, the number of cases declined 85%, the number of 
+hospitalizations declined 85%, and the number of deaths declined 82% (1). 
+In 2006, the Advisory Committee on Immunization Practices (ACIP) updated 
+recommendations for varicella vaccination to include a second dose for 
+children and catch-up vaccination for persons without evidence of 
+immunity (2). With this new recommendation, case-based and 
+outbreak surveillance for varicella will become increasingly important. 
+In 2006, a total of 33 states and the District of Columbia reported 
+varicella data through the National Notifiable Diseases Surveillance 
+System (NNDSS): 23 (70%) sites reported case-based data and 10 (30%) 
+reported aggregate data. An additional 12 states conducted either 
+statewide or sentinel case-based varicella surveillance but did not 
+report these data through NNDSS. Although varicella was not a notifiable 
+disease in Indiana in 2006, a total of 910 cases were reported.      
+Selected  Reading   General   Adekoya  N.  Nationally  notifiable  disease  surveillance
+(NNDSS) and the
+Healthy People 2010 objectives. The eJournal of the South 
+Carolina Medical Association 2005;101:e68--72. Available at 
+http://www.scmanet.org/Downloads/e-Journal/2005/SCMA_eJournal_March05.pdf.
+ Baker MG, Fidler DP. Global public health surveillance under new 
+international  health  regulations.  Emerg  Infect  Dis  2006;12:1058--65.   Bayer  R,
+Fairchild AL. Public health: surveillance and privacy. 
+Science 2000;290:1898--9.
+ CDC. Racial disparities in nationally notifiable diseases---United 
+States, 2002. MMWR 2005;54:9--11. 
+ CDC. Progress in improving state and local disease 
+surveillance---United States, 2000--2005. MMWR 2005;54:822--5.
+ CDC. Case definitions for infectious conditions under public health 
+surveillance. MMWR 1997;46(No. RR-10). Additional information available 
+at 
+http://www.cdc.gov/epo/dphsi/casedef/index.htm.
+ CDC. Demographic differences in notifiable infectious disease 
+morbidity---United States, 1992--1994. MMWR 1997;46:637--41.
+ CDC. Framework for evaluating public health surveillance systems for 
+early detection of outbreaks; recommendations from the CDC working 
+group. MMWR 2004;53(No. RR-5).  CDC. Framework for program evaluation in public
+health. MMWR 
+1999;48(No. RR-11).
+ CDC. Historical perspectives: notifiable disease surveillance and 
+notifiable disease statistics---United States, June 1946 and June 1996. 
+MMWR  1996;45:530--6.   CDC.  Manual  of  procedures  for  the  reporting  of  nationally
+notifiable 
+diseases to CDC. Atlanta, GA: US Department of Health and Human 
+Services,  Public  Health  Service,  CDC;  1995.   CDC.  Manual  for  the  surveillance  of
+vaccine-preventable diseases. 3rd 
+ed. Atlanta, GA: US Department of Health and Human Services, Public 
+Health Service, CDC; 2002. Available at 
+http://www.cdc.gov/nip/publications/surv-manual.
+ CDC. National Electronic Disease Surveillance System (NEDSS): a 
+standards-based approach to connect public health and clinical medicine. 
+J  Public  Health  Management  and  Practice  2001;7:43--50.   CDC.  Public  Health
+Information Network (PHIN): overview. Atlanta, GA: 
+US Department of Health and Human Services, CDC; 2006. Available at 
+http://www.cdc.gov/phin/index.html.
+ CDC. Reporting race and ethnicity data---National Electronic 
+Telecommunications System for Surveillance, 1994--1997. MMWR 
+1999;48:305--12.
+ CDC. Sexually transmitted disease surveillance, 2006. Atlanta, GA: US 
+Department of Health and Human Services, CDC; 2007.
+ CDC. Sexually transmitted diseases treatment guidelines, 2006. MMWR 
+2006;55(No. RR-11).
+ CDC. Ten leading nationally notifiable infectious diseases---United 
+States, 1995. MMWR 1996;45:883--4.
+ CDC. Updated guidelines for evaluating public health surveillance 
+systems: recommendations from the Guidelines Working Group. MMWR 
+2001;50(No.  RR-13).   CDC.  Use  of  race  and  ethnicity  in  public  health  surveillance:
+summary 
+of the CDC/ATSDR workshop. MMWR 1993;42(No. RR-10).
+ Chang M-H, Glynn MK, Groseclose SL. Endemic, notifiable 
+bioterrorism-related diseases, United States, 1992--1999. Emerg Infect 
+Dis 2003;9:556--64.
+ Chin JE, ed. Control of communicable diseases manual. 17th ed. 
+Washington, DC: American Public Health Association; 2000.
+ Doyle TJ, Glynn MK, Groseclose SL. Completeness of notifiable 
+infectious disease reporting in the United States: an analytical 
+literature review. Am J Epidemiol 2002;155:866--74.  Effler P, Ching-Lee M, Bogard A,
+Ieong M-C, Nekomoto T, Jernigan D. 
+Statewide system of electronic notifiable disease reporting from 
+clinical laboratories: comparing automated reporting with conventional 
+methods. JAMA 1999;282:1845--50.
+ Freimuth V, Linnan HW, Potter P. Communicating the threat of emerging 
+infections to the public. Emerg Infect Dis 2000;6:337--47.
+ German R. Sensitivity and predictive value positive measurements for 
+public health surveillance systems. Epidemiology 2000;11:720--7.
+ Government Accountability Office. Emerging infectious diseases: 
+review of state and federal disease surveillance efforts. Washington, 
+DC: Government Accountability Office; 2004. GAO-04-877. Available at 
+http://www.gao.gov/new.items/d04877.pdf.
+ Hopkins RS. Design and operation of state and local infectious 
+disease surveillance systems. J Public Health Management Practice 
+2005;11:184--90.
+ Jajosky RA, Groseclose SL. Evaluation of reporting timeliness of 
+public health surveillance systems for infectious diseases. BMC Public 
+Health 2004;4:29.
+ Klompas M, Lazarus R, Daniel J. Electronic medical record support for 
+public health (ESP): automated detection and reporting of statutory 
+notifiable diseases to public health authorities. Advances in Disease 
+Surveillance 2007;3:1--5.
+ Koo D, Caldwell B. The role of providers and health plans in 
+infectious disease surveillance. Eff Clin Pract 1999;2:247--52. 
+Available at 
+http://www.acponline.org/journals/ecp/sepoct99/koo.htm.
+ Koo D, Wetterhall S. History and current status of the National 
+Notifiable Diseases Surveillance System. J Public Health Management 
+Practice 1996;2:4--10.  Krause G, Brodhun B, Altmann D, Claus H, Benzler J. Reliability
+of 
+case definitions for public health surveillance assessed by round-robin 
+test methodology. BMC Public Health 2006;6:129.  Lin SS, Kelsey JL. Use of race and
+ethnicity in epidemiologic 
+research: concepts, methodological issues, and suggestions for research. 
+Epidemiol Rev 2000;22:187--202.  Martin SM, Bean NH. Data management issues for
+emerging diseases and 
+new tools for managing surveillance and laboratory data. Emerg Infect 
+Dis 1995;1:124--8.  McNabb S, Chungong S, Ryan M, et al. Conceptual framework of
+public 
+health surveillance and action and its application in health sector 
+reform. BMC Public Health 2002;2:2.  McNabb S, Surdo A, Redmond A, et al. Applying
+a new conceptual 
+framework to evaluate tuberculosis surveillance and action performance 
+and measure the costs, Hillsborough County, Florida, 2002. Ann Epidemiol 
+2004;14:640--5.
+ McNabb SJN, Koo D, Pinner RW, Seligman JD. Informatics and public 
+health at CDC. MMWR 2006;55(Suppl 2): 25--8.  Nolte KB, Lathrop SL, Nashelsky MB,
+et al RE. "Med-X": a medical 
+examiner surveillance model for bioterrorism and infectious disease 
+mortality. Human Pathol 2007;38:718--25.  Niskar AS, Koo D. Differences in notifiable
+infectious disease 
+morbidity among adult women---United States, 1992--1994. J Womens Health 
+1998;7:451--8.  Panackal AA, M'ikanatha NM, Tsui FC, et al. Automatic electronic 
+laboratory-based reporting of notifiable infectious diseases at a large 
+health system. Emerg Infect Dis 2002;8:685--91.  Pinner RW, Koo D, Berkelman RL.
+Surveillance of infectious diseases. 
+In: Lederberg J, Alexander M, Bloom RB, eds. Encyclopedia of 
+microbiology. 2nd ed. San Diego, CA: Academic Press; 2000.  Pinner RW, Jernigan DB,
+Sutliff SM. Electronic laboratory-based 
+reporting for public health. Mil Med 2000;165(Suppl 2):20--4.
+ Roush S, Birkhead G, Koo D, Cobb A, Fleming D. Mandatory reporting of 
+diseases and conditions by health care professionals and laboratories. 
+JAMA 1999;282:164--70.  Roush S, Murphy T. Historical comparisons of morbidity and
+mortality 
+for vaccine-preventable diseases in the United States. JAMA 
+2007;298:2155--63.
+ Silk, BJ, Berkelman RL. A review of strategies for enhancing the 
+completeness of notifiable disease reporting. J Public Health Manag 
+Prace  2005;11:191--200.   Teutsch  SM,  Churchill  RE,  eds.  Principles  and  practice  of
+public 
+health surveillance. 2nd ed. New York, NY: Oxford University Press; 
+2000.  Thacker SB, Choi K, Brachman PS. The surveillance of infectious 
+diseases.  JAMA  1983;249:1181--5.   Vogt  RL,  Spittle  R,  Cronquist  A,  Patnaik  JL.
+Evaluation of the 
+timeliness and completeness of a web-based notifiable disease reporting 
+system by a local health department. J Public Health Manag Pract 
+2006;12:540--4.   AIDS   CDC.  HIV/AIDS  surveillance  report,  2005.  Atlanta,  GA:  US
+Department 
+of Health and Human Services, CDC; 2006. Available at 
+http://www.cdc.gov/hiv/stats/hasrlink.htm.
+ CDC. Guidelines for national human immunodeficiency virus case 
+surveillance, including monitoring for human immunodeficiency virus 
+infection and acquired immunodeficiency syndrome. MMWR 1999;48(No. 
+RR-13).  Nakashima AK, Fleming PL. HIV/AIDS surveillance in the United States, 
+1981--2001. J Acquir Immune Defic Syndr 2003;32:68--85.
+ Anthrax  Bales ME, Dannenberg AL, Brachman PS, Kaufmann AF, Klatsky PC, 
+Ashford DA. Epidemiologic response to anthrax outbreaks: field 
+investigations, 1950--2001. Emerg Infect Dis 2002;8:1163--74.
+ Bravata DM, Holty JE, Wang E, et al. Inhalational, gastrointestinal, 
+and cutaneous anthrax in children: a systematic review of cases: 1900 to 
+2005. Arch Pediatr Adolesc Med 2007;161:896--905.
+ CDC. Use of anthrax vaccine in response to terrorism: supplemental 
+recommendations of the Advisory Committee on Immunization Practices. 
+MMWR  2002;51:1024--6.   Holty  JE,  Bravata  DM,  Liu  H,  Olshen  RA,  McDonald  KM,
+Owens DK. 
+Systematic review: a century of inhalational anthrax cases from 1900 to 
+2005.  Ann  Intern  Med  2006;144:270--80.   Hugh-Jones  M.  1996--97  Global  anthrax
+report. J Appl Microbiol 
+1999;87:189--91.
+ Botulism  Angulo FJ, St. Louis ME. Botulism. In: Evans AS, Brachman PS, eds. 
+Bacterial infections of humans. New York, NY: Plenum; 1998:131--53.
+ CDC. Infant botulism---New York City, 2001--2002. MMWR 2003;52:21--4.
+ Shapiro RL, Hatheway C, Becher J, Swerdlow DL. Botulism surveillance 
+and emergency response: a public health strategy for a global challenge. 
+JAMA 1997;278:433--5.  Shapiro RL, Hatheway C, Swerdlow DL. Botulism in the United
+States: a 
+clinical and epidemiologic review. Ann Intern Med 1998;129:221--8.
+ Sobel J, Tucker N, McLaughlin J, Maslanka S. Foodborne botulism in 
+the United States, 1999--2000. Emerg Infect Dis 2004;10:1606--12.  Sobel J. Botulism.
+Clin  Infect  Dis  2005;41;1167--73.   Brucellosis   CDC.  Brucellosis  (Brucella  melitensis,
+abortus, suis, and 
+canis). Atlanta, GA: US Department of Health and Human Services, 
+CDC; 2005. Available at 
+http://www.cdc.gov/ncidod/dbmd/diseaseinfo/brucellosis_g.htm.
+ CDC. Brucellosis case definition. Atlanta, GA: US Department of 
+Health and Human Services, CDC; 2001. Available at 
+http://www.bt.cdc.gov/Agent/Brucellosis/CaseDef.asp.
+ CDC. Human exposure to Brucella abortus strain RB51---Kansas, 
+1997. MMWR 1998;47:172--5. 
+ Stevens, MG, Olsen SC, Palmer MV, Cheville NF. US Department of 
+Agriculture, Agricultural Research Service National Animal Disease 
+Center, Iowa State University. Brucella abortus strain RB51: a 
+new brucellosis vaccine for cattle. Compendium 1997;19:766--74. 
+ Yagupsky P, Baron EJ. Laboratory exposures to 
+Brucellae and implications for bioterrorism. Emerg Infect Dis 
+2005;11:1180--5.
+ Chomel BB, DeBess EE, Mangiamele DM, et al. Changing trends in the 
+epidemiology of human brucellosis in California from 1973 to 1992: a 
+shift toward foodborne transmission. J Infect Dis 1994;170:1216--23.
+ Chancroid  DiCarlo RP, Armentor BS, Martin DH. Chancroid epidemiology in New 
+Orleans men. J Infect Dis 1995;172:446--52.
+ Mertz KJ, Weiss JB, Webb RM, et al. An investigation of genital 
+ulcers in Jackson, Mississippi, with use of a multiplex polymerase chain 
+reaction assay: high prevalence of chancroid and human immunodeficiency 
+virus infection. J Infect Dis 1998;178:1060--6.
+ Mertz KJ, Trees D, Levine WC, et al. Etiology of genital ulcers and 
+prevalence of human immunodeficiency virus coinfection in 10 US cities. 
+The Genital Ulcer Disease Surveillance Group. J Infect Dis 
+1998;178:1795--8.   Chlamydia  trachomatis,  Genital  Infection   CDC.  Sexually
+transmitted disease surveillance 2006 supplement: 
+Chlamydia Prevalence Monitoring Project, annual report 2006. Atlanta, 
+GA: US Department of Health and Human Services, CDC. In press.
+ Gaydos CA, Howell MR, Pare B, et al. Chlamydia trachomatis 
+infections in female military recruits. N Engl J Med 1998;339:739--44.
+ Datta SP, Sternberg M, Johnson RE, et al. Gonnorhea and chlamydia in 
+the United States among persons 14 to 39 years of age, 1999 to 2002. Ann 
+Intern Med 2007;147:89--96.  Miller WC, Ford CA, Handcock MS, et al. Prevalence of
+chlamydial and 
+gonococcal infections among young adults in the United States. JAMA 
+2004;291:2229--36.  Cholera  Steinberg EB, Greene KD, Bopp CA, Cameron DN, Wells
+JG, Mintz ED. 
+Cholera in the United States, 1995--2000: trends at the end of the 
+twentieth century. J Infect Dis 2001;184:799--802.  Brunkard JM, et al. Cholera, crabs,
+and Katrina: is cholera 
+increasing in southern Louisiana [Abstract]. Presented at the meeting of 
+the Infectious Disease Society of America; October 4--7, 2007; San 
+Diego, California.  World Health Organization. Cholera, 2006. Wkly Epi Rec 
+2007;82:273--84.
+ Gaffga NH, Tauxe RV, Mintz ED. Cholera: a new homeland in Africa. Am 
+J Trop Med Hyg 2007;77:705--13.
+ Coccidioidomycosis  Park BJ, Sigel K, Vaz V, et al. An epidemic of coccidioidomycosis
+in 
+Arizona associated with climatic changes, 1998--2001. J Infect Dis 
+2005;191:1981--7.
+ Cryptosporidiosis  Yoder JS, Beach MJ. Cryptosporidiosis surveillance---United States, 
+2003--2005. In: Surveillance Summaries, September 7, 2007. MMWR 
+2007;56(No.  SS-7):1--10.   Dziuban  EJ,  Liang  JL,  Craun  GF,  et  al.  Surveillance  for
+waterborne 
+disease and outbreaks associated with recreational water---United 
+States, 2003--2004. In: Surveillance Summaries, December 22, 2006. MMWR 
+2006;55(No. SS-12):1--30.
+ Roy SL, DeLong SM, Stenzel S, et al. Risk factors for sporadic 
+cryptosporidiosis among immunocompetent persons in the United States 
+from 1999 to 2001. J Clin Microbiol 2004;42:2944--51.  CDC. Diagnostic procedures
+for stool specimens. Atlanta, GA: US 
+Department of Health and Human Services, CDC; 2007. Available at 
+http://www.dpd.cdc.gov/dpdx/HTML/DiagnosticProcedures.htm.
+ Cyclosporiasis  Herwaldt BL. The ongoing saga of U.S. outbreaks of cyclosporiasis 
+associated with imported fresh produce: what
+Cyclospora cayetanensis has taught us and what we have yet to 
+learn. In: Institute of Medicine. Addressing foodborne threats to 
+health: policies, practices, and global coordination. Washington, DC: 
+The National Academies Press; 2006:85--115, 133--40. Available at 
+http://newton.nap.edu/catalog/11745.html#toc.
+ Herwaldt BL. Cyclospora cayetanensis: a review, focusing on 
+the outbreaks of cyclosporiasis in the 1990s. Clin Infect Dis 
+2000;31:1040--57.
+ Diphtheria  Dewinter LM, Bernard KA, Romney MG. Human clinical isolates of 
+Corynebacterium diphtheriae
+and Corynebacterium ulcerans collected in Canada from 1999 to 
+2003 but not fitting reporting criteria for cases of diphtheria. Clin 
+Microbiol 2005;43:3447--9.
+ Domestic Arboviral Diseases, Neuroinvasive and Nonneuroinvasive
+ CDC. Revision of guidelines for surveillance, prevention, and control 
+of West Nile virus infection. MMWR 2003;52:797.
+ CDC. West Nile virus activity---United States, January 1--December 1, 
+2005. MMWR 2005;54:1253--6. 
+ Hayes EB, Komar N, Nasci RS, et al. Epidemiology and transmission 
+dynamics of West Nile virus disease. Emerg Infect Dis 2005;11:1167--73.
+ CDC. Eastern equine encephalitis---New Hampshire and Massachusetts, 
+August--September 2005. MMWR 2006;55:697--700.
+ Ehrlichiosis  (Human  Granulocytic  and  Human  Monocytic)   Dumler  JS,  Madigan  JE,
+Pusterla N, and Bakken JS. Ehrlichioses in 
+humans: epidemiology, clinical presentation, diagnosis, and treatment. 
+Clin  Iinfect  Dis  2007;45:45--51.   CDC.  Diagnosis  and  management  of  tickborne
+rickettsial diseases: 
+Rocky Mountain spotted fever, ehrlichioses, and anaplasmosis---United 
+States. MMWR 2006;55(No. RR-4).  Demma LJ, Holman RC, McQuiston JH, Krebs JW,
+Swerdlow DL. 
+Epidemiology of human ehrlichiosis and anaplasmosis in the United 
+States,  2001--2002.  Am  J  Trop  Med  Hyg  2005;73:400--09.   Paddock  CD,  Childs  JE.
+Ehrlichia chaffeensis: a prototypical 
+emerging pathogen [Review]. J Clin Microbiol 2003;16:37--64.
+ Giardiasis  Yoder JS, Beach MJ. Giardiasis surveillance---United States, 
+2003--2005. In: Surveillance Summaries, September 7, 2007. MMWR 
+2007;56(No.  SS-7):11--8.   Liang  JL,  Dziuban  EJ,  Craun  GF,  et  al.  Surveillance  for
+waterborne 
+disease and outbreaks associated with drinking water and water not 
+intended for drinking---United States, 2003--2004. In: Surveillance 
+Summaries, December 22, 2006. MMWR 2006;55(No. SS-12):31--65.
+ Stuart JM, Orr HJ, Warburton FG, et al. Risk factors for sporadic 
+giardiasis: a case-control study in southwestern England. Emerg Infect 
+Dis 2003;9:229--33.  CDC. Diagnostic procedures for stool specimens. Atlanta, GA: US
+Department of Health and Human Services, CDC; 2007. Available at 
+http://www.dpd.cdc.gov/dpdx/HTML/DiagnosticProcedures.htm.
+ Gonorrhea  CDC. Update to CDC's sexually transmitted diseases guidelines, 2006: 
+fleuroquinolones no longer recommended for treatment of gonococcal 
+infections.. MMWR 2007;56:332--6.
+ CDC. Sexually transmitted diseases treatment guidelines, 2006. MMWR 
+2006;55(No. RR-11).
+ CDC. Sexually transmitted diseases surveillance 2006 supplement: 
+Gonococcal Isolate Surveillance Project (GISP) annual report 2006. 
+Atlanta, GA: US Department of Health and Human Services, CDC. In press.
+ Haemophilus  influenzae,  Invasive  Disease   CDC.  Progress  toward  elimination  of
+Haemophilus influenzae 
+type b disease among infants and children---United States, 1998--2000. 
+MMWR 2002;51:234--7.
+ Fry AM, Lurie P, Gidley M, Schmink S, Lingappa J, Rosenstein NE. 
+Haemophilus influenzae type b (Hib) disease among Amish children in 
+Pennsylvania: reasons for persistent disease. Pediatrics 2001;108:1--6.
+ Dworkin MS, Park L, Borchardt SM. The changing epidemiology of 
+invasive 
+Haemophilus influenzae disease, especially in persons >65 years 
+old. Clin Infect Dis 2007;44:810--6.
+ McVernon J, Trotter CL, Slack MPE, et al. Trends in type b infections 
+in adults in England and Wales: surveillance study. BMJ 2004;329:655--8.
+ Flannery B, Heffernan RT, Harrison LH, et al. Changes in invasive 
+pneumococcal disease among HIV-infected adults living in the era of 
+childhood pneumococcal immunization. Ann Intern Med 2006;144:1--9.
+ Hansen
+ Disease
+ (Leprosy)
+ 
+ Britton
+ WJ,
+ Lockwood
+ NJ.
+ Leprosy.
+ Lancet
+2004;363:1209--19.
+ Hartzell JD, Zapor M, Peng S, Straight T. Leprosy: a case series and 
+review. South Med J 2004;97:1252--6.
+ Hastings R, ed. Leprosy. 2nd ed. New York, NY: Churchill Livingstone; 
+1994.
+ Joyce MP, Scollard DM. Leprosy (Hansen's disease). In: Rakel RE, Bope 
+ET, eds. Conn's current therapy 2004: latest approved methods of 
+treatment for the practicing physician. 56th ed. Philadelphia, PA: 
+Saunders; 2004:100--5.
+ Ooi WW, Moschella SL. Update on leprosy in immigrants in the United 
+States: status in the year 2000. Clin Infect Dis 2001;32:930--7.
+ Bruce S, Schroeder TL, Ellner K, Rubin H, Williams T, Wolf JE Jr. 
+Armadillo exposure and Hansen's disease: an epidemiologic survey in 
+southern Texas. J Am Acad Dermatol 2000;43(2 Pt1):223--8.
+ Hantavirus Pulmonary Syndrome  CDC. Hantavirus pulmonary syndrome---five states,
+2006. MMWR 
+2006;55:627--9.
+ Hemolytic Uremic Syndrome, Postdiarrheal  Banatvala N, Griffin PM, Greene KED, et al.
+The United States 
+Prospective Hemolytic Uremic Syndrome Study; microbiologic, serologic, 
+clinical, and epidemiologic findings. J Infect Dis 2001;183:1063--70.
+ Mahon BE, Griffin PM, Mead PS, Tauxe RV. Hemolytic uremic syndrome 
+surveillance to monitor trends in infection with Escherichia coli 
+O157:H7 and other Shiga toxin-producing 
+E. coli [Letter]. Emerg Infect Dis 1997;3:409--12.
+ Hepatitis A  Armstrong GL, Bell BP. Hepatitis A virus infections in the United 
+States: model-based estimates and implications for childhood 
+immunization. Pediatrics 2002;109:839--45.
+ Bell BP, Kruszon-Moran D, Shapiro CN, Lambert SB, McQuillan GM, 
+Margolis HS. Hepatitis A virus infection in the United States: serologic 
+results from the Third National Health and Nutrition Examination Survey. 
+Vaccine 2005;23:5798--806.
+ CDC. Prevention of hepatitis A through active or passive 
+immunization: recommendations of the Advisory Committee on Immunization 
+Practices. MMWR 2006;55(No. RR-7). 
+ Wasley A, Samandari T, Bell BP. Incidence of hepatitis A in the 
+United States in the era of vaccination. JAMA 2005;294:194--201.
+ Wasley A, Fiore A, Bell BP. Hepatitis A in the era of vaccination. 
+Epidemiol Rev 2006;28:101--11.
+ CDC. Update: prevention of hepatitis after exposure to hepatitis a 
+virus and in international travelers: updated recommendations of the 
+Advisory Committee on Immunization Practices (ACIP). MMWR 
+2007;56;1080--4.
+ Hepatitis B  Armstrong GL, Mast EE, Wojczynski M, Margolis HS. Childhood hepatitis 
+B virus infections in the United States before hepatitis B immunization. 
+Pediatrics  2001;108:1123--8.   CDC.  Hepatitis  B  virus:  a  comprehensive  strategy  for
+eliminating 
+transmission in the United States through universal childhood 
+vaccination: recommendations of the Immunization Practices Advisory 
+Committee (ACIP). MMWR 1991;40(No. RR-13).
+ CDC. A comprehensive immunization strategy to eliminate transmission 
+of hepatitis B virus infection in the United States: recommendations of 
+the Advisory Committee on Immunization Practices (ACIP). Part 1: 
+immunization of infants, children, and adolescents. MMWR 2005;54(No. 
+RR-16).  CDC. A comprehensive strategy to eliminate transmission of hepatitis 
+B virus infection in the United States: recommendations of the Advisory 
+Committee on Immunization Practices (ACIP). Part II: immunization of 
+adults. MMWR 2006;55(No. RR-16).
+ Shepard CW, Simard EP, Finelli L, Fiore A, Bell BP. Hepatitis B virus 
+infection: epidemiology and vaccination. Epidemiol Rev 2006;28:112--25.
+ Goldstein ST, Alter MJ, Williams IT, et al. Incidence and risk 
+factors for acute hepatitis B in the United States, 1982--1998: 
+implications for vaccination programs. J Infect Dis 2002;185:713--9.  McQuillan GM,
+Coleman PJ, Kruszon-Moran D, Moyer LA, Lambert SB, 
+Margolis HS. Prevalence of hepatitis B virus infection in the United 
+States: The National Health and Nutrition Examination Surveys, 1976 
+through 1994. Am J Public Health 1999;89:14--8.
+ Hepatitis C  Armstrong GL, Wasley A, Simard EP, McQuillan GM, Kuhnert WL, Alter 
+MJ. The prevalence of hepatitis C virus infection in the United States, 
+1999  through  2002.  Ann  Intern  Med  2006;144:705--14.   Armstrong  GA,  Alter  MJ,
+McQuillan GM, Margolis HS. The past incidence 
+of hepatitis C virus infection: implications for the future burden of 
+chronic  liver  disease  in  the  United  States.  Hepatology  2000;31:777--82.   CDC.
+Recommendations for prevention and control of hepatitis C virus 
+(HCV) infection and HCV-related chronic disease. MMWR 1998;47(No. 
+RR-19).  Shepard CW, Finelli L, Alter MJ. The global epidemiology of hepatitis 
+C. Lancet Infect Dis 2005;5:558--67.
+ Influenza-Associated  Pediatric  Mortality   Bhat  N,  Wright  JG,  Broder  KR,  et  al.
+Influenza-associated deaths 
+among children in the United States, 2003--2004. N Engl J Med 
+2005;352:2559--67.
+ CDC. Update: Influenza-associated deaths reported among children aged 
+<18 years---United States, 2003--04 influenza season. MMWR 
+2004;52:1254--5.   CDC.  Update:  influenza-associated  deaths  reported  among
+children aged 
+<18 years---United States, 2003--04 influenza Season. MMWR 
+2004;52:1286--8.  CDC. Mid-year addition of influenza-associated pediatric mortality
+to 
+the list of nationally notifiable diseases, 2004. MMWR 2004;53:951--2.
+ CDC. Prevention and control of influenza: recommendations of the 
+Advisory Committee on Immunization Practices (ACIP). MMWR 2006;55(No. 
+RR-10).  Council of State and Territorial Epidemiologists. 
+Influenza-associated pediatric mortality 2004. Position statement 
+04-ID-04. Available at 
+http://www.cste.org/position%20statements/searchbyyear2004.asp.
+ Guarner J, Paddock CD, Shieh WJ, et al. Histopathologic and 
+immunohistochemical features of fatal influenza virus infection in 
+children during the 2003--2004 season. Clin Infect Dis 2006:43;132--40.  Legionellosis
+ Cowgill KD, Lucas CE, Benson RF, et al. Recurrence of legionnaires 
+disease at a hotel in the United States Virgin Islands over a 20-year 
+period. Clin Infect Dis 2005;40:1205--7.  Fields BS, Benson RF, Besser RE. Legionella
+and kegionnaires' 
+disease: 25 years of investigation. Clin Microbiol Rev 2002;15:506--26.
+ European Working Group on Legionella Infections. European 
+guidelines for control and prevention of travel associated legionnaires' 
+disease. London, UK: United Kingdom Health Protection Agency; 2005.
+ Joseph CA. Legionnaires' disease in Europe 2000--2002. Epidemiol 
+Infect 2004;132:417--24.
+ Marston BJ, Lipman HB, Breiman RF. Surveillance for legionnaires' 
+disease: risk factors for morbidity and mortality. Arch Intern Med 
+1994;154:2417--22.  Listeriosis  Gottlieb SL, Newbern EC, Griffin PM, et al. Multistate
+outbreak of 
+listeriosis linked to turkey deli meat and subsequent changes in US 
+regulatory policy. Clin Infect Dis 2006;42:29--36.  Mead PS, Dunne EF, Graves L, et al.
+Nationwide outbreak of 
+listeriosis due to contaminated meat. Epidemiol Infect 2006;134:744--51.
+ Mead PS, Slutsker L, Dietz V, et al. Food-related illness and death 
+in the United States. Emerg Infect Dis 1998;5:607--25.
+ Slutsker L, Schuchat A. Listeriosis in humans. In: Ryser ET Marth EH, 
+eds.
+Listeria, listeriosis, and food safety. 2nd ed. New York, NY: 
+Marcel Dekker, Inc.; Little, Brown and Company; 1999:75--95.  Tappero J, Schuchat A,
+Deaver K, Mascola L, Wenger J, for the 
+Listeriosis Study Group. Reduction in the incidence of human listeriosis 
+in the United States: effectiveness of prevention efforts. JAMA 
+1995;273:1118--22.  Lyme Disease  Stafford KC III. Tick management handbook: an
+integrated guide for 
+homeowners, pest control operators, and public health officials for the 
+prevention of tick-associated disease. New Haven, CT: Connecticut 
+Agricultural Experiment Station; 2004. Available at 
+http://www.cdc.gov/ncidod/dvbid/lyme/resources/handbook.pdf.
+ Hayes EB, Piesman J. How can we prevent Lyme disease? N Engl J Med 
+2003;348:2424--30.
+ Aguero-Rosenfeld ME, Wang G, Schwartz I, Wormser GP. Diagnosis of 
+Lyme borreliosis. Clin Microbiol Rev 2005;18:484--509.
+ Medical Letter. Treatment of Lyme disease. Med Lett Drugs Ther 
+2005;47:41--3.
+ CDC. Caution regarding testing for Lyme disease. MMWR 2005;54:125.
+ Malaria  Baird JK. Effectiveness of antimalarial drugs. N Engl J Med 
+2005;352:1565--77.
+ Chen LH, Keystone JS. New strategies for the prevention of malaria in 
+travelers. Infect Dis Clin N Amer 2005;19:185--210.
+ Guinovart C, Navia MM, Tanner M, et al. Malaria: burden of disease. 
+Curr Mol Med 2006;6:137--40.
+ Leder K, Black J, O'Brien D, et al. Malaria in travelers: a review of 
+the GeoSentinel Surveillance Network. Clin Infect Dis 2004;39:1104--12.
+ Skarbinski J, Eliades MJ, Causer LM, et al. Malaria 
+surveillance---United States, 2004. In: Surveillance Summaries, May 26, 
+2006. MMWR 2006;55(No. SS-4):23--37.
+ Measles  Papania M, Hinman A, Katz S, Orenstein W, McCauley M, eds. Progress 
+toward measles elimination---absence of measles as an endemic disease in 
+the United States. J Infect Dis 2004;189(Suppl 1):S1--257.
+ CDC. National, state, and local area vaccination coverage among 
+children aged 19--35 months---United States, 2006. MMWR 2007;56:880--5.
+ Rota PA, Liffick SL, Rota JS, et al. Molecular epidemiology of 
+measles viruses in the United States, 1997--2001. Emerg Infect Dis 
+2002;8:902--8.
+ De Serres G, Gay NJ, Farrington CP. Epidemiology of transmissible 
+diseases after elimination. Am J Epidemiol 2000;151:1039--48.
+ Meningococcal  Disease   CDC.  Prevention  and  control  of  meningococcal  disease:
+recommendations 
+of the Advisory Committee on Immunization Practices (ACIP). MMWR 
+2005;54(No. RR-7).
+ Rosenstein NE, Perkins BA, Stephens DS, et al. Meningococcal disease. 
+N Engl J Med 2001;344:1378--88.
+ Rosenstein NE, Perkins BA, Stephens DS, et al. The changing 
+epidemiology of meningococcal disease in the United States, 1992--1996. 
+J Infect Dis 1999;180:1894--901.
+ Mumps  CDC. Mumps epidemic---Iowa, 2006. MMWR 2006;55:366--8.
+ CDC. Update: multistate outbreak of mumps---United States, January 
+1--May 2, 2006. MMWR 2006;55:559--63.
+ CDC. Update: mumps activity---United States, January 1--October 7, 
+2006. MMWR 2006;55:1152--3.
+ CDC. Updated recommendations of the Advisory Committee on 
+Immunization Practices (ACIP) for the control and elimination of mumps. 
+MMWR 2006;55:629--30.
+ Harling R, White JM, Ramsay ME, et al. The effectiveness of the mumps 
+component of the MMR vaccine: a case control study. Vaccine 
+2005;23:4070--4.
+ Schaffzin JK, Pollock L, Schulte C, et al. Effectiveness of previous 
+mumps vaccination during a summer camp outbreak. Pediatrics 
+2007;120:e862--8.
+ Pertussis  Bisgard KM, Rhodes P, Connelly BL, et al. Pertussis vaccine 
+effectiveness among children 6 to 59 months of age in the United States, 
+1998--2001. Pediatrics 2005;116:e285--94.
+ Bisgard KM, Pascual FB, Ehresmann KR, et al. Infant pertussis: who 
+was the source? Pediatr Infect Dis J 2004;23:985--9.
+ CDC. Preventing tetanus, diphtheria, and pertussis among adolescents; 
+use of tetanus toxoid, reduced diphtheria toxoid and acellular pertussis 
+vaccines: recommendations of the Advisory Committee on Immunization 
+Practices (ACIP). MMWR 2006;55(No. RR-3).
+ CDC. Recommended antimicrobial agents for the treatment and 
+postexposure prophylaxis of pertussis: 2005 CDC guidelines. MMWR 
+2005;54(No. RR-14).
+ CDC. Pertussis---United States, 2001--2003. MMWR 2005;54:1283--6.
+ Lee GM, Lebaron C, Murphy TV, Lett S, Schauer S, Lieu TA. Pertussis 
+in adolescents and adults: should we vaccinate? Pediatrics 
+2005;115:1675--84.
+ CDC. Preventing tetanus, diphtheria, and pertussis among adults: use 
+of tetanus toxoid, reduced diphtheria toxoid and acellular pertussis 
+vaccine (Tdap): recommendations of the Advisory Committee on 
+Immunization Practices (ACIP) and recommendation of ACIP, supported by 
+the Healthcare Infection Control Practices Advisory Committee (HICPAC), 
+for use of Tdap among health-care personnel. MMWR 2006;55(No. RR-17).
+ Plague  CDC. Imported plague---New York City, 2002. MMWR 2003;53:725--8.
+ Enscore RE, Biggerstaff BJ, Brown TL, et al. Modeling relationships 
+between climate and the frequency of human plague cases in the 
+southwestern United States, 1960--1997. Am J Trop Med Hyg 
+2002;66:186--96.
+ Inglesby TV, Dennis DT, Henderson DA, et al. Plague as a biological 
+weapon: medical and public health management. Working Group on Civilian 
+Biodefense [Review]. JAMA 2000;283:2281--90.
+ Dennis DT, Gage KL, Gratz N, Poland JD, Tikhomirov E. Plague manual: 
+epidemiology, distribution, surveillance and control. Geneva, 
+Switzerland: World Health Organization; 1999.
+ Poliomyelitis  CDC. Poliovirus infections in four unvaccinated children---Minnesota, 
+August--October 2005. MMWR 2005; 54:1053--5.
+ Alexander LN, Seward JF, Santibanez TA, et al. Vaccine policy changes 
+and epidemiology of polio in the United States. JAMA 2004;292:1696--702.
+ CDC. Progress toward interruption of wild poliovirus 
+transmission---worldwide, January 2006--May 2007. MMWR 2007;56:682--5.
+ CDC. Laboratory surveillance for wild and vaccine-derived 
+polioviruses---worldwide, January 2006--June 2007. MMWR 2007;56:965--9.
+ CDC. Update on vaccine-derived polioviruses---worldwide, January 
+2006--August 2007. MMWR 2007;56:996--1001.
+ Q Fever  McQuiston JH, Holman RC, McCall CL, Childs JE, Swerdlow DL, Thompson 
+HA. National surveillance and the epidemiology of Q fever in the United 
+States, 1978--2004. Am J Trop Med Hyg 2006;75:36--40.
+ Mcquiston JH, Nargund VN, Miller JD, Priestly R, Shaw EI, Thompson 
+HA. Prevalence of antibodies to 
+Coxiella burnetii among veterinary school dairy herds in the 
+United States, 2003. Vector Borne Zoonotic Dis 2005;5:90--1.
+ Raoult D, Tissot-Dupont H, Foucault C, et al. Q fever 1985--1998. 
+Clinical and epidemiologic features of 1,383 infections [Review]. 
+Medicine 2000;79:109--25.
+ Bernard KW, Parham GL, Winkler WG, Helmick CG. Q fever control 
+measures: recommendations for research facilities using sheep. Infect 
+Control 1982;3:461--5.
+ Rabies,  Animal  and  Human   CDC.  Compendium  of  animal  rabies  prevention  and
+control, 2005: 
+National Association of State and Territorial Public Health 
+Veterinarians, Inc. MMWR 2005;54 (No. RR-3).
+ CDC. Human rabies prevention---United States, 1999: recommendations 
+of the Advisory Committee on Immunization Practices (ACIP). MMWR 
+1999;48(No. RR-1).
+ Blanton JD, Hanlon CA, Ruprrecht CE. Rabies surveillance in the 
+United States during 2006. J Am Vet Med Assoc 2007;231:540--56.
+ Rocky  Mountain  spotted  fever   CDC.  Diagnosis  and  management  of  tickborne
+rickettsial diseases: 
+Rocky Mountain spotted fever, ehrlichioses, and anaplasmosis---United 
+States. MMWR 2006;55 (No. RR-4). 
+ Chapman AS, Murphy SM, Demma LJ, et al. Rocky Mountain spotted fever 
+in the United States, 1997--2002. Vector Borne Zoonotic Dis 
+2006;6:170--8.
+ Demma LJ, Traeger MS, Nicholson WL, et al. Rocky Mountain spotted 
+fever from an unexpected tick reservoir in Arizona. N Engl J Med 
+2005;353:587--94.
+ CDC. Fatal cases of Rocky Mountain spotted fever in family 
+clusters---three states, 2003. MMWR 2004;53:407--10.
+ Thorner AR, Walker DH, Petri WA. Rocky Mountain spotted fever 
+[Review]. Clin Infect Dis 1998;27:1353--60.
+ Rubella  CDC. Control and prevention of rubella: evaluation and management of 
+suspected outbreaks, rubella in pregnant women, and surveillance for 
+congenital rubella syndrome. MMWR 2001;50(No. RR-12).
+ Reef S, Cochi S, eds. The evidence for the elimination of rubella and 
+congenital rubella syndrome in the United States: a public health 
+achievement. Clin Infect Dis 2006;43(Suppl 3):S123--68.
+ CDC. Achievements in public health: elimination of rubella and 
+congenital rubella syndrome---United States, 1969--2004. MMWR 
+2005;54:279--82. 
+ Salmonellosis  Braden CR. Salmonella enterica serotype Enteritidis and eggs: 
+a national epidemic in the United States. Clin Infect Dis 
+2006;43:512--7.  Olsen SJ, Bishop R, Brenner FW, et al. The changing epidemiology of
+Salmonella: trends in serotypes isolated from humans in the 
+United States, 1987--1997. J Infect Dis 2001;183:756--61.  Voetsch AC, Van Gilder TJ,
+Angulo FJ, et al. FoodNet estimate of 
+burden of illness caused by nontyphoidal
+Salmonella infections in the United States. Clin Infect Dis 
+2004;38(Suppl 3):S127--34.
+ Shiga Toxin-Producing Enterohemorrhagic Escherichia coli
+ Bender JB, Hedberg CW, Besser JM, et al. Surveillance for 
+Escherichia coli O157:H7 infections in Minnesota by molecular 
+subtyping.  N  Engl  J  Med  1997;337:388--94.   Brooks  JT,  Sowers  EG,  Wells  JB,  et  al.
+Non-O157 Shiga toxin-producing
+Escherichia coli infections in the United States, 1983--2002. J 
+Infect  Dis  2005;192:1422--9.   Crump  JA,  Sulka  AC,  Langer  AJ,  et  al.  An  outbreak  of
+Escherichia 
+coli O157:H7 among visitors to a dairy farm. N Engl J Med 
+2002;347:555--60.
+ Griffin PM, Mead PS, Sivapalasingam S. Escherichia coli 
+O157:H7 and other enterohemorrhagic E. coli. In: Blaser MJ, Smith 
+PD, Ravdin JI, Greenberg HB, Guerrant RL, eds. Infections of the 
+gastrointestinal tract. Philadelphia, PA: Lippincott Williams & Wilkins; 
+2002:627--42.
+ Mead PS, Griffin PM. Escherichia coli O157:H7. Lancet 
+1998;352:1207--12.
+ Shigellosis  Shane A, Crump J, Tucker N, Painter J, Mintz E. Sharing Shigella: 
+risk factors and costs of a multi-community outbreak of shigellosis. 
+Arch  Pediatr  Adolesc  Med  2003;157:601--3.   CDC.  Outbreaks  of  multidrug-resistant
+Shigella sonnei 
+gastroenteritis associated with day care centers---Kansas, Kentucky, and 
+Missouri, 2005. MMWR 2006;55: 1068--71.  Gupta A, Polyak CS, Bishop RD, Sobel J,
+Mintz ED. 
+Laboratory-confirmed shigellosis in the United States, 1989--2002: 
+epidemiologic trends and patterns. Clin Infect Dis 2004;38:1372--7.  Sivapalasingam
+S, Nelson JM, Joyce K, Hoekstra M, Angulo FJ, Mintz 
+ED. A high prevalence of antimicrobial resistance among
+Shigella isolates in the United States, 1999--2002. Antimicrob 
+Agents Chemother 2006;50:49--54.
+ Streptococcal Disease, Invasive, Group A  O'Loughlin RE, Roberson A, Cieslak PR, et
+al. The epidemiology of 
+invasive group A streptococcal infections and potential vaccine 
+implications, United States, 2000--2004. Clin Infect Dis 
+2007;45:853--62.  CDC. Active Bacterial Core Surveillance report. Emerging Infections
+Program Network. Group A Streptococcus, 2005. Atlanta, GA: US Department 
+of Health and Human Services, CDC; 2007. Available at 
+http://www.cdc.gov/ncidod/dbmd/abcs/survreports/gas05.pdf.
+ Jordan HT, Richards CL, Burton DC, Thigpen MC, Van Beneden CA. Group 
+A streptococcal disease in long-term care facilities: descriptive 
+epidemiology and potential control measures. Clin Infect Dis 
+2007;45:742--52.
+ CDC. Investigating clusters of group A streptococcal disease. 
+Atlanta, GA: US Department of Health and Human Services, CDC; 2005. 
+Available at 
+http://www.cdc.gov/strepAcalculator.
+ The Prevention of Invasive Group A Streptococcal Infections Workshop 
+participants. Prevention of invasive group A streptococcal disease among 
+household contacts of case patients and among postpartum and 
+postsurgical patients: recommendations from the Centers for Disease 
+Control and Prevention. Clin Infect Dis 2002;35:950--9.
+ Streptococcal Toxic-Shock Syndrome  Bisno AL. Brito MO. Collins CM. Molecular basis of
+group A 
+streptococcal virulence. Lancet Infect Dis 2003;3: 191--200.
+ O'Loughlin RE, Roberson A, Cieslak PR, et al. The epidemiology of 
+invasive group a streptococcal infections and potential vaccine 
+implications, United States, 2000--2004. Clin Infect Dis 
+2007;45:853--62.
+ Stevens DL. Streptococcal toxic shock syndrome associated with 
+necrotizing fasciitis. Annu Rev Med 2000;51: 271--88.
+ The Prevention of Invasive Group A Streptococcal Infections Workshop 
+participants. Prevention of invasive group A streptococcal disease among 
+household contacts of case patients and among postpartum and 
+postsurgical patients: recommendations from the Centers for Disease 
+Control and Prevention. Clin Infect Dis 2002;35:950--9.
+ Streptococcus pneumoniae, Invasive, Drug-Resistant  CDC. Preventing pneumococcal
+disease among infants and young 
+children: recommendations of the Advisory Committee on Immunization 
+Practices (ACIP). MMWR 2000;49(No. RR-9).
+ Clinical and Laboratory Standards Institute. Performance standards 
+for antimicrobial susceptibility testing: 15th informational supplement 
+[No. M100-S15]. Wayne, PA: National Committee for Clinical Laboratory 
+Standards; 2005.
+ Flannery B, Schrag S, Bennett NM, et al. Impact of childhood 
+vaccination on racial disparities in invasive 
+Streptococcus pneumoniae infections. JAMA 2004;291:2197--203.
+ Kyaw MH, Lynfield R, Schaffner W, et al. Effect of introduction of 
+the pneumococcal conjugate vaccine on drug-resistant 
+Streptococcus pneumoniae. N Engl J Med 2006;354:1455--63.
+ Poehling KA, Talbot TR, Griffin MR, et al. Invasive pneumococcal 
+disease among infants before and after introduction of pneumococcal 
+conjugate vaccine. JAMA 2006;295:1668--74.
+ Ray GT, Whitney CG, Fireman BH, Ciuryla V, Black SB. 
+Cost-effectiveness of pneumococcal conjugate vaccine: evidence from the 
+first 5 years of use in the United States incorporating herd effects. 
+Pediatr Infect Dis J 2006;25:494--501.
+ Syphilis,  Congenital   CDC.  Congenital  syphilis---United  States,  2002.  MMWR
+2004;53:716--9.
+ Syphilis, Primary and Secondary  CDC. The national plan to eliminate syphilis from the
+United States. 
+Atlanta, GA: US Department of Health and Human Services, CDC; 1999.
+ CDC. The national plan to eliminate syphilis from the United States. 
+Atlanta, GA: US Department of Health and Human Services, CDC; 2006.
+ CDC Sexually transmitted disease surveillance supplement 2006; 
+syphilis surveillance report. Atlanta, GA: US Department of Health and 
+Human Services, CDC. In press.
+ Tetanus  Pascual FB, McGinley EL, Zanardi LR, Cortese MM, Murphy TV. Tetanus 
+surveillance---United States, 1998--2000. In: Surveillance Summaries, 
+June 20, 2003. MMWR 2003;52(No. SS-3).  CDC. Tetanus---Puerto Rico, 2002. MMWR
+2002;51:613--5.  McQuillan GM, Kruszon-Moran D, Deforest A, Chu SY, Wharton M. 
+Serologic immunity to diphtheria and tetanus in the United States. Ann 
+Intern  Med  2002;136:660--6.   CDC.  Preventing  tetanus,  diphtheria,  and  pertussis
+among adults: use 
+of tetanus toxoid, reduced diphtheria toxoid and acellular pertussis 
+vaccine: recommendations of the Advisory Committee on Immunization 
+Practices (ACIP) and Recommendation of ACIP, supported by the Healthcare 
+Infection Control Practices Advisory Committee (HICPAC), for use of Tdap 
+among health-care personnel. MMWR 2006;55(No. RR-17).  Pascual FB, McGinley EL,
+Zanardi LR, Cortese MM, Murphy TV. Tetanus 
+surveillance---United States, 1998--2000. In: Surveillance Summaries, 
+June 20, 2003. MMWR 2003;52(No. SS-3).  McQuillan GM, Kruszon-Moran D, Deforest
+A, Chu SY, Wharton M. 
+Serologic immunity to diphtheria and tetanus in the United States. Ann 
+Intern Med 2002;136:660--6.  Trichinellosis  CDC. Trichinellosis associated with bear
+meat---New York and 
+Tennessee, 2003. MMWR 2004;53:606--10.
+ Roy SL, Lopez AS, Schantz PM. Trichinellosis surveillance---United 
+States, 1997--2001. In: Surveillance Summaries, July 25, 2003. MMWR 
+2003;52(No. SS-6).  Moorhead A, Grunenwald PE, Dietz VJ, Schantz PM. Trichinellosis
+in 
+the United States, 1991--1996: declining but not gone. Am J Trop Med Hyg 
+1999;60:66--9.  CDC. Outbreak of trichinellosis associated with eating cougar 
+jerky---Idaho, 1995. MMWR 1996;45:205--6.
+ Tuberculosis  CDC. Reported tuberculosis in the United States, 2003. Atlanta, GA: 
+US Department of Health and Human Services, CDC; 2004. Available at 
+http://www.cdc.gov/tb/default.htm.
+ CDC. Trends in tuberculosis---United States, 2004. MMWR 
+2005;54:245--9.
+ Saraiya M, Cookson ST, Tribble P, et al. Tuberculosis screening among 
+foreign-born persons applying for permanent US residence. Am J Public 
+Health 2002;92:826--9.
+ Talbot EA, Moore M, McCray E, Binkin NJ. Tuberculosis among 
+foreign-born persons in the United States, 1993--1998. JAMA 
+2000;284:2894--900.
+ Tularemia  CDC. Outbreak of tularemia among commercially distributed prairie 
+dogs, 2002. MMWR 2002;51:688, 699.
+ CDC. Tularemia---United States, 1990--2000. MMWR 2002;51:182--4.
+ Dennis DT, Inglesby TV, Henderson DA, et al. Tularemia as a 
+biological weapon: medical and public health management. JAMA 
+2001;285:2763--73.
+ Feldman KA, Enscore RE, Lathrop SL, et al. Outbreak of primary 
+pneumonic tularemia on Martha's Vineyard. N Engl J Med 
+2001;345:1219--26.
+ Petersen JM, Schriefer ME. Tularemia: emergence/ re-emergence. Vet 
+Res 2005;36:455--67.
+ Typhoid Fever  Crump J, Barrett TJ, Nelson JT, Angulo FJ. Reevaluating 
+fluoroquinolone breakpoints for 
+Salmonella enterica serotype Typhi and for non-Typhi 
+Salmonellae. Clin Infect Dis 2003;37:75--81.
+ Kubota K, Barrett TJ, Hunter S et al. Analysis of 
+Salmonella serotype Typhi pulsed-field gel electrophoresis patterns 
+associated with international travel. J Clin Micro 2005;43:1205--9.
+ Olsen SJ, Bleasdale SC, Magnano AR, et al. Outbreaks of typhoid fever 
+in the United States, 1960--1999. Epidemiol Infect 2003;130:13--21.
+ Reller M, Olsen S, Kressel A. Sexual transmission of typhoid fever: a 
+multi-state outbreak among men who have sex with men. Clin Infect Dis 
+2003;37:141--4.
+ Steinberg EB, Bishop RB, Dempsey AF, et al. Typhoid fever in 
+travelers: who should be targeted for prevention? Clin Infect Dis 
+2004;39:186--91.
+ Varicella  CDC. Prevention of varicella: recommendations of the Advisory 
+Committee on Immunization Practices (ACIP). MMWR 2007;56(No. RR-4).
+ Seward JF, Zhang JX, Maupin TJ, Mascola L, Jumaan AO. Contagiousness 
+of varicella in vaccinated cases: a household contact study. JAMA 
+2004;292:704-8.
+ CDC. Public health response to varicella outbreaks---United States, 
+2003--2004. MMWR 2006;55:993--5.
+ CDC. Varicella surveillance practices, United States, 2004. MMWR 
+2006;55:1126--9.
+ Vancomycin-Intermediate Staphylococcus aureus Infection 
+(VISA)/Vancomycin-Resistant 
+Staphylococcus  aureus  Infection  (VRSA)   Fridkin  SK,  Hageman  J,  McDougal  LK,  et  al.
+Vancomycin-Intermediate 
+Staphylococcus aureus Epidemiology Study Group. Epidemiological and 
+microbiological characterization of infections caused by 
+Staphylococcus aureus with reduced susceptibility to vancomycin, United 
+States, 1997--2001. Clin Infect Dis 2003;36:429--39.
+ Chang S, Sievert DM, Hageman JC, et al. Vancomycin-Resistant 
+Staphylococcus aureus Investigative Team. Infection with 
+vancomycin-resistant Staphylococcus aureus containing the vanA 
+resistance gene. N Engl J Med 2003;348:1342--7.
+ Whitener CJ, Park SY, Browne FA, et al. Vancomycin-resistant 
+Staphylococcus aureus in the absence of vancomycin exposure. Clin 
+Infect Dis 2004;38:1049--55.
+ Weigel LM, Clewell DB, Gill SR, et al. Genetic analysis of a 
+high-level vancomycin-resistant isolate of 
+Staphylococcus aureus. Science 2003;302:1569--71.
+ McDonald LC, Hageman JC. Vancomycin intermediate and resistant 
+Staphylococcus aureus: what the nephrologist needs to know. Nephrol News 
+Issues 2004;8:63--4, 66--7, 71--2. 
+ 
+Use of trade names and commercial sources is for 
+identification only and does not imply endorsement by the U.S. 
+Department of Health and Human Services.
+References to non-CDC sites on the Internet are provided as a 
+service to MMWR readers and do not constitute or imply 
+endorsement of these organizations or their programs by CDC or 
+the U.S. Department of Health and Human Services. CDC is not 
+responsible for the content of pages found at these sites. URL 
+addresses listed in MMWR were current as of the date of 
+publication.
+Disclaimer  
+All MMWR HTML versions of articles are electronic 
+conversions from ASCII text into HTML. This conversion may have resulted 
+in character translation or format errors in the HTML version. Users 
+should not rely on this HTML document, but are referred to the 
+electronic PDF version and/or the original MMWR paper copy for 
+the official text, figures, and tables. An original paper copy of this 
+issue can be obtained from the Superintendent of Documents, U.S. 
+Government Printing Office (GPO), Washington, DC 20402-9371; telephone: 
+(202) 512-1800. Contact GPO for current prices.**Questions 
+or messages regarding errors in formatting should be addressed to 
+mmwrq@cdc.gov.  Use of trade names and commercial sources is for 
+identification only and does not imply endorsement by the U.S. 
+Department of Health and Human Services.
+References to non-CDC sites on the Internet are provided as a 
+service to MMWR readers and do not constitute or imply 
+endorsement of these organizations or their programs by CDC or 
+the U.S. Department of Health and Human Services. CDC is not 
+responsible for the content of pages found at these sites. URL 
+addresses listed in MMWR were current as of the date of 
+publication. Disclaimer  
+All MMWR HTML versions of articles are electronic 
+conversions from ASCII text into HTML. This conversion may have resulted 
+in character translation or format errors in the HTML version. Users 
+should not rely on this HTML document, but are referred to the 
+electronic PDF version and/or the original MMWR paper copy for 
+the official text, figures, and tables. An original paper copy of this 
+issue can be obtained from the Superintendent of Documents, U.S. 
+Government Printing Office (GPO), Washington, DC 20402-9371; telephone: 
+(202) 512-1800. Contact GPO for current prices. Date 
+last reviewed: 2/6/2008
+ 
+    HOME  |  
+    ABOUT MMWR  | 
+    MMWR SEARCH  | 
+    DOWNLOADS  | 
+    RSS 
+    |  
+    CONTACT
+POLICY  |  
+    DISCLAIMER  |  
+    ACCESSIBILITY 
+Morbidity and Mortality Weekly Report
+                Centers for Disease Control and Prevention
+                1600 Clifton Rd, MailStop E-90, Atlanta, GA 
+                  30333, U.S.A 
+Department of Healthand Human Services 
+Source URL: https://www.cdc.gov/mmwr/preview/mmwrhtml/mm5553a1.htm

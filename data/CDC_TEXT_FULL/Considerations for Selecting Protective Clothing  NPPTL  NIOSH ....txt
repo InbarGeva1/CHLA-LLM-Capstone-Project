@@ -1,0 +1,651 @@
+Official websites use .gov A .gov website belongs to an official government organization
+in  the  United  States.  Secure  .gov  websites  use  HTTPS  A  lock  (   )  or  https://  means
+you've  safely  connected  to  the  .gov  website.  Share  sensitive  information  only  on
+official, secure websites. Healthcare workers can be exposed to biological fluids that are
+capable  of  transmitting  diseases.  Those  diseases,  which  are  caused  by  a  variety  of
+microorganisms such as, Hepatitis B virus (HBV), Hepatitis C virus (HCV), Ebola Virus,
+and Human Immunodeficiency Virus (HIV) can pose significant risks to life and health.
+Healthcare workers wear protective clothing (e.g., surgical gowns, isolation gowns, and
+coveralls) to protect both patients and themselves from the transfer of microorganisms
+by blood and body fluids. A common misunderstanding among many end users is that
+they  are  protected  from  blood,  body  fluids,  and  other  potentially  infectious  materials
+when  they  wear  any  type  of  fluid-resistant  garment.  This  document  provides  an
+overview of scientific evidence and information on national and international standards,
+test  methods,  and  specifications  for  fluid-resistant  and  impermeable  gowns  and
+coveralls  used  in  healthcare.  This  document  focuses  on  selecting  protective  clothing
+primarily  on  the  basis  of  their  barrier  properties;  it  does  not  address  all  aspects  of
+garments  related  to  their  design,  integrity,  durability,  comfort,  and  functionality.  As
+with any type of personal protective equipment (PPE), the key to proper selection and
+use of gowns and coveralls is to understand the hazards and the risk of exposure. The
+Centers for Disease Control and Prevention (CDC) has categorized three primary routes
+of  transmission:  (i)  contact  (direct  and  indirect),  (ii)  respiratory  droplets,  and  (iii)
+airborne  droplet  nuclei  [Siegel  2007].  Contact  transmission  is  generally  the  most
+common  and  direct  contact  occurs  when  microorganisms  transfer  directly  from  one
+person  to  another.  Airborne  transmission  occurs  by  dissemination  of  either  airborne
+droplet  nuclei  or  small  particles  in  the  respirable  size  range  containing  infectious
+agents. Droplet transmission refers to respiratory droplets generated through coughing,
+sneezing, or talking. By using appropriate protective clothing, it is possible to create a
+barrier to eliminate or reduce contact and droplet exposure, and therefore prevent the
+transfer  of  microorganisms  between  patients  and  healthcare  workers.  This  document
+provides information about protective clothing standard test methods and classification
+standards when the transmission of the microorganisms is through direct contact with
+blood  or  body  fluids.  Direct  contact  can  occur  through  broken  skin  or  mucous
+membranes located areas such as the eyes, nose, or mouth. In addition to blood, other
+body fluids can include (but are not limited to) urine, saliva, sweat, feces, vomit, breast
+milk, and semen. Employers should conduct a thorough risk assessment first to identify
+potential exposures to blood and body fluids. The risk of exposure sometimes depends
+on  the  stage  of  the  disease  and  severity  of  symptoms.  For  example,  for  Ebola  virus
+disease, severe symptoms are strongly associated with high levels of virus production.
+In  addition,  close  contact  with  the  patient  and  invasive  medical  care  can  increase
+opportunities for transmission. This should be considered during the risk assessment,
+such as in the case of Ebola virus disease, as Ebola patients can release large volumes
+(as  much  as  8  liters/day)  of  body  fluids  (vomit,  diarrhea)  [Kreuels  2014].  A  complete
+assessment  of  the  risks  is  outside  the  scope  of  this  document,  but  resources  are
+available. For example, the Association for the Advancement of Medical Instrumentation
+(AAMI)  published  a  guidance  document  on  selection  and  use  of  protective  apparel  in
+healthcare  facilities,  Technical  Information  Report  (TIR)  11  [AAMI  2005].  Some  of  the
+factors important to assessing the risk of exposure in health facilities include source,
+modes of transmission, pressures and types of contact, and duration and type of tasks. 
+Once the hazard and the risks of exposure are identified, gown and coverall selection
+can be guided by current scientific understanding of how protective clothing materials
+provide protection against microorganisms in blood and body fluids. A microorganism’s
+movement  through  protective  clothing  materials  depends  upon  several  factors,
+including the following: Several different microorganisms have been found in healthcare
+settings,  including  bacteria,  viruses,  and  some  fungi.  The  shape  and  size  of
+microorganisms  varies,  and  this  will  affect  their  ability  to  move  through  a  fabric
+structure.  In  general,  fungi  are  larger  than  bacteria,  and  bacteria  are  larger  than
+viruses. For instance, HIV virus is spherical and 100–120 nanometers (nm) in diameter.
+The  Ebola  virus  is  a  single-stranded  RNA  virus  with  a  filamentous  shape,  a  median
+particle  length  ranging  from  974  nm  to  1,086  nm,  and  average  80  nm  in  diameter.
+Microorganisms are transported by carriers such as body fluids, sloughed skin cells, lint,
+dust, and respiratory droplets. A significant number of microorganisms can be carried in
+a very minute volume of blood or body fluids, which may not be visible to the naked
+eye  (see  Figure  1).  For  example,  the  number  of  infectious  units  of  Hepatitis  B  in  a
+0.1-microliter  (µL)  droplet  is  10,000,  which  is  why  it  is  highly  infectious  and  easily
+transferrable.  Ebola  virus  RNA  levels  in  blood  also  increase  rapidly  during  the  acute
+phase of the illness. One study reported an average peak titer of 3.4 x 105 RNA copies
+per  0.1  µL  (i.e.,  34  times  higher  than  the  concentration  of  Hepatitis  B)  for  cases
+associated with a fatal outcome [Towner 2004]. Several studies [Brown 1992; Kotilainen
+et  al.  1992;  Shadduck  et  al.  1990;  McCullough  1993]  have  also  reported  that  when
+liquid containing microorganisms penetrate a material, microorganisms are carried with
+it, and penetration is possible without liquid being visible. Because of this, standardized
+test methods must be sensitive enough to detect microorganism penetration, since this
+is the only way to determine if microorganism penetration has occurred in any part of
+the garment, including the seams. 
+ Figure 1: Bloodborne pathogen strikethrough (penetration) conversion chart (This chart
+converts the amount of strikethrough to the amount of potential bloodborne pathogen
+contamination). The four spots at the top were formed from premeasured droplets of
+synthetic blood and marked in microliters (µL) ranging from 100 µL to 0.1 µL. Adapted
+with permission from AAMI TIR 11:2005, “Selection and use of protective apparel and
+surgical  drapes  in  health  care  facilities.”  One  challenge  that  employers  such  as
+hospitals  and  pre-hospital  emergency  care  organizations  face  is  selecting  the  most
+appropriate protective clothing for healthcare workers based on the recommendations,
+practices, and regulations. This challenge is complex because there are several terms
+(e.g., fluid-resistant, fluid-proof, impermeable, and impervious) used in the industry to
+define  barrier  resistance  properties  of  garments.  The  term  “fluid-resistant”  usually
+refers to fabrics that resist liquid penetration, but may allow penetration with pressure.
+According to Taber’s Cyclopedic Medical Dictionary, “impermeable” means not allowing
+passage, as of fluids; impenetrable [Thomas 1997]. Calling a fabric “impermeable” or
+“impervious”  usually  means  that  the  fabric  prevents  liquids  or  microorganisms  from
+penetrating. Impermeable could be in reference to water, to blood, to viruses, or to all.
+The  terms  “impervious”  and  “impermeable”  are  often  used  interchangeably.
+Unfortunately,  there  is  no  industry  consensus  for  using  these  terms.  Therefore,
+manufacturers  usually  provide  fabric  or  garment  specifications  associated  with  the
+standard  test  methods  or  standard  classifications.  In  addition,  due  to  the  misleading
+use of these terms, the FDA does not approve marketing surgical gowns or drapes with
+“impervious,”  “impermeable,”  “fluid  repellant,”  or  “fluid-resistant”  labeling  claims.
+Evidence-based  guidance  is  needed  in  order  to  define  these  terms  to  improve
+communication
+ among
+ employers/purchasers
+ and
+ gown
+ and
+ coverall
+manufacturers/suppliers. In this document, we use the term “fluid-resistant” to apply to
+protective clothing tested against water as the liquid challenge and reserve the use of
+the  term  “impermeable”  to  materials  that  have  demonstrated  blockage  of
+microorganisms using a recognized standard test method (discussed later). Employers
+should consider the garment design as part of their selection process. Unfortunately, no
+clinical  studies  have  been  done  to  compare  the  efficacy  of  gowns  vs.  coveralls.  Both
+have  been  used  effectively  by  healthcare  workers  in  clinical  settings  during  patient
+care. Thus, other factors need to be considered when comparing gowns and coveralls
+during  the  selection  process.  While  the  material  and  seam  barrier  properties  are
+essential  for  defining  protection,  the  coverage  provided  by  the  material  used  in  the
+garment  design,  as  well  as  certain  features  including  closures,  will  greatly  affect
+protection.  For  example,  a  coverall  with  a  front  zipper  closure  could  result  in  the
+compromise  of  barrier  protection  if  the  ordinary  cloth  and  plastic  zipper  used  in  its
+construction  is  not  covered  with  a  flap  of  barrier  material  that  can  be  sealed  to  the
+garment. Similarly, most of the surgical gowns rated for high levels of barrier protection
+may include the high-performance barrier materials in only certain portions of the gown
+(sleeves  and  front  panel).  This  is  especially  important  when  contact  from
+hazardous/contaminated fluids can come from multiple directions. In general, there is a
+significant difference between the design of traditional coveralls and isolation/surgical
+gowns.  Although  coveralls  typically  provide  360-degree  protection  because  they  are
+designed to cover the whole body, including back and lower legs and sometimes head
+and  feet  as  well,  the  design  of  surgical/isolation  gowns  do  not  provide  continuous
+whole-body  protection  (e.g.,  possible  openings  in  the  back,  coverage  to  the  mid-calf
+only) (see Figure 2).   Figure 2: Examples of a typical coverall and an isolation gown.
+Gowns, on the other hand, are relatively easier to put on and, in particular, to take off.
+They  are  generally  more  familiar  to  healthcare  workers  and  hence  more  likely  to  be
+used and removed correctly. These factors also facilitate training in their correct use.
+During patient care, the risk of the anticipated exposure is typically in the area of front
+chest  and  sleeves,  thus  gowns  are  used  frequently  in  health  care.  The  level  of  heat
+stress  generated  due  to  the  added  layer  of  clothing  is  also  expected  to  be  less  for
+gowns than coveralls due to several reasons, which include the openings in the design
+of  gowns  and  total  area  covered  by  the  fabric.  For  gowns,  it  is  important  to  have
+sufficient  overlap  of  the  fabric  so  that  it  wraps  around  the  body  to  cover  the  back
+(ensuring that if the wearer squats or sits down, the gown still protects the back area of
+the body). Employers should consider some of the critical fabric and clothing properties
+(e.g.,  strength  properties  of  the  fabric  and  seams  [e.g.,  tensile  strength  and  seam
+strength],  barrier  properties  of  seams/closures,  size  of  the  garment,  etc.)  when
+selecting the appropriate protective clothing. If the fabric or seams and barrier layer on
+the  fabric  is  not  durable  enough  to  withstand  typical  stresses  applied  during  wear  or
+use (e.g., if wrong size garment is used), garments may tear during kneeling, reaching,
+or  bending.  In  addition,  garments  too  large  for  the  wearer  may  catch  or  snag  on
+objects.  Seams/closures  are  critical  components  of  the  overall  barrier  protection
+provided by fluid-resistant or impermeable garments. It is vital to select the appropriate
+seam configuration to be able to protect from the penetration of blood and body fluids.
+Several  seaming  techniques  are  used  in  the  construction  of  protective  clothing,
+including  serged  or  sewn,  bound,  taped,  double  taped,  and  ultrasonic  welded.
+Employers should consider the barrier resistance of seams/closures when selecting the
+appropriate  protective  clothing  in  addition  to  the  strength  properties.  Once  a  facility
+selects a specific garment and each healthcare worker knows his or her proper garment
+size, switching to another supplier requires each wearer to determine the proper size
+needed  for  the  specific  product  model  selected.  “ANSI/ISEA  101-2014  American
+National  Standard  for  Limited-Use  and  Disposable  Coveralls—Size  and  Labeling
+Requirements,”  includes  a  sizing  chart  and  a  set  of  exercises  in  which  a  user  can
+validate that a garment is the proper size, thereby assisting facilities in selecting the
+appropriate  size  for  each  wearer.  The  manner  in  which  the  clothing  is  donned  and
+doffed in sequence with other PPE is an important consideration when selecting gowns
+and coveralls. This is critical because the ease or difficulty with which PPE is put on and
+removed  may  affect  its  effectiveness  and  the  potential  for  self-contamination,
+especially during doffing of contaminated PPE. Donning and doffing features included in
+the selection process should consider the entire PPE ensemble, not simply the gown or
+coverall.  In  addition  to  the  barrier  resistance  properties  and  other  factors  discussed
+above, there are other critical characteristics of protective clothing that employers and
+purchasers  must  use  in  their  decision-making  process.  These  include  factors  such  as
+compliance  with  regulatory  agencies,  durability  (abrasion  resistance,  tensile  strength,
+seam  strength),  comfort  (breathability,  air  permeability),  flammability,  electrostatic
+properties,  cost,  availability,  ergonomics/human  factors,  and  integration  with  other
+types  of  PPE.  Of  particular  importance  is  how  the  selected  gown  or  coverall  will
+interface  with  other  items  of  PPE  worn  by  the  individual  healthcare  worker,  including
+gloves  with  the  sleeve  of  the  gown  or  coverall  and  face/eye  or  respiratory  protective
+equipment with the hood or collar area of the gown or coverall. These interfaces are
+essential  to  the  individual’s  overall  protection,  because  the  overall  ensemble  of  PPE
+provides their protection. In selecting gowns and coveralls, further consideration should
+be given to the physical characteristics of the work environment and specific activities
+of healthcare workers. Different physical conditions where gowns or coveralls are used
+can  compromise  their  material  and  properties  of  seam  barriers.  Certain  actions,
+including kneeling or leaning on a chair or table contaminated with blood, can result in
+pressure levels that exceed the levels used in the standard test methods. The gowns or
+coveralls may no longer provide expected levels of protection under these conditions.
+Gown and coverall manufacturers should be consulted before selections are made to:
+Several fluid-resistant and impermeable protective clothing options are available in the
+market  place  for  healthcare  workers.  These  include  isolation  gowns,  surgical  gowns,
+and  coveralls.  When  selecting  the  most  appropriate  protective  clothing,  employers
+should  consider  all  of  the  available  information  on  recommended  protective  clothing,
+including  the  potential  limitations.  Employers  should  consult  protective  clothing
+manufacturers as needed in regards to availability and practicality for their facilities. A
+key  step  in  this  process  is  to  understand  the  relevant  standards  and  test  methods.
+Descriptive information about each standard is provided in the body of this document.
+When the transmission route is defined as “direct contact transmission,” such as in the
+case  of  Ebola  and  HIV,  employers  should  consider  gowns  and  coveralls  that
+demonstrate resistance to synthetic blood, as well as passage of virus. Standard test
+methods  can  be  used  to  evaluate  the  resistance  of  fabrics  or  seams/closures  to
+synthetic blood penetration and viral penetration, as described in Table 1. The United
+States commonly uses American Society of Testing and Materials International (ASTM)
+methods,  while  Europe  commonly  uses  International  Organization  for  Standardization
+(ISO) methods.  Table 1. Standard test methods to evaluate the resistance of fabrics to
+synthetic blood and virus penetration ASTM F1670 and ISO 16603 are “screening-tests”
+that evaluate the resistance of a material to synthetic blood penetration [ASTM 2003a;
+ISO 2004a]. The synthetic blood used for these tests is a mixture of cellulose, coloring,
+buffer solution, and stabilizing agents. Synthetic blood has a surface tension (0.042 ±
+0.002 Newton per meter [N/m]) and viscosity representative of blood and some body
+fluids (see Table 2 for surface tension of the body fluids). Within the context of gowns
+and  coverall  testing,  the  surface  tension  of  the  challenge  liquid  is  critical.  This  is
+because  liquids  with  higher  surface  tension,  like  water  (0.070–0.072  N/m),  are  more
+likely to bead on a surface than liquids with lower surface tension, which are more likely
+to wet and penetrate through the garment. Consequently, some test methods that use
+water  as  a  challenge  agent  may  not  be  representative  for  evaluating  the  barrier
+effectiveness of the healthcare PPE and may overestimate the effectiveness of the PPE
+for blood-borne pathogens. Test methods evaluating the water resistance of garments
+will be discussed later in this document.
+Table 2: Surface tension values for water, synthetic blood, and human blood and body
+fluids1
+ 3 Atopic The viral penetration resistance tests, namely ASTM F1671 and ISO 16604, are
+similar  to  ASTM  F1670  and  ISO  16603,  but  they  use  a  bacteriophage  (Phi-X174)
+challenge  suspension  instead  of  synthetic  blood  [ASTM  2003a;  ISO  2004b].  At  the
+conclusion  of  the  exposure  period  in  the  ASTM  F1671  or  ISO  16604  viral  penetration
+tests, the opposing surface of the material is rinsed with an assay fluid, and this fluid is
+then  cultured  in  the  presence  of  the  host  bacterium,  E.  coli.  Plaques  form  when  a
+bacteriophage  is  present,  with  the  number  of  plaques  indicating  the  number  of
+penetrating bacteriophages. Materials pass the viral penetration test when no liquid is
+observed to penetrate the specimen and the E. coli bacteriophage is not detected in the
+assay  fluid.  The  choice  of  virus  challenge  agent  in  the  standard  methods  is  a  critical
+test  condition.  For  these  test  methods,  the  bacteriophage  serves  as  a  surrogate  to
+simulate  viruses  that  are  pathogenic  to  humans.  Phi-X174  bacteriophage  has  nearly
+spherical morphology similar to HIV, Hepatitis B, and Hepatitis C. At 27 nm in diameter,
+it  is  similar  in  size  and  shape  to  Hepatitis  C  (30  nm  in  diameter),  which  is  the
+smallest-known bloodborne viral pathogen. As mentioned earlier, the size and shape of
+a virus are believed to affect viral penetration, and thus selecting a small virus (27 nm
+in  diameter)  would  serve  as  a  “worst-case”  scenario  for  the  barrier  material.  Smaller
+particles are expected to more easily pass through pores in the fabrics used in barrier
+materials.  Some  of  the  other  viruses,  such  as  Ebola  virus,  are  larger  in  diameter
+compared to Phi-X174. Currently, there is no scientific evidence to suggest the Ebola
+and other larger viruses would be more likely to penetrate through protective clothing
+than  a  smaller  virus.  The  amount  of  pressure  applied  in  the  standard  methods  is
+another critical test condition. The biggest difference between the ASTM and ISO test
+methods is the pressure levels used when conducting test procedures. In ASTM F1670
+and ASTM F1671, tests are conducted using 13.8 kilopascal (kPa) (2 pounds per square
+inch [psi]), and the criterion is that no penetration should occur. Whereas, in ISO 16603
+and ISO 16604, the maximum pressure level before any penetration occurs is found by
+applying  increasing  pressure  levels  (0  kPa  to  20  kPa)—14  kPa  is  the  most  equivalent
+pressure  to  that  of  the  ASTM  tests.  Note  that  ISO  16603  and  ISO  16604  are  used  to
+classify and rank materials, and they do not relate the classification of material barrier
+performance  to  any  specific  circumstances  of  use.  Penetration  (often  called
+strikethrough) can be initiated by an external force acting against clothing. The force
+generated by an external pressure, such as from a pressing or leaning motion, is likely
+one  of  the  major  routes  of  blood  penetration,  especially  in  the  chest  and  sleeves  of
+protective clothing. These pressures arise when individuals wearing protective clothing
+lean or press on a surface that may be wet with blood or body fluids, such as in the
+case of a healthcare worker leaning against a patient’s bed or an emergency medical
+responder kneeling on a contaminated roadway. Studies have documented a range of
+pressures  to  which  protective  clothing  is  subjected  during  clinical  use.  [Altman  et  al.
+1991]  reported  that  the  pressures  exerted  on  surgical  gowns  during  pressing  and
+leaning in surgery can range from 1 psi to 60 psi. Blood penetration has been shown to
+increase with increasing pressure [Granzow et al. 1998]. Although high pressures have
+been  reported,  other  studies  have  found  that  many  common  surgical  movements
+(including  leaning,  reaching,  and  arm  resting)  result  in  less  than  2  psi  pressure.  For
+example,  [Smith  et  al.  1995]  evaluated  the  pressures  generated  during  a  variety  of
+surgical  procedures  and  found  that  most  pressures  applied  to  the  front  of  surgical
+gowns  are  2.9  psi  or  less  for  15  seconds  or  less.  Another  study  showed  that  leaning
+against the operating table caused a pressure of 0.52 psi (3.6 kPa), while reaching for
+an instrument showed the greatest (0.70 psi, which equals 4.8 kPa) [Smith and Nichols
+1991]. The greatest pressure seen during any maneuver was 1.84 psi (12.7 kPa) while
+reaching.  Smith  and  Nichols  estimated  representative  abdominal  pressures  during
+surgical procedures to be between 0.25 and 2.0 psi. Others have looked at the areas
+where blood/body fluid penetration occurs through the garment. One study found that
+blood  penetration  was  most  common  on  the  chest,  forearm,  and  abdomen,  and  was
+correlated with the areas of highest exposure and pressure [Quebbeman et al. 1992].
+Others  have  noted  that  the  cuff,  forearm,  thigh,  chest,  and  abdomen  are  most
+vulnerable to blood strikethrough [Pissiotis et al. 1997]. Studies suggest that if a liquid
+is in prolonged contact with a fabric, prewetting can occur, and this can result in the
+fabric’s decreased resistance to penetration [Flaherty et al. 1993; Olderman 1984]. The
+viral  penetration  of  surgical  gowns  by  HIV  has  been  compared  with  the  soak-through
+point (the point at which fluid visibly soaks through the fabric) by multiple investigators
+[Tyler et al. 1989; Shadduck et al. 1990]. It was reported that HIV could penetrate some
+surgical gown materials in common use at the time of the studies, and HIV penetration
+was  sometimes  noted  in  the  absence  of  visible  soak-through.  This  is  important  to
+remember, because endusers can often have a false sense of security when they see
+no visible penetration in their garments. The conditions of the ASTM F1671 test require
+subjecting barrier material specimens in a special test cell to the viral challenge for one
+hour, with the sixth minute of the exposure at 13.8 kPa (2 psi) for one minute. These
+conditions  were  selected  because  they  are  used  in  a  related  method,  “ASTM  F903
+Standard  Test  Method  for  Resistance  of  Materials  Used  in  Protective  Clothing  to
+Penetration by Liquids,” which assesses liquid chemical penetration through protective
+clothing materials. Research at Kansas State University [McCullough and Schoenberger
+1992] was performed to show how these test conditions best correlated with a human
+factors evaluation where visible blood strikethrough occurred. This is referred to as the
+elbow lean test. This technical report is structured to be as broad as possible in listing
+multiple test methods with minimum performance requirements in order to maximize
+the potential that an employer will find appropriate data from different manufacturers.
+However, it is important to note that different test methods, while similar, do not yield
+the  same  absolute  results  due  to  differences  in  test  equipment,  conditions,  and
+procedures. These particular methods/standards have been selected because they are
+broadly used in the industry and current international protective clothing classification
+standards to describe the performance levels provided by garments and to differentiate
+the  protection  levels  provided.  Employers  should  be  aware  that  garments  qualifying
+under  different  standard  methods  may  in  fact  provide  different  levels  of  protection.
+Limited  information  is  available  to  compare  different  products  using  these  test
+methods. Standards are available to define the performance requirements for clothing
+or  clothing  materials  used  to  protect  against  infectious  agents.  ANSI/AAMI  PB70,  EN
+13795,  EN  14126,  and  NFPA  1999  are  examples  of  standards  frequently  used  in  the
+United States and Europe. ANSI/AAMI PB70 is used to classify the garments used in the
+healthcare industry, such as surgical and isolation gowns. Typically, EN 14126 is used
+for protective coveralls, and EN 13795 is used for surgical gowns. NFPA 1999-2013 is
+primarily  intended  for  emergency  medical  first  responders,  but  its  scope  also  covers
+medical  first  receivers.  In  the  United  States,  ANSI/AAMI  PB70  establishes  a  system  of
+classification for protective apparel (including surgical gowns and isolation gowns) used
+in  healthcare  facilities,  based  on  their  liquid  barrier  performance.  It  also  specifies
+labeling requirements and test methods for determining the compliance of protective
+apparel labeled with liquid barrier claims or liquid-borne microbial barrier claims. The
+ANSI/AAMI  PB70  was  accepted  by  the  FDA  in  2004.  The  ANSI/AAMI  PB70  standard
+includes  four  standard  tests  to  evaluate  the  barrier  effectiveness  of  surgical  gowns,
+isolation gowns, and surgical drapes. Based on the results of these standardized tests,
+four  levels  of  barrier  performance  are  defined,  with  Level  1  being  the  lowest  level  of
+protection, and Level 4 being the highest level of protection. Table 3 summarizes the
+requirements  of  ANSI/AAMI  PB70:2012  regarding  the  classification  of  barrier
+performance  of  surgical  gowns,  isolation  gowns,  and  surgical  drapes.   Table  3:
+ANSI/AAMI  PB  70:12  classification  of  barrier  performance  of  surgical  gowns,  other
+protective  apparel,  surgical  drapes  and  drape  accessories.  3  AATCC  127  Water
+resistance: hydrostatic pressure test determines the ability of a material to resist water
+penetration under constant contact with increasing pressure [AATCC 1998] As indicated
+in  Table  3,  the  requirements  for  levels  1,  2,  and  3  have  specific  test  requirements
+associated with them. Only Level 4 gowns are tested for viral penetration resistance,
+and therefore only Level 4 garments are considered impermeable to viral penetration
+using  ASTM  F1671.  The  gowns  complying  with  the  lower  levels  (Level  1,  2,  and  3)
+cannot be considered impermeable. However, Level 1–3 gowns can provide increasing
+resistance to liquids. ANSI/AAMI PB70 Level 1, 2, and 3 surgical/isolation gown-testing
+requirements  only  use  water  as  a  challenge.  Because  the  surface  tension  of  water  is
+much higher than that of blood, blood can penetrate through fabrics more readily than
+water.  Therefore,  no  correlation  can  be  made  between  AATCC  water  resistance  tests
+(AATCC 42 and AATCC 127) and ASTM F1671 viral penetration tests, and consequently,
+protection  provided  by  Levels  1,  2,  3  gowns  and  that  of  Level  4  gowns.  A  common
+misunderstanding among many endusers is that they are protected from blood, body
+fluids,  and  other  potentially  infectious  materials  (OPIM)  when  they  wear  any  type  of
+fluid-resistant garment or surgical or isolation gown. The requirements for the design
+and construction of surgical and isolation gowns are based on the anticipated location
+and  degree  of  liquid  contact,  given  the  expected  conditions  of  use.  ANSI/AAMI
+PB70:2012 identifies certain areas of surgical and isolation gowns as critical zones (see
+Figure 3). [ANSI 2012] The critical zones include those areas where direct contact with
+blood, body fluids, and/or OPIM is most likely to occur—even though the areas outside
+of  critical  zones  can  inadvertently  be  splashed  or  sprayed  as  well.  According  to  the
+standard, for isolation gowns the whole garment is considered a critical zone due to the
+unpredictable types of potential contact with blood, body fluids, and OPIM. The entire
+isolation gown, including the seams, but excluding the cuffs, hems, and bindings, must
+achieve  claimed  barrier  performance.  Open-backed  isolation  gowns  do  not  meet  the
+critical area parameters, and therefore they cannot be rated. For surgical gowns, the
+critical  zone  comprises  at  least  the  front  panel  (area  A)  and  lower  sleeves  (area  B)
+(Figure  3).  The  classification  of  the  surgical  gown  is  based  on  the  lower  performing
+component of the two. According to the standard, the back of the gown (area D) can be
+non-protective. However, the entire front of the gown (areas A, B, and C) is required to
+have a barrier performance of at least Level 1. Therefore, the areas outside of critical
+areas in the front of gown (i.e., area C) can be Level 1 even though the whole gown is
+classified as Level 4 surgical gown. Therefore, using a surgical gown in isolation settings
+may not provide appropriate protection.   Figure 3: Critical zones defined for surgical
+gowns  and  isolation  gowns  in  ANSI/AAMI  PB70.  Adapted  with  permission  from
+ANSI/AAMI  PB70:2012,  “Liquid  barrier  performance  and  classification  of  protective
+apparel  and  drapes  intended  for  use  in  health  care  facilities.”  ANSI/AAMI  PB70  was
+referenced in another standard for surgical gowns, ASTM F2407 Standard Specification
+for  Surgical  Gowns  Intended  for  Use  in  Healthcare  Facilities.  In  addition  to  ANSI/AAMI
+PB70  barrier  resistance  testing  requirements,  this  standard  specification  also
+establishes  physical  property  and  comfort  requirements  including  tensile  strength,
+seam  strength,  tear  resistance,  lint  generation,  evaporative  resistance,  and  moisture
+vapor  transmission  rate,  mainly  for  reporting  purposes  only  [ASTM  2407  2006].  EN
+13795 is a European recognized standard of quality and conformance to manufacturing,
+testing and performance specifications for single-use and multiple-use surgical gowns,
+drapes,  and  clean-air  suits.  The  standard  was  developed  to  assist  healthcare
+professionals in making informed decisions when selecting the appropriate product for
+the  anticipated  tasks  by  specifying  a  consistent  basis  for  testing  and  providing  a
+common  understanding  of  barrier  properties.  EN  13795  categorizes  products  by
+performance  type:  high  performance  versus  standard  performance  gown  classes.  It
+then further subdivides them into critical and less critical product areas as in ANSI/AAMI
+PB70 (critical zones in surgical gowns). EN 13795 also describes the standardized and
+harmonized barrier test methodologies that single-use and multiple-use surgical gowns
+must undergo. Table 4 shows EN 13795 specific performance requirements for surgical
+gowns.  In  addition  to  these  tests,  EN  13795  requires  other  characteristics  be  tested,
+including  microbial  and  particulate  matter  cleanliness,  linting,  bursting  strength  (dry
+and wet), and tensile strength (dry and wet). However, performance requirements for
+these
+ characteristics
+ are
+ the
+ same
+ for
+ both
+ standard-performance
+ and
+high-performance  surgical  gowns,  and  critical  and  less-critical  areas.  Note  that  EN
+13795  is  aimed  to  protect  the  patient;  therefore,  within  the  context  of  the  European
+standard, the products conforming to this standard are considered medical devices. If a
+product is designed to be PPE rather than a medical device, the product has to comply
+with  the  corresponding  directive  89/686/EEC  (protective  clothing)  and  standard  “EN
+14126  Performance  requirements  and  tests  methods  for  protective  clothing  against
+infective  agents.”  EN  14126  has  various  classes  for  most  performance  requirements;
+therefore, if EN 14126 is specified, then the classes for the performance requirements
+should  also  be  specified.   Table  4.  Overview  of  some  of  the  EN  13795  performance
+requirements Similar to “AATCC 127, Water resistance: hydrostatic pressure test,” “EN
+20811 Textiles. Determination of resistance to water penetration. Hydrostatic pressure
+test”  evaluates  the  behavior  of  the  fabric  structure  under  constantly  increasing
+hydrostatic  pressure.  The  results  are  expressed  in  water  column  (cm),  and  higher
+values  indicate  a  better  resistance.  Note  that  ANSI/AAMI  PB70  also  cites  this  method
+(AATCC 127) for one of the classification requirements. The EN ISO 22612 test method
+for resistance to dry microbial penetration is designed to determine the ability of dry
+fabric  to  resist  penetration  of  particles  carrying  microorganisms.  The  method
+establishes the quantity of microorganisms that can penetrate through the test material
+while  being  carried  on  talcum  powder.  Test  results  are  expressed  in  colony  forming
+units  (CFU)  observed  on  the  agar  plate.  The  EN  ISO  22610  test  method,  used  to
+determine the resistance to wet bacterial penetration, evaluates fabric’s resistance to
+microbial penetration under conditions of liquid pooling on the fabric and mechanical
+rubbing.  Test  results  are  expressed  in  IB  “Barrier  Index.”  IB=6.0  is  the  maximum
+achievable  value,  and  it  means  no  penetration  for  the  purpose  of  the  test.  The
+European  standard  EN  14126  defines  performance  requirements  for  materials  in
+protective clothing used to protect from infectious agents. Due to the heterogeneity of
+microorganisms (in terms of size, shape, infectious dose, survival abilities, etc.), the EN
+14126  standard  does  not  define  performance  criteria  for  specific  types  of
+microorganisms.  The  test  methods  specified  in  this  standard  focus  on  the  medium
+containing  the  microorganism,  such  as  liquid,  aerosol,  or  solid  dust  particle.  The  EN
+14126 standard is typically used for coveralls and it specifies ISO 16603 and ISO 16604
+as  test  methods  used  to  evaluate  the  penetration  resistance  performance  of  clothing
+materials  to  contaminated  liquids  under  hydrostatic  pressure.  Clothing  materials  are
+classified based on the performance levels achieved by these test methods (see Table
+5). Note that the pressure level in Class 5 is closest to the pressure levels specified in
+ASTM  F1670  and  ASTM  F1671  (13.8  kPa).  Note  that  EN  14126  specifications  for  ISO
+16603 and ISO 16604 apply only to fabrics used in the garments. Both tests could be
+conducted on the seams as well. In order to be appropriately protected from blood and
+viral  penetrations,  end  users  should  consult  garment  manufacturers  about  the  seam
+barrier  test  results,  in  addition  to  the  fabric  test  results.   Table  5:  Classification
+according to EN 14126 of resistance to penetration by blood and body fluids using ISO
+16603 and ISO 16604 test methods NFPA 1999 was specifically developed to address a
+range of different clothing items worn by emergency medical service first responders,
+but  also  applies  to  medical  first  receivers.  The  standard  includes  design  criteria,
+performance  criteria,  labeling  requirements,  and  test  methods  that  address  both
+single-use  (disposable)  and  multiple-use  (reusable)  emergency  medical  garments,
+which can be coveralls, multi-piece clothing sets, or partial body clothing. The standard
+uses  ASTM  F1671  to  demonstrate  the  viral  penetration  resistance  of  materials  and
+seams, which is supplemented with an overall liquid integrity test for full body clothing.
+The latter test shows whether closures and other aspects of the clothing item design
+will hold out liquid. There are also testing requirements applied to materials and seams
+for  setting  minimum  criteria  such  as  strength  and  physical  hazard  resistance.  The
+standard further specifies that compliant clothing items be labeled as compliant to the
+standard  and  certified  by  an  independent  certification  organization.  Several  test
+methods and performance requirements for barrier resistant gowns and coveralls were
+discussed  in  this  technical  document.  Test  methods  for  determination  of  the  barrier
+resistance  of  fabrics  such  as  AATCC  42,  AATCC  127,  ASTM  F1670,  ASTM  F1671,  ISO
+16603,  ISO  16604,  are  used  for  both  coveralls  and  gowns.  In  general,  for  the
+classification  of  the  protective  clothing,  ANSI/AAMI  PB70  and  EN  13795  are  used  for
+gowns  and  EN  14126  and  NFPA  1999  are  used  for  coveralls.  There  are  several
+differences  between  ANSI/AAMI  PB70  and  EN  13795  surgical  gown  classifications.
+Because the test methods and performance requirements cannot be compared directly,
+it  is  difficult  to  assign  equivalency  between  surgical  gowns  classified  according  to
+ANSI/AAMI PB70 (see Table 3) and EN 13795 (see Table 4). Recent PPE specifications
+from  the  World  Health  Organization  for  Filovirus  disease  outbreak  indicate  that  EN
+13795 high performance level gown is most similar to ANSI/AAMI PB70 level 3 gown.
+Similarly,  for  coveralls  it  is  difficult  to  compare  test  methods  and  performance
+specifications directly. In Europe, the EN 14126 standard typically is used to evaluate
+and classify coveralls used to protect from infectious agents and EN 13795 is used to
+evaluate  and  classify  surgical  gowns.  Unlike  surgical  or  isolation  gowns  (ANSI/AAMI
+PB70),  there  is  no  widely  used  classification  standard  in  the  United  States.  Coveralls
+with materials and seams tested against ASTM 1671 are specified in NFPA 1999–2013,
+Standard  on  Protective  Clothing  for  Emergency  Medical  Operations.  This  standard
+establishes  minimum  performance  requirements  for  single-use  emergency  medical
+garments,  multiple-use  emergency  medical  garments,  and  other  PPE  for  protection
+from  contact  with  blood  and  body-fluid-borne  pathogens  for  personnel  performing
+patient  care  during  emergency  medical  operations  [NFPA  2013].  While  originally
+designed  for  pre-hospital  healthcare  workers,  it  could  be  used  for  hospital-based
+healthcare workers as well. Thus, the current best approach to comparing coveralls is to
+use manufacturer supplied test data. Many of the same test methods used to estimate
+barrier protection of gowns (Tables 3 and 4) can be used for coveralls as well. Table 6
+lists some of the commonly used test methods for determining the barrier effectiveness
+of coveralls and describes how the results should be interpreted.  Table 6: Commonly
+used test methods for determination of barrier effectiveness of coveralls AAMI [2005].
+AAMI-TIR  11  Technical  information  report:  selection  of  surgical  gowns  and  drapes  in
+healthcare  facilities.  Arlington,  VA:  Association  for  the  Advancement  of  Medical
+Instrumentation.  AATCC  [1998].  AATCC  127-1998  Water  resistance:  hydrostatic
+pressure  test.  Research  Triangle  Park,  NC:  American  Association  of  Textile  Chemists
+and Colorists. AATCC [2000]. AATCC 42-2000 Water resistance: impact penetration test.
+Research  Triangle  Park,  NC:  American  Association  of  Textile  Chemists  and  Colorists.
+Aburub  A,  Risely  DS,  Mishra  D  [2008].  A  critical  evaluation  of  fasted  state  simulating
+gastric  fluid  (FaSSGF)  that  contains  sodium  lauryl  sulfate  and  proposal  of  a  modified
+recipe. Int J Pharm 347(1–2):16–22. Altman KW, McElhaney JH, Moylan JA, Fitzpatrick KT
+[1991].  Transmural  surgical  gown  pressure  measurements  remits  in  the  operating
+theater.  Am  J  Infect  Control  19(3):147–155.  ANSI/AAMI  [2012].  ANSI/AAMI:PB70:2012
+Liquid barrier performance and classification of protective apparel and drapes intended
+for  use  in  healthcare  facilities.  Arlington,  VA:  Association  for  the  Advancement  of
+Medical  Instrumentation.  ANSI/ISEA  [2014].  101-2014  American  national  standard  for
+limited-use and disposable coveralls—size and labeling requirements. Washington, DC:
+American  National  Standards  Institute.  ASTM  [2003a].  ASTM  F1670-03  Standard  test
+method  for  resistance  of  materials  used  in  protective  clothing  to  penetration  by
+synthetic  blood.  West  Conshohocken,  PA:  ASTM  International.  ASTM  [2003b].  ASTM
+F1671-03 Standard test method for resistance of materials used in protective clothing
+to penetration by blood-borne pathogens using Phi-X174 bacteriophage penetration as
+a  test  system.  West  Conshohocken,  PA:  ASTM  International.  ASTM  F2407  [2006]
+Standard  Specification  for  Surgical  Gowns  Intended  for  Use  in  Healthcare  Facilities.
+West Conshohocken, PA: ASTM International Attinger D, Moore C, Donaldson A, Jafari A,
+Stone  HA  [2013].  Fluid  dynamics  topics  in  bloodstain  pattern  analysis:  comparative
+review and research opportunities. Forensic Sci Int 231(1–3):375–396. Bothorel B, Heller
+A, Grosshans E, Candas V [1992]. Thermal and sweating responses in normal and atopic
+subjects  under  internal  and  moderate  external  heat  stress.  Arch  Dermatol  Res
+284(3):135–140.  Brown  PL  [1992].  Protective  clothing  for  health  care  workers:
+liquidproofness  versus  microbiological  resistance.  In:  McBriarity  J,  Henry  N,  eds.
+Performance of protective clothing ASTM STP 1133. Philadelphia, PA: American Society
+for  Testing  and  Materials,  pp.  65–82.  BSI  [1992].  EN  20811:  1992  Textiles.
+Determination  of  resistance  to  water  penetration.  Hydrostatic  pressure  test.  London:
+British
+ Standards
+ Institution.
+ BSI
+ [2003].
+ EN
+ 14126:2003
+ Protective
+clothing—performance requirements and tests methods for protective clothing against
+infective  agents.  London:  British  Standards  Institution.  BSI  [2011].  EN  13795:2011
+Surgical drapes, gowns and clean air suits, used as medical devices for patients, clinical
+staff  and  equipment—general  requirements  for  manufacturers,  processors  and
+products,  test  methods,  performance  requirements  and  performance  levels.  London:
+British Standards Institution. Flaherty AL, Wick TM [1993]. Prolonged contact with blood
+alters surgical gown permeability. Am J Infect Control21(5):249–256. Fuchs A, Dressman
+JB [2014]. Composition and physicochemical properties of fasted-state human duodenal
+and  jejunal  fluid:  a  critical  evaluation  of  the  available  data.  J  Pharm  Sci  103(11):
+3398–3411.  Granzow  JW,  Smith  JW,  Nichols  RL,  Waterman  RS,  Muzik  AC  [1998].
+Evaluation of the protective value of hospital gowns against blood strike-through and
+methicillin-resistant Staphylococcus aureus penetration. Am J Infect Control26(2):85–93.
+Hrncir  E,  Rosina  J  [1997].  Surface  tension  of  blood.  Physiol  Res  46(4):  319–321.  ISO
+[2004a]. ISO 16603:2004 Clothing for protection against contact with blood and body
+fluids—determination  of  the  resistance  of  protective  clothing  materials  to  penetration
+by  blood  and  body  fluids—Test  method  using  synthetic  blood.  Geneva,  Switzerland:
+International  Organization  for  Standardization.  ISO  [2004b].  ISO  16604:2004  Clothing
+for protection against contact with blood and body fluids—determination of resistance
+of protective clothing materials to penetration by blood-borne pathogens—Test method
+using  Phi-X  174  bacteriophage.  Geneva,  Switzerland:  International  Organization  for
+Standardization.  ISO/IEC  [2005].  ISO/IEC  17025:2005  General  requirements  for  the
+competence of testing and calibration laboratories. Geneva, Switzerland: International
+Organization  for  Standardization.  Kazakov  VN,  Udod  AA,  Zinkovych  II,  Fainerman  VB,
+Miller R [2009]. Dynamic surface tension of saliva: general relationships and application
+in medical diagnostics. Colloids Surf B Biointerfaces 74(2):457–461. Kotilainen HR, Cyr
+WH,  Truscott  W  [1992].  Ability  of  the  1000  mL  water  leak  test  for  medical  gloves  to
+detect  gloves  with  potential  for  virus  penetration.  In:  McBriarty  JP,  Henry  NW,  eds.
+Performance of protective clothing. Vol. 4. ASTM STP 1133. Philadelphia, PA: American
+Society
+ for
+ Testing
+ and
+ Materials.
+ Kreuels
+ B,
+ Wichmann
+ D,
+ Emmerich
+ P,
+Schmidt-Chanasit J, de Heer G, Kluge S, Sow A, Renné T, Günther S, Lohse AW, Addo
+MM,  Schmiedel  S.  [2014].  A  case  of  severe  Ebola  virus  infection  complicated  by
+Gram-negative septicemia. N Engl J Med: Epub ahead of print, 2014 Oct 22. Lenter C,
+ed. [1984]. Geigy scientific tables. 8th ed. Vol. 1. Units for measurement, body fluids,
+composition of blood, hematology, somatometric data, 1984. West Caldwell, NJ: Farrand
+Press. McCullough EA [1993]. Methods for determining the barrier efficacy of surgical
+gowns. Am J Infect Control 21(6):368–374. McCullough EA, Schoenberger LK [1992]. A
+comparison of methods for measuring the liquid barrier properties of surgical gowns. In:
+McBriarty JP, Henry NW, eds. Performance of protective clothing. Vol 4. ASTM STP 1133.
+Philadelphia,  PA:  American  Society  for  Testing  and  Materials,  pp.  83–98.  NFPA  [2013]
+National  Fire  Protection  Association.  NFPA  1999:  Standard  on  Protective  Clothing  for
+Emergency  Medical  Operations.  National  Fire  Protection  Association,  2013.  Olderman
+GM  [1984].  Liquid  repellency  and  surgical  fabric  barrier  properties.  Eng  Med
+13(1):35–43.  Pissiotis  CA,  Komborozos  V,  Papoutsi  C,  Skrekas  G  [1997].  Factors  that
+influence  the  effectiveness  of  surgical  gowns  in  the  operating  theatre.  Eur  J  Surg
+163(8):597–604.  Quebbeman  EJ,  Telford  GL,  Hubbard  S,  Wadsworth  K,  Hardman  B,
+Goodman  H,  Gottlieb  MS  [1992].  In-use  evaluation  of  surgical  gowns.  Surg  Gynecol
+Obstet  174(5):369–375.  Randall  WC,  Calman  C  [1954].  The  surface  tension  of  human
+sweat;  its  determination  and  its  significance.  J  Invest  Dermatol  23(2):113–118.  Siegel
+JD, Rhinehart E, Jackson M, Chiarello L. [2007] 2007 Guideline for isolation precautions:
+preventing transmission of infectious agents in health care settings. American Journal of
+Infection Control; 35(10): S65-S164 Shadduck PP, Tyler DS, Lyerly HK, Sebastian MW,
+Farnitano  C,  Fitzpatrick  KT  [1990].  Commercially  available  surgical  gowns  do  not
+prevent  penetration  by  HIV-1.  Surg  Foram41:77–80.  Smith  JW,  Nichols  RL  [1991].
+Barrier  efficiency  of  surgical  gowns:  are  we  really  protected  from  our  patients’
+pathogens? Arch Surg 126(6):756–763. Smith JW, Tate WA, Yazdani S, Garcia RY, Muzik
+AC,  Nichols  RL  [1995].  Determination  of  surgeon-generated  pressures  during  various
+surgical procedures in the operating room. Am J Infect Control 23(4):237–246. Spychal
+RT,  Savalgi  RS,  Marrero  JM,  Saverymuttu  SH,  Kirkham  JS,  Northfield  TC  [1990].
+Thermodynamic effects of bile acids in the stomach. Gastroenterology 99(2):305–310.
+Thomas C, ed. [1997] Taber’s cyclopedic medical dictionary. 18th ed. Philadelphia: F.A.
+Davis.  Towner  JS,  Rollin  PE,  Bausch  DG,  Sanchez  A,  Crary  SM,  Vincent  M,  Lee  WF,
+Spiropoulou CF, Ksiazek TG, Luuwiya M, Kaducu F, Downing R, Nichol ST [2004]. Rapid
+diagnosis  of  Ebola  hemorrhagic  fever  by  reverse  transcription-PCR  in  an  outbreak
+setting  and  assessment  of  patient  viral  load  as  a  predictor  of  outcome.  J  Virol
+78(8):4330–4341. Tyler DS, Lyerly HK, Nastala CL, Shadduck PP, Fitzpatrick KT, Langlois
+Moylan  JA  [1989].  Barrier  protection  against  the  human  immunodeficiency  virus.  Curr
+Surg  46(4):301–304.   Balci,  F.  Selcen  Kilinc.  “Isolation  gowns  in  health  care  settings:
+Laboratory studies, regulations and standards, and potential barriers of gown selection
+and use.” American journal of infection control 44.1 (2016): 104-111. Behera BK, Arora
+H [2009]. Surgical gown: a critical review. J Ind Text 38(3):205–231. Belkin NL [1994].
+Gowns:  selection  on  a  procedure-driven  basis.  Infect  Control  Hosp  Epidemiol
+15(11):713–716.  Belkin  NL  [2000].  Selecting  protective  apparel  for  the  degree  of
+exposure  anticipated.  Infect  Control  Hosp  Epidemiol  21(7):436.  Brown  PL  [1992].
+Protective  clothing  for  health  care  workers:  liquidproofness  versus  microbiological
+resistance.  In:  McBriarity  J,  Henry  N,  eds.  Performance  of  protective  clothing.  Vol.  4.
+ASTM  STP  1133.  Philadelphia:  American  Society  for  Testing  and  Materials,  pp.  65–82.
+Gupta  BS  [1988].  The  effect  of  structural  factors  on  the  absorbent  characteristics  of
+nonwovens. Tappi J 71(8):147–152. Henry NW III, Monteiori DG [1992]. The resistance of
+clothing  materials  to  biological  liquids.  In:  McBriarity  J,  Henry  N,  eds.  Performance  of
+protective  clothing.  Vol.  4.  ASTM  STP  1133.  Philadelphia,  PA:  American  Society  for
+Testing  and  Materials,  pp.  58–64.  Jaques,  Peter  A.,  et  al.  “Evaluation  of  gowns  and
+coveralls  used  by  medical  personnel  working  with  Ebola  patients  against  simulated
+bodily  fluids  using  an  Elbow  Lean  Test.”  Journal  of  occupational  and  environmental
+hygiene  13.11  (2016):  881-893.  Kilinc-Balci  S  [2015].  A  review  of  isolation  gowns  in
+healthcare:  fabric  and  gown  properties.  J  Eng  Fiber  Fabr  Sep;  10(3):  180–190.
+Kilinc-Balci S [2014]. How well do you think you are protected? Understanding proper
+use  and  disposal  of  protective  gowns  for  healthcare  workers.  NIOSH  science  blog.
+National
+ Institute
+ for
+ Occupational
+ Safety
+ and
+ Health.
+https://blogs.cdc.gov/niosh-science-blog/2014/05/05/gowns/.  Date  accessed:  November
+2014. Kilinc-Balci S and D’Alessandro M [2015]. NIOSH research highlights importance
+of  rigorous  standards  for  gowns  used  to  protect  healthcare  workers.  NIOSH  science
+blog.
+ National
+ Institute
+ for
+ Occupational
+ Safety
+ and
+ Health.
+https://blogs.cdc.gov/niosh-science-blog/2015/07/22/isolation-gowns/
+ Date
+ accessed:
+January  2018.  Laing  RM  [2008].  Protection  provided  by  clothing  and  textiles  against
+potential hazards in the operating theatre. Int J Occup Saf Ergon 14(1):107–115. Leonas
+KK  [2005].  Microorganism  protection.  In:  Scott  RA,  ed.  Textiles  for  protection.  Boca
+Raton, FL: Woodhead Publishing-CRC Press, pp. 441–464. Leonas KK, Jinkins RS [1997].
+The  relationship  of  selected  fabric  characteristics  and  the  barrier  effectiveness  of
+surgical gown fabrics. Am J Infect Control 25(1):16–23. NIOSH [2009]. Improved criteria
+for emergency medical protective clothing. NIOSH science blog. By Fries E, Shepherd A.
+National
+ Institute
+ for
+ Occupational
+ Safety
+ and
+ Health.
+https://blogs.cdc.gov/niosh-science-blog/2009/01/20/ppe-2/.  Date  accessed:  November
+2014. Parthasarathi V, Thilagavathi G [2013]. Developing antiviral surgical gown using
+nonwoven  fabrics  for  health  care  sector.  Afr  Health  Sci  13(2):327–332.  Rutala  WA,
+Weber DJ [2001]. A review of single-use and reusable gowns and drapes in health care.
+Infect  Control  Hosp  Epidemiol  22(4):248–257.   Standards  referenced  in  guidance
+document and imbedded links 
+Source URL: https://www.cdc.gov/niosh/npptl/topics/protectiveclothing/default.html

@@ -1,0 +1,53 @@
+A .gov website belongs to an official government organization in the United States. A
+lock (  ) or https:// means you've safely connected to the .gov website. Share sensitive
+information  only  on  official,  secure  websites.  Preventing  transmission  of  respiratory
+pathogens including MERS-CoV in hospitals requires the application of infection control
+procedures
+ and
+ protocols
+ including
+ environmental
+ and
+ engineering
+ controls,
+administrative controls, safer work practices, and personal protective equipment (PPE). 
+Measures that enhance early detection and prompt triage and isolation of patients who
+should be evaluated for MERS-CoV are critical to ensuring effective implementation of
+infection  control  measures.  Successful  implementation  of  many,  if  not  all,  of  these
+strategies  is  dependent  on  the  presence  of  clear  administrative  policies  and
+organizational
+ leadership
+ that
+ promote
+ and
+ facilitate
+ adherence
+ to
+ these
+recommendations  among  the  various  people  within  the  healthcare  setting,  including
+patients,  visitors,  and  HCP.  Though  these  recommendations  focus  on  the  hospital
+setting  (a  setting  where  MERS-CoV  transmission  has  been  reported  from  some
+international  locations),  the  recommendations  for  PPE,  source  control  (i.e.,  placing  a
+facemask on potentially infected patients when outside of an airborne infection isolation
+room), and environmental infection control measures are applicable to any healthcare
+setting. This guidance does not apply to non-healthcare settings (e.g., schools) OR to
+persons  outside  of  healthcare  settings.  This  guidance  also  does  not  provide
+recommendations  for  clinical  management,  air  or  ground  medical  transport,  or
+laboratory  settings.  Ensure  facility  policies  and  practices  are  in  place  to  minimize
+exposures  to  respiratory  pathogens  including  MERS-CoV.  Measures  should  be
+implemented  before  patient  arrival,  upon  arrival,  and  throughout  the  duration  of  the
+affected patient's presence in the healthcare setting. Standard precautions assume that
+every  person  is  potentially  infected  or  colonized  with  a  pathogen  that  could  be
+transmitted in the healthcare setting. Elements of standard precautions that apply to
+patients  with  respiratory  infections,  including  those  caused  by  MERS-CoV,  are
+summarized below. Attention should be paid to training and proper donning (put on),
+doffing  (take  off),  and  disposal  of  any  personal  protective  equipment.  All  aspects  of
+standard precautions (e.g., injection safety) are not emphasized in this document but
+can be found in the guideline titled Isolation Precautions Guideline. All HCP (see section
+7 for measures for non-HCP visitors) who enter the room of a patient with suspected or
+confirmed  MERS-CoV  should  adhere  to  Standard,  Contact,  and  Airborne  precautions,
+including the following: N95 Respirators, FDA Facemasks, FDA Middle East Respiratory
+Syndrome  (MERS)  is  a  viral  respiratory  illness  caused  by  a  coronavirus  called  Middle
+East  respiratory  syndrome  coronavirus  (MERS-CoV).  Languages  Language  Assistance
+Languages  Language Assistance 
+Source URL: https://www.cdc.gov/mers/hcp/infection-control/index.html

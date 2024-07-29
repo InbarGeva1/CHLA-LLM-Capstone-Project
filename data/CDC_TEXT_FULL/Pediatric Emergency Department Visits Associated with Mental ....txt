@@ -1,0 +1,355 @@
+Official websites use .gov A .gov website belongs to an official government organization
+in  the  United  States.  Secure  .gov  websites  use  HTTPS  A  lock  (   )  or  https://  means
+you've  safely  connected  to  the  .gov  website.  Share  sensitive  information  only  on
+official, secure websites. Weekly / February 25, 2022 / 71(8);319–324 On February 18,
+2022,  this  report  was  posted  online  as  an  MMWR  Early  Release.  Lakshmi
+Radhakrishnan, MPH1; Rebecca T. Leeb, PhD2; Rebecca H. Bitsko, PhD2; Kelly Carey,
+MPH1;  Abigail  Gates,  MSPH1;  Kristin  M.  Holland,  PhD3;  Kathleen  P.  Hartnett,  PhD1;
+Aaron Kite-Powell, MS1; Jourdan DeVies, MS4; Amanda R. Smith, PhD1,5; Katharina L.
+van  Santen,  MSPH4;  Sophia  Crossen,  MS6;  Michael  Sheppard,  MS1;  Samantha  Wotiz,
+MPH7;  Rashon  I.  Lane,  PhD8;  Rashid  Njai,  PhD9;  Amelia  G.  Johnson,  DrPH10;  Amber
+Winn, MPH10; Hannah L. Kirking, MD10; Loren Rodgers, PhD1; Craig W. Thomas, PhD11;
+Karl  Soetebier,  MAPW1;  Jennifer  Adjemian,  PhD1;  Kayla  N.  Anderson,  PhD12  (View
+author affiliations) What is already known about this topic? The proportion of pediatric
+emergency department (ED) visits for mental health conditions (MHCs) increased during
+2020. What is added by this report? Weekly ED visits among adolescent females (aged
+12–17  years)  increased  for  two  MHCs  (eating  and  tic  disorders)  during  2020,  four
+(depression,  eating,  tic,  and  obsessive-compulsive  disorders)  during  2021,  and  five
+(anxiety; trauma and stressor-related; eating; tic; and obsessive-compulsive disorders)
+and overall MHC visits during January 2022, compared with 2019. The proportion of ED
+visits with eating disorders doubled among adolescent females; those for tic disorders
+approximately tripled during the pandemic. What are the implications for public health
+practice? Early identification and expanded evidence-based prevention and intervention
+strategies  are  critical  to  improving  pediatric  mental  health,  especially  among
+adolescent females, who might have increased need. Views equals page views plus PDF
+downloads  Figure  1  Figure  2  In  2021,  a  national  emergency*  for  children’s  mental
+health  was  declared  by  several  pediatric  health  organizations,  and  the  U.S.  Surgeon
+General released an advisory† on mental health among youths. These actions resulted
+from ongoing concerns about children’s mental health in the United States, which was
+exacerbated by the COVID-19 pandemic (1,2). During March–October 2020, among all
+emergency  department  (ED)  visits,  the  proportion  of  mental  health-related  visits
+increased by 24% among U.S. children aged 5–11 years and 31% among adolescents
+aged 12–17 years, compared with 2019 (2). CDC examined changes in U.S. pediatric ED
+visits for overall mental health conditions (MHCs) and ED visits associated with specific
+MHCs  (depression;  anxiety;  disruptive  behavioral  and  impulse-control  disorders;
+attention-deficit/hyperactivity  disorder;  trauma  and  stressor-related  disorders;  bipolar
+disorders;  eating  disorders;  tic  disorders;  and  obsessive-compulsive  disorders  [OCD])
+during 2019 through January 2022 among children and adolescents aged 0–17 years,
+overall and by sex and age. After declines in weekly visits associated with MHCs among
+those aged 0–17 years during 2020, weekly numbers of ED visits for MHCs overall and
+for specific MHCs varied by age and sex during 2021 and January 2022, when compared
+with  corresponding  weeks  in  2019.  Among  adolescent  females  aged  12–17  years,
+weekly  visits  increased  for  two  of  nine  MHCs  during  2020  (eating  disorders  and  tic
+disorders),  for  four  of  nine  MHCs  during  2021  (depression,  eating  disorders,  tic
+disorders, and OCD), and for five of nine MHCs during January 2022 (anxiety, trauma
+and  stressor-related  disorders,  eating  disorders,  tic  disorders,  and  OCD),  and  overall
+MHC visits during January 2022, compared with 2019. Early identification and expanded
+evidence-based  prevention  and  intervention  strategies  are  critical  to  improving
+children’s and adolescents’ mental health (1–3), especially among adolescent females,
+who  might  have  increased  need.  CDC  examined  data  from  the  National  Syndromic
+Surveillance Program (NSSP)§ using three pandemic surveillance periods following the
+declaration  of  a  national  COVID-19  emergency  on  March  13,  2020:  March  15,
+2020–January 2, 2021 (2020); January 3, 2021–January 1, 2022 (2021); and January 2,
+2022–January  29,  2022  (January  2022).  These  periods  were  compared  with
+corresponding  weeks  in  2019,  from  facilities  consistently  reporting  data  during
+2019–2022.¶  Keyword  syndromes**  using  reported  reason  for  visit  (chief  complaint)
+and  administrative  diagnosis  codes  were  developed  and  validated  by  CDC  in
+partnership with state, tribal, local, and territorial health departments (Supplementary
+Box,  https://stacks.cdc.gov/view/cdc/114477).  To  quantify  change  over  time,  CDC
+calculated the percent change in mean number of weekly ED visits†† for children and
+adolescents aged 0–17 years, as well as by age group (0–4, 5–11, and 12–17 years) and
+sex. To describe changes in visit volume reported to NSSP, CDC classified the percent
+change  in  visits  as  decreasing  (less  than  a  −10%  change),  stable  (−10%  to  10%
+change), or increasing >10% change). Visit ratios (VRs)§§ with 95% CIs were calculated;
+CIs that excluded 1 were considered statistically significant. Analyses were conducted
+using R software (version 4.1.2; R Foundation). This activity was reviewed by CDC and
+was  conducted  consistent  with  applicable  federal  law  and  CDC  policy.¶¶  Average
+weekly visits for overall MHCs*** among all children and adolescents (aged 0–17 years)
+decreased  during  2020  (–27%)  and  were  stable  during  2021  (–8%)  and  January  2022
+(–5%)  compared  with  2019,  with  differences  by  sex  (Figure  1)  (Supplementary  Table,
+https://stacks.cdc.gov/view/cdc/114477).  However,  visits  for  overall  MHCs  among  all
+children and adolescents accounted for a larger proportion of all pediatric visits during
+2020, 2021, and January 2022 than during 2019, with variation by age group and MHC.
+By age group and sex, female adolescents aged 12–17 years accounted for the largest
+increases  in  the  number  and  proportion  of  visits  for  overall  MHCs  and  specific  MHCs
+during
+ all
+ periods
+ compared
+ with
+ 2019
+ (Supplementary
+ Figure
+ 1,
+https://stacks.cdc.gov/view/cdc/114477). The number of weekly visits for overall MHCs
+and specific MHCs mostly decreased for males aged 0–17 years and for children aged
+0–4  and  5–11  years  across  surveillance  periods;  the  proportion  of  ED  visits  for  males
+and  younger  children  varied  by  MHCs  and  surveillance  period  (Supplementary  Table;
+https://stacks.cdc.gov/view/cdc/114477)
+ (Supplementary
+ Figure
+ 2,
+https://stacks.cdc.gov/view/cdc/114477). The volume of visits was low for overall MHCs
+and  for  specific  MHCs  among  children  aged  0–4  years.  With  regard  to  specific  MHCs,
+weekly  visits  for  tic  disorders  among  girls  aged  5–11  years  increased  during  2020,
+2021, and in January 2022, compared with 2019, as did the proportion of visits for tic
+disorders (VR = 3.04, 2.03, and 2.16, respectively); this pattern was not found among
+children aged 5–11 years overall or among boys within this age group (Supplementary
+Table,
+ https://stacks.cdc.gov/view/cdc/114477)
+ (Supplementary
+ Figure
+ 2,
+https://stacks.cdc.gov/view/cdc/114477). Among adolescents aged 12–17 years, weekly
+visits increased among females for two of nine MHCs in 2020 (eating and tic disorders);
+four of nine MHCs during 2021 (depression, eating and tic disorders, and OCD); and five
+of nine MHCs during January 2022 (anxiety, trauma and stressor-related, eating and tic
+disorders, and OCD) and overall MHC visits during January 2022, compared with 2019
+(Figure  1)  (Figure  2)  (Supplementary  Table,  https://stacks.cdc.gov/view/cdc/114477)
+(Supplementary
+ Figure
+ 1,
+ https://stacks.cdc.gov/view/cdc/114477).
+ Whereas
+ the
+proportion  of  visits  varied  by  MHC  and  surveillance  period  compared  with  2019,  the
+proportion  of  visits  for  eating  disorders  among  adolescent  females  increased  during
+2020, 2021, and January 2022 (VR = 1.95, 2.29, and 1.99, respectively) as did those for
+tic disorders (VR = 3.65, 3.94, and 2.96 respectively). Top Following declines in weekly
+visits associated with MHCs among children and adolescents aged 0–17 years, during
+2020  compared  with  2019,  weekly  ED  visits  for  MHCs  overall  and  for  specific  MHCs
+varied  by  age  and  sex  during  2021  and  in  January  2022.  The  current  trends  in  the
+number and proportion of MHC-related ED visits, along with previous research (1,2,4–8),
+indicate  that  the  mental  health  effects  of  the  pandemic  might  be  particularly  high
+among  adolescent  girls.  Increases  in  weekly  visits  for  eating  and  tic  disorders  for
+females,  and  particularly  among  adolescent  females  aged  12–17  years  during  2020,
+2021,  and  in  January  2022,  could  represent  an  overall  increase  in  distress  among
+females during the pandemic. Both eating and tic disorders can co-occur with anxiety,
+depression,  and  OCD  (1,4–7).  Eating  disorders  can  be  triggered  by  pandemic-related
+risk factors (e.g., lack of structure in daily routine, emotional distress, and changes in
+food  availability)  or  exacerbated  by  reduced  access  to  mental  health  care  during  the
+pandemic  (4,5).  Increases  in  visits  for  tic  disorders  among  adolescent  females  are
+atypical; tic disorders usually begin earlier in childhood and are more prevalent among
+males  (6,7).  Stress  of  the  pandemic  or  exposure  to  severe  tics,  highlighted  on  social
+media  platforms,  might  be  associated  with  increases  in  visits  with  tics  and  tic-like
+behavior among adolescent females (6). In general, the number of MHC-related visits
+decreased for adolescent males aged 12–17 years during 2020, 2021, and in January
+2022, but there was variation in the proportion of MHCs of all ED visits by pandemic
+year  and  specific  MHC.  These  sex  differences  might  represent  differences  in  need,
+recognition,  and  health  care–seeking  behavior.  Systemic  changes,  such  as  increasing
+access  to  available  tools†††  and  mental  health  services  can  improve  emotional
+well-being during and after crises among children and adolescents (3). EDs are often
+the  access  point  of  care  for  pediatric  mental  health  emergencies.  Declines  in
+MHC-related  visits  during  2020  align  with  previous  research  (2),  and  with  reported
+declines in overall volume of pediatric ED visits during the pandemic (8). During 2021
+and January 2022, visits for overall MHCs were stable among children and adolescents
+aged 0–17 years but accounted for a larger proportion of all ED visits compared with
+2019.  Concerns  about  ED  capacity  and  potential  spread  of  COVID-19  might  have
+contributed to a delay in seeking health care; thus, ED visits related to MHCs during the
+pandemic  might  underestimate  the  actual  need  and  represent  more  severe
+presentations of MHCs than if earlier intervention and treatment were available (5). The
+highly  complex  nature  of  individual  experiences  makes  it  difficult  to  identify  a  single
+reason  for  changes  in  MHCs  during  the  pandemic.  Although  prolonged  time  at  home
+could have increased familial support and identification of mental health care needs for
+some  youths,  it  might  have  amplified  adversities  and  stressors  among  others.§§§
+Exposure to adverse childhood experiences,¶¶¶ such as loss of parents and caregivers,
+increases  in  parental  mental  health  challenges  and  substance  use  (9),  and  financial
+vulnerabilities**** might have been exacerbated by the pandemic and are associated
+with poor mental health outcomes among children and adolescents. As of June 2021,
+approximately 140,000 U.S. children and adolescents had lost parents and caregivers
+to  COVID-19  (10).  In  addition,  the  pandemic  disrupted  social  and  physical  activities:
+many  adolescents  have  experienced  substantial  disruption  to  daily  and  academic
+routines,  faced  uncertainty  and  loneliness,  and  increased  social  media  use  (3–7,9).
+These  factors  could  have  created  or  exacerbated  risk  for  MHCs  among  children  and
+adolescents. Promoting policies to improve access to mental health services, including
+telemental  health,  and  community-based  primary  prevention  strategies  to  reduce
+exposure to adverse childhood experiences can help mitigate risk for MHCs before they
+begin  (3,9).  The  findings  of  this  study  are  subject  to  at  least  five  limitations.  First,
+findings might differ from other studies based on the method of assessing ED visits for
+health  effects.  Second,  these  cross-sectional  data  cannot  be  used  to  make  causal
+inferences for changes in visit trends, draw conclusions about the acute versus chronic
+presentation  of  MHC  visits  within  EDs,  or  distinguish  between  visits  where  MHCs  are
+primary reason for visit versus those where MHCs are present but might not be the sole
+reason for the visit. Third, estimates for the youngest age group (0–4 years) should be
+interpreted with caution because of small numbers of weekly visits. Fourth, fluctuations
+in  underlying  data  quality,  coding  practices,  and  variations  in  lengths  of  surveillance
+periods, particularly during 2022, might not be reflective of trends from a longer period,
+potentially  over-  or  underrepresenting  visit  trends.  To  account  for  this,  only  facilities
+with  more  complete  data  during  the  period  of  study  were  included.  Finally,  NSSP  ED
+visit  data  are  a  convenience  sample  and  should  not  be  considered  nationally
+representative.  However,  surveillance  periods  were  compared  with  corresponding
+weeks in 2019 from facilities consistently reporting data during 2019–January 2022, and
+numbers of EDs remained relatively constant over time. Implementing evidence-based
+primary prevention, early identification, and intervention, and treatment strategies that
+promote physical and mental health among children and adolescents and that can be
+rapidly adapted during public health emergencies, can help prevent MHCs and improve
+pediatric  health  (1–3).  CDC  supports  efforts  to  promote  the  emotional  well-being  of
+children  and  adolescents  and  provides  resources  for  clinicians,††††  families,§§§§
+schools,¶¶¶¶  and  communities.*****  Top  National  Syndromic  Surveillance  Program
+Community  of  Practice  (NSSP  CoP);  NSSP  CoP  Syndrome  Definition  Committee  and
+Council  of  State  and  Territorial  Epidemiologists;  Dylan  Johns,  Zachary  Stein,  Barbara
+Lopes-Cardozo,  Matthew  D.  Ritchey,  Umed  A.  Ajani,  Paula  Yoon.  Top  Corresponding
+author:  Lakshmi  Radhakrishnan,  LRadhakrishnan@cdc.gov.  Top  1Division  of  Health
+Informatics  and  Surveillance,  Center  for  Surveillance,  Epidemiology,  and  Laboratory
+Services,  CDC;  2Division  of  Human  Development  and  Disability,  National  Center  on
+Birth  Defects  and  Developmental  Disabilities,  CDC;  3Division  of  Overdose  Prevention,
+National  Center  for  Injury  Prevention  and  Control,  CDC;  4ICF  International,  Fairfax,
+Virginia;  5Epidemic  Intelligence  Service,  CDC;  6InductiveHealth  Informatics,  Atlanta,
+Georgia;  7Deloitte,  Atlanta,  Georgia;  8Division  of  STD  Prevention,  National  Center  for
+HIV, Viral Hepatitis, STD, & TB Prevention, CDC; 9Office of Minority Health and Health
+Equity,  Office  of  the  Deputy  Director  for  Public  Health  Service  and  Implementation,
+CDC;  10Division  of  Viral  Diseases,  National  Center  for  Immunization  and  Respiratory
+Diseases,  CDC;  11Division  of  Population  Health,  National  Center  for  Chronic  Disease
+Prevention  and  Health  Promotion,  CDC;  12Division  of  Violence  Prevention,  National
+Center  for  Injury  Prevention  and  Control,  CDC.  Top  All  authors  have  completed  and
+submitted the International Committee of Medical Journal Editors form for disclosure of
+potential  conflicts  of  interest.  No  potential  conflicts  of  interest  were  disclosed.  Top  *
+https://www.aap.org/en/advocacy/child-and-adolescent-healthy-mental-development/aa
+p-aacap-cha-declaration-of-a-national-emergency-in-child-and-adolescent-mental-health
+/
+ †
+https://www.hhs.gov/sites/default/files/surgeon-general-youth-mental-health-advisory.p
+df  §  NSSP  is  a  collaboration  among  CDC,  local,  and  state  health  departments,  and
+federal, academic, and private sector partners. https://www.cdc.gov/nssp/index.html ¶
+To  reduce  artifactual  impact  from  changes  in  reporting  patterns,  analyses  were
+restricted  to  facilities  with  a  coefficient  of  variation  ≤40  and  average  weekly
+informative  discharge  diagnosis  ≥75%  complete  during  2019–2022.  **  NSSP  collects
+free-text  reason  for  visit  (chief  complaint),  discharge  diagnosis,  and  patient
+demographic  details.  Diagnosis  information  is  collected  using  codes  from  the
+International
+ Classification
+ of
+ Diseases,
+ Ninth
+ Revision,
+ Clinical
+ Modification,
+International  Classification  of  Diseases,  Tenth  Revision,  Clinical  Modification,  and
+Systematized  Nomenclature  of  Medicine.  Free-text  keywords  and  diagnostic  codes
+combined using Boolean searches were used to create distinct keyword syndromes to
+identify  visits  associated  with  overall  MHCs  and  nine  distinct  disorders  (anxiety;
+depression;
+ attention-deficit/hyperactivity;
+ bipolar;
+ disruptive
+ behavioral
+ and
+impulse-control;  eating;  obsessive-compulsive;  tic;  trauma  and  stressor-related).  The
+overall  MHC  keyword  syndrome  captures  any  mental  health-related  visits,  nine
+individual  mental  disorders,  schizophrenia  spectrum  disorders,  some  additional  low
+prevalence  mental  health  conditions  (e.g.,  reactive  attachment  disorder,  delusional
+disorders, and somatoform disorders), and general mental health terms and codes. ††
+Percent  change  in  visits  per  week  during  each  surveillance  period  was  calculated  as
+([mean weekly ED visits with health outcome during surveillance period − mean weekly
+ED visits with health outcome during comparison period] / mean weekly ED visits with
+health  outcome  during  comparison  period)  ×  100.  §§  VRs  =  (ED  visits  with  health
+outcome [surveillance period] / all ED visits [surveillance period]) / (ED visits with health
+outcome [comparison period] / all ED visits [comparison period]). Ratios >1 indicate a
+higher  proportion  of  ED  visits  with  the  health  outcome  during  the  surveillance  period
+than  the  comparison  period;  ratios  1  indicate  a  higher  proportion  of  ED  visits  with
+health outcome during the surveillance period for females compared with males. ¶¶ 45
+C.F.R. part 46.102(l)(2), 21 C.F.R. part 56; 42 U.S.C. Sect. 241(d); 5 U.S.C. Sect. 552a;
+44 U.S.C. Sect. 3501 et seq *** Overall MHCs keyword syndrome captures any mental
+health–related visit, nine individual mental disorders, schizophrenia spectrum disorders,
+some  additional  low  prevalence  mental  health  conditions  (e.g.,  reactive  attachment
+disorder,  delusional  disorders,  and  somatoform  disorders),  and  general  mental  health
+terms
+ and
+ codes.
+ †††
+https://www.nap.edu/resource/other/dbasse/wellbeing-tools/interactive/
+ §§§
+https://www.aap.org/en/patient-care/family-snapshot-during-the-covid-19-pandemic/
+¶¶¶
+ https://www.cdc.gov/violenceprevention/pdf/preventingACES.pdf
+ ****
+https://www.aap.org/en/patient-care/family-snapshot-during-the-covid-19-pandemic/the
+-financial-impact-of-the-pandemic-on-families-with-children/
+ ††††
+https://www.cdc.gov/childrensmentalhealth/documents/access-infographic.html
+ §§§§
+https://www.cdc.gov/mentalhealth/stress-coping/help-children-cope/index.html
+ ¶¶¶¶
+https://www.cdc.gov/healthyyouth/whatworks/what-works-safe-and-supportive-environ
+ments.htm
+ *****
+https://www.cdc.gov/violenceprevention/childabuseandneglect/essentials/
+ Top
+ Top
+Abbreviations: ED = emergency department; ICD-9-CM = International Classification of
+Diseases, Ninth Revision, Clinical Modification; ICD-10-CM = International Classification
+of Diseases, Tenth Revision, Clinical Modification; MHC = mental health condition; NSSP
+= National Syndromic Surveillance Program; SNOMED = Systematized Nomenclature of
+Medicine. * NSSP receives anonymized medical record information from approximately
+71%  of  nonfederal  EDs  nationwide.  To  reduce  artifactual  impact  from  changes  in
+reporting patterns, analyses were restricted to facilities with more consistent reporting
+of  more  complete  data  (coefficient  of  variation  ≤40  and  average  weekly  informative
+discharge  diagnosis  ≥75%  complete  during  2019–2022).  †  NSSP  collects  free-text
+reason for visit (chief complaint), discharge diagnosis, and patient demographic details.
+Diagnosis  information  is  collected  using  ICD-9-CM,  ICD-10-CM,  and  SNOMED  codes.
+Free-text keywords and diagnostic codes combined using Boolean searches were used
+to  create  a  keyword  syndrome  to  identify  visits  associated  with  overall  MHCs.  This
+keyword  syndrome  includes  visits  related  to  nine  distinct  disorders  (anxiety;
+depression;
+ attention-deficit/hyperactivity;
+ bipolar;
+ disruptive
+ behavioral
+ and
+impulse-control;  eating;  obsessive-compulsive;  tic;  and  trauma  and  stressor-related),
+schizophrenia spectrum disorders, some additional low prevalence MHCs (e.g., reactive
+attachment  disorder,  delusional  disorders,  or  somatoform  disorders),  and  general
+mental  health  terms  and  codes.  Top  Abbreviations:  ED  =  emergency  department;
+ICD-9-CM = International Classification of Diseases, Ninth Revision, Clinical Modification;
+ICD-10-CM  =  International  Classification  of  Diseases,  Tenth  Revision,  Clinical
+Modification;
+ NSSP
+ =
+ National
+ Syndromic
+ Surveillance
+ Program;
+ SNOMED
+ =
+Systematized Nomenclature of Medicine. * NSSP receives anonymized medical record
+information  from  approximately  71%  of  nonfederal  EDs  nationwide.  To  reduce
+artifactual  impact  from  changes  in  reporting  patterns,  analyses  were  restricted  to
+facilities with more consistent reporting of more complete data (coefficient of variation
+≤40  and  average  weekly  informative  discharge  diagnosis  ≥75%  complete  during
+2019–2022).  †  NSSP  collects  free-text  reason  for  visit  (chief  complaint),  discharge
+diagnosis,  and  patient  demographic  details.  Diagnosis  information  is  collected  using
+ICD-9-CM,  ICD-10-CM,  and  SNOMED  codes.  Free-text  keywords  and  diagnostic  codes
+combined using Boolean searches were used to create a keyword syndrome to identify
+visits associated with eating and tic disorders. Top Suggested citation for this article:
+Radhakrishnan  L,  Leeb  RT,  Bitsko  RH,  et  al.  Pediatric  Emergency  Department  Visits
+Associated with Mental Health Conditions Before and During the COVID-19 Pandemic —
+United
+ States,
+ January
+ 2019–January
+ 2022.
+ MMWR
+ Morb
+ Mortal
+ Wkly
+ Rep
+2022;71:319–324. DOI: http://dx.doi.org/10.15585/mmwr.mm7108e2. 
+MMWR  and  Morbidity  and  Mortality  Weekly  Report  are  service  marks  of  the  U.S.
+Department of Health and Human Services.
+Use of trade names and commercial sources is for identification only and does not imply
+endorsement by the U.S. Department of 
+Health and Human Services. References to non-CDC sites on the Internet are 
+provided as a service to MMWR readers and do not constitute or imply 
+endorsement of these organizations or their programs by CDC or the U.S. 
+Department of Health and Human Services. CDC is not responsible for the content 
+of pages found at these sites. URL addresses listed in MMWR were current as of 
+the  date  of  publication.  All  HTML  versions  of  MMWR  articles  are  generated  from  final
+proofs through an automated process. 
+This  conversion  might  result  in  character  translation  or  format  errors  in  the  HTML
+version. 
+Users are referred to the electronic PDF version (https://www.cdc.gov/mmwr) 
+and/or the original MMWR paper copy for printable versions of official text, figures, and
+tables. 
+ Questions or messages regarding errors in formatting should be addressed to 
+mmwrq@cdc.gov.
+Source URL: https://www.cdc.gov/mmwr/volumes/71/wr/mm7108e2.htm

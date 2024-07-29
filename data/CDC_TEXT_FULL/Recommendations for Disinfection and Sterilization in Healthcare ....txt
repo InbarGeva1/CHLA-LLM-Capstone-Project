@@ -1,0 +1,52 @@
+A .gov website belongs to an official government organization in the United States. A
+lock (  ) or https:// means you've safely connected to the .gov website. Share sensitive
+information  only  on  official,  secure  websites.  Below  are  tables  summarizing
+recommendations  for  this  guideline.  The  ultimate  goal  of  the  Recommendations  for
+Disinfection  and  Sterilization  in  Health-Care  Facilities,  2008,  is  to  reduce  rates  of
+health-care  associated  infections  through  appropriate  use  of  both  disinfection  and
+sterilization.  Each  recommendation  is  categorized  according  to  scientific  evidence,
+theoretical  rationale,  applicability,  and  federal  regulations.  Examples  are  included  in
+some recommendations to aid the reader; however, these examples are not intended to
+define  the  only  method  of  implementing  the  recommendation.  The  CDC  system  for
+categorizing  recommendations  is  defined  in  the  following  (Rankings)  section.
+Update:  Use  an  EPA-registered  sporicidal  disinfectant  in  units  with  high  rates  of
+endemic  Clostridium  difficile  infection  or  in  an  outbreak  setting.  Clarification
+Statement:  CDC  and  HICPAC  have  recommendations  in  both  2003  Guidelines  for
+Environmental  Infection  Control  in  Health-Care  Facilities  and  the  2008  Guideline  for
+Disinfection and Sterilization in Healthcare Facilities that state that the CDC does not
+support  disinfectant  fogging.  Specifically,  the  2003  and  2008  Guidelines  state:  These
+recommendations  refer  to  the  spraying  or  fogging  of  chemicals  (e.g.,  formaldehyde,
+phenol-based
+ agents,
+ or
+ quaternary
+ ammonium
+ compounds)
+ as
+ a
+ way
+ to
+decontaminate  environmental  surfaces  or  disinfect  the  air  in  patient  rooms.  The
+recommendation  against  fogging  was  based  on  studies  in  the  1970’s  that  reported  a
+lack  of  microbicidal  efficacy  (e.g.,  use  of  quaternary  ammonium  compounds  in  mist
+applications)  but  also  adverse  effects  on  healthcare  workers  and  others  in  facilities
+where  these  methods  were  utilized.  Furthermore,  some  of  these  chemicals  are  not
+EPA-registered  for  use  in  fogging-type  applications.  These  recommendations  do  not
+apply  to  newer  technologies  involving  fogging  for  room  decontamination  (e.g.,  ozone
+mists,  vaporized  hydrogen  peroxide)  that  have  become  available  since  the  2003  and
+2008 recommendations were made. These newer technologies were assessed by CDC
+and  HICPAC  in  the  2011  Guideline  for  the  Prevention  and  Control  of  Norovirus
+Gastroenteritis  Outbreaks  in  Healthcare  Settings,  which  makes  the  recommendation:
+“More  research  is  required  to  clarify  the  effectiveness  and  reliability  of  fogging,  UV
+irradiation,  and  ozone  mists  to  reduce  norovirus  environmental  contamination.  (No
+recommendation/unresolved  issue)”  The  2003  and  2008  recommendations  still  apply;
+however,  CDC  does  not  yet  make  a  recommendation  regarding  these  newer
+technologies.  This  issue  will  be  revisited  as  additional  evidence  becomes  available.
+Update:  Multisociety  guideline  on  reprocessing  flexible  gastrointestinal  endoscopes:
+2011 Cdc-pdfpdf icon[PDF – 547KB]Externalexternal icon CDC provides information on
+infection  control  and  clinical  safety  to  help  reduce  the  risk  of  infections  among
+healthcare workers, patients, and visitors. Languages Language Assistance Languages 
+Language Assistance 
+Source
+ URL:
+https://www.cdc.gov/infection-control/hcp/disinfection-sterilization/summary-recommendations.html

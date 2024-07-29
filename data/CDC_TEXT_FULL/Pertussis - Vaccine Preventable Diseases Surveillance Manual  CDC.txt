@@ -1,0 +1,256 @@
+Official websites use .gov A .gov website belongs to an official government organization
+in  the  United  States.  Secure  .gov  websites  use  HTTPS  A  lock  (   )  or  https://  means
+you've  safely  connected  to  the  .gov  website.  Share  sensitive  information  only  on
+official, secure websites. Authors: Amy Blain, MPH; Tami Skoff, MS; Pam Cassiday, MS;
+Maria  Lucia  Tondella,  PhD;  Anna  Acosta,  MD  Pertussis,  more  commonly  known  as
+whooping  cough,  is  a  contagious,  respiratory  disease  caused  by  the  bacterium
+Bordetella  pertussis.  The  illness  is  typically  characterized  by  a  prolonged  paroxysmal
+cough  that  is  often  accompanied  by  an  inspiratory  whoop.  Disease  presentation  can
+vary  with  age  and  history  of  previous  exposure  or  vaccination.  Young  infants  may
+present to a clinic or hospital with apnea and no other disease symptoms. Adults and
+adolescents with some immunity may exhibit only mild symptoms or have the typical
+prolonged paroxysmal cough. In all persons, cough can continue for months. Pertussis
+rarely  causes  severe  complications  among  healthy,  vaccinated  persons.  Infants,
+however,  are  at  greatest  risk  for  pertussis-related  complications  and  mortality.
+Pneumonia  is  the  most  common  complication  in  all  age  groups;  seizures  and
+encephalopathy are rare and generally occur only among very young infants. Death is
+infrequent  and  most  likely  to  occur  in  unvaccinated  infants,  although  fatalities  are
+occasionally  reported  among  older  children  and  adults  with  serious  underlying  health
+conditions.[1] In addition to B. pertussis, 3 other Bordetella species can cause disease
+in humans: B. parapertussis, B. holmesii, and B. bronchiseptica. B. parapertussis causes
+a  pertussis-like  illness  that  is  generally  milder  than  pertussis,  likely  because  the
+bacteria  do  not  produce  pertussis  toxin.  Co-infection  of  B.  pertussis  and  B.
+parapertussis  can  occur  but  is  uncommon.  Disease  attributable  to  Bordetella  species
+other  than  B.  pertussis  is  not  reportable  to  the  Centers  for  Disease  Control  and
+Prevention  (CDC).  In  the  pre-vaccine  era,  pertussis  was  a  common  childhood  disease
+and a major cause of child and infant mortality in the United States. Routine childhood
+vaccination  led  to  a  reduction  in  disease  incidence  from  an  average  of  150  reported
+cases per 100,000 persons between 1922 and 1940, to 0.5 cases per 100,000 persons
+in 1976.[2] The incidence of reported pertussis began increasing in the 1980s, however,
+and significant peaks in disease have been observed in recent years. In 2012, 48,277
+cases  were  reported  nationwide,  exceeding  levels  observed  since  1955.  Reported
+pertussis cases have decreased since 2012, with 18,975 cases reported during 2017;
+however, levels remain significantly increased compared to those observed during the
+1990s  and  early  2000s.  Multiple  factors  have  likely  contributed  to  the  increase,
+including waning immunity from acellular pertussis vaccines, heightened provider and
+public awareness, improved diagnostic testing, and possibly molecular changes within
+the  pertussis  bacterium.  The  incidence  of  pertussis  remains  highest  among  young
+infants.  From  2012  through  2017,  66.7%,  of  all  pertussis-related  deaths  (n  =  72)
+reported to CDC were among infants less than two months of age, who were too young
+to have received DTaP vaccine. As of 2017, the second highest incidence of pertussis
+continues  to  occur  among  school-aged  children  and  adolescents.[3–5]  Early  diagnosis
+and  treatment  of  pertussis  might  limit  its  spread  to  other  susceptible  people.  When
+pertussis is strongly suspected, attempts to identify and provide chemoprophylaxis to
+household  and  other  close  contacts  at  high  risk  should  proceed  without  waiting  for
+laboratory  confirmation.  When  suspicion  of  pertussis  is  low,  the  investigation  can  be
+delayed
+ until
+ there
+ is
+ laboratory
+ confirmation
+ of
+ the
+ diagnosis.
+ However,
+chemoprophylaxis of pregnant women and infants, as well as their household contacts,
+should not be delayed. Surveillance data collected through case investigations are used
+to  assess  the  impact  of  disease  and  monitor  changes  in  epidemiology  over  time.
+Surveillance  data  are  also  used  to  guide  public  health  policy  and  development  of
+prevention  and  control  strategies.  CDC  uses  surveillance  data  to  monitor  national
+trends in pertussis and identify populations at risk. Local and state health departments
+use  surveillance  data  to  identify  clusters  of  related  cases  that  might  indicate  an
+outbreak.  Laboratory  surveillance  to  monitor  changes  in  the  B.  pertussis  organism  is
+also  important.  Isolates  of  B.  pertussis  collected  through  routine  surveillance  have
+provided researchers with the resources necessary to identify such changes, including
+recent changes in the organism at the molecular level.[6–9] This information is vital to
+understanding  the  evolution  of  B.  pertussis  and  how  those  changes  may  impact  the
+current pertussis vaccination program and other prevention strategies. See Section VII,
+“Laboratory  Testing”  for  more  details.  As  part  of  the  Healthy  People  2020  project,
+disease  reduction  goals  of  2,500  indigenous  pertussis  cases  per  year  in  children  <1
+year of age and 2,000 cases per year among adolescents 11 through 18 years of age
+were proposed.[10] In 2017, 2,276 cases were reported among infants less than 1 year
+of  age,  while  6,171  cases  were  observed  among  adolescents  11  through  18  years  of
+age.[5]   Top  of  Page  The  following  case  definition  for  pertussis  was  approved  by  the
+Council of State and Territorial Epidemiologists (CSTE) in June 2019 and went into effect
+January 1, 2020.[11] In the absence of a more likely diagnosis, a cough illness lasting
+≥2 weeks with at least one of the following signs or symptoms: Probable:  Confirmed: 
+Collection of epidemiologic and clinical data is essential for reporting cases that meet
+the  clinical  case  definition.  Investigators  should  make  every  attempt  to  collect
+information on paroxysms of cough, whoop, posttussive vomiting, apnea, and duration
+of cough, as these variables are required to determine whether an individual meets the
+pertussis  clinical  case  definition.  When  feasible,  case  investigations  initiated  shortly
+after cough onset should include follow-up calls to collect information on cough duration
+of at least 14 days. Follow-up is essential regardless of confirmatory test results so that
+cases meeting the clinical case definition can be reported. Both probable and confirmed
+pertussis  cases  should  be  reported  to  the  National  Notifiable  Diseases  Surveillance
+System  (NNDSS)  by  the  state  health  department  via  the  National  Electronic
+Telecommunications  System  for  Surveillance  (NETSS)  or  National  Electronic  Disease
+Surveillance  System  (NEDSS).  Laboratory  confirmation  of  pertussis  is  important
+because  other  pathogens  can  cause  symptoms  similar  to  pertussis.  All  patients  with
+cough and a positive B. pertussis culture or PCR should be reported as confirmed, even
+those  with  cough  lasting  less  than  14  days.   Top  of  Page  Refer  to  Chapter  22,
+“Laboratory  Support  for  Surveillance  of  Vaccine-Preventable  Diseases”  for  detailed
+information on laboratory testing for pertussis and for specific information on specimen
+collection  and  shipment.  Specimen  collection  and  shipping  are  important  steps  in
+obtaining laboratory diagnosis or disease confirmation. Guidelines have been published
+for  specimen  collection  and  handling  of  microbiologic  agents.  Information  is  also
+available on using CDC laboratories as support for reference and disease surveillance;
+this  includes  Determining  who  has  pertussis  and  who  does  not  can  be  difficult.
+Whenever  possible,  a  nasopharyngeal  swab  or  aspirate  should  be  obtained  from  all
+persons with suspected pertussis. A properly obtained nasopharyngeal swab or aspirate
+is  essential  for  optimal  laboratory  diagnosis.  Health  department  personnel  and  other
+healthcare  practitioners  who  are  asked  to  obtain  these  specimens  should  receive
+training  and  supervision  from  persons  experienced  in  collection  of  nasopharyngeal
+specimens.  CDC  has  developed  two  short  training  videos  for  collection  of
+nasopharyngeal  aspirate  and  swab  specimens,  which  can  be  accessed  on  the  CDC
+pertussis website.  Top of Page Each state and territory (jurisdiction) has regulations or
+laws  governing  the  reporting  of  diseases  and  conditions  of  public  health  importance.
+[12]  These  regulations  and  laws  list  the  diseases  to  be  reported  and  describe  those
+persons  or  institutions  responsible  for  reporting,  including  healthcare  providers,
+hospitals, laboratories, schools, daycare and childcare facilities, and other institutions.
+Persons  reporting  should  contact  the  jurisdiction/state  health  department  for
+jurisdiction-specific  reporting  requirements.  Notifications  by  jurisdiction/state  health
+departments of all probable and confirmed pertussis cases should be sent to CDC using
+event code 10190 through NNDSS via NETSS or NEDSS. When provisional information is
+reported to NNDSS, NETSS and NEDSS reports can be updated as additional information
+is collected. NETSS and NEDSS accept information about clinical symptoms, laboratory
+confirmation,  and  vaccination  history;  this  information  is  included  in  the  Pertussis
+Surveillance Worksheet (Appendix 11 [2 pages]) available for reference and use in case
+investigation.  Case  notifications  should  not  be  delayed  because  of  incomplete
+information  or  lack  of  confirmation.  Data  can  be  updated  electronically  as  more
+information  becomes  available.  Case  investigation  should  include  collection  of  the
+epidemiologic  information  listed  on  the  CDC  pertussis  surveillance  worksheet  (see
+Appendix  11).  State  health  departments  often  supplement  the  suggested  CDC
+investigation  questions  with  additional  information  relevant  to  cases  in  their
+communities.  The  jurisdiction  in  which  the  patient  resides  at  the  time  of  diagnosis
+should submit the case notification to CDC. When laboratory testing is not completed or
+is negative, but the individual has symptoms consistent with pertussis, it is important to
+determine duration of cough—specifically, whether it lasts 14 days or longer—in order
+to  determine  if  a  person’s  illness  meets  the  definition  of  a  clinical  case.  If  the  first
+interview is conducted within 14 days of cough onset and cough is still present at the
+time  of  interview,  it  is  important  to  follow  up  at  14  days  or  later  after  cough  onset.
+Pertussis  case  investigation  methods  vary  across  state  and  local  health  jurisdictions;
+CDC  is  committed  to  helping  improve  standardization  of  surveillance  practices  for
+pertussis. Please refer to Appendix 11 for a detailed instruction sheet describing each
+data element outlined in the pertussis surveillance worksheet.  Top of Page For specific
+information about the use of pertussis vaccines, refer to The Pink Book, which provides
+general  recommendations,  including  vaccine  use  and  scheduling,  immunization
+strategies for providers, vaccine content, adverse events and reactions, vaccine storage
+and  handling,  and  contraindications  and  precautions.   Top  of  Page  A  number  of
+surveillance  activities  can  improve  detection  and  reporting  of  cases  as  well  as  the
+completeness and accuracy of the case report form information reported. In addition to
+those outlined below, Chapter 19, “Enhancing Surveillance,” lists activities that might
+be applicable to pertussis surveillance. It is important that available diagnostic tests are
+used appropriately. To ensure pertussis diagnosis and reporting is optimized, reporting
+jurisdictions should assess the timing of diagnostic testing relative to cough onset for
+cases  identified  through  routine  surveillance.  Bacterial  culture  for  pertussis  is  most
+useful during the first 2 weeks of cough and prior to antibiotic use. PCR may effectively
+diagnose pertussis from 2–4 weeks of cough onset, although sensitivity declines after 3
+weeks. Appropriate serologic assays are most useful in the 2–8 weeks following cough
+onset;  however,  this  testing  is  not  confirmatory  for  the  purpose  of  case  reporting.
+Diagnostic  testing  at  inappropriate  times  may  result  in  both  false-positive  and
+false-negative  results,  reducing  the  overall  quality  of  pertussis  diagnosis,  and
+ultimately,  pertussis  surveillance.  Unlike  many  other  vaccine-preventable  diseases  of
+childhood, pertussis remains endemic in the United States. Cases are expected to occur
+in  all  communities;  a  period  of  several  years  in  which  no  cases  are  reported  from  a
+jurisdiction  likely  reflects  failures  to  diagnose  and/or  report  disease  rather  than  an
+absence of disease. The level of diagnostic testing being undertaken can be evaluated
+by  reviewing  the  number  of  pertussis  diagnostic  tests  (e.g.,  cultures  or  PCR  results)
+ordered by physicians within a jurisdiction. Regular monitoring of surveillance indicators
+might  identify  specific  areas  of  the  surveillance  and  reporting  system  that  need
+improvement. Some suggested surveillance indicators to monitor include:  Top of Page
+CDC has partnered with 7 states (CO, CT, GA, MN, NM, NY, and OR) participating in the
+Emerging  Infections  Program  (EIP)  Network  to  conduct  enhanced  surveillance  of
+pertussis  (EPS)  and  other  Bordetella  species.  EPS  is  characterized  by  enhanced  case
+ascertainment  and  augmented  data  collection  that  goes  beyond  what  is  requested
+nationally  through  NNDSS.  Participating  sites  collect  isolates  and  specimens,  when
+available, for further characterization at the CDC Pertussis and Diphtheria Laboratory.
+EPS  sites  also  provide  the  infrastructure  for  conducting  pertussis  special  studies
+including those aimed at evaluating pertussis prevention and control strategies. Other
+states  interested  in  collecting  additional  pertussis  surveillance  information  may
+consider  adding  the  following  data  elements  that  are  not  currently  included  on  the
+national pertussis surveillance worksheet: Although many surveillance systems still rely
+on  paper  and  pencil  for  data  collection,  use  of  data  from  sources  such  as  electronic
+medical records, electronic case reporting [13–19], and clinical laboratory information
+systems  (LIMS)  can  significantly  improve  reporting  speed,  enhance  data  quality,  and
+reduce  workload.   Top  of  Page  Case  investigations  generally  include  reviews  of
+laboratory, hospital, and clinic records, as well as immunization registries, which are the
+best sources for information about diagnoses and immunization histories. Investigations
+also include interviews of patients, which are necessary to identify sources of infections
+and  contacts  at  risk.  Investigations  can  include  treatment  of  patients  and
+chemoprophylaxis  and  or  vaccination  of  contacts.  Antimicrobial  treatment  does  not
+generally lessen the severity of disease unless it is begun early in the course of illness,
+prior  to  paroxysmal  coughing.  [20]  Early  treatment  reduces  transmission  and  is
+essential for disease control. The spread of pertussis can be limited by decreasing the
+infectivity  of  the  patient  and  by  protecting  close  contacts.[21]  Persons  with  pertussis
+are  infectious  from  the  onset  of  symptoms  through  the  third  week  after  the  onset  of
+paroxysms  or  until  5  days  after  the  start  of  effective  antimicrobial  treatment.  The
+recommended  antimicrobial  agents  and  doses  are  the  same  for  treatment  and
+chemoprophylaxis.[20]  Three  macrolides  (azithromycin,  erythromycin,  clarithromycin)
+are recommended for treatment of pertussis. Azithromycin is most popular because it is
+given  in  a  short,  simple  regimen  of  1  dose  each  day  for  5  days.  It  is  the  preferred
+antimicrobial for use in infants younger than 1 month of age. For infants younger than 1
+month  of  age,  macrolides  should  be  used  with  caution:  some  studies  have
+demonstrated  an  association  between  erythromycin  and  azithromycin  with  infantile
+hypertrophic pyloric stenosis (IHPS). However, infants younger than 1 month of age are
+at  increased  risk  of  developing  severe  pertussis  and  life-threatening  complications.
+These risks outweigh the potential risk of IHPS that has been associated with macrolide
+use.  Resistance  of  B.  pertussis  to  macrolides  is  rare,  and  antimicrobial  susceptibility
+testing  is  not  routinely  recommended.  Testing  is  appropriate  in  some  circumstances
+and  is  recommended  when  treatment  failure  is  suspected.  Refer  to  Section  VII,
+“Laboratory  Testing”  for  information  on  how  to  contact  the  CDC  Pertussis  and
+Diphtheria  Laboratory  to  discuss  susceptibility  testing.  If  resistance  to  macrolides  is
+suspected  or  if  their  use  is  contraindicated,  it  is  recommended  to  treat  with
+trimethoprim–sulfamethoxazole  (TMP-SMZ).  TMP-SMZ  should  not  be  used  to  treat
+infants  younger  than  2  months  of  age.[20]  CDC  recommends  administration  of
+chemoprophylaxis  to  contacts  at  high  risk  and  household  members  of  a  pertussis
+patient. For more specific information on chemoprophylaxis, please see the Outbreak
+Control  section  below.  Limited  available  data  suggest  B.  parapertussis  is  less
+susceptible  to  antibiotics  than  pertussis,  although  some  studies  indicate  that
+erythromycin,  azithromycin,  clarithromycin,  TMP-SMZ,  and  ciprofloxacin  have  activity
+against B. parapertussis.[20-29] Because data on the clinical effectiveness of antibiotic
+treatment are limited, treatment decisions should be based on clinical judgment with
+particular  attention  towards  special  populations,  including  infants,  elderly,  and
+immunocompromised  persons;  treatment  may  be  warranted  to  prevent  severe
+outcomes  and  decrease  duration  of  illness.  During  the  course  of  a  pertussis
+investigation, under-vaccinated contacts of pertussis cases may be identified. Contacts
+who have not received the recommended number of pertussis-containing vaccinations
+(i.e.,  DTaP,  Tdap)  should  follow  the  age  appropriate  catch-up  immunization
+schedule.[30,31] Vaccination is not a substitute for chemoprophylaxis and is unlikely to
+prevent illness in a person who has already been infected with B. pertussis.[30-33]  Top
+of Page Pertussis outbreaks can be difficult to identify and manage. Other respiratory
+pathogens  often  cause  clinical  symptoms  similar  to  pertussis,  and  co-circulation  with
+other  pathogens  does  occur.  To  respond  appropriately  (e.g.,  provide  appropriate
+chemoprophylaxis),  it  is  important  to  confirm  that  B.  pertussis  is  circulating  in  the
+outbreak  setting  and  to  determine  whether  other  pathogens  are  contributing  to  the
+outbreak. Because culture is the most specific test for pertussis, confirmation by culture
+for at least one suspected pertussis case is recommended any time there is suspicion of
+a pertussis outbreak. To reduce the risk of pertussis in new mothers and their infants,
+especially those too young to be vaccinated, ACIP recommends that pregnant women
+receive a dose of Tdap vaccine during each pregnancy. During outbreaks, prevention
+measures  should  focus  on  efforts  to  improve  Tdap  coverage  during  pregnancy  to
+reduce  severe  illness  and  possible  deaths  in  vulnerable  infants.  Pertussis  incidence
+remains  elevated  in  the  United  States,  and  community  transmission  is  widespread.
+Thus,  extensive  contact  tracing  and  broad-scale  use  of  chemoprophylaxis  among
+contacts  may  not  be  an  effective  use  of  limited  public  health  resources.  While
+antibiotics may prevent pertussis disease if given prior to symptom onset, there are no
+data to indicate that widespread use of chemoprophylaxis among contacts effectively
+controls or limits the scope of pertussis outbreaks. Another important consideration is
+the  overuse  of  antibiotics;  CDC  promotes  the  judicious  use  of  antibiotics  among
+healthcare  providers  and  patients.[34]  Given  these  considerations,  CDC  supports
+targeting chemoprophylaxis through the following measures to persons at high risk of
+developing severe pertussis and to persons who will have close contact with those at
+high  risk  of  developing  severe  pertussis:  A  broader  use  of  chemoprophylaxis  may  be
+appropriate in limited closed settings, when the number of identified cases is small, and
+when  a  community-wide  outbreak  is  not  ongoing.  However,  when  continued
+transmission  of  pertussis  is  evident,  multiple  rounds  of  antibiotics  would  not  be
+recommended.  Rather  than  repeating  a  course  of  antibiotics,  contacts  should  be
+monitored for onset of signs and symptoms of pertussis for 21 days. Active screening
+for symptomatic patients with suspected pertussis can be considered during outbreaks
+in  settings  such  as  schools,  daycare  centers,  and  hospitals.  Active  screening  for
+suspected  cases  potentially  reduces  exposure  to  persons  with  pertussis,  encourages
+timely medical evaluation and treatment of cases, and promotes prompt administration
+of  antibiotics  to  close  contacts  at  high  risk  for  infection  or  complications  due  to
+infection.[35-42] To receive email updates about this page, enter your email address:
+Source URL: https://www.cdc.gov/vaccines/pubs/surv-manual/chpt10-pertussis.html

@@ -1,0 +1,113 @@
+Official websites use .gov A .gov website belongs to an official government organization
+in  the  United  States.  Secure  .gov  websites  use  HTTPS  A  lock  (   )  or  https://  means
+you've  safely  connected  to  the  .gov  website.  Share  sensitive  information  only  on
+official, secure websites. NIOSH CA 2018-1005R1.0
+November  2018  NIOSH  published  this  notice  to  clarify  the  October  2,  2006  NIOSH
+“Letter  to  all  Manufacturers”  titled:  NIOSH  Policy  for  Respirator  Sealing  Surfaces  and
+Facial  Hair.  This  revised  notice  clarifies  the  NIOSH  definition  of  respirator  sealing
+surfaces, including the primary seal, and facial stubble. This revised notice supersedes
+the  October  2,  2006  letter  and  the  August  2018  version  of  NIOSH  CA  2018-1005.
+Specific  to  the  evaluations  completed  as  part  of  the  NIOSH  Respirator  Approval
+Program,  and  testing  to  assess  the  fit  characteristics  of  all  respirator  designs,  NIOSH
+test subjects are required to be clean- shaven in order to participate on the test panel
+selected.  The  Occupational  Safety  and  Health  Administration  (OSHA)  Respiratory
+Protection Standard 29 Code of Federal Regulations (CFR) 1910.134 paragraph (g)(1)(i)
+states,  “The  employer  shall  not  permit  respirators  with  tight-fitting  facepieces  to  be
+worn by employees who have: (A) Facial hair that comes between the sealing surface of
+the facepiece and the face or that interferes with valve function; or (B) Any condition
+that interferes with the face-to-facepiece seal or valve function.” The OSHA requirement
+is interpreted as: When a respirator is required, an employer is prohibited from allowing
+respirators with tight-fitting facepieces to be worn by employees who have “facial hair
+that comes between the sealing surface of the facepiece and the face, or that interferes
+with  valve  function.  Facial  hair  is  allowed,  as  long  as  it  does  not  protrude  under  the
+respirator  seal,  or  extend  far  enough  to  interfere  with  the  device’s  valve  function.”
+Specific  to  the  required  individual  workplace  fit  test,  NIOSH  continues  to  support  the
+OSHA regulations. In this case, regarding the employee’s facial hair, 29 Code of Federal
+Regulations  (CFR)  Part  1910  Appendix  A,  Part  I,  (A)(9)  states,  “The  test  shall  not  be
+conducted  if  there  is  any  hair  growth  between  the  skin  and  the  facepiece  sealing
+surface, such as stubble beard growth, beard, mustache or sideburns which cross the
+respirator  sealing  surface.  Any  type  of  apparel  which  interferes  with  a  satisfactory  fit
+shall be altered or removed.” 42 C.F.R. Part 84, Respiratory Protective Devices
+Subpart H, Self-contained breathing apparatus (SCBA)
+Subpart G, Gas masks
+Subpart J, Supplied-air respirators (SAR)
+Subpart K, Non-powered air-purifying particulate respirators (APR)
+Subpart L, Chemical cartridge respirators (APR)
+Subpart  KK,  Powered  air-purifying  particulate  respirators  (PAPR)  OSHA  and  ANSI
+Z88.10-2010  prohibit  fit  testing  when  facial  hair  is  at  the  sealing  surface  of  the
+respirator. OSHA’s Fit Testing Procedures, 29 CFR 1910.134 Appendix A, Part I, (A)(9),
+states “The test shall not be conducted if there is any hair growth between the skin and
+the  facepiece  sealing  surface,  such  as  stubble  beard  growth,  beard,  mustache  or
+sideburns  which  cross  the  respirator  sealing  surface.  Any  type  of  apparel  which
+interferes with a satisfactory fit shall be altered or removed.” Facial hair that lies along
+the  sealing  area  of  the  respirator,  such  as  beards,  sideburns,  moustaches,  or  even  a
+few days growth of stubble1, should not be permitted on employees who are required
+to  wear  respirators  that  rely  on  tight  facepiece  fit  to  achieve  maximum  protection.
+Facial  hair  between  the  wearer’s  skin  and  the  sealing  surfaces  of  the  respirator  will
+prevent a good seal. A respirator that permits negative air pressure inside the facepiece
+during inhalation may allow leakage and, in the case of positive pressure devices, will
+either  reduce  service  time  or  waste  breathing  air.  A  worker  should  not  enter  a
+contaminated  work  area  when  conditions  prevent  a  good  seal  of  the  respirator
+facepiece to the face. [NIOSH, 1987, “NIOSH Guide to Industrial Respiratory Protection”]
+An up-to-date clarification of this NIOSH position is as follows: Facial hair that lies along
+the sealing area of the respirator, such as beards, sideburns, moustaches, or even more
+than one day or 24 hours of growth of stubble, should not be permitted on employees
+who are required to wear respirators that rely on tight facepiece fit. Facial hair either
+growing in or protruding into the area of the primary sealing surfaces2 of the respirator
+will  prevent  a  good  seal.  Any  degradation  to  the  respirator  seal  has  the  potential  to
+decrease  respiratory  protection  to  the  wearer.  Respirators  that  normally  support  a
+negative pressure in the facepiece will have an increased potential to allow leakage of
+contaminated  air  into  the  facepiece.  Respirators  designed  to  maintain  a  positive
+facepiece pressure will suffer from reduced service time along with wasting breathing
+air during use. A worker should not enter a contaminated work area when conditions
+prevent a good seal of the respirator facepiece to the face. This interpretation applies
+to  all  primary  seals  of  tight-fitting  full  and  half-facepiece  respirators,  as  well  as
+tight-fitting  respirator  designs  that  rely  on  a  neck  dam  seal.  Nose  cups  present  in
+tight-fitting  full  facepieces  that  do  not  perform  primary  sealing  functions  are  not
+considered  part  of  the  primary  seal.  Facial  hair  in  this  area  should  not  interfere  with
+respiratory  protection  of  the  facepiece.  In  these  cases,  facial  hair  is  permitted.
+However, wearers must be trained to ensure facial hair does not grow in size or length
+and  subsequently  protrude  under  the  primary  sealing  surface  of  the  respirator.  If  a
+respirator covering includes a hood design and is the primary seal around the neck of
+the wearer, facial hair, such as a full beard, cannot be present in the area of the seal.
+Additionally, if a hood design includes a primary seal within the hood, by including a
+component  covering  the  mouth,  nose  and  chin  of  the  wearer  (similar  to  a  typical
+half-mask), facial hair cannot be present in the area of the seal of this component. In
+the event that the respirator design incorporates any one of these sealing mechanisms,
+facial hair must be prevented from interfering with the sealing surface and the function
+of the respirator during use. This interpretation does not apply to loose-fitting hood or
+helmet  respirator  designs  such  as  those  used  on  Powered  Air-Purifying  Respirators,
+Supplied-Air  Respirators  and  Constant-Flow  Escape  type  Self-Contained  Breathing
+Apparatus  that  utilize  only  capes  or  shrouds  for  primary  seals.  With  these  type
+respirators,  careful  consideration  must  be  given  in  using  these  loose-fitting  face
+coverings  to  assure  that  they  do  not  have  a  neck  dam,  a  face  seal  or  an  integrated,
+tight-fitting  half-mask.  These  respirators,  utilizing  only  capes  or  shrouds  as  primary
+seals, may then be selected and used by workers with facial hair. Escape-only types of
+air-purifying respirators are not required by OSHA to be fit tested, but special care must
+be  exercised  when  they  are  being  carried  for  potential  use.  For  all  tight-fitting,
+escape-only respirators, precautions must be taken to assure that the seal needed for
+effective use will not be affected by facial hair or body hair in the event the respirator is
+needed for escape from a toxic atmosphere. Mouth-bit type escape-only respirators are
+inherently  unaffected  by  facial  hair,  face  size,  or  neck  size  and  their  use  and  fitting
+characteristics are not dependent on these features. 1 A few days growth of stubble is
+any facial hair growth that is older than 24 hours [ANSI 2010, OSHA 2012].
+2 The primary seal and primary sealing surface are that part of the respirator that touch
+the  wearer’s  facial  areas  (near  the  nose  and  mouth  for  half-mask  respirators  and
+including around the eyes for full-facepiece respirators) that provide a gas or dust-tight
+seal  in  order  to  protect  the  user  from  the  outside  contaminant(s).  Approval  of
+Respiratory Protective Devices, 42 C.F.R, Part 84
+NIOSH Policy for Respirator Sealing Surfaces and Facial Hair, October 2, 2006
+OSHA Respiratory Protection Standard 29 CFR 1910.134
+OSHA  Standard  Interpretations,  Facial  Hair  Under  Seal  of  Tight-fitting  Respirator,
+September 14, 2012
+OSHA 1910.134 Appendix A, Fit Testing Procedures (Mandatory)
+OSHA Instruction, effective June 26, 2014
+ANSI/AIHA/ASSE-Z88.10 Respirator Fit Testing Methods 2010 Edition
+NIOSH Guide to Industrial Respiratory Protection, p119
+NIOSH Science Blog, To Beard or not to Beard? NIOSH Respirator Approval Program’s
+updated  position  regarding  facial  hair  and  the  selection  and  use  of  respiratory
+protective devices. Revised – Supersedes the August 2018 version and the October 2,
+2006 Letter to All Respirator Manufacturers [PDF – 192 KB]
+Source
+ URL:
+https://www.cdc.gov/niosh/npptl/resources/pressrel/letters/conformityinterp/CA-2018-1005-R1.html

@@ -1,0 +1,501 @@
+Official websites use .gov A .gov website belongs to an official government organization
+in  the  United  States.  Secure  .gov  websites  use  HTTPS  A  lock  (   )  or  https://  means
+you've  safely  connected  to  the  .gov  website.  Share  sensitive  information  only  on
+official, secure websites. The recommendations in this guidance continue to apply after
+the  expiration  of  the  federal  COVID-19  Public  Health  Emergency.  For  healthcare
+personnel,  see  Isolation  and  work  restriction  guidance.  For  strategies  to  mitigate
+healthcare personnel staffing shortages, see Contingency and crisis management. For
+healthcare professionals advising people in non-healthcare settings about isolation for
+laboratory-confirmed  COVID-19,  see  Preventing  Spread  of  Respiratory  Viruses  When
+You’re  Sick.  This  interim  guidance  has  been  updated  based  on  currently  available
+information  about  COVID-19  and  the  current  situation  in  the  United  States.  Updates
+were made to reflect the high levels of vaccine-and infection-induced immunity and the
+availability  of  effective  treatments  and  prevention  tools.   This  guidance  provides  a
+framework for facilities to implement select infection prevention and control practices
+(e.g., universal source control) based on their individual circumstances (e.g., levels of
+respiratory virus transmission in the community). This guidance is applicable to all U.S.
+settings where healthcare is delivered (including nursing homes and home health). This
+guidance  is  not  intended  for  non-healthcare  settings  (e.g.,  restaurants)  and  not  for
+persons outside of healthcare settings. CDC’s main landing page for COVID-19 content
+will  help  readers  navigate  to  information  regarding  modes  of  transmission,  clinical
+management,  laboratory  settings,  COVID-19  vaccines  and  CDC  guidance  on  other
+COVID-19-related topics. Employers should be aware that other local, territorial, tribal,
+state,  and  federal  requirements  may  apply,  including  those  promulgated  by  the
+Occupational  Safety  and  Health  Administration  (OSHA).  With  the  end  of  the  federal
+COVID-19 Public Health Emergency (PHE) on May 11, 2023, CDC will no longer receive
+data  needed  to  publish  Community  Transmission  levels  for  SARS-CoV-2.   This  metric
+informed  CDC’s  recommendations  for  broader  use  of  source  control  in  healthcare
+facilities to allow for earlier intervention, to avoid strain on a healthcare system, and to
+better protect individuals seeking care in these settings. As described in CDC’s Core IPC
+Practices,  source  control  remains  an  important  intervention  during  periods  of  higher
+respiratory virus transmission. Without the Community Transmission metric, healthcare
+facilities  should  identify  local  metrics  that  could  reflect  increasing  community
+respiratory viral activity to determine when broader use of source control in the facility
+might be warranted (See Appendix). Encourage everyone to remain up to date with all
+recommended  COVID-19  vaccine  doses.  Establish  a  Process  to  Identify  and  Manage
+Individuals with Suspected or Confirmed SARS-CoV-2 Infection 
+Implement  Source  Control  Measures   Source  control  refers  to  use  of  respirators  or
+well-fitting facemasks or cloth masks to cover a person’s mouth and nose to prevent
+spread  of  respiratory  secretions  when  they  are  breathing,  talking,  sneezing,  or
+coughing. Masks and respirators also offer varying levels of protection to the wearer.
+Further  information  about  types  of  masks  and  respirators,  including  those  that  meet
+standards and the degree of protection offered to the wearer, is available at: Masks and
+Respirators.  People,  particularly  those  at  high  risk  for  severe  illness,  should  wear  the
+most  protective  mask  or  respirator  they  can  that  fits  well  and  that  they  will  wear
+consistently. Even when a facility does not require masking for source control, it should
+allow individuals to use a mask or respirator based on personal preference, informed by
+their perceived level of risk for infection based on their recent activities (e.g., attending
+crowded  indoor  gatherings  with  poor  ventilation)  and  their  potential  for  developing
+severe disease if they are exposed. Source control options for HCP include: When used
+solely  for  source  control,  any  of  the  options  listed  above  could  be  used  for  an  entire
+shift unless they become soiled, damaged, or hard to breathe through. If they are used
+during  the  care  of  patient  for  which  a  NIOSH  Approved  respirator  or  facemask  is
+indicated  for  personal  protective  equipment  (PPE)  (e.g.,  NIOSH  Approved  particulate
+respirators  with  N95  filters  or  higher  during  the  care  of  a  patient  with  SARS-CoV-2
+infection, facemask during a surgical procedure or during care of a patient on Droplet
+Precautions), they should be removed and discarded after the patient care encounter
+and  a  new  one  should  be  donned.  Source  control  is  recommended  for  individuals  in
+healthcare settings who: Source control is recommended more broadly as described in
+CDC’s  Core  IPC  Practices  in  the  following  circumstances:  Implement  Universal  Use  of
+Personal  Protective  Equipment  for  HCP  If  SARS-CoV-2  infection  is  not  suspected  in  a
+patient  presenting  for  care  (based  on  symptom  and  exposure  history),  HCP  should
+follow Standard Precautions (and Transmission-Based Precautions if required based on
+the suspected diagnosis). As SARS-CoV-2 transmission in the community increases, the
+potential for encountering asymptomatic or pre-symptomatic patients with SARS-CoV-2
+infection  also  likely  increases.  In  these  circumstances,  healthcare  facilities  should
+consider  implementing  broader  use  of  respirators  and  eye  protection  by  HCP  during
+patient  care  encounters  as  described  below.  NIOSH  Approved  particulate  respirators
+with N95 filters or higher used for: Optimize the Use of Engineering Controls and Indoor
+Air  Quality  Perform  SARS-CoV-2  Viral  Testing  Create  a  Process  to  Respond  to
+SARS-CoV-2 Exposures Among HCP and Others Healthcare facilities should have a plan
+for how SARS-CoV-2 exposures in a healthcare facility will be investigated and managed
+and  how  contact  tracing  will  be  performed.  If  healthcare-associated  transmission  is
+suspected or identified, facilities might consider expanded testing of HCP and patients
+as  determined  by  the  distribution  and  number  of  cases  throughout  the  facility  and
+ability to identify close contacts. For example, in an outpatient dialysis facility with an
+open treatment area, testing should ideally include all patients and HCP. Depending on
+testing  resources  available  or  the  likelihood  of  healthcare-associated  transmission,
+facilities may elect to initially expand testing only to HCP and patients on the affected
+units  or  departments,  or  a  particular  treatment  schedule  or  shift,  as  opposed  to  the
+entire facility. If an expanded testing approach is taken and testing identifies additional
+infections,  testing  should  be  expanded  more  broadly.  If  possible,  testing  should  be
+repeated every 3-7 days until no new cases are identified for at least 14 days. Guidance
+for outbreak response in nursing homes is described in setting-specific considerations
+below.  Healthcare  facilities  responding  to  SARS-CoV-2  transmission  within  the  facility
+should always notify and follow the recommendations of public health authorities. The
+IPC  recommendations  described  below  (e.g.,  patient  placement,  recommended  PPE)
+also  apply  to  patients  with  symptoms  of  COVID-19  (even  before  results  of  diagnostic
+testing)  and  asymptomatic  patients  who  have  met  the  criteria  for  empiric
+Transmission-Based Precautions based on close contact with someone with SARS-CoV-2
+infection. However, these patients should NOT be cohorted with patients with confirmed
+SARS-CoV-2 infection unless they are confirmed to have SARS-CoV-2 infection through
+testing. Duration of Empiric Transmission-Based Precautions for Symptomatic Patients
+being
+ Evaluated
+ for
+ SARS-CoV-2
+ infection
+ The
+ decision
+ to
+ discontinue
+empiric  Transmission-Based  Precautions  by  excluding  the  diagnosis  of  current
+SARS-CoV-2  infection  for  a  patient  with  symptoms  of  COVID-19  can  be  made  based
+upon  having  negative  results  from  at  least  one  viral  test.  If  a  patient  suspected  of
+having
+ SARS-CoV-2
+ infection
+ is
+ never
+ tested,
+ the
+ decision
+ to
+ discontinue
+Transmission-Based Precautions can be made based on time from symptom onset as
+described in the Isolation section below.  Ultimately, clinical judgment and suspicion of
+SARS-CoV-2  infection  determine  whether  to  continue  or  discontinue  empiric
+Transmission-Based  Precautions.  Duration  of  Empiric  Transmission-Based  Precautions
+for  Asymptomatic  Patients  following  Close  Contact  with  Someone  with  SARS-CoV-2
+Infection
+ In
+ general,
+ asymptomatic
+ patients
+ do
+ not
+ require
+ empiric
+ use
+of
+ Transmission-Based
+ Precautions
+ while
+ being
+ evaluated
+ for
+ SARS-CoV-2
+following close contact with someone with SARS-CoV-2 infection. These patients should
+still wear source control and those who have not recovered from SARS-CoV-2 infection
+in the prior 30 days should be tested as described in the testing section. Examples of
+when  empiric  Transmission-Based  Precautions  following  close  contact  may  be
+considered  include:  Patients  placed  in  empiric  Transmission-Based  Precautions  based
+on  close  contact  with  someone  with  SARS-CoV-2  infection  should  be  maintained  in
+Transmission-Based  Precautions  for  the  following  time  periods.  Patient  Placement
+ Personal  Protective  Equipment   Aerosol-Generating  Procedures  (AGPs)  Visitation
+ Duration of Transmission-Based Precautions for Patients with SARS-CoV-2 Infection The
+following  are  criteria  to  determine  when  Transmission-Based  Precautions  could  be
+discontinued for patients with SARS-CoV-2 infection and are influenced by severity of
+symptoms  and  presence  of  immunocompromising  conditions.  Patients  should
+self-monitor and seek re-evaluation if symptoms recur or worsen.  If symptoms recur
+(e.g.,  rebound),  these  patients  should  be  placed  back  into  isolation  until  they  again
+meet  the  healthcare  criteria  below  to  discontinue  Transmission-Based  Precautions  for
+SARS-CoV-2 infection unless an alternative diagnosis is identified. In general, patients
+who
+ are
+ hospitalized
+ for
+ SARS-CoV-2
+ infection
+ should
+ be
+ maintained
+ in
+Transmission-Based Precautions for the time period described for patients with severe
+to  critical  illness.  In  general,  patients  should  continue  to  wear  source  control  until
+symptoms  resolve  or,  for  those  who  never  developed  symptoms,  until  they  meet  the
+criteria to end isolation below. Then they should revert to usual facility source control
+policies for patients. Patients with mild to moderate illness who are not moderately to
+severely  immunocompromised:  Patients  who  were  asymptomatic  throughout  their
+infection  and  are  not  moderately  to  severely  immunocompromised:  Patients
+with
+ severe
+ to
+ critical
+ illness
+ and
+ who
+ are
+ not
+ moderately
+ to
+ severely
+immunocompromised:  The  exact  criteria  that  determine  which  patients  will  shed
+replication-competent virus for longer periods are not known. Disease severity factors
+and  the  presence  of  immunocompromising  conditions  should  be  considered  when
+determining  the  appropriate  duration  for  specific  patients.  For  a  summary  of  the
+literature, refer to Preventing Spread of Respiratory Viruses When You’re Sick Patients
+who
+ are
+ moderately
+ to
+ severely
+ immunocompromised
+ may
+ produce
+replication-competent  virus  beyond  20  days  after  symptom  onset  or,  for  those  who
+were asymptomatic throughout their infection, the date of their first positive viral test.
+The  criteria  for  the  test-based  strategy  are:  Patients  who  are  symptomatic:   Patients
+who  are  not  symptomatic:  Environmental  Infection  Control  In  addition  to  the
+recommendations described in the guidance above, here are additional considerations
+for the settings listed below. Considerations for Patient Placement Additional Guidance
+for Use of Isolation Gowns Cleaning and Disinfecting Dialysis Stations Considerations for
+vehicle  configuration  when  transporting  a  patient  with  suspected  or  confirmed
+SARS-CoV-2 infection Additional considerations when performing AGPs on patients with
+suspected  or  confirmed  SARS-CoV-2  infection:  In  general,  long-term  care  settings
+(excluding nursing homes) whose staff provide non-skilled personal care* similar to that
+provided by family members in the home (e.g., many assisted livings, group homes),
+should follow community prevention strategies based on COVID-19 hospital admission
+levels,  similar  to  independent  living,  retirement  communities  or  other  non-healthcare
+congregate  settings.  Residents  should  also  be  counseled  about  strategies  to  protect
+themselves  and  others,  including  recommendations  for  source  control  if  they  are
+immunocompromised  or  at  high  risk  for  severe  disease.  CDC  has  information  and
+resources for older adults and for people with disabilities. Visiting or shared healthcare
+personnel who enter the setting to provide healthcare to one or more residents (e.g.,
+physical  therapy,  wound  care,  intravenous  injections,  or  catheter  care  provided  by
+home health agency nurses) should follow the healthcare IPC recommendations in this
+guidance.  In  addition,  if  staff  in  a  residential  care  setting  are  providing  in-person
+services  for  a  resident  with  SARS-CoV-2  infection,  they  should  be  familiar  with
+recommended IPC practices to protect themselves and others from potential exposures
+including  the  hand  hygiene,  personal  protective  equipment  and  cleaning  and
+disinfection  practices  outlined  in  this  guidance.  *Non-skilled  personal  care  consists  of
+any  non-medical  care  that  can  reasonably  and  safely  be  provided  by  non-licensed
+caregivers,  such  as  help  with  daily  activities  like  bathing  and  dressing;  it  may  also
+include the kind of health-related care that most people do themselves, like taking oral
+medications.  In  some  cases  where  care  is  received  at  home  or  a  residential  setting,
+care  can  also  include  help  with  household  duties  such  as  cooking  and  laundry.
+Introduction: Use of well-fitting masks in healthcare settings are an important strategy
+to  prevent  the  spread  of  respiratory  viruses.  Well-fitting  masks  can  help  block  virus
+particles from reaching the nose and mouth of the wearer (wearer protection) and, if
+someone  is  ill,  help  block  virus  particles  coming  out  of  their  nose  and  mouth  from
+reaching  others  (source  control).   Masking  by  healthcare  personnel  as  part  of
+Standard  and  Transmission-Based  Precautions  and  by  ill  individuals  as  part  of
+respiratory  hygiene  and  cough  etiquette  (i.e.,  for  people  with  symptoms)  are  already
+well-described.  This appendix describes considerations for implementing broader use
+of masking in healthcare settings. However, even when masking is not required by the
+facility,  individuals  should  continue  using  a  mask  or  respirator  based  on  personal
+preference, informed by their perceived level of risk for infection based on their recent
+activities  (e.g.,  attending  crowded  indoor  gatherings  with  poor  ventilation)  and  their
+potential  for  developing  severe  disease  if  they  are  exposed.  When  to  Implement
+Broader  Use  of  Masking  The  overall  benefit  of  broader  masking  is  likely  to  be  the
+greatest for patients at higher risk for severe outcomes from respiratory virus infection
+and  during  periods  of  high  respiratory  virus  transmission  in  the  community.  Facilities
+should consider several factors when determining how and when to implement broader
+mask  use:  Metrics  for  Community  Respiratory  Virus  Transmission  CDC  is  in  the  early
+stages  of  developing  metrics  that  could  be  used  to  guide  when  to  implement  select
+infection prevention and control practices for multiple respiratory viruses. However, at
+this  time  there  are  some  general  metrics  that  could  be  used  to  help  facilities  make
+decisions  about  community  respiratory  virus  incidence.  Data  on  the  exact  metric
+thresholds that correspond with a higher risk for transmission are lacking. In addition,
+data from these systems are generally not available for all jurisdictions. Some facilities
+might  consider  recommending  masking  during  the  typical  respiratory  virus  season
+(approximately  October-April).  Facilities  could  also  follow  national  data  on  trends  of
+several  respiratory  viruses.  Healthcare  Personnel  (HCP):  HCP  refers  to  all  paid  and
+unpaid  persons  serving  in  healthcare  settings  who  have  the  potential  for  direct  or
+indirect  exposure  to  patients  or  infectious  materials,  including  body  substances  (e.g.,
+blood,  tissue,  and  specific  body  fluids);  contaminated  medical  supplies,  devices,  and
+equipment;  contaminated  environmental  surfaces;  or  contaminated  air.  HCP  include,
+but are not limited to, emergency medical service personnel, nurses, nursing assistants,
+home  healthcare  personnel,  physicians,  technicians,  therapists,  phlebotomists,
+pharmacists, dental healthcare personnel, students and trainees, contractual staff not
+employed by the healthcare facility, and persons not directly involved in patient care,
+but  who  could  be  exposed  to  infectious  agents  that  can  be  transmitted  in  the
+healthcare  setting  (e.g.,  clerical,  dietary,  environmental  services,  laundry,  security,
+engineering
+ and
+ facilities
+ management,
+ administrative,
+ billing,
+ and
+ volunteer
+personnel).  Healthcare  settings  refers  to  places  where  healthcare  is  delivered  and
+includes,  but  is  not  limited  to,  acute  care  facilities,  long-term  acute-care  facilities,
+nursing homes, home healthcare, vehicles where healthcare is delivered (e.g., mobile
+clinics),  and  outpatient  facilities,  such  as  dialysis  centers,  physician  offices,  dental
+offices,  and  others.  Source  control:  Use  of  respirators,  well-fitting  facemasks,  or
+well-fitting  cloth  masks  to  cover  a  person’s  mouth  and  nose  to  prevent  spread  of
+respiratory secretions when they are breathing, talking, sneezing, or coughing. Source
+control devices should not be placed on children under age 2, anyone who cannot wear
+one safely, such as someone who has a disability or an underlying medical condition
+that  precludes  wearing  one  safely,  or  anyone  who  is  unconscious,  incapacitated,  or
+otherwise unable to remove their source control device without assistance. Face shields
+alone are not recommended for source control. At a minimum, source control devices
+should be changed if they become visibly soiled, damaged, or hard to breathe through. 
+Further information about source control options is available at:  Masks and Respirators
+(cdc.gov)  Cloth  mask:  Textile  (cloth)  covers  that  are  intended  primarily  for  source
+control  in  the  community.  They  are  not  personal  protective  equipment  (PPE)
+appropriate  for  use  by  healthcare  personnel.  Guidance  on  design,  use,  and
+maintenance  of  cloth  masks  is  available.  Facemask:  OSHA  defines  facemasks  as  “a
+surgical, medical procedure, dental, or isolation mask that is FDA-cleared, authorized by
+an  FDA  EUA,  or  offered  or  distributed  as  described  in  an  FDA  enforcement  policy.
+Facemasks may also be referred to as ‘medical procedure masks’.”  Facemasks should
+be  used  according  to  product  labeling  and  local,  state,  and  federal  requirements.
+FDA-cleared  surgical  masks  are  designed  to  protect  against  splashes  and  sprays  and
+are  prioritized  for  use  when  such  exposures  are  anticipated,  including  surgical
+procedures. Other facemasks, such as some procedure masks, which are typically used
+for  isolation  purposes,  may  not  provide  protection  against  splashes  and  sprays.
+Respirator: A respirator is a personal protective device that is worn on the face, covers
+at  least  the  nose  and  mouth,  and  is  used  to  reduce  the  wearer’s  risk  of  inhaling
+hazardous airborne particles (including dust particles and infectious agents), gases, or
+vapors.  Respirators  are  approved  by  CDC/NIOSH,  including  those  intended  for  use  in
+healthcare.  Airborne  Infection  Isolation  Rooms  (AIIRs):  Immunocompromised:   For  the
+purposes  of  this  guidance,  moderate  to  severely  immunocompromising  conditions
+include, but might not be limited to, those defined in the Interim Clinical Considerations
+for Use of COVID-19 Vaccines Close contact: Being within 6 feet for a cumulative total of
+15  minutes  or  more  over  a  24-hour  period  with  someone  with  SARS-CoV-2  infection.
+SARS-CoV-2  Illness  Severity  Criteria  (adapted  from  the  NIH  COVID-19  Treatment
+Guidelines) The studies used to inform this guidance did not clearly define “severe” or
+“critical”  illness.  This  guidance  has  taken  a  conservative  approach  to  define  these
+categories.
+ Although
+ not
+ developed
+ to
+ inform
+ decisions
+ about
+ duration
+ of
+Transmission-Based  Precautions,  the  definitions  in  the  National  Institutes  of  Health
+(NIH)  COVID-19  Treatment  Guidelines  are  one  option  for  defining  severity  of  illness
+categories. The highest level of illness severity experienced by the patient at any point
+in  their  clinical  course  should  be  used  when  determining  the  duration  of
+Transmission-Based  Precautions.  Clinical  judgment  regarding  the  contribution  of
+SARS-CoV-2 to clinical severity might also be necessary when applying these criteria to
+inform infection control decisions. Mild Illness: Individuals who have any of the various
+signs and symptoms of COVID-19 (e.g., fever, cough, sore throat, malaise, headache,
+muscle  pain)  without  shortness  of  breath,  dyspnea,  or  abnormal  chest  imaging.
+Moderate Illness: Individuals who have evidence of lower respiratory disease by clinical
+assessment or imaging, and a saturation of oxygen (SpO2) ≥94% on room air at sea
+level.  Severe  Illness:  Individuals  who  have  respiratory  frequency  >30  breaths  per
+minute, SpO2 <94% on room air at sea level (or, for patients with chronic hypoxemia, a
+decrease from baseline of >3%), ratio of arterial partial pressure of oxygen to fraction
+of inspired oxygen (PaO2/FiO2) <300 mmHg, or lung infiltrates >50%. Critical Illness:
+Individuals  who  have  respiratory  failure,  septic  shock,  and/or  multiple  organ
+dysfunction. In pediatric patients, radiographic abnormalities are common and, for the
+most part, should not be used as the sole criteria to define COVID-19 illness category.
+Normal values for respiratory rate also vary with age in children, thus hypoxia should
+be  the  primary  criterion  to  define  severe  illness, especially  in  younger  children.  In
+situations where the use of a respirator is not required either by the employer or by an
+Occupational Safety and Health Administration (OSHA) standard, the employer may still
+offer filtering facepiece respirators or permit employees to use their own respirators as
+long  as  the  employer  determines  that  such  respirator  use  will  not  in  itself  create  a
+hazard.  This  is  considered  voluntary  use  under  the  Respiratory  Protection  Standard.
+CDC  encourages  employers  to  permit  workers  to  voluntarily  use  filtering  facepiece
+respirators
+ like
+ N95s.
+ If
+ an
+ employer
+ allows
+ voluntary
+ use
+ of
+ filtering
+facepiece respirators, the employer must provide users with 29 CFR 1910.134 Appendix
+D  –  Information  for  Employees  Using  Respirators  When  Not  Required  Under  the
+Standard.  See  29  CFR  1910.134(c)(2)  for  additional  requirements  applicable  to
+voluntary  respirator  use.  Healthcare  personnel,  both  paid  and  unpaid,  should  be
+allowed to bring their own highly protective masks (such as N95 respirators) as long as
+the mask does not violate the facility’s safety and health requirements. They should not
+be  asked  to  remove  their  more  protective  source  control  device  (a  well-fitting  N95
+respirator, for example) for a less protective device (such as a procedure mask) unless
+the mask or respirator is visibly soiled, damaged, or hard to breathe through. However,
+devices brought from home may not be appropriate for protecting healthcare personnel
+from  all  job  hazards,  and  they  should  change  to  recommended  personal  protective
+equipment  when  indicated  (for  instance,  before  entering  the  room  of  a  patient
+managed with Transmission-Based Precautions). Learn more about the types of masks
+and respirators and infection control recommendations for healthcare personnel. CDC
+recommends that people visiting healthcare facilities use the most protective form of
+source  control  (masks  or  respirators)  that  fits  well  and  will  be  worn  consistently.
+Healthcare  facilities  may  choose  to  offer  well-fitting  facemasks  as  a  source  control
+option  for  visitors  but  should  allow  the  use  of  a  clean  mask  or  respirator  with  higher
+level protection by people who chose that option based on their individual preference.
+ Masks and respirators used for source control should be changed if they become visibly
+soiled, damaged, or hard to breathe through. Learn more about the types of masks and
+respirators  and  infection  control  recommendations  for  healthcare  personnel.  CDC’s
+guidance to use NIOSH-approved particulate respirators with N95 filters or higher when
+providing care for patients with suspected or confirmed SARS-CoV-2 infection is based
+on the current understanding of SARS-CoV-2 and related respiratory viruses. Facemasks
+commonly  used  during  surgical  procedures  will  provide  barrier  protection  against
+droplet sprays contacting mucous membranes of the nose and mouth, but they are not
+designed to protect wearers from inhaling small particles. NIOSH-approved particulate
+respirators  with  N95  filters  or  higher,  such  as  other  disposable  filtering  facepiece
+respirators,  powered  air-purifying  respirators  (PAPRs),  and  elastomeric  respirators,
+provide  both  barrier  and  respiratory  protection  because  of  their  fit  and  filtration
+characteristics. Respirators should be used as part of a respiratory protection program
+that  provides  staff  with  medical  evaluations,  training,  and  fit  testing.  Although
+facemasks  are  routinely  used  for  the  care  of  patients  with  common  viral  respiratory
+infections,  NIOSH-approved  particulate  respirators  with  N95  filters  or  higher  are
+routinely  recommended  for  emerging  pathogens  like  SARS  CoV-2,  which  have  the
+potential for transmission via small particles, the ability to cause severe infections, and
+limited  or  no  treatment  options.  While  the  situation  is  evolving  for  SARS-CoV-2,  CDC
+continues  to  recommend  respiratory  protection  while  the  impact  of  new  variants  is
+being  assessed.  In  general,  transport  and  movement  of  a  patient  with  suspected  or
+confirmed  SARS-CoV-2  infection  outside  of  their  room  should  be  limited  to  medically
+essential  purposes.  If  being  transported  outside  of  the  room,  such  as  to  radiology,
+healthcare  personnel  (HCP)  in  the  receiving  area  should  be  notified  in  advance  of
+transporting  the  patient.  For  transport,  the  patient  should  wear  a  well-fitting  source
+control  (if  tolerated)  to  contain  secretions  and  their  body  should  be  covered  with  a
+clean sheet. If transport personnel must prepare the patient for transport (e.g., transfer
+them to the wheelchair or gurney), transport personnel should wear all recommended
+PPE (gloves, a gown, a NIOSH-approved particulate respirator with N95 filters or higher,
+and  eye  protection  [i.e.,  goggles  or  disposable  face  shield  that  covers  the  front  and
+sides  of  the  face]).  This  is  recommended  because  these  interactions  typically  involve
+close,  often  face-to-face,  contact  with  the  patient  in  an  enclosed  space  (e.g.,  patient
+room). Once the patient has been transferred to the wheelchair or gurney (and prior to
+exiting the room), transporters should remove their gown and gloves and perform hand
+hygiene.  The  transporter  should  continue  to  wear  their  respirator.  The  transporter
+should also continue to use eye protection  if there is potential that the patient might
+not  be  able  to  tolerate  their  well-fitting  source  control  device  for  the  duration  of
+transport. Additional PPE should not be required unless there is an anticipated need to
+provide  medical  assistance  during  transport  (e.g.,  helping  the  patient  replace  a
+dislodged  facemask).  After  arrival  at  their  destination,  receiving  personnel  (e.g.,  in
+radiology) and the transporter (if assisting with transfer) should perform hand hygiene
+and  wear  all  recommended  PPE.  If  still  wearing  their  original  respirator  and  eye
+protection, the transporter should take care to avoid self-contamination when donning
+the  remainder  of  the  recommended  PPE.  This  cautious  approach  will  be  refined  and
+updated as more information becomes available and as response needs change in the
+United  States.  EMS  personnel  should  wear  all  recommended  PPE  because  they  are
+providing  direct  medical  care  and  are  in  close  contact  with  the  patient  for  longer
+periods  of  time.  In  general,  minimize  the  number  of  personnel  entering  the  room  of
+patients who have SARS-CoV-2 infection. Healthcare facilities should consider assigning
+daily  cleaning  and  disinfection  of  high-touch  surfaces  to  nursing  personnel  who  will
+already be in the room providing care to the patient. If this responsibility is assigned to
+EVS personnel, they should wear all recommended PPE when in the room. PPE should
+be  removed  upon  leaving  the  room,  immediately  followed  by  performance  of  hand
+hygiene. After discharge, terminal cleaning can be performed by EVS personnel. If not
+wearing  all  recommended  PPE,  they  should  delay  entry  into  the  room  until  time  has
+elapsed  for  enough  air  changes  to  remove  potentially  infectious  particles.  After  this
+time  has  elapsed,  EVS  personnel  can  enter  the  room  and  should  wear   a  gown  and
+gloves  when  performing  terminal  cleaning;  well-fitting  source  control  might  also  be
+recommended. Eye protection and a facemask (if not already worn for source control)
+should  be  added  if  splashes  or  sprays  during  cleaning  and  disinfection  activities  are
+anticipated or otherwise required based on the selected cleaning products. Shoe covers
+are  not  recommended  at  this  time  for  SARS-CoV-2.  Some  procedures  performed  on
+patients  are  more  likely  to  generate  higher  concentrations  of  infectious  respiratory
+aerosols  than  coughing,  sneezing,  talking,  or  breathing.  These  aerosol  generating
+procedures (AGPs) potentially put healthcare personnel and others at an increased risk
+for pathogen exposure and infection. Development of a comprehensive list of AGPs for
+healthcare settings has not been possible, due to limitations in available data on which
+procedures  may  generate  potentially  infectious  aerosols  and  the  challenges  in
+determining  if  reported  transmissions  during  AGPs  are  due  to  aerosols  or  other
+exposures. There is neither expert consensus, nor sufficient supporting data, to create a
+definitive and comprehensive list of AGPs for healthcare settings. Commonly performed
+medical procedures that are often considered AGPs, or that might create uncontrolled
+respiratory secretions, include: Based on limited available data, it is uncertain whether
+aerosols  generated  from  some  procedures  may  be  infectious,  such  as:  *Aerosols
+generated  by  nebulizers  are  derived  from  medication  in  the  nebulizer.  It  is  uncertain
+whether  potential  associations  between  performing  this  common  procedure  and
+increased risk of infection might be due to aerosols generated by the procedure or due
+to  increased  contact  between  those  administering  the  nebulized  medication  and
+infected patients. References related to aerosol generating procedures: Tran K, Cimon
+K, Severn M, Pessoa-Silva CL, Conly J (2012) Aerosol Generating Procedures and Risk of
+Transmission  of  Acute  Respiratory  Infections  to  Healthcare  Workers:  A  Systematic
+Review.
+ PLoS
+ ONE
+7(4);
+ https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3338532/#!po=72.2222external
+iconexternal icon). The amount of time that the air inside an examination room remains
+potentially  infectious  depends  on  a  number  of  factors  including  the  size  of  the  room,
+the number of air changes per hour, how long the patient was in the room, if the patient
+was  coughing  or  sneezing,  and  if  an  aerosol-generating  procedure  was  performed.  In
+general, it is recommended to restrict HCP and patients without PPE from entering the
+room  until  sufficient  time  has  elapsed  for  enough  air  changes  to  remove  potentially
+infectious  particles.  General  guidance  is  available  on  clearance  rates  under  differing
+ventilation conditions. In addition to ensuring sufficient time for enough air changes to
+remove  potentially  infectious  particles,  HCP  should  clean  and  disinfect  environmental
+surfaces  and  shared  equipment  before  the  room  is  used  for  another  patient.
+Preprocedural  mouth  rinses  (PPMR)  with  an  antimicrobial  product  (e.g.  chlorhexidine
+gluconate,
+ povidone-iodine)  have  been
+ shown
+ to
+ reduce  the  level
+ of  oral
+microorganisms in aerosols and spatter generated during dental procedures. Evidence
+from  recent  studies  suggest  that  some  PPMR  solutions  are  efficacious  and  may
+temporarily decrease the viral load of SARS-CoV-2 in the oral cavity. Targeted clinical
+studies are currently underway to learn more about the potential role of PPMR and the
+prevention  of  SARS-CoV-2  transmission.  Because  more  research  is  needed  to
+demonstrate the effectiveness of PPMR in preventing transmission of SARS-CoV-2 in the
+dental setting, CDC does not provide a recommendation for or against the use of PPMR
+before  dental  procedures.  However,  if  PPMR  are  used  before  dental  procedures,  they
+should  be  used  as  an  adjunct  to  other  infection  prevention  and  control  measures
+recommended  to  decrease  the  spread  of  infectious  diseases  in  dental  settings.  Such
+measures  include  delaying  elective  dental  procedures  for  patients  with  suspected  or
+confirmed SARS-CoV-2 infection until they are no longer infectious or for patients who
+meet criteria for quarantine until they complete quarantine. Updates as of September
+23,  2022  Updates  as  of  February  2,  2022  Due  to  concerns  about  increased
+transmissibility of the SARS-CoV-2 Omicron variant, this guidance is being updated to
+enhance  protection  for  healthcare  personnel,  patients,  and  visitors  and  to  address
+concerns  about  potential  impacts  on  the  healthcare  system  given  a  surge  in
+SARS-CoV-2 infections. These updates will be refined as additional information becomes
+available  to  inform  recommended  actions.  Updates  as  of  September  10,  2021  As  of
+February 10, 2021 As of December 14, 2020 As of November 4, 2020 N95 and NIOSH
+Approved are certification marks of the U.S. Department of Health and Human Services
+(HHS) registered in the United States and several international jurisdictions.
+Source URL: https://www.cdc.gov/coronavirus/2019-ncov/hcp/infection-control-recommendations.html

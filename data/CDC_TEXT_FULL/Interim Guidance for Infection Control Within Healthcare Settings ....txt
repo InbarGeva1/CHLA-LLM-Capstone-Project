@@ -1,0 +1,82 @@
+A .gov website belongs to an official government organization in the United States. A
+lock (  ) or https:// means you've safely connected to the .gov website. Share sensitive
+information only on official, secure websites. This guidance provides recommendations
+for  infection  prevention  and  control  in  healthcare  settings  for  patients  who  may  be
+infected with a novel influenza A virus (i.e., an influenza A virus of animal origin that
+has not recently been circulating among humans) associated with severe disease. The
+prevention measures outlined in this guidance will help prevent transmission to health
+care personnel,  other patients,  and  visitors.  Patients who  may  be infected  with  novel
+influenza A viruses include confirmed cases, probable cases, and suspect cases/cases
+under investigation for infection with a novel influenza A virus associated with severe
+disease.   These  recommendations  will  be  updated  as  additional  information  on
+transmissibility,  epidemiology,  available  treatment,  or  vaccine  options  for  novel
+influenza A viruses becomes available. These interim recommendations are based upon
+current  available  information  and  assume  the  following:  This  interim  guidance
+recommends  a  level  of  infection  prevention  and  control  measures  for  patients  with
+suspected  or  confirmed  novel  influenza  A  virus  infection  that  is  different  from  that
+recommended  for  patients  with  seasonal  influenza,  as  outlined  in  the  Prevention
+Strategies for Seasonal Influenza in Healthcare Settings. Among important differences
+from  seasonal  influenza  guidance  are  recommendations  for  Contact  and  Airborne
+Precautions.  Note  that  recommendations  in  this  guidance  are  in  addition  to  Standard
+Precautions.  Information  on  Standard  Precautions  (can  be  found  in  the  following
+documents:  This  interim  guidance  was  developed  based  on  existing  infection
+prevention  and  control  guidelines,  currently  available  scientific  evidence,  and  expert
+opinion.  Definition  of  Healthcare  Settings  —  Refers  to  places  where  healthcare  is
+delivered.  Healthcare  settings  include  but  are  not  limited  to  acute-care  hospitals;
+long-term  acute  care  facilities,  inpatient  rehabilitation  facilities,  long-term  care
+facilities,  such  as  nursing  homes  and  skilled  nursing  facilities;  physicians'  offices;
+urgent-care centers; outpatient clinics; home healthcare (i.e., care provided at home by
+professional  healthcare  providers),  and  vehicles  where  healthcare  is  delivered  (e.g.,
+mobile  clinics).  They  also  include  specific  sites  within  non-healthcare  settings  where
+healthcare is routinely delivered (e.g., a medical clinic embedded within a workplace or
+school).  Definition  of  Healthcare  Personnel  (HCP)  –  HCP  refers  to  all  paid  and  unpaid
+persons  serving  in  healthcare  settings  who  have  the  potential  for  direct  or  indirect
+exposure  to  patients  or  infectious  materials,  including  body  substances  (e.g.,  blood,
+tissue,  and  specific  body  fluids);  contaminated  medical  supplies,  devices,  and
+equipment;  contaminated  environmental  surfaces;  or  contaminated  air.  These  HCP
+include, but are not limited to, emergency medical service personnel, nurses, nursing
+assistants,  physicians,  technicians,  therapists,  phlebotomists,  pharmacists,  students
+and trainees, contractual staff not employed by the healthcare facility, and persons not
+directly  involved  in  patient  care,  but  who  could  be  exposed  to  infectious  agents  that
+can  be  transmitted  in  the  healthcare  setting  (e.g.,  clerical,  dietary,  environmental
+services,  laundry,  security,  engineering  and  facilities  management,  administrative,
+billing,  and  volunteer  personnel).  Implement  policies  and  practices  to  minimize
+exposures  before  arrival,  upon  arrival,  and  throughout  the  duration  of  the  affected
+patient's  presence  in  the  healthcare  setting.  Measures  include  prompt  screening  and
+triage  of  symptomatic  patients,  implementation  of  respiratory  hygiene  and  cough
+etiquette, placement of a facemask (Appendix) on symptomatic patients upon entry to
+the  facility,  placement  in  a  single-patient  airborne  infection  isolation  room  (or  if
+unavailable,
+ a
+ single
+ room
+ with
+ door
+ closed
+ pending
+ transfer),
+ and
+ rapid
+implementation of Airborne and Contact Precautions with the use of eye protection, in
+additional to Standard Precautions. Use of source control for exposed but asymptomatic
+patients  (e.g.,  household  contacts)  can  also  be  considered.  For  more  information  on
+ways to minimize potential exposures: Prevention Strategies for Seasonal Influenza in
+Healthcare Settings. Consider designing and installing engineering controls to reduce or
+eliminate  exposures  by  shielding  HCP  and  other  patients  from  infected  individuals.
+Examples of engineering controls include installing physical barriers such as partitions
+in  triage  areas  or  curtains  that  are  drawn  between  patients  in  shared  areas.
+Engineering  controls  may  also  be  important  to  reduce  exposures  related  to  specific
+procedures  such  as  using  closed  suctioning  systems  for  airways  suction  in  intubated
+patients.  Another  important  engineering  control  is  ensuring  that  appropriate
+air-handling systems (with appropriate directionality, filtration, exchange rate, etc.) are
+installed and maintained in healthcare facilities. AND AND Provide all HCP with job- or
+task-specific  education  and  training  on  preventing  transmission  of  infectious  agents,
+including refresher training when an outbreak of respiratory disease is detected in the
+healthcare facility. HCP (review section 7 for measures for non-HCP visitors) who enter
+the  room  or  care  area  of  patients  covered  by  this  guidance  with  suspected  or
+laboratory-confirmed  novel  influenza  A  virus  infection  should  adhere  to  all  of  the
+following (follow recommended sequence for donning and doffing of personal protective
+equipment): Avian influenza or bird flu refers to the disease caused by infection with
+avian (bird) influenza (flu) Type A viruses. Languages Language Assistance Languages 
+Language Assistance 
+Source URL: https://www.cdc.gov/bird-flu/hcp/novel-flu-infection-control/index.html

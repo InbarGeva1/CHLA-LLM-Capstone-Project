@@ -1,0 +1,367 @@
+Official websites use .gov A .gov website belongs to an official government organization
+in  the  United  States.  Secure  .gov  websites  use  HTTPS  A  lock  (   )  or  https://  means
+you've  safely  connected  to  the  .gov  website.  Share  sensitive  information  only  on
+official,  secure  websites.  New  Testing  and  Management  Considerations  for  Nursing
+Home  Residents  with  Acute  Respiratory  Illness  Symptoms  when  SARS-CoV-2  and
+Influenza  Viruses  are  Co-circulating  The  following  guidance  is  current  for  the
+2023-2024 influenza season. Please see Recommendations of the Advisory Committee
+on Immunization Practices – United States, 2023-2024 Season [523 KB, 32 pages] for
+the latest information regarding recommended influenza vaccines. Please see Antiviral
+Drugs:  Information  for  Healthcare  Professionals  for  the  current  summary  of
+recommendations  for  clinical  practice  regarding  the  use  of  influenza  antiviral
+medications. Please also refer to the Infectious Diseases Society of America (IDSA) 2018
+Update  on  Diagnosis,  Treatment,  Chemoprophylaxis,  and  Institutional  Outbreak
+Management  of  Seasonal  Influenza.   Long-term  care  facilities  may  be  defined  as
+institutions, such as nursing homes and skilled nursing facilities that provide healthcare
+to  people  (including  children)  who  are  unable  to  manage  independently  in  the
+community.  This  care  may  represent  custodial  or  chronic  care  management  or
+short-term  rehabilitative  services.  Influenza  can  be  introduced  into  a  long-term  care
+facility  by  newly  admitted  residents,  healthcare  personnel  and  by  visitors.  Spread  of
+influenza can occur between and among residents, healthcare personnel and visitors.
+Residents  of  long-term  care  facilities  can  experience  severe  and  fatal  illness  during
+influenza outbreaks. Preventing transmission of influenza viruses and other infectious
+agents  within  healthcare  settings,  including  in  long-term  care  facilities,  requires  a
+multi-faceted  approach  that  includes  the  following:  If  possible,  all  residents  should
+receive inactivated influenza vaccine (IIV) annually before influenza season. For persons
+aged  ≥65  years,  the  following  quadrivalent  influenza  vaccines  are  recommended:
+high-dose  IIV,  adjuvanted  IIV,  or  recombinant  influenza  vaccine.  If  not  available,
+standard-dose  IIV  may  be  given.  In  the  majority  of  seasons,  influenza  vaccines  will
+become  available  to  long-term  care  facilities  beginning  in  September,  and  influenza
+vaccination should be offered by the end of October. Informed consent is required to
+implement  a  standing  order  for  vaccination,  but  this  does  not  necessarily  mean  a
+signed  consent  must  be  present.  Although  vaccination  by  the  end  of  October  is
+recommended, influenza vaccine administered in December or later, even if influenza
+activity has already begun, is likely to be beneficial in the majority of influenza seasons
+because the duration of the season is variable, and influenza activity might not occur in
+certain communities until February or March. In the event that a new patient or resident
+is  admitted  after  the  influenza  vaccination  program  has  concluded  in  the  facility,  the
+benefits of vaccination should be discussed, educational materials should be provided,
+and  an  opportunity  for  vaccination  should  be  offered  to  the  new  resident  as  soon  as
+possible after admission to the facility. Since October 2005, the Centers for Medicare
+and Medicaid Services (CMS) has required nursing homes participating in Medicare and
+Medicaid programs to offer all residents influenza and pneumococcal vaccines and to
+document  the  results.  According  to  requirements,  each  resident  is  to  be  vaccinated
+unless  contraindicated  medically,  the  resident  or  legal  representative  refuses
+vaccination, or the vaccine is not available because of shortage. This information is to
+be reported as part of the CMS Minimum Data Set, which tracks nursing home health
+parameters.  Top of Page CDC and the Advisory Committee on Immunization Practices
+(ACIP), recommend that all U.S. healthcare personnel get vaccinated annually against
+influenza.  When  there  is  influenza  activity  in  the  local  community,  active  daily
+surveillance  (defined  below)  for  influenza  illness  should  be  conducted  among  all  new
+and  current  residents,  healthcare  personnel,  and  visitors  of  long-term  care  facilities,
+and continued until the end of influenza season. Healthcare personnel, and visitors who
+are identified with any illness symptoms should be excluded from the facility until their
+illness  has  resolved.  Older  adults  and  other  long-term  care  residents,  including  those
+who are medically fragile and those with neurological or neurocognitive conditions, may
+manifest  atypical  signs  and  symptoms  of  influenza  virus  infection  (e.g.,  behavior
+change), and may not have fever. Ill residents should be placed on droplet precautions
+with room restriction and exclusion from participating in group activities as described
+below.  Even  if  it’s  not  influenza  season,  influenza  testing  should  occur  when  any
+resident  has  signs  and  symptoms  of  acute  respiratory  illness  or  influenza-like  illness.
+Information
+ about
+ influenza
+ testing
+ is
+ available
+ at:
+https://www.cdc.gov/flu/professionals/diagnosis/index.htm
+ More
+ information
+ about
+testing  is  included  below.  If  one  laboratory-confirmed  influenza  positive  case  is
+identified along with other cases of acute respiratory illness in a unit of a long-term care
+facility,  an  influenza  outbreak  might  be  occurring.  Active  surveillance  for  additional
+cases
+ should
+ be
+ implemented
+ as
+ soon
+ as
+ possible
+ once
+ one
+ case
+ of
+laboratory-confirmed
+ influenza
+ is
+ identified
+ in
+ a
+ facility.
+ When
+ 2
+ cases
+ of
+laboratory-confirmed influenza are identified within 72 hours of each other in residents
+on  the  same  unit,  outbreak  control  measures  should  be  implemented  as  soon  as
+possible. Implementation of outbreak control measures can also be considered as soon
+as possible when one or more residents have acute respiratory illness with suspected
+influenza and the results of influenza molecular tests are not available the same day of
+specimen  collection.  While  unusual,  an  influenza  outbreak  can  occur  outside  of  the
+normal influenza season; therefore, testing for influenza viruses and other respiratory
+pathogens  should  also  be  performed  during  non-influenza  season  periods.  *Note  that
+older  adults  and  other  long-term  care  residents,  including  those  who  are  medically
+fragile and those with neurological or neurocognitive conditions, may manifest atypical
+signs and symptoms of influenza virus infection (e.g., behavior change), and may not
+have
+ fever
+(https://academic.oup.com/cid/advance-article/doi/10.1093/cid/ciy866/5251935).   Top
+of Page  Top of Page CDC’s guidance titled Prevention Strategies for Seasonal Influenza
+in  Healthcare  Settings  contains  details  on  the  prevention  strategies  for  all  healthcare
+settings.  Specific  recommendations  are  highlighted  below.  Standard  Precautions  are
+intended to be applied to the care of all patients in all healthcare settings, regardless of
+the  suspected  or  confirmed  presence  of  an  infectious  agent.  Implementation  of
+Standard  Precautions  constitutes  the  primary  strategy  for  the  prevention  of
+healthcare-associated transmission of infectious agents among patients and healthcare
+personnel. Examples of standard precautions include:  Top of Page Droplet Precautions
+are intended to prevent transmission of pathogens spread through close respiratory or
+mucous membrane contact with respiratory secretions. Droplet Precautions should be
+implemented for residents with suspected or confirmed influenza for 7 days after illness
+onset  or  until  24  hours  after  the  resolution  of  fever  and  respiratory  symptoms,
+whichever  is  longer,  while  a  resident  is  in  a  healthcare  facility.  Examples  of  Droplet
+Precautions  include:   Top  of  Page  These  Precautions  are  part  of  the  overall  infection
+control strategy to protect against influenza in healthcare settings and should be used
+along  with  other  infection  control  measures,  such  as  isolation  or  cohorting  of  ill
+residents,  screening  employees  and  visitors  for  illness,  furloughing  ill  healthcare
+personnel,  and  discouraging  ill  visitors  from  entering  the  facility.  In  some  cases,
+facilities may choose to apply Standard Precautions and Droplet Precautions for longer
+periods based on clinical judgment, such as in the case of young children or severely
+immunocompromised  residents,  who  may  shed  influenza  virus  for  longer  periods  of
+time. Because residents with influenza may continue to shed influenza viruses while on
+antiviral  treatment,  infection  control  measures  to  reduce  transmission,  including
+following Standard and Droplet Precautions, should continue while the resident is taking
+antiviral therapy. This will also reduce transmission of viruses that may have become
+resistant  to  antiviral  drugs  during  therapy.  Initiation  of  antiviral  treatment  should  not
+wait  for  laboratory  confirmation  of  influenza.  Antiviral  treatment  works  best  when
+started within the first 2 days of symptoms. However, these medications can still help
+when  given  after  48  hours  to  those  that  are  very  sick,  such  as  those  who  are
+hospitalized, or those who have progressive illness, or those who are at higher risk for
+complications
+ of
+ influenza.
+ 
+(https://www.cdc.gov/flu/professionals/antivirals/summary-clinicians.htm) ​Four influenza
+antiviral drugs approved by the U.S. Food and Drug Administration are recommended
+for treatment of uncomplicated influenza in the United States: neuraminidase inhibitors:
+oral oseltamivir (available as a generic version or under the trade name Tamiflu®), as a
+pill  or  suspension;  zanamivir  (trade  name  Relenza®),  available  as  an  inhaled  powder
+using a disk inhaler device; and intravenous peramivir (trade name Rapivab®); and a
+cap-dependent  endonuclease  inhibitor:  baloxavir  marboxil  (trade  name  Xofluza®)
+available as a tablet. It should be noted that some long-term care residents may have
+difficulty  using  the  inhaler  device  for  zanamivir.  Amantadine  and  rimantadine
+are NOT recommended for use because of high levels of antiviral resistance to these
+drugs among circulating influenza A viruses. The recommended dosing and duration of
+antiviral  treatment  is  twice  daily  for  5  days  for  neuraminidase  inhibitors  (oseltamivir
+and zanamivir), and one dose for intravenous peramivir. Oseltamivir is recommended
+for  treatment  of  influenza  in  people  of  all  ages.  Baloxavir  is  approved  for  early
+treatment  of  uncomplicated  influenza  in  people  5  years  and  older  who  are  otherwise
+healthy  or  in  people  aged  12  years  and  older  who  are  at  higher  risk  for  influenza
+complications and have been ill for no more than 2 days. A single oral dose of baloxavir
+is equivalent to 5 days of twice daily oral oseltamivir. Inhaled zanamivir is approved for
+early treatment of influenza in persons aged 7 years and older. Peramivir is approved
+for  early  treatment  of  influenza  in  persons  aged  6  months  and  older.  Dosage
+adjustment  may  be  required  for  children  and  persons  with  certain  underlying
+conditions.  Clinicians  should  consult  the  manufacturers’  package  insert  for  approved
+ages, recommended drug dosing adjustments and contraindications. In the setting of an
+influenza outbreak, empiric antiviral treatment should be given as soon as possible to
+residents  with  suspected  influenza  without  waiting  for  influenza  testing  results,
+especially if results will not be available on the day of specimen collection. There are no
+data  on  use  of  baloxavir  to  control  influenza  outbreaks  in  long-term  care  facilities.
+Baloxavir  is  not  recommended  for  pregnant  women,  severely  immunosuppressed
+persons,  those  with  severe  disease,  or  hospitalized  influenza  patients.  There  are  no
+data on baloxavir in these populations. Having preapproved orders from physicians or
+plans  to  obtain  orders  for  antiviral  medications  on  short  notice  can  substantially
+expedite administration of antiviral medications. For more information on the antiviral
+agents see CDC’s influenza antiviral medication page for health professionals.  Top of
+Page lf exposed residents on units or wards with influenza cases in the long-term care
+facility  (currently  impacted  wards)  should  receive  antiviral  chemoprophylaxis  as  soon
+as
+ an
+ influenza
+ outbreak
+ is
+ determined
+(https://academic.oup.com/cid/advance-article/doi/10.1093/cid/ciy866/5251935).  When
+at least 2 patients are ill within 72 hours of each other and at least one resident has
+laboratory-confirmed
+ influenza,
+ the
+ facility
+ should
+ promptly
+ initiate
+ antiviral
+chemoprophylaxis with oral oseltamivir to all non-ill residents living on the same unit as
+the resident with laboratory-confirmed influenza (outbreak affected units), regardless of
+whether they received influenza vaccination during the current season. Consideration
+may be given for extending antiviral chemoprophylaxis to residents on other unaffected
+units or wards in the long-term care facility based upon other factors (e.g., unavoidable
+mixing of residents or healthcare personnel from affected units and unaffected units).
+Antiviral chemoprophylaxis is meant for residents who are not exhibiting influenza-like
+illness but who may be exposed or who may have been exposed to an ill person with
+influenza,  to  prevent  transmission.  Use  of  antiviral  drugs  for  chemoprophylaxis  of
+influenza  is  a  key  component  of  influenza  outbreak  control  in  institutions  that  house
+residents  at  higher  risk  of  influenza  complications.  While  highly  effective,  antiviral
+chemoprophylaxis is not 100% effective in preventing influenza illness. Oseltamivir is
+the  recommended  antiviral  drug  for  chemoprophylaxis  of  influenza  in  long-term  care
+settings.  Baloxavir  is  approved  for  post-exposure  antiviral  chemoprophylaxis  of
+influenza in persons aged 5 years and older but no data are available from clinical trials
+of  baloxavir  chemoprophylaxis  of  influenza  in  long  term  care  facility  residents.  CDC
+recommends antiviral chemoprophylaxis with oseltamivir for a minimum of 2 weeks and
+continuing for at least 7 days after the last known laboratory-confirmed influenza case
+was identified on affected units. Persons whose need for antiviral chemoprophylaxis is
+attributed to potential exposure to a person with laboratory-confirmed influenza should
+receive oral oseltamivir or inhaled zanamivir. Zanamivir should be used when persons
+require  chemoprophylaxis  as  a  result  of  exposure  to  influenza  virus  strains  that  are
+suspected
+ or
+ known
+ to
+ be
+ oseltamivir-resistant.
+ (For
+ more
+ information
+see  Recommended  Dosage  and  Duration  of  Treatment  or  Chemoprophylaxis  for
+Influenza
+ Antiviral
+ Medications
+ and
+(https://academic.oup.com/cid/advance-article/doi/10.1093/cid/ciy866/5251935).   Top
+of  Page  While  CDC  recommends  judicious  use  of  antiviral  medications  for
+chemoprophylaxis  to  reduce  the  possibility  of  development  and  spread  of  antiviral
+resistant  influenza  viruses,  chemoprophylaxis  may  be  considered  for  healthcare
+personnel, regardless of their influenza vaccination status, if the outbreak is caused by
+a strain of influenza virus that is not well matched by the vaccine, or based upon other
+factors (e.g., to reduce the risk of short staffing in facilities and units where clinical staff
+are limited and to reduce staff reluctance to provide care to residents with suspected or
+laboratory-confirmed influenza). Antiviral chemoprophylaxis should also be considered
+in  personnel  for  whom  influenza  vaccine  is  contraindicated.  An  emphasis  on  close
+monitoring
+ and
+ early
+ initiation
+ of
+ antiviral
+ treatment
+ is
+ an
+ alternative
+ to
+chemoprophylaxis in managing certain persons who have had a suspected exposure to
+influenza  virus.  Healthcare  personnel  who  have  occupational  exposures  can  be
+counseled about the early signs and symptoms of influenza and advised to contact their
+health-care provider immediately for evaluation and possible early initiation of antiviral
+treatment  if  clinical  signs  or  symptoms  develop.  For  newly  vaccinated  healthcare
+personnel,  antiviral  chemoprophylaxis  can  be  considered  for  up  to  2  weeks  following
+inactivated  influenza  vaccination  until  vaccine-induced  immunity  is  acquired.  Persons
+receiving antiviral chemoprophylaxis should not receive live attenuated influenza virus
+vaccine  (LAIV),  and  persons  receiving  LAIV  should  not  receive  antiviral  treatment  or
+chemoprophylaxis  until  14  days  after  LAIV  administration.  The  latest  CDC  antiviral
+recommendations  are  available  on  CDC’s  influenza  antiviral  drugs  page  for  health
+professionals.   Top  of  Page  Residents  receiving  antiviral  medications  who  do  not
+respond
+ to
+ treatment
+ or
+ who
+ become
+ sick
+ with
+ influenza
+ after
+ starting
+chemoprophylaxis  might  have  an  infection  with  an  antiviral-resistant  influenza  virus.
+Persons receiving chemoprophylaxis who become sick should be switched to treatment
+dosing. If infection with an antiviral-resistant influenza virus is suspected, the local or
+state  public  health  department  should  be  notified  promptly.  To  limit  the  potential
+transmission of antiviral drug-resistant influenza virus, whether in chronic or acute-care
+settings or other closed settings, measures should be taken to reduce contact between
+ill  persons  taking  antiviral  drugs  for  treatment  and  other  persons,  including  those
+receiving  antiviral  chemoprophylaxis.  Infection  prevention  and-control  measures  are
+especially important for patients who are immunocompromised to reduce the risk for
+transmission of oseltamivir-resistant viruses. Notify the health department if a resident
+develops influenza while on or after receiving antiviral chemoprophylaxis.  Top of Page
+*Patients  with  illness  associated  with  influenza  virus  infection  often  have  fever  or
+feverishness with cough, chills, headache, myalgias, sore throat, or runny nose. Some
+patients,  such  as  older  adults,  children  with  neuromuscular  disorders,  and  young
+infants, may have atypical clinical presentations. Older adults and other long-term care
+residents,  including  those  who  are  medically  fragile  and  those  with  neurological  or
+neurocognitive conditions, may manifest atypical signs and symptoms of influenza virus
+infection
+ (e.g.,
+ behavior
+ change),
+ and
+ may
+ not
+ have
+ fever
+(https://academic.oup.com/cid/advance-article/doi/10.1093/cid/ciy866/5251935).   Top
+of  Page   CDC.  Immunization  of  Health-Care  Personnel.  Recommendations  of  the
+Advisory  Committee  on  Immunization  Practices  (ACIP).  MMWR  2011:60(RR07);1-45
+Prevention and Control of Seasonal Influenza with Vaccines: Recommendations of the
+Advisory  Committee  on  Immunization  Practices—United  States,  2022–23  Influenza
+Season  [523  KB,  32  pages]  Seasonal  Influenza  Vaccination  Resources  for  Health
+Professionals Interim Guidance for Routine and Influenza Immunization Services During
+the COVID-19 Pandemic Clinical Practice Guidelines by the Infectious Diseases Society
+of America: 2018 Update on Diagnosis, Treatment, Chemoprophylaxis, and Institutional
+Outbreak  Management  of  Seasonal  Influenza  Influenza  Antiviral  Medications  Influenza
+Antiviral  Medications:  Summary  for  Clinicians  Information  for  Clinicians  on  Influenza
+Virus  Testing   Influenza  Testing  Methods  Influenza  virus  testing  in  investigational
+outbreaks  in  institutional  or  other  closed  settings  Information  on  Rapid  Molecular
+Assays, RT-PCR, and other Molecular Assays for Diagnosis of Influenza Virus Infection 
+Healthcare-associated infections and long-term care settings Prevention Strategies for
+Seasonal Influenza in Healthcare Settings CDC. Outbreaks of 2009 Pandemic Influenza
+A  (H1N1)  Among  Long-Term  Care  Facility  Residents  —  Three  States,  2009.  MMWR
+2010:59(03):74-77  Clinical  Practice  Guidelines  by  the  Infectious  Diseases  Society  of
+America:  2018  Update  on  Diagnosis,  Treatment,  Chemoprophylaxis,  and  Institutional
+Outbreak  Management  of  Seasonal  Influenza  Booy  R,  Lindley  RI,  Dwyer  DE,  et  al.
+Treating  and  preventing  influenza  in  aged  care  facilities:  a  cluster  randomised
+controlled trial. PLoS One 2012; 7:e46509. Bowles SK, Lee W, Simor AE, et al. Use of
+oseltamivir  during  influenza  outbreaks  in  Ontario  nursing  homes,  1999–2000.  J  Am
+Geriatr Soc 2002; 50:608–16. Bush KA, McAnulty J, McPhie K, et al; Southern New South
+Wales  Public  Health  Unit.  Antiviral  prophylaxis  in  the  management  of  an  influenza
+outbreak in an aged care facility. Commun Dis Intell Q Rep 2004; 28:396–400. Chang
+YM, Li WC, Huang CT, et al. Use of oseltamivir during an outbreak of influenza A in a
+long-term  care  facility  in  Taiwan.  J  Hosp  Infect  2008;  68:83–7.  Cheng  HY,  Chen  WC,
+Chou  YJ,  Huang  AS,  Huang  WT.  Containing  influenza  outbreaks  with  antiviral  use  in
+long-term  care  facilities  in  Taiwan,  2008–2014.  Influenza  Other  Respir  Viruses  2018;
+12:287–92. Drinka PJ, Gravenstein S, Schilling M, Krause P, Miller BA, Shult P. Duration
+of antiviral prophylaxis during nursing home outbreaks of influenza A: a comparison of
+2 protocols. Arch Intern Med 1998; 158:2155–9. Gorišek Miksić N, Uršič T, Simonović Z,
+et  al.  Oseltamivir  prophylaxis  in  controlling  influenza  outbreak  in  nursing  homes:  a
+comparison  between  three  different  approaches.  Infection  2015;  43:73–81.  Childs  A,
+Zullo  AR,  Joyce  NR  et  al.  The  burden  of  respiratory  infections  among  older  adults  in
+long-term  care:  a  systematic  review.  BMC  Geriatr.  2019  Aug  5;19(1):210.  doi:
+10.1186/s12877-019-1236-6.  Merritt  T,  Hope  K,  Butler  M,  et  al.  Effect  of  antiviral
+prophylaxis on influenza outbreaks in aged care facilities in three local health districts
+in New South Wales, Australia, 2014. Western Pac Surveill Response J 2016; 7:14–20.
+Monto  AS,  Rotthoff  J,  Teich  E,  et  al.  Detection  and  control  of  influenza  outbreaks  in
+well-vaccinated  nursing  home  populations.  Clin  Infect  Dis  2004;  39:459–64.  Murti  M,
+Fung CK, Chan K, Bigham M. Duration of influenza outbreaks in long-term care facilities
+after  antiviral  prophylaxis  initiation:  Fraser  Health,  British  Columbia,  2014-2017.  Am  J
+Infect Control. 2018 Sep;46(9):1077-1079. O’Neil CA, Kim L, Prill MM et al. Respiratory
+viral  surveillance  of  healthcare  personnel  and  patients  at  an  adult  long-term  care
+facility.  Infect  Control  Hosp  Epidemiol.  2019  Nov;40(11):1309-1312.  Peters  PH  Jr,
+Gravenstein  S,  Norwood  P,  et  al.  Long-term  use  of  oseltamivir  for  the  prophylaxis  of
+influenza  in  a  vaccinated  frail  older  population.  J  Am  Geriatr  Soc  2001;  49:1025–31.
+Rainwater-Lovett  K,  Chun  K,  Lessler  J.  Influenza  outbreak  control  practices  and  the
+effectiveness of interventions in long-term care facilities: a systematic review. Influenza
+Other  Respir  Viruses  2014;  8:74–82.  Shijubo  N,  Yamada  G,  Takahashi  M,  Tokunoh  T,
+Suzuki T, Abe S. Experience with oseltamivir in the control of nursing home influenza A
+outbreak. Intern Med 2002; 41:366–70. van der Sande MA, Ruijs WL, Meijer A, Cools HJ,
+van  der  Plas  SM.  Use  of  oseltamivir  in  Dutch  nursing  homes  during  the  2004–2005
+influenza season. Vaccine 2006; 24:6664–9. van der Sande MA, Meijer A, Sen-Kerpiclik
+F, et al. Effectiveness of post-exposition prophylaxis with oseltamivir in nursing homes:
+a randomised controlled trial over four seasons. Emerg Themes Epidemiol 2014; 11:13.
+Ye M, Jacobs A, Khan MN, et al. Evaluation of the use of oseltamivir prophylaxis in the
+control  of  influenza  outbreaks  in  long-term  care  facilities  in  Alberta,  Canada:  a
+retrospective  provincial  database  analysis.  BMJ  Open  2016;  6:e011686.   Top  of  Page
+Interim Guidance for Influenza Outbreak Management in Long-term Care Facilities [153
+KB,  7  pages]  To  receive  weekly  email  updates  about  Seasonal  Flu,  enter  your  email
+address:
+Source URL: https://www.cdc.gov/flu/professionals/infectioncontrol/ltc-facility-guidance.htm

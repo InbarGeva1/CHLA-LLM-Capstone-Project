@@ -1,0 +1,72 @@
+Official websites use .gov A .gov website belongs to an official government organization
+in  the  United  States.  Secure  .gov  websites  use  HTTPS  A  lock  (   )  or  https://  means
+you've  safely  connected  to  the  .gov  website.  Share  sensitive  information  only  on
+official, secure websites. Hospital Respiratory Protection Program Toolkit
+This toolkit was developed to assist hospitals in developing and implementing effective
+respiratory  protection  programs,  with  an  emphasis  on  preventing  the  transmission  of
+aerosol  transmissible  diseases  (ATDs)  to  healthcare  personnel.  Healthcare  personnel
+are paid and unpaid persons who provide patient care in a healthcare setting or support
+the  delivery  of  healthcare  by  providing  clerical,  dietary,  housekeeping,  engineering,
+security, or maintenance services. Healthcare personnel may potentially be exposed to
+ATD pathogens. Aerosols are particles or droplets suspended in air. ATDs are diseases
+transmitted  when  infectious  agents,  which  are  suspended  or  present  in  particles  or
+droplets,  contact  the  mucous  membranes  or  are  inhaled.  Implementing  Hospital
+Respiratory Protection Programs: Strategies from the Field
+Protecting  workers  from  exposure  to  all  types  of  respiratory  hazards  is  an  important
+issue  for  hospitals  and  other  healthcare  organizations.  In  order  to  address  this  often
+overlooked  danger,  The  Joint  Commission  and  Centers  for  Disease  Control  and
+Prevention  (CDC),  National  Institute  for  Occupational  Safety  and  Health  (NIOSH),
+National  Personal  Protective  Technology  Laboratory  (NPPTL)  have  collaborated  to
+develop  a  new  educational  monograph  designed  to  assist  hospitals  in  implementing
+their  respiratory  protection  programs  (RPPs).  Recommended  Guidance  for  Extended
+Use and Limited Reuse of N95 Filtering Facepiece Respirators in Healthcare
+This  document  recommends  practices  for  extended  use  and  limited  reuse  of
+NIOSH-certified N95 filtering facepiece respirators (commonly called “N95 respirators”).
+The  recommendations  are  intended  for  use  by  professionals  who  manage  respiratory
+protection  programs  in  healthcare  institutions  to  protect  health  care  workers  from
+job-related risks of exposure to infectious respiratory illnesses. NIOSH Reach II Study:
+Understanding and Selecting Respiratory Protection Devices (2011-2012)
+Infographic  addressing  situations  that  require  respiratory  protection  and  whether  an
+N95 FFR or a surgical mask should be utilized.
+PDF  [445  KB],  Image  [1,940  KB]  Respirator  Use  and  Infection  Control  in  Healthcare
+(2015)
+Infographic  on  important  reminders  concerning  respirator  use  within  hospital
+respiratory protection programs.
+PDF [1,036 KB], Image [339 KB] Proper N95 Respirator Use for Respiratory Protection
+Preparedness
+When outbreaks of infectious disease occur, we rely on healthcare professionals to care
+for  those  affected,  putting  themselves  at  increased  risk  of  exposure  to  the  pathogen
+causing  the  disease.  Preparing  for  an  Influenza  Pandemic:  Personal  Protective
+Equipment for Healthcare Workers
+During an influenza pandemic, healthcare workers will be on the front lines delivering
+care to patients and preventing further spread of the disease. Protecting the more than
+13 million healthcare workers in the United States from illness or from infecting their
+families or the patients in their care is critical to limiting morbidity and mortality and
+preventing progression of a pandemic. As the nation prepares for pandemic influenza,
+multiple avenues for protecting the health of the public are being carefully considered,
+ranging from rapid development of appropriate vaccines to quarantine plans should the
+need arise for their implementation. One vital aspect of pandemic influenza planning is
+the use of personal protective equipment (PPE) – the respirators, gowns, gloves, face
+shields, eye protection, and other equipment that will be used by healthcare workers
+and  others  in  their  day-to-day  patient  care  responsibilities.  Reusability  of  Facemasks
+During an Influenza Pandemic: Facing the Flu
+In  the  event  of  an  influenza  pandemic,  public  health  officials  will  need  to  resort  to
+multiple measures to reduce the impact. If effective vaccines and anti-viral medications
+do  not  exist  or  are  not  available  in  adequate  quantities  during  a  pandemic  situation,
+respirators  and  medical  masks  could  help  prevent  or  slow  influenza  transmission.
+Considerations for recommending extended use and limited reuse of filtering facepiece
+respirators in healthcare settings
+Fisher-EM;
+ Shaffer-RE,
+ J
+ Occup
+ Environ
+ Hyg
+ 2014
+ Aug;
+ 11(8):D115-D128
+Reaerosolization  of  MS2  bacteriophage  from  an  N95  filtering  facepiece  respirator  by
+simulated coughing
+Fisher-EM;  Richardson-AW;  Harpest-SD;  Hofacre-KC;  Shaffer-RE,  Ann  Occup  Hyg  2012
+Apr 56(3):315-325
+Source URL: https://www.cdc.gov/niosh/npptl/hospresptoolkit/policies.html

@@ -1,0 +1,85 @@
+A .gov website belongs to an official government organization in the United States. A
+lock (  ) or https:// means you've safely connected to the .gov website. Share sensitive
+information  only  on  official,  secure  websites.  Introduction,  methods  and  definition  of
+terms  from  the  Guideline  for  Disinfection  and  Sterilization  in  Healthcare  Facilities
+(2008). In the United States, approximately 46.5 million surgical procedures and even
+more  invasive  medical  procedures—including  approximately  5  million  gastrointestinal
+endoscopies—are performed each year. 2Each procedure involves contact by a medical
+device or surgical instrument with a patient's sterile tissue or mucous membranes. A
+major  risk  of  all  such  procedures  is  the  introduction  of  pathogens  that  can  lead  to
+infection.  Failure  to  properly  disinfect  or  sterilize  equipment  carries  not  only  risk
+associated with breach of host barriers but also risk for person-to-person transmission
+(e.g.,  hepatitis  B  virus)  and  transmission  of  environmental  pathogens  (e.g.,
+Pseudomonas aeruginosa). Disinfection and sterilization are essential for ensuring that
+medical  and  surgical  instruments  do  not  transmit  infectious  pathogens  to  patients.
+Because  sterilization  of  all  patient-care  items  is  not  necessary,  health-care  policies
+must  identify,  primarily  on  the  basis  of  the  items'  intended  use,  whether  cleaning,
+disinfection,  or  sterilization  is  indicated.  Multiple  studies  in  many  countries  have
+documented  lack  of  compliance  with  established  guidelines  for  disinfection  and
+sterilization.  3-6  Failure  to  comply  with  scientifically-based  guidelines  has  led  to
+numerous  outbreaks.  6-12  This  guideline  presents  a  pragmatic  approach  to  the
+judicious  selection  and  proper  use  of  disinfection  and  sterilization  processes;  the
+approach is based on well-designed studies assessing the efficacy (through laboratory
+investigations)  and  effectiveness  (through  clinical  studies)  of  disinfection  and
+sterilization procedures. This guideline resulted from a review of all MEDLINE articles in
+English  listed  under  the  MeSH  headings  of  disinfection  or  sterilization  (focusing  on
+health-care  equipment  and  supplies)  from  January  1980  through  August  2006.
+References  listed  in  these  articles  also  were  reviewed.  Selected  articles  published
+before  1980  were  reviewed  and,  if  still  relevant,  included  in  the  guideline.  The  three
+major peer-reviewed journals in infection control—American Journal of Infection Control,
+Infection  Control  and  Hospital  Epidemiology,  and  Journal  of  Hospital  Infection—were
+searched  for  relevant  articles  published  from  January  1990  through  August  2006.
+Abstracts presented at the annual meetings of the Society for Healthcare Epidemiology
+of America and Association for professionals in Infection Control and Epidemiology, Inc.
+during 1997–2006 also were reviewed; however, abstracts were not used to support the
+recommendations. Sterilization describes a process that destroys or eliminates all forms
+of  microbial  life  and  is  carried  out  in  health-care  facilities  by  physical  or  chemical
+methods. Steam under pressure, dry heat, EtO gas, hydrogen peroxide gas plasma, and
+liquid  chemicals  are  the  principal  sterilizing  agents  used  in  health-care  facilities.
+Sterilization is intended to convey an absolute meaning; unfortunately, however, some
+health professionals and the technical and commercial literature refer to "disinfection"
+as "sterilization" and items as "partially sterile." When chemicals are used to destroy all
+forms  of  microbiologic  life,  they  can  be  called  chemical  sterilants.  These  same
+germicides  used  for  shorter  exposure  periods  also  can  be  part  of  the  disinfection
+process  (i.e.,  high-level  disinfection).  Disinfection  describes  a  process  that  eliminates
+many or all pathogenic microorganisms, except bacterial spores, on inanimate objects
+(Tables  1  and  2).  In  health-care  settings,  objects  usually  are  disinfected  by  liquid
+chemicals or wet pasteurization. Each of the various factors that affect the efficacy of
+disinfection  can  nullify  or  limit  the  efficacy  of  the  process.  Factors  that  affect  the
+efficacy of both disinfection and sterilization include prior cleaning of the object; organic
+and inorganic load present; type and level of microbial contamination; concentration of
+and  exposure  time  to  the  germicide;  physical  nature  of  the  object  (e.g.,  crevices,
+hinges,  and  lumens);  presence  of  biofilms;  temperature  and  pH  of  the  disinfection
+process; and in some cases, relative humidity of the sterilization process (e.g., ethylene
+oxide).  Unlike  sterilization,  disinfection  is  not  sporicidal.  A  few  disinfectants  will  kill
+spores  with  prolonged  exposure  times  (3–12  hours);  these  are  called  chemical
+sterilants. At similar concentrations but with shorter exposure periods (e.g., 20 minutes
+for  2%  glutaraldehyde),  these  same  disinfectants  will  kill  all  microorganisms  except
+large  numbers  of  bacterial  spores;  they  are  called  high-level  disinfectants.  Low-level
+disinfectants  can  kill  most  vegetative  bacteria,  some  fungi,  and  some  viruses  in  a
+practical period of time (≤10 minutes). Intermediate-level disinfectants might be cidal
+for  mycobacteria,  vegetative  bacteria,  most  viruses,  and  most  fungi  but  do  not
+necessarily  kill  bacterial  spores.  Germicides  differ  markedly,  primarily  in  their
+antimicrobial  spectrum  and  rapidity  of  action.  Cleaning  is  the  removal  of  visible  soil
+(e.g.,  organic  and  inorganic  material)  from  objects  and  surfaces  and  normally  is
+accomplished  manually  or  mechanically  using  water  with  detergents  or  enzymatic
+products. Thorough cleaning is essential before high-level disinfection and sterilization
+because  inorganic  and  organic  materials  that  remain  on  the  surfaces  of  instruments
+interfere  with  the  effectiveness  of  these  processes.  Decontamination  removes
+pathogenic  microorganisms  from  objects  so  they  are  safe  to  handle,  use,  or  discard.
+Terms  with  the  suffix  cide  or  cidal  for  killing  action  also  are  commonly  used.  For
+example, a germicide is an agent that can kill microorganisms, particularly pathogenic
+organisms  ("germs").  The  term  germicide  includes  both  antiseptics  and  disinfectants.
+Antiseptics  are  germicides  applied  to  living  tissue  and  skin;  disinfectants  are
+antimicrobials applied only to inanimate objects. In general, antiseptics are used only
+on  the  skin  and  not  for  surface  disinfection,  and  disinfectants  are  not  used  for  skin
+antisepsis  because  they  can  injure  skin  and  other  tissues.  Virucide,  fungicide,
+bactericide,  sporicide,  and  tuberculocide can  kill  the type of  microorganism  identified
+by  the  prefix.  For  example,  a  bactericide  is  an  agent  that  kills  bacteria.  13-18  CDC
+provides information on infection control and clinical safety to help reduce the risk of
+infections  among  healthcare  workers,  patients,  and  visitors.  Languages  Language
+Assistance Languages  Language Assistance 
+Source
+ URL:
+https://www.cdc.gov/infection-control/hcp/disinfection-sterilization/introduction-methods-definition-of-ter
+ms.html

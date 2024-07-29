@@ -1,0 +1,620 @@
+Official websites use .gov A .gov website belongs to an official government organization
+in  the  United  States.  Secure  .gov  websites  use  HTTPS  A  lock  (   )  or  https://  means
+you've  safely  connected  to  the  .gov  website.  Share  sensitive  information  only  on
+official, secure websites.  F2011-08 Date Released: June 2011  On January 26, 2011, a
+38-year-old male career fire fighter recruit (“Trainee”) participated in an entry-level fire
+fighter  certification  class.  The  training  included  maneuvering  through  a  tunnel  maze
+while wearing full turnout gear and self-contained breathing apparatus (SCBA). After he
+completed  most  of  the  maze  evolution,  the  Trainee’s  SCBA  became  stuck  inside  the
+tunnel. He tried to free himself for several minutes; meanwhile, his SCBA became low
+on air. Instructors removed the Trainee from the maze and noted that he was breathing
+hard  and  complaining  of  nausea.  After  rehabilitation,  his  symptoms  resolved,  and  his
+vital signs returned to normal. The Trainee went on to complete the basement search
+portion of the smokehouse training without difficulty. After lunch, the Trainee repeated
+the maze evolution and became stuck in the same location. After assuring instructors
+he  was  okay,  the  Trainee  suddenly  became  unresponsive.  Instructors  removed  the
+Trainee from the maze and found him unresponsive, not breathing, and without a pulse.
+An ambulance was requested, cardiopulmonary resuscitation (CPR) was begun, and an
+automated  external  defibrillator  was  utilized;  no  shock  was  advised.  Paramedics
+assigned  to  a  nearby  flight  ambulance  responded  and  began  advanced  life  support
+including the administration of intravenous cardiac resuscitation medications. A cardiac
+monitor was placed, revealing asystole (no heart beat) and pulseless electrical activity.
+The  ambulance  arrived  about  11  minutes  later  and  transported  the  Trainee  to  the
+hospital’s emergency department (ED), where CPR and advanced life support treatment
+continued. Approximately 47 minutes after his collapse, despite CPR and advanced life
+support,  the  Trainee  died.  The  death  certificate  and  the  autopsy,  completed  by  the
+medical examiner, listed “dilated cardiomyopathy” due to “hypertensive cardiovascular
+disease”  as  the  cause  of  death.  NIOSH  investigators  concluded  that  the  Trainee’s
+underlying  cardiomyopathy  coupled  with  the  physical  exertion  involved  in  performing
+the  fire  fighter  training  triggered  his  sudden  cardiac  death.  NIOSH  investigators  offer
+the  following  recommendations  to  address  general  safety  and  health  issues.  It  is
+unlikely,  however,  that  any  of  these  recommendations  would  have  prevented  the
+Trainee’s death.    On January 26, 2011, a 38-year-old male career fire fighter trainee
+suffered sudden cardiac death during fire fighter training. Despite CPR and advanced
+life support, the Trainee died. NIOSH was notified of this fatality on January 27, 2011, by
+the U.S. Fire Administration. NIOSH contacted the affected fire department (FD) and the
+state fire training academy (SFTA) on January 27, 2011, to gather additional information
+and  on  April  19,  2011,  to  initiate  the  investigation.  On  April  26,  2011,  a  safety  and
+occupational health specialist from the NIOSH Fire Fighter Fatality Investigation Team
+conducted  an  on-site  investigation  of  the  incident.  During  the  investigation,  NIOSH
+personnel  interviewed  the  following  people:   NIOSH  personnel  reviewed  the  following
+documents:   Background  State  Fire  Training  Academy.  The  SFTA  provides  fire  and
+emergency medical service (EMS) training for career and volunteer members. A variety
+of training courses are offered at the SFTA including the Fire Fighter I and II course in
+which  the  Trainee  was  participating.  The  25-acre  facility  is  composed  of  a  1-story
+smokehouse with a basement (Figure 1), a 5-story drill tower, a 1-story burn building,
+liquid  propane  props,  auto  extrication  props,  a  cascade  system,  and  a  fire  station
+(under  construction),  all  built  according  to  NFPA  1402,  Guide  to  Building  Fire  Service
+Training Centers [NFPA 2007a]. Also located on the SFTA grounds is a flight ambulance
+staffed 24 hours a day with a flight nurse, paramedics, and a pilot. The air ambulance is
+an independent agency not associated with the SFTA. Figure 1: Smokehouse   At the
+time of this incident, medical clearance was not required for trainees, however, on their
+SFTA application, trainees were asked to list allergies or medical conditions that would
+require  special  consideration  during  attendance  at  the  Academy.  The  Trainee  did  not
+list any conditions. Since this incident, applicants must now be medically cleared by a
+physician  (personal  or  FD)  within  the  past  year.  The  medical  clearance  statement  is
+given to the SFTA deputy director who makes the final determination whether to clear
+the  fire  fighter  for  training.  The  Fire  Fighter  I  and  II  courses  consist  of  a  progressive
+combination of classroom work, fitness exercises, and fire fighter drills lasting 8 hours
+per day for 8 weeks. At the conclusion of the Fire Fighter II training, students must pass
+the Fire Fighter Encounter Agility Test (FEAT) within the allotted time (Appendix A). The
+training scheduled for January 26, 2011, consisted of navigating the maze tunnel while
+wearing full turnout gear and SCBA (on-air) and conducting a simulated search in heavy
+smoke  conditions  using  a  right-hand  search  pattern.  The  maze  tunnel,  where  the
+Trainee became stuck and unresponsive, was inside the smokehouse. The tunnel was
+constructed of three plywood sections in an inverted “U” arrangement (Figure 2). The
+three sections could be quickly opened and disassembled so that fire fighters could be
+assisted  quickly  if  needed  (Figure  3).  The  tunnel’s  interior  measures  2  feet  by  2  feet
+(Figure  4)  and  tests  students  for  claustrophobia,  Fire  Fighter  I  critical  performance
+standards, and restricted passage negotiation as required in NFPA 1001, Standard for
+Fire Fighter Professional Qualifications [NFPA 2008a].  Figure 2: Maze tunnel   Figure 3:
+Maze sections   Figure 4: Maze tunnel interior   Incident. On Wednesday, January 26,
+2011,  28  students  met  at  0745  hours  to  begin  their  8th  day  of  Fire  Fighter  I  and  II
+training. Weather conditions included a temperature of 27 degrees Fahrenheit and 96%
+relative  humidity  [Weather  Underground  2011].  Two  instructors  discussed  the  day’s
+scheduled  training,  which  included  a  maze  tunnel  and  basement  search.  Instructors
+then inspected participants’ turnout gear and SCBAs. The Trainee’s SCBA was a Scott
+PosiChek3®  with  integrated  personal  alert  safety  system.  His  SCBA  was  full  of  air
+(2,216  pounds  per  square  inch  [psi]  capacity),  and  he  had  been  fit  tested.  Students
+entered  the  maze  tunnel  individually.  The  course  was  typically  completed  within  5
+minutes, but it could take up to 10 minutes if problems were encountered. The Trainee
+was  the  last  student  to  enter  the  tunnel  and  had  his  hand  on  the  leg  of  the  student
+ahead of him. While moving through the maze, instructors remained in voice contact
+with the Trainee from just outside the maze wall. He was near the end of the tunnel at
+the second 90-degree turn when he became stuck (Figure 2). The Trainee’s SCBA was
+caught  on  a  wooden  cross  beam  and  became  low  on  air  as  he  attempted  to  free
+himself. At that point the instructors pulled the tunnel apart, and the Trainee crawled
+out. Once outside the smokehouse, the Trainee doffed his SCBA and turnout coat and
+complained of nausea. His vital signs were taken (blood pressure of 120/78 millimeters
+of mercury [mmHg], pulse rate of 100 beats per minute) as he entered rehab (hydration
+and  rest).  After  a  10-minute  rest,  he  donned  his  gear  and  completed  the  basement
+right-hand search component of the training without incident. The class was dismissed
+for  lunch  at  1150  hours.  At  1300  hours  participants  reassembled  to  repeat  the  maze
+tunnel drill. As the Trainee encountered the second 90-degree turn, he again became
+stuck.  The  Trainee  told  instructors  that  he  was  okay  while  he  tried  several  times  to
+move  forward.  At  this  point  an  instructor  reached  through  a  crack  in  the  maze  to
+disengage the Trainee’s SCBA bottle. When asked to move forward again, the Trainee
+did  not  respond.  It  appeared  that  the  Trainee  was  pushing  on  the  inside  wall  of  the
+tunnel  to  escape,  so  the  instructors  opened  the  escape  hatch  and  pulled  the  tunnel
+apart. An instructor grabbed the Trainee’s SCBA strap and pulled him from the maze
+and  outside  the  building  (1537  hours).  The  Trainee  was  unresponsive,  not  breathing,
+and had no pulse; an ambulance was called. The Trainee’s SCBA, helmet, and turnout
+coat were removed. His SCBA contained approximately 2,000 psi of air. CPR was begun
+as  the  medical  bag  and  an  AED  were  retrieved.  The  AED  advised  “no  shock.”
+Paramedics from the air ambulance arrived within 2 minutes and began advanced life
+support including placing an intravenous line and administering cardiac medications. A
+cardiac  monitor  was  placed  revealing  asystole  and  pulseless  electrical  activity.  The
+ambulance  arrived  at  1548  hours;  after  three  unsuccessful  intubation  attempts,  a
+Combitube® was placed. The ambulance departed the scene at 1600 hours en route to
+the hospital’s ED. The ambulance arrived at the ED at 1610 hours where advanced life
+support continued with no change in his clinical condition. At 1622 hours the Trainee
+was pronounced dead by the attending physician (45 minutes after his collapse), and
+resuscitation  efforts  were  stopped.  Medical  Findings.  The  death  certificate  and  the
+autopsy,  completed  by  the  medical  examiner,  listed  “dilated  cardiomyopathy”  due  to
+“hypertensive  cardiovascular  disease”  as  the  cause  of  death.  Key  findings  from  the
+autopsy included cardiomegaly, biventricular dilatation, and no coronary artery disease.
+Histologic  (microscopic)  examination  revealed  “mild  increased  inflammation  between
+cardiomyocyte  fibers”  and  “widening  of  the  myocardial  fiber  and  enlarged  boxcar
+nuclei,”  findings  consistent  with  cardiomyopathy.  Specific  findings  from  the  autopsy
+report  are  listed  in  Appendix  B.  The  Trainee  was  72  inches  tall  and  weighed  308
+pounds, giving him a body mass index of 41.8 kilograms per meters squared (kg/m2). A
+body  mass  index  greater  than  30.0  is  considered  obese  [CDC  2011].  In  April  2007,  a
+single episode of hyperlipidemia (a low density lipoprotein level of 137 milligrams per
+deciliter)  was  identified  during  an  annual  checkup  with  his  personal  physician,  but
+subsequent  tests  were  normal.  He  was  found  to  have  high  blood  pressure  (130/92
+mmHg)  in  March  2010  but  was  not  prescribed  a  blood  pressure-lowering  medication.
+Subsequent  visits  to  his  personal  physician  in  September  2010  and  at  the  FD
+preplacement  medical  evaluation  in  November  2010  revealed  blood  pressures  of
+120/80  mmHg  and  138/88  mmHg,  respectively.  According  to  medical  records,  no
+electrocardiogram or echocardiogram was ever performed. The Trainee did not report
+heart-related  symptoms  (chest  pain,  chest  pressure,  angina,  shortness  of  breath  on
+exertion, etc.) at any time to his physicians, his family, the FD, or the SFTA. The SCBA
+the  Trainee  was  wearing  was  tested  by  the  manufacturer,  and  no  problems  were
+identified.  At the time of the NIOSH investigation, the career FD consisted of four fire
+stations with 60 uniformed personnel serving 28,000 residents in a geographic area of
+29 square miles. Membership and Training. The FD requires new fire fighter applicants
+to be 18 years of age; complete an application; and pass a candidate physical ability
+test (Appendix C), an oral interview, a drug screen, and a psychological evaluation prior
+to being approved. The candidate is then offered a job and, if the job is accepted, the
+new member begins training. After CPR training, the new member is sent to SFTA for
+the  8-week,  380-hour  course  to  become  certified  to  the  Fire  Fighter  I  and  II,
+EMT-Ambulance,  and  Hazardous  Materials  Technician  levels.  Once  the  member
+graduates, the FD places the member on a shift, working 24 hours on duty, 24 hours off
+duty for three tours, then off duty for 4 days. The state requires career firefighters to be
+certified  as  a  Firefighter  II  within  the  first  year  of  employment.  There  is  no  minimum
+training requirement for volunteer firefighters. The Trainee was attending the SFTA for
+FFI and FFII certification. The Trainee had previously taken CPR and First Aid courses
+and was hired by his FD 2 months earlier. Preplacement Medical Evaluations. The FD
+requires  preplacement  medical  evaluations  for  all  applicants.  Components  of  the
+medical evaluation include the following: The evaluations are performed by a contract
+physician.  Once  this  evaluation  is  complete,  the  contract  physician  makes  a
+determination  regarding  medical  clearance  for  fire  fighting  duties  and  forwards  this
+decision to the FD. The Trainee had his medical evaluation on November 16, 2010, and
+was  cleared  for  fire  fighting  duties.  Periodic  Medical  Evaluations.  Because  all  FD
+members are hazardous materials certified, an annual medical evaluation is required.
+Components  of  the  medical  evaluation  include  the  following:  The  evaluations  are
+performed  by  a  contract  physician.  Once  this  evaluation  is  complete,  the  contract
+physician  makes  a  determination  regarding  medical  clearance  for  fire  fighting  duties
+and forwards this decision to the FD. An annual SCBA facepiece fit test is required by
+the FD. Annual SCBA medical clearance is not required. Members injured on duty must
+be evaluated by the FD contract physician who makes the final determination regarding
+return  to  duty.  Health  and  Wellness  Programs.  The  FD  has  no  formal  wellness/fitness
+program, but exercise equipment is available in the fire stations, and employees have
+access to the local high school weight room. No annual physical ability test is required.
+All  SCBAs  are  tested  in  accordance  with  NFPA  1981,  Standard  on  Open-Circuit
+Self-Contained  Breathing  Apparatus  (SCBA)  for  Emergency  Services  [NFPA  2007b].
+Breathing  air  quality  is  tested  quarterly  in  accordance  with  NFPA  1989,  Standard  on
+Breathing  Air  Quality  for  Emergency  Services  [NFPA2008b].   Cardiomyopathy.  The
+autopsy revealed dilated cardiomyopathy. Cardiomyopathies are conditions that involve
+damage  to  the  heart  muscle  not  due  to  hypertension;  ischemia  (coronary  artery
+disease);  or  valvular,  pericardial,  or  congenital  heart  disease  [Wynne  and  Braunwald
+2008]. There are three types of cardiomyopathy based on functional impairment: The
+Trainee  had  components  of  dilated  and  hypertrophic  cardiomyopathy.  Dilated
+Cardiomyopathy. Dilated cardiomyopathy is characterized by cardiac enlargement and
+impaired  systolic  function  of  one  or  both  ventricles,  congestive  heart  failure,
+arrhythmias,  and  emboli  [Dec  and  Fuster  1994].  Microscopic  findings  are  nonspecific,
+typically  being  myocyte  hypertrophy  (best  appreciated  as  nuclear  hypertrophy  [i.e.,
+“boxcar  nuclei”])  with  varying  degrees  of  interstitial  fibrosis  [Dec  and  Fuster  1994;
+Virmani  1997].  As  the  ventricular  function  deteriorates,  the  following  signs  and
+symptoms of congestive heart failure appear: shortness of breath with exertion or when
+lying flat, ankle swelling, fatigue, weakness, etc. Laboratory studies (radionuclide and
+cardiac  catheterization)  are  necessary  to  diagnose  left  ventricular  enlargement  and
+dysfunction,  mitral  and/or  tricuspid  regurgitation,  elevated  left-sided  and  often
+right-sided  filling  pressures,  elevated  pulmonary  artery  wedge  pressures,  and
+diminished  cardiac  output  [Dec  and  Fuster  1994;  Wynne  and  Braunwald  2008].  The
+Trainee was asymptomatic and had no laboratory studies conducted, but was found to
+have  dilated  cardiomyopathy  and  enlarged  boxcar  nuclei  on  autopsy.  The  incidence
+rate  of  dilated  cardiomyopathy  in  the  United  States  is  5  to  8  cases  per  100,000  per
+year,  with  an  age-adjusted  prevalence  of  36  cases  per  100,000  [Virmani  1997].
+Although most cases of dilated cardiomyopathy are of unknown etiology (idiopathic), a
+variety of acquired or hereditary disorders can cause the disorder. These secondary and
+potentially reversible forms are listed in Appendix D [Dec and Fuster 1994]. Inherited
+factors  account  for  approximately  one  third  of  all  idiopathic  dilated  cardiomyopathy
+cases,  and  20%  of  patients  with  idiopathic  dilated  cardiomyopathy  have  at  least  one
+first-degree relative with a decreased ejection fraction and cardiomegaly [Michels et al.
+1992;  Keeling  et  al.  1995;  Grunig  et  al.  1998].  Although  idiopathic  dilated
+cardiomyopathy  can  be  transmitted  as  a  recessive  or  X-linked  trait,  autosomal
+dominant inheritance occurs most frequently and exhibits both clinical variability and
+genetic heterogeneity [Fatkin et al. 1999]. It is unclear if the Trainee’s idiopathic dilated
+cardiomyopathy  was  due  to  inherited  factors  or  an  acquired  condition  such  as  viral
+myocarditis. The Trainee had no medical history consistent with viral myocarditis and
+no  known  relatives  with  cardiomyopathy.  In  either  case,  because  of  the  possibility  of
+the condition being inherited, first-degree relatives should consult with their physicians
+regarding  when,  or  if,  a  screening  echocardiogram  is  warranted.  The  prognosis  for
+idiopathic dilated cardiomyopathy is poor; studies report an average 5-year death rate
+of 20% [Ikram et al. 1987; Di Lenarda et al. 1990; Komajda et al. 1990; Sugrue et al.
+1992]. Dilated cardiomyopathy is also associated with an increased incidence of sudden
+cardiac  death,  mostly  from  arrhythmias  [Dec  and  Fuster  1994;  Bansch  et  al.  2002;
+Wynne and Braunwald 2008]. Although sudden death is rarely the initial presentation
+[Komajda  et  al.  1990;  Sugrue  et  al.  1992],  it  is  a  common  cause  of  death  among
+idiopathic dilated cardiomyopathy patients, accounting for 28% of all idiopathic dilated
+cardiomyopathy  deaths  [Dec  and  Fuster  1994].  Although  a  variety  of  symptoms  and
+medical  tests  can  provide  prognostic  information,  patients  at  greatest  risk  of  sudden
+cardiac
+ death
+ are
+ hard
+ to
+ identify
+ [Dec
+ and
+ Fuster
+ 1994].
+ Hypertrophic
+Cardiomyopathy. Hypertrophic cardiomyopathy (HCM) is a rare heart condition affecting
+approximately 0.2% of the population [Spirito et al. 1997]. Diagnosis is typically made
+by  echocardiogram  and  EKG  findings  of  left  ventricular  hypertrophy  by  voltage.  The
+Trainee  was  asymptomatic,  and  no  screening  EKG  was  performed.  Most  patients  are
+asymptomatic, and sudden cardiac death is often the first clinical manifestation [Wynne
+and Braunwald 2001]. Risk factors for sudden death among HCM patients include young
+age (less than 30 years old) at diagnosis, a family history of HCM with sudden death, an
+abnormal  blood  pressure  response  to  exercise,  severe  symptoms,  nonsustained
+ventricular tachycardia, marked hypertrophy, marked left atrial dilatation, and genetic
+abnormalities  associated  with  increased  prevalence  of  sudden  death  [Spirito  et  al.
+1997;  Olivotto  et  al.  1999;  Wynne  and  Braunwald  2001].  Approximately  half  of  HCM
+cases are transmitted genetically, typically as an autosomal dominant trait. Because of
+this,  medical  evaluation  of  first-degree  relatives  is  warranted  to  determine  whether
+screening  tests  (e.g.,  echocardiogram)  are  appropriate.  Although  hypertension  can
+cause both cardiomegaly and left ventricular hypertrophy, given the Trainee’s mild and
+short duration of high blood pressure, it is unlikely that hypertension was responsible
+for  either  of  these  conditions.  A  much  more  likely  cause  was  the  Trainee’s
+cardiomyopathy  (dilated  and/or  hypertrophic).  Sudden  Cardiac  Death.  Epidemiologic
+studies have found that heavy physical exertion sometimes immediately precedes and
+triggers sudden cardiac death [Albert et al. 2000]. The Trainee performed maze training
+while  wearing  full  turnout  gear  and  SCBA.  The  training  is  considered  heavy  physical
+activity [AIHA 1971; Gledhill and Jamnik 1992]. NIOSH investigators conclude that the
+Trainee  probably  had  a  fatal  cardiac  arrhythmia  associated  with  his  dilated  and
+hypertrophic  cardiomyopathy;  this  likely  was  triggered  by  the  physical  stress  of  the
+maze  tunnel  training.  Occupational  Medical  Standards  for  Structural  Fire  Fighters.  To
+reduce  the  risk  of  sudden  cardiac  arrest  or  other  incapacitating  medical  conditions
+among  fire  fighters,  the  NFPA  developed  NFPA  1582,  Standard  on  Comprehensive
+Occupational  Medical  Program  for  Fire  Departments  [NFPA  2007c].  This  voluntary
+industry  standard  provides  the  components  of  a  preplacement  and  annual  medical
+evaluation  and  medical  fitness  for  duty  criteria.  Dilated  cardiomyopathy  is  not
+specifically  mentioned  in  NFPA  1582.  However,  it  is  one  type  of  cardiomyopathy,  a
+Category  A  condition  for  candidates  that  “precludes  a  person  from  performing  as  a
+member in a training or emergency operational environment by presenting a significant
+risk  to  the  safety  and  health  of  the  person  or  others”  [NFPA  2007c].  NFPA  considers
+HCM a category B medical condition for fire fighter candidates. Category B is defined as
+“a  medical  condition  that,  based  on  its  severity  or  degree,  could  (emphasis  ours)
+preclude  a  person  from  performing  as  a  fire  fighter  in  a  training  or  emergency
+operational environment by presenting a significant risk to the safety and health of the
+person  or  others.”  NFPA  1582  notes  this  distinction  in  its  members  section  when  it
+states,  “Hypertrophic  obstructive  cardiomyopathy  (idiopathic  hypertrophic  subaortic
+stenosis) might compromise the member’s ability to function as an integral component
+of a team, where sudden incapacitation can result in mission failure or in risk of injury
+or  death  to  civilians  or  other  team  members”  [NFPA  2007c].  The  final  decision  for
+clearing  an  individual  with  HCM  for  duty  lies  with  the  FD  physician.  The  Trainee  was
+asymptomatic,  and  prior  medical  evaluations  detected  no  cardiac  abnormality.  NFPA
+1582  recommends  an  EKG  and  a  chest  x-ray  as  part  of  its  candidate  medical
+evaluation. Had an EKG or chest x-ray been conducted as part of the FD’s candidate or
+member medical evaluation, it is remotely possible the Trainee’s enlarged heart could
+have been detected. However, both EKG and chest x-ray have very low sensitivities to
+detect  cardiomegaly  [Kerber  and  Sherman  1975].   NIOSH  investigators  offer  the
+following recommendations to address general safety and health issues. However, it is
+unlikely that any of these recommendations would have prevented the Trainee’s death.
+Recommendation #1: Provide preplacement and annual medical evaluations compliant
+with  National  Fire  Protection  Association  (NFPA)  1582  to  fire  fighters.  Guidance
+regarding the content and frequency of these medical evaluations can be found in NFPA
+1582  and  in  the  International  Association  of  Fire  Fighters  (IAFF)/International
+Association of Fire Chiefs (IAFC) Fire Service Joint Labor Management Wellness/Fitness
+Initiative [NFPA 2007c; IAFF, IAFC 2008]. These evaluations are performed to determine
+fire fighters’ medical ability to perform duties without presenting a significant risk to the
+safety  and  health  of  themselves  or  others.  To  ensure  improved  health  and  safety  of
+candidates  and  members,  and  to  ensure  continuity  of  medical  evaluations,  it  is
+recommended the FD and the SFTA comply with this recommendation. However, the FD
+and  the  SFTA  are  not  legally  required  to  follow  the  NFPA  standard  or  the  IAFF/IAFC
+initiative.  Recommendation  #2:  Perform  a  preplacement  and  an  annual  physical
+performance  (physical  ability)  evaluation.  NFPA  1500,  Standard  on  Fire  Department
+Occupational  Safety  and  Health  Program,  requires  the  fire  department  to  develop
+physical  performance  requirements  for  candidates  and  members  who  engage  in
+emergency  operations  [NFPA  2007d].  Members  who  engage  in  emergency  operations
+must be annually qualified (physical ability test) as meeting these physical performance
+standards for structural fire fighters [NFPA 2007d]. This Trainee completed a physical
+ability test in October 2010; his fitness level was appropriate for unrestricted duty as a
+structural  fire  fighter.  Recommendation  #3:  Ensure  that  fire  fighters  are  cleared  for
+return  to  duty  by  a  physician  knowledgeable  about  the  physical  demands  of  fire
+fighting,  the  personal  protective  equipment  used  by  fire  fighters,  and  the  various
+components of NFPA 1582. Guidance regarding medical evaluations and examinations
+for structural fire fighters can be found in NFPA 1582 and in the IAFF/IAFC Fire Service
+Joint  Labor  Management  Wellness/Fitness  Initiative  [NFPA  2007c;  IAFF,  IAFC  2008].
+According  to  these  guidelines,  the  FD  should  have  an  officially  designated  physician
+who is responsible for guiding, directing, and advising the members with regard to their
+health, fitness, and suitability for duty. The physician should review job descriptions and
+essential  job  tasks  required  for  all  FD  positions  and  ranks  to  understand  the
+physiological  and  psychological  demands  of  fire  fighters  and  the  environmental
+conditions  under  which  they  must  perform,  as  well  as  the  personal  protective
+equipment  they  must  wear  during  various  types  of  emergency  operations.  This
+recommendation  is  made  based  on  review  of  the  FD  health  and  medical  programs.
+Recommendation #4: Phase in a comprehensive wellness and fitness program for fire
+fighters. Guidance for fire department wellness/fitness programs to reduce risk factors
+for cardiovascular disease and improve cardiovascular capacity is found in NFPA 1583,
+Standard  on  Health-Related  Fitness  Programs  for  Fire  Fighters  and  the  IAFF/IAFC  Fire
+Service  Joint  Labor  Management  Wellness/Fitness  Initiative  [IAFF,  IAFC  2008;  NFPA
+2008c]. Worksite health promotion programs have been shown to be cost effective by
+increasing
+ productivity,
+ reducing
+ absenteeism,
+ and
+ reducing
+ the
+ number
+ of
+work-related injuries and lost work days [Stein et al. 2000; Aldana 2001]. Fire service
+health  promotion  programs  have  been  shown  to  reduce  coronary  artery  disease  risk
+factors and improve fitness levels, with mandatory programs showing the most benefit
+[Dempsey et al. 2002; Womack et al. 2005; Blevins et al. 2006]. A study conducted by
+the Oregon Health and Science University reported a savings of more than $1 million
+for  each  of  four  large  fire  departments  implementing  the  IAFF/IAFC  wellness/fitness
+program compared to four large fire departments not implementing a program. These
+savings  were  primarily  due  to  a  reduction  of  occupational  injury/illness  claims  with
+additional  savings  expected  from  reduced  future  nonoccupational  healthcare  costs
+[Kuehl 2007]. Recommendation #5: Provide fire fighters with medical clearance to wear
+SCBA as part of the Fire Department’s medical evaluation program.  The Occupational
+Safety  and  Health  Administration  (OSHA)  Revised  Respiratory  Protection  Standard
+requires employers to provide medical evaluations and clearance for employees using
+respiratory protection [29 CFR 1910.134]. These clearance evaluations are required for
+private industry  employees  and  public  employees  in  states  operating  OSHA-approved
+state plans. Arkansas does not operate an OSHA-approved state plan; therefore, neither
+the FD nor the SFTA is required to ensure all members have been medically cleared to
+wear
+ an
+ SCBA.
+ However,
+ we
+ recommend
+ voluntary
+ compliance
+ with
+ this
+recommendation to improve fire fighter health and safety. Recommendation #6: Ask an
+independent  third  party  entity  such  as  the  NIOSH  National  Personal  Protective
+Technology  Laboratory  to  perform  post-incident  SCBA  inspection  and  testing.  The
+NIOSH NPPTL has the expertise to test the function of respiratory protective equipment
+used in this incident. The NPPTL staff can evaluate the performance of the SCBA as a
+system and provide an independent, third party opinion regarding the functionality of
+the SCBA and whether it contributed to the injury/death [NIOSH 2009]. The SCBA in this
+incident was tested by the manufacturer and was found to be in proper working order.
+While  NIOSH  did  not  suspect  any  SCBA  problem,  we  recommend  testing  by  an
+independent  entity.    AIHA  [1971].  Am  Ind  Hyg  Assoc  J  32(8):560–564.   Albert  CM,
+Mittleman MA, Chae CU, Lee IM, Hennekens CH, Manson JE [2000]. Triggering of sudden
+death  from  cardiac  causes  by  vigorous  exertion.  N  Engl  J  Med  343(19):1355–1361.  
+Aldana  SG  [2001].  Financial  impact  of  health  promotion  programs:  a  comprehensive
+review of the literature. Am J Health Promot 15(5):296–320.  Bansch D, Antz M, Boczor
+S, Volkmer M, Tebbenjohanns J, Seidl K, Block M, Gietzen F, Berger J, Kuck KH [2002].
+Primary prevention of sudden cardiac death in idiopathic dilated cardiomyopathy. The
+cardiomyopathy  trial  (CAT).  Circulation  105(12):1453–1458.   Blevins  JS,  Bounds  R,
+Armstrong E, Coast JR [2006]. Health and fitness programming for fire fighters: does it
+produce results? Med Sci Sports Exerc 38(5):S454.  CDC (Centers for Disease Control
+and
+ Prevention)
+ [2011].
+ Adult
+ BMI
+ calculator.
+[https://www.cdc.gov/healthyweight/assessing/bmi/adult_bmi/english_bmi_calculator/re
+sults_obese.html?pounds=308&inches=72].  Date  accessed:  July  2011.   CFR.  Code  of
+Federal  Regulations.  Washington,  DC:  U.S.  Government  Printing  Office,  Office  of  the
+Federal  Register.   Dec  GW,  Fuster  V  [1994].  Medical  progress:  idiopathic  dilated
+cardiomyopathy. N Engl J Med 331(23):1564–1575.  Dempsey WL, Stevens SR, Snell CR
+[2002]. Changes in physical performance and medical measures following a mandatory
+firefighter wellness program. Med Sci Sports Exerc 34(5):S258.  Di Lenarda A, Lardieri
+G,  Mestroni  L,  Miani  D,  Pinamonti  B,  Salvi  A,  Singuara  G,  Camerini  F  [1990].  Dilated
+cardiomyopathy: changing survival in the last 20 years. Circulation 82:Suppl III:III-387,
+abstract.  Fatkin D, MacRae C, Sasaki T, Wolff MR, Porcu M, Frenneaux M, Atherton J,
+Vidaillet HJ, Spudich S, De Girolami U, Seidman JG, Seidman CE, Muntoni F, Muehle G,
+Johnson W, McDonough B [1999]. Missense mutations in the rod domain of the Lamin
+A/C gene as causes of dilated cardiomyopathy and conduction-system disease. N Engl J
+Med 341(23):1715–1724.  Gledhill N, Jamnik VK [1992]. Characterization of the physical
+demands of firefighting. Can J Spt Sci 17(3):207–213.  Grunig E, Tasman JA, Kucherer H,
+Franz  W,  Kubler  W,  Katsu  HA  [1998].  Frequency  and  phenotypes  of  familial  dilated
+cardiomyopathy. J Am Coll Cardiol 31(1):186–194.  IAFF, IAFC [2008]. The fire service
+joint
+ labor
+ management
+ wellness/fitness
+ initiative.
+ 3rd
+ ed.
+ Washington,
+ DC:
+International Association of Fire Fighters, International Association of Fire Chiefs.  Ikram
+H, Williamson HG, Won M, Crozier IG, Wells EJ [1987]. The course of idiopathic dilated
+cardiomyopathy in New Zealand. Br Heart J 57(6):521–527.  Keeling PJ, Gang Y, Smith
+G,  Seo  H,  Bent  SE,  Murday  V,  Caforio  AL,  McKenna  WJ  [1995].  Familial  dilated
+cardiomyopathy in the United Kingdom. Br Heart J 73(5):417–421.  Kerber RE, Sherman
+B [1975]. Echocardiographic evaluation of pericardial effusion in myxedema. Incidence
+and  biochemical  and  clinical  correlations.  Circ  52(5):823–827.   Komajda  M,  Jais  JP,
+Reeves F, Goldfarb B, Bouhour JB, Juillieres Y, Lanfranchi J, Peycelon P, Geslin PH, Carrie
+D,
+ Grosgogeat
+ Y
+ [1990].
+ Factors
+ predicting
+ mortality
+ in
+ idiopathic
+ dilated
+cardiomyopathy. Eur Heart J 11(9):824–831.  Kuehl K [2007]. Economic impact of the
+wellness  fitness  initiative.  Presentation  at  the  2007  John  P.  Redmond  Symposium  in
+Chicago, IL on October 23, 2007.  Michels VV, Moll PP, Miller FA, Tajik AJ, Chu JS, Driscoll
+DJ,  Burnett  JC,  Rodeheffer  RJ,  Chesebro  JH,  Tazelaar  HD  [1992].  The  frequency  of
+familial  dilated  cardiomyopathy  in  a  series  of  patients  with  idiopathic  dilated
+cardiomyopathy.  N  Engl  J  Med  326(2):77–82.   NFPA  [2007a].  Guide  to  building  fire
+service training centers. Quincy, MA: National Fire Protection Association. NFPA 1402. 
+NFPA [2007b]. Standard on Open-Circuit Self-Contained Breathing Apparatus (SCBA) for
+Emergency  Services.  Quincy,  MA:  National  Fire  Protection  Association.  NFPA  1981.  
+NFPA  [2007c].  Standard  on  comprehensive  occupational  medical  program  for  fire
+departments.  Quincy,  MA:  National  Fire  Protection  Association.  NFPA  1582.   NFPA
+[2007d]. Standard on fire department occupational safety and health program. Quincy,
+MA: National Fire Protection Association. NFPA 1500.  NFPA [2008a]. Standard for fire
+fighter  professional  qualifications.  Quincy,  MA:  National  Fire  Protection  Association.
+NFPA 1001.  NFPA [2008b]. Standard on Breathing Air Quality for Emergency Services.
+Quincy, MA: National Fire Protection Association. NFPA 1989.   NFPA [2008c]. Standard
+on health-related fitness programs for fire fighters. Quincy, MA: National Fire Protection
+Association.  NFPA  1583.   NIOSH  [2009].  The  National  Personal  Protective  Technology
+Laboratory.  [https://www.cdc.gov/niosh/npptl/about.html].  Date  accessed:  July  2011.  
+Olivotto  I,  Maron  BJ,  Montereggi  A,  Mazzuoli  F,  Dolara  A,  Cecchi  F  [1999].  Prognostic
+value  of  systemic  blood  pressure  response  during  exercise  in  a  community-based
+patient
+ population
+ with
+ hypertrophic
+ cardiomyopathy.
+ J
+ Am
+ Coll
+ Cardiol
+33(7):2044–2051.   Spirito  P,  Seidman  CE,  McKenna  WJ,  Maron  BJ  [1997].  The
+management  of  hypertrophic  cardiomyopathy.  N  Engl  J  Med  336(11):775–785.   Stein
+AD,  Shakour  SK,  Zuidema  RA  [2000].  Financial  incentives,  participation  in  employer
+sponsored  health  promotion,  and  changes  in  employee  health  and  productivity:
+HealthPlus health quotient program. J Occup Environ Med 42(12):1148–1155.  Sugrue
+DD, Rodeheffer RJ, Codd MB, Ballard DJ, Fuster V, Gersh BJ [1992]. The clinical course of
+idiopathic  dilated  cardiomyopathy:  a  population-based  study.  Ann  Intern  Med
+117(2):117–123.  Virmani R [1997]. Cardiomyopathy, idiopathic dilated. In: Bloom S, ed.
+Diagnostic  criteria  for  cardiovascular  pathology  acquired  diseases.  Philadelphia,  PA:
+Lippencott-Raven, pp. 26–27.  Womack JW, Humbarger CD, Green JS, Crouse SF [2005].
+Coronary artery disease risk factors in firefighters: effectiveness of a one-year voluntary
+health and wellness program. Med Sci Sports Exerc 37(5):S385.  Weather Underground
+[2011].
+ History
+ for
+ El
+ Dorado,
+ AR.
+[http://www.wunderground.com/history/airport/KELD/2011/1/26/DailyHistory.html?req_c
+ity=NA&req_state=NA&req_statename=NA].  Date  accessed:  July  2011.   Wynne  J,
+Braunwald E [2001]. The cardiomyopathies and myocarditides. In: Braunwald E, Zipes
+DP,  Libby  P,  eds.  Heart  disease:  a  text  of  cardiovascular  medicine.  6th  ed.  Vol.  2.
+Philadelphia,  PA:  W.B.  Saunders  Company,  pp.  1760–1774.   Wynne  J,  Braunwald  E
+[2008]. Cardiomyopathy and myocarditis. In: Fauci AS, Braunwald E, Kasper DL, Hauser
+SL,  Longo  DL,  Jameson  JL,  Loscalzo  J,  eds.  Harrison’s  principles  of  internal  medicine.
+17th ed. New York: McGraw-Hill, pp. 1481–1488.  This incident was investigated by the
+NIOSH  Fire  Fighter  Fatality  Investigation  and  Prevention  Program,  Cardiovascular
+Disease Component in Cincinnati, Ohio. Mr. Tommy Baldwin (MS) led the investigation
+and co-authored the report. Mr. Baldwin is a Safety and Occupational Health Specialist,
+a  National  Association  of  Fire  Investigators  (NAFI)  Certified  Fire  and  Explosion
+Investigator, an International Fire Service Accreditation Congress (IFSAC) Certified Fire
+Officer I, and a former Fire Chief and Emergency Medical Technician. Dr. Thomas Hales
+(MD,  MPH)  provided  medical  consultation  and  co-authored  the  report.  Dr.  Hales  is  a
+member  of  the  NFPA  Technical  Committee  on  Occupational  Safety  and  Heath,  and
+Vice-Chair  of  the  Public  Safety  Medicine  Section  of  the  American  College  of
+Occupational and Environmental Medicine (ACOEM).  Firefighter Encounter Agility Test
+(FEAT)  [SFTA  2011]  Wearing  full  turnout  gear  including  SCBA,  the  fire  fighter  must
+complete the following tests within 12 minutes: (1) Drag a 100-foot length of uncharged
+2½-inch  hoseline  (started  with  hose  on  shoulder),  and  connect  and  disconnect  the
+nozzle; (2) Roll and unroll a 50-foot length of 2½-inch hoseline; (3) Move three 2½-inch
+hoseline rolls in circles (three rolls stacked on top of each other), (1) one roll moved to a
+second location 20 feet away, (2) another roll moved from the first location to the third
+location 20 feet away, (3) roll moved from first location to third location, (4) roll moved
+from second location to third location to form a stack of three donut hoses; (4) Ladder
+the 2nd story window, ascend ladder and touch window sill, implement leg lock, then
+descend;  (5)  Pound  wooden  block  with  16-pound  sledge  hammer  (30  times)  as  in  a
+ventilation chop; (6) Carry a high rise pack (50 feet of 2½-inch hoseline) to the fourth
+floor. Set the high rise pack down and hoist the high rise pack tied to a rope with the
+other end of the rope tied to the hand rail on the fourth floor. Lower the hoisted high
+rise  pack  to  the  ground  or  the  starting  position.  Pick  up  the  original  high  rise  pack,
+descend the stairs to ground level, and set the pack down; (7) Drag the rescue manikin
+30  feet  and  then  back  30  feet  to  the  starting  position.  Once  the  manikin  is  dropped,
+travel approximately 75 feet to the finish line. If students are unsuccessful on their first
+attempt, they receive immediate remedial training and are given a second chance to
+complete  the  evolution.  Students  are  allowed  two  evolution  attempts.  Students
+unsuccessful  students  after  the  second  attempt  do  not  pass  the  training  program.  
+Reference State Fire Training Academy (SFTA) [2011]. Firefighter Encounter Agility Test
+(FEAT).    Autopsy  Findings   References   Colucci  WS,  Braunwald  E  [1997].
+Pathophysiology of heart failure. In: Braunwald, ed. Heart disease. 5th ed. Philadelphia,
+PA: W.B. Saunders Company, p. 401.  Connolly HM, Oh JK [2012]. Echocardiography. In:
+Bonow  RO,  Mann  DL,  Zipes  DP,  Libby  P,  Braunwald  E,  eds.  Heart  disease:  a  text  of
+cardiovascular  medicine.  9th  ed.  Vol.  1.  Philadelphia,  PA:  Elsevier  Saunders,  p.  216.  
+Silver  MM  and  Silver  MD  [2001].  Examination  of  the  heart  and  of  cardiovascular
+specimens  in  surgical  pathology.  In:  Silver  MD,  Gotlieb  AI,  Schoen  FJ,  eds.
+Cardiovascular  pathology.  3rd  ed.  Philadelphia,  PA:  Churchill  Livingstone,  pp.  8–9.   
+Candidate  Physical  Agility  Test  (CPAT)  [Fire  Department  2011]  Candidates  must
+perform  all  8  components  of  the  candidate  physical  agility  test  on  a  pass/fail  basis.
+Candidates  are  fitted  with  a  turnout  coat  and  an  SCBA,  weighing  approximately  30
+pounds  together.  Candidates  must  complete  the  untimed  ladder  climb  prior  to
+attempting the timed portion of the test; the time limit is 7 minutes. Time begins when
+the student takes the first step at the Hose Hoist portion. Components of the CPAT test
+include  the  following:  (1)  Ladder  Climb  (not  timed):  After  receiving  a  safety  belt  and
+instructions  for  climbing  the  75-foot  aerial  ladder,  the  applicant  shall  climb  a  fully
+extended ladder, touch the top rung and descend the ladder. (2) Hose Hoist (timed):
+Three taped rolls of 2½-inch hoseline are located 20 feet behind the fire apparatus. The
+candidate will move the rolls one at a time from the starting point to the rear running
+board of the fire apparatus. The candidate then steps upon the rear running board and
+places the hose over the top bar onto the hose bed. After all three hose rolls have been
+placed on the apparatus, the candidate then removes the hose rolls one at a time and
+takes  the  hose  back  to  the  starting  point.  (3)  Ladder  Set-Up  (timed):  A  14-foot  roof
+ladder, weighing approximately 45 pounds, will be lying on the ground with the feet of
+the ladder against the building. The ladder will be raised to a vertical position against
+the building. The candidate will then adjust the ladder to a simulated climbing angle.
+The  ladder  will  then  be  returned  to  its  original  position.  To  pick  up  the  ladder,  the
+candidate will assume a crouching position and grasp the top rung of the ladder with
+both hands. The candidate will stand upright and raise the end of the ladder above his
+or her head with the bottom of the ladder remaining on the ground against the building.
+The  candidate  will  raise  the  ladder  by  walking  forward  grasping  consecutive  rungs,
+without dropping or losing control of the ladder, until the ladder is placed in a vertical
+position against the building. The candidate will then grasp the sides of the ladder and
+bring  the  bottom  of  the  ladder  out  to  a  comfortable  climbing  position.  The  candidate
+will  then  place  the  ladder  back  against  the  building  and  lower  the  ladder  by  walking
+backwards, grasping consecutive rungs and place the ladder in its original position on
+the ground without dropping or losing control of the ladder. (4) Hose Roll (timed): The
+candidate will position his or herself at the male coupling of the 2½-inch hoseline. The
+candidate will then bend over and begin rolling the fire hose into a circular roll. The fire
+hose must be rolled the entire length of 50 feet. The candidate will then unroll the fire
+hose back to the original position. (5) Ventilation (timed): The candidate stands on the
+outside rails of the sled and straddles the metal sled. The candidate will strike the metal
+sled with the sledge hammer until the metal sled is moved 36 inches. (6) Hose advance
+(timed):  The  candidate  advances  a  charged,  100-foot  length  of  1¾-inch  hoseline  75
+feet,  then  opens  the  nozzle,  and  sprays  water.  The  candidate  then  closes  the  nozzle
+and places the nozzle on the ground. (7) Stairwell Exercise (timed): The candidate will
+pick up a roll of 2½-inch hoseline at the base of the bleachers. The candidate will carry
+the fire hose to the top of the bleachers and touch the fence. The candidate will carry
+the fire hose back to the base of the bleachers and return the fire hose to the original
+position.  The  candidate  will  make  sure  that  at  least  one  foot  touches  each  step  both
+going up and coming down the bleachers. Running or skipping is not allowed. (8) Victim
+Rescue (timed): The candidate will grasp the 165-pound rescue manikin in a manner
+that is most compatible with the candidate. The candidate will move the rescue manikin
+a  distance  of  100  feet.  The  neck  hook  on  the  rescue  manikin  may  not  be  used.  The
+event  and  the  timed  part  of  the  course  is  complete  when  both  the  victim  and  the
+candidate clear the 100 foot mark.  Reference Fire Department (FD) [2011]. Candidate
+Physical Agility Test (CPAT).   Known Causes of Dilated Cardiomyopathy [Dec and Fuster
+1994] Toxins
+Ethanol
+Chemotherapeutic agents (doxorubicin, bleomycin)
+Cobalt
+Anti-retroviral agents (zidovudine, didanosine, zalcitabine)
+Phenothiazines
+Carbon monoxide
+Lead
+Cocaine
+Mercury Metabolic Abnormalities
+Nutritional deficiencies (thiamine, selenium, carnitine)
+Endocrinologic disorders (hypothyroidism, acromegaly, thyrotoxicosis,
+Cushing Disease, pheochromocytoma, diabetes mellitus)
+Electrolyte disturbances (hypocalcemia, hypophosphatemia) Infectious
+Viral (coxsackie virus, cytomegalovirus, human immunodeficiency virus)
+Rickettsial
+Bacterial (diphtheria)
+Mycobacterial
+Fungal
+Parasitic (toxoplasmosis, trichinosis, Chagas disease) Noninfectious
+Collagen vascular disorders (scleroderma, lupus erythematosus, dermatomyositis)
+Hypersensitivity myocarditis
+Sarcoidosis
+Peripartum dysfunction Neuromuscular Causes
+Duchenne muscular dystrophy
+Facioscapulohumeral muscular dystrophy
+Erb limb-girdle dystrophy
+Myotonic dystrophy   The National Institute for Occupational Safety and Health (NIOSH),
+an institute within the Centers for Disease Control and Prevention (CDC), is the federal
+agency  responsible  for  conducting  research  and  making  recommendations  for  the
+prevention of work-related injury and illness. In 1998, Congress appropriated funds to
+NIOSH to conduct a fire fighter initiative that resulted in the NIOSH “Fire Fighter Fatality
+Investigation and Prevention Program” which examines line-of-duty-deaths or on duty
+deaths of fire fighters to assist fire departments, fire fighters, the fire service and others
+to  prevent  similar  fire  fighter  deaths  in  the  future.  The  agency  does  not  enforce
+compliance  with  State  or  Federal  occupational  safety  and  health  standards  and  does
+not determine fault or assign blame. Participation of fire departments and individuals in
+NIOSH  investigations  is  voluntary.  Under  its  program,  NIOSH  investigators  interview
+persons  with  knowledge  of  the  incident  who  agree  to  be  interviewed  and  review
+available records to develop a description of the conditions and circumstances leading
+to the death(s). Interviewees are not asked to sign sworn statements and interviews are
+not  recorded.  The  agency’s  reports  do  not  name  the  victim,  the  fire  department  or
+those  interviewed.  The  NIOSH  report’s  summary  of  the  conditions  and  circumstances
+surrounding
+ the
+ fatality
+ is
+ intended
+ to
+ provide
+ context
+ to
+ the
+ agency’s
+recommendations and is not intended to be definitive for purposes of determining any
+claim or benefit.     Enter your email address to receive new reports/products.
+Source URL: https://www.cdc.gov/niosh/fire/reports/face201108.html

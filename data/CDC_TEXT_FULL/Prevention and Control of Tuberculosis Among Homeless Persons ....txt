@@ -1,0 +1,556 @@
+Persons using assistive technology might not be able to fully access information in this
+file. For assistance, please send e-mail to: mmwrq@cdc.gov. Type 508 Accommodation
+and the title of the report in the subject line of e-mail. SUGGESTED CITATION:
+Centers for Disease Control. Prevention and control of tuberculosis
+in U.S. communities with at-risk minority populations:
+recommendations of the Advisory Council for the Elimination of
+Tuberculosis and Prevention and control of tuberculosis among
+homeless persons: recommendations of the Advisory Council for the
+Elimination of Tuberculosis. MMWR 1992;41(RR-5):(inclusive page
+numbers).  CIO RESPONSIBLE FOR THIS PUBLICATION:
+National Center for Prevention Services  Summary  Because tuberculosis (TB) is a major
+problem among homeless
+persons, the Advisory Council for the Elimination of Tuberculosis
+has developed recommendations to assist health-care providers,
+health departments, shelter operators and workers, social service
+agencies, and homeless persons prevent and control TB in this
+population. TB should be suspected in any homeless person with a
+fever and a productive cough of more than 1-3 weeks' duration, and
+appropriate diagnostic studies should be undertaken. Confirmed or
+suspected TB in a homeless person should be immediately reported to
+the health department so that a treatment plan can be decided upon
+and potentially exposed persons located and examined. Patients with
+TB should be counseled and voluntarily tested for human
+immunodeficiency virus (HIV) infection because TB treatment
+recommendations are different for HIV-seropositive and
+HIV-seronegative persons (1). TB therapy should be directly
+observed whenever possible. This may require the establishment of
+special shelters or other long-term-care arrangements for homeless
+persons with TB. For each person with an infectious case, an
+investigation should be conducted to identify exposed persons, and
+those found to be infected should be considered for preventive
+therapy. Shelter staff should receive a tuberculin skin test when
+they start work and every 6-12 months thereafter. Those with
+positive skin test results should be considered for preventive
+therapy according to current guidelines. Shelters for the homeless
+should be adequately ventilated. The installation of ultraviolet
+lamps also may be useful to further reduce the risk of TB
+transmission.  INTRODUCTION  Since the early 1900s (2), tuberculosis (TB) has been
+recognized as an important health problem among homeless persons
+and among residents of inexpensive lodging houses, night shelters,
+single-room occupancy hotels, and common hostels. Subsequent
+reports have continued to call attention to this problem,
+especially in the United Kingdom (3-11). With the increase in
+homelessness in the United States during the 1980s, TB among
+homeless persons became a subject of heightened interest and
+concern (12-24).  There is no universally agreed-upon definition of
+homelessness; in general, however, the homeless can be defined as
+persons who do not have customary and regular access to a
+conventional dwelling or residence (25). The exact number of
+homeless persons at any given time is not known, and reported
+estimates have varied widely. According to the Urban Institute,
+there may have been more than 1 million persons in the United
+States  who  were  homeless  at  some  time  during  1987  (26).   From  a  national
+perspective, the overall incidence of active
+TB and the prevalence of latent tuberculous infection among the
+homeless are unknown. Based on screening at selected clinics and
+shelters, the prevalence of clinically active disease ranges from
+1.6% to 6.8% and the prevalence of latent TB infection ranges from
+18% to 51% (12,13,15-17). Clinical data from the National Health
+Care for the Homeless project indicated a point prevalence of
+active TB of 968/100,000 homeless adults (27). However, because of
+the selective nature of these screening activities, it is not
+appropriate to extrapolate these reported prevalence rates
+nationwide or to ``special populations,'' such as single-parent
+families or runaway children (28).  Although shelters and other inexpensive housing for
+the
+homeless are vital to the survival of these persons, there is
+substantial potential for TB transmission in such facilities (18),
+especially in the winter when shelters are likely to be more
+crowded and ventilation from the outside may be diminished.  The recommendations in
+this document are intended for the
+entire medical community and the public, but are particularly
+targeted to health department TB-control programs and to those who
+provide health care and other services to homeless persons. Health
+departments and shelter operators are encouraged to implement these
+recommendations  whenever  applicable.   ASSESSMENT  OF  THE  MAGNITUDE  OF  THE
+PROBLEM  Communities should assess the nature and magnitude of the TB
+problem in their area, specifically, the incidence and prevalence
+of TB among persons who are homeless. All patients with TB should
+be specifically asked whether they are homeless or live at a
+single-room occupancy hotel, shelter, or lodging house since they
+may not volunteer such information. Health departments should
+maintain, and regularly update, listings of single-room occupancy
+hotels and homeless shelters so that patients' addresses can be
+checked against these listings. Shelters should be encouraged to
+maintain lists of names of persons staying there. This will
+facilitate health department searches for patients in need of
+diagnostic  or  therapeutic  services.   PRIORITIES  FOR  TB  SERVICES   Priorities  for  TB
+prevention and control activities among
+homeless persons have been established on the basis of their
+clinical and public health importance and their cost-effectiveness
+(see box).  Priorities for Tuberculosis Prevention and Control Activities
+Among Homeless Persons  
+    The highest priority should be given to a) detection,  evaluation, and reporting of
+homeless persons who have current
+symptoms of active TB and b) completion of an appropriate course
+of  treatment  by  those  diagnosed  with  active  TB.   2.  The  second  priority  should  be
+screening and preventive therapy
+for homeless persons who have, or are suspected of having, human
+immunodeficiency virus ( HIV) infection.  3. The third priority should be the examination
+and appropriate
+treatment of persons with recent TB that has been inadequately
+treated.  4. The fourth priority should be screening and appropriate
+treatment of persons exposed to an infectious (sputum-positive)
+case of TB. Because contacts are difficult to define in a shelter
+population, it is usually necessary to screen all residents of a
+shelter when an infectious case is identified.  5. The fifth priority should be screening
+and preventive therapy
+for homeless persons with known medical conditions that increase
+the risk of TB, e.g., diabetes mellitus (29).  CASE FINDING  Educational materials on TB
+should be developed for shelter
+clients, shelter employees, and volunteers. This material should
+address the mode of spread, the common signs and symptoms, and
+methods for treatment and prevention. Information on local
+resources for TB care should be made available to shelter staff and
+guests.  TB case finding should be part of the regular health care
+provided to homeless persons. Shelter staff and others providing
+services can assist in case finding by identifying persons with a
+persistent cough and ensuring that suspected cases are quickly
+evaluated by a health-care provider. If this evaluation cannot be
+done at the shelter, immediate transportation to a health-care
+facility should be provided.  If the clinical evaluation of a symptomatic person is
+consistent with TB, appropriate diagnostic tests (e.g., sputum
+smears and cultures and chest radiographs) should be done as
+quickly as possible. A homeless patient will usually need to be
+hospitalized at least until the diagnostic evaluation is complete
+and  effective  therapy  instituted.   Routine  tuberculin  skin  test  screening  of
+asymptomatic
+homeless persons for TB is not an efficient way to find new cases.
+Chest radiographic screening of homeless persons may be useful
+during outbreak investigations.  CASE REPORTING  The diagnosis of TB in a homeless
+patient may occur during
+diagnosis and treatment of an unrelated problem or during
+incarceration in a jail or prison. When a homeless person is
+suspected of or diagnosed as having TB, the health department
+should be notified promptly so that appropriate follow-up can be
+arranged. Delay or failure to notify the health department of a
+case of confirmed or suspected TB may result in the patient's being
+lost to follow-up, a failure to initiate appropriate treatment, and
+continuing  transmission  of  tuberculosis  in  the  community.   CASE  MANAGEMENT  
+Homeless patients with newly diagnosed infectious TB should
+be appropriately housed to allow initial therapy to be fully
+supervised and to preclude continuing transmission of TB in the
+community. Ideally, homeless persons with active TB should be
+housed in a special shelter, halfway house, or other long-term
+treatment facility until therapy is complete or more permanent
+housing is identified. It is also important that ancillary
+services, such as substance abuse treatment and evaluation and
+treatment  of  HIV  disease,  be  offered  in  these  facilities.   A  health  department  staff
+member should visit a homeless
+person with suspected or confirmed TB, in the hospital or
+elsewhere, as soon as possible after the diagnosis is suspected or
+made. The health department worker should make an assessment of the
+likelihood of adherence to therapy, if treatment is to be given on
+an outpatient basis. During the initial visit, the treatment plan
+should  be  discussed  and  the  patient's  cooperation  elicited.   Arrangements  for  the
+patient's first visit to the clinic or
+other place of intended outpatient care should be made before the
+patient is discharged from the hospital. Details about personal
+activities, friends, and favorite gathering places, which may
+assist in locating the patient in the field, should be included in
+the chart. A physical description of the patient should also be
+included in the chart to assist field workers in locating the
+person. It is essential that rapport between the patient and the
+health department staff be established and maintained.  The homeless person with TB
+may not view TB as the highest
+priority concern. Other concerns -- e.g., shelter, food, and
+safety -- are likely to be of greater priority. Thus, the
+involvement of social workers on the treatment team to assist in
+solving these other problems is important for achieving successful
+treatment of TB.  Treatment must be carefully monitored. Failure of patients to
+take TB medications as prescribed can result in relapses, drug
+resistance, further transmission of TB, and death. For most
+patients, it is desirable that a health-care worker or other
+responsible adult directly observe ingestion of medication. This
+allows careful monitoring for adherence to therapy and drug side
+effects. In addition, carrying medications may be dangerous for
+homeless persons; if others believe the medications are addictive
+or valuable, the homeless person may be robbed or assaulted.  Whenever possible, TB
+clinics should be located close to
+shelters or other places (e.g., soup kitchens) where homeless
+persons receive services. If this is not possible, transportation
+to the clinics should be provided. The clinic schedule should
+include hours that facilitate patient attendance. Incentives and
+enablers to encourage adherence should be used (20-22,30). These
+might include items such as food or food vouchers, cash, special
+lodging, transportation vouchers or tokens, articles of clothing,
+priority in food lines, and assistance in filing for benefits. In
+many communities, successful programs represent a cooperative
+community activity in which local merchants or American Lung
+Association  affiliates  provide  the  incentives.   Treatment  outcomes  are  likely  to  be
+optimal if homeless
+patients have a reliable source of food and shelter throughout the
+course of therapy. Some communities have successfully used halfway
+houses and special shelters for this purpose. In areas lacking
+these alternatives, a longer period of hospitalization in an
+acute-care facility may be necessary. Long-term
+institutionalization may be essential for the management of
+mentally ill or seriously uncooperative patients. If, despite the
+efforts of health-care providers, any infectious patient
+(regardless of residential status) refuses treatment, temporary
+enforced isolation should be instituted in accordance with state
+and local public health laws and regulations. This option should be
+used when necessary after due legal process. Medicaid reimbursement
+for these services should be available in all states.  TREATMENT  A responsible person
+(e.g., physician, nurse, outreach worker)
+should observe the patient ingest medications to prevent treatment
+failure, the emergence of drug-resistant organisms, and continued
+transmission of infection (31). Provided there is adequate medical
+supervision, treatment can be given and observed by designated
+persons at the shelter or other location. All TB treatments of
+homeless persons should be free of charge to the patient.  Treatment should stress the
+use of intensive multidrug,
+bactericidal regimens for all eligible patients (29). Outpatient
+treatment should be a regimen that includes isoniazid and rifampin
+in addition to pyrazinamide and ethambutol for the first 2 months
+of therapy. Drug susceptibility tests should be initially obtained
+on positive cultures from all patients. If the organisms are
+susceptible to both isoniazid and rifampin, ethambutol can be
+discontinued and the second phase of therapy completed with an
+additional 4 months (if patient is HIV negative) or 7 months (if
+patient is HIV positive) of treatment with isoniazid and rifampin.
+Treatment can be given daily for the first 2 weeks to 2 months and
+either daily or twice weekly thereafter, or it can be given three
+times weekly from the beginning (32). Baseline laboratory tests
+should be done to detect conditions contraindicating certain drugs
+and  to  better  assess  any  subsequent  adverse  drug  reactions  (29).   For  patients  with
+active pulmonary TB, sputum smears and
+cultures should be obtained at 2- to 4-week intervals until
+cultures become negative. Patients should be monitored for possible
+adverse drug effects by asking them about signs and symptoms.
+Appropriate laboratory studies should be obtained when indicated.
+Hospitalized patients who are initially found to have positive
+sputum smears or cultures can return to the shelter when there is
+bacteriologic and clinical evidence of a response to therapy, i.e.,
+three consecutive daily negative sputum smears and asymptomatic
+status.  PREVENTION  Early case finding and effective treatment of persons with
+active TB are the most important measures for preventing spread of
+TB in the community. A thorough contact investigation should be
+done around every case (33). Although such investigations are
+difficult in shelters because of the transient nature of the
+population, they should always be attempted.  Contact investigations are usually based
+upon screening with
+the tuberculin skin test, followed by chest radiographs for those
+with skin test reactions greater than or equal to 5 mm. Because of
+the high prevalence of TB among some homeless populations and
+because of the possibility of false-negative tuberculin skin test
+reactions due to disease or other factors, it may be useful to
+screen homeless populations with chest radiographs during an
+outbreak investigation.  Several factors in the shelter environment influence the
+likelihood of TB transmission. The absolute number and population
+density of persons sharing the same breathing space is an important
+transmission factor in shelters. If all other factors are constant,
+the size of the shelter population is directly proportional to the
+likelihood that someone with infectious TB will be present and that
+someone else will become infected (34). Conversely, the smaller and
+less crowded the shelter, the lower the risk.  The probability of transmission is affected
+by building
+ventilation. Ventilation should be at or above 25 cubic feet of
+outside air per minute per person. Recirculated air may contribute
+to transmission within a shelter. During periods of peak occupancy,
+it may be difficult to provide ventilation at adequate levels. Air
+quality consultants can determine the adequacy of ventilation and
+recommend  improvements  where  necessary.   Because  even  optimal  ventilation  does
+not preclude TB
+transmission, supplemental upper room germicidal ultraviolet (UV)
+air disinfection may be useful to further reduce the chance of
+transmission (35). UV lamps may be useful when ongoing transmission
+of infection is demonstrated by the continuing occurrence of cases
+or skin test conversions. For safety and efficacy reasons, UV
+fixtures should be planned, installed, and monitored after
+installation by an experienced consultant. To avoid acute eye and
+skin injury, shelter staff and workers should be advised not to
+look at the tubes in UV fixtures, and exposure at eye level must be
+no greater than 0.2 microwatts per square centimeter over 8 hours.
+Nonreflective paint should be used in rooms where UV lamps are
+located.  Tuberculin skin test screening and isoniazid preventive
+therapy programs among homeless persons have been generally
+unproductive because of poor patient adherence to follow-up visits
+and treatment regimens (36). Screening should be undertaken only if
+there is a reasonable possibility that most infected persons
+identified will complete preventive treatment. Priorities for
+preventive therapy among TB-infected persons have been established
+(see box) (29).  Priorities for Preventive Therapy Among TB-infected Persons  
+    Persons with HIV infection  
+    Recent contacts of persons with infectious TB  
+    Persons with recent skin test conversions  
+    Persons with recent TB disease who have been inadequately  treated  5. Persons with
+negative sputum cultures and stable fibrotic
+lesions  on  chest  radiographs  consistent  with  inactive  TB   6.  Persons  with  medical
+conditions that increase the risk of TB
+(29)  Incentives may also be used to improve adherence to preventive
+treatment. Twice-weekly directly observed isoniazid preventive
+therapy, given in a dose of 15 mg/kg, should be considered if the
+person cannot or will not comply with daily self-administered
+therapy. Although the efficacy of this regimen has not been proven
+in preventive therapy trials, extrapolation from clinical therapy
+trials suggests it would be effective (37).  Staff and regular volunteers in shelters for the
+homeless
+should receive a Mantoux tuberculin skin test when they start work
+and every 6 to 12 months thereafter. The two-step method of testing
+is generally recommended (38). Persons with positive reactions
+should be evaluated and considered for preventive therapy according
+to current American Thoracic Society / CDC guidelines (29). The
+results of staff and volunteer skin tests should be maintained in
+a central confidential file.  Clinical data on homeless clients (guests) should be
+maintained  and  shared  between  shelters.   HIV  INFECTION  AND  TB   HIV  infection  is  a
+major risk factor for the development of TB
+(39). An association between TB, HIV infection, and homelessness
+has been documented (21,22,24).  Persons with TB and HIV infection appear to respond
+to
+standard anti-TB drugs (40-42), but data on clinical and
+bacteriologic response among these patients are limited. When HIV
+infection is known or suspected, the recommended initial treatment
+regimen is the same as for non-HIV-infected persons. Patients
+treated with rifampin who are on methadone should have the
+methadone dosage increased to avoid withdrawal symptoms resulting
+from the interaction between the two drugs (43).  If the patient has drug-susceptible
+organisms, the
+continuation phase need include only isoniazid and rifampin. If
+resistance to any of the drugs in the regimen is found, the
+treatment regimen should be appropriately revised in consultation
+with a specialist. Treatment should be continued for a minimum of
+9 months and for at least 6 months beyond documented culture
+conversion as evidenced by three negative cultures. If either
+isoniazid or rifampin is not or cannot be included in the regimen,
+therapy should continue at least 18 months and for at least 12
+months  after  culture  conversion.   All  patients  diagnosed  with  TB  should  be  offered
+counseling
+and HIV-antibody testing. Previously published guidelines for
+counseling and testing and notification of sex partners and those
+who share needles with HIV-infected persons should be followed
+(44). Particular emphasis should be placed on offering counseling
+and HIV-antibody testing to persons with extrapulmonary TB and
+persons with TB in the age groups in which most HIV infections
+occur (i.e., those ages 25-44 years). Because homelessness may be
+a sequela of injecting drug use or HIV disease, information on
+behaviors * associated with an increased risk or prevalence of HIV
+infection should be routinely sought from homeless persons. If HIV
+infection is considered a possibility, counseling and HIV-antibody
+testing should be strongly encouraged. Because HIV infection is one
+of the strongest known risk factors for the progression of latent
+tuberculous infection to TB (39), the presence of HIV infection in
+a person with a positive tuberculin skin test (i.e., greater than
+or equal to 5 mm induration) is an indication for preventive
+therapy regardless of that person's age. The recommended therapy is
+isoniazid, 300 mg daily or 15 mg/kg twice weekly for 12 months.
+Preventive therapy should be started only after excluding active
+pulmonary or extrapulmonary TB.  HIV-infected persons, with or without acquired
+immunodeficiency syndrome (AIDS) or other HIV-related disease,
+should be given a Mantoux skin test consisting of 5 tuberculin
+units of purified protein derivative. Although false-negative
+results may result in these persons because of HIV-induced
+immunosuppression, positive tuberculin reactions are clinically
+meaningful. Persons with clinical AIDS or other HIV-related disease
+should receive a chest radiograph and be examined for evidence of
+extrapulmonary TB, regardless of the skin test reaction. If
+abnormalities are noted, additional diagnostic studies for TB
+should be undertaken.  ROLE OF THE HEALTH DEPARTMENT  Health departments must
+ensure the provision of essential TB
+supplies and services for homeless persons regardless of their
+ability to pay. Care should be readily accessible to homeless
+persons; this often means provision of services at a shelter.
+Whenever possible, outreach services should be provided by trained
+outreach workers with the same cultural, ethnic, and linguistic
+background as the homeless population being served.  Health departments should also
+ensure that expert TB medical
+consultation is available to the clinicians and nurses who provide
+health-care services to homeless persons.  State and local health departments should
+provide TB training
+to those who provide health-care services to homeless persons. (CDC
+has made training materials available to state health departments
+to assist in this training.)  There is a national network of primary health-care programs
+for the homeless as a result of the McKinney Homeless Assistance
+Act. The 109 community programs supported by the Bureau of Health
+Care Delivery and Assistance of the Health Resources and Services
+Administration are appropriate partners for local health agencies
+in controlling TB among the homeless.  ROLE OF THE U.S. PUBLIC HEALTH SERVICE  The
+U.S. Public Health Service (PHS) should promote
+collaboration between health departments and those who provide
+health care to the homeless so that they can plan and implement TB
+prevention and control activities. The PHS should require
+documentation of such collaboration as part of applications from
+states and cities for federally funded grants and cooperative
+agreements. In addition, as part of routine site visits, PHS staff
+should review state and local TB activities and make
+recommendations for more effective collaborative programs.  CONCLUSIONS  Homeless
+persons suffer disproportionately from a variety of
+health problems, including TB. Detecting, treating, and preventing
+TB in this special population benefit not only persons who are
+homeless, but society at large. The goal of prevention and control
+of TB among the homeless is difficult and challenging, but it can
+be achieved.  References  
+    CDC. Tuberculosis and human immunodeficiency virus infection:  recommendations
+of the Advisory Council for the Elimination of
+Tuberculosis (ACET). MMWR 1989;38:236-238, 243-250.  2. Knopf SA. Tuberculosis as a
+cause and result of poverty. JAMA
+1914;63(20):1720-5.  3. Marsh K. Tuberculosis among the residents of hostels and
+lodging  houses  in  London.  Lancet  1957;1:1136-8.   4.  Elwood  PC.  Tuberculosis  in  a
+common lodging-house. Br J Prev
+Soc  Med  1961;15:89-92.   5.  Hurford  JV.  The  ``homeless''  male  with  pulmonary
+tuberculosis.
+Tubercle  1962;43:192-5.   6.  Tuberculosis  in  vagrants  and  inmates  of  lodging  houses.
+Med
+Officer 1965(February);103-4.  7. Scott R, Gaskell PG, Morrell DC. Patients who reside in
+common
+lodging-houses.  Br  Med  J  1966;2:1561-4.   8.  Shanks  NJ,  Carroll  KB.  Improving  the
+identification rate of
+pulmonary tuberculosis among inmates of common lodging houses. J
+Epidemiol  Community  Health  1982;36:130-2.   9.  Shanks  NJ,  Carroll  KB.  Persistent
+tuberculosis disease among
+inmates of common lodging houses. J Epidemiol Community Health
+1984;38:66-7.
+10. Patel KR. Pulmonary tuberculosis in residents of lodging
+houses, night shelters and common hostels in Glasgow: a 5-year
+prospective survey. Br J Dis Chest 1985;79:60-6.
+11. Capewell S, France AJ, Anderson M, Leitch AG. The diagnosis and
+management of tuberculosis in common hostel dwellers. Tubercle
+1986;67:125-31.
+12. Sherman MN, Brickner PW, Schwartz MS, et al. Tuberculosis in
+single-room-occupancy hotel residents: a persisting focus of
+disease. NY Med Quart 1980;2:39-41.
+13. CDC. Drug-resistant tuberculosis among the homeless -- Boston.
+MMWR 1985;34:429-31.
+14. O'Donohue WJ, Bedi S, Bittner MJ, Prehein LC. Short-course
+chemotherapy for pulmonary infection due to Mycobacterium bovis.
+Arch Intern Med 1985;145:703-5.
+15. Barry MA, Wall C, Shirley L, et al. Tuberculosis screening in
+Boston's homeless shelters. Public Health Rep 1986;101(5):487-98.
+16. Slutkin G. Management of tuberculosis in urban homeless
+indigents. Public Health Rep 1986;101(5):481-5.
+17. McAdam J, Brickner PW, Glicksman R, Edwards D, Fallon B,
+Yanowitch P. Tuberculosis in the SRO/homeless population. In:
+Brickner PW, Scharer LK, Conanan B, Elvy A, Savarese M, eds. Health
+care of homeless people. New York: Springer, 1985:155-75.
+18. Nardell E, McInnis B, Thomas B, Weidhaas S. Exogenous
+reinfection with tuberculosis in a shelter for the homeless. N Engl
+J Med 1986;315:1570-5.
+19. McAdam JM, Brickner PW, Scharer LL, et al. Tuberculosis in the
+homeless: a national perspective. In: Brickner PW, Scharer LK,
+Conanan BA, Savarese M, Scanlan BC, eds. Under the safety net. New
+York: WW Norton & Company, 1990:234-49.
+20. Nolan CM, Elarth AM, Barr H, Saeed AM, Risser DR. An outbreak
+of tuberculosis in a shelter for homeless men. Am Rev Respir Dis
+1991;143:257-61.
+21. McAdam JM, Brickner PW, Scharer LL, et al. The spectrum of
+tuberculosis in a New York City men's shelter clinic (1982-1988).
+Chest 1990;97:798-805.
+22. Torres RA, Mani S, Altholz J, Brickner PW. Human
+immunodeficiency virus infection among homeless men in a New York
+City shelter: association with Mycobacterium tuberculosis
+infection. Arch Intern Med 1990;150:2030-6.
+23. Pablos-Mendez A, Raviglione MC, Battan R, Ramos-Zuniga R. Drug
+resistant tuberculosis among the homeless in New York City. New
+York State J Med 1990;90:351-5.
+24. Brudney K, Dobkin J. Resurgent tuberculosis in New York City:
+human immunodeficiency virus, homelessness, and the decline of
+tuberculosis control programs. Am Rev Respir Dis 1991;144:745-9.
+25. Rossi PH, Wright JD, Fisher GA, Willis G. The urban homeless:
+estimating composition and size. Science 1987;235:1336-41.
+26. Burt MR, Cohen BE. America's homeless: numbers,
+characteristics, and programs that serve them. In: Urban Institute
+Report 89-3. Washington, DC: The Urban Institute Press, 1989.
+27. Wright JD. Poor people, poor health: the health status of the
+homeless. J Soc Issues 1990;46(4):49-64.
+28. Marin P. Helping and hating the homeless. The struggle at the
+margins of America. Harper's Magazine 1987(January):39-49.
+29. American Thoracic Society / CDC. Treatment of tuberculosis
+and tuberculosis infection in adults and children. Am Rev Respir
+Dis (in preparation).
+30. Snider DE, Anders HM, Pozsik CJ. Incentives to take up health
+services. Lancet 1986;2:812.
+31. Committee on Non-Drug Issues in Chemotherapy, American College
+of Chest Physicians. Non-drug issues related to the treatment of
+tuberculosis. Chest 1985(suppl);87(2):125S-7S.
+32. Hong Kong Chest Service, British Medical Research Council.
+Controlled trial of 4 three-times-weekly regimens and a daily
+regimen all given for 6 months for pulmonary tuberculosis -- second
+report: the results up to 24 months. Tubercle 1982;63:89-98.
+33. American Thoracic Society/CDC. Control of tuberculosis. Am Rev
+Respir Dis 1983;128:336-42.
+34. Nardell EA. Nosocomial tuberculosis in the AIDS era: strategies
+for interrupting transmission in developed countries. Bull Int
+Union Tuberc Lung Dis 1991;66:107-11.
+35. Riley RL, Nardell EA. Clearing the air: the theory and
+application of UV air disinfection. Am Rev Respir Dis
+1989;139:1286-94.
+36. CDC. Tuberculosis among residents of shelters for the
+homeless -- Ohio, 1990. MMWR 1991;40:869-71, 877.
+37. Committee on Isoniazid Preventive Treatment, American College
+of Chest Physicians. Preventive treatment of tuberculosis. Chest
+1985(suppl);87(2):128S-32S.
+38. American Thoracic Society / CDC. Diagnostic standards and
+classification of tuberculosis. Am Rev Respir Dis 1990;142:725-35.
+39. Selwyn PA, Hartel D, Lewis VA, et al. A prospective study of
+the risk of tuberculosis among intravenous drug users with human
+immunodeficiency virus infection. N Engl J Med 1989;320:545-50.
+40. Sunderman G, McDonald RJ, Maniatis T, Oleske J, Kapila R,
+Reichman LB. Tuberculosis as a manifestation of the acquired
+immunodeficiency syndrome (AIDS). JAMA 1986;256:362-6.
+41. Pitchenik AE, Cole C, Russell BW, Fischl MA, Spira TJ, Snider
+DE Jr. Tuberculosis, atypical mycobacteriosis, and the acquired
+immunodeficiency syndrome among Haitian and non-Haitian patients in
+South Florida. Ann Intern Med 1985;101:641-5.
+42. Louie E, Rice LB, Holzman RS. Tuberculosis in non-Haitian
+patients with acquired immunodeficiency syndrome. Chest
+1986;90:542-5.
+43. Kreek MJ, Garfield JW, Gutjahr CL, Giusti LM. Rifampin-induced
+methadone withdrawal. N Engl J Med 1976;294:1104-6.
+44. CDC. Public Health Service guidelines for counseling and
+antibody testing to prevent HIV infection and AIDS. MMWR
+1987;36:509-15.  
+    The Advisory Council for the Elimination of Tuberculosis
+    recognizes that a variety of terms are used and preferred by
+    different groups to describe race and ethnicity. Racial and ethnic
+    terms used throughout the document reflect the way data are
+    collected and reported by official health agencies.  
+    Based on seroprevalence studies, behaviors that place a person at
+    risk for HIV infection include injecting drug use and male
+    homosexual contact. Other factors that increase the risk for HIV
+    infection among adults include having received blood or clotting
+    factor concentrate between 1978 and 1985 and having had sexual
+    relations at any time since 1978 with a) a person known to be
+    infected with HIV or to have AIDS, b) a man who has had sexual
+    contact with another man, c) prostitutes, d) injecting drug users,
+    or e) persons born in countries where most transmission of HIV is
+    thought to occur through heterosexual sexual contact. Risk factors
+    for HIV infection among infants and children include a) parents,
+    especially the mother, with HIV infection or any of the adult risk
+    factors, and b) receipt of blood or clotting factor concentrates
+    between 1978 and 1985.  
+Disclaimer
+   All MMWR HTML documents published before January 1993 are electronic conversions
+from ASCII text into HTML.  This conversion may have resulted in character translation
+or format errors in the HTML version.  Users should not rely on this HTML document, but
+are referred to the original MMWR paper copy for the official text, figures, and tables. 
+An  original  paper  copy  of  this  issue  can  be  obtained  from  the  Superintendent  of
+Documents,  U.S.  Government  Printing  Office  (GPO),  Washington,  DC  20402-9371;
+telephone: (202) 512-1800. Contact GPO for current prices. Page converted: 08/05/98 
+    HOME  |  
+    ABOUT MMWR  | 
+    MMWR SEARCH  | 
+    DOWNLOADS  | 
+    RSS 
+    |  
+    CONTACT
+POLICY  |  
+    DISCLAIMER  |  
+    ACCESSIBILITY 
+Morbidity and Mortality Weekly Report
+                Centers for Disease Control and Prevention
+                1600 Clifton Rd, MailStop E-90, Atlanta, GA 
+                  30333, U.S.A 
+Department of Healthand Human Services This page last reviewed 5/2/01 
+ 
+Source URL: https://www.cdc.gov/mmwr/preview/mmwrhtml/00019922.htm

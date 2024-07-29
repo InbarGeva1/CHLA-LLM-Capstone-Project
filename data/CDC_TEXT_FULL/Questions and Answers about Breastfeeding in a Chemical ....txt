@@ -1,0 +1,98 @@
+Official websites use .gov A .gov website belongs to an official government organization
+in  the  United  States.  Secure  .gov  websites  use  HTTPS  A  lock  (   )  or  https://  means
+you've  safely  connected  to  the  .gov  website.  Share  sensitive  information  only  on
+official,  secure  websites.  The  following  questions  and  answers  provide  important
+information  about  breastfeeding  in  a  chemical  emergency  incident  from  a  clinical
+perspective. For general information about chemical emergencies, see CDC’s Chemical
+Emergencies  website;  clinicians  may  find  more  information  at  the  HHS  website
+on  Chemical  Hazards  Emergency  Medical  Management  (CHEMM).  If  a  person  who  is
+breastfeeding is exposed to mustard gas or any nerve agents (GA, GB, GD and VX) and
+develops  any  symptoms  consistent  with  exposure,  they  should  immediately  stop
+breastfeeding  until  symptoms  have  resolved  and  they  are  cleared  by  a  physician  to
+resume breastfeeding. While there is not enough information to suggest a safe level of
+these  agents  in  breast  milk,  there  is  published  evidence  that  organophosphate
+chemicals,  of  which  nerve  agents  are  structurally  related,  may  be  secreted  in  breast
+milk. There is no direct published scientific literature on whether sulfur mustard can be
+secreted in breast milk, but other similar vesicant agents, including nitrogen mustard
+(in the form of the FDA approved medication mechlorethamine) and lewisite, have been
+identified  as  potentially  hazardous  during  breastfeeding.  Situational-specific  factors,
+such as the availability of other sources of nutrition for the infant, should be included in
+that discussion. No. Breastfeeding may still be unsafe even after antidote treatment for
+nerve agents, lewisite, and cyanide. If antidotes are given, breastfeeding should only be
+restarted after being cleared by a physician. For nerve agents, the antidotes available,
+including atropine, oximes (including pralidoxime or 2-PAM), and benzodiazepines, do
+not  directly  neutralize  the  nerve  agent  chemical.  Atropine  and  benzodiazepines  treat
+symptoms caused by nerve agent toxicity, but do not directly interact with or neutralize
+the  nerve  agent.  Oximes  such  as  pralidoxime  help  regenerate  the  protein  enzyme
+targeted  by  nerve  agents  (called  “cholinesterase”),  but  do  not  interact  with  nerve
+agents that have not yet bound a cholinesterase molecule. An antidote is available for
+lewisite:  Dimercaprol,  also  known  as  “British  Anti  Lewisite.”  Dimercaprol  is  a  type  of
+chemical called a “chelator” that binds heavy metals to allow for their excretion from
+the  body.  In  lewisite  poisoning,  dimercaprol  binds  the  arsenic  in  lewisite;  however,  if
+arsenic is still present in the lactating mother’s body, it can be secreted into breastmilk
+and could be harmful to the infant.  Two types of antidotes are available for cyanide
+poisoning. The first is hydroxocobalamin, also known as “provitamin B12”, “B12a”, or
+“Cyanokit”; it functions by combining with cyanide to form non-toxic cyanocobalamin
+(Vitamin  B12).  The  manufacturer  of  Cyanokit  states  that  “breastfeeding  is  not
+recommended during treatment with Cyanokit,” though there do not appear to be any
+published cases related to breastfeeding after use of Cyanokit. A second line therapy,
+no longer available in the United States, is referred to as the Lilly Cyanide Antidote Kit
+and  contains  combinations  of  nitrites  (amyl  nitrite  or  sodium  nitrite)  and  sodium
+thiosulfate. The nitrites help remove cyanide from the sites where it causes the most
+toxicity,  while  thiosulfate  binds  cyanide  to  help  increase  excretion  as  thiocyanate  in
+urine.  While  there  is  some  published  evidence  that  chronic  thiocyanate  excretion  in
+breast milk may cause harm by reducing the amount of iodine available to the infant,
+this  is  of  less  concern  with  short-term  thiosulfate  use  as  the  amount  and  duration  of
+thiocyanate  generation  is  likely  to  be  limited.    Because  of  very  limited  data  on  the
+quantitative secretion of chemical agents into breast milk, an exact time frame for how
+long  breastfeeding  should  be  avoided  cannot  be  determined.  A  woman’s  decision  to
+resume  breastfeeding  should  be  made  in  discussion  with  her  physician  after  she  has
+recovered and been discharged from medical care. Situational-specific factors, such as
+the  availability  of  other  sources  of  nutrition  for  the  infant,  should  be  included  in  that
+discussion.  Vesicants, also known as “blister agents,” can cause severe skin and eye
+burns, as well as destroy blood cells and bone marrow through direct damage to DNA.
+There  are  several  different  vesicant  agents,  including  sulfur  mustard  (also  known  as
+“mustard  gas”),  lewisite,  nitrogen  mustard,  and  phosgene  oxime.  While  there  are  no
+direct  case  reports  describing  the  effects  of  vesicants  on  breastfeeding  mothers,  the
+available  information  suggests  breastfeeding  should  be  avoided  by  mothers  who
+develop  symptoms  after  vesicant  exposure.  A  woman’s  decision  to  resume
+breastfeeding should be made in discussion with her physician after she has recovered
+and been discharged from medical care. Nerve agents are a class of chemicals that can
+temporarily  or  permanently  deactivate  important  proteins  in  the  human  nervous
+system.  These  agents  are  called  “organophosphates”  to  describe  their  chemical
+structure.  Military  nerve  agents  include  sarin  (GB),  tabun  (GA),  soman  (GD),  and  VX.
+Closely  related  chemicals  that  are  less  toxic  to  humans  are  used  as  pesticides  in
+farming;  these  include  malathion,  parathion,  chlorpyrifos,  and  many  others.
+Breastfeeding  should  be  avoided  by  mothers  exposed  to  military  nerve  agents  or
+organophosphate pesticides, even if they have received antidotes. A woman’s decision
+to resume breastfeeding should be made in discussion with her physician after she has
+recovered  and  been  discharged  from  medical  care.  Irritant  gasses  are  a  class  of
+poisonous chemicals that can directly injure the airways and lungs when inhaled, and
+also damage the eyes and exposed skin. Some of these substances include ammonia,
+chlorine  gas,  phosgene,  and  many  other  chemicals  used  in  industrial  manufacturing.
+The  severity  of  injury  depends  on  the  concentration  of  the  gas  in  the  air  and  the
+duration  of  exposure.  Overall,  it  is  unclear  if  breastfeeding  by  mothers  exposed  to
+irritant gasses is safe. The developmental and health benefits of breastfeeding should
+be  considered  along  with  any  potential  adverse  effects  on  the  breastfed  child  from
+irritant gas exposure. A woman’s decision to resume breastfeeding should be made in
+discussion  with  her  physician  after  she  has  recovered  and  been  discharged  from
+medical  care.  Riot  control  agents,  also  known  as  “tear  gas”  or  “lacrimators,”  are  a
+group  of  chemical  gasses  intended  for  use  to  disperse  crowds  or  temporarily
+incapacitate individuals with a minimal risk of death or permanent injury. It is unknown
+if any of the chemicals used as riot control agents could be absorbed into the body of a
+lactating mother and then pass into breast milk. Mothers exposed to riot control agents
+are advised to thoroughly decontaminate (remove clothes and wash their bodies well)
+before breastfeeding or expressing milk/pumping. Expressing milk by hand or by pump
+and discarding the breast milk is currently not thought to be necessary after exposure
+to riot control agents. References: Blood agents, including hydrogen cyanide gas, are a
+class  of  chemicals  that  can  cause  death  or  serious  injury  by  interrupting  the  body’s
+ability  to  use  oxygen.  Mothers  who  require  medications  to  treat  cyanide  poisoning
+should  avoid  breastfeeding  at  least  until  they  are  discharged  from  medical  care  and
+fully recovered. It is unclear if breastfeeding by mothers who are exposed to cyanide
+but  do  not  require  medical  treatment  is  safe.  A  woman’s  decision  to  resume
+breastfeeding should be made in discussion with her physician after she has recovered
+and been discharged from medical care.
+Source
+ URL:
+https://www.cdc.gov/chemicalemergencies/questions-and-answers-about-breastfeeding-in-a-chemical-em
+ergency.html

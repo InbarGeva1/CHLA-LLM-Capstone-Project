@@ -1,0 +1,61 @@
+A .gov website belongs to an official government organization in the United States. A
+lock (  ) or https:// means you've safely connected to the .gov website. Share sensitive
+information only on official, secure websites. Sterilization monitoring is a critical step in
+ensuring that instruments and devices are safe to use on another patient. Dental health
+care  personnel  should  use  a  combination  of  mechanical,  chemical,  and  biological
+monitoring to check whether a sterilizer reached the conditions necessary to achieve
+sterilization.  CDC  provides  recommendations  for  sterilization  monitoring  in  the
+Guideline for Disinfection and Sterilization in Healthcare Facilities (2008) as well as on
+page 24–25 of the Guidelines for Infection Control in Dental Health-Care Settings (2003)
+and in the Summary of Infection Prevention in Dental Settings: Basic Expectations for
+Safe  Care.   Mechanical  monitoring  involves  checking  the  sterilizer  gauges,  computer
+displays,  or  printouts,  and  documenting  in  your  sterilization  records  that  pressure,
+temperature,  and  exposure  time  have  reached  the  levels  recommended  by  the
+sterilizer manufacturer. Since these parameters can be observed during the sterilization
+cycle, this might be the first indication of a problem. Mechanical monitoring should be
+conducted for every sterilizer load. Do not use instrument packages if the mechanical
+monitoring indicates that the sterilizer did not reach the required temperature, time, or
+pressure to render the items sterile. Chemical monitoring uses sensitive chemicals that
+change  color  when  exposed  to  high  temperatures  or  combinations  of  time  and
+temperature.  A chemical indicator should be used inside every package to verify that
+the sterilizing agent has penetrated the package and reached the instruments inside. If
+the  internal  chemical  indicator  is  not  visible  from  the  outside  of  the  package,  an
+external  indicator  should  also  be  used.   Inspect  the  chemical  indicator  immediately
+when  removing  packages  from  the  sterilizer;  if  the  appropriate  color  change  did  not
+occur,  do  not  use  the  instruments.  Biological  monitoring,  also  called  a  spore  test,
+assesses  the  sterilization  process  directly  by  killing  known  highly  resistant
+microorganisms. Because the spores used in biologic indicators are more resistant than
+the common microbial contaminants found on patient-care equipment, a negative spore
+test indicates that other potential microorganisms in the load have been killed. A spore
+test should be used at least weekly to monitor sterilizers, and should use a matching
+control  (i.e.,  biological  indicator  and  control  from  same  lot  number).  Follow  the
+manufacturer’s directions for how to place the biological indicator in the sterilizer.  A
+spore  test  should  also  be  used  for  every  load  with  an  implantable  device.  Ideally,
+implantable items should not be used until they test negative. Sterilization monitoring
+records  are  an  important  component  of  a  dental  infection  prevention  program.
+Maintaining accurate records ensures cycle parameters have been met and establishes
+accountability.  In  addition,  if  there  is  a  problem  with  a  sterilizer  (e.g.,  unchanged
+chemical  indicator,  positive  spore  test),  documentation  helps  to  determine  if  an
+instrument  recall  is  necessary.  Maintain  your  sterilization  monitoring  records
+(mechanical,  chemical,  and  biological)  long  enough  to  comply  with  state  and  local
+regulations.  Mechanical, chemical, or biological monitoring failures can be caused by a
+number  of  issues,  including  but  not  limited  to:  If  the  mechanical  (e.g.,  time,
+temperature, pressure) and chemical (internal or external) indicators suggest that the
+sterilizer  is  functioning  properly,  a  single  positive  spore  test  result  probably  does  not
+indicate  sterilizer  malfunction.  If  the  repeat  spore  test  result  is  positive,  remove  the
+sterilizer  from  service  and  do  not  use  until  it  has  been  inspected  or  repaired  and
+re-challenged  with  spore  tests  in  three  consecutive  fully  loaded  chamber  sterilization
+cycles. When possible, items from suspect loads dating back to the last negative spore
+test should be recalled, rewrapped, and re-sterilized. See Table 12 of the Guideline for
+Disinfection and Sterilization in Healthcare Facilities (2008) for the suggested protocol
+to manage a positive biological indicator in a steam sterilizer. If patient care items are
+not properly reprocessed, this could represent an infection control breach.  Visit CDC's
+Steps for Evaluating an Infection Control Breach for more information on what to do in
+this situation. CDC does not provide a separate recommendation for sterilizers that are
+used on a part-time basis. CDC recommends that dental health care personnel monitor
+sterilizers at least weekly by using a biological indicator with a matching control (i.e.,
+biological  indicator  and  control  from  same  lot  number).  CDC  protects  patients  and
+providers by developing recommendations that guide infection prevention and control
+practices  wherever  dental  care  is  delivered.  Languages  Language  Assistance
+Languages  Language Assistance 
+Source URL: https://www.cdc.gov/dental-infection-control/hcp/dental-ipc-faqs/sterilization-monitoring.html

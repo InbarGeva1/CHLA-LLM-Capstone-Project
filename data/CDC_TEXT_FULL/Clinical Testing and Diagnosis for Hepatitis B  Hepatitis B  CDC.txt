@@ -1,0 +1,61 @@
+A .gov website belongs to an official government organization in the United States. A
+lock (  ) or https:// means you've safely connected to the .gov website. Share sensitive
+information only on official, secure websites. 
+Related Topics:
+ More  than  half  of  people  with  hepatitis  B  are  unaware  of  their  infection  status,  and
+approximately 50%–70% of people with acute hepatitis B are asymptomatic1. Without
+testing, people with hepatitis B virus (HBV) infection can unknowingly transmit the virus
+to others. Chronic HBV infection can lead to substantial morbidity and mortality but is
+detectable  before  the  development  of  severe  liver  disease  using  reliable  and
+inexpensive  screening  tests.  Routine  monitoring  and  treatment  for  chronic  HBV
+infection  can  reduce  morbidity  and  mortality,  supporting  the  importance  of  early
+detection  of  HBV  infection.   In  addition,  although  not  quantifiable,  management  of
+chronic infection through prevention efforts can prevent further transmission to others. 
+ Read more on the rationale for the new recommendations.  Screening generally refers
+to  serologic  testing  of  asymptomatic  people  not  known  to  be  at  increased  risk  for
+exposure to HBV.  Testing generally refers to serologic testing of people with symptoms
+or  those  who  are  at  increased  risk  for  exposure  to  HBV.   Adults   CDC  recommends
+screening all adults aged 18 and older for hepatitis B at least once in their lifetime using
+a triple  panel  test.  To  ensure  increased  access  to  testing,  anyone  who  requests  HBV
+testing should receive it regardless of disclosure of risk. Many people might be reluctant
+to  disclose  stigmatizing  risks.   Infants   CDC  recommends  testing  all  infants  born  to
+HBsAg-positive people for HBsAg and antibody to hepatitis B surface antigen (anti-HBs)
+seromarkers.   Pregnant  people   CDC  recommends  HBV  screening  for  HBsAg  for  all
+pregnant people during each pregnancy, preferably in the first trimester, regardless of
+vaccination status or history of testing. Pregnant people with a history of appropriately
+timed triple panel screening without subsequent risk for exposure to HBV (no new HBV
+exposures  since  triple  panel  screening)  only  need  HBsAg  screening.   People  at
+increased risk  CDC recommends testing susceptible people periodically, regardless of
+age, with ongoing risk for exposures while risk for exposures persists. This includes: 
+Susceptible people include those who have never been infected with HBV and either did
+not complete a hepatitis B vaccine (HepB) series per ACIP recommendations or who are
+known  to  be  vaccine  nonresponders.   CDC  now*  recommends  use  of  the  triple  panel
+test,  which  includes  testing  for:   Any  periodic  follow-up  testing  can  use  tests  as
+appropriate based on the results of the triple panel.  *Prior guidance recommended a
+single test of HBsAg. Different serologic markers or combinations of markers are used
+to  identify  different  phases  of  HBV  infection.  They  determine  whether  a  patient  has
+acute  or  chronic  HBV  infection,  is  immune  to  HBV  as  a  result  of  prior  infection  or
+vaccination, or is susceptible to infection. Markers include:  The presence of the total
+anti-HBc  antigen  is  needed  to  diagnose  a  patient  with  a  hepatitis  B  infection.  The
+results  of  the  HBsAg,  anti-HBs,  and  IgM  anti-HBc  tests  indicate  a  patient’s  type  of
+hepatitis  B  and  if  they  have  developed  immunity.  CDC  recommends  that  people  who
+are  diagnosed  with  hepatitis  B  be  provided  with:   For  more  CDC  information  on
+recommendations for testing, management, and treatment of hepatitis B, see Hepatitis
+B  Clinical  Care  &  Treatment.   The  National  Notifiable  Diseases  Surveillance  System
+(NNDSS)  lists  acute,  chronic,  and  perinatal  hepatitis  B  as  nationally  notifiable
+conditions.  You should report cases of suspected health care-associated HBV infection
+to  state  and  local  public  health  authorities  for  prompt  investigation  and  response.  
+When you report a case, you will need an event code corresponding to the hepatitis B
+condition.  You  can  reclassify  cases  if  needed,  as  long  as  the  changes  occur  before
+surveillance data are finalized each year.  National event codes: In 2024, The Council of
+State and Territorial Epidemiologists updated the surveillance case definitions for acute
+and chronic hepatitis B (HBV). These definitions are used to determine how to classify
+and  report  cases  to  the  CDC.  Surveillance  data  is  in  turn  used  to  monitor  trends  in
+disease incidence, understand the burden of hepatitis B in the community, determine
+risk  behaviors  or  exposures,  identify  outbreaks,  and  assess  opportunities  for
+prevention. For the most current guidance, see: Viral Hepatitis Surveillance and Case
+Management Guidance for State, Territorial, and Local Health Departments Learn more
+about  hepatitis  B,  a  liver  disease  caused  by  the  hepatitis  B  virus  (HBV).  Find  HBV
+information  for  the  public  and  health  professionals.  Languages  Language  Assistance
+Languages  Language Assistance 
+Source URL: https://www.cdc.gov/hepatitis-b/hcp/diagnosis-testing/index.html

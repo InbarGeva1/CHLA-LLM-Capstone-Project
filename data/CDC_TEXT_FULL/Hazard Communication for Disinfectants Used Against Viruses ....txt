@@ -1,0 +1,116 @@
+Official websites use .gov A .gov website belongs to an official government organization
+in  the  United  States.  Secure  .gov  websites  use  HTTPS  A  lock  (   )  or  https://  means
+you've  safely  connected  to  the  .gov  website.  Share  sensitive  information  only  on
+official,  secure  websites.  Health  Hazards  and  Protective  Measures  This  information  is
+intended  to  be  used  by  employers  and  workers  who  use  cleaning  products  and
+disinfectants,  specifically  those  identified  as  effective  against  viruses,  including  avian
+(bird)  flu,  Ebola,  and  SARS-CoV-2  (the  virus  that  causes  COVID-19).  This  page  offers
+information  about  the  health  hazards  that  could  be  caused  by  cleaning  products  and
+disinfectants and the recommended barrier and respiratory protection workers can use
+to protect themselves from these hazards. When using disinfectants, the proper barrier
+protection  should  be  used.  This  information,  focusing  on  worker  safety,  supplements
+existing Centers for Disease Control and Prevention (CDC) guidance for disinfection of
+viruses.  Both  cleaning  and  disinfecting  are  important  for  reducing  the  spread  of  viral
+illnesses. Some viruses may remain viable (living) for hours to days on surfaces made
+from a variety of materials. Cleaning surfaces followed by disinfection is a best practice
+for  preventing  the  spread  of  viral  illnesses  in  the  workplace.  Cleaning  refers  to  the
+removal of germs, dirt, and impurities from surfaces. Cleaning does not kill germs, but
+by  removing  them,  it  lowers  their  numbers  and  the  risk  of  spreading  infection.
+Disinfecting refers to using chemicals to kill germs on surfaces. Disinfecting does not
+necessarily clean dirty surfaces or remove germs, but by killing germs that remain on a
+surface  after  cleaning,  disinfecting  can  further  lower  the  risk  of  spreading  infection.
+Many  chemical  disinfectants  can  be  harmful  to  workers  if  they  are  unsafely  handled
+and/or  improperly  used.  Therefore,  it  is  important  that  disinfectants  are  selected  and
+used  properly  to  ensure  effective  disinfection  and  avoid  harm  to  individuals  and
+damage  to  surfaces.  Proper  use  of  disinfectants  should  include:  The  table  below
+provides information about health hazards associated with recommended disinfectants
+for  use  against  viruses  and  suggestions  for  how  individuals  can  protect  themselves
+against those health hazards while using the products. The table includes the following
+information:  The  GHS  pictograms  and  hazard  statements  for  each  chemical  were
+obtained from the International Chemical Safety Cards (ICSCs). If the ICSC did not have
+this  information  available  for  a  chemical,  the  GESTIS  database  from  the  Institute  for
+Occupational Safety and Health of the German Social Accident Insurance was used to
+identify this information. If neither GHS pictograms or hazard statements were available
+from  these  resources,  then  data  from  the  European  Chemicals  Agency  (ECHA)
+substance infocards were used to supplement the chemical information. The table does
+not  include  an  exhaustive  list  of  all  barriers  for  each  chemical.  The  recommended
+barriers included in the table are from the Quick Selection Guide to Chemical Protective
+Clothing.[1] Glove material is often referred to by the generic materials, including butyl
+rubber,  natural  rubber,  neoprene  rubber,  nitrile  rubber,  and  polyvinylchloride  (PVC).
+Some barriers may offer better protection for a variety of chemicals than other barriers,
+and thicknesses of the barrier materials can vary from manufacturer to manufacturer
+[1].  Selection  recommendations  are  based  on  data  from  permeation  and  degradation
+under  laboratory  conditions.  The  most  common  ways  chemicals  pass  through  a
+protective barrier include 1) penetration, such as a tear or rip, 2) permeation, where the
+chemical diffuses through the barrier, and 3) degradation, which is the break-down of
+the  protective  material.   Permeation  breakthrough  time  is  the  time  that  it  takes  a
+chemical  to  diffuse  through  a  barrier  at  a  specific  permeation  rate  [1].  The  barriers
+included  for  each  chemical  are  categorized  by  reported  resistance  to  chemical
+breakthrough  of  greater  than  four  hours  (>4  hours)  or  greater  than  eight  hours  (>8
+hours)  under  conditions  of  continuous  contact  with  the  chemical.  “Greater  than  8
+hours” does not mean there was not permeation; this means that permeation did not
+exceed 1.0 µg/cm2/min during the 8-hour test. More information, including more glove
+barrier  options,  is  available  in  the  Quick  Selection  Guide  to  Chemical  Protective
+Clothing.[1]  Personal  protective  equipment  (PPE)  manufacturers  may  also  provide
+additional  information  regarding  PPE  products.  The  recommended  respiratory
+protection for a chemical is typically listed in the manufacturer’s safety data sheet and
+many  chemicals  have  respirator  recommendations  in  the  NIOSH  Pocket  Guide  to
+Chemical  Hazards.  Respirators  protect  the  user  in  two  basic  ways.  The  first  is  by  the
+removal  of  contaminants  from  the  air,  which  includes  particle  respirators  and  “gas
+masks.”  Other  respirators,  like  airline  respirators  and  self-contained  breathing
+apparatus  (SCBA),  protect  by  supplying  clean  respirable  air  from  another  source.
+Respirators  should  only  be  used  when  engineering  or  administrative  control  systems
+are  not  feasible  or  fully  effective.  Engineering  control  systems,  such  as  adequate
+ventilation  or  scrubbing  of  contaminants,  are  the  preferred  control  methods  for
+reducing worker exposures. Proper use of respiratory protection (respirators) requires a
+comprehensive  written  respiratory  protection  program  by  the  employer,  and  is
+described in Occupational Health and Safety Standards 29 CFR 1910.134.    * In some
+cases, precautionary labels for the chemicals listed in the table may be more or less
+restrictive depending on the concentration of the chemical or other inert chemicals in
+the formulation of the disinfectant. Always review the label on the product before use.
+For  chemicals  or  products  not  listed  in  the  table  above,  follow  manufacturers’
+recommendations  in  the  product’s  safety  data  sheet.  †  The  pictograms  and  health
+hazards were obtained from the International Chemical Safety Cards (ICSCs) For more
+information about the pictograms please visit the OSHA website. β The pictograms and
+health hazards were obtained from the Institute for Occupational Safety and Health of
+the
+ German
+ Social
+ Accident
+ Insurance
+ GESTIS
+ database.
+ §
+ Glove
+ barrier
+recommendations  are  from  the  Quick  Selection  Guide  to  Chemical  Protective
+Clothing.[1] Additional information on chemical protective clothing can be found in this
+resource. Always review the label on the product before use and follow manufacturers’
+recommendations  in  the  product’s  safety  data  sheet.  **  Additional  information  on
+respiratory  protection  recommendations,  where  available,  can  be  found  in  the  NIOSH
+Pocket Guide to Chemical Hazards in the links provided in the table. †† OSHA standard
+29 CFR 1910.1048 lists additional requirements for use of formaldehyde. ββ The GHS
+pictograms  and   health  hazards  were  obtained  from  the  European  Chemicals  Agency
+(ECHA)  substance  infocards.  §§  Selection  recommendations  from  the  Quick  Selection
+Guide to Chemical Protective Clothing  [1] are based on concentrations of 30-70% (citric
+acid,  formaldehyde,  glutaraldehyde,  hydrogen  peroxide,  ortho-Phthaldehyde,  sodium
+hydroxide, and sodium hypochlorite), >70% (phenol), and 37% (hydrochloric acid). The
+Occupational  Safety  and  Health  Administration  (OSHA)  Hazard  Communication
+Standard,  also  known  as  the  “Right  to  Know  Law”  [29  CFR  1910.1200],  requires  that
+employees  are  informed  of  potential  work  hazards  and  trained  on  associated  safe
+practices,  procedures,  and  protective  measures.  Employers  must  ensure  employees
+have  access  to  cleaning  products’  safety  data  sheets  (SDSs)  and  are  informed  of
+potential  hazards  and  trained  on  the  associated  safe  practices  per  the  information
+found  in  the  SDSs.  Additionally,  the  2008  Healthcare  Infection  Control  Practices
+Advisory Committee (HICPAC) Guideline recommends each worker be informed of the
+possible  health  effect(s)  of  exposures  to  chemicals.  This  information  should  be
+consistent with SDSs, EPA regulations, and OSHA requirements and identify areas and
+tasks where there is the potential for exposure. The NIOSH Pocket Guide to Chemical
+Hazards  (NPG)  helps  workers,  employers,  and  occupational  health  professionals
+recognize  and  control  workplace  chemical  hazards.  The  NIOSH  Manual  of  Analytical
+Methods (NMAM) is a collection of methods for sampling and analysis of contaminants
+in workplace air, and in the blood and urine of workers who are occupationally exposed.
+The Health Hazard Evaluation Program (HHE) conducts onsite investigations of possible
+worker  exposure  to  chemicals.  Search  the  HHE  database  for  more  information  on
+chemical topics.
+Source URL: https://www.cdc.gov/niosh/topics/disinfectant/default.html

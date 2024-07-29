@@ -1,0 +1,77 @@
+A .gov website belongs to an official government organization in the United States. A
+lock (  ) or https:// means you've safely connected to the .gov website. Share sensitive
+information  only  on  official,  secure  websites.  Core  Infection  Prevention  and  Control
+Practices  for  Healthcare  Adherence  to  infection  prevention  and  control  practices  is
+essential  to  providing  safe  and  high  quality  patient  care  across  all  settings  where
+healthcare  is  delivered  This  document  concisely  describes  a  core  set  of  infection
+prevention and control practices that are required in all healthcare settings, regardless
+of  the  type  of  healthcare  provided.  The  practices  were  selected  from  among  existing
+CDC  recommendations  and  are  the  subset  that  represent  fundamental  standards  of
+care that are not expected to change based on emerging evidence or to be regularly
+altered by changes in technology or practices, and are applicable across the continuum
+of healthcare settings. The practices outlined in this document are intended to serve as
+a  standard  reference  and  reduce  the  need  to  repeatedly  evaluate  practices  that  are
+considered  basic  and  accepted  as  standards  of  medical  care.  Readers  should  consult
+the full texts of CDC healthcare infection control guidelines for background, rationale,
+and
+ related
+ infection
+ prevention
+ recommendations
+ for
+ more
+ comprehensive
+information. The core practices in this document should be implemented in all settings
+where  healthcare  is  delivered.  These  venues  include  both  inpatient  settings  (e.g.,
+acute,  long-term  care)  and  outpatient  settings  (e.g.,  clinics,  urgent  care,  ambulatory
+surgical centers, imaging centers, dialysis centers, physical therapy and rehabilitation
+centers,  alternative  medicine  clinics).  In  addition,  these  practices  apply  to  healthcare
+delivered in settings other than traditional healthcare facilities, such as homes, assisted
+living communities, pharmacies, and health fairs. Healthcare personnel (HCP) referred
+to in this document include all paid and unpaid persons serving in healthcare settings
+who  have  the  potential  for  direct  or  indirect  exposure  to  patients  or  infectious
+materials,  including  body  substances,  contaminated  medical  supplies,  devices,  and
+equipment; contaminated environmental surfaces; or contaminated air. CDC healthcare
+infection  control  guidelines  1-17  were  reviewed,  and  recommendations  included  in
+more than one guideline were grouped into core infection prevention practice domains
+(e.g., education and training of HCP on infection prevention, injection and medication
+safety).  Additional  CDC  materials  aimed  at  providing  general  infection  prevention
+guidance outside of the acute care setting 18-20 were also reviewed. HICPAC formed a
+workgroup  led  by  HICPAC  members  and  including  representatives  of  professional
+organizations  (see  Contributors  in  archives  for  full  list).  The  workgroup  reviewed  and
+discussed all of the practices, further refined the selection and description of the core
+practices and presented drafts to HICPAC at public meeting and recommendations were
+approved by the full Committee in July 2014. In October 2022, the Core Practices were
+reviewed  and  updated  by  subject  matter  experts  within  the  Division  of  Healthcare
+Quality  Promotion  at  CDC.  The  addition  of  new  practices  followed  the  same
+methodology  employed  by  the  Core  Practices  Workgroup  but  also  included  review  of
+pathogen-specific  guidance  documents  21-22  that  were  created  or  updated  after  July
+2014.  These  additions  were  presented  to  HICPAC  at  the  November  3,  2022  meeting.
+Future  updates  to  the  Core  Practices  will  be  guided  by  the  publication  of  new  or
+updated CDC infection prevention and control guidelines. Refer to “CDC Guideline for
+Hand  Hygiene  in  Health-Care  Settings”  or  “Guideline  for  Isolation  Precautions:
+Preventing  Transmission  of  Infectious  Agents  in  Healthcare  Settings,  2007”  for
+additional  details.  Refer  to  “CDC  Guidelines  for  Environmental  Infection  Control  in
+Health-Care  Facilities”  and  “CDC  Guideline  for  Disinfection  and  Sterilization  in
+Healthcare  Facilities”  for  details.  Refer  to  “Guideline  for  Isolation  Precautions:
+Preventing Transmission of Infectious Agents in Healthcare Settings, 2007” as well as
+Occupational Safety and Health Administration (OSHA) requirements for details. During
+periods of higher levels of community respiratory virus transmission*, facilities should
+consider having everyone mask upon entry to the facility to ensure better adherence to
+respiratory  hygiene  and  cough  etiquette  for  those  who  might  be  infectious.  Such  an
+approach could be implemented facility-wide or targeted toward higher risk areas (e.g.,
+emergency  departments,  urgent  care,  units  experiencing  an  outbreak)  based  on  a
+facility risk assessment. *Examples of potential metrics include, but are not limited to,
+increase in outbreaks of healthcare-onset respiratory infections, increase in emergency
+department  or  outpatient  visits  related  to  respiratory  infections.  Refer  to  “CDC
+Guideline for Disinfection and Sterilization in Healthcare Facilities” for details Refer to
+“Guideline  for  Isolation  Precautions:  Preventing  Transmission  of  Infectious  Agents  in
+Healthcare  Settings,  2007”  for  details.  Refer  to  “CDC  Guidelines  for  Environmental
+Infection  Control  in  Health-Care  Facilities”  and  “CDC  Guideline  for  Disinfection  and
+Sterilization  in  Healthcare  Facilities”  for  details.  Refer  to  OSHA’s  website  for  specific
+details  on  healthcare  standards:  Occupational  Safety  and  Health  Administration  –
+Infectious  Diseases  (OSHA  Healthcare).  CDC  provides  information  on  infection  control
+and  clinical  safety  to  help  reduce  the  risk  of  infections  among  healthcare  workers,
+patients,  and  visitors.  Languages  Language  Assistance  Languages   Language
+Assistance 
+Source URL: https://www.cdc.gov/infection-control/hcp/core-practices/index.html

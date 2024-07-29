@@ -1,0 +1,1352 @@
+Persons using assistive technology might not be able to fully access information in this
+file. For assistance, please send e-mail to: mmwrq@cdc.gov. Type 508 Accommodation
+and the title of the report in the subject line of e-mail. Please note: An update has been
+published  for  this  report.  To  view  the  update,  please  click  here.  Supplements  to  the
+MMWR are published by the Epidemiology Program
+ Office,
+Centers for Disease Control, Public Health Service, U.S. Department
+ of
+Health and Human Services, Atlanta, Georgia 30333.  SUGGESTED CITATION  Centers
+for Disease Control. Recommendations for prevention of HIV
+transmission in health-care settings. MMWR 1987;36 (suppl no. 2S)
+:{inclusive  page  numbers}.   Centers  for  Disease  Control  .................  James  O.  Mason,
+M.D.,
+ Dr,P.H.  The material in this report was developed (in collaboration with
+ the Center
+for Prevention Services, the National Institute for Occupational
+ Safety and
+Health,  and  the  Training  and  Laboratory  Program  Office)  by:   Center  for  Infectious
+Diseases ....... Frederick A. Murphy,
+ D,V.M., Ph,D.  Acting
+ Director  Hospital Infections Program ....................  James M.
+ Hughes, M.D.  Director  AIDS Program .................................... James W.
+ Curran, M.D.  Director  Publications and Graphics .................... Frances H.
+ Porcher, M,A.  Chief  Karen L.
+ Foster, M.A.  This report was prepared in:  Epidemiology Program Office ....................
+Carl W. Tyler,
+ Jr., M.D.  Michael B.
+ Gregg, M,D.  Editorial Services ......................... R. Elliott
+ Churchill, M,A.  Chief  Ruth
+ Greenberg
+Editorial
+ Assistant  Introduction  Human immunodeficiency virus (HIV), the virus that causes
+ acquired
+immunodeficiency syndrome (AIDS), is transmitted through sexual
+ contact and
+exposure to infected blood or blood components and perinatally from
+ mother
+to neonate. HIV has been isolated from blood, semen, vaginal
+ secretions,
+saliva, tears, breast milk, cerebrospinal fluid, amniotic fluid,
+ and urine
+and is likely to be isolated from other body fluids, secretions,
+ and
+excretions. However, epidemiologic evidence has implicated only
+ blood,
+semen, vaginal secretions, and possibly breast milk in
+ transmission.  The increasing prevalence of HIV increases the risk that
+ health-care
+workers will be exposed to blood from patients infected with HIV,
+especially when blood and body-fluid precautions are not followed
+ for all
+patients. Thus, this document emphasizes the need for health-care
+ workers
+to consider ALL patients as potentially infected with HIV and/or
+ other
+blood-borne pathogens and to adhere rigorously to infection-control
+precautions for minimizing the risk of exposure to blood and body
+ fluids of
+all patients.  The recommendations contained in this document consolidate and
+ update
+CDC recommendations published earlier for preventing HIV
+ transmission in
+health-care settings: precautions for clinical and laboratory
+ staffs (1)
+and precautions for health-care workers and allied professionals
+ (2);
+recommendations for preventing HIV transmission in the workplace
+ (3) and
+during invasive procedures (4); recommendations for preventing
+ possible
+transmission of HIV from tears (5); and recommendations for
+ providing
+dialysis treatment for HIV-infected patients (6). These
+ recommendations
+also update portions of the "Guideline for Isolation Precautions in
+Hospitals" (7) and reemphasize some of the recommendations
+ contained in
+"Infection Control Practices for Dentistry" (8). The
+ recommendations
+contained in this document have been developed for use in
+ health-care
+settings and emphasize the need to treat blood and other body
+ fluids from
+ALL patients as potentially infective. These same prudent
+ precautions also
+should be taken in other settings in which persons may be exposed
+ to blood
+or  other  body  fluids.   Definition  of  Health-Care  Workers   Health-care  workers  are
+defined as persons, including students
+ and
+trainees, whose activities involve contact with patients or with
+ blood or
+other body fluids from patients in a health-care setting.  Health-Care Workers with AIDS 
+As of July 10, 1987, a total of 1,875 (5.8%) of 32,395 adults
+ with
+AIDS, who had been reported to the CDC national surveillance system
+ and for
+whom occupational information was available, reported being
+ employed in a
+health-care or clinical laboratory setting. In comparison, 6.8
+ million
+persons -- representing 5.6% of the U.S. labor force -- were
+ employed in
+health services. Of the health-care workers with AIDS, 95% have
+ been
+reported to exhibit high-risk behavior; for the remaining 5%, the
+ means of
+HIV acquisition was undetermined. Health-care workers with AIDS
+ were
+significantly more likely than other workers to have an
+ undetermined risk
+(5% versus 3%, respectively). For both health-care workers and
+ non-health-
+care workers with AIDS, the proportion with an undetermined risk
+ has not
+increased since 1982.  AIDS patients initially reported as not belonging to recognized
+ risk
+groups are investigated by state and local health departments to
+ determine
+whether possible risk factors exist. Of all health-care workers
+ with AIDS
+reported to CDC who were initially characterized as not having an
+identified risk and for whom follow-up information was available,
+ 66% have
+been reclassified because risk factors were identified or because
+ the
+patient was found not to meet the surveillance case definition for
+ AIDS. Of
+the 87 health-care workers currently categorized as having no
+ identifiable
+risk, information is incomplete on 16 (18%) because of death or
+ refusal to
+be interviewed; 38 (44%) are still being investigated. The
+ remaining 33
+(38%) health-care workers were interviewed or had other follow-up
+information available. The occupations of these 33 were as follows:
+ five
+physicians (15%), three of whom were surgeons; one dentist (3%);
+ three
+nurses (9%); nine nursing assistants (27%); seven housekeeping or
+maintenance workers (21%); three clinical laboratory technicians
+ (9%); one
+therapist (3%); and four others who did not have contact with
+ patients
+(12%). Although 15 of these 33 health-care workers reported
+ parenteral
+and/or other non-needlestick exposure to blood or body fluids from
+ patients
+in the 10 years preceding their diagnosis of AIDS, none of these
+ exposures
+involved  a  patient  with  AIDS  or  known  HIV  infection.   Risk  to  Health-Care  Workers  of
+Acquiring HIV in Health-Care
+ Settings  Health-care workers with documented percutaneous or
+ mucous-membrane
+exposures to blood or body fluids of HIV-infected patients have
+ been
+prospectively evaluated to determine the risk of infection after
+ such
+exposures. As of June 30, 1987, 883 health-care workers have been
+ tested
+for antibody to HIV in an ongoing surveillance project conducted by
+ CDC
+(9). Of these, 708 (80%) had percutaneous exposures to blood, and
+ 175 (20%)
+had a mucous membrane or an open wound contaminated by blood or
+ body fluid.
+Of 396 health-care workers, each of whom had only a
+ convalescent-phase
+serum sample obtained and tested greater than or equal to 90 days
+ post-
+exposure, one -- for whom heterosexual transmission could not be
+ ruled
+out -- was seropositive for HIV antibody. For 425 additional
+ health-care
+workers, both acute- and convalescent-phase serum samples were
+ obtained and
+tested; none of 74 health-care workers with nonpercutaneous
+ exposures
+seroconverted, and three (0.9%) of 351 with percutaneous exposures
+seroconverted. None of these three health-care workers had other
+ documented
+risk factors for infection.  Two other prospective studies to assess the risk of nosocomial
+acquisition of HIV infection for health-care workers are ongoing in
+ the
+United States. As of April 30, 1987, 332 health-care workers with a
+ total
+of 453 needlestick or mucous-membrane exposures to the blood or
+ other body
+fluids of HIV-infected patients were tested for HIV antibody at the
+National Institutes of Health (10). These exposed workers included
+ 103 with
+needlestick injuries and 229 with mucous-membrane exposures; none
+ had
+seroconverted. A similar study at the University of California of
+ 129
+health-care workers with documented needlestick injuries or
+ mucous-membrane
+exposures to blood or other body fluids from patients with HIV
+ infection
+has not identified any seroconversions (11). Results of a
+ prospective study
+in the United Kingdom identified no evidence of transmission among
+ 150
+health-care workers with parenteral or mucous-membrane exposures to
+ blood
+or other body fluids, secretions, or excretions from patients with
+ HIV
+infection (12).  In addition to health-care workers enrolled in prospective
+ studies,
+eight persons who provided care to infected patients and denied
+ other risk
+factors have been reported to have acquired HIV infection. Three of
+ these
+health-care workers had needlestick exposures to blood from
+ infected
+patients (13-15). Two were persons who provided nursing care to
+ infected
+persons; although neither sustained a needlestick, both had
+ extensive
+contact with blood or other body fluids, and neither observed
+ recommended
+barrier precautions (16, 17). The other three were health-care
+ workers with
+non-needlestick exposures to blood from infected patients (18).
+ Although
+the exact route of transmission for these last three infections is
+ not
+known, all three persons had direct contact of their skin with
+ blood from
+infected patients, all had skin lesions that may have been
+ contaminated by
+blood, and one also had a mucous-membrane exposure.  A total of 1,231 dentist and
+hygienists, many of whom practiced
+ in
+areas with many AIDS cases, participated in a study to determine
+ the
+prevalence of antibody to HIV; one dentist (0.1%) had HIV antibody.
+Although no exposure to a known HIV-infected person could be
+ documented,
+epidemiologic investigation did not identify any other risk factor
+ for
+infection. The infected dentist, who also had a history of
+ sustaining
+needlestick injuries and trauma to his hands, did not routinely
+ wear gloves
+when providing dental care (19).  Precautions To Prevent Transmission of HIV  Universal
+Precautions  Since medical history and examination cannot reliably identify
+ all
+patients infected with HIV or other blood-borne pathogens, blood
+ and body-
+fluid precautions should be consistently used for ALL patients.
+ This
+approach, previously recommended by CDC (3,4), and referred to as
+"universal blood and body-fluid precautions" or "universal
+ precautions,"
+should be used in the care of ALL patients, especially including
+ those in
+emergency-care settings in which the risk of blood exposure is
+ increased
+and the infection status of the patient is usually unknown (20).  
+    All health-care workers should routinely use appropriate
+ barrier
+    precautions to prevent skin and mucous-membrane exposure
+ when
+    contact with blood or other body fluids of any patient is
+ antici-
+    pated. Gloves should be worn for touching blood and body
+ fluids,
+    mucous membranes, or non-intact skin of all patients, for
+ handling
+    items or surfaces soiled with blood or body fluids, and for
+    performing venipuncture and other vascular access
+ procedures. Gloves
+    should be changed after contact with each patient. Masks and
+    protective eyewear or face shields should be worn during
+ procedures
+    that are likely to generate droplets of blood or other body
+ fluids
+    to prevent exposure of mucous membranes of the mouth, nose,
+ and
+    eyes. Gowns or aprons should be worn during procedures that
+ are
+    likely to generate splashes of blood or other body fluids.  
+    Hands and other skin surfaces should be washed immediately
+ and
+    thoroughly if contaminated with blood or other body fluids.
+ Hands
+    should be washed immediately after gloves are removed.  
+    All health-care workers should take precautions to prevent
+ injuries
+    caused by needles, scalpels, and other sharp instruments or
+ devices
+    during procedures; when cleaning used instruments; during
+ disposal
+    of used needles; and when handling sharp instruments after
+    procedures. To prevent needlestick injuries, needles should
+ not be
+    recapped, purposely bent or broken by hand, removed from
+ disposable
+    syringes, or otherwise manipulated by hand. After they are
+ used,
+    disposable syringes and needles, scalpel blades, and other
+ sharp
+    items should be placed in puncture-resistant containers for
+    disposal; the puncture-resistant containers should be
+ located as
+    close as practical to the use area. Large-bore reusable
+ needles
+    should be placed in a puncture-resistant container for
+ transport to
+    the reprocessing area.  
+    Although saliva has not been implicated in HIV transmission,
+ to
+    minimize the need for emergency mouth-to-mouth
+ resuscitation, mouth-
+    pieces, resuscitation bags, or other ventilation devices
+ should be
+    available for use in areas in which the need for
+ resuscitation is
+    predictable.  
+    Health-care workers who have exudative lesions or weeping
+ dermatitis
+    should refrain from all direct patient care and from
+ handling
+    patient-care equipment until the condition resolves.  
+    Pregnant health-care workers are not known to be at greater
+ risk of
+    contracting HIV infection than health-care workers who are
+ not
+    pregnant; however, if a health-care worker develops HIV
+ infection
+    during pregnancy, the infant is at risk of infection
+ resulting from
+    perinatal transmission. Because of this risk, pregnant
+ health-care
+    workers should be especially familiar with and strictly
+ adhere to
+    precautions to minimize the risk of HIV transmission.
+    Implementation of universal blood and body-fluid precautions
+ for ALL  patients eliminates the need for use of the isolation category of
+ "Blood
+and Body Fluid Precautions" previously recommended by CDC (7) for
+ patients
+known or suspected to be infected with blood-borne pathogens.
+ Isolation
+precautions (e.g., enteric, "AFB" {7}) should be used as necessary
+ if
+associated conditions, such as infectious diarrhea or tuberculosis,
+ are
+diagnosed  or  suspected.   Precautions  for  Invasive  Procedures   In  this  document,  an
+invasive procedure is defined as surgical
+ entry
+into tissues, cavities, or organs or repair of major traumatic
+ injuries
+1)in an operating or delivery room, emergency department, or
+ outpatient
+setting, including both physicians' and dentists' offices; 2)
+ cardiac
+catheterization and angiographic procedures; 3) a vaginal or
+ cesarean
+delivery or other invasive obstetric procedure during which
+ bleeding may
+occur; or 4) the manipulation, cutting, or removal of any oral or
+ perioral
+tissues, including tooth structure, during which bleeding occurs or
+ the
+potential for bleeding exists. The universal blood and body-fluid
+precautions listed above, combined with the precautions listed
+ below,
+should be the minimum precautions for ALL such invasive procedures.
+  
+    All health-care workers who participate in invasive
+ procedures must
+    routinely use appropriate barrier precautions to prevent
+ skin and
+    mucous-membrane contact with blood and other body fluids of
+ all
+    patients. Gloves and surgical masks must be worn for all
+ invasive
+    procedures. Protective eyewear or face shields should be
+ worn for
+    procedures that commonly result in the generation of
+ droplets,
+    splashing of blood or other body fluids, or the generation
+ of bone
+    chips. Gowns or aprons made of materials that provide an
+ effective
+    barrier should be worn during invasive procedures that are
+ likely to
+    result in the splashing of blood or other body fluids. All
+ health-
+    care workers who perform or assist in vaginal or cesarean
+ deliveries
+    should wear gloves and gowns when handling the placenta or
+ the
+    infant until blood and amniotic fluid have been removed from
+ the
+    infant's skin and should wear gloves during post-delivery
+ care of
+    the umbilical cord.  
+    If a glove is torn or a needlestick or other injury occurs,
+ the
+    glove should be removed and a new glove used as promptly as
+ patient
+    safety permits; the needle or instrument involved in the
+ incident
+    should also be removed from the sterile field.  Precautions for Dentistry *  Blood,
+saliva, and gingival fluid from ALL dental patients
+ should be
+considered infective. Special emphasis should be placed on the
+ following
+precautions for preventing transmission of blood-borne pathogens in
+ dental
+practice in both institutional and non-institutional settings.  
+    In addition to wearing gloves for contact with oral mucous
+ membranes
+    of all patients, all dental workers should wear surgical
+ masks and
+    protective eyewear or chin-length plastic face shields
+ during dental
+    procedures in which splashing or spattering of blood,
+ saliva, or
+    gingival fluids is likely. Rubber dams, high-speed
+ evacuation and
+    proper patient positioning, when appropriate, should be
+ utilized to
+    minimize generation of droplets and spatter.  
+    Handpieces should be sterilized after use with each patient,
+ since
+    blood, saliva, or gingival fluid of patients may be
+ aspirated into
+    the handpiece or waterline. Handpieces that cannot be
+ sterilized
+    should at least be flushed, the outside surface cleaned and
+ wiped
+    with a suitable chemical germicide, and then rinsed.
+ Handpieces
+    should be flushed at the beginning of the day and after use
+ with
+    each patient. Manufacturers' recommendations should be
+ followed for
+    use and maintenance of waterlines and check valves and for
+ flushing
+    of handpieces. The same precautions should be used for
+ ultrasonic
+    scalers and air/water syringes.  
+    Blood and saliva should be thoroughly and carefully cleaned
+ from
+    material that has been used in the mouth (e.g., impression
+    materials, bite registration), especially before polishing
+ and
+    grinding intra-oral devices. Contaminated materials,
+ impressions,
+    and intra-oral devices should also be cleaned and
+ disinfected before
+    being handled in the dental laboratory and before they are
+ placed in
+    the patient's mouth. Because of the increasing variety of
+ dental
+    materials used intra-orally, dental workers should consult
+ with
+    manufacturers as to the stability of specific materials when
+ using
+    disinfection procedures.  
+    Dental equipment and surfaces that are difficult to
+ disinfect (e.g.,
+    light handles or X-ray-unit heads) and that may become
+ contaminated
+    should be wrapped with impervious-backed paper, aluminum
+ foil, or
+    clear plastic wrap. The coverings should be removed and
+ discarded,
+    and clean coverings should be put in place after use with
+ each
+    patient.  Precautions for Autopsies or Morticians' Services  In addition to the universal
+blood and body-fluid precautions
+ listed
+above, the following precautions should be used by persons
+ performing
+postmortem procedures:  
+    All persons performing or assisting in postmortem procedures
+ should
+    wear gloves, masks, protective eyewear, gowns, and
+ waterproof
+    aprons.  
+    Instruments and surfaces contaminated during postmortem
+ procedures
+    should be decontaminated with an appropriate chemical
+ germicide.   Precautions  for  Dialysis   Patients  with  end-stage  renal  disease  who  are
+undergoing
+ maintenance
+dialysis and who have HIV infection can be dialyzed in
+ hospital-based or
+free-standing dialysis units using conventional infection-control
+precautions (21). Universal blood and body-fluid precautions should
+ be used
+when dialyzing ALL patients.  Strategies for disinfecting the dialysis fluid pathways of
+the
+hemodialysis machine are targeted to control bacterial
+ contamination and
+generally consist of using 500-750 parts per million (ppm) of
+ sodium
+hypochlorite (household bleach) for 30-40 minutes or 1.5%-2.0%
+ formaldehyde
+overnight. In addition, several chemical germicides formulated to
+ disinfect
+dialysis machines are commercially available. None of these
+ protocols or
+procedures need to be changed for dialyzing patients infected with
+ HIV.  Patients infected with HIV can be dialyzed by either
+ hemodialysis or
+peritoneal dialysis and do not need to be isolated from other
+ patients. The
+type of dialysis treatment (i.e., hemodialysis or peritoneal
+ dialysis)
+should be based on the needs of the patient. The dialyzer may be
+ discarded
+after each use. Alternatively, centers that reuse dialyzers -- i.e.
+ a
+specific single-use dialyzer is issued to a specific patient,
+ removed,
+cleaned, disinfected, and reused several times on the same patient
+ only --
+may include HIV-infected patients in the dialyzer-reuse program. An
+individual  dialyzer  must  never  be  used  on  more  than  one  patient.   Precautions  for
+Laboratories **  Blood and other body fluids from ALL patients should be
+ considered
+infective. To supplement the universal blood and body-fluid
+ precautions
+listed above, the following precautions are recommended for
+ health-care
+workers in clinical laboratories.  
+    All specimens of blood and body fluids should be put in a
+ well-
+    constructed container with a secure lid to prevent leaking
+ during
+    transport. Care should be taken when collecting each
+ specimen to
+    avoid contaminating the outside of the container and of the
+    laboratory form accompanying the specimen.  
+    All persons processing blood and body-fluid specimens (e.g.,
+    removing tops from vacuum tubes) should wear gloves. Masks
+ and
+    protective eyewear should be worn if mucous-membrane contact
+ with
+    blood or body fluids is anticipated. Gloves should be
+ changed and
+    hands washed after completion of specimen processing.  
+    For routine procedures, such as histologic and pathologic
+ studies or
+    microbiologic culturing, a biological safety cabinet is not
+    necessary. However, biological safety cabinets (Class I or
+ II)
+    should be used whenever procedures are conducted that have a
+ high
+    potential for generating droplets. These include activities
+ such as
+    blending, sonicating, and vigorous mixing.  
+    Mechanical pipetting devices should be used for manipulating
+ all
+    liquids in the laboratory. Mouth pipetting must not be done.
+  
+    Use of needles and syringes should be limited to situations
+ in which
+    there is no alternative, and the recommendations for
+ preventing
+    injuries with needles outlined under universal precautions
+ should be
+    followed.  
+    Laboratory work surfaces should be decontaminated with an
+    appropriate chemical germicide after a spill of blood or
+ other body
+    fluids and when work activities are completed.  
+    Contaminated materials used in laboratory tests should be
+ decon-
+    taminated before reprocessing or be placed in bags and
+ disposed of
+    in accordance with institutional policies for disposal of
+ infective
+    waste (24).  
+    Scientific equipment that has been contaminated with blood
+ or other
+    body fluids should be decontaminated and cleaned before
+ being
+    repaired in the laboratory or transported to the
+ manufacturer.  
+    All persons should wash their hands after completing
+ laboratory
+    activities and should remove protective clothing before
+ leaving the
+    laboratory.
+    Implementation of universal blood and body-fluid precautions
+ for ALL  patients eliminates the need for warning labels on specimens since
+ blood
+and other body fluids from all patients should be considered
+ infective.   Environmental  Considerations  for  HIV  Transmission   No  environmentally
+mediated mode of HIV transmission has been
+documented. Nevertheless, the precautions described below should be
+ taken
+routinely  in  the  care  of  ALL  patients.   Sterilization  and  Disinfection   Standard
+sterilization and disinfection procedures for
+ patient-care
+equipment currently recommended for use (25, 26) in a variety of
+ health-
+care settings -- including  hospitals, medical and dental clinics
+ and
+offices, hemodialysis centers, emergency-care facilities, and
+ long-term
+nursing-care facilities -- are adequate to sterilize or disinfect
+instruments, devices, or other items contaminated with blood or
+ other body
+fluids from persons infected with blood-borne pathogens including
+ HIV (21,
+23).  Instruments or devices that enter sterile tissue or the
+ vascular system
+of any patient or through which blood flows should be sterilized
+ before
+reuse. Devices or items that contact intact mucous membranes should
+ be
+sterilized or receive high-level disinfection, a procedure that
+ kills
+vegetative organisms and viruses but not necessarily large numbers
+ of
+bacterial spores. Chemical germicides that are registered with the
+ U.S.
+Environmental Protection Agency (EPA) as "sterilants" may be used
+ either
+for sterilization or for high-level disinfection depending on
+ contact time.  Contact lenses used in trial fittings should be disinfected
+ after each
+fitting by using a hydrogen peroxide contact lens disinfecting
+ system or,
+if compatible, with heat (78 C-80 C {172.4 F-176.0 F}) for 10
+ minutes.  Medical devices or instruments that require sterilization or
+disinfection should be thoroughly cleaned before being exposed to
+ the
+germicide, and the manufacturer's instructions for the use of the
+ germicide
+should be followed. Further, it is important that the
+ manufacturer's
+specifications for compatibility of the medical device with
+ chemical
+germicides be closely followed. Information on specific label
+ claims of
+commercial germicides can be obtained by writing to the
+ Disinfectants
+Branch, Office of Pesticides, Environmental Protection Agency, 401
+ M
+Street, SW, Washington, D.C. 20460.  Studies have shown that HIV is inactivated rapidly
+after being
+ exposed
+to commonly used chemical germicides at concentrations that are
+ much lower
+than used in practice (27-30). Embalming fluids are similar to the
+ types of
+chemical germicides that have been tested and found to completely
+inactivate HIV. In addition to commercially available chemical
+ germicides,
+a solution of sodium hypochlorite (household bleach) prepared daily
+ is an
+inexpensive and effective germicide. Concentrations ranging from
+approximately 500 ppm (1:100 dilution of household bleach) sodium
+hypochlorite to 5,000 ppm (1:10 dilution of household bleach) are
+ effective
+depending on the amount of organic material (e.g., blood, mucus)
+ present on
+the surface to be cleaned and disinfected. Commercially available
+ chemical
+germicides may be more compatible with certain medical devices that
+ might
+be corroded by repeated exposure to sodium hypochlorite, especially
+ to the
+1:10  dilution.   Survival  of  HIV  in  the  Environment   The  most  extensive  study  on  the
+survival of HIV after drying
+ involved
+greatly concentrated HIV samples, i.e., 10 million tissue-culture
+infectious doses per milliliter (31). This concentration is at
+ least
+100,000 times greater than that typically found in the blood or
+ serum of
+patients with HIV infection. HIV was detectable by tissue-culture
+techniques 1-3 days after drying, but the rate of inactivation was
+ rapid.
+Studies performed at CDC have also shown that drying HIV causes a
+ rapid
+(within several hours) 1-2 log (90%-99%) reduction in HIV
+ concentration. In
+tissue-culture fluid, cell-free HIV could be detected up to 15 days
+ at room
+temperature, up to 11 days at 37 C (98.6 F), and up to 1 day if the
+ HIV was
+cell-associated.  When considered in the context of environmental conditions in
+ health-
+care facilities, these results do not require any changes in
+ currently
+recommended sterilization, disinfection, or housekeeping
+ strategies. When
+medical devices are contaminated with blood or other body fluids,
+ existing
+recommendations include the cleaning of these instruments, followed
+ by
+disinfection or sterilization, depending on the type of medical
+ device.
+These protocols assume "worst-case" conditions of extreme virologic
+ and
+microbiologic contamination, and whether viruses have been
+ inactivated
+after drying plays no role in formulating these strategies.
+ Consequently,
+no changes in published procedures for cleaning, disinfecting, or
+sterilizing  need  to  be  made.   Housekeeping   Environmental  surfaces  such  as  walls,
+floors, and other
+ surfaces are
+not associated with transmission of infections to patients or
+ health-care
+workers. Therefore, extraordinary attempts to disinfect or
+ sterilize these
+environmental surfaces are not necessary. However, cleaning and
+ removal of
+soil should be done routinely.  Cleaning schedules and methods vary according to the
+area of
+ the
+hospital or institution, type of surface to be cleaned, and the
+ amount and
+type of soil present. Horizontal surfaces (e.g., bedside tables and
+ hard-
+surfaced flooring) in patient-care areas are usually cleaned on a
+ regular
+basis, when soiling or spills occur, and when a patient is
+ discharged.
+Cleaning of wails, blinds, and curtains is recommended only if they
+ are
+visibly soiled. Disinfectant fogging is an unsatisfactory method of
+decontaminating  air  and  surfaces  and  is  not  recommended.   Disinfectant-detergent
+formulations registered by EPA can be
+ used for
+cleaning environmental surfaces, but the actual physical removal of
+microorganisms by scrubbing is probably at least as important as
+ any
+antimicrobial effect of the cleaning agent used. Therefore, cost,
+ safety,
+and acceptability by housekeepers can be the main criteria for
+ selecting
+any such registered agent. The manufacturers' instructions for
+ appropriate
+use should be followed.  Cleaning and Decontaminating Spills of Blood or Other Body
+Fluids  Chemical germicides that are approved for use as "hospital
+disinfectants" and are tuberculocidal when used at recommended
+ dilutions
+can be used to decontaminate spills of blood and other body fluids.
+Strategies for decontaminating spills of blood and other body
+ fluids in a
+patient-care setting are different than for spills of cultures or
+ other
+materials in clinical, public health, or research laboratories. In
+ patient-
+care areas, visible material should first be removed and then the
+ area
+should be decontaminated. With large spills of cultured or
+ concentrated
+infectious agents in the laboratory, the contaminated area should
+ be
+flooded with a liquid germicide before cleaning, then
+ decontaminated with
+fresh germicidal chemical. In both settings, gloves should be worn
+ during
+the cleaning and decontaminating procedures.  Laundry  Although soiled linen has been
+identified as a source of large
+ numbers
+of certain pathogenic microorganisms, the risk of actual disease
+transmission is negligible. Rather than rigid procedures and
+ specifi-
+cations, hygienic and common-sense storage and processing of clean
+ and
+soiled linen are recommended (26). Soiled linen should be handled
+ as little
+as possible and with minimum agitation to prevent gross microbial
+contamination of the air and of persons handling the linen. All
+ soiled
+linen should be bagged at the location where it was used; it should
+ not be
+sorted or rinsed in patient-care areas. Linen soiled with blood or
+ body
+fluids should be placed and transported in bags that prevent
+ leakage. If
+hot water is used, linen should be washed with detergent in water
+ at least
+71 C (160 F) for 25 minutes. If low-temperature (less than or equal
+ to 70 C
+{158 F}) laundry cycles are used, chemicals suitable for
+ low-temperature
+washing  at  proper  use  concentration  should  be  used.   Infective  Waste   There  is  no
+epidemiologic evidence to suggest that most
+ hospital waste
+is any more infective than residential waste. Moreover, there is no
+epidemiologic evidence that hospital waste has caused disease in
+ the
+community as a result of improper disposal. Therefore, identifying
+ wastes
+for which special precautions are indicated is largely a matter of
+ judgment
+about the relative risk of disease transmission. The most practical
+approach to the management of infective waste is to identify those
+ wastes
+with the potential for causing infection during handling and
+ disposal and
+for which some special precautions appear prudent. Hospital wastes
+ for
+which special precautions appear prudent include microbiology
+ laboratory
+waste, pathology waste, and blood specimens or blood products.
+ While any
+item that has had contact with blood, exudates, or secretions may
+ be
+potentially infective, it is not usually considered practical or
+ necessary
+to treat all such waste as infective (23, 26). Infective waste, in
+ general,
+should either be incinerated or should be autoclaved before
+ disposal in a
+sanitary landfill. Bulk blood, suctioned fluids, excretions, and
+ secretions
+may be carefully poured down a drain connected to a sanitary sewer.
+Sanitary sewers may also be used to dispose of other infectious
+ wastes
+capable of being ground and flushed into the sewer.  Implementation of Recommended
+Precautions  Employers of health-care workers should ensure that policies
+ exist for:  
+    Initial orientation and continuing education and training of
+ all
+    health-care workers -- including students and trainees -- on
+ the
+    epidemiology, modes of transmission, and prevention of HIV
+ and other
+    blood-borne infections and the need for routine use of
+ universal
+    blood and body-fluid precautions for ALL patients.  
+    Provision of equipment and supplies necessary to minimize
+ the risk
+    of infection with HIV and other blood-borne pathogens.  
+    Monitoring adherence to recommended protective measures.
+ When
+    monitoring reveals a failure to follow recommended
+ precautions,
+    counseling, education, and/or re-training should be
+ provided, and,
+    if necessary, appropriate disciplinary action should be
+ considered.
+    Professional associations and labor organizations, through
+ continuing  education efforts, should emphasize the need for health-care
+ workers to
+follow recommended precautions.  Serologic Testing for HIV Infection  Background  A
+person is identified as infected with HIV when a sequence of
+ tests,
+starting with repeated enzyme immunoassays (EIA) and including a
+ Western
+blot or similar, more specific assay, are repeatedly reactive.
+ Persons
+infected with HIV usually develop antibody against the virus within
+ 6-12
+weeks after infection.  The sensitivity of the currently licensed EIA tests is at least
+ 99%
+when they are performed under optimal laboratory conditions on
+ serum
+specimens from persons infected for greater than or equal to 12
+ weeks.
+Optimal laboratory conditions include the use of reliable reagents,
+provision of continuing education of personnel, quality control of
+ proce-
+dures, and participation in performance-evaluation programs. Given
+ this
+performance, the probability of a false-negative test is remote
+ except
+during the first several weeks after infection, before detectable
+ antibody
+is present. The proportion of infected persons with a
+ false-negative test
+attributed to absence of antibody in the early stages of infection
+ is
+dependent on both the incidence and prevalence of HIV infection in
+ a
+population (Table 1).  The specificity of the currently licensed EIA tests is
+ approximately
+99% when repeatedly reactive tests are considered. Repeat testing
+ of
+initially reactive specimens by EIA is required to reduce the
+ likelihood of
+laboratory error. To increase further the specificity of serologic
+ tests,
+laboratories must use a supplemental test, most often the Western
+ blot, to
+validate repeatedly reactive EIA results. Under optimal laboratory
+conditions, the sensitivity of the Western blot test is comparable
+ to or
+greater than that of a repeatedly reactive EIA, and the Western
+ blot is
+highly specific when strict criteria are used to interpret the test
+results. The testing sequence of a repeatedly reactive EIA and a
+ positive
+Western blot test is highly predictive of HIV infection, even in a
+population with a low prevalence of infection (Table 2). If the
+ Western
+blot test result is indeterminant, the testing sequence is
+ considered
+equivocal for HIV infection. When this occurs, the Western blot
+ test should
+be repeated on the same serum sample, and, if still indeterminant,
+ the
+testing sequence should be repeated on a sample collected 3-6
+ months later.
+Use of other supplemental tests may aid in interpreting of results
+ on
+samples  that  are  persistently  indeterminant  by  Western  blot.   Testing  of  Patients  
+Previous CDC recommendations have emphasized the value of HIV
+ serologic
+testing of patients for: 1 ) management of parenteral or
+ mucous-membrane
+exposures of health-care workers, 2) patient diagnosis and
+ management, and
+3) counseling and serologic testing to prevent and control HIV
+ transmission
+in the community. In addition, more recent recommendations have
+ stated that
+hospitals, in conjunction with state and local health departments,
+ should
+periodically determine the prevalence of HIV infection among
+ patients from
+age  groups  at  highest  risk  of  infection  (32).   Adherence  to  universal  blood  and
+body-fluid precautions
+ recommended for
+the care of all patients will minimize the risk of transmission of
+ HIV and
+other blood-borne pathogens from patients to health-care workers.
+ The
+utility of routine HIV serologic testing of patients as an adjunct
+ to
+universal precautions is unknown. Results of such testing may not
+ be
+available in emergency or outpatient settings. In addition, some
+ recently
+infected patients will not have detectable antibody to HIV (Table
+ 1).  Personnel in some hospitals have advocated serologic testing of
+patients in settings in which exposure of health-care workers to
+ large
+amounts of patients' blood may be anticipated. Specific patients
+ for whom
+serologic testing has been advocated include those undergoing major
+operative procedures and those undergoing treatment in
+ critical-care units,
+especially if they have conditions involving uncontrolled bleeding.
+Decisions regarding the need to establish testing programs for
+ patients
+should be made by physicians or individual institutions. In
+ addition, when
+deemed appropriate, testing of individual patients may be performed
+ on
+agreement  between  the  patient  and  the  physician  providing  care.   In  addition  to  the
+universal precautions recommended for all
+ patients,
+certain additional precautions for the care of HIV-infected
+ patients
+undergoing major surgical operations have been proposed by
+ personnel in
+some hospitals. For example, surgical procedures on an HIV-infected
+ patient
+might be altered so that hand-to-hand passing of sharp instruments
+ would be
+eliminated; stapling instruments rather than hand-suturing
+ equipment might
+be used to perform tissue approximation; electrocautery devices
+ rather than
+scalpels might be used as cutting instruments; and, even though
+uncomfortable, gowns that totally prevent seepage of blood onto the
+ skin of
+members of the operative team might be worn. While such
+ modifications might
+further minimize the risk of HIV infection for members of the
+ operative
+team, some of these techniques could result in prolongation of
+ operative
+time and could potentially have an adverse effect on the patient.  Testing programs, if
+developed, should include the following
+principles:  
+    Obtaining consent for testing.  
+    Informing patients of test results, and providing counseling
+ for
+    seropositive patients by properly trained persons.  
+    Assuring that confidentiality safeguards are in place to
+ limit
+    knowledge of test results to those directly involved in the
+ care of
+    infected patients or as required by law.  
+    Assuring that identification of infected patients will not
+ result in
+    denial of needed care or provision of suboptimal care.  
+    Evaluating prospectively 1) the efficacy of the program in
+ reducing
+    the incidence of parenteral, mucous-membrane, or significant
+    cutaneous exposures of health-care workers to the blood or
+ other body
+    fluids of HIV-infected patients and 2) the effect of modified
+    procedures on patients.  Testing of Health-Care Workers  Although transmission of
+HIV from infected health-care workers
+ to
+patients has not been reported, transmission during invasive
+ procedures
+remains a possibility. Transmission of hepatitis B virus (HBV) -- a
+ blood-
+borne agent with a considerably greater potential for nosocomial
+ spread --
+from health-care workers to patients has been documented. Such
+ transmission
+has occurred in situations (e.g., oral and gynecologic surgery) in
+ which
+health-care workers when tested had very high concentrations of HBV
+ in
+their blood (at least 100 million infectious virus particles per
+milliliter, a concentration much higher than occurs with HIV
+ infection),
+and the health-care workers sustained a puncture wound while
+ performing
+invasive procedures or had exudative or weeping lesions or
+ microlacerations
+that allowed virus to contaminate instruments or open wounds of
+ patients
+(33, 34).  The hepatitis B experience indicates that only those
+ health-care
+workers who perform certain types of invasive procedures have
+ transmitted
+HBV to patients. Adherence to recommendations in this document will
+minimize the risk of transmission of HIV and other blood-borne
+ pathogens
+from health-care workers to patients during invasive procedures.
+ Since
+transmission of HIV from infected health-care workers performing
+ invasive
+procedures to their patients has not been reported and would be
+ expected to
+occur only very rarely, if at all, the utility of routine testing
+ of such
+health-care workers to prevent transmission of HIV cannot be
+ assessed. If
+consideration is given to developing a serologic testing program
+ for
+health-care workers who perform invasive procedures, the frequency
+ of
+testing, as well as the issues of consent, confidentiality, and
+consequences of test results -- as previously outlined for testing
+ programs
+for  patients  --  must  be  addressed.   Management  of  Infected  Health-Care  Workers  
+Health-care workers with impaired immune systems resulting from
+ HIV
+infection or other causes are at increased risk of acquiring or
+experiencing serious complications of infectious disease. Of
+ particular
+concern is the risk of severe infection following exposure to
+ patients with
+infectious diseases that are easily transmitted if appropriate
+ precautions
+are not taken (e.g., measles, varicella). Any health-care worker
+ with an
+impaired immune system should be counseled about the potential risk
+associated with taking care of patients with any transmissible
+ infection
+and should continue to follow existing recommendations for
+ infection
+control to minimize risk of exposure to other infectious agents (7,
+ 35).
+Recommendations of the Immunization Practices Advisory Committee
+ (ACIP) and
+institutional policies concerning requirements for vaccinating
+ health-care
+workers with live-virus vaccines (e.g., measles, rubella) should
+ also be
+considered.  The question of whether workers infected with HIV -- especially
+ those
+who perform invasive procedures -- can adequately and safely be
+ allowed to
+perform patient-care duties or whether their work assignments
+ should be
+changed must be determined on an individual basis. These decisions
+ should
+be made by the health-care worker's personal physician(s) in
+ conjunction
+with the medical directors and personnel health service staff of
+ the
+employing  institution  or  hospital.   Management  of  Exposures   If  a  health-care  worker
+has a parenteral (e.g., needlestick or
+ cut) or
+mucous-membrane (e.g., splash to the eye or mouth) exposure to
+ blood or
+other body fluids or has a cutaneous exposure involving large
+ amounts of
+blood or prolonged contact with blood -- especially when the
+ exposed skin
+is chapped, abraded, or afflicted with dermatitis -- the source
+ patient
+should be informed of the incident and tested for serologic
+ evidence of HIV
+infection after consent is obtained. Policies should be developed
+ for
+testing source patients in situations in which consent cannot be
+ obtained
+(e.g.,  an  unconscious  patient).   If  the  source  patient  has  AIDS,  is  positive  for  HIV
+antibody,
+ or
+refuses the test, the health-care worker should be counseled
+ regarding the
+risk of infection and evaluated clinically and serologically for
+ evidence
+of HIV infection as soon as possible after the exposure. The
+ health-care
+worker should be advised to report and seek medical evaluation for
+ any
+acute febrile illness that occurs within 12 weeks after the
+ exposure. Such
+an illness -- particularly one characterized by fever, rash, or
+lymphadenopathy -- may be indicative of recent HIV infection.
+ Seronegative
+health-care workers should be retested 6 weeks post-exposure and on
+ a
+periodic basis thereafter (e.g., 12 weeks and 6 months after
+ exposure) to
+determine whether transmission has occurred. During this follow-up
+ period  
+    especially the first 6-12 weeks after exposure, when most
+ infected
+    persons are expected to seroconvert -- exposed health-care workers
+ should
+    follow U.S. Public Health Service (PHS) recommendations for
+ preventing
+    transmission of HIV (36, 37).  No further follow-up of a health-care worker exposed to
+ infection as
+described above is necessary if the source patient is seronegative
+ unless
+the source patient is at high risk of HIV infection. In the latter
+ case, a
+subsequent specimen (e.g., 12 weeks following exposure) may be
+ obtained
+from the health-care worker for antibody testing. If the source
+ patient
+cannot be identified, decisions regarding appropriate follow-up
+ should be
+individualized. Serologic testing should be available to all
+ health-care
+workers who are concerned that they may have been infected with
+ HIV.  If a patient has a parenteral or mucous-membrane exposure to
+ blood or
+other body fluid of a health-care worker, the patient should be
+ informed of
+the incident, and the same procedure outlined above for management
+ of
+exposures should be followed for both the source health-care worker
+ and the
+exposed patient.  
+    General infection-control precautions are more specifically
+ addressed in  previous recommendations for infection-control practices for
+ dentistry (8).
+** Additional precautions for research and industrial laboratories
+ are
+addressed elsewhere (22,23).  References  
+    CDC. Acquired immunodeficiency syndrome (AIDS): Precautions for
+    clinical and laboratory staffs. MMWR 1982;31:577-80.  
+    CDC. Acquired immunodeficiency syndrome (AIDS): Precautions for
+ health-
+    care workers and allied professionals. MMWR 1983;32:450-1.  
+    CDC. Recommendations for preventing transmission of infection
+ with
+    human T-lymphotropic virus type III/lymphadenopathy-associated
+ virus
+    in the workplace. MMWR 1985;34:681-6, 691-5.  
+    CDC. Recommendations for preventing transmission of infection
+ with
+    human T-lymphotropic virus type III/lymphadenopathy-associated
+ virus
+    during invasive procedures. MMWR 1986;35:221-3.  
+    CDC. Recommendations for preventing possible transmission of
+ human
+    T-lymphotropic virus type III/lymphadenopathy-associated virus
+ from
+    tears. MMWR 1985;34:533-4.  
+    CDC. Recommendations for providing dialysis treatment to
+ patients
+    infected with human T-lymphotropic virus type
+ III/lymphadenopathy-
+    associated virus infection. MMWR 1986;35:376-8, 383.  
+    Garner JS, Simmons BP. Guideline for isolation precautions in
+    hospitals. Infect Control 1983;4 (suppl):245-325.  
+    CDC. Recommended infection control practices for dentistry.
+ MMWR
+    1986;35:237-42.  
+    McCray E, The Cooperative Needlestick Surveillance Group.
+ Occupational
+    risk of the acquired immunodeficiency syndrome among health
+ care
+    workers. N Engl J Med 1986;314:1127-32.  
+    Henderson DK, Saah AJ, Zak BJ, et al. Risk of nosocomial
+ infection with
+    human T-cell lymphotropic virus type
+ III/lymphadenopathy-associated
+    virus in a large cohort of intensively exposed health care
+ workers. Ann
+    Intern Med 1986;104:644-7.  
+    Gerberding JL, Bryant-LeBlanc CE, Nelson K, et al. Risk of
+ transmitting
+    the human immunodeficiency virus, cytomegalovirus, and
+ hepatitis B
+    virus to health care workers exposed to patients with AIDS and
+ AIDS-
+    related conditions. J Infect Dis 1987;156:1-8.  
+    McEvoy M, Porter K, Mortimer P, Simmons N, Shanson D.
+ Prospective study
+    of clinical, laboratory, and ancillary staff with accidental
+ exposures
+    to blood or other body fluids from patients infected with HIV.
+ Br Med J
+    1987;294:1595-7.  
+    Anonymous. Needlestick transmission of HTLV-III from a patient
+ infected
+    in Africa. Lancet 1984;2:1376-7.  
+    Oksenhendler E, Harzic M, Le Roux JM, Rabian C, Clauvel JP. HIV
+    infection with seroconversion after a superficial needlestick
+ injury
+    to the finger. N Engl J Med 1986;315:582.  
+    Neisson-Vernant C, Arfi S, Mathez D, Leibowitch J, Monplaisir
+ N.
+    Needlestick HIV seroconversion in a nurse. Lancet 1986;2:814.  
+    Grint P, McEvoy M. Two associated cases of the acquired immune
+    deficiency syndrome (AIDS). PHLS Commun Dis Rep 1985;42:4.  
+    CDC. Apparent transmission of human T-lymphotropic virus type
+ III/
+    lymphadenopathy-associated virus from a child to a mother
+ providing
+    health care. MMWR 1986;35:76-9.  
+    CDC. Update: Human immunodeficiency virus infections in
+ health-care
+    workers exposed to blood of infected patients. MMWR
+ 1987;36:285-9.  
+    Kline RS, Phelan J, Friedland GH, et al. Low occupational risk
+ for HIV
+    infection for dental professionals {Abstract}. In: Abstracts
+ from the
+    III International Conference on AIDS, 1-5 June 1985.
+ Washington, DC:
+    155.  
+    Baker JL, Kelen GD, Sivertson KT, Quinn TC. Unsuspected human
+ immuno-
+    deficiency virus in critically ill emergency patients. JAMA
+ 1987;257:
+    2609-11.  
+    Favero MS. Dialysis-associated diseases and their control. In:
+ Bennett
+    JV, Brachman PS, eds. Hospital infections. Boston: Little,
+ Brown and
+    Company, 1985:267-84.  
+    Richardson JH, Barkley WE, eds. Biosafety in microbiological
+ and
+    biomedical laboratories, 1984. Washington, DC: US Department of
+ Health
+    and Human Services, Public Health Service. HHS publication no.
+ (CDC)
+    84-8395.  
+    CDC. Human T-lymphotropic virus type
+ III/lymphadenopathy-associated
+    virus: Agent summary statement. MMWR 1986;35:540-2, 547-9.  
+    Environmental Protection Agency. EPA guide for infectious waste
+    management. Washington, DC:U.S. Environmental Protection
+ Agency, May
+    1986 (Publication no. EPA/530-SW-86-014).  
+    Favero MS. Sterilization, disinfection, and antisepsis in the
+ hospital.
+    In: Manual of clinical microbiology. 4th ed, Washington, DC:
+ American
+    Society for Microbiology, 1985;129-37.  
+    Garner JS, Favero MS. Guideline for handwashing and hospital
+ environ-
+    mental control, 1985. Atlanta: Public Health Service, Centers
+ for
+    Disease Control, 1985. HHS publication no. 99-1117.  
+    Spire B, Montagnier L, Barre-Sinoussi F, Chermann JC.
+ Inactivation of
+    lymphadenopathy associated virus by chemical disinfectants.
+ Lancet
+    1984;2:899-901.  
+    Martin LS, McDougal JS, Loskoski SL. Disinfection and
+ inactivation of
+    the human T lymphotropic virus type
+ III/lymphadenopathy-associated
+    virus. J Infect Dis 1985;152:400-3.  
+    McDougal JS, Martin LS, Cort SP, et al. Thermal inactivation of
+ the
+    acquired immunodeficiency syndrome
+ virus-III/lymphadenopathy-associated
+    virus, with special reference to antihemophilic factor. J Clin
+ Invest
+    1985;76:875-7.  
+    Spire B, Barre-Sinoussi F, Dormont D, Montagnier L, Chermann
+ JC.
+    Inactivation of lymphadenopathy-associated virus by heat, gamma
+ rays,
+    and ultraviolet light. Lancet 1985;1:188-9.  
+    Resnik L, Veren K, Salahuddin SZ, Tondreau S, Markham PD.
+ Stability and
+    inactivation of HTLV-III/LAV under clinical and laboratory
+ environ-
+    ments. JAMA 1986;255:1887-91.  
+    CDC. Public Health Service (PHS) guidelines for counseling and
+ antibody
+    testing to prevent HIV infection and AIDS. MMWR 1987;3:509-15.  
+    Kane MA, Lettau LA. Transmission of HBV from dental personnel
+ to
+    patients. J Am Dent Assoc 1985;110:634-6.  
+    Lettau LA, Smith JD, Williams D, et. al. Transmission of
+ hepatitis B
+    with resultant restriction of surgical practice. JAMA
+ 1986;255:934-7.  
+    Williams WW. Guideline for infection control in hospital
+ personnel.
+    Infect Control 1983;4 (suppl):326-49.  
+    CDC. Prevention of acquired immune deficiency syndrome (AIDS):
+ Report
+    of inter-agency recommendations. MMWR 1983;32:101-3.  
+    CDC. Provisional Public Health Service inter-agency
+ recommendations for
+    screening donated blood and plasma for antibody to the virus
+ causing
+    acquired immunodeficiency syndrome. MMWR 1985;34:1-5.  
+Disclaimer
+   All MMWR HTML documents published before January 1993 are electronic conversions
+from ASCII text into HTML.  This conversion may have resulted in character translation
+or format errors in the HTML version.  Users should not rely on this HTML document, but
+are referred to the original MMWR paper copy for the official text, figures, and tables. 
+An  original  paper  copy  of  this  issue  can  be  obtained  from  the  Superintendent  of
+Documents,  U.S.  Government  Printing  Office  (GPO),  Washington,  DC  20402-9371;
+telephone: (202) 512-1800. Contact GPO for current prices. Page converted: 08/05/98 
+    HOME  |  
+    ABOUT MMWR  | 
+    MMWR SEARCH  | 
+    DOWNLOADS  | 
+    RSS 
+    |  
+    CONTACT
+POLICY  |  
+    DISCLAIMER  |  
+    ACCESSIBILITY 
+Morbidity and Mortality Weekly Report
+                Centers for Disease Control and Prevention
+                1600 Clifton Rd, MailStop E-90, Atlanta, GA 
+                  30333, U.S.A 
+Department of Healthand Human Services This page last reviewed 5/2/01 
+ 
+Source URL: https://www.cdc.gov/mmwr/preview/mmwrhtml/00023587.htm

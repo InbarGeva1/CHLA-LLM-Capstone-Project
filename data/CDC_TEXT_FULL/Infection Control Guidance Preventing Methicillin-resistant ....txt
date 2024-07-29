@@ -1,0 +1,34 @@
+A .gov website belongs to an official government organization in the United States. A
+lock (  ) or https:// means you've safely connected to the .gov website. Share sensitive
+information only on official, secure websites. 
+Related Topics:
+ CDC  works  with  partners  to  identify  and  evaluate  other  measures  to  decrease  the
+transmission  of  multidrug-resistant  organisms  (MDROs)  in  healthcare  settings.  MRSA
+remains  an  important  healthcare  pathogen.  The  prevention  of  MRSA  infections  is  a
+priority for CDC. CDC estimates that MRSA is responsible for more than 70,000 severe
+infections and 9,000 deaths per year.  CDC recommends the use of Contact Precautions
+in inpatient acute care settings for patients colonized or infected with MDROs, including
+MRSA.  In  2022,  the  United  States  showed  progress  in  preventing  several  important
+healthcare-associated infections (HAIs) in acute care hospitals (ACHs). ACHs observed
+16%  decrease  in  hospital-onset  methicillin-resistant  Staphylococcus  aureus  (MRSA)
+bacteremia,  according  to  data  from  the  National  Healthcare  Safety  Network.  
+Interventions  like  Contact  Precautions  and  hand  hygiene,  both  designed  to  reduce
+device- and procedure-associated infections and transmissions, have contributed to the
+decreases. The contribution of Contact Precautions in comparison to other interventions
+is unknown. In recent years, more than a dozen studies, article reviews and editorials
+have  sought  to  address  whether  Contact  Precautions  should  be  recommended  for
+endemic  MDROs  like  MRSA.  The  impact  of  discontinuing  Contact  Precautions  for
+MRSA-colonized  or infected  patients  has  been  assessed  in  single-center studies  using
+lower quality quasi-experimental designs. These studies have not identified changes in
+MRSA  infection  or  acquisition  rates.  They  likely  underestimate  the  impact  of
+discontinuing Contact Precautions including the effect on downstream adverse events
+such as post-discharge infections. Based on the current evidence, CDC recommends the
+use of Contact Precautions for MRSA-colonized or infected patients. CDC continues to
+evaluate  the  evidence  on  Contact  Precautions  as  it  becomes  available.  CDC  also
+continues to work with partners to identify and evaluate other measures to decrease
+transmission of MDROs in healthcare settings. Healthcare providers can complete this
+case scenario to test their knowledge of prevention strategies to protect patients from
+serious  staph  infections.  MRSA  is  a  germ  that  is  resistant  to  some  antibiotics.  It  can
+spread  in  hospitals,  other  healthcare  facilities,  and  in  the  community.  Languages
+Language Assistance Languages  Language Assistance 
+Source URL: https://www.cdc.gov/mrsa/hcp/infection-control/index.html

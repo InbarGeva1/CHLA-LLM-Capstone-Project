@@ -1,0 +1,243 @@
+Official websites use .gov A .gov website belongs to an official government organization
+in  the  United  States.  Secure  .gov  websites  use  HTTPS  A  lock  (   )  or  https://  means
+you've  safely  connected  to  the  .gov  website.  Share  sensitive  information  only  on
+official, secure websites.  If the date of specimen collection is on or after the date of
+documentation  of  evidence  of  consent  AND  the  patient  is  being  supported  for  organ
+donation  purposes,  an  event  identified  using  the  specimen  culture  result  or
+microbiologic non-culture based diagnostic test result should not be reported as an HAI.
+For criteria without a specimen collected, if the date of event (DOE) is on or after the
+date of documentation of evidence of consent AND the patient is being supported for
+organ  donation  purposes,  the  event  identified  should  not  be  reported  as  an  HAI.  The
+patient should, however, still be included in device and patient day denominator data
+collection. Yes. The repeat infection timeframe (RIT) is set by the date of event (DOE). 
+For surveillance purposes a POA infection may only have a DOE on the day of admission
+or the next day. If the first element within the infection window period (IWP) occurred in
+the 2 days before admission, the DOE is considered the day of admission. The RIT is the
+14-day time period where no new infections of the same type are reported, beginning
+with the date of event. Example: A UTI with E. coli identified with DOE on the day of
+admission is considered POA. If 10 days later a new urine culture shows K. pneumonia
+>100,000 CFU/ml, then the organism is added to the original UTI (no new event is cited
+but  rather  is  considered  a  continuation  of  the  original  event).  The  UTI  RIT  remains
+Hospital  Days  1-14.  NOTE:   If  a  patient  is  admitted  with  a  POA  BSI  and  subsequent
+blood  specimens  are  collected,  the  POA  BSI  must  be  identified  as  either  primary  or
+secondary in nature.  A primary POA BSI will set a BSI RIT.  However, a POA BSI that is
+secondary to another site of infection will NOT set a BSI RIT.  It will only set an RIT for
+the type of infection to which the BSI is secondary. Please see the article on page 3 of
+the  September  2015  NHSN  Newsletter  for  more  details.  September  2015  NHSN
+Newsletter  [PDF  –  2  MB].  Several  studies  have  demonstrated  there  was  subjective
+application of the NHSN HAI surveillance definitions by different IPs and facilities, prior
+to  2013.   During  this  time,  the  NHSN  definitions  allowed  facilities  to  subjectively
+determine  evidence  that  an  infection  was  present  or  incubating  on  admission,  which
+was not reportable to NHSN because it was not “healthcare-associated”.  Subjectivity,
+providing  an  opportunity  for  inconsistent  data  collection,  must  be  removed  from
+surveillance  definitions  whenever  possible.   With  this  in  mind,  CDC  and  the  HICPAC
+surveillance  working  group,  a  group  made  up  of  infectious  disease  professionals,
+healthcare
+ epidemiologists,
+ infection
+ preventionists,
+ and
+ state
+ public
+ health
+representatives,  developed  a  set  of  objective  surveillance  criteria  to  be  implemented
+into  NHSN  and  used  by  all  facilities  reporting  data  to  NHSN.   Through  the  use  of  the
+same set of objective criteria it is expected that data reported to the system is useful
+for quality improvement activities. For infections of all types except VAE, PedVAE, SSI,
+LabID
+ Event,
+ to
+ make
+ a
+ proper
+ determination
+ regarding
+ a
+ possible
+healthcare-associated infection, proceed in this order: 1.      First, determine the date of
+the diagnostic test that is an element of the NHSN site-specific infection criterion that is
+met. 2.      Next determine the infection window period (3 days before the diagnostic
+test,  the  day  of  the  test,  and  3  days  after  for  a  total  of  7  days).   NOTE:  when  the
+diagnostic  test  used  to  set  the  IWP  is  hospital  day  3  or  earlier,  the  days  before  the
+diagnostic test can only include those that occur in the POA timeframe, specifically the
+2 days prior to admission. 3.      Then determine if all of the elements of the criterion
+are met during the infection window period.  If they are, there is an infection event.  If
+they are not, there is no event. 4.      If there is an event, next determine the date of
+event, specifically, the date that the first element used to meet the infection criterion
+occurs for the first time within the infection window period. 5.      Is the date of event in
+the  POA  time  period  (specifically,  during  the  2  days  before  admission,  the  day  of
+admission, or the next day)?  If yes, the infection is POA; if not, it is an HAI. Please note,
+when assigning a repeat infection timeframe (RIT) for a POA event, if the date of event
+is determined to be either of the two days prior to inpatient admission then the date of
+event, and therefore day 1 of the RIT, is considered hospital day 1. Chapter 2 of the
+NHSN  PSC  Manual  –  Identifying  HAI  for  NHSN  Surveillance  provides  guidance  and
+examples.  Please see: Chapter 2 of the NHSN PSC Manual – Identifying HAI for NHSN
+Surveillance [PDF – 1 MB]. Surveillance definitions are designed to study and identify
+trends in a population.  The application of these standardized criteria, and only these
+criteria, in a consistent manner allows confidence in aggregation and analysis of data.
+Alternatively, clinical diagnoses are patient specific. Unlike surveillance definitions, ALL
+available  diagnostic  data  are  considered  in  a  clinical  diagnosis,  including  additional
+clinical, epidemiological and laboratory data not used for NHSN surveillance. Therefore,
+a clinical diagnosis may be made even when a surveillance definition may not be met
+and  vice  versa  is  also  true.   Failure  to  meet  a  surveillance  definition  should  never
+impede  or  override  clinical  judgment  during  diagnosis,  management,  or  treatment  of
+patents. Nor should failure to meet clinical definitions result in non-reporting to NHSN
+infections  meeting  the  NHSN  surveillance  criteria.  The  following  are  considered
+diagnostic tests only when they are an element of the criteria that is met:  This term
+refers  to  the  identification  of  microorganisms  using  a  method  of  testing  other  than  a
+culture.  Culture  based  testing  requires  inoculation  of  a  specimen  to  culture  media,
+incubation,  and  observation  for  actual  growth  of  microorganisms.  Depending  on  the
+organism  identified,  culturing  can  take  several  days  to  weeks  for  a  final  report.  In
+contrast,  non-culture-based  testing  (NCT)  methods  generally  provide  faster  results,
+which can assist with early diagnosis and tailoring of antimicrobial therapy. Examples of
+non-culture-based  testing  include,  but  are  not  limited  to,  PCR  (polymerase  chain
+reaction) and ELISA (Enzyme-linked immunosorbent assay) as well as DNA sequencing.
+   For  purposes  of  NHSN  surveillance,  Active  Surveillance  Culture/Testing  (ASC/AST)
+refers to testing that is intended to identify the presence/carriage of microorganisms for
+the  purpose  of  instituting  or  discontinuing  isolation  precautions  (for  example,  nasal
+swab for MRSA, rectal swab for VRE), or monitoring for eradication of a carrier state.
+ASC/AST  does  NOT  include  identification  of  microorganisms  with  cultures  or  tests
+performed  for  diagnosis  and  treatment  purposes  (for  example,  specimens  collected
+from  sterile  body  sites,  including  blood  specimens).  “In  plan”  surveillance  is
+surveillance which a facility has indicated in their NHSN Monthly Reporting Plan (MRP)
+will be performed.  By including the data in the NHSN MRP, the facility is stating that
+the NHSN surveillance protocol(s) will be used, in its entirety, for that particular event. 
+Only  in-plan  data  are  submitted  to  CMS  in  accordance  with  CMS’s  Quality  Reporting
+Programs. Only data that are entered into NHSN “in-plan” are included in NHSN annual
+reports  or  other  NHSN  publications.  If  the  facilities  are  physically  separate  buildings
+from each other, whether on the same property or over multiple campuses, then they
+should be enrolled separately in NHSN. Each facility should have its own, unique NHSN
+OrgID. When a CCN is shared across multiple facilities, the CDC will aggregate the data
+from  all  applicable  NHSN  OrgIDs  and  will  send  to  CMS  under  the  single  CCN  for  CMS
+reporting  purposes.  Each  distinct  facility  should  monitor  HAIs  and  prevention  efforts
+separately,  for  the  purposes  of  accurate  tracking  and  targeted  infection  control.  A
+positive screening culture at admission does not mean that any subsequent infection
+with that organism is not a healthcare-associated infection (HAI). Many HAIs are caused
+by  organisms  from  endogenous  patient  sources  and  prevention  efforts  may  be
+employed  to  prevent  these  organisms  from  causing  an  HAI.   A  positive  screening
+culture  without  evidence  of  infection  usually  represents  colonization  NOT  incubation.
+Unless such a patient meets all other required criteria to fulfill the present on admission
+(POA) definition, no POA infection is identified. Because fever is a non-specific sign of
+infection,  it  is  possible  that  an  individual  may  run  a  fever  due  to  more  than  one
+infection at a time. It would be impossible to determine which infection (if not both) was
+the cause of the fever. Therefore, in this example, if all other criteria besides fever are
+met,  the  patient  would  have  both  an  NHSN  PNEU  and  an  NHSN  UTI.  This  process
+negates the use of clinical, subjective decision making to determine NHSN HAI events.
+The issue of the route of temperature measurement was considered here at NHSN and
+a decision was made to forego requiring a certain route of measurement, since our aim
+is not to direct care, but rather to measure the effect of care on outcomes.  A detailed
+literature  search  was  performed  and  subject  matter  experts  consulted  regarding  the
+many routes of measurement and what they may mean when compared to others.  The
+final  determination  was  that  there  are  no  research-based  guidelines  concerning
+converting  temperatures  based  on  route  of  measurement.   When  using  fever  as  an
+element  of  an  NHSN  infection  criterion,  use  the  temperature  documented  in  the
+patient’s medical record (no conversion of temperature based on route of collection). If
+a specific value for a vital sign is not stated in a CDC/NHSN HAI definition criterion (for
+example bradycardia, hypotension), the facility should use the vital sign parameters as
+stated  in  its  own  policies  and  procedures  for  clinical  practices.   Additionally,
+documentation of these conditions in the medical chart may also be used, for example,
+“…patient is hypotensive” would satisfy the element of “hypotension.” The patient ID is
+the  key  identifier  in  NHSN  for  each  facility.  Therefore,  the  patient  ID  should  be  an
+identifier  that  remains  constant  for  the  patient  on  any  subsequent  visits;  oftentimes,
+this is the medical record number. The use of an identifier that changes with each visit
+to the facility, for example, would result in the inability to link an SSI to a procedure, as
+well  as  inappropriate  assignment  and  calculation  of  LabID  events  and  subsequent
+measures.  For  determining  accurate  device  and/or  patient  day  counts  in  inpatient
+locations, any patient present in an inpatient location at the time of the count(s) should
+be included, regardless of whether they spend the night. The facility’s designation of a
+patient as “inpatient” is not necessary to meet the NHSN inpatient definition. Yes. All
+patients residing in an inpatient unit should be included in the surveillance efforts for
+that unit regardless of the facility’s categorization as “observation” or “hospice” patient
+(including patients being provided only palliative or supportive care), or that they are in
+a swing bed within an inpatient location. The designation of Mixed Acuity Unit should be
+used only when both of the following are true: AND  Use of virtual locations requires the
+ability to identify separate patient days and device days for these groups of patients. 
+Correct mapping of facility locations is vital for appropriate comparison and calculation
+of
+ device-associated
+ SIRs.
+ Detailed
+ guidance
+ can
+ be
+ found
+ at
+http://www.cdc.gov/nhsn/PDFs/pscManual/15LocationsDescriptions_current.pdf  [PDF  –
+677 KB]. For CMS IPPS reporting, CLABSI reporting is mandatory for adult & pediatric
+ICUs, medical wards, surgical wards, and combined medical/surgical wards as well as
+neonatal ICUs for acute care facilities.   Long-Term Acute Care facilities are required to
+report CLABSIs for all inpatient locations.   The data that NHSN shares with CMS will not
+include data for locations mapped as Mixed Acuity Units. For more details regarding the
+reporting requirements for CMS Quality Reporting Programs, as they pertain to NHSN
+surveillance,  please  visit:  CMS  Requirements.  Please  refer  to  the  guidance  that  is
+provided in the CDC Locations and Descriptions Chapter (Chapter 15). The beginning of
+this  chapter  offers  a  guide  which  will  help  you  set  up  your  locations  properly.   CDC
+Locations  and  Descriptions  Chapter  (Chapter  15)  [PDF  –  1  MB]  Only  if  physician
+diagnosis  is  a  part  of  an  NHSN  site-specific  infection  criteria  may  it  be  used  in  the
+determination that an infection was present on admission (POA). For example, since the
+BSI  criteria  do  not  include  physician  diagnosis  as  part  of  the  criteria,  a  physician
+documentation  of  BSI  cannot  be  used  to  meet  CDC/NHSN  criteria  for  a  BSI.   As  a
+reminder, the date of event of a CDC/NHSN site-specific infection criterion must occur
+within  the  POA  time  period  (specifically  the  2  days  before  admission,  the  day  of
+admission,  or  the  day  after  admission)  for  the  infection  to  be  considered  present  on
+admission. This is regardless of admitting diagnosis or treatments the patient may be
+receiving upon admission (for example, antibiotics). If a device is present for any part of
+a  calendar  day,  then  that  day  contributes  to  the  minimum  day  requirement  for  the
+device-associated  infection.  Examples  include  when  a  device  is  removed  and  then
+reinserted  on  that  calendar  day  or  the  next.   If  instead,  a  full  calendar  day  passes
+without device presence, then the day count begins anew for device days if the device
+is  reinserted.  An  example  is  the  removal  of  a  device  on  Monday,  without  reinsertion
+until Wednesday or later. Denominator data are collected at the same time, every day,
+per  location.   Alternatively,  a  denominator  sampling  method  can  be  used  where  the
+number of patients in the location (patient days) and the number of patients with an
+indwelling device (urinary catheter/central line/ventilator) is collected on a designated
+day  each  week  at  the  same  time.   For  accuracy,  do  not  use  Saturday  or  Sunday  for
+sampling  purposes  and  only  non-oncology  ICUs  and  wards  with  an  average  of  75  or
+more device days per month in the previous year are eligible to use this method.  When
+using  this  method,  the  patient  days  must  also  be  counted  each  day  of  the  week.    
+Positive cultures from broth only are considered a positive culture result and treated as
+such for surveillance purposes.  Such media can be enriched to identify organisms that
+might otherwise be missed. Please see NHSN’s Requirements and Recommendations on
+usage NHSN’s Requirements and Recommendations. Try logging completely out of the
+application. Close your browser, clear your cookies. (Go to Tools, Internet options, then
+delete,  check  off  cookies,  etc.)  Instead  of  using  Internet  Explorer  please  try  using
+Microsoft Edge or Google Chrome. Attempt to enter data again.  If you continue to have
+issue,  contact  NHSN@cdc.gov.  Gross  anatomic  evidence  of  infection  is  evidence  of
+infection elicited or visualized on physical examination or observed during an invasive
+procedure.  This includes findings elicited on physical examination of a patient during
+admission  or  subsequent  assessments  of  the  patient  and  may  include  findings  noted
+during a medical/invasive procedure, dependent upon the location of the infection as
+well as the NHSN infection criterion. Examples: Note: Imaging test evidence of infection
+cannot be applied to meet gross anatomic evidence of infection.  Imaging test evidence
+has distinct findings in the HAI definitions (for example, IAB ‘3b’). For NHSN surveillance
+purposes,  an  imaging  finding  of  ‘free  fluid’  is  not  definitive  or  equivocal  for  an  NHSN
+infection  criterion.  ‘Free  fluid’  is  not  indicative  of  an  infectious  process  and  is
+considered  a  negative  imaging  finding.   However,  a  ‘fluid  collection’  imaging  finding
+could be indicative of infection (such as an abscess or early formation of an abscess)
+and therefore is considered an equivocal imaging finding and eligible to cite an NHSN
+site-specific  infection  if  clinical  correlation  is  also  present.   Clinical  correlation  is
+physician documentation of antimicrobial treatment for site-specific infection related to
+equivocal  findings  (not  clearly  identified)  of  infection  on  imaging  test.  Up  to  three
+pathogens  may  be  reported.  If  multiple  pathogens  are  identified,  enter  the  pathogen
+judged to be the most important cause of infection as #1, the next most as #2, and the
+least as #3 (usually this order is indicated on the laboratory report). If the species is not
+given  on  the  lab  report  or  is  not  found  on  the  NHSN  drop  down  list,  then  select  the
+genus  only.   (Report  all  site-specific  pathogens  before  secondary  BSI  pathogens).
+Additional pathogens recovered during the Repeat Infection Timeframe (RIT) from the
+same  type  of  infection  are  added  to  the  event.   Example:   Patient  admitted  1/1/23
+meeting criteria of Symptomatic Urinary Tract Infection (SUTI), urine culture = E. coli
+>100,000  CFU/ml.   On  1/12  another  urine  culture  shows  K.  pneumoniae  >100,000
+CFU/ml.  The assignment is SUTI – E. coli and K. pneumonia.  The exception to this is
+that excluded organisms for a specific type of infection cannot be added to that type of
+infection.  For example, Candida albicans cannot be added to a previously reported UTI,
+as Candida is an excluded pathogen for UTI.    We did not include in our definition a
+length of time for the patient to be considered ‘confirmed’; however, we focus strictly
+on  the  current  hospitalization  and  the  response  should  be  based  on  the  lab  test
+available within the current patient record. It is our hope that the data received over
+time will enable us to identify the risk of the COVID-19 condition on HAIs.      
+ Training 
+ Newsletters / Members Meeting Updates 
+ E-mail Updates 
+ Health Department HAI/AR Programs To receive email updates about this page, enter
+your email address:  Questions about NHSN?Contact us: nhsn@cdc.gov
+Source URL: https://www.cdc.gov/nhsn/faqs/faqs-miscellaneous.html

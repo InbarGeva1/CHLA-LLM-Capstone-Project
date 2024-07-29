@@ -1,0 +1,276 @@
+A .gov website belongs to an official government organization in the United States. A
+lock (  ) or https:// means you've safely connected to the .gov website. Share sensitive
+information only on official, secure websites. 
+Related Topics:
+ Current best practices for environmental cleaning procedures in patient care areas, as
+well as cleaning for specific situations (e.g., blood spills) and for noncritical patient care
+equipment. This chapter provides the current best practices for environmental cleaning
+procedures in patient care areas, as well as cleaning for specific situations (e.g., blood
+spills)  and  for  noncritical  patient  care  equipment;  see  summary  in  Appendix  B1  –
+Cleaning procedure summaries for general patient areas and Appendix B2 – Cleaning
+procedure summaries for specialized patient areas. The determination of environmental
+cleaning procedures for individual patient care areas, including frequency, method, and
+process, should be based on the risk of pathogen transmission. This risk is a function of
+the: These three elements combine to determine low, moderate, and high risk—more
+frequent  and  rigorous  (with  a  different  method  or  process)  environmental  cleaning  is
+required  in  areas  with  high  risk.  Risk  determines  cleaning  frequency,  method,  and
+process in routine and contingency cleaning schedules for all patient care areas. This
+risk-based  approach  is  outlined  in  Appendix  A  –  Risk-assessment  for  determining
+environmental  cleaning  method  and  frequency.  Probability  of  contamination:  Heavily
+contaminated  surfaces  and  items  require  more  frequent  and  thorough  environmental
+cleaning than moderately contaminated surfaces, which in turn require more frequent
+and  rigorous  environmental  cleaning  than  lightly  or  non-contaminated  surfaces  and
+items. Vulnerability of patients to infection: Surfaces and items in care areas containing
+vulnerable  patients  (e.g.,  immunosuppressed)  require  more  frequent  and  rigorous
+environmental cleaning than surfaces and items in areas with less vulnerable patients.
+Potential for exposure to pathogens: High-touch surfaces (e.g., bed rails) require more
+frequent  and  rigorous  environmental  cleaning  than  low-touch  surfaces  (e.g.,  walls).
+Every  facility  should  develop  cleaning  schedules,  including:  Checklists  and  other  job
+aids are also required to ensure that cleaning is thorough and effective. These aspects
+are  covered  in  more  detail  in  2.4.3  Cleaning  checklists,  logs,  and  job  aids.  For  all
+environmental  cleaning  procedures,  always  use  the  following  general  strategies:
+Proceed only after a visual preliminary site assessment to determine if: Proceed from
+cleaner to dirtier areas to avoid spreading dirt and microorganisms. Examples include:
+Proceed from high to low to prevent dirt and microorganisms from dripping or falling
+and contaminating already cleaned areas. Examples include: Proceed in a systematic
+manner to avoid missing areas—for example, left to right or clockwise (Figure 10). In a
+multi-bed area, clean each patient zone in the same manner—for example, starting at
+the  foot  of  the  bed  and  moving  clockwise.  Clean  spills  of  blood  or  body  fluids
+immediately, using the techniques in 4.5 Spills of blood or body fluids. The identification
+of high-touch surfaces and items in each patient care area is a necessary prerequisite
+to the development of cleaning procedures, as these will often differ by room, ward and
+facility. See Appendix C – Example of high-touch surfaces in a specialized patient area.
+Perform assessments and observations of workflow in consultation with clinical staff in
+each  patient  care  area  to  determine  key  high-touch  surfaces.  Include  identified
+high-touch surfaces and items in checklists and other job aids to facilitate completing
+cleaning procedures. See 2.4.3 Cleaning checklists, logs, and job aids. General patient
+areas  include:  Three  types  of  cleaning  are  required  for  these  areas:  Generally,  the
+probability of contamination or the vulnerability of the patients to infection is low, so
+these  areas  may  require  less  frequent  and  rigorous  (e.g.,  method,  process)  cleaning
+than  specialized  patient  areas.  General  outpatient  or  ambulatory  care  wards  include
+waiting areas, consultation areas, and minor procedural areas.   Footnote e:
+If  there  is  prolonged  time  between  procedures  or  local  conditions  that  create  risk  for
+dust  generation/dispersal,  re-wipe  surfaces  with  disinfectant  solution  immediately
+before the subsequent procedure.   Handwashing sinks, thoroughly clean (scrub) and
+disinfect  Sluice  areas/sinks  or  scrub  areas  Routine  cleaning  of  inpatient  areas  occurs
+while the patient is admitted, focuses on the patient zones and aims to remove organic
+material and reduce microbial contamination to provide a visually clean environment.
+Note:  This  occurs  when  the  room  is  occupied,  and  systems  should  be  established  to
+ensure  that  cleaning  staff  have  reasonable  access  to  perform  routine  cleaning.
+Handwashing sinks Terminal cleaning of inpatient areas, which occurs after the patient
+is discharged/transferred, includes the patient zone and the wider patient care area and
+aims  to  remove  organic  material  and  significantly  reduce  and  eliminate  microbial
+contamination to ensure that there is no transfer of microorganisms to the next patient.
+Terminal  cleaning  requires  collaboration  between  cleaning,  IPC,  and  clinical  staff  to
+delineate  responsibility  for  every  surface  and  item,  including  ensuring  that:  It  is
+important that the staff responsible for these tasks are identified in checklists and SOPs
+to  ensure  that  items  are  not  overlooked  because  of  confusion  in  responsibility.
+Scheduled cleaning occurs concurrently with routine or terminal cleaning and aims to
+reduce dust and soiling on low touch items or surfaces. Perform scheduled cleaning on
+items  or  surfaces  that  are  not  at  risk  for  soiling  under  normal  circumstances,  using
+neutral  detergent  and  water.  But  if  they  are  visibly  soiled  with  blood  or  body  fluids,
+clean  and  disinfect  these  items  as  soon  as  possible.  Walls,  baseboards  and  corners
+Toilets in patient care areas can be private (within a private patient room) or shared
+(among  patients  and  visitors).  They  have  high  patient  exposure  (i.e.,  high-touch
+surfaces)  and  are  frequently  contaminated.  Therefore,  they  pose  a  higher  risk  of
+pathogen transmission than in general patient areas. Toileting practices vary, in terms
+of both the types of toilets in use (e.g., squat or sit, wet or dry) and the adherence to
+correct use. Therefore, needs for cleaning and disinfection vary. In some cases, more
+than  twice  daily  cleaning  and  disinfection  may  be  warranted.  Depending  on  resource
+and  staffing  levels,  dedicated  cleaning  staff  posted  at  shared  toilets  in  healthcare
+facilities  could  reduce  risk  associated  with  these  areas.  Floors  generally  have  low
+patient  exposure  (i.e.,  are  low-touch  surfaces)  and  pose  a  low  risk  for  pathogen
+transmission. Therefore, under normal circumstances they should be cleaned daily, but
+the use of a disinfectant is not necessary. There are situations where there is higher
+risk  associated  with  floors  (e.g.,  high  probability  of  contamination),  so  review  the
+specific procedures in 4.2 General patient areas and 4.6 Specialized patient areas for
+guidance on frequency of environmental cleaning of floors and when they should also
+be  disinfected.  Regardless  of  the  risk-level  of  an  area,  spills  or  contamination  from
+blood or body fluid (e.g., vomitus), must be cleaned and disinfected immediately using
+a two-step process. Specialized patient areas include those wards or units that provide
+service to: This vulnerable population is more prone to infection and the probability of
+contamination  is  high,  making  these  areas  higher  risk  than  general  patient  areas.
+Unless otherwise indicated, environmental surfaces and floors in the following sections
+require  cleaning  and  disinfection  with  a  facility-approved  disinfectant  for  all  cleaning
+procedures  described.  Operating  rooms  are  highly  specialized  areas  with  a
+mechanically  controlled  atmosphere  where  surgical  procedures  are  performed.  These
+require environmental cleaning at three distinct intervals throughout the day: Because
+operating  rooms  are  highly  specialized  areas,  the  surgery  department  clinical  staff
+usually  manages  environmental  cleaning.  Operating  room  nurses  and  their  assistants
+sometimes  perform  cleaning  duties  along  with,  or  sometimes  instead  of,  general
+cleaning  staff.  Critical  and  semi-critical  equipment  in  the  operating  rooms  require
+specialized reprocessing procedures and are never the responsibility of environmental
+cleaning  staff.  The  processes  described  below  pertain  only  to  the  cleaning  and
+disinfection of environmental surfaces and the surfaces of noncritical equipment. Where
+multiple staff are involved, clearly defined and delineated cleaning responsibilities must
+be  in  place  for  cleaning  of  all  environmental  surfaces  and  noncritical  patient  care
+equipment  (stationary  and  portable).  The  use  of  checklists  and  SOPs  is  highly
+recommended. Wipe all horizontal surfaces in the room (e.g., furniture, surgical lights,
+operating  bed,  stationary  equipment)  with  a  disinfectant  to  remove  any  dust
+accumulated overnight. If there was no written confirmation or terminal cleaning on the
+previous  day,  do  a  full  terminal  clean  (see  Terminal  Clean  on  this  table).  Thoroughly
+clean  and  disinfect  portable  patient-care  equipment  that  is  not  stored  within  the
+operating room, such as suction regulators, anesthesia trolley, compressed gas tanks,
+x-ray  machines,  and  lead  gowns,  before  introduction  into  the  operating  room.  Clean
+and  disinfect:  Thoroughly  clean  and  disinfect  portable  patient-care  equipment  that  is
+not  stored  within  the  operating  room  before  removal  from  the  operating  room.
+Examples  include:  Have  dedicated  supplies  and  equipment  for  the  OR  (e.g.,  mops,
+buckets). Use fresh mops/floor cloths and mopping solutions for every cleaning session,
+including  between  procedures.  Use  fresh  cleaning  cloths  for  every  cleaning  session,
+regularly replacing them during cleaning and never double-dipping them into cleaning
+and  disinfectant  solutions.  Departments  or  areas  where  medication  is  prepared  (e.g.,
+pharmacy or in clinical areas) often service vulnerable patients in high-risk and critical
+care  areas,  in  addition  to  other  patient  populations.  The  staff  who  work  in  the
+medication  preparation  area  might  be  responsible  for  cleaning  and  disinfecting  it,
+instead  of  the  environmental  cleaning  staff.  Develop  detailed  SOPs  and  checklists  for
+each  facility  to  identify  roles  and  responsibilities  for  environmental  cleaning  in  these
+areas. Departments or areas where semi-critical and critical equipment is sterilized and
+stored  (i.e.,  sterile  services)  often  service  vulnerable  patients  in  high-risk  and  critical
+care areas, in addition to other patient populations. Staff who work in the SSD might be
+responsible  for  cleaning  and  disinfecting  it  instead  of  environmental  cleaning  staff.
+Alternatively, it is possible to train and assign a dedicated cleaning staff member to this
+area.  Develop  detailed  SOPs  and  checklists  for  each  facility  to  identify  roles  and
+responsibilities for environmental cleaning in these areas. SSDs have two distinct areas,
+the soiled area (also called dirty area or decontamination area) and the clean area. Find
+further  guidance  on  environmental  cleaning  in  SSDs  here:  Decontamination  and
+Reprocessing  of  Medical  Devices  for  Health-care  Facilities.  Intensive  care  units  (ICUs)
+are  high-risk  areas  due  to  the  severity  of  disease  and  vulnerability  of  the  patients  to
+develop infections. Frequency and process is the same for adult, pediatric, and neonatal
+units, but there are specific considerations for neonatal areas. See Process / Additional
+guidance  in  Table  16  below.    Clean  floors  with  neutral  detergent  and  water  If  a
+neonatal incubator is occupied, clean and disinfect only the outside; only clean (neutral
+detergent)  on  inside  Ensure  that  cleaning  schedules  details  responsible  staff  (e.g.,
+nursing or cleaning staff) for environmental cleaning of surfaces of noncritical patient
+care  equipment  Last  clean  of  the  day:  also  clean  low-touch  surfaces;  see  4.2.4
+Scheduled  cleaning    Change  filters  in  incubators  according  to  manufacturer’s
+instructions, when wet or if neonate was on contact precautions (during terminal clean)
+  Pay special attention to terminal cleaning of incubators Pay special attention to ensure
+reprocessing  of  noncritical  patient  care  equipment  Provide  dedicated  supplies  and
+equipment for the ICU (e.g., mops, buckets) that are not used anywhere else. Use fresh
+mops/floor cloths and mopping solutions for every cleaning session. Use fresh cleaning
+cloths for surfaces for every cleaning session (at least two per day), regularly replacing
+them during cleaning and never double-dipping into cleaning and disinfectant solutions.
+Emergency departments are moderate to high-risk areas because of the wide variability
+in  the  condition  of  patients  and  admissions,  which  can:  Because  emergency
+departments  are  specialized  and  high-throughput  areas,  clinical  staff  (e.g.,  nurses)
+might  play  an  active  role  in  performing  environmental  cleaning,  particularly  in
+examination and procedural areas. Develop detailed SOPs, including checklists for each
+facility to identify roles and responsibilities for environmental cleaning in these areas.
+End of the day: entire floor and low-touch surfaces *If there is prolonged time between
+procedures  or  local  conditions  that  create  risk  for  dust  generation/dispersal,  re-wipe
+surfaces  with  disinfectant  solution  immediately  before  the  subsequent  procedure.
+Handwashing sinks (thoroughly clean (scrub) and disinfect) Sluice areas/sinks or scrub
+areas Labor and delivery wards are routinely contaminated and patients are vulnerable
+to infection. Because labor and delivery wards are often high-throughput areas, clinical
+staff  (e.g.,  nurses)  might  play  an  active  role  in  performing  environmental  cleaning,
+particularly between procedures. Develop detailed SOPs, including checklists, for each
+facility to identify roles and responsibilities for environmental cleaning in these areas.
+Clean and disinfect: Clean and disinfect other high-touch surfaces (e.g., light switches,
+door handles) outside of the patient zone Clean (scrub) and disinfect handwashing sinks
+Clean and disinfect entire floor (move patient bed and other portable equipment) The
+areas  in  this  section  are  higher  risk  because  of:  Nursing  and  cleaning  staff  might  be
+responsible  for  cleaning  certain  areas/items  in  these  areas,  so  there  must  be  clearly
+defined  cleaning  responsibilities  for  all  surfaces  and  equipment  (stationary  and
+portable). Develop detailed SOPs, including checklists, for each facility to identify roles
+and  responsibilities  for  environmental  cleaning  in  these  areas.  Clean  and  disinfect:
+Clean and disinfect: Last clean of the day: clean and disinfect entire floor and low-touch
+surfaces Clean floors with neutral detergent and water Clean and disinfect: Clean and
+disinfect:  Isolation  or  cohorted  areas  with  suspected  or  confirmed  cases  of  infections
+requiring  transmission-based  precautions  are  considered  high-risk  areas,  particularly
+for: The three types of transmission-based precautions are: Transmission-specific PPE is
+required  for  all  cleaning  sessions  in  areas  under  transmission-based  precautions,
+according  to  facility  policy  or  Table  5  in  3.4  Cleaning  Supplies  and  Equipment.  PPE
+should always be put on and removed following the indications posted/recommended
+by  IPC.  A  full  list  of  pathogens/infections  requiring  these  precautions  are  included  in
+CDC's  Guideline  for  Isolation  Precautions.  Unit  manager  or  shift  leader  should
+coordinate  schedule  Take  care  to  keep  the  door  closed  during  the  cleaning  process
+(ventilation requirement) Unit manager or shift leader should coordinate schedule Take
+care to keep the door closed during the cleaning process (ventilation requirement) Any
+surface  (e.g.,  walls)  that  is  visibly  soiled  with  blood  or  body  fluids  See  Cleaning  for
+C. difficile (spore forming) Last clean of the day: clean and disinfect low-touch surfaces
+These organisms belong to a group of carbapenem-resistant, gram-negative bacteria of
+national and international concern because of their implication as an emerging cause of
+severe  healthcare-associated  infections.  In  2017,  the  World  Health  Organization
+published the first global guidelines for the prevention and control of CRE-CRAB-CRPsA
+in healthcare facilities, which include environmental cleaning and disinfection as a key
+recommendation.
+ This
+ implementation
+ guide
+ discusses
+ the
+ key
+ elements
+ of
+environmental  cleaning  needed  for  prevention  and  control  of  these  organisms:  WHO
+2019:
+ Implementation
+ manual
+ to
+ prevent
+ and
+ control
+ the
+ spread
+ of
+carbapenem-resistant organisms at the national and health care facility level [PDF – 98
+pages].  There  might  be  specific  cleaning  procedures  for  isolation  areas  of  highly
+infectious  pathogens.  Standalone  training  programs  and  strict  adherence  to  required
+PPE  is  essential  for  conducting  effective  environmental  cleaning  in  these  situations.
+Find more information on developing context-specific protocols: Portable or stationary
+noncritical  patient  care  equipment  incudes  IV  poles,  commode  chairs,  blood  pressure
+cuffs,  and  stethoscopes.  These  high-touch  items  are:  The  responsibility  for  cleaning
+noncritical patient care equipment might be divided between cleaning and clinical staff,
+so  it  is  best  practice  to  clearly  define  and  delineate  cleaning  responsibilities  for  all
+equipment (stationary and portable). Develop a cleaning chart or schedule outlining the
+method,  frequency,  and  staff  responsible  for  cleaning  every  piece  of  equipment  in
+patient care areas and take care to ensure that both cleaning and clinical staff (e.g.,
+nursing) are informed of these procedures so that items are not missed.   Clean and
+disinfect  heavily  soiled  items  (e.g.,  bedpans)  outside  of  the  patient  care  area  in
+dedicated  4.7.2  Sluice  rooms  Disinfect  bedpans  with  a  washer-disinfector  or  boiling
+water  instead  of  a  chemical  disinfection  process.    Clean  and  disinfect  heavily  soiled
+items (e.g., bedpans) outside of the patient care area in dedicated 4.7.2 Sluice rooms
+Disinfect  bedpans  with  a  washer-disinfector  or  boiling  water  instead  of  a  chemical
+disinfection process A list of compatible cleaning and disinfectant products should be
+included in manufacturer's instructions or provided by the manufacturer upon request.
+If  manufacturer  instructions  are  not  available,  here  are  the  applicable  material
+compatibility  considerations  and  best  practices  for  use  of  common  healthcare
+disinfectants: Each major patient care area should be equipped with a designated sluice
+room  to  reprocess  soiled  noncritical  patient  care  equipment  (e.g.,  commode  chairs,
+bedpans).  Alternatively,  there  may  be  central  depots  where  these  procedures  are
+performed. Sluice rooms should be as close as possible to the patient care areas that
+they serve and should have an organized workflow from soiled (dirty) to clean. Clean
+equipment should be covered or removed during cleaning process It is best practice to
+perform  routine,  standardized  assessments  of  environmental  cleaning  (i.e.,  practices,
+level  of  cleanliness)  in  order  to:  This  section  includes  an  overview  of  the  available
+methods,  as  well  as  their  advantages  and  disadvantages.  The  best  practices  for
+developing a system of routine monitoring, audit, and feedback within environmental
+cleaning  program  implementation  are  covered  in  2.5  Monitoring,  feedback,  and  audit
+elements. Easy to implement Benchmarking is possible Simple and inexpensive Allows
+immediate  and  direct  feedback  to  individual  staff  Encourages  cleaning  staff
+engagement  and  input  Identifies  gaps  for  staff  training/job  aid  improvements
+Labor-intensive  Results  affected  by  Hawthorne  bias  (i.e.,  more  of  an  assessment  of
+knowledge  than  actual  practice)  Does  not  assess  or  correlate  to  bioburden  Easy  to
+implement Benchmarking is possible Inexpensive Allows immediate and direct feedback
+to individual staff Subjective—based on individual determinations of dust/debris levels
+Does  not  assess  or  correlate  to  bioburden  Provides  immediate  feedback  on
+performance Minimal training required to perform Objective Benchmarking is possible
+Relatively  inexpensive  Labor-intensive  as  surfaces  should  be  marked  before  cleaning
+and checked after cleaning has been completed Some difficulties documented in terms
+of  removal  of  markers  from  porous  or  rough  surfaces  (e.g.,  canvas  straps)
+Time-intensive Need to vary frequency and objects to prevent monitoring system from
+becoming  known  Provides  immediate  feedback  Minimal  training  required  to  perform
+Objective Low sensitivity and specificity Lacks a standardized threshold or benchmark
+for determining the level or status of cleanliness (i.e., “safe” post-cleaning ATL levels)
+for specific surfaces or patient care areas Variable benchmarks Technology constantly
+changing Interference of cleaning products, supplies and in some cases surfaces, which
+can  both  reduce  or  enhanced  ATP  levels  (e.g.,  bleach,  microfiber,  stainless  steel)
+Provides direct indication of presence of specific pathogens (direct swab cultures) May
+be useful for identifying source of outbreaks and/or environmental reservoirs Objective
+Expensive Prolonged time for results (>48hrs) Requires access to laboratory resources
+and trained personnel for interpreting results Lack of defined threshold or benchmark
+for determining the level or status of cleanliness (e.g., colony-forming units per surface
+area)  HAIs  are  associated  with  medical  devices,  complications  following  surgery,
+transmission  between  patients  and  healthcare  workers,  antibiotic  overuse,  and  more.
+Languages Language Assistance Languages  Language Assistance 
+Source URL: https://www.cdc.gov/healthcare-associated-infections/hcp/cleaning-global/procedures.html

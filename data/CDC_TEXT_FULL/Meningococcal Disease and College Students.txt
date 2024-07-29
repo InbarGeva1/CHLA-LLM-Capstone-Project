@@ -1,0 +1,2152 @@
+Persons using assistive technology might not be able to fully access information in this
+file. For assistance, please send e-mail to: mmwrq@cdc.gov. Type 508 Accommodation
+and the title of the report in the subject line of e-mail.  This report provides information
+regarding the modestly increased risk
+for meningococcal disease among college freshmen, particularly those who live
+in dormitories or residence halls. It presents recommendations developed by
+the Advisory Committee on Immunization Practices regarding the education
+of students and parents about meningococcal disease and the
+polysaccharide meningococcal vaccine so that they can make informed decisions
+regarding vaccination.
+INTRODUCTION
+Neisseria meningitidis causes both sporadic disease and outbreaks. As a result
+of the control of Haemophilus influenzae type b infections,
+N.  meningitidis  has  become  the  leading  cause  of  bacterial  meningitis  in  children  and
+young adults in the
+United States (1).  Outbreaks of meningococcal disease were rare in the United States
+in
+the 1980s; however, since 1991, the frequency of localized outbreaks has increased
+(2).  From July 1994 through July 1997, 42 meningococcal outbreaks were reported, four
+of which occurred at colleges (3).  However, outbreaks continue to represent <3% of
+total U.S. cases (3).
+Rates of meningococcal disease remain highest for infants, but in the past
+decade, rates have increased among adolescents and young adults
+(4).  During 1994--1998, approximately two thirds of cases among persons aged 18--23
+years were caused
+by serogroups C, Y, or W135 and therefore were potentially preventable with
+available vaccines (5) (CDC, unpublished data) (Figure 1).  Although the quadrivalent
+meningococcal polysaccharide vaccine is safe and efficacious
+(5,6), decisions about who to target for vaccination require understanding of the groups
+at risk, the burden of
+disease, and the potential benefits of vaccination.
+New data are available regarding the risk for meningococcal disease in college
+students.  This report reviews these data and provides medical professionals with
+guidelines concerning meningococcal disease and college students.
+BACKGROUND
+Meningococcal Disease in the Military
+Military recruits and college freshmen have several common characteristics
+(e.g., age, diverse geographic backgrounds, and crowded living conditions). Therefore,
+data obtained from recruits have been used to evaluate meningococcal disease and
+vaccine among college freshmen.
+Before 1971, rates of meningococcal disease were elevated among U.S.
+military recruits. Outbreaks frequently followed large-scale mobilizations, and recruits in
+their initial training camps were at substantially greater risk for disease than were
+regular troops (7).  Military recruits enter military service for the first time at a few large
+U.S. military recruit training centers.  After 8--12 weeks of initial training, they disperse
+to perform their military service at many different locations.  During mobilization for
+the Vietnam conflict, outbreaks of meningococcal disease at training camps involving
+substantial numbers of recruits were caused by sulfadiazine-resistant strains of
+N. meningitidis.  During 1964--1970, the rate of hospitalizations resulting from
+meningococcal disease among all active duty service members was 25.2 per 100,000
+person- years (LTC Frederick Erdtmann, MD, MPH, Office of the Surgeon General, U.S.
+Army, briefing, 1981).  These circumstances led to development of meningococcal
+polysaccharide vaccines (8). Field trials of group C polysaccharide vaccine among U.S.
+Army recruits demonstrated an 89.5% reduction in the rate of serogroup C
+meningococcal disease among vaccinated versus nonvaccinated recruits
+(9,10); thus, beginning in October 1971, all new recruits were vaccinated with the group
+C vaccine
+(11),  and  by  Fall  1982,  all  recruits  were  receiving  the  quadrivalent  polysaccharide
+vaccine
+(7).  However, rates of meningococcal disease in U.S. Army personnel declined before
+the
+1971 vaccination campaigns (7), suggesting that smaller recruit populations at training
+installations and the natural periodicity of outbreaks may have contributed to the
+decline in disease.
+Rates of meningococcal disease remain low in the military, and large outbreaks
+no longer occur.  Since 1990, records of all hospitalizations of active duty service
+members in military hospitals worldwide have been integrated with military personnel
+records
+in the Defense Medical Surveillance System (DMSS).  During 1990--1998, the overall
+rate of hospitalizations from meningococcal disease among enlisted, active-duty
+service
+members was 0.51 per 100,000 person-years (J. Brundage, DMSS Army Medical
+Surveillance Activity, personal communication).
+Approximately 180,000 military recruits receive a single dose of
+quadrivalent  polysaccharide  meningococcal  vaccine  annually.  Revaccination  is  only
+indicated
+when military personnel are traveling to countries in which
+N. meningitidis is hyperendemic or epidemic (D. Trump, personal communication).
+Before 1999, students reporting to two of the U.S. military academies routinely
+received meningococcal vaccine. Last year, the other academies initiated
+meningococcal vaccine programs.
+MENINGOCOCCAL DISEASE AND COLLEGE STUDENTS
+Four recent studies provide data concerning the risk for sporadic
+meningococcal disease among college students (Table 1)
+(12--15).  The  earliest  of  these  studies  was  conducted  during  the  1990--1991  and
+1991--1992 school years. A questionnaire
+designed to evaluate risk factors for meningococcal disease among college students
+was sent to 1,900 universities, resulting in a  38% response rate
+(12).   Forty-three  cases  of  meningococcal  disease  were  reported  during  the  2  years
+from colleges with a
+total enrollment of 4,393,744 students, for a low overall incidence of 1.0 per 100,000
+population per year. However, cases of meningococcal disease occurred 9--23 times
+more frequently in students residing in dormitories than in those residing in other types
+of accommodations.  The low response rate and the inability of the study to control
+for
+other risk factors (e.g., freshman status) make these results difficult to interpret.
+In a retrospective, cohort study conducted in Maryland for the period 1992--1997,
+67 cases of meningococcal disease among persons aged 1630 years were identified
+by active, laboratory-based surveillance
+(13). Of those cases, 14 were among
+students  attending  Maryland  colleges,  and  11  were  among  those  in  4-year  colleges.  
+The
+overall incidence of meningococcal disease in Maryland college students was similar to
+the incidence in the U.S. population of persons the same age (1.74/100,000 vs.
+1.44/100,000, respectively); however, rates of disease were elevated among students
+living in
+dormitories  compared  with  students  living  off-campus  (3.2/100,000  vs.  0.96/100,000,
+p=0.05).
+U.S. surveillance for meningococcal disease in college students was initiated in
+1998; from September 1998 through August 1999, 90 cases of meningococcal disease
+were reported to CDC (14).  These cases represent approximately 3% of the total cases
+of meningococcal disease that occur each year in the United States.  Eighty-seven
+(97%)  cases  occurred  in  undergraduate  students,  and  40  (44%)  occurred  among  the
+2.27
+million freshman students entering college each year
+(16).  Among undergraduates, of the 71 (82%) isolates for which serogroup information
+was available, 35 (49%)
+were serogroup C, 17 (24%) were serogroup B, 15 (21%) were serogroup Y, and one
+(1%)
+was serogroup W-135.  Eight (9%) students died.  Of the five students who died for
+whom serogroup information was available, four had serogroup C isolates and one
+had serogroup Y.
+U.S. surveillance data from the 1998--1999 school year suggest that the overall
+rate of meningococcal disease among undergraduate college students is lower than
+the  rate  among  persons  aged  18--23  years  who  are  not  enrolled  in  college  (Table  2)
+(0.7
+vs. 1.5/100,000, respectively) (14,16).  However, rates were higher among specific
+subgroups of college students. Among the approximately 590,000 freshmen who live
+in dormitories (17), the rate of meningococcal disease was 4.6/100,000, higher than
+any age group in the population other than children aged <2 years, but lower than
+the threshold of 10/100,000 recommended for initiating meningococcal vaccination
+cam
+paigns (6).
+Of 90 students who had meningococcal disease attending college during the
+1998-1999 school year, 50 were enrolled in a case-control study and matched to 148
+controls by school, sex, and undergraduate vs. graduate status
+(14).  In a multivariable analysis, freshmen living in dormitories were at higher risk for
+meningococcal disease.  In
+addition, white race, radiator heat, and recent upper respiratory infection were
+associated with disease.
+In contrast to the United States, overall rates of meningococcal disease in the
+United Kingdom are higher among university students compared with non-students of
+similar age (15).  From September 1994 through March 1997, university students had
+an
+increased annual rate of meningococcal disease (13.2/100,000) compared with
+non-students  of  similar  age  in  the  same  health  districts  (5.5/100,000)  and  in  those
+health
+districts without universities (3.7/100,000).  As in the United States, regression
+analysis  revealed  that  "catered  hall  accommodations,"  the  U.K.  equivalent  of
+dormitories,
+were the main risk factor.  Higher rates of disease were observed at universities
+providing catered hall accommodations for >10% of their student population compared
+with
+those  providing  such  housing  for  <10%  of  students  (15.3/100,000  vs.  5.9/100,000).  
+The
+increased rate of disease among university students has prompted the United
+Kingdom to initiate routine vaccination of incoming university students with a bivalent
+A/C polysaccharide vaccine as part of a new vaccination program (see
+MMWR  2000;  Vol.49,  No.  RR-6  which  can  be  referenced  in  the  pages  preceding  this
+report)
+(18).
+MENINGOCOCCAL VACCINE AND COLLEGE STUDENTS
+On September 30, 1997, the American College Health Association (ACHA),
+which represents about half of colleges that have student health services, released a
+statement recommending that "college health services [take] a more proactive role in
+alerting students and their parents about the dangers of meningococcal disease," that
+"college students consider vaccination against potentially fatal meningococcal
+disease," and that "colleges and universities ensure all students have access to a
+vaccination  program  for  those  who  want  to  be  vaccinated"  (Dr.  MarJeanne  Collins,
+Chairman,
+ACHA Vaccine Preventable Diseases Task Force, personal communication).  Parent and
+college student advocates have also encouraged more widespread use of
+meningococcal vaccine in college students.  In a joint study by ACHA and CDC, surveys
+were sent
+to 1,200 ACHA-member schools; of 691 responding schools, 57 (8%) reported that
+pre-exposure meningococcal vaccination campaigns had been conducted on their
+campus  since  September  1997.  A  median  of  32  students  were  vaccinated  at  each
+school
+(range: 1--2,300) (J. Capparella, unpublished data).  During the 1998--1999 school year,
+3%--5% of 148 students enrolled in a case-control study reported receiving prophylactic
+meningococcal vaccination (14).  Before the 1999 fall semester, many schools mailed
+information packets to incoming freshmen; data are not yet available regarding the
+proportion of students who have been vaccinated.
+Cost-effectiveness of meningococcal vaccine in
+college students
+From a societal perspective, the economic costs and benefits of vaccinating a)
+a cohort of 591,587 freshmen who live in dormitories and b) all freshman enrolled in
+U.S.
+colleges, regardless of housing status (n=2.4 million) were evaluated, assuming
+the benefits of vaccination would last 4 years (Scott et al, unpublished data).  Best
+and worst case scenarios were evaluated by varying cost of vaccine and
+administration (range: $54--$88), costs per hospitalization ($10,924--$24,030), value of
+premature
+death based on lifetime productivity ($1.3--$4.8 million), cost of side effects of vaccine
+per case ($3,500--$12,270 per one million doses), and average cost of treating a case
+of sequelae ($0--$1,476). Vaccination coverage (60% and 100%) and vaccine efficacy
+(80% and 90%) were also varied for evaluation purposes.
+Vaccination of freshmen who live in dormitories would result in the
+administration  of  approximately  300,00--500,000  doses  of  vaccine  each  year,
+preventing 15--30
+cases of meningococcal disease and one to three deaths each year.  The cost per case
+prevented would be $600,000--$1.8 million, at a cost per death prevented of $7 million
+to $20 million.
+Vaccination of all freshman would result in the administration of approximately
+1.4--2.3 million doses of vaccine each year, preventing 37--69 cases of meningococcal
+disease and two to four deaths caused by meningococcal disease each year.  The cost
+per case prevented would be $1.4--2.9 million, at a cost per death prevented of $22
+million to $48 million.
+These data are similar to data derived from previous studies
+(19).  They  suggest  that  for  society  as  a  whole,  vaccination  of  college  students  is
+unlikely to be
+cost-effective (Scott et al, unpublished data).
+RECOMMENDATIONS  FOR  USE  OF  MENINGOCOCCAL  POLYSACCHARIDE  VACCINE  IN
+COLLEGE STUDENTS
+College freshmen, particularly those who live in dormitories, are at modestly
+increased risk for meningococcal disease relative to other persons their age.
+Vaccination  with  the  currently  available  quadrivalent  meningococcal  polysaccharide
+vaccine
+will decrease the risk for meningococcal disease among such persons. Vaccination
+does not eliminate risk because a) the vaccine confers no protection against serogroup
+B disease and b) although the vaccine is highly effective against serogroups C, Y,
+W-135, and A, efficacy is <100%.
+The risk for meningococcal disease among college students is low; therefore,
+vaccination  of  all  college  students,  all  freshmen,  or  only  freshmen  who  live  in
+dormitories
+or residence halls is not likely to be cost-effective for society as a whole. Thus, ACIP
+is issuing the following recommendations regarding the use of meningococcal
+polysaccharide vaccines for college students.
+ Providers of medical care to incoming and current college freshmen,
+particularly those who plan to or already live in dormitories and residence halls,
+should, during routine medical care, inform these students and their parents
+about meningococcal disease and the benefits of vaccination. ACIP does
+not recommend that the level of increased risk among freshmen warrants
+any specific changes in living situations for freshmen.
+ College freshmen who want to reduce their risk for meningococcal disease
+should either be administered vaccine (by a doctor's office or student health service)
+or directed to a site where vaccine is available.
+ The risk for meningococcal disease among non-freshmen college students is
+similar to that for the general population. However, the vaccine is safe and
+efficacious and therefore can be provided to non-freshmen undergraduates who want
+to reduce their risk for meningococcal disease.
+ Colleges should inform incoming and/or current freshmen, particularly those
+who plan to live or already live in dormitories or residence halls, about
+meningococcal disease and the availability of a safe and effective vaccine.
+ Public health agencies should provide colleges and health-care providers
+with information about meningococcal disease and the vaccine as well as
+information regarding how to obtain vaccine.
+Additional Considerations about Vaccination of
+College Students
+Although the need for revaccination of older children has not been
+determined, antibody levels decline rapidly over 2--3 years
+(6).   Revaccination  may  be  considered  for  freshmen  who  were  vaccinated  more  than
+3--5 years earlier
+(5).  Routine revaccination of college students who were vaccinated as freshmen is not
+indicated.
+College students who are at higher risk for meningococcal disease because of
+a) underlying immune deficiencies or b) travel to countries in which
+N.  meningitidis  is  hyperendemic  or  epidemic  (i.e.,  the  meningitis  belt  of  sub-Saharan
+Africa) should
+be vaccinated (6).  College students who are employed as research, industrial, and
+clinical laboratory personnel who are routinely exposed to
+N.  meningitidis  in  solutions  that  may  be  aerosolized  should  be  considered  for
+vaccination
+(6).
+No data are available regarding whether other closed civilian populations with
+characteristics similar to college freshman living in dormitories (e.g., preparatory
+school students) are at the same increased risk for disease. Prevention efforts should
+focus
+on groups in whom higher risk has been documented.
+CONCLUSIONS
+College freshmen, especially those who live in dormitories, are at a modestly
+increased risk for meningococcal disease compared with other persons of the same
+age, and vaccination with the currently available quadrivalent meningococcal
+polysaccharide vaccine will decrease their risk for meningococcal disease.  Continued
+surveillance is necessary to evaluate the impact of these recommendations, which have
+already prompted many universities and clinicians to offer vaccine to college freshmen.
+Consultation on the use of these recommendations or other issues regarding
+meningococcal disease is available from the Meningitis and Special Pathogens Branch,
+Division of Bacterial and Mycotic Diseases, National Center for Infectious Diseases,
+CDC (telephone: [404] 639-3158).
+Acknowledgement
+The  following  persons  are  acknowledged  for  their  contributions  to  the  economics
+section
+of this report: Martin I. Meltzer, Ph.D. and R. Douglas Scott, II, Ph.D.
+References
+ Schuchat A, Robinson K, Wenger JD, et al. Bacterial meningitis in the United States in
+1995.
+ N Engl J Med 1997;337:970--6.
+ Jackson LA, Schuchat A, Reeves MW, Wenger JD. Serogroup C meningococcal outbreaks
+in the United States: an emerging threat.  JAMA 1995;273:383--9.
+ Woods CR, Rosenstein N, Perkins BA.
+Neisseria meningitidis outbreaks in the United
+States,  1994--97.   Abstracts  of  the  38th  Annual  Meeting  of  the  Infectious  Diseases
+Society of
+America. Denver, Colorado, November 12--15, 1998.
+ Rosenstein NE, Perkins BA, Stephens DS, et al. The changing epidemiology of
+meningococcal
+ disease
+ in
+ the
+ United
+ States,
+ 1992--1996.
+ 
+ J
+ Infect
+ Dis
+1999;180:1894--901.
+ CDC. Control and prevention of meningococcal disease and Meningococcal disease
+and college students: recommendations of the Advisory Committee on Immunization
+Practices (ACIP).  MMWR 2000;49(No. RR-7):1--22.
+ CDC. Control and prevention of meningococcal disease and Control and prevention
+of serogroup C meningococcal disease:  evaluation and management of suspected
+outbreaks---  recommendations of the Advisory Committee on Immunization Practices
+(ACIP).
+MMWR 1997;46(No. RR-5):1--21.
+ Brundage JF, Zollinger WD. Evolution of meningococcal disease epidemiology in the
+U.S. Army. In: Vedros NA, ed. Evolution of meningococccal disease. Vol. 1. Boca Raton:
+CRC Press, Inc., 1987:5--23.
+ Hankins WA, Gwaltney JM, Jr., Hendley JO, Farquhar JD, Samuelson JS. Clinical
+and serological evaluation of a meningococcal polysaccharide vaccine: groups A, C, Y,
+and W135.
+ Proc Soc Exp Biol Med 1982;169:54--7.
+ Artenstein MS, Gold R, Zimmerly JG, Wyle FA, Schneider H, Harkins C. Prevention
+of  meningococcal  disease  by  group  C  polysaccharide  vaccine.   N  Engl  J  Med
+1970;282:417--20.
+ Gold R, Artenstein MS. Meningococcal infections. 2. Field trial of group C
+meningococcal  polysaccharide  vaccine  in  1969--70.   Bull  World  Health  Organ
+1971;45:279--82.
+ Artenstein  MS,  Winter  PE,  Gold  R,  Smith  CD.  Immunoprophylaxis  of  meningococcal
+infection.
+ Military Medicine 1974;139:91--5.
+ Froeschle J. Meningococcal disease in college students.  Clin Infect Dis 1999;29:215--6.
+ Harrison LH, Dwyer DM, Maples CT, Billmann L. Risk of meningococcal infection in
+college students.  JAMA 1999;281:1906--10.
+ Bruce M, Rosenstein NE, Capparella J, Perkins BA, Collins MJ. Meningococcal disease
+in  college  students.   Abstracts  of  the  39th  Annual  Meeting  of  the  Infectious  Diseases
+Society
+of America. Philadelphia, PA, November 18--21, 1999:63.
+ Neal KR, Nguyen-Van-Tam J, Monk P, O'Brien SJ, Stuart J, Ramsay M. Invasive
+meningococcal disease among university undergraduates:  association with universities
+providing
+relatively
+ large
+ amounts
+ of
+ catered
+ hall
+ accomodations.
+ 
+ Epidemiol
+ Infect
+1999;122:351--7.
+ U.S. Department of Education. National Center for Education Statistics. Digest of
+education statistics, 1998. Washington, DC: NCES 1999-036, 1-545.
+ CDC. Youth risk behavior surveillance:  National College Health Risk Behavior
+Survey---United States, 1995. MMWR 1997;46(No. SS-6):1--54.
+ Public Health Laboratory Service. Vaccination programme for group C meningococcal
+infection is launched.  CDR Weekly 1999;9:261--4.
+ Jackson LA, Schuchat A, Gorsky RD, Wenger JD. Should college students be
+vaccinated against meningococcal disease: a cost-benefit analysis.  Am J Public Health
+1995;85:843--5.
+Table 1Return to top.
+Figure 1Return to top.
+Table 2Return to top.
+Disclaimer
+  
+All MMWR HTML versions of articles are electronic conversions from ASCII text
+into HTML.  This conversion may have resulted in character translation or format errors
+in the HTML version.
+Users  should  not  rely  on  this  HTML  document,  but  are  referred  to  the  electronic  PDF
+version and/or
+the original MMWR paper copy for the official text, figures, and tables.
+An  original  paper  copy  of  this  issue  can  be  obtained  from  the  Superintendent  of
+Documents,
+U.S. Government Printing Office (GPO), Washington, DC 20402-9371; telephone: (202)
+512-1800.
+Contact GPO for current prices.
+**Questions or messages regarding errors in formatting should be addressed to
+mmwrq@cdc.gov. 
+Page converted: 6/27/2000
+ Neisseria meningitidis causes both sporadic disease and outbreaks. As a result
+of the control of Haemophilus influenzae type b infections,
+N.  meningitidis  has  become  the  leading  cause  of  bacterial  meningitis  in  children  and
+young adults in the
+United States (1).  Outbreaks of meningococcal disease were rare in the United States
+in
+the 1980s; however, since 1991, the frequency of localized outbreaks has increased
+(2).  From July 1994 through July 1997, 42 meningococcal outbreaks were reported, four
+of which occurred at colleges (3).  However, outbreaks continue to represent <3% of
+total U.S. cases (3).
+ Rates of meningococcal disease remain highest for infants, but in the past
+decade, rates have increased among adolescents and young adults
+(4).  During 1994--1998, approximately two thirds of cases among persons aged 18--23
+years were caused
+by serogroups C, Y, or W135 and therefore were potentially preventable with
+available vaccines (5) (CDC, unpublished data) (Figure 1).  Although the quadrivalent
+meningococcal polysaccharide vaccine is safe and efficacious
+(5,6), decisions about who to target for vaccination require understanding of the groups
+at risk, the burden of
+disease, and the potential benefits of vaccination.
+ New data are available regarding the risk for meningococcal disease in college
+students.  This report reviews these data and provides medical professionals with
+guidelines concerning meningococcal disease and college students.
+BACKGROUND
+Meningococcal Disease in the Military
+Military recruits and college freshmen have several common characteristics
+(e.g., age, diverse geographic backgrounds, and crowded living conditions). Therefore,
+data obtained from recruits have been used to evaluate meningococcal disease and
+vaccine among college freshmen.
+Before 1971, rates of meningococcal disease were elevated among U.S.
+military recruits. Outbreaks frequently followed large-scale mobilizations, and recruits in
+their initial training camps were at substantially greater risk for disease than were
+regular troops (7).  Military recruits enter military service for the first time at a few large
+U.S. military recruit training centers.  After 8--12 weeks of initial training, they disperse
+to perform their military service at many different locations.  During mobilization for
+the Vietnam conflict, outbreaks of meningococcal disease at training camps involving
+substantial numbers of recruits were caused by sulfadiazine-resistant strains of
+N. meningitidis.  During 1964--1970, the rate of hospitalizations resulting from
+meningococcal disease among all active duty service members was 25.2 per 100,000
+person- years (LTC Frederick Erdtmann, MD, MPH, Office of the Surgeon General, U.S.
+Army, briefing, 1981).  These circumstances led to development of meningococcal
+polysaccharide vaccines (8). Field trials of group C polysaccharide vaccine among U.S.
+Army recruits demonstrated an 89.5% reduction in the rate of serogroup C
+meningococcal disease among vaccinated versus nonvaccinated recruits
+(9,10); thus, beginning in October 1971, all new recruits were vaccinated with the group
+C vaccine
+(11),  and  by  Fall  1982,  all  recruits  were  receiving  the  quadrivalent  polysaccharide
+vaccine
+(7).  However, rates of meningococcal disease in U.S. Army personnel declined before
+the
+1971 vaccination campaigns (7), suggesting that smaller recruit populations at training
+installations and the natural periodicity of outbreaks may have contributed to the
+decline in disease.
+Rates of meningococcal disease remain low in the military, and large outbreaks
+no longer occur.  Since 1990, records of all hospitalizations of active duty service
+members in military hospitals worldwide have been integrated with military personnel
+records
+in the Defense Medical Surveillance System (DMSS).  During 1990--1998, the overall
+rate of hospitalizations from meningococcal disease among enlisted, active-duty
+service
+members was 0.51 per 100,000 person-years (J. Brundage, DMSS Army Medical
+Surveillance Activity, personal communication).
+Approximately 180,000 military recruits receive a single dose of
+quadrivalent  polysaccharide  meningococcal  vaccine  annually.  Revaccination  is  only
+indicated
+when military personnel are traveling to countries in which
+N. meningitidis is hyperendemic or epidemic (D. Trump, personal communication).
+Before 1999, students reporting to two of the U.S. military academies routinely
+received meningococcal vaccine. Last year, the other academies initiated
+meningococcal vaccine programs.
+MENINGOCOCCAL DISEASE AND COLLEGE STUDENTS
+Four recent studies provide data concerning the risk for sporadic
+meningococcal disease among college students (Table 1)
+(12--15).  The  earliest  of  these  studies  was  conducted  during  the  1990--1991  and
+1991--1992 school years. A questionnaire
+designed to evaluate risk factors for meningococcal disease among college students
+was sent to 1,900 universities, resulting in a  38% response rate
+(12).   Forty-three  cases  of  meningococcal  disease  were  reported  during  the  2  years
+from colleges with a
+total enrollment of 4,393,744 students, for a low overall incidence of 1.0 per 100,000
+population per year. However, cases of meningococcal disease occurred 9--23 times
+more frequently in students residing in dormitories than in those residing in other types
+of accommodations.  The low response rate and the inability of the study to control
+for
+other risk factors (e.g., freshman status) make these results difficult to interpret.
+In a retrospective, cohort study conducted in Maryland for the period 1992--1997,
+67 cases of meningococcal disease among persons aged 1630 years were identified
+by active, laboratory-based surveillance
+(13). Of those cases, 14 were among
+students  attending  Maryland  colleges,  and  11  were  among  those  in  4-year  colleges.  
+The
+overall incidence of meningococcal disease in Maryland college students was similar to
+the incidence in the U.S. population of persons the same age (1.74/100,000 vs.
+1.44/100,000, respectively); however, rates of disease were elevated among students
+living in
+dormitories  compared  with  students  living  off-campus  (3.2/100,000  vs.  0.96/100,000,
+p=0.05).
+U.S. surveillance for meningococcal disease in college students was initiated in
+1998; from September 1998 through August 1999, 90 cases of meningococcal disease
+were reported to CDC (14).  These cases represent approximately 3% of the total cases
+of meningococcal disease that occur each year in the United States.  Eighty-seven
+(97%)  cases  occurred  in  undergraduate  students,  and  40  (44%)  occurred  among  the
+2.27
+million freshman students entering college each year
+(16).  Among undergraduates, of the 71 (82%) isolates for which serogroup information
+was available, 35 (49%)
+were serogroup C, 17 (24%) were serogroup B, 15 (21%) were serogroup Y, and one
+(1%)
+was serogroup W-135.  Eight (9%) students died.  Of the five students who died for
+whom serogroup information was available, four had serogroup C isolates and one
+had serogroup Y.
+U.S. surveillance data from the 1998--1999 school year suggest that the overall
+rate of meningococcal disease among undergraduate college students is lower than
+the  rate  among  persons  aged  18--23  years  who  are  not  enrolled  in  college  (Table  2)
+(0.7
+vs. 1.5/100,000, respectively) (14,16).  However, rates were higher among specific
+subgroups of college students. Among the approximately 590,000 freshmen who live
+in dormitories (17), the rate of meningococcal disease was 4.6/100,000, higher than
+any age group in the population other than children aged <2 years, but lower than
+the threshold of 10/100,000 recommended for initiating meningococcal vaccination
+cam
+paigns (6).
+Of 90 students who had meningococcal disease attending college during the
+1998-1999 school year, 50 were enrolled in a case-control study and matched to 148
+controls by school, sex, and undergraduate vs. graduate status
+(14).  In a multivariable analysis, freshmen living in dormitories were at higher risk for
+meningococcal disease.  In
+addition, white race, radiator heat, and recent upper respiratory infection were
+associated with disease.
+In contrast to the United States, overall rates of meningococcal disease in the
+United Kingdom are higher among university students compared with non-students of
+similar age (15).  From September 1994 through March 1997, university students had
+an
+increased annual rate of meningococcal disease (13.2/100,000) compared with
+non-students  of  similar  age  in  the  same  health  districts  (5.5/100,000)  and  in  those
+health
+districts without universities (3.7/100,000).  As in the United States, regression
+analysis  revealed  that  "catered  hall  accommodations,"  the  U.K.  equivalent  of
+dormitories,
+were the main risk factor.  Higher rates of disease were observed at universities
+providing catered hall accommodations for >10% of their student population compared
+with
+those  providing  such  housing  for  <10%  of  students  (15.3/100,000  vs.  5.9/100,000).  
+The
+increased rate of disease among university students has prompted the United
+Kingdom to initiate routine vaccination of incoming university students with a bivalent
+A/C polysaccharide vaccine as part of a new vaccination program (see
+MMWR  2000;  Vol.49,  No.  RR-6  which  can  be  referenced  in  the  pages  preceding  this
+report)
+(18).
+MENINGOCOCCAL VACCINE AND COLLEGE STUDENTS
+On September 30, 1997, the American College Health Association (ACHA),
+which represents about half of colleges that have student health services, released a
+statement recommending that "college health services [take] a more proactive role in
+alerting students and their parents about the dangers of meningococcal disease," that
+"college students consider vaccination against potentially fatal meningococcal
+disease," and that "colleges and universities ensure all students have access to a
+vaccination  program  for  those  who  want  to  be  vaccinated"  (Dr.  MarJeanne  Collins,
+Chairman,
+ACHA Vaccine Preventable Diseases Task Force, personal communication).  Parent and
+college student advocates have also encouraged more widespread use of
+meningococcal vaccine in college students.  In a joint study by ACHA and CDC, surveys
+were sent
+to 1,200 ACHA-member schools; of 691 responding schools, 57 (8%) reported that
+pre-exposure meningococcal vaccination campaigns had been conducted on their
+campus  since  September  1997.  A  median  of  32  students  were  vaccinated  at  each
+school
+(range: 1--2,300) (J. Capparella, unpublished data).  During the 1998--1999 school year,
+3%--5% of 148 students enrolled in a case-control study reported receiving prophylactic
+meningococcal vaccination (14).  Before the 1999 fall semester, many schools mailed
+information packets to incoming freshmen; data are not yet available regarding the
+proportion of students who have been vaccinated.
+Cost-effectiveness of meningococcal vaccine in
+college students
+From a societal perspective, the economic costs and benefits of vaccinating a)
+a cohort of 591,587 freshmen who live in dormitories and b) all freshman enrolled in
+U.S.
+colleges, regardless of housing status (n=2.4 million) were evaluated, assuming
+the benefits of vaccination would last 4 years (Scott et al, unpublished data).  Best
+and worst case scenarios were evaluated by varying cost of vaccine and
+administration (range: $54--$88), costs per hospitalization ($10,924--$24,030), value of
+premature
+death based on lifetime productivity ($1.3--$4.8 million), cost of side effects of vaccine
+per case ($3,500--$12,270 per one million doses), and average cost of treating a case
+of sequelae ($0--$1,476). Vaccination coverage (60% and 100%) and vaccine efficacy
+(80% and 90%) were also varied for evaluation purposes.
+Vaccination of freshmen who live in dormitories would result in the
+administration  of  approximately  300,00--500,000  doses  of  vaccine  each  year,
+preventing 15--30
+cases of meningococcal disease and one to three deaths each year.  The cost per case
+prevented would be $600,000--$1.8 million, at a cost per death prevented of $7 million
+to $20 million.
+Vaccination of all freshman would result in the administration of approximately
+1.4--2.3 million doses of vaccine each year, preventing 37--69 cases of meningococcal
+disease and two to four deaths caused by meningococcal disease each year.  The cost
+per case prevented would be $1.4--2.9 million, at a cost per death prevented of $22
+million to $48 million.
+These data are similar to data derived from previous studies
+(19).  They  suggest  that  for  society  as  a  whole,  vaccination  of  college  students  is
+unlikely to be
+cost-effective (Scott et al, unpublished data).
+RECOMMENDATIONS  FOR  USE  OF  MENINGOCOCCAL  POLYSACCHARIDE  VACCINE  IN
+COLLEGE STUDENTS
+College freshmen, particularly those who live in dormitories, are at modestly
+increased risk for meningococcal disease relative to other persons their age.
+Vaccination  with  the  currently  available  quadrivalent  meningococcal  polysaccharide
+vaccine
+will decrease the risk for meningococcal disease among such persons. Vaccination
+does not eliminate risk because a) the vaccine confers no protection against serogroup
+B disease and b) although the vaccine is highly effective against serogroups C, Y,
+W-135, and A, efficacy is <100%.
+The risk for meningococcal disease among college students is low; therefore,
+vaccination  of  all  college  students,  all  freshmen,  or  only  freshmen  who  live  in
+dormitories
+or residence halls is not likely to be cost-effective for society as a whole. Thus, ACIP
+is issuing the following recommendations regarding the use of meningococcal
+polysaccharide vaccines for college students.
+ Providers of medical care to incoming and current college freshmen,
+particularly those who plan to or already live in dormitories and residence halls,
+should, during routine medical care, inform these students and their parents
+about meningococcal disease and the benefits of vaccination. ACIP does
+not recommend that the level of increased risk among freshmen warrants
+any specific changes in living situations for freshmen.
+ College freshmen who want to reduce their risk for meningococcal disease
+should either be administered vaccine (by a doctor's office or student health service)
+or directed to a site where vaccine is available.
+ The risk for meningococcal disease among non-freshmen college students is
+similar to that for the general population. However, the vaccine is safe and
+efficacious and therefore can be provided to non-freshmen undergraduates who want
+to reduce their risk for meningococcal disease.
+ Colleges should inform incoming and/or current freshmen, particularly those
+who plan to live or already live in dormitories or residence halls, about
+meningococcal disease and the availability of a safe and effective vaccine.
+ Public health agencies should provide colleges and health-care providers
+with information about meningococcal disease and the vaccine as well as
+information regarding how to obtain vaccine.
+Additional Considerations about Vaccination of
+College Students
+Although the need for revaccination of older children has not been
+determined, antibody levels decline rapidly over 2--3 years
+(6).   Revaccination  may  be  considered  for  freshmen  who  were  vaccinated  more  than
+3--5 years earlier
+(5).  Routine revaccination of college students who were vaccinated as freshmen is not
+indicated.
+College students who are at higher risk for meningococcal disease because of
+a) underlying immune deficiencies or b) travel to countries in which
+N.  meningitidis  is  hyperendemic  or  epidemic  (i.e.,  the  meningitis  belt  of  sub-Saharan
+Africa) should
+be vaccinated (6).  College students who are employed as research, industrial, and
+clinical laboratory personnel who are routinely exposed to
+N.  meningitidis  in  solutions  that  may  be  aerosolized  should  be  considered  for
+vaccination
+(6).
+No data are available regarding whether other closed civilian populations with
+characteristics similar to college freshman living in dormitories (e.g., preparatory
+school students) are at the same increased risk for disease. Prevention efforts should
+focus
+on groups in whom higher risk has been documented.
+CONCLUSIONS
+College freshmen, especially those who live in dormitories, are at a modestly
+increased risk for meningococcal disease compared with other persons of the same
+age, and vaccination with the currently available quadrivalent meningococcal
+polysaccharide vaccine will decrease their risk for meningococcal disease.  Continued
+surveillance is necessary to evaluate the impact of these recommendations, which have
+already prompted many universities and clinicians to offer vaccine to college freshmen.
+Consultation on the use of these recommendations or other issues regarding
+meningococcal disease is available from the Meningitis and Special Pathogens Branch,
+Division of Bacterial and Mycotic Diseases, National Center for Infectious Diseases,
+CDC (telephone: [404] 639-3158).
+Acknowledgement
+The  following  persons  are  acknowledged  for  their  contributions  to  the  economics
+section
+of this report: Martin I. Meltzer, Ph.D. and R. Douglas Scott, II, Ph.D.
+References
+ Schuchat A, Robinson K, Wenger JD, et al. Bacterial meningitis in the United States in
+1995.
+ N Engl J Med 1997;337:970--6.
+ Jackson LA, Schuchat A, Reeves MW, Wenger JD. Serogroup C meningococcal outbreaks
+in the United States: an emerging threat.  JAMA 1995;273:383--9.
+ Woods CR, Rosenstein N, Perkins BA.
+Neisseria meningitidis outbreaks in the United
+States,  1994--97.   Abstracts  of  the  38th  Annual  Meeting  of  the  Infectious  Diseases
+Society of
+America. Denver, Colorado, November 12--15, 1998.
+ Rosenstein NE, Perkins BA, Stephens DS, et al. The changing epidemiology of
+meningococcal
+ disease
+ in
+ the
+ United
+ States,
+ 1992--1996.
+ 
+ J
+ Infect
+ Dis
+1999;180:1894--901.
+ CDC. Control and prevention of meningococcal disease and Meningococcal disease
+and college students: recommendations of the Advisory Committee on Immunization
+Practices (ACIP).  MMWR 2000;49(No. RR-7):1--22.
+ CDC. Control and prevention of meningococcal disease and Control and prevention
+of serogroup C meningococcal disease:  evaluation and management of suspected
+outbreaks---  recommendations of the Advisory Committee on Immunization Practices
+(ACIP).
+MMWR 1997;46(No. RR-5):1--21.
+ Brundage JF, Zollinger WD. Evolution of meningococcal disease epidemiology in the
+U.S. Army. In: Vedros NA, ed. Evolution of meningococccal disease. Vol. 1. Boca Raton:
+CRC Press, Inc., 1987:5--23.
+ Hankins WA, Gwaltney JM, Jr., Hendley JO, Farquhar JD, Samuelson JS. Clinical
+and serological evaluation of a meningococcal polysaccharide vaccine: groups A, C, Y,
+and W135.
+ Proc Soc Exp Biol Med 1982;169:54--7.
+ Artenstein MS, Gold R, Zimmerly JG, Wyle FA, Schneider H, Harkins C. Prevention
+of  meningococcal  disease  by  group  C  polysaccharide  vaccine.   N  Engl  J  Med
+1970;282:417--20.
+ Gold R, Artenstein MS. Meningococcal infections. 2. Field trial of group C
+meningococcal  polysaccharide  vaccine  in  1969--70.   Bull  World  Health  Organ
+1971;45:279--82.
+ Artenstein  MS,  Winter  PE,  Gold  R,  Smith  CD.  Immunoprophylaxis  of  meningococcal
+infection.
+ Military Medicine 1974;139:91--5.
+ Froeschle J. Meningococcal disease in college students.  Clin Infect Dis 1999;29:215--6.
+ Harrison LH, Dwyer DM, Maples CT, Billmann L. Risk of meningococcal infection in
+college students.  JAMA 1999;281:1906--10.
+ Bruce M, Rosenstein NE, Capparella J, Perkins BA, Collins MJ. Meningococcal disease
+in  college  students.   Abstracts  of  the  39th  Annual  Meeting  of  the  Infectious  Diseases
+Society
+of America. Philadelphia, PA, November 18--21, 1999:63.
+ Neal KR, Nguyen-Van-Tam J, Monk P, O'Brien SJ, Stuart J, Ramsay M. Invasive
+meningococcal disease among university undergraduates:  association with universities
+providing
+relatively
+ large
+ amounts
+ of
+ catered
+ hall
+ accomodations.
+ 
+ Epidemiol
+ Infect
+1999;122:351--7.
+ U.S. Department of Education. National Center for Education Statistics. Digest of
+education statistics, 1998. Washington, DC: NCES 1999-036, 1-545.
+ CDC. Youth risk behavior surveillance:  National College Health Risk Behavior
+Survey---United States, 1995. MMWR 1997;46(No. SS-6):1--54.
+ Public Health Laboratory Service. Vaccination programme for group C meningococcal
+infection is launched.  CDR Weekly 1999;9:261--4.
+ Jackson LA, Schuchat A, Gorsky RD, Wenger JD. Should college students be
+vaccinated against meningococcal disease: a cost-benefit analysis.  Am J Public Health
+1995;85:843--5.
+Table 1Return to top.
+Figure 1Return to top.
+Table 2Return to top.
+Disclaimer
+  
+All MMWR HTML versions of articles are electronic conversions from ASCII text
+into HTML.  This conversion may have resulted in character translation or format errors
+in the HTML version.
+Users  should  not  rely  on  this  HTML  document,  but  are  referred  to  the  electronic  PDF
+version and/or
+the original MMWR paper copy for the official text, figures, and tables.
+An  original  paper  copy  of  this  issue  can  be  obtained  from  the  Superintendent  of
+Documents,
+U.S. Government Printing Office (GPO), Washington, DC 20402-9371; telephone: (202)
+512-1800.
+Contact GPO for current prices.
+**Questions or messages regarding errors in formatting should be addressed to
+mmwrq@cdc.gov. 
+Page converted: 6/27/2000
+ Military recruits and college freshmen have several common characteristics
+(e.g., age, diverse geographic backgrounds, and crowded living conditions). Therefore,
+data obtained from recruits have been used to evaluate meningococcal disease and
+vaccine among college freshmen.
+ Before 1971, rates of meningococcal disease were elevated among U.S.
+military recruits. Outbreaks frequently followed large-scale mobilizations, and recruits in
+their initial training camps were at substantially greater risk for disease than were
+regular troops (7).  Military recruits enter military service for the first time at a few large
+U.S. military recruit training centers.  After 8--12 weeks of initial training, they disperse
+to perform their military service at many different locations.  During mobilization for
+the Vietnam conflict, outbreaks of meningococcal disease at training camps involving
+substantial numbers of recruits were caused by sulfadiazine-resistant strains of
+N. meningitidis.  During 1964--1970, the rate of hospitalizations resulting from
+meningococcal disease among all active duty service members was 25.2 per 100,000
+person- years (LTC Frederick Erdtmann, MD, MPH, Office of the Surgeon General, U.S.
+Army, briefing, 1981).  These circumstances led to development of meningococcal
+polysaccharide vaccines (8). Field trials of group C polysaccharide vaccine among U.S.
+Army recruits demonstrated an 89.5% reduction in the rate of serogroup C
+meningococcal disease among vaccinated versus nonvaccinated recruits
+(9,10); thus, beginning in October 1971, all new recruits were vaccinated with the group
+C vaccine
+(11),  and  by  Fall  1982,  all  recruits  were  receiving  the  quadrivalent  polysaccharide
+vaccine
+(7).  However, rates of meningococcal disease in U.S. Army personnel declined before
+the
+1971 vaccination campaigns (7), suggesting that smaller recruit populations at training
+installations and the natural periodicity of outbreaks may have contributed to the
+decline in disease.
+ Rates of meningococcal disease remain low in the military, and large outbreaks
+no longer occur.  Since 1990, records of all hospitalizations of active duty service
+members in military hospitals worldwide have been integrated with military personnel
+records
+in the Defense Medical Surveillance System (DMSS).  During 1990--1998, the overall
+rate of hospitalizations from meningococcal disease among enlisted, active-duty
+service
+members was 0.51 per 100,000 person-years (J. Brundage, DMSS Army Medical
+Surveillance Activity, personal communication).
+ Approximately 180,000 military recruits receive a single dose of
+quadrivalent  polysaccharide  meningococcal  vaccine  annually.  Revaccination  is  only
+indicated
+when military personnel are traveling to countries in which
+N. meningitidis is hyperendemic or epidemic (D. Trump, personal communication).
+ Before 1999, students reporting to two of the U.S. military academies routinely
+received meningococcal vaccine. Last year, the other academies initiated
+meningococcal vaccine programs.
+MENINGOCOCCAL DISEASE AND COLLEGE STUDENTS
+Four recent studies provide data concerning the risk for sporadic
+meningococcal disease among college students (Table 1)
+(12--15).  The  earliest  of  these  studies  was  conducted  during  the  1990--1991  and
+1991--1992 school years. A questionnaire
+designed to evaluate risk factors for meningococcal disease among college students
+was sent to 1,900 universities, resulting in a  38% response rate
+(12).   Forty-three  cases  of  meningococcal  disease  were  reported  during  the  2  years
+from colleges with a
+total enrollment of 4,393,744 students, for a low overall incidence of 1.0 per 100,000
+population per year. However, cases of meningococcal disease occurred 9--23 times
+more frequently in students residing in dormitories than in those residing in other types
+of accommodations.  The low response rate and the inability of the study to control
+for
+other risk factors (e.g., freshman status) make these results difficult to interpret.
+In a retrospective, cohort study conducted in Maryland for the period 1992--1997,
+67 cases of meningococcal disease among persons aged 1630 years were identified
+by active, laboratory-based surveillance
+(13). Of those cases, 14 were among
+students  attending  Maryland  colleges,  and  11  were  among  those  in  4-year  colleges.  
+The
+overall incidence of meningococcal disease in Maryland college students was similar to
+the incidence in the U.S. population of persons the same age (1.74/100,000 vs.
+1.44/100,000, respectively); however, rates of disease were elevated among students
+living in
+dormitories  compared  with  students  living  off-campus  (3.2/100,000  vs.  0.96/100,000,
+p=0.05).
+U.S. surveillance for meningococcal disease in college students was initiated in
+1998; from September 1998 through August 1999, 90 cases of meningococcal disease
+were reported to CDC (14).  These cases represent approximately 3% of the total cases
+of meningococcal disease that occur each year in the United States.  Eighty-seven
+(97%)  cases  occurred  in  undergraduate  students,  and  40  (44%)  occurred  among  the
+2.27
+million freshman students entering college each year
+(16).  Among undergraduates, of the 71 (82%) isolates for which serogroup information
+was available, 35 (49%)
+were serogroup C, 17 (24%) were serogroup B, 15 (21%) were serogroup Y, and one
+(1%)
+was serogroup W-135.  Eight (9%) students died.  Of the five students who died for
+whom serogroup information was available, four had serogroup C isolates and one
+had serogroup Y.
+U.S. surveillance data from the 1998--1999 school year suggest that the overall
+rate of meningococcal disease among undergraduate college students is lower than
+the  rate  among  persons  aged  18--23  years  who  are  not  enrolled  in  college  (Table  2)
+(0.7
+vs. 1.5/100,000, respectively) (14,16).  However, rates were higher among specific
+subgroups of college students. Among the approximately 590,000 freshmen who live
+in dormitories (17), the rate of meningococcal disease was 4.6/100,000, higher than
+any age group in the population other than children aged <2 years, but lower than
+the threshold of 10/100,000 recommended for initiating meningococcal vaccination
+cam
+paigns (6).
+Of 90 students who had meningococcal disease attending college during the
+1998-1999 school year, 50 were enrolled in a case-control study and matched to 148
+controls by school, sex, and undergraduate vs. graduate status
+(14).  In a multivariable analysis, freshmen living in dormitories were at higher risk for
+meningococcal disease.  In
+addition, white race, radiator heat, and recent upper respiratory infection were
+associated with disease.
+In contrast to the United States, overall rates of meningococcal disease in the
+United Kingdom are higher among university students compared with non-students of
+similar age (15).  From September 1994 through March 1997, university students had
+an
+increased annual rate of meningococcal disease (13.2/100,000) compared with
+non-students  of  similar  age  in  the  same  health  districts  (5.5/100,000)  and  in  those
+health
+districts without universities (3.7/100,000).  As in the United States, regression
+analysis  revealed  that  "catered  hall  accommodations,"  the  U.K.  equivalent  of
+dormitories,
+were the main risk factor.  Higher rates of disease were observed at universities
+providing catered hall accommodations for >10% of their student population compared
+with
+those  providing  such  housing  for  <10%  of  students  (15.3/100,000  vs.  5.9/100,000).  
+The
+increased rate of disease among university students has prompted the United
+Kingdom to initiate routine vaccination of incoming university students with a bivalent
+A/C polysaccharide vaccine as part of a new vaccination program (see
+MMWR  2000;  Vol.49,  No.  RR-6  which  can  be  referenced  in  the  pages  preceding  this
+report)
+(18).
+MENINGOCOCCAL VACCINE AND COLLEGE STUDENTS
+On September 30, 1997, the American College Health Association (ACHA),
+which represents about half of colleges that have student health services, released a
+statement recommending that "college health services [take] a more proactive role in
+alerting students and their parents about the dangers of meningococcal disease," that
+"college students consider vaccination against potentially fatal meningococcal
+disease," and that "colleges and universities ensure all students have access to a
+vaccination  program  for  those  who  want  to  be  vaccinated"  (Dr.  MarJeanne  Collins,
+Chairman,
+ACHA Vaccine Preventable Diseases Task Force, personal communication).  Parent and
+college student advocates have also encouraged more widespread use of
+meningococcal vaccine in college students.  In a joint study by ACHA and CDC, surveys
+were sent
+to 1,200 ACHA-member schools; of 691 responding schools, 57 (8%) reported that
+pre-exposure meningococcal vaccination campaigns had been conducted on their
+campus  since  September  1997.  A  median  of  32  students  were  vaccinated  at  each
+school
+(range: 1--2,300) (J. Capparella, unpublished data).  During the 1998--1999 school year,
+3%--5% of 148 students enrolled in a case-control study reported receiving prophylactic
+meningococcal vaccination (14).  Before the 1999 fall semester, many schools mailed
+information packets to incoming freshmen; data are not yet available regarding the
+proportion of students who have been vaccinated.
+Cost-effectiveness of meningococcal vaccine in
+college students
+From a societal perspective, the economic costs and benefits of vaccinating a)
+a cohort of 591,587 freshmen who live in dormitories and b) all freshman enrolled in
+U.S.
+colleges, regardless of housing status (n=2.4 million) were evaluated, assuming
+the benefits of vaccination would last 4 years (Scott et al, unpublished data).  Best
+and worst case scenarios were evaluated by varying cost of vaccine and
+administration (range: $54--$88), costs per hospitalization ($10,924--$24,030), value of
+premature
+death based on lifetime productivity ($1.3--$4.8 million), cost of side effects of vaccine
+per case ($3,500--$12,270 per one million doses), and average cost of treating a case
+of sequelae ($0--$1,476). Vaccination coverage (60% and 100%) and vaccine efficacy
+(80% and 90%) were also varied for evaluation purposes.
+Vaccination of freshmen who live in dormitories would result in the
+administration  of  approximately  300,00--500,000  doses  of  vaccine  each  year,
+preventing 15--30
+cases of meningococcal disease and one to three deaths each year.  The cost per case
+prevented would be $600,000--$1.8 million, at a cost per death prevented of $7 million
+to $20 million.
+Vaccination of all freshman would result in the administration of approximately
+1.4--2.3 million doses of vaccine each year, preventing 37--69 cases of meningococcal
+disease and two to four deaths caused by meningococcal disease each year.  The cost
+per case prevented would be $1.4--2.9 million, at a cost per death prevented of $22
+million to $48 million.
+These data are similar to data derived from previous studies
+(19).  They  suggest  that  for  society  as  a  whole,  vaccination  of  college  students  is
+unlikely to be
+cost-effective (Scott et al, unpublished data).
+RECOMMENDATIONS  FOR  USE  OF  MENINGOCOCCAL  POLYSACCHARIDE  VACCINE  IN
+COLLEGE STUDENTS
+College freshmen, particularly those who live in dormitories, are at modestly
+increased risk for meningococcal disease relative to other persons their age.
+Vaccination  with  the  currently  available  quadrivalent  meningococcal  polysaccharide
+vaccine
+will decrease the risk for meningococcal disease among such persons. Vaccination
+does not eliminate risk because a) the vaccine confers no protection against serogroup
+B disease and b) although the vaccine is highly effective against serogroups C, Y,
+W-135, and A, efficacy is <100%.
+The risk for meningococcal disease among college students is low; therefore,
+vaccination  of  all  college  students,  all  freshmen,  or  only  freshmen  who  live  in
+dormitories
+or residence halls is not likely to be cost-effective for society as a whole. Thus, ACIP
+is issuing the following recommendations regarding the use of meningococcal
+polysaccharide vaccines for college students.
+ Providers of medical care to incoming and current college freshmen,
+particularly those who plan to or already live in dormitories and residence halls,
+should, during routine medical care, inform these students and their parents
+about meningococcal disease and the benefits of vaccination. ACIP does
+not recommend that the level of increased risk among freshmen warrants
+any specific changes in living situations for freshmen.
+ College freshmen who want to reduce their risk for meningococcal disease
+should either be administered vaccine (by a doctor's office or student health service)
+or directed to a site where vaccine is available.
+ The risk for meningococcal disease among non-freshmen college students is
+similar to that for the general population. However, the vaccine is safe and
+efficacious and therefore can be provided to non-freshmen undergraduates who want
+to reduce their risk for meningococcal disease.
+ Colleges should inform incoming and/or current freshmen, particularly those
+who plan to live or already live in dormitories or residence halls, about
+meningococcal disease and the availability of a safe and effective vaccine.
+ Public health agencies should provide colleges and health-care providers
+with information about meningococcal disease and the vaccine as well as
+information regarding how to obtain vaccine.
+Additional Considerations about Vaccination of
+College Students
+Although the need for revaccination of older children has not been
+determined, antibody levels decline rapidly over 2--3 years
+(6).   Revaccination  may  be  considered  for  freshmen  who  were  vaccinated  more  than
+3--5 years earlier
+(5).  Routine revaccination of college students who were vaccinated as freshmen is not
+indicated.
+College students who are at higher risk for meningococcal disease because of
+a) underlying immune deficiencies or b) travel to countries in which
+N.  meningitidis  is  hyperendemic  or  epidemic  (i.e.,  the  meningitis  belt  of  sub-Saharan
+Africa) should
+be vaccinated (6).  College students who are employed as research, industrial, and
+clinical laboratory personnel who are routinely exposed to
+N.  meningitidis  in  solutions  that  may  be  aerosolized  should  be  considered  for
+vaccination
+(6).
+No data are available regarding whether other closed civilian populations with
+characteristics similar to college freshman living in dormitories (e.g., preparatory
+school students) are at the same increased risk for disease. Prevention efforts should
+focus
+on groups in whom higher risk has been documented.
+CONCLUSIONS
+College freshmen, especially those who live in dormitories, are at a modestly
+increased risk for meningococcal disease compared with other persons of the same
+age, and vaccination with the currently available quadrivalent meningococcal
+polysaccharide vaccine will decrease their risk for meningococcal disease.  Continued
+surveillance is necessary to evaluate the impact of these recommendations, which have
+already prompted many universities and clinicians to offer vaccine to college freshmen.
+Consultation on the use of these recommendations or other issues regarding
+meningococcal disease is available from the Meningitis and Special Pathogens Branch,
+Division of Bacterial and Mycotic Diseases, National Center for Infectious Diseases,
+CDC (telephone: [404] 639-3158).
+Acknowledgement
+The  following  persons  are  acknowledged  for  their  contributions  to  the  economics
+section
+of this report: Martin I. Meltzer, Ph.D. and R. Douglas Scott, II, Ph.D.
+References
+ Schuchat A, Robinson K, Wenger JD, et al. Bacterial meningitis in the United States in
+1995.
+ N Engl J Med 1997;337:970--6.
+ Jackson LA, Schuchat A, Reeves MW, Wenger JD. Serogroup C meningococcal outbreaks
+in the United States: an emerging threat.  JAMA 1995;273:383--9.
+ Woods CR, Rosenstein N, Perkins BA.
+Neisseria meningitidis outbreaks in the United
+States,  1994--97.   Abstracts  of  the  38th  Annual  Meeting  of  the  Infectious  Diseases
+Society of
+America. Denver, Colorado, November 12--15, 1998.
+ Rosenstein NE, Perkins BA, Stephens DS, et al. The changing epidemiology of
+meningococcal
+ disease
+ in
+ the
+ United
+ States,
+ 1992--1996.
+ 
+ J
+ Infect
+ Dis
+1999;180:1894--901.
+ CDC. Control and prevention of meningococcal disease and Meningococcal disease
+and college students: recommendations of the Advisory Committee on Immunization
+Practices (ACIP).  MMWR 2000;49(No. RR-7):1--22.
+ CDC. Control and prevention of meningococcal disease and Control and prevention
+of serogroup C meningococcal disease:  evaluation and management of suspected
+outbreaks---  recommendations of the Advisory Committee on Immunization Practices
+(ACIP).
+MMWR 1997;46(No. RR-5):1--21.
+ Brundage JF, Zollinger WD. Evolution of meningococcal disease epidemiology in the
+U.S. Army. In: Vedros NA, ed. Evolution of meningococccal disease. Vol. 1. Boca Raton:
+CRC Press, Inc., 1987:5--23.
+ Hankins WA, Gwaltney JM, Jr., Hendley JO, Farquhar JD, Samuelson JS. Clinical
+and serological evaluation of a meningococcal polysaccharide vaccine: groups A, C, Y,
+and W135.
+ Proc Soc Exp Biol Med 1982;169:54--7.
+ Artenstein MS, Gold R, Zimmerly JG, Wyle FA, Schneider H, Harkins C. Prevention
+of  meningococcal  disease  by  group  C  polysaccharide  vaccine.   N  Engl  J  Med
+1970;282:417--20.
+ Gold R, Artenstein MS. Meningococcal infections. 2. Field trial of group C
+meningococcal  polysaccharide  vaccine  in  1969--70.   Bull  World  Health  Organ
+1971;45:279--82.
+ Artenstein  MS,  Winter  PE,  Gold  R,  Smith  CD.  Immunoprophylaxis  of  meningococcal
+infection.
+ Military Medicine 1974;139:91--5.
+ Froeschle J. Meningococcal disease in college students.  Clin Infect Dis 1999;29:215--6.
+ Harrison LH, Dwyer DM, Maples CT, Billmann L. Risk of meningococcal infection in
+college students.  JAMA 1999;281:1906--10.
+ Bruce M, Rosenstein NE, Capparella J, Perkins BA, Collins MJ. Meningococcal disease
+in  college  students.   Abstracts  of  the  39th  Annual  Meeting  of  the  Infectious  Diseases
+Society
+of America. Philadelphia, PA, November 18--21, 1999:63.
+ Neal KR, Nguyen-Van-Tam J, Monk P, O'Brien SJ, Stuart J, Ramsay M. Invasive
+meningococcal disease among university undergraduates:  association with universities
+providing
+relatively
+ large
+ amounts
+ of
+ catered
+ hall
+ accomodations.
+ 
+ Epidemiol
+ Infect
+1999;122:351--7.
+ U.S. Department of Education. National Center for Education Statistics. Digest of
+education statistics, 1998. Washington, DC: NCES 1999-036, 1-545.
+ CDC. Youth risk behavior surveillance:  National College Health Risk Behavior
+Survey---United States, 1995. MMWR 1997;46(No. SS-6):1--54.
+ Public Health Laboratory Service. Vaccination programme for group C meningococcal
+infection is launched.  CDR Weekly 1999;9:261--4.
+ Jackson LA, Schuchat A, Gorsky RD, Wenger JD. Should college students be
+vaccinated against meningococcal disease: a cost-benefit analysis.  Am J Public Health
+1995;85:843--5.
+Table 1Return to top.
+Figure 1Return to top.
+Table 2Return to top.
+Disclaimer
+  
+All MMWR HTML versions of articles are electronic conversions from ASCII text
+into HTML.  This conversion may have resulted in character translation or format errors
+in the HTML version.
+Users  should  not  rely  on  this  HTML  document,  but  are  referred  to  the  electronic  PDF
+version and/or
+the original MMWR paper copy for the official text, figures, and tables.
+An  original  paper  copy  of  this  issue  can  be  obtained  from  the  Superintendent  of
+Documents,
+U.S. Government Printing Office (GPO), Washington, DC 20402-9371; telephone: (202)
+512-1800.
+Contact GPO for current prices.
+**Questions or messages regarding errors in formatting should be addressed to
+mmwrq@cdc.gov. 
+Page converted: 6/27/2000
+ Four recent studies provide data concerning the risk for sporadic
+meningococcal disease among college students (Table 1)
+(12--15).  The  earliest  of  these  studies  was  conducted  during  the  1990--1991  and
+1991--1992 school years. A questionnaire
+designed to evaluate risk factors for meningococcal disease among college students
+was sent to 1,900 universities, resulting in a  38% response rate
+(12).   Forty-three  cases  of  meningococcal  disease  were  reported  during  the  2  years
+from colleges with a
+total enrollment of 4,393,744 students, for a low overall incidence of 1.0 per 100,000
+population per year. However, cases of meningococcal disease occurred 9--23 times
+more frequently in students residing in dormitories than in those residing in other types
+of accommodations.  The low response rate and the inability of the study to control
+for
+other risk factors (e.g., freshman status) make these results difficult to interpret.
+ In a retrospective, cohort study conducted in Maryland for the period 1992--1997,
+67 cases of meningococcal disease among persons aged 1630 years were identified
+by active, laboratory-based surveillance
+(13). Of those cases, 14 were among
+students  attending  Maryland  colleges,  and  11  were  among  those  in  4-year  colleges.  
+The
+overall incidence of meningococcal disease in Maryland college students was similar to
+the incidence in the U.S. population of persons the same age (1.74/100,000 vs.
+1.44/100,000, respectively); however, rates of disease were elevated among students
+living in
+dormitories  compared  with  students  living  off-campus  (3.2/100,000  vs.  0.96/100,000,
+p=0.05).
+ U.S. surveillance for meningococcal disease in college students was initiated in
+1998; from September 1998 through August 1999, 90 cases of meningococcal disease
+were reported to CDC (14).  These cases represent approximately 3% of the total cases
+of meningococcal disease that occur each year in the United States.  Eighty-seven
+(97%)  cases  occurred  in  undergraduate  students,  and  40  (44%)  occurred  among  the
+2.27
+million freshman students entering college each year
+(16).  Among undergraduates, of the 71 (82%) isolates for which serogroup information
+was available, 35 (49%)
+were serogroup C, 17 (24%) were serogroup B, 15 (21%) were serogroup Y, and one
+(1%)
+was serogroup W-135.  Eight (9%) students died.  Of the five students who died for
+whom serogroup information was available, four had serogroup C isolates and one
+had serogroup Y.
+ U.S. surveillance data from the 1998--1999 school year suggest that the overall
+rate of meningococcal disease among undergraduate college students is lower than
+the  rate  among  persons  aged  18--23  years  who  are  not  enrolled  in  college  (Table  2)
+(0.7
+vs. 1.5/100,000, respectively) (14,16).  However, rates were higher among specific
+subgroups of college students. Among the approximately 590,000 freshmen who live
+in dormitories (17), the rate of meningococcal disease was 4.6/100,000, higher than
+any age group in the population other than children aged <2 years, but lower than
+the threshold of 10/100,000 recommended for initiating meningococcal vaccination
+cam
+paigns (6).
+ Of 90 students who had meningococcal disease attending college during the
+1998-1999 school year, 50 were enrolled in a case-control study and matched to 148
+controls by school, sex, and undergraduate vs. graduate status
+(14).  In a multivariable analysis, freshmen living in dormitories were at higher risk for
+meningococcal disease.  In
+addition, white race, radiator heat, and recent upper respiratory infection were
+associated with disease.
+ In contrast to the United States, overall rates of meningococcal disease in the
+United Kingdom are higher among university students compared with non-students of
+similar age (15).  From September 1994 through March 1997, university students had
+an
+increased annual rate of meningococcal disease (13.2/100,000) compared with
+non-students  of  similar  age  in  the  same  health  districts  (5.5/100,000)  and  in  those
+health
+districts without universities (3.7/100,000).  As in the United States, regression
+analysis  revealed  that  "catered  hall  accommodations,"  the  U.K.  equivalent  of
+dormitories,
+were the main risk factor.  Higher rates of disease were observed at universities
+providing catered hall accommodations for >10% of their student population compared
+with
+those  providing  such  housing  for  <10%  of  students  (15.3/100,000  vs.  5.9/100,000).  
+The
+increased rate of disease among university students has prompted the United
+Kingdom to initiate routine vaccination of incoming university students with a bivalent
+A/C polysaccharide vaccine as part of a new vaccination program (see
+MMWR  2000;  Vol.49,  No.  RR-6  which  can  be  referenced  in  the  pages  preceding  this
+report)
+(18).
+MENINGOCOCCAL VACCINE AND COLLEGE STUDENTS
+On September 30, 1997, the American College Health Association (ACHA),
+which represents about half of colleges that have student health services, released a
+statement recommending that "college health services [take] a more proactive role in
+alerting students and their parents about the dangers of meningococcal disease," that
+"college students consider vaccination against potentially fatal meningococcal
+disease," and that "colleges and universities ensure all students have access to a
+vaccination  program  for  those  who  want  to  be  vaccinated"  (Dr.  MarJeanne  Collins,
+Chairman,
+ACHA Vaccine Preventable Diseases Task Force, personal communication).  Parent and
+college student advocates have also encouraged more widespread use of
+meningococcal vaccine in college students.  In a joint study by ACHA and CDC, surveys
+were sent
+to 1,200 ACHA-member schools; of 691 responding schools, 57 (8%) reported that
+pre-exposure meningococcal vaccination campaigns had been conducted on their
+campus  since  September  1997.  A  median  of  32  students  were  vaccinated  at  each
+school
+(range: 1--2,300) (J. Capparella, unpublished data).  During the 1998--1999 school year,
+3%--5% of 148 students enrolled in a case-control study reported receiving prophylactic
+meningococcal vaccination (14).  Before the 1999 fall semester, many schools mailed
+information packets to incoming freshmen; data are not yet available regarding the
+proportion of students who have been vaccinated.
+Cost-effectiveness of meningococcal vaccine in
+college students
+From a societal perspective, the economic costs and benefits of vaccinating a)
+a cohort of 591,587 freshmen who live in dormitories and b) all freshman enrolled in
+U.S.
+colleges, regardless of housing status (n=2.4 million) were evaluated, assuming
+the benefits of vaccination would last 4 years (Scott et al, unpublished data).  Best
+and worst case scenarios were evaluated by varying cost of vaccine and
+administration (range: $54--$88), costs per hospitalization ($10,924--$24,030), value of
+premature
+death based on lifetime productivity ($1.3--$4.8 million), cost of side effects of vaccine
+per case ($3,500--$12,270 per one million doses), and average cost of treating a case
+of sequelae ($0--$1,476). Vaccination coverage (60% and 100%) and vaccine efficacy
+(80% and 90%) were also varied for evaluation purposes.
+Vaccination of freshmen who live in dormitories would result in the
+administration  of  approximately  300,00--500,000  doses  of  vaccine  each  year,
+preventing 15--30
+cases of meningococcal disease and one to three deaths each year.  The cost per case
+prevented would be $600,000--$1.8 million, at a cost per death prevented of $7 million
+to $20 million.
+Vaccination of all freshman would result in the administration of approximately
+1.4--2.3 million doses of vaccine each year, preventing 37--69 cases of meningococcal
+disease and two to four deaths caused by meningococcal disease each year.  The cost
+per case prevented would be $1.4--2.9 million, at a cost per death prevented of $22
+million to $48 million.
+These data are similar to data derived from previous studies
+(19).  They  suggest  that  for  society  as  a  whole,  vaccination  of  college  students  is
+unlikely to be
+cost-effective (Scott et al, unpublished data).
+RECOMMENDATIONS  FOR  USE  OF  MENINGOCOCCAL  POLYSACCHARIDE  VACCINE  IN
+COLLEGE STUDENTS
+College freshmen, particularly those who live in dormitories, are at modestly
+increased risk for meningococcal disease relative to other persons their age.
+Vaccination  with  the  currently  available  quadrivalent  meningococcal  polysaccharide
+vaccine
+will decrease the risk for meningococcal disease among such persons. Vaccination
+does not eliminate risk because a) the vaccine confers no protection against serogroup
+B disease and b) although the vaccine is highly effective against serogroups C, Y,
+W-135, and A, efficacy is <100%.
+The risk for meningococcal disease among college students is low; therefore,
+vaccination  of  all  college  students,  all  freshmen,  or  only  freshmen  who  live  in
+dormitories
+or residence halls is not likely to be cost-effective for society as a whole. Thus, ACIP
+is issuing the following recommendations regarding the use of meningococcal
+polysaccharide vaccines for college students.
+ Providers of medical care to incoming and current college freshmen,
+particularly those who plan to or already live in dormitories and residence halls,
+should, during routine medical care, inform these students and their parents
+about meningococcal disease and the benefits of vaccination. ACIP does
+not recommend that the level of increased risk among freshmen warrants
+any specific changes in living situations for freshmen.
+ College freshmen who want to reduce their risk for meningococcal disease
+should either be administered vaccine (by a doctor's office or student health service)
+or directed to a site where vaccine is available.
+ The risk for meningococcal disease among non-freshmen college students is
+similar to that for the general population. However, the vaccine is safe and
+efficacious and therefore can be provided to non-freshmen undergraduates who want
+to reduce their risk for meningococcal disease.
+ Colleges should inform incoming and/or current freshmen, particularly those
+who plan to live or already live in dormitories or residence halls, about
+meningococcal disease and the availability of a safe and effective vaccine.
+ Public health agencies should provide colleges and health-care providers
+with information about meningococcal disease and the vaccine as well as
+information regarding how to obtain vaccine.
+Additional Considerations about Vaccination of
+College Students
+Although the need for revaccination of older children has not been
+determined, antibody levels decline rapidly over 2--3 years
+(6).   Revaccination  may  be  considered  for  freshmen  who  were  vaccinated  more  than
+3--5 years earlier
+(5).  Routine revaccination of college students who were vaccinated as freshmen is not
+indicated.
+College students who are at higher risk for meningococcal disease because of
+a) underlying immune deficiencies or b) travel to countries in which
+N.  meningitidis  is  hyperendemic  or  epidemic  (i.e.,  the  meningitis  belt  of  sub-Saharan
+Africa) should
+be vaccinated (6).  College students who are employed as research, industrial, and
+clinical laboratory personnel who are routinely exposed to
+N.  meningitidis  in  solutions  that  may  be  aerosolized  should  be  considered  for
+vaccination
+(6).
+No data are available regarding whether other closed civilian populations with
+characteristics similar to college freshman living in dormitories (e.g., preparatory
+school students) are at the same increased risk for disease. Prevention efforts should
+focus
+on groups in whom higher risk has been documented.
+CONCLUSIONS
+College freshmen, especially those who live in dormitories, are at a modestly
+increased risk for meningococcal disease compared with other persons of the same
+age, and vaccination with the currently available quadrivalent meningococcal
+polysaccharide vaccine will decrease their risk for meningococcal disease.  Continued
+surveillance is necessary to evaluate the impact of these recommendations, which have
+already prompted many universities and clinicians to offer vaccine to college freshmen.
+Consultation on the use of these recommendations or other issues regarding
+meningococcal disease is available from the Meningitis and Special Pathogens Branch,
+Division of Bacterial and Mycotic Diseases, National Center for Infectious Diseases,
+CDC (telephone: [404] 639-3158).
+Acknowledgement
+The  following  persons  are  acknowledged  for  their  contributions  to  the  economics
+section
+of this report: Martin I. Meltzer, Ph.D. and R. Douglas Scott, II, Ph.D.
+References
+ Schuchat A, Robinson K, Wenger JD, et al. Bacterial meningitis in the United States in
+1995.
+ N Engl J Med 1997;337:970--6.
+ Jackson LA, Schuchat A, Reeves MW, Wenger JD. Serogroup C meningococcal outbreaks
+in the United States: an emerging threat.  JAMA 1995;273:383--9.
+ Woods CR, Rosenstein N, Perkins BA.
+Neisseria meningitidis outbreaks in the United
+States,  1994--97.   Abstracts  of  the  38th  Annual  Meeting  of  the  Infectious  Diseases
+Society of
+America. Denver, Colorado, November 12--15, 1998.
+ Rosenstein NE, Perkins BA, Stephens DS, et al. The changing epidemiology of
+meningococcal
+ disease
+ in
+ the
+ United
+ States,
+ 1992--1996.
+ 
+ J
+ Infect
+ Dis
+1999;180:1894--901.
+ CDC. Control and prevention of meningococcal disease and Meningococcal disease
+and college students: recommendations of the Advisory Committee on Immunization
+Practices (ACIP).  MMWR 2000;49(No. RR-7):1--22.
+ CDC. Control and prevention of meningococcal disease and Control and prevention
+of serogroup C meningococcal disease:  evaluation and management of suspected
+outbreaks---  recommendations of the Advisory Committee on Immunization Practices
+(ACIP).
+MMWR 1997;46(No. RR-5):1--21.
+ Brundage JF, Zollinger WD. Evolution of meningococcal disease epidemiology in the
+U.S. Army. In: Vedros NA, ed. Evolution of meningococccal disease. Vol. 1. Boca Raton:
+CRC Press, Inc., 1987:5--23.
+ Hankins WA, Gwaltney JM, Jr., Hendley JO, Farquhar JD, Samuelson JS. Clinical
+and serological evaluation of a meningococcal polysaccharide vaccine: groups A, C, Y,
+and W135.
+ Proc Soc Exp Biol Med 1982;169:54--7.
+ Artenstein MS, Gold R, Zimmerly JG, Wyle FA, Schneider H, Harkins C. Prevention
+of  meningococcal  disease  by  group  C  polysaccharide  vaccine.   N  Engl  J  Med
+1970;282:417--20.
+ Gold R, Artenstein MS. Meningococcal infections. 2. Field trial of group C
+meningococcal  polysaccharide  vaccine  in  1969--70.   Bull  World  Health  Organ
+1971;45:279--82.
+ Artenstein  MS,  Winter  PE,  Gold  R,  Smith  CD.  Immunoprophylaxis  of  meningococcal
+infection.
+ Military Medicine 1974;139:91--5.
+ Froeschle J. Meningococcal disease in college students.  Clin Infect Dis 1999;29:215--6.
+ Harrison LH, Dwyer DM, Maples CT, Billmann L. Risk of meningococcal infection in
+college students.  JAMA 1999;281:1906--10.
+ Bruce M, Rosenstein NE, Capparella J, Perkins BA, Collins MJ. Meningococcal disease
+in  college  students.   Abstracts  of  the  39th  Annual  Meeting  of  the  Infectious  Diseases
+Society
+of America. Philadelphia, PA, November 18--21, 1999:63.
+ Neal KR, Nguyen-Van-Tam J, Monk P, O'Brien SJ, Stuart J, Ramsay M. Invasive
+meningococcal disease among university undergraduates:  association with universities
+providing
+relatively
+ large
+ amounts
+ of
+ catered
+ hall
+ accomodations.
+ 
+ Epidemiol
+ Infect
+1999;122:351--7.
+ U.S. Department of Education. National Center for Education Statistics. Digest of
+education statistics, 1998. Washington, DC: NCES 1999-036, 1-545.
+ CDC. Youth risk behavior surveillance:  National College Health Risk Behavior
+Survey---United States, 1995. MMWR 1997;46(No. SS-6):1--54.
+ Public Health Laboratory Service. Vaccination programme for group C meningococcal
+infection is launched.  CDR Weekly 1999;9:261--4.
+ Jackson LA, Schuchat A, Gorsky RD, Wenger JD. Should college students be
+vaccinated against meningococcal disease: a cost-benefit analysis.  Am J Public Health
+1995;85:843--5.
+Table 1Return to top.
+Figure 1Return to top.
+Table 2Return to top.
+Disclaimer
+  
+All MMWR HTML versions of articles are electronic conversions from ASCII text
+into HTML.  This conversion may have resulted in character translation or format errors
+in the HTML version.
+Users  should  not  rely  on  this  HTML  document,  but  are  referred  to  the  electronic  PDF
+version and/or
+the original MMWR paper copy for the official text, figures, and tables.
+An  original  paper  copy  of  this  issue  can  be  obtained  from  the  Superintendent  of
+Documents,
+U.S. Government Printing Office (GPO), Washington, DC 20402-9371; telephone: (202)
+512-1800.
+Contact GPO for current prices.
+**Questions or messages regarding errors in formatting should be addressed to
+mmwrq@cdc.gov. 
+Page converted: 6/27/2000
+ On September 30, 1997, the American College Health Association (ACHA),
+which represents about half of colleges that have student health services, released a
+statement recommending that "college health services [take] a more proactive role in
+alerting students and their parents about the dangers of meningococcal disease," that
+"college students consider vaccination against potentially fatal meningococcal
+disease," and that "colleges and universities ensure all students have access to a
+vaccination  program  for  those  who  want  to  be  vaccinated"  (Dr.  MarJeanne  Collins,
+Chairman,
+ACHA Vaccine Preventable Diseases Task Force, personal communication).  Parent and
+college student advocates have also encouraged more widespread use of
+meningococcal vaccine in college students.  In a joint study by ACHA and CDC, surveys
+were sent
+to 1,200 ACHA-member schools; of 691 responding schools, 57 (8%) reported that
+pre-exposure meningococcal vaccination campaigns had been conducted on their
+campus  since  September  1997.  A  median  of  32  students  were  vaccinated  at  each
+school
+(range: 1--2,300) (J. Capparella, unpublished data).  During the 1998--1999 school year,
+3%--5% of 148 students enrolled in a case-control study reported receiving prophylactic
+meningococcal vaccination (14).  Before the 1999 fall semester, many schools mailed
+information packets to incoming freshmen; data are not yet available regarding the
+proportion of students who have been vaccinated.
+ From a societal perspective, the economic costs and benefits of vaccinating a)
+a cohort of 591,587 freshmen who live in dormitories and b) all freshman enrolled in
+U.S.
+colleges, regardless of housing status (n=2.4 million) were evaluated, assuming
+the benefits of vaccination would last 4 years (Scott et al, unpublished data).  Best
+and worst case scenarios were evaluated by varying cost of vaccine and
+administration (range: $54--$88), costs per hospitalization ($10,924--$24,030), value of
+premature
+death based on lifetime productivity ($1.3--$4.8 million), cost of side effects of vaccine
+per case ($3,500--$12,270 per one million doses), and average cost of treating a case
+of sequelae ($0--$1,476). Vaccination coverage (60% and 100%) and vaccine efficacy
+(80% and 90%) were also varied for evaluation purposes.
+ Vaccination of freshmen who live in dormitories would result in the
+administration  of  approximately  300,00--500,000  doses  of  vaccine  each  year,
+preventing 15--30
+cases of meningococcal disease and one to three deaths each year.  The cost per case
+prevented would be $600,000--$1.8 million, at a cost per death prevented of $7 million
+to $20 million.
+ Vaccination of all freshman would result in the administration of approximately
+1.4--2.3 million doses of vaccine each year, preventing 37--69 cases of meningococcal
+disease and two to four deaths caused by meningococcal disease each year.  The cost
+per case prevented would be $1.4--2.9 million, at a cost per death prevented of $22
+million to $48 million.
+ These data are similar to data derived from previous studies
+(19).  They  suggest  that  for  society  as  a  whole,  vaccination  of  college  students  is
+unlikely to be
+cost-effective (Scott et al, unpublished data).
+RECOMMENDATIONS  FOR  USE  OF  MENINGOCOCCAL  POLYSACCHARIDE  VACCINE  IN
+COLLEGE STUDENTS
+College freshmen, particularly those who live in dormitories, are at modestly
+increased risk for meningococcal disease relative to other persons their age.
+Vaccination  with  the  currently  available  quadrivalent  meningococcal  polysaccharide
+vaccine
+will decrease the risk for meningococcal disease among such persons. Vaccination
+does not eliminate risk because a) the vaccine confers no protection against serogroup
+B disease and b) although the vaccine is highly effective against serogroups C, Y,
+W-135, and A, efficacy is <100%.
+The risk for meningococcal disease among college students is low; therefore,
+vaccination  of  all  college  students,  all  freshmen,  or  only  freshmen  who  live  in
+dormitories
+or residence halls is not likely to be cost-effective for society as a whole. Thus, ACIP
+is issuing the following recommendations regarding the use of meningococcal
+polysaccharide vaccines for college students.
+ Providers of medical care to incoming and current college freshmen,
+particularly those who plan to or already live in dormitories and residence halls,
+should, during routine medical care, inform these students and their parents
+about meningococcal disease and the benefits of vaccination. ACIP does
+not recommend that the level of increased risk among freshmen warrants
+any specific changes in living situations for freshmen.
+ College freshmen who want to reduce their risk for meningococcal disease
+should either be administered vaccine (by a doctor's office or student health service)
+or directed to a site where vaccine is available.
+ The risk for meningococcal disease among non-freshmen college students is
+similar to that for the general population. However, the vaccine is safe and
+efficacious and therefore can be provided to non-freshmen undergraduates who want
+to reduce their risk for meningococcal disease.
+ Colleges should inform incoming and/or current freshmen, particularly those
+who plan to live or already live in dormitories or residence halls, about
+meningococcal disease and the availability of a safe and effective vaccine.
+ Public health agencies should provide colleges and health-care providers
+with information about meningococcal disease and the vaccine as well as
+information regarding how to obtain vaccine.
+Additional Considerations about Vaccination of
+College Students
+Although the need for revaccination of older children has not been
+determined, antibody levels decline rapidly over 2--3 years
+(6).   Revaccination  may  be  considered  for  freshmen  who  were  vaccinated  more  than
+3--5 years earlier
+(5).  Routine revaccination of college students who were vaccinated as freshmen is not
+indicated.
+College students who are at higher risk for meningococcal disease because of
+a) underlying immune deficiencies or b) travel to countries in which
+N.  meningitidis  is  hyperendemic  or  epidemic  (i.e.,  the  meningitis  belt  of  sub-Saharan
+Africa) should
+be vaccinated (6).  College students who are employed as research, industrial, and
+clinical laboratory personnel who are routinely exposed to
+N.  meningitidis  in  solutions  that  may  be  aerosolized  should  be  considered  for
+vaccination
+(6).
+No data are available regarding whether other closed civilian populations with
+characteristics similar to college freshman living in dormitories (e.g., preparatory
+school students) are at the same increased risk for disease. Prevention efforts should
+focus
+on groups in whom higher risk has been documented.
+CONCLUSIONS
+College freshmen, especially those who live in dormitories, are at a modestly
+increased risk for meningococcal disease compared with other persons of the same
+age, and vaccination with the currently available quadrivalent meningococcal
+polysaccharide vaccine will decrease their risk for meningococcal disease.  Continued
+surveillance is necessary to evaluate the impact of these recommendations, which have
+already prompted many universities and clinicians to offer vaccine to college freshmen.
+Consultation on the use of these recommendations or other issues regarding
+meningococcal disease is available from the Meningitis and Special Pathogens Branch,
+Division of Bacterial and Mycotic Diseases, National Center for Infectious Diseases,
+CDC (telephone: [404] 639-3158).
+Acknowledgement
+The  following  persons  are  acknowledged  for  their  contributions  to  the  economics
+section
+of this report: Martin I. Meltzer, Ph.D. and R. Douglas Scott, II, Ph.D.
+References
+ Schuchat A, Robinson K, Wenger JD, et al. Bacterial meningitis in the United States in
+1995.
+ N Engl J Med 1997;337:970--6.
+ Jackson LA, Schuchat A, Reeves MW, Wenger JD. Serogroup C meningococcal outbreaks
+in the United States: an emerging threat.  JAMA 1995;273:383--9.
+ Woods CR, Rosenstein N, Perkins BA.
+Neisseria meningitidis outbreaks in the United
+States,  1994--97.   Abstracts  of  the  38th  Annual  Meeting  of  the  Infectious  Diseases
+Society of
+America. Denver, Colorado, November 12--15, 1998.
+ Rosenstein NE, Perkins BA, Stephens DS, et al. The changing epidemiology of
+meningococcal
+ disease
+ in
+ the
+ United
+ States,
+ 1992--1996.
+ 
+ J
+ Infect
+ Dis
+1999;180:1894--901.
+ CDC. Control and prevention of meningococcal disease and Meningococcal disease
+and college students: recommendations of the Advisory Committee on Immunization
+Practices (ACIP).  MMWR 2000;49(No. RR-7):1--22.
+ CDC. Control and prevention of meningococcal disease and Control and prevention
+of serogroup C meningococcal disease:  evaluation and management of suspected
+outbreaks---  recommendations of the Advisory Committee on Immunization Practices
+(ACIP).
+MMWR 1997;46(No. RR-5):1--21.
+ Brundage JF, Zollinger WD. Evolution of meningococcal disease epidemiology in the
+U.S. Army. In: Vedros NA, ed. Evolution of meningococccal disease. Vol. 1. Boca Raton:
+CRC Press, Inc., 1987:5--23.
+ Hankins WA, Gwaltney JM, Jr., Hendley JO, Farquhar JD, Samuelson JS. Clinical
+and serological evaluation of a meningococcal polysaccharide vaccine: groups A, C, Y,
+and W135.
+ Proc Soc Exp Biol Med 1982;169:54--7.
+ Artenstein MS, Gold R, Zimmerly JG, Wyle FA, Schneider H, Harkins C. Prevention
+of  meningococcal  disease  by  group  C  polysaccharide  vaccine.   N  Engl  J  Med
+1970;282:417--20.
+ Gold R, Artenstein MS. Meningococcal infections. 2. Field trial of group C
+meningococcal  polysaccharide  vaccine  in  1969--70.   Bull  World  Health  Organ
+1971;45:279--82.
+ Artenstein  MS,  Winter  PE,  Gold  R,  Smith  CD.  Immunoprophylaxis  of  meningococcal
+infection.
+ Military Medicine 1974;139:91--5.
+ Froeschle J. Meningococcal disease in college students.  Clin Infect Dis 1999;29:215--6.
+ Harrison LH, Dwyer DM, Maples CT, Billmann L. Risk of meningococcal infection in
+college students.  JAMA 1999;281:1906--10.
+ Bruce M, Rosenstein NE, Capparella J, Perkins BA, Collins MJ. Meningococcal disease
+in  college  students.   Abstracts  of  the  39th  Annual  Meeting  of  the  Infectious  Diseases
+Society
+of America. Philadelphia, PA, November 18--21, 1999:63.
+ Neal KR, Nguyen-Van-Tam J, Monk P, O'Brien SJ, Stuart J, Ramsay M. Invasive
+meningococcal disease among university undergraduates:  association with universities
+providing
+relatively
+ large
+ amounts
+ of
+ catered
+ hall
+ accomodations.
+ 
+ Epidemiol
+ Infect
+1999;122:351--7.
+ U.S. Department of Education. National Center for Education Statistics. Digest of
+education statistics, 1998. Washington, DC: NCES 1999-036, 1-545.
+ CDC. Youth risk behavior surveillance:  National College Health Risk Behavior
+Survey---United States, 1995. MMWR 1997;46(No. SS-6):1--54.
+ Public Health Laboratory Service. Vaccination programme for group C meningococcal
+infection is launched.  CDR Weekly 1999;9:261--4.
+ Jackson LA, Schuchat A, Gorsky RD, Wenger JD. Should college students be
+vaccinated against meningococcal disease: a cost-benefit analysis.  Am J Public Health
+1995;85:843--5.
+Table 1Return to top.
+Figure 1Return to top.
+Table 2Return to top.
+Disclaimer
+  
+All MMWR HTML versions of articles are electronic conversions from ASCII text
+into HTML.  This conversion may have resulted in character translation or format errors
+in the HTML version.
+Users  should  not  rely  on  this  HTML  document,  but  are  referred  to  the  electronic  PDF
+version and/or
+the original MMWR paper copy for the official text, figures, and tables.
+An  original  paper  copy  of  this  issue  can  be  obtained  from  the  Superintendent  of
+Documents,
+U.S. Government Printing Office (GPO), Washington, DC 20402-9371; telephone: (202)
+512-1800.
+Contact GPO for current prices.
+**Questions or messages regarding errors in formatting should be addressed to
+mmwrq@cdc.gov. 
+Page converted: 6/27/2000
+ College freshmen, particularly those who live in dormitories, are at modestly
+increased risk for meningococcal disease relative to other persons their age.
+Vaccination  with  the  currently  available  quadrivalent  meningococcal  polysaccharide
+vaccine
+will decrease the risk for meningococcal disease among such persons. Vaccination
+does not eliminate risk because a) the vaccine confers no protection against serogroup
+B disease and b) although the vaccine is highly effective against serogroups C, Y,
+W-135, and A, efficacy is <100%.
+ The risk for meningococcal disease among college students is low; therefore,
+vaccination  of  all  college  students,  all  freshmen,  or  only  freshmen  who  live  in
+dormitories
+or residence halls is not likely to be cost-effective for society as a whole. Thus, ACIP
+is issuing the following recommendations regarding the use of meningococcal
+polysaccharide vaccines for college students.
+ Providers of medical care to incoming and current college freshmen,
+particularly those who plan to or already live in dormitories and residence halls,
+should, during routine medical care, inform these students and their parents
+about meningococcal disease and the benefits of vaccination. ACIP does
+not recommend that the level of increased risk among freshmen warrants
+any specific changes in living situations for freshmen.
+ College freshmen who want to reduce their risk for meningococcal disease
+should either be administered vaccine (by a doctor's office or student health service)
+or directed to a site where vaccine is available.
+ The risk for meningococcal disease among non-freshmen college students is
+similar to that for the general population. However, the vaccine is safe and
+efficacious and therefore can be provided to non-freshmen undergraduates who want
+to reduce their risk for meningococcal disease.
+ Colleges should inform incoming and/or current freshmen, particularly those
+who plan to live or already live in dormitories or residence halls, about
+meningococcal disease and the availability of a safe and effective vaccine.
+ Public health agencies should provide colleges and health-care providers
+with information about meningococcal disease and the vaccine as well as
+information regarding how to obtain vaccine.
+Additional Considerations about Vaccination of
+College Students
+Although the need for revaccination of older children has not been
+determined, antibody levels decline rapidly over 2--3 years
+(6).   Revaccination  may  be  considered  for  freshmen  who  were  vaccinated  more  than
+3--5 years earlier
+(5).  Routine revaccination of college students who were vaccinated as freshmen is not
+indicated.
+College students who are at higher risk for meningococcal disease because of
+a) underlying immune deficiencies or b) travel to countries in which
+N.  meningitidis  is  hyperendemic  or  epidemic  (i.e.,  the  meningitis  belt  of  sub-Saharan
+Africa) should
+be vaccinated (6).  College students who are employed as research, industrial, and
+clinical laboratory personnel who are routinely exposed to
+N.  meningitidis  in  solutions  that  may  be  aerosolized  should  be  considered  for
+vaccination
+(6).
+No data are available regarding whether other closed civilian populations with
+characteristics similar to college freshman living in dormitories (e.g., preparatory
+school students) are at the same increased risk for disease. Prevention efforts should
+focus
+on groups in whom higher risk has been documented.
+CONCLUSIONS
+College freshmen, especially those who live in dormitories, are at a modestly
+increased risk for meningococcal disease compared with other persons of the same
+age, and vaccination with the currently available quadrivalent meningococcal
+polysaccharide vaccine will decrease their risk for meningococcal disease.  Continued
+surveillance is necessary to evaluate the impact of these recommendations, which have
+already prompted many universities and clinicians to offer vaccine to college freshmen.
+Consultation on the use of these recommendations or other issues regarding
+meningococcal disease is available from the Meningitis and Special Pathogens Branch,
+Division of Bacterial and Mycotic Diseases, National Center for Infectious Diseases,
+CDC (telephone: [404] 639-3158).
+Acknowledgement
+The  following  persons  are  acknowledged  for  their  contributions  to  the  economics
+section
+of this report: Martin I. Meltzer, Ph.D. and R. Douglas Scott, II, Ph.D.
+References
+ Schuchat A, Robinson K, Wenger JD, et al. Bacterial meningitis in the United States in
+1995.
+ N Engl J Med 1997;337:970--6.
+ Jackson LA, Schuchat A, Reeves MW, Wenger JD. Serogroup C meningococcal outbreaks
+in the United States: an emerging threat.  JAMA 1995;273:383--9.
+ Woods CR, Rosenstein N, Perkins BA.
+Neisseria meningitidis outbreaks in the United
+States,  1994--97.   Abstracts  of  the  38th  Annual  Meeting  of  the  Infectious  Diseases
+Society of
+America. Denver, Colorado, November 12--15, 1998.
+ Rosenstein NE, Perkins BA, Stephens DS, et al. The changing epidemiology of
+meningococcal
+ disease
+ in
+ the
+ United
+ States,
+ 1992--1996.
+ 
+ J
+ Infect
+ Dis
+1999;180:1894--901.
+ CDC. Control and prevention of meningococcal disease and Meningococcal disease
+and college students: recommendations of the Advisory Committee on Immunization
+Practices (ACIP).  MMWR 2000;49(No. RR-7):1--22.
+ CDC. Control and prevention of meningococcal disease and Control and prevention
+of serogroup C meningococcal disease:  evaluation and management of suspected
+outbreaks---  recommendations of the Advisory Committee on Immunization Practices
+(ACIP).
+MMWR 1997;46(No. RR-5):1--21.
+ Brundage JF, Zollinger WD. Evolution of meningococcal disease epidemiology in the
+U.S. Army. In: Vedros NA, ed. Evolution of meningococccal disease. Vol. 1. Boca Raton:
+CRC Press, Inc., 1987:5--23.
+ Hankins WA, Gwaltney JM, Jr., Hendley JO, Farquhar JD, Samuelson JS. Clinical
+and serological evaluation of a meningococcal polysaccharide vaccine: groups A, C, Y,
+and W135.
+ Proc Soc Exp Biol Med 1982;169:54--7.
+ Artenstein MS, Gold R, Zimmerly JG, Wyle FA, Schneider H, Harkins C. Prevention
+of  meningococcal  disease  by  group  C  polysaccharide  vaccine.   N  Engl  J  Med
+1970;282:417--20.
+ Gold R, Artenstein MS. Meningococcal infections. 2. Field trial of group C
+meningococcal  polysaccharide  vaccine  in  1969--70.   Bull  World  Health  Organ
+1971;45:279--82.
+ Artenstein  MS,  Winter  PE,  Gold  R,  Smith  CD.  Immunoprophylaxis  of  meningococcal
+infection.
+ Military Medicine 1974;139:91--5.
+ Froeschle J. Meningococcal disease in college students.  Clin Infect Dis 1999;29:215--6.
+ Harrison LH, Dwyer DM, Maples CT, Billmann L. Risk of meningococcal infection in
+college students.  JAMA 1999;281:1906--10.
+ Bruce M, Rosenstein NE, Capparella J, Perkins BA, Collins MJ. Meningococcal disease
+in  college  students.   Abstracts  of  the  39th  Annual  Meeting  of  the  Infectious  Diseases
+Society
+of America. Philadelphia, PA, November 18--21, 1999:63.
+ Neal KR, Nguyen-Van-Tam J, Monk P, O'Brien SJ, Stuart J, Ramsay M. Invasive
+meningococcal disease among university undergraduates:  association with universities
+providing
+relatively
+ large
+ amounts
+ of
+ catered
+ hall
+ accomodations.
+ 
+ Epidemiol
+ Infect
+1999;122:351--7.
+ U.S. Department of Education. National Center for Education Statistics. Digest of
+education statistics, 1998. Washington, DC: NCES 1999-036, 1-545.
+ CDC. Youth risk behavior surveillance:  National College Health Risk Behavior
+Survey---United States, 1995. MMWR 1997;46(No. SS-6):1--54.
+ Public Health Laboratory Service. Vaccination programme for group C meningococcal
+infection is launched.  CDR Weekly 1999;9:261--4.
+ Jackson LA, Schuchat A, Gorsky RD, Wenger JD. Should college students be
+vaccinated against meningococcal disease: a cost-benefit analysis.  Am J Public Health
+1995;85:843--5.
+Table 1Return to top.
+Figure 1Return to top.
+Table 2Return to top.
+Disclaimer
+  
+All MMWR HTML versions of articles are electronic conversions from ASCII text
+into HTML.  This conversion may have resulted in character translation or format errors
+in the HTML version.
+Users  should  not  rely  on  this  HTML  document,  but  are  referred  to  the  electronic  PDF
+version and/or
+the original MMWR paper copy for the official text, figures, and tables.
+An  original  paper  copy  of  this  issue  can  be  obtained  from  the  Superintendent  of
+Documents,
+U.S. Government Printing Office (GPO), Washington, DC 20402-9371; telephone: (202)
+512-1800.
+Contact GPO for current prices.
+**Questions or messages regarding errors in formatting should be addressed to
+mmwrq@cdc.gov. 
+Page converted: 6/27/2000
+ Although the need for revaccination of older children has not been
+determined, antibody levels decline rapidly over 2--3 years
+(6).   Revaccination  may  be  considered  for  freshmen  who  were  vaccinated  more  than
+3--5 years earlier
+(5).  Routine revaccination of college students who were vaccinated as freshmen is not
+indicated.
+ College students who are at higher risk for meningococcal disease because of
+a) underlying immune deficiencies or b) travel to countries in which
+N.  meningitidis  is  hyperendemic  or  epidemic  (i.e.,  the  meningitis  belt  of  sub-Saharan
+Africa) should
+be vaccinated (6).  College students who are employed as research, industrial, and
+clinical laboratory personnel who are routinely exposed to
+N.  meningitidis  in  solutions  that  may  be  aerosolized  should  be  considered  for
+vaccination
+(6).
+ No data are available regarding whether other closed civilian populations with
+characteristics similar to college freshman living in dormitories (e.g., preparatory
+school students) are at the same increased risk for disease. Prevention efforts should
+focus
+on groups in whom higher risk has been documented.
+CONCLUSIONS
+College freshmen, especially those who live in dormitories, are at a modestly
+increased risk for meningococcal disease compared with other persons of the same
+age, and vaccination with the currently available quadrivalent meningococcal
+polysaccharide vaccine will decrease their risk for meningococcal disease.  Continued
+surveillance is necessary to evaluate the impact of these recommendations, which have
+already prompted many universities and clinicians to offer vaccine to college freshmen.
+Consultation on the use of these recommendations or other issues regarding
+meningococcal disease is available from the Meningitis and Special Pathogens Branch,
+Division of Bacterial and Mycotic Diseases, National Center for Infectious Diseases,
+CDC (telephone: [404] 639-3158).
+Acknowledgement
+The  following  persons  are  acknowledged  for  their  contributions  to  the  economics
+section
+of this report: Martin I. Meltzer, Ph.D. and R. Douglas Scott, II, Ph.D.
+References
+ Schuchat A, Robinson K, Wenger JD, et al. Bacterial meningitis in the United States in
+1995.
+ N Engl J Med 1997;337:970--6.
+ Jackson LA, Schuchat A, Reeves MW, Wenger JD. Serogroup C meningococcal outbreaks
+in the United States: an emerging threat.  JAMA 1995;273:383--9.
+ Woods CR, Rosenstein N, Perkins BA.
+Neisseria meningitidis outbreaks in the United
+States,  1994--97.   Abstracts  of  the  38th  Annual  Meeting  of  the  Infectious  Diseases
+Society of
+America. Denver, Colorado, November 12--15, 1998.
+ Rosenstein NE, Perkins BA, Stephens DS, et al. The changing epidemiology of
+meningococcal
+ disease
+ in
+ the
+ United
+ States,
+ 1992--1996.
+ 
+ J
+ Infect
+ Dis
+1999;180:1894--901.
+ CDC. Control and prevention of meningococcal disease and Meningococcal disease
+and college students: recommendations of the Advisory Committee on Immunization
+Practices (ACIP).  MMWR 2000;49(No. RR-7):1--22.
+ CDC. Control and prevention of meningococcal disease and Control and prevention
+of serogroup C meningococcal disease:  evaluation and management of suspected
+outbreaks---  recommendations of the Advisory Committee on Immunization Practices
+(ACIP).
+MMWR 1997;46(No. RR-5):1--21.
+ Brundage JF, Zollinger WD. Evolution of meningococcal disease epidemiology in the
+U.S. Army. In: Vedros NA, ed. Evolution of meningococccal disease. Vol. 1. Boca Raton:
+CRC Press, Inc., 1987:5--23.
+ Hankins WA, Gwaltney JM, Jr., Hendley JO, Farquhar JD, Samuelson JS. Clinical
+and serological evaluation of a meningococcal polysaccharide vaccine: groups A, C, Y,
+and W135.
+ Proc Soc Exp Biol Med 1982;169:54--7.
+ Artenstein MS, Gold R, Zimmerly JG, Wyle FA, Schneider H, Harkins C. Prevention
+of  meningococcal  disease  by  group  C  polysaccharide  vaccine.   N  Engl  J  Med
+1970;282:417--20.
+ Gold R, Artenstein MS. Meningococcal infections. 2. Field trial of group C
+meningococcal  polysaccharide  vaccine  in  1969--70.   Bull  World  Health  Organ
+1971;45:279--82.
+ Artenstein  MS,  Winter  PE,  Gold  R,  Smith  CD.  Immunoprophylaxis  of  meningococcal
+infection.
+ Military Medicine 1974;139:91--5.
+ Froeschle J. Meningococcal disease in college students.  Clin Infect Dis 1999;29:215--6.
+ Harrison LH, Dwyer DM, Maples CT, Billmann L. Risk of meningococcal infection in
+college students.  JAMA 1999;281:1906--10.
+ Bruce M, Rosenstein NE, Capparella J, Perkins BA, Collins MJ. Meningococcal disease
+in  college  students.   Abstracts  of  the  39th  Annual  Meeting  of  the  Infectious  Diseases
+Society
+of America. Philadelphia, PA, November 18--21, 1999:63.
+ Neal KR, Nguyen-Van-Tam J, Monk P, O'Brien SJ, Stuart J, Ramsay M. Invasive
+meningococcal disease among university undergraduates:  association with universities
+providing
+relatively
+ large
+ amounts
+ of
+ catered
+ hall
+ accomodations.
+ 
+ Epidemiol
+ Infect
+1999;122:351--7.
+ U.S. Department of Education. National Center for Education Statistics. Digest of
+education statistics, 1998. Washington, DC: NCES 1999-036, 1-545.
+ CDC. Youth risk behavior surveillance:  National College Health Risk Behavior
+Survey---United States, 1995. MMWR 1997;46(No. SS-6):1--54.
+ Public Health Laboratory Service. Vaccination programme for group C meningococcal
+infection is launched.  CDR Weekly 1999;9:261--4.
+ Jackson LA, Schuchat A, Gorsky RD, Wenger JD. Should college students be
+vaccinated against meningococcal disease: a cost-benefit analysis.  Am J Public Health
+1995;85:843--5.
+Table 1Return to top.
+Figure 1Return to top.
+Table 2Return to top.
+Disclaimer
+  
+All MMWR HTML versions of articles are electronic conversions from ASCII text
+into HTML.  This conversion may have resulted in character translation or format errors
+in the HTML version.
+Users  should  not  rely  on  this  HTML  document,  but  are  referred  to  the  electronic  PDF
+version and/or
+the original MMWR paper copy for the official text, figures, and tables.
+An  original  paper  copy  of  this  issue  can  be  obtained  from  the  Superintendent  of
+Documents,
+U.S. Government Printing Office (GPO), Washington, DC 20402-9371; telephone: (202)
+512-1800.
+Contact GPO for current prices.
+**Questions or messages regarding errors in formatting should be addressed to
+mmwrq@cdc.gov. 
+Page converted: 6/27/2000
+ College freshmen, especially those who live in dormitories, are at a modestly
+increased risk for meningococcal disease compared with other persons of the same
+age, and vaccination with the currently available quadrivalent meningococcal
+polysaccharide vaccine will decrease their risk for meningococcal disease.  Continued
+surveillance is necessary to evaluate the impact of these recommendations, which have
+already prompted many universities and clinicians to offer vaccine to college freshmen.
+ Consultation on the use of these recommendations or other issues regarding
+meningococcal disease is available from the Meningitis and Special Pathogens Branch,
+Division of Bacterial and Mycotic Diseases, National Center for Infectious Diseases,
+CDC (telephone: [404] 639-3158).
+Acknowledgement
+The  following  persons  are  acknowledged  for  their  contributions  to  the  economics
+section
+of this report: Martin I. Meltzer, Ph.D. and R. Douglas Scott, II, Ph.D.
+References
+ Schuchat A, Robinson K, Wenger JD, et al. Bacterial meningitis in the United States in
+1995.
+ N Engl J Med 1997;337:970--6.
+ Jackson LA, Schuchat A, Reeves MW, Wenger JD. Serogroup C meningococcal outbreaks
+in the United States: an emerging threat.  JAMA 1995;273:383--9.
+ Woods CR, Rosenstein N, Perkins BA.
+Neisseria meningitidis outbreaks in the United
+States,  1994--97.   Abstracts  of  the  38th  Annual  Meeting  of  the  Infectious  Diseases
+Society of
+America. Denver, Colorado, November 12--15, 1998.
+ Rosenstein NE, Perkins BA, Stephens DS, et al. The changing epidemiology of
+meningococcal
+ disease
+ in
+ the
+ United
+ States,
+ 1992--1996.
+ 
+ J
+ Infect
+ Dis
+1999;180:1894--901.
+ CDC. Control and prevention of meningococcal disease and Meningococcal disease
+and college students: recommendations of the Advisory Committee on Immunization
+Practices (ACIP).  MMWR 2000;49(No. RR-7):1--22.
+ CDC. Control and prevention of meningococcal disease and Control and prevention
+of serogroup C meningococcal disease:  evaluation and management of suspected
+outbreaks---  recommendations of the Advisory Committee on Immunization Practices
+(ACIP).
+MMWR 1997;46(No. RR-5):1--21.
+ Brundage JF, Zollinger WD. Evolution of meningococcal disease epidemiology in the
+U.S. Army. In: Vedros NA, ed. Evolution of meningococccal disease. Vol. 1. Boca Raton:
+CRC Press, Inc., 1987:5--23.
+ Hankins WA, Gwaltney JM, Jr., Hendley JO, Farquhar JD, Samuelson JS. Clinical
+and serological evaluation of a meningococcal polysaccharide vaccine: groups A, C, Y,
+and W135.
+ Proc Soc Exp Biol Med 1982;169:54--7.
+ Artenstein MS, Gold R, Zimmerly JG, Wyle FA, Schneider H, Harkins C. Prevention
+of  meningococcal  disease  by  group  C  polysaccharide  vaccine.   N  Engl  J  Med
+1970;282:417--20.
+ Gold R, Artenstein MS. Meningococcal infections. 2. Field trial of group C
+meningococcal  polysaccharide  vaccine  in  1969--70.   Bull  World  Health  Organ
+1971;45:279--82.
+ Artenstein  MS,  Winter  PE,  Gold  R,  Smith  CD.  Immunoprophylaxis  of  meningococcal
+infection.
+ Military Medicine 1974;139:91--5.
+ Froeschle J. Meningococcal disease in college students.  Clin Infect Dis 1999;29:215--6.
+ Harrison LH, Dwyer DM, Maples CT, Billmann L. Risk of meningococcal infection in
+college students.  JAMA 1999;281:1906--10.
+ Bruce M, Rosenstein NE, Capparella J, Perkins BA, Collins MJ. Meningococcal disease
+in  college  students.   Abstracts  of  the  39th  Annual  Meeting  of  the  Infectious  Diseases
+Society
+of America. Philadelphia, PA, November 18--21, 1999:63.
+ Neal KR, Nguyen-Van-Tam J, Monk P, O'Brien SJ, Stuart J, Ramsay M. Invasive
+meningococcal disease among university undergraduates:  association with universities
+providing
+relatively
+ large
+ amounts
+ of
+ catered
+ hall
+ accomodations.
+ 
+ Epidemiol
+ Infect
+1999;122:351--7.
+ U.S. Department of Education. National Center for Education Statistics. Digest of
+education statistics, 1998. Washington, DC: NCES 1999-036, 1-545.
+ CDC. Youth risk behavior surveillance:  National College Health Risk Behavior
+Survey---United States, 1995. MMWR 1997;46(No. SS-6):1--54.
+ Public Health Laboratory Service. Vaccination programme for group C meningococcal
+infection is launched.  CDR Weekly 1999;9:261--4.
+ Jackson LA, Schuchat A, Gorsky RD, Wenger JD. Should college students be
+vaccinated against meningococcal disease: a cost-benefit analysis.  Am J Public Health
+1995;85:843--5.
+Table 1Return to top.
+Figure 1Return to top.
+Table 2Return to top.
+Disclaimer
+  
+All MMWR HTML versions of articles are electronic conversions from ASCII text
+into HTML.  This conversion may have resulted in character translation or format errors
+in the HTML version.
+Users  should  not  rely  on  this  HTML  document,  but  are  referred  to  the  electronic  PDF
+version and/or
+the original MMWR paper copy for the official text, figures, and tables.
+An  original  paper  copy  of  this  issue  can  be  obtained  from  the  Superintendent  of
+Documents,
+U.S. Government Printing Office (GPO), Washington, DC 20402-9371; telephone: (202)
+512-1800.
+Contact GPO for current prices.
+**Questions or messages regarding errors in formatting should be addressed to
+mmwrq@cdc.gov. 
+Page converted: 6/27/2000
+ The  following  persons  are  acknowledged  for  their  contributions  to  the  economics
+section
+of this report: Martin I. Meltzer, Ph.D. and R. Douglas Scott, II, Ph.D.
+References
+ Schuchat A, Robinson K, Wenger JD, et al. Bacterial meningitis in the United States in
+1995.
+ N Engl J Med 1997;337:970--6.
+ Jackson LA, Schuchat A, Reeves MW, Wenger JD. Serogroup C meningococcal outbreaks
+in the United States: an emerging threat.  JAMA 1995;273:383--9.
+ Woods CR, Rosenstein N, Perkins BA.
+Neisseria meningitidis outbreaks in the United
+States,  1994--97.   Abstracts  of  the  38th  Annual  Meeting  of  the  Infectious  Diseases
+Society of
+America. Denver, Colorado, November 12--15, 1998.
+ Rosenstein NE, Perkins BA, Stephens DS, et al. The changing epidemiology of
+meningococcal
+ disease
+ in
+ the
+ United
+ States,
+ 1992--1996.
+ 
+ J
+ Infect
+ Dis
+1999;180:1894--901.
+ CDC. Control and prevention of meningococcal disease and Meningococcal disease
+and college students: recommendations of the Advisory Committee on Immunization
+Practices (ACIP).  MMWR 2000;49(No. RR-7):1--22.
+ CDC. Control and prevention of meningococcal disease and Control and prevention
+of serogroup C meningococcal disease:  evaluation and management of suspected
+outbreaks---  recommendations of the Advisory Committee on Immunization Practices
+(ACIP).
+MMWR 1997;46(No. RR-5):1--21.
+ Brundage JF, Zollinger WD. Evolution of meningococcal disease epidemiology in the
+U.S. Army. In: Vedros NA, ed. Evolution of meningococccal disease. Vol. 1. Boca Raton:
+CRC Press, Inc., 1987:5--23.
+ Hankins WA, Gwaltney JM, Jr., Hendley JO, Farquhar JD, Samuelson JS. Clinical
+and serological evaluation of a meningococcal polysaccharide vaccine: groups A, C, Y,
+and W135.
+ Proc Soc Exp Biol Med 1982;169:54--7.
+ Artenstein MS, Gold R, Zimmerly JG, Wyle FA, Schneider H, Harkins C. Prevention
+of  meningococcal  disease  by  group  C  polysaccharide  vaccine.   N  Engl  J  Med
+1970;282:417--20.
+ Gold R, Artenstein MS. Meningococcal infections. 2. Field trial of group C
+meningococcal  polysaccharide  vaccine  in  1969--70.   Bull  World  Health  Organ
+1971;45:279--82.
+ Artenstein  MS,  Winter  PE,  Gold  R,  Smith  CD.  Immunoprophylaxis  of  meningococcal
+infection.
+ Military Medicine 1974;139:91--5.
+ Froeschle J. Meningococcal disease in college students.  Clin Infect Dis 1999;29:215--6.
+ Harrison LH, Dwyer DM, Maples CT, Billmann L. Risk of meningococcal infection in
+college students.  JAMA 1999;281:1906--10.
+ Bruce M, Rosenstein NE, Capparella J, Perkins BA, Collins MJ. Meningococcal disease
+in  college  students.   Abstracts  of  the  39th  Annual  Meeting  of  the  Infectious  Diseases
+Society
+of America. Philadelphia, PA, November 18--21, 1999:63.
+ Neal KR, Nguyen-Van-Tam J, Monk P, O'Brien SJ, Stuart J, Ramsay M. Invasive
+meningococcal disease among university undergraduates:  association with universities
+providing
+relatively
+ large
+ amounts
+ of
+ catered
+ hall
+ accomodations.
+ 
+ Epidemiol
+ Infect
+1999;122:351--7.
+ U.S. Department of Education. National Center for Education Statistics. Digest of
+education statistics, 1998. Washington, DC: NCES 1999-036, 1-545.
+ CDC. Youth risk behavior surveillance:  National College Health Risk Behavior
+Survey---United States, 1995. MMWR 1997;46(No. SS-6):1--54.
+ Public Health Laboratory Service. Vaccination programme for group C meningococcal
+infection is launched.  CDR Weekly 1999;9:261--4.
+ Jackson LA, Schuchat A, Gorsky RD, Wenger JD. Should college students be
+vaccinated against meningococcal disease: a cost-benefit analysis.  Am J Public Health
+1995;85:843--5.
+Table 1Return to top.
+Figure 1Return to top.
+Table 2Return to top.
+Disclaimer
+  
+All MMWR HTML versions of articles are electronic conversions from ASCII text
+into HTML.  This conversion may have resulted in character translation or format errors
+in the HTML version.
+Users  should  not  rely  on  this  HTML  document,  but  are  referred  to  the  electronic  PDF
+version and/or
+the original MMWR paper copy for the official text, figures, and tables.
+An  original  paper  copy  of  this  issue  can  be  obtained  from  the  Superintendent  of
+Documents,
+U.S. Government Printing Office (GPO), Washington, DC 20402-9371; telephone: (202)
+512-1800.
+Contact GPO for current prices.
+**Questions or messages regarding errors in formatting should be addressed to
+mmwrq@cdc.gov.  
+ 
+Disclaimer
+  
+All MMWR HTML versions of articles are electronic conversions from ASCII text
+into HTML.  This conversion may have resulted in character translation or format errors
+in the HTML version.
+Users  should  not  rely  on  this  HTML  document,  but  are  referred  to  the  electronic  PDF
+version and/or
+the original MMWR paper copy for the official text, figures, and tables.
+An  original  paper  copy  of  this  issue  can  be  obtained  from  the  Superintendent  of
+Documents,
+U.S. Government Printing Office (GPO), Washington, DC 20402-9371; telephone: (202)
+512-1800.
+Contact GPO for current prices. Page converted: 6/27/2000 
+    HOME  |  
+    ABOUT MMWR  | 
+    MMWR SEARCH  | 
+    DOWNLOADS  | 
+    RSS 
+    |  
+    CONTACT
+POLICY  |  
+    DISCLAIMER  |  
+    ACCESSIBILITY 
+Morbidity and Mortality Weekly Report
+                Centers for Disease Control and Prevention
+                1600 Clifton Rd, MailStop E-90, Atlanta, GA 
+                  30333, U.S.A 
+Department of Healthand Human Services This page last reviewed 5/2/01 
+ 
+Source URL: https://www.cdc.gov/mmwr/preview/mmwrhtml/rr4907a2.htm

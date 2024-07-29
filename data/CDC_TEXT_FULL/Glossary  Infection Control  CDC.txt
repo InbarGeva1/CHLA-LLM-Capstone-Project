@@ -1,0 +1,285 @@
+A .gov website belongs to an official government organization in the United States. A
+lock (  ) or https:// means you've safely connected to the .gov website. Share sensitive
+information  only  on  official,  secure  websites.  Below  is  a  glossary  of  terms  used
+throughout  the  Guideline  for  Isolation  Precautions:  Preventing  Transmission  of
+Infectious Agents in Healthcare Settings (2007). Formerly, negative pressure isolation
+room, an AIIR is a single-occupancy patient-care room used to isolate persons with a
+suspected  or  confirmed  airborne  infectious  disease.  Environmental  factors  are
+controlled  in  AIIRs  to  minimize  the  transmission  of  infectious  agents  that  are  usually
+transmitted  from  person  to  person  by  droplet  nuclei  associated  with  coughing  or
+aerosolization  of  contaminated  fluids.  AIIRs  should  providenegative  pressure  in  the
+room (so that air flows under the door gap into the room); andan air flow rate of 6-12
+ACH
+ (6
+ ACH
+ for
+ existing
+ structures,
+ 12
+ ACH
+ for
+ new
+ construction
+ or
+renovation);anddirect  exhaust  of  air  from  the  room  to  the  outside  of  the  building  or
+recirculation of air through a HEPA filter before retruning to circulation (MMWR 2003; 52
+[RR-10]; MMWR 1994; 43 [RR-13]). A professional organization that develops standards
+for  building  ventilation,  The  "2001Guidelines  for  Design  and  Construction  of  Hospital
+and  Health  Care  Facilities",  the  development  of  which  was  supported  by  the  AIA,
+Academy of Architecture for Health, Facilities Guideline Institute, with assistance from
+the  U.S.  Department  of  Health  and  Human  Services  and  the  National  Institutes  of
+Health, is the primary source of guidance for creating airborne infection isolation rooms
+(AIIRs)  and  protective  environments  (American  Institute  of  Architects  –  Academy  of
+Architecture  for  HealthExternal  [Current  version  of  this  document  may  differ  from
+original.])  Facilities  that  provide  health  care  to  patients  who  do  not  remain  overnight
+(e.g., hospital-based outpatient clinics, nonhospital-based clinics and physician offices,
+urgent  care  centers,  surgicenters,  free-standing  dialysis  centers,  public  health  clinics,
+imaging  centers,  ambulatory  behavioral  health  and  substance  abuse  clinics,  physical
+therapy  and  rehabilitation  centers,  and  dental  practices.  An  airborne  dispersion  of
+particles containing whole or parts of biological entities, such as bacteria, viruses, dust
+mites,  fungal  hyphae,  or  fungal  spores.  Such  aerosols  usually  consist  of  a  mixture  of
+mono-dispersed and aggregate cells, spores or viruses, carried by other materials, such
+as  respiratory  secretions  and/or  inert  particles.  Infectious  bioaerosols  (i.e.,  those  that
+contain  biological  agents  capable  of  causing  an  infectious  disease)  can  be  generated
+from  human  sources  (e.g.,  expulsion  from  the  respiratory  tract  during  coughing,
+sneezing, talking or singing; during suctioning or wound irrigation), wet environmental
+sources  (e.g.,  HVAC  and  cooling  tower  water  with  Legionella)  or  dry  sources  (e.g.,
+construction dust with spores produced by Aspergillus spp.). Bioaerosols include large
+respiratory  droplets  and  small  droplet  nuclei  (Cole  EC.  AJIC  1998;26:  453-64).  All
+persons who are not employees of an organization, are not paid, and provide or assist
+in providing healthcare to a patient (e.g., family member, friend) and acquire technical
+training as needed based on the tasks that must be performed. In the context of this
+guideline,  this  term  applies  to  the  practice  of  grouping  patients  infected  or  colonized
+with the same infectious agent together to confine their care to one area and prevent
+contact  with  susceptible  patients  (cohorting  patients).  During  outbreaks,  healthcare
+personnel  may  be  assigned  to  a  cohort  of  patients  to  further  limit  opportunities  for
+transmission  (cohorting  staff).  Proliferation  of  microorganisms  on  or  within  body  sites
+without detectable host immune response, cellular damage, or clinical expression. The
+presence of a microorganism within a host may occur with varying duration, but may
+become  a  source  of  potential  transmission.  In  many  instances,  colonization  and
+carriage are synonymous. Microscopic particles < 5 µm in size that are the residue of
+evaporated  droplets  and  are  produced  when  a  person  coughs,  sneezes,  shouts,  or
+sings.  These  particles  can  remain  suspended  in  the  air  for  prolonged  periods  of  time
+and can be carried on normal air currents in a room or beyond, to adjacent spaces or
+areas  receiving  exhaust  air.  Removal  or  isolation  of  a  workplace  hazard  through
+technology.  AIIRs,  a  Protective  Environment,  engineered  sharps  injury  prevention
+devices and sharps containers are examples of engineering controls. Infectious agents
+that have one or more of the following characteristics: Examples include Acinetobacter
+sp.,
+ Aspergillus
+ sp.,
+ Burkholderia
+ cepacia,
+ Clostridium
+ difficile,
+ Klebsiella
+ or
+Enterobacter  sp.,  Extended  spectrum  beta  lactamase  producing  gram  negative  bacilli
+[ESBLs], methicillin-resistant Staphylococcus aureus [MRSA], Pseudomonas aeruginosa,
+vancomycin-resistant  enterococci  [VRE],  methicillin  resistant  Staphylococcus  aureus
+[MRSA], vancomycin resistant Staphylococcus aureus [VRSA]influenza virus, respiratory
+syncytial  virus  [RSV],  rotavirus,  SARS-CoV,  noroviruses  and  the  hemorrhagic  fever
+viruses).  A  general  term  that  applies  to  any  one  of  the  following:  An  infection  that
+develops in a patient who is cared for in any setting where healthcare is delivered (e.g.,
+acute care hospital, chronic care facility, ambulatory clinic, dialysis center, surgicenter,
+home) and is related to receiving health care (i.e., was not incubating or present at the
+time healthcare was provided). In ambulatory and home settings, HAI would apply to
+any  infection  that  is  associated  with  a  medical  or  surgical  intervention.  Since  the
+geographic  location  of  infection  acquisition  is  often  uncertain,  the  preferred  term  is
+considered  to  be  healthcare-associated  rather  than  healthcare-acquired.  A  person
+whose  primary  training  is  medical  (M.D.,  D.O.)  and/or  masters  or  doctorate-level
+epidemiology who has received advanced training in healthcare epidemiology. Typically
+these professionals direct or provide consultation to an infection control program in a
+hospital, long term care facility (LTCF), or healthcare delivery system (also see infection
+control  professional).  All  paid  and  unpaid  persons  who  work  in  a  healthcare  setting
+(e.g., any person who has professional or technical training in a healthcare-related field
+and provides patient care in a healthcare setting or any person who provides services
+that  support  the  delivery  of  healthcare  such  as  dietary,  housekeeping,  engineering,
+maintenance  personnel).  Any  transplantation  of  blood-  or  bone  marrow-derived
+hematopoietic stem cells, regardless of donor type (e.g., allogeneic or autologous) or
+cell  source  (e.g.,  bone  marrow,  peripheral  blood,  or  placental/umbilical  cord  blood);
+associated with periods of severe immunosuppression that vary with the source of the
+cells,  the  intensity  of  chemotherapy  required,  and  the  presence  of  graft  versus  host
+disease  (MMWR  2000;  49:  RR-10).  An  air  filter  that  removes  >99.97%  of  particles  ≥
+0.3µm (the most penetrating particle size) at a specified flow rate of air. HEPA filters
+may be integrated into the central air handling systems, installed at the point of use
+above  the  ceiling  of  a  room,  or  used  as  portable  units  (MMWR  2003;  52:  RR-10).  A
+wide-range of medical, nursing, rehabilitation, hospice and social services delivered to
+patients in their place of residence (e.g., private residence, senior living center, assisted
+living facility). Home health-care services include care provided by home health aides
+and  skilled  nurses,  respiratory  therapists,  dieticians,  physicians,  chaplains,  and
+volunteers;  provision  of  durable  medical  equipment;  home  infusion  therapy;  and
+physical, speech, and occupational therapy. Those patients whose immune mechanisms
+are  deficient  because  of  congenital  or  acquired  immunologic  disorders  (e.g.,  human
+immunodeficiency  virus  [HIV]  infection,  congenital  immune  deficiency  syndromes),
+chronic diseases such as diabetes mellitus, cancer, emphysema, or cardiac failure, ICU
+care,  malnutrition,  and  immunosuppressive  therapy  of  another  disease  process  [e.g.,
+radiation,  cytotoxic  chemotherapy,  anti-graft-rejection  medication,  corticosteroids,
+monoclonal antibodies directed against a specific component of the immune system]).
+The  type  of  infections  for  which  an  immunocompromised  patient  has  increased
+susceptibility  is  determined  by  the  severity  of  immunosuppression  and  the  specific
+component(s)  of  the  immune  system  that  is  affected.  Patients  undergoing  allogeneic
+HSCT  and  those  with  chronic  graft  versus  host  disease  are  considered  the  most
+vulnerable to HAIs. Immunocompromised states also make it more difficult to diagnose
+certain  infections  (e.g.,  tuberculosis)  and  are  associated  with  more  severe  clinical
+disease states than persons with the same infection and a normal immune system. The
+transmission  of  microorganisms  into  a  host  after  evading  or  overcoming  defense
+mechanisms, resulting in the organism's proliferation and invasion within host tissue(s).
+Host responses to infection may include clinical symptoms or may be subclinical, with
+manifestations of disease mediated by direct organisms pathogenesis and/or a function
+of cell-mediated or antibody responses that result in the destruction of host tissues. A
+person whose primary training is in either nursing, medical technology, microbiology, or
+epidemiology  and  who  has  acquired  specialized  training  in  infection  control.
+Responsibilities  may  include  collection,  analysis,  and  feedback  of  infection  data  and
+trends  to  healthcare  providers;  consultation  on  infection  risk  assessment,  prevention
+and
+ control
+ strategies;
+ performance
+ of
+ education
+ and
+ training
+ activities;
+implementation  of  evidence-based  infection  control  practices  or  those  mandated  by
+regulatory  and  licensing  agencies;  application  of  epidemiologic  principles  to  improve
+patient outcomes; participation in planning renovation and construction projects (e.g.,
+to ensure appropriate containment of construction dust); evaluation of new products or
+procedures  on  patient  outcomes;  oversight  of  employee  health  services  related  to
+infection prevention; implementation of preparedness plans; communication within the
+healthcare setting, with local and state health departments, and with the community at
+large concerning infection control issues; and participation in research. Certification in
+infection  control  (CIC)  is  available  through  the  Certification  Board  of  Infection  Control
+and  Epidemiology.  A  multidisciplinary  program  that  includes  a  group  of  activities  to
+ensure  that  recommended  practices  for  the  prevention  of  healthcare-associated
+infections are implemented and followed by HCWs, making the healthcare setting safe
+from  infection  for  patients  and  healthcare  personnel.  The  Joint  Commission  on
+Accreditation  of  Healthcare  Organizations  (JCAHO)  requires  the  following  five
+components  of  an  infection  control  program  for  accreditation:  The  infection  control
+program  staff  has  the  ultimate  authority  to  determine  infection  control  policies  for  a
+healthcare  organization  with  the  approval  of  the  organization's  governing  body.  An
+array  of  residential  and  outpatient  facilities  designed  to  meet  the  bio-psychosocial
+needs  of  persons  with  sustained  self-care  deficits.  These  include  skilled  nursing
+facilities, chronic disease hospitals, nursing homes, foster and group homes, institutions
+for  the  developmentally  disabled,  residential  care  facilities,  assisted  living  facilities,
+retirement homes, adult day health care facilities, rehabilitation centers, and long-term
+psychiatric hospitals. A term that applies collectively to items used to cover the nose
+and  mouth  and  includes  both  procedure  masks  and  surgical  masks  ([This  link  is  no
+longer active: www.fda.gov/cdrh/ode/guidance/094.html#4. Similar information may be
+found  at  FDA:  Masks  and  N95  RespiratorsExternal,  accessed  May  2016.]).  In  general,
+bacteria  (excluding  M.  tuberculosis)  that  are  resistant  to  one  or  more  classes  of
+antimicrobial  agents  and  usually  are  resistant  to  all  but  one  or  two  commercially
+available  antimicrobial  agents  (e.g.,  MRSA,  VRE,  extended  spectrum  beta-lactamase
+[ESBL]-producing or intrinsically resistant gram-negative bacilli) 176. Derived from two
+Greek words "nosos" (disease) and "komeion" (to take care of). Refers to any infection
+that develops during or as a result of an admission to an acute care facility (hospital)
+and was not incubating at the time of admission. A variety of barriers used alone or in
+combination  to  protect  mucous  membranes,  skin,  and  clothing  from  contact  with
+infectious  agents.  PPE  includes  gloves,  masks,  respirators,  goggles,  face  shields,  and
+gowns. A covering for the nose and mouth that is intended for use in general patient
+care situations. These masks generally attach to the face with ear loops rather than ties
+or elastic. Unlike surgical masks, procedure masks are not regulated by the Food and
+Drug Administration. See FDA's Masks and N95 Respirators. A specialized patient-care
+area, usually in a hospital, with a positive air flow relative to the corridor (i.e., air flows
+from  the  room  to  the  outside  adjacent  space).  The  combination  of  high-efficiency
+particulate air (HEPA) filtration, high numbers (≥12) of air changes per hour (ACH), and
+minimal  leakage  of  air  into  the  room  creates  an  environment  that  can  safely
+accommodate patients with a severely compromised immune system (e.g., those who
+have  received  allogeneic  hemopoietic  stem-cell  transplant  [HSCT])  and  decrease  the
+risk of exposure to spores produced by environmental fungi. Other components include
+use  of  scrubbable  surfaces  instead  of  materials  such  as  upholstery  or  carpeting,
+cleaning to prevent dust accumulation, and prohibition of fresh flowers or potted plants.
+Studies  to  evaluate  interventions  but  do  not  use  randomization  as  part  of  the  study
+design.  These  studies  are  also  referred  to  as  nonrandomized,  pre-post-intervention
+study designs. These studies aim to demonstrate causality between an intervention and
+an outcome but cannot achieve the level of confidence concerning attributable benefit
+obtained through a randomized, controlled trial. In hospitals and public health settings,
+randomized  control  trials  often  cannot  be  implemented  due  to  ethical,  practical  and
+urgency  reasons;  therefore,  quasi-experimental  design  studies  are  used  commonly.
+However, even if an intervention appears to be effective statistically, the question can
+be  raised  as  to  the  possibility  of  alternative  explanations  for  the  result.  Such  study
+design  is  used  when  it  is  not  logistically  feasible  or  ethically  possible  to  conduct  a
+randomized,  controlled  trial,  (e.g.,  during  outbreaks).  Within  the  classification  of
+quasi-experimental  study  designs,  there  is  a  hierarchy  of  design  features  that  may
+contribute  to  validity  of  results  (Harris  et  al.  CID  2004:38:  1586).  A  facility  in  which
+people  live,  minimal  medical  care  is  delivered,  and  the  psychosocial  needs  of  the
+residents are provided for. A personal protective device worn by healthcare personnel
+over the nose and mouth to protect them from acquiring airborne infectious diseases
+due to inhalation of infectious airborne particles that are < 5 μm in size. These include
+infectious  droplet  nuclei  from  patients  with  M.  tuberculosis,  variola  virus  [smallpox],
+SARS-CoV),  and  dust  particles  that  contain  infectious  particles,  such  as  spores  of
+environmental fungi (e.g., Aspergillus sp.). The CDC's National Institute for Occupational
+Safety  and  Health  (NIOSH)  certifies  respirators  used  in  healthcare  settings  (Personal
+Protective Equipment for Healthcare Workers). [Current version of this document may
+differ from original.]. The N95 disposable particulate, air purifying, respirator is the type
+used most commonly by healthcare personnel. Other respirators used include N-99 and
+N-100  particulate  respirators,  powered  air-purifying  respirators  (PAPRS)  with  high
+efficiency  filters;  and  non-powered  full-facepiece  elastomeric  negative  pressure
+respirators.  A  listing  of  NIOSH-approved  respirators  can  be  found  at  [This  link  is  no
+longer
+ active:
+ www.cdc.gov/niosh/npptl/respirators/disp_part/particlist.html.
+ Similar
+information  may  be  found  at  NIOSH  Respirator  Trusted-Source  Information.].
+Respirators  must  be  used  in  conjunction  with  a  complete  Respiratory  Protection
+Program, as required by the Occupational Safety and Health Administration (OSHA) that
+includes  fit  testing,  training,  proper  selection  of  respirators,  medical  clearance  and
+respirator  maintenance  A  combination  of  measures  designed  to  minimize  the
+transmission  of  respiratory  pathogens  via  droplet  or  airborne  routes  in  healthcare
+settings. The components of respiratory hygiene/cough etiquette are These measures
+are  targeted  to  all  patients  with  symptoms  of  respiratory  infection  and  their
+accompanying  family  members  or  friends  beginning  at  the  point  of  initial  encounter
+with a healthcare setting (e.g., reception/triage in emergency departments, ambulatory
+clinics, healthcare provider offices) 126 (Srinivasin A ICHE 2004; 25: 1020; Respiratory
+Hygiene/Cough Etiquette in Healthcare Settings [Current version of this document may
+differ  from  original.])  Shared  perceptions  of  workers  and  management  regarding  the
+level of safety in the work environment. A hospital safety climate includes the following
+six organizational components: The process of containing an infectious agent either at
+the portal of exit from the body or within a confined space. The term is applied most
+frequently to containment of infectious agents transmitted by the respiratory route but
+could apply to other routes of transmission, (e.g., a draining wound, vesicular or bullous
+skin  lesions).  Respiratory  Hygiene/Cough  Etiquette  that  encourages  individuals  to
+"cover  your  cough"  and/or  wear  a  mask  is  a  source  control  measure.  The  use  of
+enclosing  devices  for  local  exhaust  ventilation  (e.g.,  booths  for  sputum  induction  or
+administration of aerosolized medication) is another example of source control. A group
+of infection prevention practices that apply to all patients, regardless of suspected or
+confirmed  diagnosis  or  presumed  infection  status.  Standard  Precautions  is  a
+combination and expansion of Universal Precautions 780 and Body Substance Isolation
+1102.  Standard  Precautions  is  based  on  the  principle  that  all  blood,  body  fluids,
+secretions,  excretions  except  sweat,  nonintact  skin,  and  mucous  membranes  may
+contain  transmissible  infectious  agents.  Standard  Precautions  includes  hand  hygiene,
+and depending on the anticipated exposure, use of gloves, gown, mask, eye protection,
+or face shield. Also, equipment or items in the patient environment likely to have been
+contaminated  with  infectious  fluids  must  be  handled  in  a  manner  to  prevent
+transmission of infectious agents, (e.g., wear gloves for handling, contain heavily soiled
+equipment, properly clean and disinfect or sterilize reusable equipment before use on
+another patient). A device worn over the mouth and nose by operating room personnel
+during  surgical  procedures  to  protect  both  surgical  patients  and  operating  room
+personnel  from  transfer  of  microorganisms  and  body  fluids.  Surgical  masks  also  are
+used to protect healthcare personnel from contact with large infectious droplets (>5 μm
+in  size).  According  to  draft  guidance  issued  by  the  Food  and  Drug  Administration  on
+May 15, 2003, surgical masks are evaluated using standardized testing procedures for
+fluid resistance, bacterial filtration efficiency, differential pressure (air exchange), and
+flammability in order to mitigate the risks to health associated with the use of surgical
+masks.  These  specifications  apply  to  any  masks  that  are  labeled  surgical,  laser,
+isolation,
+ or
+ dental
+ or
+ medical
+ procedure
+ ([This
+ link
+ is
+ no
+ longer
+ active:
+www.fda.gov/cdrh/ode/guidance/094.html#4. Similar information may be found at FDA:
+Masks  and  N95  Respirators,  accessed  May  2016.]).  Surgical  masks  do  not  protect
+against inhalation of small particles or droplet nuclei and should not be confused with
+particulate respirators that are recommended for protection against selected airborne
+infectious  agents,  (e.g.,  Mycobacterium  tuberculosis).  CDC  provides  information  on
+infection  control  and  clinical  safety  to  help  reduce  the  risk  of  infections  among
+healthcare workers, patients, and visitors. Languages Language Assistance Languages 
+Language Assistance 
+Source URL: https://www.cdc.gov/infection-control/hcp/isolation-precautions/glossary.html

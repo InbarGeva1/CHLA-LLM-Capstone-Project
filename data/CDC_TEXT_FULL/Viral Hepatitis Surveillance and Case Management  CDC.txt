@@ -1,0 +1,63 @@
+Official websites use .gov A .gov website belongs to an official government organization
+in  the  United  States.  Secure  .gov  websites  use  HTTPS  A  lock  (   )  or  https://  means
+you've  safely  connected  to  the  .gov  website.  Share  sensitive  information  only  on
+official, secure websites. Viral Hepatitis Surveillance and Case Management: Guidance
+for State, Territorial, and Local Health Departments is published by the Division of Viral
+Hepatitis, National Center for HIV, Viral Hepatitis, STD, and TB Prevention, Centers for
+Disease Control and Prevention, US Department of Health and Human Services, Atlanta,
+Georgia  in  collaboration  with  viral  hepatitis  subject  matter  experts  from  health
+departments,  the  Council  of  State  and  Territorial  Epidemiologists,  and  the  National
+Alliance  of  State  and  Territorial  AIDS  Directors.  The  purpose  of  this  document  is  to
+provide jurisdictional guidance to implement and improve hepatitis A, hepatitis B, and
+hepatitis  C  surveillance  and  case  management,  including  reporting  requirements,
+collection  of  relevant  laboratory  data,  and  case  investigation.  Given  that  current
+systems for the surveillance and follow-up of cases differ by jurisdiction, the standards
+outlined  in  this  document  are  designed  to  provide  models  for  best  practices,
+recognizing  that  not  every  jurisdiction  can  meet  those  standards  with  available
+resources. All material contained in this report is in the public domain and may be used
+and reprinted without special permission; however, citation as to source is appreciated.
+Terms, Abbreviations,
+and Acronyms Index of
+Figures  and  Tables  Appendices  Since  the  2005  edition  of  the  Guidelines  for  Viral
+Hepatitis Surveillance and Case Management, the epidemiology of viral hepatitis in the
+United  States  has  changed  substantially.  Decreases  in  hepatitis  A  incidence  that
+occurred following release of the hepatitis A vaccine in the late 1990s ended in 2016,
+when  large  person-to-person  outbreaks  of  hepatitis  A  began  being  reported  primarily
+among  people  who  use  drugs  (PWUD)  and  people  experiencing  homelessness.
+Decreases in acute hepatitis B incidence that occurred after release of the hepatitis B
+vaccine  in  the  1980s  ceased  in  2010.  Also  in  2010,  decreases  in  acute  hepatitis  C
+incidence  that  were  first  observed  in  the  1990s  began  to  reverse.  Rates  of  acute
+hepatitis C have most notably increased among people 20–49 years of age, American
+Indian/Alaska Native people, and non-Hispanic White people. The shift in acute hepatitis
+B and hepatitis C incidence is most evident in jurisdictions disproportionately affected
+by the opioid crisis. Cases of hepatitis A; acute, chronic, and perinatal hepatitis B; and
+acute, chronic, and perinatal hepatitis C should be classified in accordance with their
+respective  CDC/CSTE  surveillance  case  definition.  The  scenarios  provided  in  the
+following  tables  can  serve  as  guidance  for  classification  of  these  cases.  Technical
+assistance is available for more complex scenarios by contacting the assigned regional
+CDC  DVH  technical  assistance  team.  The  Centers  for  Disease  Control  and  Prevention
+(CDC)  editor  of  the  Viral  Hepatitis  Surveillance  and  Case  Management:  Guidance  for
+State,  Territorial,  and  Local  Health  Departments  was  Kathleen  Ly,  Epidemiologist
+(Surveillance  Team/Division  of  Viral  Hepatitis)  with  leadership  and  guidance  from  Dr.
+Ruth Jiles (currently Senior Scientist, Surveillance Team/Division of Viral Hepatitis). Dr.
+Alfred DeMaria, Medical and Laboratory Consultant at the Massachusetts Department of
+Public  Health,  served  as  the  external  editor.  This  guidance  was  developed  in
+collaboration with staff from state, territorial, and local health departments, with input
+from  Ashley  Vineyard  (Council  of  State  and  Territorial  Epidemiologist)  and  Boatemaa
+Nitri-Reed  (National  Alliance  of  State  and  Territorial  AIDS  Directors).  Rachel  Wilson
+(Division  of  Viral  Hepatitis)  reviewed  and  edited  this  document  for  clarity  and
+consistency  with  CDC  publishing  guidelines.  View  the  list  of  experts  in  viral  hepatitis
+surveillance contributed to the condition-specific sections. Centers for Disease Control
+and Prevention. Viral Hepatitis Surveillance and Case Management: Guidance for State,
+Territorial, and Local Health Departments.
+https://www.cdc.gov/hepatitis/statistics/GuidelinesAndForms.htm.
+ Published
+ August
+2021.  Accessed  August  16,  2021.  View  list  of  references  cited  throughout  the
+document. CDC disclaimer: The findings and conclusions in this document are those of
+the  author(s)  and  do  not  necessarily  represent  the  official  position  of  the  Centers  for
+Disease Control and Prevention/Agency for Toxic Substances and Disease Registry. Fair
+Use  disclaimer:  This  document  contains  some  copyrighted  content  not  authorized  for
+use by the owner. Use of copyrighted content falls under the guidelines of fair use per
+Section 107 of the Copyright Act. Attribution is provided for all copyrighted content.
+Source URL: https://www.cdc.gov/hepatitis/statistics/surveillanceguidance/index.htm

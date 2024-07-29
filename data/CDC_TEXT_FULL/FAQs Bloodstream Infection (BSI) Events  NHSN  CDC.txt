@@ -1,0 +1,617 @@
+Official websites use .gov A .gov website belongs to an official government organization
+in  the  United  States.  Secure  .gov  websites  use  HTTPS  A  lock  (   )  or  https://  means
+you've  safely  connected  to  the  .gov  website.  Share  sensitive  information  only  on
+official, secure websites. If you believe an LCBI is secondary to a non-blood source of
+infection, you must first fully meet one of the NHSN site-specific infection definitions as
+defined  in  Chapter  17  (CDC/NHSN  Surveillance  Definitions  for  Specific  Types  of
+Infections),  or  the  PNEU,  UTI,  or  SSI  protocols.  Once  you  have  done  this,  apply  the
+Appendix B guidelines (Secondary BSI Guide) located in Chapter 4 [PDF – 900 KB] of the
+NHSN Patient Safety Component Manual. There are only 2 scenarios in which a BSI can
+be deemed secondary to another site- specific infection for NHSN reporting purposes:
+OR  The  rules  for  the  infection  window  period  and  secondary  BSI  attribution  period
+always apply. More guidance about these rules can be found in Chapter 2 (Identifying
+HAIs in NHSN) [PDF – 1 MB]. Additionally, a BSI may also be secondary to VAE following
+the guidance outlined in the VAE protocol [PDF – 2 MB]. NOTE: If the patient does not
+meet any of the site-specific infection criteria from PNEU, UTI, SSI, VAE, or any of the
+definitions in Chapter 17 and does not meet the requirements for secondary BSI, then
+the LCBI must be reported as a primary LCBI and as a CLABSI if an eligible central line is
+present  on  the  BSI  date  of  event  or  the  day  before.   NHSN  developed  Table  B-1
+(Secondary  BSI  Guide)  as  a  reference  to  assist  users  in  making  secondary  BSI
+determinations. The table lists definitions that require a blood specimen with at least
+one matching organism to the site-specific specimen (Scenario #1) and definitions that
+use a blood specimen as an element to meet the site-specific definition (Scenario #2).
+All elements of the site-specific infection definitions must be met before a secondary
+BSI determination can be made. Table B-1 can be found in Chapter 4 [PDF – 1 MB] of
+the  Device  Associated  Module  BSI.  To  determine  if  a  positive  blood  culture  can  be
+attributed  as  a  secondary  bloodstream  infection  (BSI)  related  to  a  lower  respiratory
+tract  event,  consider  the  following  steps:  1)  Does  the  patient  meet  any  of  the  VAE
+definitions?  2)   If  the  BSI  cannot  be  attributed  as  a  secondary  BSI  to  VAE,  then  the
+positive blood culture can be evaluated to see if it is secondary to any of the infection
+sites as defined in Chapter 17 or PNEU, UTI, or SSI event protocols. If another specific
+site infection to which the bloodstream infection can be attributed as a secondary BSI is
+not identified, the BSI may need to be reported as a primary BSI/CLABSI. See VAE FAQ
+#20 (https://www.cdc.gov/nhsn/faqs/faq-vae.html) for guidance on reporting secondary
+BSI pathogens for PVAP events. Yes, it is possible. A secondary BSI cannot be attributed
+to PNU1. However, in this instance if a BSI is thought to be secondary to pneumonia but
+the blood culture collection date did not occur within the infection window period such
+that it could be used as an element to meet the PNU2 definition, reassess to determine
+if  the  PNU2  definition  can  be  met  within  the  PNEU  RIT.  Similarly,  if  PNU2  is  met  and
+there is a subsequent blood specimen with an eligible pathogen, however it does not
+match the specimen used to originally meet PNU2, then reassess to determine if PNU2
+can be met using the blood culture such that the date of event falls within the originally
+established  PNEU  RIT.  Note:  When  re-meeting  PNEU  within  the  RIT,  provided  that
+definitive imaging findings are persistent, a single definitive imaging finding with a test
+date  that  occurs  in  a  new  IWP  and  demonstrates  evidence  of  persistence  of  prior
+eligible findings will satisfy the imaging requirement for all patients. New or progressive
+or serial imaging (for patients with underlying cardiac or pulmonary disease) does not
+have to be re-demonstrated. Evidence of persistence of eligible findings alone will meet
+the imaging requirement in the RIT. See the example and the table below. Example All
+elements  necessary  to  satisfy  the  PNU1  definition  occur  within  the  infection  window
+period. The date of event is 2/14. This establishes a PNEU (PNU1) RIT 2/14- 2/27 and a
+BSI secondary attribution period (SBAP) 2/11 – 2/27.  Subsequently a blood specimen
+with  a  collection  date  2/20  identifies  Pseudomonas  aeruginosa.  The  collection  date  is
+within the secondary BSI attribution period for the PNEU event however a secondary BSI
+cannot  be  reported  for  PNU1  since  the  blood  culture  is  not  used  to  satisfy  the  PNU1
+definition and there is no site-specific culture to which the blood culture pathogen can
+match. If during the PNEU RIT and within a new IWP, all elements needed to meet the
+PNU2 definition are present to include the blood specimen and this results in a date of
+event within the RIT, then the BSI can be attributed as secondary to the PNEU event. 
+The  PNEU  date  of  event  remains  (2/14),  as  does  the  originally  determined  RIT,
+secondary  BSI  attribution  period,  device  association  and  location  of  attribution.  If  the
+PNU2 definition is not met as described above and if additionally, another site-specific
+infection for which the BSI can be attributed as a secondary BSI is not identified, then
+the BSI is a primary BSI/CLABSI.  To deem a blood culture secondary to GIT 1b or IAB 2b
+when organisms are identified on histopathologic exam, you must meet the following
+criteria:    2/2:  Pathology  Report:  “Classical  budding  hyphae  and  spores  of  Candida
+admixed with ulcer slough (intestines).  2/4: Blood culture: Candida albicans.  Because
+the Candida in the blood culture is an MBI Organism, the histopathologic findings and
+blood  specimen  are  captured  in  the  GIT  IWP,  and  the  organism  identified  in  the
+pathology report and blood specimen match, the Candida blood specimen is deemed
+secondary to a GIT 1b. If a single blood culture contains an organism that matches the
+site-specific  specimen  and  an  organism  that  does  not  match,  the  non-matching
+organism can be captured in the secondary bloodstream infection period (SBAP).  The
+non-matching organism is captured only when it is in the same blood specimen with a
+matching organism. If there are subsequent blood cultures with only the non-matching
+organism, you must assess these blood cultures for LCBI criteria.  For example, a SUTI
+1b criterion is cited using fever and a ≥ 100K E. coli urine culture.  Additionally, a blood
+specimen  is  positive  for  E.coli  and  Candida,  on  the  next  day.  The  E.  coli  organism  is
+captured in the SBAP.  However, the Candida in the blood specimen is not eligible for
+SUTI  criterion  and  cannot  be  deemed  secondary  to  SUTI  1b.  The  non-matching
+organism  must  be  eligible  for  the  NHSN  site-specific  infection.  CLABSI  surveillance  is
+intended to capture BSIs that are associated with the central line itself.  This association
+may be due to either suboptimal insertion or maintenance issues.  In such an infection
+the  blood  is  believed  to  be  the  primary  site  of  infection.   The  MBI-LCBI  criteria  were
+implemented to enable NHSN to identify BSIs that are believed to be the result of the
+patient’s weakened immune state and the accompanying alterations of the gut.  In such
+situations,  the  patient  truly  has  a  primary  BSI,  because  there  is  not  an  infection  at
+another site.  However, the gut is simply the source of colonizing organisms which seed
+the bloodstream.  Both situations, where the BSI is primary in nature, are different from
+those in which the BSI is believed to be secondary to an infection at another site.  An
+example is a BSI that is secondary to a GIT infection in which the bloodstream becomes
+a second site of infection through seeding from the original infection site. The goal of
+adding  MBI-LCBI  criteria  to  CLABSI  surveillance  is:     Yes.  Effective  with  the  2015
+re-baseline, MBI-LCBIs are no longer included in the CLABSI metrics used for national
+reporting  or  in  files  that  are  shared  with  CMS  for  reimbursement  determinations.  A
+separate  report  has  been  created  for  MBI-LCBI  tracking.  However,  NHSN  has  not
+changed  the  requirement  for  hospitals  to  include  MBI-LCBIs  if  the  locations  monthly
+reporting  plan  includes  CLABSI  surveillance.  We  believe  the  continued  collection  and
+tracking  of  MBI-LCBI  data  is  important  because  these  infections  cause  significant
+morbidity and mortality for patients and through their identification and measurement
+exists the potential to identify new prevention efforts. Yes, the creation of the repeat
+infection  timeframe  (RIT)  eliminated  the  subjectivity  of  trying  to  determine  if  an
+infection was on-going or resolved. The 14-day RIT is the period of time in which no new
+BSIs  will  be  reported.  The  date  of  event  (DOE)  for  the  primary  BSI  is  day  one  of  the
+14-day BSI RIT. Only primary BSIs create a BSI RIT. Secondary BSI’s do not create a BSI
+RIT, but the site-specific infection to which the BSI is secondary does create a 14-day
+RIT for infections of the same type. If a BSI is identified outside of the 14-day BSI RIT, a
+new  event  is  identified  and  must  be  investigated  as  being  primary  or  secondary  in
+nature.   Example:  If  a  person  meets  the  definition  for  CLABSI  with  a  positive
+Staphylococcus aureus culture on hospital day 12 and on hospital day 18 another blood
+culture is positive with an eligible pathogen, is this a new CLABSI? In this example, if a
+primary  BSI  with  a  DOE  on  hospital  day  12  is  identified,  and  another  positive  blood
+specimen meeting LCBI criteria is identified with a DOE within the 14-day RIT, no new
+LCBI will be reported but any additional organisms identified will be added to the initial
+BSI event. The next possible DOE for a new BSI would be hospital day 26, which is day
+15,  the  day  after  the  14-day  RIT  ended.  For  complete  details  regarding  RIT,  please
+see Chapter 2 PDF icon [PDF – 1 MB]. Note: RITs are only set when an infection criterion
+is  met,  and  they  are  specific  to  the  type  of  infection  identified  and  do  not  affect
+reporting of other types of infections. BSIs that are secondary to another primary site of
+infection  do  not  meet  the  NHSN  LCBI  criteria.  A  secondary  BSI  to  a  primary  site  of
+infection does not create a RIT of its own that captures all subsequent positive blood
+cultures. Therefore, subsequent positive blood specimens may need to be investigated
+to determine if they are primary BSIs and possible CLABSIs. No. Device association, the
+date  of  event,  and  the  location  of  attribution  are  never  changed  from  the  initial
+determination  when  subsequent  BSI  events  occur  during  a  BSI  RIT.  The  subsequent
+positive blood specimen, within the BSI RIT, is considered an extension of the initial BSI
+event.  Yes.   The  collection  site  (venipuncture  site  or  central  line  drawn)  of  the  blood
+specimen  does  not  determine  the  eligibility  of  the  positive  blood  specimen  to  meet
+CLABSI  criteria.  All  positive  blood  specimens,  regardless  of  the  sites  from  which  they
+were collected or the purposes for which they were drawn must be included in CLABSI
+surveillance. Additionally, NHSN does not require that a BSI be attributed to a particular
+device  for  reporting  purposes.   A  BSI  is  determined  to  be  central  line  associated
+(CLABSI) if an eligible central line (central line that has first been accessed and in place
+for more than 2 consecutive calendar days) is present on the BSI date of event (DOE) or
+the  day  before.  The  day  of  device  placement  is  CL  Day  1  or  if  the  central  line  was
+present on admission (POA), the day of first access in an inpatient location is CL Day 1
+for  making  a  device-associated  determination.  The  term  “separate  occasions”  is
+required  for  laboratory-confirmed  bloodstream  infections  (LCBIs)  when  only  common
+commensals  are  identified  in  the  blood  (LCBI  2  or  3).   The  “two  or  more  blood
+specimens drawn on separate occasions” element is met if there is blood collected from
+at least two blood draws on the same or consecutive calendar days. The requirement
+for  at  least  2  blood  specimens  with  matching  common  commensals  collected  on
+separate occasions is implemented to avoid identifying a truly contaminated specimen
+as  an  LCBI.  For  the  purposes  of  NHSN  surveillance,  it  is  the  expectation  that  proper
+technique for specimen collection is being performed.  If two positive blood cultures are
+assigned  separate  specimen  numbers,  processed  individually,  and  are  reported
+separately  in  the  final  laboratory  report,  the  findings  are  eligible  for  use  in  LCBI  2/3
+criteria  (no  exclusions).  The  two  matching  common  commensal  blood  cultures  are
+considered a single element for use in meeting LCBI 2 or 3 criteria.  If signs/symptoms
+occur  within  the  infection  window  period  (IWP)  BEFORE  the  first  collected  blood
+specimen,  the  date  of  event  (DOE)  will  be  the  date  the  first  element  (sign/symptom)
+used  to  meet  LCBI  2  or  3  criteria  occurred.   If  the  sign/symptom  occurs  AFTER  the
+collection date of the first blood specimen, the date of event (DOE) will be the collection
+date  of  the  first  positive  blood  specimen  that  occurred  during  the  IWP.  Both
+Staphylococcus  capitis  and  Staphylococcus  auricularis  are  coagulase  negative
+Staphylococci (CNS). However, they are identified to the species level, and at this level
+the organisms do not match. Therefore, they are not considered companion (matching)
+specimens. Since each organism was identified in a single blood culture, they are both
+considered contaminants and are disregarded for NHSN reporting purposes. LCBI 2 or 3
+criterion  is  not  met  because  2  blood  cultures,  collected  on  separate  occasions,  with
+matching common commensals are not present. If neither of the specimens had been
+speciated but instead were reported as coagulase-negative Staphylococcus, they would
+be  considered  companion  (matching)  cultures.  The  NHSN  Organism  List  undergoes
+revisions  based  on  current  organism  taxonomy.  The  list  can  be  found  under  the
+Supporting Material section on any of the NHSN event landing pages (BSI, MDRO/CDIFF,
+PNEU,  SSI,  UTI,  and  VAE).  Annual  updates  are  possible  therefore,  the  appropriate
+version should be referenced when conducting CLABSI surveillance. Any organism not
+found on the NHSN Common Commensal list* is considered a recognized pathogen for
+NHSN  reporting  purposes.  *Please  note  this  does  not  include  the  following  excluded
+organisms  from  LCBI  criteria:  Campylobacter,  C.  difficile,  Enteropathogenic  E.  coli,
+Listeria spp., Salmonella spp., Shigella spp., and Yersinia spp. The following organisms
+are  excluded  from  meeting  any  NHSN  infection  definition:  Blastomyces,  Histoplasma,
+Coccidioides,  Paracocidioides,  Cryptococcus,  and  Pneumocystis.  All  central  lines
+(permanent, temporary, implanted ports, and umbilical lines) will be treated the same
+for  making  device  attribution  determinations  (specifically,  CLABSI)  and  for  counting
+denominator device days (central line days). For example, a patient admitted on Jan.
+1st to an inpatient location with a central line in place that is first accessed on Jan. 4th,
+has  a  BSI  DOE  on  Jan  6th.   A  total  of  6  central  line  days  will  be  entered  for  the
+denominator  device  day  count.  For  example,  a  patient  admitted  on  Jan.  1st  to  an
+inpatient location with a central line in place that is first accessed on Jan. 4th, has a BSI
+DOE on Jan 6th.  Because the line was first accessed in an inpatient location, and it has
+been in place for more than 2 consecutive calendar days on Jan. 6th, it is eligible for a
+CLABSI event. If the line is never accessed, it never becomes eligible for a CLABSI event
+but is included in the denominator device day counts. Permanent Catheter Example(s):
+Example 1: A patient is seen in the ED with a permanent catheter (for example port) in
+place on Dec 31st. The permanent catheter is accessed in the ED for IV fluids. Patient is
+admitted on Jan. 1st to an inpatient location with IV fluids infusing into the port. Jan 1st
+is central line day 1 for making a CLABSI determination. There is a BSI DOE on Jan 6th .
+Because the line was first accessed in an inpatient location on Jan 1st, and it has been
+in place for more than 2 consecutive calendar days on Jan. 6th, it is eligible for a CLABSI
+event.   Example 2: A patient is seen in the ED with a permanent catheter (for example
+port) in place on Dec 31st. The permanent catheter is accessed in the ED for IV fluids.
+Patient  is  admitted  on  Jan.  1st  to  an  inpatient  location,  and  there  are  no  IV  fluids
+infusing  into  port  when  the  patient  arrives  to  the  inpatient  location.   The  permanent
+catheter  is  accessed  on  Jan  5th,  and  there  is  a  BSI  DOE  on  Jan  6th.   The  line  is  first
+accessed in an inpatient location on Jan 5th but has not been accessed for more than 2
+consecutive calendar days on Jan. 6th. Therefore, the line is not eligible for a CLABSI
+event. If the line is never accessed, it never becomes eligible for a CLABSI event but is
+included in the denominator device day counts. Note:  If a patient has another central
+line in place that is accessed, device attribution (eligible for a CLABSI event) begins on
+CL Day 3 after access. If a central line is present for any part of a calendar day, then
+that  day  contributes  to  the  minimum  day’s  requirement  for  the  CLABSI.   If  a  full
+calendar day passes without a central line being present, then the device day count for
+making a CLABSI determination starts over once a new CL is inserted.  Please see Table
+3  of  the  NHSN  BSI  Protocol  [PDF  –  900  KB]  for  examples.  Midline  catheters  by
+description are not intended to terminate in one of the great vessels or near the heart
+which  is  a  part  of  the  definition  of  a  central  line.  However,  the  actual  location  of  the
+catheter  tip  is  the  determining  factor,  and  the  chest  x-ray  obtained  to  verify  line
+placement should indicate the location of the tip.  Also, consider the line’s intended use.
+To  qualify  as  a  central  line,  it  must  be  used  for  infusion,  withdrawal  of  blood,  or
+hemodynamic monitoring. Keep in mind both elements of NHSNs central line definition
+are required. If both requirements are not met, the device is not a central line. Catheter
+tip cultures are not used for NHSN CLABSI surveillance for several reasons.  Catheter tip
+cultures have been shown to have higher rates of contamination than blood cultures. 
+Furthermore,  not  all  laboratories  are  able  to  perform  quantified  catheter  tip  cultures.
+Catheter  tips  are  a  part  of  other  types  of  non-NHSN  surveillance  such  as
+catheter-related BSI (CRBSI) which is generally thought of as a clinical definition, used
+when  diagnosing  and  treating  patients.  The  Guidelines  for  the  Prevention  of
+Intravascular  Catheter-Related  Infections,  2011  address  CRBSI  and  may  be  helpful
+when  addressing  a  physician’s  questions.  NHSN  does  not  require  a  CLABSI  to  be
+attributed to a specific central line. Instead, you will simply be required to document
+whether an eligible central line was present on the BSI date of event or the day before.
+An eligible central line is a device that has first been accessed in an inpatient location
+and has been in place for more than 2 consecutive calendar days. Only 1 central line
+day is counted per patient-per calendar day regardless of how many lines the patient
+may  have  in  place  at  the  same  time.  If  a  patient  in  a  SCA/Oncology  unit  has  both  a
+temporary and a permanent line, only report the temporary line because it has a higher
+risk of infection.  Please see Note: #d, under the Comments and Reporting Instructions
+found  in  Chapter  4  BSI  [PDF  –  900  KB]  protocol  for  guidance.  This  guidance  states:  
+IABPs  are  not  considered  central  lines  since  they  are  generally  not  used  for  infusion,
+blood withdrawal, or hemodynamic monitoring. Do not include IABP device days in the
+central  line  day  count.  IABPs  are  not  considered  ventricular  assist  devices.   The
+bloodstream  infection  risks  associated  with  IABP  devices  are  different  from  an  NHSN
+surveillance  perspective.  The  femoral  artery  is  not  among  the  list  of  great  vessels
+defined  for  CLABSI  surveillance  in  NHSN,  therefore,  a  catheter  in  this  vessel  is  not
+considered a central line. Do not include femoral artery catheter days in the central line
+day count. In both situations, the CLABSI must be attributed to the inpatient location
+where the patient is housed. The dialysis unit is defined as a non-bedded inpatient unit
+that provides services to inpatients. CLABSI surveillance, for NHSN reporting purposes,
+cannot be performed in this location because there can be no patient or central line day
+counts.  Likewise,  dialysis  performed  in  the  patient’s  room  by  dialysis  staff  cannot  be
+attributed to the dialysis unit. The BSI event form contains the following required field
+“Any hemodialysis catheter present?”. The data in this field can be used internally by
+facilities to identify and track potential issues related to dialysis care. Data in the “Any
+hemodialysis catheter present?” field are not used to exclude events from the CLABSI
+SIR. Facilities are responsible for all patient care provided in the facility by employed
+and  contracted  staff  alike.  Therefore,  all  CLABSIs  identified  in  dialysis  patients  are
+attributed to the in-patient unit where the patient is physically located. A positive blood
+specimen meeting an LCBI criteria, that is accompanied by documentation, during the
+infection window period (IWP), of observed or suspected patient injection into vascular
+access lines during the inpatient admission, will be excluded from CLABSI surveillance.
+This exclusion is very specific to INJECTION into the line (tampering with, manipulating,
+etc. do not meet the intent of the exclusion). For example, “pulling on the line, picking
+at  the  dressing,  removing  the  caps,  and  biting”  are  just  a  few  examples  of  line
+manipulation  that  do  not  meet  the  requirements  of  this  exception.  These  actions  are
+different from purposeful injection into a vascular line without regard for proper line use
+and/or  management  and  places  the  patient’s  health  and  safety  at  risk.  Note:   NHSN
+does not define a specific value for these vital signs. Instead, each facility should use
+the  vital  sign  parameters  as  stated  in  their  policies  and  procedures  for  clinical
+documentation.  The  presence  of  any  of  these  vital  signs  before  the  IWP  does  not
+exclude the event from meeting LCBI 2 or 3 criterion.  An LCBI 2 or 3 criterion may be
+assigned if an eligible vital sign occurs during the BSI IWP. Information on locations that
+are  included  in  reporting  can  be  found  in  the  Operational  Guidance  for  Acute  Care
+Hospitals to Report Central Line-Associated Bloodstream Infection (CLABSI) [PDF – 169
+KB].  The  Centers  for  Medicare  and  Medicaid  Services  are  the  ultimate  source  for
+identifying  reporting  required  as  part  of  their  programs.  For  NHSN  to  assist  with  a
+primary or secondary BSI case determination please send the following information to
+nhsn@cdc.gov:  If  investigating  a  positive  blood  culture:  If  evaluating  for  a  secondary
+BSI:  Yes, these events should be reported to NHSN. Although the events are reported,
+they are NOT considered central line associated and DO NOT contribute to the CLABSI
+SIR measure.  Exclusions include:  An MBI-LCBI designation will not change to an LCBI
+event if the two criteria below are met: Please see Example 2b in Chapter 2 [PDF – 909
+KB]. Yes, NCT methods are eligible for use to meet LCBI-1 criterion. If an organism is
+identified  to  the  genus  or  species  level  by  non-culture  based  microbiologic  testing
+methods.   Note: If blood is collected for culture within 2 days before, or 1 day after the
+NCT, disregard the result of the NCT and use only the result of the CULTURE to make an
+LCBI  surveillance  determination.  If  no  blood  is  collected  for  culture  within  this  time
+period, use the result of the NCT for LCBI surveillance determination Yes, NCT methods
+are eligible for use to meet LCBI-1 criterion. If an organism is identified to the genus or
+species  level  by  non-culture  based  microbiologic  testing  methods.  Note:  If  blood  is
+collected for culture within 2 days before, or 1 day after the NCT, disregard the result of
+the  NCT  and  use  only  the  result  of  the  CULTURE  to  make  an  LCBI  surveillance
+determination. If no blood is collected for culture within this time period, use the result
+of the NCT for LCBI surveillance determination AND  Organism(s) identified in blood is
+not related to an infection at another site (See LCBI-1 Criterion in the BSI Chapter [PDF
+– 1 MB]).   Note: If blood is collected for culture within 2 days before, or 1 day after the
+NCT, disregard the result of the NCT and use only the result of the CULTURE to make an
+LCBI  surveillance  determination.  If  no  blood  is  collected  for  culture  within  this  time
+period,  use  the  result  of  the  NCT  for  LCBI  surveillance  determination  No,  LCBI-2  and
+LCBI-3 criteria are only met using matching organisms identified by a blood culture plus
+signs and symptoms. (See LCBI-2 and LCBI-3 criteria in the BSI Chapter [PDF – 1 MB]). If
+you believe an LCBI is secondary to a non-blood source of infection, you must first fully
+meet  one  of  the  NHSN  site-specific  infection  definitions  as  defined  in  Chapter  17
+(CDC/NHSN Surveillance Definitions for Specific Types of Infections), or the PNEU, UTI,
+or SSI protocols. Once you have done this, apply the Appendix B guidelines (Secondary
+BSI Guide) located in Chapter 4 [PDF – 1 MB] of the NHSN Patient Safety Component
+Manual. There are only 2 scenarios in which a BSI can be deemed secondary to another
+site-  specific  infection  for  NHSN  reporting  purposes:  OR  The  rules  for  the  infection
+window period and secondary BSI attribution period always apply. More guidance about
+these  rules  can  be  found  in  Chapter  2  (Identifying  HAIs  in  NHSN)  [PDF  –  1  MB].
+Additionally, a BSI may also be secondary to VAE following the guidance outlined in the
+VAE protocol [PDF – 2 MB]. NOTE: If the patient does not meet any of the site-specific
+infection criteria from PNEU, UTI, SSI, VAE, or any of the definitions in Chapter 17 and
+does not meet the requirements for secondary BSI, then the LCBI must be reported as a
+primary LCBI and as a CLABSI if an eligible central line is present on the BSI date of
+event  or  the  day  before.  NHSN  developed  Table  B-1  (Secondary  BSI  Guide)  as  a
+reference  to  assist  users  in  making  secondary  BSI  determinations.  The  table  lists
+definitions that require a blood specimen with at least one matching organism to the
+site-specific specimen (Scenario #1) and definitions that use a blood specimen as an
+element  to  meet  the  site-specific  definition  (Scenario  #2).  All  elements  of  the
+site-specific infection definitions must be met before a secondary BSI determination can
+be made. Table B-1 can be found in Chapter 4 [PDF – 1 MB] of the Device Associated
+Module BSI. To determine if a positive blood culture can be attributed as a secondary
+bloodstream  infection  (BSI)  related  to  a  lower  respiratory  tract  event,  consider  the
+following  steps:  1)  Does  the  patient  meet  any  of  the  VAE  definitions?  2)  If  the  BSI
+cannot be attributed as a secondary BSI to VAE, then the positive blood culture can be
+evaluated to see if it is secondary to any of the infection sites as defined in Chapter 17
+or  PNEU,  UTI,  or  SSI  event  protocols.  If  another  specific  site  infection  to  which  the
+bloodstream  infection  can  be  attributed  as  a  secondary  BSI  is  not  identified,  the  BSI
+may need to be reported as a primary BSI/CLABSI. Yes, it is possible. A secondary BSI
+cannot  be  attributed  to  PNU1.  However,  in  this  instance  if  a  BSI  is  thought  to  be
+secondary to pneumonia but the blood culture collection date did not occur within the
+infection  window  period  such  that  it  could  be  used  as  an  element  to  meet  the  PNU2
+definition, reassess to determine if the PNU2 definition can be met within the PNEU RIT.
+Similarly,  if  PNU2  is  met  and  there  is  a  subsequent  blood  specimen  with  an  eligible
+pathogen, however it does not match the specimen used to originally meet PNU2, then
+reassess to determine if PNU2 can be met using the blood culture such that the date of
+event  falls  within  the  originally  established  PNEU  RIT.  NOTE:  When  re-meeting  PNEU
+within the RIT, a single eligible imaging finding with a test date that occurs in a new IWP
+and  demonstrates  evidence  of  persistence  of  prior  eligible  findings  will  satisfy  the
+imaging requirement for all patients. New or progressive or serial imaging (for patients
+with  underlying  cardiac  or  pulmonary  disease)  does  not  have  to  be  re-demonstrated.
+Evidence of persistence of eligible findings alone will meet the imaging requirement in
+the RIT. See the example and table below. Example All elements necessary to satisfy
+the PNU1 definition occur within the infection window period. The date of event is 2/14.
+This establishes a PNEU (PNU1) RIT 2/14- 2/27 and a BSI secondary attribution period
+2/11  –  2/27.   Subsequently  a  blood  specimen  with  a  collection  date  2/20  identifies
+Pseudomonas  aeruginosa.  The  collection  date  is  within  the  secondary  BSI  attribution
+period for the PNEU event however a secondary BSI cannot be reported for PNU1 since
+the blood culture is not used to satisfy the PNU1 definition and there is no site-specific
+culture  to  which  the  blood  culture  pathogen  can  match.  If  during  the  PNEU  RIT,  all
+elements  needed  to  meet  the  PNU2  definition  are  present  to  include  the  blood
+specimen  and  this  results  in  a  date  of  event  within  the  RIT,  then  the  BSI  can  be
+attributed as secondary to the PNEU event.  The PNEU date of event remains as 2/14,
+as  does  the  originally  determined  RIT,  secondary  BSI  attribution  period,  device
+association  and  location  of  attribution.  If  the  PNU2  definition  is  not  met  as  described
+above  and  if  additionally,  another  specific  site  infection  for  which  the  BSI  can  be
+attributed as a secondary BSI is not identified, then the BSI is a primary BSI/CLABSI. To
+deem a blood culture secondary to GIT 1b or IAB 2b when organisms are identified on
+histopathologic  exam,  you  must  meet  the  following  criteria:    2/2:  Pathology  Report:
+“Classical  budding  hyphae  and  spores  of  Candida  admixed  with  ulcer  slough
+(intestines).  2/4: Blood culture: Candida albicans.  Because the Candida in the blood
+culture  is  an  MBI  Organism,  the  histopathologic  findings  and  blood  specimen  are
+captured in the GIT IWP, and the organism identified in the pathology report and blood
+specimen match, the Candida blood specimen is deemed secondary to a GIT 1b. If a
+single blood culture contains an organism that matches the site-specific specimen and
+an organism that does not match, the non-matching organism can be captured in the
+secondary  bloodstream  infection  period  (SBAP).   The  non-matching  organism  is
+captured only when it is in the same blood specimen with a matching organism. If there
+are subsequent blood cultures with only the non-matching organism, you must assess
+these blood cultures for LCBI criteria.  For example, a SUTI 1b criterion is cited using
+fever and a ≥ 100K E. coli urine culture.  Additionally, a blood specimen is positive for
+E.coli  and  Candida,  on  the  next  day.  The  E.  coli  organism  is  captured  in  the  SBAP.  
+However, the Candida in the blood specimen is not eligible for SUTI criterion and cannot
+be deemed secondary to SUTI 1b. The non-matching organism must be eligible for the
+NHSN  site-specific  infection.  CLABSI  surveillance  is  intended  to  capture  BSIs  that  are
+associated with the central line itself.  This association may be due to either suboptimal
+insertion or maintenance issues.  In such an infection the blood is believed to be the
+primary site of infection.  The MBI-LCBI criteria were implemented to enable NHSN to
+identify BSIs that are believed to be the result of the patient’s weakened immune state
+and the accompanying alterations of the gut.  In such situations, the patient truly has a
+primary  BSI,  because  there  is  not  an  infection  at  another  site.   However,  the  gut  is
+simply the source of colonizing organisms which seed the bloodstream.  Both situations,
+where the BSI is primary in nature, are different from those in which the BSI is believed
+to be secondary to an infection at another site.  An example is a BSI that is secondary
+to a GIT infection in which the bloodstream becomes a second site of infection through
+seeding from the original infection site. The goal of adding MBI-LCBI criteria to CLABSI
+surveillance is: Yes, the creation of the repeat infection timeframe (RIT) eliminated the
+subjectivity of trying to determine if an infection was on-going or resolved. The 14-day
+RIT is the period of time in which no new BSIs will be reported. The date of event (DOE)
+for the primary BSI is day one of the 14-day BSI RIT. Only primary BSIs create a BSI RIT.
+Secondary BSI’s do not create a BSI RIT but the site-specific infection to which the BSI is
+secondary does create a 14-day RIT for infections of the same type. If a BSI is identified
+outside  of  the  14-day  BSI  RIT,  a  new  event  is  identified  and  must  be  investigated  as
+being primary or secondary in nature.   In this example, if a primary BSI with a DOE on
+hospital day 12 is identified, and another positive blood specimen meeting LCBI criteria
+is  identified  with  a  DOE  within  the  14-day  RIT,  no  new  LCBI  will  be  reported  but  any
+additional organisms identified will be added to the initial BSI event. The next possible
+DOE for a new BSI would be hospital day 26, which is day 15, the day after the 14-day
+RIT ended. For complete details regarding RIT, please see Chapter 2 [PDF – 1 MB]. Note:
+RITs are only set when an infection criterion is met, and they are specific to the type of
+infection identified and do not affect reporting of other types of infections. BSIs that are
+secondary to another primary site of infection do not meet the NHSN LCBI criteria. A
+secondary  BSI  to  a  primary  site  of  infection  does  not  create  an  RIT  of  its  own  that
+captures  all  subsequent  positive  blood  cultures.  Therefore,  subsequent  positive  blood
+specimens  may  need  to  be  investigated  to  determine  if  they  are  primary  BSIs  and
+possible CLABSIs. Yes, the creation of the repeat infection timeframe (RIT) eliminated
+the  subjectivity  of  trying  to  determine  if  an  infection  was  on-going  or  resolved.  The
+14-day RIT is the period of time in which no new BSIs will be reported. The date of event
+(DOE) for the primary BSI is day one of the 14-day BSI RIT. Only primary BSIs create a
+BSI RIT. Secondary BSI’s do not create a BSI RIT, but the site-specific infection to which
+the BSI is secondary does create a 14-day RIT for infections of the same type. If a BSI is
+identified  outside  of  the  14-day  BSI  RIT,  a  new  event  is  identified  and  must  be
+investigated as being primary or secondary in nature.  Example: If a person meets the
+definition for CLABSI with a positive Staphylococcus aureus culture on hospital day 12
+and on hospital day 18 another blood culture is positive with an eligible pathogen, is
+this a new CLABSI? In this example, if a primary BSI with a DOE on hospital day 12 is
+identified, and another positive blood specimen meeting LCBI criteria is identified with a
+DOE within the 14-day RIT, no new LCBI will be reported but any additional organisms
+identified will be added to the initial BSI event. The next possible DOE for a new BSI
+would  be  hospital  day  26,  which  is  day  15,  the  day  after  the  14-day  RIT  ended.  For
+complete details regarding RIT, please see Chapter 2 [PDF – 1 MB]. Note: RITs are only
+set  when  an  infection  criterion  is  met,  and  they  are  specific  to  the  type  of  infection
+identified  and  do  not  affect  reporting  of  other  types  of  infections.  BSIs  that  are
+secondary to another primary site of infection do not meet the NHSN LCBI criteria. A
+secondary  BSI  to  a  primary  site  of  infection  does  not  create  a  RIT  of  its  own  that
+captures  all  subsequent  positive  blood  cultures.  Therefore,  subsequent  positive  blood
+specimens  may  need  to  be  investigated  to  determine  if  they  are  primary  BSIs  and
+possible CLABSIs. Yes.  The collection site (venipuncture site or central line drawn) of
+the blood specimen does not determine the eligibility of the positive blood specimen to
+meet CLABSI criteria. All positive blood specimens, regardless of the sites from which
+they  were  collected  or  the  purposes  for  which  they  were  drawn  must  be  included  in
+CLABSI  surveillance.  NHSN  does  not  require  that  a  BSI  be  attributed  to  a  particular
+device  for  reporting  purposes.   A  BSI  is  determined  to  be  central  line  associated
+(CLABSI)  if  an  eligible  central  line  (central  line  that  has  first  been  accessed  and  has
+been in place for more than 2 consecutive calendar days) was present on the BSI date
+of event (DOE) or the day before. The day of device placement is CL Day 1 or if the
+central  line  was  present  on  admission  (POA),  the  day  of  first  access  in  an  inpatient
+location is CL Day 1 for making device-associated attributions. Yes.  The collection site
+(venipuncture site or central line drawn) of the blood specimen does not determine the
+eligibility  of  the  positive  blood  specimen  to  meet  CLABSI  criteria.  All  positive  blood
+specimens, regardless of the sites from which they were collected or the purposes for
+which  they  were  drawn  must  be  included  in  CLABSI  surveillance.  Additionally,  NHSN
+does not require that a BSI be attributed to a particular device for reporting purposes. 
+A  BSI  is  determined  to  be  central  line  associated  (CLABSI)  if  an  eligible  central  line
+(central  line  that  has  first  been  accessed  and  in  place  for  more  than  2  consecutive
+calendar days) is present on the BSI date of event (DOE) or the day before. The day of
+device placement is CL Day 1 or if the central line was present on admission (POA), the
+day of first access in an inpatient location is CL Day 1 for making a device-associated
+determination. The two matching common commensal blood cultures are considered a
+single element for use in meeting LCBI 2 or 3 criteria.  If signs/symptoms occur within
+the Infection Window Period (IWP) BEFORE the first collected blood specimen, the date
+of event (DOE) will be the date the first element (sign/symptom) used to meet LCBI 2 or
+3 criteria occurred.  If the sign/symptom occurs AFTER the collection date of the first
+blood specimen, the date of event (DOE) will be the collection date of the first positive
+blood  specimen  that  occurred  during  the  infection  window  period  (IWP).  Both  S.
+auricularis and S. capitis are coagulase negative staphylococci (CNS) however, they are
+identified  to  the  species  level,  which  is  different,  therefore,  they  are  not  considered
+companion (matching) specimens. Since each organism was identified in a single blood
+culture, they are both considered contaminants and are disregarded for NHSN reporting
+purposes.  LCBI  2  or  3  criteria  are  not  met  because  2  blood  cultures,  collected  on
+separate occasions, with matching common commensals are not present. If neither of
+the  specimens  had  been  speciated  but  instead  were  reported  as  coagulase-negative
+staphylococcus,  they  would  be  considered  companion  (matching)  cultures.  Both
+Staphylococcus  capitis  and  Staphylococcus  auricularis  are  coagulase  negative
+Staphylococci (CNS). However, they are identified to the species level, and at this level
+the organisms do not match. Therefore, they are not considered companion (matching)
+specimens. Since each organism was identified in a single blood culture, they are both
+considered contaminants and are disregarded for NHSN reporting purposes. LCBI 2 or 3
+criterion  is  not  met  because  2  blood  cultures,  collected  on  separate  occasions,  with
+matching common commensals are not present. If neither of the specimens had been
+speciated but instead were reported as coagulase-negative Staphylococcus, they would
+be considered companion (matching) cultures. All central lines (permanent, temporary,
+implanted  ports,  and  umbilical  lines)  will  be  treated  the  same  for  making  device
+attribution  determinations  (specifically,  CLABSI)  and  for  counting  denominator  device
+days  (central  line  days).  For  example,  a  patient  admitted  on  Jan.  1st  to  an  inpatient
+location with a central line in place that is first accessed on Jan. 4th, has a BSI DOE on
+Jan 6th.  Because the line was first accessed in an inpatient location and it has been in
+place for more than 2 consecutive calendar days on Jan. 6th, it is eligible for a CLABSI
+event. If the line is never accessed, it never becomes eligible for a CLABSI event but is
+included  in  the  denominator  device  day  counts.  Permanent  Catheter  Example(s)  For
+example, a patient is seen in the ED with a permanent catheter (for example port) in
+place on Dec 31st. The permanent catheter is accessed in the ED for IV fluids. Patient is
+admitted on Jan. 1st to an inpatient location with IV fluids infusing into the port. Jan 1st
+is central line day 1 for making a CLABSI determination. There is a BSI DOE on Jan 6th. 
+Because the line was first accessed in an inpatient location on Jan 1st and it has been in
+place for more than 2 consecutive calendar days on Jan. 6th, it is eligible for a CLABSI
+event. For example, a patient is seen in the ED with a permanent catheter (for example
+port) in place on Dec 31st. The permanent catheter is accessed in the ED for IV fluids.
+Patient  is  admitted  on  Jan.  1st  to  an  inpatient  location,  and  there  are  no  IV  fluids
+infusing into the port when the patient arrives to the inpatient location.  The permanent
+catheter  is  accessed  on  Jan  5th,  and  there  is  a  BSI  DOE  on  Jan  6th.   The  line  is  first
+accessed in an inpatient location on Jan 5th but has not been accessed for more than 2
+consecutive calendar days on Jan. 6th. Therefore, the line is not eligible for a CLABSI
+event. If the line is never accessed, it never becomes eligible for a CLABSI event but is
+included in the denominator device day counts. NOTE:  If a patient has another central
+line in place that is accessed, device attribution (eligible for a CLABSI event) begins on
+CL Day 3 after access. Q16. When a patient is admitted to an inpatient location with a
+central line in place, and that line is NOT accessed during the hospitalization, are those
+days  included  in  the  denominator  device  day  count?  All  central  lines  (permanent,
+temporary,  implanted  ports,  and  umbilical  lines)  will  be  treated  the  same  for  making
+device  attribution  determinations  (specifically,  CLABSI)  and  for  counting  denominator
+device  days  (central  line  days).  For  example,  a  patient  admitted  on  Jan.  1st  to  an
+inpatient location with a central line in place that is first accessed on Jan. 4th, has a BSI
+DOE  on  Jan  6th.   A  total  of  6  central  line  days  will  be  entered  for  the  denominator
+device day count. For example, a patient admitted on Jan. 1st to an inpatient location
+with a central line in place that is first accessed on Jan. 4th, has a BSI DOE on Jan 6th. 
+Because the line was first accessed in an inpatient location, and it has been in place for
+more than 2 consecutive calendar days on Jan. 6th, it is eligible for a CLABSI event. If
+the line is never accessed, it never becomes eligible for a CLABSI event but is included
+in the denominator device day counts. Permanent Catheter Example(s): Example 1: A
+patient is seen in the ED with a permanent catheter (for example port) in place on Dec
+31st. The permanent catheter is accessed in the ED for IV fluids. Patient is admitted on
+Jan. 1st to an inpatient location with IV fluids infusing into the port. Jan 1st is central line
+day 1 for making a CLABSI determination. There is a BSI DOE on Jan 6th . Because the
+line was first accessed in an inpatient location on Jan 1st, and it has been in place for
+more than 2 consecutive calendar days on Jan. 6th, it is eligible for a CLABSI event.  
+Example 2: A patient is seen in the ED with a permanent catheter (for example port) in
+place on Dec 31st. The permanent catheter is accessed in the ED for IV fluids. Patient is
+admitted on Jan. 1st to an inpatient location, and there are no IV fluids infusing into port
+when the patient arrives to the inpatient location.  The permanent catheter is accessed
+on Jan 5th, and there is a BSI DOE on Jan 6th.  The line is first accessed in an inpatient
+location  on  Jan  5th  but  has  not  been  accessed  for  more  than  2  consecutive  calendar
+days on Jan. 6th. Therefore, the line is not eligible for a CLABSI event. If the line is never
+accessed,  it  never  becomes  eligible  for  a  CLABSI  event  but  is  included  in  the
+denominator device day counts. Note:  If a patient has another central line in place that
+is accessed, device attribution (eligible for a CLABSI event) begins on CL Day 3 after
+access.  Midline  catheters  by  description  are  not  intended  to  terminate  in  one  of  the
+great vessels or near the heart which is the definition of a central line. However, the
+actual location of the catheter tip is the determining factor and the chest x-ray obtained
+to verify line placement should indicate the location of the tip.  Also, consider the line’s
+intended use. To qualify as a central line, it must be used for infusion, withdrawal of
+blood, or hemodynamic monitoring. Catheter tip cultures are not used for NHSN CLABSI
+surveillance for several reasons.  Catheter tip cultures have been shown to have higher
+rates of contamination than blood cultures.  Furthermore, not all laboratories are able
+to  perform  quantified  catheter  tip  cultures.  Catheter  tips  are  a  part  of  other  types  of
+non-NHSN surveillance such as catheter-related BSI (CRBSI) which is generally thought
+of as a clinical definition, used when diagnosing and treating patients. The Guidelines
+for  the  Prevention  of  Intravascular  Catheter-Related  Infections,  2011  [PDF  –  50
+KB] address CRBSI and may be helpful when addressing a physician’s questions. NHSN
+does not require a CLABSI to be attributed to a specific central line. Instead, you will
+simply be required to document whether an eligible central line was present on the BSI
+date of event or the day before. An eligible central line is a device that has first been
+accessed  in  an  inpatient location  and  has been  in  place for more than  2 consecutive
+calendar  days.  Only  1  central  line  day  is  counted  per  patient-per  calendar  day
+regardless  of  how  many  lines  the  patient  may  have  in  place  at  the  same  time.  If  a
+patient in a SCA/Oncology unit has both a temporary and a permanent line, only report
+the  temporary  line  because  it  has  a  higher  risk  of  infection.  Consult  the  criteria  for
+VASC-Arterial or Venous Infection available in Chapter 17 [PDF – 1 MB].  Such a patient
+would meet criterion 4.  If your facility is monitoring for these types of infection, enter
+this into NHSN as a CVS-VASC event. Please see Note: #d, under the Comments and
+Reporting Instructions found in Chapter 4 BSI [PDF – 1 MB] protocol for guidance. This
+guidance  states:  Because  IABPs  are  not  considered  central  lines  because  they  are
+generally not used for infusion, blood withdrawal, or hemodynamic monitoring. Do not
+include  IABP  device  days  in  the  central  line  day  count.    IABPs  are  not  considered
+ventricular assist devices.  The bloodstream infection risks associated with IABP devices
+is different from an NHSN surveillance perspective. Because the femoral artery is not
+among the list of great vessels defined for CLABSI surveillance in NHSN, a catheter in
+this vessel is not considered a central line. Do not include femoral artery catheter days
+in the central line day count. In both situations, the CLABSI must be attributed to the
+inpatient  location  where  the  patient  is  housed.  The  dialysis  unit  is  defined  as  a
+non-bedded inpatient unit that provides services to inpatients. CLABSI surveillance, for
+NHSN reporting purposes, cannot be performed in this location because there can be no
+patient or central line day counts. Likewise, dialysis performed in the patient’s room by
+dialysis staff cannot be attributed to the dialysis unit. The BSI event form contains the
+following required field “Any hemodialysis catheter present?”. The data in this field can
+be used internally by facilities to identify and track potential issues related to dialysis
+care.  Data  in  the  “Any  hemodialysis  catheter  present?”  field  are  not  used  to  exclude
+events from the CLABSI SIR. Yes. If CLABSI surveillance in an inpatient dialysis location
+is part of your monthly reporting plan, all patients in that location must be included in
+CLABSI surveillance. (NOTE: inpatient dialysis locations that are non- bedded locations,
+in  other  words,  patients  do  not  spend  the  night  in  these  locations,  but  instead  are
+transported there for dialysis and then return to a bedded location for the remainder of
+their care, cannot participate in the NHSN CLABSI protocol at this time). See question
+and answer directly above. Facilities are responsible for all patient care provided in the
+facility by employed and contracted staff alike. Therefore, all CLABSIs identified in these
+patients are attributed to the in-patient unit where the patient is physically located.   A
+positive  blood  specimen  meeting  an  LCBI  criteria,  that  is  accompanied  by
+documentation,  during  the  infection  window  period  (IWP),  of  observed  or  suspected
+patient  injection  into  vascular  access  lines  during  the  inpatient  admission,  will  be
+excluded from CLABSI surveillance. This exclusion is very specific to INJECTION into the
+line  (tampering  with,  manipulating,  etc.  do  not  meet  the  intent  of  the  exclusion).  For
+example, “pulling on the line, picking at the dressing, removing the caps, and biting”
+are just a few examples of line manipulation that do not meet the requirements of this
+exception. These actions are different from the purposeful injection into a vascular line
+that  is  common  among  IVDA’s.  IVDA’s,  may  inject  their  own  line  without  regard  for
+proper line use and/or management, putting their health and safety at risk. Injection, in
+this  exclusion,  is  limited  to  patient  injections  only  and  does  not  include  injections
+performed  by  other  healthcare  providers  whether  employed,  contracted,  family
+members,  or  visitors.   These  events  are  still  considered  LCBIs  but  are  not  associated
+with the central line and therefore, are not CLABSIs for NHSN reporting purposes. A BSI
+repeat  infection  timeframe  (RIT)  is  created  during  which  no  new  BSI  events  will  be
+reported but any additional organisms identified are added to the initial event. Positive
+blood specimens collected outside of the BSI RIT must be investigated and must meet
+the  documentation  requirements  again  within  the  IWP.  If  addendums  to  the  patient
+medical record are made regarding observed or suspected patient injection during the
+BSI IWP, the addendum must be documented within 30 days of discharge to be eligible
+for  the  exclusion.   If  reporting  the  BSI  to  NHSN,  answer  “Yes”  to  the  risk  factor  field
+“Central line”. Information on locations that are included in reporting can be found in
+the  Operational  Guidance  for  Acute  Care  Hospitals  to  Report  Central  Line-Associated
+Bloodstream Infection (CLABSI) [PDF – 169 KB]. The Centers for Medicare and Medicaid
+Services  are  the  ultimate  source  for  identifying  reporting  required  as  part  of  their
+programs. Information on locations that are included in reporting can be found in the
+Operational  Guidance  for  Acute  Care  Hospitals  to  Report  Central  Line-Associated
+Bloodstream Infection (CLABSI) [PDF – 200 KB] . The Centers for Medicare and Medicaid
+Services  are  the  ultimate  source  for  identifying  reporting  required  as  part  of  their
+programs.  For  NHSN  to  assist  with  a  primary  or  secondary  BSI  case  determination
+please send the following information to nhsn@cdc.gov: If investigating a positive blood
+culture:  If  evaluating  for  a  secondary  BSI:    Q32.  What  is  the  MBI  RIT  Exception?  An
+MBI-LCBI designation will not change to an LCBI event if the two criteria below are met:
+Please see Example 2b in Chapter 2 [PDF – 909 KB]. An MBI-LCBI designation will not
+change to an LCBI event if the two criteria below are met: Please see Example 2b in
+Chapter 2 [PDF – 1 MB]. Yes, NCT methods are eligible for use to meet LCBI-1 criterion.
+If  an  organism  is  identified  to  the  genus  or  species  level  by  non-culture  based
+microbiologic  testing  methods.  Note:  If  blood  is  collected  for  culture  within  2  days
+before, or 1 day after the NCT, disregard the result of the NCT and use only the result of
+the CULTURE to make an LCBI surveillance determination. If no blood is collected for
+culture  within  this  time  period,  use  the  result  of  the  NCT  for  LCBI  surveillance
+determination  AND   Organism(s)  identified  in  blood  is  not  related  to  an  infection  at
+another site (See LCBI-1 Criterion in the BSI Chapter [PDF – 1 MB]).   No, LCBI-2 and
+LCBI-3 criteria are only met using matching organisms identified by a blood culture plus
+signs and symptoms. (See LCBI-2 and LCBI-3 criteria in the BSI Chapter [PDF – 1 MB]). 
+ Training 
+ Newsletters / Members Meeting Updates 
+ E-mail Updates 
+ Health Department HAI/AR Programs To receive email updates about this page, enter
+your email address:  Questions about NHSN?Contact us: nhsn@cdc.gov
+Source URL: https://www.cdc.gov/nhsn/faqs/faq-bsi.html

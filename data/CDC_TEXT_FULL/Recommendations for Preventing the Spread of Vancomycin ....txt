@@ -1,0 +1,1203 @@
+Persons using assistive technology might not be able to fully access information in this
+file. For assistance, please send e-mail to: mmwrq@cdc.gov. Type 508 Accommodation
+and the title of the report in the subject line of e-mail. Summary  Since 1989, a rapid
+increase in the incidence of infection and
+colonization with vancomycin-resistant enterococci (VRE) has been
+ reported
+by U.S. hospitals. This increase poses important problems,
+ including a) the
+lack of available antimicrobial therapy for VRE infections, because
+ most
+VRE are also resistant to drugs previously used to treat such
+ infections
+(e.g., aminoglycosides and ampicillin), and b) the possibility that
+ the
+vancomycin-resistant genes present in VRE can be transferred to
+ other
+gram-positive microorganisms (e.g., Staphylococcus aureus).  An increased risk for VRE
+infection and colonization has been
+associated with previous vancomycin and/or multiantimicrobial
+ therapy,
+severe underlying disease or immunosuppression, and intraabdominal
+ surgery.
+Because enterococci can be found in the normal gastrointestinal and
+ female
+genital tracts, most enterococcal infections have been attributed
+ to
+endogenous sources within the individual patient. However, recent
+ reports
+of outbreaks and endemic infections caused by enterococci,
+ including VRE,
+have indicated that patient-to-patient transmission of the
+ microorganisms
+can occur either through direct contact or through indirect contact
+ via a)
+the hands of personnel or b) contaminated patient-care equipment or
+environmental  surfaces.   This  report  presents  recommendations  of  the  Hospital
+Infection
+ Control
+Practices Advisory Committee for preventing and controlling the
+ spread of
+vancomycin resistance, with a special focus on VRE. Preventing and
+controlling the spread of vancomycin resistance will require
+ coordinated,
+concerted efforts from all involved hospital departments and can be
+achieved only if each of the following elements is addressed: a)
+ prudent
+vancomycin use by clinicians, b) education of hospital staff
+ regarding the
+problem of vancomycin resistance, c) early detection and prompt
+ reporting
+of vancomycin resistance in enterococci and other gram-positive
+microorganisms by the hospital microbiology laboratory, and d)
+ immediate
+implementation of appropriate infection-control measures to prevent
+person-to-person transmission of VRE.  INTRODUCTION  From 1989 through 1993, the
+percentage of nosocomial
+ enterococcal
+infections reported to CDC's National Nosocomial Infections
+ Surveillance
+(NNIS) system that were caused by vancomycin-resistant enterococci
+ (VRE)
+increased from 0.3% to 7.9% (1). This overall increase primarily
+ reflected
+the 34-fold increase in the percentage of VRE infections in
+ patients in
+intensive-care units (ICUs) (i.e., from 0.4% to 13.6%), although a
+ trend
+toward an increased percentage of VRE infections in non-ICU
+ patients also
+was noted (1). The occurrence of VRE in NNIS hospitals was
+ associated with
+larger hospital size (i.e., a hospital with greater than or equal
+ to 200
+beds) and university affiliation (1). Other hospitals also have
+ reported
+increased endemic rates and clusters of VRE infection and
+ colonization
+(2-8). The actual increase in the incidence of VRE in U.S.
+ hospitals might
+be greater than reported because the fully automated methods used
+ in many
+clinical laboratories cannot consistently detect vancomycin
+ resistance,
+especially moderate vancomycin resistance (as manifested in the
+ VanB
+phenotype) (9-11).  Vancomycin resistance in enterococci has coincided with the
+ increasing
+incidence of high-level enterococcal resistance to penicillin and
+aminoglycosides, thus presenting a challenge for physicians who
+ treat
+patients who have infections caused by these microorganisms (1,4).
+Treatment options are often limited to combining antimicrobials or
+experimental  compounds  that  have  unproven  efficacy  (12-14).   The  epidemiology  of
+VRE has not been clarified; however,
+ certain
+patient populations are at increased risk for VRE infection or
+colonization. These populations include critically ill patients or
+ those
+with severe underlying disease or immunosuppression (e.g., patients
+ in ICUs
+or in oncology or transplant wards); persons who have had an
+ intraabdominal
+or cardio-thoracic surgical procedure or an indwelling urinary or
+ central
+venous catheter; and persons who have had a prolonged hospital stay
+ or
+received multiantimicrobial and/or vancomycin therapy (2-8).
+ Because
+enterococci are part of the normal flora of the gastrointestinal
+ and female
+genital tracts, most infections with these microorganisms have been
+attributed to the patient's endogenous flora (15). However, recent
+ studies
+have indicated that VRE and other enterococci can be transmitted
+ directly
+by patient-to-patient contact or indirectly by transient carriage
+ on the
+hands of personnel (16) or by contaminated environmental surfaces
+ and
+patient-care equipment (3,8,17).  The potential emergence of vancomycin resistance in
+clinical
+ isolates
+of Staphylococcus aureus and Staphylococcus epidermidis also is a
+ public
+health concern. The vanA gene, which is frequently plasmid-borne
+ and
+confers high-level resistance to vancomycin, can be transferred in
+ vitro
+from enterococci to a variety of gram-positive microorganisms
+ (18,19),
+including S. aureus (20). Although vancomycin resistance in
+ clinical
+strains of S. epidermidis or S. aureus has not been reported,
+vancomycin-resistant strains of Staphylococcus haemolyticus have
+ been
+isolated (21,22).  In November 1993 and February 1994, the Subcommittee on the
+ Prevention
+and Control of Antimicrobial-Resistant Microorganisms in Hospitals
+ of CDC's
+Hospital Infection Control Practices Advisory Committee (HICPAC)
+ responded
+to the increase in vancomycin resistance in enterococci by meeting
+ with
+representatives from the American Hospital Association, the
+ American
+Society for Microbiology, the Association for Professionals in
+ Infection
+Control and Epidemiology, the Infectious Diseases Society of
+ America, the
+Society for Healthcare Epidemiology of America, and the Surgical
+ Infection
+Society. Meeting participants agreed with the need for prompt
+implementation of control measures; thus, recommendations to
+ prevent the
+spread of VRE were developed. Public comments were solicited and
+incorporated into the draft recommendations. In November 1994,
+ HICPAC
+ratified the following recommendations for preventing and
+ controlling the
+spread of vancomycin resistance, with special focus on VRE.  HICPAC recognizes that a)
+data are limited and additional
+ research
+will be required to clarify the epidemiology of VRE and determine
+cost-effective control strategies, and b) many U.S. hospitals have
+concurrent problems with other antimicrobial-resistant organisms
+ (e.g.,
+methicillin-resistant S. aureus {MRSA} and beta-lactam and
+aminoglycoside-resistant gram-negative bacilli) that might have
+ different
+epidemiologic  features  and  require  different  control  measures.   RECOMMENDATIONS  
+Each hospital -- through collaboration of its
+ quality-improvement and
+infection-control programs; pharmacy and therapeutics committee;
+microbiology laboratory; clinical departments; and nursing,
+ administrative,
+and housekeeping services -- should develop a comprehensive,
+institution-specific, strategic plan to detect, prevent, and
+ control
+infection and colonization with VRE. The following elements should
+ be
+addressed in the plan.  Prudent Vancomycin Use  Vancomycin use has been reported
+consistently as a risk factor
+ for
+infection and colonization with VRE (2,4,7,8,17) and may increase
+ the
+possibility of the emergence of vancomycin-resistant S. aureus
+ (VRSA)
+and/or vancomycin-resistant S. epidermidis (VRSE). Therefore, all
+ hospitals
+and other health-care delivery services, even those at which VRE
+ have never
+been detected, should a) develop a comprehensive,
+ antimicrobial-utilization
+plan to provide education for their medical staff (including
+ medical
+students who rotate their training in different departments of the
+health-care facility), b) oversee surgical prophylaxis, and c)
+ develop
+guidelines for the proper use of vancomycin (as applicable to the
+institution).  Guideline development should be part of the hospital's
+quality-improvement program and should involve participation from
+ the
+hospital's pharmacy and therapeutics committee; hospital
+ epidemiologist;
+and infection-control, infectious-disease, medical, and surgical
+ staffs.
+The guidelines should include the following considerations:  
+    Situations in which the use of vancomycin is appropriate or
+    acceptable:  
+        For treatment of serious infections caused by
+ beta-lactam-
+        resistant gram-positive microorganisms. Vancomycin may be
+ less
+        rapidly bactericidal than are beta-lactam agents for
+ beta-lactam-
+        susceptible staphylococci (23,24).  
+        For treatment of infections caused by gram-positive
+        microorganisms in patients who have serious allergies to
+        beta-lactam antimicrobials.  
+        When antibiotic-associated colitis fails to respond to
+        metronidazole therapy or is severe and potentially
+        life-threatening.  
+        Prophylaxis, as recommended by the American Heart
+ Association,
+        for endocarditis following certain procedures in patients
+ at high
+        risk for endocarditis (25).  
+        Prophylaxis for major surgical procedures involving
+ implantation
+        of prosthetic materials or devices (e.g., cardiac and
+ vascular
+        procedures {26} and total hip replacement) at
+ institutions that
+        have a high rate of infections caused by MRSA or
+        methicillin-resistant S. epidermidis. A single dose of
+ vancomycin
+        administered immediately before surgery is sufficient
+ unless the
+        procedure lasts greater than 6 hours, in which case the
+ dose
+        should be repeated. Prophylaxis should be discontinued
+ after a
+        maximum of two doses (27-30).  
+    Situations in which the use of vancomycin should be
+ discouraged:  
+        Routine surgical prophylaxis other than in a patient who
+ has a
+        life-threatening allergy to beta-lactam antibiotics (28).
+  
+        Empiric antimicrobial therapy for a febrile neutropenic
+ patient,
+        unless initial evidence indicates that the patient has an
+        infection caused by gram-positive microorganisms (e.g.,
+ at an
+        inflamed exit site of Hickman catheter) and the
+ prevalence of
+        infections caused by MRSA in the hospital is substantial
+ (31-37).  
+        Treatment in response to a single blood culture positive
+ for
+        coagulase-negative staphylococcus, if other blood
+ cultures taken
+        during the same time frame are negative (i.e., if
+ contamination
+        of the blood culture is likely). Because contamination of
+ blood
+        cultures with skin flora (e.g., S. epidermidis) could
+ result in
+        inappropriate administration of vancomycin, phlebotomists
+ and
+        other personnel who obtain blood cultures should be
+ trained to
+        minimize microbial contamination of specimens (38-40).  
+        Continued empiric use for presumed infections in patients
+ whose
+        cultures are negative for beta-lactam-resistant
+ gram-positive
+        microorganisms (41).  
+        Systemic or local (e.g., antibiotic lock) prophylaxis for
+        infection or colonization of indwelling central or
+ peripheral
+        intravascular catheters (42-48).  
+        Selective decontamination of the digestive tract.  
+        Eradication of MRSA colonization (49,50).  
+        Primary treatment of antibiotic-associated colitis (51).  
+        Routine prophylaxis for very low-birthweight infants
+ (i.e.,
+        infants who weigh less than 1,500 g {3 lbs 4 oz}) (52).  
+        Routine prophylaxis for patients on continuous ambulatory
+        peritoneal dialysis or hemodialysis (48,53).  
+        Treatment (chosen for dosing convenience) of infections
+ caused by
+        beta-lactam-sensitive gram-positive microorganisms in
+ patients
+        who have renal failure (54-57).  
+        Use of vancomycin solution for topical application or
+ irrigation.  
+    Enhancing compliance with recommendations:  
+        Although several techniques may be useful, further study
+ is
+        required to determine the most effective methods for
+ influencing
+        the prescribing practices of physicians (58-61).  
+        Key parameters of vancomycin use can be monitored through
+ the
+        hospital's quality assurance/improvement process or as
+ part of
+        the drug-utilization review of the pharmacy and
+ therapeutics
+        committee  and  the  medical  staff.   Education  Programs   Continuing  education
+programs for hospital staff (including
+ attending
+and consulting physicians, medical residents, and students;
+ pharmacy,
+nursing, and laboratory personnel; and other direct patient-care
+ providers)
+should include information concerning the epidemiology of VRE and
+ the
+potential impact of this pathogen on the cost and outcome of
+ patient care.
+Because detection and containment of VRE require an aggressive
+ approach and
+high performance standards for hospital personnel, special
+ awareness and
+educational  sessions  might  be  indicated.   Role  of  the  Microbiology  Laboratory  in  the
+Detection, Reporting,
+ and
+Control of VRE  The microbiology laboratory is the first line of defense
+ against the
+spread of VRE in the hospital. The laboratory's ability to promptly
+ and
+accurately identify enterococci and detect vancomycin resistance is
+essential for recognizing VRE colonization and infection and
+ avoiding
+complex, costly containment efforts that are required when
+ recognition of
+the problem is delayed. In addition, cooperation and communication
+ between
+the laboratory and the infection-control program will facilitate
+ control
+efforts.   Identification  of  Enterococci   Presumptively  identify  colonies  on  primary
+isolation plates as
+enterococci by using colonial morphology, a Gram stain, and a
+ pyrrolidonyl
+arylamidase (PYR) test. Although identifying enterococci to the
+ species
+level can help predict certain resistance patterns (e.g.,
+ Enterococcus
+faecium is more resistant to penicillin than is Enterococcus
+ faecalis) and
+may help determine the epidemiologic relatedness of enterococcal
+ isolates,
+such identification is not routinely necessary if antimicrobial
+susceptibility testing is performed. However, under special
+ circumstances
+or as laboratory resources permit, biochemical tests can be used to
+differentiate between various enterococcal species. Although most
+commercially available identification systems adequately
+ differentiate E.
+faecalis from other species of enterococci, additional tests for
+ motility
+and pigment production are required to distinguish Enterococcus
+ gallinarum
+(motile and nonpigmented) and Enterococcus casseliflavus (motile
+ and
+pigmented)  from  E.  faecium  (nonmotile  and  nonpigmented).   Tests  for  Antimicrobial
+Susceptibility  Determine vancomycin resistance and high-level resistance to
+penicillin (or ampicillin) and aminoglycosides (62) for enterococci
+isolated from blood, sterile body sites (with the possible
+ exception of
+urine), and other sites as clinically indicated. Laboratories
+ routinely may
+test wound and urine isolates for resistance to vancomycin and
+ penicillin
+or ampicillin if resources permit (see Screening Procedures for
+ Detecting
+VRE in Hospitals Where VRE Have Not Been Detected).  
+    Laboratories that use disk diffusion should incubate plates
+ for 24
+    hours and read zones of inhibition by using transmitted light
+ (62,63).  
+    Minimum inhibitory concentrations can be determined by agar
+ dilution,
+    agar gradient dilution, broth macrodilution, or manual broth
+    microdilution (62-64). These test systems should be incubated
+ for 24
+    hours.  
+    The fully automated methods of testing enterococci for
+ resistance to
+    vancomycin currently are unreliable (9-11).  When VRE Are Isolated From a Clinical
+Specimen  Confirm vancomycin resistance by repeating antimicrobial
+susceptibility testing using any of the recommended methods (see
+ Tests for
+Antimicrobial Susceptibility), particularly if VRE isolates are
+ unusual in
+the hospital, OR streak 1 uL of standard inoculum (0.5 McFarland)
+ from an
+isolated colony of enterococci onto brain heart infusion agar
+ containing 6
+ug/mL of vancomycin, incubate the inoculated plate for 24 hours at
+ 35 C (95
+F), and consider any growth indicative of vancomycin resistance
+ (62,63,65).  Immediately, while performing confirmatory susceptibility
+ tests,
+notify the patient's primary caregiver, patient-care personnel, and
+infection-control personnel regarding the presumptive
+ identification of VRE
+so that appropriate isolation precautions can be initiated promptly
+ (see
+Preventing and Controlling VRE Transmission in All Hospitals).
+ Follow this
+preliminary report with the (final) result of the confirmatory
+ test.
+Additionally, highlight the report regarding the isolate to alert
+ staff
+that  isolation  precautions  are  indicated.   Screening  Procedures  for  Detecting  VRE  in
+Hospitals Where VRE Have
+ Not Been
+Detected  In some hospital microbiology laboratories, antimicrobial
+susceptibility testing of enterococcal isolates from urine or
+ nonsterile
+body sites (e.g., wounds) is not performed routinely; thus,
+ identification
+of nosocomial VRE colonization and infection in hospitalized
+ patients may
+be delayed. Therefore, in hospitals where VRE have not yet been
+ detected,
+implementing special measures can promote earlier detection of VRE.
+  Antimicrobial susceptibility survey. Perform periodic
+ susceptibility
+testing on an epidemiologic sample of enterococcal isolates
+ recovered from
+all types of clinical specimens, especially from high-risk patients
+ (e.g.,
+those in an ICU or in an oncology or transplant ward). The optimal
+frequency of testing and number of isolates to be tested will vary
+ among
+hospitals, depending on the patient population and number of
+ cultures
+performed at the hospital. Hospitals that process large numbers of
+ culture
+specimens need to test only a fraction (e.g., 10%) of enterococcal
+ isolates
+every 1-2 months, whereas hospitals processing fewer specimens
+ might need
+to test all enterococcal isolates during the survey period. The
+ hospital
+epidemiologist can help design a suitable sampling strategy.  Culture survey of stools or
+rectal swabs. In tertiary medical
+ centers
+and other hospitals that have many critically ill patients (e.g.,
+ ICU,
+oncology, and transplant patients) at high risk for VRE infection
+ or
+colonization, periodic culture surveys of stools or rectal swabs of
+ such
+patients can detect the presence of VRE. Because most patients
+ colonized
+with VRE have intestinal colonization with this organism, fecal
+ screening
+of patients is recommended even though VRE infections have not been
+identified  clinically  (2,4,16).   The  frequency  and  intensity  of  surveillance  should  be
+based on
+ the
+size of the population at risk and the specific hospital unit(s)
+ involved.
+If VRE have been detected in other health-care facilities in a
+ hospital's
+area and/or if a hospital's staff decides to determine whether VRE
+ are
+present in the hospital despite the absence of recognized clinical
+ cases,
+stool or rectal-swab culture surveys are useful. The cost of
+ screening can
+be reduced by inoculating specimens onto selective media containing
+vancomycin (2,17,66) and restricting screening to those patients
+ who have
+been in the hospital long enough to have a substantial risk for
+colonization (e.g., 5-7 days) or who have been admitted from a
+ facility
+(e.g., a tertiary-care hospital or a chronic-care facility) where
+ VRE have
+been identified.  After colonization with VRE has been detected, all the
+ enterococcal
+isolates (including those from urine and wounds) from patients in
+ the
+hospital should be screened routinely for vancomycin resistance,
+ and
+efforts to contain the spread of VRE should be intensified (i.e.,
+ by strict
+adherence to handwashing and compliance with isolation precautions)
+ (see
+Preventing and Controlling VRE Transmission in All Hospitals).
+ Intensified
+fecal screening for VRE might facilitate earlier identification of
+colonized patients, leading to more efficient containment of the
+microorganism.   Preventing  and  Controlling  Nosocomial  Transmission  of  VRE  
+Eradicating VRE from hospitals is most likely to succeed when
+ VRE
+infection or colonization is confined to a few patients on a single
+ ward.
+After VRE have become endemic on a ward or have spread to multiple
+ wards or
+to the community, eradication becomes difficult and costly.
+ Aggressive
+infection-control measures and strict compliance by hospital
+ personnel are
+required  to  limit  nosocomial  spread  of  VRE.   Control  of  VRE  requires  a  collaborative,
+institution-wide,
+multidisciplinary effort. Therefore, the hospital's
+quality-assurance/improvement department should be involved at the
+ outset
+to identify specific problems in hospital operations and
+ patient-care
+systems and to design, implement, and evaluate appropriate changes
+ in these
+systems.  Preventing and Controlling VRE Transmission in All Hospitals  The following
+measures should be implemented by all hospitals,
+including those in which VRE have been isolated infrequently or not
+ at all,
+to prevent and control transmission of VRE.  
+    Notify appropriate hospital staff promptly when VRE are
+ detected (see
+    When VRE Are Isolated From a Clinical Specimen).  
+    Inform clinical staff of the hospital's policies regarding
+    VRE-infected or colonized patients. Because the slightest
+ delay can
+    lead to further spread of VRE and complicate control efforts,
+    implement the required procedures as soon as VRE are detected.
+    Clinical staff are essential to limiting the spread of VRE in
+    patient-care areas; thus, continuing education regarding the
+    appropriate response to the detection of VRE is critical (see
+    Education Programs).  
+    Establish system(s) for monitoring appropriate process and
+ outcome
+    measures (e.g., cumulative incidence or incidence density of
+ VRE
+    colonization, rate of compliance with VRE isolation
+ precautions and
+    handwashing, interval between VRE identification in the
+ laboratory and
+    implementation of isolation precautions on the wards, and the
+    percentage of previously colonized patients admitted to the
+ ward who
+    are identified promptly and placed on isolation precautions).
+ Relay
+    these data to the clinical, administrative, laboratory, and
+ support
+    staff to reinforce ongoing education and control efforts (67).
+  
+    Initiate the following isolation precautions to prevent
+    patient-to-patient transmission of VRE:  
+        Place VRE-infected or colonized patients in private rooms
+ or in
+        the same room as other patients who have VRE (8).  
+        Wear gloves (clean, nonsterile gloves are adequate) when
+ entering
+        the room of a VRE-infected or colonized patient because
+ VRE can
+        extensively contaminate such an environment (3,8,16,17).
+ When
+        caring for a patient, a change of gloves might be
+ necessary after
+        contact with material that could contain high
+ concentrations of
+        VRE (e.g., stool).  
+        Wear a gown (a clean, nonsterile gown is adequate) when
+ entering
+        the room of a VRE-infected or colonized patient a) if
+ substantial
+        contact with the patient or with environmental surfaces
+ in the
+        patient's room is anticipated, b) if the patient is
+ incontinent,
+        or c) if the patient has had an ileostomy or colostomy,
+ has
+        diarrhea, or has a wound drainage not contained by a
+ dressing
+        (8).  
+        Remove gloves and gown before leaving the patient's room
+ and
+        immediately wash hands with an antiseptic soap or a
+ waterless
+        antiseptic agent (68-71). Hands can be contaminated via
+ glove
+        leaks (72-76) or during glove removal, and bland soap
+ does not
+        always completely remove VRE from the hands (77).  
+        Ensure that after glove and gown removal and handwashing,
+        clothing and hands do not contact environmental surfaces
+ in the
+        patient's room that are potentially contaminated with VRE
+ (e.g.,
+        a door knob or curtain) (3,8).  
+    Dedicate the use of noncritical items (e.g., a stethoscope,
+    sphygmomanometer, or rectal thermometer) to a single patient
+ or cohort
+    of patients infected or colonized with VRE (17). If such
+ devices are
+    to be used on other patients, adequately clean and disinfect
+ these
+    devices first (78).  
+    Obtain a stool culture or rectal swab from roommates of
+ patients newly
+    found to be infected or colonized with VRE to determine their
+    colonization status, and apply isolation precautions as
+ necessary.
+    Perform additional screening of patients on the ward at the
+ discretion
+    of the infection-control staff.  
+    Adopt a policy for deciding when patients infected or
+ colonized with
+    VRE can be removed from isolation precautions. The optimal
+    requirements remain unknown; however, because VRE colonization
+ can
+    persist indefinitely (4), stringent criteria might be
+ appropriate,
+    such as VRE-negative results on at least three consecutive
+ occasions
+    (greater than or equal to 1 week apart) for all cultures from
+ multiple
+    body sites (including stool or rectal swab, perineal area,
+ axilla or
+    umbilicus, and wound, Foley catheter, and/or colostomy sites,
+ if
+    present).  
+    Because patients with VRE can remain colonized for long
+ periods after
+    discharge from the hospital, establish a system for
+ highlighting the
+    records of infected or colonized patients so they can be
+ promptly
+    identified and placed on isolation precautions upon
+ readmission to the
+    hospital. This information should be computerized so that
+ placement of
+    colonized patients on isolation precautions will not be
+ delayed
+    because the patients' medical records are unavailable.  
+    Local and state health departments should be consulted when
+ developing
+    a plan regarding the discharge of VRE-infected or colonized
+ patients
+    to nursing homes, other hospitals, or home-health care. This
+ plan
+    should be part of a larger strategy for handling patients who
+ have
+    resolving infections and patients colonized with
+    antimicrobial-resistant microorganisms.  Hospitals With Endemic VRE or Continued
+VRE Transmission  The following measures should be taken to prevent and control
+transmission of VRE in hospitals that have endemic VRE or continued
+ VRE
+transmission despite implementation of measures described in the
+ preceding
+section (see Preventing and Controlling VRE Transmission in All
+ Hospitals).  
+    Focus control efforts initially on ICUs and other areas where
+ the VRE
+    transmission rate is highest (4). Such areas can serve as
+ reservoirs
+    for VRE, allowing VRE to spread to other wards when patients
+ are well
+    enough to be transferred.  
+    Where feasible, cohort the staff who provide regular, ongoing
+ care to
+    patients to minimize the movement/contact of health-care
+ providers
+    between VRE-positive and VRE-negative patients (4,8).  
+    Hospital staff who are carriers of enterococci have been
+ implicated
+    rarely in the transmission of this organism (8). However, in
+    conjunction with careful epidemiologic studies and upon the
+ direction
+    of the infection-control staff, examine personnel for chronic
+ skin and
+    nail problems and perform hand and rectal swab cultures of
+ these
+    workers. Remove from the care of VRE-negative patients those
+    VRE-positive personnel linked epidemiologically to VRE
+ transmission
+    until their carrier state has been eradicated.  
+    Because the results of several enterococcal outbreak
+ investigations
+    suggest a potential role for the environment in the
+ transmission of
+    enterococci (3,8,16,17,79,80), institutions experiencing
+ ongoing VRE
+    transmission should verify that the hospital has adequate
+ procedures
+    for the routine care, cleaning, and disinfection of
+ environmental
+    surfaces (e.g., bed rails, bedside commodes, carts, charts,
+ doorknobs,
+    and faucet handles) and that these procedures are being
+ followed by
+    housekeeping personnel. To verify the efficacy of hospital
+ policies
+    and procedures, some hospitals might elect to perform focused
+    environmental cultures before and after cleaning rooms that
+ house
+    patients who have VRE. All environmental culturing should be
+ approved
+    and supervised by the infection-control program in
+ collaboration with
+    the clinical laboratory (3,8,16,17,79,80).  
+    Consider sending representative VRE isolates to reference
+ laboratories
+    for strain typing by pulsed field gel electrophoresis or other
+    suitable techniques to aid in defining reservoirs and patterns
+ of
+    transmission.  Detecting and Reporting VRSA and VRSE  The microbiology laboratory
+has the primary responsibility for
+detecting and reporting the occurrence of VRSA or VRSE in the
+ hospital. All
+clinical isolates of S. aureus and S. epidermidis should be tested
+routinely, using standard methods, for susceptibility to vancomycin
+ (62).
+If VRSA or VRSE is identified in a clinical specimen, confirm
+ vancomycin
+resistance by repeating antimicrobial susceptibility testing using
+ standard
+methods (62). Restreak the colony to ensure that the culture is
+ pure. The
+most common causes of false-positive VRSA reports are
+ susceptibility
+testing on mixed cultures and misidentifying VRE, Leuconostoc, S.
+haemolyticus,  or  Pediococcus  as  VRSA  (81,82).   Immediately  (i.e.,  while  performing
+confirmatory testing)
+ notify the
+hospital's infection-control personnel, the patient's primary
+ caregiver,
+and patient-care personnel on the ward on which the patient is
+ hospitalized
+so that the patient can be placed promptly on isolation precautions
+(depending on the site{s} of infection or colonization) adapted
+ from
+previous CDC guidelines (83) and those recommended for VRE
+ infection or
+colonization in this report (see Preventing and Controlling
+ Nosocomial
+Transmission of VRE). Furthermore, immediately notify the state
+ health
+department and CDC, and send the isolate through the state health
+department to CDC (telephone {404} 639-6413) for confirmation of
+ vancomycin
+resistance.  References  
+    CDC. Nosocomial enterococci resistant to vancomycin -- United
+ States,
+    1989-1993. MMWR 1993;42:597-9.  
+    Rubin LG, Tucci V, Cercenado E, Eliopoulos G, Isenberg HD.
+    Vancomycin-resistant Enterococcus faecium in hospitalized
+ children.
+    Infect Control Hosp Epidemiol 1992;13:700-5.  
+    Karanfil LV, Murphy M, Josephson A, et al. A cluster of
+    vancomycin-resistant Enterococcus faecium in an intensive care
+ unit.
+    Infect Control Hosp Epidemiol 1992;13:195-200.  
+    Handwerger S, Raucher B, Altarac D, et al. Nosocomial outbreak
+ due to
+    Enterococcus faecium highly resistant to vancomycin,
+ penicillin, and
+    gentamicin. Clin Infect Dis 1993;16:750-5.  
+    Frieden TR, Munsiff SS, Low DE, et al. Emergence of
+    vancomycin-resistant enterococci in New York City. Lancet
+ 1993;342:
+    76-9.  
+    Boyle JF, Soumakis SA, Rendo A, et al. Epidemiologic analysis
+ and
+    genotypic characterization of a nosocomial outbreak of
+    vancomycin-resistant enterococci. J Clin Microbiol 1993;31:
+ 1280-5.  
+    Montecalvo MA, Horowitz H, Gedris C, et al. Outbreak of
+ vancomycin-,
+    ampicillin-, and aminoglycoside-resistant Enterococcus faecium
+    bacteremia in an adult oncology unit. Antimicrob Agents
+ Chemother
+    1994;38:1363-7.  
+    Boyce JM, Opal SM, Chow JW, et al. Outbreak of multi-drug
+ resistant
+    Enterococcus faecium with transferable vanB class vancomycin
+    resistance. J Clin Microbiol 1994;32:1148-53.  
+    Tenover FC, Tokars J, Swenson J, Paul S, Spitalny K, Jarvis W.
+ Ability
+    of clinical laboratories to detect antimicrobial
+ agent-resistant
+    enterococci. J Clin Microbiol 1993;31:1695-9.  
+    Sahm DF, Olsen L. In vitro detection of enterococcal
+ vancomycin
+    resistance. Antimicrob Agents Chemother 1990;34:1846-8.  
+    Zabransky RJ, Dinuzzo AR, Huber MB, Woods GL. Detection of
+ vancomycin
+    resistance in enterococci by the Vitek AMS System. Diagn
+ Microbiol
+    Infect Dis 1994;20:113-6.  
+    Moellering RC Jr. The Garrod lecture: the enterococcus -- a
+ classic
+    example of the impact of antimicrobial resistance on
+ therapeutic
+    options. J Antimicrob Chemother 1991;28:1-12.  
+    Hayden MK, Koenig GI, Trenholme GM. Bactericidal activities of
+    antibiotics against vancomycin-resistant Enterococcus faecium
+ blood
+    isolates and synergistic activities of combinations.
+ Antimicrob Agents
+    Chemother 1994;38:1225-9.  
+    Mobarakai N, Landman D, Quale JM. In-vitro activity of
+ trospectomycin,
+    a new aminocyclitol antibiotic against multidrug-resistant
+    Enterococcus faecium. J Antimicrob Chemother 1994;33:319-21.  
+    Murray BE. The life and times of the enterococcus. Clin
+ Microbiol Rev
+    1990;3:46-65.  
+    Rhinehart E, Smith N, Wennersten C, et al. Rapid dissemination
+ of
+    beta-lactamase-producing aminoglycoside-resistant Enterococcus
+    faecalis among patients and staff on an infant and toddler
+ surgical
+    ward. N Engl J Med 1990;323:1814-8.  
+    Livornese LL Jr, Dias S, Samel C, et al. Hospital-acquired
+ infection
+    with vancomycin-resistant Enterococcus faecium transmitted by
+    electronic thermometers. Ann Intern Med 1992;117:112-6.  
+    Uttley AH, George RC, Naidoo J, et al. High-level
+ vancomycin-resistant
+    enterococci causing hospital infections. Epidemiol Infect
+ 1989;103:
+    173-81.  
+    Leclercq R, Derlot E, Weber M, Duval J, Courvalin P.
+ Transferable
+    vancomycin and teicoplanin resistance in Enterococcus faecium.
+    Antimicrob Agents Chemother 1989;33:10-5.  
+    Noble WC, Virani Z, Cree R. Co-transfer of vancomycin and
+ other
+    resistance genes from Enterococcus faecalis NCTC12201 to
+    Staphylococcus aureus. FEMS Microbiol Lett 1992;72:195-8.  
+    Veach LA, Pfaller MA, Barrett M, Koontz FP, Wenzel RP.
+ Vancomycin
+    resistance in Staphylococcus haemolyticus causing colonization
+ and
+    bloodstream infection. J Clin Microbiol 1990;28:2064-8.  
+    Degener JE, Heck MEOC, Vanleeuwen WJ, et al. Nosocomial
+ infection by
+    Staphylococcus haemolyticus and typing methods for
+ epidemiological
+    study. J Clin Microbiol 1994;32:2260-5.  
+    Small PM, Chambers HF. Vancomycin for Staphylococcus aureus
+    endocarditis in intravenous drug users. Antimicrob Agents
+ Chemother
+    1990;34:1227-31.  
+    Cantoni L, Glauser MP, Bille J. Comparative efficacy of
+ daptomycin,
+    vancomycin, and cloxacillin for the treatment of
+ Staphylococcus aureus
+    endocarditis in rats and role of test conditions in this
+    determination. Antimicrob Agents Chemother 1990;34:2348-53.  
+    American Heart Association Committee on Rheumatic Fever and
+ Infective
+    Endocarditis. Prevention of bacterial endocarditis.
+ Circulation
+    1984;70:1123-4.  
+    Maki DG, Bohn MJ, Stolz SM, Kroncke GM, Acher CW, Myerowitz
+ PD.
+    Comparative study of cefazolin, cefamandole, and vancomycin
+ for
+    surgical prophylaxis in cardiac and vascular operations: a
+    double-blind randomized trial. J Thorac Cardiovasc Surg
+ 1992;104:
+    1423-34.  
+    Classen DC, Evans RS, Pestotnik SL, Horn SD, Menlove RL, Burke
+ JP. The
+    timing of prophylactic administration of antibiotics and the
+ risk of
+    surgical-wound infection. N Engl J Med 1992; 326:281-6.  
+    Conte JE Jr, Cohen SN, Roe BB, Elashoff RM. Antibiotic
+ prophylaxis and
+    cardiac surgery: a prospective double-blind comparison of
+ single-dose
+    versus multiple-dose regimens. Ann Intern Med 1972;76:943-9.  
+    DiPiro JT, Cheung RP, Bowden TA Jr, Mansberger JA. Single-dose
+    systemic antibiotic prophylaxis of surgical wound infections.
+ Am J
+    Surg 1986;152:552-9.  
+    Heydemann JS, Nelson CL. Short-term preventive antibiotics.
+ Clin
+    Orthop 1986;205:184-7.  
+    Rubin M, Hathorn JW, Marshall D, Gress J, Steinberg SM, Pizzo
+ PA.
+    Gram-positive infections and the use of vancomycin in 550
+ episodes of
+    fever and neutropenia. Ann Intern Med 1988; 108:30-5.  
+    Shenep JL, Hughes WT, Roberson PK, et al. Vancomycin,
+ ticarcillin, and
+    amikacin compared with ticarcillin-clavulanate and amikacin in
+ the
+    empirical treatment of febrile neutropenic children with
+ cancer. N
+    Engl J Med 1988;319:1053-8.  
+    Pizzo PA, Hathorn JW, Hiemenz J, et al. A randomized trial
+ comparing
+    ceftazidime alone with combination antibiotic therapy in
+ cancer
+    patients with fever and neutropenia. N Engl J Med
+ 1986;315:552-8.  
+    Karp JE, Dick JD, Angelopulos C, et al. Empiric use of
+ vancomycin
+    during prolonged treatment-induced granulocytopenia:
+ randomized,
+    double-blind, placebo-controlled clinical trial in patients
+ with acute
+    leukemia. Am J Med 1986;81:237-42.  
+    European Organization for Research and Treatment of Cancer
+ (EORTC)
+    International Antimicrobial Therapy Cooperative Group,
+ National Cancer
+    Institute of Canada Clinical Trials Group. Vancomycin added to
+    empirical combination antibiotic therapy for fever in
+ granulocytopenic
+    cancer patients. J Infect Dis 1991;163:951-8.  
+    Riikonen P. Imipenem compared with ceftazidime plus vancomycin
+ as
+    initial therapy for fever in neutropenic children with cancer.
+ Pediatr
+    Infect Dis 1991;10:918-23.  
+    Lamy T, Michelet C, Dauriac C, Grulois I, Donio PY, Le Prise
+ PY.
+    Benefit of prophylaxis by intravenous systemic vancomycin in
+    granulocytopenic patients: a prospective, randomized trial
+ among 59
+    patients. Acta Haematol 1993;90:109-13.  
+    Isaacman DJ, Karasic RB. Lack of effect of changing needles on
+    contamination of blood cultures. Pediatr Infect Dis J
+ 1990;9:274-8.  
+    Krumholz HM, Cummings S, York M. Blood culture phlebotomy:
+ switching
+    needles does not prevent contamination. Ann Intern Med
+ 1990;113:290-2.  
+    Strand CL, Wajsbort RR, Sturmann K. Effect of iodophor vs
+ iodine
+    tincture skin preparation on blood culture contamination rate.
+ JAMA
+    1993;269:1004-6.  
+    Maki DG, Schuna AA. A study of antimicrobial misuse in a
+ university
+    hospital. Am J Med Sci 1978;275:271-82.  
+    Ranson MR, Oppenheim BA, Jackson A, Kamthan AG, Scarffe JH.
+    Double-blind placebo controlled study of vancomycin
+ prophylaxis for
+    central venous catheter insertion in cancer patients. J Hosp
+ Infect
+    1990;15:95-102.  
+    Henrickson KJ, Powell KR, Schwartz CL. A dilute solution of
+ vancomycin
+    and heparin retains antibacterial and anticoagulant
+ activities. J
+    Infect Dis 1988;157:600-1.  
+    Schwartz C, Henrickson KJ, Roghmann K, Powell K. Prevention of
+    bacteremia attributed to luminal colonization of tunneled
+ central
+    venous catheters with vancomycin-susceptible organism. J Clin
+ Oncol
+    1990;8:1591-7.  
+    Henrickson KJ, Dunne WM Jr. Modification of central venous
+ catheter
+    flush solution improves in vitro antimicrobial activity. J
+ Infect Dis
+    1992;166:944-6.  
+    Gaillard JL, Merlino R, Pajot N, et al. Conventional and
+    nonconventional modes of vancomycin administration to
+ decontaminate
+    the internal surface of catheters colonized with
+ coagulase-negative
+    staphylococci. J Paren Enter Nutr 1990;14:593-7.  
+    Spafford PS, Sinkin RA, Cox C, Reubens L, Powell KR.
+ Prevention of
+    central venous catheter-related coagulase-negative
+ staphylococcal
+    sepsis in neonates. J Pediatr 1994;125:259-63.  
+    Kaplan AH, Gilligan PH, Facklam RR. Recovery of resistant
+ enterococci
+    during vancomycin prophylaxis. J Clin Microbiol
+ 1988;26:1216-8.  
+    Gradon JD, Wu EH, Lutwick LI. Aerosolized vancomycin therapy
+    facilitating nursing home placement. Ann Pharmacother
+ 1992;26:209-10.  
+    Weathers L, Riggs D, Santeiro M, Weibley RE. Aerosolized
+ vancomycin
+    for treatment of airway colonization by methicillin-resistant
+    Staphylococcus aureus. Pediatr Infect Dis 1990;9:220-1.  
+    Johnson S, Homann SR, Bettin KM, et al. Treatment of
+ asymptomatic
+    Clostridium difficile carriers (fecal excretors) with
+ vancomycin or
+    metronidazole. Ann Intern Med 1992;117:297-302.  
+    Kacica MS, Horgan MJ, Ochoa L, Sandler R, Lepow ML, Venezia
+ RA.
+    Prevention of gram-positive sepsis in neonates weighing less
+ than 1500
+    grams. J Pediatr 1994;125:253-8.  
+    Lam TY, Vas SI, Oreopoulos DG. Long-term intraperitoneal
+ vancomycin in
+    the prevention of recurrent peritonitis during CAPD:
+ preliminary
+    results. Perit Dial Int 1991;11:281-2.  
+    Bastani B, Freer K, Read D, et al. Treatment of gram-positive
+    peritonitis with two intraperitoneal doses of vancomycin in
+ continuous
+    ambulatory peritoneal dialysis patients. Nephron
+ 1987;45:283-5.  
+    Newman LN, Tessman M, Hanslik T, Schulak J, Mayes J,
+ Friedlander M. A
+    retrospective view of factors that affect catheter healing:
+ four years
+    of experience. Adv Perit Dial 1993;9:217-22.  
+    Capdevila JA, Segarra A, Planes AM, et al. Successful
+ treatment of
+    haemodialysis catheter-related sepsis without catheter
+ removal.
+    Nephrol Dial Transplant 1993;8:231-4.  
+    Edell LS, Westby GR, Gould SR. An improved method of
+ vancomycin
+    administration to dialysis patients. Clin Nephrol
+ 1988;29:86-7.  
+    Soumerai SB, McLaughlin TJ, Avorn J. Quality assurance for
+ drug
+    prescribing. Qual Assur Health Care 1990;2:37-58.  
+    Everitt DE, Soumerai SB, Avorn J, Klapholz H, Wessels M.
+ Changing
+    surgical antimicrobial prophylaxis practices through education
+    targeted at senior department leaders. Infect Control Hosp
+ Epidemiol
+    1990;11:578-83.  
+    Soumerai SB, Avorn J, Taylor WC, Wessels M, Maher D, Hawley
+ SL.
+    Improving choice of prescribed antibiotics through concurrent
+    reminders in an educational order form. Med Care
+ 1993;31:552-8.  
+    Soumerai SB, McLaughlin TJ, Avorn J. Improving drug
+ prescribing in
+    primary care: a critical analysis of the experimental
+ literature.
+    Milbank Q 1989;67:268-317.  
+    National Committee for Clinical Laboratory Standards. Methods
+ for
+    dilution antimicrobial susceptibility tests for bacteria that
+ grow
+    aerobically. 3rd ed. Villanova, PA: National Committee for
+ Clinical
+    Laboratory Standards, 1993; publication M7-A3.  
+    Swenson JM, Ferraro MJ, Sahm DF, Charache P, Tenover FC,
+ National
+    Committee for Clinical Laboratory Standards Working Group on
+    Enterococci. New vancomycin disk diffusion breakpoints for
+    enterococci. J Clin Microbiol 1992;30:2525-8.  
+    CDC. Recommendations for prevention of HIV transmission in
+ health-care
+    settings. MMWR 1987;36(No. 2S).  
+    Swenson JM, Clark NC, Ferraro MJ, et al. Development of a
+ standardized
+    screening method for detection of vancomycin-resistant
+ Enterococci. J
+    Clin Microbiol 1994;32:1700-4.  
+    Edberg SC, Hardalo CJ, Kontnick C, Campbell S. Rapid detection
+ of
+    vancomycin-resistant enterococci. J Clin Microbiol
+ 1994;32:2182-4.  
+    Nettleman MD, Trilla A, Fredrickson M, Pfaller M. Assigning
+    responsibility: using feedback to achieve sustained control of
+    methicillin-resistant Staphylococcus aureus. Am J Med
+ 1991;91(suppl
+    3B):228S-232S.  
+    Doebbeling BN, Stanley GL, Sheetz CT, et al. Comparative
+ efficacy of
+    alternative hand-washing agents in reducing nosocomial
+ infections in
+    intensive care units. N Engl J Med 1992;327:88-93.  
+    Jones MV, Rowe GB, Jackson B, Pritchard NJ. The use of alcohol
+ paper
+    wipes for routine hand cleansing: results of trials in two
+ hospitals.
+    J Hosp Infect 1986;8:268-74.  
+    Nicoletti G, Boghossian V, Borland R. Hygienic hand
+ disinfection: a
+    comparative study with chlorhexidine detergents and soap. J
+ Hosp
+    Infect 1990;15:323-37.  
+    Butz AM, Laughon BE, Gullette DL, Larson EL.
+ Alcohol-impregnated wipes
+    as an alternative in hand hygiene. Am J Infect Control
+ 1990;18:70-6.  
+    Korniewicz DM, Laughon BE, Butz A, Larson E. Integrity of
+ vinyl and
+    latex procedure gloves. Nurs Res 1989;38:144-6.  
+    Korniewicz DM, Kirwin M, Cresci K, Markut C, Larson E. In-use
+    comparison of latex gloves in two high-risk units: surgical
+ intensive
+    care and acquired immunodeficiency syndrome. Heart Lung
+ 1992;21:81-4.  
+    DeGroot-Kosolcharoen J, Jones JM. Permeability of latex and
+ vinyl
+    gloves to water and blood. Am J Infect Control
+ 1989;17:196-201.  
+    Paulssen J, Eidem T, Kristiansen R. Perforations in surgeons'
+ gloves.
+    J Hosp Infect 1988; 11:82-5.  
+    Korniewicz DM, Laughon BE, Cyr WH, Lytle CD, Larson E. Leakage
+ of
+    virus through used vinyl and latex examination gloves. J Clin
+    Microbiol 1990;28:787-8.  
+    Wade JJ, Desai N, Casewell MW. Hygienic hand disinfection for
+ the
+    removal of epidemic vancomycin-resistant Enterococcus faecium
+ and
+    gentamicin-resistant Enterobacter cloacae. J Hosp Infect
+ 1991;18:
+    211-8.  
+    Favero MS, Bond WW. Sterilization, disinfection, and
+ antisepsis in the
+    hospital. Chapter 24. In: Balows A, Hausler WJ Jr, Herrman KL,
+    Isenberg HD, Shadomy HJ, eds. Manual of clinical microbiology.
+ 5th ed.
+    Washington, DC: American Society for Microbiology,
+ 1991:183-200.  
+    Zervos MJ, Kauffman CA, Therasse PM, Bregman AG, Mikesell TS,
+ Schaberg
+    DR. Nosocomial infection by gentamicin-resistant Streptococcus
+    faecalis: an epidemiologic study. Ann Intern Med
+ 1987;106:687-91.  
+    Wells VD, Wong ES, Murray BE, Coudron PE, Williams DS,
+ Markowitz SM.
+    Infections due to beta-lactamase-producing, high-level
+    gentamicin-resistant Enterococcus faecalis. Ann Intern Med
+ 1992;116:
+    285-92.  
+    Orberg PK, Sandine WE. Common occurrence of plasmid DNA and
+ vancomycin
+    resistance in Leuconostoc spp. Appl Environ Microbiol
+ 1984;48:1129-33.  
+    Schwalbe RS, Ritz WJ, Verma PR, Barranco EA, Gilligan PH.
+ Selection
+    for vancomycin resistance in clinical isolates of
+ Staphylococcus
+    haemolyticus. J Infect Dis 1990;161:45-51.  
+    Garner JS, Simmons BP. Guideline for isolation precautions in
+ 
+ 
+ 
+ hospitals.
+ Infect
+ Control
+ 1983;4(suppl):245-325.
+ 
++-------------------------------------------------------------------
+-------+
+|            
+                                                              |
+|                     Erratum: Vol. 44, No. RR-12
+                          |
+|            
+                                                              |
+|            SOURCE: MMWR 44(41);782   DATE: Oct 20, 1995
+                  |
+|            
+                                                              |
+|      In the MMWR Recommendations and Reports "Recommendations for
+        |
+| Preventing the Spread of Vancomycin Resistance: Recommendations
+ of the   |
+| Hospital Infection Control Practices Advisory Committee
+ (HICPAC)," the   |
+| publication date printed at the top of even-numbered pages ii-12
+ should  |
+| have been September 22, 1995.
+                                            |
+|            
+                                                              |
++-------------------------------------------------------------------
+-------+  
+Disclaimer
+   All MMWR HTML versions of articles are electronic conversions from ASCII text into
+HTML.  This conversion may have resulted in character translation or format errors in
+the HTML version.  Users should not rely on this HTML document, but are referred to the
+electronic  PDF  version  and/or  the  original  MMWR  paper  copy  for  the  official  text,
+figures,  and  tables.   An  original  paper  copy  of  this  issue  can  be  obtained  from  the
+Superintendent of Documents, U.S. Government Printing Office (GPO), Washington, DC
+20402-9371;  telephone:  (202)  512-1800.  Contact  GPO  for  current  prices.  Page
+converted: 09/19/98 
+    HOME  |  
+    ABOUT MMWR  | 
+    MMWR SEARCH  | 
+    DOWNLOADS  | 
+    RSS 
+    |  
+    CONTACT
+POLICY  |  
+    DISCLAIMER  |  
+    ACCESSIBILITY 
+Morbidity and Mortality Weekly Report
+                Centers for Disease Control and Prevention
+                1600 Clifton Rd, MailStop E-90, Atlanta, GA 
+                  30333, U.S.A 
+Department of Healthand Human Services This page last reviewed 5/2/01 
+ 
+Source URL: https://www.cdc.gov/mmwr/preview/mmwrhtml/00039349.htm

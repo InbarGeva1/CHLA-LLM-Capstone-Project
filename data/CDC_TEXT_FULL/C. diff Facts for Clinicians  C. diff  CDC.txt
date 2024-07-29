@@ -1,0 +1,42 @@
+A .gov website belongs to an official government organization in the United States. A
+lock (  ) or https:// means you've safely connected to the .gov website. Share sensitive
+information only on official, secure websites. 
+Related Topics:
+ C.  diff  is  a  spore-forming,  Gram-positive  anaerobic  bacillus  that  produces  two
+exotoxins: toxin A and toxin B.  C. diff sheds in feces. Any surface, device or material
+that becomes contaminated with feces could serve as a reservoir for the C. diff spores.
+Examples  include:  C.  diff  spores  can  transfer  to  patients  by  the  hands  of  healthcare
+personnel who have touched a contaminated surface or item. Patients with CDI exhibit
+clinical symptoms and test positive for the C. diff organism or its toxin.  Colonization
+with  C.  diff  is  more  common  than  infection.  Colonized  patients  do  not  have  disease
+caused by C. diff and often exhibit NO clinical symptoms (asymptomatic) like diarrhea.
+Colonized patients do test positive for the C. diff organism or its toxin. If a patient has
+had three or more stools in 24 hours: If CDI is confirmed:  In about 20% of patients, CDI
+will resolve within two to three days of discontinuing the antibiotic to which the patient
+was  previously  exposed.  However,  CDI  should  usually  be  treated  with  an  appropriate
+course  (about  10  days)  of  treatment,  including  oral  vancomycin  or  fidaxomicin.  After
+treatment,  repeat  C.  diff  testing  is  not  recommended  if  the  patient's  symptoms  have
+resolved,  as  patients  often  remain  colonized.  Surfaces  should  be  clean  and  body
+substance spills should be managed promptly, per CDC's Guidelines for Environmental
+Infection Control in Health-Care Facilities. Routine cleaning should be performed before
+disinfection. EPA-registered disinfectants with a sporicidal claim have been successful in
+environmental  surface  disinfection  of  patient-care  areas  where  surveillance  and
+epidemiology
+ indicate
+ ongoing
+ transmission
+ of
+ C.
+ diff.
+ Note:
+ EPA-registered
+disinfectants  (List  K)  are  recommended  for  patient-care  areas.  When  choosing  a
+disinfectant,  check  product  labels  for  inactivation  claims,  indications  for  use  and
+instructions.  CDC  works  with  federal  and  public  health  partners  to  reduce  C.  diff
+infections. CDC also discovers, implements and evaluates innovative ways to improve
+healthcare  quality  and  patient  safety.  Improving  Diagnosis  and  Management:  Clinical
+Practice  Guidelines  for  Clostridium  difficile  Infection  in  Adults  and  Children:  2017
+Federal Initiatives to Reduce C. diff: C. diff is a germ that causes diarrhea and colitis
+(inflammation of the colon). It can be life-threatening. Languages Language Assistance
+Languages  Language Assistance 
+Source URL: https://www.cdc.gov/c-diff/hcp/clinical-overview/index.html

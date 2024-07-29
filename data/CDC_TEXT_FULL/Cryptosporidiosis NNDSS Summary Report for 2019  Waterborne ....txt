@@ -1,0 +1,134 @@
+A .gov website belongs to an official government organization in the United States. A
+lock (  ) or https:// means you've safely connected to the .gov website. Share sensitive
+information only on official, secure websites. The Cryptosporidiosis National Notifiable
+Disease Surveillance System (NNDSS) Summary Report below provides an overview of
+cryptosporidiosis  cases  by  region  and  jurisdiction  in  the  United  States  during  2019.
+Cryptosporidiosis  is  a  gastrointestinal  illness  caused  by  protozoa  of  the  genus
+Cryptosporidium, the leading cause of U.S. waterborne disease outbreaks (1) and the
+third  leading  cause  of  U.S.  zoonotic  enteric  illness  (2).  An  estimated  823,000
+cryptosporidiosis cases occur annually; this means <2% of cases are nationally notified
+(3).
+ Cryptosporidium
+ infection
+ can
+ be
+ symptomatic
+ or
+ asymptomatic.
+Immunocompetent  patients  can  experience  frequent,  non-bloody,  watery  diarrhea
+typically  lasting  up  to  2–3  weeks  (4).  Additional  symptoms  can  include  vomiting,
+nausea,
+ abdominal
+ pain,
+ fever,
+ anorexia,
+ fatigue,
+ and
+ weight
+ loss.
+Immunocompromised patients can experience profuse watery diarrhea lasting weeks to
+months  or  even  life-threatening  malnutrition  and  wasting.  Cryptosporidiosis  is  a
+nationally notifiable disease; the first full year of reporting was 1995. National data are
+collected  through  passive  surveillance.  Healthcare  providers  and  laboratories  that
+diagnose  cryptosporidiosis  are  mandated  to  report  cases  to  the  local  or  state  health
+department. The 50 state, District of Columbia (DC), New York City (NYC), and territorial
+public  health  agencies,  in  turn,  voluntarily  notify  CDC  of  cases  via  the  National
+Notifiable  Disease  Surveillance  System  (NNDSS).  Some  states  conduct  enhanced
+molecular  surveillance  of  cryptosporidiosis  through  participation  in  CryptoNet;
+CryptoNet  data  are  not  presented  here.  State,  DC,  NYC,  U.S.  territory,  and  freely
+associated  state  public  health  agencies  voluntarily  notify  CDC  of  cryptosporidiosis
+outbreaks  via  the  National  Outbreak  Reporting  System  (NORS).  NORS  data  are  not
+presented  here;  however,  summaries  of  data  on  waterborne  disease  outbreaks  are
+reported elsewhere. The definition of a confirmed case of cryptosporidiosis has changed
+over  time.  The  first  national  case  definition  was  published  in  1995;  the  current  case
+definition was published in 2012. The pre-2011 case definitions classified a case with
+any  laboratory  evidence  of  Cryptosporidium  infection  as  a  confirmed  case.  The  2012
+confirmed  case  definition  requires  evidence  of  Cryptosporidium  organisms  or  DNA  in
+stool, intestinal fluid, tissue samples, biopsy specimens, or other biological sample by
+certain laboratory methods with a high positive predictive value (e.g., direct fluorescent
+antibody [DFA] test, polymerase chain reaction [PCR], enzyme immunoassay [EIA], or
+light microscopy of stained specimen). A probable case of cryptosporidiosis is defined
+as 1) having supportive laboratory test results for Cryptosporidium spp. infection using
+a screening test method, such as immunochromatographic card or rapid card test, or a
+laboratory test of unknown method or 2) meeting clinical criteria (i.e., diarrhea and one
+or  more  of  the  following:  diarrhea  duration  of  >72  hours,  abdominal  cramping,
+vomiting,  or  anorexia)  and  being  epidemiologically  linked  to  a  confirmed  case.  A
+suspect case is defined as having a diarrheal illness and being epidemiologically linked
+to  a  probable  case.  Cases  not  classified  as  confirmed,  probable,  or  suspect  are
+classified  as  unknown.  National  cryptosporidiosis  surveillance  data  for  2019  were
+analyzed  using  R  version  4.0.3.  Data  cleaning  processes  included  case  deduplication
+and the verification of case status (confirmed, nonconfirmed). Numbers, percentages,
+and  incidence  (cases  per  100,000  population)  of  cryptosporidiosis  were  calculated  in
+aggregate for the United States and separately for each reporting jurisdiction. Incidence
+was calculated by dividing the number of cryptosporidiosis cases by mid-year census
+estimates (5) and multiplying by 100,000. U.S. Census Bureau data were obtained using
+their Application Programming Interface and the R censusapi package (6–7). In addition
+to analyzing data nationally and by reporting jurisdiction, data were analyzed by region
+(Northeast, Midwest, South, and West regions), as defined by the U.S. Census Bureau
+(8).  To  account  for  differences  in  the  seasonal  use  of  recreational  water,  the  West
+region  was  further  subdivided  into  Northwest  and  Southwest.  To  examine  reporting
+over  time,  cryptosporidiosis  incidence  was  calculated  by  year  (2010–2019)  and  case
+status.  Average  annual  cryptosporidiosis  incidence  was  calculated  by  demographic
+variables (e.g., age and sex). Incidence was not calculated for race, ethnicity, or month
+of onset, due to large proportion of missing data for these variables (i.e., 16.4%, 24.9%,
+and 20.2%, respectively). One case reported by Puerto Rico for 2016 was excluded from
+analysis,  because  detailed  demographic  census  data  are  not  available  to  calculate
+incidence by age and sex. The authors thank the Surveillance and Data Branch, Division
+of  Health  Informatics  and  Surveillance,  Center  for  Surveillance,  Epidemiology,  and
+Laboratory  Services;  Office  of  Public  Health  Scientific  Services,  Centers  for  Disease
+Control  and  Prevention  for  preparing  and  aggregating  state-based  NNDSS  data  for
+dissemination. Download Data [XLS – 225 B] * Cases per 100,000 population per year §
+Probable,  suspect,  or  unknown  cases  During  the  last  decade,  incidence  of
+cryptosporidiosis has increased 47.2%. This continues a marked increase of 241% since
+2004.  This  increase  could  be  related  to  increased  testing  for  Cryptosporidium  due  to
+increasing use of diagnostic multiplex PCR panels for gastrointestinal illness. This could
+also  reflect  true  increases  in  cryptosporidiosis  incidence.  The  consistently  increased
+incidence  of  reported  nonconfirmed  cases  after  2010  likely  reflects  changes  in  the
+national  case  definition.  Download  Data  [XLS  –  1  KB]  *  Percentages  might  not  total
+100% because of rounding § Cases per 100,000 population ¶ New York State and New
+York City data are mutually exclusive By jurisdiction, incidence ranged from 19.2 per
+100,000 population in South Dakota through 0.6 per 100,000 population in Hawaii. As a
+region, the Midwest has the greatest overall incidence of 6.7 per 100,000 population.
+This  coincides  with  this  region  having  some  of  the  highest  incidence  by  jurisdiction.
+Differences in incidence might reflect differences in risk factors or mode of transmission
+of  Cryptosporidium;  the  magnitude  of  outbreaks;  or  the  capacity  or  requirements  to
+detect, investigate, and report cases. Download Data [XLS – 964 B] * Cases per 100,000
+population  ¶  New  York  State  and  New  York  City  data  are  mutually  exclusive
+Cryptosporidiosis  is  geographically  widespread  across  the  United  States.  Although
+incidence appears to be consistently higher in the northern Midwest states, differences
+in  incidence  might  reflect  differences  in  risk  factors  or  modes  of  transmission  of
+Cryptosporidium;  the  magnitude  of  outbreaks;  or  the  capacity  or  requirements  to
+detect, investigate, and report cases. Download Data [XLS – 327 B] * Percentages might
+not  total  100%  because  of  rounding  More  than  half  (7,088  [51.1%])  of  patients  for
+whom  gender  was  reported  were  female.  Of  the  11,689  patients  for  whom  race  was
+reported, 79.2% were white. Of the 10,501 patients for whom ethnicity was reported,
+13.8% were Hispanic. Download Data [XLS – 214 B] * Cases per 100,000 population §
+Age  data  missing  for  55  patients  The  incidence  of  reported  cryptosporidiosis,  by  age
+group, was highest among patients ages <5 years (7.6 cases per 100,000 population),
+25–29 years (5.4), 30–34 years (5.1), and 20–24 years (4.9). This might reflect young
+children becoming infected and ill and their caregivers subsequently becoming infected
+after  changing  diapers  of  young  children  or  helping  them  with  toileting.  *  Cases  per
+100,000 population § Age or sex data missing for 171 patients The highest incidence of
+cryptosporidiosis, by sex and age group, was among males ages <5 years (9.0 cases
+per  100,000  population)  and  females  ages  25–29  years  (6.0  cases  per  100,000).
+Incidence for females were higher than for males for all age groups >19 years, except
+those 40–44 years and 80–84 years. The incidence is essentially the same for females
+and  males  ages  45–54  years.  Differences  in  age-specific  incidence  might  be  due  to
+age-specific differences in risk factors or modes of transmission of Cryptosporidium. For
+example,  compared  with  males,  females  might  be  more  likely  to  change  diapers  of
+young  children  or  help  them  with  toileting,  and  thus,  more  likely  to  be  exposed  to
+Cryptosporidium.  Additionally,  compared  with  males,  females  might  be  more  likely  to
+seek  healthcare,  and  thus,  more  likely  to  have  illness  diagnosed  and  reported  as
+cryptosporidiosis. Download Data [XLS – 163 B] * Age data missing for 2,822 patients
+The number of cryptosporidiosis cases was greatest in August (N=1,770) and lowest in
+February (N=498). The number of cases, by month of symptom onset, reflects seasonal
+differences in exposure, such as summertime swimming. Download Data [XLS – 410 B]
+* Cases per 100,000 population per year § Probable, suspect, or unknown cases ¶ First
+full  year  of  national  reporting  Cryptosporidiosis  NNDSS  Summary  Report  for  2018
+Waterborne disease and outbreak surveillance provides important information on how
+germs,  chemicals,  or  toxins  spread,  and  which  types  of  water  are  linked  to  people
+getting sick. Languages Language Assistance Languages  Language Assistance 
+Source
+ URL:
+https://www.cdc.gov/healthy-water-data/documentation/cryptosporidiosis-nndss-summary-report-for-201
+9.html

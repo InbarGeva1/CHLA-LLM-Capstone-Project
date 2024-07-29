@@ -1,0 +1,96 @@
+A .gov website belongs to an official government organization in the United States. A
+lock (  ) or https:// means you've safely connected to the .gov website. Share sensitive
+information  only  on  official,  secure  websites.  In  the  dental  operatory,  environmental
+surfaces can become contaminated through touch, splash, or droplets generated during
+patient  care.  Certain  surfaces,  especially  ones  touched  frequently—such  as  light
+handles,  unit  switches,  and  drawer  knobs—can  serve  as  reservoirs  of  microbial
+contamination. This may cause cross-contamination that can expose dental health care
+personnel  or  patients  to  disease.  Full  recommendations  on  cleaning  and  disinfecting
+environmental surfaces can be found on pages 25–28 in CDC's Guidelines for Infection
+Control  in  Dental  Health-Care  Settings—2003  and  in  the  Summary  of  Infection
+Prevention  Practices  in  Dental  Settings:  Basic  Expectations  for  Safe  Care.  Cleaning
+removes  debris  and  organic  contamination  from  surfaces.  Cleaning  is  the  necessary
+first step of any disinfection process. If a surface is not cleaned first, the disinfection
+process  can  be  compromised.  Disinfection  eliminates  many  or  all  disease-causing
+microorganisms  on  an  object.  However,  it  does  not  remove  bacterial  spores.  
+Sterilization eliminates all disease-causing microorganisms, as well as bacterial spores.
+This  is  typically  done  by  heat  (steam  autoclave,  dry  heat,  and  unsaturated  chemical
+vapor)  or  liquid  chemical  sterilants.  Sterilization  is  used  for  patient  care  items.  The
+choice of specific cleaning or disinfecting agents is largely a matter of judgment, guided
+by  product  label  claims  and  instructions  and  government  regulations.   Choosing  the
+correct product depends on the consideration of multiple factors, including the degree
+of microbial killing required; the nature and composition of the surface, item, or device
+to be treated; and the cost, safety, and ease of use.  A single product might not satisfy
+all  disinfection  requirements  in  a  given  dental  facility.  Low-level  disinfectants  are
+Environmental  Protection  Agency  (EPA)-registered  without  a  tuberculocidal  claim.  The
+label  may  instead  provide  a  hepatitis  B  virus  (HBV)  or  HIV  label  claim.  Low-level
+disinfection kills most vegetative bacteria, some viruses, and some fungi, but cannot be
+relied  on  to  kill  mycobacteria  or  bacterial  spores.  Intermediate-level  disinfectants  are
+registered  with  the  US  EPA  and  have  a  tuberculocidal  claim.  Intermediate-level
+disinfection  kills  bacteria,  most  viruses  and  most  fungi,  but  does  not  reliably  kill
+bacterial spores. High-level disinfectants, such as glutaraldehyde, are used as chemical
+sterilants. Because of their toxic nature, high level disinfectants should never be used
+on environmental surfaces. Because of the risks associated with exposure to chemical
+disinfectants  and  contaminated  surfaces,  dental  health  care  personnel  (DHCP)  should
+wear appropriate PPE to prevent exposure to infectious agents or chemicals. PPE can
+include  gloves,  gowns,  masks,  and  eye  protection.  Chemical-  and  puncture-resistant
+utility  gloves  offer  more  protection  than  patient  examination  gloves  when  using
+hazardous chemicals.    DHCP should follow manufacturer instructions and review the
+manufacturer Safety Data Sheet (formerly called Material Safety Data Sheet) regarding
+correct procedures for handling or working with hazardous chemicals. Clinical contact
+surfaces, such as light handles, bracket trays, switches on dental units, and computer
+equipment,  are  likely  be  contaminated  by  direct  spray  or  spatter  generated  during
+dental  procedures.  They  can  also  be  contaminated  by  contact  with  contaminated
+gloved hands.  Ideally, clinical contact surfaces, especially those that are hard to clean,
+should  be  barrier  protected  with  a  Food  and  Drug  Administration  (FDA)-approved
+surface barrier. This barrier should be changed between each patient.  After removing
+the  barrier,  examine  the  surface  to  make  sure  it  did  not  become  soiled.  If  it  is
+contaminated, the surface needs to be cleaned and disinfected before the next patient.
+If  surface  barriers  cannot  be  used,  clean  and  then  disinfect  the  surface  with  an
+EPA-registered, low-level hospital disinfectant that is effective against HIV and HBV. If
+the surface is visibly contaminated with blood or other potentially infectious material,
+clean and then disinfect the surface with an EPA-registered, intermediate-level hospital
+disinfectant with a tuberculocidal claim. Housekeeping surfaces, such as floors, walls,
+and sinks, do not come into contact with patients or devices used in dental procedures.
+These surfaces have a limited risk of disease transmission and can be decontaminated
+with  less  rigorous  methods  than  those  used  on  dental  patient-care  items  and  clinical
+contact surfaces. Housekeeping surface can be cleaned with soap and water or cleaned
+and disinfected if visibly contaminated with blood. Reusable mops and cloths should be
+cleaned  after  use  and  allowed  to  dry  before  reuse.  Alternatively,  use  single-use
+disposable  options.  Prepare  fresh  cleaning  and  disinfecting  solutions  daily  and
+according  to  the  manufacturer's  recommendations.  The  majority  of  soiled  items  in
+dental offices are general medical waste. Examples include used gloves, masks, gowns,
+and lightly soiled gauze or cotton rolls. Non-regulated medical waste can be disposed of
+with ordinary waste. Some waste—such as gauze soaked in blood, extracted teeth, and
+used  needles—carries  a  substantial  risk  of  causing  infection  during  handling  and
+disposal  and  is  regulated  medical  waste.  This  type  of  waste  requires  special  storage,
+handling,  neutralization,  and  disposal  strategies.   Regulated  medical  waste  that  does
+not have any sharp items can be contained in a single leak-resistant biohazard bag. 
+Sharp  items,  like  scalpel  blades,  needles,  or  syringes,  should  be  placed  in
+puncture-resistant  containers  with  a  biohazard  label  (e.g.,  a  sharps  container).   Any
+facility generating regulated medical waste should have a plan for its management that
+complies with federal, state, and local regulations.  Dental health care facilities should
+dispose of medical waste regularly so that it does not accumulate. EPA regulates low-
+and  intermediate-level  disinfectants  that  are  used  on  environmental  surfaces  (clinical
+contact surfaces and housekeeping). FDA regulates liquid chemical sterilants/high-level
+disinfectants  (e.g.,  glutaraldehyde,  hydrogen  peroxide,  and  peracetic  acid)  used  on
+heat-sensitive  semicritical  patient  care  devices.  CDC  does  not  test,  evaluate,  or
+otherwise recommend specific chemical germicides. The CDC dental guidelines provide
+overall  guidance  for  dental  health  care  personnel  to  choose  from  among  general
+classes of products based on infection prevention and control principles. This guidance
+recommends appropriate application of liquid chemical disinfectants registered with the
+EPA  for  use  in  dental  health  care  settings.  The  EPA  maintains  a  list  of  selected
+EPA-registered disinfectants. The ability to kill Mycobacterium tuberculosis is used as a
+benchmark  to  measure  how  well  a  disinfectant  can  kill  germs.  Mycobacteria  have
+among the highest levels of resistance of all microorganisms. Therefore, any germicide
+with a tuberculocidal claim is considered capable of inactivating a broad spectrum of
+pathogens,  including  less  resistant  organisms  such  as  bloodborne  pathogens  (e.g.,
+hepatitis  B  and  C  viruses,  HIV).  The  use  of  such  products  on  environmental  surfaces
+plays no role in preventing the spread of tuberculosis (which is airborne). CDC protects
+patients and providers by developing recommendations that guide infection prevention
+and  control  practices  wherever  dental  care  is  delivered.  Languages  Language
+Assistance Languages  Language Assistance 
+Source
+ URL:
+https://www.cdc.gov/dental-infection-control/hcp/dental-ipc-faqs/cleaning-disinfecting-environmental-surf
+ace.html

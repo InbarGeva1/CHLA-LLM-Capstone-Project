@@ -1,0 +1,310 @@
+ Persons using assistive technology might not be able to fully access information in this
+file. For assistance, please send e-mail to: mmwrq@cdc.gov. Type 508 Accommodation
+and  the  title  of  the  report  in  the  subject  line  of  e-mail.  Infections  caused  by
+methicillin-resistant  Staphylococcus  aureus  (MRSA)  (Figure)  are  common  in  hospitals
+and 
+nursing  homes.  Because  MRSA  is  resistant  to  all  commonly  prescribed  beta-lactam
+antibiotics (e.g., penicillins and 
+cephalosporins), these infections require treatment with alternative antimicrobial drugs.
+In  addition,  because  antimicrobial  drugs  usually  must  be  selected  before  identifying
+MRSA as the cause of infection, treatment presents a challenge for clinicians. MRSA 
+has emerged recently as a more frequent cause of skin and soft tissue infections in the
+community, particularly in 
+correctional facilities such as prisons, jails, and detention centers 
+(1--3). This report summarizes recent investigations of 
+MRSA transmission among inmates of correctional facilities in Georgia, California, and
+Texas.  Inadequate  personal  hygiene,  barriers  to  medical  care,  and  other  factors
+contributed to transmission. Information from these investigations has been used in the
+development  of  recently  released  Federal  Bureau  of  Prisons  guidance  for  control  of
+MRSA 
+(4),  which  recommends  improvements  in  inmate  hygiene,  infection  control,  and
+targeted antimicrobial treatment.
+Case Definition
+ For the investigations described in this report, a confirmed case of MRSA infection was
+defined as illness, compatible 
+with  staphylococcal  disease,  in  an  inmate  with  laboratory  evidence  of  MRSA  from
+culture of tissue or blood. A possible case of MRSA was defined as an illness, compatible
+with  staphylococcal  infection,  in  an  inmate  who  had  an  epidemiologic  link  to  a
+laboratory-confirmed  case  but  did  not  have  cultures  performed.  A  case  of  MRSA
+infection was defined as invasive if 
+MRSA  was  isolated  from  cultures  of  a  normally  sterile  site  such  as  blood  or
+cerebrospinal fluid. 
+Georgia
+ Since 2001, the Georgia Division of Public Health has 
+assisted the Georgia Department of Corrections (GDC) and 
+local health departments with three investigations of MRSA skin infection outbreaks in
+three different types of correctional facilities. These investigations are described below.
+ Investigation  1.  During  June--September  2001,  a  total  of  11  cases  of  MRSA  skin
+infections  were  identified  in  an  all-male,  200-bed,  minimum-security  state  detention
+center with an average incarceration duration of 90 days. Of the 11 
+inmates,  five  had  repeated  MRSA  skin  infection  occurring  after  the  initial  lesion  (i.e.,
+recurrent disease). A case-control study identified prolonged (>36 days) incarceration
+and  outdoor  work  duty  as  risk  factors  for  MRSA  infection.  Other  possible  risk  factors
+included inadequate wound care by medical staff and limited access to soap for hand
+washing and general bathing (soap 
+was locked in inmate cells away from sinks and showers). In response to this outbreak,
+the detention center implemented facility-wide screening for skin disease, standardized
+antimicrobial  treatment  recommendations,  inmate  education,  and  introduction  of
+alcohol-based hand rubs. During December 2001--May 2002, no MRSA cases occurred;
+however, during 
+June--November  2002,  a  total  of  14  cases  were  reported.  Staff  reviewed  previous
+recommendations  for  hygiene  education  with  inmates  and  reinforced  proper  wound
+care and antimicrobial use. Chlorhexidine-containing soap was provided daily for 3 days
+among 
+the  entire  inmate  population.  During  December  2002--April  2003,  five  cases  of  MRSA
+occurred.  
+Investigation 2. During April--July 2002, a total of 11 cases of MRSA were reported from
+a 1,500-bed, 
+maximum-security  state  prison  with  an  average  incarceration  duration  of  591  days.
+Infections ranged from small furuncles to deeper abscesses; no deaths or bacteremias
+occurred, and no inmates were hospitalized. A case-control study identified risk 
+factors,  including  previous  antimicrobial  use,  self-draining  of  boils,  skin  laceration
+(intentional or accidental), washing clothes by hand, sharing soap, and recent arrival at
+the prison (since 2001). On the basis of these findings, the prison 
+implemented appropriate laundering, improved access to wound care, 
+increased availability and quantity of soap, and began inmate 
+hygiene education. Monitoring of MRSA infections from the beginning of the outbreak in
+April  2002  until  February  2003  identified  73  inmates  with  infection,  10  of  whom  had
+recurrent disease. 
+ During July--August 2002, a total of 23 cases of MRSA 
+occurred in 19 inmates. Interventions were implemented during 
+late  July--August;  however,  six  cases  of  MRSA  occurred  among  inmates  during
+September--October. In response, in February 2003, the prison housed a cohort of 
+MRSA-infected inmates separately and provided a 5-day supply 
+of chlorhexidine-containing soap for personal hygiene. Despite these measures, during
+March--May 2003, an additional 29 
+cases  of  MRSA  were  reported.  GDC  and  prison  staff  are  working  to  improve
+implementation of recommended interventions 
+for preventing additional cases of MRSA among inmates. 
+ Investigation  3.  During  June--October  2002,  a  2,800-bed  county  jail  with  an  average
+incarceration duration of 25 
+days identified 13 cases of skin lesions, initially thought to be spider bites, from which
+MRSA  was  isolated.  Three  inmates  were  hospitalized  for  wound  care.  A  retrospective
+chart review identified 16 cases and 29 possible cases of MRSA skin infections that had
+occurred during this period. Infections included folliculitis, furunculosis, and abscess. In
+December, the jail implemented screening for active skin lesions among the inmates,
+standardized treatment protocols including treatment with non--beta-lactam antibiotics
+for suspected 
+S. aureus infections, hygiene education for inmates, and changes in 
+laundry  practices.  Through  increased  use  of  bacterial  cultures  to  evaluate  skin
+infections,  59  additional  MRSA  cases  were  identified  during  February--April  2003.  A
+review  of  medical  records  of  50  patients  who  received  antimicrobials  identified  13
+(26%) instances in which beta-lactam antimicrobials were used 
+inappropriately for nine (18%) inmates treated before culture 
+results  and  for  four  (8%)  inmates  treated  after  results  indicated  culture-confirmed
+MRSA. 
+Los Angeles County, California
+ The  Los  Angeles  (LA)  County  jail  system,  the  largest  in  the  country,  houses  an
+estimated 20,000 inmates daily and has 
+an average duration of incarceration of 44 days. After an increase in reports of spider
+bites,  the  jail  developed  a  protocol  in  September  2001  that  included  culture  of  any
+lesions suspected to be spider bites. The LA County Department of 
+Health  Services  (LACDHS)  was  notified  after  MRSA  was  found  as  the  cause  of  many
+"spider bite" lesions 
+(2). In 2002, a total of 921 MRSA skin infections were identified; 726 (79%) inmates had
+data available for review. The median time from incarceration to MRSA culture was 45
+days (range: 1--1,160 days); 65 (9%) MRSA cases were identified within 5 days after 
+incarceration. During January--June 2003, a total of 776 
+inmates with MRSA infections were identified (14% identified within 5 days 
+after incarceration), yielding 1,697 cases reported since the jail 
+began surveillance for skin lesions. Investigators 
+observed inadequate infection-control measures in the clinic area; 
+enhanced administrative controls were necessary to ensure 
+frequent
+ showering
+ and
+ appropriate
+ personal
+ hygiene
+ for
+ inmates.
+ LACDHS
+recommended improvements for skin lesion 
+surveillance,  standardized  treatment  protocols  including  empiric  treatment  with
+non--beta-lactam antimicrobials for all wound infections, hygiene education for inmates,
+environmental cleaning, and increased frequency of laundry changes. 
+Improvements in antimicrobial treatment of MRSA infections have occurred; however,
+other recommendations have yet to be implemented fully.
+Texas
+ The  Texas  Department  of  Criminal  Justice  (TDCJ)  operates  105  facilities  housing
+145,000 inmates. In 1996, 
+TDCJ  implemented  a  comprehensive  set  of  treatment  and  prevention  guidelines  for
+MRSA skin infections that included 
+six components: 1) surveillance, 2) hygiene education for inmates, 3) access to proper
+wound care, 4) standardized 
+antimicrobial  therapy  based  on  drug  susceptibility  data  (including  directly  observed
+therapy),  5)  early  treatment  of  skin  disease,  and  6)  eradication  of  MRSA  from
+asymptomatic carriers who have recurrent MRSA infections. Since 1998, TDCJ has 
+required culturing of all draining skin lesions and reporting of results to the TDCJ Office
+of
+ Preventive
+ Medicine.
+ The
+ proportion
+ of
+ S.
+ aureus
+ infections
+ that
+ were
+methicillin-resistant increased from 24% (864 of 3,520) in 1998 to 66% (5,684 of 8,633)
+in 
+2002.  In  December  2000,  a  case-control  study  (16  cases  and  32  controls)  was
+performed  for  all  cases  of  MRSA  identified  during  November  2000  at  the  correctional
+system's largest intake facility. The study identified previous skin infections and recent
+close  contact  with  an  MRSA-infected  inmate  as  risk  factors  for  infection.  Of  10,942
+cases of MRSA reported from 
+the beginning of surveillance during January 1996--July 2002, a total of 189 (1.7%) were
+invasive. The remainder were either unknown site (397 [3.6%]) or skin and soft tissue 
+infections (10,356 [94.6%]). During 1999--2001, three deaths 
+were attributed to MRSA infections. Skin infection screening at the time of incarceration
+was added to the guidelines in 
+2003. Implementation of guidelines and a continued multidisciplinary approach to MRSA
+infections has not led to 
+substantial  decreases  in  the  incidence  of  MRSA.  Additional  interventions  and  their
+effects on infection and carriage are being 
+evaluated,  and  barriers  to  efficient  implementation  of  the  guidelines  are  being
+investigated. 
+ Reported by: M Tobin-D'Angelo, MD, K Arnold, MD, S Lance-Parker, DVM, Georgia Div of
+Public Health; M LaMarre, Office of 
+Health Svcs, Georgia Dept of Corrections. E Bancroft, MD, A Jones, MPH, 
+A Itano, MPH, M Chambers, MD, L Mascola, MD, Los Angeles 
+County  Dept  of  Health  Svcs;  J  Clark,  MD,  M  Tadesse,  Los  Angeles  County  Jail,  Los
+Angeles, California; M Kelley, MD, Texas Dept of Criminal Justice; N Pascoe, Texas Dept
+of Health. M Kuehnert, MD, S Fridkin, MD, 
+D Jernigan, MD, Div of Healthcare Quality Promotion, National Center 
+for Infectious Diseases; E Beltrami, MD, Epidemiology Program Office; SH Wootton, MD,
+B Coignard, MD, EIS officers, CDC.
+Editorial Note:
+  The investigations described in this report identified four factors that contributed to
+spread of MRSA 
+among  inmates.  First,  investigators  identified  barriers  to  routine  inmate  hygiene.
+Access  to  soap  often  was  limited  or  was  restricted  for  security  reasons,  and  new
+alcohol-based  hand  rubs  were  difficult  to  introduce  because  of  misuse  of  these
+products. 
+Mental health and behavior problems among inmates might have contributed to poor
+adherence and hindered efforts to 
+improve  hygiene.  Inmates'  clothing  was  washed  by  hand  or  in  bulk  loads,  and
+potentially contaminated laundry might not 
+have  undergone  sufficiently  high  water  temperatures  or  drying  to  eliminate  bacteria.
+Second, proper 
+access to medical care was hindered by co-payments required for acute care visits and
+by inadequate supplies and staff for wound care. Third, frequent medical staff turnover
+was a challenge to providing education on proper infection-control procedures. Finally,
+MRSA 
+might  have  been  an  unrecognized  cause  of  skin  infections  among  inmates;  wounds
+often  were  attributed  to  spider  bites,  and  cultures  might  have  been  collected
+infrequently even in cases in which antimicrobial treatment failed. 
+ The emergence of MRSA as a cause of inmate skin and soft tissue infections presents a
+challenge to correctional 
+facilities, health-care providers, and public health agencies. The potential public health
+impact  of  MRSA  disease  transmission  in  correctional  facilities  is  substantial;  during
+2002, approximately 2 million prisoners in the United States were incarcerated at any
+given time, and one in every 142 U.S. residents was in prison or jail 
+(5). Barriers to control of communicable diseases 
+such as viral hepatitis and tuberculosis in correctional facilities are well known 
+(3,6--8). Because of these barriers, prisons and 
+jails
+ can
+ serve
+ as
+ amplifiers
+ of
+ MRSA
+ skin
+ disease.
+ In
+ areas
+ where
+community-associated MRSA appears to be increasing (e.g., 
+LA  County),  correctional  facilities  with  shorter  durations  of  incarceration  might
+represent settings in which MRSA is 
+imported  from  the  community  and  exported  back  to  the  community  via  released
+inmates. 
+ A strategy to improve hygiene and infection-control practices in correctional facilities
+will likely be the most 
+effective approach for long-term success. Such a strategy should 
+include 1) skin infection screening and monitoring (e.g., maintaining 
+a log of skin infections and visual skin screening on intake), 2) culturing suspect lesions
+and  providing  targeted  antimicrobial  therapy,  3)  efforts  to  improve  inmate  hygiene
+(e.g., education about appropriate hand and body hygiene, 
+appropriate laundering techniques, measures to limit use of shared items, and greater
+availability  of  soap),  and  4)  improved  access  to  wound  care  and  trained  health-care
+staff. Adapting traditional hospital-based approaches to preventing MRSA 
+transmission  (e.g.,  placing  infected  persons  in  a  separate  area  or  eradicating  nasal
+colonization) might not be feasible in most correctional facilities.
+ Some  state  public  health  agencies  have  developed  their  own  approaches  for
+addressing MRSA in correctional settings. 
+In  July  2003,  the  Federal  Bureau  of  Prisons  issued  guidelines  to  prevent  and  control
+MRSA  in  correctional  facilities  (4).  Facilities  detecting  a  substantial  number  of  MRSA
+infections  should  implement  improved  hygiene,  infection-control,  and  treatment
+practices. Correctional facilities experiencing outbreaks of MRSA should seek assistance
+from  their  local  and  state  health  departments.  Preventing  MRSA  disease  in  inmates
+might be an important measure for preventing MRSA in 
+the  community  outside  the  correctional  facility.  Additional  information  about  MRSA  is
+available at 
+      http://www.cdc.gov/ncidod/hip/aresist/mrsa.htm  
+References
+ 
+ 
+ Use  of  trade  names  and  commercial  sources  is  for  identification  only  and  does  not
+imply endorsement by the U.S. Department of 
+Health and Human Services.References to non-CDC sites on the Internet are 
+provided as a service to MMWR readers and do not constitute or imply 
+endorsement of these organizations or their programs by CDC or the U.S. 
+Department of Health and Human Services. CDC is not responsible for the content 
+of pages found at these sites. URL addresses listed in MMWR were current as of 
+the date of publication.
+Disclaimer
+  
+All MMWR HTML versions of articles are electronic conversions from ASCII text 
+into HTML.  This conversion may have resulted in character translation or format errors
+in the HTML version.  
+Users  should  not  rely  on  this  HTML  document,  but  are  referred  to  the  electronic  PDF
+version and/or 
+the original MMWR paper copy for the official text, figures, and tables.  
+An  original  paper  copy  of  this  issue  can  be  obtained  from  the  Superintendent  of
+Documents, 
+U.S. Government Printing Office (GPO), Washington, DC 20402-9371; telephone: (202)
+512-1800. 
+Contact GPO for current prices.
+**Questions or messages regarding errors in formatting should be addressed to 
+mmwrq@cdc.gov. 
+  Use  of  trade  names  and  commercial  sources  is  for  identification  only  and  does  not
+imply endorsement by the U.S. Department of 
+Health and Human Services.References to non-CDC sites on the Internet are 
+provided as a service to MMWR readers and do not constitute or imply 
+endorsement of these organizations or their programs by CDC or the U.S. 
+Department of Health and Human Services. CDC is not responsible for the content 
+of pages found at these sites. URL addresses listed in MMWR were current as of 
+the date of publication. 
+Disclaimer
+  
+All MMWR HTML versions of articles are electronic conversions from ASCII text 
+into HTML.  This conversion may have resulted in character translation or format errors
+in the HTML version.  
+Users  should  not  rely  on  this  HTML  document,  but  are  referred  to  the  electronic  PDF
+version and/or 
+the original MMWR paper copy for the official text, figures, and tables.  
+An  original  paper  copy  of  this  issue  can  be  obtained  from  the  Superintendent  of
+Documents, 
+U.S. Government Printing Office (GPO), Washington, DC 20402-9371; telephone: (202)
+512-1800. 
+Contact GPO for current prices. Page converted: 10/16/2003 
+    HOME  |  
+    ABOUT MMWR  | 
+    MMWR SEARCH  | 
+    DOWNLOADS  | 
+    RSS 
+    |  
+    CONTACT
+POLICY  |  
+    DISCLAIMER  |  
+    ACCESSIBILITY 
+Morbidity and Mortality Weekly Report
+                Centers for Disease Control and Prevention
+                1600 Clifton Rd, MailStop E-90, Atlanta, GA 
+                  30333, U.S.A 
+Department of Healthand Human Services This page last reviewed 10/16/2003
+ 
+Source URL: https://www.cdc.gov/mmwr/preview/mmwrhtml/mm5241a4.htm

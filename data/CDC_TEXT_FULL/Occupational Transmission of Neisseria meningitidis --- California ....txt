@@ -1,0 +1,239 @@
+  Persons using assistive technology might not be able to fully access information in this
+file. For assistance, please send e-mail to: mmwrq@cdc.gov. Type 508 Accommodation
+and  the  title  of  the  report  in  the  subject  line  of  e-mail.  Neisseria  meningitidis  is  a
+leading  cause  of  bacterial  meningitis  and  sepsis  (1).  The  case-fatality  rate  for
+meningococcal disease is 10%--14%; survivors can experience brain damage, hearing
+loss,  limb  loss,  and  learning  disabilities  (1).  On  December  11,  2009,  the  California
+Department of Public Health (CDPH) initiated an investigation of two secondary cases of
+meningococcal  disease  in  a  police  officer  and  a  respiratory  therapist  following
+occupational  contact  with  an  unconscious  adult.  This  report  describes  the  events
+surrounding occupational transmission of N. meningitidis and recommends measures to
+control  and  prevent  secondary  transmission  of  N.  meningitidis.  Breaches  in  infection
+control, notification delays, and lack of worker exposure assessment and postexposure
+chemoprophylaxis  (PEP)  likely  contributed  to  secondary  cases.  Employers  should
+provide adequate infection-control training to staff members, PEP to exposed workers,
+and  report  notifiable  diseases  promptly.   On  December  3,  2009,  the  index  patient,  a
+man  aged  36  years,  was  found  unconscious  at  home  by  four  police  officers  who  had
+been asked by the patient's family to check on his welfare. The patient was supine on
+his bed, and his airway was partially obstructed by vomitus. Vomitus and feces were on
+the  patient's  body  and  clothing.  While  positioned  near  the  patient's  head,  one  of  the
+police officers (PO1) turned the patient to the patient's side and adjusted the patient's
+head to aid breathing. Immediately afterward, PO1 left the patient's room, reentering
+only to check on the patient from a distance. After firefighters and paramedics arrived,
+PO1 left the scene. Firefighters measured the patient's blood pressure and heart rate,
+and  paramedics  placed  an  intravenous  line,  performed  airway  suctioning,  placed  an
+oropharyngeal airway, administered oxygen, and transported the patient by ambulance
+to hospital A at approximately 7:00 p.m. on December 3.  In the emergency department
+(ED) of hospital A, the patient's airway was suctioned, and an endotracheal tube was
+placed.  Blood  was  drawn  for  culture  in  the  ED  and  the  patient  was  treated  with
+ceftriaxone.  The  patient  was  transferred  to  the  intensive-care  unit  (ICU),  and  the
+treating  provider  considered  meningococcal  disease,  2009  pandemic  influenza  A
+(H1N1),  and  community-acquired  pneumonia  as  possible  causes  of  his  illness.  In  the
+ICU, cerebrospinal fluid (CSF) was collected for gram stain and culture and the patient
+was  treated  with  piperacillin  and  tazobactam,  levofloxacin,  ceftriaxone,  and
+vancomycin.  On December 4, gram-negative diplococci were identified in the patient's
+CSF  at  9:30  a.m.  and  in  his  blood  at  3:30  p.m.  On  December  6,  N.  meningitidis  was
+isolated from blood and on December 7, N. meningitidis also was isolated from CSF. On
+December  7,  hospital  A  reported  this  case  of  laboratory-confirmed  meningococcal
+disease  (2)  to  its  local  health  authority,  3  days  after  a  presumptive  diagnosis  of
+meningococcal meningitis was made and 1 day after the diagnosis was confirmed by
+blood culture. The index patient was hospitalized for 20 days and then discharged to a
+rehabilitation  facility  on  December  23.  On  December  5,  PO1,  a  man  aged  30  years,
+experienced onset of sore throat and nausea that progressed to muscle pain with fever
+and vomiting. On December 9, he was examined by his primary-care physician. While
+at the physician's office, PO1 received a phone call from a colleague who informed him
+of the index patient's diagnosis of meningococcal disease. The primary-care physician
+advised PO1 to go directly to the ED, and he was admitted to hospital B the same day.
+PO1 had blood and CSF collected for gram stain and culture and was treated empirically
+with  ceftriaxone  and  vancomycin.  On  December  10,  gram-negative  diplococci  were
+detected in blood from PO1, and hospital B reported the case of meningococcal disease
+to its local health authority and the local health authority of PO1's employer. The next
+day,  blood  and  CSF  from  PO1  were  culture  positive  for  N.  meningitidis.  PO1  was
+hospitalized  for  5  days,  and  then  discharged  to  his  home  on  December  14.  On
+December 8, a respiratory therapist (RT1), a man aged 47 years who had been present
+during airway suctioning and assisted with endotracheal tube placement in the ED at
+hospital A, began experiencing weakness, chills, and fatigue. On December 10, RT1 was
+transported  by  ambulance  from  his  home  to  hospital  C.  RT1  was  empirically  treated
+with  ceftriaxone,  vancomycin,  and  meropenem  and  had  blood  and  CSF  collected  for
+gram  stain  and  culture  in  the  ED.  On  December  11,  gram-negative  diplococci  were
+detected  in  blood  and  CSF  from  RT1.  The  next  day,  blood  and  CSF  from  RT1  were
+culture positive for N. meningitidis, and hospital C notified its local health authority. RT1
+was  hospitalized  for  11  days  and  then  discharged  to  his  home  on  December  21.  On
+December  11,  CDPH  was  notified  of  the  three  cases  by  the  local  health  authority  to
+which  hospital  B  (and  later  hospital  C)  reported,  and  CDPH  initiated  an  investigation.
+Because CDPH determined that contact tracing and postexposure follow-up of workers
+already  had  been  initiated  by  the  local  health  authorities  and  all  employers,  the
+objectives of the ensuing investigation were limited to characterizing the occupational
+exposure,  identifying  lapses  in  infection  control,  and  confirming  that  appropriate
+employee  health  follow-up  was  conducted.  CDPH  also  made  recommendations  on
+prevention  and  control  measures.  CDPH  interviewed  hospital  A  infection-control  and
+employee  health  personnel  and  workers  involved  in  the  patient's  care  before  his
+transfer  to  the  ICU,  including  PO1  and  RT1.  Employers  provided  CDPH  with  a  list  of
+workers  who  participated  in  the  emergency  response.  Workers  were  identified  from
+employer  logs  and  from  documentation  submitted  by  the  ambulance  service  that
+describes  the  patient's  prehospital  care.  Employers'  records  of  their  workers'
+postexposure  assessment  (n  =  22),  local  health  authority  records,  and  the  medical
+records  of  the  patients  were  reviewed.  Potentially  exposed  workers  were  defined  as
+those persons reported being ≤3 feet from the patient while providing care, based on
+CDC guidelines (3). Additional information on personal protective equipment (PPE) use
+was  collected  during  interviews  and  record  reviews.  N.  meningitidis  isolates  from
+patients  were  typed  by  using  multilocus  sequence  typing  at  CDPH  and  submitted  to
+CDC  for  pulsed-field  gel  electrophoresis  (4,5).  A  total  of  23  workers,  including  four
+police  officers,  three  firefighters,  two  paramedics,  and  14  health-care  workers,  were
+involved in the index patient's care. Among the 23 workers, 10 were reported to have
+been  ≤3  feet  from  the  patient  (Table)  while  providing  care.  Among  these,  PO1  wore
+only  gloves,  two  firefighters  and  two  paramedics  donned  N95  respirators,  and  one  of
+five hospital health-care workers wore a surgical mask. Lack of PPE availability in the
+field  and  lack  of  knowledge  regarding  where  respirators  and  surgical  masks  were
+located  in  the  ED  were  cited  as  two  reasons  why  appropriate  PPE  was  not  worn  by
+health-care workers. In total, 16 workers were offered PEP by their employers 4--8 days
+postexposure.  For  the  seven  workers  not  offered  PEP,  two  were  already  taking
+antibiotics for other medical reasons, two had no patient exposure, one was seen by his
+private physician and was not offered PEP, and two (PO1 and RT1) were not offered PEP
+by  their  employers.   The  index  patient  and  both  secondary  patients  had
+culture-confirmed  N.  meningitidis  serogroup  C,  ST-11  clonal  complex;  isolates  were
+indistinguishable  by  pulsed-field  gel  electrophoresis.  Neither  secondary  patient  used
+N95 respirators or surgical masks; both did use gloves. PO1 reported no direct contact
+with respiratory secretions. However, PO1 reported that he heard hacking or gurgling
+sounds when he turned the index patient, but he could not remember feeling droplets
+on  his  skin  or  face.  RT1  assisted  with  intubation  and  airway  suctioning  of  the  index
+patient. In both cases, unprotected exposure to respiratory aerosols or secretions might
+have resulted in transmission of N. meningitidis.  B Materna, PhD, K Harriman, PhD, J
+Rosenberg, MD, D Shusterman, MD, G Windham, PhD, J Atwell, California Dept of Public
+Health. S Beckman, MPH, CDC/CSTE Applied Epidemiology Fellow; E Mortensen, MD, J
+Zipprich,  PhD,  EIS  officers,  CDC.  Occupationally  acquired  meningococcal  disease
+outside of the laboratory is rarely reported (6--8), perhaps in part because of rapid use
+of  PEP.  Transmission  of  N.  meningitidis  to  health-care  personnel  has  occurred  after
+unprotected  exposure  to  infected  patients  during  endotracheal  intubation,  airway
+suctioning,  and  oxygen  administration  (6--8),  but  more  than  one  occupationally
+acquired infection from the same index patient has not been reported. Findings from
+this investigation indicate that breaches in infection control and delays in notification to
+the local health authority, worker exposure assessment, and PEP administration likely
+contributed  to  secondary  cases  of  meningococcal  disease.  To  decrease  the  risk  for
+infectious  disease  transmission  to  health-care  personnel,  the  Healthcare  Infection
+Control  Practices  Advisory  Committee  recommends  use  of  empiric  infection-control
+precautions  based  on  the  patient's  apparent  clinical  syndrome  when  the  diagnosis  is
+unknown and recommends use of droplet precautions (surgical masks) for contact with
+patients with suspected or confirmed meningococcal disease (3). The California Division
+of  Occupational  Safety  and  Health  aerosol-transmissible  diseases  (Cal/OSHA  ATD)
+standard*  requires  droplet  precautions  for  contact  with  patients  with  suspected  or
+confirmed  meningococcal  disease  and  until  November  2010  required  N95  respirators
+for  contact  with  suspected  or  confirmed  2009  pandemic  influenza  A  (H1N1)  patients.
+Given  that  the  index  patient's  differential  diagnosis  included  H1N1  infection,  N95
+respirators should have been used; however, among the 10 workers who had been ≤3
+feet to the index patient, only four used a respirator. No health-care workers at hospital
+A  wore  respirators,  and  only  one  wore  a  surgical  mask.    Meningococcal  disease  is  a
+nationally
+ notifiable
+ disease
+ (2).
+ California
+ requires
+ health-care
+ providers
+ to
+immediately report by telephone suspected cases of meningococcal disease to the local
+health  authority.†  Hospitals  A  and  C  were  late  in  reporting  suspected  cases  to  their
+respective local health authorities. Additionally, under the Cal/OSHA ATD standard and
+the  federal  reauthorization  of  the  Ryan  White  Act,§  hospital  A  was  required  to  notify
+other  employers  of  potentially  exposed  nonhospital  employees,  such  as  paramedics,
+fire  fighters,  and  police.  Had  hospital  A  adhered  to  these  reporting  and  notification
+requirements, postexposure follow-up of nonhospital employees might have been more
+timely. Hospital A also did not conduct an exposure assessment of its own employees
+until  8  days  postexposure,  after  notification  of  RT1's  hospitalization.  PEP  should  be
+initiated  as  soon  as  possible,  ideally  <24  hours  after  index  patient  identification  (1).
+However, all 16 workers were offered prophylaxis ≥4 days postexposure and ≥3 days
+after  the  index  patient  was  suspected  to  have  meningococcal  disease.  Neither
+secondary  patient  was  offered  PEP.  CDC's  Advisory  Committee  on  Immunization
+Practices  (ACIP)  recommends  PEP  for  close  contacts  of  patients  with  meningococcal
+disease.  ACIP  defines  close  contacts  for  PEP  as  1)  household  members,  2)  child-care
+center personnel, and 3) persons directly exposed to the patient's oral secretions (e.g.,
+by  kissing,  mouth-to-mouth  resuscitation,  endotracheal  intubation,  or  endotracheal
+tube management) (1). Although the majority of workers were offered PEP, albeit late,
+whether PEP would have been recommended for PO1 is unclear and would depend on
+how strictly the evaluating clinician interpreted the ACIP recommendations. Other types
+of exposures not defined specifically in the ACIP recommendations might warrant PEP
+based on the clinician's judgment. However, because PO1 was experiencing symptoms
+as  early  as  December  5,  timely  notification  and  assessment  could  have  resulted  in
+earlier  diagnosis  and  treatment.  Health-care  facilities  should  review  their  local  health
+authority reporting procedures to ensure timely reporting of notifiable diseases, such as
+N.  meningitidis,  and  employers  should  provide  infection-control  training  and  PPE  to
+potentially  exposed  workers.  Employers  also  should  conduct  timely  and  thorough
+investigations  to  identify  and  evaluate  workers  potentially  exposed  to  a  patient
+suspected to have meningococcal disease.  * Aerosol Transmissible Diseases Standard,
+Title
+ 8
+ C.C.R.
+ Sect.
+ 5199
+ (2009),
+ April
+ 15,
+ 2010.
+ Available
+ at
+http://www.dir.ca.gov/title8/5199.html.  †  Reportable  Disease  and  Conditions,  Title  17
+C.C.R.
+ Sect.
+ 2500,
+ April
+ 15,
+ 2010.
+ Available
+ at
+http://www.cdph.ca.gov/programs/documents/provider_reportable_diseases+conditions.
+pdf.  § Ryan White HIV/AIDS Treatment Extension Act, S. 1793, 111 Cong. (2009), April
+15, 2010. Available at http://www.govtrack.us/congress/bill.xpd?bill=s111-1793. What is
+already known on this topic?  Occupational transmission of meningococcal disease has
+been reported, rarely, after unprotected exposure to infected patients. In California, a
+suspect  case  of  meningococcal  disease,  defined  as  the  detection  of  gram-negative
+diplococci from a normally sterile site, is reportable immediately, by telephone to the
+local  health  authority.   What  is  added  by  this  report?   A  multiemployer  emergency
+response to a patient with meningococcal disease resulted in two secondary cases that
+might  have  been  prevented  if  infection  control  recommendations,  postexposure
+chemoprophylaxis  (PEP),  and  notification  requirements  had  been  implemented  in  a
+timely  manner.  What  are  the  implications  for  public  health  practice?   Health-care
+facilities should review infection control and occupational health recommendations and
+disease reporting requirements; clinicians should carefully evaluate worker exposures
+to  determine  whether  PEP  is  indicated.   TABLE.  Exposure  and  prophylaxis
+characteristics  of  workers  who  were  reported  to  be  ≤3  feet  from  index  patient  with
+Neisseria  meningitidis  while  providing  care*  ---  California,  2009  Employer  Occupation
+Exposure  to  patient  Type  of  mask/respirator  worn  Days  from  exposure  to  notification
+Prophylaxis  offered  City  Police  officer†  Turned  patient,  near  head  None  6§  No¶
+Firefighter  Took  vital  signs,  assisted  with  patient  transfer  to  ambulance,  rode  with
+patient in ambulance, administered oxygen N95 respirator 6 Yes Firefighter Took vital
+signs,  assisted  with  patient  transfer  to  ambulance  N95  respirator  5  No**  Private
+company  Paramedic  Placed  intravenous  line,  suctioned  patient,  placed  oropharyngeal
+airway,  administered  oxygen,  rode  with  patient  in  ambulance  N95  respirator  4  Yes
+Paramedic  Performed  full  physical  examination  N95  respirator  4  Yes  Hospital  A
+Respiratory  therapist††  Assisted  with  intubation,  present  for  suctioning  None  Not
+notified  No¶  Physician  Suctioned  patient,  performed  intubation  None  8  Yes  Nurse
+Checked  pupils,  pulse  None  8  Yes  Respiratory  therapist§§  Set  up  intubation  tray,
+retrieved ventilator Surgical mask (with face shield) 8 Yes Nurse Injected intravenous
+medication  None 8 Yes  * Excludes persons who did not recall patient contact or for
+whom  reliable  data  on  patient  contact  was  not  available.  †  Confirmed  with
+meningococcal  disease  (PO1).  §  Notified  by  coworker.  ¶  Not  assessed.   **  Exposure
+assessment  was  conducted  by  worker's  private  physician.  ††  Confirmed  with
+meningococcal  disease  (RT1).  §§  Not  interviewed;  information  based  on  chart  review
+and  other  employee  interviews.  Use  of  trade  names  and  commercial  sources  is  for
+identification only and does not imply endorsement by the U.S. Department of 
+Health and Human Services. References to non-CDC sites on the Internet are 
+provided as a service to MMWR readers and do not constitute or imply 
+endorsement of these organizations or their programs by CDC or the U.S. 
+Department of Health and Human Services. CDC is not responsible for the content 
+of pages found at these sites. URL addresses listed in MMWR were current as of 
+the date of publication. All MMWR HTML versions of articles are electronic conversions
+from typeset documents. 
+This  conversion  might  result  in  character  translation  or  format  errors  in  the  HTML
+version. 
+Users are referred to the electronic PDF version (http://www.cdc.gov/mmwr) 
+and/or the original MMWR paper copy for printable versions of official text, figures, and
+tables. 
+An  original  paper  copy  of  this  issue  can  be  obtained  from  the  Superintendent  of
+Documents, U.S. 
+Government Printing Office (GPO), Washington, DC 20402-9371; 
+telephone: (202) 512-1800. Contact GPO for current prices.
+**Questions or messages regarding errors in formatting should be addressed to 
+mmwrq@cdc.gov. How do I view different file formats (PDF, DOC, PPT, MPEG) on this
+site? 
+Source URL: https://www.cdc.gov/mmwr/preview/mmwrhtml/mm5945a2.htm

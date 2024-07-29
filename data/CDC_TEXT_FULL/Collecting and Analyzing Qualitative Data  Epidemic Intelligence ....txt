@@ -1,0 +1,352 @@
+Official websites use .gov A .gov website belongs to an official government organization
+in  the  United  States.  Secure  .gov  websites  use  HTTPS  A  lock  (   )  or  https://  means
+you've  safely  connected  to  the  .gov  website.  Share  sensitive  information  only  on
+official, secure websites. Brent Wolff, Frank Mahoney, Anna Leena Lohiniva, and Melissa
+Corkum  Qualitative  research  methods  are  a  key  component  of  field  epidemiologic
+investigations because they can provide insight into the perceptions, values, opinions,
+and  community  norms  where  investigations  are  being  conducted  (1,2).  Open-ended
+inquiry  methods,  the  mainstay  of  qualitative  interview  techniques,  are  essential  in
+formative  research  for  exploring  contextual  factors  and  rationales  for  risk  behaviors
+that  do  not  fit  neatly  into  predefined  categories.  For  example,  during  the  2014–2015
+Ebola  virus  disease  outbreaks  in  parts  of  West  Africa,  understanding  the  cultural
+implications  of  burial  practices  within  different  communities  was  crucial  to  designing
+and  monitoring  interventions  for  safe  burials  (Box  10.1).  In  program  evaluations,
+qualitative methods can assist the investigator in diagnosing what went right or wrong
+as  part  of  a  process  evaluation  or  in  troubleshooting  why  a  program  might  not  be
+working as well as expected. When designing an intervention, qualitative methods can
+be  useful  in  exploring  dimensions  of  acceptability  to  increase  the  chances  of
+intervention acceptance and success. When performed in conjunction with quantitative
+studies, qualitative methods can help the investigator confirm, challenge, or deepen the
+validity  of  conclusions  than  either  component  might  have  yielded  alone  (1,2).   
+Qualitative  research  was  used  extensively  in  response  to  the  Ebola  virus  disease
+outbreaks in parts of West Africa to understand burial practices and to design culturally
+appropriate  strategies  to  ensure  safe  burials.  Qualitative  studies  were  also  used  to
+monitor key aspects of the response. In October 2014, Liberia experienced an abrupt
+and  steady  decrease  in  case  counts  and  deaths  in  contrast  with  predicted  disease
+models of an increased case count. At the time, communities were resistant to entering
+Ebola treatment centers, raising the possibility that patients were not being referred for
+care  and  communities  might  be  conducting  occult  burials.  To  assess  what  was
+happening at the community level, the Liberian Emergency Operations Center recruited
+epidemiologists  from  the  US  Department  of  Health  and  Human  Services/Centers  for
+Disease  Control  and  Prevention  and  the  African  Union  to  investigate  the  problem.
+Teams  conducted  in-depth  interviews  and  focus  group  discussions  with  community
+leaders, local funeral directors, and coffin makers and learned that communities were
+not conducting occult burials and that the overall number of burials was less than what
+they had experienced in previous years. Other key findings included the willingness of
+funeral  directors  to  cooperate  with  disease  response  efforts,  the  need  for  training  of
+funeral home workers, and considerable community resistance to cremation practices.
+These findings prompted the Emergency Operations Center to open a burial ground for
+Ebola  decedents,  support  enhanced  testing  of  burials  in  the  private  sector,  and  train
+private-sector funeral workers regarding safe burial practices. Source: Melissa Corkum,
+personal communication. Similar to quantitative approaches, qualitative research seeks
+answers to specific questions by using rigorous approaches to collecting and compiling
+information and producing findings that can be applicable beyond the study population.
+The  fundamental  difference  in  approaches  lies  in  how  they  translate  real-life
+complexities of initial observations into units of analysis. Data collected in qualitative
+studies typically are in the form of text or visual images, which provide rich sources of
+insight but also tend to be bulky and time-consuming to code and analyze. Practically
+speaking, qualitative study designs tend to favor small, purposively selected samples
+ideal for case studies or in-depth analysis (1). The combination of purposive sampling
+and  open-ended  question  formats  deprive  qualitative  study  designs  of  the  power  to
+quantify  and  generalize  conclusions,  one  of  the  key  limitations  of  this  approach.
+Qualitative  scientists  might  argue,  however,  that  the  generalizability  and  precision
+possible through probabilistic sampling and categorical outcomes are achieved at the
+cost of enhanced validity, nuance, and naturalism that less structured approaches offer
+(3).  Open-ended  techniques  are  particularly  useful  for  understanding  subjective
+meanings and motivations underlying behavior. They enable investigators to be equally
+adept  at  exploring  factors  observed  and  unobserved,  intentions  as  well  as  actions,
+internal meanings as well as external consequences, options considered but not taken,
+and  unmeasurable  as  well  as  measurable  outcomes.  These  methods  are  important
+when the source of or solution to a public health problem is rooted in local perceptions
+rather  than  objectively  measurable  characteristics  selected  by  outside  observers  (3).
+Ultimately, such approaches have the ability to go beyond quantifying questions of how
+much or how many to take on questions of how or why from the perspective and in the
+words  of  the  study  subjects  themselves  (1,2).  Another  key  advantage  of  qualitative
+methods  for  field  investigations  is  their  flexibility  (4).  Qualitative  designs  not  only
+enable but also encourage flexibility in the content and flow of questions to challenge
+and  probe  for  deeper  meanings  or  follow  new  leads  if  they  lead  to  deeper
+understanding of an issue (5). It is not uncommon for topic guides to be adjusted in the
+course of fieldwork to investigate emerging themes relevant to answering the original
+study question. As discussed herein, qualitative study designs allow flexibility in sample
+size to accommodate the need for more or fewer interviews among particular groups to
+determine the root cause of an issue (see the section on Sampling and Recruitment in
+Qualitative  Research).  In  the  context  of  field  investigations,  such  methods  can  be
+extremely  useful  for  investigating  complex  or  fast-moving  situations  where  the
+dimensions of analysis cannot be fully anticipated. Ultimately, the decision whether to
+include  qualitative  research  in  a  particular  field  investigation  depends  mainly  on  the
+nature of the research question itself. Certain types of research topics lend themselves
+more naturally to qualitative rather than other approaches (Table 10.1). These include
+exploratory investigations when not enough is known about a problem to formulate a
+hypothesis or develop a fixed set of questions and answer codes. They include research
+questions  where  intentions  matter  as  much  as  actions  and  “why?”  or  “why  not?”
+questions  matter  as  much  as  precise  estimation  of  measured  outcomes.  Qualitative
+approaches also work well when contextual influences, subjective meanings, stigma, or
+strong social desirability biases lower faith in the validity of responses coming from a
+relatively impersonal survey questionnaire interview. The availability of personnel with
+training and experience in qualitative interviewing or observation is critical for obtaining
+the  best  quality  data  but  is  not  absolutely  required  for  rapid  assessment  in  field
+settings.  Qualitative  interviewing  requires  a  broader  set  of  skills  than  survey
+interviewing. It is not enough to follow a topic guide like a questionnaire, in order, from
+top  to  bottom.  A  qualitative  interviewer  must  exercise  judgment  to  decide  when  to
+probe  and  when  to  move  on,  when  to  encourage,  challenge,  or  follow  relevant  leads
+even  if  they  are  not  written  in  the  topic  guide.  Ability  to  engage  with  informants,
+connect ideas during the interview, and think on one’s feet are common characteristics
+of good qualitative interviewers. By far the most important qualification in conducting
+qualitative fieldwork is a firm grasp of the research objectives; with this qualification, a
+member of the research team armed with curiosity and a topic guide can learn on the
+job  with  successful  results.  Semi-structured  interviews  can  be  conducted  with  single
+participants  (in-depth  or  individual  key  informants)  or  with  groups  (focus  group
+discussions [FGDs] or key informant groups). These interviews follow a suggested topic
+guide  rather  than  a  fixed  questionnaire  format.  Topic  guides  typically  consist  of  a
+limited number (10– 15) of broad, open-ended questions followed by bulleted points to
+facilitate
+ optional
+ probing.
+ The
+ conversational
+ back-and-forth
+ nature
+ of
+ a
+semi-structured format puts the researcher and researched (the interview participants)
+on more equal footing than allowed by more structured formats. Respondents, the term
+used  in  the  case  of  quantitative  questionnaire  interviews,  become  informants  in  the
+case of individual semi-structured in-depth interviews (IDIs) or participants in the case
+of  FGDs.  Freedom  to  probe  beyond  initial  responses  enables  interviewers  to  actively
+engage  with  the  interviewee  to  seek  clarity,  openness,  and  depth  by  challenging
+informants  to  reach  below  layers  of  self-presentation  and  social  desirability.  In  this
+respect,  interviewing  is  sometimes  compared  with  peeling  an  onion,  with  the  first
+version  of  events  accessible  to  the  public,  including  survey  interviewers,  and  deeper
+inner layers accessible to those who invest the time and effort to build rapport and gain
+trust.  (The  theory  of  the  active  interview  suggests  that  all  interviews  involve  staged
+social encounters where the interviewee is constantly assessing interviewer intentions
+and  adjusting  his  or  her  responses  accordingly  [1].  Consequently  good  rapport  is
+important for any type of interview. Survey formats give interviewers less freedom to
+divert  from  the  preset  script  of  questions  and  formal  probes.)  Individual  In-Depth
+Interviews  and  Key-Informant  Interviews  The  most  common  forms  of  individual
+semi-structured  interviews  are  IDIs  and  key  informant  interviews  (KIIs).  IDIs  are
+conducted among informants typically selected for first-hand experience (e.g., service
+users,  participants,  survivors)  relevant  to  the  research  topic.  These  are  typically
+conducted as one-on-one face-to-face interviews (two-on-one if translators are needed)
+to  maximize  rapport-building  and  confidentiality.  KIIs  are  similar  to  IDIs  but  focus  on
+individual  persons  with  special  knowledge  or  influence  (e.g.,  community  leaders  or
+health authorities) that give them broader perspective or deeper insight into the topic
+area (Box 10.2). Whereas IDIs tend to focus on personal experiences, context, meaning,
+and  implications  for  informants,  KIIs  tend  to  steer  away  from  personal  questions  in
+favor  of  expert  insights  or  community  perspectives.  IDIs  enable  flexible  sampling
+strategies  and  represent  the  interviewing  reference  standard  for  confidentiality,
+rapport, richness, and contextual detail. However, IDIs are time-and labor-intensive to
+collect  and  analyze.  Because  confidentiality  is  not  a  concern  in  KIIs,  these  interviews
+might  be  conducted  as  individual  or  group  interviews,  as  required  for  the  topic  area.
+Focus Group Discussions and Group Key Informant Interviews FGDs are semi-structured
+group  interviews  in  which  six  to  eight  participants,  homogeneous  with  respect  to  a
+shared experience, behavior, or demographic characteristic, are guided through a topic
+guide  by  a  trained  moderator  (6).  (Advice  on  ideal  group  interview  size  varies.  The
+principle is to convene a group large enough to foster an open, lively discussion of the
+topic, and small enough to ensure all participants stay fully engaged in the process.)
+Over  the  course  of  discussion,  the  moderator  is  expected  to  pose  questions,  foster
+group participation, and probe for clarity and depth. Long a staple of market research,
+focus  groups  have  become  a  widely  used  social  science  technique  with  broad
+applications  in  public  health,  and  they  are  especially  popular  as  a  rapid  method  for
+assessing community norms and shared perceptions. Focus groups have certain useful
+advantages  during  field  investigations.  They  are  highly  adaptable,  inexpensive  to
+arrange and conduct, and often enjoyable for participants. Group dynamics effectively
+tap  into  collective  knowledge  and  experience  to  serve  as  a  proxy  informant  for  the
+community as a whole. They are also capable of recreating a microcosm of social norms
+where social, moral, and emotional dimensions of topics are allowed to emerge. Skilled
+moderators can also exploit the tendency of small groups to seek consensus to bring
+out disagreements that the participants will work to resolve in a way that can lead to
+deeper  understanding.  There  are  also  limitations  on  focus  group  methods.  Lack  of
+confidentiality  during  group  interviews  means  they  should  not  be  used  to  explore
+personal experiences of a sensitive nature on ethical grounds. Participants may take it
+on themselves to volunteer such information, but moderators are generally encouraged
+to  steer  the  conversation  back  to  general  observations  to  avoid  putting  pressure  on
+other participants to disclose in a similar way. Similarly, FGDs are subject by design to
+strong  social  desirability  biases.  Qualitative  study  designs  using  focus  groups
+sometimes  add  individual  interviews  precisely  to  enable  participants  to  describe
+personal experiences or personal views that would be difficult or inappropriate to share
+in a group setting. Focus groups run the risk of producing broad but shallow analyses of
+issues  if  groups  reach  comfortable  but  superficial  consensus  around  complex  topics.
+This  weakness  can  be  countered  by  training  moderators  to  probe  effectively  and
+challenge  any  consensus  that  sounds  too  simplistic  or  contradictory  with  prior
+knowledge.  However,  FGDs  are  surprisingly  robust  against  the  influence  of  strongly
+opinionated  participants,  highly  adaptable,  and  well  suited  to  application  in  study
+designs  where  systematic  comparisons  across  different  groups  are  called  for.  Like
+FGDs,  group  KIIs  rely  on  positive  chemistry  and  the  stimulating  effects  of  group
+discussion but aim to gather expert knowledge or oversight on a particular topic rather
+than  lived  experience  of  embedded  social  actors.  Group  KIIs  have  no  minimum  size
+requirements  and  can  involve  as  few  as  two  or  three  participants.  Egypt’s  National
+Infection Prevention and Control (IPC) program undertook qualitative research to gain
+an understanding of the contextual behaviors and motivations of healthcare workers in
+complying with IPC guidelines. The study was undertaken to guide the development of
+effective  behavior  change  interventions  in  healthcare  settings  to  improve  IPC
+compliance. Key informant interviews and focus group discussions were conducted in
+two governorates among cleaning staff, nursing staff, and physicians in different types
+of  healthcare  facilities.  The  findings  highlighted  social  and  cultural  barriers  to  IPC
+compliance,  enabling  the  IPC  program  to  design  responses.  For  example,  Qualitative
+research  identified  sources  of  resistance  to  quality  clinical  practice  in  Egypt’s
+healthcare settings and culturally appropriate responses to overcome that resistance.
+____________________
+Source:  Anna  Leena  Lohiniva,  personal  communication.  Visualization  methods  have
+been developed as a way to enhance participation and empower interviewees relative
+to  researchers  during  group  data  collection  (7).  Visualization  methods  involve  asking
+participants to engage in collective problem- solving of challenges expressed through
+group production of maps, diagrams, or other images. For example, participants from
+the  community  might  be  asked  to  sketch  a  map  of  their  community  and  to  highlight
+features of relevance to the research topic (e.g., access to health facilities or sites of
+risk  concentrations).  Body  diagramming  is  another  visualization  tool  in  which
+community  members  are  asked  to  depict  how  and  where  a  health  threat  affects  the
+human body as a way of understanding folk conceptions of health, disease, treatment,
+and prevention. Ensuing debate and dialogue regarding construction of images can be
+recorded  and  analyzed  in  conjunction  with  the  visual  image  itself.  Visualization
+exercises  were  initially  designed  to  accommodate  groups  the  size  of  entire
+communities, but they can work equally well with smaller groups corresponding to the
+size  of  FGDs  or  group  KIIs.  Fundamental  differences  between  qualitative  and
+quantitative  approaches  to  research  emerge  most  clearly  in  the  practice  of  sampling
+and  recruitment  of  study  participants.  Qualitative  samples  are  typically  small  and
+purposive.  In-depth  interview  informants  are  usually  selected  on  the  basis  of  unique
+characteristics or personal experiences that make them exemplary for the study, if not
+typical  in  other  respects.  Key  informants  are  selected  for  their  unique  knowledge  or
+influence in the study domain. Focus group mobilization often seeks participants who
+are typical with respect to others in the community having similar exposure or shared
+characteristics. Often, however, participants in qualitative studies are selected because
+they  are  exceptional  rather  than  simply  representative.  Their  value  lies  not  in  their
+generalizability but in their ability to generate insight into the key questions driving the
+study.  Sample  size  determination  for  qualitative  studies  also  follows  a  different  logic
+than that used for probability sample surveys. For example, whereas some qualitative
+methods  specify  ideal  ranges  of  participants  that  constitute  a  valid  observation  (e.g.,
+focus  groups),  there  are  no  rules  on  how  many  observations  it  takes  to  attain  valid
+results.  In  theory,  sample  size  in  qualitative  designs  should  be  determined  by  the
+saturation principle, where interviews are conducted until additional interviews yield no
+additional insights into the topic of research (8). Practically speaking, designing a study
+with a range in number of interviews is advisable for providing  a level of flexibility if
+additional interviews are needed to reach clear conclusions. Recruitment strategies for
+qualitative  studies  typically  involve  some  degree  of  participant  self-selection  (e.g.,
+advertising  in  public  spaces  for  interested  participants)  and  purposive  selection  (e.g.,
+identification  of  key  informants).  Purposive  selection  in  community  settings  often
+requires authorization from local authorities and assistance from local mobilizers before
+the informed consent process can begin. Clearly specifying eligibility criteria is crucial
+for minimizing the tendency of study mobilizers to apply their own filters regarding who
+reflects  the  community  in  the  best  light.  In  addition  to  formal  eligibility  criteria,
+character traits (e.g., articulate and interested in participating) and convenience (e.g.,
+not  too  far  away)  are  legitimate  considerations  for  whom  to  include  in  the  sample.
+Accommodations  to  personality  and  convenience  help  to  ensure  the  small  number  of
+interviews  in  a  typical  qualitative  design  yields  maximum  value  for  minimum
+investment.  This  is  one  reason  why  random  sampling  of  qualitative  informants  is  not
+only  unnecessary  but  also  potentially  counterproductive.  Analysis  of  qualitative  data
+can  be  divided  into  four  stages:  data  management,  data  condensation,  data  display,
+and  drawing  and  verifying  conclusions  (9).  From  the  outset,  developing  a  clear
+organization  system  for  qualitative  data  is  important.  Ideally,  naming  conventions  for
+original data files and subsequent analysis should be recorded in a data dictionary file
+that includes dates, locations, defining individual or group characteristics, interviewer
+characteristics,  and  other  defining  features.  Digital  recordings  of  interviews  or
+visualization products should be reviewed to ensure fidelity of analyzed data to original
+observations. If ethics agreements require that no names or identifying characteristics
+be  recorded,  all  individual  names  must  be  removed  from  final  transcriptions  before
+analysis  begins.  If  data  are  analyzed  by  using  textual  data  analysis  software,
+maintaining  careful  version  control  over  the  data  files  is  crucial,  especially  when
+multiple coders are involved. Condensing refers to the process of selecting, focusing,
+simplifying, and abstracting the data available at the time of the original observation,
+then  transforming  the  condensed  data  into  a  data  set  that  can  be  analyzed.  In
+qualitative research, most of the time investment required to complete a study comes
+after the fieldwork is complete. A single hour of taped individual interview can take a
+full day to transcribe and additional time to translate if necessary. Group interviews can
+take even longer because of the difficulty of transcribing active group input. Each stage
+of  data  condensation  involves  multiple  decisions  that  require  clear  rules  and  close
+supervision.  A  typical  challenge  is  finding  the  right  balance  between  fidelity  to  the
+rhythm  and  texture  of  original  language  and  clarity  of  the  translated  version  in  the
+language of analysis. For example, discussions among groups with little or no education
+should  not  emerge  after  the  transcription  (and  translation)  process  sounding  like
+university  graduates.  Judgment  must  be  exercised  about  which  terms  should  be
+translated  and  which  terms  should  be  kept  in  vernacular  because  there  is  no
+appropriate  term  in  English  to  capture  the  richness  of  its  meaning.  After  the  initial
+condensation,  qualitative  analysis  depends  on  how  the  data  are  displayed.  Decisions
+regarding how data are summarized and laid out to facilitate comparison influence the
+depth  and  detail  of  the  investigation’s  conclusions.  Displays  might  range  from  full
+verbatim  transcripts  of  interviews  to  bulleted  summaries  or  distilled  summaries  of
+interview  notes.  In  a  field  setting,  a  useful  and  commonly  used  display  format  is  an
+overview chart in which key themes or research questions are listed in rows in a word
+processer  table  or  in  a  spreadsheet  and  individual  informant  or  group  entry
+characteristics  are  listed  across  columns.  Overview  charts  are  useful  because  they
+allow easy, systematic comparison of results. Analyzing qualitative data is an iterative
+and ideally interactive process that leads to rigorous and systematic interpretation of
+textual or visual data. At least four common steps are involved: Above all, qualitative
+data  analysis  requires  sufficient  time  and  immersion  in  the  data.  Computer  textual
+software  programs  can  facilitate  selective  text  retrieval  and  quizzing  the  data,  but
+discerning patterns and arriving at conclusions can be done only by the analysts. This
+requirement  involves  intensive  reading  and  rereading,  developing  codebooks  and
+coding,  discussing  and  debating,  revising  codebooks,  and  recoding  as  needed  until
+clear patterns emerge from the data. Although quality and depth of analysis is usually
+proportional to the time invested, a number of techniques, including some mentioned
+earlier, can be used to expedite analysis under field conditions. The most widely used
+software packages (e.g., NVivo [QSR International Pty. Ltd., Melbourne, VIC, Australia]
+and  ATLAS.ti  [Scientific  Software  Development  GmbH,  Berlin,  Germany])  evolved  to
+include  sophisticated  analytic  features  covering  a  wide  array  of  applications  but  are
+relatively expensive in terms of license cost and initial investment in time and training.
+A  promising  development  is  the  advent  of  free  or  low-cost  Web-based  services  (e.g.,
+Dedoose  [Sociocultural  Research  Consultants  LLC,  Manhattan  Beach,  CA])  that  have
+many of the same analytic features on a more affordable subscription basis and that
+enable local research counterparts to remain engaged through the analysis phase (see
+Teamwork  criteria).  The  start-up  costs  of  computer-assisted  analysis  need  to  be
+weighed  against  their  analytic  benefits,  which  tend  to  decline  with  the  volume  and
+complexity  of  data  to  be  analyzed.  For  rapid  situational  analyses  or  small  scale
+qualitative  studies  (e.g.  fewer  than  30  observations  as  an  informal  rule  of  thumb),
+manual coding and analysis using word processing or spreadsheet programs is faster
+and  sufficient  to  enable  rigorous  analysis  and  verification  of  conclusions.  Qualitative
+methods belong to a branch of social science inquiry that emphasizes the importance of
+context,  subjective  meanings,  and  motivations  in  understanding  human  behavior
+patterns.  Qualitative  approaches  definitionally  rely  on  open-ended,  semistructured,
+non-numeric strategies for asking questions and recording responses. Conclusions are
+drawn  from  systematic  visual  or  textual  analysis  involving  repeated  reading,  coding,
+and  organizing  information  into  structured  and  emerging  themes.  Because  textual
+analysis is relatively time-and skill-intensive, qualitative samples tend to be small and
+purposively selected to yield the maximum amount of information from the minimum
+amount
+ of
+ data
+ collection.
+ Although
+ qualitative
+ approaches
+ cannot
+ provide
+representative  or  generalizable  findings  in  a  statistical  sense,  they  can  offer  an
+unparalleled level of detail, nuance, and naturalistic insight into the chosen subject of
+study. Qualitative methods enable investigators to “hear the voice” of the researched in
+a  way  that  questionnaire  methods,  even  with  the  occasional  open-ended  response
+option,  cannot.  Whether  or  when  to  use  qualitative  methods  in  field  epidemiology
+studies ultimately depends on the nature of the public health question to be answered.
+Qualitative approaches make sense when a study question about behavior patterns or
+program performance leads with why, why not, or how. Similarly, they are appropriate
+when  the  answer  to  the  study  question  depends  on  understanding  the  problem  from
+the perspective of social actors in real-life settings or when the object of study cannot
+be adequately captured, quantified, or categorized through a battery of closed-ended
+survey questions (e.g., stigma or the foundation of health beliefs). Another justification
+for qualitative methods occurs when the topic is especially sensitive or subject to strong
+social desirability biases that require developing trust with the informant and persistent
+probing  to  reach  the  truth.  Finally,  qualitative  methods  make  sense  when  the  study
+question  is  exploratory  in  nature,  where  this  approach  enables  the  investigator  the
+freedom  and  flexibility  to  adjust  topic  guides  and  probe  beyond  the  original  topic
+guides. Given that the conditions just described probably apply more often than not in
+everyday  field  epidemiology,  it  might  be  surprising  that  such  approaches  are  not
+incorporated  more  routinely  into  standard  epidemiologic  training.  Part  of  the  answer
+might have to do with the subjective element in qualitative sampling and analysis that
+seems at odds with core scientific values of objectivity. Part of it might have to do with
+the  skill  requirements  for  good  qualitative  interviewing,  which  are  generally  more
+difficult  to  find  than  those  required  for  routine  survey  interviewing.  For  the  field
+epidemiologist  unfamiliar  with  qualitative  study  design,  it  is  important  to  emphasize
+that  obtaining  important  insights  from  applying  basic  approaches  is  possible,  even
+without  a  seasoned  team  of  qualitative  researchers  on  hand  to  do  the  work.  The
+flexibility of qualitative methods also tends to make them forgiving with practice and
+persistence.  Beyond  the  required  study  approvals  and  ethical  clearances,  the  basic
+essential  requirements  for  collecting  qualitative  data  in  field  settings  start  with  an
+interviewer having a strong command of the research question, basic interactive and
+language skills, and a healthy sense of curiosity, armed with a simple open-ended topic
+guide  and  a  tape  recorder  or  note-taker  to  capture  the  key  points  of  the  discussion.
+Readily  available  manuals  on  qualitative  study  design,  methods,  and  analysis  can
+provide  additional  guidance  to  improve  the  quality  of  data  collection  and  analysis.  <
+Previous Chapter 9: Optimizing Epidemiology– Laboratory Collaborations  Next Chapter
+11:  Developing  Interventions  >  The  fellowship  application  period  and  host  site
+application period are closed. For questions about the EIS program, please contact us
+directly at EISApplication@cdc.gov.
+Source URL: https://www.cdc.gov/eis/field-epi-manual/chapters/Qualitative-Data.html

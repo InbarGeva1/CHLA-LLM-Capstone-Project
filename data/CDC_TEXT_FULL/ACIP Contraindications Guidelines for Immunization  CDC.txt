@@ -1,0 +1,293 @@
+Official websites use .gov A .gov website belongs to an official government organization
+in  the  United  States.  Secure  .gov  websites  use  HTTPS  A  lock  (   )  or  https://  means
+you've  safely  connected  to  the  .gov  website.  Share  sensitive  information  only  on
+official,  secure  websites.  General  Best  Practice  Guidelines  for  Immunization  Updated
+August 1, 2023 Printer friendly version [21 pages] Major changes to the best practice
+guidance in this section include 1) enhancement of the definition of a “precaution” to
+include any condition that might confuse diagnostic accuracy and 2) recommendation
+to vaccinate during a hospitalization if a patient is not acutely moderately or severely
+ill.  National  standards  for  pediatric  vaccination  practices  have  been  established  and
+include  descriptions  of  valid  contraindications  and  precautions  to  vaccination  (2).
+Persons  who  administer  vaccines  should  screen  patients  for  contraindications  and
+precautions  to  the  vaccine  before  each  dose  of  vaccine  is  administered  (Table  4-1).
+Screening  is  facilitated  by  consistent  use  of  screening  questionnaires,  which  are
+available  from  certain  state  vaccination  programs  and  other  sources  (e.g.,  the
+Immunization  Action  Coalition).  Contraindications  (conditions  in  a  recipient  that
+increases  the  risk  for  a  serious  adverse  reaction)  to  vaccination  are  conditions  under
+which vaccines should not be administered. Because the majority of contraindications
+are temporary, vaccinations often can be administered later when the condition leading
+to  a  contraindication  no  longer  exists.  A  vaccine  should  not  be  administered  when  a
+contraindication  is  present;  for  example,  MMR  vaccine  should  not  be  administered  to
+severely immunocompromised persons (1). However, certain conditions are commonly
+misperceived  as  contraindications  (i.e.,  are  not  valid  reasons  to  defer  vaccination).
+Severely immunocompromised persons generally should not receive live vaccines (3).
+Because  of  the  theoretical  risk  to  the  fetus,  women  known  to  be  pregnant  generally
+should  not  receive  live,  attenuated  virus  vaccines  (4).  Persons  who  experienced
+encephalopathy
+ within
+ 7
+ days
+ after
+ administration
+ of
+ a
+ previous
+ dose
+ of
+pertussis-containing  vaccine  not  attributable  to  another  identifiable  cause  should  not
+receive additional doses of a vaccine that contains pertussis (4, 5). Severe Combined
+Immunodeficiency  (SCID)  disease  and  a  history  of  intussusception  are  both
+contraindications to the receipt of rotavirus vaccines (6). A precaution is a condition in a
+recipient  that  might  increase  the  risk  for  a  serious  adverse  reaction,  might  cause
+diagnostic  confusion,  or  might  compromise  the  ability  of  the  vaccine  to  produce
+immunity  (e.g.,  administering  measles  vaccine  to  a  person  with  passive  immunity  to
+measles  from  a  blood  transfusion  administered  up  to  7  months  prior)  (7).  A  person
+might  experience  a  more  severe  reaction  to  the  vaccine  than  would  have  otherwise
+been expected; however, the risk for this happening is less than the risk expected with
+a  contraindication.  In  general,  vaccinations  should  be  deferred  when  a  precaution  is
+present. However, a vaccination might be indicated in the presence of a precaution if
+the benefit of protection from the vaccine outweighs the risk for an adverse reaction.
+The  presence  of  a  moderate  or  severe  acute  illness  with  or  without  a  fever  is  a
+precaution to administration of all vaccines (Table 4-1). The decision to administer or
+delay vaccination because of a current or recent acute illness depends on the severity
+of  symptoms  and  etiology  of  the  condition.  The  safety  and  efficacy  of  vaccinating
+persons who have mild illnesses have been documented (8-11). Vaccination should be
+deferred  for  persons  with  a  moderate  or  severe  acute  illness.  This  precaution  avoids
+causing  diagnostic  confusion  between  manifestations  of  the  underlying  illness  and
+possible adverse effects of vaccination or superimposing adverse effects of the vaccine
+on  the  underlying  illness.  After  they  are  screened  for  contraindications,  persons  with
+moderate or severe acute illness should be vaccinated as soon as the acute illness has
+improved.  Studies  indicate  that  failure  to  vaccinate  children  with  minor  illnesses  can
+impede  vaccination  efforts  (12–14).  Among  persons  whose  compliance  with  medical
+care cannot be ensured, use of every opportunity to administer appropriate vaccines is
+critical.  Hospitalization  should  be  used  as  an  opportunity  to  provide  recommended
+vaccinations.  Health-care  facilities  are  held  to  standards  of  offering  influenza  vaccine
+for  hospitalized  patients,  so  providers  are  incentivized  to  vaccinate  these  patients  at
+some  point  during  hospitalization  (15).  Likewise,  patients  admitted  for  elective
+procedures  will  not  be  acutely  ill  during  all  times  during  their  hospitalization.  Most
+studies that have explored the effect of surgery or anesthesia on the immune system
+were observational, included only infants and children, and were small and indirect, in
+that they did not look at the immune effect on the response to vaccination specifically
+(16-35).  They  do  not  provide  convincing  evidence  that  recent  anesthesia  or  surgery
+significantly
+ affect
+ response
+ to
+ vaccines.
+ Current,
+ recent,
+ or
+ upcoming
+anesthesia/surgery/hospitalization  is  not  a  contraindication  to  vaccination,  but  certain
+factors
+ might
+ lead
+ a
+ provider
+ to
+ consider
+ current,
+ recent,
+ or
+ upcoming
+anesthesia/surgery/hospitalization  as  a  precaution  (16-35).  Efforts  should  be  made  to
+ensure  vaccine  administration  during  the  hospitalization  or  at  discharge.  For  patients
+who are deemed moderately or severely ill throughout the hospitalization, vaccination
+should  occur  at  the  earliest  opportunity  (i.e.,  during  immediate  post-hospitalization
+follow-up care, including home or office visits) when patients’ clinical symptoms have
+improved. A personal or family history of seizures is a precaution for MMRV vaccination;
+this  is  because  a  recent  study  found  an  increased  risk  for  febrile  seizures  in  children
+12-23  months  who  receive  MMRV  compared  with  MMR  and  varicella  vaccine  (36).
+Clinicians  or  other  health-care  providers  might  misperceive  certain  conditions  or
+circumstances  as  valid  contraindications  or  precautions  to  vaccination  when  they
+actually  do  not  preclude  vaccination  (2)  (Table  4-2).  These  misperceptions  result  in
+missed  opportunities  to  administer  recommended  vaccines  (37).  Routine  physical
+examinations and procedures (e.g., measuring temperatures) are not prerequisites for
+vaccinating persons who appear to be healthy. The provider should ask the parent or
+guardian if the child is ill. If the child has a moderate or severe illness, the vaccination
+should be postponed.   Encephalopathy (e.g., coma, decreased level of consciousness, 
+prolonged  seizures),  not  attributable  to  another  identifiable  cause,  within  7  days  of
+administration of previous dose of DTP or DTaP Hypersensitivity to yeast Age <6 weeks
+Preterm  birth  (MenACWY-CRM)(i)  Pregnancy  Known  severe  immunodeficiency  (e.g.,
+from
+ hematologic
+ and
+ solid
+ tumors,
+ receipt
+ of
+ chemotherapy,
+ congenital
+immunodeficiency,  long-term  immunosuppressive  therapy(c)  or  patients  with  HIV
+infection
+ who
+ are
+ severely
+ immunocompromised)
+ Family
+ history
+ of
+ altered
+immunocompetence(m)  History  of  thrombocytopenia  or  thrombocytopenic  purpura
+Need  for  tuberculin  skin  testing  or  interferon-gamma  release  assay  (IGRA)  testing(l)
+Moderate or severe acute illness with or without fever SCID History of intussusception
+Moderate  or  severe  acute  illness  with  or  without  fever  Encephalopathy  (e.g.,  coma,
+decreased  level  of  consciousness,   prolonged  seizures),  not  attributable  to  another
+identifiable  cause,  within  7  days  of  administration  of  previous  dose  of  DTP,  DTaP,  or
+Tdap  Progressive  or  unstable  neurological  disorder,  uncontrolled  seizures,  or
+progressive  encephalopathy  until  a  treatment  regimen  has  been  established  and  the
+condition  has  stabilized  History  of  Arthus-type  hypersensitivity  reactions  after  a
+previous  dose  of  diphtheria-toxoid—containing  or  tetanus-toxoid–containing  vaccine;
+defer
+ vaccination
+ until
+ at
+ least
+ 10
+ years
+ have
+ elapsed
+ since
+ the
+ last
+tetanus-toxoid–containing  vaccine  Moderate  or  severe  acute  illness  with  or  without
+fever Known severe immunodeficiency (e.g., from hematologic and solid tumors, receipt
+of  chemotherapy,  congenital  immunodeficiency,   long-term  immunosuppressive
+therapy(c)  or  patients  with  HIV  infection  who  are  severely  immunocompromised)(j)
+Pregnancy  Family  history  of  altered  immunocompetence(m)    Abbreviations:  DT  =
+diphtheria  and  tetanus  toxoids;  DTaP  =  diphtheria  and  tetanus  toxoids  and  acellular
+pertussis; DTP = diphtheria toxoid, tetanus toxoid, and pertussis; GBS = Guillain-Barré
+syndrome; Hib = Haemophilus influenzae type b; HIV = human immunodeficiency virus;
+HPV  =  human  papillomavirus;  IIV  =  inactivated  influenza  vaccine;  IPV  =  inactivated
+poliovirus;  LAIV  =  live,  attenuated  influenza  vaccine;  MenACWY  =  quadrivalent
+meningococcal  conjugate  vaccine;  MMR  =  measles,  mumps,  and  rubella;  MPSV4  =
+quadrivalent meningococcal polysaccharide vaccine; PCV13 = pneumococcal conjugate
+vaccine;  PPSV23=  pneumococcal  polysaccharide  vaccine;  SCID  =  severe  combined
+immunodeficiency;  RIV=recombinant  influenza  vaccine;  Td  =  tetanus  and  diphtheria
+toxoids; Tdap = tetanus toxoid, reduced diphtheria toxoid, and acellular pertussis. (a)
+Events or conditions listed as precautions should be reviewed carefully. Benefits of and
+risks for administering a specific vaccine to a person under these circumstances should
+be  considered.  If  the  risk  from  the  vaccine  is  believed  to  outweigh  the  benefit,  the
+vaccine should not be administered. If the benefit of vaccination is believed to outweigh
+the risk, the vaccine should be administered. Whether and when to administer DTaP to
+children with proven or suspected underlying neurologic disorders should be decided on
+a  case-by-case  basis.  (b)  Only  persons  with  laboratory  confirmation  of  immunity
+according  to  strict  guidance  at  Laboratory  Testing  Requirements  for  Vaccination  with
+Dengvaxia  Dengue  Vaccine  should  receive  dengue  vaccination.  (c)  Substantially
+immunosuppressive steroid dose is considered to be ≥2 weeks of daily receipt of 20 mg
+or  2  mg/kg  body  weight  of  prednisone  or  equivalent.  (d)  HPV  vaccine  is  not
+recommended  during  pregnancy  (e)  When  applying  this  contraindication  to  ccIIV,  the
+history  of  severe  allergic  reaction  (e.g.,  anaphylaxis)  must  be  specific  to  the  event
+occurring following a dose of ccIIV. Likewise, when applying this contraindication to RIV,
+the history of severe allergic reaction (e.g., anaphylaxis) must be specific to the event
+occurring  following  a  dose  of  RIV.  A  history  of  severe  allergic  reaction  (e.g.,
+anaphylaxis)  to  a  non-ccIIV  vaccine  or  to  a  component  specific  to  components  not
+contained in ccIIV, is a precaution to ccIIV. A history of severe allergic reaction (e.g.,
+anaphylaxis)  to  a  non-RIV  vaccine  or  to  a  component  specific  to  components  not
+contained in RIV is a precaution to RIV. (f) In addition, ACIP recommends LAIV not be
+used  for  pregnant  women,  immunosuppressed  persons,  and  children  aged  2-4  years
+who  have  asthma  or  who  have  had  a  wheezing  episode  noted  in  the  medical  record
+within  the  past  12  months,  or  for  whom  parents  report  that  a  health  care  provider
+stated that they had wheezing or asthma within the last 12 months. LAIV should not be
+administered  to  persons  who  have  taken  influenza  antiviral  medications  within  the
+previous  48  hours.  Persons  who  care  for  severely  immunosuppressed  persons  who
+require a protective environment should not receive LAIV, or should avoid contact with
+such  persons  for  7  days  after  receipt.  (g)  See  reference:  Grohskopf  LA,  Alyanak  E,
+Ferdinands  JM,  et  al.  Prevention  and  Control  of  Seasonal  Influenza  with  Vaccines:
+Recommendations of the Advisory Committee on Immunization Practices, United States,
+2021-2022  Influenza  Season.  MMWR  Recomm  Rep  2021;70(No.  RR-5):1-30.  (h)  These
+values  are  based  on  the  clearance  of  the  particular  antiviral.  LAIV4  should  not  be
+administered to persons who have taken oseltamivir or zanamivir within the previous
+48  hours,  peramivir  within  the  previous  5  days,  or  baloxavir  within  the  previous  17
+days.  This  “contraindication”  is  due  to  concern  with  reduced  effectiveness  of  the
+vaccine. To obtain specific information, please refer to Grohskopf LA, Alyanak, E, Broder
+KR,
+ et.
+ al.
+ 
+ Prevention
+ and
+ Control
+ of
+ Seasonal
+ Influenza
+ with
+ Vaccines:
+Recommendations  of  the  Advisory  Committee  on  Immunization  Practices  —  United
+States, 2020–21 Influenza Season. MMWR Recomm Rep 2020;69 (No. RR-8:1-26. Also at
+https://www.cdc.gov/mmwr/volumes/69/rr/pdfs/rr6908a1-H.pdf
+ (i)
+ This
+ precaution
+applies  to  infants  younger  than  9  months  old  (j)  HIV-infected  children  may  receive
+varicella vaccine if CD4+ T-lymphocyte count is ≥15% and should receive MMR vaccine
+if  they  are  aged  ≥12  months  and  do  not  have  evidence  of  current  severe
+immunosuppression  (i.e.,  individuals  aged  ≤5  years  must  have  CD4+T  lymphocyte
+[CD4]  percentages  ≥15%  for  ≥6  months;  and  individuals  aged  >5  years  must  have
+CD4+percentages  ≥15%  and  CD4+≥200  lymphocytes/mm3  for  ≥6  months)  or  other
+current  evidence  of  measles,  rubella,  and  mumps  immunity.  In  cases  when  only
+CD4+cell  counts  or  only  CD4+percentages  are  available  for  those  older  than  age  5
+years, the assessment of severe immunosuppression can be based on the CD4+values
+(count  or  percentage)  that  are  available.  In  cases  when  CD4+percentages  are  not
+available for those aged ≤5 years, the assessment of severe immunosuppression can
+be  based  on  age-specific  CD4+counts  at  the  time  CD4+counts  were  measured;  i.e.,
+absence  of  severe  immunosuppression  is  defined  as  ≥6  months  above  age-specific
+CD4+count criteria: CD4+count >750 lymphocytes/mm3 while aged ≤12 months and
+CD4+count ≥500 lymphocytes/mm3 while aged 1 through 5 years. Sources: (1, 50). (k)
+MMR  and  varicella-containing  vaccines  can  be  administered  on  the  same  day.  If  not
+administered on the same day, these vaccines should be separated by at least 28 days.
+(l)  If  active  tuberculosis  is  suspected,  MMR  should  be  delayed.  Measles  vaccination
+might  suppress  tuberculin  reactivity  temporarily.  Measles-containing  vaccine  can  be
+administered on the same day as tuberculin skin or IGRA testing. If testing cannot be
+performed until after the day of MMR vaccination, the test should be postponed for ≥4
+weeks after the vaccination. If an urgent need exists to skin test or IGRA, do so with the
+understanding  that  reactivity  might  be  reduced  by  the  vaccine.  (m)  family  history  of
+congenital  or  hereditary  immunodeficiency  in  first-degree  relatives  (e.g.,  parents  and
+siblings),  unless  the  immune  competence  of  the  potential  vaccine  recipient  has  been
+substantiated clinically or verified by a laboratory (n) For RV1 only, based on latex in
+product/packaging.  Note  that  anaphylactic  allergy  to  latex  is  covered  in  the
+contraindication,  and  would  also  be  isolated  to  RV  1  in  the  case  of  latex.  For  more
+details,  see  (55).  (o)  No  adverse  events  associated  with  the  use  of  aspirin  or
+aspirin-containing  products  after  varicella  vaccination  have  been  reported;  however,
+the  vaccine  manufacturer  recommends  that  vaccine  recipients  avoid  using  aspirin  or
+aspirin-containing products for 6 weeks after receiving varicella vaccines because of the
+association  between  aspirin  use  and  Reye  syndrome  after  varicella.  Vaccination  with
+subsequent  close  monitoring  should  be  considered  for  children  who  have  rheumatoid
+arthritis  or  other  conditions  requiring  therapeutic  aspirin.  The  risk  for  serious
+complications associated with aspirin is likely to be greater in children in whom natural
+varicella develops than it is in children who receive the vaccine containing attenuated
+VZV. No association has been documented between Reye syndrome and analgesics or
+antipyretics  that  do  not  contain  aspirin.”  Top  of  Page  Abbreviations:  DT  =  diphtheria
+and  tetanus  toxoids;  DTP  =  diphtheria  toxoid,  tetanus  toxoid,  and  pertussis;  DTaP  =
+diphtheria and tetanus toxoids and acellular pertussis; GBS = Guillain-Barré syndrome;
+HBsAg  =  hepatitis  B  surface  antigen;  Hib  =  Haemophilus  influenzae  type  b;  HIV  =
+human  immunodeficiency  virus;  HPV  =  human  papillomavirus;  IIV  =  inactivated
+influenza  vaccine;  IPV  =  inactivated  poliovirus;  LAIV  =  live,  attenuated  influenza
+vaccine; MenACWY = quadrivalent meningococcal conjugate vaccine; MMR = measles,
+mumps,  and  rubella;  MPSV4  =  quadrivalent  meningococcal  polysaccharide  vaccine;
+PCV  =  pneumococcal  conjugate  vaccine;  PPSV23=  pneumococcal  polysaccharide
+vaccine;  Td  =  tetanus  and  diphtheria  toxoids;  Tdap  =  tetanus  toxoid,  reduced
+diphtheria  toxoid,  and  acellular  pertussis.  (a)  Antibacterial  drugs  might  interfere  with
+Ty21a  oral  typhoid  vaccine,  and  certain  antiviral  drugs  might  interfere  with
+varicella-containing vaccines and LAIV4. (b) Hepatitis B vaccination should be deferred
+for  infants  weighing  <2,000  g  if  the  mother  is  documented  to  be  HBsAg  negative.
+Vaccination should commence at chronological age 1 month or at hospital discharge.
+For infants born to HBsAg-positive women, hepatitis B immune globulin and hepatitis B
+vaccine should be administered within 12 hours after birth, regardless of weight. (c) An
+exception is Guillain-Barré syndrome within 6 weeks of a dose of influenza vaccine or
+tetanus-toxoid–containing  vaccine,  which  are  precautions  for  influenza  vaccines  and
+tetanus-toxoid containing vaccines, respectively. (d) MMR and varicella vaccines can be
+administered  on  the  same  day.  If  not  administered  on  the  same  day,  these  vaccines
+should  be  separated  by  at  least  28  days.  (e)  HIV-infected  children  should  receive
+immune globulin after exposure to measles. HIV-infected children can receive varicella
+and measles vaccine if CD4+ T-lymphocyte count is >15%. (55). (f) Measles vaccination
+might  suppress  tuberculin  reactivity  temporarily.  Measles-containing  vaccine  can  be
+administered on the same day as tuberculin skin or IGRA testing. If testing cannot be
+performed until after the day of MMR vaccination, the test should be postponed for at
+least 4 weeks after the vaccination. If an urgent need exists to skin test or IGRA, do so
+with  the  understanding  that  reactivity  might  be  reduced  by  the  vaccine.  (g)  If  a
+vaccinee experiences a presumed vaccine-related rash 7-25 days after vaccination, the
+person should avoid direct contact with immunocompromised persons for the duration
+of the rash. Top of Page Top of Page To receive email updates about this page, enter
+your email address:
+Source URL: https://www.cdc.gov/vaccines/hcp/acip-recs/general-recs/contraindications.html

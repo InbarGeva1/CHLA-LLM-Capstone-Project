@@ -1,0 +1,258 @@
+Official websites use .gov A .gov website belongs to an official government organization
+in  the  United  States.  Secure  .gov  websites  use  HTTPS  A  lock  (   )  or  https://  means
+you've  safely  connected  to  the  .gov  website.  Share  sensitive  information  only  on
+official,  secure  websites.  Authors:  Jessica  Leung,  MPH;  Sara  Oliver,  MD,  MSPH;  Mona
+Marin, MD Varicella (chickenpox) is a febrile rash illness resulting from primary infection
+with the varicella-zoster virus (VZV). Humans are the only source of infection for this
+virus. Varicella is characterized by a pruritic, maculopapular and vesicular rash usually
+with  250–500  skin  lesions  that  evolves  into  noninfectious  crusts  over  a  4-  to  7-day
+period. While the initial lesions are crusting, new crops form; the simultaneous presence
+of skin lesions in various stages of evolution is characteristic of varicella.[1,2] Varicella
+can  occur  in  vaccinated  persons  (termed  breakthrough  varicella).  Compared  with
+varicella in unvaccinated persons, breakthrough varicella is generally milder, often with
+fewer than 50 skin lesions, fewer vesicles (sometimes only maculopapular lesions and
+no  vesicles),  low  or  no  fever,  and  fewer  days  of  illness.[2]  Given  its  modified  clinical
+presentation,  breakthrough  varicella  can  be  challenging  for  healthcare  providers  and
+parents  to  recognize  clinically.  Varicella  is  generally  a  mild  disease,  but  severe
+complications  can  occur  in  any  age  group.[3–6]  Severity  is  increased  among
+immunocompromised  persons,  pregnant  women,  children  younger  than  one  year  of
+age, and adults.[7] Severe complications include secondary bacterial infections (most
+notably  those  caused  by  group  A  beta-hemolytic  Streptococcus,  e.g.,  cellulitis,
+necrotizing  fasciitis,  septicemia,  and  toxic  shock  syndrome  but  also  S.  aureus),
+pneumonia, encephalitis, cerebellar ataxia, bleeding disorders, and Reye syndrome.[7]
+Rarely,  these  complications  may  result  in  death.[4]  The  potential  for  severe  varicella
+exists  among  both  vaccinated  and  unvaccinated  persons.  Congenital  varicella
+syndrome,  characterized  by  cutaneous  scarring  in  a  dermatomal  distribution,
+hypoplasia of an extremity, microcephaly, ocular and neurologic abnormalities, and low
+birth  weight,  may  occur  among  0.4%–2.0%  of  infants  born  to  women  who  develop
+varicella during the first or second trimester of pregnancy.[8-10] Infants born to women
+who develop varicella within the period of five days before delivery to two days after
+delivery  are  at  high  risk  of  severe  neonatal  varicella.  Immunity  following  varicella  is
+considered to be long-lasting and a second case of varicella in otherwise healthy person
+is  uncommon.[11,12]  However,  second  cases  may  occur  more  commonly  among
+immunocompromised  persons.[13]  After  primary  infection,  VZV  remains  latent  in  the
+sensory-nerve  ganglia  and  reactivates  in  approximately  1  in  3  of  infected  persons
+during their lifetime, resulting in herpes zoster (shingles).[14–16] Herpes zoster usually
+presents as a vesicular rash (appearing as clusters of vesicles) with pain and itching in
+a dermatomal distribution. Herpes zoster incidence increases with age, especially after
+age  50,  and  is  more  common  among  immunocompromised  persons.  A  decline  in  the
+cell-mediated immunity is considered to be an important factor in the development of
+herpes  zoster.  Varicella  is  highly  infectious,  with  secondary  infection  occurring  in
+61%–100% of susceptible household contacts.[17–21] Transmission of VZV occurs from
+person to person by direct contact with the vesicular fluid of skin lesions of persons with
+either  varicella  or  herpes  zoster  or  inhalation  of  aerosols  from  vesicular  fluid  of  skin
+lesions of persons with varicella or herpes zoster; spread from oropharyngeal secretions
+of persons with varicella, that also may be aerosolized, may occur but to a much lesser
+extent. The incubation period for varicella is 10–21 days, most commonly 14–16 days.
+Persons with varicella are considered infectious from 1–2 days before the onset of rash
+until all lesions are crusted, typically 4–7 days after onset of rash. Vaccinated persons
+who get varicella may develop lesions that do not crust. These persons are considered
+contagious until no new lesions have appeared for 24 hours. Persons with herpes zoster
+are contagious while they have active, vesicular lesions (usually 7–10 days). Before the
+availability  of  varicella  vaccine  in  the  United  States,  almost  everyone  had  varicella.
+Thus, the number of cases approximated the birth cohort, and in the early 1990s (the
+prevaccine  era)  this  resulted  in  an  average  of  about  4  million  cases  of  varicella,
+10,500–13,500  hospitalizations  (range:  8,000–18,000),  and  100–150  deaths  each
+year.[3–5]  Varicella  primarily  affected  children;  approximately  90%  of  cases  occurred
+before 15 years of age, with the highest incidence reported among children 1–4 years
+of  age.[3,22,23]  Varicella  vaccine  was  licensed  and  has  been  recommended  in  the
+United  States  since  1995.  A  two-dose  series  is  recommended,  with  routine
+administration  of  the  first  dose  at  12–15  months  of  age  and  the  second  dose  at  4–6
+years of age.[24] Vaccination of older children, adolescents and adults without evidence
+of immunity to varicella and persons who had received only one dose of vaccine is also
+recommended.  The  minimum  interval  between  the  doses  is  3  months  for  persons
+younger than 13 years of age and 4 weeks for persons 13 years of age and older. One
+dose varicella vaccination coverage among children 19–35 months of age reached 90%
+in  2007,  stabilizing  around  at  least  90%  thereafter;  ≥2-dose  varicella  vaccination
+coverage among adolescents 13–17 years of age without history of varicella was 92% in
+2020.[25,26]  Attaining  and  maintaining  high  vaccine  coverage  led  to  substantial
+declines in varicella morbidity and mortality in the United States. Overall, in 2018–2019,
+varicella  incidence  declined  >97%  based  on  data  from  four  states  that  have
+continuously reported varicella to the National Notifiable Diseases Surveillance System
+(NNDSS)  since  before  the  varicella  vaccination  program.[27]  The  second  dose  of
+varicella  vaccine  for  children  was  added  to  the  national  program  in  2007.[24]  During
+the  2-dose  era,  data  from  39  states  and  DC  have  shown  an  89%  decline  in  varicella
+incidence.[27]  Incidence  declined  in  all  age  groups  with  the  greatest  declines  among
+children 5–14 years of age (92%–95%). As vaccination coverage has increased, about
+half  of  varicella  cases  now  occur  among  vaccinated  persons.  Similarly,  the  severe
+outcomes of varicella declined substantially. Compared with the prevaccine years, by
+2018–2019,  varicella  hospitalizations  declined  90%  and  deaths  with  varicella  as  the
+underlying cause of death declined 89% for all ages.[28] After 25 years of the varicella
+vaccination program, fewer than 1,400 hospitalizations and 18–30 deaths are occurring
+annually in the United States. The greatest decline for both hospitalizations and deaths
+(97% and >99%, respectively) was among persons <20 years of age, born during the
+varicella  vaccination  program,  in  whom  these  severe  outcomes  have  been  nearly
+eliminated.[28]  The  varicella  vaccination  program  has  also  substantially  reduced  the
+number of outbreaks in the U.S. Additionally, outbreak size and duration declined from
+a  median  of  15  cases  per  outbreak  and  45  days  duration  early  in  the  vaccination
+program to 7 cases and 30 days duration during the mature phase of the vaccination
+program.[29]  Elementary  schools  continue  to  be  the  most  common  sites  for  varicella
+outbreaks  and  are  the  main  reporting  sources  for  outbreak  surveillance  although  the
+proportion  of  school  outbreaks  has  decreased  over  time.  Despite  low  susceptibility
+among adults (generally less than 5%), outbreaks have been reported from a variety of
+adult  settings,  including  correctional  facilities,  hospitals,  military  training  facilities,
+refugee  centers,  immigration  detention  facilities,  homeless  shelters,  other  residential
+institutions,  and  cruise  ships.  Top  of  Page  For  specific  information  about  varicella
+vaccination, refer to the Pink Book varicella chapter which provides information on the
+varicella  vaccines,  vaccination  schedule  and  use,  contraindications  and  precautions,
+adverse events and reactions, and vaccine storage and handling. Evidence of immunity
+to  varicella  includes  any  of  the  following:[24]  1.)  Documentation  of  age-appropriate
+vaccination   2.) Laboratory evidence of immunity or laboratory confirmation of disease
+  3.)  Born  in  the  United  States  before  1980    4.)  A  healthcare  provider  diagnosis  of
+varicella  or  verification  of  history  of  varicella  disease    5.)  A  healthcare  provider
+diagnosis of herpes zoster or verification of history of herpes zoster As varicella disease
+has  declined  with  the  introduction  of  a  vaccine,  the  need  for  laboratory  confirmation
+has  concomitantly  grown  because  fewer  physicians  have  seen  varicella  and
+breakthrough  disease  is  often  milder  with  fewer  lesions  and  may  lack  characteristic
+vesicles.  Laboratory  confirmation  of  suspected  varicella  is  becoming  increasingly
+necessary  to  inform  clinical  and  public  health  management  and  understand  the  true
+burden of disease and is now routinely recommended. The preferred diagnostic test to
+confirm varicella is detection of viral DNA by real-time PCR. For additional information
+on  laboratory  disease  surveillance,  including  specific  instructions  for  specimen
+collection  and  shipping,  see  Chapter  22,  Laboratory  Support  for  Surveillance  of
+Vaccine-Preventable  Diseases.  For  any  other  questions  regarding  laboratory  testing,
+varicella contacts are listed in Table 1. Reporting varicella cases in childcare centers,
+schools,  other  institutions,  military  barracks,  and  other  group  settings  will  facilitate
+public  health  action  and  outbreak  control.  A  single  case  should  trigger  intervention
+measures because it could lead to transmission and outbreaks. In addition, in certain
+high-risk settings (e.g., hospitals and other healthcare settings, schools that may have
+students  who  are  immunocompromised),  rapid  case  identification  and  public  health
+action are important to prevent infection of susceptible persons at high risk for serious
+complications of varicella, such as immunocompromised persons and pregnant women,
+for  whom  varicella  vaccine  is  contraindicated.[24]  Varicella  surveillance  helps  to
+facilitate public health actions at the state and local level and to monitor the impact of
+the varicella vaccination program. Specifically, surveillance data are needed to: Top of
+Page  The  following  case  definitions  were  approved  by  the  Council  of  State  and
+Territorial Epidemiologists (CSTE) for varicella cases in June 2023[30] and for varicella
+deaths  in  1998.[31]  Clinical  Criteria  In  the  absence  of  a  more  likely  alternative
+diagnosis: OR  Laboratory Criteria*a  Confirmatory Laboratory Evidence:  OR OR  OR 
+Supportive  Laboratory  Evidence:   *  Note:  The  categorical  labels  used  here  to  stratify
+laboratory evidence are intended to support the standardization of case classifications
+for public health surveillance. The categorical labels should not be used to interpret the
+utility or validity of any laboratory test methodology.
+ aA negative laboratory result in a person with a generalized rash with vesicles does not
+rule out varicella as a diagnosis.
+b PCR of scabs or vesicular fluid is the preferred method for laboratory confirmation of
+varicella. In the absence of vesicles or scabs, scrapings of maculopapular lesions can be
+collected for testing.
+cNot explained by varicella vaccination during the previous 6–45 days.
+dSeroconversion is defined as a negative serum VZV IgG followed by a positive serum
+VZV IgG.
+eIn vaccinated persons, a 4-fold rise may not occur.
+fIgM  serology  has  limited  value  as  a  diagnostic  method  for  VZV  infection  and  is  not
+recommended for laboratory confirmation of varicella. However, an IgM positive result
+in the presence of varicella-like symptoms can indicate a likely acute VZV infection. A
+positive  IgM  result  in  the  absence  of  clinical  disease  is  not  considered  indicative  of
+active varicella. Epidemiologic Linkage Criteria
+Confirmatory  Epidemiologic  Linkage  Evidence:   OR  OR  Presumptive  Epidemiologic
+Linkage  Evidence:   Healthcare  Record  Criteria  Confirmed:  OR   Probable:  OR   OR  
+Confirmed:  A  death  resulting  from  a  confirmed  case  of  varicella  which  contributes
+directly  or  indirectly  to  acute  medical  complications  that  result  in  death.  Probable:  A
+death resulting from a probable case of varicella which contributes directly or indirectly
+to  acute  medical  complications  that  result  in  death.  Varicella-like  rash  in  vaccine
+recipients: A varicella-like rash in a recently vaccinated person may be caused by either
+wild-  or  vaccine-type  virus  or  have  other  etiologies.  Approximately  4%–6%  of  1-dose
+and  1%  of  2-dose  vaccine  recipients,  respectively,  develop  a  generalized  rash  with  a
+median of 5 lesions 5–26 days postvaccination, and 1%–3% develop a localized rash at
+the injection site with a median of 2 lesions 8–19 days postvaccination.[32] The rash
+may be atypical in appearance (maculopapular with no vesicles). Attribution of disease
+to vaccine strain VZV can be done by distinguishing wild-type VZV from vaccine-strain
+VZV  using  strain  differential  PCR.  Breakthrough  disease  is  a  case  of  infection  with
+wild-type  VZV  occurring  more  than  42  days  after  vaccination.  Disease  is  usually  mild
+with a shorter duration of illness, fewer constitutional symptoms, and generally fewer
+than 50 skin lesions. Breakthrough cases with fewer than 50 lesions have been found to
+be  one-third  as  contagious  as  varicella  in  unvaccinated  persons,  but  breakthrough
+cases with 50 or more lesions are as contagious as cases in unvaccinated persons.[33]
+Though  generally  mild,  about  25%–30%  of  breakthrough  cases  among  1-dose
+vaccinated  children  have  clinical  features  more  similar  to  those  in  unvaccinated
+children  and  rare,  severe  presentations  with  visceral  dissemination  have  been
+reported.[34]  Persons  who  received  two  doses  of  vaccine  are  less  likely  to  have
+breakthrough  disease  than  those  who  received  one  dose.[35,36]  Additionally,
+breakthrough  varicella  may  be  further  attenuated  among  2-dose  vaccine  recipients
+though  the  difference  was  not  always  statistically  significant.[29,37]  No  cases  of
+breakthrough  varicella  with  visceral  dissemination  have  been  reported  among  2-dose
+vaccinees.[34] Top of Page Each state and territory has regulations or laws governing
+the  reporting  of  diseases  and  conditions  of  public  health  importance.[38]  These
+regulations  and  laws  list  the  diseases  to  be  reported  and  describe  the  persons  or
+institutions  responsible  for  reporting,  including  healthcare  providers,  hospitals,
+laboratories,  schools,  childcare  facilities,  and  other  institutions.  Persons  reporting
+case(s)  should  contact  their  state  health  department  for  state-specific  reporting
+requirements.  States  not  conducting  case-based  surveillance  are  encouraged  to
+progressively implement individual case reporting integrating varicella surveillance into
+an  existing  system  where  feasible.  This  can  be  done  by  establishing  statewide  or
+sentinel  surveillance.  Statewide  surveillance  involves  adding  varicella  to  the  list  of
+notifiable  diseases  that  are  reported  to  the  state  health  department.  Sentinel  site
+surveillance  involves  identifying  sites  such  as  schools,  childcare  centers,  physicians’
+practices, hospitals, colleges, and other institutions to perform surveillance for varicella.
+Sentinel sites can be limited to a geographic area, such as a county or city, or selected
+to be representative of the entire state population. States may also consider requesting
+reports  from  sites  that  already  participate  in  other  surveillance  networks.  States  can
+expand  the  number  of  sites  as  they  develop  their  system  with  the  intention  of
+eventually having statewide surveillance. Notifications for confirmed or probable cases
+of varicella should be sent to CDC using event code 10030 through National Notifiable
+Diseases  Surveillance  System  (NNDSS).  Case  notifications  should  not  be  delayed
+because  of  incomplete  information  or  lack  of  confirmation.  Data  can  be  updated
+electronically  as  more  information  becomes  available.  The  state  in  which  the  patient
+resides  at  the  time  of  diagnosis  should  submit  the  case  notification  to  CDC.  If
+jurisdictions  have  questions  about  varicella  reporting  and  case  notification,  please
+contact  the  Division  of  Viral  Diseases,  Viral  Vaccine  Preventable  Diseases  Branch  at
+CDC.
+ The
+ following
+ are
+ core
+ and
+ disease-specific
+ data
+ elements
+ that
+ are
+epidemiologically important and needed for varicella case classification and should be
+collected  during  case  investigations.  Please  also  refer  to  the  Varicella  Surveillance
+Worksheet  for  a  complete  list  of  the  variables  that  should  be  collected  during  case
+investigations (Appendix 20 [4 pages]). Additional information may be collected at the
+direction  of  the  state  health  department.  In  bold,  are  the  critical  variables  used  to
+monitor the impact of the varicella vaccination program. In 1998, CSTE recommended
+that varicella-related deaths be placed under national surveillance, and varicella-related
+deaths  became  nationally  notifiable  on  January  1,  1999.[31]  Varicella  deaths  can  be
+identified through death certificates, which may be available through state vital records
+systems and may be more readily available soon after death in states using electronic
+death certificates. State public health departments may also request that local health
+departments, healthcare practitioners, and hospitals report varicella deaths that occur
+in their community. Because varicella is a vaccine-preventable disease, all deaths due
+to varicella should be investigated. Investigation may provide insight into risk factors
+for varicella mortality and may help identify missed opportunities for, and barriers to,
+vaccination.  A  worksheet  is  provided  to  guide  varicella  death  investigations  (see
+Appendix  19)  [4  pages].  Deaths  should  be  reported  to  the  CDC  National  Center  for
+Immunization  and  Respiratory  Diseases,  Division  of  Viral  Diseases,  Viral  Vaccine
+Preventable  Diseases  Branch  and  to  NNDSS.  Top  of  Page  All  patients  with  suspected
+varicella  should  be  investigated.  A  single  case  should  trigger  intervention  measures
+because it could lead to transmission and outbreaks. Clinical diagnosis of varicella can
+be unreliable. Cases of suspected varicella should be laboratory confirmed. Laboratory
+confirmation  of  varicella  is  important  as  varicella  may  present  with  mild  or  atypical
+presentation  making  clinical  diagnosis  especially  challenging.  Patients  with  varicella
+should self-isolate at home until no longer infectious, unless medical care is needed (all
+lesions have crusted or, if no vesicles were present, when no new lesions appear within
+a 24-hour period). For residential institutions and healthcare settings, patients should
+be  immediately  isolated  in  a  closed-door  room  (negative  pressure  room  if  available)
+until  they  are  no  longer  infectious;  staff  with  varicella  should  be  excluded  from  the
+setting and self-isolate until no longer infectious. As part of the case investigation, the
+potential  for  further  transmission  should  be  evaluated,  and  contacts  of  the  patient
+during  the  infectious  period  should  be  identified.  Guidance  can  be  found  in  the
+Outbreak  Investigation  section.  These  recommendations  include  prior  guidance
+published  in  the  document  Strategies  for  the  Control  and  Investigation  of  Varicella
+Outbreaks Manual, 2008, which has been retired. An outbreak of varicella is defined as
+the occurrence of ≥3 varicella cases that are related in place and are epidemiologically
+linked.  Confirmation  of  the  Outbreak  Notification  of  the  Outbreak  Case  Identification
+and Management Management of Contacts Establish Surveillance for Additional Cases
+Communication  with  Providers  and  the  Public  about  Varicella   Definitions  Schools  
+Daycares/Preschools
+ Residential
+ institutions
+ and
+ healthcare
+ settings
+ 
+Correctional/detention facilities Ships/Flights To receive email updates about this page,
+enter your email address:
+Source URL: https://www.cdc.gov/vaccines/pubs/surv-manual/chpt17-varicella.html

@@ -1,0 +1,310 @@
+  Persons using assistive technology might not be able to fully access information in this
+file. For assistance, please send e-mail to: mmwrq@cdc.gov. Type 508 Accommodation
+and the title of the report in the subject line of e-mail. In 2009, the largest single-year
+percentage  decrease  in  tuberculosis  (TB)  cases  was  reported  since  national  TB
+surveillance began in the United States in 1953. Overall, TB rates decreased 11.4% to
+3.8 cases per 100,000 population, compared with an average annual decline of 3.8%
+each year since 2000 (1,2). Georgia and Pennsylvania were among 36 states reporting
+decreases from 2008; TB case rates fell 14.3% (from 4.9 to 4.2) in Georgia and 38.7%
+(from  3.1  to  1.9)  in  Pennsylvania.  Concerned  about  the  possibility  of  unidentified  TB
+cases,  the  Georgia  Division  of  Public  Health  and  the  Pennsylvania  Department  of
+Health,  in  collaboration  with  CDC,  conducted  investigations  centering  on  four
+hypotheses
+ for
+ the
+ declines:
+ 1)
+ surveillance
+ artifact,
+ 2)
+ underreporting,
+ 3)
+underdiagnosis,  and  4)  actual  decline.  This  report  summarizes  the  results  of  those
+investigations,  which  found  no  evidence  of  surveillance  artifact,  underreporting,  or
+underdiagnosis  substantial  enough  to  account  for  the  magnitude  of  the  declines.
+Instead, a decrease in the number of laboratory-confirmed Mycobacterium tuberculosis
+complex diagnoses and a decrease in the percentage of suspected TB cases ultimately
+counted as meeting the TB case definition; both suggested a true decline in TB in 2009.
+The population groups with the largest declines were foreign-born persons and children.
+Continued TB surveillance, including vigilance in suspecting, diagnosing, and reporting
+TB  cases  to  public  health  departments,  will  help  clarify  the  cause  of  this  decline  and
+determine  long-term  TB  trends  in  the  United  States.   The  investigations  in  the  two
+states were conducted during March--May 2010 and included systematically assessing
+changes  in  TB  surveillance  practices,  cross-matching  health  department  data  with
+records  from  reporting  entities  and  secondary  sources,  reviewing  laboratory  records,
+and analyzing state TB registries for epidemiologic changes. Reports of suspected TB
+cases  sent  by  health-care  providers  and  laboratories  to  public  health  departments  in
+Georgia and Pennsylvania are entered into Georgia's State Electronic Notifiable Disease
+Surveillance  System  (SENDSS)  and  Pennsylvania's  version  of  the  National  Electronic
+Disease  Surveillance  System  (PA-NEDSS).  In  Pennsylvania,  electronic  reports  also  are
+downloaded automatically from laboratory databases into PA-NEDSS. Once a report is
+investigated locally, designated health department officials determine whether it meets
+Council of State and Territorial Epidemiologists criteria to be counted as a case.*  To
+assess for surveillance artifact (i.e., whether case counts were artificially low as a result
+of  changes  or  delays  in  reporting,  investigating,  or  counting,  including  changes  in
+criteria  for  counting  reports  as  cases)  in  2009,  public  health  staff  members  in  both
+states  were  interviewed,  and  trend  analyses  of  SENDSS  and  PA-NEDSS  data  were
+conducted. The number of suspected TB case reports, the proportion of those reports
+ultimately  counted  as  cases,  and  selected  surveillance  quality  measures  (e.g.,  mean
+time  from  initial  report  to  count  inclusion)  were  evaluated  for  2008--2009  in  Georgia
+and  2007--2009  in  Pennsylvania  (where  2007  was  the  comparison  year  because
+delayed counting of cases first reported in 2005--2007 was known to have inflated the
+2008  case  count  artificially).  In  Georgia,  officials  in  the  13  counties  with  declines  of
+three  or  more  reported  cases  provided  their  independent  case  counts  to  determine
+concordance with SENDSS. In addition, paper reports not yet entered into SENDSS were
+reviewed  to  identify  additional  cases.  Similarly,  suspected  TB  reports  included  in
+PA-NEDSS that had not been counted as cases were reexamined if they had laboratory
+or clinical characteristics suggestive of TB.  To assess for underreporting, SENDSS and
+PA-NEDSS records were cross-matched with line lists from different sources of patients
+with  potential  TB  diagnoses  in  2008  and  2009.  Both  state  public  health  laboratories
+participated, as did the City of Philadelphia public health laboratory and 43 (46%) of 92
+licensed  private  laboratories  in  Georgia  and  131  (81%)  of  161  in  Pennsylvania  that
+provided these data as part of a survey. Additional cross-matching in Georgia included
+infection-control records from the 13 Atlanta hospitals that reported the most cases of
+TB. Records of patients with a TB-related code from the International Classification of
+Diseases, Ninth Revision (ICD-9)† in the state's hospital discharge database, but not in
+SENDSS  (i.e.,  unmatched  patients),  also  were  assessed  further.   To  assess  for
+underdiagnosis,  the  public  health  laboratories  serving  the  two  states  ran  systematic
+queries on the total number of patients who had specimens tested for M. tuberculosis
+complex (e.g., M. tuberculosis, M. bovis, or M. africanum) by culture or by nucleic acid
+amplification  testing  and  the  proportion  with  M.  tuberculosis  complex  confirmed  by
+either test. Investigators also assessed whether any changes in laboratory policies or
+practices  might  account  for  the  unexpected  drop  in  reported  TB.  Similar  data  were
+gathered via a survey sent to licensed private laboratories in the two states. In Georgia,
+57 (62%) of 92 private laboratories responded with these data, as did 131 (81%) of 161
+in  Pennsylvania.  Nonresponding  laboratories  in  Pennsylvania  did  not  have  fewer
+PA-NEDSS reports in 2009 compared with 2008; in Georgia, such changes could not be
+assessed. In addition, TB diagnosis trends in the hospital discharge records provided by
+the Pennsylvania Health Care Cost Containment Council for Southeastern Pennsylvania,
+which  covers  approximately  40%  of  the  state's  population  (3),  were  examined;  ICD-9
+codes  were  used  to  identify  possible  TB-related  hospitalizations.   To  assess  the
+evidence  supporting  an  actual  decline  in  TB,  Georgia  and  Pennsylvania  TB  cases
+counted in 2009 were compared with 2008 cases for changes in patient characteristics
+that could affect the likelihood of having laboratory-confirmed TB (e.g., age and site of
+disease). Linear regression of log-transformed case counts during 1999--2009 was used
+to  determine  the  expected  numbers  of  cases  among  U.S.-born  and  foreign-born
+persons;  observed  numbers  outside  the  95%  prediction  interval  were  considered
+significant.  Investigation  of  Surveillance  Artifact  No  changes  or  delays  in  surveillance
+practices were found in Georgia. Excluding results of overseas TB screening in newly
+arriving  immigrants,  the  number  of  suspected  TB  reports  in  2008  was  comparable  to
+that in 2009. The mean numbers of days between initial report, entry into SENDSS, and
+inclusion in the state case count also were comparable. However, despite no changes in
+the  criteria  for  counting  suspected  TB  as  cases,  the  percentage  of  initial  reports
+ultimately counted as cases declined, from 77% (478 of 623) in 2008 to 66% (415 of
+619) in 2009. The independent counts in the 13 counties with the largest declines were
+concordant with SENDSS data; one uncounted TB case was found among paper reports
+not yet entered into SENDSS.  Similarly, surveillance practices in Pennsylvania did not
+appear to change substantially in 2009. Delayed counting of cases first reported during
+2005--2007 is known to have artificially inflated the 2008 case count in Pennsylvania.
+One  suspected  TB  report  from  2005,  three  from  2006,  and  48  from  2007  were  not
+counted  as cases until  2008 (Figure 1).  However,  even  after adjusting  Pennsylvania's
+2008 case count for this known surveillance artifact (i.e., subtracting 52 cases), a 30%
+annual decline was still observed in 2009, and the number of suspected TB reports to
+public  health  authorities  remained  stable.  The  mean  number  of  days  between  initial
+report  and  investigation  was  comparable  during  2007--2009.  However,  as  in  Georgia,
+the percentage of initial reports ultimately counted as TB cases declined from 14% (276
+of 1,995) in 2007 to 12% (236 of 2,030) in 2009. (Pennsylvania has a larger number of
+suspected  TB  reports,  compared  with  Georgia,  because  of  automatic  downloads  from
+laboratory databases into PA-NEDSS.) Among the suspected TB reports not counted as
+cases in Pennsylvania in 2009, a total of 409 met the criteria for further investigation,
+but  only  six  were  determined  to  be  verified  and  countable.  Investigation  of
+Underreporting  In  Georgia,  the  SENDSS  cross-match  with  line  lists  of  patients  with
+positive TB results from the state public health laboratory, 43 private laboratories, and
+13 hospitals detected no unreported cases. Among patients with TB ICD-9 codes in the
+hospital discharge database, 45% (244 of 539) in 2008 and 43% (178 of 416) in 2009
+(fourth quarter data unavailable) were not found in SENDSS. Seventy-three of these 422
+unmatched patients were selected for further review based on having ICD-9 codes that
+corresponded  to  countable  TB  for  >50%  of  hospital  records.§  Further  medical  review
+was possible for 28 (85%) of 33 unmatched records in 2008 and for 37 (93%) of 40 in
+2009.  One  unreported  2009  case  (culture-negative  TB  pleurisy)  was  found.   In
+Pennsylvania,  the  PA-NEDSS  cross-match  with  line  lists  of  patients  with  positive  M.
+tuberculosis  complex  results  from  public  health  laboratories  and  from  58  private
+laboratories  found  13  potentially  unreported  cases,  of  which  none  proved  to  be
+countable  (seven  were  in  non-Pennsylvania  residents,  and  six  were  nontuberculous
+mycobacteria).  Investigation  of  Underdiagnosis  Review  of  2008  and  2009  laboratory
+data in both states showed that the total number of patients who had specimens tested
+for mycobacteria increased in the public health laboratories (i.e., 4.7% in Georgia and
+11.6%  in  Pennsylvania),  but  the  proportion  of  patients  with  specimens  that  tested
+positive  for  M.  tuberculosis  complex  decreased  19.8%  in  the  Georgia  State  Public
+Health Laboratory and 28.8% in Pennsylvania public health laboratories (Table). In the
+10 private laboratories that provided these data in response to the Georgia survey, a
+parallel  decline  was  noted.  Among  131  private  laboratories  responding  to  the
+Pennsylvania survey, similar numbers of specimens were received for M. tuberculosis
+complex testing annually during 2007--2009, but the proportion that tested positive for
+M. tuberculosis complex decreased 36% from 2008 to 2009 (Figure 2). In neither state
+were  changes  noted  in  the  types  of  specimens  processed  or  in  the  methods  or
+procedures  (at  public  health  labs)  for  laboratory  diagnosis  of  TB.   Analysis  of  the
+southeastern Pennsylvania hospital discharge dataset showed that the total number of
+inpatient hospitalizations was stable, with 707,601; 699,893; and 696,846 discharges in
+2007, 2008, and 2009, respectively. Time-trend analysis revealed that the percentage
+of  all  hospitalizations  with  either  pulmonary  or  extrapulmonary  TB  as  a  primary  or
+secondary  diagnosis  was  approximately  0.04%  each  year;  further  subset  analyses  by
+TB-related  ICD-9  codes  revealed  no  other  TB  diagnosis-related  changes  during  this
+period.   Evidence  Suggesting  Actual  Declines  in  TB  Because  the  investigations  in
+Georgia and Pennsylvania found little evidence to support the first three hypotheses for
+the  decline  in  reported  TB  cases,  more  consideration  was  given  to  whether  the
+surveillance findings represented an actual decline in 2009. The relative proportions of
+counted  TB  cases  that  met  the  national  case  definition  based  on  laboratory  criteria
+essentially were unchanged: from 362 (76%) of Georgia's 478 TB cases in 2008 to 303
+(73%) of 415 in 2009, and from 214 (78%) of Pennsylvania's 276 TB cases in 2007 to
+190 (81%) of 236 in 2009. In both states, the declines noted from 2008 to 2009 by site
+of  disease  appeared  approximately  consistent  (i.e.,  a  15%  decline  in  pulmonary  and
+13% decline in extrapulmonary in Georgia, with declines of 36% and 45%, respectively,
+in Pennsylvania). Also in both states, children aged <15 years were the age group that
+experienced the largest decrease in reported TB cases (by 38% in Georgia and 79% in
+Pennsylvania) in 2009. Linear regression analysis of cases during 1999--2009 showed
+that  observed  case  counts  among  foreign  born-persons  declined  significantly  in  both
+states in 2009. Based on the prediction interval for the number of TB cases reported
+among  foreign-born  persons,  Georgia  would  have  expected  182--247,  but  observed
+176; Pennsylvania would have expected 131--239, but observed 127. Among U.S.-born
+persons,  smaller  declines  were  not  statistically  significant.  For  U.S.-born  persons,  the
+235 observed cases were within the 201--295 prediction interval in Georgia, and 108
+observed  cases  were  within  the  94--197  prediction  interval  in  Pennsylvania.   K  Viner,
+PhD, CC Johnson, MD, EC Newbern, PhD, B Dickman, MPA, Philadelphia Dept of Public
+Health;  L  Dettinger,  MT,  K  Waller,  MD,  Pennsylvania  Dept  of  Health.  R  Sales,  MPH,
+Georgia  Dept  of  Community  Health.  K  Mitruka,  MD,  E  Magee,  MPH,  J  Grant,  MD,  L
+Manangan,  MPH,  R  Yelk-Woodruff,  MPH,  J  Ershova,  PhD,  B  Metchock,  DrPH,  D  Bedell,
+MBA,  W  Avant,  D  Dohony,  MPH,  TC  Cropper,  M  Haddad,  MSN,  Div  of  TB  Elimination,
+National Center for HIV/AIDS, Viral Hepatitis, STD, and TB Prevention; J Jones, T Rosen,
+MD,  Scientific  Education  and  Professional  Development  Program  Office,  Office  of
+Surveillance,  Epidemiology,  and  Laboratory  Services;  E  Click,  MD,  M  Willis,  MD,  B
+Abraham, MD, EIS officers, CDC. After unexpected declines in 2009 in the number of TB
+cases reported in Georgia and Pennsylvania, investigations in the two states applied an
+extensive  systematic  approach  to  assess  whether  the  declines  were  actual.  Although
+the investigations did not reexamine every initial report of suspected TB to determine
+whether it was or was not counted properly, hundreds of such reports and thousands of
+statewide hospital and laboratory records were reexamined, ultimately finding only two
+uncounted cases in Georgia and six in Pennsylvania that should have been counted in
+2009;  of  these  eight  cases,  all  except  one  Georgia  case  had  been  reported  to  public
+health  authorities  but  not  recorded  in  the  surveillance  system.  The  results  of  these
+investigations  provide  strong  evidence  against  underreporting  as  the  cause  for  the
+decline.  The  results  are  similar  to  those  of  a  previous  study  of  TB  case-reporting
+completeness  in  seven  U.S.  states  during  1994--1995,  which  found  few  unreported
+cases  (4).  The  investigations  determined  that,  whereas  the  number  of  positive  TB
+results  declined,  the  total  number  of  individual  patients  and  specimens  tested  for  TB
+remained stable or increased in the public health laboratories serving the two states. A
+similar  trend  in  the  states'  private  laboratories  also  suggested  that  the  decline  in  TB
+diagnoses  in  Georgia  and  Pennsylvania  was  not  the  consequence  of  health-care
+providers'  failing  to  consider  a  diagnosis  of  TB  in  2009.  Pennsylvania's  stable
+percentage  of  hospitalizations  with  TB-related  diagnoses  during  2007--2009  provides
+further  evidence  against  underdiagnosis  and  might  suggest  a  decline  in  less  severe
+manifestations  of  TB  disease  that  do  not  require  hospitalization.   The  findings  in  this
+report  are  subject  to  at  least  three  limitations.  First,  this  investigation  could  not
+examine  whether  underdiagnosis  occurred  because  of  failure  of  patients  to  seek
+medical  attention  for  TB  symptoms.  For  example,  factors  affecting  patient  access  to
+medical  care,  such  as  immigration  status  or  financial  constraints,  were  not  assessed
+(5).  Second,  neither  state  assessed  underdiagnosis  or  underreporting  at  outpatient
+provider  sites  where  patients  with  less  severe  disease  might  have  been  managed.
+Finally, one of the methods used to assess whether hospitals might have underreported
+TB  cases  relied  on  how  well  ICD-9  codes  corresponded  to  known  TB  cases  without
+medical record reviews to test the validity of the ICD-9 code itself.  The findings in both
+Georgia and Pennsylvania of a decrease in the percentage of suspected TB reports that
+ultimately were counted as cases and a decrease in the proportion of tested specimens
+yielding  M.  tuberculosis  complex  support  an  actual  decline  in  incident  TB  disease  in
+2009. The decreased proportion of laboratory-confirmed TB cannot be explained by a
+commensurate increase in the types of cases typically associated with culture-negative
+TB (e.g., pediatric or extrapulmonary TB [6,7]). Children experienced the largest decline
+in  reported  TB,  a  finding  suggesting  either  less  TB  transmission  or  changes  in
+immigration  patterns.  Similarly,  the  decline  in  TB  cases  among  foreign-born  persons
+might reflect an actual decline because of changes in migration following the economic
+downturn  (i.e.,  decreased  immigration  or  increased  emigration  of  job-seekers)  or
+improved  preimmigration  TB  detection  and  treatment  among  U.S.-bound  immigrants
+per CDC's technical instructions for prevention and treatment of TB among immigrants
+(8).  Varying  implementation  dates  and  the  small  number  of  cases  in  Georgia  and
+Pennsylvania from countries that have implemented the revised instructions prevented
+an  assessment  of  the  impact  of  these  overseas  screening  changes.   Although  recent
+changes  in  migration  patterns  or  in  overseas  TB  screening  of  new  immigrants  are
+possible  explanations  for  an  actual  U.S.  decline  in  TB  in  2009,  clinicians  and  health
+systems should maintain vigilance for TB and promptly report new TB cases to public
+health authorities. A decline because of delayed diagnosis resulting from obstacles to
+care also remains a possibility, although preliminary 2010 TB surveillance data did not
+demonstrate  a  compensatory  increase  in  the  number  of  cases  (9).  Monitoring  for
+patients  with  more  advanced  disease  is  important  to  prevent  worse  morbidity  and
+increased mortality from TB. Continued analyses of new public health surveillance and
+other  data  sources  will  help  to  better  discern  long-term  trends  in  TB  in  the  United
+States.   This  report  is  based,  in  part,  on  contributions  by  A  Chakragiri,  S  Daniel,  K
+Buford, Georgia Div of Public Health; J Bush, Georgia Dept of Community Health; and T
+Navin, L Armstrong, B Pratt, C Jeffries, J Becerra, G Grant, and LA Ramsey, Div of TB
+Elimination, National Center for HIV/AIDS, Viral Hepatitis, STD, and TB Prevention, CDC.
+*
+ Available
+ at
+http://www.cdc.gov/osels/ph_surveillance/nndss/casedef/tuberculosis_current.htm.
+ †
+ICD-9  codes  (http://www.cdc.gov/nchs/icd/icd9.htm)  for  TB  are  010--019;  code  011  is
+specific for pulmonary TB disease. § Georgia investigators estimated which ICD-9 codes
+corresponded to countable TB on the basis of the counted 2008--2009 TB cases (i.e.,
+known to have TB) in SENDSS. First, they recorded the frequency of all the TB-related
+ICD-9  codes  that  appeared  in  hospital  discharge  records.  For  each  ICD-9  code  with  a
+frequency  greater  than  three,  the  numerator  for  the  estimate  was  the  number  of
+hospital records with that ICD-9 code that also matched a counted TB case in SENDSS,
+and  the  denominator  was  the  total  number  of  records  with  that  ICD-9  code.  The
+discharge  diagnosis  codes  estimated  to  correspond  to  countable  TB  for  >50%  of
+records  were  011.2,  011.23,  011.24,  011.26,  011.6,  011.63,  011.64,  011.66,  011.91,
+011.92,  011.93,  011.94,  011.96,  012.0,  012.04,  013.0,  013.04,  015.53,  017.2,  and
+018.9.  What is already known on this topic? In 2009, tuberculosis (TB) incidence in the
+United States decreased to 3.8 cases per 100,000 population, the lowest recorded rate
+since national TB surveillance began in 1953. The 11.4% decrease from 2008 was the
+greatest  single-year  decrease  ever  recorded.  What  is  added  by  this  report?  Findings
+from  systematic  investigations  in  Georgia  and  Pennsylvania,  two  states  that
+experienced  unexpectedly  large  decreases  in  TB  incidence  in  2009,  indicate  that  the
+decline  in  new  TB  disease  in  those  states  appeared  actual  and  not  attributable  to
+surveillance artifact, health-care provider underdiagnosis, or underreporting.  What are
+the implications for public health practice? The TB surveillance systems in Georgia and
+Pennsylvania appear to be functioning appropriately. Current efforts to diagnose, treat,
+and report TB cases should be vigorously maintained as the United States moves closer
+to the goal of TB elimination. FIGURE 1. Counted cases of tuberculosis --- Georgia and
+Pennsylvania, 1999--2009 * Delayed counting of cases artificially inflated the 2008 case
+count  in  Pennsylvania.  One  suspected  TB  case  from  2005,  three  from  2006,  and  48
+from 2007 were not counted as cases until 2008. Subtracting these 52 cases from the
+2008 Pennsylvania total reduced the decrease in 2009 from 38.7% to 29.6%. Alternate
+Text:  The  figure  above  shows  counted  cases  of  tuberculosis  in  Georgia  and
+Pennsylvania during 1999-2009. Delayed counting of cases artificially inflated the 2008
+case count in Pennsylvania. One suspected TB case from 2005, three from 2006, and 48
+from 2007 were not counted as cases until 2008. Subtracting these 52 cases from the
+2008 Pennsylvania total reduced the decrease in 2009 from 38.7% to 29.6%.
+                     TABLE.  Results  of  mycobacterial  laboratory  testing  ---  Georgia  and
+Pennsylvania,  2008  versus  2009  Data  type  Georgia  Pennsylvania  State  laboratory
+Private laboratories (n = 10) State and Philadelphia public health laboratories (n = 2)*
+2008  2009  Absolute  change  %  change  2008  2009  Absolute  change  %  change  2008
+2009 Absolute change % change No. of primary clinical specimens† 9,098 8,975 -123
+-1.4 14,622 14,240 -382 -2.6 2,266 2,370 104 +4.6 No. of patients who had specimens
+tested by mycobacterial culture 2,788 2,919 +131 +4.7 8,257 7,523 -734 -8.9 536 598
+62  +11.6  No.  of  patients  who  had  specimens  that  tested  positive  by  mycobacterial
+culture 253 212 -41 -16.2 68 46 -22 -32.4 116 85 31 -26.7 Percentage of patients who
+had specimens with positive Mycobacterium tuberculosis complex cultures 9.1% 7.3%
+-1.8  %  pts  -19.8  0.8%  0.6%  -0.2  %  pts  -25.0  22.6%  16.1%  -6.5  %  pts  -28.8  *
+Patient-level data were not available from private laboratories in Pennsylvania. † Raw
+specimens that had not undergone culturing process previously. FIGURE 2. Number of
+specimens  tested*  and  percentage  of  positive  results  for  Mycobacterium  tuberculosis
+complex from 131 private laboratories --- Pennsylvania, 2007--2009 * The presence of
+Mycobacterium  tuberculosis  complex  was  determined  using  either  culture  with
+identification  or  nucleic  acid  amplification  testing.  Alternate  Text:  The  figure  above
+shows  the  number  of  specimens  tested  and  percentage  of  positive  results  for
+Mycobacterium  tuberculosis  complex  from  131  private  laboratories  in  Pennsylvania
+during  2007-2009.  Among  131  private  laboratories  responding  to  the  Pennsylvania
+survey, similar numbers of specimens were received for M. tuberculosis complex testing
+annually during 2007-2009, but the proportion that tested positive for M. tuberculosis
+complex decreased 36% from 2008 to 2009.
+                     Use of trade names and commercial sources is for identification only and
+does not imply endorsement by the U.S. Department of 
+Health and Human Services. References to non-CDC sites on the Internet are 
+provided as a service to MMWR readers and do not constitute or imply 
+endorsement of these organizations or their programs by CDC or the U.S. 
+Department of Health and Human Services. CDC is not responsible for the content 
+of pages found at these sites. URL addresses listed in MMWR were current as of 
+the date of publication. All MMWR HTML versions of articles are electronic conversions
+from typeset documents. 
+This  conversion  might  result  in  character  translation  or  format  errors  in  the  HTML
+version. 
+Users are referred to the electronic PDF version (http://www.cdc.gov/mmwr) 
+and/or the original MMWR paper copy for printable versions of official text, figures, and
+tables. 
+An  original  paper  copy  of  this  issue  can  be  obtained  from  the  Superintendent  of
+Documents, U.S. 
+Government Printing Office (GPO), Washington, DC 20402-9371; 
+telephone: (202) 512-1800. Contact GPO for current prices.
+**Questions or messages regarding errors in formatting should be addressed to 
+mmwrq@cdc.gov. How do I view different file formats (PDF, DOC, PPT, MPEG) on this
+site? 
+Source URL: https://www.cdc.gov/mmwr/preview/mmwrhtml/mm6011a3.htm

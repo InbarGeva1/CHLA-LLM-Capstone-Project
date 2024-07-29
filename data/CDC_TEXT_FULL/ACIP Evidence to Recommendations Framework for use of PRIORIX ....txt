@@ -1,0 +1,112 @@
+Official websites use .gov A .gov website belongs to an official government organization
+in  the  United  States.  Secure  .gov  websites  use  HTTPS  A  lock  (   )  or  https://  means
+you've  safely  connected  to  the  .gov  website.  Share  sensitive  information  only  on
+official,  secure  websites.  Question:  Should  MMR  vaccine  (PRIORIX,  GSK)  be
+recommended  as  an  option  according  to  currently  recommended  schedules  and
+off-label uses to prevent measles, mumps, and rubella? Population: Persons ≥6 months
+of age Intervention: GSK PRIORIX Comparison: Existing MMR vaccine licensed in the US
+(M-M-R II, Merck) Outcomes:
+Prevention of measles, mumps, and rubella
+Short-term humoral immunity
+Persistence of humoral immune response
+Reactogenicity grade ≥3
+Serious adverse events
+Additional  adverse  events  of  interest  (febrile  seizures,  aseptic  meningitis,  immune
+thrombocytopenic
+ purpura)
+ Background:
+ Measles,
+ mumps,
+ and
+ rubella
+ are
+vaccine-preventable acute viral diseases with a large burden of disease worldwide. Due
+to  achieving  and  maintaining  high  measles,  mumps,  and  rubella  (MMR)  vaccination
+coverage, endemic measles and rubella/congenital rubella syndrome were eliminated in
+the United States in 2000 and 2004 respectively. Even with high vaccination coverage,
+there are pockets of un- and under-vaccinated individuals at risk for import-associated
+cases and outbreaks of measles. These outbreaks continue to occur, with 22 outbreaks
+and 1,249 cases reported in 2019, the most US cases reported in a single year since
+1992 (1). Mumps, while not eliminated, experienced a >99% reduction in cases in the
+United  States  due  to  the  high,  sustained  vaccination  coverage.  However,  since  2006,
+the  United  States  experienced  an  increase  in  mumps  outbreaks  in  different
+close-contact  settings  with  high  intensity  exposure,  including  schools,  universities,
+church  groups,  workplaces,  and  others.  The  largest  of  these  outbreaks  resulted  in
+nearly  3,000  cases  in  2016-2017  (2).  High  MMR  vaccination  coverage  helps  limit  the
+size,  duration,  and  spread  of  mumps  outbreaks  (2).  Previously,  only  one  MMR
+combination vaccine was licensed and available in the United States:  M-M-R II, Merck &
+Co.,  Inc.  The  Advisory  Committee  on  Immunization  Practices  (ACIP)  recommends
+routine vaccination of children with two doses of MMR, with the first dose at age 12-15
+months and the second at age 4-6 years. Additional recommendations include catch-up
+vaccination of persons without acceptable evidence of immunity; for infants aged 6-11
+months  during  measles  outbreaks;  before  international  travel  for  infants  aged  6-11
+months and  travelers aged ≥12 months who have not received two doses of MMR; for
+measles  post-exposure  prophylaxis;  and  a  third  dose  during  mumps  outbreaks  for
+persons identified by public health authorities as being part of a group or population at
+increased risk for acquiring mumps because of an outbreak (3, 4). PRIORIX (GSK) is a
+MMR combination vaccine that was approved in the United States in June 2022 for use
+in  persons  aged  12  months  and  older.  Considering  availability  of  the  newly  licensed
+MMR  vaccine,  the  ACIP  MMR  Vaccine  Work  Group  assessed  data  related  to  potential
+benefits and harms of including PRIORIX as an option for MMR vaccination, according to
+the  existing  recommended  schedules  and  off  label  uses*.  No  changes  to  the  existing
+ACIP  recommendations  for  the  use  of  MMR  vaccine  were  proposed.  These  results
+highlighted  the  importance  of  addressing  interchangeability  and  off-label  usage  of
+vaccines  for  PRIORIX  acceptance.  Based  on  similarities  in  vaccine  components,
+schedule and vaccine mechanism of action, the ACIP MMR Work Group perceived that
+the domains of Values and Resource Use for PRIORIX are comparable with Values and
+Resource  Use  of  M-M-R  II.  Desirable  consequences  clearly  outweigh  undesirable
+consequences in most settings. MMR vaccine (PRIORIX, GSK) should be recommended
+as an option according to the existing MMR recommended schedules and off-label uses
+to prevent measles, mumps, and rubella. Given the similarities in potency and vaccine
+components, the evidence from the clinical trials, and literature review, the Work Group
+considers  PRIORIX  and  M-M-R  II  fully  interchangeable,  including  all  off-label  uses.
+PRIORIX  may  be  administered  in  any  situation  in  which  a  measles,  mumps,  and
+rubella-containing  vaccine  is  indicated.  *Off-label  uses  include:  Both  M-M-R  II  and
+PRIORIX:  children  aged  6-11  months  who  will  travel  or  live  abroad  or  during  measles
+outbreaks  and  third  dose  of  MMR  in  persons  previously  vaccinated  with  2  doses  of  a
+mumps virus–containing vaccine who are identified by public health authorities as being
+part  of  a  group  or  population  at  increased  risk  for  acquiring  mumps  because  of  an
+outbreak.  Additionally,  measles  post-exposure  prophylaxis  for  PRIORIX.  †Methods  for
+assessing  potential  benefits  and  harms:  Data  on  the  outcomes  of  interest  were
+summarized  based  on  findings  from  a  systematic  review  of  the  literature  in  PubMed,
+Medline  (Ovid),  Embase,  Scopus,  Cochrane  databases,  and  clinicaltrials.gov  published
+from
+ January
+ 1,
+ 1980
+ through
+ May
+ 31,
+ 2022.
+ Search
+ terms
+ included
+(“Measles-Mumps-Rubella
+ Vaccine”and
+ (“Priorix”
+ or
+ “MMR
+ vaccine”
+ or
+(“GlaxoSmithKline*” or “GSK”) and “MMR*”) or “GSK-MMR” or “MMR-RIT” or “SB-MMR”)
+and  “Safe*”  or  “effective*”  or  “efficacy”  or  “immun*”  or  “interchangeab*”  or
+“inter-changeab*” or “adverse” or “M-M-R II” or “Merck” or “evidence*” or (“review” or
+“meta*”).  To  be  included  in  the  review,  a  study  had  to  present  immunogenicity  or
+disease endpoints or safety data on PRIORIX. Studies were included if they met all of
+the  following  criteria:  1)  Randomized  controls  trials  or  systematic  reviews  and
+meta-analyses, 2) vaccine administered to persons ≥6 months of age, 3) at least 1 dose
+of  MMR  (PRIORIX)  vaccine  as  the  intervention,  4)  at  least  1  dose  of  MMR  (M-M-R  II)
+vaccine  as  the  comparator,  and  5)  were  not  animal  studies.  SAEs  and  reactogenicity
+grade  ≥3  were  evaluated  only  in  studies  conducted  at  or  above  the  licensed  US
+potency of PRIORIX. Additional adverse events and immunogenicity were evaluated at
+any potency of PRIORIX. The search identified 918 studies of which 115 underwent full
+text review. Of those, 16 RCTs, two systematic reviews, and six studies with a different
+study design or comparator vaccine were included (FIGURE 1). §Serious adverse event
+is  defined  as  an  undesirable  experience  associated  with  the  vaccine  that  results  in
+death, hospitalization, disability or requires medical or surgical intervention to prevent
+a serious outcome. **Grade 3 intensity was defined as crying when the limb was moved
+or  the  limb  was  spontaneously  painful  (pain),  event  preventing  normal  activity
+(drowsiness), crying inconsolably or preventing normal activity (irritability), not eating
+at  all  (loss  of  appetite).  Note  that  these  are  percentage  of  total  complaints,  not
+individuals; one individual participant could report multiple complaints.
+Source URL: https://www.cdc.gov/vaccines/acip/recs/grade/mmr-PRIORIX-etr.html

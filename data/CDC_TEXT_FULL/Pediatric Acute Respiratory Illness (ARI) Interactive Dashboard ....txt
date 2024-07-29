@@ -1,0 +1,21 @@
+A .gov website belongs to an official government organization in the United States. A
+lock (  ) or https:// means you've safely connected to the .gov website. Share sensitive
+information  only  on  official,  secure  websites.  The  Pediatric  Acute  Respiratory  Illness
+(ARI)  Interactive  Dashboard  is  powered  by  data  provided  through  the  New  Vaccine
+Surveillance  Network  (NVSN).   NVSN  conducts  active  sentinel  surveillance  for  acute
+respiratory illnesses in children aged less than 18 years old. The dashboard tracks the
+following  respiratory  viruses  in  children:  Participants  are  enrolled  through  outpatient
+clinics, urgent care facilities, emergency departments, and hospitals at seven pediatric
+medical centers in the United States. Enrolled children are systematically tested for the
+respiratory  viruses  listed  above  by  reverse-transcription  polymerase  chain  reaction
+(RT-PCR) testing. The NVSN Pediatric ARI dashboard displays respiratory virus detection
+trends  at  surveillance  sites  and  may  differ  from  trends  in  other  parts  of  the  United
+States.  NVSN  ARI  data  are  preliminary  and  subject  to  change  as  more  data  become
+available.  Testing  results  for  recent  cases  are  subject  to  reporting  delays,  which  are
+noted  as  either  a  dashed  line  or  a  shaded  blue  box.  Reporting  delays  may  increase
+around  holidays  or  during  periods  of  increased  respiratory  illness.  As  new  data  are
+received  each  week,  data  from  previous  weeks  may  be  updated  to  include  delayed
+reports.  NVSN  is  CDC’s  multi-pathogen  surveillance  network  to  assess  pediatric  viral
+respiratory  and  gastrointestinal  infections  and  vaccine  impact  in  children.  Languages
+Language Assistance Languages  Language Assistance 
+Source URL: https://www.cdc.gov/nvsn/php/ari-dashboard/index.html

@@ -1,0 +1,59 @@
+A .gov website belongs to an official government organization in the United States. A
+lock (  ) or https:// means you've safely connected to the .gov website. Share sensitive
+information only on official, secure websites. Pregnant Healthcare Personnel from the
+Infection  Control  in  Healthcare  Personnel:  Epidemiology  and  Control  of  Selected
+Infections  Transmitted  Among  Healthcare  Personnel  and  Patients  (2024)  guideline.
+Recommendations For recommendations and additional information about counselling
+healthcare  personnel,  including  those  who  are  pregnant  or  intending  to  become
+pregnant,  please  see  Section  1,  Medical  Evaluations.  Pregnant  healthcare  personnel
+(HCP) are temporarily immunocompromised, and occupational acquisition of infections
+is of special concern to HCP of childbearing age and occupational health services (OHS)
+for  several  reasons.  In  general,  pregnant  HCP  do  not  have  an  increased  risk  for
+acquiring infections in the workplace, and pregnancy itself does not change HCP risk for
+exposure to infectious diseases; however, pregnancy may make persons at higher risk
+for  complications  of  some  diseases,  such  as  varicella  and  the  risk  for  developing
+pneumonia,  and  may  pose  risks  to  their  fetus,  such  as  development  of  congenital
+varicella syndrome.1 Pregnancy affects the safety of administering some recommended
+immunizations and may require OHS to wait until pregnancy is over for administration.
+Live  vaccines  administered  to  pregnant  HCP  pose  a  theoretical  risk  to  the  fetus;
+therefore,
+ live,
+ attenuated
+ virus
+ and
+ live
+ bacterial
+ vaccines
+ are
+ generally
+contraindicated during pregnancy. However, all inactivated viral and bacterial vaccines
+and  immunoglobulin  preparations  [e.g.,  Hepatitis  B  Immune  Globulin  (HBIV),  Varicella
+Zoster Immune Globulin (VARIZIG)] may be administered, if indicated, to pregnant HCP.
+Further,  Tetanus,  Diphtheria,  Pertussis  (Tdap);  inactivated  influenza;  and  COVID-19
+vaccines are specifically indicated for pregnant persons.2 Counseling of pregnant HCP
+and those planning to become pregnant is recommended as a part of providing episodic
+medical evaluations to HCP, and is paramount for safety in the workplace (see Section
+1,
+ Medical
+ Evaluations,
+https://www.cdc.gov/infection-control/hcp/healthcare-personnel-infrastructure-routine-p
+ractices/medical-evaluations.html).3  Such  counseling  typically  covers  the  risk  of
+transmission of diseases (e.g., CMV, hepatitis, herpes simplex, HIV, parvovirus, rubella,
+varicella) that, if acquired during pregnancy, may have adverse effects on the fetus, as
+well  as  recommended  infection  prevention  and  control  measures  to  prevent
+transmission. Routine exclusions from caring for patients with infections that have the
+potential to harm the fetus are not typically applied to HCP only on the basis of their
+pregnancy  or  intent  to  be  pregnant  because  recommended  precautions  protect  HCP
+from  transmission. However, work restrictions for pregnant HCP may be recommended
+by  public  health  authorities  for  some  novel  or  high  consequence  pathogens.  When
+pregnant HCP or those intending to become pregnant have an occupational exposure or
+occupational acquisition of an infectious disease, OHS will typically refer the individual
+to their obstetric provider so that recommended treatment, postexposure management,
+and  counseling  can  be  collaboratively  delivered.  Inclusion  of  an  individual’s  obstetric
+provider (e.g., obstetrician, family medicine provider, midwife) in their medical care is
+critical for their safety and health.  CDC provides information on infection control and
+clinical safety to help reduce the risk of infections among healthcare workers, patients,
+and visitors. Languages Language Assistance Languages  Language Assistance 
+Source
+ URL:
+https://www.cdc.gov/infection-control/hcp/healthcare-personnel-epidemiology-control/pregnant-hcp.html

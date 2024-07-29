@@ -1,0 +1,84 @@
+A .gov website belongs to an official government organization in the United States. A
+lock (  ) or https:// means you've safely connected to the .gov website. Share sensitive
+information only on official, secure websites. The appendix for Air guidelines from the
+Guidelines  for  Environmental  Infection  Control  in  Health-Care  Facilities  (2003).  *  This
+table is revised from Table S3-1 in reference 4 and has been adapted from the formula
+for the rate of purging airborne contaminants presented in reference 1435. + Denotes
+frequently cited ACH for patient-care areas. § Values were derived from the formula: t2
+– t1 = – [ln (C2 / C1) / (Q / V)] X 60, with t1 = 0 where ¶ Values apply to an empty room
+with no aerosol-generating source. With a person present and generating aerosol, this
+table would not apply. Other equations are available that include a constant generating
+source.  However,  certain  diseases  (e.g.,  infectious  tuberculosis)  are  not  likely  to  be
+aerosolized at a constant rate. The times given assume perfect mixing of the air within
+the  space  (i.e.,  mixing  factor  =  1).  However,  perfect  mixing  usually  does  not  occur.
+Removal  times  will  be  longer  in  rooms  or  areas  with  imperfect  mixing  or  air
+stagnation.213 Caution should be exercised in using this table in such situations. For
+booths  or  other  local  ventilation  enclosures,  manufacturers’  instructions  should  be
+consulted.  Air  sampling  is  an  insensitive  means  of  detecting  Legionella  pneumophila,
+and is of limited practical value in environmental sampling for this pathogen. In certain
+instances, however, it can be used to Methods used to sample air for legionellae include
+impingement  in  liquid,  impaction  on  solid  medium,  and  sedimentation  using  settle
+plates.1436 The Chemical Corps.-type all-glass impingers (AGI) with the stem 30 mm
+from  the  bottom  of  the  flask  have  been  used  successfully  to  sample  for
+legionellae.1436  Because  of  the  velocity  at  which  air  samples  are  collected,  clumps
+tend to become fragmented, leading to a more accurate count of bacteria present in
+the  air.  The  disadvantages  of  this  method  are  Yeast  extract  broth  (0.25%)  is  the
+recommended  liquid  medium  for  AGI  sampling  of  legionellae;1437  standard  methods
+for water samples can be used to culture these samples. Andersen samplers are viable
+particle  samplers  in  which  particles  pass  through  jet  orifices  of  decreasing  size  in
+cascade  fashion  until  they  impact  on  an  agar  surface.1218  The  agar  plates  are  then
+removed  and  incubated.  The  stage  distribution  of  the  legionellae  should  indicate  the
+extent  to  which  the  bacteria  would  have  penetrated  the  respiratory  system.  The
+advantages of this sampling method are Assuming that each colony on the agar plate is
+the growth from a single bacteria-carrying particle, the contamination of the air being
+sampled  is  determined  from  the  number  of  colonies  counted.  The  airborne
+microorganisms may be reported in terms of the number per cubic foot of air sampled.
+The following formulas can be applied to convert colony counts to organisms per cubic
+foot of air sampled.1218 For solid agar impactor samplers: C / (R H P) = N where N =
+number of organisms collected per cubic foot of air sampledC = total plate countR =
+airflow  rate  in  cubic  feet  per  minuteP  =  duration  of  sampling  period  in  minutes  For
+liquid impingers: (C H V) / (Q H P H R) = N where C = total number of colonies from all
+aliquots  platedV  =  final  volume  in  mL  of  collecting  mediaQ  =  total  number  of  mL
+platedP, R, and N are defined as above The following tables from the AIA Guidelines for
+Design and Construction of Hospitals and Health-Care Facilities, 2001 are reprinted with
+permission  of  the  American  Institute  of  Architects  and  the  publisher  (The  Facilities
+Guidelines  Institute).120  Note:  This  table  is  Table  7.2  in  the  AIA  guidelines,  2001
+edition.  Superscripts  used  in  this  table  refer  to  notes  following  the  table.  Notes:
+Appendix  I:  A7.  Recirculating  devices  with  HEPA  filters  may  have  potential  uses  in
+existing
+ facilities
+ as
+ interim,
+ supplemental
+ environmental
+ controls
+ to
+ meet
+requirements for the control of airborne infectious agents. Limitations in design must be
+recognized. The design of either portable or fixed systems should prevent stagnation
+and short circuiting of airflow. The supply and exhaust locations should direct clean air
+to areas where health-care workers are likely to work, across the infectious source, and
+then  to  the  exhaust,  so  that  the  healthcare  worker  is  not  in  position  between  the
+infectious  source  and  the  exhaust  location.  The  design  of  such  systems  should  also
+allow for easy access for scheduled preventative maintenance and cleaning. A11. The
+verification of airflow direction can include a simple visual method such as smoke trail,
+ball-in-tube,  or  flutterstrip.  These  devices  will  require  a  minimum  differential  air
+pressure to indicate airflow direction. Note: This table is Table 8.1 in the AIA guidelines,
+2001 edition. Superscripts used in this table refer to notes following the table. Notes:
+Note: This table is Table 7.3 in the AIA guidelines, 2001 edition. *Additional roughing or
+prefilters  should  be  considered  to  reduce  maintenance  required  for  filters  with
+efficiency higher than 75%. The filtration efficiency ratings are based on average dust
+sopt  efficiency  per  ASHRAE  52.1–1992.  Note:  This  table  is  Table  9.1  in  the  AIA
+guidelines,  2001  edition.  *  Additional  roughing  or  prefilters  should  be  considered  to
+reduce maintenance required for main filters. The filtration efficiency ratings are based
+on dust spot efficiency per ASHRAE 52.1–1992. + These requirements do not apply to
+small  primary  (e.g.,  neighborhood)  outpatient  facilities  or  outpatient  facilities  that  do
+not perform invasive applications or procedures. Note: This table is Table 8.2 in the AIA
+guidelines,  2001  edition.  *The  filtration  efficiency  ratings  are  based  on  average  dust
+spot  efficiency  as  per  ASHRAE  52.1–1992.  Note:  This  table  is  Table  11.1  in  the  AIA
+guidelines, 2001 edition. * The filtration efficiency ratings are based on average dust
+spot efficiency as per ASHRAE 52.1–1992. CDC provides information on infection control
+and  clinical  safety  to  help  reduce  the  risk  of  infections  among  healthcare  workers,
+patients,  and  visitors.  Languages  Language  Assistance  Languages   Language
+Assistance 
+Source URL: https://www.cdc.gov/infection-control/hcp/environmental-control/appendix-b-air.html

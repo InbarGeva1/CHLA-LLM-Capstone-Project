@@ -1,0 +1,138 @@
+  Sarah Schillie, MD1; Trudy V. Murphy, MD1; Nancy Fenlon2; Stephen Ko, MD3; John W.
+Ward,  MD1   Infants  born  to  hepatitis  B-infected  mothers  receive  postexposure
+prophylaxis  to  reduce  their  risk  for  perinatal  hepatitis  B  virus  (HBV)  infection  (1).
+Postexposure  prophylaxis  consists  of  hepatitis  B  (HepB)  vaccine  and  hepatitis  B
+immune globulin administered within 12 hours of birth, followed by completion of the
+3-dose  or  4-dose  HepB  vaccine  series  (1).  Postvaccination  serologic  testing  (PVST)
+assesses  an  infant's  response  to  HepB  vaccination  and  has  typically  occurred  at  age
+9–18  months  (1).  This  report  provides  a  CDC  update  recommending  shortening  the
+interval  for  PVST  from  age  9–18  months  to  age  9–12  months.  Providers  should  order
+PVST  (consisting  of  hepatitis  B  surface  antigen  [HBsAg]  and  antibody  to  HBsAg
+[anti-HBs])  for  infants  born  to  HBsAg-positive  mothers  at  age  9–12  months  (or  1–2
+months  after  the  final  dose  of  the  vaccine  series,  if  the  series  is  delayed).  This
+recommendation  was  prompted  by  the  discontinuation  of  production  of  Hib/HepB
+vaccine  (Comvax)  and  new  data  from  the  Enhanced  Perinatal  Hepatitis  B  Prevention
+Program supporting PVST 1–2 months after receipt of the last HepB vaccine dose, and
+at  age  ≥9  months.  An  estimated  25,000  infants  are  born  to  HBsAg-positive  mothers
+each year in the United States (2). Perinatal HBV infection, acquired in utero or during
+delivery, results in chronic HBV infection in 90% of infected infants (1). Approximately
+25% of infants with HBV infection acquired perinatally will die prematurely as a result of
+complications  of  cirrhosis  or  liver  cancer  (1).  Before  the  widespread  availability  of
+postexposure  prophylaxis,  up  to  90%  of  infants  born  to  HBsAg-positive  mothers
+developed HBV infection (1). Postexposure prophylaxis is highly effective in preventing
+perinatal HBV transmission. In recent years in the United States, approximately 1% of
+infants receiving postexposure prophylaxis develop infection (3). PVST consists of two
+tests: measurement of HBsAg and anti-HBs (1). Infants born to HBsAg-positive mothers
+who  are  HBsAg  negative  with  anti-HBs  levels  ≥10  mIU/mL  after  having  received  a
+complete,  3-dose  or  4-dose  HepB  vaccine  series  are  identified  as  vaccine  responders
+and  considered  seroprotected  (4,5).  Infants  who  are  HBsAg  negative  with  anti-HBs
+levels  <10  mIU/mL  require  revaccination  with  a  second  3-dose  HepB  vaccine  series,
+followed  by  retesting  for  anti-HBs  1–2  months  after  the  final  vaccine  dose  (4).  
+Postvaccination  seroprotection  is  achieved  in  98%  of  healthy  full-term  infants  who
+received  a  3-dose  or  4-dose  HepB  vaccine  series,  although  it  is  lower  among  infants
+with birthweights <4.4 lbs (<2,000 g) (5). Vaccine efficacy studies have demonstrated
+protection against acute and chronic hepatitis B disease in immunocompetent vaccine
+responders  (6).  Anti-HBs  levels  following  vaccination  decline  over  time  (6).
+Immunocompetent  persons  who  achieve  an  anti-HBs  level  ≥10  mIU/mL  1–2  months
+after a complete HepB series remain protected, even if anti-HBs levels decline to <10
+mIU/mL  beyond  that  time,  presumably  because  of  persistent  cellular  immunity  (7).
+HepB  vaccine  doses  subsequent  to  the  monovalent  HepB  vaccine  birth  dose  are
+administered  as  either  monovalent  or  combination  vaccine  (1).  Before  December  31,
+2014,  two  combination  vaccines  containing  recombinant  HBsAg  were  available  in  the
+United States for infants aged ≥6 weeks: 1) Hib/HepB vaccine (Comvax, Merck and Co,
+Inc.)  and  2)  DTaP-HepB-IPV  vaccine  (Pediarix,  GlaxoSmithKline  Biologicals)  (1).
+Hib/HepB  vaccine  (Comvax)  production  has  been  discontinued.  For  infants  born  to
+HBsAg-positive  mothers,  the  final  dose  of  the  HepB  vaccine  series  is  administered  at
+age  6  months  when  monovalent  or  DTaP-HepB-IPV  vaccine  (Pediarix)  is  used  to
+complete the series (1). When Hib/HepB vaccine (Comvax) was used to complete the
+series, the final dose was administered at age 12–15 months (1).  The optimal timing for
+PVST to detect a vaccine response generally is 1–2 months after the final dose of the
+HepB vaccine series (1). Results of tests for HBsAg can be transiently positive for 1–18
+days after vaccination. PVST should be performed no earlier than age 9 months to avoid
+detection  of  passive  anti-HBs  from  hepatitis  B  immune  globulin  administered  at  birth
+and to maximize the likelihood of detecting late HBV infection (1).  In developing this
+update  to  shorten  the  interval  for  PVST  to  age  9–12  months,  CDC  subject  matter
+experts reviewed the shortened interval with professionals from academia and public
+health and considered existing (8) and new data (9) on anti-HBs levels among infants
+born  to  HBsAg-positive  mothers.  Among  348  infants  born  to  HBsAg-positive  mothers
+enrolled in the Enhanced Surveillance: Perinatal Hepatitis B Program in Dallas County,
+Texas,  PVST  performed  at  4–7  months  and  8–11  months  after  the  final  vaccine  dose
+was associated with lower anti-HBs levels (odds ratios = 1.8 and 4.4, respectively; 95%
+confidence intervals = 1.2–2.8 and 1.3–14.5, respectively), when compared with PVST
+1–3  months  after  vaccination  (8).  In  a  study  analyzing  data  collected  from  8,105
+HBsAg-negative  infants  born  to  HBsAg-positive  mothers  enrolled  in  the  Enhanced
+Perinatal Hepatitis B Prevention Program in five U.S. jurisdictions during 2008–2013, the
+percentages of tested infants with anti-HBs levels <10 mIU/mL at ages 1–2 months, 3–4
+months,  5–6  months,  7–8  months,  9–10  months,  11–12  months,  13–14  months  and
+15–16  months  after  the  final  HepB  vaccine  dose  were  2%  (31  of  1573),  2.8%  (86  of
+3,110),  5.1%  (91  of  1,769),  7.8%  (55  of  705),  9.3%  (43  of  463),  13.3%  (32  of  240),
+16.3%  (21  of  129)  and  21.6%  (25  of  116),  respectively  (p<0.01,  Mantel-Haenszel
+chi-square)  (Figure)  (9).  Nearly  one  fourth  (22.3%)  of  infants  underwent  PVST  >6
+months  after  the  final  vaccine  dose  (9).  For  most  infants  born  to  HBsAg-positive
+mothers, PVST at age 9–12 months provides opportunities for testing at two well-child
+visits (i.e., 9-month and 12-month visits). An added benefit of a shortened interval to
+PVST  is  a  reduction  in  the  period  during  which  nonresponders  are  at  risk  for
+transmission  from  close  contacts  with  HBV  infection.  Earlier  PVST  enables  prompt
+revaccination  of  those  infants  needing  revaccination  with  a  second  3-dose  HepB
+vaccine  series  to  attain  protective  anti-HBs  levels.  A  shortened  interval  might  also
+increase adherence with recommendations for timely completion of PVST and conserve
+public health resources involved in providing case management services (1). In light of
+the  lower  measured  anti-HBs  levels  (but  continued  protection)  with  increasing  time
+following vaccination, PVST occurring at increasing intervals after the final vaccine dose
+could result in misclassification of some infants as vaccine nonresponders and therefore
+lead to unnecessary revaccination (9). Because nonresponding infants receive a second
+3-dose  HepB  vaccine  series  followed  by  retesting  of  anti-HBs,  testing  soon  after
+completion of the initial vaccine series reduces the possibility for misclassification and
+unnecessary  revaccination  (9).  The  PVST  interval  after  the  final  dose  in  the  primary
+HepB  series  no  longer  needs  to  extend  to  18  months  to  accommodate  infants
+completing their vaccination series with Hib/HepB vaccine (Comvax). Although no data
+are available, CDC subject matter experts postulate that harm will not occur as a result
+of a shortened PVST interval. PVST (consisting of HBsAg and anti-HBs) for infants born
+to  HBsAg-positive  mothers  should  be  performed  at  age  9–12  months,  or  1–2  months
+after the final dose of the HepB vaccine series if completion of the series is delayed. 
+1Division of Viral Hepatitis, National Center for HIV/AIDS, Viral Hepatitis, STD, and TB
+Prevention,  CDC;  2Immunization  Services  Division,  National  Center  for  Immunization
+and Respiratory Diseases, CDC; 3Boston University School of Public Health and School
+of  Medicine,  Massachusetts.  Corresponding  author:  Sarah  Schillie,  sschillie@cdc.gov,
+404-718-8608. Summary What recommendations are being reviewed? Postvaccination
+serologic testing (PVST) is recommended for infants born to hepatitis B surface antigen
+(HBsAg)-positive mothers at age 9–18 months. PVST consists of testing for HBsAg and
+antibody to HBsAg (anti-HBs). Why are the recommendations being reviewed now? With
+the  discontinuation  of  Hib/HepB  vaccine  (Comvax),  the  hepatitis  B  vaccine  series  for
+infants  born  to  HBsAg-positive  mothers  will  usually  be  completed  at  age  6  months,
+allowing PVST at age 9–12 months. New data from the Enhanced Perinatal Hepatitis B
+Prevention  Program  are  available  that  show  that  lower  detectable  levels  of  anti-HBs
+were associated with increased intervals between receipt of the last vaccine dose and
+PVST.  What is the new recommendation? Considering the lower levels of anti-HBs with
+increasing  time  since  completing  vaccination  and  the  extent  of  unnecessary
+revaccination, PVST, consisting of testing for HBsAg and anti-HBs, should be ordered at
+age 9–12 months (or 1–2 months after the final dose of the vaccine series, if delayed)
+for infants born to HBsAg-positive mothers. FIGURE. Proportion of infants with anti-HBs
+≥10  mIU/mL  with  increasing  interval  from  final  vaccine  dose*  Source:  Reprinted  with
+permission  of  publisher  from:  Ko  SC,  Schillie  SF,  Walker  T,  et  al.  Hepatitis  B  vaccine
+response  among  infants  born  to  hepatitis  B  surface  antigen-positive  women.  Vaccine
+2014;32:2127–33.   *p<0.01,  Mantel-Haenszel  chi  square.  Alternate  Text:  The  figure
+above is a bar chart showing the proportion of infants with anti-HBs ≥10 mIU/mL with
+increasing interval from final vaccine dose.
+                 Use of trade names and commercial sources is for identification only and
+does not imply endorsement by the U.S. Department of 
+Health and Human Services. References to non-CDC sites on the Internet are 
+provided as a service to MMWR readers and do not constitute or imply 
+endorsement of these organizations or their programs by CDC or the U.S. 
+Department of Health and Human Services. CDC is not responsible for the content 
+of pages found at these sites. URL addresses listed in MMWR were current as of 
+the date of publication. All MMWR HTML versions of articles are electronic conversions
+from typeset documents. 
+This  conversion  might  result  in  character  translation  or  format  errors  in  the  HTML
+version. 
+Users are referred to the electronic PDF version (http://www.cdc.gov/mmwr) 
+and/or the original MMWR paper copy for printable versions of official text, figures, and
+tables. 
+An  original  paper  copy  of  this  issue  can  be  obtained  from  the  Superintendent  of
+Documents, U.S. 
+Government Printing Office (GPO), Washington, DC 20402-9371; 
+telephone: (202) 512-1800. Contact GPO for current prices.
+**Questions or messages regarding errors in formatting should be addressed to 
+mmwrq@cdc.gov. How do I view different file formats (PDF, DOC, PPT, MPEG) on this
+site? 
+Source URL: https://www.cdc.gov/mmwr/preview/mmwrhtml/mm6439a6.htm

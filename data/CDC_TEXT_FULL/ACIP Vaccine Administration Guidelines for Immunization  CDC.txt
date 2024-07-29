@@ -1,0 +1,363 @@
+Official websites use .gov A .gov website belongs to an official government organization
+in  the  United  States.  Secure  .gov  websites  use  HTTPS  A  lock  (   )  or  https://  means
+you've  safely  connected  to  the  .gov  website.  Share  sensitive  information  only  on
+official,  secure  websites.  General  Best  Practice  Guidelines  for  Immunization  Printer
+friendly  version  [26  pages]  Persons  administering  vaccinations  should  follow
+appropriate  precautions  to  minimize  risk  for  disease  exposure  and  spread.  Hands
+should be cleansed with an alcohol-based waterless antiseptic hand rub or washed with
+soap and water before preparing vaccines for administration and between each patient
+contact (1). Occupational Safety and Health Administration (OSHA) regulations do not
+require  gloves  to  be  worn  when  administering  vaccinations,  unless  persons
+administering vaccinations have open lesions on their hands or are likely to come into
+contact  with  a  patient’s  body  fluids  (2).  If  worn,  gloves  should  be  changed  between
+patients. Vaccines should be drawn up in a designated clean medication area that is not
+adjacent to areas where potentially contaminated items are placed. Multi-dose vials to
+be  used  for  more  than  one  patient  should  not  be  kept  or  accessed  in  the  immediate
+patient treatment area. This is to prevent inadvertent contamination of the vial through
+direct  or  indirect  contact  with  potentially  contaminated  surfaces  or  equipment  that
+could then lead to infections in subsequent patients (3).  Smallpox vaccine is accessed
+by dipping a bifurcated needle directly into the vaccine vial. The vaccine adheres to the
+sides of the bifurcated needle, and is administered via skin puncture. The vial must be
+accessed  in  the  immediate  patient  area  to  reduce  environmental  contamination  by
+vaccine virus. To prevent contamination of the vial, make sure the patient area is clean
+and  free  of  potentially  contaminated  equipment.  Different  single-components  of
+combination vaccines should never be mixed in the same syringe by an end-user unless
+specifically licensed for such use (4). Single-dose vials and manufacturer-filled syringes
+are  designed  for  single-dose  administration  and  should  be  discarded  if  vaccine  has
+been  withdrawn  or  reconstituted  and  subsequently  not  used  within  the  time  frame
+specified  by  the  manufacturer.  Syringes  that  are  prefilled  by  the  manufacturer  and
+activated  (i.e.,  syringe  cap  removed  or  needle  attached)  but  unused  should  be
+discarded  at  the  end  of  the  clinic  day.  For  non-live  vaccines,  manufacturers  typically
+recommend use within the same day that a vaccine is withdrawn or reconstituted. For
+live  vaccines  that  require  reconstitution,  manufacturers  typically  recommend  the
+vaccine be used as soon as possible after reconstitution and be discarded if not used
+within  30  minutes  after  reconstitution.  For  example,  varicella  vaccine  should  be
+discarded  if  not  used  within  30  minutes  after  reconstitution,  whereas  MMR  vaccine,
+once  reconstituted,  must  be  kept  in  a  dark  place  at  36°F  to  46°F  (2°C  to  8°C)  and
+should be discarded within 8 hours if not used. When in doubt about the appropriate
+handling
+ of
+ a
+ vaccine,
+ vaccination
+ providers
+ should
+ contact
+ that
+ vaccine’s
+manufacturer. ACIP discourages the routine practice of providers’ prefilling syringes for
+several  reasons.  Because  the  majority  of  vaccines  have  a  similar  appearance  after
+being  drawn  into  a  syringe,  prefilling  might  result  in  administration  errors.  Because
+unused prefilled syringes also typically must be discarded if not used within the same
+day  that  they  are  filled,  vaccine  wastage  might  occur.  The  FDA  does  not  license
+administration syringes for vaccine storage. In certain circumstances in which a single
+vaccine type is being used (e.g., in preparation for a community influenza vaccination
+campaign), filling a small number (10 or fewer) of syringes may be considered (5). The
+doses should be administered as soon as possible after filling, by the same person who
+filled  the  syringes.  Unused  syringes  that  are  prefilled  by  the  manufacturer  and
+activated (i.e., syringe cap removed or needle attached) should be discarded at the end
+of the clinic day. Vaccine from two or more vials should never be combined to make
+one  or  more  doses.  This  can  lead  to  violation  of  expiration  dates  and  product
+contamination  (6,7).  Providers  are  sometimes  concerned  when  they  have  the  same
+contraindications  or  precautions  as  their  patients  from  whom  they  withhold  or  defer
+vaccine. For administration of routinely recommended vaccines, there is no evidence of
+risk of exposure of vaccine components to the health care provider, so conditions in the
+provider labeled as contraindications and precautions to a vaccine components are not
+a reason to withdraw from this function of administering the vaccine to someone else.
+Historic concerns about exposure to vaccine components are limited to non-parenteral
+vaccines  in  which  some  degree  of  environmental  exposure  is  unavoidable  (5,  8),  or
+situations  in  which  self-inoculation  is  likely  due  to  the  nature  of  the  vaccine  microbe
+[e.g. reduced attenuation of smallpox vaccine virus (9)]. Persons administering ACAM
+2000 smallpox vaccine to laboratory and health care personnel at risk for occupational
+exposure  to  orthopoxviruses  can  decrease  the  risk  for  inadvertent  infection  through
+recommended  infection  prevention  measures.  However,  because  of  a  theoretical  risk
+for  infection,  vaccination  with  ACAM2000  can  be  offered  to  health  care  personnel
+administering
+ this
+ vaccine,
+ provided
+ individual
+ persons
+ have
+ no
+ specified
+contraindications to vaccination (10). Needles and syringes used for vaccine injections
+must be sterile and disposable. A separate needle and syringe should be used for each
+injection. Changing needles between drawing vaccine from a vial and injecting it into a
+recipient is not necessary unless the needle has been damaged or contaminated (11).
+Bloodborne  diseases  (e.g.,  hepatitis  B,  hepatitis  C,  human  immunodeficiency  virus
+[HIV])  are  occupational  hazards  for  clinicians  and  other  health-care  providers.  The
+Needlestick Safety and Prevention Act (2) was enacted in 2000 to reduce the incidence
+of  needlestick  injury  and  the  consequent  risk  for  bloodborne  diseases  acquired  from
+patients.  The  act  directed  OSHA  to  strengthen  its  existing  bloodborne  pathogen
+standards.  The  revised  standards  became  effective  in  2001  (2).  These  federal
+regulations  require  the  use  of  engineering  and  work  practice  controls  to  eliminate  or
+minimize  employee  exposure  to  bloodborne  pathogens.  Engineering  controls  means
+controls (e.g., sharps disposal containers, self-sheathing needles, safer medical devices,
+such as sharps with engineered sharps injury protections and needleless systems) that
+isolate
+ or
+ remove
+ the
+ bloodborne
+ pathogens
+ hazard
+ from
+ the
+ workplace).
+Needle-shielding  or  needle-free  devices  that  might  satisfy  the  occupational  safety
+regulations  for  administering  injectable  vaccines  are  available  in  the  United  States
+(12-13).  The  regulations  also  require  maintenance  of  records  documenting  injuries
+caused by needles and other medical sharp objects and that nonmanagerial employees
+be  involved  in  the  evaluation  and  selection  of  safety-engineered  devices  before  they
+are  procured.  Additional  information  about  implementation  and  enforcement  of  these
+regulations is available from OSHA. To prevent inadvertent needlestick injury or reuse,
+safety mechanisms should be deployed after use and needles and syringes should be
+discarded immediately in labeled, puncture-proof containers located in the same room
+where  the  vaccine  is  administered  (5).  Used  needles  should  never  be  recapped.   
+Routes
+ of
+ administration
+ are
+ recommended
+ by
+ the
+ manufacturer
+ for
+ each
+immunobiologic  (Table  6-1).  With  the  exceptions  of  bacille  Calmette-Guérin  (BCG)
+vaccine  and  smallpox  vaccine  [ACAM2000]  (both  administered  by  the  percutaneous
+route),  injectable  vaccines  are  administered  by  the  intramuscular  or  subcutaneous
+route.  The  smallpox/monkeypox  vaccine  (Jynneos)  is  primarily  administered  by  the
+subcutaneous  route  but  in  some  circumstances  is  administered  by  the  intradermal
+route. Deviation from the recommended route of administration might reduce vaccine
+efficacy (14-15) or increase the risk for local adverse reactions (16-18). The method of
+administration  of  injectable  vaccines  is  determined,  in  part,  by  the  inclusion  of
+adjuvants  in  some  vaccines.  An  adjuvant  is  a  vaccine  component  distinct  from  the
+antigen  that  enhances  the  immune  response  to  the  antigen,  but  might  also  increase
+risk  of  adverse  reactions.  To  decrease  risk  of  local  adverse  events,  non-live  vaccines
+containing  an  adjuvant  should  be  injected  into  a  muscle.  Administering  a  vaccine
+containing an adjuvant either subcutaneously or intradermally can cause local irritation,
+induration,  skin  discoloration,  inflammation,  and  granuloma  formation.  Injectable
+immunobiologics should be administered where local, neural, vascular, or tissue injury
+is unlikely. Use of longer needles has been associated with less redness or swelling than
+occurs  with  shorter  needles  because  of  injection  into  deeper  muscle  mass  (16).
+Appropriate needle length depends on age and body mass. Injection technique is the
+most  important  parameter  to  ensure  efficient  intramuscular  vaccine  delivery.  For  all
+intramuscular injections, the needle should be long enough to reach the muscle mass
+and  prevent  vaccine  from  seeping  into  subcutaneous  tissue,  but  not  so  long  as  to
+involve  underlying  nerves,  blood  vessels,  or  bone  (15,19-22).  Vaccinators  should  be
+familiar  with  the  anatomy  of  the  area  into  which  they  are  injecting  vaccine.
+Intramuscular injections are administered at a 90-degree angle to the skin, preferably
+into  the  anterolateral  aspect  of  the  thigh  or  the  deltoid  muscle  of  the  upper  arm,
+depending on the age of the patient (Table 6-2). The needle gauge for intramuscular
+injection is 22-25 gauge. A decision on needle length and site of injection must be made
+for each person on the basis of the size of the muscle, the thickness of adipose tissue at
+the injection site, the volume of the material to be administered, injection technique,
+and the depth below the muscle surface into which the material is to be injected (Figure
+1).  Some  experts  allow  intramuscular  injection  with  a  ⅝-inch  needle  but  ONLY  if  the
+skin  is  stretched  flat  (21).  If  the  subcutaneous  and  muscle  tissue  are  bunched  to
+minimize  the  chance  of  striking  bone  (19),  a  1-inch  needle  or  larger  is  required  to
+ensure intramuscular administration. Aspiration before injection of vaccines or toxoids
+(i.e., pulling back on the syringe plunger after needle insertion but before injection) is
+not  necessary  because  no  large  blood  vessels  are  present  at  the  recommended
+injection sites, and a process that includes aspiration might be more painful for infants
+(22).  For  the  majority  of  infants,  the  anterolateral  aspect  of  the  thigh  is  the
+recommended site for injection because it provides comparatively larger muscle mass
+than the deltoid (Figure 2) (23). In certain circumstances (e.g., physical obstruction to
+other  sites  and  no  reasonable  indication  to  defer  doses),  the  gluteal  muscle  can  be
+used. If the gluteal muscle must be used, care should be taken to define the anatomic
+landmarks.(a) For the majority of infants, a 1-inch needle is sufficient to penetrate the
+thigh muscle. For toddlers, the anterolateral thigh muscle is preferred, and when this
+site is used, the needle should be at least 1 inch long. The deltoid muscle can be used if
+the muscle mass is adequate. If 2 vaccines are to be administered in a single limb, they
+should  be  spaced  an  inch  apart  (4,  24).  The  deltoid  muscle  is  preferred  for  children
+aged 3-10 years (25); the needle length for deltoid site injections can range from ⅝ to 1
+inch  on  the  basis  of  technique.  The  anterolateral  thigh  can  also  be  used  (25).  In  this
+case the needle length should be 1 inch to 1.25 inches. Knowledge of body mass can be
+useful for estimating the appropriate needle length (26). The deltoid muscle is preferred
+for  adolescents  11-18  years  of  age.  The  anterolateral  thigh  can  also  be  used.  For
+injection into the anterolateral thigh, most adolescents will require a 1-1.5-inch needle
+to  ensure  intramuscular  administration  (27).  For  adults,  the  deltoid  muscle  is
+recommended for routine intramuscular vaccinations (23) (Figure 3). The anterolateral
+thigh  also  can  be  used.  When  injecting  into  the  deltoid  muscle,  for  adults  a
+measurement of body mass/weight is allowable prior to vaccination, understanding that
+resources  to  measure  body  mass/weight  are  not  available  in  all  clinical  settings.  For
+men and women who weigh <130 lbs (<60 kg), a ⅝-inch needle is sufficient to ensure
+intramuscular  injection  in  the  deltoid  muscle  if  the  injection  is  made  at  a  90-degree
+angle  and  the  tissue  is  not  bunched.  For  men  and  women  who  weigh  130-152  lbs
+(60-70 kg), a 1-inch needle is sufficient. For women who weigh 152-200 lbs (70-90 kg)
+and men who weigh 152-260 lbs (70-118 kg), a 1- to 1.5-inch needle is recommended.
+For  women  who  weigh  >200  lbs  (>90  kg)  or  men  who  weigh  >260  lbs  (>118  kg),  a
+1.5-inch  needle  is  recommended  (table  6-2)  (20).  For  injection  into  the  anterolateral
+thigh muscle, a 1.5-inch needle should be used, although a 1-inch needle may be used
+if the skin is stretched tightly and subcutaneous tissues are not bunched. Subcutaneous
+injections are administered at a 45-degree angle, usually into the thigh for infants aged
+<12  months  and  in  the  upper-outer  triceps  area  of  persons  aged  ≥12  months.
+Subcutaneous injections may be administered into the upper-outer triceps area of an
+infant  if  necessary.  A  ⅝-inch,  23-  to  25-gauge  needle  should  be  inserted  into  the
+subcutaneous tissue (Figures 4 and 5) (4). Rotavirus, adenovirus, cholera vaccine, and
+oral  typhoid  vaccines  are  the  only  vaccines  administered  orally  in  the  United  States.
+Oral  typhoid  capsules  should  be  administered  as  directed  by  the  manufacturer.  The
+capsules should not be opened or mixed with any other substance. Rotavirus vaccines
+are licensed for infants. There are 2 brands of rotavirus vaccine, and they have different
+types  of  applicators.  Providers  should  consult  package  inserts  for  details.  Live
+attenuated influenza vaccine is approved for healthy nonpregnant persons aged 2-49
+years and is the only vaccine administered by the intranasal route. The administration
+device is a nasal sprayer with a dose-divider clip that allows introduction of one 0.1-mL
+spray  into  each  naris.  The  tip  should  be  inserted  slightly  into  the  naris  before
+administration. Even if the person coughs or sneezes immediately after administration
+or  the  dose  is  expelled  any  other  way,  the  vaccine  dose  need  not  be  repeated  (5).
+Severely  immunosuppressed  persons  (i.e.,  those  who  require  care  in  a  protected
+environment, e.g., bone marrow transplant recipients, individuals with severe combined
+immunodeficiency  diseases)  should  not  administer  LAIV.  It  would  be  uncommon  for
+persons with these conditions to be in a role administering vaccines. Other persons at
+increased risk for influenza complications can administer LAIV. These include persons
+with underlying medical conditions placing them at higher risk or who are likely to be at
+risk, including pregnant women, persons with asthma, and persons aged ≥50 years (2).
+If multiple vaccines are administered at a single visit, administer each preparation at a
+different  anatomic  site  (28).  The  location  of  all  injection  sites  with  the  corresponding
+vaccine injected should be documented in each patient’s medical record. Health-care
+practices should consider using a vaccination site map so that all persons administering
+vaccines routinely use a particular anatomic site for each particular vaccine. For infants
+and younger children, if more than 2 vaccines are injected in a single limb, the thigh is
+the  preferred  site  because  of  the  greater  muscle  mass;  the  injections  should  be
+sufficiently  separated  (separate  anatomic  sites  [i.e.  ≥1  inch]  if  possible)  so  that  any
+local reactions can be differentiated (13,29). For older children and adults, the deltoid
+muscle  can  be  used  for  more  than  one  intramuscular  injection.  If  a  vaccine  and  an
+immune  globulin  preparation  are  administered  simultaneously  (e.g.,  Td/Tdap  and
+tetanus  immune  globulin  [TIG],  hepatitis  B  and  hepatitis  B  immunoglobulin  [HBIG]),
+separate limbs should be used for each injection (29-30). Jet injectors are needle-free
+devices  that  pressurize  liquid  medication,  forcing  it  through  a  nozzle  orifice  into  a
+narrow stream capable of penetrating skin to deliver a drug or vaccine into intradermal,
+subcutaneous,  or  intramuscular  tissues  (32-33).  Immune  responses  generated  by  jet
+injectors against both attenuated and non-live viral and bacterial antigens are usually
+equivalent  to,  and  occasionally  greater  than,  immune  responses  induced  by  needle
+injection.  However,  local  reactions  or  injuries  (e.g.,  skin  laceration,  transient
+neuropathy,  hematoma)  are  sometimes  more  frequent  on  delivery  of  vaccine  by  jet
+injectors compared with needle injection, depending on the inherent irritability of the
+vaccine and operator technique (33). Multiple use jet injectors using the same nozzle
+for  consecutive  injections  without  intervening  sterilization  were  used  in  mass
+vaccination  campaigns  from  the  1950s  through  the  1990s  (33);  however,  these  were
+found  to  be  unsafe  because  of  the  possibility  of  bloodborne  pathogen  transmission
+(34-37)  and  should  not  be  used.  A  new  generation  of  jet  injectors  with  disposable
+cartridges and syringes has been developed since the 1990s. With a new, sterile dose
+chamber and nozzle for each patient and correct use, these devices do not have the
+same safety concerns as multiple-use nozzle jet injectors. Several of the newer devices
+have  been  approved  by  FDA  for  use  with  specific  vaccines  (33).  Jet  injectors  prevent
+needlestick injuries to health-care providers (2) and can overcome improper, unsterile
+reuse and other drawbacks of needles and syringes in developing countries (9, 38-39).
+Top of Page Comfort measures, such as distraction (e.g., playing music or pretending to
+blow  away  the  pain),  cooling  of  the  injection  site(s),  topical  analgesia,  ingestion  of
+sweet liquids, breastfeeding, swaddling, and slow, lateral swaying can help infants or
+children  cope  with  the  discomfort  associated  with  vaccination  (40-42).  Pretreatment
+(30-60 minutes before injection) with a 5% topical lidocaine-prilocaine emulsion might
+decrease  the  pain  of  vaccination  by  causing  superficial  anesthesia  (43-44).  Evidence
+indicates  that  this  cream  does  not  interfere  with  the  immune  response  to  MMR  (45).
+There  is  no  evidence  the  cream  interferes  with  other  vaccines  (46-49).  Topical
+lidocaine-prilocaine emulsion should not be used on infants aged <12 months who are
+receiving  treatment  with  methemoglobin-inducing  agents  (e.g.,  acetaminophen,  amyl
+nitrate,
+ nitroprusside,
+ dapsone)
+ because
+ of
+ the
+ possible
+ development
+ of
+methemoglobinemia (50). Use of a topical refrigerant (vapocoolant) spray immediately
+before vaccination can reduce the short-term pain associated with injections and can be
+as  effective  as  lidocaine-prilocaine  cream  (51).  Evidence  does  not  support  use  of
+antipyretics  before  or  at  the  time  of  vaccination;  however,  they  can  be  used  for  the
+treatment of fever and local discomfort that might occur following vaccination. Studies
+of  children  with  previous  febrile  seizures  have  not  demonstrated  antipyretics  to  be
+effective in the prevention of febrile seizures (48). Top of Page Best practice guidance
+for route, site, and dosage of immunobiologics is derived from data from clinical trials,
+practical  experience,  normal  intervals  of  health  care  visits,  and  theoretical
+considerations. ACIP discourages variations from the recommended route, site, volume,
+or number of doses of any vaccine. Variation from the recommended route and site can
+result in inadequate protection. In adults (but not in infants) (52), the immunogenicity
+of hepatitis B is substantially lower when the gluteal rather than the deltoid site is used
+for  administration  (8).  Hepatitis  B  administered  intradermally  might  result  in  a  lower
+seroconversion  rate  and  final  titer  of  hepatitis  B  surface  antibody  than  when
+administered  by  the  deltoid  intramuscular  route  (53-54).  Hepatitis  B  administered  by
+any route other than intramuscular, or in adults at any site other than the deltoid or
+anterolateral  thigh,  should  not  be  counted  as  valid  and  should  be  repeated  (9).
+Similarly, doses of rabies vaccine administered in the gluteal site should not be counted
+as  valid  doses  and  should  be  repeated  (54).  Hepatitis  A  vaccine  and  meningococcal
+conjugate  vaccine  do  not  need  to  be  repeated  if  administered  by  the  subcutaneous
+route  (55-56).  However,  for  DTaP,  Hib,  and  PCV13,  there  is  no  evidence  related  to
+immunogenicity  of  these  3  vaccines  given  subcutaneously.  Providers  should  address
+circumstances  in  which  dose(s)  of  these  vaccines  have  been  administered
+subcutaneously on a case-by-case basis. Inactivated influenza vaccine is immunogenic
+when administered in a lower-than-standard dose by the intradermal route to healthy
+adult  volunteers.  Intradermal  injection  produced  antibody  responses  similar  to
+intramuscular
+ injection
+ in
+ vaccinees
+ aged
+ 18-60
+ years
+ (57).
+ However,
+ the
+immunogenicity  for  persons  aged  ≥65  years  is  inadequate,  and  varying  the
+recommended route and dose either with the intradermal product licensed through 64
+years  of  age  or  with  other  influenza  vaccines  is  not  recommended  (24).  Live,
+attenuated injectable vaccines (e.g., MMR, varicella, yellow fever) and certain non-live
+vaccines (e.g., meningococcal polysaccharide) are recommended by the manufacturers
+to be administered by subcutaneous injection. PPSV23and IPV are recommended by the
+manufacturer  to  be  administered  by  the  subcutaneous  or  intramuscular  route.
+Response  to  vaccines  recommended  by  the  subcutaneous  route  is  unlikely  to  be
+affected  if  the  vaccines  are  administered  by  the  intramuscular  rather  than
+subcutaneous  route.  Repeating  doses  of  vaccine  administered  by  the  intramuscular
+route  when  recommended  to  be  by  the  subcutaneous  route  is  not  necessary  (10).
+Administering volumes smaller than recommended (e.g., inappropriately divided doses)
+might  result  in  inadequate  protection.  Using  reduced  doses  administered  at  multiple
+vaccination  visits  that  equal  a  full  dose  or  using  smaller  divided  doses  is  not
+recommended  (4).  Any  vaccination  using  less  than  the  standard  dose  should  not  be
+counted,  and  the  person  should  be  revaccinated  according  to  age  unless  serologic
+testing indicates that an adequate response has developed. However, if 2 half-volume
+formulations  of  vaccine  have  already  been  administered  on  the  same  clinic  day  to  a
+patient recommended for the full volume formulation, these 2 doses can count as one
+full dose. If less than a full recommended dose of a vaccine is administered because of
+syringe,  applicator,  or  needle  leakage,  the  dose  should  be  repeated  (5).  Using
+larger-than-recommended  dosages  can  be  hazardous  because  of  excessive  local  or
+systemic  concentrations  of  antigens  or  other  vaccine  constituents.  (a)  If  the  gluteal
+muscle  is  chosen,  injection  should  be  administered  lateral  and  superior  to  a  line
+between  the  posterior  superior  iliac  spine  and  the  greater  trochanter  or  in  the
+ventrogluteal site, the center of a triangle bounded by the anterior superior iliac spine,
+the tubercle of the iliac crest, and the upper border of the greater trochanter. Top of
+Page Abbreviations: DEN4CYD = dengue vaccine; DT = diphtheria and tetanus toxoids;
+DTaP  =  diphtheria  and  tetanus  toxoids  and  acellular  pertussis;  HepA  =  hepatitis  A;
+HepB  =  hepatitis  B;  Hib  =  Haemophilus  influenzae  type  b;  HPV  =  human
+papillomavirus;  IIV  =  inactivated  influenza  vaccine;  IM  =  intramuscular;  IPV  =
+inactivated  poliovirus;  LAIV  =  live,  attenuated  influenza  vaccine;  MenACWY  =
+quadrivalent  meningococcal  conjugate  vaccine;  MenB  =  serogroup  B  meningococcal
+vaccine;  MenCY  =  bivalent  meningococcal  conjugate  vaccine  component;  MMR  =
+measles, mumps, and rubella; MMRV = measles, mumps, rubella, and varicella; MPSV4
+=  quadrivalent  meningococcal  polysaccharide  vaccine;  PCV13  =  pneumococcal
+conjugate  vaccine;  PPSV23=  pneumococcal  polysaccharide  vaccine;  RV1  =  live,
+attenuated  monovalent  rotavirus  vaccine;  RV5  =  live,  reassortment  pentavalent
+rotavirus  vaccine;  RZV  =  recombinant  adjuvanted  zoster  vaccine;  Subcut  =
+subcutaneous;  Td  =  tetanus  and  diphtheria  toxoids;  Tdap  =  tetanus  toxoid,  reduced
+diphtheria  toxoid,  and  acellular  pertussis.  Source:  Adapted  from  Immunization  Action
+Coalition. (a) Persons aged 11-15 years may be administered Recombivax HB (Merck),
+1.0 mL (adult formulation) on a 2-dose schedule.
+(b) Note that prefilled syringes of High-Dose Fluzone have a volume of 0.7 cc and the
+recommended volume of administration is 0.7 ccs.
+(c)  Do  not  withdraw  more  than  0.5  mL  from  the  reconstituted  product,  even  if  some
+product is left in the vial. Top of Page Abbreviation: IM = intramuscular. Source: (17).
+(a) First 28 days of life. (b) If skin is stretched tightly and subcutaneous tissues are not
+bunched.  (c)  Preferred  site.  (d)  Some  experts  recommend  a  5/8-inch  needle  for  men
+and women who weigh <60 kg, if used, skin must be stretched tightly (do not bunch
+subcutaneous  tissue)  (e)  Some  experts  recommend  a  1-inch  needle  if  the  skin  is
+stretched  tightly  and  subcutaneous  tissues  are  not  bunched.  Top  of  Page  Source:
+Adapted  from  California  Immunization  Branch.    Source:  Adapted  from  Minnesota
+Department  of  Health.    Source:  Adapted  from  Minnesota  Department  of  Health  and
+Immunize.org.    Source:  Adapted  from  Minnesota  Department  of  Health.    Source:
+Adapted  from  California  Immunization  Branch.  Top  of  Page  To  receive  email  updates
+about this page, enter your email address:
+Source URL: https://www.cdc.gov/vaccines/hcp/acip-recs/general-recs/administration.html

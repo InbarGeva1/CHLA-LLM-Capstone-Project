@@ -1,0 +1,61 @@
+A .gov website belongs to an official government organization in the United States. A
+lock (  ) or https:// means you've safely connected to the .gov website. Share sensitive
+information only on official, secure websites. The following information is a summary of
+testing  offered  through  the  Antimicrobial  Resistance  Laboratory  Network  (AR  Lab
+Network), including:  Core testing performed by seven regional labs:  Additional testing
+performed  by  select  regional  labs:   CPOs  are  types  of  bacteria  that  produce  a
+genetically  coded  an  enzyme  called  carbapenemase.  Carbapenemases  allow  these
+bacteria  to  resist  the  effects  of  carbapenems  and  other  β-lactam  antibiotics.
+Carbapenems are among the few remaining antibiotics that can treat ESBL-producing
+bacteria, but resistance is on the rise. Detecting patients who are colonized with CPOs
+or have an infection caused by a CPO helps prevent spread within and among facilities.
+The  AR  Lab  Network  screens  for  the  following  CPOs:  Aspergillus  fumigatus,  a  fungus
+found in the environment, can cause serious illness in people with weakened immune
+systems.  This  fungus  can  develop  resistance  to  azoles  during  long-term  treatment  of
+infected  patients  or  when  it  is  exposed  to  azole  fungicides  used  in  the  environment.
+Infections  have  been  identified  in  the  U.S.,  increasing  the  need  for  awareness  and
+action by clinical and public health professionals. The AR Lab Network tests for azole
+resistance in A. fumigatus to monitor and track the emergence of azole resistance in the
+U.S. Candida is one of the most common causes of healthcare-associated bloodstream
+infections  in  the  U.S.,  and  antifungal  resistance  in  Candida  is  increasing.  New  and
+emerging species, like C. auris, can spread in healthcare settings and cause outbreaks.
+C. difficile causes severe diarrhea and colitis (an inflammation of the colon), which can
+be life-threatening. Most cases of infection occur in people taking antibiotics or those
+who have recently finished taking antibiotics. When antibiotics are newly approved for
+use, it can take years before susceptibility tests for these antibiotics are made available
+in  clinical  labs.  CDC's  AR  Lab  Network  provides  testing  for  isolates  of  highly-resistant
+Enterobacterales  that  carry  MBLs,  which  can  help  guide  clinical  decision  making  for
+highly-resistant isolates. MBLs make bacteria resistant to a broad range of antibiotics,
+including carbapenems, which are often used to treat antimicrobial-resistant infections. 
+Gonorrhea  has  progressively  developed  antimicrobial  resistance  to  the  drugs
+recommended  to  treat  it.  CDC's  AR  Lab  Network  offers  testing  to  assist  in  care  of
+patients
+ with
+ potentially
+ drug-resistant
+ gonorrhea.
+ Streptococcus
+ pneumoniae
+(pneumococcus) is a leading cause of bacterial pneumonia and meningitis in the U.S. It
+also is a common cause of bloodstream infections, and ear and sinus infections. When
+labs submit pneumococcus isolates for testing, serotype results can aid clinical practice
+to evaluate for vaccine failure, immune deficiency and outbreak identification. Clinical
+isolates  are  also  vitally  important  to  public  health  programs  that  monitor  changes  in
+circulating  serotypes  and  antimicrobial  resistance.  M.  tuberculosis,  most  known  as
+Tuberculosis  (TB),  is  a  disease  caused  by  bacteria  that  are  spread  from  person  to
+person  through  the  air.  It  is  a  common  infectious  disease  found  worldwide  and  can
+cause death if not treated. TB can be resistant to more than one antibiotic used to treat
+it.  The National Tuberculosis Molecular Surveillance Center provides testing to identify
+TB  strains,  free  of  charge.  Any  authorized  medical  or  laboratory  professionals  can
+submit samples and in consultation/awareness of their state health department or local
+authorities  per  institutional  policies.  Visit  the  TB  laboratory  information  page  for
+necessary submission forms.  Salmonella bacteria can spread from animals to people
+through food. Antimicrobial resistance to Salmonella is increasing. Salmonella testing is
+supported  through  PulseNet.   CDC  offers  free  resources  and  tools  for  laboratory
+scientists  to  help  combat  antimicrobial  resistance.  Email  CDC  at  ARLN@cdc.gov  for
+more information about the AR Lab Network. CDC’s Antimicrobial Resistance Laboratory
+Networks  support  domestic  and  global  lab  testing  across  One  Health.  Languages
+Language Assistance Languages  Language Assistance 
+Source
+ URL:
+https://www.cdc.gov/antimicrobial-resistance-laboratory-networks/php/about/testing-services.html

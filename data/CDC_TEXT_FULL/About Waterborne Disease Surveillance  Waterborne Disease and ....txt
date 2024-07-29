@@ -1,0 +1,68 @@
+A .gov website belongs to an official government organization in the United States. A
+lock (  ) or https:// means you've safely connected to the .gov website. Share sensitive
+information only on official, secure websites. Surveillance is the term for tracking illness
+and injury. Waterborne disease surveillance provides information that can help prevent
+future  disease  and  outbreaks  while  providing  important  information  on  how  germs,
+chemicals, or toxins spread, and which types of water are linked to people getting sick. 
+Although  we  enjoy  safe  drinking  and  recreational  water  in  the  United  States,
+waterborne  diseases  still  pose  a  threat  to  our  health  and  productivity.  Water
+contaminated  with  germs,  chemicals,  or  toxins  can  lead  to  waterborne  illness  if  you
+drink it, breathe it in, or it touches your skin, eyes, ears, or other mucous membranes.
+By  collecting  data  on  the  types  of  water,  water  systems,  settings,  and  agents  (what
+spreads  the  disease)  that  are  linked  to  waterborne  illness,  we  improve  our
+understanding  of  waterborne  illnesses  and  can  better  guide  prevention  efforts.
+Outbreak investigations help us learn more about the causes of outbreaks. Officials can
+learn what germs are causing waterborne illness, what types of water are involved, and
+what groups of people become ill. This knowledge can be used to control an outbreak
+and prevent additional illnesses. Outbreak surveillance enables public health agencies
+to  learn  lessons  from  these  investigations  to  develop  recommendations  on  how  to
+prevent  similar  outbreaks  from  happening  in  the  future.  Many  of  the  germs  that  are
+spread by water can also be spread in other ways, including by eating contaminated
+food or by contact with an ill person or animal. People come in contact with water often
+each day, making it even harder to know which exposure might have made a person
+sick. Finally, it can take several days or even weeks to become ill after being exposed
+to  a  germ,  making  it  difficult  to  pinpoint  the  place  and  time  of  exposure.  Without  an
+outbreak investigation, it can be difficult or impossible to link illnesses to water. When a
+group of people become ill at the same time, an investigation that collects information
+on  timing  and  location  of  exposures  and  illnesses  (known  as  an  epidemiologic
+investigation)  can  help  determine  where  and  when  the  outbreak  started  and  what
+caused it. An outbreak investigation can sometimes identify a direct link between the
+illnesses  and  contaminated  water  and  might  identify  the  type  of  water,  systems,  or
+settings involved. This information is difficult to gather outside of an outbreak (such as
+with individual infections). For an event to be defined as a waterborne disease outbreak
+Public health officials have been tracking waterborne disease in the United States for
+more  than  100  years.  CDC  has  been  overseeing  national  waterborne  disease  and
+outbreak  tracking  since  1971.  Surveillance  data  help  guide  efforts  to  reduce  and
+prevent  future  outbreaks.  Waterborne  disease  surveillance  data  have  supported
+national efforts to develop drinking water regulations and have provided guidance for
+recreational water activities, such as CDC's Healthy Swimming program. The national
+Waterborne  Disease  and  Outbreak  Surveillance  System  (WBDOSS)  collects  data  on
+waterborne disease and outbreaks associated with recreational water, drinking water,
+and environmental and undetermined exposures to water. The system collects data on
+the  number  of  outbreak-associated  illnesses,  hospitalizations,  and  deaths;  agents;
+implicated  types  of  water;  water  systems;  and  water  settings.  WBDOSS  also  collects
+information on single cases of waterborne illness caused by certain types of chemicals
+or  germs.  Public  health  officials  investigate  outbreaks  to  control  them,  to  prevent
+additional  illnesses,  and  to  learn  how  to  prevent  similar  outbreaks  from  happening.
+Anyone who suspects an outbreak is occurring should contact their local or state health
+department. The 8 steps in an outbreak investigation are: Several steps may happen at
+the  same  time  in  an  outbreak  investigation.  Once  a  waterborne  disease  outbreak
+investigation  ends,  public  health  departments  report  outbreaks  to  WBDOSS.
+Waterborne  disease  outbreaks  became  nationally  notifiable  in  the  United  States  in
+2009. Public health agencies in all 50 states, the District of Columbia, U.S. territories,
+and  Freely  Associated  States  have  primary  responsibility  for  identifying  and
+investigating  waterborne  outbreaks  and  reporting  outbreaks  voluntarily  to  CDC.  From
+1971 to 2008, outbreaks were reported using a paper form. Since 2009, outbreaks have
+been  reported  electronically  through  CDC's  National  Outbreak  Reporting  System
+(NORS).  See  also  Agricultural  Water  Outbreak  Investigation  Tools.  The  National
+Outbreak Reporting System (NORS) is a web-based platform used by local, state, and
+territorial health departments in the United States to report all waterborne, foodborne,
+and enteric (intestinal) disease outbreaks to CDC. Nearly 100,000 people in the United
+States  get  sick  from  foodborne,  waterborne,  and  enteric  illness  outbreaks  each  year,
+according  to  information  reported  in  NORS.  Use  NORS  Dashboard  to  explore  national
+surveillance data from outbreaks and learn more about what causes these outbreaks,
+how  often  they  occur,  and  where  they  occur.  Waterborne  disease  and  outbreak
+surveillance provides important information on how germs, chemicals, or toxins spread,
+and  which  types  of  water  are  linked  to  people  getting  sick.  Languages  Language
+Assistance Languages  Language Assistance 
+Source URL: https://www.cdc.gov/healthy-water-data/about/index.html

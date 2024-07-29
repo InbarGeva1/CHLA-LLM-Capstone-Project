@@ -1,0 +1,227 @@
+ Persons using assistive technology might not be able to fully access information in this
+file. For assistance, please send e-mail to: mmwrq@cdc.gov. Type 508 Accommodation
+and the title of the report in the subject line of e-mail. Lindane* is an organochlorine
+pesticide found in certain prescription-only shampoos and topical lotions used to treat 
+pediculosis (i.e., lice infestation) and scabies; lindane has been associated with human
+neurologic toxicity 
+(1,2). In 2004, CDC was alerted to cases of illness caused by unintentional ingestion of
+lindane  by  persons  mistaking  the  product  for  a  liquid  oral  medication  (e.g.,  cough
+syrup). To assess the extent of illness from ingestion of lindane, CDC, with assistance
+from the U.S. Environmental 
+Protection Agency, Food and Drug Administration (FDA), and state health departments,
+collected case reports and analyzed data from the Sentinel Event Notification System
+for Occupational Risks-Pesticides (SENSOR-Pesticides) program and the Toxic 
+Exposure  Surveillance  System  (TESS).  This  report  summarizes  the  results  of  that
+analysis, which identified 870 cases of unintentional 
+lindane ingestion during 1998--2003, and describes two examples of lindane ingestions.
+To reduce the risk of 
+lindane  ingestion,  public  health  authorities  should  alert  clinicians  to  the  hazards  of
+lindane and the importance of following FDA usage guidelines, which include dispensing
+lindane in manufacturer-produced, 1- or 2-ounce single-use containers. 
+Case Reports 
+ Case 1. In November 2004, the Washington State Department of Health reported that a
+boy aged 3 years 
+ingested  approximately  1  teaspoon  of  1%  lindane  shampoo  from  a  previously  used
+2-ounce bottle. Subsequently, the mother 
+induced vomiting in the boy twice; 1 hour later the boy collapsed and experienced a
+tonic-clonic seizure lasting 4--5 minutes. After 
+3 hours, the child was discharged from the emergency department in stable condition. 
+ Case 2. In December 2003, a man aged 47 years in Texas mistakenly ingested 1 ounce
+of lindane (percentage 
+concentration unknown) from a bottle he believed to be cough syrup. The man vomited;
+he contacted the poison control center 
+the following morning. He did not seek clinical evaluation.
+Surveillance Data
+ Data were analyzed from pesticide poisoning surveillance systems participating in the
+SENSOR-Pesticides 
+program†  to  identify  symptomatic  cases  involving  unintentional  topical  lindane
+ingestions during 1998--2003. Cases were classified as definite, probable, possible, or
+suspicious  based  on  the  clinical  interpretation  of  signs  or  symptoms  reported  by  a
+physician 
+or  patient,  and  evidence  of  lindane  ingestion  (3,4).  Cases  were  also  obtained  from
+TESS§,  which  is  maintained  by  the  American  Association  of  Poison  Control  Centers;
+poison 
+information specialists determined which cases had signs and 
+symptoms  consistent  with  lindane  exposure.  Illness  severity  was  categorized  for  all
+cases. Excluded were cases involving ingestion of veterinary and agricultural pesticide
+products that contained lindane. 
+ During  1998--2003,  TESS  reported  857  symptomatic  cases  of  unintentional  lindane
+ingestion (Figure); none of the 
+cases  were  reported  as  resulting  in  death.  Severity  was  low  in  778  cases  (91%),
+moderate in 71 cases (8%), and high in eight 
+cases (1%) (4). Among 823 patients with known ages, 
+median age was 13 years (range: <1--86 years); 53% were 
+female.  Signs  and  symptoms  included  vomiting  (59%),  nausea  (18%),  oral  irritation
+(19%), abdominal cramping (4%), cough (4%), 
+and seizure (3%).
+ During  1998--2003,  SENSOR-Pesticides  identified  a  total  of  13  symptomatic  cases  of
+unintentional lindane ingestion. 
+Four  cases  (31%)  were  classified  as  definite,  two  (15%)  as  probable,  six  (46%)  as
+possible, and one (8%) as suspicious. Severity 
+was low in eight cases (62%), moderate in three cases (23%), and high in two cases
+(15%) 
+(3).  Median  age  was  7  years  (range:  <1--58  years),  and  69%  were  male.  Signs  and
+symptoms  included  vomiting  (69%),  nausea  (46%),  headache  (23%),  seizure  (23%),
+abdominal  cramping  (8%),  and  confusion  (8%).  Six  (46%)  cases  in  children  and  four
+(31%) cases in adults were the result 
+of mistaking lindane for cough syrup; two (15%) cases were in unsupervised children
+who drank lindane, and one (8%) case was the result of pharmacy error (i.e., lindane
+was recovered from a bottle labeled albuterol).
+ In addition to lindane, FDA-approved treatments for 
+pediculosis include two over-the-counter medications 
+(pyrethrin/piperonyl  butoxide  and  permethrin)  and  malathion,  a  prescription-only
+therapy.  During  1998--2003,  TESS  identified  523  symptomatic  cases  of  unintentional
+ingestion  of  these  alternative  medications  (Figure).  Median  age  was  9  years  (range:
+<1--67 years). Among TESS reports, unintentional lindane ingestions were more likely
+to produce illness (857 illnesses of 1,463 
+ingestions [58%]) than unintentional ingestions of each of three other medications, and
+more  likely  to  produce  illness  than  all  three  of  those  medications  combined  (523
+illnesses  of  1,691  ingestions  [31%];  odds  ratio  =  3.16,  95%  confidence  interval  =
+2.72--3.67). 
+ Reported by: J Sievert, Texas Dept of State Health Svcs. M Lackovic, MPH, Louisiana
+Dept of Health and Hospitals. A Becker, PhD, Florida Dept of Health. DH Lew, Oregon
+Dept  of  Human  Svcs.  B  Morrissey,  Washington  State  Dept  of  Health.  J  Blondell,  PhD,
+Office  of  Pesticide  Programs,  US  Environmental  Protection  Agency.  LY  Kim-Jung,
+PharmD, MR Pitts, PharmD, CA Holquist RPh, Food and Drug Admin. AM Petersen, MPH,
+JS Alonso-Katzowitz, GM Calvert, MD, Div of Surveillance, Hazard Evaluations, and Field
+Studies, National Institute for Occupational Safety and Health, CDC.
+Editorial Note:
+  Pediculosis  and  scabies  are  common  human  parasitic  infestations.  This  report
+indicates that when lindane, 
+a treatment for pediculosis and scabies, is unintentionally 
+ingested, illness can occur, including vomiting and seizures. In 
+1995,  lindane  was  changed  to  a  second-line  therapy  for  pediculosis  because  safer
+alternatives existed (5). Lindane also had the slowest pediculicidal and least effective
+ovicidal 
+activity compared with three other approved pediculicides (i.e., 1% permethrin, 
+0.3% pyrethrin, and 0.5% malathion) (6). In 2003, in light of continued postmarketing
+surveillance 
+reports  of  toxicity,  FDA  revised  product  labeling  guidelines  to  limit  the  amount  of
+lindane  dispensed  to  1-  or  2-ounce  single-use  containers  and  to  require  providing
+patients with a Medication Guide warning of risks from inappropriate use. In addition,
+FDA issued a Public 
+Health Advisory with these changes (7). The new advisory, along with a substantial 
+increase in retail price for lindane, appear to 
+have resulted in a declining number of cases of lindane ingestion (Figure). This decline
+is similar to the 67% decrease in lindane prescriptions from 1998 to 2003 (8).
+ Before  the  advisory,  bottles  of  bulk  lindane  were  sometimes  repackaged  by
+pharmacies into smaller bottles resembling 
+those used for liquid oral medications (e.g., cough syrup). This 
+resemblance likely contributed to many unintentional 
+ingestions.  Subsequent  to  the  advisory,  bottles  of  bulk  lindane  still  in  use  were  not
+recalled  from  pharmacies.  Therefore,  some  repackaging  might  still  occur.  In  addition,
+consumers might have repackaged lindane in their homes. 
+ In September 2004, the North American Task Force on Lindane drafted an action plan
+for future use. On January 1, 
+2005,  Canada  withdrew  registration  of  lindane  for  agricultural  pest  control;  Mexico  is
+working  on  a  plan  to  phase  out  all  uses  of  lindane.  However,  with  the  exception  of
+California, which banned lindane for medicinal use on January 1, 2002, 
+U.S. representatives to the North American Commission for Environmental Cooperation
+announced that the United States 
+will continue to allow use of lindane as both a pesticide and pharmaceutical 
+(9).
+ The findings in this report are subject to at least three limitations. First, because of the
+passive surveillance methodology of TESS and SENSOR, the number of reported cases
+is likely fewer than the number of actual cases. Second, certain 
+eligible  cases  might  have  been  inadvertently  excluded  because  of  erroneous
+information that suggested exposure to lindane in 
+a veterinary or agricultural product. Finally, although all cases were symptomatic, the
+possibility  of  false  positives  cannot  be  excluded.  Because  clinical  findings  of  lindane
+poisoning  are  nonspecific  and  no  standard  diagnostic  test  exists,  certain  illnesses
+related temporally to lindane exposure might not have been caused by the exposure. 
+ Lindane use in shampoos and lotions for treatment of 
+pediculosis and scabies is declining. However, because of the 
+toxicity of lindane and the potential for illness from unintentional ingestion, health-care
+providers should be 
+educated  regarding  appropriate  use  and  packaging.  Lindane  is  a  second-line  therapy
+for both scabies and lice and should not be tried unless other treatments have failed or
+are intolerable; use of lindane also should be avoided for persons weighing less than
+110 pounds (50 kg). Because of the risk for toxicity, treatment should not be repeated,
+even if itching persists; itching can occur, even after successful treatment (especially
+for  scabies)  and  can  be  treated  symptomatically.  In  addition,  pharmacists  should  not
+transfer
+ lindane
+ to
+ other
+ containers
+ and
+ should
+ only
+ dispense
+ lindane
+ in
+manufacturer-provided 1- or 2-ounce 
+containers.  Finally,  periodic  educational  outreach  programs  can  help  increase
+awareness among health-care providers of the new lindane use guidelines.
+References 
+ * Lindane is also referred to as gamma-hexachlorocyclohexane. 
+ † SENSOR-Pesticides is a surveillance program coordinated by the National Institute for
+Occupational Safety and Health (NIOSH) at CDC and conducted by health departments
+in  nine  states.  Most  participating  states  collect  information  on  both  nonoccupational
+and occupational pesticide poisonings from 
+various sources (e.g., poison control centers, workers' compensation agencies, or state
+departments of agriculture). However, priority is given to occupational cases; therefore,
+the number of nonoccupational poisoning cases is limited.
+ § TESS receives reports from nearly all poison control centers nationwide. 
+ 
+ Use  of  trade  names  and  commercial  sources  is  for  identification  only  and  does  not
+imply endorsement by the U.S. Department of 
+Health and Human Services.References to non-CDC sites on the Internet are 
+provided as a service to MMWR readers and do not constitute or imply 
+endorsement of these organizations or their programs by CDC or the U.S. 
+Department of Health and Human Services. CDC is not responsible for the content 
+of pages found at these sites. URL addresses listed in MMWR were current as of 
+the date of publication.
+Disclaimer
+  
+All MMWR HTML versions of articles are electronic conversions from ASCII text 
+into HTML.  This conversion may have resulted in character translation or format errors
+in the HTML version.  
+Users  should  not  rely  on  this  HTML  document,  but  are  referred  to  the  electronic  PDF
+version and/or 
+the original MMWR paper copy for the official text, figures, and tables.  
+An  original  paper  copy  of  this  issue  can  be  obtained  from  the  Superintendent  of
+Documents, 
+U.S. Government Printing Office (GPO), Washington, DC 20402-9371; telephone: (202)
+512-1800. 
+Contact GPO for current prices.
+**Questions or messages regarding errors in formatting should be addressed to 
+mmwrq@cdc.gov. 
+ Use  of  trade  names  and  commercial  sources  is  for  identification  only  and  does  not
+imply endorsement by the U.S. Department of 
+Health and Human Services.References to non-CDC sites on the Internet are 
+provided as a service to MMWR readers and do not constitute or imply 
+endorsement of these organizations or their programs by CDC or the U.S. 
+Department of Health and Human Services. CDC is not responsible for the content 
+of pages found at these sites. URL addresses listed in MMWR were current as of 
+the date of publication. 
+Disclaimer
+  
+All MMWR HTML versions of articles are electronic conversions from ASCII text 
+into HTML.  This conversion may have resulted in character translation or format errors
+in the HTML version.  
+Users  should  not  rely  on  this  HTML  document,  but  are  referred  to  the  electronic  PDF
+version and/or 
+the original MMWR paper copy for the official text, figures, and tables.  
+An  original  paper  copy  of  this  issue  can  be  obtained  from  the  Superintendent  of
+Documents, 
+U.S. Government Printing Office (GPO), Washington, DC 20402-9371; telephone: (202)
+512-1800. 
+Contact GPO for current prices. Date last reviewed: 6/2/2005
+ 
+    HOME  |  
+    ABOUT MMWR  | 
+    MMWR SEARCH  | 
+    DOWNLOADS  | 
+    RSS 
+    |  
+    CONTACT
+POLICY  |  
+    DISCLAIMER  |  
+    ACCESSIBILITY 
+Morbidity and Mortality Weekly Report
+                Centers for Disease Control and Prevention
+                1600 Clifton Rd, MailStop E-90, Atlanta, GA 
+                  30333, U.S.A 
+Department of Healthand Human Services 
+Source URL: https://www.cdc.gov/mmwr/preview/mmwrhtml/mm5421a2.htm

@@ -1,0 +1,67 @@
+A .gov website belongs to an official government organization in the United States. A
+lock (  ) or https:// means you've safely connected to the .gov website. Share sensitive
+information only on official, secure websites. 
+Related Topics:
+ When an isolate carries an altered penicillin-binding protein (PBP2a) encoded by the
+mecA gene, the protein binds beta-lactams with lower avidity, resulting in resistance to
+this class of antimicrobial agents. Mechanisms other than mecA are rare.  All cells in a
+culture  may  carry  the  genetic  information  (mecA)  for  resistance,  but  only  a  small
+number  may  express  the  resistance  in  vitro  (i.e.,  heteroresistance).  Heteroresistance
+occurs  in  staphylococci  resistant  to  penicillinase-stable  penicillins,  such  as  oxacillin.
+Methicillin (oxacillin)-resistant Staphylococcus aureus (MRSA) is a type of bacteria that
+is  resistant  to  most  beta-lactam  agents,  including  cephalosporins  and  carbapenems,
+with
+ the
+ exception
+ of
+ ceftaroline,
+ a
+ fifth-generation
+ cephalosporin.
+ 
+Healthcare-associated MRSA isolates are frequently resistant to other commonly used
+antimicrobial
+ agents,
+ including
+ erythromycin,
+ clindamycin,
+ tetracycline
+ and
+fluoroquinolones. Community-associated MRSA are typically more susceptible to these
+agents.   Since  1996,  MRSA  strains  with  decreased  susceptibility  to  vancomycin
+(minimum  inhibitory  concentration  [MIC],  4-8  μg/ml)  and  strains  fully  resistant  to
+vancomycin (MIC ≥ 16 μg/ml) have been reported, although these isolates remain rare. 
+Although laboratorians used methicillin as the agent of choice for testing staphylococci
+in  the  early  1990s,  it  is  no  longer  commercially  available  in  the  U.S.  We  now  use
+oxacillin  or  cefoxtin.  Oxacillin  maintains  its  activity  during  storage  better  than
+methicillin  and  is  more  likely  to  detect  heteroresistant  strains.  Cefoxitin  is  a  better
+inducer of the mecA gene, gives clearer endpoints and is easier to read than tests with
+oxacillin. However, we still use the acronym MRSA to describe these isolates because of
+the historic role of methicillin. For methods of inoculation and interpretive criteria, see
+most recent version of CLSI M100. Phenotypic methods recommended for the detection
+of MRSA include: A screening agar containing 6 μg/ml of oxacillin in Mueller-Hinton agar
+supplemented  with  NaCl  (4%  w/v;  0.68  mol/L)  is  an  alternative  method  of  testing  for
+MRSA. It should be noted that oxacillin disk diffusion testing is not a reliable method for
+S. aureus. Accurate detection of oxacillin/methicillin resistance can be difficult due to
+the  presence  of  two  subpopulations  (one  susceptible  and  one  resistant)  that  may
+coexist within a culture of staphylococci.2 CLSI M100 recommends incubation at 35°C
++/-  2°C  with  the  caveat  that  testing  at  temperatures  above  35°C  may  not  detect  all
+methicillin-resistant  staphylococci.   Isolates  that  test  positive  for  mecA  or  PBP2a  or
+resistant  by  any  of  the  recommended  phenotypic  methods  should  be  reported  as
+methicillin  (oxacillin)  resistant.  It  should  be  noted  that  the  CLSI  susceptibility
+breakpoints for S. aureus are different than those for other Staphylococcus species.1 2
+Bannerman,  TL.  2003.  Staphylococcus,  Micrococcus  and  other  catalase-positive  cocci
+that grow aerobically. In P.R. Murray, E.J. Baron, J.H. Jorgensen, M.A. Pfaller, R.H. Yolken
+[eds.], Manual of Clinical Microbiology 8th ed. ASM Press, Washington, D.C. N/A = not
+applicable*
+ Report
+ as
+ oxacillin/methicillin-susceptible
+ **
+ Report
+ as
+oxacillin/methicillin-resistant †There is no intermediate category with the disk diffusion
+test  MRSA  is  a  germ  that  is  resistant  to  some  antibiotics.  It  can  spread  in  hospitals,
+other  healthcare  facilities,  and  in  the  community.  Languages  Language  Assistance
+Languages  Language Assistance 
+Source URL: https://www.cdc.gov/mrsa/php/laboratories/index.html

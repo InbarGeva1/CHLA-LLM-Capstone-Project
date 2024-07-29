@@ -1,0 +1,46 @@
+A .gov website belongs to an official government organization in the United States. A
+lock (  ) or https:// means you've safely connected to the .gov website. Share sensitive
+information  only  on  official,  secure  websites.  Health  departments  can  also  request  a
+modifiable  version  of  the  job-aid  by  emailing  the  CDC  Mumps  Team.  Please  include
+"Mumps  Testing  Job-Aid"  in  the  subject  line.  The  modifiable  version  can  be  edited  to
+include the following: For persons presenting with symptoms of mumps without known
+epidemiologic-linkage, multiplex testing for other infectious etiologies is recommended
+concurrent  with  mumps  testing  to  better  interpret  the  clinical  picture  alongside
+laboratory  results.  Consider  testing  for  other  infectious  etiologies  such  as  influenza,
+parainfluenza, EBV, & adenovirus that can cause parotitis. If mumps testing is negative
+and  there  is  a  more  likely  alternative  diagnosis  with  a  positive  laboratory  result,
+individuals can be classified as not a mumps case. For mumps PCR, specimen should be
+ideally  collected  0–3  days  after  parotitis  onset  but  can  be  collected  up  to  10  days.  If
+>10 days since symptom onset, PCR testing no longer recommended. For mumps IgM,
+collecting specimens >3 days after parotitis onset improves the ability to detect IgM.
+Persons  being  tested  have  exposure  to  a  confirmed  case  or  linkage  to  a
+group/community defined by public health officials during an outbreak of mumps. For
+mumps PCR, specimen should be ideally collected 0–3 days after parotitis onset but can
+be collected up to 10 days. If >10 days since symptom onset, PCR testing no longer
+recommended.  For  mumps  IgM,  collecting  specimens  >3  days  after  parotitis  onset
+improves the ability to detect IgM. Top of chart “Patient has parotitis or other salivary
+gland swelling" Then question: "Has it been ≤ 3 days+ since symptom onset?"
+ If "Yes", then "Collect buccal specimen for PCR at first contact with patient."
+ If  "No"  Collect  buccal  specimen  for  PCR  and  serology  for  IgM  at  first  contact  with
+patient."  Top of chart begins "Patient does not have parotitis but has an acute potential
+mumps complication of uncertain etiology:" Then Collect buccal specimen for PCR and
+serology for IgM at first contact with patient.   Introduction for scenarios 1 and 2 below:
+At the start of a mumps outbreak, persons suspected to have mumps should be tested
+by RT-PCR to confirm mumps. Once the outbreak is confirmed, testing of subsequent
+persons  is  optional  depending  on  volume/resources.  Epidemiologically-linked  persons
+with parotitis, orchitis, or oophoritis can be classified as probable cases without testing.
+Top of chart begins "Patient has parotitis or other salivary gland swelling." Then Q: "Has
+it been ≤ 3 days+ since symptom onset?"
+ If "Yes", then "CAN Collect buccal specimen for PCR at first contact with patient."
+ If "No," then "CAN Collect buccal specimen for PCR and serology for IgM at first contact
+with patient."
+ Top  of  chart  begins  "Patient  does  not  have  parotitis  but  has  either  orchitis  or
+oophoritis."  Then  "CAN  Collect  buccal  specimen  for  PCR  and  serology  for  IgM  at  first
+contact with patient."
+ Top of chart begins: "Patient does not have parotitis, orchitis, or oophoritis, but has an
+acute potential mumps complication of uncertain etiology." Complication includes: Then
+"Collect buccal specimen for PCR and serology for IgM at first contact with patient"
+ Mumps is a contagious disease that can be serious to both children and adults. The
+best protection against measles is the MMR vaccine. Languages Language Assistance
+Languages  Language Assistance 
+Source URL: https://www.cdc.gov/mumps/php/public-health-strategy/mumps-testing-aid.html

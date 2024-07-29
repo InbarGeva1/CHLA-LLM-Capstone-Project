@@ -1,0 +1,218 @@
+A .gov website belongs to an official government organization in the United States. A
+lock (  ) or https:// means you've safely connected to the .gov website. Share sensitive
+information  only  on  official,  secure  websites.  The  appendix  for  water  guidelines  from
+the  Guidelines  for  Environmental  Infection  Control  in  Health-Care  Facilities  (2003).
+Microorganisms  have  a  tendency  to  associate  with  and  stick  to  surfaces.  These
+adherent  organisms  can  initiate  and  develop  biofilms,  which  are  comprised  of  cells
+embedded  in  a  matrix  of  extracellularly  produced  polymers  and  associated  abiotic
+particles.1438  It  is  inevitable  that  biofilms  will  form  in  most  water  systems.  In  the
+health-care  facility  environment,  biofilms  may  be  found  in  the  potable  water  supply
+piping, hot water tanks, air conditioning cooling towers, or in sinks, sink traps, aerators,
+or shower heads. Biofilms, especially in water systems, are not present as a continuous
+slime  or  film,  but  are  more  often  scanty  and  heterogeneous  in  nature.1439  Biofilms
+may form under stagnant as well as flowing conditions, so storage tanks, in addition to
+water  system  piping,  may  be  vulnerable  to  the  development  of  biofilm,  especially  if
+water temperatures are low enough to allow the growth of thermophilic bacteria (e.g.,
+Legionella  spp.).  Favorable  conditions  for  biofilm  formation  are  present  if  these
+structures  and  equipment  are  not  cleaned  for  extended  periods  of  time.1440  Algae,
+protozoa, and fungi may be present in biofilms, but the predominant microorganisms of
+water system biofilms are gram-negative bacteria. Although most of these organisms
+will not normally pose a problem for healthy individuals, certain biofilm bacteria (e.g.,
+Pseudomonas  aeruginosa,  Klebsiella  spp.,  Pantoea  agglomerans,  and  Enterobacter
+cloacae)  all  may  be  agents  for  opportunistic  infections  for  immunocompromised
+individuals.1441,  1442  These  biofilm  organisms  may  easily  contaminate  indwelling
+medical devices or intravenous (IV) fluids, and they could be transferred on the hands
+of health-care workers.1441–1444 Biofilms may potentially provide an environment for
+the  survival  of  pathogenic  organisms,  such  as  Legionella  pneumophila  and  E.  coli
+O157:H7. Although the association of biofilms and medical devices provides a plausible
+explanation  for  a  variety  of  health-care  associated  infections,  it  is  not  clear  how  the
+presence  of  biofilms  in  the  water  system  may  influence  the  rates  of  health-care–
+associated  waterborne  infection.  Organisms  within  biofilms  behave  quite  differently
+than  their  planktonic  (i.e.,  free  floating)  counterparts.  Research  has  shown  that
+biofilm-associated  organisms  are  more  resistant  to  antibiotics  and  disinfectants  than
+are planktonic organisms, either because the cells are protected by the polymer matrix,
+or because they are physiologically different.1445–1450 Nevertheless, municipal water
+utilities attempt to maintain a chlorine residual in the distribution system to discourage
+microbiological growth. Though chlorine in its various forms is a proven disinfectant, it
+has  been  shown  to  be  less  effective  against  biofilm  bacteria.1448  Higher  levels  of
+chlorine for longer contact times are necessary to eliminate biofilms. Routine sampling
+of health-care facility water systems for biofilms is not warranted. If an epidemiologic
+investigation points to the water supply system as a possible source of infection, then
+water  sampling  for  biofilm  organisms  should  be  considered  so  that  prevention  and
+control  strategies  can  be  developed.  An  established  biofilm  is  is  difficult  to  remove
+totally  in  existing  piping.  Strategies  to  remediate  biofilms  in  a  water  system  would
+include flushing the system piping, hot water tank, dead legs, and those areas of the
+facility's water system subject to low or intermittent flow. The benefits of this treatment
+would include The general strategy for evaluating water system biofilm depends on a
+comparision of the bacteriological quality of the incoming municipal water and that of
+water sampled from within facility's distribution system. Heterotrophic plate counts and
+coliform counts, both of which are routinely run by the municipal water utility, will at
+least  provide  in  indication  of  the  potential  for  biofilm  formation.  Heterotrophic  plate
+count  levels  in  potable  water  should  be  <500  CFU/mL.  These  levels  may  increase  on
+occasion,  but  counts  consistently  >500  CFU/mL  would  indicate  a  general  decrease  in
+water quality. A direct correlation between heterotrophic plate count and biofilm levels
+has been demonstrated.1450 Therefore, an increase in heterotrophic plate count would
+suggest  a  greater  rate  and  extent  of  biofilm  formation  in  a  health-care  facility  water
+system. The water supplied to the facility should also contain <1 coliform bacteria/100
+mL. Coliform bacteria are organisms whose presence in the distribution system could
+indicate  fecal  contamination.  It  has  been  shown  that  coliform  bacteria  can  colonize
+biofilms  within  drinking  water  systems.  Intermittant  contamination  of  a  water  system
+with these organisms could lead to colonization of the system. Water samples can be
+collected from throughout the health-care facility system, including both hot and cold
+water  sources;  samples  should  be  cultured  by  standard  methods.945  If  heterotrophic
+plate  counts  in  samples  from  the  facility  water  system  are  higher  than  those  from
+samples collected at the point of water entry to the building, it can be concluded that
+the  facility  water  quality  has  diminished.  If  biofilms  are  detected  in  the  facility  water
+system and determined by an epidemiologic and environmental investigation to be a
+reservoir for health-care associated pathogens, the municipal water supplier could be
+contacted with a request to provide higher chlorine residuals in the distribution system,
+or the health-care facility could consider installing a supplemental chlorination system.
+Sample  collection  sites  for  biofilm  in  health-care  facilities  include  Swabs  should  be
+placed into tubes containing phosphate buffered water, pH 7.2 or phosphate buffered
+saline,  shipped  to  the  laboratory  under  refrigeration  and  processed  within  24  hrs.  of
+collection. Samples are suspended by vortexing with sterile glass beads and plated onto
+a  nonselective  medium  (e.g.,  Plate  Count  Agar  or  R2A  medium)  and  selective  media
+(e.g.,  media  for  Legionella  spp.  isolation)  after  serial  dilution.  If  the  plate  counts  are
+elevated  above  levels  in  the  water  (i.e.  comparing  the  plate  count  per  square
+centimeter of swabbed surface to the plate count per milliliter of water), then biofilm
+formation can be suspected. In the case of an outbreak, it would be advisable to isolate
+organisms from these plates to determine whether the suspect organisms are present
+in  the  biofilm  or  water  samples  and  compare  them  to  the  organisms  isolated  from
+patient  specimens.  In  order  to  detect  the  low,  total  viable  heterotrophic  plate  counts
+outlined by the current AAMI standards for water and dialysate in dialysis settings, it is
+necessary to use standard quantitative culture techniques with appropriate sensitivity
+levels.792,  832,  833  The  membrane  filter  technique  is  particularly  suited  for  this
+application because it permits large volumes of water to be assayed.792, 834 Since the
+membrane  filter  technique  may  not  be  readily  available  in  clinical  laboratories,  the
+spread plate assay can be used as an alternative.834 If the spread plate assay is used,
+however, the standard prohibits the use of a calibrated loop when applying sample to
+the plate.792 The prohibition is based on the low sensitivity of the calibrated loop. A
+standard calibrated loop transfers 0.001 mL of sample to the culture medium, so that
+the  minimum  sensitivity  of  the  assay  is  1,000  CFU/mL.  This  level  of  sensitivity  is
+unacceptable  when  the  maximum  allowable  limit  for  microorganisms  is  200  CFU/mL.
+Therefore,  when  the  spread  plate  method  is  used,  a  pipette  must  be  used  to  place
+0.1–0.5  mL  of  water  on  the  culture  medium.  The  current  AAMI  standard  specifically
+prohibits the use of nutrient-rich media (e.g., blood agar, and chocolate agar) in dialysis
+water and dialysate assays because these culture media are too rich for growth of the
+naturally  occurring  organisms  found  in  water.792  Debate  continues  within  AAMI,
+however, as to the most appropriate culture medium and incubation conditions to be
+used.  The  original  clinical  observations  on  which  the  microbiological  requirements  of
+this  standard  were  based  used  Standard  Methods  Agar  (SMA),  a  medium  containing
+relatively  few  nutrients.666  The  use  of  tryptic  soy  agar  (TSA),  a  general  purpose
+medium  for  isolating  and  cultivating  microorganisms  was  recommended  in  later
+versions of the standard because it was thought to be more appropriate for culturing
+bicarbonate-containing dialysate.788, 789, 835 Moreover, culturing systems based on
+TSA  are  readily  available  from  commercial  sources.  Several  studies,  however,  have
+shown  that  the  use  of  nutrient-poor  media,  such  as  R2A,  results  in  an  increased
+recovery  of  bacteria  from  water.1451,  1452  The  original  standard  also  specified
+incubation  for  48  hours  at  95°F–98.6°F  (35°C–37°C)  before  enumeration  of  bacterial
+colonies. Extending the culturing time up to 168 hours, or 7 days and using incubation
+temperatures  of  73.4°F–  82.4°F  (23°C–28°C)  have  also  been  shown  to  increase  the
+recovery  of  bacteria.1451,  1452  Other  investigators,  however,  have  not  found  such
+clear  cut  differences  between  culturing  techniques.835,  1453  After  considerable
+discussion, the AAMI Committee has not reached a consensus regarding changes in the
+assay  technique,  and  the  use  of  TSA  or  its  equivalent  for  48  hours  at  95°F–98.6°F
+(35°C–37°C) remains the recommended method. It should be recognized, however, that
+these culturing conditions may underestimate the bacterial burden in the water and fail
+to  identify  the  presence  of  some  organisms.  Specifically,  the  recommended  method
+may  not  detect  the  presence  of  various  NTM  that  have  been  associated  with  several
+outbreaks  of  infection  in  dialysis  units.31,  32  In  these  instances,  however,  the  high
+numbers  of  mycobacteria  in  the  water  were  related  to  the  total  heterotrophic  plate
+counts,  each  of  which  was  significantly  greater  than  that  allowable  by  the  AAMI
+standard. Additionally, the recommended method will not detect fungi and yeast, which
+have been shown to contaminate water used for hemodialysis applications.1454 Biofilm
+on the surface of the pipes may hide viable bacterial colonies, even though no viable
+colonies  are  detected  in  the  water  using  sensitive  culturing  techniques.1455  Many
+disinfection  processes  remove  biofilm  poorly,  and  a  rapid  increase  in  the  level  of
+bacteria  in  the  water  following  disinfection  may  indicate  significant  biofilm  formation.
+Therefore, although the results of microbiological surveillance obtained using the test
+methods  outlined  above  may  be  useful  in  guiding  disinfection  schedules  and  in
+demonstrating  compliance  with  AAMI  standards,  they  should  not  be  taken  as  an
+indication  of  the  absolute  microbiological  purity  of  the  water.792  Endotoxin  can  be
+tested  by  one  of  two  types  of  assays  Endotoxin  units  are  assayed  by  the  Limulus
+Amebocyte Lysate (LAL) method. Because endotoxins differ in their activity on a mass
+basis,  their  activity  is  referred  to  a  standard  Escherichia  coli  endotoxin.  The  current
+standard (EC-6) is prepared from E. coli O113:H10. The relationship between mass of
+endotoxin and its activity varies with both the lot of LAL and the lot of control standard
+endotoxin  used.  Since  standards  for  endotoxin  were  harmonized  in  1983  with  the
+introduction of EC-5, the relationship between mass and activity of endotoxin has been
+approximately  5–10  EU/ng.  Studies  to  harmonize  standards  have  led  to  the
+measurement of endotoxin units (EU) where 5 EU is equivalent to 1 ng E. coli O55:B5
+endotoxin.1456  In  summary,  water  used  to  prepare  dialysate  and  to  reprocess
+hemodialyzers should not contain a total microbial count >200 CFU/mL as determined
+by assay on TSA agar for 48 hrs. at 96.8°F (36°C), and ≤2 endotoxin units (EU) per mL.
+The dialysate at the end of a dialysis treatment should not contain >2,000 CFU/mL.31,
+32, 668, 789, 792 Legionella spp. are ubiquitous and can be isolated from 20%–40% of
+freshwater
+ environments,
+ including
+ man-made
+ water
+ systems.1457,
+ 1458
+ In
+health-care facilities, where legionellae in potable water rarely result in disease among
+immunocompromised  patients,  courses  of  remedial  action  are  unclear.  Scheduled
+microbiologic monitoring for legionellae remains controversial because the presence of
+legionellae  is  not  necessarily  evidence  of  a  potential  for  causing  disease.1459  CDC
+recommends  aggressive  disinfection  measures  for  cleaning  and  maintaining  devices
+known  to  transmit  legionellae,  but  does  not  recommend  regularly  scheduled
+microbiologic  assays  for  the  bacteria.396  However,  scheduled  monitoring  of  potable
+water within a hospital might be considered in certain settings where persons are highly
+susceptible to illness and mortality from Legionella infection (e.g., hematopoietic stem
+cell transplantation units and solid organ transplant units).9 Also, after an outbreak of
+legionellosis, health officials agree monitoring is necessary to identify the source and to
+evaluate the efficacy of biocides or other prevention measures. Examination of water
+samples is the most efficient microbiologic method for identifying sources of legionellae
+and  is  an  integral  part  of  an  epidemiologic  investigation  into  health-care  associated
+Legionnaires  disease.  Because  of  the  diversity  of  plumbing  and  HVAC  systems  in
+health-care facilities, the number and types of sites to be tested must be determined
+before  collection  of  water  samples.  One  environmental  sampling  protocol  that
+addresses sampling site selection in hospitals might serve as a prototype for sampling
+in  other  institutions.1209  Any  water  source  that  might  be  aerosolized  should  be
+considered  a  potential  source  for  transmission  of  legionellae.  The  bacteria  are  rarely
+found  in  municipal  water  supplies  and  tend  to  colonize  plumbing  systems  and
+point-of-use  devices.  To  colonize,  legionellae  usually  require  a  temperature  range  of
+77°F–108°F (25°C–42.2°C) and are most commonly located in hot water systems.1460
+Legionellae  do  not  survive  drying.  Therefore,  air-conditioning  equipment  condensate,
+which frequently evaporates, is not a likely source.1461 Water samples and swabs from
+point-of-use  devices  or  system  surfaces  should  be  collected  when  sampling  for
+legionellae (Box C.1).1437 Swabs of system surfaces allow sampling of biofilms, which
+frequently  contain  legionellae.  When  culturing  faucet  aerators  and  shower  heads,
+swabs  of  surface  areas  should  be  collected  first;  water  samples  are  collected  after
+aerators  or  shower  heads  are  removed  from  their  pipes.  Collection  and  culture
+techniques  are  outlined  (Box  C.2).  Swabs  can  be  streaked  directly  onto  buffered
+charcoal  yeast  extract  agar  (BCYE)  plates  if  the  pates  are  available  at  the  collection
+site.  If  the  swabs  and  water  samples  must  be  transported  back  to  a  laboratory  for
+processing,  immersing  individual  swabs  in  sample  water  minimizes  drying  during
+transit. Place swabs and water samples in insulated coolers to protect specimens from
+temperature extremes. * Material in this box is adapted from reference 1209. *Material
+in this table is compiled from references 1209, 1437, 1462–1465.
+ Wherever allowable by state code, provide water at ≥124°F (≥51°C) at all points in the
+heated  water  system,  including  the  taps.  This  requires  that  water  in  calorifiers  (e.g.,
+water  heaters)  be  maintained  at  ≥140°F  (≥60°C).  In  the  United  Kingdom,  where
+maintenance  of  water  temperatures  at  ≥122°F  (≥50°C)  in  hospitals  has  been
+mandated, installation of blending or mixing valves at or near taps to reduce the water
+temperature to ≤109.4°F (≤63°C) has been recommended in certain settings to reduce
+the  risk  for  scald  injury  to  patients,  visitors,  and  health  care  workers.726  However,
+Legionella  spp.  can  multiply  even  in  short  segments  of  pipe  containing  water  at  this
+temperature. Increasing the flow rate from the hot-water-circulation system may help
+lessen the likelihood of water stagnation and cooling.711, 1465 Insulation of plumbing
+to ensure delivery of cold (<68°F [<20°C]) water to water heaters (and to cold-water
+outlets)  may  diminish  the  opportunity  for  bacterial  multiplication.456  Both  dead  legs
+and capped spurs within the plumbing system provide areas of stagnation and cooling
+to  <122°F  (<50°C)  regardless  of  the  circulating  water  temperature;  these  segments
+may need to be removed to prevent colonization.704 Rubber fittings within plumbing
+systems have been associated with persistent colonization, and replacement of these
+fittings may be required for Legionella spp. eradication.1467 Continuous chlorination to
+maintain concentrations of free residual chlorine at 1–2 mg/L (1–2 ppm) at the tap is an
+alternative  option  for  treatment.  This  requires  the  placement  of  flow-adjusted,
+continuous  injectors  of  chlorine  throughout  the  water  distribution  system.  Adverse
+effects  of  continuous  chlorination  can  include  accelerated  corrosion  of  plumbing
+(resulting in system leaks) and production of potentially carcinogenic trihalomethanes.
+However,  when  levels  of  free  residual  chlorine  are  below  3  mg/L  (3  ppm),
+trihalomethane levels are kept below the maximum safety level recommended by the
+EPA.727,  1468,  1469  228  CDC  provides  information  on  infection  control  and  clinical
+safety  to  help  reduce  the  risk  of  infections  among  healthcare  workers,  patients,  and
+visitors. Languages Language Assistance Languages  Language Assistance 
+Source URL: https://www.cdc.gov/infection-control/hcp/environmental-control/appendix-c-water.html

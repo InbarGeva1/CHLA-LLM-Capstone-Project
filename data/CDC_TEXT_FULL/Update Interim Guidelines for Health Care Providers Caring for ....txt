@@ -1,0 +1,289 @@
+Official websites use .gov A .gov website belongs to an official government organization
+in  the  United  States.  Secure  .gov  websites  use  HTTPS  A  lock  (   )  or  https://  means
+you've  safely  connected  to  the  .gov  website.  Share  sensitive  information  only  on
+official, secure websites. Weekly / February 12, 2016 / 65(05);122–127 On February 5,
+2016, this report was posted online as an MMWR Early Release. Please note: Updated
+guidance has been published. To view the update, please click here. Titilope Oduyebo,
+MD1,2; Emily E. Petersen, MD2; Sonja A. Rasmussen, MD3; Paul S. Mead, MD4; Dana
+Meaney-Delman, MD5; Christina M. Renquist, MPH6; Sascha R. Ellington, MSPH2; Marc
+Fischer, MD4; J. Erin Staples, MD, PhD4; Ann M. Powers, PhD4; Julie Villanueva, PhD4;
+Romeo  R.  Galang,  MD1,7;  Ada  Dieke,  DrPH1,2;  Jorge  L.  Muñoz,  PhD4;  Margaret  A.
+Honein,  PhD6;  Denise  J.  Jamieson,  MD2  (View  author  affiliations)  Views  equals  page
+views plus PDF downloads Figure 1 Figure 2 CDC has updated its interim guidelines for
+U.S. health care providers caring for pregnant women during a Zika virus outbreak (1).
+Updated  guidelines  include  a  new  recommendation  to  offer  serologic  testing  to
+asymptomatic  pregnant  women  (women  who  do  not  report  clinical  illness  consistent
+with  Zika  virus  disease)  who  have  traveled  to  areas  with  ongoing  Zika  virus
+transmission.  Testing  can  be  offered  2–12  weeks  after  pregnant  women  return  from
+travel. This update also expands guidance to women who reside in areas with ongoing
+Zika  virus  transmission,  and  includes  recommendations  for  screening,  testing,  and
+management  of  pregnant  women  and  recommendations  for  counseling  women  of
+reproductive age (15–44 years). Pregnant women who reside in areas with ongoing Zika
+virus  transmission  have  an  ongoing  risk  for  infection  throughout  their  pregnancy.  For
+pregnant  women  with  clinical  illness  consistent  with  Zika  virus  disease,*  testing  is
+recommended  during  the  first  week  of  illness.  For  asymptomatic  pregnant  women
+residing in areas with ongoing Zika virus transmission, testing is recommended at the
+initiation  of  prenatal  care  with  follow-up  testing  mid-second  trimester.  Local  health
+officials should determine when to implement testing of asymptomatic pregnant women
+based on information about levels of Zika virus transmission and laboratory capacity.
+Health  care  providers  should  discuss  reproductive  life  plans,  including  pregnancy
+intention  and  timing,  with  women  of  reproductive  age  in  the  context  of  the  potential
+risks associated with Zika virus infection. Zika virus is primarily transmitted by Aedes
+aegypti mosquitoes, which are found throughout much of the region of the Americas,
+including parts of the United States (2,3). These mosquitoes can also transmit dengue
+and  chikungunya  viruses  (4).  The  Zika  virus  outbreak  continues  to  spread
+(http://www.cdc.gov/zika/geo/index.html), with ongoing Zika virus transmission recently
+reported in U.S. territories. Evidence suggesting an association of Zika virus infection
+with an increased risk for congenital microcephaly and other abnormalities of the brain
+and eye (5) prompted the World Health Organization to declare the Zika virus outbreak
+a  Public  Health  Emergency  of  International  Concern  on  February  1,  2016
+(http://www.who.int/mediacentre/news/statements/2016/1st-emergency-committee-zika
+/en/).  There  is  currently  no  vaccine  or  medication  to  prevent  Zika  virus  infection.  All
+travelers  to  or  residents  of  areas  with  ongoing  Zika  virus  transmission  should  be
+advised  to  strictly  follow  steps  to  avoid  mosquito  bites  because  of  the  potential  for
+exposure to Zika, dengue, and chikungunya viruses (6). Aedes vector mosquitoes bite
+mostly  during  daylight  hours;  thus,  protection  from  mosquito  bites  is  required
+throughout  the  day  (7).  Prevention  of  mosquito  bites  includes  wearing  long-sleeved
+shirts,  pants,  permethrin-treated  clothing,  and  using  United  States  Environmental
+Protection  Agency  (EPA)-registered  insect  repellents.  Insect  repellents  containing
+ingredients such as DEET, picaridin, and IR3535 are safe for use during pregnancy when
+used in accordance with the product label (6). To prevent human-to-mosquito-to-human
+transmission, persons infected with Zika, dengue, or chikungunya virus should protect
+themselves  from  mosquito  exposure  during  the  first  week  of  illness.  The  number  of
+mosquitoes  in  and  around  homes  can  be  reduced  by  emptying  standing  water  from
+containers,  installing  or  repairing  screens  on  windows  and  doors,  and  using  air
+conditioning if available. Further information on preventing mosquito bites is available
+online
+ (http://www.cdc.gov/features/stopmosquitoes/).
+ Antiviral
+ treatment
+ is
+ not
+currently  available  for  Zika  virus  disease;  treatment  is  supportive  and  includes  rest,
+fluids,  and  analgesic  and  antipyretic  medications.  Aspirin  and  other  nonsteroidal
+anti-inflammatory  medications  should  be  avoided  until  dengue  virus  infection  can  be
+ruled  out  (8).  Dengue  virus  infection  can  cause  serious  complications,  including
+hemorrhage and death, which might be substantially reduced by early recognition and
+supportive  treatment  (4,8).  Pregnant  women  with  fever  should  be  treated  with
+acetaminophen  (9).  Top  Recommendations  for  Zika  virus  testing  of  pregnant  women
+who have a clinical illness consistent with Zika virus disease during or within 2 weeks of
+travel  to  areas  with  ongoing  Zika  virus  transmission  are  unchanged  from  CDC
+recommendations released January 19, 2016 (1). Zika virus testing of maternal serum
+includes  reverse  transcription-polymerase  chain  reaction  (RT-PCR)  testing  for
+symptomatic
+ patients
+ with
+ onset
+ of
+ symptoms
+ during
+ the
+ previous
+ week;
+immunoglobulin M (IgM) and plaque-reduction neutralizing antibody testing should be
+performed on specimens collected ≥4 days after onset of symptoms (Figure 1) (1,10).
+Serologic testing for Zika virus can be offered to asymptomatic pregnant women who
+traveled  to  an  area  with  ongoing  Zika  virus  transmission  (Figure  1);  however,
+interpretation  of  results  is  complex.  Because  of  cross-reactivity  among  related
+flaviviruses, such as dengue, yellow fever, and West Nile viruses, a positive IgM result
+can  be  difficult  to  interpret.  Plaque-reduction  neutralization  testing  (PRNT)  can  be
+performed  to  measure  virus-specific  neutralizing  antibodies  to  Zika  virus  and  other
+flaviviruses.  The  levels  of  neutralizing  antibodies  can  then  be  compared  between
+flaviviruses,  but  these  tests  might  also  be  difficult  to  interpret  in  persons  who  were
+previously  infected  with  or  vaccinated  against  flaviviruses.  However,  a  negative  IgM
+result obtained 2–12 weeks after travel would suggest that a recent infection did not
+occur and could obviate the need for serial ultrasounds. Based on experience with other
+flaviviruses, IgM antibodies will be expected to be present at least 2 weeks after virus
+exposure and persist for up to 12 weeks (11–14). Information about the performance of
+serologic  testing  of  asymptomatic  persons  is  limited;  a  negative  serologic  test  result
+obtained 2–12 weeks after travel cannot definitively rule out Zika virus infection. Given
+these  challenges  in  interpreting  serologic  test  results,  health  care  providers  should
+contact their state, local, or territorial health department for assistance with arranging
+testing  and  interpreting  results.  CDC  is  working  with  health  departments  and  other
+organizations to rapidly increase the availability of testing for Zika virus. Top Pregnant
+women who reside in areas with ongoing Zika virus transmission should be evaluated
+for  symptoms  of  Zika  virus  disease.  For  women  who  report  clinical  illness  consistent
+with  Zika  virus  disease,  testing  by  RT-PCR  should  be  performed  on  serum  collected
+within  7  days  of  symptom  onset.  Because  viremia  decreases  over  time,  a  negative
+RT-PCR  result  from  serum  collected  5–7  days  after  symptom  onset  does  not  exclude
+Zika
+ virus
+ infection,
+ and
+ serologic
+ testing
+ should
+ be
+ performed.
+(http://www.aphl.org/Materials/CDCMemo_Zika_Chik_Deng_Testing_011916.pdf). A false
+positive  IgM  result  is  more  likely  among  women  residing  in  areas  with  ongoing  Zika
+virus  transmission  than  among  travelers  because  of  a  higher  likelihood  of  previous
+exposure  to  a  related  flavivirus.  Pregnant  women  who  do  not  report  clinical  illness
+consistent with Zika virus disease can be offered IgM testing upon initiation of prenatal
+care; among women with negative IgM results, repeat testing can be considered in the
+mid-second trimester because of the ongoing risk for Zika virus exposure and infection
+throughout pregnancy (Figure 2). Pregnant women with negative Zika virus IgM testing
+should receive routine prenatal care, including an assessment of pregnancy dating and
+an ultrasound at 18–20 weeks of gestation to assess fetal anatomy (15). The ultrasound
+should  include  careful  evaluation  of  the  fetus  for  brain  anomalies,  including
+microcephaly and intracranial calcifications. Because fetal microcephaly is most easily
+detected in the late second and early third trimesters of pregnancy (16), and because
+of  ongoing  potential  exposure  to  Zika  virus,  health  care  providers  might  consider  an
+additional  fetal  ultrasound  later  in  pregnancy.  Findings  of  fetal  microcephaly  or
+intracranial calcifications on prenatal ultrasound should prompt health care providers to
+repeat maternal IgM testing and consider amniocentesis, depending on gestational age.
+Zika  virus  testing  can  be  performed  on  amniotic  fluid  using  RT-PCR  to  inform  clinical
+management  (5).  Based  on  experience  with  other  congenital  infections  and  a  small
+number of prenatally-diagnosed fetal Zika virus infections (5,17), amniocentesis can be
+used  to  diagnose  intrauterine  infections  (18).  However,  the  performance  of  RT-PCR
+testing of amniotic fluid for Zika virus infection has not been evaluated. Furthermore,
+the  risk  for  microcephaly  or  other  anomalies  when  Zika  virus  RNA  is  detected  in
+amniotic  fluid  is  not  known.  Serial  fetal  ultrasounds  should  be  considered  to  monitor
+fetal  anatomy  and  growth  every  3–4  weeks  in  pregnant  women  with  positive  or
+inconclusive Zika virus test results, and referral to a maternal-fetal medicine specialist
+is  recommended.  Testing  is  recommended  at  the  time  of  delivery,  including
+histopathologic  examination  of  the  placenta  and  umbilical  cord,  testing  of  frozen
+placental tissue and cord tissue for Zika virus RNA, and testing of cord serum (1,19).
+Guidelines  for  infants  whose  mothers  have  possible  Zika  virus  infection  are  available
+(19). If a pregnant woman with Zika virus disease experiences a fetal loss, Zika virus
+RT-PCR  and  immunohistochemical  staining  should  be  performed  on  fetal  tissues,
+including umbilical cord and placenta (1). Sexual transmission of Zika virus can occur,
+although there is limited data about the risk (20). The risk for sexual transmission of
+Zika virus can be eliminated by abstinence and reduced by correct and consistent use
+of  condoms  (21).  Given  the  potential  risks  of  maternal  Zika  virus  infection,  pregnant
+women whose male partners have or are at risk for Zika virus infection should consider
+using  condoms  or  abstaining  from  sexual  intercourse  (21).  Additional  studies  are
+needed to characterize the risk for sexual transmission of Zika virus; recommendations
+will  be  updated  as  more  information  becomes  available.  Top  CDC  recommends  that
+health  care  providers  discuss  pregnancy  intention  and  reproductive  options  with
+women of reproductive age. Decisions regarding the timing of pregnancies are personal
+and complex; reproductive life plans can assist in making these decisions (22). Patient
+age, fertility, reproductive and medical history, as well as the values and preferences of
+the  woman  and  her  partner  should  be  considered  during  discussions  regarding
+pregnancy intentions and timing. In the context of the ongoing Zika virus transmission,
+preconception  care  should  include  a  discussion  of  the  signs  and  symptoms  and  the
+potential risks associated with Zika virus infection. Health care providers should discuss
+strategies to prevent unintended pregnancy with women who do not want to become
+pregnant;  these  strategies  should  include  counseling  on  family  planning  and  use  of
+contraceptive methods. Safety, effectiveness, availability, and acceptability should be
+considered  when  selecting  a  contraceptive  method  (23).  Approximately  half  of  U.S.
+pregnancies  each  year  are  unintended  (24);  patients  should  be  counseled  to  use  the
+most effective contraceptive method that can be used correctly and consistently. For
+women  desiring  highly  effective  contraception,  long  acting  reversible  contraception,
+including  contraceptive  implants  and  intrauterine  devices,  might  be  the  best  choice
+(http://www.cdc.gov/reproductivehealth/UnintendedPregnancy/PDF/Contraceptive_meth
+ods_508.pdf). When choosing a contraceptive method, the risk for sexually transmitted
+infections  should  also  be  considered;  correct  and  consistent  use  of  condoms  reduces
+the risk for sexually transmitted infections. Strategies to prevent mosquito bites should
+be  emphasized  for  women  living  in  areas  with  ongoing  Zika  virus  transmission  who
+want to become pregnant. These strategies, including wearing pants and long-sleeved
+shirts,  using  FDA-approved  insect  repellents,  ensuring  that  windows  and  doors  have
+screens, and staying inside air conditioned spaces when possible, can reduce the risk
+for  Zika  virus  infection  and  other  vector-borne  diseases.  During  preconception
+counseling visits, the potential risks of Zika virus infection acquired during pregnancy
+should  be  discussed.  Women  of  reproductive  age  with  current  or  previous
+laboratory-confirmed Zika virus infection should be counseled that there is no evidence
+that  prior  Zika  virus  infection  poses  a  risk  for  birth  defects  in  future  pregnancies  (7).
+This is because the viremia is expected to last approximately 1 week in patients with
+clinical  illness  (2,25).  There  is  no  current  evidence  to  suggest  that  a  fetus  conceived
+after  maternal  viremia  has  resolved  would  be  at  risk  for  fetal  infection  (7).  Top
+Corresponding  author:  Denise  Jamieson,  eocbirthdef@cdc.gov,  770-488-6377.  Top
+1Epidemic Intelligence Service, CDC; 2Division of Reproductive Health, National Center
+for Chronic Disease Prevention and Health Promotion, CDC; 3Division of Public Health
+Information  Dissemination,  Center  for  Surveillance,  Epidemiology,  and  Laboratory
+Services, CDC; 4Arboviral Diseases Branch, National Center for Emerging and Zoonotic
+Infectious  Diseases,  CDC;  5Office  of  the  Director,  National  Center  for  Emerging  and
+Zoonotic  Infectious  Diseases,  CDC;  6Division  of  Birth  Defects  and  Developmental
+Disabilities,  National  Center  on  Birth  Defects  and  Developmental  Disabilities,  CDC;
+7Division of HIV/AIDS Prevention, National Center for HIV/AIDS, Viral Hepatitis, STD, and
+Tuberculosis  Prevention,  CDC.  Top  Top  *  Clinical  illness  consistent  with  Zika  virus
+disease is defined as two or more of the following signs or symptoms: acute onset of
+fever, maculopapular rash, arthralgia, or conjunctivitis. Top * Testing is recommended
+for  pregnant  women  with  clinical  illness  consistent  with  Zika  virus  disease,  which
+includes  two  or  more  of  the  following  signs  or  symptoms:  acute  onset  of  fever,
+maculopapular  rash,  arthralgia,  or  conjunctivitis  during  or  within  2  weeks  of  travel.
+Testing  includes  Zika  virus  reverse  transcription-polymerase  chain  reaction  (RT-PCR),
+and Zika virus immunoglobulin M (IgM) and neutralizing antibodies on serum specimens
+(http://www.aphl.org/Materials/CDCMemo_Zika_Chik_Deng_Testing_011916.pdf).
+Because of the overlap of symptoms and areas where other viral illnesses are endemic,
+evaluation  for  dengue  or  chikungunya  virus  infection  is  also  recommended.  †  Testing
+can  be  offered  to  pregnant  women  without  clinical  illness  consistent  with  Zika  virus
+disease.  If  performed,  testing  should  include  Zika  virus  IgM,  and  if  IgM  test  result  is
+positive or indeterminate, neutralizing antibodies on serum specimens. Testing should
+be  performed  2–12  weeks  after  travel.  §  Laboratory  evidence  of  maternal  Zika  virus
+infection: 1) Zika virus RNA detected by RT-PCR in any clinical specimen; or 2) positive
+Zika  virus  IgM  with  confirmatory  neutralizing  antibody  titers  that  are  =4-fold  higher
+than  dengue  virus  neutralizing  antibody  titers  in  serum.  Testing  is  considered
+inconclusive  if  Zika  virus  neutralizing  antibody  titers  are  <4-fold  higher  than  dengue
+virus neutralizing antibody titers. ¶ Fetal ultrasounds might not detect microcephaly or
+intracranial calcifications until the late second or early third trimester of pregnancy. **
+Amniocentesis  is  not  recommended  until  after  15  weeks  of  gestation.  Amniotic  fluid
+should be tested for Zika virus RNA by RT-PCR. The sensitivity and specificity of RT-PCR
+testing on amniotic fluid are not known. Top * Tests for pregnant women with clinical
+illness
+ consistent
+ with
+ Zika
+ virus
+ disease
+ include
+ Zika
+ virus
+ reverse
+transcription-polymerase  chain  reaction  (RT-PCR),  and  Zika  virus  immunoglobulin  M
+(IgM)
+ and
+ neutralizing
+ antibodies
+ on
+ serum
+ specimens
+(http://www.aphl.org/Materials/CDCMemo_Zika_Chik_Deng_Testing_011916.pdf).
+Because of the overlap of symptoms and areas where other viral illnesses are endemic,
+evaluation  for  dengue  or  chikungunya  virus  infection  is  also  recommended.  If
+chikungunya  or  dengue  virus  RNA  is  detected,  treat  in  accordance  with  existing
+guidelines. Timely recognition and supportive treatment for dengue virus infections can
+substantially  lower  the  risk  of  medical  complications  and  death.  Repeat  Zika  virus
+testing  during  pregnancy  is  warranted  if  clinical  illness  consistent  with  Zika  virus
+disease  develops  later  in  pregnancy.  †  Testing  can  be  offered  to  pregnant  women
+without clinical illness consistent with Zika virus disease. If performed, testing should
+include Zika virus IgM, and if IgM test result is positive or indeterminate, neutralizing
+antibodies  on  serum  specimens.  Results  from  serologic  testing  are  challenging  to
+interpret  in  areas  where  residents  have  had  previous  exposure  to  other  flaviviruses
+(e.g., dengue, yellow fever). § Laboratory evidence of maternal Zika virus infection: 1)
+Zika virus RNA detected by RT-PCR in any clinical specimen; or 2) positive Zika virus
+IgM with confirmatory neutralizing antibody titers that are =4-fold higher than dengue
+virus  neutralizing  antibody  titers  in  serum.  Testing  is  considered  inconclusive  if  Zika
+virus  neutralizing  antibody  titers  are  <4-fold  higher  than  dengue  virus  neutralizing
+antibody  titer.  ¶  Amniocentesis  is  not  recommended  until  after  15  weeks  gestation.
+Amniotic  fluid  should  be  tested  for  Zika  virus  RNA  by  RT-PCR.  The  sensitivity  and
+specificity of RT-PCR testing on amniotic fluid are not known. ** Fetal ultrasounds might
+not detect microcephaly or intracranial calcifications until the late second or early third
+trimester of pregnancy. †† Local health officials should determine when to implement
+testing  of  asymptomatic  pregnant  women  based  on  information  about  levels  of  Zika
+virus transmission and laboratory capacity. §§ Clinical illness consistent with Zika virus
+disease is defined as two or more of the following signs or symptoms: acute onset of
+fever, maculopapular rash, arthralgia, or conjunctivitis. Top Suggested citation for this
+article:  Oduyebo  T,  Petersen  EE,  Rasmussen  SA,  et  al.  Update:  Interim  Guidelines  for
+Health  Care  Providers  Caring  for  Pregnant  Women  and  Women  of  Reproductive  Age
+with Possible Zika Virus Exposure — United States, 2016. MMWR Morb Mortal Wkly Rep
+2016;65:122–127. DOI: http://dx.doi.org/10.15585/mmwr.mm6505e2. 
+MMWR  and  Morbidity  and  Mortality  Weekly  Report  are  service  marks  of  the  U.S.
+Department of Health and Human Services.
+Use of trade names and commercial sources is for identification only and does not imply
+endorsement by the U.S. Department of 
+Health and Human Services. References to non-CDC sites on the Internet are 
+provided as a service to MMWR readers and do not constitute or imply 
+endorsement of these organizations or their programs by CDC or the U.S. 
+Department of Health and Human Services. CDC is not responsible for the content 
+of pages found at these sites. URL addresses listed in MMWR were current as of 
+the  date  of  publication.  All  HTML  versions  of  MMWR  articles  are  generated  from  final
+proofs through an automated process. 
+This  conversion  might  result  in  character  translation  or  format  errors  in  the  HTML
+version. 
+Users are referred to the electronic PDF version (https://www.cdc.gov/mmwr) 
+and/or the original MMWR paper copy for printable versions of official text, figures, and
+tables. 
+ Questions or messages regarding errors in formatting should be addressed to 
+mmwrq@cdc.gov.
+Source URL: https://www.cdc.gov/mmwr/volumes/65/wr/mm6505e2.htm

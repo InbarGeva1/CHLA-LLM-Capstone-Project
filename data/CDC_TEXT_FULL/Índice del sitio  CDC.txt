@@ -1,0 +1,7 @@
+Un sitio web .gov pertenece a una organización oficial del Gobierno de Estados Unidos. 
+Un candado (  ) o https:// significa que usted se conectó de
+forma segura a un sitio web .gov. Comparta información sensible sólo en sitios
+web oficiales y seguros.
+ CDC provides information on infection control and clinical safety to help reduce
+the risk of infections among healthcare workers, patients, and visitors.
+Source URL: https://www.cdc.gov/infection-control/es/site.html

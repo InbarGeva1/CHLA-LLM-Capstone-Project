@@ -1,0 +1,73 @@
+Official websites use .gov A .gov website belongs to an official government organization
+in  the  United  States.  Secure  .gov  websites  use  HTTPS  A  lock  (   )  or  https://  means
+you've  safely  connected  to  the  .gov  website.  Share  sensitive  information  only  on
+official,
+ secure
+ websites.
+ Facilities
+ eligible
+ to
+ report
+ data
+ to
+ NHSN’s
+ LTCF
+COVID-19/Respiratory  Pathogens  Module  include  nursing  homes/skilled  nursing,
+Intermediate  Care  Facilities  for  individuals  with  Intellectual  disability  (ICF/ID),  and
+assisted  living  facilities.  CDC’s  NHSN  provides  healthcare  facilities,  such  as  long-term
+care  facilities  (LTCFs),  with  a  secure  reporting  platform  for  reporting  outcomes  and
+process measures in a systematic way. Reported data are immediately available for use
+in  strengthening  local  and  national  surveillance,  monitoring  trends  in  infection  rates,
+assisting  in  identifying  resource  insecurities,  and  informing  progress  toward  infection
+prevention goals. The NHSN Long-term Care Facility Component supports the nation’s
+COVID-19  response  through  the  LTCF  COVID-19/Respiratory  Pathogens  Module.
+Facilities  eligible  to  report  data  to  NHSN’s  LTCF  COVID-19/Respiratory  Pathogens
+Module  include  nursing  homes/skilled  nursing,  Intermediate  Care  Facilities  for
+individuals  with  Intellectual  disability  (ICF/ID),  and  assisted  living  facilities.  Data
+reported into the LTCF COVID-19/Respiratory Pathogens Module Surveillance Reporting
+Pathways  facilitate  assessment  of  the  impact  of  COVID-19  and  other  Respiratory
+Pathogens through facility reported surveillance data. Examples of data reported in the
+pathways include: The Point-of-Care (POC) Test Reporting Tool is a separate reporting
+option  for  LTCFs  to  report  SARS-CoV-2  test  results  provided  by  a  POC  device.  NHSN
+routes reported POC laboratory test result data to the public health agency at the local
+or  state  level  with  jurisdictional  authority  and  responsibility  for  receiving  those  data.
+Important: the reporting of POC test result data in this tool does not take the place of
+answering  POC  related  questions  in  the  Resident  Impact  and  Facility  Capacity
+surveillance  reporting  pathway.  Weekly  reporting  of  COVID-19/Respiratory  Pathogens
+Vaccination data for residents and healthcare personnel is another option available to
+LTCFs. Additional information about surveillance and vaccination reporting, please visit
+the  Weekly  HCP  &  Resident  COVID-19  Vaccination  webpage.  LTCF  data  submission
+options include manual data entry, CSV file submission by individual facilities or bulk
+CSV  file  upload  for  multiple  facilities,  and/or  NHSN  DIRECT  CDA  Automation  for  the
+Point-of-Care (POC) Test Reporting Tool. Information about the Direct protocol can be
+found  here.  Send  questions  to  NHSNCDA@CDC.GOV  with  Subject  line  “Direct
+Submissions
+ for
+ POC
+ data.”
+ For
+ additional
+ information
+ about
+ the
+ LTCF
+COVID-19/Respiratory Pathogens Module, reporting options, data collection forms, form
+instructions,  archived  and  upcoming  trainings,  and  future  updates,  please  review  the
+resources  on  this  page.  Get  the  latest  information  from  the  CDC  about  COVID-19
+Through  the  Quality  Improvement  Organization  (QIO)  Program,  the  Centers  for
+Medicare & Medicaid Services (CMS) On-Demand Trainings are provided to Long-Term
+Care  Facilities  for  infection  control  processes  needed  in  nursing  homes  to  manage
+COVID-19.  To  review  a  list  of  archived  trainings  and  recordings,  as  well  as  view  and
+register  for  upcoming  trainings,  please  visit:  CMS-CDC  Fundamentals  of  COVID-19
+Prevention. Facilities looking to upload their data by working directly with a vendor will
+need to work with the vendor directly to provide their OrgID and establish the process.
+Vendors (e.g., EHR providers, EOC providers, etc.) intending to provide COVID-19 CSV
+uploads on behalf of NHSN facilities please submit an inquiry to NHSN@cdc.gov with the
+title  “Vendor  Support  for  NHSN  COVID-19  Facility  Reporting.”  NHSN  will  follow  up  to
+confirm procedural details as the process may differ by vendor.  
+ Training 
+ Newsletters / Members Meeting Updates 
+ E-mail Updates 
+ Health Department HAI/AR Programs To receive email updates about this page, enter
+your email address:  Questions about NHSN?Contact us: nhsn@cdc.gov
+Source URL: https://www.cdc.gov/nhsn/ltc/covid19/index.html

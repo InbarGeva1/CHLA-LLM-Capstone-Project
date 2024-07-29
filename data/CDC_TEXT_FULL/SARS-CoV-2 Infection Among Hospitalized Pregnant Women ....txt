@@ -1,0 +1,268 @@
+Official websites use .gov A .gov website belongs to an official government organization
+in  the  United  States.  Secure  .gov  websites  use  HTTPS  A  lock  (   )  or  https://  means
+you've  safely  connected  to  the  .gov  website.  Share  sensitive  information  only  on
+official,  secure  websites.  Weekly  /  September  25,  2020  /  69(38);1355–1359  On
+September 16, 2020, this report was posted online as an MMWR Early Release. Lakshmi
+Panagiotakopoulos,  MD1;  Tanya  R.  Myers,  PhD1;  Julianne  Gee,  MPH1;  Heather  S.
+Lipkind, MD2; Elyse O. Kharbanda, MD3; Denison S. Ryan, MPH4; Joshua T.B. Williams,
+MD5,6;  Allison  L.  Naleway,  PhD7;  Nicola  P.  Klein,  MD,  PhD8;  Simon  J.  Hambidge,  MD,
+PhD5,6;  Steven  J.  Jacobsen,  MD,  PhD4;  Jason  M.  Glanz,  PhD9;  Lisa  A.  Jackson,  MD10;
+Tom T. Shimabukuro, MD1; Eric S. Weintraub, MPH1 (View author affiliations) What is
+already known about this topic? Pregnant women might be at increased risk for severe
+illness  from  SARS-CoV-2  infection.  What  is  added  by  this  report?  Prevalences  of
+prepregnancy  obesity  and  gestational  diabetes  were  higher  among  pregnant  women
+hospitalized  for  COVID-19–related  illness  (e.g.,  worsening  respiratory  status)  than
+among  those  admitted  for  pregnancy-related  treatment  or  procedures  (e.g.,  delivery)
+and  found  to  have  COVID-19.  Intensive  care  was  required  for  30%  (13  of  43)  of
+pregnant  women  admitted  for  COVID-19,  and  one  pregnant  woman  died  from
+COVID-19.  What  are  the  implications  for  public  health  practice?  Antenatal  counseling
+emphasizing preventive measures, including use of masks, frequent hand washing, and
+social  distancing,  might  help  prevent  COVID-19  among  pregnant  women,  especially
+those  with  prepregnancy  obesity  and  gestational  diabetes.  Views  equals  page  views
+plus PDF downloads Table 1 Table 2 Table 3 Pregnant women might be at increased risk
+for  severe  coronavirus  disease  2019  (COVID-19),  possibly  related  to  changes  in  their
+immune system and respiratory physiology* (1). Further, adverse birth outcomes, such
+as  preterm  delivery  and  stillbirth,  might  be  more  common  among  pregnant  women
+infected  with  SARS-CoV-2,  the  virus  that  causes  COVID-19  (2,3).  Information  about
+SARS-CoV-2 infection during pregnancy is rapidly growing; however, data on reasons for
+hospital  admission,  pregnancy-specific  characteristics,  and  birth  outcomes  among
+pregnant  women  hospitalized  with  SARS-CoV-2  infections  are  limited.  During  March
+1–May  30,  2020,  as  part  of  Vaccine  Safety  Datalink  (VSD)†  surveillance  of  COVID-19
+hospitalizations,  105  hospitalized  pregnant  women  with  SARS-CoV-2  infection  were
+identified, including 62 (59%) hospitalized for obstetric reasons (i.e., labor and delivery
+or another pregnancy-related indication) and 43 (41%) hospitalized for COVID-19 illness
+without an obstetric reason. Overall, 50 (81%) of 62 pregnant women with SARS-CoV-2
+infection  who  were  admitted  for  obstetric  reasons  were  asymptomatic.  Among  43
+pregnant women hospitalized for COVID-19, 13 (30%) required intensive care unit (ICU)
+admission,  six  (14%)  required  mechanical  ventilation,  and  one  died  from  COVID-19.
+Prepregnancy obesity was more common (44%) among pregnant women hospitalized
+for COVID-19 than that among asymptomatic pregnant women hospitalized for obstetric
+reasons  (31%).  Likewise,  the  rate  of  gestational  diabetes  (26%)  among  pregnant
+women hospitalized for COVID-19 was higher than it was among women hospitalized for
+obstetric  reasons  (8%).  Preterm  delivery  occurred  in  15%  of  pregnancies  among  93
+women who delivered, and stillbirths (fetal death at ≥20 weeks’ gestation) occurred in
+3%.  Antenatal  counseling  emphasizing  preventive  measures  (e.g.,  use  of  masks,
+frequent  hand  washing,  and  social  distancing)  might  help  prevent  COVID-19  among
+pregnant  women,§  especially  those  with  prepregnancy  obesity  and  gestational
+diabetes,  which  might  reduce  adverse  pregnancy  outcomes.  VSD  is  a  collaboration
+between  CDC’s  Immunization  Safety  Office  and  nine  U.S.  health  care  organizations
+serving  more  than  12  million  persons  each  year.  Hospitalizations  with  a  patient
+diagnosis  of  COVID-19  were  identified  using  COVID-19  International  Classification  of
+Diseases,  Tenth  Revision,  Clinical  Modification,  (ICD-10-CM)¶  and  site-specific  internal
+diagnosis codes during March 1–May 30, 2020. Pregnant women were identified using a
+validated algorithm based on ICD-9 diagnosis and procedure codes (4) that has been
+modified  for  ICD-10.  For  this  study,  medical  records  of  women  hospitalized  with
+COVID-19 were reviewed by abstractors and adjudicated by a physician to identify the
+primary
+ reason
+ for
+ hospital
+ admission,
+ pregnancy
+ characteristics,
+ COVID-19
+complications, and birth outcomes among women who delivered before July 31, 2020.
+Pregnant  women  with  COVID-19  diagnoses  were  classified  into  the  following  three
+groups based on the primary reason for admission: 1) treatment of COVID-19 without
+an obstetric reason (e.g., worsening respiratory distress); 2) an obstetric reason, along
+with  symptoms  consistent  with  COVID-19  (e.g.,  fever,  chills,  cough,  shortness  of
+breath); and 3) an obstetric reason, without COVID-19–compatible symptoms (or with a
+history of resolved COVID-19), but with a positive test result for SARS-CoV-2 at the time
+of  admission.  Demographic  and  pregnancy  characteristics  among  pregnant  women
+admitted  for  COVID-19  were  compared  with  those  of  women  admitted  for  obstetric
+reasons. Birth outcomes in pregnant women with SARS-COV-2 infection were compared
+with background rates among all pregnant women in eight VSD sites during the study
+period.  This  activity  was  reviewed  by  CDC  and  was  conducted  consistent  with
+applicable federal law and CDC policy.** SAS software (version 9.4; SAS Institute) was
+used  to  conduct  all  analyses.  During  March  1–May  30,  among  4,408  persons
+hospitalized with a COVID-19 diagnosis at VSD sites, 105 (2.4%) pregnant women were
+identified.  SARS-CoV-2  real-time  reverse  transcription–polymerase  chain  reaction  test
+results  were  positive  for  104  women.  One  additional  woman,  who  had  a  negative
+SARS-CoV-2  test  result,  was  symptomatic  and  had  close  contacts  with  confirmed
+COVID-19;  she  received  a  clinical  diagnosis  of  COVID-19.  Among  these  105  pregnant
+women,  43  (41.0%)  were  hospitalized  for  COVID-19  illness  and  62  (59.0%)  were
+admitted for obstetric reasons (Table 1). Among the 62 women admitted for obstetric
+reasons,  12  (19.4%)  had  COVID-19–compatible  symptoms,  and  50  (80.6%)  were
+asymptomatic. The median age of all women was 30 years (range = 17–54 years), and
+61.9%  were  Hispanic  or  Latino  (Table  2).  ICU  admission  was  required  for  14  (13.3%)
+hospitalized  pregnant women,  including  13 (30.2%) of  the 43 women  hospitalized  for
+COVID-19; six of these women required mechanical ventilation, and one, admitted at 15
+weeks’ gestation, died from COVID-19. The prevalence of prepregnancy obesity (body
+mass  index  ≥30  kg/m2)  was  36.2%  overall  and  was  higher  among  the  43  women
+hospitalized for COVID-19 (44.2%) than among the 62 hospitalized for obstetric reasons
+(30.6%).  Similarly,  prevalence  of  gestational  diabetes  was  higher  among  women
+hospitalized for COVID-19 (25.6%) than among those hospitalized for obstetric reasons
+(8.1%). Among all 105 pregnant women hospitalized with COVID-19, 93 (88.6%) had a
+pregnancy outcome before July 31 (Table 3), including 79 (84.9%) who delivered during
+their initial hospitalization and 14 (15.1%) during a subsequent hospitalization. One of
+the remaining 12 women died during initial hospitalization, and 11 were still pregnant
+at  the  time  of  analysis.  Preterm  delivery  prevalence  was  15.1%  overall  and  12.2%
+among  live  births,  which  is  nearly  70%  higher  than  baseline  rates  in  VSD  during  the
+study period (8.9% among 43,571 live births and stillbirths in VSD). Stillbirth prevalence
+(3.2%)  was  more  than  four  times  higher  among  women  with  SARS-CoV-2  than  the
+baseline  rate  in  VSD  during  the  study  period  (0.6%).  All  three  stillbirths  were
+antepartum: one with placental abruption and two with no identified etiology based on
+adjudication. Top Among 105 hospitalized pregnant women with COVID-19 diagnoses in
+VSD during March 1–May 30, 41% were hospitalized because of COVID-19 illness, and
+59%  were  admitted  for  obstetric  reasons.  Approximately  80%  of  those  admitted  for
+obstetric  reasons  were  asymptomatic  with  COVID-19.  This  percentage  is  similar  to
+findings  from  a  New  York  City  study  that  reported  universal  screening  of  obstetrics
+patients
+ on
+ admission
+ and
+ found
+ that
+ among
+ 13.7%
+ of
+ women
+ with
+SARS-CoV-2–positive  test  results,  87.9%  were  asymptomatic  (5).  Similarly,  among
+pregnant women admitted to a large managed care organization in southern California
+for  labor  and  delivery  who  were  offered  universal  screening,  the  prevalence  of
+SARS-CoV-2  infection  was  0.4%,  and  all  women  with  positive  test  results  were
+asymptomatic (6). Compared with background rates of all pregnant women in the VSD
+population during the same period, the current findings indicate increased percentages
+of preterm delivery and stillbirths occur among all pregnant women with SARS-CoV-2
+infection. Other studies have also found higher rates of preterm delivery and stillbirth in
+pregnant  women  with  SARS-CoV-2  infection  (symptomatic  and  asymptomatic),
+compared  with  those  in  the  general  population  (2,3).  Higher  percentages  of
+prepregnancy obesity and gestational diabetes were identified among pregnant women
+hospitalized  for  COVID-19  illness  without  an  obstetric  reason,  compared  with  the
+percentages  of  these  conditions  in  pregnant  women  with  SARS-CoV-2  infection  who
+were  admitted  for  obstetric  reasons.  Underlying  medical  conditions,  including  obesity
+and diabetes have been recognized as risk factors for severe COVID-19 disease (7,8). A
+study  of  46  pregnant  women  with  COVID-19  (9)  found  that  nearly  all  women  with
+severe  infection  were  overweight  or  obese.  This  study  also  identified  higher  rates  of
+complications in pregnant women with SARS-CoV-2 infection (including the need for ICU
+admission or mechanical ventilation) and death, which highlight the importance of all
+pregnant women and their close contacts adhering to COVID-19 prevention measures.
+The findings in this report are subject to at least five limitations. First, the number of
+pregnant  women  with  SARS-CoV-2  infection  was  small,  limiting  the  power  to  detect
+significant  differences  among  comparison  groups.  Second,  during  this  study  period,
+various  screening  policies  were  being  implemented  across  VSD  sites.  As  a  result,
+asymptomatic women with SARS-CoV-2 infection hospitalized during pregnancy might
+have  been  missed,  especially  earlier  in  the  study  period.  Third,  this  study  did  not
+routinely  identify  pregnant  women  with  negative  SARS-CoV-2  test  results.  More
+information is needed to understand whether a universal screening strategy should be
+considered in the care of pregnant women, and, if so, when in pregnancy (timing and
+setting) this should be implemented. Fourth, this study did not collect information on
+prenatal  care,  which  is  known  to  affect  pregnancy  outcomes.  However,  VSD’s
+surveillance population is primarily insured and has high rates of standard prenatal care
+(10),  and  birth  outcomes  among  pregnant  women  with  SARS-CoV-2  infection  were
+compared with background rates in VSD during the study period. Although studying a
+primarily  insured  population  might  limit  generalizability  of  study  findings,  VSD  does
+capture  publicly  insured  persons,  and  includes  one  large  integrated  urban  safety-net
+health  system††  serving  uninsured  patients.  Finally,  this  study  did  not  control  for
+important predisposing factors for adverse birth outcomes, such as pregnancy-related
+conditions,  and  more  information  is  needed  to  understand  the  effects  of  SARS-CoV-2
+infection  on  pregnancy  outcome.  This  report  addresses  gaps  in  previously  reported
+surveillance  data  by  using  a  combination  of  diagnosis  codes,  medical  record  review,
+and  physician  adjudication  to  identify  various  reasons  for  hospital  admission  among
+pregnant women with COVID-19, their pregnancy characteristics, and birth outcomes.
+This  report  highlights  the  importance  of  antenatal  counseling  in  pregnant  women,
+especially those with prepregnancy obesity and gestational diabetes. Counseling should
+emphasize  preventive  measures  for  all  pregnant  women  and  their  close  contacts,
+including  use  of  masks,  frequent  hand  washing,  social  distancing,  and  avoidance  of
+large  gatherings  to  help  prevent  SARS-CoV-2  infection  and  COVID-19–associated
+pregnancy  complications.  Top  Vaccine  Safety  Datalink  project  managers,  data
+managers,  and  chart  abstractors;  CDC  COVID-19  Vaccine  Safety  Team,  Vaccine
+Planning
+ Unit.
+ Top
+ Corresponding
+ author:
+ Lakshmi
+ Panagiotakopoulos,
+lpanagiotakopoulos@cdc.gov.  Top  1Division  of  Healthcare  Quality  Promotion,  National
+Center  for  Emerging  and  Zoonotic  Infectious  Diseases,  CDC;  2Yale  University,  New
+Haven, Connecticut; 3HealthPartners Institute, Minneapolis, Minnesota; 4Research and
+Evaluation, Kaiser Permanente Southern California, Pasadena, California; 5Ambulatory
+Care Services, Denver Health, Denver, Colorado; 6Department of Pediatrics, University
+of Colorado School of Medicine, Aurora, Colorado; 7Center for Health Research, Kaiser
+Permanente  Northwest,  Portland,  Oregon;  8Kaiser  Permanente  Vaccine  Study  Center,
+Kaiser  Permanente  Northern  California,  Oakland,  California;  9Institute  for  Health
+Research,  Kaiser  Permanente  Colorado,  Aurora,  Colorado;  10Kaiser  Permanente
+Washington  Health  Research  Institute,  Seattle,  Washington.  Top  All  authors  have
+completed and submitted the International Committee of Medical Journal Editors form
+for  disclosure  of  potential  conflicts  of  interest.  Denison  S.  Ryan  reports  grants  from
+Amgen,  Merck  &  Co.,  and  Radius  Health  and  other  support  from  O.N.  Diagnostics
+outside the submitted work. Allison L. Naleway reports grants from Pfizer outside the
+submitted  work.  Nicola  P.  Klein  reports  grants  from  Sanofi  Pasteur,  GlaxoSmithKline,
+Pfizer, Merck & Co., and Protein Science outside the submitted work. No other potential
+conflicts of interest were disclosed. Top * http://dx.doi.org/10.15585/mmwr.mm6938e1.
+†
+ https://www.cdc.gov/vaccinesafety/ensuringsafety/monitoring/vsd/.
+ §
+https://www.cdc.gov/coronavirus/2019-ncov/need-extra-precautions/pregnancy-breastfe
+eding.html. ¶ https://www.cdc.gov/nchs/icd/icd10cm.htm. ** 45 C.F.R. part 46.102(l)(2),
+21 C.F.R. part 56; 42 U.S.C. Sect. 241(d); 5 U.S.C. Sect. 552a; 44 U.S.C. Sect. 3501 et
+seq.  ††  https://www.denverhealth.org/about-denver-health.  Top  Top  Abbreviation:
+COVID-19 = coronavirus disease 2019.
+* Hospitalization with a COVID-19 diagnosis code.
+† Percentages might not sum to 100 because of rounding.
+§ Pregnant women with resolved COVID-19 who had positive test results for SARS-CoV-2
+by  real-time  reverse  transcription–polymerase  chain  reaction.  Top  Abbreviations:
+ARDS  =  acute  respiratory  distress  syndrome;  COVID-19  =  coronavirus  disease  2019;
+HFNC = high-flow nasal cannula; ICU = intensive care unit.
+* Hospitalization with a COVID-19 diagnosis code.
+† Includes women with COVID-19 symptoms who were admitted for labor and delivery,
+pyelonephritis,  pre-eclampsia,  and  fetal  monitoring  after  motor  vehicle  accident  in
+pregnancy.
+§ Includes women asymptomatically infected with SARS-CoV-2 and who were admitted
+for labor and delivery, vaginal bleeding, or placenta previa.
+¶  Includes  one  non-Hispanic  Hawaiian,  one  non-Hispanic  American  Indian/Alaskan
+Native, and four multiracial pregnant women.
+**  Includes  one  non-Hispanic  Hawaiian,  one  non-Hispanic  American  Indian/Alaskan
+Native, and one multiracial pregnant woman.
+†† Includes three multiracial pregnant women.
+§§ Subcategories are not mutually exclusive.
+¶¶ Represents postpartum COVID-19 illness woman admitted for delivery.
+***  Medical  treatments  and  interventions  were  ascertained  upon  review  of  hospital
+admission  and  discharge  notes  and  medical  administration  records  and  were  only
+included  if  determined  that  they  were  used  to  treat  COVID-19–related  complications;
+these
+ included
+ albuterol,
+ azithromycin,
+ convalescent
+ plasma,
+ enoxaparin,
+hydroxychloroquine, lopinavir/ritonavir, mechanical ventilation, oseltamivir, remdesivir,
+supplemental oxygen, and systemic steroids.
+††† Body mass index ≥30 kg/m2.
+§§§ History of preterm delivery reported among women with previous pregnancies. Top
+Abbreviations: COVID-19 = coronavirus disease 2019; NICU = neonatal intensive care
+unit.
+*  Includes  delivery,  pyelonephritis,  preeclampsia,  and  fetal  monitoring  after  motor
+vehicle accident in pregnancy.
+† Includes delivery, vaginal bleeding, and placenta previa.
+§ Defined as the date of birth of fetus or infant.
+¶ Median gestational age among preterm deliveries = 34 wks.
+**  Includes  three  pregnant  women  with  COVID-19  with  respiratory  distress  in  whom
+labor was induced.
+†† Fetal death occurring at ≥20 wks’ gestation. Top Suggested citation for this article:
+Panagiotakopoulos L, Myers TR, Gee J, et al. SARS-CoV-2 Infection Among Hospitalized
+Pregnant  Women:  Reasons  for  Admission  and  Pregnancy  Characteristics  —  Eight  U.S.
+Health  Care  Centers,  March  1–May  30,  2020.  MMWR  Morb  Mortal  Wkly  Rep
+2020;69:1355–1359. DOI: http://dx.doi.org/10.15585/mmwr.mm6938e2. 
+MMWR  and  Morbidity  and  Mortality  Weekly  Report  are  service  marks  of  the  U.S.
+Department of Health and Human Services.
+Use of trade names and commercial sources is for identification only and does not imply
+endorsement by the U.S. Department of 
+Health and Human Services. References to non-CDC sites on the Internet are 
+provided as a service to MMWR readers and do not constitute or imply 
+endorsement of these organizations or their programs by CDC or the U.S. 
+Department of Health and Human Services. CDC is not responsible for the content 
+of pages found at these sites. URL addresses listed in MMWR were current as of 
+the  date  of  publication.  All  HTML  versions  of  MMWR  articles  are  generated  from  final
+proofs through an automated process. 
+This  conversion  might  result  in  character  translation  or  format  errors  in  the  HTML
+version. 
+Users are referred to the electronic PDF version (https://www.cdc.gov/mmwr) 
+and/or the original MMWR paper copy for printable versions of official text, figures, and
+tables. 
+ Questions or messages regarding errors in formatting should be addressed to 
+mmwrq@cdc.gov.
+Source URL: https://www.cdc.gov/mmwr/volumes/69/wr/mm6938e2.htm
