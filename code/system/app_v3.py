@@ -120,7 +120,7 @@ Given this information, please provide me with an answer to the following: {inpu
 """)
 
 # define conversational memory for LLM
-memory = ConversationBufferMemory(memory_key="previous_contxt")
+memory = ConversationBufferMemory(memory_key="previous_context")
 
 # Initialize the LLM
 ollama_llm = Ollama(model="llama3.1", base_url="http://localhost:11434", temperature=0.01)
