@@ -21,7 +21,7 @@ chla_embedding = HuggingFaceEmbeddings(model_name='all-MiniLM-L6-v2')
 chla_vectordb = Chroma.from_documents(documents=chla_docs, embedding=chla_embedding, persist_directory=chla_persist_dir)
 
 # Load CDC documents
-cdc_loader = DirectoryLoader('data/CDC_text', glob='*.txt', loader_cls=TextLoader)
+cdc_loader = DirectoryLoader('data/CDC_TEXT_FULL', glob='*.txt', loader_cls=TextLoader)
 cdc_docs = cdc_loader.load()
 
 # Ensure documents are loaded correctly
