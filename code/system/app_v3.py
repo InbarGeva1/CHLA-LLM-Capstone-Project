@@ -236,6 +236,8 @@ def boot():
             "cdc_context": cdc_summary,
             "input_text": query
         })
+
+         response = chain.run(prompt=combined_prompt)
         st.session_state.messages.append(["ai", response])
 
         # Stream the response for a better user experience
