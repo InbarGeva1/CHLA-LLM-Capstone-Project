@@ -7,6 +7,7 @@ from langchain_huggingface import HuggingFaceEmbeddings
 from langchain_community.embeddings import SentenceTransformerEmbeddings
 from langchain.globals import set_verbose, get_verbose
 from langchain_core.output_parsers import StrOutputParser
+from langchain.memory import ConversationBufferMemory
 import time
 import re
 
