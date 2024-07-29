@@ -228,8 +228,8 @@ def boot():
             "previous_context": previous_context,
             "cdc_url": cdc_url,
             "chla_title": chla_title,
-            "chla_context": chla_summary,
-            "cdc_context": cdc_summary,
+            "chla_context": chla_context,
+            "cdc_context": cdc_context,
             "input_text": query
         })
 
