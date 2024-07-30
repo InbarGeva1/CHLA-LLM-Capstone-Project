@@ -7,5 +7,7 @@ pypandoc==1.13
 regex==2024.5.15
 sentence-transformers==3.0.1
 streamlit==1.12.0
+requests==2.31.0
+scikit-lean==1.5.0
 
 
