@@ -41,21 +41,6 @@ class DocumentConverter:
             self.move_to_exceptions(file_path)
             return ""
 
-    # Convert .doc files to text via intermediate .docx conversion
-    def convert_doc_to_text(self, file_path):
-        try:
-            converted_file = file_path + ".converted.docx"
-            # Convert .doc to .docx
-            pypandoc.convert_file(file_path, 'docx', outputfile=converted_file)
-            # Convert the .docx to text
-            text = self.convert_docx_to_text(converted_file)
-            os.remove(converted_file)       # Remove intermediate .docx file
-            return text
-        except Exception as e:
-            print(f"Error converting {file_path}: {e}")
-            self.move_to_exceptions(file_path)
-            return ""
-
     # Save the converted text to a .txt file
     def save_text_to_file(self, filename, text):
         text_file_path = os.path.join(self.destination_directory, filename + ".txt")
@@ -81,8 +66,6 @@ class DocumentConverter:
                 text = self.convert_docx_to_text(file_path)
             elif filename.endswith(".pdf"):
                 text = self.convert_pdf_to_text(file_path)
-            elif filename.endswith(".doc"):
-                text = self.convert_doc_to_text(file_path)
 
             if text:
                 base_filename = os.path.splitext(filename)[0]
