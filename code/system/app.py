@@ -77,24 +77,26 @@ CDC Documentation: {cdc_context}
 
 ### End of CDC Context
 
-### Primary Instructions:
+### Step 1 Instructions:
 You are a policy guidance chatbot for the Children's Hospital Los Angeles (CHLA) responsible for providing both CHLA and CDC policy guidance. 
-You should only answer questions regarding CHLA IPC policy with supporting CDC guidance. \n 
-If the CHLA or CDC context provided above DOES NOT directly answer the user query/question, tell the user that "I am unable to locate the relevant policy documentation relevant to your question. Please consult with CHLA's IPC." and do not provide any additional conversational response other than that.
-If the CHLA or CDC context provided above IS relevant to the user query/question, continue on to Secondary Instructions. \n
-### End of Primary Instructions
+If the CHLA or CDC context provided above DOES NOT directly answer the user query/question, tell the user that "I am unable to locate the relevant policy documentation relevant to your question. Please consult with CHLA's IPC." 
+End the response and do not provide any additional conversational response other than that.
+If the CHLA or CDC context provided above IS relevant to the user query/question, continue on to Step 2 Instructions. \n
+### End Step 1 Instructions
 
-### Secondary Instructions:
-Provide TWO separate, detailed, and thorough summaries for BOTH the CHLA DOCUMENTATION and CDC DOCUMENTATION that is faithful to the documentation above.
+### Step 2 Instructions:
+Provide TWO separate detailed summaries for BOTH the CHLA DOCUMENTATION and CDC DOCUMENTATION that is faithful to the documentation above.
 The answers to the question should each be sourced from the CHLA and CDC context respectively. \n
-
-Attach the title of the document, {chla_title} and the static link at the end of the CHLA summary: https://chla.sharepoint.com/:f:/r/teams/LMUCHLACollaboration-T/Shared%20Documents/LLM%20Policy%20Bot%20Capstone/Infection%20Control?csf=1&web=1&e=kZAdVc \n
-Remove brackets [] or backslash n from the link: {cdc_url} and attach this link to the end of the CDC summary.
-Maintain all medical terminology and ensure the response is clear. 
 Use bullet points and step-by-step instructions for clarity when applicable. \n
+Maintain all medical terminology and ensure the response is clear. \n
+Attach the title of the document, {chla_title} and the static link at the end of the CHLA summary: https://chla.sharepoint.com/:f:/r/teams/LMUCHLACollaboration-T/Shared%20Documents/LLM%20Policy%20Bot%20Capstone/Infection%20Control?csf=1&web=1&e=kZAdVc \n
+Remove brackets [] or backslash n from the link: {cdc_url} and attach this link to the end of the CDC summary. 
+### End Step 2 Instructions
 
-If the current question is related to the previous context, answer the question directly based on the previous context.
-### End Secondary Instructions
+### Requirements:
+Only answer questions regarding CHLA IPC policy and CDC guidance. \n 
+CHLA and CDC summaries must be seperate. \n
+CHLA and CDC links must be included at the end of each summary. \n
 
 ### Example Output:
 
@@ -119,7 +121,7 @@ Given this information, please provide me with an answer to the following: {inpu
 #memory = ConversationBufferMemory(memory_key="previous_context")
 
 # Initialize the LLM
-ollama_llm = Ollama(model="llama3.1", base_url="http://localhost:11434", temperature=0.01)
+ollama_llm = Ollama(model="llama3.1", base_url="http://localhost:11434", temperature=0)
 
 chain = prompt_template | ollama_llm | StrOutputParser()
 
@@ -157,10 +159,10 @@ Do not provide any additional conversational response other than the requested o
 """)
 
 # Initialize LLM for context chains
-context_llm = Ollama(model="llama3.1", base_url="http://localhost:11434", temperature=0.01)
+context_llm = Ollama(model="llama3.1", base_url="http://localhost:11434", temperature=0)
 context_chain_chla = context_template_chla | context_llm | StrOutputParser()
 
-context_llm = Ollama(model="llama3.1", base_url="http://localhost:11434", temperature=0.01)
+context_llm = Ollama(model="llama3.1", base_url="http://localhost:11434", temperature=0)
 context_chain_cdc = context_template_cdc | context_llm | StrOutputParser()
 
 # Paths to logo and icon images
@@ -205,13 +207,9 @@ def boot():
         # Generate context summaries
         chla_context = context_chain_chla.invoke({"context": chla_context, "query": query})
         cdc_context = context_chain_cdc.invoke({"context": cdc_context, "query": query})
-
-        # Combine previous AI responses to form the previous context
-        previous_context = "\n".join([msg[1] for msg in st.session_state.messages if msg[0] == "ai"])
         
         # Format the prompt with the relevant information
         combined_prompt = prompt_template.format(
-            previous_context=previous_context,
             cdc_url=cdc_url,
             chla_title=chla_title,
             chla_context=chla_context,
@@ -221,7 +219,6 @@ def boot():
         
         # Generate the response using the combined prompt
         response = chain.invoke({
-            "previous_context": previous_context,
             "cdc_url": cdc_url,
             "chla_title": chla_title,
             "chla_context": chla_context,
