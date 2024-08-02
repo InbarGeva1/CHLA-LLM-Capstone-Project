@@ -20,14 +20,14 @@ embedding = HuggingFaceEmbeddings(model_name='all-MiniLM-L6-v2')
 
 # Initialize CHLA vector store and retriever
 chla_vectordb = Chroma(embedding_function=embedding, persist_directory=chla_dir)
-chla_retriever = chla_vectordb.as_retriever(search_kwargs={'k': 1})
+chla_retriever = chla_vectordb.as_retriever(search_kwargs={'k': 2})
 
 # Initialize embedding model
 embedding = HuggingFaceEmbeddings(model_name='all-MiniLM-L6-v2')
 
 # Initialize CDC vector store and retriever
 cdc_vectordb = Chroma(embedding_function=embedding, persist_directory=cdc_dir)
-cdc_retriever = cdc_vectordb.as_retriever(search_kwargs={'k': 1})
+cdc_retriever = cdc_vectordb.as_retriever(search_kwargs={'k': 2})
 
 # Function to extract URLs from text
 def extract_url(text):
@@ -79,8 +79,8 @@ CDC Documentation: {cdc_context}
 
 ### Step 1 Instructions:
 You are a policy guidance chatbot for the Children's Hospital Los Angeles (CHLA) responsible for providing both CHLA and CDC policy guidance. 
-If the CHLA or CDC context provided above DOES NOT directly answer the user query/question, tell the user that "I am unable to locate the relevant policy documentation relevant to your question. Please consult with CHLA's IPC." 
-End the response and do not provide any additional conversational response other than that.
+If the CHLA or CDC context provided above DOES NOT include the answer to the user query/question, tell the user that "I am unable to locate the relevant policy documentation relevant to your question. Please consult with CHLA's IPC." 
+End the response and do not provide any additional conversational response.
 If the CHLA or CDC context provided above IS relevant to the user query/question, continue on to Step 2 Instructions. \n
 ### End Step 1 Instructions
 
@@ -94,9 +94,9 @@ Remove brackets [] or backslash n from the link: {cdc_url} and attach this link 
 ### End Step 2 Instructions
 
 ### Requirements:
-Only answer questions regarding CHLA IPC policy and CDC guidance. \n 
+Only answer questions that can be answered using the CHLA IPC policy and CDC guidance. \n 
 CHLA and CDC summaries must be seperate. \n
-CHLA and CDC links must be included at the end of each summary. \n
+CHLA and CDC links must be included. \n
 
 ### Example Output:
 
@@ -135,8 +135,8 @@ context_template_chla = PromptTemplate.from_template("""
 ### End Context
 
 ### Instructions
-You are responsible for taking the input CHLA context and outputting a thorough and detailed summary, preserving all technical medical terminology and policies relevant to this question: {query} 
-The provided summary should not answer the question, but instead provide all information relevant to the question. 
+You are responsible for taking the input CHLA context and outputting a detailed summary, preserving all technical medical terminology and policies relevant to this question: {query} 
+The provided summary should not answer the question, but instead provide all information relevant to the question as well as the document name.
 Do not provide any additional conversational response other than the requested output.
 ### End Instructions
 
@@ -150,8 +150,8 @@ context_template_cdc = PromptTemplate.from_template("""
 ### End Context
 
 ### Instructions
-You are responsible for taking the input CDC context and outputting a thorough and detailed summary, preserving all technical medical terminology and policies relevant to this question: {query} 
-The provided summary should not answer the question, but instead provide all information relevant to the question. 
+You are responsible for taking the input CDC context and outputting a detailed summary, preserving all technical medical terminology and policies relevant to this question: {query} 
+The provided summary should not answer the question, but instead provide all information relevant to the question as well as the document name.
 Do not provide any additional conversational response other than the requested output.
 
 ### End Instructions
@@ -216,6 +216,7 @@ def boot():
             cdc_context=cdc_context,
             input_text=query
         )
+        st.write(combined_prompt)
         
         # Generate the response using the combined prompt
         response = chain.invoke({
