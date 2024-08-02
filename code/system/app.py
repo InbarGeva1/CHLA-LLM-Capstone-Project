@@ -20,14 +20,14 @@ embedding = HuggingFaceEmbeddings(model_name='all-MiniLM-L6-v2')
 
 # Initialize CHLA vector store and retriever
 chla_vectordb = Chroma(embedding_function=embedding, persist_directory=chla_dir)
-chla_retriever = chla_vectordb.as_retriever(search_kwargs={'k': 2})
+chla_retriever = chla_vectordb.as_retriever(search_kwargs={'k': 1})
 
 # Initialize embedding model
 embedding = HuggingFaceEmbeddings(model_name='all-MiniLM-L6-v2')
 
 # Initialize CDC vector store and retriever
 cdc_vectordb = Chroma(embedding_function=embedding, persist_directory=cdc_dir)
-cdc_retriever = cdc_vectordb.as_retriever(search_kwargs={'k': 2})
+cdc_retriever = cdc_vectordb.as_retriever(search_kwargs={'k': 1})
 
 # Function to extract URLs from text
 def extract_url(text):
@@ -67,11 +67,13 @@ def remove_trail(text):
 # Define the prompt template for generating responses
 prompt_template = PromptTemplate.from_template("""
 
-### Current Context
+### CHLA Context
 
 CHLA Documentation: {chla_context}
 
 ### End of CHLA Context
+
+### CDC Context
 
 CDC Documentation: {cdc_context}
 
@@ -81,14 +83,13 @@ CDC Documentation: {cdc_context}
 You are a policy guidance chatbot for the Children's Hospital Los Angeles (CHLA) responsible for providing both CHLA and CDC policy guidance. 
 If the CHLA or CDC context provided above DOES NOT include the answer to the user query/question, tell the user that "I am unable to locate the relevant policy documentation relevant to your question. Please consult with CHLA's IPC." 
 End the response and do not provide any additional conversational response.
-If the CHLA or CDC context provided above IS relevant to the user query/question, continue on to Step 2 Instructions. \n
+If the CHLA or CDC context provided can answer or is similar to the user query/question, continue on to Step 2 Instructions. \n
 ### End Step 1 Instructions
 
 ### Step 2 Instructions:
 Provide TWO separate detailed summaries for BOTH the CHLA DOCUMENTATION and CDC DOCUMENTATION that is faithful to the documentation above.
 The answers to the question should each be sourced from the CHLA and CDC context respectively. \n
 Use bullet points and step-by-step instructions for clarity when applicable. \n
-Maintain all medical terminology and ensure the response is clear. \n
 Attach the title of the document, {chla_title} and the static link at the end of the CHLA summary: https://chla.sharepoint.com/:f:/r/teams/LMUCHLACollaboration-T/Shared%20Documents/LLM%20Policy%20Bot%20Capstone/Infection%20Control?csf=1&web=1&e=kZAdVc \n
 Remove brackets [] or backslash n from the link: {cdc_url} and attach this link to the end of the CDC summary. 
 ### End Step 2 Instructions
@@ -113,7 +114,7 @@ CDC Citation Link:
 ### End of Example
 
 ### User Query
-Given this information, please provide me with an answer to the following: {input_text} 
+Given these instructions, please provide me with an answer to the following: {input_text} 
 
 """)
 
@@ -135,7 +136,7 @@ context_template_chla = PromptTemplate.from_template("""
 ### End Context
 
 ### Instructions
-You are responsible for taking the input CHLA context and outputting a detailed summary, preserving all technical medical terminology and policies relevant to this question: {query} 
+You are responsible for taking the input CHLA context and outputting a detailed summary, preserving all policy guidance relevant to this question: {query} 
 The provided summary should not answer the question, but instead provide all information relevant to the question as well as the document name.
 Do not provide any additional conversational response other than the requested output.
 ### End Instructions
@@ -150,7 +151,7 @@ context_template_cdc = PromptTemplate.from_template("""
 ### End Context
 
 ### Instructions
-You are responsible for taking the input CDC context and outputting a detailed summary, preserving all technical medical terminology and policies relevant to this question: {query} 
+You are responsible for taking the input CDC context and outputting a detailed summary, preserving all policies guidance relevant to this question: {query} 
 The provided summary should not answer the question, but instead provide all information relevant to the question as well as the document name.
 Do not provide any additional conversational response other than the requested output.
 
