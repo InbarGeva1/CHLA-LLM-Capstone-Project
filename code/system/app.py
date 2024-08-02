@@ -207,6 +207,9 @@ def boot():
         # Generate context summaries
         chla_context = context_chain_chla.invoke({"context": chla_context, "query": query})
         cdc_context = context_chain_cdc.invoke({"context": cdc_context, "query": query})
+
+        st.write(chla_context)
+        st.write(cdc_context)
         
         # Format the prompt with the relevant information
         combined_prompt = prompt_template.format(
