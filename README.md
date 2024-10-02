@@ -1,6 +1,6 @@
 # CHLA-LLM-Capstone-Project
 
-This repository contains the code and resources for the Infection & Prevention Control (IPC) Chatbot developed for Children's Hospital Los Angeles (CHLA). This chatbot provides instant access to CHLA's IPC policy documentation and references CDC guidance using advanced machine learning models. 
+This repository contains the code and resources for the Infection & Prevention Control (IPC) Chatbot developed for Children's Hospital Los Angeles (CHLA). This chatbot provides instant access to CHLA's IPC policy documentation and references CDC guidance using a retrieval-augmented generation (RAG) architecture. 
 
 ## Project Overview
 
